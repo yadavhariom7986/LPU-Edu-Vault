@@ -1,0 +1,680 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 6 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2594 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Python Programming | Unit 4: Functions & Recursive Algorithms) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 1 of 6) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(=== UNIT 4: MODULAR PROGRAMMING, FUNCTIONS & RECURSION ===) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.1 Function Architecture, Parameters and Return Values) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Functions are reusable, named blocks of code designed to perform specific computational) Tj
+T*
+(tasks, promoting code modularity, abstraction, and maintainability:) Tj
+T*
+(* Defining Functions: def function_name\(param1, param2=default_val\): docstring; body;) Tj
+T*
+(return result.) Tj
+T*
+(* Call-by-Object-Reference \(Pass-by-Assignment\): Arguments are passed by object) Tj
+T*
+(reference. If an argument is mutable \(e.g. a list\), modifications made inside the) Tj
+T*
+(function directly mutate the caller's object. If immutable, reassignments remain) Tj
+T*
+(local.) Tj
+T*
+(* Positional vs Keyword Arguments: Arguments can be passed positionally or explicitly) Tj
+T*
+(by name \(key=value\).) Tj
+T*
+(* Arbitrary Argument Lists \(*args and **kwargs\):) Tj
+T*
+(- *args: Packs arbitrary positional arguments into an immutable tuple.) Tj
+T*
+(- **kwargs: Packs arbitrary keyword arguments into a dictionary.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.2 Variable Scope and the LEGB Resolution Rule) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Python resolves variable names following the strict hierarchical LEGB Rule:) Tj
+T*
+(* 1. L \(Local\): Names assigned inside the executing function body.) Tj
+T*
+(* 2. E \(Enclosing\): Names defined in the local scope of enclosing/outer functions) Tj
+T*
+(\(closures\).) Tj
+T*
+(* 3. G \(Global\): Names defined at top-level module scope or declared via global) Tj
+T*
+(keyword.) Tj
+T*
+(* 4. B \(Built-in\): Python pre-loaded built-in functions and constants \(range, len,) Tj
+T*
+(print, int\).) Tj
+T*
+(* The global and nonlocal Keywords: global binds a variable to module-level scope;) Tj
+T*
+(nonlocal binds a variable to the nearest enclosing non-global scope in nested) Tj
+T*
+(functions.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.3 Anonymous Functions \(Lambda Expressions\) and Functional Tools) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Lambda Functions: Syntactic shortcut for small, single-expression anonymous) Tj
+T*
+(functions: lambda arg1, arg2: expression.) Tj
+T*
+(* Functional Primitives:) Tj
+T*
+(- map\(func, iterable\): Applies func to every element of iterable.) Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 2596 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Python Programming | Unit 4: Functions & Recursive Algorithms) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 2 of 6) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(- filter\(predicate, iterable\): Filters elements satisfying predicate\(item\) == True.) Tj
+T*
+(- functools.reduce\(func, iterable\): Cumulatively applies binary func to reduce iterable) Tj
+T*
+(to a single scalar value.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.4 Recursion: Principle, Call Stack and Base Condition) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Recursion is a programming technique where a function calls itself to solve smaller) Tj
+T*
+(sub-problems of the same structure:) Tj
+T*
+(* Essential Components: \(1\) Base Case: Non-recursive termination condition preventing) Tj
+T*
+(infinite recursion. \(2\) Recursive Step: Breaking problem down toward the base case.) Tj
+T*
+(* Call Stack Dynamics: Each recursive invocation pushes a new stack frame \(containing) Tj
+T*
+(local variables, parameters, and return address\) onto the Call Stack. Stack frames) Tj
+T*
+(unwind in LIFO order upon reaching the base case.) Tj
+T*
+(* Recursion Limit: sys.getrecursionlimit\(\) defaults to 1000 in CPython to prevent) Tj
+T*
+(stack overflow errors.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 1: Variable Arguments \(*args, **kwargs\) Summary Engine]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Write a universal mathematical summary function that accepts arbitrary) Tj
+T*
+(numeric arguments via *args, optional configuration flags via **kwargs \(e.g., round_to,) Tj
+T*
+(compute_stats\), and returns formatted analytical metrics.) Tj
+T*
+(Python Source Code:) Tj
+T*
+(def compute_summary\(*args, **kwargs\):) Tj
+T*
+(if not args:) Tj
+T*
+(return {'error': 'No data provided'}) Tj
+T*
+() Tj
+T*
+(total = sum\(args\)) Tj
+T*
+(mean = total / len\(args\)) Tj
+T*
+(sorted_data = sorted\(args\)) Tj
+T*
+(median = sorted_data[len\(args\)//2] if len\(args\) % 2 != 0 else \(sorted_data[len\(args\)//2) Tj
+T*
+(- 1] + sorted_data[len\(args\)//2]\) / 2) Tj
+T*
+() Tj
+T*
+(precision = kwargs.get\('round_to', 2\)) Tj
+T*
+(return {) Tj
+T*
+('count': len\(args\)) Tj
+T*
+('sum': round\(total, precision\)) Tj
+T*
+('mean': round\(mean, precision\)) Tj
+T*
+('median': round\(median, precision\)) Tj
+T*
+('min': min\(args\)) Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 2434 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Python Programming | Unit 4: Functions & Recursive Algorithms) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 3 of 6) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+('max': max\(args\)) Tj
+T*
+(}) Tj
+T*
+() Tj
+T*
+(stats = compute_summary\(45, 88, 12, 90, 67, 34, round_to=3\)) Tj
+T*
+(for k, v in stats.items\(\):) Tj
+T*
+(print\(f'  {k:8s} : {v}'\)) Tj
+T*
+(Execution Trace & Output:) Tj
+T*
+(Input: 6 integers. count: 6, sum: 336, mean: 56.0, median: 56.0, min: 12, max: 90.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 2: Recursive Binary Search Algorithm]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Implement an efficient recursive binary search function that searches) Tj
+T*
+(for target key in a sorted list in O\(log n\) time.) Tj
+T*
+(Python Source Code:) Tj
+T*
+(def binary_search\(arr, low, high, target\):) Tj
+T*
+(if low > high:) Tj
+T*
+(return -1  # Base Case: target not found) Tj
+T*
+() Tj
+T*
+(mid = \(low + high\) // 2) Tj
+T*
+(if arr[mid] == target:) Tj
+T*
+(return mid  # Base Case: target found at mid index) Tj
+T*
+(elif arr[mid] > target:) Tj
+T*
+(return binary_search\(arr, low, mid - 1, target\)  # Search left half) Tj
+T*
+(else:) Tj
+T*
+(return binary_search\(arr, mid + 1, high, target\)  # Search right half) Tj
+T*
+() Tj
+T*
+(data = [11, 23, 34, 45, 56, 67, 78, 89, 90, 99]) Tj
+T*
+(target = 67) Tj
+T*
+(index = binary_search\(data, 0, len\(data\) - 1, target\)) Tj
+T*
+(print\(f'Array: {data}'\)) Tj
+T*
+(print\(f'Element {target} found at index: {index}'\)) Tj
+T*
+(Execution Trace & Output:) Tj
+T*
+(Call 1: low=0, high=9, mid=4 \(arr[4]=56 < 67\) -> Search right \(low=5, high=9\).) Tj
+T*
+(Call 2: low=5, high=9, mid=7 \(arr[7]=89 > 67\) -> Search left \(low=5, high=6\).) Tj
+T*
+(Call 3: low=5, high=6, mid=5 \(arr[5]=67 == 67\) -> Return index 5.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 3: Tower of Hanoi Recursive Solver]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 2336 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Python Programming | Unit 4: Functions & Recursive Algorithms) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 4 of 6) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(Problem Context: Solve the classic Tower of Hanoi problem for N disks moving from source) Tj
+T*
+(rod A to target rod C using auxiliary rod B. Print every individual move.) Tj
+T*
+(Python Source Code:) Tj
+T*
+(move_count = 0) Tj
+T*
+(def tower_of_hanoi\(n, source, target, auxiliary\):) Tj
+T*
+(global move_count) Tj
+T*
+(if n == 1:) Tj
+T*
+(move_count += 1) Tj
+T*
+(print\(f'Step {move_count:2d}: Move disk 1 from {source} -> {target}'\)) Tj
+T*
+(return) Tj
+T*
+(tower_of_hanoi\(n - 1, source, auxiliary, target\)) Tj
+T*
+(move_count += 1) Tj
+T*
+(print\(f'Step {move_count:2d}: Move disk {n} from {source} -> {target}'\)) Tj
+T*
+(tower_of_hanoi\(n - 1, auxiliary, target, source\)) Tj
+T*
+() Tj
+T*
+(disks = 3) Tj
+T*
+(print\(f'Solving Tower of Hanoi for {disks} disks \(Total moves = 2^{disks} - 1 =) Tj
+T*
+({2**disks - 1}\):'\)) Tj
+T*
+(tower_of_hanoi\(disks, 'A', 'C', 'B'\)) Tj
+T*
+(Execution Trace & Output:) Tj
+T*
+(7 moves executed cleanly: Move 1 from A->C, 2 from A->B, 1 from C->B, 3 from A->C, 1) Tj
+T*
+(from B->A, 2 from B->C, 1 from A->C.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 4: Functional Data Pipeline with Map, Filter and Lambda]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Given a list of employee records with salaries, filter employees) Tj
+T*
+(earning below threshold, apply an 8% inflation adjustment raise, and compute total) Tj
+T*
+(payroll using map, filter, and lambda.) Tj
+T*
+(Python Source Code:) Tj
+T*
+(from functools import reduce) Tj
+T*
+() Tj
+T*
+(employees = [) Tj
+T*
+({'name': 'Aarav', 'salary': 45000}) Tj
+T*
+({'name': 'Diya',  'salary': 72000}) Tj
+T*
+({'name': 'Rohan', 'salary': 38000}) Tj
+T*
+({'name': 'Kavita','salary': 85000}) Tj
+T*
+(]) Tj
+T*
+() Tj
+T*
+(# 1. Filter: Employees earning under 70,000) Tj
+T*
+(lower_bracket = list\(filter\(lambda emp: emp['salary'] < 70000, employees\)\)) Tj
+T*
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 2789 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Python Programming | Unit 4: Functions & Recursive Algorithms) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 5 of 6) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+() Tj
+T*
+(# 2. Map: Apply 8% salary adjustment) Tj
+T*
+(adjusted = list\(map\(lambda emp: {**emp, 'salary': round\(emp['salary'] * 1.08\)},) Tj
+T*
+(lower_bracket\)\)) Tj
+T*
+() Tj
+T*
+(# 3. Reduce: Compute total payroll for adjusted cohort) Tj
+T*
+(total_cost = reduce\(lambda acc, emp: acc + emp['salary'], adjusted, 0\)) Tj
+T*
+() Tj
+T*
+(print\('Adjusted Records:', adjusted\)) Tj
+T*
+(print\(f'Total Adjusted Payroll: INR {total_cost:,}'\)) Tj
+T*
+(Execution Trace & Output:) Tj
+T*
+(Filtered: Aarav \(45k\), Rohan \(38k\). Adjusted: Aarav \(48,600\), Rohan \(41,040\). Total) Tj
+T*
+(payroll: INR 89,640.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.5 University Review & Examination Questions) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Q1: Explain the LEGB rule for variable scope resolution in Python with an) Tj
+T*
+(illustrative code example.) Tj
+T*
+(Answer: The LEGB rule defines the sequential lookup order Python uses to resolve) Tj
+T*
+(variable names: \(1\) Local: inside current function. \(2\) Enclosing: enclosing function) Tj
+T*
+(scopes from nearest to outermost. \(3\) Global: module-level variables. \(4\) Built-in:) Tj
+T*
+(Python core built-ins \(e.g. abs, len\). Example: x = 'Global'; def outer\(\): x =) Tj
+T*
+('Enclosing'; def inner\(\): x = 'Local'; print\(x\) \(prints 'Local'\). If 'Local' x is) Tj
+T*
+(commented out, Python checks Enclosing \('Enclosing'\), then Global \('Global'\), and) Tj
+T*
+(finally Built-in.) Tj
+T*
+(* Q2: Explain the call-by-object-reference mechanism in Python and compare the) Tj
+T*
+(effects of passing mutable vs immutable objects.) Tj
+T*
+(Answer: Python passes arguments using 'call-by-object-reference'. The function parameter) Tj
+T*
+(receives a copy of the reference \(pointer\) to the actual object. If the object is) Tj
+T*
+(IMMUTABLE \(int, float, str, tuple\), modifying the parameter inside the function rebinds) Tj
+T*
+(the local variable to a newly created object, leaving the caller's variable unchanged.) Tj
+T*
+(If the object is MUTABLE \(list, dict, set\), in-place mutating methods \(e.g.) Tj
+T*
+(list.append\(\) or dict[key]=val\) directly alter the underlying heap object, and changes) Tj
+T*
+(are immediately reflected in the caller's environment.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.6 Key Takeaways and Revision Points) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* *args packs positional arguments into a tuple; **kwargs packs keyword arguments) Tj
+T*
+(into a dictionary.) Tj
+T*
+(* Scope resolution follows LEGB: Local -> Enclosing -> Global -> Built-in.) Tj
+T*
+ET
+
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 16 0 R >>
+endobj
+16 0 obj
+<< /Length 460 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Python Programming | Unit 4: Functions & Recursive Algorithms) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 6 of 6) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(* Recursive algorithms require a well-defined base case to avoid stack overflow.) Tj
+T*
+(* Lambda functions provide concise inline function expressions.) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000178 00000 n 
+0000000248 00000 n 
+0000000323 00000 n 
+0000000435 00000 n 
+0000003081 00000 n 
+0000003193 00000 n 
+0000005841 00000 n 
+0000005954 00000 n 
+0000008441 00000 n 
+0000008555 00000 n 
+0000010944 00000 n 
+0000011058 00000 n 
+0000013900 00000 n 
+0000014014 00000 n 
+trailer
+<< /Size 17 /Root 1 0 R >>
+startxref
+14526
+%%EOF

@@ -1,0 +1,696 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 6 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2818 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Drawing & AutoCAD | Unit 1: Drawing Foundations & AutoCAD UI) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 1 of 6) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(ENGINEERING DRAWING WITH AUTOCAD) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 10.5 Tf
+(UNIT 1: INTRODUCTION TO ENGINEERING DRAWING & AUTOCAD INTERFACE) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Curriculum: Lovely Professional University | School of Computer Science & Engineering) Tj
+T*
+(Reference: Engineering Drawing with an Introduction to AutoCAD by Dhananjay Jolhe) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 1.1 Conceptual Framework of Engineering Drawing) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Engineering drawing is the universal graphic language of engineers and technicians used) Tj
+T*
+(to communicate technical ideas, geometric specifications, and manufacturing requirements) Tj
+T*
+(without ambiguity:) Tj
+T*
+(* Universal Standards: Governed internationally by ISO \(International Organization) Tj
+T*
+(for Standardization\) and in India by BIS \(Bureau of Indian Standards - SP 46:2003\).) Tj
+T*
+(* Drawing Instruments & Equipment: Drawing board, T-square or Mini-drafter,) Tj
+T*
+(Set-squares \(45-45 and 30-60\), Engineering scale, Clinograph, Compasses \(large and) Tj
+T*
+(spring bow\), Dividers, French curves, Drawing paper sheets.) Tj
+T*
+(* Standard Sheet Sizes \(ISO A-Series based on golden ratio 1:sqrt\(2\) with area of A0) Tj
+T*
+(= 1 sq.m\):) Tj
+T*
+(- A0: 841 mm x 1189 mm \(Area = 1 m^2\)) Tj
+T*
+(- A1: 594 mm x 841 mm) Tj
+T*
+(- A2: 420 mm x 594 mm) Tj
+T*
+(- A3: 297 mm x 420 mm \(Standard engineering lab drawing sheet\)) Tj
+T*
+(- A4: 210 mm x 297 mm \(Standard project report & office documentation\)) Tj
+T*
+(* Title Block: Positioned at bottom-right corner of sheet \(recommended size 185 mm x) Tj
+T*
+(65 mm as per BIS\). Contains: Name of Institution, Project/Assignment Title, Scale,) Tj
+T*
+(Projection Symbol \(1st/3rd Angle\), Drawing Number, Date, and Approver Signatures.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 1.2 Line Types and Graphic Conventions \(BIS SP 46\)) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Engineering lines carry specific semantic meaning based on thickness and pattern:) Tj
+T*
+(* 1. Continuous Thick Line \(Grade H/HB, ~0.5 mm\): Visible outlines, visible edges,) Tj
+T*
+(and crests of screw threads.) Tj
+T*
+(* 2. Continuous Thin Line \(Grade 2H/3H, ~0.25 mm\): Dimension lines, extension lines,) Tj
+T*
+(leader lines, projection lines, construction lines, and hatching/section lines.) Tj
+T*
+(* 3. Continuous Thin Freehand Line: Boundaries of partial or interrupted views and) Tj
+T*
+(sections.) Tj
+T*
+(* 4. Dashed Thin Line \(Grade 2H, ~0.25 mm\): Hidden outlines and hidden edges \(dash) Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 2699 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Drawing & AutoCAD | Unit 1: Drawing Foundations & AutoCAD UI) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 2 of 6) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(length 3 mm, gap 1 mm\).) Tj
+T*
+(* 5. Long-Dashed Dotted Thin / Chain Thin Line: Center lines, lines of symmetry,) Tj
+T*
+(pitch circle diameters of gears, and trajectory paths.) Tj
+T*
+(* 6. Chain Thin Line with Thick Ends: Cutting plane lines indicating where a) Tj
+T*
+(cross-section is taken.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 1.3 Dimensioning Principles and Rules) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Dimensioning is the art of providing precise numerical values of geometric sizes and) Tj
+T*
+(locations:) Tj
+T*
+(* Elements of Dimensioning: Extension line \(projects 2-3 mm past dimension line\),) Tj
+T*
+(Dimension line \(parallel to measured feature\), Arrowheads \(proportions 3:1 length to) Tj
+T*
+(width, fully filled\), Leader line \(thin line inclined at 30-60 deg ending in) Tj
+T*
+(horizontal landing of 2-3 mm\).) Tj
+T*
+(* Dimensioning Systems:) Tj
+T*
+(- 1. Aligned System: Dimensions placed parallel to and above dimension lines. Read from) Tj
+T*
+(bottom or right edge of sheet.) Tj
+T*
+(- 2. Unidirectional System: All dimensions placed horizontally, breaking the dimension) Tj
+T*
+(line near center. Read exclusively from the bottom.) Tj
+T*
+(* Golden Rules: Never cross dimension lines with other lines; dimension outer) Tj
+T*
+(features outside the view; avoid redundant dimensioning; dimension hidden features) Tj
+T*
+(only when unavoidable.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 1.4 Engineering Lettering: Single Stroke Vertical Gothic) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Standard: Lettering must be plain, uniform, and legible as per BIS SP 46.) Tj
+T*
+(* Single Stroke: The thickness of the line is determined by a single pencil stroke) Tj
+T*
+(\(continuous line thickness\).) Tj
+T*
+(* Vertical Gothic: Upright capital letters perpendicular to the baseline.) Tj
+T*
+(Height-to-width ratio typically 7:5 \(except W=7:7, I=7:1\).) Tj
+T*
+(* Standard Heights: 2.5 mm, 3.5 mm, 5.0 mm, 7.0 mm, 10.0 mm, 14.0 mm, 20.0 mm. Titles) Tj
+T*
+(use 7-10 mm; subtitles use 5 mm; dimensions & notes use 3.5 mm.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 1.5 Theory of Engineering Scales) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Scale is the ratio of linear dimensions of an object in a drawing to actual dimensions:) Tj
+T*
+(* Representative Fraction \(RF\): RF = \(Length of object on drawing\) / \(Actual physical) Tj
+T*
+(length of object\). Units in numerator and denominator must match.) Tj
+T*
+(* Types of Scales:) Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 3005 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Drawing & AutoCAD | Unit 1: Drawing Foundations & AutoCAD UI) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 3 of 6) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(- Full Scale \(RF = 1:1\), Reducing Scale \(RF < 1, e.g., 1:2, 1:5, 1:100\), Enlarging Scale) Tj
+T*
+(\(RF > 1, e.g., 2:1, 5:1, 10:1\).) Tj
+T*
+(* Maximum Length to Measure \(ML\) & Length of Scale \(LOS\): LOS = RF x ML.) Tj
+T*
+(* Plain Scales: Measures two consecutive units \(e.g., meters and decimeters, or) Tj
+T*
+(centimeters and millimeters\).) Tj
+T*
+(* Diagonal Scales: Measures three consecutive units or fractions down to two decimal) Tj
+T*
+(places \(e.g., meters, decimeters, centimeters\) using the geometric principle of) Tj
+T*
+(similar right triangles.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 1.6 Introduction to AutoCAD Interface and Environment) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(AutoCAD is the industry-standard Computer-Aided Design software developed by Autodesk:) Tj
+T*
+(* Interface Elements: Application Menu, Quick Access Toolbar, Ribbon Tabs & Panels,) Tj
+T*
+(Drawing Area \(Graphic Window\), Command Line Prompt, Status Bar, UCS Icon, ViewCube.) Tj
+T*
+(* Key Setup Commands:) Tj
+T*
+(- UNITS: Sets unit type \(Decimal, Architectural\) and precision \(e.g., 0.00\).) Tj
+T*
+(- LIMITS: Defines the electronic drawing boundary \(Lower left: 0,0; Upper right: 420,297) Tj
+T*
+(for A3\).) Tj
+T*
+(- ZOOM -> ALL \(Z -> Enter -> A -> Enter\): Resets display to encompass established) Tj
+T*
+(drawing limits.) Tj
+T*
+(* Essential Drafting Aids \(Function Keys\):) Tj
+T*
+(- F1: Help system | F2: Expanded text command window | F3: OSNAP toggle \(Object Snap:) Tj
+T*
+(Endpoint, Midpoint, Center, Intersection\).) Tj
+T*
+(- F7: Grid display toggle | F8: ORTHO mode toggle \(restricts cursor to 0, 90, 180, 270) Tj
+T*
+(deg\).) Tj
+T*
+(- F9: SNAP toggle \(locks cursor to grid increments\) | F10: Polar Tracking | F11: Object) Tj
+T*
+(Snap Tracking.) Tj
+T*
+(- F12: Dynamic Input toggle \(displays command prompts and coordinates directly near) Tj
+T*
+(cursor\).) Tj
+T*
+(* Coordinate Systems: Absolute Cartesian \(X, Y\), Relative Cartesian \(@dX, dY\),) Tj
+T*
+(Relative Polar \(@dist<angle\), and User Coordinate System \(UCS\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROBLEM 1: Construction of a Plain Scale for Architectural Measurement]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Statement: Construct a plain scale of RF = 1:50 to show meters and decimeters,) Tj
+T*
+(capable of measuring up to a maximum distance of 6 meters. Mark a distance of 4.7 meters) Tj
+T*
+(on this scale.) Tj
+T*
+(Mathematical Derivation & Construction Steps:) Tj
+T*
+(* Step 1: Calculate Length of Scale \(LOS\):) Tj
+T*
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 3283 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Drawing & AutoCAD | Unit 1: Drawing Foundations & AutoCAD UI) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 4 of 6) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(- LOS = RF x ML = \(1 / 50\) x 6 m = \(1 / 50\) x 600 cm = 12.0 cm.) Tj
+T*
+(* Step 2: Main Scale Division:) Tj
+T*
+(- Draw a horizontal rectangle of length 12 cm and width 1 cm.) Tj
+T*
+(- Divide the 12 cm length into 6 equal parts using acute angle line division method.) Tj
+T*
+(Each part represents 1 meter \(12 cm / 6 = 2 cm per meter\).) Tj
+T*
+(- Number the main divisions: Label the first division mark from left as 0, then 1, 2, 3,) Tj
+T*
+(4, 5 to the right.) Tj
+T*
+(* Step 3: Sub-Division of First Main Division:) Tj
+T*
+(- The leftmost 1-meter division \(from 0 to the left\) is divided into 10 equal parts.) Tj
+T*
+(Each sub-part represents 1 decimeter \(0.1 m\).) Tj
+T*
+(- Label sub-divisions to the left: 0, 2, 4, 6, 8, 10 decimeters.) Tj
+T*
+(* Step 4: Marking the Target Distance \(4.7 meters\):) Tj
+T*
+(- From the 0 mark, extend a measurement 4 units to the right \(4 meters\).) Tj
+T*
+(- From the 0 mark, extend 7 units to the left \(7 decimeters = 0.7 meters\).) Tj
+T*
+(- Total measured distance = 4 m + 0.7 m = 4.7 m. Draw extension lines and dimension line) Tj
+T*
+(with arrows and label 4.7 m.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROBLEM 2: Design and Construction of a Diagonal Scale]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Statement: On a railway map, an actual distance of 36 km is represented by a 9) Tj
+T*
+(cm line. Construct a diagonal scale to read kilometers, hectometers, and decameters, up) Tj
+T*
+(to a maximum distance of 60 km. Mark a distance of 43.6 km \(or 43 km and 6 hm\).) Tj
+T*
+(Mathematical Derivation & Construction Steps:) Tj
+T*
+(* Step 1: Calculate Representative Fraction \(RF\):) Tj
+T*
+(- RF = Drawing length / Actual length = 9 cm / \(36 km x 1000 m/km x 100 cm/m\) = 9 /) Tj
+T*
+(3,600,000 = 1 / 400,000.) Tj
+T*
+(* Step 2: Calculate Length of Scale \(LOS\):) Tj
+T*
+(- LOS = RF x ML = \(1 / 400,000\) x 60 km = \(1 / 400,000\) x 6,000,000 cm = 15 cm.) Tj
+T*
+(* Step 3: Construction of Scale Outline & Main Divisions:) Tj
+T*
+(- Draw a rectangle of length 15 cm and height 5 cm.) Tj
+T*
+(- Divide the 15 cm length into 6 equal main divisions. Each division represents 10 km) Tj
+T*
+(\(15 cm / 6 = 2.5 cm per 10 km\).) Tj
+T*
+(- Mark 0 at the end of the first division, and label 10, 20, 30, 40, 50 km to the right.) Tj
+T*
+(* Step 4: Division of Secondary Unit \(Kilometers\):) Tj
+T*
+(- Divide the first 10-km division on the left into 10 equal parts. Each part represents) Tj
+T*
+(1 km.) Tj
+T*
+(* Step 5: Diagonal Principle for Tertiary Unit \(Hectometers\):) Tj
+T*
+(- Divide the vertical height of 5 cm into 10 equal parts \(numbered 0 to 10 upwards\).) Tj
+T*
+(Each vertical division represents 1 Hectometer \(1 hm = 0.1 km\).) Tj
+T*
+(- Connect the 0 mark on top to the 1 mark on bottom, creating diagonals of slope.) Tj
+T*
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 3096 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Drawing & AutoCAD | Unit 1: Drawing Foundations & AutoCAD UI) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 5 of 6) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(* Step 6: Marking 43.6 km:) Tj
+T*
+(- Locate 40 km mark on the right of 0.) Tj
+T*
+(- Locate 3 km on the bottom horizontal sub-division left of 0.) Tj
+T*
+(- Move vertically up along the diagonal corresponding to 3 km to the 6th horizontal grid) Tj
+T*
+(line \(representing 6 hm = 0.6 km\).) Tj
+T*
+(- Place arrowheads and dimension line showing exact distance = 43.6 km.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROBLEM 3: Standard BIS Dimensioning Conversion Case Study]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Statement: A mechanical stepped bushing has outer diameter 60 mm, inner bore 30) Tj
+T*
+(mm, step length 40 mm, and overall length 90 mm. Convert an unaligned, chaotic sketch) Tj
+T*
+(into a standard BIS-compliant unidirectional drawing.) Tj
+T*
+(Solution & Engineering Specifications:) Tj
+T*
+(* 1. Placement of Views: Draw Front View with centerline. Place bore hidden lines) Tj
+T*
+(symmetric to centerline.) Tj
+T*
+(* 2. Linear Dimensions: Overall length 90 mm placed 15 mm below bottom edge. Step) Tj
+T*
+(length 40 mm placed 8 mm below bottom edge \(staggered to avoid crossing\).) Tj
+T*
+(* 3. Diametral Dimensions: External diameter indicated as dia 60 \(symbol circle with) Tj
+T*
+(slash\) placed outside the view. Inner bore indicated with leader line and callout:) Tj
+T*
+(dia 30 THRU.) Tj
+T*
+(* 4. Arrowheads: Drawn with 3:1 aspect ratio, sharp point touching extension line,) Tj
+T*
+(completely blackened.) Tj
+T*
+(* 5. Text Alignment: Numerals 90, 40, 60 placed horizontally in gaps cut into) Tj
+T*
+(dimension lines as per unidirectional standards.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROBLEM 4: Complete AutoCAD Setup Workflow for Engineering Drafting]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Objective: Create a standardized engineering drawing template in AutoCAD 2024 for an A3) Tj
+T*
+(lab assignment.) Tj
+T*
+(Step-by-Step AutoCAD Command Execution Protocol:) Tj
+T*
+(* Command 1: UNITS -> Select Decimal, Precision 0.00, Insertion Scale: Millimeters.) Tj
+T*
+(Click OK.) Tj
+T*
+(* Command 2: LIMITS -> Specify lower left corner: 0,0 -> Specify upper right corner:) Tj
+T*
+(420,297.) Tj
+T*
+(* Command 3: ZOOM -> A \(Encompass entire 420x297 mm A3 workspace\).) Tj
+T*
+(* Command 4: LAYER -> Create standard enterprise layers with color and linetype) Tj
+T*
+(coding:) Tj
+T*
+(- Layer 0_Visible: Color White/Black, Linetype Continuous, Lineweight 0.50 mm.) Tj
+T*
+ET
+
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 16 0 R >>
+endobj
+16 0 obj
+<< /Length 1020 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Drawing & AutoCAD | Unit 1: Drawing Foundations & AutoCAD UI) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 6 of 6) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(- Layer Hidden: Color Yellow, Linetype HIDDEN2 \(dash length 3 mm\), Lineweight 0.25 mm.) Tj
+T*
+(- Layer Center: Color Red, Linetype CENTER2 \(long-short-long\), Lineweight 0.25 mm.) Tj
+T*
+(- Layer Dimensions: Color Cyan, Linetype Continuous, Lineweight 0.25 mm.) Tj
+T*
+(- Layer Construction: Color Green, Linetype Continuous, Lineweight 0.15 mm.) Tj
+T*
+(* Command 5: OSNAP -> Enable Endpoint, Midpoint, Center, Intersection, Perpendicular,) Tj
+T*
+(Quadrant.) Tj
+T*
+(* Command 6: RECTANG -> 0,0 to 420,297 \(Sheet border\). OFFSET -> 10 mm inward for) Tj
+T*
+(working boundary \(20 mm on left margin for binding\).) Tj
+T*
+(* Command 7: SAVEAS -> Template format \(*.dwt\) named LPU_CSE_Standard_A3.dwt.) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000178 00000 n 
+0000000248 00000 n 
+0000000323 00000 n 
+0000000435 00000 n 
+0000003305 00000 n 
+0000003417 00000 n 
+0000006168 00000 n 
+0000006281 00000 n 
+0000009339 00000 n 
+0000009453 00000 n 
+0000012789 00000 n 
+0000012903 00000 n 
+0000016052 00000 n 
+0000016166 00000 n 
+trailer
+<< /Size 17 /Root 1 0 R >>
+startxref
+17239
+%%EOF

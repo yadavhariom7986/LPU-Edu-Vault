@@ -1,0 +1,466 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 3073 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Program Orientation - I | Unit 3: Technical Skills, EDA & Prototyping) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Electronics & Communication Engineering) Tj
+340 0 Td
+(Page 1 of 4) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(PROGRAM ORIENTATION - I) Tj
+T*
+(UNIT 3: TECHNICAL SKILLS, EDA TOOLS, COMPETITIONS & CERTIFICATIONS) Tj
+T*
+(Curriculum: Lovely Professional University | School of Electronics & Communication) Tj
+T*
+(Engineering) Tj
+T*
+(Reference: IEEE Student Professional Development Guide & Industry Skill Matrix) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.1 Industry-Standard Hardware Description Languages and EDA Suites) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Modern digital electronic systems are too complex for manual schematic capture and are) Tj
+T*
+(authored through code and automated electronic design automation tools:) Tj
+T*
+(* Hardware Description Languages \(HDLs\):) Tj
+T*
+(- Verilog \(IEEE 1364\): Concise C-like structural and behavioral hardware description) Tj
+T*
+(language.) Tj
+T*
+(- SystemVerilog \(IEEE 1800\): Unified hardware design and verification language) Tj
+T*
+(incorporating Object-Oriented Programming \(classes, inheritance, polymorphism\),) Tj
+T*
+(functional coverage, and SystemVerilog Assertions \(SVA\).) Tj
+T*
+(- VHDL \(IEEE 1076\): Strongly typed, verbose, highly deterministic HDL widely utilized in) Tj
+T*
+(aerospace and defense avionics.) Tj
+T*
+(* Premier Electronic Design Automation \(EDA\) Software Suites:) Tj
+T*
+(- Digital VLSI: Cadence Innovus / Genus, Synopsys Design Compiler / VCS, Siemens) Tj
+T*
+(ModelSim / QuestaSim.) Tj
+T*
+(- Analog / Mixed-Signal ICs: Cadence Virtuoso, Synopsys Custom Compiler, SPICE) Tj
+T*
+(simulators.) Tj
+T*
+(- FPGA Development: AMD Xilinx Vivado Design Suite, Intel Quartus Prime.) Tj
+T*
+(- Printed Circuit Board \(PCB\) Design: Altium Designer, KiCad \(open-source standard\),) Tj
+T*
+(Cadence OrCAD / Allegro.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.2 Programming and Scripting Proficiencies for Hardware Engineers) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Embedded C / C++: Direct pointer arithmetic, volatile qualifiers, bit masking,) Tj
+T*
+(memory-mapped I/O register access, interrupt service routines \(ISRs\).) Tj
+T*
+(* Python for Hardware Engineering: Scripting automated test regressions, parsing EDA) Tj
+T*
+(synthesis timing logs, data acquisition over serial/USB, DSP algorithm prototyping.) Tj
+T*
+(* Tcl \(Tool Command Language\): Universal automation scripting language embedded) Tj
+T*
+(inside all major EDA CAD tools \(Synopsys, Cadence, Vivado\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.3 Hardware Prototyping Platforms and Evaluation Boards) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Microcontroller Platforms:) Tj
+T*
+(- 8-bit / Entry Level: Microchip ATmega328P \(Arduino Uno\), PIC microcontrollers.) Tj
+T*
+(- 32-bit Wireless: Espressif ESP32 \(Dual-core Xtensa, Wi-Fi 802.11 b/g/n, Bluetooth 5.0) Tj
+T*
+(BLE\).) Tj
+T*
+(- 32-bit Industry Standard: STMicroelectronics STM32 \(ARM Cortex-M0/M4/M7 cores,) Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 3292 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Program Orientation - I | Unit 3: Technical Skills, EDA & Prototyping) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Electronics & Communication Engineering) Tj
+340 0 Td
+(Page 2 of 4) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(hardware floating point, high-speed DMA\).) Tj
+T*
+(* Field Programmable Gate Arrays \(FPGAs\): Silicon chips containing arrays of) Tj
+T*
+(reconfigurable logic blocks \(CLBs\), lookup tables \(LUTs\), flip-flops, block RAMs, and) Tj
+T*
+(DSP multipliers. Boards: Digilent Basys 3 \(Artix-7\), PYNQ-Z2 \(Zynq-7000 SoC combining) Tj
+T*
+(dual ARM Cortex-A9 with programmable FPGA fabric\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.4 Laboratory Measurement Instrumentation Mastery) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Digital Storage Oscilloscope \(DSO\): Measures time-varying electrical voltages. Key) Tj
+T*
+(parameters: Bandwidth \(must be at least 5x highest signal frequency\), Real-Time) Tj
+T*
+(Sampling Rate \(GSa/s\), Memory Depth, Triggering Modes \(Edge, Pulse Width, Runt,) Tj
+T*
+(Pattern\).) Tj
+T*
+(* Logic Analyzer: Multi-channel digital state inspector \(8 to 32 channels\). Hardware) Tj
+T*
+(protocol decoding for I2C, SPI, UART, CAN, USB packets.) Tj
+T*
+(* Function / Arbitrary Waveform Generator \(AWG\): Emits precision sine, square, ramp,) Tj
+T*
+(and user-defined modulated test signals.) Tj
+T*
+(* Spectrum Analyzer: Frequency-domain inspection tool displaying signal amplitude) Tj
+T*
+(versus frequency. Vital for RF, harmonics, and EMI compliance.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.5 High-Impact Competitions and Professional Industry Certifications) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* National and International Competitions:) Tj
+T*
+(- Smart India Hackathon \(SIH - Hardware Edition\): Ministry of Education national) Tj
+T*
+(flagship competition.) Tj
+T*
+(- Texas Instruments Innovation Challenge \(TIIC\): Industrial semiconductor design) Tj
+T*
+(challenge.) Tj
+T*
+(- IEEE Xtreme Programming Competition & IEEE Region 10 Student Paper Competitions.) Tj
+T*
+(- Robocon \(Robotics competition\) & Formula Bharat / SAE E-Baja \(electric racecar) Tj
+T*
+(design\).) Tj
+T*
+(* Globally Recognized Professional Certifications:) Tj
+T*
+(- Arm Accredited Engineer \(AAE\): Microcontroller architecture and software optimization.) Tj
+T*
+(- IPC Certified Interconnect Designer \(CID\): Industry certification for PCB designers.) Tj
+T*
+(- Certified LabVIEW Associate Developer \(CLAD - National Instruments\).) Tj
+T*
+(- Cisco Certified Network Associate \(CCNA\).) Tj
+T*
+() Tj
+T*
+([TECHNICAL GUIDE 1: SystemVerilog vs Verilog: Code Architecture Walkthrough]) Tj
+T*
+(Context: Illustrate why the semiconductor industry transitioned from Verilog to) Tj
+T*
+(SystemVerilog for verification.) Tj
+T*
+(Comparative Implementation Walkthrough:) Tj
+T*
+(* 1. Traditional Verilog-2001 \(Design Focus\): Primarily limited to static modules,) Tj
+T*
+(wire/reg types, and always blocks. Testbenches written in Verilog were static,) Tj
+T*
+(non-reusable, and could not generate constrained-random stimulus.) Tj
+T*
+(* 2. SystemVerilog OOP Verification Constructs: Introduces dynamic classes,) Tj
+T*
+(constrained randomization \(rand, constraint blocks\), functional coverage \(covergroup,) Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 3433 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Program Orientation - I | Unit 3: Technical Skills, EDA & Prototyping) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Electronics & Communication Engineering) Tj
+340 0 Td
+(Page 3 of 4) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(coverpoint\), and assertions \(assert property\):) Tj
+T*
+(- class Packet;) Tj
+T*
+(- rand bit [7:0] src_addr, dest_addr;) Tj
+T*
+(- rand bit [31:0] payload[];) Tj
+T*
+(- constraint valid_addr { src_addr != dest_addr; }) Tj
+T*
+(- endclass) Tj
+T*
+(* 3. Verification Productivity: SystemVerilog enables the Universal Verification) Tj
+T*
+(Methodology \(UVM\), allowing engineers to author reusable verification environments) Tj
+T*
+(that discover subtle corner-case timing bugs automatically.) Tj
+T*
+() Tj
+T*
+([TECHNICAL GUIDE 2: Oscilloscope Signal Integrity Troubleshooting Protocol]) Tj
+T*
+(Context: A step-by-step diagnostic workflow for troubleshooting signal distortion,) Tj
+T*
+(ground bounce, and clock ringing on a high-speed digital circuit.) Tj
+T*
+(Laboratory Diagnostic Protocol:) Tj
+T*
+(* 1. Probe Ground Lead Inductance: Standard 6-inch alligator ground clips introduce) Tj
+T*
+(~100 nH stray inductance, causing resonant ringing on fast edges \(rise times < 2 ns\).) Tj
+T*
+(Solution: Remove ground lead and use short ground spring probe directly at decoupling) Tj
+T*
+(capacitor.) Tj
+T*
+(* 2. Bandwidth Verification: Ensure DSO bandwidth >= \(0.35 / rise_time\). For a 1 ns) Tj
+T*
+(rise time clock, minimum oscilloscope bandwidth = 0.35 / 1 ns = 350 MHz.) Tj
+T*
+(* 3. Input Impedance Selection: Use 10x high-impedance passive probe \(10 MOhms, 10) Tj
+T*
+(pF\) to avoid circuit loading; for RF signals > 500 MHz, use 50 Ohm input termination) Tj
+T*
+(to prevent transmission line reflections.) Tj
+T*
+(* 4. Glitch Triggering: Configure DSO trigger to "Pulse Width < Nominal Clock" to) Tj
+T*
+(capture elusive runt pulses and metastability violations.) Tj
+T*
+() Tj
+T*
+([TECHNICAL GUIDE 3: Complete Professional PCB Design and Manufacturing Protocol]) Tj
+T*
+(Context: Walkthrough of the complete engineering pipeline from circuit schematic to) Tj
+T*
+(physical fabricated Printed Circuit Board.) Tj
+T*
+(PCB Manufacturing Protocol:) Tj
+T*
+(* 1. Schematic Capture \(KiCad / Altium\): Connect circuit components logically; define) Tj
+T*
+(net names; assign accurate footprint models.) Tj
+T*
+(* 2. Design Rule Setup: Configure manufacturer clearance constraints \(trace width >=) Tj
+T*
+(6 mil, trace clearance >= 6 mil, drill size >= 0.3 mm\).) Tj
+T*
+(* 3. Component Placement: Place high-speed ICs first; place decoupling capacitors) Tj
+T*
+(within 2 mm of IC power pins; segregate noisy switching power regulators from) Tj
+T*
+(sensitive analog signals.) Tj
+T*
+(* 4. Stackup & Controlled Impedance Routing: Standard 4-layer stackup: Signal \(Top\) -) Tj
+T*
+(Ground Plane - Power Plane - Signal \(Bottom\). Ensure continuous unbroken ground) Tj
+T*
+(reference planes beneath high-speed traces to minimize EMI loop area.) Tj
+T*
+(* 5. Manufacturing Outputs: Generate Gerber files \(RS-274X\), NC Drill files, Bill of) Tj
+T*
+(Materials \(BOM\), and Pick-and-Place centroid files for automated surface-mount) Tj
+T*
+(assembly \(SMT\).) Tj
+T*
+() Tj
+T*
+([TECHNICAL GUIDE 4: Winning Blueprint for National Hardware Hackathons]) Tj
+T*
+(Context: Strategic methodology for university engineering teams competing in elite) Tj
+T*
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 1284 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Program Orientation - I | Unit 3: Technical Skills, EDA & Prototyping) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Electronics & Communication Engineering) Tj
+340 0 Td
+(Page 4 of 4) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(competitions like Smart India Hackathon.) Tj
+T*
+(Strategic Execution Framework:) Tj
+T*
+(* 1. Problem Selection: Select government/industry problem statements having clear) Tj
+T*
+(technical pain points rather than abstract software concepts.) Tj
+T*
+(* 2. The 3-Tier Hardware Architecture: Architect system into: \(1\) Sensor & Telemetry) Tj
+T*
+(Tier, \(2\) Edge Processing & Control Tier, and \(3\) Cloud Dashboard / Mobile App Tier.) Tj
+T*
+(* 3. Rapid Enclosure & PCB Fabrication: Prototype electronic circuits using custom) Tj
+T*
+(CNC-milled or rapid-turnaround PCBs rather than chaotic messy breadboards; house in) Tj
+T*
+(CAD-designed 3D-printed enclosure.) Tj
+T*
+(* 4. Demonstration Strategy: Live demonstrations must be robust against ambient) Tj
+T*
+(interference; incorporate offline local fallback modes in case venue Wi-Fi fails;) Tj
+T*
+(present quantified performance metrics \(e.g. latency, power savings, component cost) Tj
+T*
+(reduction\).) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 13
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000164 00000 n 
+0000000234 00000 n 
+0000000309 00000 n 
+0000000421 00000 n 
+0000003546 00000 n 
+0000003658 00000 n 
+0000007002 00000 n 
+0000007115 00000 n 
+0000010601 00000 n 
+0000010715 00000 n 
+trailer
+<< /Size 13 /Root 1 0 R >>
+startxref
+12052
+%%EOF

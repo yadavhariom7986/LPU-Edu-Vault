@@ -1,0 +1,806 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R] /Count 7 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2771 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Internet Programming | Unit 5: DOM Manipulation & Event Architecture) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 1 of 7) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(=== UNIT 5: DOM MANIPULATION & EVENT-DRIVEN PROGRAMMING ===) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.1 The Document Object Model \(DOM\) Architecture) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(The DOM is the language-neutral W3C standard programming interface that represents HTML) Tj
+T*
+(documents as a structured hierarchy of live objects, enabling scripts to dynamically) Tj
+T*
+(manipulate document structure, styling, and content at runtime:) Tj
+T*
+(* The Window and Document Objects:) Tj
+T*
+(- window: Global root object representing the browser window or tab. Contains Browser) Tj
+T*
+(Object Model \(BOM\) APIs \(navigator, location, history, screen, localStorage\).) Tj
+T*
+(- document: The root child of window representing the parsed HTML document.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.2 DOM Element Selection and Node Traversal) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Modern Selection API: document.getElementById\('id'\),) Tj
+T*
+(document.querySelector\('css_selector'\) \(returns first matching element\),) Tj
+T*
+(document.querySelectorAll\('css_selector'\) \(returns static NodeList of all matching) Tj
+T*
+(elements\).) Tj
+T*
+(* DOM Tree Traversal Properties: .parentNode, .parentElement, .children) Tj
+T*
+(\(HTMLCollection of element children\), .firstElementChild, .lastElementChild,) Tj
+T*
+(.nextElementSibling, .previousElementSibling.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.3 Modifying Content, Attributes and Styles) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Content Modification: .textContent \(safe plain text, strips HTML tags\), .innerText) Tj
+T*
+(\(rendered text aware of CSS styling\), .innerHTML \(parses and inserts HTML markup;) Tj
+T*
+(vulnerable to Cross-Site Scripting - XSS if used with untrusted user input\).) Tj
+T*
+(* Attribute Manipulation: .getAttribute\('attr'\), .setAttribute\('attr', 'value'\),) Tj
+T*
+(.removeAttribute\('attr'\), .hasAttribute\('attr'\). Dedicated property access:) Tj
+T*
+(element.id, element.src, element.href.) Tj
+T*
+(* ClassList API: Best practice for styling: element.classList.add\('class'\),) Tj
+T*
+(.remove\('class'\), .toggle\('class'\), .contains\('class'\), .replace\('old', 'new'\).) Tj
+T*
+(* Direct Element Creation: const el = document.createElement\('tagName'\);) Tj
+T*
+(el.textContent = '...'; parent.appendChild\(el\); parent.insertBefore\(newEl,) Tj
+T*
+(referenceEl\); element.remove\(\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.4 Event-Driven Architecture and Event Listeners) Tj
+T*
+/F1 9 Tf
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 2775 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Internet Programming | Unit 5: DOM Manipulation & Event Architecture) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 2 of 7) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+() Tj
+T*
+(JavaScript in the browser is event-driven: code executes in response to asynchronous) Tj
+T*
+(user actions or browser events:) Tj
+T*
+(* The addEventListener Method: element.addEventListener\(eventType, handlerFunction,) Tj
+T*
+(options\).) Tj
+T*
+(- Advantages: Allows multiple independent listeners on the same event; supports event) Tj
+T*
+(capture phase; works with anonymous arrow functions.) Tj
+T*
+(* Common Event Types: click, dblclick, mousedown, mouseup, mouseenter, mouseleave,) Tj
+T*
+(keydown, keyup, submit, change, input, focus, blur, scroll, resize, DOMContentLoaded.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.5 Event Propagation: Bubbling, Capturing & Event Delegation) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(When an event occurs on a nested child element, it propagates through three sequential) Tj
+T*
+(phases:) Tj
+T*
+(* 1. Capturing \(Trickling\) Phase: Event travels down from window -> document -> body) Tj
+T*
+(-> parent to the target element.) Tj
+T*
+(* 2. Target Phase: Event fires on the target element itself.) Tj
+T*
+(* 3. Bubbling Phase: Event bubbles upward from target -> parent -> body -> document) Tj
+T*
+(-> window.) Tj
+T*
+(* Event Control Methods: event.stopPropagation\(\) \(halts upward bubbling\),) Tj
+T*
+(event.preventDefault\(\) \(cancels default browser action, e.g. prevents form submission) Tj
+T*
+(or link following\).) Tj
+T*
+(* Event Delegation Pattern: Performance optimization where a single event listener is) Tj
+T*
+(attached to a common parent element rather than attaching hundreds of individual) Tj
+T*
+(listeners to child elements. Uses event.target to identify which child triggered the) Tj
+T*
+(event.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 1: Dynamic Interactive Task To-Do Application]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Implement a complete task list manager where users type tasks, click) Tj
+T*
+('Add' to dynamically generate DOM elements, click a task to toggle completion class, and) Tj
+T*
+(click a delete button using Event Delegation.) Tj
+T*
+(HTML & JavaScript Code:) Tj
+T*
+(<div class='todo-app'>) Tj
+T*
+(<input type='text' id='taskInput' placeholder='Enter new assignment...'>) Tj
+T*
+(<button id='addTaskBtn'>Add Task</button>) Tj
+T*
+(<ul id='taskList'></ul>) Tj
+T*
+(</div>) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 2407 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Internet Programming | Unit 5: DOM Manipulation & Event Architecture) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 3 of 7) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(<script>) Tj
+T*
+(const taskInput = document.getElementById\('taskInput'\);) Tj
+T*
+(const addTaskBtn = document.getElementById\('addTaskBtn'\);) Tj
+T*
+(const taskList = document.getElementById\('taskList'\);) Tj
+T*
+() Tj
+T*
+(// Add Task Function) Tj
+T*
+(function addTask\(\) {) Tj
+T*
+(const text = taskInput.value.trim\(\);) Tj
+T*
+(if \(!text\) return alert\('Task description cannot be empty.'\);) Tj
+T*
+() Tj
+T*
+(const li = document.createElement\('li'\);) Tj
+T*
+(li.className = 'task-item';) Tj
+T*
+(li.innerHTML = '<span>'${text}</span> <button class='btn-delete'>&times;</button>';) Tj
+T*
+(taskList.appendChild\(li\);) Tj
+T*
+(taskInput.value = '';) Tj
+T*
+(taskInput.focus\(\);) Tj
+T*
+(}) Tj
+T*
+() Tj
+T*
+(addTaskBtn.addEventListener\('click', addTask\);) Tj
+T*
+(taskInput.addEventListener\('keydown', \(e\) => { if \(e.key === 'Enter'\) addTask\(\); }\);) Tj
+T*
+() Tj
+T*
+(// Event Delegation on parent taskList) Tj
+T*
+(taskList.addEventListener\('click', \(e\) => {) Tj
+T*
+(if \(e.target.classList.contains\('btn-delete'\)\) {) Tj
+T*
+(e.target.closest\('li'\).remove\(\); // Delete task item) Tj
+T*
+(} else if \(e.target.tagName === 'SPAN' || e.target.tagName === 'LI'\) {) Tj
+T*
+(e.target.closest\('li'\).classList.toggle\('completed'\); // Toggle completion) Tj
+T*
+(}) Tj
+T*
+(}\);) Tj
+T*
+(</script>) Tj
+T*
+(Key Features: createElement, innerHTML interpolation, keyboard Enter handling, and) Tj
+T*
+(efficient Event Delegation on taskList.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 2: Real-Time Form Validation with Visual Error States]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Implement real-time client-side form validation for username, email,) Tj
+T*
+(and password strength, intercepting submit via event.preventDefault\(\) and displaying) Tj
+T*
+(dynamic error badges.) Tj
+T*
+(JavaScript Source Code:) Tj
+T*
+(const form = document.getElementById\('signupForm'\);) Tj
+T*
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 2346 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Internet Programming | Unit 5: DOM Manipulation & Event Architecture) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 4 of 7) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(const emailField = document.getElementById\('emailField'\);) Tj
+T*
+(const passField = document.getElementById\('passField'\);) Tj
+T*
+(const errorBox = document.getElementById\('errorBox'\);) Tj
+T*
+() Tj
+T*
+(form.addEventListener\('submit', \(e\) => {) Tj
+T*
+(e.preventDefault\(\); // Stop default form page submission) Tj
+T*
+(let errors = [];) Tj
+T*
+() Tj
+T*
+(const emailRegex = /^[^\\s@]+@[^\\s@]+\\.[^\\s@]+$/;) Tj
+T*
+(if \(!emailRegex.test\(emailField.value\)\) {) Tj
+T*
+(errors.push\('Please provide a valid email address.'\);) Tj
+T*
+(emailField.classList.add\('is-invalid'\);) Tj
+T*
+(} else {) Tj
+T*
+(emailField.classList.remove\('is-invalid'\);) Tj
+T*
+(}) Tj
+T*
+() Tj
+T*
+(if \(passField.value.length < 8\) {) Tj
+T*
+(errors.push\('Password must contain at least 8 characters.'\);) Tj
+T*
+(passField.classList.add\('is-invalid'\);) Tj
+T*
+(} else {) Tj
+T*
+(passField.classList.remove\('is-invalid'\);) Tj
+T*
+(}) Tj
+T*
+() Tj
+T*
+(if \(errors.length > 0\) {) Tj
+T*
+(errorBox.innerHTML = errors.map\(err => '<p class='error-text'>'${err}</p>'\).join\(''\);) Tj
+T*
+(errorBox.classList.remove\('d-none'\);) Tj
+T*
+(} else {) Tj
+T*
+(errorBox.classList.add\('d-none'\);) Tj
+T*
+(alert\('Form validated successfully! Dispatching AJAX payload.'\);) Tj
+T*
+(}) Tj
+T*
+(}\);) Tj
+T*
+(Key Techniques: Regex pattern testing, classList toggle for CSS error styling, and) Tj
+T*
+(preventing default navigation.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 3: Dynamic Theme Switcher with LocalStorage Persistence]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Build a dark/light mode toggle button that manipulates CSS class on the) Tj
+T*
+(<body> tag and persists the user preference across browser restarts using localStorage.) Tj
+T*
+(JavaScript Source Code:) Tj
+T*
+(const themeToggleBtn = document.getElementById\('themeToggleBtn'\);) Tj
+T*
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 2376 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Internet Programming | Unit 5: DOM Manipulation & Event Architecture) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 5 of 7) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+() Tj
+T*
+(// Initialize theme from LocalStorage on page load) Tj
+T*
+(const savedTheme = localStorage.getItem\('user_theme'\) || 'light';) Tj
+T*
+(if \(savedTheme === 'dark'\) {) Tj
+T*
+(document.body.classList.add\('dark-mode'\);) Tj
+T*
+(themeToggleBtn.textContent = 'Switch to Light Mode';) Tj
+T*
+(}) Tj
+T*
+() Tj
+T*
+(themeToggleBtn.addEventListener\('click', \(\) => {) Tj
+T*
+(document.body.classList.toggle\('dark-mode'\);) Tj
+T*
+(const isDark = document.body.classList.contains\('dark-mode'\);) Tj
+T*
+() Tj
+T*
+(// Save state to LocalStorage) Tj
+T*
+(localStorage.setItem\('user_theme', isDark ? 'dark' : 'light'\);) Tj
+T*
+(themeToggleBtn.textContent = isDark ? 'Switch to Light Mode' : 'Switch to Dark Mode';) Tj
+T*
+(}\);) Tj
+T*
+(Key API: localStorage.setItem and getItem combined with document.body.classList.toggle.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 4: Modal Dialog with Keyboard Accessibility]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Build an accessible modal popup window that opens on button click,) Tj
+T*
+(closes on backdrop click or close-button click, and closes when the user presses the) Tj
+T*
+('Escape' key.) Tj
+T*
+(JavaScript Source Code:) Tj
+T*
+(const openModalBtn = document.getElementById\('openModalBtn'\);) Tj
+T*
+(const closeModalBtn = document.getElementById\('closeModalBtn'\);) Tj
+T*
+(const modalBackdrop = document.getElementById\('modalBackdrop'\);) Tj
+T*
+() Tj
+T*
+(function openModal\(\) {) Tj
+T*
+(modalBackdrop.classList.add\('show'\);) Tj
+T*
+(modalBackdrop.setAttribute\('aria-hidden', 'false'\);) Tj
+T*
+(}) Tj
+T*
+(function closeModal\(\) {) Tj
+T*
+(modalBackdrop.classList.remove\('show'\);) Tj
+T*
+(modalBackdrop.setAttribute\('aria-hidden', 'true'\);) Tj
+T*
+(}) Tj
+T*
+() Tj
+T*
+(openModalBtn.addEventListener\('click', openModal\);) Tj
+T*
+(closeModalBtn.addEventListener\('click', closeModal\);) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 16 0 R >>
+endobj
+16 0 obj
+<< /Length 3009 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Internet Programming | Unit 5: DOM Manipulation & Event Architecture) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 6 of 7) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(// Close when clicking outside modal content) Tj
+T*
+(modalBackdrop.addEventListener\('click', \(e\) => {) Tj
+T*
+(if \(e.target === modalBackdrop\) closeModal\(\);) Tj
+T*
+(}\);) Tj
+T*
+() Tj
+T*
+(// Keyboard accessibility: Close on Escape key) Tj
+T*
+(document.addEventListener\('keydown', \(e\) => {) Tj
+T*
+(if \(e.key === 'Escape' && modalBackdrop.classList.contains\('show'\)\) {) Tj
+T*
+(closeModal\(\);) Tj
+T*
+(}) Tj
+T*
+(}\);) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.6 University Review & Examination Questions) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Q1: Explain Event Bubbling and Event Capturing in the DOM event flow, detailing how) Tj
+T*
+(Event Delegation exploits this architecture.) Tj
+T*
+(Answer: When an event occurs on a target DOM element, browser event propagation executes) Tj
+T*
+(in three phases: \(1\) Capturing phase: the event trickles down from the window, document,) Tj
+T*
+(and ancestor nodes down to the target. \(2\) Target phase: the event triggers on the) Tj
+T*
+(element itself. \(3\) Bubbling phase: the event bubbles upward through parent ancestors) Tj
+T*
+(back to window. Event Delegation is a high-performance design pattern that leverages) Tj
+T*
+(bubbling: instead of binding hundreds of event listeners to individual child elements) Tj
+T*
+(\(e.g. <li> items in a large list\), a single listener is placed on the parent container) Tj
+T*
+(\(<ul>\). When any child is clicked, the event bubbles up to the parent; the parent) Tj
+T*
+(handler checks event.target to process the action, drastically reducing memory usage and) Tj
+T*
+(automatically supporting dynamically injected child elements.) Tj
+T*
+(* Q2: Differentiate between 'textContent', 'innerText', and 'innerHTML' in DOM) Tj
+T*
+(scripting, highlighting security considerations regarding XSS attacks.) Tj
+T*
+(Answer: 'textContent' retrieves or sets raw text content of a node and all descendants,) Tj
+T*
+(including hidden text \(<script>, <style>\), without parsing HTML markup. 'innerText') Tj
+T*
+(returns rendered visible text, taking CSS styling and layout into account \(e.g. ignores) Tj
+T*
+(text hidden by display: none\). 'innerHTML' retrieves or sets raw HTML markup inside an) Tj
+T*
+(element, instructing the browser engine to parse strings into DOM elements. Security) Tj
+T*
+(Concern: Using 'innerHTML' with untrusted user-supplied input creates severe Cross-Site) Tj
+T*
+(Scripting \(XSS\) vulnerabilities, enabling attackers to inject malicious <script> tags or) Tj
+T*
+(<img onerror='...'> payloads to steal cookies and session tokens. Safe applications use) Tj
+T*
+('textContent' or dedicated DOM construction methods.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.7 Key Takeaways and Revision Points) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+ET
+
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 18 0 R >>
+endobj
+18 0 obj
+<< /Length 705 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Internet Programming | Unit 5: DOM Manipulation & Event Architecture) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 7 of 7) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(* querySelector and querySelectorAll provide modern CSS-selector based DOM lookup.) Tj
+T*
+(* Use classList \(add, remove, toggle\) rather than direct inline style assignment.) Tj
+T*
+(* Event Delegation binds a single listener to a parent element, leveraging event) Tj
+T*
+(bubbling.) Tj
+T*
+(* Never assign un-sanitized user input to innerHTML to prevent Cross-Site Scripting) Tj
+T*
+(\(XSS\).) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 19
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000185 00000 n 
+0000000255 00000 n 
+0000000330 00000 n 
+0000000442 00000 n 
+0000003265 00000 n 
+0000003377 00000 n 
+0000006204 00000 n 
+0000006317 00000 n 
+0000008777 00000 n 
+0000008891 00000 n 
+0000011290 00000 n 
+0000011404 00000 n 
+0000013833 00000 n 
+0000013947 00000 n 
+0000017009 00000 n 
+0000017123 00000 n 
+trailer
+<< /Size 19 /Root 1 0 R >>
+startxref
+17880
+%%EOF

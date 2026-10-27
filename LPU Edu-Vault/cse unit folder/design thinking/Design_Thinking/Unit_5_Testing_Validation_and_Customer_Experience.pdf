@@ -1,0 +1,570 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2758 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Design Thinking | Unit 5: Testing, Validation & CX) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 1 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(=== UNIT 5: TESTING, VALIDATION & CUSTOMER EXPERIENCE \(CX\) ===) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.1 Principles of Neutral, Rigorous User Testing) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Testing is the iterative phase where prototypes are placed into the hands of real users) Tj
+T*
+(in authentic operational environments to validate or invalidate core design assumptions:) Tj
+T*
+(* The 'Show, Don't Tell' Axiom: Never explain or defend the prototype. Hand the) Tj
+T*
+(product to the user, state the task scenario, and observe in silence. If a user) Tj
+T*
+(stumbles, it indicates a product design flaw, NOT user ineptitude.) Tj
+T*
+(* Thinking-Aloud Protocol \(Ericsson & Simon\): Test participants are instructed to) Tj
+T*
+(verbalize their thoughts, expectations, confusions, and emotional reactions) Tj
+T*
+(continuously while navigating the prototype.) Tj
+T*
+(* Neutral Task Scenarios: Avoid leading questions. Instead of asking 'Click the green) Tj
+T*
+(checkout button', frame real-world objectives: 'Imagine you want to buy two tickets) Tj
+T*
+(for tomorrow's 7 PM show; go ahead and complete your booking.') Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.2 The Feedback Capture Matrix) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(A four-quadrant structured analytical grid used by design observers during user testing:) Tj
+T*
+(* Likes \(+\): Features, workflows, and emotional aspects the user praised or navigated) Tj
+T*
+(effortlessly.) Tj
+T*
+(* Criticisms \(Delta / -\): Pain points, navigational bottlenecks, visual confusion,) Tj
+T*
+(and explicit complaints.) Tj
+T*
+(* Questions \(?\): Confusions, uncertainties, and queries raised by users during the) Tj
+T*
+(session.) Tj
+T*
+(* Ideas \(!\): Spontaneous feature suggestions and novel workarounds conceived during) Tj
+T*
+(testing.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.3 Customer Experience \(CX\) and User Journey Mapping) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* User Journey Map: A comprehensive chronological timeline illustrating a user's) Tj
+T*
+(multi-stage interactions with a service ecosystem \(Awareness -> Evaluation ->) Tj
+T*
+(Purchase -> Onboarding -> Daily Use -> Support -> Churn\).) Tj
+T*
+(* Touchpoints: Specific moments of interaction between customer and service \(e.g.) Tj
+T*
+(mobile push notification, customer support phone call, error modal\).) Tj
+T*
+(* Emotional Arc: Tracking user sentiment across each stage to identify acute 'Pain) Tj
+T*
+(Points' and celebrate 'Moments of Delight'.) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 3058 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Design Thinking | Unit 5: Testing, Validation & CX) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 2 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.4 Usability Heuristics and Universal Accessibility) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Jakob Nielsen's 10 Usability Heuristics for UI Design:) Tj
+T*
+(- 1. Visibility of system status \(appropriate real-time feedback within reasonable) Tj
+T*
+(time\).) Tj
+T*
+(- 2. Match between system and the real world \(familiar user language, concepts, and) Tj
+T*
+(metaphors\).) Tj
+T*
+(- 3. User control and freedom \(clear emergency exits, undo, and redo actions\).) Tj
+T*
+(- 4. Consistency and standards \(platform conventions; words mean the same across) Tj
+T*
+(screens\).) Tj
+T*
+(- 5. Error prevention \(proactive design preventing errors before they occur\).) Tj
+T*
+(- 6. Recognition rather than recall \(minimize user memory load; visible options\).) Tj
+T*
+(- 7. Flexibility and efficiency of use \(keyboard shortcuts and accelerators for) Tj
+T*
+(experts\).) Tj
+T*
+(- 8. Aesthetic and minimalist design \(no irrelevant or rarely needed information\).) Tj
+T*
+(- 9. Help users recognize, diagnose, and recover from errors \(plain language error) Tj
+T*
+(messages\).) Tj
+T*
+(- 10. Help and documentation \(concise, searchable, task-oriented help\).) Tj
+T*
+(* Universal Accessibility \(WCAG 2.1\): Pour Principles \(Perceivable, Operable,) Tj
+T*
+(Understandable, Robust\) ensuring usability for individuals with visual, auditory,) Tj
+T*
+(cognitive, and motor impairments.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([CASE STUDY 1: Nielsen Usability Audit on E-Commerce Checkout]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: An e-commerce platform experienced a 68% shopping cart abandonment rate) Tj
+T*
+(on its final checkout page.) Tj
+T*
+(Heuristic Evaluation Findings:) Tj
+T*
+(- Violation of Heuristic #1 \(Visibility of System Status\): When users clicked 'Pay Now',) Tj
+T*
+(the screen froze for 4 seconds without a spinner or progress bar. Anxious users clicked) Tj
+T*
+(repeatedly, resulting in double-billing.) Tj
+T*
+(- Violation of Heuristic #3 \(User Control & Freedom\): If a user made a typo in their) Tj
+T*
+(shipping address, the back button cleared their entire credit card details.) Tj
+T*
+(- Violation of Heuristic #5 \(Error Prevention\): Allowed users to enter credit card) Tj
+T*
+(numbers without automatic spacing or format validation.) Tj
+T*
+(Design Interventions: Implemented real-time field validation, sticky cart summaries,) Tj
+T*
+(visual progress indicators, and one-click address editing.) Tj
+T*
+(Measurable Results: Shopping cart abandonment dropped from 68% to 27%, generating $3.4M) Tj
+T*
+(in incremental revenue.) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 3199 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Design Thinking | Unit 5: Testing, Validation & CX) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 3 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([CASE STUDY 2: Feedback Capture Matrix for a Smart Irrigation App]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: A smart agriculture mobile app was tested with 12 smallholder farmers) Tj
+T*
+(in Punjab.) Tj
+T*
+(Feedback Capture Matrix Results:) Tj
+T*
+(- Likes \(+\): Clean visual icons for soil moisture; one-tap emergency pump shutoff.) Tj
+T*
+(- Criticisms \(Delta\): Font size too small to read under direct bright sunlight; app) Tj
+T*
+(crashed when mobile data connection dropped.) Tj
+T*
+(- Questions \(?\): 'What does pH 6.8 mean for wheat?' 'Does the water schedule adjust if) Tj
+T*
+(it rains tonight?') Tj
+T*
+(- Ideas \(!\): Add local voice audio instructions in Punjabi; integrate rainfall radar) Tj
+T*
+(forecasts automatically.) Tj
+T*
+(Iteration Decisions: Implemented high-contrast sunlight display mode, local Punjabi) Tj
+T*
+(voice prompts, and automated offline moisture caching.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([CASE STUDY 3: Customer Journey Map for Electric Vehicle Charging]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: EV drivers reported charging anxiety and frustrating charging station) Tj
+T*
+(experiences.) Tj
+T*
+(Customer Journey Mapping Across 5 Stages:) Tj
+T*
+(1. Route Planning: User searches for charging station on mobile app. \(Sentiment:) Tj
+T*
+(Neutral\).) Tj
+T*
+(2. Arrival: Finds charging bay blocked by gasoline vehicle or station out of order.) Tj
+T*
+(\(Sentiment: Intense Anger - Major Pain Point!\).) Tj
+T*
+(3. Plugin & Authentication: Required downloading a proprietary third-party app and) Tj
+T*
+(entering credit card manually in the rain. \(Sentiment: High Frustration\).) Tj
+T*
+(4. Charging: Waited 45 minutes with no indoor shelter or amenities nearby. \(Sentiment:) Tj
+T*
+(Boredom\).) Tj
+T*
+(5. Payment: Received billing receipt without kWh consumption breakdown. \(Sentiment:) Tj
+T*
+(Mistrust\).) Tj
+T*
+(Redesign Intervention: Implemented Plug-and-Charge ISO 15118 \(automatic vehicle) Tj
+T*
+(authentication on cable insertion\) and live bay camera occupancy detection.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([CASE STUDY 4: Accessibility Redesign \(WCAG\) for Municipal Services]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: A municipal citizen portal faced legal action for violating web) Tj
+T*
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 3197 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Design Thinking | Unit 5: Testing, Validation & CX) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 4 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(accessibility standards for visually impaired and elderly residents.) Tj
+T*
+(Audit Discoveries & WCAG 2.1 Remediations:) Tj
+T*
+(- Perceivable: Gray text on light gray background failed 4.5:1 contrast ratio. Replaced) Tj
+T*
+(with 7:1 high-contrast palette.) Tj
+T*
+(- Operable: Forms could only be submitted via mouse click. Restructured DOM tab-indexes) Tj
+T*
+(for complete keyboard-only navigation.) Tj
+T*
+(- Understandable: Complex legal notices were rewritten in plain Grade 6 English with) Tj
+T*
+(screen-reader friendly ARIA labels.) Tj
+T*
+(- Robust: All public service forms were refactored to support screen readers \(NVDA,) Tj
+T*
+(JAWS\) and mobile assistive voiceover.) Tj
+T*
+(Outcome: Portal achieved full WCAG AAA certification; citizen online tax filing) Tj
+T*
+(increased by 42%.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.5 University Review & Examination Questions) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Q1: Explain the 'Show, Don't Tell' philosophy of user testing, illustrating how a) Tj
+T*
+(facilitator should handle a user struggling with a prototype.) Tj
+T*
+(Answer: 'Show, Don't Tell' asserts that a prototype should communicate its own) Tj
+T*
+(functionality without external defense or explanation from the design team. The) Tj
+T*
+(objective of testing is not to prove that the prototype works, but to discover where and) Tj
+T*
+(why the design fails to match the user's natural mental model. When a user stumbles or) Tj
+T*
+(makes an error, the facilitator must resist the impulse to intervene or guide them.) Tj
+T*
+(Instead, the facilitator remains silent or gently prompts: 'I see you hesitated there;) Tj
+T*
+(what were you expecting to happen?' Documenting where the user gets stuck provides the) Tj
+T*
+(raw data needed to redesign the interface.) Tj
+T*
+(* Q2: Enumerate five of Jakob Nielsen's Usability Heuristics, providing concrete) Tj
+T*
+(examples of UI designs that violate and satisfy each.) Tj
+T*
+(Answer: \(1\) Visibility of System Status: Violation - clicking a button causes a freeze) Tj
+T*
+(with no indicator; Satisfied - animated loading spinner and progress bar. \(2\) Match) Tj
+T*
+(between System and Real World: Violation - clinical software showing error code) Tj
+T*
+('ERR_0x882'; Satisfied - plain English message 'Invalid patient dosage'. \(3\) User) Tj
+T*
+(Control and Freedom: Violation - no cancel button during long upload; Satisfied -) Tj
+T*
+(prominent 'Cancel' and 'Undo' buttons. \(4\) Error Prevention: Violation - allowing users) Tj
+T*
+(to book airline tickets with departure dates after return dates; Satisfied - calendar) Tj
+T*
+(greyouts preventing invalid date selection. \(5\) Recognition over Recall: Violation -) Tj
+T*
+(requiring users to remember previously typed SKU numbers; Satisfied - autocomplete) Tj
+T*
+(search dropdown displaying product image and name.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.6 Key Takeaways and Revision Points) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 659 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Design Thinking | Unit 5: Testing, Validation & CX) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 5 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(* Test with real users; never defend or explain the prototype during testing.) Tj
+T*
+(* The Feedback Capture Matrix organizes Likes, Criticisms, Questions, and Ideas.) Tj
+T*
+(* Customer Journey Maps plot emotional sentiment across every ecosystem touchpoint.) Tj
+T*
+(* Nielsen's 10 heuristics serve as the universal foundation of usable interface) Tj
+T*
+(design.) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000171 00000 n 
+0000000241 00000 n 
+0000000316 00000 n 
+0000000428 00000 n 
+0000003238 00000 n 
+0000003350 00000 n 
+0000006460 00000 n 
+0000006573 00000 n 
+0000009825 00000 n 
+0000009939 00000 n 
+0000013189 00000 n 
+0000013303 00000 n 
+trailer
+<< /Size 15 /Root 1 0 R >>
+startxref
+14014
+%%EOF

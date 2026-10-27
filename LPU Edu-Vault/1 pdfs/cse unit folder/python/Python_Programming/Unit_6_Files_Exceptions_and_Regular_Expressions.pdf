@@ -1,0 +1,12241 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R 35 0 R 37 0 R 39 0 R 41 0 R 43 0 R 45 0 R 47 0 R 49 0 R 51 0 R 53 0 R 55 0 R 57 0 R 59 0 R 61 0 R 63 0 R 65 0 R 67 0 R 69 0 R 71 0 R 73 0 R 75 0 R 77 0 R 79 0 R 81 0 R 83 0 R] /Count 41 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 4 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 8320 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 6: FILES, EXCEPTIONS AND REGULAR EXPRESSIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 1 of 41) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(1.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Which built-in function is used to open files) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(and return a file stream object in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(file\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(open\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(read\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(fopen\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(2.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(What is the default file opening mode if the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(mode argument is omitted in open\('data.txt'\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+('w' \(write\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+('r' \(read text mode\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+('a' \(append\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+('rb' \(read binary\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(3.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(Which file mode truncates an existing file to) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(zero length or creates a new file for writing?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.5001 Td
+('r') Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.9001 Td
+('w') Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.3002 Td
+('a') Tj
+ET
+BT
+/F2 7.4 Tf
+58 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 587.7002 Td
+('x') Tj
+ET
+BT
+/F2 8.0 Tf
+42 564.1002 Td
+(4.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(Which file mode opens a file for writing without) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(truncating, appending all new data at the end?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 543.2002 Td
+('r') Tj
+ET
+BT
+/F2 7.4 Tf
+58 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 533.6002 Td
+('w') Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.0002 Td
+('a') Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.4003 Td
+('r+') Tj
+ET
+BT
+/F2 8.0 Tf
+42 490.8003 Td
+(5.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 490.8003 Td
+(Which file mode opens a file for exclusive) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6003 Td
+(creation, failing if the file already exists?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 469.9002 Td
+('w') Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.3002 Td
+('a') Tj
+ET
+BT
+/F2 7.4 Tf
+58 450.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 450.7002 Td
+('x') Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.1002 Td
+('r+') Tj
+ET
+BT
+/F2 8.0 Tf
+42 417.5002 Td
+(6.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 417.5002 Td
+(Which statement guarantees that a file is closed) Tj
+ET
+BT
+/F1 7.8 Tf
+58 408.3002 Td
+(immediately when execution leaves the block,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 399.1002 Td
+(even if exceptions occur?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 387.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 387.4002 Td
+(try-except statement) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.8002 Td
+(with statement \(Context Manager\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 368.2002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 368.2002 Td
+(finally block only) Tj
+ET
+BT
+/F2 7.4 Tf
+58 358.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 358.6002 Td
+(close\(\) method) Tj
+ET
+BT
+/F2 8.0 Tf
+42 335.0002 Td
+(7.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.0002 Td
+(Which file method reads the entire remaining) Tj
+ET
+BT
+/F1 7.8 Tf
+58 325.8001 Td
+(content of a file as a single string?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 314.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 314.1001 Td
+(readline\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.5001 Td
+(read\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 294.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 294.9001 Td
+(readlines\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 285.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 285.3001 Td
+(readall\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(8.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Which file method reads a single line terminated) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(by a newline character '\\n'?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(read\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(readline\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(readlines\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(peek\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(9.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(Which file method reads all lines from a file) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(and returns them as a list of strings?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(read\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(readline\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(readlines\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(listfile\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(10.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(What is the most memory-efficient way to iterate) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(through a massive multi-gigabyte text file) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(line-by-line?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.3001 Td
+(for line in file.readlines\(\):) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.7001 Td
+(for line in file:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.1002 Td
+(content = file.read\(\).splitlines\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 578.5002 Td
+(while file.read\(\):) Tj
+ET
+BT
+/F2 8.0 Tf
+306 554.9002 Td
+(11.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(Which method writes a string to a file without) Tj
+ET
+BT
+/F1 7.8 Tf
+322 545.7002 Td
+(automatically adding a trailing newline) Tj
+ET
+BT
+/F1 7.8 Tf
+322 536.5002 Td
+(character?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.8002 Td
+(write\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 515.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 515.2002 Td
+(writeline\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 505.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 505.6002 Td
+(print\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 496.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 496.0002 Td
+(put\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 472.4002 Td
+(12.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 472.4002 Td
+(Which method writes a sequence \(list\) of strings) Tj
+ET
+BT
+/F1 7.8 Tf
+322 463.2002 Td
+(to a file?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 451.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 451.5002 Td
+(write_all\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.9001 Td
+(writelines\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 432.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 432.3001 Td
+(writelist\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 422.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 422.7001 Td
+(dump\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 399.1001 Td
+(13.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 399.1001 Td
+(Which method moves the file stream read/write) Tj
+ET
+BT
+/F1 7.8 Tf
+322 389.9001 Td
+(pointer to a specified byte offset?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 378.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 378.2001 Td
+(seek\(offset, whence\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 368.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 368.6001 Td
+(tell\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 359.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 359.0001 Td
+(move\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 349.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 349.4001 Td
+(jump\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 325.8001 Td
+(14.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 325.8001 Td
+(Which method returns the current integer byte) Tj
+ET
+BT
+/F1 7.8 Tf
+322 316.6001 Td
+(offset of the file pointer?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.9001 Td
+(seek\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 295.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 295.3 Td
+(tell\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 285.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 285.7 Td
+(pos\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 276.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 276.1 Td
+(cursor\(\)) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 6 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+6 0 obj
+<< /Length 8801 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 6: FILES, EXCEPTIONS AND REGULAR EXPRESSIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 2 of 41) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(15.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Which standard library module provides operating) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(system dependent functionality like file paths) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(and directories?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(sys) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.3 Td
+(os) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.7 Td
+(file) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.1 Td
+(platform) Tj
+ET
+BT
+/F2 8.0 Tf
+42 701.5001 Td
+(16.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(Which module introduced in Python 3.4 provides) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.3 Td
+(an object-oriented filesystem path abstraction?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.6 Td
+(os.path) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.0001 Td
+(pathlib) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.4001 Td
+(filepath) Tj
+ET
+BT
+/F2 7.4 Tf
+58 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 651.8001 Td
+(glob) Tj
+ET
+BT
+/F2 8.0 Tf
+42 628.2001 Td
+(17.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(What is Object Serialization in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.5001 Td
+(Encrypting source code with AES) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.9001 Td
+(Translating an in-memory object hierarchy) Tj
+ET
+BT
+/F1 7.4 Tf
+72 598.3002 Td
+(into a byte stream for storage or) Tj
+ET
+BT
+/F1 7.4 Tf
+72 589.7002 Td
+(transmission) Tj
+ET
+BT
+/F2 7.4 Tf
+58 580.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 580.1002 Td
+(Compiling Python into C++) Tj
+ET
+BT
+/F2 7.4 Tf
+58 570.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 570.5002 Td
+(Compressing text with gzip) Tj
+ET
+BT
+/F2 8.0 Tf
+42 546.9003 Td
+(18.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 546.9003 Td
+(Which built-in module handles native binary) Tj
+ET
+BT
+/F1 7.8 Tf
+58 537.7003 Td
+(object serialization and deserialization in) Tj
+ET
+BT
+/F1 7.8 Tf
+58 528.5002 Td
+(Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 516.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 516.8002 Td
+(json) Tj
+ET
+BT
+/F2 7.4 Tf
+58 507.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 507.2002 Td
+(pickle) Tj
+ET
+BT
+/F2 7.4 Tf
+58 497.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 497.6002 Td
+(marshal) Tj
+ET
+BT
+/F2 7.4 Tf
+58 488.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 488.0002 Td
+(csv) Tj
+ET
+BT
+/F2 8.0 Tf
+42 464.4002 Td
+(19.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 464.4002 Td
+(Which function in the pickle module serializes a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 455.2002 Td
+(Python object and writes it directly to an open) Tj
+ET
+BT
+/F1 7.8 Tf
+58 446.0002 Td
+(binary file?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 434.3002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 434.3002 Td
+(pickle.dump\(obj, file\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 424.7002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 424.7002 Td
+(pickle.dumps\(obj\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 415.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 415.1002 Td
+(pickle.write\(obj, file\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 405.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 405.5002 Td
+(pickle.save\(obj, file\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 381.9001 Td
+(20.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 381.9001 Td
+(Which function in the pickle module deserializes) Tj
+ET
+BT
+/F1 7.8 Tf
+58 372.7001 Td
+(an object from an open binary file?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 361.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 361.0001 Td
+(pickle.load\(file\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 351.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 351.4001 Td
+(pickle.loads\(bytes\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 341.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 341.8001 Td
+(pickle.read\(file\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 332.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 332.2001 Td
+(pickle.fetch\(file\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 308.6001 Td
+(21.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 308.6001 Td
+(Which keyword initiates an exception handling) Tj
+ET
+BT
+/F1 7.8 Tf
+58 299.4001 Td
+(block in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 287.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 287.7001 Td
+(catch) Tj
+ET
+BT
+/F2 7.4 Tf
+58 278.1001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 278.1001 Td
+(try) Tj
+ET
+BT
+/F2 7.4 Tf
+58 268.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 268.5001 Td
+(handle) Tj
+ET
+BT
+/F2 7.4 Tf
+58 258.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 258.9001 Td
+(guard) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(22.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Which keyword captures and handles exceptions) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(raised inside a try block?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(catch) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(except) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(error) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(rescue) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(23.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(When does the 'else' block attached to a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(try-except statement execute?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(Whenever an exception occurs) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(Only if NO exception was raised in the try) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.6001 Td
+(block) Tj
+ET
+BT
+/F2 7.4 Tf
+322 662.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 662.0001 Td
+(Always after except) Tj
+ET
+BT
+/F2 7.4 Tf
+322 652.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 652.4001 Td
+(Only if a finally block is omitted) Tj
+ET
+BT
+/F2 8.0 Tf
+306 628.8002 Td
+(24.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.8002 Td
+(When does the 'finally' block attached to a try) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.6002 Td
+(statement execute?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 607.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.9001 Td
+(Only if an exception is raised) Tj
+ET
+BT
+/F2 7.4 Tf
+322 598.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 598.3002 Td
+(Only if no exception is raised) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.7002 Td
+(Always, regardless of whether exceptions) Tj
+ET
+BT
+/F1 7.4 Tf
+336 580.1002 Td
+(were raised or caught) Tj
+ET
+BT
+/F2 7.4 Tf
+322 570.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 570.5002 Td
+(Only during system shutdown) Tj
+ET
+BT
+/F2 8.0 Tf
+306 546.9003 Td
+(25.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 546.9003 Td
+(Which exception is raised when dividing an) Tj
+ET
+BT
+/F1 7.8 Tf
+322 537.7003 Td
+(integer or float by zero?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 526.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 526.0002 Td
+(ArithmeticError) Tj
+ET
+BT
+/F2 7.4 Tf
+322 516.4003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 516.4003 Td
+(ZeroDivisionError) Tj
+ET
+BT
+/F2 7.4 Tf
+322 506.8003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 506.8003 Td
+(DivisionByZeroException) Tj
+ET
+BT
+/F2 7.4 Tf
+322 497.2003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 497.2003 Td
+(MathError) Tj
+ET
+BT
+/F2 8.0 Tf
+306 473.6003 Td
+(26.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 473.6003 Td
+(Which exception is raised when trying to open a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 464.4002 Td
+(non-existent file for reading?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 452.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 452.7002 Td
+(FileMissingException) Tj
+ET
+BT
+/F2 7.4 Tf
+322 443.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 443.1002 Td
+(FileNotFoundError \(subclass of OSError\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 433.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 433.5002 Td
+(IOError) Tj
+ET
+BT
+/F2 7.4 Tf
+322 423.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 423.9002 Td
+(PathError) Tj
+ET
+BT
+/F2 8.0 Tf
+306 400.3002 Td
+(27.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 400.3002 Td
+(Which exception is raised when an operation) Tj
+ET
+BT
+/F1 7.8 Tf
+322 391.1002 Td
+(receives an argument of right type but) Tj
+ET
+BT
+/F1 7.8 Tf
+322 381.9002 Td
+(inappropriate value \(e.g. int\('abc'\)\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 370.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 370.2002 Td
+(TypeError) Tj
+ET
+BT
+/F2 7.4 Tf
+322 360.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 360.6002 Td
+(ValueError) Tj
+ET
+BT
+/F2 7.4 Tf
+322 351.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 351.0002 Td
+(KeyError) Tj
+ET
+BT
+/F2 7.4 Tf
+322 341.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 341.4001 Td
+(IndexError) Tj
+ET
+BT
+/F2 8.0 Tf
+306 317.8001 Td
+(28.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 317.8001 Td
+(Which exception is raised when an operation is) Tj
+ET
+BT
+/F1 7.8 Tf
+322 308.6001 Td
+(performed on an inappropriate or mismatched data) Tj
+ET
+BT
+/F1 7.8 Tf
+322 299.4001 Td
+(type \(e.g. '5' + 5\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 287.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 287.7001 Td
+(ValueError) Tj
+ET
+BT
+/F2 7.4 Tf
+322 278.1001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 278.1001 Td
+(TypeError) Tj
+ET
+BT
+/F2 7.4 Tf
+322 268.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 268.5001 Td
+(AttributeError) Tj
+ET
+BT
+/F2 7.4 Tf
+322 258.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 258.9001 Td
+(SyntaxError) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 8 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+8 0 obj
+<< /Length 8309 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 6: FILES, EXCEPTIONS AND REGULAR EXPRESSIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 3 of 41) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(29.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Which keyword is used to explicitly trigger or) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(raise an exception in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(throw) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(raise) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(trigger) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(emit) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(30.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(What base class should all user-defined custom) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(exceptions inherit from in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(BaseException) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(Exception) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(Error) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(StandardError) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(31.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(Which built-in module provides regular) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(expression pattern matching capabilities in) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.0001 Td
+(Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 607.3001 Td
+(regex) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.7001 Td
+(re) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.1002 Td
+(pattern) Tj
+ET
+BT
+/F2 7.4 Tf
+58 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 578.5002 Td
+(matcher) Tj
+ET
+BT
+/F2 8.0 Tf
+42 554.9002 Td
+(32.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(What does the regex metacharacter dot \(.\) match) Tj
+ET
+BT
+/F1 7.8 Tf
+58 545.7002 Td
+(in standard mode?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 534.0002 Td
+(Any digit 0-9) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.4002 Td
+(Any single character except a newline) Tj
+ET
+BT
+/F1 7.4 Tf
+72 515.8002 Td
+(character '\\n') Tj
+ET
+BT
+/F2 7.4 Tf
+58 506.2002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 506.2002 Td
+(Any punctuation symbol) Tj
+ET
+BT
+/F2 7.4 Tf
+58 496.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 496.6002 Td
+(Any whitespace character) Tj
+ET
+BT
+/F2 8.0 Tf
+42 473.0002 Td
+(33.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 473.0002 Td
+(Which regex anchor metacharacter asserts the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 463.8002 Td
+(beginning of a line or string?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 452.1002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 452.1002 Td
+($) Tj
+ET
+BT
+/F2 7.4 Tf
+58 442.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 442.5002 Td
+(^) Tj
+ET
+BT
+/F2 7.4 Tf
+58 432.9002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 432.9002 Td
+(\\b) Tj
+ET
+BT
+/F2 7.4 Tf
+58 423.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 423.3002 Td
+(\\A) Tj
+ET
+BT
+/F2 8.0 Tf
+42 399.7002 Td
+(34.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 399.7002 Td
+(Which regex anchor metacharacter asserts the end) Tj
+ET
+BT
+/F1 7.8 Tf
+58 390.5002 Td
+(of a line or string?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 378.8001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 378.8001 Td
+(^) Tj
+ET
+BT
+/F2 7.4 Tf
+58 369.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 369.2001 Td
+($) Tj
+ET
+BT
+/F2 7.4 Tf
+58 359.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 359.6001 Td
+(\\Z) Tj
+ET
+BT
+/F2 7.4 Tf
+58 350.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 350.0001 Td
+(\\e) Tj
+ET
+BT
+/F2 8.0 Tf
+42 326.4001 Td
+(35.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 326.4001 Td
+(What quantifier matches zero or more occurrences) Tj
+ET
+BT
+/F1 7.8 Tf
+58 317.2001 Td
+(of the preceding regular expression element?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 305.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 305.5001 Td
+(+) Tj
+ET
+BT
+/F2 7.4 Tf
+58 295.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 295.9001 Td
+(*) Tj
+ET
+BT
+/F2 7.4 Tf
+58 286.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 286.3001 Td
+(?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 276.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 276.7001 Td
+({1,}) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(36.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What quantifier matches one or more occurrences) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(of the preceding element?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(*) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(+) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+({0,1}) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(37.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(What quantifier matches zero or one occurrence) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(\(optional\) of the preceding element?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(*) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(+) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+({0,}) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(38.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(Which regex special sequence matches any ASCII) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(or Unicode decimal digit [0-9]?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.5001 Td
+(\\s) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.9001 Td
+(\\w) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.3002 Td
+(\\d) Tj
+ET
+BT
+/F2 7.4 Tf
+322 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 587.7002 Td
+(\\b) Tj
+ET
+BT
+/F2 8.0 Tf
+306 564.1002 Td
+(39.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.1002 Td
+(Which regex special sequence matches any) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(alphanumeric word character [a-zA-Z0-9_]?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 543.2002 Td
+(\\d) Tj
+ET
+BT
+/F2 7.4 Tf
+322 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 533.6002 Td
+(\\s) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.0002 Td
+(\\w) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.4003 Td
+(\\b) Tj
+ET
+BT
+/F2 8.0 Tf
+306 490.8003 Td
+(40.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 490.8003 Td
+(Which regex special sequence matches any) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6003 Td
+(whitespace character \(space, tab, newline\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 469.9002 Td
+(\\w) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.3002 Td
+(\\d) Tj
+ET
+BT
+/F2 7.4 Tf
+322 450.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 450.7002 Td
+(\\s) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.1002 Td
+(\\W) Tj
+ET
+BT
+/F2 8.0 Tf
+306 417.5002 Td
+(41.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 417.5002 Td
+(What occurs when opening an existing file with) Tj
+ET
+BT
+/F1 7.8 Tf
+322 408.3002 Td
+(mode 'w+'?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 396.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 396.6002 Td
+(File is opened for appending) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.0002 Td
+(File is immediately truncated to 0 bytes and) Tj
+ET
+BT
+/F1 7.4 Tf
+336 378.4002 Td
+(opened for both reading and writing) Tj
+ET
+BT
+/F2 7.4 Tf
+322 368.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 368.8002 Td
+(Raises FileExistsError) Tj
+ET
+BT
+/F2 7.4 Tf
+322 359.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 359.2002 Td
+(Read-only access) Tj
+ET
+BT
+/F2 8.0 Tf
+306 335.6002 Td
+(42.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 335.6002 Td
+(What is the difference between open\('file.txt',) Tj
+ET
+BT
+/F1 7.8 Tf
+322 326.4001 Td
+('r+'\) and open\('file.txt', 'w+'\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 314.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 314.7001 Td
+('r+' opens for reading and writing without) Tj
+ET
+BT
+/F1 7.4 Tf
+336 306.1001 Td
+(truncation; 'w+' truncates the file) Tj
+ET
+BT
+/F1 7.4 Tf
+336 297.5001 Td
+(immediately to 0 bytes) Tj
+ET
+BT
+/F2 7.4 Tf
+322 287.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 287.9001 Td
+('r+' creates the file if absent; 'w+' does) Tj
+ET
+BT
+/F1 7.4 Tf
+336 279.3001 Td
+(not) Tj
+ET
+BT
+/F2 7.4 Tf
+322 269.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 269.7001 Td
+(They are identical aliases) Tj
+ET
+BT
+/F2 7.4 Tf
+322 260.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 260.1001 Td
+('w+' is for binary files only) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 10 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+10 0 obj
+<< /Length 9798 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 6: FILES, EXCEPTIONS AND REGULAR EXPRESSIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 4 of 41) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(43.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What does file.seek\(0, 2\) accomplish on an open) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(file object?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(Rewinds pointer to the very beginning of the) Tj
+ET
+BT
+/F1 7.4 Tf
+72 754.5 Td
+(file) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.9 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.9 Td
+(Positions the file pointer at the very end) Tj
+ET
+BT
+/F1 7.4 Tf
+72 736.3 Td
+(of the file) Tj
+ET
+BT
+/F2 7.4 Tf
+58 726.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 726.7001 Td
+(Advances pointer by 2 bytes) Tj
+ET
+BT
+/F2 7.4 Tf
+58 717.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 717.1001 Td
+(Raises ValueError) Tj
+ET
+BT
+/F2 8.0 Tf
+42 693.5001 Td
+(44.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 693.5001 Td
+(What are the valid integer values for the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 684.3001 Td
+('whence' argument in file.seek\(offset, whence\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 672.6001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 672.6001 Td
+(0 \(start of file\), 1 \(current pointer) Tj
+ET
+BT
+/F1 7.4 Tf
+72 664.0001 Td
+(position\), 2 \(end of file\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 654.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 654.4001 Td
+(1 \(start\), 2 \(mid\), 3 \(end\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 644.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 644.8002 Td
+(Only 0 is permitted) Tj
+ET
+BT
+/F2 7.4 Tf
+58 635.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 635.2002 Td
+(-1, 0, 1) Tj
+ET
+BT
+/F2 8.0 Tf
+42 611.6002 Td
+(45.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 611.6002 Td
+(What occurs when executing: with) Tj
+ET
+BT
+/F1 7.8 Tf
+58 602.4002 Td
+(open\('data.txt'\) as f: content = f.read\(\);) Tj
+ET
+BT
+/F1 7.8 Tf
+58 593.2002 Td
+(print\(f.closed\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 581.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 581.5002 Td
+(Prints False) Tj
+ET
+BT
+/F2 7.4 Tf
+58 571.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 571.9002 Td
+(Prints True \(file is automatically closed) Tj
+ET
+BT
+/F1 7.4 Tf
+72 563.3002 Td
+(upon leaving the with block\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 553.7003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 553.7003 Td
+(Raises an AttributeError) Tj
+ET
+BT
+/F2 7.4 Tf
+58 544.1003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 544.1003 Td
+(None) Tj
+ET
+BT
+/F2 8.0 Tf
+42 520.5003 Td
+(46.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 520.5003 Td
+(What happens if an unhandled exception occurs) Tj
+ET
+BT
+/F1 7.8 Tf
+58 511.3003 Td
+(inside a with open\(...\) block?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 499.6003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 499.6003 Td
+(The file remains open indefinitely leaking) Tj
+ET
+BT
+/F1 7.4 Tf
+72 491.0003 Td
+(resources) Tj
+ET
+BT
+/F2 7.4 Tf
+58 481.4003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 481.4003 Td
+(The context manager's __exit__ method) Tj
+ET
+BT
+/F1 7.4 Tf
+72 472.8003 Td
+(executes and cleanly closes the file before) Tj
+ET
+BT
+/F1 7.4 Tf
+72 464.2003 Td
+(propagating the exception) Tj
+ET
+BT
+/F2 7.4 Tf
+58 454.6003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 454.6003 Td
+(The file is deleted from disk) Tj
+ET
+BT
+/F2 7.4 Tf
+58 445.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 445.0002 Td
+(The OS crashes) Tj
+ET
+BT
+/F2 8.0 Tf
+42 421.4002 Td
+(47.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 421.4002 Td
+(Why is unpickling untrusted data from network) Tj
+ET
+BT
+/F1 7.8 Tf
+58 412.2002 Td
+(sources considered a critical security) Tj
+ET
+BT
+/F1 7.8 Tf
+58 403.0002 Td
+(vulnerability \(RCE\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 391.3002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 391.3002 Td
+(Pickle files can contain viruses in plain) Tj
+ET
+BT
+/F1 7.4 Tf
+72 382.7002 Td
+(text) Tj
+ET
+BT
+/F2 7.4 Tf
+58 373.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 373.1002 Td
+(Pickle allows executing arbitrary code via) Tj
+ET
+BT
+/F1 7.4 Tf
+72 364.5002 Td
+(the __reduce__ method during deserialization) Tj
+ET
+BT
+/F2 7.4 Tf
+58 354.9002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 354.9002 Td
+(Pickle uses too much CPU) Tj
+ET
+BT
+/F2 7.4 Tf
+58 345.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 345.3002 Td
+(Pickle modifies file permissions) Tj
+ET
+BT
+/F2 8.0 Tf
+42 321.7002 Td
+(48.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 321.7002 Td
+(Which format is safer for serializing data) Tj
+ET
+BT
+/F1 7.8 Tf
+58 312.5002 Td
+(between disparate languages and untrusted) Tj
+ET
+BT
+/F1 7.8 Tf
+58 303.3001 Td
+(networks?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 291.6001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 291.6001 Td
+(pickle) Tj
+ET
+BT
+/F2 7.4 Tf
+58 282.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 282.0001 Td
+(JSON \(JavaScript Object Notation\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 272.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 272.4001 Td
+(marshal) Tj
+ET
+BT
+/F2 7.4 Tf
+58 262.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 262.8001 Td
+(shelve) Tj
+ET
+BT
+/F2 8.0 Tf
+42 239.2001 Td
+(49.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 239.2001 Td
+(What is the output of:\\ntry:\\n x = 10 /) Tj
+ET
+BT
+/F1 7.8 Tf
+58 230.0001 Td
+(0\\nexcept ZeroDivisionError:\\n print\('A',) Tj
+ET
+BT
+/F1 7.8 Tf
+58 220.8001 Td
+(end=''\)\\nelse:\\n print\('B', end=''\)\\nfinally:\\n) Tj
+ET
+BT
+/F1 7.8 Tf
+58 211.6001 Td
+(print\('C', end=''\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 199.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 199.9001 Td
+(AC) Tj
+ET
+BT
+/F2 7.4 Tf
+58 190.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 190.3001 Td
+(ABC) Tj
+ET
+BT
+/F2 7.4 Tf
+58 180.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 180.7001 Td
+(BC) Tj
+ET
+BT
+/F2 7.4 Tf
+58 171.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 171.1001 Td
+(C) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(50.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What is the output of:\\ntry:\\n x = 10 /) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(2\\nexcept ZeroDivisionError:\\n print\('A',) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(end=''\)\\nelse:\\n print\('B', end=''\)\\nfinally:\\n) Tj
+ET
+BT
+/F1 7.8 Tf
+322 756.4 Td
+(print\('C', end=''\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.7 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.7 Td
+(BC) Tj
+ET
+BT
+/F2 7.4 Tf
+322 735.1 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 735.1 Td
+(ABC) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.5 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.5 Td
+(B) Tj
+ET
+BT
+/F2 7.4 Tf
+322 715.9 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 715.9 Td
+(C) Tj
+ET
+BT
+/F2 8.0 Tf
+306 692.3 Td
+(51.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(What is the output of:\\ndef f\(\):\\n try:\\n return) Tj
+ET
+BT
+/F1 7.8 Tf
+322 683.1 Td
+(1\\n finally:\\n return 2\\nprint\(f\(\)\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.4 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.4 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.8 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.8 Td
+(2 \(The finally block's return statement) Tj
+ET
+BT
+/F1 7.4 Tf
+336 653.2001 Td
+(overrides the try block's return!\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 643.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 643.6001 Td
+(3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 634.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 634.0001 Td
+(SyntaxError) Tj
+ET
+BT
+/F2 8.0 Tf
+306 610.4001 Td
+(52.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 610.4001 Td
+(What is the output of:\\nimport re\\nres =) Tj
+ET
+BT
+/F1 7.8 Tf
+322 601.2001 Td
+(re.search\(r'\\d+', 'User ID: 1042 in Dept) Tj
+ET
+BT
+/F1 7.8 Tf
+322 592.0001 Td
+(5'\)\\nprint\(res.group\(\)\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 580.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 580.3001 Td
+('User ID: 1042') Tj
+ET
+BT
+/F2 7.4 Tf
+322 570.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 570.7001 Td
+('1042') Tj
+ET
+BT
+/F2 7.4 Tf
+322 561.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 561.1002 Td
+('5') Tj
+ET
+BT
+/F2 7.4 Tf
+322 551.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 551.5002 Td
+(['1042', '5']) Tj
+ET
+BT
+/F2 8.0 Tf
+306 527.9002 Td
+(53.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 527.9002 Td
+(What does re.findall\(r'\\d+', 'User ID: 1042 in) Tj
+ET
+BT
+/F1 7.8 Tf
+322 518.7002 Td
+(Dept 5'\) return?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 507.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 507.0002 Td
+(['1042']) Tj
+ET
+BT
+/F2 7.4 Tf
+322 497.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 497.4002 Td
+(['1042', '5']) Tj
+ET
+BT
+/F2 7.4 Tf
+322 487.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 487.8002 Td
+(1042) Tj
+ET
+BT
+/F2 7.4 Tf
+322 478.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 478.2002 Td
+(Match object) Tj
+ET
+BT
+/F2 8.0 Tf
+306 454.6002 Td
+(54.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 454.6002 Td
+(What is the difference between re.match\(\) and) Tj
+ET
+BT
+/F1 7.8 Tf
+322 445.4001 Td
+(re.search\(\) in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 433.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 433.7001 Td
+(re.match\(\) matches ONLY from the start of) Tj
+ET
+BT
+/F1 7.4 Tf
+336 425.1001 Td
+(the string; re.search\(\) scans the entire) Tj
+ET
+BT
+/F1 7.4 Tf
+336 416.5001 Td
+(string) Tj
+ET
+BT
+/F2 7.4 Tf
+322 406.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 406.9001 Td
+(re.search\(\) is faster) Tj
+ET
+BT
+/F2 7.4 Tf
+322 397.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 397.3001 Td
+(re.match\(\) returns a list; re.search\(\)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 388.7001 Td
+(returns a string) Tj
+ET
+BT
+/F2 7.4 Tf
+322 379.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 379.1001 Td
+(They are identical) Tj
+ET
+BT
+/F2 8.0 Tf
+306 355.5001 Td
+(55.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 355.5001 Td
+(What is the output of: print\(re.match\(r'\\d+',) Tj
+ET
+BT
+/F1 7.8 Tf
+322 346.3001 Td
+('Score: 95'\)\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 334.6001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 334.6001 Td
+(Match object for '95') Tj
+ET
+BT
+/F2 7.4 Tf
+322 325.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 325.0001 Td
+(None \(because 'Score: 95' does not begin) Tj
+ET
+BT
+/F1 7.4 Tf
+336 316.4001 Td
+(with digits\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 306.8 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 306.8 Td
+(['95']) Tj
+ET
+BT
+/F2 7.4 Tf
+322 297.2 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 297.2 Td
+(TypeError) Tj
+ET
+BT
+/F2 8.0 Tf
+306 273.6 Td
+(56.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 273.6 Td
+(What is the output of: print\(re.search\(r'\\d+',) Tj
+ET
+BT
+/F1 7.8 Tf
+322 264.4 Td
+('Score: 95'\).group\(\)\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 252.7 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 252.7 Td
+('Score') Tj
+ET
+BT
+/F2 7.4 Tf
+322 243.1 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 243.1 Td
+('95') Tj
+ET
+BT
+/F2 7.4 Tf
+322 233.5 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 233.5 Td
+(None) Tj
+ET
+BT
+/F2 7.4 Tf
+322 223.9 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 223.9 Td
+(Error) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 12 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+12 0 obj
+<< /Length 9332 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 6: FILES, EXCEPTIONS AND REGULAR EXPRESSIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 5 of 41) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(57.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What does the regex quantifier *? represent) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(\(e.g. <.*?> vs <.*>\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(Zero or one match) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(Non-greedy \(lazy\) matching: matches as few) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.9 Td
+(characters as possible) Tj
+ET
+BT
+/F2 7.4 Tf
+58 735.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 735.3 Td
+(Greedy matching) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.7001 Td
+(Case-insensitive matching) Tj
+ET
+BT
+/F2 8.0 Tf
+42 702.1001 Td
+(58.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 702.1001 Td
+(What does re.sub\(r'\\s+', '-', 'Python Data) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.9001 Td
+(Structures'\) return?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 681.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 681.2001 Td
+('Python-Data-Structures') Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.6001 Td
+('Python---Data---Structures') Tj
+ET
+BT
+/F2 7.4 Tf
+58 662.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 662.0001 Td
+(['Python', 'Data', 'Structures']) Tj
+ET
+BT
+/F2 7.4 Tf
+58 652.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 652.4001 Td
+('Python Data Structures') Tj
+ET
+BT
+/F2 8.0 Tf
+42 628.8002 Td
+(59.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.8002 Td
+(What does re.split\(r'[,;\\s]+', 'apple, banana;) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.6002 Td
+(orange grape'\) produce?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 607.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 607.9001 Td
+(['apple', 'banana', 'orange', 'grape']) Tj
+ET
+BT
+/F2 7.4 Tf
+58 598.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 598.3002 Td
+(['apple', ',', 'banana', ';', 'orange',) Tj
+ET
+BT
+/F1 7.4 Tf
+72 589.7002 Td
+('grape']) Tj
+ET
+BT
+/F2 7.4 Tf
+58 580.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 580.1002 Td
+('apple-banana-orange-grape') Tj
+ET
+BT
+/F2 7.4 Tf
+58 570.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 570.5002 Td
+(TypeError) Tj
+ET
+BT
+/F2 8.0 Tf
+42 546.9003 Td
+(60.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 546.9003 Td
+(Why should regular expressions be compiled with) Tj
+ET
+BT
+/F1 7.8 Tf
+58 537.7003 Td
+(re.compile\(pattern\) when used in loops?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 526.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 526.0002 Td
+(It reduces string length) Tj
+ET
+BT
+/F2 7.4 Tf
+58 516.4003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 516.4003 Td
+(It pre-compiles pattern into a Pattern) Tj
+ET
+BT
+/F1 7.4 Tf
+72 507.8003 Td
+(object, avoiding repetitive regex parsing) Tj
+ET
+BT
+/F1 7.4 Tf
+72 499.2003 Td
+(and compilation overhead) Tj
+ET
+BT
+/F2 7.4 Tf
+58 489.6003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 489.6003 Td
+(It runs in parallel threads) Tj
+ET
+BT
+/F2 7.4 Tf
+58 480.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 480.0002 Td
+(It is required by PEP 8) Tj
+ET
+BT
+/F2 8.0 Tf
+42 456.4002 Td
+(61.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 456.4002 Td
+(What does the regex flag re.IGNORECASE \(re.I\)) Tj
+ET
+BT
+/F1 7.8 Tf
+58 447.2002 Td
+(do?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 435.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 435.5002 Td
+(Ignores syntax errors in patterns) Tj
+ET
+BT
+/F2 7.4 Tf
+58 425.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 425.9002 Td
+(Performs case-insensitive matching \(e.g.) Tj
+ET
+BT
+/F1 7.4 Tf
+72 417.3002 Td
+([a-z] matches uppercase too\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 407.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 407.7002 Td
+(Ignores whitespace characters) Tj
+ET
+BT
+/F2 7.4 Tf
+58 398.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 398.1002 Td
+(Skips punctuation) Tj
+ET
+BT
+/F2 8.0 Tf
+42 374.5002 Td
+(62.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 374.5002 Td
+(What does the regex flag re.DOTALL \(re.S\)) Tj
+ET
+BT
+/F1 7.8 Tf
+58 365.3002 Td
+(modify?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 353.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 353.6002 Td
+(Makes all quantifiers greedy) Tj
+ET
+BT
+/F2 7.4 Tf
+58 344.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 344.0002 Td
+(Enables the dot \(.\) metacharacter to match) Tj
+ET
+BT
+/F1 7.4 Tf
+72 335.4001 Td
+(newline characters '\\n' as well) Tj
+ET
+BT
+/F2 7.4 Tf
+58 325.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 325.8001 Td
+(Matches only dots and periods) Tj
+ET
+BT
+/F2 7.4 Tf
+58 316.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 316.2001 Td
+(Disables backslash escaping) Tj
+ET
+BT
+/F2 8.0 Tf
+42 292.6001 Td
+(63.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 292.6001 Td
+(What does the regex flag re.MULTILINE \(re.M\)) Tj
+ET
+BT
+/F1 7.8 Tf
+58 283.4001 Td
+(modify?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 271.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 271.7001 Td
+(Matches multiple strings simultaneously) Tj
+ET
+BT
+/F2 7.4 Tf
+58 262.1001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 262.1001 Td
+(Makes ^ and $ match at the start and end of) Tj
+ET
+BT
+/F1 7.4 Tf
+72 253.5001 Td
+(each individual line within a multiline) Tj
+ET
+BT
+/F1 7.4 Tf
+72 244.9001 Td
+(string) Tj
+ET
+BT
+/F2 7.4 Tf
+58 235.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 235.3001 Td
+(Allocates multiple threads) Tj
+ET
+BT
+/F2 7.4 Tf
+58 225.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 225.7001 Td
+(Matches emojis) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(64.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What does match.groups\(\) return on a Match) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(object with pattern r'\(\\w+\)-\(\\d+\)' on) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+('Item-402'?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(\('Item-402',\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.3 Td
+(\('Item', '402'\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.7 Td
+(['Item', 402]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.1 Td
+({'Item': 402}) Tj
+ET
+BT
+/F2 8.0 Tf
+306 701.5001 Td
+(65.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(What syntax defines a named capturing group in) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(Python regex?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.6 Td
+(\(?P<name>pattern\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.0001 Td
+(\(?<name>pattern\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.4001 Td
+(\(:name pattern\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 651.8001 Td
+(\($name=pattern\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 628.2001 Td
+(66.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(What does match.groupdict\(\) return when named) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(capturing groups are used?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.3001 Td
+(A dictionary mapping group names to their) Tj
+ET
+BT
+/F1 7.4 Tf
+336 598.7001 Td
+(matched substrings) Tj
+ET
+BT
+/F2 7.4 Tf
+322 589.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 589.1002 Td
+(A tuple of names) Tj
+ET
+BT
+/F2 7.4 Tf
+322 579.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 579.5002 Td
+(A list of indices) Tj
+ET
+BT
+/F2 7.4 Tf
+322 569.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 569.9002 Td
+(None) Tj
+ET
+BT
+/F2 8.0 Tf
+306 546.3002 Td
+(67.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 546.3002 Td
+(What is the output of:\\nimport) Tj
+ET
+BT
+/F1 7.8 Tf
+322 537.1002 Td
+(os\\nprint\(os.path.join\('dir', 'subdir',) Tj
+ET
+BT
+/F1 7.8 Tf
+322 527.9002 Td
+('file.txt'\)\) on Windows?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 516.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 516.2002 Td
+('dir/subdir/file.txt') Tj
+ET
+BT
+/F2 7.4 Tf
+322 506.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 506.6002 Td
+('dir\\\\subdir\\\\file.txt') Tj
+ET
+BT
+/F2 7.4 Tf
+322 497.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 497.0002 Td
+('dir.subdir.file.txt') Tj
+ET
+BT
+/F2 7.4 Tf
+322 487.4002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 487.4002 Td
+(TypeError) Tj
+ET
+BT
+/F2 8.0 Tf
+306 463.8002 Td
+(68.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 463.8002 Td
+(What does os.path.exists\(path\) return?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 452.1002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 452.1002 Td
+(File size) Tj
+ET
+BT
+/F2 7.4 Tf
+322 442.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 442.5002 Td
+(True if the file or directory exists; False) Tj
+ET
+BT
+/F1 7.4 Tf
+336 433.9001 Td
+(otherwise) Tj
+ET
+BT
+/F2 7.4 Tf
+322 424.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 424.3001 Td
+(Creation timestamp) Tj
+ET
+BT
+/F2 7.4 Tf
+322 414.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 414.7001 Td
+(File permissions) Tj
+ET
+BT
+/F2 8.0 Tf
+306 391.1001 Td
+(69.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 391.1001 Td
+(What does os.path.isfile\(path\) return?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 379.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 379.4001 Td
+(File size) Tj
+ET
+BT
+/F2 7.4 Tf
+322 369.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 369.8001 Td
+(True if path exists and is a regular file;) Tj
+ET
+BT
+/F1 7.4 Tf
+336 361.2001 Td
+(False otherwise) Tj
+ET
+BT
+/F2 7.4 Tf
+322 351.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 351.6001 Td
+(File content) Tj
+ET
+BT
+/F2 7.4 Tf
+322 342.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 342.0001 Td
+(Path name) Tj
+ET
+BT
+/F2 8.0 Tf
+306 318.4001 Td
+(70.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 318.4001 Td
+(What does shutil.rmtree\(path\) perform?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 306.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 306.7001 Td
+(Deletes a single empty directory) Tj
+ET
+BT
+/F2 7.4 Tf
+322 297.1001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 297.1001 Td
+(Recursively deletes an entire directory tree) Tj
+ET
+BT
+/F1 7.4 Tf
+336 288.5001 Td
+(and all its contents) Tj
+ET
+BT
+/F2 7.4 Tf
+322 278.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 278.9001 Td
+(Moves a directory to recycle bin) Tj
+ET
+BT
+/F2 7.4 Tf
+322 269.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 269.3 Td
+(Renames a directory) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 14 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+14 0 obj
+<< /Length 10260 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 6: FILES, EXCEPTIONS AND REGULAR EXPRESSIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 6 of 41) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(71.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What is the output of) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(print\('Hello\\nWorld'.splitlines\(\)\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(['Hello\\n', 'World']) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(['Hello', 'World']) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+('HelloWorld') Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(\('Hello', 'World'\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(72.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(What does the expression raise) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(ValueError\('Invalid'\) from exc accomplish \(PEP) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.3 Td
+(3134\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.6 Td
+(Suppresses the original error) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.0001 Td
+(Explicitly chains exceptions, setting) Tj
+ET
+BT
+/F1 7.4 Tf
+72 662.4001 Td
+(__cause__ to preserve the original traceback) Tj
+ET
+BT
+/F1 7.4 Tf
+72 653.8001 Td
+(context) Tj
+ET
+BT
+/F2 7.4 Tf
+58 644.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 644.2001 Td
+(Clears the traceback) Tj
+ET
+BT
+/F2 7.4 Tf
+58 634.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 634.6002 Td
+(Converts ValueError to exc) Tj
+ET
+BT
+/F2 8.0 Tf
+42 611.0002 Td
+(73.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 611.0002 Td
+(What occurs when catching multiple exceptions:) Tj
+ET
+BT
+/F1 7.8 Tf
+58 601.8002 Td
+(except \(TypeError, ValueError\) as err:?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 590.1002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 590.1002 Td
+(Catches both TypeError and ValueError in a) Tj
+ET
+BT
+/F1 7.4 Tf
+72 581.5002 Td
+(single unified handler block) Tj
+ET
+BT
+/F2 7.4 Tf
+58 571.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 571.9002 Td
+(SyntaxError) Tj
+ET
+BT
+/F2 7.4 Tf
+58 562.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 562.3002 Td
+(Catches only TypeError) Tj
+ET
+BT
+/F2 7.4 Tf
+58 552.7003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 552.7003 Td
+(Creates a tuple of errors) Tj
+ET
+BT
+/F2 8.0 Tf
+42 529.1003 Td
+(74.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 529.1003 Td
+(Why is writing bare 'except:' without specifying) Tj
+ET
+BT
+/F1 7.8 Tf
+58 519.9003 Td
+(an exception class considered an enterprise) Tj
+ET
+BT
+/F1 7.8 Tf
+58 510.7003 Td
+(antipattern?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 499.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 499.0002 Td
+(SyntaxError in Python 3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 489.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 489.4002 Td
+(It catches BaseException, inadvertently) Tj
+ET
+BT
+/F1 7.4 Tf
+72 480.8002 Td
+(intercepting SystemExit and) Tj
+ET
+BT
+/F1 7.4 Tf
+72 472.2002 Td
+(KeyboardInterrupt \(Ctrl+C\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 462.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 462.6002 Td
+(It slows down the CPU) Tj
+ET
+BT
+/F2 7.4 Tf
+58 453.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 453.0002 Td
+(It crashes the interpreter) Tj
+ET
+BT
+/F2 8.0 Tf
+42 429.4002 Td
+(75.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 429.4002 Td
+(What is the recommended broad exception to catch) Tj
+ET
+BT
+/F1 7.8 Tf
+58 420.2002 Td
+(when handling runtime failures: except) Tj
+ET
+BT
+/F1 7.8 Tf
+58 411.0002 Td
+(Exception:?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 399.3002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 399.3002 Td
+(except BaseException:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 389.7002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 389.7002 Td
+(except Exception:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 380.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 380.1002 Td
+(except StandardError:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 370.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 370.5002 Td
+(except Error:) Tj
+ET
+BT
+/F2 8.0 Tf
+42 346.9001 Td
+(76.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 346.9001 Td
+(What type does file.read\(\) return when a file is) Tj
+ET
+BT
+/F1 7.8 Tf
+58 337.7001 Td
+(opened in binary mode: open\('data.bin', 'rb'\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 326.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 326.0001 Td
+(str \(Unicode string\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 316.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 316.4001 Td
+(bytes \(Immutable sequence of 8-bit bytes\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 306.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 306.8001 Td
+(bytearray) Tj
+ET
+BT
+/F2 7.4 Tf
+58 297.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 297.2001 Td
+(int array) Tj
+ET
+BT
+/F2 8.0 Tf
+42 273.6001 Td
+(77.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 273.6001 Td
+(What happens if you attempt to write a string to) Tj
+ET
+BT
+/F1 7.8 Tf
+58 264.4001 Td
+(a file opened in binary mode: f.write\('Hello'\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 252.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 252.7001 Td
+(String is encoded automatically to UTF-8) Tj
+ET
+BT
+/F2 7.4 Tf
+58 243.1001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 243.1001 Td
+(TypeError: a bytes-like object is required,) Tj
+ET
+BT
+/F1 7.4 Tf
+72 234.5001 Td
+(not 'str') Tj
+ET
+BT
+/F2 7.4 Tf
+58 224.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 224.9001 Td
+(ValueError) Tj
+ET
+BT
+/F2 7.4 Tf
+58 215.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 215.3001 Td
+(Silent failure) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(78.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What does open\('file.txt', 'r',) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(encoding='utf-8', errors='replace'\) do upon) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(encountering corrupt bytes?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(Raises UnicodeDecodeError) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.3 Td
+(Replaces invalid byte sequences with the) Tj
+ET
+BT
+/F1 7.4 Tf
+336 735.7 Td
+(Unicode replacement character U+FFFD \(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 726.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 726.1 Td
+(Skips the corrupt bytes) Tj
+ET
+BT
+/F2 7.4 Tf
+322 716.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 716.5001 Td
+(Deletes the file) Tj
+ET
+BT
+/F2 8.0 Tf
+306 692.9001 Td
+(79.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.9001 Td
+(What type of regular expression engine does) Tj
+ET
+BT
+/F1 7.8 Tf
+322 683.7001 Td
+(CPython's standard 're' module utilize?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 672.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 672.0001 Td
+(Deterministic Finite Automaton \(DFA\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 662.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 662.4001 Td
+(Nondeterministic Finite Automaton \(NFA\) with) Tj
+ET
+BT
+/F1 7.4 Tf
+336 653.8001 Td
+(backtracking) Tj
+ET
+BT
+/F2 7.4 Tf
+322 644.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 644.2001 Td
+(Parsing Expression Grammar \(PEG\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 634.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 634.6002 Td
+(Earley Parser) Tj
+ET
+BT
+/F2 8.0 Tf
+306 611.0002 Td
+(80.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 611.0002 Td
+(What severe performance pathology can occur in) Tj
+ET
+BT
+/F1 7.8 Tf
+322 601.8002 Td
+(backtracking NFA regex engines when evaluating) Tj
+ET
+BT
+/F1 7.8 Tf
+322 592.6002 Td
+(catastrophic nested quantifiers: \(a+\)+$ on) Tj
+ET
+BT
+/F1 7.8 Tf
+322 583.4001 Td
+('aaaa...X'?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 571.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 571.7001 Td
+(Catastrophic Backtracking \(Exponential) Tj
+ET
+BT
+/F1 7.4 Tf
+336 563.1002 Td
+(O\(2^N\) time complexity causing ReDoS\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 553.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 553.5002 Td
+(Stack overflow in C) Tj
+ET
+BT
+/F2 7.4 Tf
+322 543.9002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 543.9002 Td
+(Memory leak) Tj
+ET
+BT
+/F2 7.4 Tf
+322 534.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 534.3002 Td
+(Infinite compilation) Tj
+ET
+BT
+/F2 8.0 Tf
+306 510.7003 Td
+(81.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 510.7003 Td
+(What does ReDoS stand for in cybersecurity?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 499.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 499.0002 Td
+(Regular Expression Denial of Service) Tj
+ET
+BT
+/F2 7.4 Tf
+322 489.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 489.4002 Td
+(Recursive Directory Operating System) Tj
+ET
+BT
+/F2 7.4 Tf
+322 479.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 479.8002 Td
+(Remote Exception Domain Service) Tj
+ET
+BT
+/F2 7.4 Tf
+322 470.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 470.2002 Td
+(Redundant Disk Array Over Subnet) Tj
+ET
+BT
+/F2 8.0 Tf
+306 446.6002 Td
+(82.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 446.6002 Td
+(What does a positive lookahead assertion) Tj
+ET
+BT
+/F1 7.8 Tf
+322 437.4002 Td
+(\(?=pattern\) do in regular expressions?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 425.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 425.7002 Td
+(Matches pattern and includes it in match) Tj
+ET
+BT
+/F1 7.4 Tf
+336 417.1002 Td
+(result) Tj
+ET
+BT
+/F2 7.4 Tf
+322 407.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 407.5002 Td
+(Asserts that pattern matches immediately) Tj
+ET
+BT
+/F1 7.4 Tf
+336 398.9002 Td
+(following the current position without) Tj
+ET
+BT
+/F1 7.4 Tf
+336 390.3002 Td
+(consuming characters) Tj
+ET
+BT
+/F2 7.4 Tf
+322 380.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 380.7002 Td
+(Reverses search direction) Tj
+ET
+BT
+/F2 7.4 Tf
+322 371.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 371.1002 Td
+(Creates a loop) Tj
+ET
+BT
+/F2 8.0 Tf
+306 347.5002 Td
+(83.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 347.5002 Td
+(What does a negative lookahead assertion) Tj
+ET
+BT
+/F1 7.8 Tf
+322 338.3001 Td
+(\(?!pattern\) do?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 326.6001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 326.6001 Td
+(Asserts that pattern does NOT match) Tj
+ET
+BT
+/F1 7.4 Tf
+336 318.0001 Td
+(immediately following current position) Tj
+ET
+BT
+/F1 7.4 Tf
+336 309.4001 Td
+(without consuming characters) Tj
+ET
+BT
+/F2 7.4 Tf
+322 299.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 299.8001 Td
+(Matches negative numbers) Tj
+ET
+BT
+/F2 7.4 Tf
+322 290.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 290.2001 Td
+(Inverts character casing) Tj
+ET
+BT
+/F2 7.4 Tf
+322 280.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 280.6001 Td
+(Deletes characters) Tj
+ET
+BT
+/F2 8.0 Tf
+306 257.0001 Td
+(84.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 257.0001 Td
+(What does a positive lookbehind assertion) Tj
+ET
+BT
+/F1 7.8 Tf
+322 247.8001 Td
+(\(?<=pattern\) do?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 236.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 236.1001 Td
+(Asserts that pattern matches immediately) Tj
+ET
+BT
+/F1 7.4 Tf
+336 227.5001 Td
+(preceding current position without consuming) Tj
+ET
+BT
+/F1 7.4 Tf
+336 218.9001 Td
+(characters) Tj
+ET
+BT
+/F2 7.4 Tf
+322 209.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 209.3001 Td
+(Scans from end of file) Tj
+ET
+BT
+/F2 7.4 Tf
+322 199.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 199.7001 Td
+(Captures previous match) Tj
+ET
+BT
+/F2 7.4 Tf
+322 190.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 190.1001 Td
+(Matches backwards in loop) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 16 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+16 0 obj
+<< /Length 10483 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 6: FILES, EXCEPTIONS AND REGULAR EXPRESSIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 7 of 41) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(85.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What restriction exists for lookbehind) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(assertions in Python's standard re module?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(Lookbehind patterns must have a fixed, known) Tj
+ET
+BT
+/F1 7.4 Tf
+72 754.5 Td
+(character width) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.9 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.9 Td
+(Cannot contain letters) Tj
+ET
+BT
+/F2 7.4 Tf
+58 735.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 735.3 Td
+(Cannot be negated) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.7001 Td
+(No restrictions exist) Tj
+ET
+BT
+/F2 8.0 Tf
+42 702.1001 Td
+(86.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 702.1001 Td
+(What does non-capturing group \(?:pattern\) do) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.9001 Td
+(compared to standard capturing group \(pattern\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 681.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 681.2001 Td
+(Groups regex tokens together for quantifiers) Tj
+ET
+BT
+/F1 7.4 Tf
+72 672.6001 Td
+(without saving the match into a capturing) Tj
+ET
+BT
+/F1 7.4 Tf
+72 664.0001 Td
+(slot) Tj
+ET
+BT
+/F2 7.4 Tf
+58 654.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 654.4001 Td
+(Prevents matching) Tj
+ET
+BT
+/F2 7.4 Tf
+58 644.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 644.8002 Td
+(Hides pattern from regex engine) Tj
+ET
+BT
+/F2 7.4 Tf
+58 635.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 635.2002 Td
+(Matches only lowercase) Tj
+ET
+BT
+/F2 8.0 Tf
+42 611.6002 Td
+(87.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 611.6002 Td
+(What does the line buffering mode buffering=1) Tj
+ET
+BT
+/F1 7.8 Tf
+58 602.4002 Td
+(accomplish in open\('log.txt', 'w', buffering=1\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 590.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 590.7002 Td
+(Buffers exactly 1 byte) Tj
+ET
+BT
+/F2 7.4 Tf
+58 581.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 581.1002 Td
+(Flushes buffer automatically on every) Tj
+ET
+BT
+/F1 7.4 Tf
+72 572.5002 Td
+(newline character '\\n' in text mode) Tj
+ET
+BT
+/F2 7.4 Tf
+58 562.9003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 562.9003 Td
+(Disables buffering completely) Tj
+ET
+BT
+/F2 7.4 Tf
+58 553.3003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 553.3003 Td
+(Allocates 1 MB buffer) Tj
+ET
+BT
+/F2 8.0 Tf
+42 529.7003 Td
+(88.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 529.7003 Td
+(How can binary unbuffered I/O be opened in) Tj
+ET
+BT
+/F1 7.8 Tf
+58 520.5003 Td
+(Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 508.8003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 508.8003 Td
+(open\('file.bin', 'wb', buffering=0\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 499.2003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 499.2003 Td
+(open\('file.bin', 'wb', buffer=False\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 489.6003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 489.6003 Td
+(open\('file.bin', 'wb', flush=True\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 480.0003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 480.0003 Td
+(buffering is always enabled) Tj
+ET
+BT
+/F2 8.0 Tf
+42 456.4003 Td
+(89.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 456.4003 Td
+(What is the difference between os.remove\(path\)) Tj
+ET
+BT
+/F1 7.8 Tf
+58 447.2003 Td
+(and os.rmdir\(path\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 435.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 435.5002 Td
+(os.remove\(\) deletes files; os.rmdir\(\)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 426.9002 Td
+(deletes empty directories) Tj
+ET
+BT
+/F2 7.4 Tf
+58 417.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 417.3002 Td
+(os.remove\(\) deletes directories; os.rmdir\(\)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 408.7002 Td
+(deletes files) Tj
+ET
+BT
+/F2 7.4 Tf
+58 399.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 399.1002 Td
+(They are identical aliases) Tj
+ET
+BT
+/F2 7.4 Tf
+58 389.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 389.5002 Td
+(os.remove\(\) moves to recycle bin) Tj
+ET
+BT
+/F2 8.0 Tf
+42 365.9002 Td
+(90.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 365.9002 Td
+(What does the fileinput module in Python) Tj
+ET
+BT
+/F1 7.8 Tf
+58 356.7002 Td
+(standard library facilitate?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 345.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 345.0002 Td
+(Graphical user input dialogs) Tj
+ET
+BT
+/F2 7.4 Tf
+58 335.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 335.4002 Td
+(Iterating over lines from multiple input) Tj
+ET
+BT
+/F1 7.4 Tf
+72 326.8002 Td
+(files or standard input sys.stdin seamlessly) Tj
+ET
+BT
+/F2 7.4 Tf
+58 317.2002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 317.2002 Td
+(File compression) Tj
+ET
+BT
+/F2 7.4 Tf
+58 307.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 307.6002 Td
+(Keyboard macro logging) Tj
+ET
+BT
+/F2 8.0 Tf
+42 284.0002 Td
+(91.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 284.0002 Td
+(What does tempfile.NamedTemporaryFile\(\) provide?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 272.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 272.3001 Td
+(A permanent backup file) Tj
+ET
+BT
+/F2 7.4 Tf
+58 262.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 262.7001 Td
+(A temporary file with a visible filesystem) Tj
+ET
+BT
+/F1 7.4 Tf
+72 254.1001 Td
+(name that is automatically destroyed on) Tj
+ET
+BT
+/F1 7.4 Tf
+72 245.5001 Td
+(close) Tj
+ET
+BT
+/F2 7.4 Tf
+58 235.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 235.9001 Td
+(A virtual RAM disk) Tj
+ET
+BT
+/F2 7.4 Tf
+58 226.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 226.3001 Td
+(A temporary directory) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(92.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What does the traceback module allow developers) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(to do in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(Step through code line by line like a) Tj
+ET
+BT
+/F1 7.4 Tf
+336 754.5 Td
+(debugger) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.9 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.9 Td
+(Extract, format, and print detailed) Tj
+ET
+BT
+/F1 7.4 Tf
+336 736.3 Td
+(execution stack tracebacks programmatically) Tj
+ET
+BT
+/F2 7.4 Tf
+322 726.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 726.7001 Td
+(Undo file modifications) Tj
+ET
+BT
+/F2 7.4 Tf
+322 717.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 717.1001 Td
+(Rollback database commits) Tj
+ET
+BT
+/F2 8.0 Tf
+306 693.5001 Td
+(93.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 693.5001 Td
+(What does sys.exc_info\(\) return inside an except) Tj
+ET
+BT
+/F1 7.8 Tf
+322 684.3001 Td
+(block?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 672.6001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 672.6001 Td
+(A tuple of \(type, value, traceback\) for the) Tj
+ET
+BT
+/F1 7.4 Tf
+336 664.0001 Td
+(exception currently being handled) Tj
+ET
+BT
+/F2 7.4 Tf
+322 654.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 654.4001 Td
+(The name of the file that crashed) Tj
+ET
+BT
+/F2 7.4 Tf
+322 644.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 644.8002 Td
+(The line number of the error only) Tj
+ET
+BT
+/F2 7.4 Tf
+322 635.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 635.2002 Td
+(None) Tj
+ET
+BT
+/F2 8.0 Tf
+306 611.6002 Td
+(94.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 611.6002 Td
+(What occurs when calling warnings.warn\('Warning) Tj
+ET
+BT
+/F1 7.8 Tf
+322 602.4002 Td
+(Message', category=DeprecationWarning\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 590.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 590.7002 Td
+(Program crashes immediately with SystemError) Tj
+ET
+BT
+/F2 7.4 Tf
+322 581.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 581.1002 Td
+(Emits a non-fatal warning message to stderr) Tj
+ET
+BT
+/F1 7.4 Tf
+336 572.5002 Td
+(that can be filtered via the warnings module) Tj
+ET
+BT
+/F2 7.4 Tf
+322 562.9003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 562.9003 Td
+(Logs message to Windows Event Viewer) Tj
+ET
+BT
+/F2 7.4 Tf
+322 553.3003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 553.3003 Td
+(Prints message in bold red) Tj
+ET
+BT
+/F2 8.0 Tf
+306 529.7003 Td
+(95.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 529.7003 Td
+(What does json.dumps\(obj\) return versus) Tj
+ET
+BT
+/F1 7.8 Tf
+322 520.5003 Td
+(json.dump\(obj, file\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 508.8003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 508.8003 Td
+(json.dumps\(\) returns a serialized JSON) Tj
+ET
+BT
+/F1 7.4 Tf
+336 500.2003 Td
+(string; json.dump\(\) writes serialized JSON) Tj
+ET
+BT
+/F1 7.4 Tf
+336 491.6003 Td
+(directly to a file stream) Tj
+ET
+BT
+/F2 7.4 Tf
+322 482.0003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 482.0003 Td
+(json.dump\(\) is for strings; json.dumps\(\) is) Tj
+ET
+BT
+/F1 7.4 Tf
+336 473.4003 Td
+(for files) Tj
+ET
+BT
+/F2 7.4 Tf
+322 463.8003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 463.8003 Td
+(They are identical aliases) Tj
+ET
+BT
+/F2 7.4 Tf
+322 454.2003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 454.2003 Td
+(json.dumps\(\) encrypts data) Tj
+ET
+BT
+/F2 8.0 Tf
+306 430.6003 Td
+(96.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 430.6003 Td
+(Why will json.dumps\({'date': datetime.now\(\)}\)) Tj
+ET
+BT
+/F1 7.8 Tf
+322 421.4002 Td
+(raise a TypeError?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 409.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 409.7002 Td
+(Dictionaries cannot contain dates) Tj
+ET
+BT
+/F2 7.4 Tf
+322 400.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 400.1002 Td
+(datetime objects are not natively JSON) Tj
+ET
+BT
+/F1 7.4 Tf
+336 391.5002 Td
+(serializable by default without a custom) Tj
+ET
+BT
+/F1 7.4 Tf
+336 382.9002 Td
+(default serializer) Tj
+ET
+BT
+/F2 7.4 Tf
+322 373.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 373.3002 Td
+(JSON does not support dictionaries) Tj
+ET
+BT
+/F2 7.4 Tf
+322 363.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 363.7002 Td
+(Date is a reserved keyword) Tj
+ET
+BT
+/F2 8.0 Tf
+306 340.1002 Td
+(97.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 340.1002 Td
+(What is the purpose of the default parameter in) Tj
+ET
+BT
+/F1 7.8 Tf
+322 330.9002 Td
+(json.dumps\(obj, default=custom_serializer\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 319.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 319.2002 Td
+(Provides a fallback JSON string if parsing) Tj
+ET
+BT
+/F1 7.4 Tf
+336 310.6002 Td
+(fails) Tj
+ET
+BT
+/F2 7.4 Tf
+322 301.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 301.0002 Td
+(Specifies a callable to convert) Tj
+ET
+BT
+/F1 7.4 Tf
+336 292.4001 Td
+(non-serializable objects into) Tj
+ET
+BT
+/F1 7.4 Tf
+336 283.8001 Td
+(JSON-compatible primitives) Tj
+ET
+BT
+/F2 7.4 Tf
+322 274.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 274.2001 Td
+(Sets default indentation) Tj
+ET
+BT
+/F2 7.4 Tf
+322 264.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 264.6001 Td
+(Sorts dictionary keys) Tj
+ET
+BT
+/F2 8.0 Tf
+306 241.0001 Td
+(98.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 241.0001 Td
+(What does re.subn\(pattern, repl, string\) return) Tj
+ET
+BT
+/F1 7.8 Tf
+322 231.8001 Td
+(in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 220.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 220.1001 Td
+(A tuple containing: \(new_string,) Tj
+ET
+BT
+/F1 7.4 Tf
+336 211.5001 Td
+(number_of_substitutions_made\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 201.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 201.9001 Td
+(Only the number of substitutions) Tj
+ET
+BT
+/F2 7.4 Tf
+322 192.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 192.3001 Td
+(A list of strings) Tj
+ET
+BT
+/F2 7.4 Tf
+322 182.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 182.7001 Td
+(The matched spans) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 18 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+18 0 obj
+<< /Length 1653 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 6: FILES, EXCEPTIONS AND REGULAR EXPRESSIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 8 of 41) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(99.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What does the regex special sequence \\b) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(represent?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(Backspace character) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(Word boundary assertion \(transition between) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.9 Td
+(word character \\w and non-word character \\W\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 735.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 735.3 Td
+(Binary character) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.7001 Td
+(Beginning of buffer) Tj
+ET
+BT
+/F2 8.0 Tf
+42 692.1001 Td
+(100.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.1001 Td
+(What does re.escape\(string\) perform in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.4001 Td
+(Escapes all characters that might be) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.8001 Td
+(interpreted as regex metacharacters,) Tj
+ET
+BT
+/F1 7.4 Tf
+72 663.2001 Td
+(allowing safe literal matching) Tj
+ET
+BT
+/F2 7.4 Tf
+58 653.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 653.6002 Td
+(Converts string to ASCII) Tj
+ET
+BT
+/F2 7.4 Tf
+58 644.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 644.0002 Td
+(Strips quotes from string) Tj
+ET
+BT
+/F2 7.4 Tf
+58 634.4002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 634.4002 Td
+(Removes backslashes) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 20 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+20 0 obj
+<< /Length 5365 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 6: FILES, EXCEPTIONS AND REGULAR EXPRESSIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 9 of 41) Tj
+ET
+BT
+/F2 10 Tf
+45 780 Td
+(SECTION B: DESCRIPTIVE & SUBJECTIVE QUESTIONS) Tj
+ET
+BT
+/F2 8.5 Tf
+45 760 Td
+(Q1. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 760 Td
+(Explain File Handling in Python. Detail open\(\) modes \('r', 'w', 'a', 'x', '+', 'b'\), buffer) Tj
+ET
+BT
+/F1 8.5 Tf
+72 749.5 Td
+(flushing, and why Context Managers \(with\) are mandatory in production.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 724.5 Td
+(Q2. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 724.5 Td
+(Explain File Pointer Positioning using seek\(\) and tell\(\). Detail the 'whence' parameter \(0, 1, 2\)) Tj
+ET
+BT
+/F1 8.5 Tf
+72 714 Td
+(in text vs binary modes with practical file manipulation.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 689 Td
+(Q3. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 689 Td
+(Explain the os and os.path Modules in Python. Demonstrate directory navigation, directory) Tj
+ET
+BT
+/F1 8.5 Tf
+72 678.5 Td
+(creation, path joining, listing, file metadata, and shutil operations.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 653.5 Td
+(Q4. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 653.5 Td
+(Explain Modern Object-Oriented Path Management using the pathlib Module \(PEP 428\). Compare) Tj
+ET
+BT
+/F1 8.5 Tf
+72 643 Td
+(pathlib.Path with legacy os.path.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 618 Td
+(Q5. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 618 Td
+(Explain Object Serialization using the pickle Module. Detail pickle.dump\(\), pickle.load\(\), the) Tj
+ET
+BT
+/F1 8.5 Tf
+72 607.5 Td
+(pickle protocol versions, and security risks of unpickling untrusted data.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 582.5 Td
+(Q6. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 582.5 Td
+(Explain Exception Handling Architecture in Python: try, except, else, finally, and the Built-in) Tj
+ET
+BT
+/F1 8.5 Tf
+72 572 Td
+(Exception Hierarchy \(BaseException vs Exception\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 547 Td
+(Q7. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 547 Td
+(Explain Exception Raising, Exception Chaining \(raise ... from ...\), and Custom User-Defined) Tj
+ET
+BT
+/F1 8.5 Tf
+72 536.5 Td
+(Exception Classes in Python with domain models.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 511.5 Td
+(Q8. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 511.5 Td
+(Explain the re Module Architecture in Python. Detail regex compilation, pattern matching) Tj
+ET
+BT
+/F1 8.5 Tf
+72 501 Td
+(lifecycle, and compare match\(\), search\(\), findall\(\), finditer\(\), and sub\(\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 476 Td
+(Q9. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 476 Td
+(Explain Regular Expression Metacharacters, Quantifiers, and Character Classes in Python. Contrast) Tj
+ET
+BT
+/F1 8.5 Tf
+72 465.5 Td
+(Greedy versus Non-Greedy \(Lazy\) Matching with illustrative HTML parsing.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 440.5 Td
+(Q10. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 440.5 Td
+(Explain Capturing Groups, Non-Capturing Groups, Named Groups, and Backreferences in Python Regular) Tj
+ET
+BT
+/F1 8.5 Tf
+72 430 Td
+(Expressions with practical code examples.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 405 Td
+(Q11. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 405 Td
+(Explain Lookahead and Lookbehind Assertions \(Zero-Width Assertions\) in Python Regular Expressions:) Tj
+ET
+BT
+/F1 8.5 Tf
+72 394.5 Td
+(\(?=...\), \(?!...\), \(?<=...\), and \(?<!...\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 369.5 Td
+(Q12. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 369.5 Td
+(Implement a Robust CSV and JSON File Data Processing Utility in Python with schema validation,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 359 Td
+(type parsing, and transactional file writing.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 334 Td
+(Q13. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 334 Td
+(Implement a Web Server Log File Parser in Python using Regular Expressions, extracting IP) Tj
+ET
+BT
+/F1 8.5 Tf
+72 323.5 Td
+(addresses, HTTP status codes, endpoints, and error distributions.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 298.5 Td
+(Q14. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 298.5 Td
+(Implement an Enterprise Configuration File Manager in Python supporting .env parsing, variable) Tj
+ET
+BT
+/F1 8.5 Tf
+72 288 Td
+(expansion, type coercion, and comments.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 263 Td
+(Q15. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 263 Td
+(Implement a Credit Card and Phone Number Validator in Python using Luhn's Algorithm and Regular) Tj
+ET
+BT
+/F1 8.5 Tf
+72 252.5 Td
+(Expressions.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 227.5 Td
+(Q16. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 227.5 Td
+(Implement a Sensitive Data Sanitizer and PII Redactor in Python using Regular Expressions to mask) Tj
+ET
+BT
+/F1 8.5 Tf
+72 217 Td
+(emails, phone numbers, and SSNs in unstructured text.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 192 Td
+(Q17. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 192 Td
+(Implement a File Deduplication and Checksum Verification Tool in Python using hashlib \(SHA-256\)) Tj
+ET
+BT
+/F1 8.5 Tf
+72 181.5 Td
+(and os.walk to detect identical files across directories.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 156.5 Td
+(Q18. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 156.5 Td
+(Implement an Automated Log Rotation and Compression Daemon Simulation in Python using gzip, os,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 146 Td
+(and time.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 121 Td
+(Q19. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 121 Td
+(Implement an INI-Style Configuration Parser in Python using Regular Expressions without external) Tj
+ET
+BT
+/F1 8.5 Tf
+72 110.5 Td
+(libraries.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 85.5 Td
+(Q20. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 85.5 Td
+(Implement a Safe Atomic File Writer in Python using Context Managers, ensuring files are never) Tj
+ET
+BT
+/F1 8.5 Tf
+72 75 Td
+(corrupted by mid-write crashes.) Tj
+ET
+
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 22 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+22 0 obj
+<< /Length 2666 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 6: FILES, EXCEPTIONS AND REGULAR EXPRESSIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 10 of 41) Tj
+ET
+BT
+/F2 8.5 Tf
+45 780 Td
+(Q21. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 780 Td
+(Implement a Markdown to HTML Converter in Python using Regular Expressions for headers, bold,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 769.5 Td
+(italics, links, and code blocks.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 743.5 Td
+(Q22. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 743.5 Td
+(Implement an Asynchronous Exception-Resilient Web Crawler Queue Simulation in Python with retry) Tj
+ET
+BT
+/F1 8.5 Tf
+72 733 Td
+(budgets and exponential backoff.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 707 Td
+(Q23. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 707 Td
+(Implement a Data File Anonymization Utility in Python using Regex and CSV to mask names and IP) Tj
+ET
+BT
+/F1 8.5 Tf
+72 696.5 Td
+(addresses in security audit logs.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 670.5 Td
+(Q24. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 670.5 Td
+(Implement a Custom Binary Protocol Pack/Unpack Serializer in Python using struct module for) Tj
+ET
+BT
+/F1 8.5 Tf
+72 660 Td
+(fixed-width packet serialization.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 634 Td
+(Q25. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 634 Td
+(Implement a Multi-Threaded File Downloader Simulator in Python using concurrent.futures and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 623.5 Td
+(exception handling for failed chunks.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 597.5 Td
+(Q26. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 597.5 Td
+(Implement a File Integrity Verification Utility in Python that computes MD5, SHA-1, and SHA-256) Tj
+ET
+BT
+/F1 8.5 Tf
+72 587 Td
+(digests simultaneously in a single file pass.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 561 Td
+(Q27. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 561 Td
+(Implement a Universal File Format Detector in Python using Magic Numbers \(File Signatures\) by) Tj
+ET
+BT
+/F1 8.5 Tf
+72 550.5 Td
+(inspecting the first 8 header bytes.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 524.5 Td
+(Q28. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 524.5 Td
+(Implement a Syntax Highlighter Lexer in Python using Regular Expressions to tokenize Python source) Tj
+ET
+BT
+/F1 8.5 Tf
+72 514 Td
+(code into Keywords, Identifiers, Numbers, Strings, and Operators.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 488 Td
+(Q29. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 488 Td
+(Implement an Exception-Safe Transactional Database File Journaling System in Python using) Tj
+ET
+BT
+/F1 8.5 Tf
+72 477.5 Td
+(write-ahead logs \(WAL\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 451.5 Td
+(Q30. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 451.5 Td
+(Implement a Complete Email, URL, and Date Format Extractor in Python using Regular Expressions) Tj
+ET
+BT
+/F1 8.5 Tf
+72 441 Td
+(with rigorous boundary constraints.) Tj
+ET
+
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 24 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+24 0 obj
+<< /Length 8429 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 6: FILES, EXCEPTIONS AND REGULAR EXPRESSIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 11 of 41) Tj
+ET
+BT
+/F2 11 Tf
+45 780 Td
+(SECTION C: ANSWER KEY - MULTIPLE CHOICE QUESTIONS) Tj
+ET
+0.5 w
+45 772 m 550 772 l S
+BT
+/F2 8.5 Tf
+45 750 Td
+(Q1: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 750 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 734 Td
+(Q2: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 734 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 718 Td
+(Q3: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 718 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 702 Td
+(Q4: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 702 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 686 Td
+(Q5: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 686 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 670 Td
+(Q6: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 670 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 654 Td
+(Q7: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 654 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 638 Td
+(Q8: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 638 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 622 Td
+(Q9: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 622 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 606 Td
+(Q10: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 606 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 590 Td
+(Q11: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 574 Td
+(Q12: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 574 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 558 Td
+(Q13: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 542 Td
+(Q14: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 542 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 526 Td
+(Q15: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 526 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 510 Td
+(Q16: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 510 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 494 Td
+(Q17: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 494 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 478 Td
+(Q18: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 478 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 462 Td
+(Q19: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 446 Td
+(Q20: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 446 Td
+([A]) Tj
+ET
+0.2 w
+135 755 m 135 425 l S
+BT
+/F2 8.5 Tf
+145 750 Td
+(Q21: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 750 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 734 Td
+(Q22: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 734 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 718 Td
+(Q23: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 718 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 702 Td
+(Q24: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 702 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 686 Td
+(Q25: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 686 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 670 Td
+(Q26: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 670 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 654 Td
+(Q27: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 654 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 638 Td
+(Q28: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 638 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 622 Td
+(Q29: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 622 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 606 Td
+(Q30: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 606 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 590 Td
+(Q31: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 590 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 574 Td
+(Q32: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 574 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 558 Td
+(Q33: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 558 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 542 Td
+(Q34: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 542 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 526 Td
+(Q35: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 526 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 510 Td
+(Q36: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 510 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 494 Td
+(Q37: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 494 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 478 Td
+(Q38: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 478 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 462 Td
+(Q39: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 462 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 446 Td
+(Q40: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 446 Td
+([C]) Tj
+ET
+0.2 w
+235 755 m 235 425 l S
+BT
+/F2 8.5 Tf
+245 750 Td
+(Q41: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 750 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 734 Td
+(Q42: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 718 Td
+(Q43: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 718 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 702 Td
+(Q44: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 686 Td
+(Q45: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 686 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 670 Td
+(Q46: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 670 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 654 Td
+(Q47: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 654 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 638 Td
+(Q48: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 638 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 622 Td
+(Q49: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 606 Td
+(Q50: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 590 Td
+(Q51: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 590 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 574 Td
+(Q52: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 574 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 558 Td
+(Q53: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 558 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 542 Td
+(Q54: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 526 Td
+(Q55: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 526 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 510 Td
+(Q56: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 510 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 494 Td
+(Q57: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 494 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 478 Td
+(Q58: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 462 Td
+(Q59: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 446 Td
+(Q60: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 446 Td
+([B]) Tj
+ET
+0.2 w
+335 755 m 335 425 l S
+BT
+/F2 8.5 Tf
+345 750 Td
+(Q61: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 750 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 734 Td
+(Q62: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 734 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 718 Td
+(Q63: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 718 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 702 Td
+(Q64: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 702 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 686 Td
+(Q65: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 670 Td
+(Q66: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 654 Td
+(Q67: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 654 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 638 Td
+(Q68: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 638 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 622 Td
+(Q69: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 622 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 606 Td
+(Q70: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 606 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 590 Td
+(Q71: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 590 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 574 Td
+(Q72: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 574 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 558 Td
+(Q73: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 542 Td
+(Q74: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 542 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 526 Td
+(Q75: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 526 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 510 Td
+(Q76: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 510 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 494 Td
+(Q77: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 494 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 478 Td
+(Q78: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 478 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 462 Td
+(Q79: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 462 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 446 Td
+(Q80: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 446 Td
+([A]) Tj
+ET
+0.2 w
+435 755 m 435 425 l S
+BT
+/F2 8.5 Tf
+445 750 Td
+(Q81: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 734 Td
+(Q82: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 734 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 718 Td
+(Q83: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 702 Td
+(Q84: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 686 Td
+(Q85: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 670 Td
+(Q86: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 654 Td
+(Q87: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 654 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 638 Td
+(Q88: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 622 Td
+(Q89: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 606 Td
+(Q90: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 606 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 590 Td
+(Q91: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 590 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 574 Td
+(Q92: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 574 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 558 Td
+(Q93: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 542 Td
+(Q94: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 542 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 526 Td
+(Q95: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 510 Td
+(Q96: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 510 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 494 Td
+(Q97: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 494 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 478 Td
+(Q98: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 462 Td
+(Q99: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 462 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 446 Td
+(Q100: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 446 Td
+([A]) Tj
+ET
+0.5 w
+45 400 m 550 400 l 550 340 l 45 340 l s
+BT
+/F2 9 Tf
+55 382 Td
+(MCQ Scoring Guide & Difficulty Distribution:) Tj
+ET
+BT
+/F1 8.5 Tf
+55 366 Td
+(Questions 1 to 40: Foundational & Conceptual [Easy] | Questions 41 to 75: Analytical & Applied [Moderate]) Tj
+ET
+BT
+/F1 8.5 Tf
+55 350 Td
+(Questions 76 to 100: Complex Numerical & Advanced Problem Solving [Difficult]) Tj
+ET
+
+endstream
+endobj
+25 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 26 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+26 0 obj
+<< /Length 3627 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 6: FILES, EXCEPTIONS AND REGULAR EXPRESSIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 12 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(SECTION D: DETAILED SOLUTIONS FOR SUBJECTIVE QUESTIONS) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(================================================================================) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 1:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain File Handling in Python. Detail open\(\) modes \('r', 'w', 'a', 'x', '+', 'b'\), buffer flushing, and why Context Managers \(with\) are mandatory in production.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Theoretical Principles of File I/O:) Tj
+T*
+(   File I/O enables persistent data storage on non-volatile secondary media.) Tj
+T*
+(   In Python, file interaction follows a strict three-phase lifecycle:) Tj
+T*
+(   1. Open Stream: Binding a file path to an OS file descriptor via open\(\).) Tj
+T*
+(   2. Read/Write Operations: Transferring byte/character streams between system memory and storage) Tj
+T*
+(   buffers.) Tj
+T*
+(   3. Close Stream: Flushing memory buffers and releasing the file descriptor back to the) Tj
+T*
+(   operating system.) Tj
+T*
+() Tj
+T*
+(   2. Comprehensive File Mode Inventory:) Tj
+T*
+(   - 'r': Read-only \(Default\). File must exist; otherwise raises FileNotFoundError. Pointer at) Tj
+T*
+(   start.) Tj
+T*
+(   - 'w': Write-only. Creates file if missing; TRUNCATES existing file to 0 bytes! Pointer at) Tj
+T*
+(   start.) Tj
+T*
+(   - 'a': Append. Creates file if missing. Writes ALWAYS append to the end of file.) Tj
+T*
+(   - 'x': Exclusive creation. Creates file; raises FileExistsError if file already exists.) Tj
+T*
+(   - 'b': Binary mode \(rb, wb, ab\). Reads/writes raw bytes \(bytes\) without character decoding.) Tj
+T*
+(   - 't': Text mode \(Default\). Handles encoding/decoding \(UTF-8\) and newline translations.) Tj
+T*
+(   - '+': Update mode \(r+, w+, a+\). Opens file for simultaneous reading and writing.) Tj
+T*
+() Tj
+T*
+(   3. The with Statement \(Context Manager\):) Tj
+T*
+(   Failing to close files causes File Descriptor Leaks. In long-running servers, exhausting) Tj
+T*
+(   available file descriptors causes all subsequent file and socket operations to crash.) Tj
+T*
+(   The with statement implements the Context Manager Protocol \(__enter__ and __exit__\). It) Tj
+T*
+(   guarantees that the file stream is flushed and closed when execution leaves the block, even) Tj
+T*
+(   during unexpected exceptions!) Tj
+T*
+() Tj
+T*
+(   4. Python Code Demonstration:) Tj
+T*
+(   import os) Tj
+T*
+() Tj
+T*
+(   def file_io_demonstration\(filename="audit_log.txt"\):) Tj
+T*
+(   # Safe writing via context manager) Tj
+T*
+(   with open\(filename, "w", encoding="utf-8"\) as f:) Tj
+T*
+(   f.write\("Line 1: System Boot Initialized.\\n"\)) Tj
+T*
+(   f.write\("Line 2: Memory Integrity Verified.\\n"\)) Tj
+T*
+() Tj
+T*
+(   # Safe appending) Tj
+T*
+(   with open\(filename, "a", encoding="utf-8"\) as f:) Tj
+T*
+(   f.write\("Line 3: Service Worker Online.\\n"\)) Tj
+T*
+() Tj
+T*
+(   # Reading via line-by-line generator iteration) Tj
+T*
+(   print\("Reading file line-by-line:"\)) Tj
+T*
+(   with open\(filename, "r", encoding="utf-8"\) as f:) Tj
+T*
+(   for line_num, line in enumerate\(f, start=1\):) Tj
+T*
+(   print\(f" [{line_num}] {line.strip\(\)}"\)) Tj
+T*
+() Tj
+T*
+(   print\(f"Is file closed after with block? {f.closed}"\)) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+27 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 28 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+28 0 obj
+<< /Length 3167 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 6: FILES, EXCEPTIONS AND REGULAR EXPRESSIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 13 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   # Cleanup test artifact) Tj
+T*
+(   if os.path.exists\(filename\):) Tj
+T*
+(   os.remove\(filename\)) Tj
+T*
+() Tj
+T*
+(   file_io_demonstration\(\)) Tj
+T*
+() Tj
+T*
+(   5. Complexity Analysis:) Tj
+T*
+(   - File Open / Close Overhead: O\(1\) OS syscall.) Tj
+T*
+(   - Line Iteration Time: O\(N\) where N is file size; Space: O\(1\) streaming buffer memory.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 2:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain File Pointer Positioning using seek\(\) and tell\(\). Detail the 'whence' parameter \(0, 1, 2\) in text vs binary modes with practical file manipulation.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. File Pointer Mechanics:) Tj
+T*
+(   An open file object maintains an internal cursor \(File Pointer\) tracking the byte position) Tj
+T*
+(   where the next read or write operation will occur.) Tj
+T*
+(   - tell\(\): Returns the current absolute byte offset of the file pointer from the beginning of) Tj
+T*
+(   the file.) Tj
+T*
+(   - seek\(offset, whence=0\): Repositions the file pointer to a new location calculated from whence) Tj
+T*
+(   reference point:) Tj
+T*
+(   - whence = 0 \(os.SEEK_SET\): Relative to the beginning of the file \(offset must be >= 0\).) Tj
+T*
+(   - whence = 1 \(os.SEEK_CUR\): Relative to the current pointer position.) Tj
+T*
+(   - whence = 2 \(os.SEEK_END\): Relative to the end of the file.) Tj
+T*
+() Tj
+T*
+(   2. Text Mode vs Binary Mode Restrictions:) Tj
+T*
+(   In Text Mode on Python 3:) Tj
+T*
+(   - seek\(\) relative to current \(1\) or end \(2\) is restricted! Calling seek\(-5, 2\) in text mode) Tj
+T*
+(   raises an OSError: can't do nonzero end-relative seeks.) Tj
+T*
+(   - In Binary Mode \('rb', 'wb'\), arbitrary positive or negative seeks relative to start, current,) Tj
+T*
+(   or end are fully supported.) Tj
+T*
+() Tj
+T*
+(   3. Python Code Demonstration:) Tj
+T*
+(   import os) Tj
+T*
+() Tj
+T*
+(   def demonstrate_seek_and_tell\(bin_file="stream.bin"\):) Tj
+T*
+(   # Write sample binary payload: bytes 0 to 9) Tj
+T*
+(   payload = bytes\([10, 20, 30, 40, 50, 60, 70, 80, 90, 100]\)) Tj
+T*
+(   with open\(bin_file, "wb"\) as f:) Tj
+T*
+(   f.write\(payload\)) Tj
+T*
+() Tj
+T*
+(   with open\(bin_file, "rb"\) as f:) Tj
+T*
+(   print\(f"Initial Pointer via tell\(\): {f.tell\(\)} \(Start of file\)"\)) Tj
+T*
+() Tj
+T*
+(   # Read first 3 bytes) Tj
+T*
+(   data = f.read\(3\)) Tj
+T*
+(   print\(f"Read 3 bytes: {list\(data\)} | Current Pointer: {f.tell\(\)}"\)) Tj
+T*
+() Tj
+T*
+(   # Seek from beginning \(whence = 0\)) Tj
+T*
+(   f.seek\(6, os.SEEK_SET\)) Tj
+T*
+(   print\(f"After seek\(6, SEEK_SET\): Pointer is at {f.tell\(\)} | Byte: {f.read\(1\)[0]}"\)) Tj
+T*
+() Tj
+T*
+(   # Seek relative to current \(whence = 1\)) Tj
+T*
+ET
+
+endstream
+endobj
+29 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 30 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+30 0 obj
+<< /Length 3285 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 6: FILES, EXCEPTIONS AND REGULAR EXPRESSIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 14 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   f.seek\(-2, os.SEEK_CUR\)) Tj
+T*
+(   print\(f"After seek\(-2, SEEK_CUR\): Pointer is at {f.tell\(\)} | Byte: {f.read\(1\)[0]}"\)) Tj
+T*
+() Tj
+T*
+(   # Seek relative to end of file \(whence = 2\)) Tj
+T*
+(   f.seek\(-2, os.SEEK_END\)) Tj
+T*
+(   print\(f"After seek\(-2, SEEK_END\): Pointer is at {f.tell\(\)} | Remaining: {list\(f.read\(\)\)}"\)) Tj
+T*
+() Tj
+T*
+(   if os.path.exists\(bin_file\):) Tj
+T*
+(   os.remove\(bin_file\)) Tj
+T*
+() Tj
+T*
+(   demonstrate_seek_and_tell\(\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+(   - seek\(\) / tell\(\) Time Complexity: O\(1\) direct OS lseek syscall.) Tj
+T*
+(   - Space Complexity: O\(1\) auxiliary frame memory.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 3:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the os and os.path Modules in Python. Demonstrate directory navigation, directory creation, path joining, listing, file metadata, and shutil operations.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Theoretical Foundations of Filesystem Operations:) Tj
+T*
+(   The os and os.path modules provide cross-platform abstractions over operating system filesystem) Tj
+T*
+(   APIs:) Tj
+T*
+(   - Path Normalization: os.path.join\('a', 'b'\) uses backslashes on Windows \('a\\\\b'\) and forward) Tj
+T*
+(   slashes on POSIX \('a/b'\).) Tj
+T*
+(   - Inspection: os.path.exists\(\), os.path.isfile\(\), os.path.isdir\(\), os.path.getsize\(\).) Tj
+T*
+(   - Directory Management: os.mkdir\(\) \(single directory\), os.makedirs\(\) \(recursive parent) Tj
+T*
+(   directory creation\), os.listdir\(\), os.scandir\(\).) Tj
+T*
+(   - High-Level Shell Utilities \(shutil\): shutil.copy2\(\) \(copies file preserving metadata\),) Tj
+T*
+(   shutil.move\(\), shutil.rmtree\(\) \(recursive directory deletion\).) Tj
+T*
+() Tj
+T*
+(   2. Python Implementation & Demonstration:) Tj
+T*
+(   import os) Tj
+T*
+(   import shutil) Tj
+T*
+() Tj
+T*
+(   def filesystem_pipeline_demo\(base_dir="test_sandbox"\):) Tj
+T*
+(   # 1. Create nested directory hierarchy) Tj
+T*
+(   target_dir = os.path.join\(base_dir, "logs", "2026"\)) Tj
+T*
+(   os.makedirs\(target_dir, exist_ok=True\)) Tj
+T*
+(   print\(f"Created Directory: {target_dir}"\)) Tj
+T*
+() Tj
+T*
+(   # 2. Create sample file) Tj
+T*
+(   sample_file = os.path.join\(target_dir, "sys.log"\)) Tj
+T*
+(   with open\(sample_file, "w", encoding="utf-8"\) as f:) Tj
+T*
+(   f.write\("Server operational: Port 8080\\n"\)) Tj
+T*
+() Tj
+T*
+(   # 3. File metadata inspection) Tj
+T*
+(   print\(f"os.path.exists: {os.path.exists\(sample_file\)}"\)) Tj
+T*
+(   print\(f"os.path.isfile: {os.path.isfile\(sample_file\)}"\)) Tj
+T*
+(   print\(f"os.path.basename: {os.path.basename\(sample_file\)}"\)) Tj
+T*
+(   print\(f"os.path.dirname: {os.path.dirname\(sample_file\)}"\)) Tj
+T*
+(   print\(f"File Size: {os.path.getsize\(sample_file\)} bytes"\)) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+31 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 32 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+32 0 obj
+<< /Length 3161 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 6: FILES, EXCEPTIONS AND REGULAR EXPRESSIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 15 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   # 4. Copying file via shutil) Tj
+T*
+(   backup_file = os.path.join\(target_dir, "sys_backup.log"\)) Tj
+T*
+(   shutil.copy2\(sample_file, backup_file\)) Tj
+T*
+(   print\(f"Directory Contents: {os.listdir\(target_dir\)}"\)) Tj
+T*
+() Tj
+T*
+(   # 5. Clean teardown via shutil.rmtree) Tj
+T*
+(   shutil.rmtree\(base_dir\)) Tj
+T*
+(   print\(f"Successfully cleaned sandbox directory: {base_dir}"\)) Tj
+T*
+() Tj
+T*
+(   filesystem_pipeline_demo\(\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Path operations: O\(1\) string concatenations.) Tj
+T*
+(   - rmtree Time: O\(Total Inodes\) recursive traversal.) Tj
+T*
+(   - Space Complexity: O\(Depth\) directory recursion.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 4:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Modern Object-Oriented Path Management using the pathlib Module \(PEP 428\). Compare pathlib.Path with legacy os.path.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Theoretical Motivation for pathlib \(PEP 428\):) Tj
+T*
+(   In legacy Python, filesystem paths were represented as raw strings manipulated via disparate) Tj
+T*
+(   functions scattered across os, os.path, glob, and shutil. This led to cumbersome, error-prone) Tj
+T*
+(   string operations.) Tj
+T*
+(   Introduced in Python 3.4, pathlib encapsulates filesystem paths as rich first-class objects) Tj
+T*
+(   \(Path\):) Tj
+T*
+(   - Operator Overloading: The division operator \(/\) is overloaded for intuitive,) Tj
+T*
+(   platform-independent path concatenation: path = Path\('base'\) / 'sub' / 'file.txt'.) Tj
+T*
+(   - Fluent API: Reading, writing, checking existence, and finding extensions are methods on the) Tj
+T*
+(   Path object itself.) Tj
+T*
+() Tj
+T*
+(   2. Python Code Demonstration:) Tj
+T*
+(   from pathlib import Path) Tj
+T*
+() Tj
+T*
+(   def pathlib_modern_demo\(\):) Tj
+T*
+(   # 1. Instantiate Path object) Tj
+T*
+(   sandbox = Path\("modern_sandbox"\)) Tj
+T*
+(   sub_dir = sandbox / "config" / "json" # Intuitive / operator!) Tj
+T*
+() Tj
+T*
+(   # Create directory tree) Tj
+T*
+(   sub_dir.mkdir\(parents=True, exist_ok=True\)) Tj
+T*
+() Tj
+T*
+(   # 2. Path components introspection) Tj
+T*
+(   target_file = sub_dir / "app_settings.json") Tj
+T*
+(   print\(f"Path Object: {target_file}"\)) Tj
+T*
+(   print\(f"File Name: {target_file.name}"\)) Tj
+T*
+(   print\(f"File Stem: {target_file.stem}"\)) Tj
+T*
+(   print\(f"File Suffix: {target_file.suffix}"\)) Tj
+T*
+(   print\(f"Parent Dir: {target_file.parent}"\)) Tj
+T*
+() Tj
+T*
+(   # 3. Fluent Read/Write methods \(no open/close boilerplate!\)) Tj
+T*
+(   target_file.write_text\('{"env": "production", "debug": false}', encoding="utf-8"\)) Tj
+T*
+(   content = target_file.read_text\(encoding="utf-8"\)) Tj
+T*
+ET
+
+endstream
+endobj
+33 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 34 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+34 0 obj
+<< /Length 3175 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 6: FILES, EXCEPTIONS AND REGULAR EXPRESSIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 16 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   print\(f"Read Content via read_text\(\): {content}"\)) Tj
+T*
+() Tj
+T*
+(   # 4. Path globbing) Tj
+T*
+(   found_files = list\(sandbox.rglob\("*.json"\)\)) Tj
+T*
+(   print\(f"Glob Found Files: {found_files}"\)) Tj
+T*
+() Tj
+T*
+(   # Cleanup) Tj
+T*
+(   target_file.unlink\(\) # Delete file) Tj
+T*
+(   sub_dir.rmdir\(\)) Tj
+T*
+(   \(sandbox / "config"\).rmdir\(\)) Tj
+T*
+(   sandbox.rmdir\(\)) Tj
+T*
+(   print\("Cleaned pathlib sandbox successfully."\)) Tj
+T*
+() Tj
+T*
+(   pathlib_modern_demo\(\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Path Operations: O\(1\) object allocations.) Tj
+T*
+(   - File Read/Write: O\(N\) where N is file size.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 5:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Object Serialization using the pickle Module. Detail pickle.dump\(\), pickle.load\(\), the pickle protocol versions, and security risks of unpickling untrusted data.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Theoretical Basis of Pickling:) Tj
+T*
+(   Pickling is Python's native binary serialization format that converts an arbitrary in-memory) Tj
+T*
+(   Python object hierarchy into an architecture-independent byte stream.) Tj
+T*
+(   - Serialization \(Pickling\): pickle.dump\(obj, file\) or pickle.dumps\(obj\) -> bytes.) Tj
+T*
+(   - Deserialization \(Unpickling\): pickle.load\(file\) or pickle.loads\(bytes\) -> obj.) Tj
+T*
+(   - Protocol Versions: Python 3.8+ defaults to Pickle Protocol 5 \(PEP 574\), supporting) Tj
+T*
+(   out-of-band data buffers for massive NumPy/machine learning arrays.) Tj
+T*
+() Tj
+T*
+(   2. Critical Security Vulnerability of Pickle \(Remote Code Execution\):) Tj
+T*
+(   Pickle is NOT secure against malicious data!) Tj
+T*
+(   When an object is unpickled, Python invokes the object's __reduce__\(\) method. An attacker can) Tj
+T*
+(   craft a malicious pickle payload whose __reduce__\(\) method instructs the PVM to call) Tj
+T*
+(   os.system\('malicious_command'\), executing arbitrary code on the victim machine with full user) Tj
+T*
+(   privileges!) Tj
+T*
+(   Industry Rule: NEVER unpickle untrusted data received over a network or from unauthenticated) Tj
+T*
+(   users. Use JSON or Protocol Buffers instead.) Tj
+T*
+() Tj
+T*
+(   3. Python Implementation & Demonstration:) Tj
+T*
+(   import pickle) Tj
+T*
+(   import os) Tj
+T*
+() Tj
+T*
+(   class NeuralNetConfig:) Tj
+T*
+(   def __init__\(self, layers: list, learning_rate: float\):) Tj
+T*
+(   self.layers = layers) Tj
+T*
+(   self.learning_rate = learning_rate) Tj
+T*
+(   self.weights = {"W1": [0.25, -0.1], "W2": [0.88, 0.45]}) Tj
+T*
+() Tj
+T*
+(   def __repr__\(self\):) Tj
+T*
+(   return f"NeuralNetConfig\(layers={self.layers}, lr={self.learning_rate}\)") Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+35 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 36 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+36 0 obj
+<< /Length 3390 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 6: FILES, EXCEPTIONS AND REGULAR EXPRESSIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 17 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   def test_pickling_lifecycle\(filename="model.pkl"\):) Tj
+T*
+(   orig_config = NeuralNetConfig\([128, 64, 10], 0.001\)) Tj
+T*
+() Tj
+T*
+(   # 1. Serialize to binary file) Tj
+T*
+(   with open\(filename, "wb"\) as f:) Tj
+T*
+(   pickle.dump\(orig_config, f, protocol=pickle.HIGHEST_PROTOCOL\)) Tj
+T*
+() Tj
+T*
+(   print\(f"Serialized object to {filename} \({os.path.getsize\(filename\)} bytes\)"\)) Tj
+T*
+() Tj
+T*
+(   # 2. Deserialize from binary file) Tj
+T*
+(   with open\(filename, "rb"\) as f:) Tj
+T*
+(   restored_config = pickle.load\(f\)) Tj
+T*
+() Tj
+T*
+(   print\(f"Restored Object: {restored_config}"\)) Tj
+T*
+(   print\(f"Weights Intact: {restored_config.weights}"\)) Tj
+T*
+(   print\(f"Deep Clone Check \(is\): {restored_config is not orig_config}"\)) Tj
+T*
+() Tj
+T*
+(   if os.path.exists\(filename\):) Tj
+T*
+(   os.remove\(filename\)) Tj
+T*
+() Tj
+T*
+(   test_pickling_lifecycle\(\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+(   - Serialization Time: O\(Total Nodes\) recursive object graph traversal.) Tj
+T*
+(   - Space Complexity: O\(Byte Stream Length\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 6:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Exception Handling Architecture in Python: try, except, else, finally, and the Built-in Exception Hierarchy \(BaseException vs Exception\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Theoretical Foundations of Exception Handling:) Tj
+T*
+(   Exceptions are runtime events that disrupt normal program instruction flow when errors occur.) Tj
+T*
+(   Python's structured exception handling consists of four complementary clauses:) Tj
+T*
+(   1. try: Encloses code that could potentially encounter a runtime exception.) Tj
+T*
+(   2. except: Intercepts and handles matching exceptions, preventing process termination.) Tj
+T*
+(   3. else: Executes if and only if the try block completes successfully with zero exceptions!) Tj
+T*
+(   4. finally: Guaranteed execution block; runs under all circumstances \(normal completion, caught) Tj
+T*
+(   exceptions, uncaught exceptions, and early return statements\). Used for resource deallocation.) Tj
+T*
+() Tj
+T*
+(   2. Built-in Exception Hierarchy:) Tj
+T*
+(   - BaseException: The root ancestor of all exceptions.) Tj
+T*
+(   - KeyboardInterrupt: Raised when user presses Ctrl+C.) Tj
+T*
+(   - SystemExit: Raised by sys.exit\(\).) Tj
+T*
+(   - GeneratorExit: Raised when generator closes.) Tj
+T*
+(   - Exception: The base class for all non-system-exiting application exceptions!) Tj
+T*
+(   - ArithmeticError \(ZeroDivisionError, OverflowError\)) Tj
+T*
+(   - LookupError \(IndexError, KeyError\)) Tj
+T*
+(   - OSError \(FileNotFoundError, PermissionError, TimeoutError\)) Tj
+T*
+(   - ValueError, TypeError, AttributeError.) Tj
+T*
+() Tj
+T*
+(   3. Python Code Demonstration:) Tj
+T*
+(   def robust_division_service\(numerator, denominator\):) Tj
+T*
+(   print\(f"\\n--- Attempting: {numerator} / {denominator} ---"\)) Tj
+T*
+ET
+
+endstream
+endobj
+37 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 38 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+38 0 obj
+<< /Length 3235 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 6: FILES, EXCEPTIONS AND REGULAR EXPRESSIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 18 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   result = None) Tj
+T*
+() Tj
+T*
+(   try:) Tj
+T*
+(   n = float\(numerator\)) Tj
+T*
+(   d = float\(denominator\)) Tj
+T*
+(   result = n / d) Tj
+T*
+(   except ZeroDivisionError as ex:) Tj
+T*
+(   print\(f"[EXCEPT] Mathematical Error: Cannot divide by zero \({ex}\)"\)) Tj
+T*
+(   except ValueError as ex:) Tj
+T*
+(   print\(f"[EXCEPT] Conversion Error: Non-numeric operand passed \({ex}\)"\)) Tj
+T*
+(   except Exception as ex:) Tj
+T*
+(   print\(f"[EXCEPT] Unexpected Failure: {type\(ex\).__name__} -> {ex}"\)) Tj
+T*
+(   else:) Tj
+T*
+(   print\(f"[ELSE] Division completed successfully! Result = {result:.4f}"\)) Tj
+T*
+(   finally:) Tj
+T*
+(   print\("[FINALLY] Cleanup routine completed. Execution channel closed."\)) Tj
+T*
+() Tj
+T*
+(   return result) Tj
+T*
+() Tj
+T*
+(   # Verification of all execution paths) Tj
+T*
+(   robust_division_service\(100, 4\) # Triggers try -> else -> finally) Tj
+T*
+(   robust_division_service\(100, 0\) # Triggers try -> except \(ZeroDivisionError\) -> finally) Tj
+T*
+(   robust_division_service\("abc", 5\) # Triggers try -> except \(ValueError\) -> finally) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+(   - Happy Path Time: Zero cost \(zero-cost exceptions in Python 3.11+\).) Tj
+T*
+(   - Exception Path Time: O\(Stack Depth\) traceback construction.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 7:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Exception Raising, Exception Chaining \(raise ... from ...\), and Custom User-Defined Exception Classes in Python with domain models.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Raising and Re-Raising Exceptions:) Tj
+T*
+(   The raise statement triggers an exception immediately: raise ValueError\('Message'\).) Tj
+T*
+(   Writing a bare raise inside an except block re-raises the active exception currently being) Tj
+T*
+(   handled, preserving the original traceback.) Tj
+T*
+() Tj
+T*
+(   2. Exception Chaining \(PEP 3134\):) Tj
+T*
+(   When translating low-level technical errors \(e.g., sqlite3.OperationalError\) into high-level) Tj
+T*
+(   business domain exceptions \(e.g., DatabaseQueryFailed\):) Tj
+T*
+(   Syntax: raise CustomException\('Context'\) from original_error) Tj
+T*
+(   - Sets the __cause__ attribute on the new exception, explicitly linking both errors in the) Tj
+T*
+(   traceback.) Tj
+T*
+(   - If from None is used \(raise CustomException\(...\) from None\), it suppresses the context,) Tj
+T*
+(   hiding sensitive underlying tracebacks.) Tj
+T*
+() Tj
+T*
+(   3. User-Defined Exception Hierarchy:) Tj
+T*
+(   Best practice: Define a base domain exception inheriting from Exception, then derive) Tj
+T*
+(   specialized subclasses.) Tj
+T*
+() Tj
+T*
+(   4. Python Implementation:) Tj
+T*
+(   class BankingDomainError\(Exception\):) Tj
+T*
+(   """Root domain exception.""") Tj
+T*
+ET
+
+endstream
+endobj
+39 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 40 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+40 0 obj
+<< /Length 3374 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 6: FILES, EXCEPTIONS AND REGULAR EXPRESSIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 19 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   pass) Tj
+T*
+() Tj
+T*
+(   class InsufficientFundsError\(BankingDomainError\):) Tj
+T*
+(   def __init__\(self, requested: float, available: float\):) Tj
+T*
+(   super\(\).__init__\(f"Transaction declined: Requested ${requested:,.2f}, Available:) Tj
+T*
+(   ${available:,.2f}"\)) Tj
+T*
+(   self.requested = requested) Tj
+T*
+(   self.available = available) Tj
+T*
+() Tj
+T*
+(   class DailyWithdrawalLimitExceededError\(BankingDomainError\):) Tj
+T*
+(   pass) Tj
+T*
+() Tj
+T*
+(   def process_atm_withdrawal\(current_balance: float, requested_amount: float, daily_limit:) Tj
+T*
+(   float\):) Tj
+T*
+(   if requested_amount > daily_limit:) Tj
+T*
+(   raise DailyWithdrawalLimitExceededError\(f"Amount ${requested_amount} exceeds daily limit of) Tj
+T*
+(   ${daily_limit}"\)) Tj
+T*
+(   if requested_amount > current_balance:) Tj
+T*
+(   raise InsufficientFundsError\(requested_amount, current_balance\)) Tj
+T*
+(   return current_balance - requested_amount) Tj
+T*
+() Tj
+T*
+(   # Demonstration) Tj
+T*
+(   try:) Tj
+T*
+(   process_atm_withdrawal\(current_balance=250.0, requested_amount=500.0, daily_limit=1000.0\)) Tj
+T*
+(   except InsufficientFundsError as err:) Tj
+T*
+(   print\(f"Caught Specific Domain Exception: {err}"\)) Tj
+T*
+(   print\(f"Deficit Amount: ${err.requested - err.available:.2f}"\)) Tj
+T*
+() Tj
+T*
+(   5. Complexity Analysis:) Tj
+T*
+(   - Exception Instantiation: O\(1\) object allocation.) Tj
+T*
+(   - Space Complexity: O\(Depth\) traceback frames.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 8:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the re Module Architecture in Python. Detail regex compilation, pattern matching lifecycle, and compare match\(\), search\(\), findall\(\), finditer\(\), and sub\(\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Architecture of Python's re Module:) Tj
+T*
+(   CPython's re module implements an interpreted bytecode regex engine based on a backtracking) Tj
+T*
+(   Nondeterministic Finite Automaton \(NFA\).) Tj
+T*
+(   Execution Pipeline:) Tj
+T*
+(   1. Pattern Compilation: re.compile\(regex_str, flags\) parses the string into an internal AST and) Tj
+T*
+(   emits optimized regex bytecode \(stored in a Pattern object\).) Tj
+T*
+(   2. Match Execution: The PVM regex engine runs the bytecode against target text.) Tj
+T*
+(   3. Match Object Generation: Returns a Match object containing match boundaries and captured) Tj
+T*
+(   groups.) Tj
+T*
+() Tj
+T*
+(   2. Comprehensive Method Comparison:) Tj
+T*
+(   - re.match\(pat, str\): Matches ONLY at index 0 \(start of string\). Returns Match or None.) Tj
+T*
+(   - re.search\(pat, str\): Scans the string left-to-right, returning the FIRST match found) Tj
+T*
+(   anywhere.) Tj
+T*
+(   - re.fullmatch\(pat, str\): Requires the pattern to match the ENTIRE string from start to end.) Tj
+T*
+(   - re.findall\(pat, str\): Returns all non-overlapping matches as a list of strings \(or tuples of) Tj
+T*
+(   groups\).) Tj
+T*
+ET
+
+endstream
+endobj
+41 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 42 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+42 0 obj
+<< /Length 3081 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 6: FILES, EXCEPTIONS AND REGULAR EXPRESSIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 20 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - re.finditer\(pat, str\): Returns an iterator yielding Match objects for all non-overlapping) Tj
+T*
+(   matches \(Memory efficient!\).) Tj
+T*
+(   - re.sub\(pat, repl, str\): Searches and replaces all matches with repl.) Tj
+T*
+() Tj
+T*
+(   3. Python Code Demonstration:) Tj
+T*
+(   import re) Tj
+T*
+() Tj
+T*
+(   log_data = "IP: 192.168.1.10 - User: admin - Status: 200\\nIP: 10.0.0.5 - User: guest - Status:) Tj
+T*
+(   404") Tj
+T*
+() Tj
+T*
+(   # Pre-compile regex for efficiency) Tj
+T*
+(   ip_pattern = re.compile\(r'IP:\\s+\(\\d{1,3}\(?:\\.\\d{1,3}\){3}\)'\)) Tj
+T*
+() Tj
+T*
+(   # 1. search\(\)) Tj
+T*
+(   first_match = ip_pattern.search\(log_data\)) Tj
+T*
+(   print\(f"re.search first match: {first_match.group\(1\)}"\)) Tj
+T*
+() Tj
+T*
+(   # 2. findall\(\)) Tj
+T*
+(   all_ips = ip_pattern.findall\(log_data\)) Tj
+T*
+(   print\(f"re.findall list: {all_ips}"\)) Tj
+T*
+() Tj
+T*
+(   # 3. finditer\(\) with span coordinates) Tj
+T*
+(   print\("re.finditer stream:"\)) Tj
+T*
+(   for m in ip_pattern.finditer\(log_data\):) Tj
+T*
+(   print\(f" Matched IP: {m.group\(1\):<15} at Span: {m.span\(1\)}"\)) Tj
+T*
+() Tj
+T*
+(   # 4. sub\(\) data masking) Tj
+T*
+(   masked_log = ip_pattern.sub\("IP: [REDACTED]", log_data\)) Tj
+T*
+(   print\(f"\\nMasked Log:\\n{masked_log}"\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+(   - Pattern Compilation Time: O\(P\) where P is pattern length.) Tj
+T*
+(   - Search Time: O\(N\) linear time for non-pathological regular expressions.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 9:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Regular Expression Metacharacters, Quantifiers, and Character Classes in Python. Contrast Greedy versus Non-Greedy \(Lazy\) Matching with illustrative HTML parsing.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Regular Expression Syntax Elements:) Tj
+T*
+(   - Character Classes:) Tj
+T*
+(   [abc]: Matches 'a', 'b', or 'c'.) Tj
+T*
+(   [^abc]: Negated class: matches any character EXCEPT 'a', 'b', or 'c'.) Tj
+T*
+(   [a-z0-9]: Range of characters.) Tj
+T*
+(   - Metacharacters & Special Sequences:) Tj
+T*
+(   \\d \(digit\), \\D \(non-digit\), \\w \(word char [a-zA-Z0-9_]\), \\W \(non-word\), \\s \(whitespace\), \\b) Tj
+T*
+(   \(word boundary\).) Tj
+T*
+() Tj
+T*
+(   2. Greedy versus Non-Greedy \(Lazy\) Matching:) Tj
+T*
+(   - Greedy Quantifiers \(*, +, {m,n}\): Match as MANY characters as possible, backing off only if) Tj
+T*
+(   subsequent pattern elements fail.) Tj
+T*
+(   - Non-Greedy / Lazy Quantifiers \(*?, +?, ??, {m,n}?\): Match as FEW characters as possible,) Tj
+T*
+(   expanding only if subsequent pattern elements fail.) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+43 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 44 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+44 0 obj
+<< /Length 3438 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 6: FILES, EXCEPTIONS AND REGULAR EXPRESSIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 21 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   3. The Classic HTML Parsing Dilemma:) Tj
+T*
+(   Consider parsing HTML tags in text: '<div><b>Title</b></div>' with pattern '<.*>':) Tj
+T*
+(   - Greedy '<.*>': Matches from the very first '<' all the way to the very last '>'!) Tj
+T*
+(   Result: '<div><b>Title</b></div>' \(A single massive catastrophic match!\).) Tj
+T*
+(   - Lazy '<.*?>': Matches from each '<' up to the nearest '>'.) Tj
+T*
+(   Result: '<div>', '<b>', '</b>', '</div>' \(Correctly tokenizes individual tags!\).) Tj
+T*
+() Tj
+T*
+(   4. Python Code Demonstration:) Tj
+T*
+(   import re) Tj
+T*
+() Tj
+T*
+(   html_snippet = "<div><p>Paragraph 1</p><span>Caption</span></div>") Tj
+T*
+() Tj
+T*
+(   greedy_pat = re.compile\(r'<.*>'\)) Tj
+T*
+(   lazy_pat = re.compile\(r'<.*?>'\)) Tj
+T*
+() Tj
+T*
+(   greedy_matches = greedy_pat.findall\(html_snippet\)) Tj
+T*
+(   lazy_matches = lazy_pat.findall\(html_snippet\)) Tj
+T*
+() Tj
+T*
+(   print\(f"Original HTML: '{html_snippet}'"\)) Tj
+T*
+(   print\(f"\\nGreedy \(<.*>\): Matches {len\(greedy_matches\)} item: {greedy_matches}"\)) Tj
+T*
+(   print\(f"Non-Greedy \(<.*?>\): Matches {len\(lazy_matches\)} items: {lazy_matches}"\)) Tj
+T*
+() Tj
+T*
+(   # Extracting tag content via lazy capture) Tj
+T*
+(   content_pat = re.compile\(r'<p>\(.*?\)</p>'\)) Tj
+T*
+(   print\(f"Extracted Paragraph Content: {content_pat.findall\(html_snippet\)}"\)) Tj
+T*
+() Tj
+T*
+(   5. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(N\) single scan; Greedy backtracking may degrade to O\(N^2\) if) Tj
+T*
+(   misconfigured.) Tj
+T*
+(   - Space Complexity: O\(Matches\) memory.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 10:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Capturing Groups, Non-Capturing Groups, Named Groups, and Backreferences in Python Regular Expressions with practical code examples.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Grouping Syntax & Semantics:) Tj
+T*
+(   - Capturing Groups \(pattern\): Groups subpatterns together and captures the matched substring) Tj
+T*
+(   into numbered slots \(group\(1\), group\(2\)\).) Tj
+T*
+(   - Non-Capturing Groups \(?:pattern\): Groups subpatterns for quantifiers or alternations WITHOUT) Tj
+T*
+(   storing them in memory or capturing slots. Faster and saves memory.) Tj
+T*
+(   - Named Capturing Groups \(?P<name>pattern\): Assigns an explicit symbolic name to the group,) Tj
+T*
+(   accessible via match.group\('name'\) or match.groupdict\(\).) Tj
+T*
+(   - Backreferences \(\\1, \\2 or \(?P=name\)\): Matches the exact same text that was captured earlier) Tj
+T*
+(   by that group within the same regular expression!) Tj
+T*
+() Tj
+T*
+(   2. Practical Use Case: HTML Tag Balancing & Duplicate Word Detection:) Tj
+T*
+(   Detecting duplicate consecutive words: r'\\b\(\\w+\)\\s+\\1\\b' matches 'the the'.) Tj
+T*
+(   Matching balanced HTML tags: r'<\(?P<tag>\\w+\)>.*?</\(?P=tag\)>'.) Tj
+T*
+() Tj
+T*
+(   3. Python Code Demonstration:) Tj
+T*
+(   import re) Tj
+T*
+() Tj
+T*
+(   # 1. Named Capturing Groups for URL Parsing) Tj
+T*
+ET
+
+endstream
+endobj
+45 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 46 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+46 0 obj
+<< /Length 3284 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 6: FILES, EXCEPTIONS AND REGULAR EXPRESSIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 22 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   url_regex = re.compile\() Tj
+T*
+(   r'^\(?P<scheme>https?\)://') Tj
+T*
+(   r'\(?P<host>[a-zA-Z0-9.-]+\)') Tj
+T*
+(   r'\(?::\(?P<port>\\d+\)\)?') Tj
+T*
+(   r'\(?P<path>/[a-zA-Z0-9/_.-]*\)?$') Tj
+T*
+(   \)) Tj
+T*
+() Tj
+T*
+(   sample_url = "https://api.university.edu:8443/v1/students") Tj
+T*
+(   m = url_regex.match\(sample_url\)) Tj
+T*
+() Tj
+T*
+(   print\("Parsed URL Named Groups \(groupdict\):"\)) Tj
+T*
+(   for k, v in m.groupdict\(\).items\(\):) Tj
+T*
+(   print\(f" {k:<10}: {v}"\)) Tj
+T*
+() Tj
+T*
+(   # 2. Backreference Demonstration \(Duplicate Words\)) Tj
+T*
+(   prose = "Paris in the the spring was was beautiful.") Tj
+T*
+(   dup_regex = re.compile\(r'\(?P<word>\\w+\)\\s+\(?P=word\)', re.IGNORECASE\)) Tj
+T*
+() Tj
+T*
+(   print\(") Tj
+T*
+(   Duplicate Word Detection using Backreferences:"\)) Tj
+T*
+(   for dup in dup_regex.finditer\(prose\):) Tj
+T*
+(   print\(f" Found duplicate: '{dup.group\(0\)}' \(Repeated Word: '{dup.group\('word'\)}'\)"\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+(   - Regex Evaluation Time: O\(N\) linear time.) Tj
+T*
+(   - Space Complexity: O\(G\) where G is number of captured groups.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 11:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Lookahead and Lookbehind Assertions \(Zero-Width Assertions\) in Python Regular Expressions: \(?=...\), \(?!...\), \(?<=...\), and \(?<!...\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Theoretical Basis of Lookaround Assertions:) Tj
+T*
+(   Lookaround assertions are Zero-Width Assertions: they determine whether a subpattern can match) Tj
+T*
+(   immediately before or after the current position WITHOUT consuming characters or including them) Tj
+T*
+(   in the match result:) Tj
+T*
+(   1. Positive Lookahead \(?=pattern\): Asserts that pattern matches directly ahead.) Tj
+T*
+(   2. Negative Lookahead \(?!pattern\): Asserts that pattern does NOT match directly ahead.) Tj
+T*
+(   3. Positive Lookbehind \(?<=pattern\): Asserts that pattern matches directly behind \(Must be) Tj
+T*
+(   fixed width in standard Python re!\).) Tj
+T*
+(   4. Negative Lookbehind \(?<!pattern\): Asserts that pattern does NOT match directly behind.) Tj
+T*
+() Tj
+T*
+(   2. Practical Password Policy Enforcement:) Tj
+T*
+(   Verify a password satisfies all corporate security requirements in a single regex:) Tj
+T*
+(   - At least 8 characters: .{8,}) Tj
+T*
+(   - At least one digit: \(?=.*\\d\)) Tj
+T*
+(   - At least one uppercase: \(?=.*[A-Z]\)) Tj
+T*
+(   - At least one special symbol: \(?=.*[!@#$%^&*]\)) Tj
+T*
+(   Unified Regex: ^\(?=.*[a-z]\)\(?=.*[A-Z]\)\(?=.*\\d\)\(?=.*[!@#$%^&*]\).{8,}$) Tj
+T*
+() Tj
+T*
+(   3. Python Implementation & Verification:) Tj
+T*
+(   import re) Tj
+T*
+() Tj
+T*
+(   password_validator = re.compile\(r'^\(?=.*[a-z]\)\(?=.*[A-Z]\)\(?=.*\\d\)\(?=.*[!@#$%^&*]\).{8,}$'\)) Tj
+T*
+ET
+
+endstream
+endobj
+47 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 48 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+48 0 obj
+<< /Length 2800 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 6: FILES, EXCEPTIONS AND REGULAR EXPRESSIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 23 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   passwords = ["weak", "NoDigits!", "validPass1@", "short1!A", "ValidPass2026#"]) Tj
+T*
+() Tj
+T*
+(   print\("Password Validation via Multiple Lookahead Assertions:"\)) Tj
+T*
+(   for pwd in passwords:) Tj
+T*
+(   is_valid = bool\(password_validator.match\(pwd\)\)) Tj
+T*
+(   status = "[STRONG]" if is_valid else "[REJECTED]") Tj
+T*
+(   print\(f" {status:<12} '{pwd}'"\)) Tj
+T*
+() Tj
+T*
+(   # Lookbehind currency extraction) Tj
+T*
+(   price_text = "Standard: $45.00, Premium: ?90.00, Discount: $25.50") Tj
+T*
+(   dollar_amounts = re.findall\(r'\(?<=\\$\)\\d+\\.\\d{2}', price_text\)) Tj
+T*
+(   print\(f"\\nExtracted Dollar Amounts via Lookbehind \(?<=\\$\): {dollar_amounts}"\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(N * Assertions\) evaluated at string boundary.) Tj
+T*
+(   - Space Complexity: O\(1\) zero-width match state.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 12:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement a Robust CSV and JSON File Data Processing Utility in Python with schema validation, type parsing, and transactional file writing.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Context:) Tj
+T*
+(   Develop a production utility that reads tabular employee records from a CSV file, parses data) Tj
+T*
+(   types \(integers, floats, dates\), validates constraints, and writes an aggregated department) Tj
+T*
+(   summary report to a JSON file safely using atomic temporary writing.) Tj
+T*
+() Tj
+T*
+(   2. Python Implementation:) Tj
+T*
+(   import csv) Tj
+T*
+(   import json) Tj
+T*
+(   import os) Tj
+T*
+(   import tempfile) Tj
+T*
+() Tj
+T*
+(   class DataPipelineProcessor:) Tj
+T*
+(   @staticmethod) Tj
+T*
+(   def process_and_summarize\(csv_path: str, output_json_path: str\):) Tj
+T*
+(   dept_salaries = {}) Tj
+T*
+(   total_records = 0) Tj
+T*
+() Tj
+T*
+(   with open\(csv_path, "r", encoding="utf-8"\) as f:) Tj
+T*
+(   reader = csv.DictReader\(f\)) Tj
+T*
+(   for row in reader:) Tj
+T*
+(   total_records += 1) Tj
+T*
+(   dept = row["Department"].strip\(\)) Tj
+T*
+(   salary = float\(row["Salary"].strip\(\)\)) Tj
+T*
+() Tj
+T*
+(   if dept not in dept_salaries:) Tj
+T*
+(   dept_salaries[dept] = []) Tj
+T*
+(   dept_salaries[dept].append\(salary\)) Tj
+T*
+() Tj
+T*
+(   # Generate summary metrics) Tj
+T*
+(   summary = {) Tj
+T*
+(   "TotalEmployees": total_records,) Tj
+T*
+ET
+
+endstream
+endobj
+49 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 50 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+50 0 obj
+<< /Length 2962 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 6: FILES, EXCEPTIONS AND REGULAR EXPRESSIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 24 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   "Departments": {}) Tj
+T*
+(   }) Tj
+T*
+(   for dept, salaries in dept_salaries.items\(\):) Tj
+T*
+(   summary["Departments"][dept] = {) Tj
+T*
+(   "Headcount": len\(salaries\),) Tj
+T*
+(   "TotalPayroll": sum\(salaries\),) Tj
+T*
+(   "AverageSalary": round\(sum\(salaries\) / len\(salaries\), 2\)) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   # Atomic file writing via temporary file replacement) Tj
+T*
+(   dir_name = os.path.dirname\(output_json_path\) or ".") Tj
+T*
+(   with tempfile.NamedTemporaryFile\("w", dir=dir_name, delete=False, encoding="utf-8"\) as tf:) Tj
+T*
+(   json.dump\(summary, tf, indent=2\)) Tj
+T*
+(   temp_name = tf.name) Tj
+T*
+() Tj
+T*
+(   os.replace\(temp_name, output_json_path\) # Atomic OS rename!) Tj
+T*
+(   return summary) Tj
+T*
+() Tj
+T*
+(   # Test execution with mock CSV) Tj
+T*
+(   mock_csv = "emp_test.csv") Tj
+T*
+(   mock_json = "summary_test.json") Tj
+T*
+() Tj
+T*
+(   with open\(mock_csv, "w", newline="", encoding="utf-8"\) as f:) Tj
+T*
+(   writer = csv.writer\(f\)) Tj
+T*
+(   writer.writerow\(["ID", "Name", "Department", "Salary"]\)) Tj
+T*
+(   writer.writerow\(["101", "Aarav", "Engineering", "95000.0"]\)) Tj
+T*
+(   writer.writerow\(["102", "Priya", "Engineering", "105000.0"]\)) Tj
+T*
+(   writer.writerow\(["103", "Meera", "Marketing", "72000.0"]\)) Tj
+T*
+() Tj
+T*
+(   res = DataPipelineProcessor.process_and_summarize\(mock_csv, mock_json\)) Tj
+T*
+(   print\("Aggregated JSON Output:", json.dumps\(res, indent=2\)\)) Tj
+T*
+() Tj
+T*
+(   # Cleanup) Tj
+T*
+(   for p in \(mock_csv, mock_json\):) Tj
+T*
+(   if os.path.exists\(p\): os.remove\(p\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(N\) single linear pass over CSV records.) Tj
+T*
+(   - Space Complexity: O\(D\) where D is number of unique departments.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 13:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement a Web Server Log File Parser in Python using Regular Expressions, extracting IP addresses, HTTP status codes, endpoints, and error distributions.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Context:) Tj
+T*
+(   Given an Apache/Nginx Combined Log Format stream:) Tj
+T*
+(   IP - - [Timestamp] "METHOD /path HTTP/1.1" STATUS BYTES) Tj
+T*
+(   Develop a regular expression parser that extracts fields, tallies HTTP status distribution) Tj
+T*
+(   \(200, 404, 500\), and identifies top requesting IP addresses.) Tj
+T*
+() Tj
+T*
+(   2. Python Implementation:) Tj
+T*
+(   import re) Tj
+T*
+(   from collections import Counter) Tj
+T*
+ET
+
+endstream
+endobj
+51 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 52 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+52 0 obj
+<< /Length 2768 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 6: FILES, EXCEPTIONS AND REGULAR EXPRESSIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 25 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   class WebLogParser:) Tj
+T*
+(   LOG_REGEX = re.compile\() Tj
+T*
+(   r'^\(?P<ip>\\S+\)\\s+\\S+\\s+\\S+\\s+') Tj
+T*
+(   r'\\[\(?P<timestamp>[^\\]]+\)\\]\\s+') Tj
+T*
+(   r'"\(?P<method>[A-Z]+\)\\s+\(?P<endpoint>\\S+\)\\s+HTTP/[0-9.]+"\\s+') Tj
+T*
+(   r'\(?P<status>\\d{3}\)\\s+\(?P<bytes>\\S+\)') Tj
+T*
+(   \)) Tj
+T*
+() Tj
+T*
+(   @classmethod) Tj
+T*
+(   def parse_logs\(cls, log_lines: list\) -> dict:) Tj
+T*
+(   status_counts = Counter\(\)) Tj
+T*
+(   ip_counts = Counter\(\)) Tj
+T*
+(   parsed_entries = []) Tj
+T*
+() Tj
+T*
+(   for line in log_lines:) Tj
+T*
+(   match = cls.LOG_REGEX.match\(line.strip\(\)\)) Tj
+T*
+(   if match:) Tj
+T*
+(   data = match.groupdict\(\)) Tj
+T*
+(   status_counts[data["status"]] += 1) Tj
+T*
+(   ip_counts[data["ip"]] += 1) Tj
+T*
+(   parsed_entries.append\(data\)) Tj
+T*
+() Tj
+T*
+(   return {) Tj
+T*
+(   "TotalProcessed": len\(parsed_entries\),) Tj
+T*
+(   "StatusDistribution": dict\(status_counts\),) Tj
+T*
+(   "TopIPs": ip_counts.most_common\(2\)) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   # Verification) Tj
+T*
+(   sample_logs = [) Tj
+T*
+(   '192.168.1.10 - - [26/Oct/2026:10:00:01 +0000] "GET /api/v1/users HTTP/1.1" 200 4520',) Tj
+T*
+(   '10.0.0.5 - - [26/Oct/2026:10:00:05 +0000] "POST /login HTTP/1.1" 401 120',) Tj
+T*
+(   '192.168.1.10 - - [26/Oct/2026:10:00:10 +0000] "GET /favicon.ico HTTP/1.1" 404 220',) Tj
+T*
+(   '172.16.0.2 - - [26/Oct/2026:10:00:15 +0000] "GET /index.html HTTP/1.1" 200 8920') Tj
+T*
+(   ]) Tj
+T*
+() Tj
+T*
+(   report = WebLogParser.parse_logs\(sample_logs\)) Tj
+T*
+(   print\("Web Log Analysis Report:", report\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(L * C\) where L is lines and C is characters per line.) Tj
+T*
+(   - Space Complexity: O\(L\) entries and frequency maps.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 14:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement an Enterprise Configuration File Manager in Python supporting .env parsing, variable expansion, type coercion, and comments.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Context:) Tj
+T*
+(   Develop a robust .env environment configuration parser supporting key=value pairs, inline) Tj
+T*
+(   comments \(#\), quoted values, and automatic boolean/integer type conversion.) Tj
+T*
+() Tj
+T*
+(   2. Python Implementation:) Tj
+T*
+ET
+
+endstream
+endobj
+53 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 54 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+54 0 obj
+<< /Length 2428 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 6: FILES, EXCEPTIONS AND REGULAR EXPRESSIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 26 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   class EnvConfigManager:) Tj
+T*
+(   @staticmethod) Tj
+T*
+(   def parse_env_string\(env_text: str\) -> dict:) Tj
+T*
+(   config = {}) Tj
+T*
+(   for line in env_text.splitlines\(\):) Tj
+T*
+(   line = line.strip\(\)) Tj
+T*
+(   # Ignore empty lines and comments) Tj
+T*
+(   if not line or line.startswith\('#'\):) Tj
+T*
+(   continue) Tj
+T*
+() Tj
+T*
+(   if '=' in line:) Tj
+T*
+(   key, val = line.split\('=', 1\)) Tj
+T*
+(   key = key.strip\(\)) Tj
+T*
+(   val = val.strip\(\)) Tj
+T*
+() Tj
+T*
+(   # Strip inline comment) Tj
+T*
+(   if '#' in val:) Tj
+T*
+(   val = val.split\('#', 1\)[0].strip\(\)) Tj
+T*
+() Tj
+T*
+(   # Strip matching surrounding quotes) Tj
+T*
+(   if \(val.startswith\('"'\) and val.endswith\('"'\)\) or \(val.startswith\("'"\) and val.endswith\("'"\)\):) Tj
+T*
+(   val = val[1:-1]) Tj
+T*
+() Tj
+T*
+(   # Type coercion) Tj
+T*
+(   if val.lower\(\) == 'true': val = True) Tj
+T*
+(   elif val.lower\(\) == 'false': val = False) Tj
+T*
+(   elif val.isdigit\(\): val = int\(val\)) Tj
+T*
+() Tj
+T*
+(   config[key] = val) Tj
+T*
+(   return config) Tj
+T*
+() Tj
+T*
+(   # Verification) Tj
+T*
+(   raw_env = """) Tj
+T*
+(   # Server Runtime Configuration) Tj
+T*
+(   PORT=8080 # Production port) Tj
+T*
+(   DEBUG=false) Tj
+T*
+(   DATABASE_URL="postgres://user:secret@localhost:5432/app_db") Tj
+T*
+(   WORKERS=4) Tj
+T*
+(   """) Tj
+T*
+() Tj
+T*
+(   parsed_cfg = EnvConfigManager.parse_env_string\(raw_env\)) Tj
+T*
+(   print\("Parsed Environment Configuration:"\)) Tj
+T*
+(   for k, v in parsed_cfg.items\(\):) Tj
+T*
+(   print\(f" {k:<15} -> {v} \({type\(v\).__name__}\)"\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(N\) linear scan over lines.) Tj
+T*
+(   - Space Complexity: O\(K\) dictionary storage.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 15:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement a Credit Card and Phone Number Validator in Python using Luhn's Algorithm and Regular Expressions.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+ET
+
+endstream
+endobj
+55 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 56 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+56 0 obj
+<< /Length 2504 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 6: FILES, EXCEPTIONS AND REGULAR EXPRESSIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 27 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   1. Problem Context:) Tj
+T*
+(   Verify credit card numbers by combining regex structural format validation \(16 digits separated) Tj
+T*
+(   by spaces/hyphens\) with Luhn's Algorithm \(Modulus 10 checksum\).) Tj
+T*
+() Tj
+T*
+(   2. Luhn's Algorithm:) Tj
+T*
+(   1. Double every second digit from right to left.) Tj
+T*
+(   2. If doubling yields >= 10, sum the digits \(e.g. 14 -> 1 + 4 = 5\).) Tj
+T*
+(   3. Sum all modified and unmodified digits.) Tj
+T*
+(   4. If sum % 10 == 0, the card number is mathematically valid.) Tj
+T*
+() Tj
+T*
+(   3. Python Implementation:) Tj
+T*
+(   import re) Tj
+T*
+() Tj
+T*
+(   class PaymentValidator:) Tj
+T*
+(   CARD_REGEX = re.compile\(r'^\(\\d{4}[- ]?\){3}\\d{4}$'\)) Tj
+T*
+() Tj
+T*
+(   @staticmethod) Tj
+T*
+(   def luhn_check\(card_number_str: str\) -> bool:) Tj
+T*
+(   digits = [int\(ch\) for ch in card_number_str if ch.isdigit\(\)]) Tj
+T*
+(   if len\(digits\) != 16:) Tj
+T*
+(   return False) Tj
+T*
+() Tj
+T*
+(   checksum = 0) Tj
+T*
+(   reverse_digits = digits[::-1]) Tj
+T*
+() Tj
+T*
+(   for idx, d in enumerate\(reverse_digits\):) Tj
+T*
+(   if idx % 2 == 1:) Tj
+T*
+(   doubled = d * 2) Tj
+T*
+(   checksum += \(doubled - 9\) if doubled > 9 else doubled) Tj
+T*
+(   else:) Tj
+T*
+(   checksum += d) Tj
+T*
+() Tj
+T*
+(   return checksum % 10 == 0) Tj
+T*
+() Tj
+T*
+(   @classmethod) Tj
+T*
+(   def validate_card\(cls, card_str: str\) -> bool:) Tj
+T*
+(   if not cls.CARD_REGEX.match\(card_str\):) Tj
+T*
+(   return False) Tj
+T*
+(   return cls.luhn_check\(card_str\)) Tj
+T*
+() Tj
+T*
+(   # Verification) Tj
+T*
+(   sample_card = "4532-0150-1234-5678") Tj
+T*
+(   is_valid_format = bool\(PaymentValidator.CARD_REGEX.match\(sample_card\)\)) Tj
+T*
+(   is_valid_luhn = PaymentValidator.luhn_check\(sample_card\)) Tj
+T*
+() Tj
+T*
+(   print\(f"Card: '{sample_card}'"\)) Tj
+T*
+(   print\(f"Format Regex Valid? {is_valid_format}"\)) Tj
+T*
+(   print\(f"Luhn Algorithm Valid? {is_valid_luhn}"\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(1\) constant time \(exactly 16 digits\).) Tj
+T*
+(   - Space Complexity: O\(1\) integer registers.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+ET
+
+endstream
+endobj
+57 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 58 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+58 0 obj
+<< /Length 3356 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 6: FILES, EXCEPTIONS AND REGULAR EXPRESSIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 28 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 16:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement a Sensitive Data Sanitizer and PII Redactor in Python using Regular Expressions to mask emails, phone numbers, and SSNs in unstructured text.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Context:) Tj
+T*
+(   Enterprise privacy regulations \(GDPR, HIPAA\) require scrubbing Personally Identifiable) Tj
+T*
+(   Information \(PII\) before sharing logs or training machine learning models:) Tj
+T*
+(   - Email addresses -> '[EMAIL_REDACTED]') Tj
+T*
+(   - Phone numbers -> '[PHONE_REDACTED]') Tj
+T*
+(   - SSN / National IDs -> '[SSN_REDACTED]') Tj
+T*
+() Tj
+T*
+(   2. Python Implementation:) Tj
+T*
+(   import re) Tj
+T*
+() Tj
+T*
+(   class PIIRedactor:) Tj
+T*
+(   EMAIL_REGEX = re.compile\(r'[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\\.[A-Z|a-z]{2,7}'\)) Tj
+T*
+(   PHONE_REGEX = re.compile\(r'\(?:\\+?\\d{1,3}[-.\\s]?\)?\\\(?\\d{3}\\\)?[-.\\s]?\\d{3}[-.\\s]?\\d{4}'\)) Tj
+T*
+(   SSN_REGEX = re.compile\(r'\\d{3}-\\d{2}-\\d{4}'\)) Tj
+T*
+() Tj
+T*
+(   @classmethod) Tj
+T*
+(   def sanitize\(cls, text: str\) -> str:) Tj
+T*
+(   text = cls.EMAIL_REGEX.sub\("[EMAIL_REDACTED]", text\)) Tj
+T*
+(   text = cls.PHONE_REGEX.sub\("[PHONE_REDACTED]", text\)) Tj
+T*
+(   text = cls.SSN_REGEX.sub\("[SSN_REDACTED]", text\)) Tj
+T*
+(   return text) Tj
+T*
+() Tj
+T*
+(   # Demonstration) Tj
+T*
+(   unclean_medical_notes = """) Tj
+T*
+(   Patient Aarav Sharma \(SSN: 123-45-6789\) visited cardiology on 2026-10-26.) Tj
+T*
+(   Contact email: aarav.sharma@health.org, Mobile: +1-555-839-2041.) Tj
+T*
+(   Emergency Contact: priya@family.net, Phone: \(555\) 234-5678.) Tj
+T*
+(   """) Tj
+T*
+() Tj
+T*
+(   sanitized_notes = PIIRedactor.sanitize\(unclean_medical_notes\)) Tj
+T*
+(   print\("Sanitized Medical Notes Output:"\)) Tj
+T*
+(   print\(sanitized_notes.strip\(\)\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(N\) linear sweep across text length.) Tj
+T*
+(   - Space Complexity: O\(N\) memory for sanitized output string.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 17:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement a File Deduplication and Checksum Verification Tool in Python using hashlib \(SHA-256\) and os.walk to detect identical files across directories.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Theoretical Principles of File Deduplication:) Tj
+T*
+(   Two files are duplicate if their cryptographic hash digests \(e.g. SHA-256\) are identical,) Tj
+T*
+(   regardless of filename or modification date.) Tj
+T*
+(   Algorithm:) Tj
+T*
+(   1. Walk directory tree using os.walk\(\).) Tj
+T*
+(   2. Group files by exact byte size \(files of different sizes cannot be identical!\).) Tj
+T*
+(   3. For files sharing the same size, compute SHA-256 digest by streaming chunks of 64 KB to) Tj
+T*
+(   avoid loading large files into RAM.) Tj
+T*
+ET
+
+endstream
+endobj
+59 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 60 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+60 0 obj
+<< /Length 2476 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 6: FILES, EXCEPTIONS AND REGULAR EXPRESSIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 29 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   4. Group files with matching SHA-256 digests.) Tj
+T*
+() Tj
+T*
+(   2. Python Implementation:) Tj
+T*
+(   import hashlib) Tj
+T*
+(   import os) Tj
+T*
+(   from collections import defaultdict) Tj
+T*
+() Tj
+T*
+(   def find_duplicate_files\(root_folder: str\) -> dict:) Tj
+T*
+(   size_map = defaultdict\(list\)) Tj
+T*
+() Tj
+T*
+(   # Pass 1: Group by file size) Tj
+T*
+(   for dirpath, _, filenames in os.walk\(root_folder\):) Tj
+T*
+(   for fn in filenames:) Tj
+T*
+(   fp = os.path.join\(dirpath, fn\)) Tj
+T*
+(   try:) Tj
+T*
+(   sz = os.path.getsize\(fp\)) Tj
+T*
+(   size_map[sz].append\(fp\)) Tj
+T*
+(   except OSError:) Tj
+T*
+(   pass) Tj
+T*
+() Tj
+T*
+(   duplicates = defaultdict\(list\)) Tj
+T*
+() Tj
+T*
+(   # Pass 2: Hash only candidate files with size collision) Tj
+T*
+(   for sz, files in size_map.items\(\):) Tj
+T*
+(   if len\(files\) > 1 and sz > 0:) Tj
+T*
+(   for fp in files:) Tj
+T*
+(   h = hashlib.sha256\(\)) Tj
+T*
+(   try:) Tj
+T*
+(   with open\(fp, "rb"\) as f:) Tj
+T*
+(   while chunk := f.read\(65536\):) Tj
+T*
+(   h.update\(chunk\)) Tj
+T*
+(   digest = h.hexdigest\(\)) Tj
+T*
+(   duplicates[digest].append\(fp\)) Tj
+T*
+(   except OSError:) Tj
+T*
+(   pass) Tj
+T*
+() Tj
+T*
+(   # Filter only genuine duplicates) Tj
+T*
+(   return {k: v for k, v in duplicates.items\(\) if len\(v\) > 1}) Tj
+T*
+() Tj
+T*
+(   # Demonstration on existing python syllabus directory) Tj
+T*
+(   target = "C:/FINAL PrOJECT/cse unit folder/python") Tj
+T*
+(   dups = find_duplicate_files\(target\)) Tj
+T*
+(   print\(f"Found {len\(dups\)} duplicate content groups in '{target}'."\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(Files\) size checks + O\(Candidate Bytes\) hashing.) Tj
+T*
+(   - Space Complexity: O\(Files\) path metadata.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 18:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement an Automated Log Rotation and Compression Daemon Simulation in Python using gzip, os, and time.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Context:) Tj
+T*
+ET
+
+endstream
+endobj
+61 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 62 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+62 0 obj
+<< /Length 2466 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 6: FILES, EXCEPTIONS AND REGULAR EXPRESSIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 30 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   Unattended server logs grow indefinitely, eventually filling disk drives.) Tj
+T*
+(   Log Rotation rotates active logs once they exceed a size threshold \(e.g., 5 MB\) by renaming) Tj
+T*
+(   them with timestamps, compressing them with gzip \(.gz\), and maintaining a maximum backlog of) Tj
+T*
+(   archives.) Tj
+T*
+() Tj
+T*
+(   2. Python Implementation:) Tj
+T*
+(   import gzip) Tj
+T*
+(   import os) Tj
+T*
+(   import shutil) Tj
+T*
+(   import time) Tj
+T*
+() Tj
+T*
+(   class LogRotator:) Tj
+T*
+(   def __init__\(self, log_path: str, max_bytes=1024, max_backups=3\):) Tj
+T*
+(   self.log_path = log_path) Tj
+T*
+(   self.max_bytes = max_bytes) Tj
+T*
+(   self.max_backups = max_backups) Tj
+T*
+() Tj
+T*
+(   def rotate_if_needed\(self\):) Tj
+T*
+(   if not os.path.exists\(self.log_path\):) Tj
+T*
+(   return) Tj
+T*
+() Tj
+T*
+(   if os.path.getsize\(self.log_path\) >= self.max_bytes:) Tj
+T*
+(   timestamp = int\(time.time\(\)\)) Tj
+T*
+(   archive_name = f"{self.log_path}.{timestamp}.gz") Tj
+T*
+() Tj
+T*
+(   # Compress active log to .gz) Tj
+T*
+(   with open\(self.log_path, 'rb'\) as f_in:) Tj
+T*
+(   with gzip.open\(archive_name, 'wb'\) as f_out:) Tj
+T*
+(   shutil.copyfileobj\(f_in, f_out\)) Tj
+T*
+() Tj
+T*
+(   # Truncate active log file to 0 bytes) Tj
+T*
+(   with open\(self.log_path, 'w'\) as f:) Tj
+T*
+(   pass) Tj
+T*
+() Tj
+T*
+(   print\(f"[ROTATED] Compressed active log to: {archive_name}"\)) Tj
+T*
+() Tj
+T*
+(   # Verification) Tj
+T*
+(   test_log = "service.log") Tj
+T*
+(   with open\(test_log, "w"\) as f:) Tj
+T*
+(   f.write\("A" * 2000\) # Exceeds 1024 bytes) Tj
+T*
+() Tj
+T*
+(   rotator = LogRotator\(test_log, max_bytes=1024\)) Tj
+T*
+(   rotator.rotate_if_needed\(\)) Tj
+T*
+() Tj
+T*
+(   # Cleanup) Tj
+T*
+(   if os.path.exists\(test_log\): os.remove\(test_log\)) Tj
+T*
+(   for f in os.listdir\("."\):) Tj
+T*
+(   if f.startswith\("service.log."\): os.remove\(f\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Compression Time: O\(File Size\) streaming gzip deflation.) Tj
+T*
+(   - Space Complexity: O\(64 KB\) streaming buffer.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+ET
+
+endstream
+endobj
+63 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 64 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+64 0 obj
+<< /Length 2248 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 6: FILES, EXCEPTIONS AND REGULAR EXPRESSIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 31 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 19:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement an INI-Style Configuration Parser in Python using Regular Expressions without external libraries.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Context:) Tj
+T*
+(   Parse INI format configuration files containing [Sections] and key = value assignments:) Tj
+T*
+(   [database]) Tj
+T*
+(   host = 127.0.0.1) Tj
+T*
+(   port = 5432) Tj
+T*
+() Tj
+T*
+(   2. Python Implementation:) Tj
+T*
+(   import re) Tj
+T*
+() Tj
+T*
+(   def parse_ini_file_content\(ini_text: str\) -> dict:) Tj
+T*
+(   section_regex = re.compile\(r'^\\[\(?P<section>[a-zA-Z0-9_-]+\)\\]$'\)) Tj
+T*
+(   key_val_regex = re.compile\(r'^\(?P<key>[a-zA-Z0-9_-]+\)\\s*=\\s*\(?P<val>.*\)$'\)) Tj
+T*
+() Tj
+T*
+(   config = {}) Tj
+T*
+(   current_section = "DEFAULT") Tj
+T*
+(   config[current_section] = {}) Tj
+T*
+() Tj
+T*
+(   for line in ini_text.splitlines\(\):) Tj
+T*
+(   line = line.strip\(\)) Tj
+T*
+(   if not line or line.startswith\(';'\) or line.startswith\('#'\):) Tj
+T*
+(   continue) Tj
+T*
+() Tj
+T*
+(   sec_match = section_regex.match\(line\)) Tj
+T*
+(   if sec_match:) Tj
+T*
+(   current_section = sec_match.group\("section"\)) Tj
+T*
+(   config[current_section] = {}) Tj
+T*
+(   continue) Tj
+T*
+() Tj
+T*
+(   kv_match = key_val_regex.match\(line\)) Tj
+T*
+(   if kv_match:) Tj
+T*
+(   k = kv_match.group\("key"\)) Tj
+T*
+(   v = kv_match.group\("val"\).strip\(\)) Tj
+T*
+(   config[current_section][k] = v) Tj
+T*
+() Tj
+T*
+(   return config) Tj
+T*
+() Tj
+T*
+(   # Verification) Tj
+T*
+(   sample_ini = """) Tj
+T*
+(   ; Server Configuration File) Tj
+T*
+(   [network]) Tj
+T*
+(   host = 0.0.0.0) Tj
+T*
+(   port = 8080) Tj
+T*
+() Tj
+T*
+(   [auth]) Tj
+T*
+(   provider = ldap) Tj
+T*
+(   ssl = true) Tj
+T*
+(   """) Tj
+T*
+() Tj
+T*
+(   parsed = parse_ini_file_content\(sample_ini\)) Tj
+T*
+(   print\("Parsed INI Structure:", parsed\)) Tj
+T*
+ET
+
+endstream
+endobj
+65 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 66 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+66 0 obj
+<< /Length 2765 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 6: FILES, EXCEPTIONS AND REGULAR EXPRESSIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 32 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(Lines\) regex matching.) Tj
+T*
+(   - Space Complexity: O\(Sections * Keys\) dictionary.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 20:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement a Safe Atomic File Writer in Python using Context Managers, ensuring files are never corrupted by mid-write crashes.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Context:) Tj
+T*
+(   If a system crashes or process is killed while writing to an important file, the file is left) Tj
+T*
+(   partially written and corrupted!) Tj
+T*
+(   Atomic Writing Strategy:) Tj
+T*
+(   1. Write all data to a temporary file in the same filesystem directory.) Tj
+T*
+(   2. Flush and close the temporary file.) Tj
+T*
+(   3. Atomically replace the destination file using os.replace\(\).) Tj
+T*
+(   On modern operating systems \(POSIX rename and Windows MoveFileEx\), file replacement is) Tj
+T*
+(   guaranteed atomic at the filesystem inode level!) Tj
+T*
+() Tj
+T*
+(   2. Python Implementation:) Tj
+T*
+(   import os) Tj
+T*
+(   import tempfile) Tj
+T*
+() Tj
+T*
+(   class AtomicFileWriter:) Tj
+T*
+(   def __init__\(self, target_path: str, mode="w", encoding="utf-8"\):) Tj
+T*
+(   self.target_path = target_path) Tj
+T*
+(   self.mode = mode) Tj
+T*
+(   self.encoding = encoding) Tj
+T*
+(   self._temp_file = None) Tj
+T*
+() Tj
+T*
+(   def __enter__\(self\):) Tj
+T*
+(   dir_name = os.path.dirname\(self.target_path\) or ".") Tj
+T*
+(   self._temp_file = tempfile.NamedTemporaryFile\() Tj
+T*
+(   self.mode, dir=dir_name, delete=False, encoding=self.encoding) Tj
+T*
+(   \)) Tj
+T*
+(   return self._temp_file) Tj
+T*
+() Tj
+T*
+(   def __exit__\(self, exc_type, exc_val, exc_tb\):) Tj
+T*
+(   temp_name = self._temp_file.name) Tj
+T*
+(   self._temp_file.close\(\)) Tj
+T*
+() Tj
+T*
+(   if exc_type is not None:) Tj
+T*
+(   # Crash occurred: delete temp file, leaving original untouched!) Tj
+T*
+(   if os.path.exists\(temp_name\):) Tj
+T*
+(   os.remove\(temp_name\)) Tj
+T*
+(   print\(f"[ABORT] Write failed. Original {self.target_path} preserved!"\)) Tj
+T*
+(   return False) Tj
+T*
+(   else:) Tj
+T*
+(   # Atomic swap) Tj
+T*
+(   os.replace\(temp_name, self.target_path\)) Tj
+T*
+(   print\(f"[COMMIT] Atomically updated {self.target_path}"\)) Tj
+T*
+(   return True) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+67 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 68 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+68 0 obj
+<< /Length 2695 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 6: FILES, EXCEPTIONS AND REGULAR EXPRESSIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 33 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   # Demonstration) Tj
+T*
+(   dest = "critical_database.json") Tj
+T*
+(   with AtomicFileWriter\(dest\) as f:) Tj
+T*
+(   f.write\('{"status": "stable", "records": 1000}'\)) Tj
+T*
+() Tj
+T*
+(   with open\(dest, "r"\) as f:) Tj
+T*
+(   print\("Verified file content:", f.read\(\)\)) Tj
+T*
+() Tj
+T*
+(   if os.path.exists\(dest\): os.remove\(dest\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Commit Overhead: O\(1\) atomic directory entry swap.) Tj
+T*
+(   - Space Complexity: O\(File Size\) temporary storage.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 21:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement a Markdown to HTML Converter in Python using Regular Expressions for headers, bold, italics, links, and code blocks.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Context:) Tj
+T*
+(   Build a lightweight Markdown parser that converts CommonMark syntax into valid HTML tags:) Tj
+T*
+(   - Headers \(# H1, ## H2\) -> <h1>, <h2>) Tj
+T*
+(   - Bold \(**text**\) -> <strong>text</strong>) Tj
+T*
+(   - Italics \(*text*\) -> <em>text</em>) Tj
+T*
+(   - Links \([text]\(url\)\) -> <a href='url'>text</a>) Tj
+T*
+(   - Inline code \(`code`\) -> <code>code</code>) Tj
+T*
+() Tj
+T*
+(   2. Python Implementation:) Tj
+T*
+(   import re) Tj
+T*
+() Tj
+T*
+(   class MarkdownParser:) Tj
+T*
+(   @staticmethod) Tj
+T*
+(   def parse_markdown\(md_text: str\) -> str:) Tj
+T*
+(   lines = []) Tj
+T*
+(   for line in md_text.splitlines\(\):) Tj
+T*
+(   # Headers) Tj
+T*
+(   if line.startswith\("### "\):) Tj
+T*
+(   line = f"<h3>{line[4:]}</h3>") Tj
+T*
+(   elif line.startswith\("## "\):) Tj
+T*
+(   line = f"<h2>{line[3:]}</h2>") Tj
+T*
+(   elif line.startswith\("# "\):) Tj
+T*
+(   line = f"<h1>{line[2:]}</h1>") Tj
+T*
+(   else:) Tj
+T*
+(   # Bold & Italics) Tj
+T*
+(   line = re.sub\(r'\\*\\*\(.*?\)\\*\\*', r'<strong></strong>', line\)) Tj
+T*
+(   line = re.sub\(r'\\*\(.*?\)\\*', r'<em></em>', line\)) Tj
+T*
+(   # Inline code) Tj
+T*
+(   line = re.sub\(r'`\(.*?\)`', r'<code></code>', line\)) Tj
+T*
+(   # Hyperlinks) Tj
+T*
+(   line = re.sub\(r'\\[\(.*?\)\\]\\\(\(.*?\)\\\)', r'<a href=""></a>', line\)) Tj
+T*
+(   if line:) Tj
+T*
+(   line = f"<p>{line}</p>") Tj
+T*
+(   lines.append\(line\)) Tj
+T*
+(   return "\\n".join\(lines\)) Tj
+T*
+ET
+
+endstream
+endobj
+69 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 70 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+70 0 obj
+<< /Length 2767 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 6: FILES, EXCEPTIONS AND REGULAR EXPRESSIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 34 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   # Verification) Tj
+T*
+(   sample_md = """# Python Programming) Tj
+T*
+(   ## Unit 6: Regular Expressions) Tj
+T*
+(   Learn **Python** at [Google]\(https://google.com\) using `re` module!""") Tj
+T*
+() Tj
+T*
+(   html_out = MarkdownParser.parse_markdown\(sample_md\)) Tj
+T*
+(   print\("Converted HTML:\\n", html_out\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(N\) regex line substitution.) Tj
+T*
+(   - Space Complexity: O\(N\) HTML string buffer.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 22:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement an Asynchronous Exception-Resilient Web Crawler Queue Simulation in Python with retry budgets and exponential backoff.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Context:) Tj
+T*
+(   In distributed network scraping, transient network errors \(timeouts, rate limits\) occur) Tj
+T*
+(   frequently. The crawler must retry failed requests with exponential backoff before logging) Tj
+T*
+(   fatal failures.) Tj
+T*
+() Tj
+T*
+(   2. Python Implementation:) Tj
+T*
+(   import time) Tj
+T*
+(   import random) Tj
+T*
+() Tj
+T*
+(   class ResilientNetworkClient:) Tj
+T*
+(   @staticmethod) Tj
+T*
+(   def fetch_with_backoff\(url: str, max_retries=3, base_delay=0.1\) -> str:) Tj
+T*
+(   for attempt in range\(1, max_retries + 1\):) Tj
+T*
+(   try:) Tj
+T*
+(   # Simulate flaky network request) Tj
+T*
+(   if random.random\(\) < 0.6 and attempt < 3:) Tj
+T*
+(   raise ConnectionResetError\("Transient TCP reset"\)) Tj
+T*
+(   return f"200 OK: Content from {url}") Tj
+T*
+(   except ConnectionResetError as err:) Tj
+T*
+(   delay = base_delay * \(2 ** \(attempt - 1\)\)) Tj
+T*
+(   print\(f"[RETRY] Attempt {attempt} failed \({err}\). Backing off {delay:.2f}s..."\)) Tj
+T*
+(   time.sleep\(delay\)) Tj
+T*
+() Tj
+T*
+(   raise TimeoutError\(f"Failed to fetch {url} after {max_retries} attempts."\)) Tj
+T*
+() Tj
+T*
+(   # Demonstration) Tj
+T*
+(   try:) Tj
+T*
+(   res = ResilientNetworkClient.fetch_with_backoff\("https://api.university.edu/data"\)) Tj
+T*
+(   print\("Success:", res\)) Tj
+T*
+(   except TimeoutError as ex:) Tj
+T*
+(   print\("Fatal:", ex\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(Retries\) with exponential delay.) Tj
+T*
+(   - Space Complexity: O\(1\) stack memory.) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+71 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 72 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+72 0 obj
+<< /Length 2917 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 6: FILES, EXCEPTIONS AND REGULAR EXPRESSIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 35 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 23:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement a Data File Anonymization Utility in Python using Regex and CSV to mask names and IP addresses in security audit logs.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Context:) Tj
+T*
+(   Sanitize forensic log CSV files by replacing actual IP addresses with unique anonymous aliases) Tj
+T*
+(   \(IP_001, IP_002\) consistently across the entire file.) Tj
+T*
+() Tj
+T*
+(   2. Python Implementation:) Tj
+T*
+(   import re) Tj
+T*
+(   import csv) Tj
+T*
+(   import io) Tj
+T*
+() Tj
+T*
+(   def anonymize_log_stream\(csv_input: str\) -> str:) Tj
+T*
+(   ip_map = {}) Tj
+T*
+(   ip_counter = 1) Tj
+T*
+(   ip_regex = re.compile\(r'\(?:\\d{1,3}\\.\){3}\\d{1,3}'\)) Tj
+T*
+() Tj
+T*
+(   def replace_ip\(match\):) Tj
+T*
+(   nonlocal ip_counter) Tj
+T*
+(   real_ip = match.group\(0\)) Tj
+T*
+(   if real_ip not in ip_map:) Tj
+T*
+(   ip_map[real_ip] = f"ANON_IP_{ip_counter:03d}") Tj
+T*
+(   ip_counter += 1) Tj
+T*
+(   return ip_map[real_ip]) Tj
+T*
+() Tj
+T*
+(   anonymized_text = ip_regex.sub\(replace_ip, csv_input\)) Tj
+T*
+(   return anonymized_text) Tj
+T*
+() Tj
+T*
+(   sample_log_csv = """ID,Timestamp,HostIP,Action) Tj
+T*
+(   1,10:00:01,192.168.1.50,LOGIN) Tj
+T*
+(   2,10:00:05,10.0.0.1,ACCESS) Tj
+T*
+(   3,10:00:09,192.168.1.50,LOGOUT""") Tj
+T*
+() Tj
+T*
+(   clean_csv = anonymize_log_stream\(sample_log_csv\)) Tj
+T*
+(   print\("Anonymized CSV Output:\\n", clean_csv\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(N\) regex scan and dictionary lookup.) Tj
+T*
+(   - Space Complexity: O\(Unique IPs\) mapping table.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 24:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement a Custom Binary Protocol Pack/Unpack Serializer in Python using struct module for fixed-width packet serialization.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Theoretical Principles of Binary Struct Serialization:) Tj
+T*
+(   Python's struct module packs and unpacks native Python values \(integers, floats\) to and from C) Tj
+T*
+(   structs represented as Python bytes objects, essential for network packet protocol headers:) Tj
+T*
+(   - >: Big-endian \(network standard\)) Tj
+T*
+(   - I: 4-byte unsigned int) Tj
+T*
+(   - H: 2-byte unsigned short) Tj
+T*
+(   - f: 4-byte float) Tj
+T*
+ET
+
+endstream
+endobj
+73 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 74 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+74 0 obj
+<< /Length 2916 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 6: FILES, EXCEPTIONS AND REGULAR EXPRESSIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 36 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   2. Python Implementation:) Tj
+T*
+(   import struct) Tj
+T*
+() Tj
+T*
+(   class NetworkPacket:) Tj
+T*
+(   # Header format: Magic \(2B\), Version \(1B\), PacketType \(1B\), Sequence \(4B\), PayloadLen \(2B\)) Tj
+T*
+(   HEADER_FORMAT = ">HBB I H") Tj
+T*
+(   HEADER_SIZE = struct.calcsize\(HEADER_FORMAT\) # 10 bytes) Tj
+T*
+() Tj
+T*
+(   @classmethod) Tj
+T*
+(   def pack\(cls, seq_num: int, payload: str\) -> bytes:) Tj
+T*
+(   magic = 0xABCD) Tj
+T*
+(   version = 1) Tj
+T*
+(   pkt_type = 2 # DATA) Tj
+T*
+(   encoded_payload = payload.encode\('utf-8'\)) Tj
+T*
+(   payload_len = len\(encoded_payload\)) Tj
+T*
+() Tj
+T*
+(   header = struct.pack\(cls.HEADER_FORMAT, magic, version, pkt_type, seq_num, payload_len\)) Tj
+T*
+(   return header + encoded_payload) Tj
+T*
+() Tj
+T*
+(   @classmethod) Tj
+T*
+(   def unpack\(cls, raw_bytes: bytes\) -> tuple:) Tj
+T*
+(   header_bytes = raw_bytes[:cls.HEADER_SIZE]) Tj
+T*
+(   magic, ver, p_type, seq, p_len = struct.unpack\(cls.HEADER_FORMAT, header_bytes\)) Tj
+T*
+(   payload = raw_bytes[cls.HEADER_SIZE:cls.HEADER_SIZE + p_len].decode\('utf-8'\)) Tj
+T*
+(   return {"Magic": hex\(magic\), "Seq": seq, "Payload": payload}) Tj
+T*
+() Tj
+T*
+(   # Demonstration) Tj
+T*
+(   packet_bytes = NetworkPacket.pack\(1042, "Telemetry Sensor Ping"\)) Tj
+T*
+(   print\(f"Packed Binary Packet: {packet_bytes} \({len\(packet_bytes\)} bytes\)"\)) Tj
+T*
+() Tj
+T*
+(   decoded = NetworkPacket.unpack\(packet_bytes\)) Tj
+T*
+(   print\(f"Unpacked Packet: {decoded}"\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Pack/Unpack Time: O\(1\) fixed-size header struct mapping.) Tj
+T*
+(   - Space Complexity: O\(Payload Length\) byte array.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 25:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement a Multi-Threaded File Downloader Simulator in Python using concurrent.futures and exception handling for failed chunks.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Context:) Tj
+T*
+(   Simulate downloading a large 50 MB file by splitting it into 5 concurrent chunk downloads,) Tj
+T*
+(   handling worker thread exceptions, and assembling the final file in proper sequence.) Tj
+T*
+() Tj
+T*
+(   2. Python Implementation:) Tj
+T*
+(   from concurrent.futures import ThreadPoolExecutor, as_completed) Tj
+T*
+() Tj
+T*
+(   def download_chunk\(chunk_id: int\) -> tuple:) Tj
+T*
+(   # Simulate network chunk download) Tj
+T*
+(   if chunk_id == 3:) Tj
+T*
+(   # Simulate retry on error) Tj
+T*
+ET
+
+endstream
+endobj
+75 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 76 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+76 0 obj
+<< /Length 2559 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 6: FILES, EXCEPTIONS AND REGULAR EXPRESSIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 37 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   pass) Tj
+T*
+(   data = f"[DATA_CHUNK_{chunk_id}]") Tj
+T*
+(   return chunk_id, data) Tj
+T*
+() Tj
+T*
+(   def parallel_file_assembler\(total_chunks=5\):) Tj
+T*
+(   chunks = {}) Tj
+T*
+(   with ThreadPoolExecutor\(max_workers=3\) as executor:) Tj
+T*
+(   future_map = {executor.submit\(download_chunk, i\): i for i in range\(1, total_chunks + 1\)}) Tj
+T*
+(   for future in as_completed\(future_map\):) Tj
+T*
+(   c_id, content = future.result\(\)) Tj
+T*
+(   chunks[c_id] = content) Tj
+T*
+(   print\(f"Downloaded chunk #{c_id}"\)) Tj
+T*
+() Tj
+T*
+(   # Assemble in order) Tj
+T*
+(   final_stream = "".join\(chunks[i] for i in range\(1, total_chunks + 1\)\)) Tj
+T*
+(   return final_stream) Tj
+T*
+() Tj
+T*
+(   assembled = parallel_file_assembler\(5\)) Tj
+T*
+(   print\(f"Final Assembled Stream: '{assembled}'"\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(N / Workers\) parallel execution.) Tj
+T*
+(   - Space Complexity: O\(N\) assembled buffer.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 26:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement a File Integrity Verification Utility in Python that computes MD5, SHA-1, and SHA-256 digests simultaneously in a single file pass.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Context:) Tj
+T*
+(   Computing multiple hashes sequentially requires reading the file multiple times from disk. We) Tj
+T*
+(   compute MD5, SHA-1, and SHA-256 simultaneously in a single read pass.) Tj
+T*
+() Tj
+T*
+(   2. Python Implementation:) Tj
+T*
+(   import hashlib) Tj
+T*
+(   import os) Tj
+T*
+() Tj
+T*
+(   def multi_hash_stream\(filepath: str\) -> dict:) Tj
+T*
+(   md5 = hashlib.md5\(\)) Tj
+T*
+(   sha1 = hashlib.sha1\(\)) Tj
+T*
+(   sha256 = hashlib.sha256\(\)) Tj
+T*
+() Tj
+T*
+(   with open\(filepath, "rb"\) as f:) Tj
+T*
+(   while chunk := f.read\(65536\):) Tj
+T*
+(   md5.update\(chunk\)) Tj
+T*
+(   sha1.update\(chunk\)) Tj
+T*
+(   sha256.update\(chunk\)) Tj
+T*
+() Tj
+T*
+(   return {) Tj
+T*
+(   "MD5": md5.hexdigest\(\),) Tj
+T*
+(   "SHA1": sha1.hexdigest\(\),) Tj
+T*
+(   "SHA256": sha256.hexdigest\(\)) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+77 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 78 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+78 0 obj
+<< /Length 2731 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 6: FILES, EXCEPTIONS AND REGULAR EXPRESSIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 38 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   # Create test file) Tj
+T*
+(   test_file = "integrity_test.dat") Tj
+T*
+(   with open\(test_file, "wb"\) as f:) Tj
+T*
+(   f.write\(b"Engineering Python Cryptographic Verification 2026"\)) Tj
+T*
+() Tj
+T*
+(   hashes = multi_hash_stream\(test_file\)) Tj
+T*
+(   print\("Computed File Checksums:"\)) Tj
+T*
+(   for alg, h in hashes.items\(\):) Tj
+T*
+(   print\(f" {alg:<8}: {h}"\)) Tj
+T*
+() Tj
+T*
+(   if os.path.exists\(test_file\): os.remove\(test_file\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(N\) single I/O read pass over N bytes.) Tj
+T*
+(   - Space Complexity: O\(1\) constant 64 KB memory chunk buffer.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 27:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement a Universal File Format Detector in Python using Magic Numbers \(File Signatures\) by inspecting the first 8 header bytes.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Theoretical Principles of Magic Numbers:) Tj
+T*
+(   Relying on file extensions \(.pdf, .png\) is unreliable and unsecure. Operating systems and) Tj
+T*
+(   forensic tools identify file types by reading the first few header bytes \(Magic Numbers\):) Tj
+T*
+(   - PDF: %PDF \(25 50 44 46\)) Tj
+T*
+(   - PNG: \\x89PNG\\r\\n\\x1a\\n \(89 50 4E 47 0D 0A 1A 0A\)) Tj
+T*
+(   - ZIP / JAR / DOCX: PK\\x03\\x04 \(50 4B 03 04\)) Tj
+T*
+(   - JPEG: \\xFF\\xD8\\xFF \(FF D8 FF\)) Tj
+T*
+() Tj
+T*
+(   2. Python Implementation:) Tj
+T*
+(   class FileTypeDetector:) Tj
+T*
+(   SIGNATURES = {) Tj
+T*
+(   b"%PDF": "PDF Document",) Tj
+T*
+(   b"?PNG) Tj
+T*
+(   ) Tj
+T*
+(   ": "PNG Image",) Tj
+T*
+(   b"???": "JPEG Image",) Tj
+T*
+(   b"PK": "ZIP / Office Archive",) Tj
+T*
+(   b"GIF87a": "GIF Image",) Tj
+T*
+(   b"GIF89a": "GIF Image") Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   @classmethod) Tj
+T*
+(   def identify\(cls, file_bytes: bytes\) -> str:) Tj
+T*
+(   for magic, file_type in cls.SIGNATURES.items\(\):) Tj
+T*
+(   if file_bytes.startswith\(magic\):) Tj
+T*
+(   return file_type) Tj
+T*
+(   return "Unknown Binary Format") Tj
+T*
+() Tj
+T*
+(   # Verification) Tj
+T*
+(   print\(f"Detecting %PDF-1.4 header: -> {FileTypeDetector.identify\(b'%PDF-1.4'\)}"\)) Tj
+T*
+(   print\(f"Detecting PNG header: -> {FileTypeDetector.identify\(b'?PNG) Tj
+T*
+(   ) Tj
+T*
+(   \\x00\\x00'\)}"\)) Tj
+T*
+ET
+
+endstream
+endobj
+79 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 80 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+80 0 obj
+<< /Length 2603 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 6: FILES, EXCEPTIONS AND REGULAR EXPRESSIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 39 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Identification Time: O\(1\) prefix byte comparison.) Tj
+T*
+(   - Space Complexity: O\(1\) memory.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 28:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement a Syntax Highlighter Lexer in Python using Regular Expressions to tokenize Python source code into Keywords, Identifiers, Numbers, Strings, and Operators.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Context:) Tj
+T*
+(   Develop a regular expression lexer that scans source code and emits token tuples \(TYPE, VALUE\)) Tj
+T*
+(   for syntax highlighting.) Tj
+T*
+() Tj
+T*
+(   2. Python Implementation:) Tj
+T*
+(   import re) Tj
+T*
+() Tj
+T*
+(   TOKEN_SPECIFICATION = [) Tj
+T*
+(   \('KEYWORD', r'\(?:def|class|if|else|while|for|return|import|try|except\)'\),) Tj
+T*
+(   \('NUMBER', r'\\d+\(?:\\.\\d+\)?'\),) Tj
+T*
+(   \('STRING', r'"[^") Tj
+T*
+(   ]*"|'[^') Tj
+T*
+(   ]*''\),) Tj
+T*
+(   \('IDENTIFIER', r'[A-Za-z_][A-Za-z0-9_]*'\),) Tj
+T*
+(   \('OPERATOR', r'[+\\-*/=<>!]+'\),) Tj
+T*
+(   \('PUNCTUATION',r'[\(\){}:;,]'\),) Tj
+T*
+(   \('WHITESPACE', r'\\s+'\),) Tj
+T*
+(   ]) Tj
+T*
+() Tj
+T*
+(   MASTER_REGEX = re.compile\('|'.join\(f'\(?P<{name}>{pattern}\)' for name, pattern in) Tj
+T*
+(   TOKEN_SPECIFICATION\)\)) Tj
+T*
+() Tj
+T*
+(   def tokenize_code\(code_str: str\) -> list:) Tj
+T*
+(   tokens = []) Tj
+T*
+(   for match in MASTER_REGEX.finditer\(code_str\):) Tj
+T*
+(   kind = match.lastgroup) Tj
+T*
+(   value = match.group\(\)) Tj
+T*
+(   if kind != 'WHITESPACE':) Tj
+T*
+(   tokens.append\(\(kind, value\)\)) Tj
+T*
+(   return tokens) Tj
+T*
+() Tj
+T*
+(   # Verification) Tj
+T*
+(   sample_py = "def square\(x\): return x * 2") Tj
+T*
+(   tokens = tokenize_code\(sample_py\)) Tj
+T*
+(   print\("Lexed Tokens:"\)) Tj
+T*
+(   for t_type, t_val in tokens:) Tj
+T*
+(   print\(f" {t_type:<12}: '{t_val}'"\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Tokenization Time: O\(N\) linear scan over source text.) Tj
+T*
+(   - Space Complexity: O\(Tokens\) token array.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+81 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 82 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+82 0 obj
+<< /Length 2620 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 6: FILES, EXCEPTIONS AND REGULAR EXPRESSIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 40 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 29:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement an Exception-Safe Transactional Database File Journaling System in Python using write-ahead logs \(WAL\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Context:) Tj
+T*
+(   Write-Ahead Logging \(WAL\) ensures database consistency. Before committing changes to main) Tj
+T*
+(   storage, operations are appended to a persistent journal log. If a crash occurs, the journal is) Tj
+T*
+(   replayed to restore state.) Tj
+T*
+() Tj
+T*
+(   2. Python Implementation:) Tj
+T*
+(   import os) Tj
+T*
+(   import json) Tj
+T*
+() Tj
+T*
+(   class WALDatabase:) Tj
+T*
+(   def __init__\(self, db_file="data.json", wal_file="data.wal"\):) Tj
+T*
+(   self.db_file = db_file) Tj
+T*
+(   self.wal_file = wal_file) Tj
+T*
+(   self.state = self._recover_and_load\(\)) Tj
+T*
+() Tj
+T*
+(   def _recover_and_load\(self\) -> dict:) Tj
+T*
+(   data = {}) Tj
+T*
+(   if os.path.exists\(self.db_file\):) Tj
+T*
+(   with open\(self.db_file, "r"\) as f:) Tj
+T*
+(   data = json.load\(f\)) Tj
+T*
+(   # Replay WAL if present) Tj
+T*
+(   if os.path.exists\(self.wal_file\):) Tj
+T*
+(   print\("[RECOVERY] Uncommitted WAL detected. Replaying journal..."\)) Tj
+T*
+(   with open\(self.wal_file, "r"\) as f:) Tj
+T*
+(   for line in f:) Tj
+T*
+(   entry = json.loads\(line\)) Tj
+T*
+(   data[entry["key"]] = entry["value"]) Tj
+T*
+(   # Flush to main DB and delete WAL) Tj
+T*
+(   with open\(self.db_file, "w"\) as f:) Tj
+T*
+(   json.dump\(data, f\)) Tj
+T*
+(   os.remove\(self.wal_file\)) Tj
+T*
+(   return data) Tj
+T*
+() Tj
+T*
+(   def set\(self, key: str, value\):) Tj
+T*
+(   # 1. Log to WAL first) Tj
+T*
+(   with open\(self.wal_file, "a"\) as f:) Tj
+T*
+(   f.write\(json.dumps\({"key": key, "value": value}\) + "\\n"\)) Tj
+T*
+(   self.state[key] = value) Tj
+T*
+() Tj
+T*
+(   # Verification) Tj
+T*
+(   db = WALDatabase\("test_db.json", "test_db.wal"\)) Tj
+T*
+(   db.set\("user_101", {"name": "Aarav", "balance": 500}\)) Tj
+T*
+() Tj
+T*
+(   # Cleanup) Tj
+T*
+(   for p in \("test_db.json", "test_db.wal"\):) Tj
+T*
+(   if os.path.exists\(p\): os.remove\(p\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Append Time: O\(1\) sequential disk write.) Tj
+T*
+(   - Recovery Time: O\(Journal Entries\).) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+83 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 84 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+84 0 obj
+<< /Length 2511 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 6: FILES, EXCEPTIONS AND REGULAR EXPRESSIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 41 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 30:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement a Complete Email, URL, and Date Format Extractor in Python using Regular Expressions with rigorous boundary constraints.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Context:) Tj
+T*
+(   Develop a comprehensive information extraction utility that extracts emails, valid HTTP/HTTPS) Tj
+T*
+(   URLs, and ISO/Standard dates \(YYYY-MM-DD or DD/MM/YYYY\) from unstructured text.) Tj
+T*
+() Tj
+T*
+(   2. Python Implementation:) Tj
+T*
+(   import re) Tj
+T*
+() Tj
+T*
+(   class InformationExtractor:) Tj
+T*
+(   EMAIL_REGEX = re.compile\(r'[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\\.[A-Za-z]{2,}'\)) Tj
+T*
+(   URL_REGEX =) Tj
+T*
+(   re.compile\(r'https?://\(?:www\\.\)?[-a-zA-Z0-9@:%._+~#=]{1,256}\\.[a-zA-Z0-9\(\)]{1,6}[-a-zA-Z0-9\(\)@) Tj
+T*
+(   :%_+.~#?&/=]*'\)) Tj
+T*
+(   DATE_REGEX = re.compile\(r'\(?:\\d{4}-\\d{2}-\\d{2}|\\d{2}/\\d{2}/\\d{4}\)'\)) Tj
+T*
+() Tj
+T*
+(   @classmethod) Tj
+T*
+(   def extract_all\(cls, text: str\) -> dict:) Tj
+T*
+(   return {) Tj
+T*
+(   "Emails": cls.EMAIL_REGEX.findall\(text\),) Tj
+T*
+(   "URLs": cls.URL_REGEX.findall\(text\),) Tj
+T*
+(   "Dates": cls.DATE_REGEX.findall\(text\)) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   # Verification) Tj
+T*
+(   corpus = """) Tj
+T*
+(   Published on 2026-10-26 by research team \(contact: admin@cse.university.edu\).) Tj
+T*
+(   For documentation, visit https://python.org or https://docs.python.org/3/.) Tj
+T*
+(   Next conference scheduled for 15/12/2026.) Tj
+T*
+(   """) Tj
+T*
+() Tj
+T*
+(   extracted = InformationExtractor.extract_all\(corpus\)) Tj
+T*
+(   print\("Extracted Information Entities:"\)) Tj
+T*
+(   for entity_type, matches in extracted.items\(\):) Tj
+T*
+(   print\(f" {entity_type:<10}: {matches}"\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(N\) linear sweep across text length.) Tj
+T*
+(   - Space Complexity: O\(M\) extracted entity lists.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+85 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+86 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+xref
+0 87
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000393 00000 n 
+0000000537 00000 n 
+0000008909 00000 n 
+0000009053 00000 n 
+0000017906 00000 n 
+0000018050 00000 n 
+0000026411 00000 n 
+0000026556 00000 n 
+0000036407 00000 n 
+0000036553 00000 n 
+0000045938 00000 n 
+0000046084 00000 n 
+0000056398 00000 n 
+0000056544 00000 n 
+0000067081 00000 n 
+0000067227 00000 n 
+0000068933 00000 n 
+0000069079 00000 n 
+0000074497 00000 n 
+0000074643 00000 n 
+0000077362 00000 n 
+0000077508 00000 n 
+0000085990 00000 n 
+0000086136 00000 n 
+0000089816 00000 n 
+0000089962 00000 n 
+0000093182 00000 n 
+0000093328 00000 n 
+0000096666 00000 n 
+0000096812 00000 n 
+0000100026 00000 n 
+0000100172 00000 n 
+0000103400 00000 n 
+0000103546 00000 n 
+0000106989 00000 n 
+0000107135 00000 n 
+0000110423 00000 n 
+0000110569 00000 n 
+0000113996 00000 n 
+0000114142 00000 n 
+0000117276 00000 n 
+0000117422 00000 n 
+0000120913 00000 n 
+0000121059 00000 n 
+0000124396 00000 n 
+0000124542 00000 n 
+0000127395 00000 n 
+0000127541 00000 n 
+0000130556 00000 n 
+0000130702 00000 n 
+0000133523 00000 n 
+0000133669 00000 n 
+0000136150 00000 n 
+0000136296 00000 n 
+0000138853 00000 n 
+0000138999 00000 n 
+0000142408 00000 n 
+0000142554 00000 n 
+0000145083 00000 n 
+0000145229 00000 n 
+0000147748 00000 n 
+0000147894 00000 n 
+0000150195 00000 n 
+0000150341 00000 n 
+0000153159 00000 n 
+0000153305 00000 n 
+0000156053 00000 n 
+0000156199 00000 n 
+0000159019 00000 n 
+0000159165 00000 n 
+0000162135 00000 n 
+0000162281 00000 n 
+0000165250 00000 n 
+0000165396 00000 n 
+0000168008 00000 n 
+0000168154 00000 n 
+0000170938 00000 n 
+0000171084 00000 n 
+0000173740 00000 n 
+0000173886 00000 n 
+0000176559 00000 n 
+0000176705 00000 n 
+0000179269 00000 n 
+0000179367 00000 n 
+trailer
+<< /Size 87 /Root 1 0 R >>
+startxref
+179470
+%%EOF

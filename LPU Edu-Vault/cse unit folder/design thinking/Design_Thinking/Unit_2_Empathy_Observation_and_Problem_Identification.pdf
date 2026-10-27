@@ -1,0 +1,606 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2861 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Design Thinking | Unit 2: Empathy & User Research Methods) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 1 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(=== UNIT 2: EMPATHY, OBSERVATION & PROBLEM DEFINITION ===) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.1 The Empathize Phase: Moving Beyond Sympathy) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Empathy is the deliberate, non-judgmental immersion into the lived experiences,) Tj
+T*
+(emotional states, physical contexts, and underlying values of users.) Tj
+T*
+(* Sympathy vs Empathy: Sympathy expresses passive pity from an external distance \('I) Tj
+T*
+(feel sorry for your hardship'\). Empathy actively shares and internalizes the user's) Tj
+T*
+(worldview and emotional reality \('I feel and experience what you feel'\).) Tj
+T*
+(* Computational Empathy in Software Engineering: Designing intuitive user) Tj
+T*
+(experiences, accessibility features for individuals with sensory/motor impairments,) Tj
+T*
+(and error tolerance that anticipates human cognitive limits rather than blaming user) Tj
+T*
+(error.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.2 Qualitative and Quantitative User Research Methodologies) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Quantitative Research: Answers 'What?', 'How much?', and 'How often?' through) Tj
+T*
+(analytics dashboards, telemetry logs, A/B test data, and structured surveys. Provides) Tj
+T*
+(statistical validation over large sample cohorts.) Tj
+T*
+(* Qualitative Research: Answers 'Why?' and 'How do users feel?' through open-ended) Tj
+T*
+(semi-structured interviews, direct ethnographic observation, and context mapping.) Tj
+T*
+(Reveals deep emotional drivers, hidden workarounds, and implicit needs.) Tj
+T*
+(* The 5 Whys Root-Cause Protocol: Developed by Sakichi Toyoda for the Toyota) Tj
+T*
+(Production System; repeatedly interrogates causal chains by asking 'Why?' five times) Tj
+T*
+(to peel away superficial symptoms and expose the foundational root failure.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.3 The AEIOU Observational Framework) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(The AEIOU framework structures field ethnographic observations into five distinct) Tj
+T*
+(analytical categories:) Tj
+T*
+(* Activities: Specific actions and goal-directed workflows users perform \(e.g.) Tj
+T*
+(searching for a course, entering passwords\).) Tj
+T*
+(* Environments: The physical and digital contexts where activities occur \(e.g. noisy) Tj
+T*
+(outdoor subway, dim hospital ward, mobile network dead-zone\).) Tj
+T*
+(* Interactions: Direct touchpoints between people, people and machines, or machines) Tj
+T*
+(and physical spaces.) Tj
+T*
+(* Objects: Physical and digital tools, devices, documents, and makeshift workarounds) Tj
+T*
+(users engage with.) Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 2880 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Design Thinking | Unit 2: Empathy & User Research Methods) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 2 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(* Users: The diverse stakeholders whose needs, behaviors, and roles are being) Tj
+T*
+(observed.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.4 User Personas and Empathy Mapping) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* User Persona: A semi-fictional archetype representing a key user segment) Tj
+T*
+(synthesized from real empirical research data. Includes demographic background,) Tj
+T*
+(psychographic goals, operational environment, technological proficiency, and acute) Tj
+T*
+(pain points.) Tj
+T*
+(* The Empathy Map: A four-quadrant collaborative visualization tool that captures) Tj
+T*
+(user reality:) Tj
+T*
+(- Says: Verbatim quotes and explicit verbal statements recorded during interviews.) Tj
+T*
+(- Thinks: Beliefs, internal hopes, anxieties, and unsaid thoughts.) Tj
+T*
+(- Does: Observable physical behaviors, workflows, and body language.) Tj
+T*
+(- Feels: Emotional states, frustrations, and aspirations.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.5 Framing Actionable Problem Statements: Point of View \(POV\) & HMW) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Point of View \(POV\) Statement: Synthesizes User, Need, and Insight into a concise) Tj
+T*
+(actionable problem definition:) Tj
+T*
+(Formula: [User] needs [User Need] because [Surprising Insight].) Tj
+T*
+(* 'How Might We' \(HMW\) Questions: Reframe the POV statement into optimistic,) Tj
+T*
+(generative design prompts that open broad creative spaces without presupposing a) Tj
+T*
+(specific technical solution.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([CASE STUDY 1: The Embarrassed ATM User & Privacy Screen Redesign]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: A major bank observed that ATM transactions among elderly and rural) Tj
+T*
+(customers dropped by 45% despite installing modern touchscreen ATMs in bustling market) Tj
+T*
+(centers.) Tj
+T*
+(Ethnographic Research via AEIOU Framework:) Tj
+T*
+(Activities: Users withdrew cash, entered PINs, checked account balances.) Tj
+T*
+(Environments: Crowded, noisy open-air market streets with tight queuing lines.) Tj
+T*
+(Interactions: Users shielded touchscreens with jackets or hands; hesitated and aborted) Tj
+T*
+(transactions.) Tj
+T*
+(Objects: Bulky ATM cabinets, large bright overhead displays.) Tj
+T*
+(Surprising Insight: Users were deeply anxious that bystanders in line were viewing their) Tj
+T*
+(account balances and PINs on the large glowing screens, causing severe social) Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 3424 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Design Thinking | Unit 2: Empathy & User Research Methods) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 3 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(embarrassment and fear of theft.) Tj
+T*
+(POV Statement: Rural and elderly market customers need absolute visual privacy while) Tj
+T*
+(operating public ATMs because financial vulnerability in public creates intense social) Tj
+T*
+(anxiety and transactional abandonment.) Tj
+T*
+(HMW Formulation: How might we make ATM transactions completely discreet and unreadable) Tj
+T*
+(to bystanders without compromising screen readability for the user?) Tj
+T*
+(Implemented Solution: Installed micro-louver privacy polarization filters restricting) Tj
+T*
+(viewing angles to strictly 0 degrees \(normal to screen\) and introduced private tactile) Tj
+T*
+(keypad shrouds.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([CASE STUDY 2: 5 Whys Root-Cause Analysis on Hospital Software Errors]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Nurses in an ICU ward committed critical dosage input errors on digital) Tj
+T*
+(infusion pumps at a rate of 3.2% per 1000 shifts.) Tj
+T*
+(5 Whys Interrogation Protocol:) Tj
+T*
+(1. Why did the nurse administer an incorrect medication dosage? -> Because she entered) Tj
+T*
+(10.0 mg instead of 1.0 mg into the software interface.) Tj
+T*
+(2. Why did she enter 10.0 instead of 1.0? -> Because the touchscreen decimal point) Tj
+T*
+(button was tiny and failed to register on the first tap, and she double-tapped.) Tj
+T*
+(3. Why did she fail to notice the double-tap zero? -> Because the screen display lacked) Tj
+T*
+(prominent confirmation contrast and alarm warnings for out-of-range clinical dosages.) Tj
+T*
+(4. Why was she in a rush and distracted? -> Because the software system sounded 120) Tj
+T*
+(false positive operational alarms per hour, causing severe cognitive alarm fatigue.) Tj
+T*
+(5. Why are there so many false alarms? -> Because the software engineers set universal) Tj
+T*
+(sensitivity thresholds across all telemetry variables without consulting ICU nurses on) Tj
+T*
+(clinical tolerances.) Tj
+T*
+(Root-Cause Solution: Redesigned the alert taxonomy with smart clinical tolerance ranges,) Tj
+T*
+(reducing false alarms by 78%, and implemented mandatory dual-nurse slider confirmation) Tj
+T*
+(for high-risk dosages.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([CASE STUDY 3: Empathy Mapping for University LMS Mobile App]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: A university learning management system \(LMS\) mobile application) Tj
+T*
+(received a dismal 1.8-star rating from first-year undergraduate engineering students.) Tj
+T*
+(Empathy Map Synthesis:) Tj
+T*
+(Says: 'I never know when an assignment deadline changes', 'The app keeps logging me out) Tj
+T*
+(during lab quizzes.') Tj
+T*
+(Thinks: 'The professors think we check our email every hour', 'I am terrified of failing) Tj
+T*
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 3253 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Design Thinking | Unit 2: Empathy & User Research Methods) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 4 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(my submission because of spotty campus Wi-Fi.') Tj
+T*
+(Does: Takes screenshots of assignment web pages; sets multiple independent phone alarms;) Tj
+T*
+(submits assignments minutes before deadline.) Tj
+T*
+(Feels: Overwhelmed by fragmented communication; anxious about file upload failures.) Tj
+T*
+(Actionable POV: Undergraduate engineering students need an automated, offline-tolerant) Tj
+T*
+(assignment tracking pipeline because spotty campus connectivity and uncoordinated) Tj
+T*
+(deadline updates cause acute academic panic.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([CASE STUDY 4: Reframing 'How Might We' for Public Bus Transit App]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Commuters in a metropolitan city complained that public buses were) Tj
+T*
+(always late, causing crowded platforms and passenger anger.) Tj
+T*
+(Generating and Tuning HMW Questions:) Tj
+T*
+(Initial Poor HMW \(Too Narrow\): How might we make all city buses run on time?) Tj
+T*
+(\(Engineering team cannot alter city traffic congestion\).) Tj
+T*
+(Initial Poor HMW \(Too Broad\): How might we solve city urban transportation? \(Too) Tj
+T*
+(massive; un-actionable\).) Tj
+T*
+(Balanced Actionable HMWs:) Tj
+T*
+(- HMW 1: How might we provide commuters with real-time GPS bus location tracking so) Tj
+T*
+(waiting feels predictable and manageable?) Tj
+T*
+(- HMW 2: How might we transform waiting time at bus stops into a productive or enjoyable) Tj
+T*
+(social experience?) Tj
+T*
+(- HMW 3: How might we incentivize commuters to shift their travel by 20 minutes to) Tj
+T*
+(equalize passenger loading across buses?) Tj
+T*
+(Winning Product Feature: Real-time crowdsourced GPS arrival countdowns displayed on bus) Tj
+T*
+(stop e-ink screens and mobile apps, reducing perceived waiting frustration by 65%.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.6 University Review & Examination Questions) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Q1: Explain the structure and utility of the AEIOU observational framework in) Tj
+T*
+(ethnographic user research.) Tj
+T*
+(Answer: The AEIOU framework is an ethnographic research protocol that structures) Tj
+T*
+(observational data into five interrelated dimensions: \(1\) Activities: Goal-oriented) Tj
+T*
+(workflows, sequential tasks, and actions users undertake. \(2\) Environments: Physical and) Tj
+T*
+(digital spaces, layout, acoustics, and environmental constraints. \(3\) Interactions:) Tj
+T*
+(Person-to-person or person-to-artifact relationships and touchpoints. \(4\) Objects:) Tj
+T*
+(Physical devices, software tools, forms, and improvised workarounds. \(5\) Users:) Tj
+T*
+(Demographic traits, roles, and behavioral habits. By categorizing field notes into) Tj
+T*
+(AEIOU, designers prevent cognitive bias, spot unarticulated user frustrations, and) Tj
+T*
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 1749 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Design Thinking | Unit 2: Empathy & User Research Methods) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 5 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(discover unintended workarounds that reveal unmet needs.) Tj
+T*
+(* Q2: Formulate the anatomy of an actionable Point of View \(POV\) statement and) Tj
+T*
+(explain how it drives the generation of 'How Might We' \(HMW\) design questions.) Tj
+T*
+(Answer: An actionable POV statement synthesizes three core components: [User Profile] +) Tj
+T*
+(needs + [User Need / Goal] + because + [Deep Root Insight]. It must capture a specific) Tj
+T*
+(user segment, articulate a functional or emotional need \(as a verb\), and ground it in a) Tj
+T*
+(non-obvious human insight discovered during empathy research. From this anchored POV,) Tj
+T*
+(designers generate multiple 'How Might We' \(HMW\) questions by varying framing angles) Tj
+T*
+(\(e.g. amplifying the good, removing the bad, exploring extremes, or reversing) Tj
+T*
+(constraints\). HMW questions reframe the problem into an open, optimistic invitation for) Tj
+T*
+(divergent brainstorming.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.7 Key Takeaways and Revision Points) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Empathy requires experiencing the user's world, not feeling sorry from afar.) Tj
+T*
+(* The 5 Whys protocol drills past superficial symptoms to uncover root systemic) Tj
+T*
+(causes.) Tj
+T*
+(* The AEIOU framework categorizes Activities, Environments, Interactions, Objects,) Tj
+T*
+(and Users.) Tj
+T*
+(* Point of View \(POV\) formula: [User] needs [Need] because [Insight]. HMW questions) Tj
+T*
+(launch ideation.) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000171 00000 n 
+0000000241 00000 n 
+0000000316 00000 n 
+0000000428 00000 n 
+0000003341 00000 n 
+0000003453 00000 n 
+0000006385 00000 n 
+0000006498 00000 n 
+0000009975 00000 n 
+0000010089 00000 n 
+0000013395 00000 n 
+0000013509 00000 n 
+trailer
+<< /Size 15 /Root 1 0 R >>
+startxref
+15311
+%%EOF

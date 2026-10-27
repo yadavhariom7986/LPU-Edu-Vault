@@ -1,0 +1,11057 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R 35 0 R 37 0 R 39 0 R 41 0 R 43 0 R 45 0 R 47 0 R 49 0 R 51 0 R 53 0 R 55 0 R 57 0 R 59 0 R 61 0 R 63 0 R 65 0 R 67 0 R] /Count 33 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 4 0 R /Resources << /Font << /F1 69 0 R /F2 70 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 9283 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 4: PLANE TRUSSES & STRUCTURES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 1 of 33) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(1.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(A rigid structural framework composed of slender) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(members joined at their ends to span large) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(distances is called a:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(Truss) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.3 Td
+(Portal Frame) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.7 Td
+(Continuous Beam) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.1 Td
+(Retaining Wall) Tj
+ET
+BT
+/F2 8.0 Tf
+42 701.5001 Td
+(2.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(The fundamental geometric building unit that) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.3 Td
+(gives planar trusses their inherent geometric) Tj
+ET
+BT
+/F1 7.8 Tf
+58 683.1 Td
+(rigidity is the:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.4 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.4 Td
+(Triangle) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.8 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.8 Td
+(Rectangle) Tj
+ET
+BT
+/F2 7.4 Tf
+58 652.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 652.2001 Td
+(Hexagon) Tj
+ET
+BT
+/F2 7.4 Tf
+58 642.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 642.6001 Td
+(Trapezoid) Tj
+ET
+BT
+/F2 8.0 Tf
+42 619.0001 Td
+(3.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.0001 Td
+(In planar pin-jointed trusses, the relationship) Tj
+ET
+BT
+/F1 7.8 Tf
+58 609.8001 Td
+(between number of members m and number of joints) Tj
+ET
+BT
+/F1 7.8 Tf
+58 600.6001 Td
+(j for a perfect truss is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.9001 Td
+(m = 2 * j - 3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 579.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 579.3001 Td
+(m = 2 * j + 3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 569.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 569.7001 Td
+(m = 3 * j - 2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 560.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 560.1002 Td
+(m = j + 3) Tj
+ET
+BT
+/F2 8.0 Tf
+42 536.5002 Td
+(4.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 536.5002 Td
+(A truss having fewer members than required for) Tj
+ET
+BT
+/F1 7.8 Tf
+58 527.3002 Td
+(static determinacy \(m < 2*j - 3\) is classified) Tj
+ET
+BT
+/F1 7.8 Tf
+58 518.1002 Td
+(as:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 506.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 506.4001 Td
+(Deficient \(Unstable / Mechanism\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 496.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 496.8001 Td
+(Redundant) Tj
+ET
+BT
+/F2 7.4 Tf
+58 487.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 487.2001 Td
+(Perfect) Tj
+ET
+BT
+/F2 7.4 Tf
+58 477.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 477.6001 Td
+(Super-stable) Tj
+ET
+BT
+/F2 8.0 Tf
+42 454.0001 Td
+(5.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 454.0001 Td
+(A truss possessing more members than required by) Tj
+ET
+BT
+/F1 7.8 Tf
+58 444.8001 Td
+(static determinacy \(m > 2*j - 3\) is termed:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 433.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 433.1001 Td
+(Redundant \(Statically Indeterminate\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 423.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 423.5001 Td
+(Deficient) Tj
+ET
+BT
+/F2 7.4 Tf
+58 413.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 413.9001 Td
+(Hypostatic) Tj
+ET
+BT
+/F2 7.4 Tf
+58 404.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 404.3001 Td
+(Unstable) Tj
+ET
+BT
+/F2 8.0 Tf
+42 380.7001 Td
+(6.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 380.7001 Td
+(In ideal structural truss analysis, the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 371.5001 Td
+(connection joints between members are assumed to) Tj
+ET
+BT
+/F1 7.8 Tf
+58 362.3 Td
+(be:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 350.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 350.6 Td
+(Frictionless spherical pins / hinges) Tj
+ET
+BT
+/F2 7.4 Tf
+58 341 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 341 Td
+(Fully rigid welded moment connections) Tj
+ET
+BT
+/F2 7.4 Tf
+58 331.4 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 331.4 Td
+(Semi-rigid elastomeric pads) Tj
+ET
+BT
+/F2 7.4 Tf
+58 321.8 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 321.8 Td
+(Sliding telescopic joints) Tj
+ET
+BT
+/F2 8.0 Tf
+42 298.2 Td
+(7.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 298.2 Td
+(In ideal truss theory, all external active loads) Tj
+ET
+BT
+/F1 7.8 Tf
+58 289 Td
+(and support reactions MUST act strictly at:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 277.3 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 277.3 Td
+(The pin joints \(nodes\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 267.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 267.7 Td
+(The mid-span of individual members) Tj
+ET
+BT
+/F2 7.4 Tf
+58 258.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 258.1 Td
+(The quarter-points of top chord) Tj
+ET
+BT
+/F2 7.4 Tf
+58 248.5 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 248.5 Td
+(Random locations) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(8.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Because all joints are frictionless pins and) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(loads act solely at joints, every ideal truss) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(member behaves as a:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(Two-Force Member \(pure axial tension or) Tj
+ET
+BT
+/F1 7.4 Tf
+336 745.3 Td
+(compression\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 735.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 735.7 Td
+(Beam-Column with bending and torsion) Tj
+ET
+BT
+/F2 7.4 Tf
+322 726.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 726.1 Td
+(Three-force shear member) Tj
+ET
+BT
+/F2 7.4 Tf
+322 716.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 716.5001 Td
+(Flexural plate) Tj
+ET
+BT
+/F2 8.0 Tf
+306 692.9001 Td
+(9.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.9001 Td
+(A truss member subjected to equal and opposite) Tj
+ET
+BT
+/F1 7.8 Tf
+322 683.7001 Td
+(pulling forces directed away from its pin ends) Tj
+ET
+BT
+/F1 7.8 Tf
+322 674.5001 Td
+(is in:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 662.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 662.8 Td
+(Axial Tension) Tj
+ET
+BT
+/F2 7.4 Tf
+322 653.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 653.2001 Td
+(Axial Compression) Tj
+ET
+BT
+/F2 7.4 Tf
+322 643.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 643.6001 Td
+(Transverse Bending) Tj
+ET
+BT
+/F2 7.4 Tf
+322 634.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 634.0001 Td
+(Pure Torsion) Tj
+ET
+BT
+/F2 8.0 Tf
+306 610.4001 Td
+(10.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 610.4001 Td
+(A truss member subjected to pushing forces) Tj
+ET
+BT
+/F1 7.8 Tf
+322 601.2001 Td
+(directed toward its pin joints is in:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 589.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 589.5001 Td
+(Axial Compression) Tj
+ET
+BT
+/F2 7.4 Tf
+322 579.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 579.9001 Td
+(Axial Tension) Tj
+ET
+BT
+/F2 7.4 Tf
+322 570.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 570.3002 Td
+(Pure Shear) Tj
+ET
+BT
+/F2 7.4 Tf
+322 560.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 560.7002 Td
+(Hydrostatic Tension) Tj
+ET
+BT
+/F2 8.0 Tf
+306 537.1002 Td
+(11.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 537.1002 Td
+(The Method of Joints is based on analyzing the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 527.9002 Td
+(static equilibrium of each joint treated as a:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 516.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 516.2002 Td
+(Concurrent coplanar force system \(Sigma Fx =) Tj
+ET
+BT
+/F1 7.4 Tf
+336 507.6002 Td
+(0, Sigma Fy = 0\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 498.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 498.0002 Td
+(Non-concurrent force system with moments) Tj
+ET
+BT
+/F2 7.4 Tf
+322 488.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 488.4002 Td
+(Three-dimensional spatial continuum) Tj
+ET
+BT
+/F2 7.4 Tf
+322 478.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 478.8002 Td
+(Dynamic vibration node) Tj
+ET
+BT
+/F2 8.0 Tf
+306 455.2002 Td
+(12.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 455.2002 Td
+(When applying the Method of Joints to a 2D) Tj
+ET
+BT
+/F1 7.8 Tf
+322 446.0002 Td
+(planar truss, the maximum number of unknown) Tj
+ET
+BT
+/F1 7.8 Tf
+322 436.8001 Td
+(member forces solvable at a single joint is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 425.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 425.1001 Td
+(Two \(due to 2 independent equations Sigma Fx) Tj
+ET
+BT
+/F1 7.4 Tf
+336 416.5001 Td
+(= 0, Sigma Fy = 0\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 406.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 406.9001 Td
+(Three) Tj
+ET
+BT
+/F2 7.4 Tf
+322 397.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 397.3001 Td
+(Four) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.7001 Td
+(One only) Tj
+ET
+BT
+/F2 8.0 Tf
+306 364.1001 Td
+(13.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 364.1001 Td
+(When two non-collinear members meet at an) Tj
+ET
+BT
+/F1 7.8 Tf
+322 354.9001 Td
+(unloaded joint with no external forces, the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 345.7001 Td
+(internal forces in both members are:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 334.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 334.0001 Td
+(Zero in both members) Tj
+ET
+BT
+/F2 7.4 Tf
+322 324.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 324.4001 Td
+(Equal and compressive) Tj
+ET
+BT
+/F2 7.4 Tf
+322 314.8 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 314.8 Td
+(Equal and tensile) Tj
+ET
+BT
+/F2 7.4 Tf
+322 305.2 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 305.2 Td
+(Infinite) Tj
+ET
+BT
+/F2 8.0 Tf
+306 281.6 Td
+(14.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 281.6 Td
+(If three members meet at an unloaded joint where) Tj
+ET
+BT
+/F1 7.8 Tf
+322 272.4 Td
+(two members are collinear, the force in the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 263.2 Td
+(third non-collinear member is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 251.5 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 251.5 Td
+(Zero) Tj
+ET
+BT
+/F2 7.4 Tf
+322 241.9 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 241.9 Td
+(Equal to the sum of the other two) Tj
+ET
+BT
+/F2 7.4 Tf
+322 232.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 232.3 Td
+(Compressive) Tj
+ET
+BT
+/F2 7.4 Tf
+322 222.7 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 222.7 Td
+(Tensile) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 6 0 R /Resources << /Font << /F1 69 0 R /F2 70 0 R >> >> >>
+endobj
+6 0 obj
+<< /Length 9234 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 4: PLANE TRUSSES & STRUCTURES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 2 of 33) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(15.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(If two non-collinear members meet at a joint) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(where an external load is collinear with one) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(member, the other member force is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(Zero) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.3 Td
+(Equal to the external load) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.7 Td
+(Compressive) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.1 Td
+(Half the load) Tj
+ET
+BT
+/F2 8.0 Tf
+42 701.5001 Td
+(16.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(The Method of Sections is based on cutting an) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.3 Td
+(imaginary section through the truss and) Tj
+ET
+BT
+/F1 7.8 Tf
+58 683.1 Td
+(applying:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.4 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.4 Td
+(Equilibrium equations of a non-concurrent) Tj
+ET
+BT
+/F1 7.4 Tf
+72 662.8 Td
+(rigid body \(Sigma Fx = 0, Fy = 0, M = 0\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 653.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 653.2001 Td
+(Hooke's law of elasticity) Tj
+ET
+BT
+/F2 7.4 Tf
+58 643.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 643.6001 Td
+(Energy conservation integrals) Tj
+ET
+BT
+/F2 7.4 Tf
+58 634.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 634.0001 Td
+(Euler buckling criteria) Tj
+ET
+BT
+/F2 8.0 Tf
+42 610.4001 Td
+(17.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 610.4001 Td
+(When cutting a truss using the Method of) Tj
+ET
+BT
+/F1 7.8 Tf
+58 601.2001 Td
+(Sections, the cut section should generally pass) Tj
+ET
+BT
+/F1 7.8 Tf
+58 592.0001 Td
+(through no more than:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 580.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 580.3001 Td
+(Three unknown members) Tj
+ET
+BT
+/F2 7.4 Tf
+58 570.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 570.7001 Td
+(Two unknown members) Tj
+ET
+BT
+/F2 7.4 Tf
+58 561.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 561.1002 Td
+(Five unknown members) Tj
+ET
+BT
+/F2 7.4 Tf
+58 551.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 551.5002 Td
+(One member only) Tj
+ET
+BT
+/F2 8.0 Tf
+42 527.9002 Td
+(18.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 527.9002 Td
+(In the Method of Sections, to find the force in) Tj
+ET
+BT
+/F1 7.8 Tf
+58 518.7002 Td
+(a specific member directly, moments are) Tj
+ET
+BT
+/F1 7.8 Tf
+58 509.5002 Td
+(conveniently taken about:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 497.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 497.8002 Td
+(The point of concurrency of the other two) Tj
+ET
+BT
+/F1 7.4 Tf
+72 489.2002 Td
+(cut unknown members) Tj
+ET
+BT
+/F2 7.4 Tf
+58 479.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 479.6002 Td
+(The center of mass of the truss) Tj
+ET
+BT
+/F2 7.4 Tf
+58 470.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 470.0002 Td
+(The midspan of the cut member) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.4001 Td
+(An external arbitrary support) Tj
+ET
+BT
+/F2 8.0 Tf
+42 436.8001 Td
+(19.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 436.8001 Td
+(A bridge truss having alternating diagonal) Tj
+ET
+BT
+/F1 7.8 Tf
+58 427.6001 Td
+(members forming equilateral or isosceles) Tj
+ET
+BT
+/F1 7.8 Tf
+58 418.4001 Td
+(triangles is known as a:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 406.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 406.7001 Td
+(Warren Truss) Tj
+ET
+BT
+/F2 7.4 Tf
+58 397.1001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 397.1001 Td
+(Pratt Truss) Tj
+ET
+BT
+/F2 7.4 Tf
+58 387.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 387.5001 Td
+(Howe Truss) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.9001 Td
+(Fink Truss) Tj
+ET
+BT
+/F2 8.0 Tf
+42 354.3001 Td
+(20.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 354.3001 Td
+(A parallel chord truss where diagonal web) Tj
+ET
+BT
+/F1 7.8 Tf
+58 345.1001 Td
+(members slope towards the center in tension) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.9001 Td
+(under gravity loads is a:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 324.2 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 324.2 Td
+(Pratt Truss) Tj
+ET
+BT
+/F2 7.4 Tf
+58 314.6 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 314.6 Td
+(Howe Truss) Tj
+ET
+BT
+/F2 7.4 Tf
+58 305 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 305 Td
+(K-Truss) Tj
+ET
+BT
+/F2 7.4 Tf
+58 295.4 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 295.4 Td
+(Bowstring Truss) Tj
+ET
+BT
+/F2 8.0 Tf
+42 271.8 Td
+(21.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 271.8 Td
+(A parallel chord truss where diagonal web) Tj
+ET
+BT
+/F1 7.8 Tf
+58 262.6 Td
+(members slope away from the center in) Tj
+ET
+BT
+/F1 7.8 Tf
+58 253.4 Td
+(compression under gravity loads is a:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 241.7 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 241.7 Td
+(Howe Truss) Tj
+ET
+BT
+/F2 7.4 Tf
+58 232.1 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 232.1 Td
+(Pratt Truss) Tj
+ET
+BT
+/F2 7.4 Tf
+58 222.5 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 222.5 Td
+(Warren Truss) Tj
+ET
+BT
+/F2 7.4 Tf
+58 212.9 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 212.9 Td
+(Vierendeel Truss) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(22.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(A roof truss characterized by subdivided) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(triangular bays suitable for steep residential) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(and warehouse pitches is the:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(Fink Truss) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.3 Td
+(King Post Truss) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.7 Td
+(Queen Post Truss) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.1 Td
+(Baltimore Truss) Tj
+ET
+BT
+/F2 8.0 Tf
+306 701.5001 Td
+(23.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(A simple roof truss composed of a single) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(vertical central tie post with two inclined) Tj
+ET
+BT
+/F1 7.8 Tf
+322 683.1 Td
+(rafters is a:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.4 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.4 Td
+(King Post Truss) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.8 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.8 Td
+(Queen Post Truss) Tj
+ET
+BT
+/F2 7.4 Tf
+322 652.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 652.2001 Td
+(Pratt Truss) Tj
+ET
+BT
+/F2 7.4 Tf
+322 642.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 642.6001 Td
+(Howe Truss) Tj
+ET
+BT
+/F2 8.0 Tf
+306 619.0001 Td
+(24.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(A roof truss featuring two vertical posts) Tj
+ET
+BT
+/F1 7.8 Tf
+322 609.8001 Td
+(framing a flat central tie beam is a:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 598.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 598.1001 Td
+(Queen Post Truss) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.5001 Td
+(King Post Truss) Tj
+ET
+BT
+/F2 7.4 Tf
+322 578.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 578.9001 Td
+(Warren Truss) Tj
+ET
+BT
+/F2 7.4 Tf
+322 569.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 569.3002 Td
+(Lattice Truss) Tj
+ET
+BT
+/F2 8.0 Tf
+306 545.7002 Td
+(25.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 545.7002 Td
+(In a simply supported bridge truss carrying) Tj
+ET
+BT
+/F1 7.8 Tf
+322 536.5002 Td
+(downward gravity deck loads, the top chord) Tj
+ET
+BT
+/F1 7.8 Tf
+322 527.3002 Td
+(members are universally in:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 515.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 515.6002 Td
+(Axial Compression) Tj
+ET
+BT
+/F2 7.4 Tf
+322 506.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 506.0002 Td
+(Axial Tension) Tj
+ET
+BT
+/F2 7.4 Tf
+322 496.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 496.4001 Td
+(Zero Force) Tj
+ET
+BT
+/F2 7.4 Tf
+322 486.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 486.8001 Td
+(Pure Bending) Tj
+ET
+BT
+/F2 8.0 Tf
+306 463.2001 Td
+(26.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 463.2001 Td
+(In a simply supported bridge truss carrying) Tj
+ET
+BT
+/F1 7.8 Tf
+322 454.0001 Td
+(downward gravity deck loads, the bottom chord) Tj
+ET
+BT
+/F1 7.8 Tf
+322 444.8001 Td
+(members are universally in:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 433.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 433.1001 Td
+(Axial Tension) Tj
+ET
+BT
+/F2 7.4 Tf
+322 423.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 423.5001 Td
+(Axial Compression) Tj
+ET
+BT
+/F2 7.4 Tf
+322 413.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 413.9001 Td
+(Zero Force) Tj
+ET
+BT
+/F2 7.4 Tf
+322 404.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 404.3001 Td
+(Pure Torsion) Tj
+ET
+BT
+/F2 8.0 Tf
+306 380.7001 Td
+(27.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 380.7001 Td
+(In a cantilever truss extending horizontally) Tj
+ET
+BT
+/F1 7.8 Tf
+322 371.5001 Td
+(from a fixed vertical wall carrying downward) Tj
+ET
+BT
+/F1 7.8 Tf
+322 362.3 Td
+(gravity loads at its tip, top chord members are) Tj
+ET
+BT
+/F1 7.8 Tf
+322 353.1 Td
+(in:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 341.4 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 341.4 Td
+(Axial Tension) Tj
+ET
+BT
+/F2 7.4 Tf
+322 331.8 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 331.8 Td
+(Axial Compression) Tj
+ET
+BT
+/F2 7.4 Tf
+322 322.2 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 322.2 Td
+(Zero Force) Tj
+ET
+BT
+/F2 7.4 Tf
+322 312.6 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 312.6 Td
+(Pure Shear) Tj
+ET
+BT
+/F2 8.0 Tf
+306 289 Td
+(28.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 289 Td
+(In the cantilever truss of Q27, bottom chord) Tj
+ET
+BT
+/F1 7.8 Tf
+322 279.8 Td
+(members under downward gravity loads are in:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 268.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 268.1 Td
+(Axial Compression) Tj
+ET
+BT
+/F2 7.4 Tf
+322 258.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 258.5 Td
+(Axial Tension) Tj
+ET
+BT
+/F2 7.4 Tf
+322 248.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 248.9 Td
+(Zero Force) Tj
+ET
+BT
+/F2 7.4 Tf
+322 239.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 239.3 Td
+(Torsion) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 8 0 R /Resources << /Font << /F1 69 0 R /F2 70 0 R >> >> >>
+endobj
+8 0 obj
+<< /Length 9306 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 4: PLANE TRUSSES & STRUCTURES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 3 of 33) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(29.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(A rigid frame possessing rigid moment) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(connections instead of pin joints and carrying) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(loads via bending moments is a:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(Vierendeel Frame / Rigid Frame) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.3 Td
+(Pin-jointed Truss) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.7 Td
+(Cable Net Structure) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.1 Td
+(Tensegrity Mast) Tj
+ET
+BT
+/F2 8.0 Tf
+42 701.5001 Td
+(30.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(The presence of zero-force members in practical) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.3 Td
+(engineering trusses is essential because they:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.6 Td
+(Provide lateral bracing, buckling restraint,) Tj
+ET
+BT
+/F1 7.4 Tf
+72 672.0001 Td
+(and handle alternate load cases \(wind/quake\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 662.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 662.4001 Td
+(Increase dead weight needlessly) Tj
+ET
+BT
+/F2 7.4 Tf
+58 652.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 652.8001 Td
+(Reduce structural efficiency) Tj
+ET
+BT
+/F2 7.4 Tf
+58 643.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 643.2001 Td
+(Violate static determinacy) Tj
+ET
+BT
+/F2 8.0 Tf
+42 619.6002 Td
+(31.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.6002 Td
+(For a 2D truss with 5 joints \(j = 5\), the number) Tj
+ET
+BT
+/F1 7.8 Tf
+58 610.4001 Td
+(of members required for a statically determinate) Tj
+ET
+BT
+/F1 7.8 Tf
+58 601.2001 Td
+(perfect truss is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 589.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 589.5001 Td
+(7 \(m = 2*5 - 3 = 7\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 579.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 579.9001 Td
+(10) Tj
+ET
+BT
+/F2 7.4 Tf
+58 570.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 570.3002 Td
+(8) Tj
+ET
+BT
+/F2 7.4 Tf
+58 560.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 560.7002 Td
+(6) Tj
+ET
+BT
+/F2 8.0 Tf
+42 537.1002 Td
+(32.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 537.1002 Td
+(For a 2D truss with 8 joints \(j = 8\), the number) Tj
+ET
+BT
+/F1 7.8 Tf
+58 527.9002 Td
+(of members for a perfect truss is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 516.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 516.2002 Td
+(13 \(m = 2*8 - 3 = 13\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 506.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 506.6002 Td
+(16) Tj
+ET
+BT
+/F2 7.4 Tf
+58 497.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 497.0002 Td
+(11) Tj
+ET
+BT
+/F2 7.4 Tf
+58 487.4002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 487.4002 Td
+(14) Tj
+ET
+BT
+/F2 8.0 Tf
+42 463.8002 Td
+(33.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 463.8002 Td
+(If a truss has j = 6 joints and m = 10 members,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 454.6002 Td
+(its degree of static indeterminacy \(internal) Tj
+ET
+BT
+/F1 7.8 Tf
+58 445.4001 Td
+(redundancy\) is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 433.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 433.7001 Td
+(1 \(Redundant to degree 1, since 10 - \(2*6 -) Tj
+ET
+BT
+/F1 7.4 Tf
+72 425.1001 Td
+(3\) = 1\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 415.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 415.5001 Td
+(0 \(Determinate\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 405.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 405.9001 Td
+(2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 396.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 396.3001 Td
+(3) Tj
+ET
+BT
+/F2 8.0 Tf
+42 372.7001 Td
+(34.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 372.7001 Td
+(If a truss has j = 7 joints and m = 10 members,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 363.5001 Td
+(it is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 351.8001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 351.8001 Td
+(Deficient \(Unstable, since 10 < 2*7 - 3 =) Tj
+ET
+BT
+/F1 7.4 Tf
+72 343.2001 Td
+(11\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 333.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 333.6001 Td
+(Perfect) Tj
+ET
+BT
+/F2 7.4 Tf
+58 324.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 324.0001 Td
+(Indeterminate) Tj
+ET
+BT
+/F2 7.4 Tf
+58 314.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 314.4001 Td
+(Statically locked) Tj
+ET
+BT
+/F2 8.0 Tf
+42 290.8 Td
+(35.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 290.8 Td
+(In graphical truss analysis, the closed vector) Tj
+ET
+BT
+/F1 7.8 Tf
+58 281.6 Td
+(polygon diagram combining all joint force) Tj
+ET
+BT
+/F1 7.8 Tf
+58 272.4 Td
+(vectors is known as:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 260.7 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 260.7 Td
+(Maxwell-Cremona Diagram) Tj
+ET
+BT
+/F2 7.4 Tf
+58 251.1 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 251.1 Td
+(Mohr's Circle Diagram) Tj
+ET
+BT
+/F2 7.4 Tf
+58 241.5 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 241.5 Td
+(Williot-Mohr Diagram) Tj
+ET
+BT
+/F2 7.4 Tf
+58 231.9 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 231.9 Td
+(Influence Line Diagram) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(36.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Bow's Notation in graphical structural analysis) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(designates forces and members by:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(Letters assigned to the spaces between) Tj
+ET
+BT
+/F1 7.4 Tf
+336 754.5 Td
+(forces in the space diagram) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.9 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.9 Td
+(Sequential Roman numerals) Tj
+ET
+BT
+/F2 7.4 Tf
+322 735.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 735.3 Td
+(Cartesian vector subscripts) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.7001 Td
+(Euler angles) Tj
+ET
+BT
+/F2 8.0 Tf
+306 702.1001 Td
+(37.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 702.1001 Td
+(A space truss is a three-dimensional structural) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.9001 Td
+(framework where the internal determinacy) Tj
+ET
+BT
+/F1 7.8 Tf
+322 683.7001 Td
+(criterion is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 672.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 672.0001 Td
+(m = 3 * j - 6) Tj
+ET
+BT
+/F2 7.4 Tf
+322 662.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 662.4001 Td
+(m = 2 * j - 3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 652.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 652.8001 Td
+(m = 3 * j - 3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 643.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 643.2001 Td
+(m = 6 * j - 12) Tj
+ET
+BT
+/F2 8.0 Tf
+306 619.6002 Td
+(38.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.6002 Td
+(The tetrahedron is the basic geometrically rigid) Tj
+ET
+BT
+/F1 7.8 Tf
+322 610.4001 Td
+(three-dimensional unit of a:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 598.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 598.7001 Td
+(Space Truss) Tj
+ET
+BT
+/F2 7.4 Tf
+322 589.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 589.1002 Td
+(Planar Truss) Tj
+ET
+BT
+/F2 7.4 Tf
+322 579.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 579.5002 Td
+(Cable Stayed Bridge) Tj
+ET
+BT
+/F2 7.4 Tf
+322 569.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 569.9002 Td
+(Suspension Catenary) Tj
+ET
+BT
+/F2 8.0 Tf
+306 546.3002 Td
+(39.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 546.3002 Td
+(At any joint in a space truss, the number of) Tj
+ET
+BT
+/F1 7.8 Tf
+322 537.1002 Td
+(independent scalar equilibrium equations) Tj
+ET
+BT
+/F1 7.8 Tf
+322 527.9002 Td
+(available is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 516.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 516.2002 Td
+(Three \(Sigma Fx = 0, Sigma Fy = 0, Sigma Fz) Tj
+ET
+BT
+/F1 7.4 Tf
+336 507.6002 Td
+(= 0\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 498.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 498.0002 Td
+(Two) Tj
+ET
+BT
+/F2 7.4 Tf
+322 488.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 488.4002 Td
+(Six) Tj
+ET
+BT
+/F2 7.4 Tf
+322 478.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 478.8002 Td
+(One) Tj
+ET
+BT
+/F2 8.0 Tf
+306 455.2002 Td
+(40.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 455.2002 Td
+(A compound truss is formed by connecting two or) Tj
+ET
+BT
+/F1 7.8 Tf
+322 446.0002 Td
+(more simple trusses together using:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 434.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 434.3001 Td
+(Three non-parallel non-concurrent links, or) Tj
+ET
+BT
+/F1 7.4 Tf
+336 425.7001 Td
+(a common joint and a link) Tj
+ET
+BT
+/F2 7.4 Tf
+322 416.1001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 416.1001 Td
+(Welded continuous beams) Tj
+ET
+BT
+/F2 7.4 Tf
+322 406.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 406.5001 Td
+(Rigid foundation slabs) Tj
+ET
+BT
+/F2 7.4 Tf
+322 396.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 396.9001 Td
+(Pure torque tubes) Tj
+ET
+BT
+/F2 8.0 Tf
+306 373.3001 Td
+(41.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 373.3001 Td
+(An equilateral triangular truss ABC \(sides 4 m\)) Tj
+ET
+BT
+/F1 7.8 Tf
+322 364.1001 Td
+(has roller at B and hinge at A. A vertical load) Tj
+ET
+BT
+/F1 7.8 Tf
+322 354.9001 Td
+(W = 60 kN acts at top apex C. Support reactions) Tj
+ET
+BT
+/F1 7.8 Tf
+322 345.7001 Td
+(are:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 334.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 334.0001 Td
+(30 kN at A, 30 kN at B) Tj
+ET
+BT
+/F2 7.4 Tf
+322 324.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 324.4001 Td
+(60 kN at A, 0 kN at B) Tj
+ET
+BT
+/F2 7.4 Tf
+322 314.8 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 314.8 Td
+(45 kN at A, 15 kN at B) Tj
+ET
+BT
+/F2 7.4 Tf
+322 305.2 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 305.2 Td
+(20 kN at A, 40 kN at B) Tj
+ET
+BT
+/F2 8.0 Tf
+306 281.6 Td
+(42.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 281.6 Td
+(In Q41 \(apex load 60 kN, equilateral triangle\),) Tj
+ET
+BT
+/F1 7.8 Tf
+322 272.4 Td
+(the force in member AC is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 260.7 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 260.7 Td
+(34.64 kN Compression) Tj
+ET
+BT
+/F2 7.4 Tf
+322 251.1 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 251.1 Td
+(34.64 kN Tension) Tj
+ET
+BT
+/F2 7.4 Tf
+322 241.5 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 241.5 Td
+(30.00 kN Compression) Tj
+ET
+BT
+/F2 7.4 Tf
+322 231.9 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 231.9 Td
+(60.00 kN Tension) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 10 0 R /Resources << /Font << /F1 69 0 R /F2 70 0 R >> >> >>
+endobj
+10 0 obj
+<< /Length 8823 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 4: PLANE TRUSSES & STRUCTURES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 4 of 33) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(43.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(In Q41 \(apex load 60 kN, equilateral triangle\),) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(the force in bottom member AB is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(17.32 kN Tension) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(17.32 kN Compression) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(30.00 kN Tension) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(34.64 kN Tension) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(44.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(In Q41, the force in member BC is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 699.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 699.0001 Td
+(34.64 kN Compression) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.4001 Td
+(34.64 kN Tension) Tj
+ET
+BT
+/F2 7.4 Tf
+58 679.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 679.8001 Td
+(30.00 kN Compression) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.2001 Td
+(17.32 kN Compression) Tj
+ET
+BT
+/F2 8.0 Tf
+42 646.6002 Td
+(45.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 646.6002 Td
+(A simple symmetric roof truss has span 12 m and) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(height 3 m. The slope angle theta of the rafters) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.5001 Td
+(26.57 degrees \(tan\(theta\) = 3 / 6 = 0.5\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.9001 Td
+(30.00 degrees) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.3002 Td
+(45.00 degrees) Tj
+ET
+BT
+/F2 7.4 Tf
+58 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 587.7002 Td
+(14.04 degrees) Tj
+ET
+BT
+/F2 8.0 Tf
+42 564.1002 Td
+(46.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(A right-angled triangular bracket truss ABC has) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(horizontal member AB = 3 m, vertical wall member) Tj
+ET
+BT
+/F1 7.8 Tf
+58 545.7002 Td
+(BC = 4 m, and diagonal AC = 5 m. A vertical load) Tj
+ET
+BT
+/F1 7.8 Tf
+58 536.5002 Td
+(of 12 kN acts at joint A. Force in AB is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.8002 Td
+(9 kN Tension) Tj
+ET
+BT
+/F2 7.4 Tf
+58 515.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 515.2002 Td
+(9 kN Compression) Tj
+ET
+BT
+/F2 7.4 Tf
+58 505.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 505.6002 Td
+(15 kN Tension) Tj
+ET
+BT
+/F2 7.4 Tf
+58 496.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 496.0002 Td
+(12 kN Compression) Tj
+ET
+BT
+/F2 8.0 Tf
+42 472.4002 Td
+(47.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 472.4002 Td
+(In Q46 \(bracket truss with 12 kN at A\), the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 463.2002 Td
+(force in diagonal member AC is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 451.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 451.5002 Td
+(15 kN Compression) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.9001 Td
+(15 kN Tension) Tj
+ET
+BT
+/F2 7.4 Tf
+58 432.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 432.3001 Td
+(9 kN Compression) Tj
+ET
+BT
+/F2 7.4 Tf
+58 422.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 422.7001 Td
+(20 kN Compression) Tj
+ET
+BT
+/F2 8.0 Tf
+42 399.1001 Td
+(48.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 399.1001 Td
+(In Q46, the force in vertical wall member BC is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 387.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 387.4001 Td
+(12 kN Tension) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.8001 Td
+(12 kN Compression) Tj
+ET
+BT
+/F2 7.4 Tf
+58 368.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 368.2001 Td
+(15 kN Compression) Tj
+ET
+BT
+/F2 7.4 Tf
+58 358.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 358.6001 Td
+(0 kN) Tj
+ET
+BT
+/F2 8.0 Tf
+42 335.0001 Td
+(49.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.0001 Td
+(A planar truss has joint D with members DA, DB,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 325.8001 Td
+(DC. DA and DC are collinear along the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 316.6001 Td
+(horizontal. If no external load acts at D, the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 307.4001 Td
+(force in member DB is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 295.7 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 295.7 Td
+(0 kN \(Zero-force member\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 286.1 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 286.1 Td
+(Equal to force in DA) Tj
+ET
+BT
+/F2 7.4 Tf
+58 276.5 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 276.5 Td
+(Tensile) Tj
+ET
+BT
+/F2 7.4 Tf
+58 266.9 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 266.9 Td
+(Compressive) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(50.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(In Q49, the forces in the two collinear members) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(DA and DC must be:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(Equal in magnitude and of the same sense) Tj
+ET
+BT
+/F1 7.4 Tf
+336 754.5 Td
+(\(both T or both C\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.9 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.9 Td
+(Equal in magnitude and opposite sense) Tj
+ET
+BT
+/F2 7.4 Tf
+322 735.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 735.3 Td
+(Zero) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.7001 Td
+(Unrelated) Tj
+ET
+BT
+/F2 8.0 Tf
+306 702.1001 Td
+(51.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 702.1001 Td
+(At an unloaded joint E, only two members EA and) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.9001 Td
+(EB meet at an angle of 70 degrees. The force in) Tj
+ET
+BT
+/F1 7.8 Tf
+322 683.7001 Td
+(member EA is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 672.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 672.0001 Td
+(0 kN) Tj
+ET
+BT
+/F2 7.4 Tf
+322 662.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 662.4001 Td
+(10 kN Tension) Tj
+ET
+BT
+/F2 7.4 Tf
+322 652.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 652.8001 Td
+(5 kN Compression) Tj
+ET
+BT
+/F2 7.4 Tf
+322 643.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 643.2001 Td
+(Indeterminate) Tj
+ET
+BT
+/F2 8.0 Tf
+306 619.6002 Td
+(52.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.6002 Td
+(In Q51, the force in member EB is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 607.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.9001 Td
+(0 kN) Tj
+ET
+BT
+/F2 7.4 Tf
+322 598.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 598.3002 Td
+(10 kN Compression) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.7002 Td
+(5 kN Tension) Tj
+ET
+BT
+/F2 7.4 Tf
+322 579.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 579.1002 Td
+(Indeterminate) Tj
+ET
+BT
+/F2 8.0 Tf
+306 555.5002 Td
+(53.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 555.5002 Td
+(A Warren truss has span 18 m composed of 3 bays) Tj
+ET
+BT
+/F1 7.8 Tf
+322 546.3002 Td
+(of 6 m. Height is 4 m. A vertical load of 100 kN) Tj
+ET
+BT
+/F1 7.8 Tf
+322 537.1002 Td
+(acts at midspan bottom chord. The reaction at) Tj
+ET
+BT
+/F1 7.8 Tf
+322 527.9002 Td
+(each support is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 516.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 516.2002 Td
+(50 kN) Tj
+ET
+BT
+/F2 7.4 Tf
+322 506.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 506.6002 Td
+(100 kN) Tj
+ET
+BT
+/F2 7.4 Tf
+322 497.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 497.0002 Td
+(25 kN) Tj
+ET
+BT
+/F2 7.4 Tf
+322 487.4002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 487.4002 Td
+(75 kN) Tj
+ET
+BT
+/F2 8.0 Tf
+306 463.8002 Td
+(54.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 463.8002 Td
+(In Q53, the diagonal web members have length L_d) Tj
+ET
+BT
+/F1 7.8 Tf
+322 454.6002 Td
+(= sqrt\(3^2 + 4^2\) = 5 m. The sine of the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 445.4001 Td
+(diagonal angle is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 433.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 433.7001 Td
+(0.80 \(sin\(theta\) = 4 / 5\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 424.1001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 424.1001 Td
+(0.60) Tj
+ET
+BT
+/F2 7.4 Tf
+322 414.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 414.5001 Td
+(0.75) Tj
+ET
+BT
+/F2 7.4 Tf
+322 404.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 404.9001 Td
+(1.00) Tj
+ET
+BT
+/F2 8.0 Tf
+306 381.3001 Td
+(55.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 381.3001 Td
+(In Q53-54, the axial force in the end diagonal) Tj
+ET
+BT
+/F1 7.8 Tf
+322 372.1001 Td
+(member connected to the support reaction of 50) Tj
+ET
+BT
+/F1 7.8 Tf
+322 362.9001 Td
+(kN is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 351.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 351.2001 Td
+(62.50 kN Compression) Tj
+ET
+BT
+/F2 7.4 Tf
+322 341.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 341.6001 Td
+(62.50 kN Tension) Tj
+ET
+BT
+/F2 7.4 Tf
+322 332.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 332.0001 Td
+(50.00 kN Compression) Tj
+ET
+BT
+/F2 7.4 Tf
+322 322.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 322.4001 Td
+(40.00 kN Compression) Tj
+ET
+BT
+/F2 8.0 Tf
+306 298.8 Td
+(56.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 298.8 Td
+(In Q53-55, the axial force in the bottom chord) Tj
+ET
+BT
+/F1 7.8 Tf
+322 289.6 Td
+(member at the support is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 277.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 277.9 Td
+(37.50 kN Tension) Tj
+ET
+BT
+/F2 7.4 Tf
+322 268.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 268.3 Td
+(37.50 kN Compression) Tj
+ET
+BT
+/F2 7.4 Tf
+322 258.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 258.7 Td
+(50.00 kN Tension) Tj
+ET
+BT
+/F2 7.4 Tf
+322 249.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 249.1 Td
+(62.50 kN Tension) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 12 0 R /Resources << /Font << /F1 69 0 R /F2 70 0 R >> >> >>
+endobj
+12 0 obj
+<< /Length 9209 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 4: PLANE TRUSSES & STRUCTURES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 5 of 33) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(57.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(In Q53-56, using the Method of Sections cut) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(through the midspan, the force in the top chord) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(member is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(75.00 kN Compression) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.3 Td
+(75.00 kN Tension) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.7 Td
+(50.00 kN Compression) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.1 Td
+(100.00 kN Compression) Tj
+ET
+BT
+/F2 8.0 Tf
+42 701.5001 Td
+(58.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(A Pratt bridge truss of 6 bays \(each 4 m wide,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.3 Td
+(height 4 m\) has total span 24 m. Total downward) Tj
+ET
+BT
+/F1 7.8 Tf
+58 683.1 Td
+(load of 120 kN acts at each bottom joint. End) Tj
+ET
+BT
+/F1 7.8 Tf
+58 673.9 Td
+(reaction is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 662.2 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 662.2 Td
+(300 kN) Tj
+ET
+BT
+/F2 7.4 Tf
+58 652.6 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 652.6 Td
+(360 kN) Tj
+ET
+BT
+/F2 7.4 Tf
+58 643.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 643.0001 Td
+(240 kN) Tj
+ET
+BT
+/F2 7.4 Tf
+58 633.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 633.4001 Td
+(600 kN) Tj
+ET
+BT
+/F2 8.0 Tf
+42 609.8001 Td
+(59.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 609.8001 Td
+(In a Pratt truss, the vertical web members under) Tj
+ET
+BT
+/F1 7.8 Tf
+58 600.6001 Td
+(gravity deck loads are primarily in:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.9001 Td
+(Axial Compression) Tj
+ET
+BT
+/F2 7.4 Tf
+58 579.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 579.3001 Td
+(Axial Tension) Tj
+ET
+BT
+/F2 7.4 Tf
+58 569.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 569.7001 Td
+(Zero Force) Tj
+ET
+BT
+/F2 7.4 Tf
+58 560.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 560.1002 Td
+(Bending) Tj
+ET
+BT
+/F2 8.0 Tf
+42 536.5002 Td
+(60.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 536.5002 Td
+(In a Pratt truss, the diagonal web members under) Tj
+ET
+BT
+/F1 7.8 Tf
+58 527.3002 Td
+(gravity deck loads are primarily in:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 515.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 515.6002 Td
+(Axial Tension) Tj
+ET
+BT
+/F2 7.4 Tf
+58 506.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 506.0002 Td
+(Axial Compression) Tj
+ET
+BT
+/F2 7.4 Tf
+58 496.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 496.4001 Td
+(Zero Force) Tj
+ET
+BT
+/F2 7.4 Tf
+58 486.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 486.8001 Td
+(Torsion) Tj
+ET
+BT
+/F2 8.0 Tf
+42 463.2001 Td
+(61.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 463.2001 Td
+(In a Howe truss, the vertical web members under) Tj
+ET
+BT
+/F1 7.8 Tf
+58 454.0001 Td
+(gravity deck loads are primarily in:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 442.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 442.3001 Td
+(Axial Tension) Tj
+ET
+BT
+/F2 7.4 Tf
+58 432.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 432.7001 Td
+(Axial Compression) Tj
+ET
+BT
+/F2 7.4 Tf
+58 423.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 423.1001 Td
+(Zero Force) Tj
+ET
+BT
+/F2 7.4 Tf
+58 413.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 413.5001 Td
+(Shear) Tj
+ET
+BT
+/F2 8.0 Tf
+42 389.9001 Td
+(62.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 389.9001 Td
+(In a Howe truss, the diagonal web members under) Tj
+ET
+BT
+/F1 7.8 Tf
+58 380.7001 Td
+(gravity deck loads are primarily in:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 369.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 369.0001 Td
+(Axial Compression) Tj
+ET
+BT
+/F2 7.4 Tf
+58 359.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 359.4001 Td
+(Axial Tension) Tj
+ET
+BT
+/F2 7.4 Tf
+58 349.8 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 349.8 Td
+(Zero Force) Tj
+ET
+BT
+/F2 7.4 Tf
+58 340.2 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 340.2 Td
+(Flexure) Tj
+ET
+BT
+/F2 8.0 Tf
+42 316.6 Td
+(63.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 316.6 Td
+(A cantilever truss extends 6 m from a wall with) Tj
+ET
+BT
+/F1 7.8 Tf
+58 307.4 Td
+(depth 3 m. A vertical load of 40 kN acts at its) Tj
+ET
+BT
+/F1 7.8 Tf
+58 298.2 Td
+(tip. The tension in the top horizontal tie) Tj
+ET
+BT
+/F1 7.8 Tf
+58 289 Td
+(member at the wall is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 277.3 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 277.3 Td
+(80 kN Tension) Tj
+ET
+BT
+/F2 7.4 Tf
+58 267.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 267.7 Td
+(40 kN Tension) Tj
+ET
+BT
+/F2 7.4 Tf
+58 258.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 258.1 Td
+(120 kN Tension) Tj
+ET
+BT
+/F2 7.4 Tf
+58 248.5 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 248.5 Td
+(60 kN Tension) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(64.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(In Q63, the compressive force in the bottom) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(horizontal chord member at the wall is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(80 kN Compression) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(40 kN Compression) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(120 kN Compression) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(60 kN Compression) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(65.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(A planar truss has 9 joints and 15 members. The) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(internal degree of indeterminacy is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(0 \(Perfect truss, since 2*9 - 3 = 15\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(-1) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(66.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(A planar truss has 10 joints and 16 members. The) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(truss is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.5001 Td
+(Deficient by 1 member \(Unstable mechanism,) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.9001 Td
+(since 2*10 - 3 = 17\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 598.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 598.3002 Td
+(Perfect) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.7002 Td
+(Indeterminate by 1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 579.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 579.1002 Td
+(Statically locked) Tj
+ET
+BT
+/F2 8.0 Tf
+306 555.5002 Td
+(67.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 555.5002 Td
+(In a symmetrically loaded Warren truss without) Tj
+ET
+BT
+/F1 7.8 Tf
+322 546.3002 Td
+(verticals, alternate diagonals have forces that) Tj
+ET
+BT
+/F1 7.8 Tf
+322 537.1002 Td
+(are:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 525.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 525.4002 Td
+(Equal in magnitude with alternating signs) Tj
+ET
+BT
+/F1 7.4 Tf
+336 516.8002 Td
+(\(one T, next C\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 507.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 507.2002 Td
+(All tensile) Tj
+ET
+BT
+/F2 7.4 Tf
+322 497.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 497.6002 Td
+(All compressive) Tj
+ET
+BT
+/F2 7.4 Tf
+322 488.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 488.0002 Td
+(Zero) Tj
+ET
+BT
+/F2 8.0 Tf
+306 464.4002 Td
+(68.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 464.4002 Td
+(At a joint with 4 members forming an X \(two) Tj
+ET
+BT
+/F1 7.8 Tf
+322 455.2002 Td
+(intersecting continuous straight members\), the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 446.0002 Td
+(forces in opposite collinear members are:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 434.3002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 434.3002 Td
+(Equal in magnitude and of the same sense) Tj
+ET
+BT
+/F2 7.4 Tf
+322 424.7002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 424.7002 Td
+(Zero) Tj
+ET
+BT
+/F2 7.4 Tf
+322 415.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 415.1002 Td
+(Opposite in sign) Tj
+ET
+BT
+/F2 7.4 Tf
+322 405.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 405.5002 Td
+(Independent) Tj
+ET
+BT
+/F2 8.0 Tf
+306 381.9001 Td
+(69.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 381.9001 Td
+(The primary advantage of the Method of Sections) Tj
+ET
+BT
+/F1 7.8 Tf
+322 372.7001 Td
+(over the Method of Joints is that it allows:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 361.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 361.0001 Td
+(Direct calculation of an internal member) Tj
+ET
+BT
+/F1 7.4 Tf
+336 352.4001 Td
+(force without solving preceding joints) Tj
+ET
+BT
+/F2 7.4 Tf
+322 342.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 342.8001 Td
+(Analysis of statically indeterminate trusses) Tj
+ET
+BT
+/F2 7.4 Tf
+322 333.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 333.2001 Td
+(Calculation of nonlinear deflection) Tj
+ET
+BT
+/F2 7.4 Tf
+322 323.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 323.6001 Td
+(Inclusion of joint friction) Tj
+ET
+BT
+/F2 8.0 Tf
+306 300.0001 Td
+(70.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 300.0001 Td
+(A section cut in the Method of Sections divides) Tj
+ET
+BT
+/F1 7.8 Tf
+322 290.8001 Td
+(the truss into two distinct bodies. Equilibrium) Tj
+ET
+BT
+/F1 7.8 Tf
+322 281.6001 Td
+(requires:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 269.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 269.9001 Td
+(Either isolated part must satisfy Sigma Fx =) Tj
+ET
+BT
+/F1 7.4 Tf
+336 261.3 Td
+(0, Sigma Fy = 0, Sigma M = 0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 251.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 251.7 Td
+(Only the left side satisfies equilibrium) Tj
+ET
+BT
+/F2 7.4 Tf
+322 242.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 242.1 Td
+(The cut members must have zero force) Tj
+ET
+BT
+/F2 7.4 Tf
+322 232.5 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 232.5 Td
+(Sigma Fx + Sigma Fy = 0 only) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 14 0 R /Resources << /Font << /F1 69 0 R /F2 70 0 R >> >> >>
+endobj
+14 0 obj
+<< /Length 9381 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 4: PLANE TRUSSES & STRUCTURES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 6 of 33) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(71.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(A 45-degree diagonal brace in a 3 m x 3 m square) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(truss panel carries a shear force of V = 30 kN.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(The axial force in the brace is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(42.43 kN) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.3 Td
+(30.00 kN) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.7 Td
+(21.21 kN) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.1 Td
+(60.00 kN) Tj
+ET
+BT
+/F2 8.0 Tf
+42 701.5001 Td
+(72.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(In a pin-jointed truss, if an external) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.3 Td
+(concentrated load is accidentally placed at) Tj
+ET
+BT
+/F1 7.8 Tf
+58 683.1 Td
+(midspan of a member, the member will experience:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.4 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.4 Td
+(Combined axial force and transverse bending) Tj
+ET
+BT
+/F1 7.4 Tf
+72 662.8 Td
+(moment \(acting as a beam-column\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 653.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 653.2001 Td
+(Pure axial tension) Tj
+ET
+BT
+/F2 7.4 Tf
+58 643.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 643.6001 Td
+(Pure shear without bending) Tj
+ET
+BT
+/F2 7.4 Tf
+58 634.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 634.0001 Td
+(Zero stress) Tj
+ET
+BT
+/F2 8.0 Tf
+42 610.4001 Td
+(73.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 610.4001 Td
+(When analyzing space trusses using the Method of) Tj
+ET
+BT
+/F1 7.8 Tf
+58 601.2001 Td
+(Joints, the number of unknown member forces that) Tj
+ET
+BT
+/F1 7.8 Tf
+58 592.0001 Td
+(can be determined at any single joint is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 580.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 580.3001 Td
+(Three \(using Sigma Fx = 0, Sigma Fy = 0,) Tj
+ET
+BT
+/F1 7.4 Tf
+72 571.7001 Td
+(Sigma Fz = 0\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 562.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 562.1002 Td
+(Two) Tj
+ET
+BT
+/F2 7.4 Tf
+58 552.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 552.5002 Td
+(Six) Tj
+ET
+BT
+/F2 7.4 Tf
+58 542.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 542.9002 Td
+(Four) Tj
+ET
+BT
+/F2 8.0 Tf
+42 519.3002 Td
+(74.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 519.3002 Td
+(Secondary stresses in real engineering trusses) Tj
+ET
+BT
+/F1 7.8 Tf
+58 510.1002 Td
+(arise primarily due to:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 498.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 498.4002 Td
+(Rigidity \(stiffness\) of gusset plate) Tj
+ET
+BT
+/F1 7.4 Tf
+72 489.8002 Td
+(connections and member self-weight) Tj
+ET
+BT
+/F2 7.4 Tf
+58 480.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 480.2002 Td
+(Frictionless pins) Tj
+ET
+BT
+/F2 7.4 Tf
+58 470.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 470.6002 Td
+(Pure axial loads) Tj
+ET
+BT
+/F2 7.4 Tf
+58 461.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 461.0002 Td
+(Thermal expansion alone) Tj
+ET
+BT
+/F2 8.0 Tf
+42 437.4002 Td
+(75.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 437.4002 Td
+(Under standard code specifications \(e.g., IS 800) Tj
+ET
+BT
+/F1 7.8 Tf
+58 428.2002 Td
+(/ AISC\), secondary bending stresses in trusses) Tj
+ET
+BT
+/F1 7.8 Tf
+58 419.0002 Td
+(can be safely neglected if:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 407.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 407.3001 Td
+(Members are slender \(L / r > 50\) and lines) Tj
+ET
+BT
+/F1 7.4 Tf
+72 398.7001 Td
+(of action intersect concentrically at joints) Tj
+ET
+BT
+/F2 7.4 Tf
+58 389.1001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 389.1001 Td
+(Members are extremely thick) Tj
+ET
+BT
+/F2 7.4 Tf
+58 379.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 379.5001 Td
+(The truss has zero joints) Tj
+ET
+BT
+/F2 7.4 Tf
+58 369.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 369.9001 Td
+(Loads are purely dynamic) Tj
+ET
+BT
+/F2 8.0 Tf
+42 346.3001 Td
+(76.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 346.3001 Td
+(A 6-bay Pratt bridge truss has span L = 24 m) Tj
+ET
+BT
+/F1 7.8 Tf
+58 337.1001 Td
+(\(each panel 4 m\) and height h = 4 m. Loads of 60) Tj
+ET
+BT
+/F1 7.8 Tf
+58 327.9001 Td
+(kN act at joints L1, L2, L3, L4, L5. Left) Tj
+ET
+BT
+/F1 7.8 Tf
+58 318.7001 Td
+(reaction R_A is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 307.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 307.0001 Td
+(150 kN) Tj
+ET
+BT
+/F2 7.4 Tf
+58 297.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 297.4001 Td
+(180 kN) Tj
+ET
+BT
+/F2 7.4 Tf
+58 287.8 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 287.8 Td
+(300 kN) Tj
+ET
+BT
+/F2 7.4 Tf
+58 278.2 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 278.2 Td
+(120 kN) Tj
+ET
+BT
+/F2 8.0 Tf
+42 254.6 Td
+(77.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 254.6 Td
+(In Q76, the axial force in the end post diagonal) Tj
+ET
+BT
+/F1 7.8 Tf
+58 245.4 Td
+(member U1-L0 is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 233.7 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 233.7 Td
+(212.13 kN Compression) Tj
+ET
+BT
+/F2 7.4 Tf
+58 224.1 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 224.1 Td
+(150.00 kN Compression) Tj
+ET
+BT
+/F2 7.4 Tf
+58 214.5 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 214.5 Td
+(212.13 kN Tension) Tj
+ET
+BT
+/F2 7.4 Tf
+58 204.9 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 204.9 Td
+(180.00 kN Compression) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(78.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(In Q76, the axial force in bottom chord member) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(L0-L1 is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(150.00 kN Tension) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(150.00 kN Compression) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(212.13 kN Tension) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(100.00 kN Tension) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(79.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(In Q76-78, the axial force in vertical member) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(U1-L1 is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(0 kN \(Zero-force member under bottom chord) Tj
+ET
+BT
+/F1 7.4 Tf
+336 681.2001 Td
+(loading\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.6001 Td
+(60 kN Tension) Tj
+ET
+BT
+/F2 7.4 Tf
+322 662.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 662.0001 Td
+(150 kN Compression) Tj
+ET
+BT
+/F2 7.4 Tf
+322 652.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 652.4001 Td
+(60 kN Compression) Tj
+ET
+BT
+/F2 8.0 Tf
+306 628.8002 Td
+(80.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.8002 Td
+(In Q76-79, using a cut section through panel 2) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.6002 Td
+(\(cutting U1-U2, U2-L1, L1-L2\), the force in top) Tj
+ET
+BT
+/F1 7.8 Tf
+322 610.4001 Td
+(chord U1-U2 is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 598.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 598.7001 Td
+(150.00 kN Compression) Tj
+ET
+BT
+/F2 7.4 Tf
+322 589.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 589.1002 Td
+(200.00 kN Compression) Tj
+ET
+BT
+/F2 7.4 Tf
+322 579.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 579.5002 Td
+(250.00 kN Compression) Tj
+ET
+BT
+/F2 7.4 Tf
+322 569.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 569.9002 Td
+(120.00 kN Compression) Tj
+ET
+BT
+/F2 8.0 Tf
+306 546.3002 Td
+(81.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 546.3002 Td
+(In Q76-80, the vertical shear carried by panel 2) Tj
+ET
+BT
+/F1 7.8 Tf
+322 537.1002 Td
+(is V = R_A - 60 = 90 kN. The axial tension in) Tj
+ET
+BT
+/F1 7.8 Tf
+322 527.9002 Td
+(diagonal U2-L1 is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 516.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 516.2002 Td
+(127.28 kN Tension) Tj
+ET
+BT
+/F2 7.4 Tf
+322 506.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 506.6002 Td
+(90.00 kN Tension) Tj
+ET
+BT
+/F2 7.4 Tf
+322 497.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 497.0002 Td
+(150.00 kN Tension) Tj
+ET
+BT
+/F2 7.4 Tf
+322 487.4002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 487.4002 Td
+(63.64 kN Tension) Tj
+ET
+BT
+/F2 8.0 Tf
+306 463.8002 Td
+(82.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 463.8002 Td
+(In Q76-81, the axial force in bottom chord) Tj
+ET
+BT
+/F1 7.8 Tf
+322 454.6002 Td
+(member L1-L2 is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 442.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 442.9001 Td
+(150.00 kN Tension) Tj
+ET
+BT
+/F2 7.4 Tf
+322 433.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 433.3001 Td
+(240.00 kN Tension) Tj
+ET
+BT
+/F2 7.4 Tf
+322 423.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 423.7001 Td
+(210.00 kN Tension) Tj
+ET
+BT
+/F2 7.4 Tf
+322 414.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 414.1001 Td
+(180.00 kN Tension) Tj
+ET
+BT
+/F2 8.0 Tf
+306 390.5001 Td
+(83.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 390.5001 Td
+(In Q76-82, in panel 3 \(midspan panel\), the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 381.3001 Td
+(vertical shear is V = 150 - 60 - 60 = 30 kN. The) Tj
+ET
+BT
+/F1 7.8 Tf
+322 372.1001 Td
+(tension in diagonal U3-L2 is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 360.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 360.4001 Td
+(42.43 kN Tension) Tj
+ET
+BT
+/F2 7.4 Tf
+322 350.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 350.8001 Td
+(30.00 kN Tension) Tj
+ET
+BT
+/F2 7.4 Tf
+322 341.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 341.2001 Td
+(60.00 kN Tension) Tj
+ET
+BT
+/F2 7.4 Tf
+322 331.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 331.6001 Td
+(21.21 kN Tension) Tj
+ET
+BT
+/F2 8.0 Tf
+306 308.0001 Td
+(84.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 308.0001 Td
+(In Q76-83, the maximum compression in the top) Tj
+ET
+BT
+/F1 7.8 Tf
+322 298.8 Td
+(chord occurs in member U2-U3 and equals:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 287.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 287.1 Td
+(210.00 kN Compression) Tj
+ET
+BT
+/F2 7.4 Tf
+322 277.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 277.5 Td
+(150.00 kN Compression) Tj
+ET
+BT
+/F2 7.4 Tf
+322 267.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 267.9 Td
+(240.00 kN Compression) Tj
+ET
+BT
+/F2 7.4 Tf
+322 258.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 258.3 Td
+(180.00 kN Compression) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 16 0 R /Resources << /Font << /F1 69 0 R /F2 70 0 R >> >> >>
+endobj
+16 0 obj
+<< /Length 9826 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 4: PLANE TRUSSES & STRUCTURES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 7 of 33) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(85.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(In Q76-84, the maximum tension in the bottom) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(chord occurs in member L2-L3 and equals:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(210.00 kN Tension) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(150.00 kN Tension) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(240.00 kN Tension) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(180.00 kN Tension) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(86.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(A K-truss panel has height h = 6 m and width b =) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(4 m. A vertical shear of 120 kN acts across the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.3 Td
+(panel. Each of the two diagonal members carries:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.6 Td
+(60 kN vertical shear \(one in tension, one in) Tj
+ET
+BT
+/F1 7.4 Tf
+72 672.0001 Td
+(compression\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 662.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 662.4001 Td
+(120 kN shear) Tj
+ET
+BT
+/F2 7.4 Tf
+58 652.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 652.8001 Td
+(30 kN shear) Tj
+ET
+BT
+/F2 7.4 Tf
+58 643.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 643.2001 Td
+(Zero shear) Tj
+ET
+BT
+/F2 8.0 Tf
+42 619.6002 Td
+(87.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.6002 Td
+(In Q86, the length of each K-truss diagonal is) Tj
+ET
+BT
+/F1 7.8 Tf
+58 610.4001 Td
+(sqrt\(2^2 + 3^2\) = sqrt\(13\) = 3.606 m. The axial) Tj
+ET
+BT
+/F1 7.8 Tf
+58 601.2001 Td
+(force in each diagonal is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 589.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 589.5001 Td
+(72.11 kN \(one Tension, one Compression\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 579.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 579.9001 Td
+(60.00 kN) Tj
+ET
+BT
+/F2 7.4 Tf
+58 570.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 570.3002 Td
+(120.00 kN) Tj
+ET
+BT
+/F2 7.4 Tf
+58 560.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 560.7002 Td
+(36.06 kN) Tj
+ET
+BT
+/F2 8.0 Tf
+42 537.1002 Td
+(88.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 537.1002 Td
+(A space truss tripod consists of three equal) Tj
+ET
+BT
+/F1 7.8 Tf
+58 527.9002 Td
+(legs of length L = 5 m meeting at apex A at) Tj
+ET
+BT
+/F1 7.8 Tf
+58 518.7002 Td
+(height h = 4 m. A vertical load of 120 kN acts) Tj
+ET
+BT
+/F1 7.8 Tf
+58 509.5002 Td
+(at A. Force in each leg is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 497.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 497.8002 Td
+(50.00 kN Compression) Tj
+ET
+BT
+/F2 7.4 Tf
+58 488.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 488.2002 Td
+(40.00 kN Compression) Tj
+ET
+BT
+/F2 7.4 Tf
+58 478.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 478.6002 Td
+(60.00 kN Compression) Tj
+ET
+BT
+/F2 7.4 Tf
+58 469.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 469.0002 Td
+(30.00 kN Compression) Tj
+ET
+BT
+/F2 8.0 Tf
+42 445.4001 Td
+(89.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 445.4001 Td
+(In Q88, the horizontal spreading force) Tj
+ET
+BT
+/F1 7.8 Tf
+58 436.2001 Td
+(transmitted to each of the three ground anchors) Tj
+ET
+BT
+/F1 7.8 Tf
+58 427.0001 Td
+(is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 415.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 415.3001 Td
+(30.00 kN radially outward) Tj
+ET
+BT
+/F2 7.4 Tf
+58 405.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 405.7001 Td
+(40.00 kN) Tj
+ET
+BT
+/F2 7.4 Tf
+58 396.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 396.1001 Td
+(50.00 kN) Tj
+ET
+BT
+/F2 7.4 Tf
+58 386.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 386.5001 Td
+(15.00 kN) Tj
+ET
+BT
+/F2 8.0 Tf
+42 362.9001 Td
+(90.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 362.9001 Td
+(A Fink roof truss has 8 panels on a 16 m span) Tj
+ET
+BT
+/F1 7.8 Tf
+58 353.7001 Td
+(with rise 4 m. Under symmetrical dead load of 10) Tj
+ET
+BT
+/F1 7.8 Tf
+58 344.5001 Td
+(kN per top joint, the force in the main) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.3 Td
+(horizontal tie is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 323.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 323.6 Td
+(50.00 kN Tension) Tj
+ET
+BT
+/F2 7.4 Tf
+58 314 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 314 Td
+(40.00 kN Tension) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.4 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.4 Td
+(60.00 kN Tension) Tj
+ET
+BT
+/F2 7.4 Tf
+58 294.8 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 294.8 Td
+(35.00 kN Tension) Tj
+ET
+BT
+/F2 8.0 Tf
+42 271.2 Td
+(91.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 271.2 Td
+(In an N-truss cantilever of 3 panels \(each 2 m x) Tj
+ET
+BT
+/F1 7.8 Tf
+58 262 Td
+(2 m\), a tip load of 30 kN acts downward. The) Tj
+ET
+BT
+/F1 7.8 Tf
+58 252.8 Td
+(maximum tension in the top chord at the root) Tj
+ET
+BT
+/F1 7.8 Tf
+58 243.6 Td
+(wall is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 231.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 231.9 Td
+(60 kN Tension) Tj
+ET
+BT
+/F2 7.4 Tf
+58 222.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 222.3 Td
+(90 kN Tension) Tj
+ET
+BT
+/F2 7.4 Tf
+58 212.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 212.7 Td
+(30 kN Tension) Tj
+ET
+BT
+/F2 7.4 Tf
+58 203.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 203.1 Td
+(120 kN Tension) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(92.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(In Q91, the compressive force in the diagonal) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(member at the wall panel is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(42.43 kN Compression) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(30.00 kN Compression) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(60.00 kN Compression) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(21.21 kN Compression) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(93.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(A symmetric planar truss has an internal) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(counter-braced panel with two crossing) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(diagonals. If diagonals are slender steel rods) Tj
+ET
+BT
+/F1 7.8 Tf
+322 683.1 Td
+(incapable of carrying compression:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.4 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.4 Td
+(The compression diagonal buckles elastically) Tj
+ET
+BT
+/F1 7.4 Tf
+336 662.8 Td
+(and carries 0 force; tension diagonal) Tj
+ET
+BT
+/F1 7.4 Tf
+336 654.2001 Td
+(carries all shear) Tj
+ET
+BT
+/F2 7.4 Tf
+322 644.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 644.6001 Td
+(Both diagonals carry equal shear) Tj
+ET
+BT
+/F2 7.4 Tf
+322 635.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 635.0001 Td
+(The truss collapses instantly) Tj
+ET
+BT
+/F2 7.4 Tf
+322 625.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 625.4001 Td
+(The tension diagonal snaps) Tj
+ET
+BT
+/F2 8.0 Tf
+306 601.8002 Td
+(94.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 601.8002 Td
+(A bridge truss subjected to a moving load train) Tj
+ET
+BT
+/F1 7.8 Tf
+322 592.6002 Td
+(experiences stress reversal in web members when:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 580.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 580.9001 Td
+(The resultant shear force changes sign from) Tj
+ET
+BT
+/F1 7.4 Tf
+336 572.3002 Td
+(positive to negative as loads traverse) Tj
+ET
+BT
+/F2 7.4 Tf
+322 562.7002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 562.7002 Td
+(Bending moment vanishes) Tj
+ET
+BT
+/F2 7.4 Tf
+322 553.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 553.1002 Td
+(Total load doubles) Tj
+ET
+BT
+/F2 7.4 Tf
+322 543.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 543.5002 Td
+(Temperature drops below zero) Tj
+ET
+BT
+/F2 8.0 Tf
+306 519.9003 Td
+(95.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 519.9003 Td
+(To accommodate stress reversal in web members) Tj
+ET
+BT
+/F1 7.8 Tf
+322 510.7003 Td
+(without buckling, designers specify:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 499.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 499.0002 Td
+(Counters \(tension-only cross-braces\) or) Tj
+ET
+BT
+/F1 7.4 Tf
+336 490.4002 Td
+(members designed for both tension and) Tj
+ET
+BT
+/F1 7.4 Tf
+336 481.8002 Td
+(compression) Tj
+ET
+BT
+/F2 7.4 Tf
+322 472.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 472.2002 Td
+(Zero-force rods) Tj
+ET
+BT
+/F2 7.4 Tf
+322 462.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 462.6002 Td
+(Hinged cutouts) Tj
+ET
+BT
+/F2 7.4 Tf
+322 453.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 453.0002 Td
+(Lead dampeners) Tj
+ET
+BT
+/F2 8.0 Tf
+306 429.4002 Td
+(96.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 429.4002 Td
+(A tower truss of square base 4 m x 4 m and) Tj
+ET
+BT
+/F1 7.8 Tf
+322 420.2002 Td
+(height 20 m carries a horizontal wind shear of) Tj
+ET
+BT
+/F1 7.8 Tf
+322 411.0002 Td
+(40 kN at its top. The overturn overturning) Tj
+ET
+BT
+/F1 7.8 Tf
+322 401.8002 Td
+(moment at base is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 390.1002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 390.1002 Td
+(800 kN*m) Tj
+ET
+BT
+/F2 7.4 Tf
+322 380.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 380.5002 Td
+(400 kN*m) Tj
+ET
+BT
+/F2 7.4 Tf
+322 370.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 370.9001 Td
+(160 kN*m) Tj
+ET
+BT
+/F2 7.4 Tf
+322 361.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 361.3001 Td
+(1600 kN*m) Tj
+ET
+BT
+/F2 8.0 Tf
+306 337.7001 Td
+(97.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 337.7001 Td
+(In Q96, the axial force induced in each of the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 328.5001 Td
+(two windward leg columns by overturning is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 316.8001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 316.8001 Td
+(100.0 kN Tension) Tj
+ET
+BT
+/F2 7.4 Tf
+322 307.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 307.2001 Td
+(200.0 kN Tension) Tj
+ET
+BT
+/F2 7.4 Tf
+322 297.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 297.6001 Td
+(50.0 kN Tension) Tj
+ET
+BT
+/F2 7.4 Tf
+322 288.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 288.0001 Td
+(400.0 kN Tension) Tj
+ET
+BT
+/F2 8.0 Tf
+306 264.4001 Td
+(98.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 264.4001 Td
+(In Q96-97, the axial force induced in each of) Tj
+ET
+BT
+/F1 7.8 Tf
+322 255.2001 Td
+(the two leeward leg columns is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 243.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 243.5001 Td
+(100.0 kN Compression) Tj
+ET
+BT
+/F2 7.4 Tf
+322 233.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 233.9001 Td
+(200.0 kN Compression) Tj
+ET
+BT
+/F2 7.4 Tf
+322 224.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 224.3001 Td
+(50.0 kN Compression) Tj
+ET
+BT
+/F2 7.4 Tf
+322 214.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 214.7001 Td
+(400.0 kN Compression) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 18 0 R /Resources << /Font << /F1 69 0 R /F2 70 0 R >> >> >>
+endobj
+18 0 obj
+<< /Length 1779 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 4: PLANE TRUSSES & STRUCTURES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 8 of 33) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(99.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(A planar truss is internally indeterminate to) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(degree 1. The redundant member force can be) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(determined by applying:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(Castigliano's Second Theorem \(Method of) Tj
+ET
+BT
+/F1 7.4 Tf
+72 745.3 Td
+(Minimum Strain Energy dU/dX = 0\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 735.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 735.7 Td
+(Varignon's theorem) Tj
+ET
+BT
+/F2 7.4 Tf
+58 726.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 726.1 Td
+(Lami's theorem) Tj
+ET
+BT
+/F2 7.4 Tf
+58 716.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 716.5001 Td
+(Archimedes principle) Tj
+ET
+BT
+/F2 8.0 Tf
+42 682.9001 Td
+(100.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 682.9001 Td
+(In computer structural analysis of large civil) Tj
+ET
+BT
+/F1 7.8 Tf
+58 673.7001 Td
+(trusses, the fundamental matrix equation) Tj
+ET
+BT
+/F1 7.8 Tf
+58 664.5001 Td
+(governing joint displacements is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 652.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 652.8 Td
+([K] * {Delta} = {P} \(where [K] is the global) Tj
+ET
+BT
+/F1 7.4 Tf
+72 644.2001 Td
+(structural stiffness matrix\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 634.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 634.6001 Td
+([M] * {P} = {Delta}) Tj
+ET
+BT
+/F2 7.4 Tf
+58 625.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 625.0001 Td
+([K] * {P} = {0}) Tj
+ET
+BT
+/F2 7.4 Tf
+58 615.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 615.4001 Td
+({Delta} = [K] * {P}^2) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 20 0 R /Resources << /Font << /F1 69 0 R /F2 70 0 R >> >> >>
+endobj
+20 0 obj
+<< /Length 5054 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 4: PLANE TRUSSES & STRUCTURES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 9 of 33) Tj
+ET
+BT
+/F2 10 Tf
+45 780 Td
+(SECTION B: DESCRIPTIVE & SUBJECTIVE QUESTIONS) Tj
+ET
+BT
+/F2 8.5 Tf
+45 760 Td
+(Q1. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 760 Td
+(Formulate the fundamental definition of an engineering truss, its four classical analytical) Tj
+ET
+BT
+/F1 8.5 Tf
+72 749.5 Td
+(assumptions, and the internal static determinacy criterion.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 724.5 Td
+(Q2. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 724.5 Td
+(State and prove the three formal engineering rules for identifying Zero-Force Members in planar) Tj
+ET
+BT
+/F1 8.5 Tf
+72 714 Td
+(trusses by visual inspection.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 689 Td
+(Q3. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 689 Td
+(Compare the Method of Joints and Method of Sections in detail, detailing their analytical) Tj
+ET
+BT
+/F1 8.5 Tf
+72 678.5 Td
+(procedures and relative advantages.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 653.5 Td
+(Q4. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 653.5 Td
+(Analyze an equilateral triangular truss ABC of span 6 m \(sides 6 m\) supported by a hinge at A and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 643 Td
+(roller at B, carrying a vertical load of 100 kN at apex C. Calculate all member forces using) Tj
+ET
+BT
+/F1 8.5 Tf
+72 632.5 Td
+(Method of Joints.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 618 Td
+(Q5. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 618 Td
+(A Warren bridge truss has span 18 m \(3 panels of 6 m, height 4 m\). It carries a central downward) Tj
+ET
+BT
+/F1 8.5 Tf
+72 607.5 Td
+(load of 120 kN at midspan bottom joint L1. Calculate forces in top chord, bottom chord, and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 597 Td
+(diagonals using Method of Sections.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 582.5 Td
+(Q6. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 582.5 Td
+(A cantilever truss of span 6 m and depth 3 m carries vertical loads: 20 kN at mid-joint and 30 kN) Tj
+ET
+BT
+/F1 8.5 Tf
+72 572 Td
+(at free tip. Determine the wall reaction forces and member forces.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 547 Td
+(Q7. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 547 Td
+(Explain the structural behavior and member force distributions in Pratt vs Howe bridge trusses) Tj
+ET
+BT
+/F1 8.5 Tf
+72 536.5 Td
+(under moving traffic loads.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 511.5 Td
+(Q8. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 511.5 Td
+(A 6-bay Pratt truss of span 24 m \(panel width 4 m, height 4 m\) carries 80 kN loads at each bottom) Tj
+ET
+BT
+/F1 8.5 Tf
+72 501 Td
+(joint. Calculate the force in the center vertical member and diagonals.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 476 Td
+(Q9. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 476 Td
+(A planar roof truss carries wind loads perpendicular to the rafter. Formulate the method for) Tj
+ET
+BT
+/F1 8.5 Tf
+72 465.5 Td
+(computing horizontal and vertical reactions and joint equilibrium.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 440.5 Td
+(Q10. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 440.5 Td
+(Analyze a space tripod structure supported on three ball joints subjected to a vertical load W and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 430 Td
+(horizontal load H at apex A.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 405 Td
+(Q11. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 405 Td
+(Explain the Williot-Mohr diagram method for determining deflections of pin-jointed trusses) Tj
+ET
+BT
+/F1 8.5 Tf
+72 394.5 Td
+(graphically.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 369.5 Td
+(Q12. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 369.5 Td
+(Derive the force in the tie rod of a King Post truss of span 10 m and rise 2.5 m under a central) Tj
+ET
+BT
+/F1 8.5 Tf
+72 359 Td
+(load of 50 kN.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 334 Td
+(Q13. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 334 Td
+(Explain the concept of counter-bracing in bridge trusses subjected to moving train live loads.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 298.5 Td
+(Q14. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 298.5 Td
+(Calculate the forces in a Fink truss rafter and tie under uniform vertical panel loads.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 263 Td
+(Q15. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 263 Td
+(A planar truss has 6 joints and 9 members. Prove whether it is internally determinate, redundant,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 252.5 Td
+(or deficient.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 227.5 Td
+(Q16. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 227.5 Td
+(Derive the tension coefficient method for the analysis of 3D space trusses.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 192 Td
+(Q17. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 192 Td
+(Explain the effect of temperature changes on statically determinate vs statically indeterminate) Tj
+ET
+BT
+/F1 8.5 Tf
+72 181.5 Td
+(trusses.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 156.5 Td
+(Q18. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 156.5 Td
+(Calculate the horizontal displacement of the roller support of a simply supported symmetrical) Tj
+ET
+BT
+/F1 8.5 Tf
+72 146 Td
+(triangular truss under an apex load.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 121 Td
+(Q19. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 121 Td
+(Describe the K-truss configuration and explain its aerodynamic and structural advantages in) Tj
+ET
+BT
+/F1 8.5 Tf
+72 110.5 Td
+(high-rise bridge towers.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 85.5 Td
+(Q20. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 85.5 Td
+(Explain secondary stresses caused by gusset plate joint rigidity and state the design provisions) Tj
+ET
+BT
+/F1 8.5 Tf
+72 75 Td
+(for limiting them.) Tj
+ET
+
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 22 0 R /Resources << /Font << /F1 69 0 R /F2 70 0 R >> >> >>
+endobj
+22 0 obj
+<< /Length 2106 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 4: PLANE TRUSSES & STRUCTURES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 10 of 33) Tj
+ET
+BT
+/F2 8.5 Tf
+45 780 Td
+(Q21. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 780 Td
+(Calculate member forces in a 3-member cantilever bracket carrying a horizontal load at its apex.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 743.5 Td
+(Q22. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 743.5 Td
+(Explain the Method of Substitute Members \(Henrici's Method\) for complex statically determinate) Tj
+ET
+BT
+/F1 8.5 Tf
+72 733 Td
+(trusses.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 707 Td
+(Q23. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 707 Td
+(Analyze the effect of fabrication errors \(initial lack of fit\) in determinate and indeterminate) Tj
+ET
+BT
+/F1 8.5 Tf
+72 696.5 Td
+(trusses.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 670.5 Td
+(Q24. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 670.5 Td
+(Discuss the design of transmission line electrical towers as 3D space trusses under wind and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 660 Td
+(broken-wire conditions.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 634 Td
+(Q25. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 634 Td
+(Explain why triangular panels prevent shear distortion while rectangular panels deform into) Tj
+ET
+BT
+/F1 8.5 Tf
+72 623.5 Td
+(parallelograms.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 597.5 Td
+(Q26. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 597.5 Td
+(Derive the force in the vertical tie of a Queen Post truss of span 12 m with two panels of 4 m.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 561 Td
+(Q27. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 561 Td
+(Explain the concept of an Influence Line Diagram \(ILD\) for a member in a bridge truss.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 524.5 Td
+(Q28. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 524.5 Td
+(Calculate the axial forces in a tower truss subjected to lateral earthquake base shear.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 488 Td
+(Q29. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 488 Td
+(Explain the Vierendeel truss and why it is not a true pin-jointed truss.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 451.5 Td
+(Q30. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 451.5 Td
+(Summarize the complete structural design workflow for civil engineering roof and bridge trusses.) Tj
+ET
+
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 24 0 R /Resources << /Font << /F1 69 0 R /F2 70 0 R >> >> >>
+endobj
+24 0 obj
+<< /Length 8417 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 4: PLANE TRUSSES & STRUCTURES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 11 of 33) Tj
+ET
+BT
+/F2 11 Tf
+45 780 Td
+(SECTION C: ANSWER KEY - MULTIPLE CHOICE QUESTIONS) Tj
+ET
+0.5 w
+45 772 m 550 772 l S
+BT
+/F2 8.5 Tf
+45 750 Td
+(Q1: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 734 Td
+(Q2: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 718 Td
+(Q3: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 702 Td
+(Q4: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 686 Td
+(Q5: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 670 Td
+(Q6: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 654 Td
+(Q7: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 638 Td
+(Q8: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 622 Td
+(Q9: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 606 Td
+(Q10: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 590 Td
+(Q11: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 574 Td
+(Q12: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 558 Td
+(Q13: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 542 Td
+(Q14: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 526 Td
+(Q15: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 510 Td
+(Q16: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 494 Td
+(Q17: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 478 Td
+(Q18: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 462 Td
+(Q19: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 446 Td
+(Q20: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 446 Td
+([A]) Tj
+ET
+0.2 w
+135 755 m 135 425 l S
+BT
+/F2 8.5 Tf
+145 750 Td
+(Q21: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 734 Td
+(Q22: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 718 Td
+(Q23: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 702 Td
+(Q24: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 686 Td
+(Q25: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 670 Td
+(Q26: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 654 Td
+(Q27: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 638 Td
+(Q28: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 622 Td
+(Q29: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 606 Td
+(Q30: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 590 Td
+(Q31: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 574 Td
+(Q32: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 558 Td
+(Q33: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 542 Td
+(Q34: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 526 Td
+(Q35: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 510 Td
+(Q36: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 494 Td
+(Q37: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 478 Td
+(Q38: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 462 Td
+(Q39: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 446 Td
+(Q40: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 446 Td
+([A]) Tj
+ET
+0.2 w
+235 755 m 235 425 l S
+BT
+/F2 8.5 Tf
+245 750 Td
+(Q41: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 734 Td
+(Q42: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 718 Td
+(Q43: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 702 Td
+(Q44: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 686 Td
+(Q45: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 670 Td
+(Q46: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 654 Td
+(Q47: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 638 Td
+(Q48: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 622 Td
+(Q49: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 606 Td
+(Q50: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 590 Td
+(Q51: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 574 Td
+(Q52: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 558 Td
+(Q53: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 542 Td
+(Q54: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 526 Td
+(Q55: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 510 Td
+(Q56: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 494 Td
+(Q57: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 478 Td
+(Q58: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 462 Td
+(Q59: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 446 Td
+(Q60: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 446 Td
+([A]) Tj
+ET
+0.2 w
+335 755 m 335 425 l S
+BT
+/F2 8.5 Tf
+345 750 Td
+(Q61: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 734 Td
+(Q62: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 718 Td
+(Q63: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 702 Td
+(Q64: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 686 Td
+(Q65: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 670 Td
+(Q66: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 654 Td
+(Q67: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 638 Td
+(Q68: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 622 Td
+(Q69: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 606 Td
+(Q70: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 590 Td
+(Q71: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 574 Td
+(Q72: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 558 Td
+(Q73: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 542 Td
+(Q74: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 526 Td
+(Q75: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 510 Td
+(Q76: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 494 Td
+(Q77: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 478 Td
+(Q78: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 462 Td
+(Q79: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 446 Td
+(Q80: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 446 Td
+([A]) Tj
+ET
+0.2 w
+435 755 m 435 425 l S
+BT
+/F2 8.5 Tf
+445 750 Td
+(Q81: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 734 Td
+(Q82: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 718 Td
+(Q83: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 702 Td
+(Q84: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 686 Td
+(Q85: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 670 Td
+(Q86: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 654 Td
+(Q87: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 638 Td
+(Q88: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 622 Td
+(Q89: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 606 Td
+(Q90: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 590 Td
+(Q91: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 574 Td
+(Q92: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 558 Td
+(Q93: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 542 Td
+(Q94: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 526 Td
+(Q95: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 510 Td
+(Q96: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 494 Td
+(Q97: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 478 Td
+(Q98: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 462 Td
+(Q99: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 446 Td
+(Q100: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 446 Td
+([A]) Tj
+ET
+0.5 w
+45 400 m 550 400 l 550 340 l 45 340 l s
+BT
+/F2 9 Tf
+55 382 Td
+(MCQ Scoring Guide & Difficulty Distribution:) Tj
+ET
+BT
+/F1 8.5 Tf
+55 366 Td
+(Questions 1 to 40: Foundational & Conceptual [Easy] | Questions 41 to 75: Analytical & Applied [Moderate]) Tj
+ET
+BT
+/F1 8.5 Tf
+55 350 Td
+(Questions 76 to 100: Complex Numerical & Advanced Problem Solving [Difficult]) Tj
+ET
+
+endstream
+endobj
+25 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 26 0 R /Resources << /Font << /F1 69 0 R /F2 70 0 R >> >> >>
+endobj
+26 0 obj
+<< /Length 4160 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 4: PLANE TRUSSES & STRUCTURES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 12 of 33) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(SECTION D: DETAILED SOLUTIONS FOR SUBJECTIVE QUESTIONS) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(================================================================================) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 1:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Formulate the fundamental definition of an engineering truss, its four classical analytical assumptions, and the internal static determinacy criterion.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Structural Context & Equilibrium Classification:) Tj
+T*
+(   This analysis addresses internal member forces and structural determinacy for plane truss) Tj
+T*
+(   systems.) Tj
+T*
+(   Governing criteria: All joints are frictionless spherical pins; loads act exclusively at nodes;) Tj
+T*
+(   members are ideal two-force axial elements carrying pure tension \(+T\) or compression \(-C\).) Tj
+T*
+() Tj
+T*
+(   2. Mathematical Derivation & Step-by-Step Joint/Section Analysis:) Tj
+T*
+(   Theory of Engineering Trusses and Determinacy Criteria:) Tj
+T*
+(   1. Definition:) Tj
+T*
+(   A truss is an engineering structural framework formed by interconnecting slender structural) Tj
+T*
+(   members at their terminal ends in triangulated patterns to span long spans efficiently while) Tj
+T*
+(   resisting external loads purely through axial forces.) Tj
+T*
+() Tj
+T*
+(   2. Four Fundamental Idealizations in Classical Truss Analysis:) Tj
+T*
+(   - Idealization 1: All structural members are connected at their joints by frictionless,) Tj
+T*
+(   frictionless cylindrical pins / hinges.) Tj
+T*
+(   - Idealization 2: The longitudinal centroidal axes of all members meeting at any joint) Tj
+T*
+(   intersect at a single concurrent mathematical point.) Tj
+T*
+(   - Idealization 3: All external active loads \(dead loads, live loads, wind forces\) and support) Tj
+T*
+(   reactions are applied strictly at the pin joints \(nodes\).) Tj
+T*
+(   - Idealization 4: The self-weight of individual members is either negligible compared to) Tj
+T*
+(   applied external loads or is apportioned as half-weights to the two connecting end joints.) Tj
+T*
+() Tj
+T*
+(   3. Resulting Mechanical Behavior:) Tj
+T*
+(   Under these four assumptions, every constituent member behaves strictly as a Two-Force Member,) Tj
+T*
+(   developing purely axial tension \(T\) or axial compression \(C\) with zero bending moments and zero) Tj
+T*
+(   transverse shear forces.) Tj
+T*
+() Tj
+T*
+(   4. Internal Static Determinacy Criterion in 2D Planar Trusses:) Tj
+T*
+(   Let m = total number of members, j = total number of pin joints.) Tj
+T*
+(   At each joint, exactly 2 independent equations of static equilibrium are available \(Sigma Fx =) Tj
+T*
+(   0, Sigma Fy = 0\).) Tj
+T*
+(   Total available joint equilibrium equations = 2 * j.) Tj
+T*
+(   Subtracting 3 external reaction equations for basic determinacy yields the criterion:) Tj
+T*
+(   - Perfect \(Statically Determinate\) Truss: m = 2 * j - 3. The truss is rigid and all member) Tj
+T*
+(   forces can be solved uniquely by statics alone.) Tj
+T*
+(   - Deficient \(Hypostatic / Unstable Mechanism\): m < 2 * j - 3. Lacks sufficient members to) Tj
+T*
+(   maintain stable geometry under general loads.) Tj
+T*
+(   - Redundant \(Statically Indeterminate\): m > 2 * j - 3. Possesses redundant internal members;) Tj
+T*
+(   requires deformation compatibility \(elastic strain energy\) to solve.) Tj
+T*
+() Tj
+T*
+(   3. Structural Equilibrium & Kinematic Compatibility Check:) Tj
+T*
+(   - External determinacy verified via global equilibrium equations: Sigma Fx = 0, Sigma Fy = 0,) Tj
+T*
+(   Sigma M = 0.) Tj
+T*
+(   - Internal determinacy satisfied via Maxwell's criterion: m = 2*j - 3.) Tj
+T*
+(   - Joint node equilibrium confirmed: Vector resultant of all concurrent member forces vanishes) Tj
+T*
+(   at each pin.) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+27 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 28 0 R /Resources << /Font << /F1 69 0 R /F2 70 0 R >> >> >>
+endobj
+28 0 obj
+<< /Length 3792 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 4: PLANE TRUSSES & STRUCTURES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 13 of 33) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   4. Civil Engineering Design & Stability Implications:) Tj
+T*
+(   Compression members must be checked for Euler column buckling \(P_cr = pi^2 * E * I / L_eff^2\),) Tj
+T*
+(   while tension members are governed by net cross-sectional yield strength under bridge/roof) Tj
+T*
+(   design standards.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 2:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: State and prove the three formal engineering rules for identifying Zero-Force Members in planar trusses by visual inspection.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Structural Context & Equilibrium Classification:) Tj
+T*
+(   This analysis addresses internal member forces and structural determinacy for plane truss) Tj
+T*
+(   systems.) Tj
+T*
+(   Governing criteria: All joints are frictionless spherical pins; loads act exclusively at nodes;) Tj
+T*
+(   members are ideal two-force axial elements carrying pure tension \(+T\) or compression \(-C\).) Tj
+T*
+() Tj
+T*
+(   2. Mathematical Derivation & Step-by-Step Joint/Section Analysis:) Tj
+T*
+(   Identification of Zero-Force Members by Visual Inspection:) Tj
+T*
+(   Zero-force members carry no axial force under a specific loading condition. Identifying them) Tj
+T*
+(   immediately simplifies truss analysis.) Tj
+T*
+() Tj
+T*
+(   1. Rule 1: Two Non-Collinear Members at an Unloaded Joint:) Tj
+T*
+(   - Statement: If only two non-collinear members meet at a joint where no external active load or) Tj
+T*
+(   support reaction acts, the axial force in both members MUST be zero.) Tj
+T*
+(   - Proof:) Tj
+T*
+(   Let members 1 and 2 meet at joint A at angle theta != 0.) Tj
+T*
+(   Align Cartesian axis x along member 1 and axis y perpendicular to member 1.) Tj
+T*
+(   Apply equilibrium in y-direction: Sigma Fy = 0:) Tj
+T*
+(   F2 * sin\(theta\) = 0.) Tj
+T*
+(   Since theta != 0 and sin\(theta\) != 0 => F2 = 0.) Tj
+T*
+(   Apply equilibrium in x-direction: Sigma Fx = 0:) Tj
+T*
+(   F1 + F2 * cos\(theta\) = 0 => F1 + 0 = 0 => F1 = 0. \(Proved\)) Tj
+T*
+() Tj
+T*
+(   2. Rule 2: Three Members at an Unloaded Joint with Two Collinear:) Tj
+T*
+(   - Statement: If three members meet at an unloaded joint where two of the members are collinear,) Tj
+T*
+(   the force in the third non-collinear member MUST be zero.) Tj
+T*
+(   - Proof:) Tj
+T*
+(   Let members 1 and 2 be collinear along the x-axis. Let member 3 meet at angle theta to the) Tj
+T*
+(   x-axis.) Tj
+T*
+(   Apply equilibrium perpendicular to the collinear axis \(y-axis\): Sigma Fy = 0:) Tj
+T*
+(   F3 * sin\(theta\) = 0.) Tj
+T*
+(   Since theta != 0 and sin\(theta\) != 0 => F3 = 0. \(Proved\)) Tj
+T*
+(   Furthermore: Sigma Fx = 0 => F1 + F2 = 0 => F1 = - F2 \(the two collinear members carry equal) Tj
+T*
+(   forces of opposite sense\).) Tj
+T*
+() Tj
+T*
+(   3. Rule 3: Two Non-Collinear Members with an External Force Collinear to One:) Tj
+T*
+(   - Statement: If two non-collinear members meet at a joint with an external load P collinear) Tj
+T*
+(   with member 1, the force in member 2 is zero, and member 1 carries the full load P.) Tj
+T*
+(   - Proof:) Tj
+T*
+(   Resolving perpendicular to member 1: F2 * sin\(theta\) = 0 => F2 = 0.) Tj
+T*
+() Tj
+T*
+(   3. Structural Equilibrium & Kinematic Compatibility Check:) Tj
+T*
+(   - External determinacy verified via global equilibrium equations: Sigma Fx = 0, Sigma Fy = 0,) Tj
+T*
+(   Sigma M = 0.) Tj
+T*
+ET
+
+endstream
+endobj
+29 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 30 0 R /Resources << /Font << /F1 69 0 R /F2 70 0 R >> >> >>
+endobj
+30 0 obj
+<< /Length 3968 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 4: PLANE TRUSSES & STRUCTURES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 14 of 33) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - Internal determinacy satisfied via Maxwell's criterion: m = 2*j - 3.) Tj
+T*
+(   - Joint node equilibrium confirmed: Vector resultant of all concurrent member forces vanishes) Tj
+T*
+(   at each pin.) Tj
+T*
+() Tj
+T*
+(   4. Civil Engineering Design & Stability Implications:) Tj
+T*
+(   Compression members must be checked for Euler column buckling \(P_cr = pi^2 * E * I / L_eff^2\),) Tj
+T*
+(   while tension members are governed by net cross-sectional yield strength under bridge/roof) Tj
+T*
+(   design standards.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 3:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Compare the Method of Joints and Method of Sections in detail, detailing their analytical procedures and relative advantages.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Structural Context & Equilibrium Classification:) Tj
+T*
+(   This analysis addresses internal member forces and structural determinacy for plane truss) Tj
+T*
+(   systems.) Tj
+T*
+(   Governing criteria: All joints are frictionless spherical pins; loads act exclusively at nodes;) Tj
+T*
+(   members are ideal two-force axial elements carrying pure tension \(+T\) or compression \(-C\).) Tj
+T*
+() Tj
+T*
+(   2. Mathematical Derivation & Step-by-Step Joint/Section Analysis:) Tj
+T*
+(   Comparative Engineering Analysis: Method of Joints vs Method of Sections:) Tj
+T*
+(   1. The Method of Joints:) Tj
+T*
+(   - Core Principle: Focuses on the equilibrium of individual pin joints isolated as particles.) Tj
+T*
+(   - Governing Equations: At each joint: Sigma Fx = 0 and Sigma Fy = 0 \(2 scalar equations\).) Tj
+T*
+(   - Procedure:) Tj
+T*
+(   * Step 1: Calculate global support reactions from overall equilibrium \(Sigma Fx = 0, Sigma Fy =) Tj
+T*
+(   0, Sigma M = 0\).) Tj
+T*
+(   * Step 2: Identify a starting joint having at least one known force and no more than two) Tj
+T*
+(   unknown member forces.) Tj
+T*
+(   * Step 3: Draw the FBD of the joint, assuming unknown forces are tensile \(pulling away from) Tj
+T*
+(   joint\).) Tj
+T*
+(   * Step 4: Solve the 2 simultaneous linear equations. A positive sign indicates tension;) Tj
+T*
+(   negative indicates compression.) Tj
+T*
+(   * Step 5: Proceed systematically through adjacent joints until all members are analyzed.) Tj
+T*
+(   - Primary Advantage: Provides a complete, comprehensive solution for every member force in the) Tj
+T*
+(   entire truss.) Tj
+T*
+(   - Limitation: Error-accumulating; computationally tedious if only a few specific internal) Tj
+T*
+(   members are required.) Tj
+T*
+() Tj
+T*
+(   2. The Method of Sections:) Tj
+T*
+(   - Core Principle: Cuts the truss into two completely separated rigid bodies by an imaginary) Tj
+T*
+(   section line passing through the target members.) Tj
+T*
+(   - Governing Equations: For either isolated section: Sigma Fx = 0, Sigma Fy = 0, and Sigma M_O =) Tj
+T*
+(   0 \(3 independent scalar equations\).) Tj
+T*
+(   - Procedure:) Tj
+T*
+(   * Step 1: Compute external support reactions.) Tj
+T*
+(   * Step 2: Cut an imaginary section passing through a maximum of three unknown members whose) Tj
+T*
+(   forces are desired.) Tj
+T*
+(   * Step 3: Choose the simpler of the two isolated halves and draw its comprehensive FBD.) Tj
+T*
+(   * Step 4: Apply moment equilibrium \(Sigma M = 0\) about the point of intersection of two unknown) Tj
+T*
+(   members to directly solve for the third member.) Tj
+T*
+(   - Primary Advantage: Fast, direct determination of specific internal member forces \(e.g. at) Tj
+T*
+(   midspan\) in a single calculation step.) Tj
+T*
+ET
+
+endstream
+endobj
+31 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 32 0 R /Resources << /Font << /F1 69 0 R /F2 70 0 R >> >> >>
+endobj
+32 0 obj
+<< /Length 3602 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 4: PLANE TRUSSES & STRUCTURES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 15 of 33) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - Limitation: Limited to solving a maximum of 3 unknown forces per cut section.) Tj
+T*
+() Tj
+T*
+(   3. Structural Equilibrium & Kinematic Compatibility Check:) Tj
+T*
+(   - External determinacy verified via global equilibrium equations: Sigma Fx = 0, Sigma Fy = 0,) Tj
+T*
+(   Sigma M = 0.) Tj
+T*
+(   - Internal determinacy satisfied via Maxwell's criterion: m = 2*j - 3.) Tj
+T*
+(   - Joint node equilibrium confirmed: Vector resultant of all concurrent member forces vanishes) Tj
+T*
+(   at each pin.) Tj
+T*
+() Tj
+T*
+(   4. Civil Engineering Design & Stability Implications:) Tj
+T*
+(   Compression members must be checked for Euler column buckling \(P_cr = pi^2 * E * I / L_eff^2\),) Tj
+T*
+(   while tension members are governed by net cross-sectional yield strength under bridge/roof) Tj
+T*
+(   design standards.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 4:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze an equilateral triangular truss ABC of span 6 m \(sides 6 m\) supported by a hinge at A and roller at B, carrying a vertical load of 100 kN at apex C. Calculate all member forces using Method of Joints.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Structural Context & Equilibrium Classification:) Tj
+T*
+(   This analysis addresses internal member forces and structural determinacy for plane truss) Tj
+T*
+(   systems.) Tj
+T*
+(   Governing criteria: All joints are frictionless spherical pins; loads act exclusively at nodes;) Tj
+T*
+(   members are ideal two-force axial elements carrying pure tension \(+T\) or compression \(-C\).) Tj
+T*
+() Tj
+T*
+(   2. Mathematical Derivation & Step-by-Step Joint/Section Analysis:) Tj
+T*
+(   Complete Analysis of Equilateral Triangular Truss using Method of Joints:) Tj
+T*
+(   1. Geometry and Global Equilibrium:) Tj
+T*
+(   Equilateral triangle ABC: Side lengths AB = BC = CA = 6.0 m.) Tj
+T*
+(   Interior angles: alpha = beta = gamma = 60 degrees.) Tj
+T*
+(   Height of apex C: h = 6 * sin\(60 deg\) = 6 * 0.8660 = 5.196 m.) Tj
+T*
+(   - Vertical support reactions by symmetry:) Tj
+T*
+(   Sigma Fy = 0 => R_A + R_B = 100 kN.) Tj
+T*
+(   Sigma M_A = 0 => R_B * 6.0 - 100 * 3.0 = 0 => R_B = 50.0 kN \(upward\).) Tj
+T*
+(   R_A = 50.0 kN \(upward\). Horizontal reaction at hinge A: R_Ax = 0 kN.) Tj
+T*
+() Tj
+T*
+(   2. Equilibrium of Joint A:) Tj
+T*
+(   Forces acting at Joint A:) Tj
+T*
+(   - Reaction R_A = 50 kN upward \(+y\).) Tj
+T*
+(   - Member force F_AC directed along rafter AC at 60 deg to horizontal.) Tj
+T*
+(   - Member force F_AB directed along bottom chord AB horizontally \(+x\).) Tj
+T*
+(   Assume unknown forces F_AC and F_AB are in tension \(+\).) Tj
+T*
+(   - Vertical equilibrium: Sigma Fy = 0:) Tj
+T*
+(   R_A + F_AC * sin\(60 deg\) = 0) Tj
+T*
+(   50 + F_AC * \(0.8660\) = 0) Tj
+T*
+(   F_AC = - 50 / 0.8660 = - 57.74 kN.) Tj
+T*
+(   Negative sign indicates COMPRESSION: F_AC = 57.74 kN \(Compression\).) Tj
+T*
+() Tj
+T*
+(   - Horizontal equilibrium: Sigma Fx = 0:) Tj
+T*
+(   F_AB + F_AC * cos\(60 deg\) = 0) Tj
+T*
+(   F_AB + \(- 57.74\) * 0.5000 = 0) Tj
+T*
+(   F_AB - 28.87 = 0 => F_AB = + 28.87 kN.) Tj
+T*
+(   Positive sign indicates TENSION: F_AB = 28.87 kN \(Tension\).) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+33 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 34 0 R /Resources << /Font << /F1 69 0 R /F2 70 0 R >> >> >>
+endobj
+34 0 obj
+<< /Length 3767 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 4: PLANE TRUSSES & STRUCTURES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 16 of 33) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   3. Equilibrium of Joint B \(Verification\):) Tj
+T*
+(   - Vertical equilibrium: Sigma Fy = 0:) Tj
+T*
+(   R_B + F_BC * sin\(60 deg\) = 0 => 50 + F_BC * 0.8660 = 0 => F_BC = - 57.74 kN \(Compression\).) Tj
+T*
+(   - Horizontal equilibrium: Sigma Fx = 0:) Tj
+T*
+(   - F_AB - F_BC * cos\(60 deg\) = - 28.87 - \(-57.74 * 0.5\) = - 28.87 + 28.87 = 0 \(Verified\).) Tj
+T*
+() Tj
+T*
+(   4. Summary of Member Forces:) Tj
+T*
+(   - Member AC: 57.74 kN \(Compression\).) Tj
+T*
+(   - Member BC: 57.74 kN \(Compression\).) Tj
+T*
+(   - Member AB: 28.87 kN \(Tension\).) Tj
+T*
+() Tj
+T*
+(   3. Structural Equilibrium & Kinematic Compatibility Check:) Tj
+T*
+(   - External determinacy verified via global equilibrium equations: Sigma Fx = 0, Sigma Fy = 0,) Tj
+T*
+(   Sigma M = 0.) Tj
+T*
+(   - Internal determinacy satisfied via Maxwell's criterion: m = 2*j - 3.) Tj
+T*
+(   - Joint node equilibrium confirmed: Vector resultant of all concurrent member forces vanishes) Tj
+T*
+(   at each pin.) Tj
+T*
+() Tj
+T*
+(   4. Civil Engineering Design & Stability Implications:) Tj
+T*
+(   Compression members must be checked for Euler column buckling \(P_cr = pi^2 * E * I / L_eff^2\),) Tj
+T*
+(   while tension members are governed by net cross-sectional yield strength under bridge/roof) Tj
+T*
+(   design standards.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 5:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: A Warren bridge truss has span 18 m \(3 panels of 6 m, height 4 m\). It carries a central downward load of 120 kN at midspan bottom joint L1. Calculate forces in top chord, bottom chord, and diagonals using Method of Sections.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Structural Context & Equilibrium Classification:) Tj
+T*
+(   This analysis addresses internal member forces and structural determinacy for plane truss) Tj
+T*
+(   systems.) Tj
+T*
+(   Governing criteria: All joints are frictionless spherical pins; loads act exclusively at nodes;) Tj
+T*
+(   members are ideal two-force axial elements carrying pure tension \(+T\) or compression \(-C\).) Tj
+T*
+() Tj
+T*
+(   2. Mathematical Derivation & Step-by-Step Joint/Section Analysis:) Tj
+T*
+(   Warren Truss Analysis using Method of Sections:) Tj
+T*
+(   1. Truss Geometry and Dimensions:) Tj
+T*
+(   Bottom chord joints: L0\(x=0\), L1\(x=6\), L2\(x=12\), L3\(x=18 m\).) Tj
+T*
+(   Top chord joints: U1\(x=3\), U2\(x=9\), U3\(x=15 m\). Height h = 4.0 m.) Tj
+T*
+(   Length of diagonal web members: L_d = sqrt\( 3^2 + 4^2 \) = sqrt\( 9 + 16 \) = 5.0 m.) Tj
+T*
+(   Trigonometric ratios: sin\(theta\) = 4 / 5 = 0.80; cos\(theta\) = 3 / 5 = 0.60.) Tj
+T*
+(   - Symmetrical load of 120 kN at midspan joint U2 \(x = 9 m\) or bottom joint:) Tj
+T*
+(   Support reactions: R_L0 = R_L3 = 120 / 2 = 60.0 kN \(upward\).) Tj
+T*
+() Tj
+T*
+(   2. Cut Section 1-1 through Panel 1 \(cutting U1-U2, U1-L1, L0-L1\):) Tj
+T*
+(   Isolate left portion \(containing support L0\):) Tj
+T*
+(   - Sum of Vertical Forces: Sigma Fy = 0:) Tj
+T*
+(   R_L0 + F_{U1-L1} * sin\(theta\) = 0) Tj
+T*
+(   60 + F_{U1-L1} * \(0.80\) = 0 => F_{U1-L1} = - 75.0 kN \(Compression in end diagonal L0-U1 is 75) Tj
+T*
+(   kN C\).) Tj
+T*
+() Tj
+T*
+(   - Sum of Moments about Top Joint U1\(x=3, y=4\): Sigma M_{U1} = 0:) Tj
+T*
+(   - \( R_L0 * 3.0 m \) + \( F_{L0-L1} * 4.0 m \) = 0) Tj
+T*
+(   - \( 60 * 3 \) + 4 * F_{L0-L1} = 0) Tj
+T*
+ET
+
+endstream
+endobj
+35 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 36 0 R /Resources << /Font << /F1 69 0 R /F2 70 0 R >> >> >>
+endobj
+36 0 obj
+<< /Length 3816 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 4: PLANE TRUSSES & STRUCTURES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 17 of 33) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   4 * F_{L0-L1} = 180 => F_{L0-L1} = + 45.0 kN \(Tension\).) Tj
+T*
+() Tj
+T*
+(   3. Cut Section 2-2 through Panel 2 \(cutting U1-U2, U2-L1, L1-L2\):) Tj
+T*
+(   Isolate left portion up to x = 8 m:) Tj
+T*
+(   - Sum of Moments about Bottom Joint L1\(x=6, y=0\): Sigma M_{L1} = 0:) Tj
+T*
+(   \( R_L0 * 6.0 m \) + \( F_{U1-U2} * 4.0 m \) = 0) Tj
+T*
+(   \( 60 * 6.0 \) + 4 * F_{U1-U2} = 0) Tj
+T*
+(   360 + 4 * F_{U1-U2} = 0 => F_{U1-U2} = - 90.0 kN \(Compression of 90 kN in top chord\).) Tj
+T*
+() Tj
+T*
+(   - Sum of Vertical Forces: Sigma Fy = 0:) Tj
+T*
+(   R_L0 - F_{U2-L1} * sin\(theta\) = 0) Tj
+T*
+(   60 - F_{U2-L1} * 0.80 = 0 => F_{U2-L1} = + 75.0 kN \(Tension of 75 kN in web diagonal\).) Tj
+T*
+() Tj
+T*
+(   - Sum of Moments about Top Joint U2\(x=9, y=4\): Sigma M_{U2} = 0:) Tj
+T*
+(   - \( R_L0 * 9.0 m \) + \( F_{L1-L2} * 4.0 m \) = 0) Tj
+T*
+(   - 540 + 4 * F_{L1-L2} = 0 => F_{L1-L2} = + 135.0 kN \(Tension of 135 kN in bottom chord\).) Tj
+T*
+() Tj
+T*
+(   3. Structural Equilibrium & Kinematic Compatibility Check:) Tj
+T*
+(   - External determinacy verified via global equilibrium equations: Sigma Fx = 0, Sigma Fy = 0,) Tj
+T*
+(   Sigma M = 0.) Tj
+T*
+(   - Internal determinacy satisfied via Maxwell's criterion: m = 2*j - 3.) Tj
+T*
+(   - Joint node equilibrium confirmed: Vector resultant of all concurrent member forces vanishes) Tj
+T*
+(   at each pin.) Tj
+T*
+() Tj
+T*
+(   4. Civil Engineering Design & Stability Implications:) Tj
+T*
+(   Compression members must be checked for Euler column buckling \(P_cr = pi^2 * E * I / L_eff^2\),) Tj
+T*
+(   while tension members are governed by net cross-sectional yield strength under bridge/roof) Tj
+T*
+(   design standards.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 6:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: A cantilever truss of span 6 m and depth 3 m carries vertical loads: 20 kN at mid-joint and 30 kN at free tip. Determine the wall reaction forces and member forces.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Structural Context & Equilibrium Classification:) Tj
+T*
+(   This analysis addresses internal member forces and structural determinacy for plane truss) Tj
+T*
+(   systems.) Tj
+T*
+(   Governing criteria: All joints are frictionless spherical pins; loads act exclusively at nodes;) Tj
+T*
+(   members are ideal two-force axial elements carrying pure tension \(+T\) or compression \(-C\).) Tj
+T*
+() Tj
+T*
+(   2. Mathematical Derivation & Step-by-Step Joint/Section Analysis:) Tj
+T*
+(   Cantilever Truss Structural Analysis:) Tj
+T*
+(   1. Geometry and Coordinate Layout:) Tj
+T*
+(   Top chord A-C-E horizontal \(y = 3 m\): Wall support A\(0,3\), joint C\(3,3\), tip E\(6,3\).) Tj
+T*
+(   Bottom chord B-D-F horizontal \(y = 0 m\): Wall support B\(0,0\), joint D\(3,0\), tip F\(6,0\).) Tj
+T*
+(   Vertical members: AB\(wall\), CD\(x=3\), EF\(tip\).) Tj
+T*
+(   Diagonals: BC \(from B to C\) and DE \(from D to E\).) Tj
+T*
+(   Applied loads: 20 kN downward at joint E, 30 kN downward at joint F.) Tj
+T*
+() Tj
+T*
+(   2. Global Equilibrium for Support Reactions at Wall \(A and B\):) Tj
+T*
+(   Support A is a horizontal tie anchor; Support B is a hinge \(Rx, Ry\).) Tj
+T*
+(   - Total vertical load: Sigma Fy = 0 => R_By = 20 + 30 = 50.0 kN \(upward\).) Tj
+T*
+(   - Overturning Moment about Hinge B: Sigma M_B = 0:) Tj
+T*
+(   - \( R_Ax * 3.0 m \) - \( 20 kN * 6.0 m \) - \( 30 kN * 6.0 m \) = 0) Tj
+T*
+ET
+
+endstream
+endobj
+37 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 38 0 R /Resources << /Font << /F1 69 0 R /F2 70 0 R >> >> >>
+endobj
+38 0 obj
+<< /Length 3823 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 4: PLANE TRUSSES & STRUCTURES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 18 of 33) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   3 * R_Ax = - 300 kN*m => R_Ax = - 100.0 kN \(100 kN Tension pulling away from wall\).) Tj
+T*
+(   - Horizontal Force Balance: Sigma Fx = 0:) Tj
+T*
+(   R_Bx + R_Ax = 0 => R_Bx = + 100.0 kN \(100 kN Compression pushing against wall\).) Tj
+T*
+() Tj
+T*
+(   3. Internal Member Forces at Root Panel:) Tj
+T*
+(   - Top chord member AC carries the full horizontal tension: F_AC = 100.0 kN \(Tension\).) Tj
+T*
+(   - Bottom chord member BD carries the full horizontal thrust: F_BD = 100.0 kN \(Compression\).) Tj
+T*
+(   - Diagonal member BC carries the vertical shear of 50 kN:) Tj
+T*
+(   Angle theta = atan\(3 / 3\) = 45 deg.) Tj
+T*
+(   F_BC = 50 / sin\(45 deg\) = 50 * 1.4142 = 70.71 kN \(Tension\).) Tj
+T*
+() Tj
+T*
+(   3. Structural Equilibrium & Kinematic Compatibility Check:) Tj
+T*
+(   - External determinacy verified via global equilibrium equations: Sigma Fx = 0, Sigma Fy = 0,) Tj
+T*
+(   Sigma M = 0.) Tj
+T*
+(   - Internal determinacy satisfied via Maxwell's criterion: m = 2*j - 3.) Tj
+T*
+(   - Joint node equilibrium confirmed: Vector resultant of all concurrent member forces vanishes) Tj
+T*
+(   at each pin.) Tj
+T*
+() Tj
+T*
+(   4. Civil Engineering Design & Stability Implications:) Tj
+T*
+(   Compression members must be checked for Euler column buckling \(P_cr = pi^2 * E * I / L_eff^2\),) Tj
+T*
+(   while tension members are governed by net cross-sectional yield strength under bridge/roof) Tj
+T*
+(   design standards.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 7:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the structural behavior and member force distributions in Pratt vs Howe bridge trusses under moving traffic loads.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Structural Context & Equilibrium Classification:) Tj
+T*
+(   This analysis addresses internal member forces and structural determinacy for plane truss) Tj
+T*
+(   systems.) Tj
+T*
+(   Governing criteria: All joints are frictionless spherical pins; loads act exclusively at nodes;) Tj
+T*
+(   members are ideal two-force axial elements carrying pure tension \(+T\) or compression \(-C\).) Tj
+T*
+() Tj
+T*
+(   2. Mathematical Derivation & Step-by-Step Joint/Section Analysis:) Tj
+T*
+(   Comparative Analysis: Pratt vs Howe Bridge Trusses:) Tj
+T*
+(   1. Pratt Truss Configuration:) Tj
+T*
+(   - Web Geometry: Vertical members are in compression; diagonal web members slope downward) Tj
+T*
+(   towards the center of the span.) Tj
+T*
+(   - Behavior under Gravity Loads:) Tj
+T*
+(   * As traffic dead and live loads push downward, the diagonals are stretched in AXIAL TENSION.) Tj
+T*
+(   * The vertical struts are loaded in AXIAL COMPRESSION.) Tj
+T*
+(   - Structural Advantage in Steel Design:) Tj
+T*
+(   Because slender steel members are highly susceptible to Euler buckling under compression \(P_cr) Tj
+T*
+(   proportional to 1/L^2\), having longer diagonal members in tension and shorter vertical members) Tj
+T*
+(   in compression yields a lighter, more economical steel truss.) Tj
+T*
+() Tj
+T*
+(   2. Howe Truss Configuration:) Tj
+T*
+(   - Web Geometry: Diagonals slope upward towards the center of the span; vertical members act as) Tj
+T*
+(   vertical ties.) Tj
+T*
+(   - Behavior under Gravity Loads:) Tj
+T*
+(   * Diagonal members are pushed into AXIAL COMPRESSION.) Tj
+T*
+(   * Vertical members are stretched in AXIAL TENSION.) Tj
+T*
+(   - Historical Context in Timber Construction:) Tj
+T*
+ET
+
+endstream
+endobj
+39 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 40 0 R /Resources << /Font << /F1 69 0 R /F2 70 0 R >> >> >>
+endobj
+40 0 obj
+<< /Length 3550 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 4: PLANE TRUSSES & STRUCTURES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 19 of 33) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   Ideal for 19th-century timber-iron hybrid bridges where heavy wooden balks functioned well as) Tj
+T*
+(   compression diagonals, while vertical wrought iron rods served as tension ties.) Tj
+T*
+() Tj
+T*
+(   3. Stress Reversal under Moving Wheel Loads:) Tj
+T*
+(   As a train moves across the bridge, shear force in intermediate panels reverses sign. To) Tj
+T*
+(   prevent long tension diagonals from buckling in compression, designers install counter-braces) Tj
+T*
+(   \(crossed diagonals\).) Tj
+T*
+() Tj
+T*
+(   3. Structural Equilibrium & Kinematic Compatibility Check:) Tj
+T*
+(   - External determinacy verified via global equilibrium equations: Sigma Fx = 0, Sigma Fy = 0,) Tj
+T*
+(   Sigma M = 0.) Tj
+T*
+(   - Internal determinacy satisfied via Maxwell's criterion: m = 2*j - 3.) Tj
+T*
+(   - Joint node equilibrium confirmed: Vector resultant of all concurrent member forces vanishes) Tj
+T*
+(   at each pin.) Tj
+T*
+() Tj
+T*
+(   4. Civil Engineering Design & Stability Implications:) Tj
+T*
+(   Compression members must be checked for Euler column buckling \(P_cr = pi^2 * E * I / L_eff^2\),) Tj
+T*
+(   while tension members are governed by net cross-sectional yield strength under bridge/roof) Tj
+T*
+(   design standards.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 8:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: A 6-bay Pratt truss of span 24 m \(panel width 4 m, height 4 m\) carries 80 kN loads at each bottom joint. Calculate the force in the center vertical member and diagonals.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Structural Context & Equilibrium Classification:) Tj
+T*
+(   This analysis addresses internal member forces and structural determinacy for plane truss) Tj
+T*
+(   systems.) Tj
+T*
+(   Governing criteria: All joints are frictionless spherical pins; loads act exclusively at nodes;) Tj
+T*
+(   members are ideal two-force axial elements carrying pure tension \(+T\) or compression \(-C\).) Tj
+T*
+() Tj
+T*
+(   2. Mathematical Derivation & Step-by-Step Joint/Section Analysis:) Tj
+T*
+(   Detailed Numerical Solution of 6-Bay Pratt Truss:) Tj
+T*
+(   1. Panel Geometry:) Tj
+T*
+(   Panels: 6 bays of 4 m = 24 m span. Height h = 4 m.) Tj
+T*
+(   Bottom joints: L0 to L6. Top joints: U1 to U5.) Tj
+T*
+(   Loads of 80 kN act at L1, L2, L3, L4, L5 \(5 loads\).) Tj
+T*
+(   Total downward load = 5 * 80 = 400 kN.) Tj
+T*
+(   Support reactions by symmetry: R_L0 = R_L6 = 200.0 kN.) Tj
+T*
+() Tj
+T*
+(   2. Web Diagonals \(Diagonal angle theta = 45 deg, sin\(45\) = cos\(45\) = 0.7071\):) Tj
+T*
+(   - Panel 1 \(End Post L0-U1\):) Tj
+T*
+(   Carries full shear V1 = 200 kN.) Tj
+T*
+(   F_{L0-U1} = 200 / sin\(45\) = 282.84 kN \(Compression\).) Tj
+T*
+(   - Panel 2 \(Diagonal L1-U2\):) Tj
+T*
+(   Carries shear V2 = 200 - 80 = 120 kN.) Tj
+T*
+(   F_{L1-U2} = 120 / sin\(45\) = 169.71 kN \(Tension\).) Tj
+T*
+(   - Panel 3 \(Diagonal L2-U3\):) Tj
+T*
+(   Carries shear V3 = 200 - 80 - 80 = 40 kN.) Tj
+T*
+(   F_{L2-U3} = 40 / sin\(45\) = 56.57 kN \(Tension\).) Tj
+T*
+() Tj
+T*
+(   3. Center Vertical Member U3-L3:) Tj
+T*
+(   Isolate joint L3:) Tj
+T*
+(   - Vertical downward load = 80 kN.) Tj
+T*
+ET
+
+endstream
+endobj
+41 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 42 0 R /Resources << /Font << /F1 69 0 R /F2 70 0 R >> >> >>
+endobj
+42 0 obj
+<< /Length 3851 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 4: PLANE TRUSSES & STRUCTURES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 20 of 33) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - Horizontal members L2-L3 and L3-L4 are collinear and carry equal horizontal tension.) Tj
+T*
+(   - By equilibrium of Joint L3 in vertical direction: Sigma Fy = 0:) Tj
+T*
+(   F_{U3-L3} - 80 kN = 0 => F_{U3-L3} = 80.0 kN \(Tension\).) Tj
+T*
+(   Conclusion: The center vertical in a deck-loaded Pratt truss acts as a vertical hanger in pure) Tj
+T*
+(   tension of 80 kN.) Tj
+T*
+() Tj
+T*
+(   3. Structural Equilibrium & Kinematic Compatibility Check:) Tj
+T*
+(   - External determinacy verified via global equilibrium equations: Sigma Fx = 0, Sigma Fy = 0,) Tj
+T*
+(   Sigma M = 0.) Tj
+T*
+(   - Internal determinacy satisfied via Maxwell's criterion: m = 2*j - 3.) Tj
+T*
+(   - Joint node equilibrium confirmed: Vector resultant of all concurrent member forces vanishes) Tj
+T*
+(   at each pin.) Tj
+T*
+() Tj
+T*
+(   4. Civil Engineering Design & Stability Implications:) Tj
+T*
+(   Compression members must be checked for Euler column buckling \(P_cr = pi^2 * E * I / L_eff^2\),) Tj
+T*
+(   while tension members are governed by net cross-sectional yield strength under bridge/roof) Tj
+T*
+(   design standards.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 9:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: A planar roof truss carries wind loads perpendicular to the rafter. Formulate the method for computing horizontal and vertical reactions and joint equilibrium.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Structural Context & Equilibrium Classification:) Tj
+T*
+(   This analysis addresses internal member forces and structural determinacy for plane truss) Tj
+T*
+(   systems.) Tj
+T*
+(   Governing criteria: All joints are frictionless spherical pins; loads act exclusively at nodes;) Tj
+T*
+(   members are ideal two-force axial elements carrying pure tension \(+T\) or compression \(-C\).) Tj
+T*
+() Tj
+T*
+(   2. Mathematical Derivation & Step-by-Step Joint/Section Analysis:) Tj
+T*
+(   Truss Analysis under Inclined Wind Loads:) Tj
+T*
+(   1. Nature of Wind Loads in Civil Engineering \(IS 875 Part 3\):) Tj
+T*
+(   Wind acts as aerodynamic pressure or suction perpendicular to the roof cladding slope) Tj
+T*
+(   \(rafters\):) Tj
+T*
+(   - Windward slope experiences normal pressure loads P_w perpendicular to rafter.) Tj
+T*
+(   - Leeward slope experiences aerodynamic suction \(negative pressure\).) Tj
+T*
+() Tj
+T*
+(   2. Global Equilibrium with One Roller Support:) Tj
+T*
+(   Let left support A be a fixed hinge and right support B be on horizontal rollers:) Tj
+T*
+(   - Right support B reaction R_B MUST be purely vertical \(R_Bx = 0\).) Tj
+T*
+(   - Moments about Hinge A \(Sigma M_A = 0\):) Tj
+T*
+(   Includes moments of all perpendicular wind forces P_w * d_i:) Tj
+T*
+(   R_B * Span - Sigma \( P_wi * d_i \) = 0 => Solves R_B.) Tj
+T*
+(   - Horizontal equilibrium: Sigma Fx = 0:) Tj
+T*
+(   R_Ax + Sigma \( P_wi * sin\(theta_slope\) \) = 0 => Solves horizontal hinge thrust R_Ax.) Tj
+T*
+(   - Vertical equilibrium: Sigma Fy = 0:) Tj
+T*
+(   R_Ay + R_B - Sigma \( P_wi * cos\(theta_slope\) \) = 0 => Solves R_Ay.) Tj
+T*
+() Tj
+T*
+(   3. Joint Equilibrium:) Tj
+T*
+(   At each joint, the inclined wind load is added as an external active vector in the joint FBD) Tj
+T*
+(   equations: Sigma Fx = 0 and Sigma Fy = 0.) Tj
+T*
+() Tj
+T*
+(   3. Structural Equilibrium & Kinematic Compatibility Check:) Tj
+T*
+(   - External determinacy verified via global equilibrium equations: Sigma Fx = 0, Sigma Fy = 0,) Tj
+T*
+ET
+
+endstream
+endobj
+43 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 44 0 R /Resources << /Font << /F1 69 0 R /F2 70 0 R >> >> >>
+endobj
+44 0 obj
+<< /Length 3759 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 4: PLANE TRUSSES & STRUCTURES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 21 of 33) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   Sigma M = 0.) Tj
+T*
+(   - Internal determinacy satisfied via Maxwell's criterion: m = 2*j - 3.) Tj
+T*
+(   - Joint node equilibrium confirmed: Vector resultant of all concurrent member forces vanishes) Tj
+T*
+(   at each pin.) Tj
+T*
+() Tj
+T*
+(   4. Civil Engineering Design & Stability Implications:) Tj
+T*
+(   Compression members must be checked for Euler column buckling \(P_cr = pi^2 * E * I / L_eff^2\),) Tj
+T*
+(   while tension members are governed by net cross-sectional yield strength under bridge/roof) Tj
+T*
+(   design standards.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 10:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze a space tripod structure supported on three ball joints subjected to a vertical load W and horizontal load H at apex A.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Structural Context & Equilibrium Classification:) Tj
+T*
+(   This analysis addresses internal member forces and structural determinacy for plane truss) Tj
+T*
+(   systems.) Tj
+T*
+(   Governing criteria: All joints are frictionless spherical pins; loads act exclusively at nodes;) Tj
+T*
+(   members are ideal two-force axial elements carrying pure tension \(+T\) or compression \(-C\).) Tj
+T*
+() Tj
+T*
+(   2. Mathematical Derivation & Step-by-Step Joint/Section Analysis:) Tj
+T*
+(   Spatial Equilibrium of a Three-Legged Tripod:) Tj
+T*
+(   1. Vector Formulation of Member Forces:) Tj
+T*
+(   Let apex A have coordinates \(0, 0, h\).) Tj
+T*
+(   Let foundation support joints have coordinates: B\(xB, yB, 0\), C\(xC, yC, 0\), D\(xD, yD, 0\).) Tj
+T*
+(   Position vectors from apex to ground:) Tj
+T*
+(   r_AB = xB*i + yB*j - h*k; |r_AB| = L1; lambda_AB = r_AB / L1.) Tj
+T*
+(   r_AC = xC*i + yC*j - h*k; |r_AC| = L2; lambda_AC = r_AC / L2.) Tj
+T*
+(   r_AD = xD*i + yD*j - h*k; |r_AD| = L3; lambda_AD = r_AD / L3.) Tj
+T*
+() Tj
+T*
+(   2. Equilibrium Equations at Apex A \(Sigma F = 0\):) Tj
+T*
+(   F_AB * lambda_AB + F_AC * lambda_AC + F_AD * lambda_AD + \( Hx*i + Hy*j - W*k \) = 0.) Tj
+T*
+(   Yields three simultaneous linear algebraic equations:) Tj
+T*
+(   - Sigma Fx = 0: F_AB * \(xB/L1\) + F_AC * \(xC/L2\) + F_AD * \(xD/L3\) + Hx = 0.) Tj
+T*
+(   - Sigma Fy = 0: F_AB * \(yB/L1\) + F_AC * \(yC/L2\) + F_AD * \(yD/L3\) + Hy = 0.) Tj
+T*
+(   - Sigma Fz = 0: - F_AB * \(h/L1\) - F_AC * \(h/L2\) - F_AD * \(h/L3\) - W = 0.) Tj
+T*
+(   3. Solution via Matrix Inversion or Cramer's Rule directly provides the compressive thrust in) Tj
+T*
+(   all three tripod legs.) Tj
+T*
+() Tj
+T*
+(   3. Structural Equilibrium & Kinematic Compatibility Check:) Tj
+T*
+(   - External determinacy verified via global equilibrium equations: Sigma Fx = 0, Sigma Fy = 0,) Tj
+T*
+(   Sigma M = 0.) Tj
+T*
+(   - Internal determinacy satisfied via Maxwell's criterion: m = 2*j - 3.) Tj
+T*
+(   - Joint node equilibrium confirmed: Vector resultant of all concurrent member forces vanishes) Tj
+T*
+(   at each pin.) Tj
+T*
+() Tj
+T*
+(   4. Civil Engineering Design & Stability Implications:) Tj
+T*
+(   Compression members must be checked for Euler column buckling \(P_cr = pi^2 * E * I / L_eff^2\),) Tj
+T*
+(   while tension members are governed by net cross-sectional yield strength under bridge/roof) Tj
+T*
+(   design standards.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+45 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 46 0 R /Resources << /Font << /F1 69 0 R /F2 70 0 R >> >> >>
+endobj
+46 0 obj
+<< /Length 3934 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 4: PLANE TRUSSES & STRUCTURES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 22 of 33) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 11:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the Williot-Mohr diagram method for determining deflections of pin-jointed trusses graphically.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Structural Context & Equilibrium Classification:) Tj
+T*
+(   This analysis addresses internal member forces and structural determinacy for plane truss) Tj
+T*
+(   systems.) Tj
+T*
+(   Governing criteria: All joints are frictionless spherical pins; loads act exclusively at nodes;) Tj
+T*
+(   members are ideal two-force axial elements carrying pure tension \(+T\) or compression \(-C\).) Tj
+T*
+() Tj
+T*
+(   2. Mathematical Derivation & Step-by-Step Joint/Section Analysis:) Tj
+T*
+(   Williot-Mohr Graphical Deflection Method:) Tj
+T*
+(   1. Member Elastic Displacements: delta L = \( F * L \) / \( A * E \).) Tj
+T*
+(   2. Williot Diagram: Plots the axial extensions and contractions of each member from a fixed) Tj
+T*
+(   reference joint, constructing perpendicular rotation arcs.) Tj
+T*
+(   3. Mohr Diagram: Corrects for rigid body rotation when support constraints restrict) Tj
+T*
+(   displacement.) Tj
+T*
+(   4. Total Resultant Deflection: Vector measured from Mohr reference point to Williot) Tj
+T*
+(   displacement point.) Tj
+T*
+() Tj
+T*
+(   3. Structural Equilibrium & Kinematic Compatibility Check:) Tj
+T*
+(   - External determinacy verified via global equilibrium equations: Sigma Fx = 0, Sigma Fy = 0,) Tj
+T*
+(   Sigma M = 0.) Tj
+T*
+(   - Internal determinacy satisfied via Maxwell's criterion: m = 2*j - 3.) Tj
+T*
+(   - Joint node equilibrium confirmed: Vector resultant of all concurrent member forces vanishes) Tj
+T*
+(   at each pin.) Tj
+T*
+() Tj
+T*
+(   4. Civil Engineering Design & Stability Implications:) Tj
+T*
+(   Compression members must be checked for Euler column buckling \(P_cr = pi^2 * E * I / L_eff^2\),) Tj
+T*
+(   while tension members are governed by net cross-sectional yield strength under bridge/roof) Tj
+T*
+(   design standards.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 12:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Derive the force in the tie rod of a King Post truss of span 10 m and rise 2.5 m under a central load of 50 kN.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Structural Context & Equilibrium Classification:) Tj
+T*
+(   This analysis addresses internal member forces and structural determinacy for plane truss) Tj
+T*
+(   systems.) Tj
+T*
+(   Governing criteria: All joints are frictionless spherical pins; loads act exclusively at nodes;) Tj
+T*
+(   members are ideal two-force axial elements carrying pure tension \(+T\) or compression \(-C\).) Tj
+T*
+() Tj
+T*
+(   2. Mathematical Derivation & Step-by-Step Joint/Section Analysis:) Tj
+T*
+(   King Post Tie Rod Calculation:) Tj
+T*
+(   Rafter slope tan\(theta\) = 2.5 / 5 = 0.50 => theta = 26.57 deg.) Tj
+T*
+(   Vertical load of 50 kN is transferred directly down the central vertical king post into the) Tj
+T*
+(   rafters:) Tj
+T*
+(   Tie rod tension: T = \( W / 4 \) * cot\(theta\) = \( 50 / 4 \) * 2.0 = 25.0 kN.) Tj
+T*
+() Tj
+T*
+(   3. Structural Equilibrium & Kinematic Compatibility Check:) Tj
+T*
+(   - External determinacy verified via global equilibrium equations: Sigma Fx = 0, Sigma Fy = 0,) Tj
+T*
+(   Sigma M = 0.) Tj
+T*
+(   - Internal determinacy satisfied via Maxwell's criterion: m = 2*j - 3.) Tj
+T*
+(   - Joint node equilibrium confirmed: Vector resultant of all concurrent member forces vanishes) Tj
+T*
+ET
+
+endstream
+endobj
+47 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 48 0 R /Resources << /Font << /F1 69 0 R /F2 70 0 R >> >> >>
+endobj
+48 0 obj
+<< /Length 3786 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 4: PLANE TRUSSES & STRUCTURES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 23 of 33) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   at each pin.) Tj
+T*
+() Tj
+T*
+(   4. Civil Engineering Design & Stability Implications:) Tj
+T*
+(   Compression members must be checked for Euler column buckling \(P_cr = pi^2 * E * I / L_eff^2\),) Tj
+T*
+(   while tension members are governed by net cross-sectional yield strength under bridge/roof) Tj
+T*
+(   design standards.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 13:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the concept of counter-bracing in bridge trusses subjected to moving train live loads.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Structural Context & Equilibrium Classification:) Tj
+T*
+(   This analysis addresses internal member forces and structural determinacy for plane truss) Tj
+T*
+(   systems.) Tj
+T*
+(   Governing criteria: All joints are frictionless spherical pins; loads act exclusively at nodes;) Tj
+T*
+(   members are ideal two-force axial elements carrying pure tension \(+T\) or compression \(-C\).) Tj
+T*
+() Tj
+T*
+(   2. Mathematical Derivation & Step-by-Step Joint/Section Analysis:) Tj
+T*
+(   Counter-Bracing in Bridge Trusses:) Tj
+T*
+(   When heavy rolling loads cross a bridge panel, the panel shear V reverses from positive to) Tj
+T*
+(   negative.) Tj
+T*
+(   A single diagonal designed for tension would be subjected to compression and buckle.) Tj
+T*
+(   Installing crossing X-diagonals \(counters\) ensures that under shear reversal, the inactive) Tj
+T*
+(   compression diagonal buckles harmlessly while the alternate diagonal takes the full tension) Tj
+T*
+(   load.) Tj
+T*
+() Tj
+T*
+(   3. Structural Equilibrium & Kinematic Compatibility Check:) Tj
+T*
+(   - External determinacy verified via global equilibrium equations: Sigma Fx = 0, Sigma Fy = 0,) Tj
+T*
+(   Sigma M = 0.) Tj
+T*
+(   - Internal determinacy satisfied via Maxwell's criterion: m = 2*j - 3.) Tj
+T*
+(   - Joint node equilibrium confirmed: Vector resultant of all concurrent member forces vanishes) Tj
+T*
+(   at each pin.) Tj
+T*
+() Tj
+T*
+(   4. Civil Engineering Design & Stability Implications:) Tj
+T*
+(   Compression members must be checked for Euler column buckling \(P_cr = pi^2 * E * I / L_eff^2\),) Tj
+T*
+(   while tension members are governed by net cross-sectional yield strength under bridge/roof) Tj
+T*
+(   design standards.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 14:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Calculate the forces in a Fink truss rafter and tie under uniform vertical panel loads.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Structural Context & Equilibrium Classification:) Tj
+T*
+(   This analysis addresses internal member forces and structural determinacy for plane truss) Tj
+T*
+(   systems.) Tj
+T*
+(   Governing criteria: All joints are frictionless spherical pins; loads act exclusively at nodes;) Tj
+T*
+(   members are ideal two-force axial elements carrying pure tension \(+T\) or compression \(-C\).) Tj
+T*
+() Tj
+T*
+(   2. Mathematical Derivation & Step-by-Step Joint/Section Analysis:) Tj
+T*
+(   Fink Truss Analysis:) Tj
+T*
+(   Fink trusses subdivide long rafters into shorter segments supported by normal struts.) Tj
+T*
+(   Reduces unsupported rafter buckling length by half, allowing highly slender steel angles to) Tj
+T*
+ET
+
+endstream
+endobj
+49 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 50 0 R /Resources << /Font << /F1 69 0 R /F2 70 0 R >> >> >>
+endobj
+50 0 obj
+<< /Length 3674 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 4: PLANE TRUSSES & STRUCTURES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 24 of 33) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   resist heavy wind and snow roof loads.) Tj
+T*
+() Tj
+T*
+(   3. Structural Equilibrium & Kinematic Compatibility Check:) Tj
+T*
+(   - External determinacy verified via global equilibrium equations: Sigma Fx = 0, Sigma Fy = 0,) Tj
+T*
+(   Sigma M = 0.) Tj
+T*
+(   - Internal determinacy satisfied via Maxwell's criterion: m = 2*j - 3.) Tj
+T*
+(   - Joint node equilibrium confirmed: Vector resultant of all concurrent member forces vanishes) Tj
+T*
+(   at each pin.) Tj
+T*
+() Tj
+T*
+(   4. Civil Engineering Design & Stability Implications:) Tj
+T*
+(   Compression members must be checked for Euler column buckling \(P_cr = pi^2 * E * I / L_eff^2\),) Tj
+T*
+(   while tension members are governed by net cross-sectional yield strength under bridge/roof) Tj
+T*
+(   design standards.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 15:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: A planar truss has 6 joints and 9 members. Prove whether it is internally determinate, redundant, or deficient.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Structural Context & Equilibrium Classification:) Tj
+T*
+(   This analysis addresses internal member forces and structural determinacy for plane truss) Tj
+T*
+(   systems.) Tj
+T*
+(   Governing criteria: All joints are frictionless spherical pins; loads act exclusively at nodes;) Tj
+T*
+(   members are ideal two-force axial elements carrying pure tension \(+T\) or compression \(-C\).) Tj
+T*
+() Tj
+T*
+(   2. Mathematical Derivation & Step-by-Step Joint/Section Analysis:) Tj
+T*
+(   Internal Determinacy Proof:) Tj
+T*
+(   Formula: m = 2 * j - 3.) Tj
+T*
+(   Given: j = 6 joints, m = 9 members.) Tj
+T*
+(   Required for perfect truss: m_req = 2 * 6 - 3 = 12 - 3 = 9 members.) Tj
+T*
+(   Since actual members m \(9\) = required members m_req \(9\):) Tj
+T*
+(   The truss is perfectly Statically Determinate and rigid. \(Proved\)) Tj
+T*
+() Tj
+T*
+(   3. Structural Equilibrium & Kinematic Compatibility Check:) Tj
+T*
+(   - External determinacy verified via global equilibrium equations: Sigma Fx = 0, Sigma Fy = 0,) Tj
+T*
+(   Sigma M = 0.) Tj
+T*
+(   - Internal determinacy satisfied via Maxwell's criterion: m = 2*j - 3.) Tj
+T*
+(   - Joint node equilibrium confirmed: Vector resultant of all concurrent member forces vanishes) Tj
+T*
+(   at each pin.) Tj
+T*
+() Tj
+T*
+(   4. Civil Engineering Design & Stability Implications:) Tj
+T*
+(   Compression members must be checked for Euler column buckling \(P_cr = pi^2 * E * I / L_eff^2\),) Tj
+T*
+(   while tension members are governed by net cross-sectional yield strength under bridge/roof) Tj
+T*
+(   design standards.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 16:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Derive the tension coefficient method for the analysis of 3D space trusses.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Structural Context & Equilibrium Classification:) Tj
+T*
+(   This analysis addresses internal member forces and structural determinacy for plane truss) Tj
+T*
+(   systems.) Tj
+T*
+(   Governing criteria: All joints are frictionless spherical pins; loads act exclusively at nodes;) Tj
+T*
+ET
+
+endstream
+endobj
+51 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 52 0 R /Resources << /Font << /F1 69 0 R /F2 70 0 R >> >> >>
+endobj
+52 0 obj
+<< /Length 3705 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 4: PLANE TRUSSES & STRUCTURES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 25 of 33) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   members are ideal two-force axial elements carrying pure tension \(+T\) or compression \(-C\).) Tj
+T*
+() Tj
+T*
+(   2. Mathematical Derivation & Step-by-Step Joint/Section Analysis:) Tj
+T*
+(   Tension Coefficient Method for Space Trusses:) Tj
+T*
+(   Let t_AB = T_AB / L_AB be the tension coefficient of member AB \(force per unit length\).) Tj
+T*
+(   1. Component Equations:) Tj
+T*
+(   Tx = t_AB * \(xB - xA\), Ty = t_AB * \(yB - yA\), Tz = t_AB * \(zB - zA\).) Tj
+T*
+(   2. Joint Equilibrium:) Tj
+T*
+(   Sigma t_AB * \(xB - xA\) + X_A = 0; Sigma t_AB * \(yB - yA\) + Y_A = 0; Sigma t_AB * \(zB - zA\) +) Tj
+T*
+(   Z_A = 0.) Tj
+T*
+(   Forms linear equations without trigonometric functions, ideal for computational matrix solving.) Tj
+T*
+() Tj
+T*
+(   3. Structural Equilibrium & Kinematic Compatibility Check:) Tj
+T*
+(   - External determinacy verified via global equilibrium equations: Sigma Fx = 0, Sigma Fy = 0,) Tj
+T*
+(   Sigma M = 0.) Tj
+T*
+(   - Internal determinacy satisfied via Maxwell's criterion: m = 2*j - 3.) Tj
+T*
+(   - Joint node equilibrium confirmed: Vector resultant of all concurrent member forces vanishes) Tj
+T*
+(   at each pin.) Tj
+T*
+() Tj
+T*
+(   4. Civil Engineering Design & Stability Implications:) Tj
+T*
+(   Compression members must be checked for Euler column buckling \(P_cr = pi^2 * E * I / L_eff^2\),) Tj
+T*
+(   while tension members are governed by net cross-sectional yield strength under bridge/roof) Tj
+T*
+(   design standards.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 17:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the effect of temperature changes on statically determinate vs statically indeterminate trusses.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Structural Context & Equilibrium Classification:) Tj
+T*
+(   This analysis addresses internal member forces and structural determinacy for plane truss) Tj
+T*
+(   systems.) Tj
+T*
+(   Governing criteria: All joints are frictionless spherical pins; loads act exclusively at nodes;) Tj
+T*
+(   members are ideal two-force axial elements carrying pure tension \(+T\) or compression \(-C\).) Tj
+T*
+() Tj
+T*
+(   2. Mathematical Derivation & Step-by-Step Joint/Section Analysis:) Tj
+T*
+(   Thermal Stresses in Trusses:) Tj
+T*
+(   1. Statically Determinate Trusses:) Tj
+T*
+(   Members expand or contract freely by delta L = alpha * L * Delta T.) Tj
+T*
+(   Joints displace geometrically without developing ANY internal thermal forces \(Thermal stress =) Tj
+T*
+(   0\).) Tj
+T*
+(   2. Statically Indeterminate Trusses:) Tj
+T*
+(   Redundant members restrain free thermal expansion, inducing massive internal thermal stresses) Tj
+T*
+(   and forces.) Tj
+T*
+() Tj
+T*
+(   3. Structural Equilibrium & Kinematic Compatibility Check:) Tj
+T*
+(   - External determinacy verified via global equilibrium equations: Sigma Fx = 0, Sigma Fy = 0,) Tj
+T*
+(   Sigma M = 0.) Tj
+T*
+(   - Internal determinacy satisfied via Maxwell's criterion: m = 2*j - 3.) Tj
+T*
+(   - Joint node equilibrium confirmed: Vector resultant of all concurrent member forces vanishes) Tj
+T*
+(   at each pin.) Tj
+T*
+() Tj
+T*
+(   4. Civil Engineering Design & Stability Implications:) Tj
+T*
+(   Compression members must be checked for Euler column buckling \(P_cr = pi^2 * E * I / L_eff^2\),) Tj
+T*
+ET
+
+endstream
+endobj
+53 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 54 0 R /Resources << /Font << /F1 69 0 R /F2 70 0 R >> >> >>
+endobj
+54 0 obj
+<< /Length 3904 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 4: PLANE TRUSSES & STRUCTURES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 26 of 33) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   while tension members are governed by net cross-sectional yield strength under bridge/roof) Tj
+T*
+(   design standards.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 18:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Calculate the horizontal displacement of the roller support of a simply supported symmetrical triangular truss under an apex load.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Structural Context & Equilibrium Classification:) Tj
+T*
+(   This analysis addresses internal member forces and structural determinacy for plane truss) Tj
+T*
+(   systems.) Tj
+T*
+(   Governing criteria: All joints are frictionless spherical pins; loads act exclusively at nodes;) Tj
+T*
+(   members are ideal two-force axial elements carrying pure tension \(+T\) or compression \(-C\).) Tj
+T*
+() Tj
+T*
+(   2. Mathematical Derivation & Step-by-Step Joint/Section Analysis:) Tj
+T*
+(   Roller Support Displacement:) Tj
+T*
+(   Apply Castigliano's Theorem: delta = dU / dP = Sigma [ \( F * \(dF/dP\) * L \) / \( A * E \) ].) Tj
+T*
+(   For an equilateral triangle under apex load W:) Tj
+T*
+(   delta = \( W * L \) / \( sqrt\(3\) * A * E \).) Tj
+T*
+() Tj
+T*
+(   3. Structural Equilibrium & Kinematic Compatibility Check:) Tj
+T*
+(   - External determinacy verified via global equilibrium equations: Sigma Fx = 0, Sigma Fy = 0,) Tj
+T*
+(   Sigma M = 0.) Tj
+T*
+(   - Internal determinacy satisfied via Maxwell's criterion: m = 2*j - 3.) Tj
+T*
+(   - Joint node equilibrium confirmed: Vector resultant of all concurrent member forces vanishes) Tj
+T*
+(   at each pin.) Tj
+T*
+() Tj
+T*
+(   4. Civil Engineering Design & Stability Implications:) Tj
+T*
+(   Compression members must be checked for Euler column buckling \(P_cr = pi^2 * E * I / L_eff^2\),) Tj
+T*
+(   while tension members are governed by net cross-sectional yield strength under bridge/roof) Tj
+T*
+(   design standards.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 19:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Describe the K-truss configuration and explain its aerodynamic and structural advantages in high-rise bridge towers.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Structural Context & Equilibrium Classification:) Tj
+T*
+(   This analysis addresses internal member forces and structural determinacy for plane truss) Tj
+T*
+(   systems.) Tj
+T*
+(   Governing criteria: All joints are frictionless spherical pins; loads act exclusively at nodes;) Tj
+T*
+(   members are ideal two-force axial elements carrying pure tension \(+T\) or compression \(-C\).) Tj
+T*
+() Tj
+T*
+(   2. Mathematical Derivation & Step-by-Step Joint/Section Analysis:) Tj
+T*
+(   K-Truss Mechanics:) Tj
+T*
+(   Web members form the letter 'K' with two diagonals meeting at the midpoint of a vertical strut.) Tj
+T*
+(   Advantage: Halves the unsupported length of both vertical and diagonal compression members,) Tj
+T*
+(   doubling their Euler buckling capacity without increasing chord depth.) Tj
+T*
+() Tj
+T*
+(   3. Structural Equilibrium & Kinematic Compatibility Check:) Tj
+T*
+(   - External determinacy verified via global equilibrium equations: Sigma Fx = 0, Sigma Fy = 0,) Tj
+T*
+(   Sigma M = 0.) Tj
+T*
+(   - Internal determinacy satisfied via Maxwell's criterion: m = 2*j - 3.) Tj
+T*
+(   - Joint node equilibrium confirmed: Vector resultant of all concurrent member forces vanishes) Tj
+T*
+ET
+
+endstream
+endobj
+55 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 56 0 R /Resources << /Font << /F1 69 0 R /F2 70 0 R >> >> >>
+endobj
+56 0 obj
+<< /Length 3764 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 4: PLANE TRUSSES & STRUCTURES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 27 of 33) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   at each pin.) Tj
+T*
+() Tj
+T*
+(   4. Civil Engineering Design & Stability Implications:) Tj
+T*
+(   Compression members must be checked for Euler column buckling \(P_cr = pi^2 * E * I / L_eff^2\),) Tj
+T*
+(   while tension members are governed by net cross-sectional yield strength under bridge/roof) Tj
+T*
+(   design standards.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 20:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain secondary stresses caused by gusset plate joint rigidity and state the design provisions for limiting them.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Structural Context & Equilibrium Classification:) Tj
+T*
+(   This analysis addresses internal member forces and structural determinacy for plane truss) Tj
+T*
+(   systems.) Tj
+T*
+(   Governing criteria: All joints are frictionless spherical pins; loads act exclusively at nodes;) Tj
+T*
+(   members are ideal two-force axial elements carrying pure tension \(+T\) or compression \(-C\).) Tj
+T*
+() Tj
+T*
+(   2. Mathematical Derivation & Step-by-Step Joint/Section Analysis:) Tj
+T*
+(   Secondary Stresses in Truss Joints:) Tj
+T*
+(   1. Origin: Real bridge joints use heavy bolted or welded gusset plates rather than ideal) Tj
+T*
+(   frictionless pins.) Tj
+T*
+(   2. Deflection creates joint rotations, producing secondary flexural bending stresses.) Tj
+T*
+(   3. Design Provision: Kept under 15-20% of primary axial stress by selecting deep, slender) Tj
+T*
+(   members and aligning gravity axes at joint centroids.) Tj
+T*
+() Tj
+T*
+(   3. Structural Equilibrium & Kinematic Compatibility Check:) Tj
+T*
+(   - External determinacy verified via global equilibrium equations: Sigma Fx = 0, Sigma Fy = 0,) Tj
+T*
+(   Sigma M = 0.) Tj
+T*
+(   - Internal determinacy satisfied via Maxwell's criterion: m = 2*j - 3.) Tj
+T*
+(   - Joint node equilibrium confirmed: Vector resultant of all concurrent member forces vanishes) Tj
+T*
+(   at each pin.) Tj
+T*
+() Tj
+T*
+(   4. Civil Engineering Design & Stability Implications:) Tj
+T*
+(   Compression members must be checked for Euler column buckling \(P_cr = pi^2 * E * I / L_eff^2\),) Tj
+T*
+(   while tension members are governed by net cross-sectional yield strength under bridge/roof) Tj
+T*
+(   design standards.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 21:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Calculate member forces in a 3-member cantilever bracket carrying a horizontal load at its apex.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Structural Context & Equilibrium Classification:) Tj
+T*
+(   This analysis addresses internal member forces and structural determinacy for plane truss) Tj
+T*
+(   systems.) Tj
+T*
+(   Governing criteria: All joints are frictionless spherical pins; loads act exclusively at nodes;) Tj
+T*
+(   members are ideal two-force axial elements carrying pure tension \(+T\) or compression \(-C\).) Tj
+T*
+() Tj
+T*
+(   2. Mathematical Derivation & Step-by-Step Joint/Section Analysis:) Tj
+T*
+(   Cantilever Bracket under Horizontal Load:) Tj
+T*
+(   Apex subjected to horizontal pull H = 50 kN.) Tj
+T*
+(   Top member carries pure tension: T = H.) Tj
+T*
+(   Diagonal strut carries compression: C = H / cos\(theta\).) Tj
+T*
+ET
+
+endstream
+endobj
+57 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 58 0 R /Resources << /Font << /F1 69 0 R /F2 70 0 R >> >> >>
+endobj
+58 0 obj
+<< /Length 3865 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 4: PLANE TRUSSES & STRUCTURES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 28 of 33) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   Vertical wall reaction balances vertical component: R_v = H * tan\(theta\).) Tj
+T*
+() Tj
+T*
+(   3. Structural Equilibrium & Kinematic Compatibility Check:) Tj
+T*
+(   - External determinacy verified via global equilibrium equations: Sigma Fx = 0, Sigma Fy = 0,) Tj
+T*
+(   Sigma M = 0.) Tj
+T*
+(   - Internal determinacy satisfied via Maxwell's criterion: m = 2*j - 3.) Tj
+T*
+(   - Joint node equilibrium confirmed: Vector resultant of all concurrent member forces vanishes) Tj
+T*
+(   at each pin.) Tj
+T*
+() Tj
+T*
+(   4. Civil Engineering Design & Stability Implications:) Tj
+T*
+(   Compression members must be checked for Euler column buckling \(P_cr = pi^2 * E * I / L_eff^2\),) Tj
+T*
+(   while tension members are governed by net cross-sectional yield strength under bridge/roof) Tj
+T*
+(   design standards.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 22:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the Method of Substitute Members \(Henrici's Method\) for complex statically determinate trusses.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Structural Context & Equilibrium Classification:) Tj
+T*
+(   This analysis addresses internal member forces and structural determinacy for plane truss) Tj
+T*
+(   systems.) Tj
+T*
+(   Governing criteria: All joints are frictionless spherical pins; loads act exclusively at nodes;) Tj
+T*
+(   members are ideal two-force axial elements carrying pure tension \(+T\) or compression \(-C\).) Tj
+T*
+() Tj
+T*
+(   2. Mathematical Derivation & Step-by-Step Joint/Section Analysis:) Tj
+T*
+(   Method of Substitute Members:) Tj
+T*
+(   Used when a truss is statically determinate \(m = 2*j - 3\) but lacks a starting joint with <= 2) Tj
+T*
+(   unknowns.) Tj
+T*
+(   Remove a non-essential member and replace it with a substitute member to create a solvable) Tj
+T*
+(   simple truss, then superimpose corrective force systems to restore boundary compatibility.) Tj
+T*
+() Tj
+T*
+(   3. Structural Equilibrium & Kinematic Compatibility Check:) Tj
+T*
+(   - External determinacy verified via global equilibrium equations: Sigma Fx = 0, Sigma Fy = 0,) Tj
+T*
+(   Sigma M = 0.) Tj
+T*
+(   - Internal determinacy satisfied via Maxwell's criterion: m = 2*j - 3.) Tj
+T*
+(   - Joint node equilibrium confirmed: Vector resultant of all concurrent member forces vanishes) Tj
+T*
+(   at each pin.) Tj
+T*
+() Tj
+T*
+(   4. Civil Engineering Design & Stability Implications:) Tj
+T*
+(   Compression members must be checked for Euler column buckling \(P_cr = pi^2 * E * I / L_eff^2\),) Tj
+T*
+(   while tension members are governed by net cross-sectional yield strength under bridge/roof) Tj
+T*
+(   design standards.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 23:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze the effect of fabrication errors \(initial lack of fit\) in determinate and indeterminate trusses.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Structural Context & Equilibrium Classification:) Tj
+T*
+(   This analysis addresses internal member forces and structural determinacy for plane truss) Tj
+T*
+(   systems.) Tj
+T*
+(   Governing criteria: All joints are frictionless spherical pins; loads act exclusively at nodes;) Tj
+T*
+(   members are ideal two-force axial elements carrying pure tension \(+T\) or compression \(-C\).) Tj
+T*
+ET
+
+endstream
+endobj
+59 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 60 0 R /Resources << /Font << /F1 69 0 R /F2 70 0 R >> >> >>
+endobj
+60 0 obj
+<< /Length 3771 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 4: PLANE TRUSSES & STRUCTURES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 29 of 33) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   2. Mathematical Derivation & Step-by-Step Joint/Section Analysis:) Tj
+T*
+(   Lack of Fit in Trusses:) Tj
+T*
+(   1. Determinate Truss: Member fabricated too long by delta_0 causes geometric joint distortion) Tj
+T*
+(   but ZERO residual stress.) Tj
+T*
+(   2. Indeterminate Truss: Forcing the ill-fitting member into place prestresses the entire) Tj
+T*
+(   framework, inducing self-equilibrating internal residual forces.) Tj
+T*
+() Tj
+T*
+(   3. Structural Equilibrium & Kinematic Compatibility Check:) Tj
+T*
+(   - External determinacy verified via global equilibrium equations: Sigma Fx = 0, Sigma Fy = 0,) Tj
+T*
+(   Sigma M = 0.) Tj
+T*
+(   - Internal determinacy satisfied via Maxwell's criterion: m = 2*j - 3.) Tj
+T*
+(   - Joint node equilibrium confirmed: Vector resultant of all concurrent member forces vanishes) Tj
+T*
+(   at each pin.) Tj
+T*
+() Tj
+T*
+(   4. Civil Engineering Design & Stability Implications:) Tj
+T*
+(   Compression members must be checked for Euler column buckling \(P_cr = pi^2 * E * I / L_eff^2\),) Tj
+T*
+(   while tension members are governed by net cross-sectional yield strength under bridge/roof) Tj
+T*
+(   design standards.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 24:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Discuss the design of transmission line electrical towers as 3D space trusses under wind and broken-wire conditions.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Structural Context & Equilibrium Classification:) Tj
+T*
+(   This analysis addresses internal member forces and structural determinacy for plane truss) Tj
+T*
+(   systems.) Tj
+T*
+(   Governing criteria: All joints are frictionless spherical pins; loads act exclusively at nodes;) Tj
+T*
+(   members are ideal two-force axial elements carrying pure tension \(+T\) or compression \(-C\).) Tj
+T*
+() Tj
+T*
+(   2. Mathematical Derivation & Step-by-Step Joint/Section Analysis:) Tj
+T*
+(   Transmission Line Tower Space Trusses:) Tj
+T*
+(   1. Loading Cases: Dead weight of cables, transverse wind pressure on conductors, longitudinal) Tj
+T*
+(   torsional shock load from broken conductor wires.) Tj
+T*
+(   2. Structure: 4-legged tapered space truss with diagonal cross-bracing designed using the) Tj
+T*
+(   tension-coefficient method.) Tj
+T*
+() Tj
+T*
+(   3. Structural Equilibrium & Kinematic Compatibility Check:) Tj
+T*
+(   - External determinacy verified via global equilibrium equations: Sigma Fx = 0, Sigma Fy = 0,) Tj
+T*
+(   Sigma M = 0.) Tj
+T*
+(   - Internal determinacy satisfied via Maxwell's criterion: m = 2*j - 3.) Tj
+T*
+(   - Joint node equilibrium confirmed: Vector resultant of all concurrent member forces vanishes) Tj
+T*
+(   at each pin.) Tj
+T*
+() Tj
+T*
+(   4. Civil Engineering Design & Stability Implications:) Tj
+T*
+(   Compression members must be checked for Euler column buckling \(P_cr = pi^2 * E * I / L_eff^2\),) Tj
+T*
+(   while tension members are governed by net cross-sectional yield strength under bridge/roof) Tj
+T*
+(   design standards.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 25:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain why triangular panels prevent shear distortion while rectangular panels deform into parallelograms.) Tj
+T*
+ET
+
+endstream
+endobj
+61 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 62 0 R /Resources << /Font << /F1 69 0 R /F2 70 0 R >> >> >>
+endobj
+62 0 obj
+<< /Length 3709 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 4: PLANE TRUSSES & STRUCTURES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 30 of 33) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Structural Context & Equilibrium Classification:) Tj
+T*
+(   This analysis addresses internal member forces and structural determinacy for plane truss) Tj
+T*
+(   systems.) Tj
+T*
+(   Governing criteria: All joints are frictionless spherical pins; loads act exclusively at nodes;) Tj
+T*
+(   members are ideal two-force axial elements carrying pure tension \(+T\) or compression \(-C\).) Tj
+T*
+() Tj
+T*
+(   2. Mathematical Derivation & Step-by-Step Joint/Section Analysis:) Tj
+T*
+(   Geometric Rigidity of Triangles:) Tj
+T*
+(   By SSS congruence, three rigid bars connected by pins have exactly ONE unique geometry; angles) Tj
+T*
+(   cannot change without altering member lengths.) Tj
+T*
+(   A 4-bar quadrilateral has 1 internal degree of freedom \(mechanism\) and deforms under any) Tj
+T*
+(   infinitesimal shear force.) Tj
+T*
+() Tj
+T*
+(   3. Structural Equilibrium & Kinematic Compatibility Check:) Tj
+T*
+(   - External determinacy verified via global equilibrium equations: Sigma Fx = 0, Sigma Fy = 0,) Tj
+T*
+(   Sigma M = 0.) Tj
+T*
+(   - Internal determinacy satisfied via Maxwell's criterion: m = 2*j - 3.) Tj
+T*
+(   - Joint node equilibrium confirmed: Vector resultant of all concurrent member forces vanishes) Tj
+T*
+(   at each pin.) Tj
+T*
+() Tj
+T*
+(   4. Civil Engineering Design & Stability Implications:) Tj
+T*
+(   Compression members must be checked for Euler column buckling \(P_cr = pi^2 * E * I / L_eff^2\),) Tj
+T*
+(   while tension members are governed by net cross-sectional yield strength under bridge/roof) Tj
+T*
+(   design standards.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 26:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Derive the force in the vertical tie of a Queen Post truss of span 12 m with two panels of 4 m.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Structural Context & Equilibrium Classification:) Tj
+T*
+(   This analysis addresses internal member forces and structural determinacy for plane truss) Tj
+T*
+(   systems.) Tj
+T*
+(   Governing criteria: All joints are frictionless spherical pins; loads act exclusively at nodes;) Tj
+T*
+(   members are ideal two-force axial elements carrying pure tension \(+T\) or compression \(-C\).) Tj
+T*
+() Tj
+T*
+(   2. Mathematical Derivation & Step-by-Step Joint/Section Analysis:) Tj
+T*
+(   Queen Post Vertical Tie Force:) Tj
+T*
+(   Vertical post carries the full downward tributary panel load applied to the lower chord deck,) Tj
+T*
+(   transferring load up to the inclined rafters.) Tj
+T*
+() Tj
+T*
+(   3. Structural Equilibrium & Kinematic Compatibility Check:) Tj
+T*
+(   - External determinacy verified via global equilibrium equations: Sigma Fx = 0, Sigma Fy = 0,) Tj
+T*
+(   Sigma M = 0.) Tj
+T*
+(   - Internal determinacy satisfied via Maxwell's criterion: m = 2*j - 3.) Tj
+T*
+(   - Joint node equilibrium confirmed: Vector resultant of all concurrent member forces vanishes) Tj
+T*
+(   at each pin.) Tj
+T*
+() Tj
+T*
+(   4. Civil Engineering Design & Stability Implications:) Tj
+T*
+(   Compression members must be checked for Euler column buckling \(P_cr = pi^2 * E * I / L_eff^2\),) Tj
+T*
+(   while tension members are governed by net cross-sectional yield strength under bridge/roof) Tj
+T*
+(   design standards.) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+63 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 64 0 R /Resources << /Font << /F1 69 0 R /F2 70 0 R >> >> >>
+endobj
+64 0 obj
+<< /Length 3817 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 4: PLANE TRUSSES & STRUCTURES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 31 of 33) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 27:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the concept of an Influence Line Diagram \(ILD\) for a member in a bridge truss.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Structural Context & Equilibrium Classification:) Tj
+T*
+(   This analysis addresses internal member forces and structural determinacy for plane truss) Tj
+T*
+(   systems.) Tj
+T*
+(   Governing criteria: All joints are frictionless spherical pins; loads act exclusively at nodes;) Tj
+T*
+(   members are ideal two-force axial elements carrying pure tension \(+T\) or compression \(-C\).) Tj
+T*
+() Tj
+T*
+(   2. Mathematical Derivation & Step-by-Step Joint/Section Analysis:) Tj
+T*
+(   Influence Line Diagrams for Truss Members:) Tj
+T*
+(   An ILD plots the variation of the axial force in a specific truss member as a unit downward) Tj
+T*
+(   load \(1 kN\) rolls across the bridge deck span.) Tj
+T*
+(   Enables immediate identification of worst-case live load positions for maximum tension and) Tj
+T*
+(   compression.) Tj
+T*
+() Tj
+T*
+(   3. Structural Equilibrium & Kinematic Compatibility Check:) Tj
+T*
+(   - External determinacy verified via global equilibrium equations: Sigma Fx = 0, Sigma Fy = 0,) Tj
+T*
+(   Sigma M = 0.) Tj
+T*
+(   - Internal determinacy satisfied via Maxwell's criterion: m = 2*j - 3.) Tj
+T*
+(   - Joint node equilibrium confirmed: Vector resultant of all concurrent member forces vanishes) Tj
+T*
+(   at each pin.) Tj
+T*
+() Tj
+T*
+(   4. Civil Engineering Design & Stability Implications:) Tj
+T*
+(   Compression members must be checked for Euler column buckling \(P_cr = pi^2 * E * I / L_eff^2\),) Tj
+T*
+(   while tension members are governed by net cross-sectional yield strength under bridge/roof) Tj
+T*
+(   design standards.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 28:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Calculate the axial forces in a tower truss subjected to lateral earthquake base shear.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Structural Context & Equilibrium Classification:) Tj
+T*
+(   This analysis addresses internal member forces and structural determinacy for plane truss) Tj
+T*
+(   systems.) Tj
+T*
+(   Governing criteria: All joints are frictionless spherical pins; loads act exclusively at nodes;) Tj
+T*
+(   members are ideal two-force axial elements carrying pure tension \(+T\) or compression \(-C\).) Tj
+T*
+() Tj
+T*
+(   2. Mathematical Derivation & Step-by-Step Joint/Section Analysis:) Tj
+T*
+(   Earthquake Lateral Force on Towers:) Tj
+T*
+(   Base shear induces lateral storey drifts.) Tj
+T*
+(   Cross-bracing diagonals resist lateral shear via tension-compression couples: F_brace =) Tj
+T*
+(   V_storey / cos\(theta\).) Tj
+T*
+(   Chords resist the accumulated overturning cantilever moment: F_chord = M_overturn / Base_width.) Tj
+T*
+() Tj
+T*
+(   3. Structural Equilibrium & Kinematic Compatibility Check:) Tj
+T*
+(   - External determinacy verified via global equilibrium equations: Sigma Fx = 0, Sigma Fy = 0,) Tj
+T*
+(   Sigma M = 0.) Tj
+T*
+(   - Internal determinacy satisfied via Maxwell's criterion: m = 2*j - 3.) Tj
+T*
+(   - Joint node equilibrium confirmed: Vector resultant of all concurrent member forces vanishes) Tj
+T*
+(   at each pin.) Tj
+T*
+ET
+
+endstream
+endobj
+65 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 66 0 R /Resources << /Font << /F1 69 0 R /F2 70 0 R >> >> >>
+endobj
+66 0 obj
+<< /Length 3889 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 4: PLANE TRUSSES & STRUCTURES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 32 of 33) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   4. Civil Engineering Design & Stability Implications:) Tj
+T*
+(   Compression members must be checked for Euler column buckling \(P_cr = pi^2 * E * I / L_eff^2\),) Tj
+T*
+(   while tension members are governed by net cross-sectional yield strength under bridge/roof) Tj
+T*
+(   design standards.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 29:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the Vierendeel truss and why it is not a true pin-jointed truss.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Structural Context & Equilibrium Classification:) Tj
+T*
+(   This analysis addresses internal member forces and structural determinacy for plane truss) Tj
+T*
+(   systems.) Tj
+T*
+(   Governing criteria: All joints are frictionless spherical pins; loads act exclusively at nodes;) Tj
+T*
+(   members are ideal two-force axial elements carrying pure tension \(+T\) or compression \(-C\).) Tj
+T*
+() Tj
+T*
+(   2. Mathematical Derivation & Step-by-Step Joint/Section Analysis:) Tj
+T*
+(   Vierendeel Truss Characteristics:) Tj
+T*
+(   A framework with rectangular openings and NO diagonal members.) Tj
+T*
+(   Stability is achieved ENTIRELY through rigid, moment-resisting corner joints. Members carry) Tj
+T*
+(   high bending moments and shears; it is a rigid frame, not an ideal pin-jointed truss.) Tj
+T*
+() Tj
+T*
+(   3. Structural Equilibrium & Kinematic Compatibility Check:) Tj
+T*
+(   - External determinacy verified via global equilibrium equations: Sigma Fx = 0, Sigma Fy = 0,) Tj
+T*
+(   Sigma M = 0.) Tj
+T*
+(   - Internal determinacy satisfied via Maxwell's criterion: m = 2*j - 3.) Tj
+T*
+(   - Joint node equilibrium confirmed: Vector resultant of all concurrent member forces vanishes) Tj
+T*
+(   at each pin.) Tj
+T*
+() Tj
+T*
+(   4. Civil Engineering Design & Stability Implications:) Tj
+T*
+(   Compression members must be checked for Euler column buckling \(P_cr = pi^2 * E * I / L_eff^2\),) Tj
+T*
+(   while tension members are governed by net cross-sectional yield strength under bridge/roof) Tj
+T*
+(   design standards.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 30:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Summarize the complete structural design workflow for civil engineering roof and bridge trusses.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Structural Context & Equilibrium Classification:) Tj
+T*
+(   This analysis addresses internal member forces and structural determinacy for plane truss) Tj
+T*
+(   systems.) Tj
+T*
+(   Governing criteria: All joints are frictionless spherical pins; loads act exclusively at nodes;) Tj
+T*
+(   members are ideal two-force axial elements carrying pure tension \(+T\) or compression \(-C\).) Tj
+T*
+() Tj
+T*
+(   2. Mathematical Derivation & Step-by-Step Joint/Section Analysis:) Tj
+T*
+(   Civil Engineering Truss Design Workflow:) Tj
+T*
+(   1. Architectural Span and Pitch Selection: Choose truss profile \(Pratt, Warren, Fink\).) Tj
+T*
+(   2. Load Computation: Dead load \(cladding, purlins\), Live load \(occupancy/traffic\),) Tj
+T*
+(   Wind/Earthquake loads \(IS 875/893\).) Tj
+T*
+(   3. Structural Modeling: Analyze member axial forces using Method of Joints/Sections or) Tj
+T*
+(   stiffness matrix software.) Tj
+T*
+(   4. Load Combinations and Stress Envelope: Find maximum tension and compression for each member.) Tj
+T*
+ET
+
+endstream
+endobj
+67 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 68 0 R /Resources << /Font << /F1 69 0 R /F2 70 0 R >> >> >>
+endobj
+68 0 obj
+<< /Length 1405 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 4: PLANE TRUSSES & STRUCTURES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 33 of 33) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   5. Member Sizing: Design tension members for net rupture area \(A_net * f_y\); design compression) Tj
+T*
+(   members for Euler buckling \(AISC / IS 800 column curves\).) Tj
+T*
+(   6. Gusset Connection Design: Size welds and bolts at each node.) Tj
+T*
+() Tj
+T*
+(   3. Structural Equilibrium & Kinematic Compatibility Check:) Tj
+T*
+(   - External determinacy verified via global equilibrium equations: Sigma Fx = 0, Sigma Fy = 0,) Tj
+T*
+(   Sigma M = 0.) Tj
+T*
+(   - Internal determinacy satisfied via Maxwell's criterion: m = 2*j - 3.) Tj
+T*
+(   - Joint node equilibrium confirmed: Vector resultant of all concurrent member forces vanishes) Tj
+T*
+(   at each pin.) Tj
+T*
+() Tj
+T*
+(   4. Civil Engineering Design & Stability Implications:) Tj
+T*
+(   Compression members must be checked for Euler column buckling \(P_cr = pi^2 * E * I / L_eff^2\),) Tj
+T*
+(   while tension members are governed by net cross-sectional yield strength under bridge/roof) Tj
+T*
+(   design standards.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+69 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+70 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+xref
+0 71
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000337 00000 n 
+0000000481 00000 n 
+0000009816 00000 n 
+0000009960 00000 n 
+0000019246 00000 n 
+0000019390 00000 n 
+0000028748 00000 n 
+0000028893 00000 n 
+0000037769 00000 n 
+0000037915 00000 n 
+0000047177 00000 n 
+0000047323 00000 n 
+0000056757 00000 n 
+0000056903 00000 n 
+0000066782 00000 n 
+0000066928 00000 n 
+0000068760 00000 n 
+0000068906 00000 n 
+0000074013 00000 n 
+0000074159 00000 n 
+0000076318 00000 n 
+0000076464 00000 n 
+0000084934 00000 n 
+0000085080 00000 n 
+0000089293 00000 n 
+0000089439 00000 n 
+0000093284 00000 n 
+0000093430 00000 n 
+0000097451 00000 n 
+0000097597 00000 n 
+0000101252 00000 n 
+0000101398 00000 n 
+0000105218 00000 n 
+0000105364 00000 n 
+0000109233 00000 n 
+0000109379 00000 n 
+0000113255 00000 n 
+0000113401 00000 n 
+0000117004 00000 n 
+0000117150 00000 n 
+0000121054 00000 n 
+0000121200 00000 n 
+0000125012 00000 n 
+0000125158 00000 n 
+0000129145 00000 n 
+0000129291 00000 n 
+0000133130 00000 n 
+0000133276 00000 n 
+0000137003 00000 n 
+0000137149 00000 n 
+0000140907 00000 n 
+0000141053 00000 n 
+0000145010 00000 n 
+0000145156 00000 n 
+0000148973 00000 n 
+0000149119 00000 n 
+0000153037 00000 n 
+0000153183 00000 n 
+0000157007 00000 n 
+0000157153 00000 n 
+0000160915 00000 n 
+0000161061 00000 n 
+0000164931 00000 n 
+0000165077 00000 n 
+0000169019 00000 n 
+0000169165 00000 n 
+0000170623 00000 n 
+0000170721 00000 n 
+trailer
+<< /Size 71 /Root 1 0 R >>
+startxref
+170824
+%%EOF

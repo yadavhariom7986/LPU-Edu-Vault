@@ -1,0 +1,628 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 3075 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Chemistry | Unit 6: Analytical Spectroscopy \(UV-Vis & IR\)) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 1 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(=== UNIT 6: ANALYTICAL SPECTROSCOPY: UV-VISIBLE & INFRARED ===) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.1 Fundamentals of Electromagnetic Radiation & Beer-Lambert Law) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Analytical spectroscopy studies the interaction between electromagnetic radiation and) Tj
+T*
+(molecular matter.) Tj
+T*
+(* Electromagnetic Spectrum: Radio -> Microwave \(rotational\) -> Infrared \(vibrational\)) Tj
+T*
+(-> Visible & UV \(electronic\) -> X-ray \(core electronic\) -> Gamma-ray \(nuclear\).) Tj
+T*
+(- Planck-Einstein Relation: E = h * nu = h * c / lambda = h * c * nu_bar, where) Tj
+T*
+(nu_bar = 1/lambda is wave number in cm^-1.) Tj
+T*
+(* Beer-Lambert's Law: When a beam of monochromatic radiation passes through an) Tj
+T*
+(absorbing medium, the fractional decrease in radiant intensity with path length and) Tj
+T*
+(concentration is constant:) Tj
+T*
+(- dI / I = k * c * db.) Tj
+T*
+(Integrating over path length l: ln\(I_0 / I\) = k' * c * l => log10\(I_0 / I\) = epsilon * c) Tj
+T*
+(* l.) Tj
+T*
+(- Absorbance \(A / Optical Density\): A = log10\(I_0 / I\) = - log10\(T\) = epsilon * c) Tj
+T*
+(* l,) Tj
+T*
+(where epsilon = Molar Absorptivity \(Extinction Coefficient in L/mol*cm\), c =) Tj
+T*
+(concentration \(mol/L\), and l = path length \(cm\).) Tj
+T*
+(- Transmittance \(T\): T = I / I_0; %T = \(I / I_0\) * 100.) Tj
+T*
+(* Limitations: Deviations occur at high concentrations \(>0.01 M\) due to electrostatic) Tj
+T*
+(molecular interactions, chemical equilibria \(dimerization, pH shifts\), and) Tj
+T*
+(polychromatic stray light.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.2 Ultraviolet-Visible \(UV-Vis\) Spectroscopy) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Electronic Transitions: Absorption of UV \(200-400 nm\) or Visible \(400-800 nm\)) Tj
+T*
+(photons excites valence electrons from bonding/non-bonding orbitals to anti-bonding) Tj
+T*
+(orbitals:) Tj
+T*
+(1. sigma -> sigma* \(Far UV, <200 nm, saturated hydrocarbons\).) Tj
+T*
+(2. n -> sigma* \(150-250 nm, saturated compounds with heteroatoms: O, N, S, halogens\).) Tj
+T*
+(3. pi -> pi* \(200-400 nm, unsaturated compounds, conjugated polyenes; intense) Tj
+T*
+(absorption: epsilon > 10,000\).) Tj
+T*
+(4. n -> pi* \(250-400 nm, carbonyls, nitro, azo groups; symmetry-forbidden, low) Tj
+T*
+(intensity: epsilon ~ 10-100\).) Tj
+T*
+(* Chromophores and Auxochromes:) Tj
+T*
+(- Chromophore: Isolated covalently bonded unsaturated group responsible for) Tj
+T*
+(electronic absorption \(e.g., C=C, C=O, -N=N-, -NO2\).) Tj
+T*
+(- Auxochrome: Saturated group with unshared electron pairs that does not absorb UV) Tj
+T*
+(radiation itself, but when attached to a chromophore, deepens color and increases) Tj
+T*
+(absorption intensity \(e.g., -OH, -NH2, -OCH3, -SH\).) Tj
+T*
+(* Spectral Shifts:) Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 3375 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Chemistry | Unit 6: Analytical Spectroscopy \(UV-Vis & IR\)) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 2 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(- Bathochromic \(Red\) Shift: Shift of absorption maximum \(lambda_max\) to longer) Tj
+T*
+(wavelengths \(lower energy\), caused by conjugation or auxochrome attachment.) Tj
+T*
+(- Hypsochromic \(Blue\) Shift: Shift of lambda_max to shorter wavelengths \(higher) Tj
+T*
+(energy\), caused by solvent polarity or protonation.) Tj
+T*
+(- Hyperchromic Effect: Increase in molar absorptivity \(intensity\). Hypochromic) Tj
+T*
+(Effect: Decrease in intensity.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.3 Infrared \(IR\) Spectroscopy) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Principle: Absorption of IR radiation \(4,000 - 400 cm^-1\) excites molecular) Tj
+T*
+(vibrations \(stretching and bending\). Mandatory Selection Rule: A molecular vibration) Tj
+T*
+(is IR-active if and only if it produces a periodic change in the molecular dipole) Tj
+T*
+(moment: d\(mu\)/dq != 0. Homonuclear diatomics \(N2, O2, H2\) are IR-inactive;) Tj
+T*
+(heteronuclear molecules \(HCl, CO, CO2, H2O\) are IR-active.) Tj
+T*
+(* Hooke's Law for Vibrational Wave Number:) Tj
+T*
+(nu_bar = [ 1 / \(2 * pi * c\) ] * sqrt\( k / mu \),) Tj
+T*
+(where k = force constant of the chemical bond \(dyne/cm or N/m: k_single ~ 5*10^5,) Tj
+T*
+(k_double ~ 10*10^5, k_triple ~ 15*10^5 dyne/cm\), and mu = reduced mass = \(m1 * m2\) / \(m1) Tj
+T*
+(+ m2\).) Tj
+T*
+(* Characteristic IR Functional Group Regions:) Tj
+T*
+(- O-H / N-H stretching: 3,200 - 3,600 cm^-1 \(broad for hydrogen-bonded OH\).) Tj
+T*
+(- C-H stretching: 2,850 - 3,100 cm^-1.) Tj
+T*
+(- C#C / C#N \(Triple bond\) stretching: 2,100 - 2,260 cm^-1.) Tj
+T*
+(- C=O \(Carbonyl\) stretching: 1,650 - 1,750 cm^-1 \(very sharp and intense\).) Tj
+T*
+(- C=C \(Alkene/Aromatic\) stretching: 1,600 - 1,680 cm^-1.) Tj
+T*
+(- Fingerprint Region: 1,400 - 400 cm^-1 \(unique complex pattern for molecule) Tj
+T*
+(identification\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([SOLVED PROBLEM 1: Beer-Lambert Law Molar Absorptivity and Concentration Analysis]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: A 1.25 * 10^-4 M solution of an active biotechnology enzyme cofactor exhibits) Tj
+T*
+(an absorbance of A = 0.625 at lambda_max = 280 nm in a 1.0 cm path-length quartz) Tj
+T*
+(cuvette. Calculate: \(1\) Molar absorptivity epsilon in L/mol*cm, \(2\) Percentage) Tj
+T*
+(transmittance \(%T\), \(3\) Concentration of an unknown solution of the same cofactor) Tj
+T*
+(showing A = 0.250 in the same cell.) Tj
+T*
+(Solution Step 1: Calculate Molar Absorptivity epsilon:) Tj
+T*
+(A = epsilon * c * l => epsilon = A / \(c * l\)) Tj
+T*
+(epsilon = 0.625 / [ \(1.25 * 10^-4 mol/L\) * \(1.0 cm\) ] = 0.625 / 1.25 * 10^-4 = 5,000) Tj
+T*
+(L/mol*cm.) Tj
+T*
+(Solution Step 2: Calculate Percentage Transmittance \(%T\):) Tj
+T*
+(A = - log10\(T\) => T = 10^{-A} = 10^{-0.625} = 0.2371.) Tj
+T*
+(%T = T * 100 = 23.71%.) Tj
+T*
+(Solution Step 3: Determine Concentration of Unknown Solution:) Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 3424 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Chemistry | Unit 6: Analytical Spectroscopy \(UV-Vis & IR\)) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 3 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(c_unknown = A_unknown / \(epsilon * l\) = 0.250 / [ 5,000 * 1.0 ] = 0.000050 mol/L = 5.0 *) Tj
+T*
+(10^-5 M \(50 microM\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([SOLVED PROBLEM 2: Hooke's Law Wave Number Calculation for Carbonyl Bond \(C=O\)]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: Calculate the fundamental vibrational stretching frequency \(wave number nu_bar) Tj
+T*
+(in cm^-1\) of a carbonyl bond \(C=O\) using Hooke's Law. Given: Force constant k = 12.0 *) Tj
+T*
+(10^5 dyne/cm; atomic masses: Carbon = 12.0 g/mol, Oxygen = 16.0 g/mol; velocity of light) Tj
+T*
+(c = 3.0 * 10^10 cm/sec; Avogadro's number N_A = 6.022 * 10^23.) Tj
+T*
+(Solution Step 1: Calculate Atomic Masses in grams:) Tj
+T*
+(m_C = 12.0 / \(6.022 * 10^23\) = 1.993 * 10^-23 g.) Tj
+T*
+(m_O = 16.0 / \(6.022 * 10^23\) = 2.657 * 10^-23 g.) Tj
+T*
+(Solution Step 2: Compute Reduced Mass mu:) Tj
+T*
+(mu = \(m_C * m_O\) / \(m_C + m_O\) = [ \(1.993 * 2.657\) * 10^-46 ] / [ \(1.993 + 2.657\) *) Tj
+T*
+(10^-23 ]) Tj
+T*
+(mu = \(5.295 * 10^-46\) / \(4.650 * 10^-23\) = 1.1388 * 10^-23 grams.) Tj
+T*
+(Solution Step 3: Apply Hooke's Law Equation:) Tj
+T*
+(nu_bar = [ 1 / \(2 * pi * c\) ] * sqrt\( k / mu \)) Tj
+T*
+(2 * pi * c = 2 * 3.14159 * \(3.0 * 10^10 cm/s\) = 1.88496 * 10^11 cm/s.) Tj
+T*
+(k / mu = \(12.0 * 10^5 dyne/cm\) / \(1.1388 * 10^-23 g\) = 1.0537 * 10^29 s^-2.) Tj
+T*
+(sqrt\( k / mu \) = sqrt\( 1.0537 * 10^29 \) = 3.246 * 10^14 s^-1.) Tj
+T*
+(nu_bar = \(3.246 * 10^14\) / \(1.88496 * 10^11\) = 1,722.0 cm^-1.) Tj
+T*
+(Conclusion: The calculated stretching wave number \(1,722 cm^-1\) matches the experimental) Tj
+T*
+(carbonyl absorption range \(1,680-1,750 cm^-1\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([SOLVED PROBLEM 3: Isotopic Substitution Effect on Vibrational Frequency]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: The stretching frequency of a C-H bond is observed at 2,900 cm^-1. Calculate) Tj
+T*
+(the expected stretching frequency of the corresponding C-D \(deuterated\) bond, assuming) Tj
+T*
+(the bond force constant remains unchanged. \(Atomic weights: C = 12, H = 1, D = 2\).) Tj
+T*
+(Solution Step 1: Ratio of Reduced Masses:) Tj
+T*
+(mu_{CH} = \(12 * 1\) / \(12 + 1\) = 12 / 13 = 0.9231 amu.) Tj
+T*
+(mu_{CD} = \(12 * 2\) / \(12 + 2\) = 24 / 14 = 1.7143 amu.) Tj
+T*
+(Solution Step 2: Frequency Relationship:) Tj
+T*
+(nu_bar_{CD} / nu_bar_{CH} = sqrt\( mu_{CH} / mu_{CD} \)) Tj
+T*
+(Ratio = sqrt\( 0.9231 / 1.7143 \) = sqrt\( 0.53846 \) = 0.7338.) Tj
+T*
+(Solution Step 3: Compute Deuterated Frequency:) Tj
+T*
+(nu_bar_{CD} = 2,900 cm^-1 * 0.7338 = 2,128.0 cm^-1.) Tj
+T*
+(Conclusion: Deuteration induces an 800 cm^-1 isotope shift into the infrared silent) Tj
+T*
+(region.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 3903 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Chemistry | Unit 6: Analytical Spectroscopy \(UV-Vis & IR\)) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 4 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([SOLVED PROBLEM 4: Multi-Component Spectrophotometric Analysis]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: Two biochemical substances X and Y are present in a mixture. In a 1.0 cm cell) Tj
+T*
+(at lambda1 \(260 nm\): epsilon_X = 15,000 and epsilon_Y = 3,000 L/mol*cm. At lambda2 \(280) Tj
+T*
+(nm\): epsilon_X = 4,000 and epsilon_Y = 12,000 L/mol*cm. The mixture exhibits absorbances) Tj
+T*
+(of A_260 = 0.900 and A_280 = 0.800. Calculate concentrations C_X and C_Y.) Tj
+T*
+(Solution Step 1: Set Up Simultaneous Absorbance Equations:) Tj
+T*
+(At 260 nm: A_260 = \(15,000 * C_X\) + \(3,000 * C_Y\) = 0.900.) Tj
+T*
+(At 280 nm: A_280 = \(4,000 * C_X\) + \(12,000 * C_Y\) = 0.800.) Tj
+T*
+(Solution Step 2: Simplify Equations:) Tj
+T*
+(Divide Eq 1 by 3,000: 5 * C_X + C_Y = 0.000300 => C_Y = 0.000300 - 5 * C_X.) Tj
+T*
+(Divide Eq 2 by 4,000: C_X + 3 * C_Y = 0.000200.) Tj
+T*
+(Solution Step 3: Substitute C_Y into Eq 2:) Tj
+T*
+(C_X + 3 * \(0.000300 - 5 * C_X\) = 0.000200) Tj
+T*
+(C_X + 0.000900 - 15 * C_X = 0.000200 => -14 * C_X = -0.000700.) Tj
+T*
+(C_X = 0.000700 / 14 = 5.0 * 10^-5 M \(50 microM\).) Tj
+T*
+(Solution Step 4: Solve for C_Y:) Tj
+T*
+(C_Y = 0.000300 - 5 * \(5.0 * 10^-5\) = 0.000300 - 0.000250 = 5.0 * 10^-5 M \(50 microM\).) Tj
+T*
+(Final Answer: C_X = 5.0 * 10^-5 M, C_Y = 5.0 * 10^-5 M.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.4 University Review & Examination Questions) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Q1: State and derive Beer-Lambert's Law, giving its mathematical formula, units,) Tj
+T*
+(and practical analytical limitations.) Tj
+T*
+(Answer: Derivation: Consider a parallel beam of monochromatic light of intensity I) Tj
+T*
+(passing through an absorbing solution of concentration c. Lambert's law states that the) Tj
+T*
+(rate of decrease of intensity with thickness db is proportional to initial intensity:) Tj
+T*
+(-dI/db = k1*I. Beer's law states that rate of decrease with concentration is) Tj
+T*
+(proportional to intensity: -dI/dc = k2*I. Combining both: -dI/I = k*c*db. Integrating) Tj
+T*
+(between limits I_0 \(entering intensity at b=0\) and I \(transmitted intensity at path) Tj
+T*
+(length l\): int_{I_0}^I \(-dI/I\) = k*c*int_0^l db => ln\(I_0 / I\) = k*c*l. Converting to) Tj
+T*
+(base-10 logarithm: log10\(I_0 / I\) = \(k / 2.303\)*c*l = epsilon*c*l. Absorbance A =) Tj
+T*
+(epsilon*c*l. Units: l is in cm, c is in mol/L, and epsilon is molar absorptivity in) Tj
+T*
+(L/\(mol*cm\). Limitations: \(1\) True linearity holds only at low concentrations \(<0.01 M\);) Tj
+T*
+(at high concentrations, electrostatic intermolecular interactions alter refractive) Tj
+T*
+(index. \(2\) Non-monochromatic stray light. \(3\) Chemical equilibria: changes in) Tj
+T*
+(association, dissociation, or tautomerism alter absorbing species.) Tj
+T*
+(* Q2: Explain the selection rules and fundamental vibrational modes \(stretching and) Tj
+T*
+(bending\) in Infrared \(IR\) spectroscopy.) Tj
+T*
+(Answer: Selection Rule: A molecular vibration absorbs infrared radiation if and only if) Tj
+T*
+(it produces a periodic oscillation in the permanent molecular electric dipole moment: \(d) Tj
+T*
+(mu / dq\) != 0. Homonuclear diatomic molecules \(N2, O2\) have zero dipole moment in all) Tj
+T*
+(vibrational states and are completely IR-inactive. Heteronuclear molecules \(HCl, CO\)) Tj
+T*
+(change dipole during stretching and are strongly IR-active. Degrees of Freedom: A) Tj
+T*
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 1603 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Chemistry | Unit 6: Analytical Spectroscopy \(UV-Vis & IR\)) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 5 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(non-linear molecule containing N atoms has 3N - 6 fundamental vibrational modes; a) Tj
+T*
+(linear molecule has 3N - 5 fundamental modes. Vibrational Modes: \(1\) Stretching) Tj
+T*
+(Vibrations: Rhythmic movement along the chemical bond axis altering interatomic) Tj
+T*
+(distance: Symmetrical stretching \(bonds expand and contract in phase\) and Asymmetrical) Tj
+T*
+(stretching \(one bond expands while the other contracts\). \(2\) Bending \(Deformation\)) Tj
+T*
+(Vibrations: Alter the bond angle between two bonds: Scissoring \(movement toward each) Tj
+T*
+(other in-plane\), Rocking \(structural swinging in-plane\), Wagging \(swinging up and down) Tj
+T*
+(out-of-plane\), and Twisting \(rotation around bond out-of-plane\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.5 Key Takeaways and Revision Points) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Beer-Lambert's Law: A = epsilon * c * l relates optical absorbance to) Tj
+T*
+(concentration.) Tj
+T*
+(* UV-Vis spectroscopy measures electronic transitions \(pi->pi*, n->pi*\); auxochromes) Tj
+T*
+(cause bathochromic \(red\) shifts.) Tj
+T*
+(* IR spectroscopy requires a net dipole moment change during molecular vibration.) Tj
+T*
+(* Hooke's law: wave number nu_bar = \(1/2*pi*c\)*sqrt\(k/mu\); carbonyl \(C=O\) absorbs) Tj
+T*
+(intensely at ~1,700 cm^-1.) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000171 00000 n 
+0000000241 00000 n 
+0000000316 00000 n 
+0000000428 00000 n 
+0000003555 00000 n 
+0000003667 00000 n 
+0000007094 00000 n 
+0000007207 00000 n 
+0000010684 00000 n 
+0000010798 00000 n 
+0000014754 00000 n 
+0000014868 00000 n 
+trailer
+<< /Size 15 /Root 1 0 R >>
+startxref
+16524
+%%EOF

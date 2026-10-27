@@ -1,0 +1,530 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 3387 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Basic Electrical & Electronics | Unit 5: Operational Amplifiers & Active Filters) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 1 of 4) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(=== UNIT 5: OPERATIONAL AMPLIFIERS \(OP-AMPS\) & ACTIVE FILTERS ===) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.1 Operational Amplifier Architecture and Ideal Characteristics) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(An Operational Amplifier \(Op-Amp\) is a high-gain DC-coupled differential voltage) Tj
+T*
+(amplifier designed to perform mathematical operations \(addition, subtraction,) Tj
+T*
+(integration, differentiation\) using negative feedback.) Tj
+T*
+(* Op-Amp Terminals: Non-inverting input \(+\), Inverting input \(-\), Output \(V_out\), and) Tj
+T*
+(DC power rails \(+V_CC, -V_EE\).) Tj
+T*
+(* Ideal Op-Amp Parameters \(Benchmark Comparison\):) Tj
+T*
+(1. Differential Voltage Gain A_vd = infinity \(Practically ~ 10^5 to 10^6\).) Tj
+T*
+(2. Input Impedance R_in = infinity \(Practically ~ 10^6 to 10^12 Omega, zero input) Tj
+T*
+(current: I+ = I- = 0\).) Tj
+T*
+(3. Output Impedance R_out = 0 \(Practically ~ 50 - 100 Omega\).) Tj
+T*
+(4. Bandwidth BW = infinity \(Can amplify signals from DC up to gigahertz\).) Tj
+T*
+(5. Common Mode Rejection Ratio \(CMRR\) = infinity \(Rejects all common-mode electrical) Tj
+T*
+(noise\).) Tj
+T*
+(6. Slew Rate SR = infinity \(Instantaneous output voltage change: dV_out/dt\).) Tj
+T*
+(7. Input Offset Voltage V_os = 0 \(V_out = 0 when V+ = V-\).) Tj
+T*
+(* Concept of Virtual Ground: When negative feedback is applied, infinite open-loop) Tj
+T*
+(gain forces the differential input voltage to zero: V_d = V+ - V- = V_out / A_vd =) Tj
+T*
+(V_out / infinity = 0. Therefore, V- = V+. If the non-inverting terminal is connected) Tj
+T*
+(to physical ground \(V+ = 0V\), the inverting terminal is held at virtual ground) Tj
+T*
+(potential \(V- = 0V\) without a direct physical ground connection.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.2 Linear Op-Amp Configurations) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Inverting Amplifier: Input applied to inverting terminal through resistor R1,) Tj
+T*
+(feedback resistor Rf connects output to inverting terminal; V+ = 0. By KCL at virtual) Tj
+T*
+(ground: I_in = I_f => \(V_in - 0\)/R1 = \(0 - V_out\)/Rf => Closed-Loop Gain A_v = V_out) Tj
+T*
+(/ V_in = - Rf / R1. Phase shift is 180 degrees.) Tj
+T*
+(* Non-Inverting Amplifier: Input applied directly to non-inverting terminal \(V+ =) Tj
+T*
+(V_in\). Voltage divider formed by R1 and Rf feeds back to inverting terminal: V- =) Tj
+T*
+(V_out * [ R1 / \(R1 + Rf\) ]. Setting V- = V+: V_out = V_in * [ 1 + Rf / R1 ]. Phase) Tj
+T*
+(shift is 0 degrees.) Tj
+T*
+(* Voltage Follower \(Buffer\): Non-inverting amplifier with Rf = 0 and R1 = infinity:) Tj
+T*
+(A_v = +1. Features ultra-high input impedance and very low output impedance,) Tj
+T*
+(isolating delicate biosensors from low-impedance recording loads.) Tj
+T*
+(* Summing Amplifier \(Adder\): Multiple inputs V1, V2, V3 connected through input) Tj
+T*
+(resistors to inverting node: V_out = - [ \(Rf/R1\)*V1 + \(Rf/R2\)*V2 + \(Rf/R3\)*V3 ].) Tj
+T*
+(* Difference Amplifier \(Subtractor\): V_out = \(Rf / R1\) * \(V2 - V1\), provided resistor) Tj
+T*
+(matching R3/R2 = Rf/R1 is satisfied.) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 3528 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Basic Electrical & Electronics | Unit 5: Operational Amplifiers & Active Filters) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 2 of 4) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.3 Active Wave-Shaping: Integrators and Differentiators) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Op-Amp Integrator: Feedback resistor is replaced by a capacitor C. By KCL at) Tj
+T*
+(virtual ground: I_R = I_C => V_in / R = - C * \(dV_out / dt\).) Tj
+T*
+(V_out\(t\) = - \(1 / \(R * C\)\) * int_0^t V_in\(tau\) d\(tau\) + V_{initial}.) Tj
+T*
+(Converts square waves to triangular waves; acts as an active low-pass filter.) Tj
+T*
+(* Op-Amp Differentiator: Input element is capacitor C, feedback element is resistor) Tj
+T*
+(R: I_C = I_R => C * \(dV_in / dt\) = - V_out / R.) Tj
+T*
+(V_out\(t\) = - R * C * \(dV_in / dt\).) Tj
+T*
+(Converts triangular waves to square spikes; prone to high-frequency noise amplification.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([SOLVED PROBLEM 1: Inverting and Non-Inverting Amplifier Design]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: Design an inverting amplifier with a voltage gain of A_v = -12 and an input) Tj
+T*
+(impedance of 10 kOmega. If the op-amp is powered by +/- 15V rails and an input of V_in =) Tj
+T*
+(1.0 V is applied, calculate: \(1\) Values of R1 and Rf, \(2\) Output voltage V_out, \(3\)) Tj
+T*
+(Output voltage if V_in = 1.5 V.) Tj
+T*
+(Solution Step 1: Component Values:) Tj
+T*
+(Input impedance of an inverting amplifier equals R1. Therefore: R1 = 10 kOmega.) Tj
+T*
+(Gain magnitude |A_v| = Rf / R1 = 12 => Rf = 12 * R1 = 12 * 10 kOmega = 120 kOmega.) Tj
+T*
+(Solution Step 2: Output Voltage for V_in = 1.0 V:) Tj
+T*
+(V_out = A_v * V_in = \(-12\) * \(1.0 V\) = -12.0 Volts.) Tj
+T*
+(Since -12V is within the linear range \(-15V to +15V, accounting for saturation limit ~) Tj
+T*
+(+/-13.5V\), output is undistorted.) Tj
+T*
+(Solution Step 3: Output Voltage for V_in = 1.5 V:) Tj
+T*
+(Theoretical V_out = \(-12\) * \(1.5 V\) = -18.0 Volts.) Tj
+T*
+(Saturation Check: The output cannot exceed the negative supply rail \(-15V\). The op-amp) Tj
+T*
+(enters negative saturation.) Tj
+T*
+(Actual Output: V_out ~ -13.5 V to -14.0 V \(Clipped at negative saturation\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([SOLVED PROBLEM 2: Precision Summing Amplifier Calculation]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: An inverting summing amplifier has Rf = 100 kOmega, with three input resistors) Tj
+T*
+(R1 = 20 kOmega, R2 = 50 kOmega, and R3 = 10 kOmega connected to voltages V1 = +0.5 V, V2) Tj
+T*
+(= -1.0 V, and V3 = +0.2 V. Determine the output voltage V_out.) Tj
+T*
+(Solution Step 1: Formula for Summing Amplifier:) Tj
+T*
+(V_out = - [ \(Rf / R1\) * V1 + \(Rf / R2\) * V2 + \(Rf / R3\) * V3 ].) Tj
+T*
+(Solution Step 2: Compute individual gain weighting factors:) Tj
+T*
+(Gain 1: Rf / R1 = 100 kOmega / 20 kOmega = 5.0.) Tj
+T*
+(Gain 2: Rf / R2 = 100 kOmega / 50 kOmega = 2.0.) Tj
+T*
+(Gain 3: Rf / R3 = 100 kOmega / 10 kOmega = 10.0.) Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 3379 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Basic Electrical & Electronics | Unit 5: Operational Amplifiers & Active Filters) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 3 of 4) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(Solution Step 3: Substitute inputs:) Tj
+T*
+(V_out = - [ 5.0 * \(0.5 V\) + 2.0 * \(-1.0 V\) + 10.0 * \(0.2 V\) ]) Tj
+T*
+(V_out = - [ 2.5 - 2.0 + 2.0 ] = - [ 2.5 ] = -2.5 Volts.) Tj
+T*
+(Final Answer: V_out = -2.5 Volts.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([SOLVED PROBLEM 3: Practical Active Integrator Waveform Response]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: An ideal Op-Amp integrator has R = 100 kOmega and C = 0.1 microF. A constant DC) Tj
+T*
+(step voltage of V_in = +2.0 V is applied at t = 0 with initial capacitor voltage V_c\(0\)) Tj
+T*
+(= 0. Determine: \(1\) Integrator time constant tau, \(2\) Rate of change of output voltage,) Tj
+T*
+(\(3\) Time required for the output to saturate at -13V.) Tj
+T*
+(Solution Step 1: Compute Time Constant tau:) Tj
+T*
+(tau = R * C = \(100 * 10^3 Omega\) * \(0.1 * 10^-6 F\) = 0.01 seconds = 10 milliseconds.) Tj
+T*
+(Solution Step 2: Rate of Change of Output Voltage dV_out/dt:) Tj
+T*
+(dV_out / dt = - V_in / \(R * C\) = - 2.0 V / 0.01 s = -200 Volts/second.) Tj
+T*
+(Solution Step 3: Output Voltage Function:) Tj
+T*
+(V_out\(t\) = - 200 * t Volts \(a downward linear ramp\).) Tj
+T*
+(Solution Step 4: Time to Reach Saturation at V_out = -13 V:) Tj
+T*
+(-13 = - 200 * t => t_sat = 13 / 200 = 0.065 seconds = 65 milliseconds.) Tj
+T*
+(Conclusion: Output decreases linearly at 200 V/s until clipping at negative saturation) Tj
+T*
+(at t = 65 ms.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([SOLVED PROBLEM 4: Instrumentation Difference Amplifier Analysis]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: In a bio-potential differential amplifier circuit, R1 = R2 = 10 kOmega, and) Tj
+T*
+(feedback resistors Rf = R4 = 100 kOmega. Common mode voltage V_cm = 5.0 V with a) Tj
+T*
+(biological differential ECG signal V_d = 20 mV \(V1 = 5.010 V, V2 = 4.990 V\). Verify that) Tj
+T*
+(the common mode voltage is rejected and calculate V_out.) Tj
+T*
+(Solution Step 1: Verify Balanced Resistor Condition for Ideal CMRR:) Tj
+T*
+(Condition: R4 / R2 = Rf / R1 => 100k / 10k = 100k / 10k = 10.0 \(Condition strictly) Tj
+T*
+(satisfied\).) Tj
+T*
+(Solution Step 2: Calculate Output Voltage:) Tj
+T*
+(V_out = \(Rf / R1\) * \(V1 - V2\) = 10.0 * \(5.010 V - 4.990 V\) = 10.0 * \(0.020 V\) = 0.200) Tj
+T*
+(Volts = 200 mV.) Tj
+T*
+(Common Mode Rejection Check: The 5V DC common-mode bias is completely eliminated; only) Tj
+T*
+(the 20 mV ECG biopotential is amplified 10-fold to 200 mV.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.4 University Review & Examination Questions) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Q1: State the characteristics of an ideal Op-Amp and explain the concept of Virtual) Tj
+T*
+(Ground in detail.) Tj
+T*
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 2816 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Basic Electrical & Electronics | Unit 5: Operational Amplifiers & Active Filters) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 4 of 4) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(Answer: Ideal characteristics: \(1\) Infinite open-loop differential gain A_vd = inf, \(2\)) Tj
+T*
+(Infinite input impedance R_in = inf \(zero input current\), \(3\) Zero output impedance) Tj
+T*
+(R_out = 0, \(4\) Infinite bandwidth, \(5\) Infinite CMRR, \(6\) Infinite Slew Rate, \(7\) Zero) Tj
+T*
+(offset voltage. Concept of Virtual Ground: When negative feedback is applied, the high) Tj
+T*
+(open-loop gain ensures the output voltage remains within supply boundaries: V_out = A_vd) Tj
+T*
+(* \(V+ - V-\). Since A_vd -> inf, differential input voltage must be virtually zero: V+ -) Tj
+T*
+(V- = V_out / A_vd = 0 => V- = V+. If the non-inverting terminal \(+\) is tied to ground) Tj
+T*
+(\(V+ = 0\), the inverting terminal \(-\) is maintained at 0V potential. It acts as a ground) Tj
+T*
+(for all circuit calculations, yet no physical path exists to ground \(no current flows) Tj
+T*
+(into the pin due to infinite input impedance\).) Tj
+T*
+(* Q2: Explain the operation and frequency response limitations of an Op-Amp) Tj
+T*
+(differentiator, and describe how practical differentiators overcome instability.) Tj
+T*
+(Answer: An ideal differentiator has input capacitor C and feedback resistor R, yielding) Tj
+T*
+(V_out = - R*C*\(dV_in/dt\). Its transfer function is H\(s\) = - s*R*C, which has a magnitude) Tj
+T*
+(|H\(j*omega\)| = omega*R*C that increases linearly with frequency at +20 dB/decade without) Tj
+T*
+(limit. This causes two severe practical problems: \(1\) High-frequency electrical noise is) Tj
+T*
+(drastically magnified, obscuring desired signals, \(2\) Phase lag causes closed-loop) Tj
+T*
+(instability and high-frequency oscillations. A practical differentiator adds a small) Tj
+T*
+(series resistor R_s at the input and a small parallel capacitor C_f across feedback) Tj
+T*
+(resistor R. At high frequencies, R_s and C_f attenuate signals, converting the circuit) Tj
+T*
+(into an integrator/low-pass filter above a critical corner frequency f_c = 1 /) Tj
+T*
+(\(2*pi*R_s*C\), stabilizing the loop.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.5 Key Takeaways and Revision Points) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Ideal Op-Amp parameters: A_v = inf, R_in = inf, R_out = 0, CMRR = inf.) Tj
+T*
+(* Inverting amplifier gain: A_v = - Rf / R1; Non-inverting amplifier gain: A_v = 1 +) Tj
+T*
+(Rf / R1.) Tj
+T*
+(* Virtual ground holds inverting terminal at 0V when non-inverting terminal is) Tj
+T*
+(grounded.) Tj
+T*
+(* Op-Amp Integrator uses feedback capacitor to integrate input waveforms over time.) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 13
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000164 00000 n 
+0000000234 00000 n 
+0000000309 00000 n 
+0000000421 00000 n 
+0000003860 00000 n 
+0000003972 00000 n 
+0000007552 00000 n 
+0000007665 00000 n 
+0000011097 00000 n 
+0000011211 00000 n 
+trailer
+<< /Size 13 /Root 1 0 R >>
+startxref
+14080
+%%EOF

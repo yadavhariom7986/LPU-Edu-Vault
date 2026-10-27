@@ -1,0 +1,612 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2642 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Introduction to Python | Unit 5: Pandas Analysis & Matplotlib) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Electronics & Communication Engineering) Tj
+340 0 Td
+(Page 1 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(INTRODUCTION TO PYTHON) Tj
+T*
+(UNIT 5: DATA ANALYSIS WITH PANDAS & VISUALIZATION WITH MATPLOTLIB) Tj
+T*
+(Curriculum: Lovely Professional University | School of Electronics & Communication) Tj
+T*
+(Engineering) Tj
+T*
+(Reference: Python Programming: Using Problem Solving Approach by Reema Thareja &) Tj
+T*
+(McKinney) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.1 The Pandas Data Architecture: Series and DataFrame) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Pandas is the primary data manipulation and analytics library for tabular engineering) Tj
+T*
+(datasets:) Tj
+T*
+(* 1. Series: 1-dimensional labeled homogeneous array capable of holding any data) Tj
+T*
+(type: s = pd.Series\(data, index=labels\).) Tj
+T*
+(* 2. DataFrame: 2-dimensional size-mutable, tabular data structure with labeled axes) Tj
+T*
+(\(rows and columns\). Akin to an SQL table or spreadsheet.) Tj
+T*
+(* DataFrame Creation: pd.DataFrame\(data_dict\), pd.read_csv\("file.csv"\),) Tj
+T*
+(pd.read_excel\("file.xlsx"\).) Tj
+T*
+(* Data Inspection Functions: df.head\(n\), df.tail\(n\), df.shape, df.columns, df.info\(\)) Tj
+T*
+(\(memory and null counts\), df.describe\(\) \(statistical summary: count, mean, std, min,) Tj
+T*
+(quartiles, max\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.2 Data Indexing, Slicing and Filtering) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Column Selection: df["col_name"] \(returns Series\) or df[["col1", "col2"]] \(returns) Tj
+T*
+(subset DataFrame\).) Tj
+T*
+(* Explicit Indexers:) Tj
+T*
+(- df.loc[row_label, col_label]: Label-based indexing \(inclusive of end bounds\).) Tj
+T*
+(- df.iloc[row_idx, col_idx]: Pure integer position-based indexing \(exclusive of stop) Tj
+T*
+(bound\).) Tj
+T*
+(* Conditional Boolean Filtering: df[\(df["voltage"] > 10.0\) & \(df["temp"] < 50.0\)].) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.3 Data Cleaning and Groupby Aggregations) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Handling Missing Data: df.isna\(\).sum\(\), df.dropna\(axis=0\), df.fillna\(value or) Tj
+T*
+(df.mean\(\)\).) Tj
+T*
+(* Data Transformations: df.drop_duplicates\(\), df.rename\(columns={...}\),) Tj
+T*
+(df["col"].apply\(custom_func\).) Tj
+T*
+(* Groupby Operations \(Split-Apply-Combine\):) Tj
+T*
+(df.groupby\("device_type"\)["power"].agg\(["mean", "max", "count"]\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.4 Data Visualization Architecture with Matplotlib) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 2861 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Introduction to Python | Unit 5: Pandas Analysis & Matplotlib) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Electronics & Communication Engineering) Tj
+340 0 Td
+(Page 2 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(* Module: matplotlib.pyplot provides procedural plotting interface.) Tj
+T*
+(* Object-Oriented Hierarchy: Figure \(overall canvas window\) contains one or more Axes) Tj
+T*
+(\(individual subplots with coordinate systems\).) Tj
+T*
+(* Plot Primitives:) Tj
+T*
+(- plt.plot\(x, y, label, color, linestyle, marker\): Line charts \(continuous physical) Tj
+T*
+(signals\).) Tj
+T*
+(- plt.scatter\(x, y\): Discrete data points, correlation analysis.) Tj
+T*
+(- plt.bar\(categories, values\): Categorical comparisons.) Tj
+T*
+(- plt.hist\(data, bins\): Frequency probability distributions.) Tj
+T*
+(* Styling & Annotations: plt.title\(\), plt.xlabel\(\), plt.ylabel\(\), plt.grid\(True\),) Tj
+T*
+(plt.legend\(\), plt.xlim\(\), plt.ylim\(\), plt.tight_layout\(\), plt.savefig\("plot.png",) Tj
+T*
+(dpi=300\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 1: Telemetry Dataset Analysis & Missing Value Cleaning]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Load a noisy experimental sensor DataFrame, clean missing values,) Tj
+T*
+(compute statistical aggregations, and generate rolling moving averages.) Tj
+T*
+(Python Source Code:) Tj
+T*
+(import pandas as pd) Tj
+T*
+(import numpy as np) Tj
+T*
+() Tj
+T*
+(# Create synthetic laboratory telemetry dataset) Tj
+T*
+(data = {) Tj
+T*
+('timestamp_s': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9],) Tj
+T*
+('temperature_c': [24.5, 25.1, np.nan, 26.8, 27.2, 28.0, np.nan, 29.5, 30.1, 31.0],) Tj
+T*
+('battery_v': [12.6, 12.5, 12.4, 12.3, 12.2, 12.1, 12.0, 11.9, 11.8, 11.7],) Tj
+T*
+('current_ma': [120, 125, 130, 250, 128, 132, 135, 300, 138, 140]) Tj
+T*
+(}) Tj
+T*
+() Tj
+T*
+(df = pd.DataFrame\(data\)) Tj
+T*
+(print\('Initial DataFrame with Missing Values:\\n', df\)) Tj
+T*
+() Tj
+T*
+(# 1. Fill missing temperature values using linear interpolation) Tj
+T*
+(df['temperature_c'] = df['temperature_c'].interpolate\(method='linear'\)) Tj
+T*
+() Tj
+T*
+(# 2. Calculate Power Consumption \(P = V * I\)) Tj
+T*
+(df['power_mw'] = df['battery_v'] * df['current_ma']) Tj
+T*
+() Tj
+T*
+(# 3. Rolling Moving Average over 3 samples) Tj
+T*
+(df['power_smooth_mw'] = df['power_mw'].rolling\(window=3, min_periods=1\).mean\(\)) Tj
+T*
+() Tj
+T*
+(print\('\\nCleaned & Enriched DataFrame:\\n', df[[ 'timestamp_s', 'temperature_c',) Tj
+T*
+('power_mw', 'power_smooth_mw' ]]\)) Tj
+T*
+(print\('\\nStatistical Metrics:\\n', df.describe\(\)\)) Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 2747 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Introduction to Python | Unit 5: Pandas Analysis & Matplotlib) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Electronics & Communication Engineering) Tj
+340 0 Td
+(Page 3 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 2: Transistor BJT Output Characteristic Curves Plotter]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Model and plot Common Emitter BJT output characteristic curves \(IC vs) Tj
+T*
+(VCE\) across varying base currents IB using Matplotlib.) Tj
+T*
+(Python Source Code:) Tj
+T*
+(import matplotlib.pyplot as plt) Tj
+T*
+(import numpy as np) Tj
+T*
+() Tj
+T*
+(# Collector-Emitter Voltage sweep from 0 to 12 Volts) Tj
+T*
+(v_ce = np.linspace\(0, 12, 500\)) Tj
+T*
+() Tj
+T*
+(# Varying Base Currents in microAmperes) Tj
+T*
+(i_b_list = [10, 20, 30, 40, 50] # uA) Tj
+T*
+(beta = 100 # Common Emitter Current Gain) Tj
+T*
+(v_sat = 0.3 # Saturation voltage) Tj
+T*
+() Tj
+T*
+(plt.figure\(figsize=\(9, 5\)\)) Tj
+T*
+() Tj
+T*
+(for i_b in i_b_list:) Tj
+T*
+(i_c_active = \(beta * i_b * 1e-3\) # mA) Tj
+T*
+(# Saturation model: exponential rise to active region) Tj
+T*
+(i_c = i_c_active * \(1 - np.exp\(-v_ce / v_sat\)\) + 0.05 * v_ce) Tj
+T*
+(plt.plot\(v_ce, i_c, label=f'IB = {i_b} uA'\)) Tj
+T*
+() Tj
+T*
+(plt.title\('BJT Common Emitter Output Characteristics \(IC vs VCE\)', fontsize=12,) Tj
+T*
+(fontweight='bold'\)) Tj
+T*
+(plt.xlabel\('Collector-Emitter Voltage V_CE \(Volts\)', fontsize=10\)) Tj
+T*
+(plt.ylabel\('Collector Current I_C \(mA\)', fontsize=10\)) Tj
+T*
+(plt.axvline\(x=0.3, color='red', linestyle='--', alpha=0.7, label='Saturation Boundary'\)) Tj
+T*
+(plt.grid\(True, linestyle=':', alpha=0.6\)) Tj
+T*
+(plt.legend\(loc='upper left'\)) Tj
+T*
+(plt.tight_layout\(\)) Tj
+T*
+(# plt.savefig\('bjt_characteristics.png', dpi=300\)) Tj
+T*
+(print\('Plot configured and styled successfully.'\)) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 3: Multi-Subplot Electrical Waveform Visualization]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Create a professional two-row engineering subplot dashboard displaying) Tj
+T*
+(AC voltage and current in upper panel and instantaneous power in lower panel.) Tj
+T*
+(Python Source Code:) Tj
+T*
+(import matplotlib.pyplot as plt) Tj
+T*
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 2629 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Introduction to Python | Unit 5: Pandas Analysis & Matplotlib) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Electronics & Communication Engineering) Tj
+340 0 Td
+(Page 4 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(import numpy as np) Tj
+T*
+() Tj
+T*
+(t = np.linspace\(0, 0.04, 1000\) # 40 ms \(2 full 50 Hz cycles\)) Tj
+T*
+(v = 325.27 * np.sin\(2 * np.pi * 50 * t\) # 230 V RMS) Tj
+T*
+(i = 14.14 * np.sin\(2 * np.pi * 50 * t - np.pi / 4\) # 10 A RMS lagging 45 deg) Tj
+T*
+(p = v * i # Instantaneous power) Tj
+T*
+() Tj
+T*
+(fig, \(ax1, ax2\) = plt.subplots\(2, 1, figsize=\(9, 6\), sharex=True\)) Tj
+T*
+() Tj
+T*
+(# Upper Plot: Voltage and Current) Tj
+T*
+(ax1.plot\(t * 1000, v, 'b-', label='Voltage v\(t\) [V]'\)) Tj
+T*
+(ax1.set_ylabel\('Voltage \(V\)', color='blue'\)) Tj
+T*
+(ax1.tick_params\(axis='y', labelcolor='blue'\)) Tj
+T*
+() Tj
+T*
+(ax1_twin = ax1.twinx\(\)) Tj
+T*
+(ax1_twin.plot\(t * 1000, i, 'g--', label='Current i\(t\) [A]'\)) Tj
+T*
+(ax1_twin.set_ylabel\('Current \(A\)', color='green'\)) Tj
+T*
+(ax1_twin.tick_params\(axis='y', labelcolor='green'\)) Tj
+T*
+(ax1.set_title\('AC Voltage and Current Waveforms', fontweight='bold'\)) Tj
+T*
+(ax1.grid\(True, alpha=0.4\)) Tj
+T*
+() Tj
+T*
+(# Lower Plot: Instantaneous Power) Tj
+T*
+(ax2.plot\(t * 1000, p / 1000, 'r-', label='Power p\(t\) [kW]'\)) Tj
+T*
+(ax2.axhline\(y=np.mean\(p\) / 1000, color='black', linestyle='--', label=f'Average Power:) Tj
+T*
+({np.mean\(p\)/1000:.2f} kW'\)) Tj
+T*
+(ax2.set_title\('Instantaneous Power Dissipation', fontweight='bold'\)) Tj
+T*
+(ax2.set_xlabel\('Time \(milliseconds\)'\)) Tj
+T*
+(ax2.set_ylabel\('Power \(kW\)'\)) Tj
+T*
+(ax2.grid\(True, alpha=0.4\)) Tj
+T*
+(ax2.legend\(\)) Tj
+T*
+() Tj
+T*
+(plt.tight_layout\(\)) Tj
+T*
+(print\('Dual subplot dashboard generated successfully.'\)) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 4: Resistor Quality Control Tolerance Distribution Histogram]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Analyze manufacturing variability of 10 kOhm precision resistors by) Tj
+T*
+(plotting frequency distribution histogram and calculating yield within +/- 2% tolerance.) Tj
+T*
+(Python Source Code:) Tj
+T*
+(import numpy as np) Tj
+T*
+(import pandas as pd) Tj
+T*
+() Tj
+T*
+(# Simulate batch of 10,000 manufacturing samples \(Mean=10000 Ohm, Std=120 Ohm\)) Tj
+T*
+(np.random.seed\(101\)) Tj
+T*
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 1111 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Introduction to Python | Unit 5: Pandas Analysis & Matplotlib) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Electronics & Communication Engineering) Tj
+340 0 Td
+(Page 5 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(batch_samples = np.random.normal\(loc=10000, scale=120, size=10000\)) Tj
+T*
+() Tj
+T*
+(df_batch = pd.DataFrame\(batch_samples, columns=['Resistance_Ohms']\)) Tj
+T*
+() Tj
+T*
+(# Quality Control Limits \(+/- 2% of nominal 10,000 Ohm -> [9800, 10200]\)) Tj
+T*
+(in_tolerance = df_batch[\(df_batch['Resistance_Ohms'] >= 9800\) &) Tj
+T*
+(\(df_batch['Resistance_Ohms'] <= 10200\)]) Tj
+T*
+(yield_percentage = \(len\(in_tolerance\) / len\(df_batch\)\) * 100.0) Tj
+T*
+() Tj
+T*
+(print\(f'Total Resistor Batch Size : {len\(df_batch\)}'\)) Tj
+T*
+(print\(f'Batch Mean Resistance : {df_batch['Resistance_Ohms'].mean\(\):.2f} Ohms'\)) Tj
+T*
+(print\(f'Batch Standard Deviation : {df_batch['Resistance_Ohms'].std\(\):.2f} Ohms'\)) Tj
+T*
+(print\(f'Manufacturing Yield \(+/-2%\): {yield_percentage:.2f} %'\)) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000171 00000 n 
+0000000241 00000 n 
+0000000316 00000 n 
+0000000428 00000 n 
+0000003122 00000 n 
+0000003234 00000 n 
+0000006147 00000 n 
+0000006260 00000 n 
+0000009060 00000 n 
+0000009174 00000 n 
+0000011856 00000 n 
+0000011970 00000 n 
+trailer
+<< /Size 15 /Root 1 0 R >>
+startxref
+13134
+%%EOF

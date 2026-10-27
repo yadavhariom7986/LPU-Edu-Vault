@@ -1,0 +1,724 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 6 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2907 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Python Programming | Unit 5: Object-Oriented Programming \(OOP\)) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 1 of 6) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(=== UNIT 5: OBJECT-ORIENTED PROGRAMMING \(OOP\) IN PYTHON ===) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.1 Object-Oriented Programming Paradigm Principles) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Object-Oriented Programming \(OOP\) models software systems around real-world entities) Tj
+T*
+(combining data state \(attributes\) and behavioral operations \(methods\):) Tj
+T*
+(* Four Cardinal Pillars of OOP: \(1\) Encapsulation: Bundling data and methods into a) Tj
+T*
+(single class unit while restricting direct external access to internal state. \(2\)) Tj
+T*
+(Abstraction: Exposing public interfaces while hiding complex implementation details.) Tj
+T*
+(\(3\) Inheritance: Creating hierarchical classes that inherit and extend attributes and) Tj
+T*
+(methods from base classes. \(4\) Polymorphism: Presenting a unified interface for) Tj
+T*
+(entities of different underlying types.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.2 Classes, Instances and the Self Parameter) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Class Definition: A user-defined blueprint from which individual objects) Tj
+T*
+(\(instances\) are instantiated: class ClassName: ...) Tj
+T*
+(* The __init__ Constructor Method: Special dunder \(double-underscore\) initialization) Tj
+T*
+(method invoked automatically upon object creation to initialize instance attributes.) Tj
+T*
+(* The self Parameter: Explicit reference to the current instance invoking the method.) Tj
+T*
+(Must be the first parameter of any instance method.) Tj
+T*
+(* Instance vs Class Attributes:) Tj
+T*
+(- Instance Attributes: Variables bound to self \(self.x = 10\) unique to each instance.) Tj
+T*
+(- Class \(Static\) Attributes: Variables declared directly within class body shared) Tj
+T*
+(collectively across all instances.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.3 Encapsulation and Access Modifiers) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Python enforces encapsulation through naming conventions rather than strict access) Tj
+T*
+(keywords \(public/private\):) Tj
+T*
+(* Public Attributes: Standard identifiers accessible everywhere \(self.name\).) Tj
+T*
+(* Protected Attributes: Prefixed with a single underscore \(_self._name\). Indicates) Tj
+T*
+(internal use; accessible by subclasses.) Tj
+T*
+(* Private Attributes & Name Mangling: Prefixed with double underscores) Tj
+T*
+(\(__self.__secret\). CPython automatically mangles the name to _ClassName__secret to) Tj
+T*
+(prevent accidental override by subclasses.) Tj
+T*
+(* Property Decorators \(@property, @attr.setter\): Implement pythonic getters and) Tj
+T*
+(setters with validation logic without changing public access syntax.) Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 2467 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Python Programming | Unit 5: Object-Oriented Programming \(OOP\)) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 2 of 6) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.4 Inheritance and Method Resolution Order \(MRO\)) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Inheritance Types: Single, Multilevel, Hierarchical, and Multiple Inheritance.) Tj
+T*
+(* The super\(\) Function: Dynamically delegates method calls to the parent or next) Tj
+T*
+(sibling class in the inheritance chain: super\(\).__init__\(*args\).) Tj
+T*
+(* Multiple Inheritance & Method Resolution Order \(MRO\): Determines method lookup) Tj
+T*
+(sequence using the C3 Superclass Linearization Algorithm: ClassName.__mro__ or) Tj
+T*
+(ClassName.mro\(\). Prevents the 'Diamond Problem'.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.5 Polymorphism and Magic \(Dunder\) Methods) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Operator Overloading via Dunder Methods: Custom classes integrate seamlessly with) Tj
+T*
+(Python operators by overriding magic methods: __str__, __repr__, __len__, __add__,) Tj
+T*
+(__sub__, __eq__, __getitem__.) Tj
+T*
+(* Duck Typing: 'If it walks like a duck and quacks like a duck, it's a duck.' Python) Tj
+T*
+(checks for presence of required methods rather than explicit inheritance hierarchies.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 1: Bank Account System with Encapsulation & Properties]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Implement a BankAccount class with private balance \(__balance\),) Tj
+T*
+(validation for deposit/withdrawal operations, and @property decorators for balance) Tj
+T*
+(access.) Tj
+T*
+(Python Source Code:) Tj
+T*
+(class BankAccount:) Tj
+T*
+(def __init__\(self, account_holder, initial_balance=0.0\):) Tj
+T*
+(self.holder = account_holder) Tj
+T*
+(self.__balance = max\(0.0, float\(initial_balance\)\)) Tj
+T*
+() Tj
+T*
+(@property) Tj
+T*
+(def balance\(self\):) Tj
+T*
+(return self.__balance) Tj
+T*
+() Tj
+T*
+(def deposit\(self, amount\):) Tj
+T*
+(if amount <= 0:) Tj
+T*
+(raise ValueError\('Deposit amount must be strictly positive.'\)) Tj
+T*
+(self.__balance += amount) Tj
+T*
+(return self.__balance) Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 2120 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Python Programming | Unit 5: Object-Oriented Programming \(OOP\)) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 3 of 6) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+() Tj
+T*
+(def withdraw\(self, amount\):) Tj
+T*
+(if amount <= 0:) Tj
+T*
+(raise ValueError\('Withdrawal amount must be positive.'\)) Tj
+T*
+(if amount > self.__balance:) Tj
+T*
+(raise ValueError\('Insufficient funds.'\)) Tj
+T*
+(self.__balance -= amount) Tj
+T*
+(return self.__balance) Tj
+T*
+() Tj
+T*
+(def __str__\(self\):) Tj
+T*
+(return f'Account[{self.holder}]: INR {self.__balance:,.2f}') Tj
+T*
+() Tj
+T*
+(acc = BankAccount\('Aarav Sharma', 25000\)) Tj
+T*
+(acc.deposit\(10000\)) Tj
+T*
+(acc.withdraw\(5000\)) Tj
+T*
+(print\(acc\)) Tj
+T*
+(print\(f'Current Balance \(via property\): INR {acc.balance:,.2f}'\)) Tj
+T*
+(Execution Trace & Output:) Tj
+T*
+(Initial: 25k -> Deposit 10k -> 35k -> Withdraw 5k -> 30k.) Tj
+T*
+(Output: 'Account[Aarav Sharma]: INR 30,000.00'. Direct access to acc.__balance raises) Tj
+T*
+(AttributeError.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 2: Inheritance Hierarchy for University Employees]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Create a base Person class, a derived Employee class, and specialized) Tj
+T*
+(Faculty and Staff subclasses demonstrating super\(\) and method overriding.) Tj
+T*
+(Python Source Code:) Tj
+T*
+(class Person:) Tj
+T*
+(def __init__\(self, name, email\):) Tj
+T*
+(self.name = name) Tj
+T*
+(self.email = email) Tj
+T*
+(def get_details\(self\):) Tj
+T*
+(return f'Name: {self.name} | Email: {self.email}') Tj
+T*
+() Tj
+T*
+(class Faculty\(Person\):) Tj
+T*
+(def __init__\(self, name, email, department, research_area\):) Tj
+T*
+(super\(\).__init__\(name, email\)) Tj
+T*
+(self.department = department) Tj
+T*
+(self.research_area = research_area) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 2085 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Python Programming | Unit 5: Object-Oriented Programming \(OOP\)) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 4 of 6) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(def get_details\(self\):) Tj
+T*
+(base = super\(\).get_details\(\)) Tj
+T*
+(return f'{base} | Dept: {self.department} | Research: {self.research_area}') Tj
+T*
+() Tj
+T*
+(prof = Faculty\('Dr. Ramanujan', 'raman@lpu.co.in', 'Computer Science', 'Quantum) Tj
+T*
+(Algorithms'\)) Tj
+T*
+(print\(prof.get_details\(\)\)) Tj
+T*
+(Execution Trace & Output:) Tj
+T*
+(Output: 'Name: Dr. Ramanujan | Email: raman@lpu.co.in | Dept: Computer Science |) Tj
+T*
+(Research: Quantum Algorithms'.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 3: Operator Overloading with 2D Vector Dunder Methods]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Implement a 2D Vector class with dunder methods for addition \(__add__\),) Tj
+T*
+(scalar multiplication \(__mul__\), string representation \(__repr__\), and magnitude) Tj
+T*
+(equality \(__eq__\).) Tj
+T*
+(Python Source Code:) Tj
+T*
+(import math) Tj
+T*
+() Tj
+T*
+(class Vector2D:) Tj
+T*
+(def __init__\(self, x, y\):) Tj
+T*
+(self.x = float\(x\)) Tj
+T*
+(self.y = float\(y\)) Tj
+T*
+() Tj
+T*
+(def __add__\(self, other\):) Tj
+T*
+(return Vector2D\(self.x + other.x, self.y + other.y\)) Tj
+T*
+() Tj
+T*
+(def __mul__\(self, scalar\):) Tj
+T*
+(return Vector2D\(self.x * scalar, self.y * scalar\)) Tj
+T*
+() Tj
+T*
+(def magnitude\(self\):) Tj
+T*
+(return math.sqrt\(self.x**2 + self.y**2\)) Tj
+T*
+() Tj
+T*
+(def __eq__\(self, other\):) Tj
+T*
+(return math.isclose\(self.magnitude\(\), other.magnitude\(\)\)) Tj
+T*
+() Tj
+T*
+(def __repr__\(self\):) Tj
+T*
+(return f'Vector2D\({self.x:.1f}, {self.y:.1f}\)') Tj
+T*
+() Tj
+T*
+(v1 = Vector2D\(3, 4\)   # Magnitude = 5.0) Tj
+T*
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 2356 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Python Programming | Unit 5: Object-Oriented Programming \(OOP\)) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 5 of 6) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(v2 = Vector2D\(1, 2\)) Tj
+T*
+(v3 = v1 + v2          # Vector2D\(4.0, 6.0\)) Tj
+T*
+(v4 = Vector2D\(0, 5\)   # Magnitude = 5.0) Tj
+T*
+(print\(f'v1 + v2 = {v3}'\)) Tj
+T*
+(print\(f'v1 * 3  = {v1 * 3}'\)) Tj
+T*
+(print\(f'|v1| == |v4|: {v1 == v4}'\)) Tj
+T*
+(Execution Trace & Output:) Tj
+T*
+(v1 + v2 = Vector2D\(4.0, 6.0\); v1 * 3 = Vector2D\(9.0, 12.0\); v1 == v4 evaluates to True.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 4: Polymorphic Shape Area Processor]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Implement an abstract-like Shape base class and specialized Circle,) Tj
+T*
+(Rectangle, and Triangle classes, processing areas polymorphically in a batch loop.) Tj
+T*
+(Python Source Code:) Tj
+T*
+(import math) Tj
+T*
+() Tj
+T*
+(class Shape:) Tj
+T*
+(def area\(self\): raise NotImplementedError\('Subclass must implement area\(\)'\)) Tj
+T*
+() Tj
+T*
+(class Circle\(Shape\):) Tj
+T*
+(def __init__\(self, radius\): self.r = radius) Tj
+T*
+(def area\(self\): return math.pi * self.r**2) Tj
+T*
+() Tj
+T*
+(class Rectangle\(Shape\):) Tj
+T*
+(def __init__\(self, w, h\): self.w = w; self.h = h) Tj
+T*
+(def area\(self\): return self.w * self.h) Tj
+T*
+() Tj
+T*
+(shapes = [Circle\(5\), Rectangle\(4, 6\), Circle\(2.5\)]) Tj
+T*
+(for s in shapes:) Tj
+T*
+(print\(f'Shape {type\(s\).__name__:10s} | Area: {s.area\(\):.2f}'\)) Tj
+T*
+(Execution Trace & Output:) Tj
+T*
+(Circle \(r=5\): 78.54; Rectangle \(4x6\): 24.00; Circle \(r=2.5\): 19.63.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.6 University Review & Examination Questions) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Q1: Explain Name Mangling in Python and describe how private attributes are) Tj
+T*
+(accessed internally.) Tj
+T*
+(Answer: When an identifier inside a class begins with at least two leading underscores) Tj
+T*
+(and at most one trailing underscore \(e.g. __balance\), CPython textually transforms) Tj
+T*
+ET
+
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 16 0 R >>
+endobj
+16 0 obj
+<< /Length 1775 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Python Programming | Unit 5: Object-Oriented Programming \(OOP\)) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 6 of 6) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(\(mangles\) the name by prefixing it with an underscore followed by the class name:) Tj
+T*
+(_ClassName__attribute. This prevents accidental namespace collisions and unintended) Tj
+T*
+(overriding by subclasses. It is NOT strict security: code can still access or mutate the) Tj
+T*
+(mangled name via obj._ClassName__balance.) Tj
+T*
+(* Q2: Explain the C3 Linearization Algorithm and Method Resolution Order \(MRO\) in) Tj
+T*
+(multiple inheritance.) Tj
+T*
+(Answer: When a class inherits from multiple parents, Python resolves method lookups) Tj
+T*
+(along a deterministic sequence called the Method Resolution Order \(MRO\). Python uses the) Tj
+T*
+(C3 Linearization Algorithm to compute MRO, ensuring three properties: \(1\) Children) Tj
+T*
+(precede parents. \(2\) Multiple parent listing order is preserved. \(3\) Monotonicity: if) Tj
+T*
+(class A precedes B in one class MRO, it must precede B in all derived MROs. The sequence) Tj
+T*
+(can be inspected via Class.mro\(\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.7 Key Takeaways and Revision Points) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Classes encapsulate state and behavior; self explicitly passes the instance) Tj
+T*
+(reference.) Tj
+T*
+(* Name mangling \(__var -> _Class__var\) protects private variables from subclass) Tj
+T*
+(collision.) Tj
+T*
+(* super\(\) enables clean cooperative multiple inheritance via MRO.) Tj
+T*
+(* Dunder methods \(__add__, __len__, __str__\) implement operator overloading and duck) Tj
+T*
+(typing.) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000178 00000 n 
+0000000248 00000 n 
+0000000323 00000 n 
+0000000435 00000 n 
+0000003394 00000 n 
+0000003506 00000 n 
+0000006025 00000 n 
+0000006138 00000 n 
+0000008311 00000 n 
+0000008425 00000 n 
+0000010563 00000 n 
+0000010677 00000 n 
+0000013086 00000 n 
+0000013200 00000 n 
+trailer
+<< /Size 17 /Root 1 0 R >>
+startxref
+15028
+%%EOF

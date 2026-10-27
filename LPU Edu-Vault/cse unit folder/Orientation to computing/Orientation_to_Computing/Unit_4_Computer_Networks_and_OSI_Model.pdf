@@ -1,0 +1,572 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2797 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Orientation to Computing | Unit 4: Computer Networks & OSI Model) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 1 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(ORIENTATION TO COMPUTING) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(UNIT 4: COMPUTER NETWORKS, TOPOLOGIES & REFERENCE MODELS \(OSI & TCP/IP\)) Tj
+T*
+(Curriculum: Lovely Professional University | School of Computer Science & Engineering) Tj
+T*
+(Reference: Data Communications and Networking with TCP/IP Protocol Suite by Behrouz A.) Tj
+T*
+(Forouzan) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.1 Foundations of Data Communications and Transmission) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Data communication is the exchange of data between two devices via some form of) Tj
+T*
+(transmission medium:) Tj
+T*
+(* Five Core Components: Message \(data/information\), Sender \(transmitter\), Receiver) Tj
+T*
+(\(sink\), Transmission Medium \(physical path\), Protocol \(governing set of rules\).) Tj
+T*
+(* Data Flow Directionality:) Tj
+T*
+(- Simplex: Unidirectional transmission \(e.g., traditional broadcast TV, keyboard to) Tj
+T*
+(CPU\).) Tj
+T*
+(- Half-Duplex: Bidirectional transmission, but only one direction at a time \(e.g.,) Tj
+T*
+(Walkie-talkie\).) Tj
+T*
+(- Full-Duplex: Simultaneous bidirectional transmission \(e.g., modern telephone system,) Tj
+T*
+(switched Ethernet\).) Tj
+T*
+(* Network Geographical Scales: Personal Area Network \(PAN - Bluetooth ~10 m\), Local) Tj
+T*
+(Area Network \(LAN - office building ~1 km\), Metropolitan Area Network \(MAN - smart) Tj
+T*
+(city ~50 km\), Wide Area Network \(WAN - continent/globe\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.2 Physical Network Topologies) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* 1. Mesh Topology: Every node connected to every other node via dedicated) Tj
+T*
+(point-to-point links. Links required for N nodes: L = N\(N - 1\) / 2; I/O ports per) Tj
+T*
+(node = N - 1. Advantages: High fault tolerance, robust privacy. Drawback: Massive) Tj
+T*
+(cabling cost.) Tj
+T*
+(* 2. Star Topology: Each device connected to a central hub/switch via point-to-point) Tj
+T*
+(link. Highly popular \(standard Ethernet LAN\). Single cable fault does not affect) Tj
+T*
+(network; central switch failure halts network.) Tj
+T*
+(* 3. Bus Topology: Single shared backbone cable \(multipoint\) terminated with) Tj
+T*
+(resistors. Inexpensive; difficult fault isolation; collision prone.) Tj
+T*
+(* 4. Ring Topology: Nodes connected in closed loop; tokens circulate) Tj
+T*
+(unidirectionally. Deterministic delay; single break disrupts entire ring unless) Tj
+T*
+(dual-ring \(FDDI\) is used.) Tj
+T*
+(* 5. Hybrid Topology: Combination of two or more topologies \(e.g., Star-Bus or Tree) Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 2818 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Orientation to Computing | Unit 4: Computer Networks & OSI Model) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 2 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(topology\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.3 Transmission Media: Guided vs Unguided) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Guided Media \(Conducted physical waves\):) Tj
+T*
+(- Twisted Pair Cable: Pairs of copper wires twisted to cancel electromagnetic) Tj
+T*
+(interference \(EMI\). Unshielded Twisted Pair \(UTP Cat6: up to 10 Gbps at 55 m\) and) Tj
+T*
+(Shielded Twisted Pair \(STP\). RJ-45 connector.) Tj
+T*
+(- Coaxial Cable: Central copper core, insulating dielectric, woven copper braid, outer) Tj
+T*
+(plastic jacket. BNC connector.) Tj
+T*
+(- Fiber Optic Cable: Core and cladding transmitting light pulses via Total Internal) Tj
+T*
+(Reflection \(TIR\). Immune to EMI; immense bandwidth. Single-mode \(long distance laser\) vs) Tj
+T*
+(Multimode \(short distance LED\).) Tj
+T*
+(* Unguided Media \(Wireless electromagnetic broadcast\): Radio waves \(omnidirectional,) Tj
+T*
+(penetrate walls\), Microwaves \(line-of-sight parabolic antennas\), Infrared) Tj
+T*
+(\(short-range, blocked by walls\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.4 The 7-Layer OSI Reference Model \(ISO 7498\)) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Theoretical standard model partitioning network communications into 7 hierarchical) Tj
+T*
+(abstraction layers:) Tj
+T*
+(* Layer 7 - Application: User interface, network services \(HTTP, DNS, SMTP, FTP\).) Tj
+T*
+(* Layer 6 - Presentation: Syntax translation, character encoding, data compression,) Tj
+T*
+(encryption/decryption \(SSL/TLS\).) Tj
+T*
+(* Layer 5 - Session: Dialog establishment, checkpointing, token management, session) Tj
+T*
+(synchronization.) Tj
+T*
+(* Layer 4 - Transport: End-to-end reliable process-to-process delivery, segmentation,) Tj
+T*
+(flow control, port addressing \(TCP, UDP\). Data unit: Segment / Datagram.) Tj
+T*
+(* Layer 3 - Network: Host-to-host delivery, logical addressing \(IP\), path) Tj
+T*
+(determination, routing. Data unit: Packet.) Tj
+T*
+(* Layer 2 - Data Link: Hop-to-hop node delivery, physical MAC addressing, framing,) Tj
+T*
+(error detection \(CRC\), flow control, channel access \(CSMA/CD\). Data unit: Frame.) Tj
+T*
+(* Layer 1 - Physical: Transmission of raw unstructured bit streams over physical) Tj
+T*
+(medium, voltage levels, signaling rates, cable connectors. Data unit: Bit.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.5 The 4-Layer TCP/IP Protocol Architecture) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Practical implementation model powering the modern global Internet:) Tj
+T*
+(- Application Layer \(OSI Layers 5, 6, 7 consolidated\): HTTP, HTTPS, DNS, DHCP, SSH.) Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 3181 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Orientation to Computing | Unit 4: Computer Networks & OSI Model) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 3 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(- Transport Layer \(OSI Layer 4\): TCP \(connection-oriented\) and UDP \(connectionless\).) Tj
+T*
+(- Internet Layer \(OSI Layer 3\): IP \(IPv4, IPv6\), ICMP, ARP, routing protocols \(OSPF,) Tj
+T*
+(BGP\).) Tj
+T*
+(- Network Interface Layer / Link Layer \(OSI Layers 1, 2 consolidated\): Ethernet, Wi-Fi) Tj
+T*
+(\(802.11\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROBLEM 1: Mesh vs Star Topology Enterprise Scalability Calculation]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Statement: An enterprise connects 16 servers in a mission-critical datacenter.) Tj
+T*
+(Calculate and compare: \(1\) Total dedicated communication links required for a fully) Tj
+T*
+(connected Mesh topology vs a Star topology, and \(2\) Total hardware I/O ports required) Tj
+T*
+(across all servers.) Tj
+T*
+(Mathematical Derivation:) Tj
+T*
+(* 1. Mesh Topology Calculations \(N = 16\):) Tj
+T*
+(- Dedicated physical links = N x \(N - 1\) / 2 = 16 x 15 / 2 = 120 duplex cables.) Tj
+T*
+(- I/O ports per server = N - 1 = 15 ports per server.) Tj
+T*
+(- Total network I/O ports = 16 servers x 15 ports = 240 ports.) Tj
+T*
+(* 2. Star Topology Calculations \(N = 16 with central switch\):) Tj
+T*
+(- Dedicated physical links = N = 16 cables.) Tj
+T*
+(- I/O ports per server = 1 port per server \(Total = 16 server ports + 16 switch ports =) Tj
+T*
+(32 ports\).) Tj
+T*
+(* 3. Architectural Conclusion: Mesh topology requires 7.5x more physical cabling \(120) Tj
+T*
+(vs 16\) and 7.5x more server ports \(240 vs 32\), illustrating why Star topology) Tj
+T*
+(dominates standard LAN architectures.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROBLEM 2: Data Link Layer Cyclic Redundancy Check \(CRC\) Derivation]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Statement: A data link layer sender transmits a 10-bit data frame D =) Tj
+T*
+(1010010011. The generator divisor polynomial is G = 10011 \(degree r = 4\). Calculate the) Tj
+T*
+(4-bit CRC remainder \(checksum\) appended to the transmitted frame, and demonstrate) Tj
+T*
+(receiver-side verification.) Tj
+T*
+(Step-by-Step Modulo-2 Arithmetic Execution:) Tj
+T*
+(* 1. Append r = 4 zeros to data frame D: Dividend = 1010010011 0000 \(14 bits\).) Tj
+T*
+(* 2. Modulo-2 Binary Division \(XOR operations without borrow\):) Tj
+T*
+(- Divide 10100100110000 by 10011:) Tj
+T*
+(- Step 1: 10100 XOR 10011 = 00111 -> Bring down 1 -> 01111.) Tj
+T*
+(- Step 2: Next bit 0 -> bring down 0 -> 11110 XOR 10011 = 01101.) Tj
+T*
+(- Step 3: Bring down 0 -> 11010 XOR 10011 = 01001.) Tj
+T*
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 3326 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Orientation to Computing | Unit 4: Computer Networks & OSI Model) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 4 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(- Step 4: Bring down 1 -> 10011 XOR 10011 = 00000.) Tj
+T*
+(- Step 5: Bring down remaining bits -> Final remainder = 0101_2.) Tj
+T*
+(* 3. Transmitted Codeword: Append remainder \(0101\) to data: 1010010011 0101.) Tj
+T*
+(* 4. Receiver Verification: Receiver divides received codeword 10100100110101 by) Tj
+T*
+(generator 10011. The remainder is strictly 0000, confirming zero bit corruption) Tj
+T*
+(during transmission.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROBLEM 3: End-to-End OSI Protocol Encapsulation Walkthrough]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Statement: Trace the step-by-step encapsulation process when a user clicks a) Tj
+T*
+(link in a web browser to download a webpage from a remote web server.) Tj
+T*
+(Protocol Flow & Header Attachment Trace:) Tj
+T*
+(* 1. Application Layer: Browser generates HTTP GET request. Payload = "GET) Tj
+T*
+(/index.html HTTP/1.1".) Tj
+T*
+(* 2. Transport Layer: Encapsulates HTTP payload inside a TCP Segment by adding TCP) Tj
+T*
+(Header \(Source Port = 54321, Destination Port = 80/443, Sequence Number = 1001,) Tj
+T*
+(Window Size, Checksum\).) Tj
+T*
+(* 3. Network Layer: Encapsulates TCP segment inside an IP Packet by adding IP Header) Tj
+T*
+(\(Source IP = 192.168.1.50, Destination IP = 93.184.216.34, TTL = 64, Protocol = 6 for) Tj
+T*
+(TCP\).) Tj
+T*
+(* 4. Data Link Layer: Encapsulates IP packet inside an Ethernet Frame by adding) Tj
+T*
+(Ethernet Header \(Source MAC = 3C:52:82:11:22:33, Gateway Router MAC =) Tj
+T*
+(00:1A:2B:3C:4D:5E, EtherType = 0x0800\) and Ethernet Trailer \(4-byte CRC/FCS\).) Tj
+T*
+(* 5. Physical Layer: Transduces Ethernet frame bits into Manchester electrical pulses) Tj
+T*
+(/ optical photons onto the physical transmission line.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROBLEM 4: Bandwidth-Delay Product & Transmission Delay Analysis]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Statement: A 100 Mbps fiber optic communication link spans a transcontinental) Tj
+T*
+(distance of 4000 km. Signal propagation speed in fiber is 2 x 10^8 m/s. Calculate: \(1\)) Tj
+T*
+(Propagation Delay \(t_prop\), \(2\) Transmission Delay \(t_trans\) for a 2.5 MB file, and \(3\)) Tj
+T*
+(Bandwidth-Delay Product \(BDP\) in bits and bytes.) Tj
+T*
+(Mathematical Derivation:) Tj
+T*
+(* 1. Propagation Delay: t_prop = Distance / Speed = \(4000 x 10^3 m\) / \(2 x 10^8 m/s\)) Tj
+T*
+(= 0.02 seconds = 20 milliseconds \(ms\).) Tj
+T*
+(* 2. Transmission Delay: File size = 2.5 MB = 2.5 x 10^6 x 8 bits = 20,000,000 bits.) Tj
+T*
+(Bandwidth = 100 Mbps = 100 x 10^6 bps. t_trans = Size / Bandwidth = 20 x 10^6 / 100 x) Tj
+T*
+(10^6 = 0.20 seconds = 200 ms.) Tj
+T*
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 745 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Orientation to Computing | Unit 4: Computer Networks & OSI Model) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 5 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(* 3. Bandwidth-Delay Product \(BDP\):) Tj
+T*
+(- BDP represents the total volume of data bits that can be "in flight" on the) Tj
+T*
+(transmission wire simultaneously.) Tj
+T*
+(- BDP = Bandwidth x Propagation Delay = \(100 x 10^6 bps\) x 0.02 s = 2,000,000 bits =) Tj
+T*
+(250,000 Bytes = 250 KB.) Tj
+T*
+(* 4. Engineering Impact: To achieve 100% link utilization, the TCP sliding window) Tj
+T*
+(size must be configured to at least 250 KB.) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000171 00000 n 
+0000000241 00000 n 
+0000000316 00000 n 
+0000000428 00000 n 
+0000003277 00000 n 
+0000003389 00000 n 
+0000006259 00000 n 
+0000006372 00000 n 
+0000009606 00000 n 
+0000009720 00000 n 
+0000013099 00000 n 
+0000013213 00000 n 
+trailer
+<< /Size 15 /Root 1 0 R >>
+startxref
+14010
+%%EOF

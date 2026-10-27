@@ -1,0 +1,12037 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R 35 0 R 37 0 R 39 0 R 41 0 R 43 0 R 45 0 R 47 0 R 49 0 R 51 0 R 53 0 R 55 0 R 57 0 R 59 0 R 61 0 R 63 0 R 65 0 R 67 0 R 69 0 R 71 0 R 73 0 R 75 0 R 77 0 R 79 0 R 81 0 R 83 0 R 85 0 R] /Count 42 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 4 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 8015 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 2: CONDITIONAL STATEMENTS AND LOOPS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 1 of 42) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(1.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Which keyword is used to initiate a conditional) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(branch in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(when) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(if) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(check) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(condition) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(2.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(What token terminates the conditional expression) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(line in an if statement in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(;) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(then) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(->) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(3.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(How are code blocks demarcated inside) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(conditional and loop bodies in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.5001 Td
+(Curly braces { }) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.9001 Td
+(Indentation \(whitespace\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.3002 Td
+(begin and end keywords) Tj
+ET
+BT
+/F2 7.4 Tf
+58 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 587.7002 Td
+(Parentheses \( \)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 564.1002 Td
+(4.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(Which keyword represents 'else if' in Python) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(multi-way branch selection?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 543.2002 Td
+(elseif) Tj
+ET
+BT
+/F2 7.4 Tf
+58 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 533.6002 Td
+(elsif) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.0002 Td
+(elif) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.4003 Td
+(else if) Tj
+ET
+BT
+/F2 8.0 Tf
+42 490.8003 Td
+(5.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 490.8003 Td
+(What is the evaluated boolean value of the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6003 Td
+(expression 15 % 4?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 469.9002 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.3002 Td
+(2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 450.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 450.7002 Td
+(3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.1002 Td
+(4) Tj
+ET
+BT
+/F2 8.0 Tf
+42 417.5002 Td
+(6.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 417.5002 Td
+(Which module in Python's standard library) Tj
+ET
+BT
+/F1 7.8 Tf
+58 408.3002 Td
+(provides pseudo-random number generation) Tj
+ET
+BT
+/F1 7.8 Tf
+58 399.1002 Td
+(functions?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 387.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 387.4002 Td
+(math) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.8002 Td
+(random) Tj
+ET
+BT
+/F2 7.4 Tf
+58 368.2002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 368.2002 Td
+(os) Tj
+ET
+BT
+/F2 7.4 Tf
+58 358.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 358.6002 Td
+(sys) Tj
+ET
+BT
+/F2 8.0 Tf
+42 335.0002 Td
+(7.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.0002 Td
+(Which function in the random module returns a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 325.8001 Td
+(random integer N such that a <= N <= b) Tj
+ET
+BT
+/F1 7.8 Tf
+58 316.6001 Td
+(\(inclusive\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.9001 Td
+(random.rand\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 295.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 295.3001 Td
+(random.randint\(a, b\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 285.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 285.7001 Td
+(random.uniform\(a, b\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 276.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 276.1001 Td
+(random.range\(a, b\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(8.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What does random.random\(\) return in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 772.3 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 772.3 Td
+(A random integer between 0 and 100) Tj
+ET
+BT
+/F2 7.4 Tf
+322 762.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 762.7 Td
+(A random float in the half-open interval) Tj
+ET
+BT
+/F1 7.4 Tf
+336 754.1 Td
+([0.0, 1.0\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.5001 Td
+(A random boolean) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.9001 Td
+(A random choice from a list) Tj
+ET
+BT
+/F2 8.0 Tf
+306 711.3001 Td
+(9.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 711.3001 Td
+(Which comparison operator checks if two numeric) Tj
+ET
+BT
+/F1 7.8 Tf
+322 702.1001 Td
+(operands are not equal?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 690.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 690.4001 Td
+(<>) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.8001 Td
+(!=) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.2001 Td
+(!==) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.6002 Td
+(not ==) Tj
+ET
+BT
+/F2 8.0 Tf
+306 638.0002 Td
+(10.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 638.0002 Td
+(Which logical operator returns True only when) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.8002 Td
+(both relational conditions evaluate to True?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 617.1002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 617.1002 Td
+(or) Tj
+ET
+BT
+/F2 7.4 Tf
+322 607.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.5002 Td
+(and) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.9002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.9002 Td
+(not) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.3002 Td
+(xor) Tj
+ET
+BT
+/F2 8.0 Tf
+306 564.7003 Td
+(11.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.7003 Td
+(Which logical operator inverts the boolean truth) Tj
+ET
+BT
+/F1 7.8 Tf
+322 555.5002 Td
+(value of an expression?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 543.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 543.8002 Td
+(invert) Tj
+ET
+BT
+/F2 7.4 Tf
+322 534.2003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 534.2003 Td
+(not) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.6003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.6003 Td
+(!) Tj
+ET
+BT
+/F2 7.4 Tf
+322 515.0003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 515.0003 Td
+(~) Tj
+ET
+BT
+/F2 8.0 Tf
+306 491.4003 Td
+(12.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 491.4003 Td
+(What is the result of the boolean expression) Tj
+ET
+BT
+/F1 7.8 Tf
+322 482.2003 Td
+(True or False in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 470.5003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 470.5003 Td
+(True) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.9003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.9003 Td
+(False) Tj
+ET
+BT
+/F2 7.4 Tf
+322 451.3003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 451.3003 Td
+(None) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.7003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.7003 Td
+(1) Tj
+ET
+BT
+/F2 8.0 Tf
+306 418.1003 Td
+(13.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 418.1003 Td
+(What is the result of the boolean expression) Tj
+ET
+BT
+/F1 7.8 Tf
+322 408.9002 Td
+(True and not False?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 397.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 397.2002 Td
+(True) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.6002 Td
+(False) Tj
+ET
+BT
+/F2 7.4 Tf
+322 378.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 378.0002 Td
+(None) Tj
+ET
+BT
+/F2 7.4 Tf
+322 368.4002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 368.4002 Td
+(0) Tj
+ET
+BT
+/F2 8.0 Tf
+306 344.8002 Td
+(14.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 344.8002 Td
+(Which loop structure repeatedly executes a block) Tj
+ET
+BT
+/F1 7.8 Tf
+322 335.6002 Td
+(as long as its controlling test condition) Tj
+ET
+BT
+/F1 7.8 Tf
+322 326.4002 Td
+(remains True?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 314.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 314.7002 Td
+(for loop) Tj
+ET
+BT
+/F2 7.4 Tf
+322 305.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 305.1002 Td
+(while loop) Tj
+ET
+BT
+/F2 7.4 Tf
+322 295.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 295.5002 Td
+(do-while loop) Tj
+ET
+BT
+/F2 7.4 Tf
+322 285.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 285.9001 Td
+(repeat-until loop) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 6 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+6 0 obj
+<< /Length 8270 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 2: CONDITIONAL STATEMENTS AND LOOPS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 2 of 42) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(15.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Does standard Python have a native 'do-while') Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(loop construct?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(Yes, using do { } while \(cond\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(No, Python does not have a native do-while) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.9 Td
+(construct) Tj
+ET
+BT
+/F2 7.4 Tf
+58 735.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 735.3 Td
+(Yes, using repeat: while) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.7001 Td
+(Yes, in Python 3.10+) Tj
+ET
+BT
+/F2 8.0 Tf
+42 702.1001 Td
+(16.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 702.1001 Td
+(Which statement immediately terminates the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.9001 Td
+(execution of the innermost enclosing loop?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 681.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 681.2001 Td
+(continue) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.6001 Td
+(pass) Tj
+ET
+BT
+/F2 7.4 Tf
+58 662.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 662.0001 Td
+(break) Tj
+ET
+BT
+/F2 7.4 Tf
+58 652.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 652.4001 Td
+(exit) Tj
+ET
+BT
+/F2 8.0 Tf
+42 628.8002 Td
+(17.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.8002 Td
+(Which statement skips the remainder of the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.6002 Td
+(current iteration and jumps to the next cycle of) Tj
+ET
+BT
+/F1 7.8 Tf
+58 610.4001 Td
+(the loop?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 598.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 598.7001 Td
+(break) Tj
+ET
+BT
+/F2 7.4 Tf
+58 589.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 589.1002 Td
+(continue) Tj
+ET
+BT
+/F2 7.4 Tf
+58 579.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 579.5002 Td
+(pass) Tj
+ET
+BT
+/F2 7.4 Tf
+58 569.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 569.9002 Td
+(skip) Tj
+ET
+BT
+/F2 8.0 Tf
+42 546.3002 Td
+(18.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 546.3002 Td
+(Which statement is a syntactical null-operation) Tj
+ET
+BT
+/F1 7.8 Tf
+58 537.1002 Td
+(\(no-op\) used as a placeholder in empty code) Tj
+ET
+BT
+/F1 7.8 Tf
+58 527.9002 Td
+(blocks?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 516.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 516.2002 Td
+(continue) Tj
+ET
+BT
+/F2 7.4 Tf
+58 506.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 506.6002 Td
+(pass) Tj
+ET
+BT
+/F2 7.4 Tf
+58 497.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 497.0002 Td
+(break) Tj
+ET
+BT
+/F2 7.4 Tf
+58 487.4002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 487.4002 Td
+(dummy) Tj
+ET
+BT
+/F2 8.0 Tf
+42 463.8002 Td
+(19.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 463.8002 Td
+(What is the sequence of integers generated by) Tj
+ET
+BT
+/F1 7.8 Tf
+58 454.6002 Td
+(list\(range\(5\)\) in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 442.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 442.9001 Td
+([1, 2, 3, 4, 5]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 433.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 433.3001 Td
+([0, 1, 2, 3, 4]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 423.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 423.7001 Td
+([0, 1, 2, 3, 4, 5]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 414.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 414.1001 Td
+([1, 2, 3, 4]) Tj
+ET
+BT
+/F2 8.0 Tf
+42 390.5001 Td
+(20.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 390.5001 Td
+(What does range\(2, 10, 3\) generate?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 378.8001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 378.8001 Td
+([2, 5, 8]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 369.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 369.2001 Td
+([2, 4, 6, 8]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 359.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 359.6001 Td
+([2, 5, 8, 11]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 350.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 350.0001 Td
+([3, 6, 9]) Tj
+ET
+BT
+/F2 8.0 Tf
+42 326.4001 Td
+(21.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 326.4001 Td
+(What is the default start value in range\(stop\)) Tj
+ET
+BT
+/F1 7.8 Tf
+58 317.2001 Td
+(if not specified?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 305.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 305.5001 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 295.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 295.9001 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 286.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 286.3 Td
+(-1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 276.7 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 276.7 Td
+(None) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(22.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What is the default step increment in) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(range\(start, stop\) if omitted?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(-1) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(23.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(What happens if the condition in a while loop) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(never becomes False and no break is encountered?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(Interpreter crashes immediately with) Tj
+ET
+BT
+/F1 7.4 Tf
+336 681.2001 Td
+(StackOverflow) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.6001 Td
+(An infinite loop occurs) Tj
+ET
+BT
+/F2 7.4 Tf
+322 662.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 662.0001 Td
+(SyntaxError is raised) Tj
+ET
+BT
+/F2 7.4 Tf
+322 652.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 652.4001 Td
+(PVM exits after 1000 cycles) Tj
+ET
+BT
+/F2 8.0 Tf
+306 628.8002 Td
+(24.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.8002 Td
+(What is the output of print\(10 % 2 == 0\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 617.1002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 617.1002 Td
+(True) Tj
+ET
+BT
+/F2 7.4 Tf
+322 607.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.5002 Td
+(False) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.9002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.9002 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.3002 Td
+(None) Tj
+ET
+BT
+/F2 8.0 Tf
+306 564.7003 Td
+(25.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.7003 Td
+(Which built-in function returns pairs of index) Tj
+ET
+BT
+/F1 7.8 Tf
+322 555.5002 Td
+(and element while iterating over a collection?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 543.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 543.8002 Td
+(zip\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 534.2003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 534.2003 Td
+(enumerate\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.6003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.6003 Td
+(range\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 515.0003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 515.0003 Td
+(iter\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 491.4003 Td
+(26.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 491.4003 Td
+(Which built-in function pairs elements from) Tj
+ET
+BT
+/F1 7.8 Tf
+322 482.2003 Td
+(multiple iterables element-wise in lockstep?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 470.5003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 470.5003 Td
+(zip\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.9003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.9003 Td
+(pair\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 451.3003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 451.3003 Td
+(combine\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.7003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.7003 Td
+(map\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 418.1003 Td
+(27.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 418.1003 Td
+(When does the else block attached to a while or) Tj
+ET
+BT
+/F1 7.8 Tf
+322 408.9002 Td
+(for loop execute in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 397.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 397.2002 Td
+(Every iteration of the loop) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.6002 Td
+(Only if the loop completes normally without) Tj
+ET
+BT
+/F1 7.4 Tf
+336 379.0002 Td
+(encountering a break) Tj
+ET
+BT
+/F2 7.4 Tf
+322 369.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 369.4002 Td
+(Only if a break is encountered) Tj
+ET
+BT
+/F2 7.4 Tf
+322 359.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 359.8002 Td
+(Whenever an exception occurs) Tj
+ET
+BT
+/F2 8.0 Tf
+306 336.2002 Td
+(28.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 336.2002 Td
+(What is the ternary conditional expression) Tj
+ET
+BT
+/F1 7.8 Tf
+322 327.0002 Td
+(syntax in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 315.3002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 315.3002 Td
+(condition ? x : y) Tj
+ET
+BT
+/F2 7.4 Tf
+322 305.7002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 305.7002 Td
+(x if condition else y) Tj
+ET
+BT
+/F2 7.4 Tf
+322 296.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 296.1002 Td
+(if condition then x else y) Tj
+ET
+BT
+/F2 7.4 Tf
+322 286.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 286.5002 Td
+(choose\(condition, x, y\)) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 8 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+8 0 obj
+<< /Length 7820 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 2: CONDITIONAL STATEMENTS AND LOOPS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 3 of 42) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(29.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Which function in the random module selects a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(single random element from a non-empty sequence?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(random.sample\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(random.choice\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(random.select\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(random.pick\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(30.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(Which function in the random module shuffles a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(mutable sequence in-place?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(random.shuffle\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(random.permute\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(random.reorder\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(random.mix\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(31.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(What is the output of len\(range\(1, 10, 2\)\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 625.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 625.7001 Td
+(4) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.1002 Td
+(5) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.5002 Td
+(9) Tj
+ET
+BT
+/F2 7.4 Tf
+58 596.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 596.9002 Td
+(10) Tj
+ET
+BT
+/F2 8.0 Tf
+42 573.3002 Td
+(32.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 573.3002 Td
+(What does list\(range\(5, 0, -1\)\) produce?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 561.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 561.6002 Td
+([5, 4, 3, 2, 1]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 552.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 552.0002 Td
+([5, 4, 3, 2, 1, 0]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 542.4003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 542.4003 Td
+([4, 3, 2, 1]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 532.8003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 532.8003 Td
+([0, 1, 2, 3, 4, 5]) Tj
+ET
+BT
+/F2 8.0 Tf
+42 509.2003 Td
+(33.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 509.2003 Td
+(Which of the following values is evaluated as) Tj
+ET
+BT
+/F1 7.8 Tf
+58 500.0003 Td
+(False in a boolean conditional context?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 488.3003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 488.3003 Td
+([]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 478.7003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 478.7003 Td
+({}) Tj
+ET
+BT
+/F2 7.4 Tf
+58 469.1003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 469.1003 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 459.5003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 459.5003 Td
+(All of the above) Tj
+ET
+BT
+/F2 8.0 Tf
+42 435.9003 Td
+(34.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 435.9003 Td
+(Which of the following values is evaluated as) Tj
+ET
+BT
+/F1 7.8 Tf
+58 426.7003 Td
+(True in a boolean context?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 415.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 415.0002 Td
+('0') Tj
+ET
+BT
+/F2 7.4 Tf
+58 405.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 405.4002 Td
+([0]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 395.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 395.8002 Td
+(\(-1\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 386.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 386.2002 Td
+(All of the above) Tj
+ET
+BT
+/F2 8.0 Tf
+42 362.6002 Td
+(35.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 362.6002 Td
+(What is the result of 10 > 5 and 5 < 2 in) Tj
+ET
+BT
+/F1 7.8 Tf
+58 353.4002 Td
+(Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 341.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 341.7002 Td
+(True) Tj
+ET
+BT
+/F2 7.4 Tf
+58 332.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 332.1002 Td
+(False) Tj
+ET
+BT
+/F2 7.4 Tf
+58 322.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 322.5002 Td
+(None) Tj
+ET
+BT
+/F2 7.4 Tf
+58 312.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 312.9002 Td
+(TypeError) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(36.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What is the result of 10 > 5 or 5 < 2 in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 772.3 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 772.3 Td
+(True) Tj
+ET
+BT
+/F2 7.4 Tf
+322 762.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 762.7 Td
+(False) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.1 Td
+(None) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.5001 Td
+(1) Tj
+ET
+BT
+/F2 8.0 Tf
+306 719.9001 Td
+(37.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 719.9001 Td
+(What is the value of x after: x = 10; x += 5?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 708.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 708.2001 Td
+(10) Tj
+ET
+BT
+/F2 7.4 Tf
+322 698.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 698.6001 Td
+(15) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.0001 Td
+(5) Tj
+ET
+BT
+/F2 7.4 Tf
+322 679.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 679.4001 Td
+(50) Tj
+ET
+BT
+/F2 8.0 Tf
+306 655.8002 Td
+(38.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 655.8002 Td
+(Which loop is optimal when the exact number of) Tj
+ET
+BT
+/F1 7.8 Tf
+322 646.6002 Td
+(iterations is known in advance?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 634.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 634.9001 Td
+(while loop) Tj
+ET
+BT
+/F2 7.4 Tf
+322 625.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 625.3002 Td
+(for loop with range\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 615.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 615.7002 Td
+(infinite while loop) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.1002 Td
+(recursion only) Tj
+ET
+BT
+/F2 8.0 Tf
+306 582.5002 Td
+(39.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 582.5002 Td
+(Which loop structure is optimal when looping) Tj
+ET
+BT
+/F1 7.8 Tf
+322 573.3002 Td
+(depends on an external condition or sentinel) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.1002 Td
+(input?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 552.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 552.4002 Td
+(for loop with range\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 542.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 542.8002 Td
+(while loop) Tj
+ET
+BT
+/F2 7.4 Tf
+322 533.2003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 533.2003 Td
+(nested for loop) Tj
+ET
+BT
+/F2 7.4 Tf
+322 523.6003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 523.6003 Td
+(list comprehension) Tj
+ET
+BT
+/F2 8.0 Tf
+306 500.0003 Td
+(40.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 500.0003 Td
+(What does random.seed\(s\) accomplish?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 488.3003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 488.3003 Td
+(Generates a cryptographically secure key) Tj
+ET
+BT
+/F2 7.4 Tf
+322 478.7003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 478.7003 Td
+(Initializes the PRNG with a fixed seed for) Tj
+ET
+BT
+/F1 7.4 Tf
+336 470.1003 Td
+(reproducible pseudo-random sequences) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.5003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.5003 Td
+(Seeds RAM with zeros) Tj
+ET
+BT
+/F2 7.4 Tf
+322 450.9003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 450.9003 Td
+(Deletes existing random history) Tj
+ET
+BT
+/F2 8.0 Tf
+306 427.3003 Td
+(41.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 427.3003 Td
+(What is the output of the following loop?\\nx =) Tj
+ET
+BT
+/F1 7.8 Tf
+322 418.1003 Td
+(0\\nwhile x < 5:\\n x += 2\\nprint\(x\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 406.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 406.4002 Td
+(4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 396.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 396.8002 Td
+(5) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.2002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.2002 Td
+(6) Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.6002 Td
+(Infinite loop) Tj
+ET
+BT
+/F2 8.0 Tf
+306 354.0002 Td
+(42.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 354.0002 Td
+(Consider: for i in range\(1, 4\): print\(i,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 344.8002 Td
+(end=''\). What is displayed?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 333.1002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 333.1002 Td
+(1234) Tj
+ET
+BT
+/F2 7.4 Tf
+322 323.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 323.5002 Td
+(123) Tj
+ET
+BT
+/F2 7.4 Tf
+322 313.9002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 313.9002 Td
+(0123) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.3002 Td
+(1 2 3) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 10 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+10 0 obj
+<< /Length 8236 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 2: CONDITIONAL STATEMENTS AND LOOPS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 4 of 42) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(43.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What is the output of:\\nfor i in range\(3\):\\n if) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(i == 1: break\\nelse:\\n print\('End'\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(End) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(No output is printed) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(0 End) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(44.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(What is the output of:\\nfor i in range\(3\):\\n if) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(i == 5: break\\nelse:\\n print\('Finished'\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(Finished) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(0 1 2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(No output) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(SyntaxError) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(45.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(What is the value of c after:\\nc = 0\\nfor i in) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(range\(3\):\\n for j in range\(2\):\\n c += 1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.5001 Td
+(5) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.9001 Td
+(6) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.3002 Td
+(9) Tj
+ET
+BT
+/F2 7.4 Tf
+58 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 587.7002 Td
+(3) Tj
+ET
+BT
+/F2 8.0 Tf
+42 564.1002 Td
+(46.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(What does the following snippet print?\\na = 10;) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(b = 20\\nval = a if a > b else b\\nprint\(val\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 543.2002 Td
+(10) Tj
+ET
+BT
+/F2 7.4 Tf
+58 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 533.6002 Td
+(20) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.0002 Td
+(True) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.4003 Td
+(False) Tj
+ET
+BT
+/F2 8.0 Tf
+42 490.8003 Td
+(47.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 490.8003 Td
+(What is printed by:\\ns = 0\\nfor i in range\(1,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6003 Td
+(10\):\\n if i % 3 == 0:\\n s += i\\nprint\(s\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 469.9002 Td
+(9) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.3002 Td
+(18) Tj
+ET
+BT
+/F2 7.4 Tf
+58 450.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 450.7002 Td
+(45) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.1002 Td
+(12) Tj
+ET
+BT
+/F2 8.0 Tf
+42 417.5002 Td
+(48.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 417.5002 Td
+(What is the output of:\\nx = 5\\nwhile x > 0:\\n x) Tj
+ET
+BT
+/F1 7.8 Tf
+58 408.3002 Td
+(-= 1\\n if x == 2: continue\\n print\(x, end=' '\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 396.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 396.6002 Td
+(4 3 2 1 0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 387.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 387.0002 Td
+(4 3 1 0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.4002 Td
+(5 4 3 1 0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 367.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 367.8002 Td
+(4 3 1) Tj
+ET
+BT
+/F2 8.0 Tf
+42 344.2002 Td
+(49.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 344.2002 Td
+(What is the output of:\\nfor i, char in) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.0002 Td
+(enumerate\('CSE'\):\\n if i == 1: print\(char\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 323.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 323.3001 Td
+(C) Tj
+ET
+BT
+/F2 7.4 Tf
+58 313.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 313.7001 Td
+(S) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.1001 Td
+(E) Tj
+ET
+BT
+/F2 7.4 Tf
+58 294.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 294.5001 Td
+(1) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(50.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What is the output of:\\nnames = ['A', 'B'];) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(scores = [90, 80]\\nfor n, s in zip\(names,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(scores\):\\n print\(f'{n}:{s}', end=' '\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(90 B:80) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.3 Td
+(A:80 B:90) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.7 Td
+(['A', 90]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.1 Td
+(Error) Tj
+ET
+BT
+/F2 8.0 Tf
+306 701.5001 Td
+(51.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(If zip\(\) is given two lists of unequal lengths) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(\(e.g. len 3 and len 5\), when does iteration) Tj
+ET
+BT
+/F1 7.8 Tf
+322 683.1 Td
+(stop?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.4 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.4 Td
+(Stops when the shortest iterable is) Tj
+ET
+BT
+/F1 7.4 Tf
+336 662.8 Td
+(exhausted) Tj
+ET
+BT
+/F2 7.4 Tf
+322 653.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 653.2001 Td
+(Fills missing elements with None) Tj
+ET
+BT
+/F2 7.4 Tf
+322 643.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 643.6001 Td
+(Raises a ValueError) Tj
+ET
+BT
+/F2 7.4 Tf
+322 634.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 634.0001 Td
+(Loops infinitely) Tj
+ET
+BT
+/F2 8.0 Tf
+306 610.4001 Td
+(52.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 610.4001 Td
+(Which module in the standard library provides) Tj
+ET
+BT
+/F1 7.8 Tf
+322 601.2001 Td
+(zip_longest\(\) to fill missing elements with a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 592.0001 Td
+(default value?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 580.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 580.3001 Td
+(collections) Tj
+ET
+BT
+/F2 7.4 Tf
+322 570.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 570.7001 Td
+(itertools) Tj
+ET
+BT
+/F2 7.4 Tf
+322 561.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 561.1002 Td
+(functools) Tj
+ET
+BT
+/F2 7.4 Tf
+322 551.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 551.5002 Td
+(operator) Tj
+ET
+BT
+/F2 8.0 Tf
+306 527.9002 Td
+(53.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 527.9002 Td
+(What does the expression [x * 2 for x in) Tj
+ET
+BT
+/F1 7.8 Tf
+322 518.7002 Td
+(range\(4\) if x % 2 == 0] produce?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 507.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 507.0002 Td
+([0, 4]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 497.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 497.4002 Td
+([0, 2, 4, 6]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 487.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 487.8002 Td
+([2, 4]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 478.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 478.2002 Td
+([4, 8]) Tj
+ET
+BT
+/F2 8.0 Tf
+306 454.6002 Td
+(54.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 454.6002 Td
+(What is the output of:\\ni = 1\\nwhile i < 10:\\n i) Tj
+ET
+BT
+/F1 7.8 Tf
+322 445.4001 Td
+(*= 2\\nprint\(i\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 433.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 433.7001 Td
+(8) Tj
+ET
+BT
+/F2 7.4 Tf
+322 424.1001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 424.1001 Td
+(16) Tj
+ET
+BT
+/F2 7.4 Tf
+322 414.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 414.5001 Td
+(10) Tj
+ET
+BT
+/F2 7.4 Tf
+322 404.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 404.9001 Td
+(32) Tj
+ET
+BT
+/F2 8.0 Tf
+306 381.3001 Td
+(55.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 381.3001 Td
+(What is the output of:\\ncount = 0\\nfor i in) Tj
+ET
+BT
+/F1 7.8 Tf
+322 372.1001 Td
+(range\(1, 5\):\\n for j in range\(i\):\\n count +=) Tj
+ET
+BT
+/F1 7.8 Tf
+322 362.9001 Td
+(1\\nprint\(count\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 351.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 351.2001 Td
+(10) Tj
+ET
+BT
+/F2 7.4 Tf
+322 341.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 341.6001 Td
+(16) Tj
+ET
+BT
+/F2 7.4 Tf
+322 332.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 332.0001 Td
+(14) Tj
+ET
+BT
+/F2 7.4 Tf
+322 322.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 322.4001 Td
+(20) Tj
+ET
+BT
+/F2 8.0 Tf
+306 298.8 Td
+(56.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 298.8 Td
+(What is the result of De Morgan's Law) Tj
+ET
+BT
+/F1 7.8 Tf
+322 289.6 Td
+(equivalence: not \(A and B\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 277.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 277.9 Td
+(\(not A\) and \(not B\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 268.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 268.3 Td
+(\(not A\) or \(not B\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 258.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 258.7 Td
+(not A and B) Tj
+ET
+BT
+/F2 7.4 Tf
+322 249.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 249.1 Td
+(A or B) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 12 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+12 0 obj
+<< /Length 8716 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 2: CONDITIONAL STATEMENTS AND LOOPS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 5 of 42) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(57.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What is the result of De Morgan's Law) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(equivalence: not \(A or B\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(\(not A\) and \(not B\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(\(not A\) or \(not B\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(A and not B) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(not A or B) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(58.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(What does random.sample\([10, 20, 30, 40], 2\)) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(return?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(A list of 2 unique random elements chosen) Tj
+ET
+BT
+/F1 7.4 Tf
+72 681.2001 Td
+(without replacement) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.6001 Td
+(A list of 2 random elements chosen with) Tj
+ET
+BT
+/F1 7.4 Tf
+72 663.0001 Td
+(replacement) Tj
+ET
+BT
+/F2 7.4 Tf
+58 653.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 653.4001 Td
+(A 2D array) Tj
+ET
+BT
+/F2 7.4 Tf
+58 643.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 643.8002 Td
+(The sum of 2 random elements) Tj
+ET
+BT
+/F2 8.0 Tf
+42 620.2002 Td
+(59.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 620.2002 Td
+(What does random.choices\([1, 2, 3], k=2\) perform) Tj
+ET
+BT
+/F1 7.8 Tf
+58 611.0002 Td
+(differently from random.sample\(\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 599.3002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 599.3002 Td
+(Choices selects with replacement; sample) Tj
+ET
+BT
+/F1 7.4 Tf
+72 590.7002 Td
+(selects without replacement) Tj
+ET
+BT
+/F2 7.4 Tf
+58 581.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 581.1002 Td
+(Sample selects with replacement; choices) Tj
+ET
+BT
+/F1 7.4 Tf
+72 572.5002 Td
+(selects without) Tj
+ET
+BT
+/F2 7.4 Tf
+58 562.9003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 562.9003 Td
+(Choices works only with integers) Tj
+ET
+BT
+/F2 7.4 Tf
+58 553.3003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 553.3003 Td
+(Sample works only with strings) Tj
+ET
+BT
+/F2 8.0 Tf
+42 529.7003 Td
+(60.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 529.7003 Td
+(What is the output of:\\nfor x in []:\\n) Tj
+ET
+BT
+/F1 7.8 Tf
+58 520.5003 Td
+(print\('Loop'\)\\nelse:\\n print\('Empty'\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 508.8003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 508.8003 Td
+(Loop) Tj
+ET
+BT
+/F2 7.4 Tf
+58 499.2003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 499.2003 Td
+(Empty) Tj
+ET
+BT
+/F2 7.4 Tf
+58 489.6003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 489.6003 Td
+(Loop Empty) Tj
+ET
+BT
+/F2 7.4 Tf
+58 480.0003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 480.0003 Td
+(No output) Tj
+ET
+BT
+/F2 8.0 Tf
+42 456.4003 Td
+(61.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 456.4003 Td
+(What is the output of:\\nx = 0\\nif x:\\n) Tj
+ET
+BT
+/F1 7.8 Tf
+58 447.2003 Td
+(print\('Yes'\)\\nelse:\\n print\('No'\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 435.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 435.5002 Td
+(Yes) Tj
+ET
+BT
+/F2 7.4 Tf
+58 425.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 425.9002 Td
+(No) Tj
+ET
+BT
+/F2 7.4 Tf
+58 416.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 416.3002 Td
+(SyntaxError) Tj
+ET
+BT
+/F2 7.4 Tf
+58 406.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 406.7002 Td
+(None) Tj
+ET
+BT
+/F2 8.0 Tf
+42 383.1002 Td
+(62.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 383.1002 Td
+(What is the output of:\\nx = 'Python'\\nif x:\\n) Tj
+ET
+BT
+/F1 7.8 Tf
+58 373.9002 Td
+(print\('Truthy'\)\\nelse:\\n print\('Falsy'\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 362.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 362.2002 Td
+(Truthy) Tj
+ET
+BT
+/F2 7.4 Tf
+58 352.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 352.6002 Td
+(Falsy) Tj
+ET
+BT
+/F2 7.4 Tf
+58 343.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 343.0002 Td
+(None) Tj
+ET
+BT
+/F2 7.4 Tf
+58 333.4002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 333.4002 Td
+(Error) Tj
+ET
+BT
+/F2 8.0 Tf
+42 309.8002 Td
+(63.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 309.8002 Td
+(What is the output of:\\na = [1, 2, 3]\\nwhile) Tj
+ET
+BT
+/F1 7.8 Tf
+58 300.6002 Td
+(a:\\n a.pop\(\)\\nprint\(len\(a\)\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 288.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 288.9001 Td
+(3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 279.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 279.3001 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 269.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 269.7001 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 260.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 260.1001 Td
+(Infinite loop) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(64.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What is the output of:\\nfor i in range\(3\):\\n) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(pass\\nprint\(i\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(None) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(NameError: i is not defined) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(65.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(What is the output of:\\ntotal = 0\\nfor i in) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(range\(5\):\\n if i == 3: break\\n total +=) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(i\\nprint\(total\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.6 Td
+(3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.0001 Td
+(6) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.4001 Td
+(10) Tj
+ET
+BT
+/F2 7.4 Tf
+322 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 651.8001 Td
+(0) Tj
+ET
+BT
+/F2 8.0 Tf
+306 628.2001 Td
+(66.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(What is the output of:\\ntotal = 0\\nfor i in) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(range\(5\):\\n if i == 3: continue\\n total +=) Tj
+ET
+BT
+/F1 7.8 Tf
+322 609.8001 Td
+(i\\nprint\(total\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 598.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 598.1001 Td
+(10) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.5001 Td
+(7) Tj
+ET
+BT
+/F2 7.4 Tf
+322 578.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 578.9001 Td
+(6) Tj
+ET
+BT
+/F2 7.4 Tf
+322 569.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 569.3002 Td
+(4) Tj
+ET
+BT
+/F2 8.0 Tf
+306 545.7002 Td
+(67.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 545.7002 Td
+(What is the output of print\(list\(range\(0\)\)\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 534.0002 Td
+([]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.4002 Td
+([0]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.8002 Td
+([-1]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 505.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 505.2002 Td
+(ValueError) Tj
+ET
+BT
+/F2 8.0 Tf
+306 481.6002 Td
+(68.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6002 Td
+(What does the expression 0 < x < 10 mean in) Tj
+ET
+BT
+/F1 7.8 Tf
+322 472.4002 Td
+(Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.7002 Td
+(Equivalent to \(0 < x\) and \(x < 10\) with x) Tj
+ET
+BT
+/F1 7.4 Tf
+336 452.1002 Td
+(evaluated once) Tj
+ET
+BT
+/F2 7.4 Tf
+322 442.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 442.5002 Td
+(Equivalent to \(0 < x\) < 10 \(comparing) Tj
+ET
+BT
+/F1 7.4 Tf
+336 433.9002 Td
+(boolean with 10\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 424.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 424.3002 Td
+(SyntaxError) Tj
+ET
+BT
+/F2 7.4 Tf
+322 414.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 414.7002 Td
+(Chained bitwise operation) Tj
+ET
+BT
+/F2 8.0 Tf
+306 391.1002 Td
+(69.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 391.1002 Td
+(In C or Java, 0 < x < 10 evaluates \(0 < x\) as 0) Tj
+ET
+BT
+/F1 7.8 Tf
+322 381.9001 Td
+(or 1, then compares with 10. How does Python) Tj
+ET
+BT
+/F1 7.8 Tf
+322 372.7001 Td
+(differ?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 361.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 361.0001 Td
+(Python chains relational comparisons using) Tj
+ET
+BT
+/F1 7.4 Tf
+336 352.4001 Td
+(short-circuit logical AND) Tj
+ET
+BT
+/F2 7.4 Tf
+322 342.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 342.8001 Td
+(Python evaluates from right to left) Tj
+ET
+BT
+/F2 7.4 Tf
+322 333.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 333.2001 Td
+(Python converts both to floating point) Tj
+ET
+BT
+/F2 7.4 Tf
+322 323.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 323.6001 Td
+(Python raises a TypeError) Tj
+ET
+BT
+/F2 8.0 Tf
+306 300.0001 Td
+(70.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 300.0001 Td
+(What is the output of:\\nx = 10\\nprint\('High' if) Tj
+ET
+BT
+/F1 7.8 Tf
+322 290.8001 Td
+(x > 15 else 'Medium' if x > 5 else 'Low'\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 279.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 279.1001 Td
+('High') Tj
+ET
+BT
+/F2 7.4 Tf
+322 269.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 269.5001 Td
+('Medium') Tj
+ET
+BT
+/F2 7.4 Tf
+322 259.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 259.9001 Td
+('Low') Tj
+ET
+BT
+/F2 7.4 Tf
+322 250.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 250.3 Td
+(SyntaxError) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 14 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+14 0 obj
+<< /Length 8897 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 2: CONDITIONAL STATEMENTS AND LOOPS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 6 of 42) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(71.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What is the output of:\\nfor i in range\(1, 4\):\\n) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(print\(i * '*'\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(*\\n**\\n***) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(***\\n**\\n*) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(****) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(*) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(72.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(What is the output of:\\nx = 1\\nwhile x < 4:\\n) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(print\(x, end=''\)\\n x += 1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(123) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(1234) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(0123) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(1 2 3) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(73.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(What does the modulus operator x % n accomplish) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(in circular array indexing?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.5001 Td
+(Constrains index x strictly within the) Tj
+ET
+BT
+/F1 7.4 Tf
+72 607.9001 Td
+(boundary [0, n - 1]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 598.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 598.3002 Td
+(Expands the array dynamically) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.7002 Td
+(Checks if x is prime) Tj
+ET
+BT
+/F2 7.4 Tf
+58 579.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 579.1002 Td
+(Inverts the array order) Tj
+ET
+BT
+/F2 8.0 Tf
+42 555.5002 Td
+(74.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 555.5002 Td
+(What is the output of: \(13 % 12\) in 12-hour) Tj
+ET
+BT
+/F1 7.8 Tf
+58 546.3002 Td
+(clock modular arithmetic?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 534.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 534.6002 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 525.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 525.0002 Td
+(12) Tj
+ET
+BT
+/F2 7.4 Tf
+58 515.4003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 515.4003 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 505.8003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 505.8003 Td
+(13) Tj
+ET
+BT
+/F2 8.0 Tf
+42 482.2003 Td
+(75.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 482.2003 Td
+(What is the output of: \(-1 % 12\) in Python) Tj
+ET
+BT
+/F1 7.8 Tf
+58 473.0002 Td
+(modular arithmetic?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 461.3002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 461.3002 Td
+(11) Tj
+ET
+BT
+/F2 7.4 Tf
+58 451.7002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 451.7002 Td
+(-1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 442.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 442.1002 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 432.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 432.5002 Td
+(0) Tj
+ET
+BT
+/F2 8.0 Tf
+42 408.9002 Td
+(76.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 408.9002 Td
+(What algorithm does Python's standard random) Tj
+ET
+BT
+/F1 7.8 Tf
+58 399.7002 Td
+(module use as its core PRNG engine?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 388.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 388.0002 Td
+(Linear Congruential Generator \(LCG\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 378.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 378.4002 Td
+(Mersenne Twister \(MT19937\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 368.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 368.8002 Td
+(Xorshift128+) Tj
+ET
+BT
+/F2 7.4 Tf
+58 359.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 359.2002 Td
+(ChaCha20) Tj
+ET
+BT
+/F2 8.0 Tf
+42 335.6002 Td
+(77.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.6002 Td
+(What is the period of the Mersenne Twister PRNG) Tj
+ET
+BT
+/F1 7.8 Tf
+58 326.4001 Td
+(implemented in Python's random module?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 314.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 314.7001 Td
+(2^32 - 1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 305.1001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 305.1001 Td
+(2^64 - 1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 295.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 295.5001 Td
+(2^19937 - 1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 285.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 285.9001 Td
+(2^128) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(78.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Is the standard random module cryptographically) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(secure for passwords or security tokens?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(Yes, it is immune to cryptanalysis) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(No; use the secrets module for cryptographic) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.9 Td
+(randomness) Tj
+ET
+BT
+/F2 7.4 Tf
+322 735.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 735.3 Td
+(Yes, if seeded with time.time\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.7001 Td
+(Yes, in Python 3.11+) Tj
+ET
+BT
+/F2 8.0 Tf
+306 702.1001 Td
+(79.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 702.1001 Td
+(Which module introduced in Python 3.6 should be) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.9001 Td
+(used for generating cryptographically secure) Tj
+ET
+BT
+/F1 7.8 Tf
+322 683.7001 Td
+(tokens and secrets?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 672.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 672.0001 Td
+(crypto) Tj
+ET
+BT
+/F2 7.4 Tf
+322 662.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 662.4001 Td
+(secrets) Tj
+ET
+BT
+/F2 7.4 Tf
+322 652.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 652.8001 Td
+(ssl) Tj
+ET
+BT
+/F2 7.4 Tf
+322 643.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 643.2001 Td
+(hashlib) Tj
+ET
+BT
+/F2 8.0 Tf
+306 619.6002 Td
+(80.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.6002 Td
+(What is the time complexity of range\(start,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 610.4001 Td
+(stop, step\) object creation in Python 3?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 598.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 598.7001 Td
+(O\(N\) where N is number of elements) Tj
+ET
+BT
+/F2 7.4 Tf
+322 589.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 589.1002 Td
+(O\(1\) constant time) Tj
+ET
+BT
+/F2 7.4 Tf
+322 579.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 579.5002 Td
+(O\(log N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 569.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 569.9002 Td
+(O\(step\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 546.3002 Td
+(81.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 546.3002 Td
+(What is the space complexity of a range object) Tj
+ET
+BT
+/F1 7.8 Tf
+322 537.1002 Td
+(in Python 3?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 525.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 525.4002 Td
+(O\(N\) memory allocation) Tj
+ET
+BT
+/F2 7.4 Tf
+322 515.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 515.8002 Td
+(O\(1\) constant memory storing only start,) Tj
+ET
+BT
+/F1 7.4 Tf
+336 507.2002 Td
+(stop, step attributes) Tj
+ET
+BT
+/F2 7.4 Tf
+322 497.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 497.6002 Td
+(O\(log N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 488.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 488.0002 Td
+(O\(step^2\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 464.4002 Td
+(82.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 464.4002 Td
+(What is the time complexity of the membership) Tj
+ET
+BT
+/F1 7.8 Tf
+322 455.2002 Td
+(test: \(999_999 in range\(1_000_000\)\) in Python 3?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 443.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 443.5002 Td
+(O\(N\) linear scan) Tj
+ET
+BT
+/F2 7.4 Tf
+322 433.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 433.9002 Td
+(O\(1\) arithmetic calculation) Tj
+ET
+BT
+/F2 7.4 Tf
+322 424.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 424.3002 Td
+(O\(log N\) binary search) Tj
+ET
+BT
+/F2 7.4 Tf
+322 414.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 414.7002 Td
+(O\(sqrt\(N\)\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 391.1002 Td
+(83.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 391.1002 Td
+(How does Python 3 optimize \(x in range\(start,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 381.9001 Td
+(stop, step\)\) to achieve O\(1\) time complexity?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 370.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 370.2001 Td
+(By performing a mathematical bounds check) Tj
+ET
+BT
+/F1 7.4 Tf
+336 361.6001 Td
+(and modulus step alignment test) Tj
+ET
+BT
+/F2 7.4 Tf
+322 352.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 352.0001 Td
+(By hashing the range into a set) Tj
+ET
+BT
+/F2 7.4 Tf
+322 342.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 342.4001 Td
+(By using a binary search tree) Tj
+ET
+BT
+/F2 7.4 Tf
+322 332.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 332.8001 Td
+(By compiling the range into C array) Tj
+ET
+BT
+/F2 8.0 Tf
+306 309.2001 Td
+(84.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 309.2001 Td
+(What occurs when modifying a list while) Tj
+ET
+BT
+/F1 7.8 Tf
+322 300.0001 Td
+(iterating directly over it: for x in my_list:) Tj
+ET
+BT
+/F1 7.8 Tf
+322 290.8001 Td
+(my_list.remove\(x\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 279.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 279.1001 Td
+(Safe removal of all items) Tj
+ET
+BT
+/F2 7.4 Tf
+322 269.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 269.5001 Td
+(Index shifting skips elements because) Tj
+ET
+BT
+/F1 7.4 Tf
+336 260.9001 Td
+(internal loop pointer advances monotonically) Tj
+ET
+BT
+/F2 7.4 Tf
+322 251.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 251.3 Td
+(RuntimeError: list changed size during) Tj
+ET
+BT
+/F1 7.4 Tf
+336 242.7 Td
+(iteration) Tj
+ET
+BT
+/F2 7.4 Tf
+322 233.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 233.1 Td
+(Memory leak) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 16 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+16 0 obj
+<< /Length 9221 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 2: CONDITIONAL STATEMENTS AND LOOPS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 7 of 42) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(85.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What is the idiomatic way to safely remove) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(elements from a list while iterating?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(Iterate over a shallow slice copy: for x in) Tj
+ET
+BT
+/F1 7.4 Tf
+72 754.5 Td
+(my_list[:]: or use list comprehension) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.9 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.9 Td
+(Use a while loop without index) Tj
+ET
+BT
+/F2 7.4 Tf
+58 735.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 735.3 Td
+(Delete items with del x) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.7001 Td
+(Set items to None) Tj
+ET
+BT
+/F2 8.0 Tf
+42 702.1001 Td
+(86.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 702.1001 Td
+(In nested loops with depth D and inner work) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.9001 Td
+(O\(1\), where each loop runs N times, what is the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 683.7001 Td
+(time complexity?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 672.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 672.0001 Td
+(O\(N * D\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 662.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 662.4001 Td
+(O\(N^D\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 652.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 652.8001 Td
+(O\(D^N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 643.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 643.2001 Td
+(O\(N log D\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 619.6002 Td
+(87.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.6002 Td
+(How can a program break completely out of) Tj
+ET
+BT
+/F1 7.8 Tf
+58 610.4001 Td
+(multiple deeply nested loops in Python without) Tj
+ET
+BT
+/F1 7.8 Tf
+58 601.2001 Td
+(using goto?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 589.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 589.5001 Td
+(Use a boolean flag, encapsulate loops inside) Tj
+ET
+BT
+/F1 7.4 Tf
+72 580.9001 Td
+(a function and return, or raise a custom) Tj
+ET
+BT
+/F1 7.4 Tf
+72 572.3002 Td
+(exception) Tj
+ET
+BT
+/F2 7.4 Tf
+58 562.7002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 562.7002 Td
+(Use 'break 2' or 'break all') Tj
+ET
+BT
+/F2 7.4 Tf
+58 553.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 553.1002 Td
+(Use the 'continue all' keyword) Tj
+ET
+BT
+/F2 7.4 Tf
+58 543.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 543.5002 Td
+(Python does not permit breaking nested loops) Tj
+ET
+BT
+/F2 8.0 Tf
+42 519.9003 Td
+(88.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 519.9003 Td
+(Does Python support multi-level break statements) Tj
+ET
+BT
+/F1 7.8 Tf
+58 510.7003 Td
+(such as 'break 2' like PHP or Java labeled) Tj
+ET
+BT
+/F1 7.8 Tf
+58 501.5002 Td
+(breaks?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 489.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 489.8002 Td
+(Yes, using break 2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 480.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 480.2002 Td
+(No, Python has no labeled breaks or) Tj
+ET
+BT
+/F1 7.4 Tf
+72 471.6002 Td
+(multi-level break syntax) Tj
+ET
+BT
+/F2 7.4 Tf
+58 462.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 462.0002 Td
+(Yes, using break\(2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 452.4002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 452.4002 Td
+(Yes, using exit\(2\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 428.8002 Td
+(89.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 428.8002 Td
+(What bytecode opcode does CPython emit for) Tj
+ET
+BT
+/F1 7.8 Tf
+58 419.6002 Td
+(standard for-loops over iterables?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 407.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 407.9002 Td
+(FOR_ITER) Tj
+ET
+BT
+/F2 7.4 Tf
+58 398.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 398.3002 Td
+(LOOP_START) Tj
+ET
+BT
+/F2 7.4 Tf
+58 388.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 388.7002 Td
+(ITER_NEXT) Tj
+ET
+BT
+/F2 7.4 Tf
+58 379.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 379.1002 Td
+(JUMP_LOOP) Tj
+ET
+BT
+/F2 8.0 Tf
+42 355.5002 Td
+(90.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 355.5002 Td
+(What protocol must an object implement to be) Tj
+ET
+BT
+/F1 7.8 Tf
+58 346.3001 Td
+(iterable in a Python for-loop?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 334.6001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 334.6001 Td
+(The Iterable Protocol: __iter__\(\) returning) Tj
+ET
+BT
+/F1 7.4 Tf
+72 326.0001 Td
+(an iterator with __next__\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 316.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 316.4001 Td
+(The Indexable Protocol: __index__\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 306.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 306.8001 Td
+(The Sequence Protocol: __len__\(\) only) Tj
+ET
+BT
+/F2 7.4 Tf
+58 297.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 297.2001 Td
+(The Callable Protocol: __call__\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 273.6001 Td
+(91.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 273.6001 Td
+(What exception signals the termination of) Tj
+ET
+BT
+/F1 7.8 Tf
+58 264.4001 Td
+(iteration in Python's iterator protocol?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 252.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 252.7001 Td
+(IndexError) Tj
+ET
+BT
+/F2 7.4 Tf
+58 243.1001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 243.1001 Td
+(StopIteration) Tj
+ET
+BT
+/F2 7.4 Tf
+58 233.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 233.5001 Td
+(KeyError) Tj
+ET
+BT
+/F2 7.4 Tf
+58 223.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 223.9001 Td
+(EOFError) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(92.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What is the output of:\\ndef gen\(\):\\n for i in) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(range\(2\):\\n yield i\\ng = gen\(\)\\nprint\(next\(g\),) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(next\(g\)\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(0 1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.3 Td
+(1 2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.7 Td
+(0 0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.1 Td
+(StopIteration) Tj
+ET
+BT
+/F2 8.0 Tf
+306 701.5001 Td
+(93.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(What occurs on a subsequent next\(g\) call when a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(generator has no more values to yield?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.6 Td
+(Returns None) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.0001 Td
+(Raises StopIteration exception) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.4001 Td
+(Returns -1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 651.8001 Td
+(Restarts from the beginning) Tj
+ET
+BT
+/F2 8.0 Tf
+306 628.2001 Td
+(94.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(What is the result of using a float step in) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(range\(0, 5, 0.5\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.3001 Td
+(Generates [0, 0.5, 1.0, ...]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.7001 Td
+(TypeError: 'float' object cannot be) Tj
+ET
+BT
+/F1 7.4 Tf
+336 589.1002 Td
+(interpreted as an integer) Tj
+ET
+BT
+/F2 7.4 Tf
+322 579.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 579.5002 Td
+(ValueError: float step) Tj
+ET
+BT
+/F2 7.4 Tf
+322 569.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 569.9002 Td
+(Automatically rounds to 1) Tj
+ET
+BT
+/F2 8.0 Tf
+306 546.3002 Td
+(95.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 546.3002 Td
+(Which library function should be used for) Tj
+ET
+BT
+/F1 7.8 Tf
+322 537.1002 Td
+(floating-point arithmetic ranges with) Tj
+ET
+BT
+/F1 7.8 Tf
+322 527.9002 Td
+(non-integer steps?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 516.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 516.2002 Td
+(numpy.arange\(\) or itertools.count\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 506.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 506.6002 Td
+(range.float\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 497.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 497.0002 Td
+(sys.frange\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 487.4002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 487.4002 Td
+(math.range\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 463.8002 Td
+(96.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 463.8002 Td
+(What is the output of:\\nx = 0\\nfor i in) Tj
+ET
+BT
+/F1 7.8 Tf
+322 454.6002 Td
+(range\(100\):\\n for j in range\(100\):\\n if i ==) Tj
+ET
+BT
+/F1 7.8 Tf
+322 445.4001 Td
+(j:\\n x += 1\\nprint\(x\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 433.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 433.7001 Td
+(100) Tj
+ET
+BT
+/F2 7.4 Tf
+322 424.1001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 424.1001 Td
+(10000) Tj
+ET
+BT
+/F2 7.4 Tf
+322 414.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 414.5001 Td
+(5050) Tj
+ET
+BT
+/F2 7.4 Tf
+322 404.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 404.9001 Td
+(0) Tj
+ET
+BT
+/F2 8.0 Tf
+306 381.3001 Td
+(97.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 381.3001 Td
+(What is the space complexity of an iterator) Tj
+ET
+BT
+/F1 7.8 Tf
+322 372.1001 Td
+(created by itertools.islice\(\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 360.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 360.4001 Td
+(O\(N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 350.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 350.8001 Td
+(O\(1\) lazy evaluation) Tj
+ET
+BT
+/F2 7.4 Tf
+322 341.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 341.2001 Td
+(O\(log N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 331.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 331.6001 Td
+(O\(N^2\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 308.0001 Td
+(98.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 308.0001 Td
+(What is the output of the following chained) Tj
+ET
+BT
+/F1 7.8 Tf
+322 298.8 Td
+(comparison: print\(1 < 2 < 3 > 2\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 287.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 287.1 Td
+(True) Tj
+ET
+BT
+/F2 7.4 Tf
+322 277.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 277.5 Td
+(False) Tj
+ET
+BT
+/F2 7.4 Tf
+322 267.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 267.9 Td
+(TypeError) Tj
+ET
+BT
+/F2 7.4 Tf
+322 258.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 258.3 Td
+(SyntaxError) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 18 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+18 0 obj
+<< /Length 1469 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 2: CONDITIONAL STATEMENTS AND LOOPS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 8 of 42) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(99.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What is the output of print\(1 < 2 > 3\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 772.3 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 772.3 Td
+(False \(since 1 < 2 is True, but 2 > 3 is) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.7 Td
+(False\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 754.1 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 754.1 Td
+(True) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.5001 Td
+(TypeError) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.9001 Td
+(1) Tj
+ET
+BT
+/F2 8.0 Tf
+42 701.3001 Td
+(100.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.3001 Td
+(What is the output of:\\nmatrix = [[1, 2], [3,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.1001 Td
+(4]]\\nflat = [val for row in matrix for val in) Tj
+ET
+BT
+/F1 7.8 Tf
+58 682.9001 Td
+(row]\\nprint\(flat\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.2001 Td
+([1, 2, 3, 4]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.6001 Td
+([[1, 2], [3, 4]]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 652.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 652.0001 Td
+([1, 3, 2, 4]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 642.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 642.4001 Td
+([4, 3, 2, 1]) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 20 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+20 0 obj
+<< /Length 5500 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 2: CONDITIONAL STATEMENTS AND LOOPS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 9 of 42) Tj
+ET
+BT
+/F2 10 Tf
+45 780 Td
+(SECTION B: DESCRIPTIVE & SUBJECTIVE QUESTIONS) Tj
+ET
+BT
+/F2 8.5 Tf
+45 760 Td
+(Q1. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 760 Td
+(Explain Python's Conditional Branching Architecture \(if, if-else, if-elif-else\). Discuss block) Tj
+ET
+BT
+/F1 8.5 Tf
+72 749.5 Td
+(scoping rules and short-circuit evaluation in complex boolean expressions.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 724.5 Td
+(Q2. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 724.5 Td
+(Analyze Nested Conditionals versus Chained Comparisons and Flat Refactoring. Discuss the 'Dangling) Tj
+ET
+BT
+/F1 8.5 Tf
+72 714 Td
+(Else' problem and how Python's indentation eliminates it.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 689 Td
+(Q3. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 689 Td
+(Explain the Ternary Conditional Operator \(x if condition else y\). Compare its syntax, readability,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 678.5 Td
+(evaluation semantics, and nesting with traditional if-else blocks.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 653.5 Td
+(Q4. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 653.5 Td
+(Explain the Iteration Protocol, While Loops, and Sentinel-Controlled Loops in Python. Detail) Tj
+ET
+BT
+/F1 8.5 Tf
+72 643 Td
+(condition evaluation, loop termination, and infinite loop prevention.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 618 Td
+(Q5. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 618 Td
+(Explain the For Loop in Python and the Sequence Iteration Mechanism. Compare Python's for loop) Tj
+ET
+BT
+/F1 8.5 Tf
+72 607.5 Td
+(with traditional index-based for loops in C/Java.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 582.5 Td
+(Q6. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 582.5 Td
+(Explain the range\(\) type in Python 3. Detail its lazy evaluation, arithmetic progression) Tj
+ET
+BT
+/F1 8.5 Tf
+72 572 Td
+(parameters, and internal memory efficiency compared to Python 2 range.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 547 Td
+(Q7. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 547 Td
+(Explain Break and Continue Statements. Detail how they alter control flow within while and for) Tj
+ET
+BT
+/F1 8.5 Tf
+72 536.5 Td
+(loops, and explain their interaction with the loop else clause.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 511.5 Td
+(Q8. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 511.5 Td
+(Analyze Nested Loops and Algorithmic Complexity. Explain how nested iteration impacts time) Tj
+ET
+BT
+/F1 8.5 Tf
+72 501 Td
+(complexity \(O\(N^2\), O\(N^3\)\) and strategies to optimize nested loops.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 476 Td
+(Q9. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 476 Td
+(Design an interactive Python program to simulate the Euclidean Algorithm for finding the Greatest) Tj
+ET
+BT
+/F1 8.5 Tf
+72 465.5 Td
+(Common Divisor \(GCD\) using while loops with execution trace.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 440.5 Td
+(Q10. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 440.5 Td
+(Implement a Number Guessing Game in Python with binary search hints, random number generation,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 430 Td
+(input validation, and attempt tracking.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 405 Td
+(Q11. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 405 Td
+(Design a Python program to generate Pascal's Triangle up to N rows using nested loops and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 394.5 Td
+(combinatorial binomial coefficients.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 369.5 Td
+(Q12. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 369.5 Td
+(Implement a comprehensive Primality Testing program utilizing Trial Division up to sqrt\(N\) and the) Tj
+ET
+BT
+/F1 8.5 Tf
+72 359 Td
+(Sieve of Eratosthenes algorithm.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 334 Td
+(Q13. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 334 Td
+(Implement a Python program for the Collatz Conjecture \(3n + 1 Problem\) with hailstone sequence) Tj
+ET
+BT
+/F1 8.5 Tf
+72 323.5 Td
+(generation, stopping time analysis, and peak value tracking.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 298.5 Td
+(Q14. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 298.5 Td
+(Explain the built-in enumerate\(\) and zip\(\) functions. Contrast iterating with explicit index) Tj
+ET
+BT
+/F1 8.5 Tf
+72 288 Td
+(tracking versus idiomatic parallel iteration with code.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 263 Td
+(Q15. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 263 Td
+(Design a Python program to print various geometric console patterns: Right-Angled Triangle,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 252.5 Td
+(Centered Pyramid, Inverted Diamond, and Floyd's Triangle.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 227.5 Td
+(Q16. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 227.5 Td
+(Implement a Banking ATM Transaction Simulator in Python using while loops, match-case \(or) Tj
+ET
+BT
+/F1 8.5 Tf
+72 217 Td
+(if-elif\), transaction logs, and PIN authentication.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 192 Td
+(Q17. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 192 Td
+(Explain the random module in depth. Detail the differences between randint, randrange, uniform,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 181.5 Td
+(choice, choices, sample, and shuffle.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 156.5 Td
+(Q18. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 156.5 Td
+(Explain the secrets module introduced in Python 3.6. Why is random unsuitable for security, and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 146 Td
+(how does secrets generate cryptographically secure tokens?) Tj
+ET
+BT
+/F2 8.5 Tf
+45 121 Td
+(Q19. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 121 Td
+(Implement a Binary Search algorithm using while loops. Analyze search intervals, mid calculation,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 110.5 Td
+(logarithmic convergence, and asymptotic complexity.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 85.5 Td
+(Q20. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 85.5 Td
+(Implement the Bubble Sort algorithm in Python using nested loops. Implement an early-exit) Tj
+ET
+BT
+/F1 8.5 Tf
+72 75 Td
+(optimization flag and analyze worst, average, and best-case complexities.) Tj
+ET
+
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 22 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+22 0 obj
+<< /Length 2707 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 2: CONDITIONAL STATEMENTS AND LOOPS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 10 of 42) Tj
+ET
+BT
+/F2 8.5 Tf
+45 780 Td
+(Q21. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 780 Td
+(Design an interactive Caesar Cipher encryption and decryption program in Python using loops,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 769.5 Td
+(character ordinals \(ord\), and modulo 26 arithmetic.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 743.5 Td
+(Q22. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 743.5 Td
+(Implement a Matrix Transpose and Matrix Addition program in Python using nested loops and 2D list) Tj
+ET
+BT
+/F1 8.5 Tf
+72 733 Td
+(comprehensions.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 707 Td
+(Q23. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 707 Td
+(Design a Python program to compute the Taylor Series expansion of sin\(x\) and cos\(x\) up to N terms) Tj
+ET
+BT
+/F1 8.5 Tf
+72 696.5 Td
+(using while loops and factorial accumulation.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 670.5 Td
+(Q24. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 670.5 Td
+(Implement a Palindrome and Armstrong Number Validator in Python using numeric while loops without) Tj
+ET
+BT
+/F1 8.5 Tf
+72 660 Td
+(converting numbers to strings.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 634 Td
+(Q25. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 634 Td
+(Implement an Run-Length Encoding \(RLE\) lossless string data compression utility using iterative) Tj
+ET
+BT
+/F1 8.5 Tf
+72 623.5 Td
+(while/for loops.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 597.5 Td
+(Q26. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 597.5 Td
+(Explain the itertools module in Python. Demonstrate infinite iterators \(count, cycle, repeat\) and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 587 Td
+(combinatoric generators \(product, permutations, combinations\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 561 Td
+(Q27. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 561 Td
+(Explain the Structural Pattern Matching \(match-case\) introduced in Python 3.10 \(PEP 634\). Compare) Tj
+ET
+BT
+/F1 8.5 Tf
+72 550.5 Td
+(with C-style switch-case and traditional if-elif-else.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 524.5 Td
+(Q28. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 524.5 Td
+(Design a Python program to solve the 0/1 Knapsack Problem or Subset Sum Problem using iterative) Tj
+ET
+BT
+/F1 8.5 Tf
+72 514 Td
+(dynamic programming tables and nested loops.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 488 Td
+(Q29. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 488 Td
+(Implement a Monte Carlo Simulation in Python to estimate the mathematical constant Pi \(pi\) using) Tj
+ET
+BT
+/F1 8.5 Tf
+72 477.5 Td
+(random numbers and circular geometry.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 451.5 Td
+(Q30. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 451.5 Td
+(Implement Conway's Game of Life cellular automaton in Python using 2D grids, nested loops, and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 441 Td
+(toroidal boundary conditions.) Tj
+ET
+
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 24 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+24 0 obj
+<< /Length 8420 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 2: CONDITIONAL STATEMENTS AND LOOPS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 11 of 42) Tj
+ET
+BT
+/F2 11 Tf
+45 780 Td
+(SECTION C: ANSWER KEY - MULTIPLE CHOICE QUESTIONS) Tj
+ET
+0.5 w
+45 772 m 550 772 l S
+BT
+/F2 8.5 Tf
+45 750 Td
+(Q1: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 750 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 734 Td
+(Q2: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 734 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 718 Td
+(Q3: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 718 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 702 Td
+(Q4: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 702 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 686 Td
+(Q5: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 686 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 670 Td
+(Q6: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 670 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 654 Td
+(Q7: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 654 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 638 Td
+(Q8: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 638 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 622 Td
+(Q9: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 622 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 606 Td
+(Q10: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 606 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 590 Td
+(Q11: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 590 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 574 Td
+(Q12: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 558 Td
+(Q13: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 542 Td
+(Q14: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 542 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 526 Td
+(Q15: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 526 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 510 Td
+(Q16: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 510 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 494 Td
+(Q17: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 494 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 478 Td
+(Q18: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 478 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 462 Td
+(Q19: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 462 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 446 Td
+(Q20: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 446 Td
+([A]) Tj
+ET
+0.2 w
+135 755 m 135 425 l S
+BT
+/F2 8.5 Tf
+145 750 Td
+(Q21: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 750 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 734 Td
+(Q22: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 734 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 718 Td
+(Q23: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 718 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 702 Td
+(Q24: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 686 Td
+(Q25: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 686 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 670 Td
+(Q26: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 654 Td
+(Q27: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 654 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 638 Td
+(Q28: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 638 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 622 Td
+(Q29: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 622 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 606 Td
+(Q30: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 590 Td
+(Q31: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 590 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 574 Td
+(Q32: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 558 Td
+(Q33: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 558 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 542 Td
+(Q34: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 542 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 526 Td
+(Q35: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 526 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 510 Td
+(Q36: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 494 Td
+(Q37: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 494 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 478 Td
+(Q38: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 478 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 462 Td
+(Q39: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 462 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 446 Td
+(Q40: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 446 Td
+([B]) Tj
+ET
+0.2 w
+235 755 m 235 425 l S
+BT
+/F2 8.5 Tf
+245 750 Td
+(Q41: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 750 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 734 Td
+(Q42: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 734 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 718 Td
+(Q43: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 718 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 702 Td
+(Q44: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 686 Td
+(Q45: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 686 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 670 Td
+(Q46: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 670 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 654 Td
+(Q47: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 654 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 638 Td
+(Q48: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 638 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 622 Td
+(Q49: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 622 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 606 Td
+(Q50: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 590 Td
+(Q51: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 574 Td
+(Q52: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 574 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 558 Td
+(Q53: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 542 Td
+(Q54: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 542 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 526 Td
+(Q55: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 510 Td
+(Q56: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 510 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 494 Td
+(Q57: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 478 Td
+(Q58: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 462 Td
+(Q59: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 446 Td
+(Q60: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 446 Td
+([B]) Tj
+ET
+0.2 w
+335 755 m 335 425 l S
+BT
+/F2 8.5 Tf
+345 750 Td
+(Q61: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 750 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 734 Td
+(Q62: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 718 Td
+(Q63: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 718 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 702 Td
+(Q64: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 686 Td
+(Q65: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 670 Td
+(Q66: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 670 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 654 Td
+(Q67: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 638 Td
+(Q68: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 622 Td
+(Q69: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 606 Td
+(Q70: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 606 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 590 Td
+(Q71: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 574 Td
+(Q72: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 558 Td
+(Q73: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 542 Td
+(Q74: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 526 Td
+(Q75: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 510 Td
+(Q76: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 510 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 494 Td
+(Q77: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 494 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 478 Td
+(Q78: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 478 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 462 Td
+(Q79: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 462 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 446 Td
+(Q80: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 446 Td
+([B]) Tj
+ET
+0.2 w
+435 755 m 435 425 l S
+BT
+/F2 8.5 Tf
+445 750 Td
+(Q81: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 750 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 734 Td
+(Q82: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 734 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 718 Td
+(Q83: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 702 Td
+(Q84: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 702 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 686 Td
+(Q85: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 670 Td
+(Q86: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 670 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 654 Td
+(Q87: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 638 Td
+(Q88: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 638 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 622 Td
+(Q89: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 606 Td
+(Q90: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 590 Td
+(Q91: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 590 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 574 Td
+(Q92: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 558 Td
+(Q93: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 558 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 542 Td
+(Q94: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 542 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 526 Td
+(Q95: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 510 Td
+(Q96: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 494 Td
+(Q97: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 494 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 478 Td
+(Q98: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 462 Td
+(Q99: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 446 Td
+(Q100: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 446 Td
+([A]) Tj
+ET
+0.5 w
+45 400 m 550 400 l 550 340 l 45 340 l s
+BT
+/F2 9 Tf
+55 382 Td
+(MCQ Scoring Guide & Difficulty Distribution:) Tj
+ET
+BT
+/F1 8.5 Tf
+55 366 Td
+(Questions 1 to 40: Foundational & Conceptual [Easy] | Questions 41 to 75: Analytical & Applied [Moderate]) Tj
+ET
+BT
+/F1 8.5 Tf
+55 350 Td
+(Questions 76 to 100: Complex Numerical & Advanced Problem Solving [Difficult]) Tj
+ET
+
+endstream
+endobj
+25 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 26 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+26 0 obj
+<< /Length 3269 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 2: CONDITIONAL STATEMENTS AND LOOPS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 12 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(SECTION D: DETAILED SOLUTIONS FOR SUBJECTIVE QUESTIONS) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(================================================================================) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 1:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Python's Conditional Branching Architecture \(if, if-else, if-elif-else\). Discuss block scoping rules and short-circuit evaluation in complex boolean expressions.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Theoretical Foundations of Conditional Execution:) Tj
+T*
+(   In computer programming, conditional execution enables dynamic decision-making by evaluating) Tj
+T*
+(   predicate expressions to determine execution flow.) Tj
+T*
+(   Python's conditional branching hierarchy consists of:) Tj
+T*
+(   - Simple if: Evaluates a boolean condition. If truthy, executes the indented suite; otherwise) Tj
+T*
+(   skips it.) Tj
+T*
+(   - if-else: Provides a binary branch: executes Branch 1 if condition is truthy, Branch 2 if) Tj
+T*
+(   falsy.) Tj
+T*
+(   - if-elif-else: Implements multi-way selection. Python tests conditions sequentially from top) Tj
+T*
+(   to bottom. As soon as a branch condition evaluates to True, its block executes, and all) Tj
+T*
+(   subsequent elif/else blocks are bypassed.) Tj
+T*
+() Tj
+T*
+(   2. Scope Rules in Python Conditionals:) Tj
+T*
+(   Unlike C/C++ or Java, Python code blocks demarcated by if, elif, else, for, or while do NOT) Tj
+T*
+(   introduce a new local scope!) Tj
+T*
+(   Any variable assigned inside an if block belongs to the enclosing function or module namespace.) Tj
+T*
+(   If the branch does not execute, accessing that variable later raises a NameError.) Tj
+T*
+() Tj
+T*
+(   3. Short-Circuit Evaluation in Predicates:) Tj
+T*
+(   Compound conditional expressions utilizing and / or leverage short-circuiting:) Tj
+T*
+(   - In \(A and B and C\), evaluation terminates at the first falsy term.) Tj
+T*
+(   - In \(A or B or C\), evaluation terminates at the first truthy term.) Tj
+T*
+() Tj
+T*
+(   4. Python Implementation & Demonstration:) Tj
+T*
+(   def evaluate_tax_bracket\(annual_income: float\) -> dict:) Tj
+T*
+(   """Multi-way selection with input validation.""") Tj
+T*
+(   if annual_income < 0:) Tj
+T*
+(   raise ValueError\("Annual income cannot be negative."\)) Tj
+T*
+() Tj
+T*
+(   tax_rate = 0.0) Tj
+T*
+(   bracket_name = "") Tj
+T*
+() Tj
+T*
+(   if annual_income <= 250_000:) Tj
+T*
+(   bracket_name = "Nil Exempt") Tj
+T*
+(   tax_rate = 0.0) Tj
+T*
+(   elif annual_income <= 500_000:) Tj
+T*
+(   bracket_name = "Lower Middle") Tj
+T*
+(   tax_rate = 0.05) Tj
+T*
+(   elif annual_income <= 1_000_000:) Tj
+T*
+(   bracket_name = "Upper Middle") Tj
+T*
+(   tax_rate = 0.20) Tj
+T*
+(   else:) Tj
+T*
+(   bracket_name = "High Net Worth") Tj
+T*
+(   tax_rate = 0.30) Tj
+T*
+() Tj
+T*
+(   calculated_tax = annual_income * tax_rate) Tj
+T*
+(   return {) Tj
+T*
+(   "Income": annual_income,) Tj
+T*
+ET
+
+endstream
+endobj
+27 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 28 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+28 0 obj
+<< /Length 3128 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 2: CONDITIONAL STATEMENTS AND LOOPS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 13 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   "Bracket": bracket_name,) Tj
+T*
+(   "Rate": f"{tax_rate * 100:.1f}%",) Tj
+T*
+(   "TaxPayable": calculated_tax) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   # Execution and verification) Tj
+T*
+(   print\(evaluate_tax_bracket\(750_000\)\)) Tj
+T*
+(   print\(evaluate_tax_bracket\(1_500_000\)\)) Tj
+T*
+() Tj
+T*
+(   5. Memory Model & Complexity Analysis:) Tj
+T*
+(   - Namespace: annual_income, tax_rate, bracket_name, and calculated_tax all reside within the) Tj
+T*
+(   local stack frame.) Tj
+T*
+(   - Time Complexity: O\(1\) constant time bound by maximum 4 scalar branch comparisons.) Tj
+T*
+(   - Space Complexity: O\(1\) auxiliary memory overhead.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 2:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze Nested Conditionals versus Chained Comparisons and Flat Refactoring. Discuss the 'Dangling Else' problem and how Python's indentation eliminates it.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. The Dangling Else Problem in Classic Languages:) Tj
+T*
+(   In languages like C, C++, and Java that do not enforce whitespace formatting, the following) Tj
+T*
+(   code is ambiguous:) Tj
+T*
+(   if \(x > 0\)) Tj
+T*
+(   if \(y > 0\)) Tj
+T*
+(   printf\("A"\);) Tj
+T*
+(   else) Tj
+T*
+(   printf\("B"\);) Tj
+T*
+(   Does the 'else' bind to the outer if\(x > 0\) or inner if\(y > 0\)?) Tj
+T*
+(   In C/Java, grammar rules resolve this by binding the 'else' to the nearest preceding if, which) Tj
+T*
+(   frequently contradicts programmer indentation and introduces severe security defects.) Tj
+T*
+() Tj
+T*
+(   2. Python's Indentation-Delimited Disambiguation:) Tj
+T*
+(   Python completely eradicates the dangling else problem. Because Python's parser strictly) Tj
+T*
+(   adheres to indentation levels, an else block is bound unequivocally to the if statement) Tj
+T*
+(   possessing the exact same column indentation!) Tj
+T*
+() Tj
+T*
+(   3. Nested Conditionals vs Flat Guard Clauses:) Tj
+T*
+(   Deep nesting of conditionals creates 'Pyramid of Doom' antipatterns with high cyclomatic) Tj
+T*
+(   complexity. Software engineering best practices advocate:) Tj
+T*
+(   1. Chained comparisons: \(0 < x < 100\) instead of \(x > 0 and x < 100\).) Tj
+T*
+(   2. Early return guard clauses: Validating edge cases immediately and exiting.) Tj
+T*
+() Tj
+T*
+(   4. Python Code Demonstration:) Tj
+T*
+(   # Antipattern: Deeply Nested Conditionals) Tj
+T*
+(   def verify_user_nested\(user\):) Tj
+T*
+(   if user is not None:) Tj
+T*
+(   if user.get\("is_authenticated"\):) Tj
+T*
+(   if user.get\("role"\) == "admin":) Tj
+T*
+(   return "Admin Access Granted") Tj
+T*
+(   else:) Tj
+T*
+(   return "Unauthorized Role") Tj
+T*
+(   else:) Tj
+T*
+(   return "Unauthenticated") Tj
+T*
+ET
+
+endstream
+endobj
+29 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 30 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+30 0 obj
+<< /Length 3148 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 2: CONDITIONAL STATEMENTS AND LOOPS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 14 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   else:) Tj
+T*
+(   return "Missing User") Tj
+T*
+() Tj
+T*
+(   # Clean Pattern: Flat Early-Return Guard Clauses) Tj
+T*
+(   def verify_user_flat\(user\):) Tj
+T*
+(   if user is None:) Tj
+T*
+(   return "Missing User") Tj
+T*
+(   if not user.get\("is_authenticated"\):) Tj
+T*
+(   return "Unauthenticated") Tj
+T*
+(   if user.get\("role"\) != "admin":) Tj
+T*
+(   return "Unauthorized Role") Tj
+T*
+(   return "Admin Access Granted") Tj
+T*
+() Tj
+T*
+(   # Test verification) Tj
+T*
+(   sample_admin = {"is_authenticated": True, "role": "admin"}) Tj
+T*
+(   print\("Flat Guard Result:", verify_user_flat\(sample_admin\)\)) Tj
+T*
+() Tj
+T*
+(   5. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(1\) worst-case 3 dictionary lookups.) Tj
+T*
+(   - Space Complexity: O\(1\) auxiliary frame memory.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 3:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the Ternary Conditional Operator \(x if condition else y\). Compare its syntax, readability, evaluation semantics, and nesting with traditional if-else blocks.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Motivation & Syntax of Python's Conditional Expression:) Tj
+T*
+(   Codified in PEP 308, Python supports conditional expressions \(commonly known as the ternary) Tj
+T*
+(   operator\):) Tj
+T*
+(   Syntax: <expression_if_true> if <condition> else <expression_if_false>) Tj
+T*
+() Tj
+T*
+(   2. Key Semantic Properties:) Tj
+T*
+(   1. It is an expression, not a statement. It evaluates to a concrete value and can thus be used) Tj
+T*
+(   on the right-hand side of assignments, inside return statements, within lambda functions, or as) Tj
+T*
+(   arguments to other functions.) Tj
+T*
+(   2. Lazy Evaluation / Short-Circuiting: Only one of the two sub-expressions is evaluated. If) Tj
+T*
+(   <condition> is truthy, <expression_if_true> is evaluated and <expression_if_false> is) Tj
+T*
+(   completely ignored.) Tj
+T*
+(   3. Mandatory else: Unlike traditional if statements where else is optional, ternary expressions) Tj
+T*
+(   strictly require an else clause.) Tj
+T*
+() Tj
+T*
+(   3. Python Code Demonstration:) Tj
+T*
+(   # 1. Assignment using ternary expression) Tj
+T*
+(   age = 20) Tj
+T*
+(   status = "Eligible to Vote" if age >= 18 else "Minor") Tj
+T*
+(   print\(f"Status: {status}"\)) Tj
+T*
+() Tj
+T*
+(   # 2. Nested Ternary Expression \(Multi-State Classification\)) Tj
+T*
+(   def classify_number\(n: int\) -> str:) Tj
+T*
+(   # Syntax: Positive if n > 0 else \(Zero if n == 0 else Negative\)) Tj
+T*
+(   return "Positive" if n > 0 else "Zero" if n == 0 else "Negative") Tj
+T*
+() Tj
+T*
+(   print\(f"10 -> {classify_number\(10\)} | 0 -> {classify_number\(0\)} | -5 -> {classify_number\(-5\)}"\)) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+31 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 32 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+32 0 obj
+<< /Length 3080 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 2: CONDITIONAL STATEMENTS AND LOOPS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 15 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   # 3. Guarding against ZeroDivisionError inside an expression) Tj
+T*
+(   num = 100) Tj
+T*
+(   denom = 0) Tj
+T*
+(   safe_ratio = \(num / denom\) if denom != 0 else float\('inf'\)) Tj
+T*
+(   print\(f"Safe Ratio \(denom=0\): {safe_ratio}"\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(1\) branch evaluation.) Tj
+T*
+(   - Space Complexity: O\(1\) storage for evaluated return value.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 4:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the Iteration Protocol, While Loops, and Sentinel-Controlled Loops in Python. Detail condition evaluation, loop termination, and infinite loop prevention.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Iteration Protocol and While Loop Mechanics:) Tj
+T*
+(   The while loop is a pre-test loop construct that repeatedly executes its body suite as long as) Tj
+T*
+(   a controlling test expression evaluates to a truthy boolean value.) Tj
+T*
+(   Execution Cycle:) Tj
+T*
+(   1. Evaluate test condition.) Tj
+T*
+(   2. If condition is False or falsy, terminate loop and resume execution after while block.) Tj
+T*
+(   3. If condition is True or truthy, execute statements in the loop suite.) Tj
+T*
+(   4. Jump back to Step 1.) Tj
+T*
+() Tj
+T*
+(   2. Sentinel-Controlled Loops:) Tj
+T*
+(   In interactive or streaming systems, the exact number of iterations is unknown prior to) Tj
+T*
+(   execution. A 'sentinel value' is a designated terminal token \(e.g., -1, 'QUIT', None\) that) Tj
+T*
+(   signals the loop to cease iteration.) Tj
+T*
+() Tj
+T*
+(   3. Infinite Loops & Prevention Strategies:) Tj
+T*
+(   An infinite loop occurs when the loop condition never evaluates to False.) Tj
+T*
+(   Prevention Strategies:) Tj
+T*
+(   1. Ensure loop body modifies the variable participating in the test condition \(progress towards) Tj
+T*
+(   termination\).) Tj
+T*
+(   2. Incorporate explicit safety iteration caps \(max_retries counter\).) Tj
+T*
+(   3. Use break conditions based on timeout or sentinel detection.) Tj
+T*
+() Tj
+T*
+(   4. Python Demonstration Code:) Tj
+T*
+(   def simulate_sensor_monitoring\(readings, sentinel=-999\):) Tj
+T*
+(   """Process streaming data until sentinel value is detected.""") Tj
+T*
+(   idx = 0) Tj
+T*
+(   valid_readings = []) Tj
+T*
+() Tj
+T*
+(   # Sentinel-controlled loop) Tj
+T*
+(   while idx < len\(readings\):) Tj
+T*
+(   current_val = readings[idx]) Tj
+T*
+(   idx += 1) Tj
+T*
+() Tj
+T*
+(   if current_val == sentinel:) Tj
+T*
+(   print\(f"Sentinel token \({sentinel}\) encountered. Halting sensor ingest."\)) Tj
+T*
+(   break) Tj
+T*
+() Tj
+T*
+(   valid_readings.append\(current_val\)) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+33 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 34 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+34 0 obj
+<< /Length 3369 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 2: CONDITIONAL STATEMENTS AND LOOPS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 16 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   avg = sum\(valid_readings\) / len\(valid_readings\) if valid_readings else 0.0) Tj
+T*
+(   return {"Count": len\(valid_readings\), "Average": round\(avg, 2\), "Data": valid_readings}) Tj
+T*
+() Tj
+T*
+(   sensor_stream = [24.5, 25.1, 24.8, 26.0, -999, 30.5, 40.2]) Tj
+T*
+(   report = simulate_sensor_monitoring\(sensor_stream\)) Tj
+T*
+(   print\("Sensor Processing Report:", report\)) Tj
+T*
+() Tj
+T*
+(   5. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(K\) where K <= N is the index of the sentinel token.) Tj
+T*
+(   - Space Complexity: O\(K\) memory to store valid readings.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 5:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the For Loop in Python and the Sequence Iteration Mechanism. Compare Python's for loop with traditional index-based for loops in C/Java.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Paradigm Shift: For Loop as an Iterator Consumer:) Tj
+T*
+(   In traditional languages like C, C++, and Java, for loops are fundamentally counter-based:) Tj
+T*
+(   for \(int i = 0; i < N; i++\) { ... }) Tj
+T*
+(   The programmer explicitly initializes an index, defines a loop continuation predicate, and) Tj
+T*
+(   increments the counter on every step.) Tj
+T*
+() Tj
+T*
+(   In Python, the for loop is fundamentally a Collection Iterator \(or foreach loop\):) Tj
+T*
+(   for item in iterable: ...) Tj
+T*
+(   Python does NOT increment a numeric index under the hood. Instead, it leverages Python's) Tj
+T*
+(   Iterator Protocol:) Tj
+T*
+(   1. Invokes iter\(iterable\) to obtain an iterator object implementing __next__\(\).) Tj
+T*
+(   2. On every loop iteration, calls next\(iterator\).) Tj
+T*
+(   3. Binds the returned value to the target loop variable.) Tj
+T*
+(   4. Catches the StopIteration exception automatically to terminate the loop cleanly.) Tj
+T*
+() Tj
+T*
+(   2. Advantages of Python's Sequence Iteration:) Tj
+T*
+(   - Eliminates off-by-one boundary errors \(e.g., i <= N vs i < N\).) Tj
+T*
+(   - Traverses non-indexable collections seamlessly \(sets, generator streams, file handles,) Tj
+T*
+(   dictionary keys\).) Tj
+T*
+(   - Encapsulates clean, highly expressive syntax.) Tj
+T*
+() Tj
+T*
+(   3. Python Code Demonstration:) Tj
+T*
+(   # Traversing different iterable types seamlessly) Tj
+T*
+(   sample_list = ["Kernel", "Driver", "Filesystem"]) Tj
+T*
+(   sample_dict = {"PID": 1024, "State": "Running", "Priority": 1}) Tj
+T*
+() Tj
+T*
+(   print\("Iterating over List elements:"\)) Tj
+T*
+(   for component in sample_list:) Tj
+T*
+(   print\(f" Component: {component}"\)) Tj
+T*
+() Tj
+T*
+(   print\("Iterating over Dictionary key-value pairs:"\)) Tj
+T*
+(   for key, value in sample_dict.items\(\):) Tj
+T*
+(   print\(f" {key} -> {value}"\)) Tj
+T*
+() Tj
+T*
+(   # Under the hood manual replication of for loop) Tj
+T*
+(   iterator = iter\(sample_list\)) Tj
+T*
+(   print\("Under-the-hood manual iterator consumption:"\)) Tj
+T*
+(   while True:) Tj
+T*
+ET
+
+endstream
+endobj
+35 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 36 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+36 0 obj
+<< /Length 3129 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 2: CONDITIONAL STATEMENTS AND LOOPS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 17 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   try:) Tj
+T*
+(   item = next\(iterator\)) Tj
+T*
+(   print\(f" Manual next\(\): {item}"\)) Tj
+T*
+(   except StopIteration:) Tj
+T*
+(   break # Clean termination) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(N\) where N is the number of elements in the collection.) Tj
+T*
+(   - Space Complexity: O\(1\) auxiliary memory for the iterator object.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 6:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the range\(\) type in Python 3. Detail its lazy evaluation, arithmetic progression parameters, and internal memory efficiency compared to Python 2 range.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Architecture of range in Python 3:) Tj
+T*
+(   In Python 3, range is not a function that generates a list; it is an immutable sequence type) Tj
+T*
+(   representing an arithmetic progression of integers:) Tj
+T*
+(   Syntax: range\(start, stop[, step]\)) Tj
+T*
+(   - start: First integer in progression \(default: 0\).) Tj
+T*
+(   - stop: Exclusive upper/lower bound.) Tj
+T*
+(   - step: Increment between consecutive integers \(default: 1; cannot be 0\).) Tj
+T*
+() Tj
+T*
+(   2. Lazy Evaluation & Memory Invariance:) Tj
+T*
+(   A Python 3 range object does NOT store its constituent integers in memory! Regardless of) Tj
+T*
+(   whether a range represents 10 elements or 10 billion elements, its memory footprint is) Tj
+T*
+(   identical and constant: O\(1\).) Tj
+T*
+(   It stores only three attributes:) Tj
+T*
+(   1. start) Tj
+T*
+(   2. stop) Tj
+T*
+(   3. step) Tj
+T*
+(   Integers are calculated on-the-fly dynamically only when requested during iteration or) Tj
+T*
+(   indexing.) Tj
+T*
+() Tj
+T*
+(   3. Advanced Capabilities of Python 3 range:) Tj
+T*
+(   - Direct Indexing: range\(10, 100, 5\)[3] computes 10 + 3*5 = 25 in O\(1\) time without generating) Tj
+T*
+(   elements.) Tj
+T*
+(   - Membership Testing: \(55 in range\(10, 100, 5\)\) executes in O\(1\) time via modular arithmetic:) Tj
+T*
+(   Checks: 10 <= 55 < 100 and \(55 - 10\) % 5 == 0.) Tj
+T*
+(   - Slicing: Slicing a range produces another range object in O\(1\) time.) Tj
+T*
+() Tj
+T*
+(   4. Python Demonstration Code:) Tj
+T*
+(   import sys) Tj
+T*
+() Tj
+T*
+(   r_small = range\(10\)) Tj
+T*
+(   r_huge = range\(10_000_000_000\) # 10 Billion integers) Tj
+T*
+() Tj
+T*
+(   print\(f"Memory size of range\(10\): {sys.getsizeof\(r_small\)} bytes"\)) Tj
+T*
+(   print\(f"Memory size of range\(10 Billion\): {sys.getsizeof\(r_huge\)} bytes \(Exact same O\(1\)) Tj
+T*
+(   memory!\)"\)) Tj
+T*
+() Tj
+T*
+(   # O\(1\) Direct Indexing) Tj
+T*
+(   val_at_idx = r_huge[500]) Tj
+T*
+(   print\(f"r_huge[500] = {val_at_idx} \(Retrieved instantaneously!\)"\)) Tj
+T*
+ET
+
+endstream
+endobj
+37 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 38 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+38 0 obj
+<< /Length 3119 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 2: CONDITIONAL STATEMENTS AND LOOPS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 18 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   # O\(1\) Membership testing) Tj
+T*
+(   print\(f"Is 2_500_000 in r_huge? {2_500_000 in r_huge}"\)) Tj
+T*
+() Tj
+T*
+(   5. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(1\) creation, indexing, membership check, and slicing.) Tj
+T*
+(   - Space Complexity: O\(1\) strictly constant memory.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 7:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Break and Continue Statements. Detail how they alter control flow within while and for loops, and explain their interaction with the loop else clause.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Control Flow Alterations via Break and Continue:) Tj
+T*
+(   - break Statement: Immediately terminates execution of the innermost enclosing loop. Control) Tj
+T*
+(   passes directly to the statement immediately following the loop block.) Tj
+T*
+(   - continue Statement: Immediately skips the remaining statements in the current iteration) Tj
+T*
+(   suite. Control jumps directly to the condition re-evaluation \(in while loops\) or the next item) Tj
+T*
+(   fetch \(in for loops\).) Tj
+T*
+() Tj
+T*
+(   2. The Loop 'else' Clause:) Tj
+T*
+(   Python features a unique and powerful construct: loops can have an optional else clause!) Tj
+T*
+(   Semantic Rule: The else suite of a loop executes if and only if the loop completes all) Tj
+T*
+(   iterations normally without encountering a break statement.) Tj
+T*
+(   If a loop terminates prematurely due to a break, the else clause is completely skipped.) Tj
+T*
+(   Common Use Cases:) Tj
+T*
+(   - Search algorithms: If target is found -> break; else -> target not found in collection.) Tj
+T*
+() Tj
+T*
+(   3. Python Code Demonstration:) Tj
+T*
+(   def prime_check\(n: int\) -> bool:) Tj
+T*
+(   """Determine primality using for-else search pattern.""") Tj
+T*
+(   if n < 2:) Tj
+T*
+(   return False) Tj
+T*
+(   # Check factors from 2 up to sqrt\(n\)) Tj
+T*
+(   for divisor in range\(2, int\(n ** 0.5\) + 1\):) Tj
+T*
+(   if n % divisor == 0:) Tj
+T*
+(   print\(f" {n} is composite: divisible by {divisor}"\)) Tj
+T*
+(   break # Break bypasses the else block!) Tj
+T*
+(   else:) Tj
+T*
+(   # Executes ONLY if loop finished without breaking) Tj
+T*
+(   print\(f" {n} is a PRIME number!"\)) Tj
+T*
+(   return True) Tj
+T*
+(   return False) Tj
+T*
+() Tj
+T*
+(   print\("Testing Prime Check with Loop-Else:"\)) Tj
+T*
+(   prime_check\(29\)) Tj
+T*
+(   prime_check\(35\)) Tj
+T*
+() Tj
+T*
+(   # Continue Statement Demonstration) Tj
+T*
+(   print\("\\nOdd Numbers Filter using continue:"\)) Tj
+T*
+(   for num in range\(1, 8\):) Tj
+T*
+(   if num % 2 == 0:) Tj
+T*
+(   continue # Skip even numbers) Tj
+T*
+(   print\(f" Processing Odd: {num}"\)) Tj
+T*
+ET
+
+endstream
+endobj
+39 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 40 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+40 0 obj
+<< /Length 3101 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 2: CONDITIONAL STATEMENTS AND LOOPS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 19 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+(   - Primality Test Time Complexity: O\(sqrt\(N\)\) best/worst case.) Tj
+T*
+(   - Space Complexity: O\(1\) auxiliary variable storage.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 8:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze Nested Loops and Algorithmic Complexity. Explain how nested iteration impacts time complexity \(O\(N^2\), O\(N^3\)\) and strategies to optimize nested loops.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Mechanics of Nested Loops:) Tj
+T*
+(   A nested loop is a loop construct placed inside the body of another loop.) Tj
+T*
+(   For every single iteration of the Outer Loop, the Inner Loop executes through its entire) Tj
+T*
+(   lifecycle from beginning to end.) Tj
+T*
+(   Total Iterations = \(Outer Loop Count\) * \(Inner Loop Count\).) Tj
+T*
+() Tj
+T*
+(   2. Algorithmic Complexity Implications:) Tj
+T*
+(   - Single Loop: O\(N\) linear time.) Tj
+T*
+(   - Two Nested Loops \(both of size N\): N * N = O\(N^2\) quadratic time.) Tj
+T*
+(   - Three Nested Loops: N * N * N = O\(N^3\) cubic time.) Tj
+T*
+(   As N grows \(e.g., N = 100,000 in big data or image processing\), an O\(N^2\) algorithm requires 10) Tj
+T*
+(   billion operations, causing severe performance degradation.) Tj
+T*
+() Tj
+T*
+(   3. Strategies for Nested Loop Optimization:) Tj
+T*
+(   1. Invariant Hoisting: Move calculations that do not depend on the inner loop variable out of) Tj
+T*
+(   the inner loop into the outer loop.) Tj
+T*
+(   2. Vectorization: Replace manual nested Python loops with optimized C/SIMD libraries like) Tj
+T*
+(   NumPy.) Tj
+T*
+(   3. Lookup Tables / Hash Maps: Replace inner search loops of O\(N\) with O\(1\) dictionary lookups) Tj
+T*
+(   to reduce total complexity from O\(N^2\) to O\(N\).) Tj
+T*
+() Tj
+T*
+(   4. Python Code Demonstration \(Matrix Multiplication\):) Tj
+T*
+(   def multiply_matrices\(mat_a, mat_b\):) Tj
+T*
+(   """Multiply two 2D matrices using 3 nested loops: O\(N^3\).""") Tj
+T*
+(   rows_a = len\(mat_a\)) Tj
+T*
+(   cols_a = len\(mat_a[0]\)) Tj
+T*
+(   cols_b = len\(mat_b[0]\)) Tj
+T*
+() Tj
+T*
+(   # Initialize result matrix with zeros) Tj
+T*
+(   result = [[0 for _ in range\(cols_b\)] for _ in range\(rows_a\)]) Tj
+T*
+() Tj
+T*
+(   # Triple nested loop: O\(rows_a * cols_b * cols_a\)) Tj
+T*
+(   for i in range\(rows_a\):) Tj
+T*
+(   for j in range\(cols_b\):) Tj
+T*
+(   # Inner dot product accumulation) Tj
+T*
+(   dot_sum = 0) Tj
+T*
+(   for k in range\(cols_a\):) Tj
+T*
+(   dot_sum += mat_a[i][k] * mat_b[k][j]) Tj
+T*
+(   result[i][j] = dot_sum) Tj
+T*
+() Tj
+T*
+(   return result) Tj
+T*
+() Tj
+T*
+(   A = [[1, 2], [3, 4]]) Tj
+T*
+(   B = [[5, 6], [7, 8]]) Tj
+T*
+ET
+
+endstream
+endobj
+41 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 42 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+42 0 obj
+<< /Length 2840 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 2: CONDITIONAL STATEMENTS AND LOOPS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 20 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   print\("Matrix Multiplication Result:"\)) Tj
+T*
+(   for row in multiply_matrices\(A, B\):) Tj
+T*
+(   print\(" ", row\)) Tj
+T*
+() Tj
+T*
+(   5. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(N^3\) for N x N matrices.) Tj
+T*
+(   - Space Complexity: O\(N^2\) memory for the output product matrix.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 9:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Design an interactive Python program to simulate the Euclidean Algorithm for finding the Greatest Common Divisor \(GCD\) using while loops with execution trace.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Theoretical Basis of the Euclidean Algorithm:) Tj
+T*
+(   The Euclidean Algorithm is an ancient and remarkably efficient method for computing the) Tj
+T*
+(   Greatest Common Divisor \(GCD\) of two non-negative integers a and b.) Tj
+T*
+(   Fundamental Lemma:) Tj
+T*
+(   GCD\(a, b\) = GCD\(b, a % b\)) Tj
+T*
+(   When the remainder becomes 0, the current divisor is the exact GCD of the original two numbers.) Tj
+T*
+() Tj
+T*
+(   2. Step-by-Step State Transition:) Tj
+T*
+(   Let a = 252, b = 105:) Tj
+T*
+(   Iteration 1: 252 % 105 = 42 -> a becomes 105, b becomes 42.) Tj
+T*
+(   Iteration 2: 105 % 42 = 21 -> a becomes 42, b becomes 21.) Tj
+T*
+(   Iteration 3: 42 % 21 = 0 -> a becomes 21, b becomes 0.) Tj
+T*
+(   Termination: b == 0, therefore GCD = a = 21.) Tj
+T*
+() Tj
+T*
+(   3. Python Implementation with Detailed Trace:) Tj
+T*
+(   def compute_gcd_euclidean\(a: int, b: int\) -> int:) Tj
+T*
+(   """Compute GCD with full step-by-step state trace.""") Tj
+T*
+(   orig_a, orig_b = a, b) Tj
+T*
+(   print\("=" * 55\)) Tj
+T*
+(   print\(f"Computing GCD\({a}, {b}\) via Euclidean Algorithm"\)) Tj
+T*
+(   print\("=" * 55\)) Tj
+T*
+(   print\(f"{'Step':<8}{'Dividend \(a\)':<16}{'Divisor \(b\)':<16}{'Remainder \(a%b\)':<15}"\)) Tj
+T*
+(   print\("-" * 55\)) Tj
+T*
+() Tj
+T*
+(   step = 1) Tj
+T*
+(   while b != 0:) Tj
+T*
+(   rem = a % b) Tj
+T*
+(   print\(f"{step:<8}{a:<16}{b:<16}{rem:<15}"\)) Tj
+T*
+(   a, b = b, rem # Simultaneous tuple unpacking assignment) Tj
+T*
+(   step += 1) Tj
+T*
+() Tj
+T*
+(   print\("-" * 55\)) Tj
+T*
+(   print\(f"GCD\({orig_a}, {orig_b}\) = {a}"\)) Tj
+T*
+(   print\("=" * 55\)) Tj
+T*
+(   return a) Tj
+T*
+() Tj
+T*
+(   # Verification) Tj
+T*
+(   compute_gcd_euclidean\(252, 105\)) Tj
+T*
+(   compute_gcd_euclidean\(48, 18\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+ET
+
+endstream
+endobj
+43 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 44 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+44 0 obj
+<< /Length 2862 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 2: CONDITIONAL STATEMENTS AND LOOPS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 21 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - Time Complexity: O\(log\(min\(a, b\)\)\) by Lame's Theorem \(number of divisions <= 5 * number of) Tj
+T*
+(   decimal digits\).) Tj
+T*
+(   - Space Complexity: O\(1\) scalar integer registers.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 10:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement a Number Guessing Game in Python with binary search hints, random number generation, input validation, and attempt tracking.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Context:) Tj
+T*
+(   Develop an interactive number guessing game. The computer generates a secret pseudo-random) Tj
+T*
+(   integer between 1 and 100. The player inputs guesses, and the program provides directional) Tj
+T*
+(   feedback \('Too High', 'Too Low', 'Correct!'\) while tracking the number of attempts and handling) Tj
+T*
+(   invalid non-numeric inputs gracefully.) Tj
+T*
+() Tj
+T*
+(   2. Python Implementation:) Tj
+T*
+(   import random) Tj
+T*
+() Tj
+T*
+(   def play_number_guessing_game\(secret_number=None, simulated_guesses=None\):) Tj
+T*
+(   """Simulated or interactive number guessing game engine.""") Tj
+T*
+(   if secret_number is None:) Tj
+T*
+(   secret_number = random.randint\(1, 100\)) Tj
+T*
+() Tj
+T*
+(   print\(f"Game Started! Target number selected in range [1, 100]."\)) Tj
+T*
+(   attempts = 0) Tj
+T*
+(   guess_history = []) Tj
+T*
+() Tj
+T*
+(   # If simulated_guesses provided, run automated test; otherwise interactive) Tj
+T*
+(   inputs = iter\(simulated_guesses\) if simulated_guesses else None) Tj
+T*
+() Tj
+T*
+(   while True:) Tj
+T*
+(   attempts += 1) Tj
+T*
+(   # Retrieve guess) Tj
+T*
+(   if inputs:) Tj
+T*
+(   try:) Tj
+T*
+(   user_guess = next\(inputs\)) Tj
+T*
+(   except StopIteration:) Tj
+T*
+(   print\("Simulation exhausted without guessing correctly."\)) Tj
+T*
+(   break) Tj
+T*
+(   else:) Tj
+T*
+(   raw = input\("Enter your guess \(1-100\): "\).strip\(\)) Tj
+T*
+(   try:) Tj
+T*
+(   user_guess = int\(raw\)) Tj
+T*
+(   except ValueError:) Tj
+T*
+(   print\(" Invalid Input: Please enter an integer."\)) Tj
+T*
+(   continue) Tj
+T*
+() Tj
+T*
+(   guess_history.append\(user_guess\)) Tj
+T*
+() Tj
+T*
+(   # Evaluate guess against secret target) Tj
+T*
+(   if user_guess < secret_number:) Tj
+T*
+(   print\(f" Attempt {attempts}: Guess {user_guess} is TOO LOW. Aim higher!"\)) Tj
+T*
+(   elif user_guess > secret_number:) Tj
+T*
+(   print\(f" Attempt {attempts}: Guess {user_guess} is TOO HIGH. Aim lower!"\)) Tj
+T*
+ET
+
+endstream
+endobj
+45 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 46 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+46 0 obj
+<< /Length 2864 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 2: CONDITIONAL STATEMENTS AND LOOPS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 22 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   else:) Tj
+T*
+(   print\(f" BINGO! Correct guess {user_guess} found in {attempts} attempts!"\)) Tj
+T*
+(   break) Tj
+T*
+() Tj
+T*
+(   return {"Target": secret_number, "TotalAttempts": attempts, "History": guess_history}) Tj
+T*
+() Tj
+T*
+(   # Simulated test run demonstrating binary search convergence) Tj
+T*
+(   test_secret = 68) Tj
+T*
+(   simulated_binary_search = [50, 75, 62, 68]) Tj
+T*
+(   play_number_guessing_game\(secret_number=test_secret, simulated_guesses=simulated_binary_search\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Optimal Strategy Time Complexity: O\(log2\(N\)\) = 7 attempts for N=100 via Binary Search.) Tj
+T*
+(   - Space Complexity: O\(attempts\) to store guess history.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 11:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Design a Python program to generate Pascal's Triangle up to N rows using nested loops and combinatorial binomial coefficients.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Mathematical Formulation of Pascal's Triangle:) Tj
+T*
+(   Pascal's Triangle is a triangular array of binomial coefficients:) Tj
+T*
+(   Row n, Entry k \(0 <= k <= n\) is given by:) Tj
+T*
+(   C\(n, k\) = n! / \(k! * \(n - k\)!\)) Tj
+T*
+(   Alternatively, every entry inside the triangle equals the sum of the two numbers directly above) Tj
+T*
+(   it:) Tj
+T*
+(   C\(n, k\) = C\(n - 1, k - 1\) + C\(n - 1, k\)) Tj
+T*
+(   with boundary conditions C\(n, 0\) = C\(n, n\) = 1.) Tj
+T*
+() Tj
+T*
+(   2. Python Implementation:) Tj
+T*
+(   def generate_pascals_triangle\(num_rows: int\):) Tj
+T*
+(   """Generate Pascal's Triangle using iterative dynamic programming.""") Tj
+T*
+(   if num_rows <= 0:) Tj
+T*
+(   return []) Tj
+T*
+() Tj
+T*
+(   triangle = []) Tj
+T*
+() Tj
+T*
+(   for r in range\(num_rows\):) Tj
+T*
+(   # Initialize row with 1s) Tj
+T*
+(   current_row = [1] * \(r + 1\)) Tj
+T*
+() Tj
+T*
+(   # Internal entries calculated from previous row) Tj
+T*
+(   for c in range\(1, r\):) Tj
+T*
+(   current_row[c] = triangle[r - 1][c - 1] + triangle[r - 1][c]) Tj
+T*
+() Tj
+T*
+(   triangle.append\(current_row\)) Tj
+T*
+() Tj
+T*
+(   # Format and display centered triangle) Tj
+T*
+(   print\(f"Pascal's Triangle \({num_rows} Rows\):"\)) Tj
+T*
+(   max_width = len\(" ".join\(map\(str, triangle[-1]\)\)\)) Tj
+T*
+(   for row in triangle:) Tj
+T*
+(   row_str = " ".join\(f"{val:2}" for val in row\)) Tj
+T*
+(   print\(f"{row_str:^{max_width}}"\)) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+47 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 48 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+48 0 obj
+<< /Length 2659 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 2: CONDITIONAL STATEMENTS AND LOOPS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 23 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   return triangle) Tj
+T*
+() Tj
+T*
+(   # Verification) Tj
+T*
+(   triangle_output = generate_pascals_triangle\(6\)) Tj
+T*
+() Tj
+T*
+(   3. Memory Model & Complexity Analysis:) Tj
+T*
+(   - Total Elements: 1 + 2 + 3 + ... + N = N*\(N + 1\)/2 entries.) Tj
+T*
+(   - Time Complexity: O\(N^2\) additions.) Tj
+T*
+(   - Space Complexity: O\(N^2\) auxiliary memory to store triangle rows.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 12:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement a comprehensive Primality Testing program utilizing Trial Division up to sqrt\(N\) and the Sieve of Eratosthenes algorithm.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Algorithms for Primality Testing:) Tj
+T*
+(   1. Trial Division: To determine if a single integer N is prime, test divisibility by integers) Tj
+T*
+(   up to floor\(sqrt\(N\)\). If no factor <= sqrt\(N\) exists, N must be prime.) Tj
+T*
+(   2. Sieve of Eratosthenes: To find all primes up to a large bound M, maintain a boolean array of) Tj
+T*
+(   size M + 1 initialized to True. Iteratively mark off multiples of each prime starting from p^2) Tj
+T*
+(   up to M.) Tj
+T*
+() Tj
+T*
+(   2. Python Implementation:) Tj
+T*
+(   def is_prime_trial\(n: int\) -> bool:) Tj
+T*
+(   """Test individual primality in O\(sqrt\(N\)\) time.""") Tj
+T*
+(   if n <= 1:) Tj
+T*
+(   return False) Tj
+T*
+(   if n <= 3:) Tj
+T*
+(   return True) Tj
+T*
+(   if n % 2 == 0 or n % 3 == 0:) Tj
+T*
+(   return False) Tj
+T*
+(   # Check 6k +/- 1 optimization) Tj
+T*
+(   i = 5) Tj
+T*
+(   while i * i <= n:) Tj
+T*
+(   if n % i == 0 or n % \(i + 2\) == 0:) Tj
+T*
+(   return False) Tj
+T*
+(   i += 6) Tj
+T*
+(   return True) Tj
+T*
+() Tj
+T*
+(   def sieve_of_eratosthenes\(limit: int\) -> list:) Tj
+T*
+(   """Find all primes up to limit in O\(N log log N\) time.""") Tj
+T*
+(   is_prime = [True] * \(limit + 1\)) Tj
+T*
+(   is_prime[0] = is_prime[1] = False) Tj
+T*
+() Tj
+T*
+(   p = 2) Tj
+T*
+(   while p * p <= limit:) Tj
+T*
+(   if is_prime[p]:) Tj
+T*
+(   # Mark multiples starting from p*p) Tj
+T*
+(   for multiple in range\(p * p, limit + 1, p\):) Tj
+T*
+(   is_prime[multiple] = False) Tj
+T*
+(   p += 1) Tj
+T*
+() Tj
+T*
+(   return [num for num, prime in enumerate\(is_prime\) if prime]) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+49 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 50 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+50 0 obj
+<< /Length 2958 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 2: CONDITIONAL STATEMENTS AND LOOPS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 24 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   # Demonstration) Tj
+T*
+(   test_num = 997) Tj
+T*
+(   print\(f"Trial Division: Is {test_num} Prime? -> {is_prime_trial\(test_num\)}"\)) Tj
+T*
+() Tj
+T*
+(   primes_under_50 = sieve_of_eratosthenes\(50\)) Tj
+T*
+(   print\(f"Sieve: Primes up to 50: {primes_under_50}"\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Trial Division Time Complexity: O\(sqrt\(N\)\) single number test.) Tj
+T*
+(   - Sieve Time Complexity: O\(M log\(log M\)\) for all primes up to M.) Tj
+T*
+(   - Sieve Space Complexity: O\(M\) boolean flags array.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 13:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement a Python program for the Collatz Conjecture \(3n + 1 Problem\) with hailstone sequence generation, stopping time analysis, and peak value tracking.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Theoretical Formulation of the Collatz Conjecture:) Tj
+T*
+(   For any positive integer n:) Tj
+T*
+(   - If n is even: n_next = n // 2) Tj
+T*
+(   - If n is odd: n_next = \(3 * n\) + 1) Tj
+T*
+(   The Collatz Conjecture states that starting from any positive integer n, the sequence \(often) Tj
+T*
+(   called the Hailstone Sequence\) will always eventually reach 1.) Tj
+T*
+() Tj
+T*
+(   2. Python Implementation:) Tj
+T*
+(   def collatz_hailstone_analyzer\(start_n: int\):) Tj
+T*
+(   """Generate Collatz sequence and compute trajectory metrics.""") Tj
+T*
+(   if start_n <= 0:) Tj
+T*
+(   raise ValueError\("Collatz conjecture is defined for positive integers n >= 1."\)) Tj
+T*
+() Tj
+T*
+(   sequence = [start_n]) Tj
+T*
+(   current = start_n) Tj
+T*
+() Tj
+T*
+(   while current != 1:) Tj
+T*
+(   if current % 2 == 0:) Tj
+T*
+(   current = current // 2) Tj
+T*
+(   else:) Tj
+T*
+(   current = \(3 * current\) + 1) Tj
+T*
+(   sequence.append\(current\)) Tj
+T*
+() Tj
+T*
+(   stopping_time = len\(sequence\) - 1) Tj
+T*
+(   peak_value = max\(sequence\)) Tj
+T*
+() Tj
+T*
+(   print\("=" * 60\)) Tj
+T*
+(   print\(f"Collatz Analysis for Initial Seed: n = {start_n}"\)) Tj
+T*
+(   print\(f"Total Stopping Time \(Steps to reach 1\): {stopping_time}"\)) Tj
+T*
+(   print\(f"Maximum Peak Value Reached: {peak_value}"\)) Tj
+T*
+(   print\(f"First 10 Steps: {sequence[:10]} ... [Length: {len\(sequence\)}]"\)) Tj
+T*
+(   print\("=" * 60\)) Tj
+T*
+() Tj
+T*
+(   return {"Start": start_n, "Steps": stopping_time, "Peak": peak_value, "Seq": sequence}) Tj
+T*
+() Tj
+T*
+(   # Analysis of standard numbers) Tj
+T*
+(   collatz_hailstone_analyzer\(27\) # Famous seed requiring 111 steps and peaking at 9232!) Tj
+T*
+ET
+
+endstream
+endobj
+51 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 52 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+52 0 obj
+<< /Length 3471 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 2: CONDITIONAL STATEMENTS AND LOOPS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 25 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: Unproven rigorously; empirically O\(Steps\) where steps vary widely.) Tj
+T*
+(   - Space Complexity: O\(Steps\) to store trajectory points in memory.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 14:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the built-in enumerate\(\) and zip\(\) functions. Contrast iterating with explicit index tracking versus idiomatic parallel iteration with code.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Architectural Role of enumerate\(\) and zip\(\):) Tj
+T*
+(   Python philosophy \(PEP 20\) emphasizes readability and direct sequence consumption:) Tj
+T*
+(   - enumerate\(iterable, start=0\): Returns an iterator yielding pairs \(index, element\). Eliminates) Tj
+T*
+(   manual counter variables \(i = 0; i += 1\).) Tj
+T*
+(   - zip\(*iterables\): Aggregates elements from each of the iterables in lockstep, returning an) Tj
+T*
+(   iterator of tuples. Stops when the shortest input iterable is exhausted.) Tj
+T*
+() Tj
+T*
+(   2. Antipattern vs Idiomatic Python:) Tj
+T*
+(   - Antipattern: for i in range\(len\(my_list\)\): process\(my_list[i]\)) Tj
+T*
+(   - Idiomatic: for i, item in enumerate\(my_list\): process\(i, item\)) Tj
+T*
+() Tj
+T*
+(   3. Python Demonstration:) Tj
+T*
+(   students = ["Ananya", "Rohan", "Siddharth", "Priya"]) Tj
+T*
+(   scores = [92.5, 88.0, 95.0, 91.0]) Tj
+T*
+(   grades = ["A+", "A", "O", "A+"]) Tj
+T*
+() Tj
+T*
+(   print\("1. Idiomatic enumerate\(\) Demonstration:"\)) Tj
+T*
+(   for rank, name in enumerate\(students, start=1\):) Tj
+T*
+(   print\(f" Rank #{rank}: {name}"\)) Tj
+T*
+() Tj
+T*
+(   print\("\\n2. Parallel Iteration with zip\(\):"\)) Tj
+T*
+(   for name, score, grade in zip\(students, scores, grades\):) Tj
+T*
+(   print\(f" Student: {name:<10} | Score: {score:5.1f} | Grade: {grade}"\)) Tj
+T*
+() Tj
+T*
+(   # Demonstration of zip truncation behavior) Tj
+T*
+(   short_list = [1, 2]) Tj
+T*
+(   long_list = ['A', 'B', 'C', 'D']) Tj
+T*
+(   zipped_trunc = list\(zip\(short_list, long_list\)\)) Tj
+T*
+(   print\(f"\\n3. Zip truncation with unequal lengths: {zipped_trunc}"\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(N\) where N is number of yielded items.) Tj
+T*
+(   - Space Complexity: O\(1\) auxiliary memory since enumerate and zip are lazy generator iterators.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 15:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Design a Python program to print various geometric console patterns: Right-Angled Triangle, Centered Pyramid, Inverted Diamond, and Floyd's Triangle.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Pattern Printing Fundamentals:) Tj
+T*
+(   Pattern generation utilizes nested loops:) Tj
+T*
+(   - Outer loop: Controls current row \(vertical index r\).) Tj
+T*
+(   - Inner loops:) Tj
+T*
+(   1. Controls leading spaces for horizontal alignment.) Tj
+T*
+ET
+
+endstream
+endobj
+53 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 54 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+54 0 obj
+<< /Length 2620 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 2: CONDITIONAL STATEMENTS AND LOOPS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 26 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   2. Controls character printing \(asterisks, numbers, characters\).) Tj
+T*
+() Tj
+T*
+(   2. Python Implementation:) Tj
+T*
+(   class PatternGenerator:) Tj
+T*
+(   @staticmethod) Tj
+T*
+(   def right_triangle\(rows: int\):) Tj
+T*
+(   print\(f"--- Right Triangle \({rows} rows\) ---"\)) Tj
+T*
+(   for i in range\(1, rows + 1\):) Tj
+T*
+(   print\("*" * i\)) Tj
+T*
+() Tj
+T*
+(   @staticmethod) Tj
+T*
+(   def centered_pyramid\(rows: int\):) Tj
+T*
+(   print\(f"\\n--- Centered Pyramid \({rows} rows\) ---"\)) Tj
+T*
+(   for i in range\(1, rows + 1\):) Tj
+T*
+(   spaces = " " * \(rows - i\)) Tj
+T*
+(   stars = "*" * \(2 * i - 1\)) Tj
+T*
+(   print\(spaces + stars\)) Tj
+T*
+() Tj
+T*
+(   @staticmethod) Tj
+T*
+(   def inverted_diamond\(rows: int\):) Tj
+T*
+(   print\(f"\\n--- Diamond Pattern \({rows} rows\) ---"\)) Tj
+T*
+(   # Top half) Tj
+T*
+(   for i in range\(1, rows + 1\):) Tj
+T*
+(   print\(" " * \(rows - i\) + "*" * \(2 * i - 1\)\)) Tj
+T*
+(   # Bottom half) Tj
+T*
+(   for i in range\(rows - 1, 0, -1\):) Tj
+T*
+(   print\(" " * \(rows - i\) + "*" * \(2 * i - 1\)\)) Tj
+T*
+() Tj
+T*
+(   @staticmethod) Tj
+T*
+(   def floyds_triangle\(rows: int\):) Tj
+T*
+(   print\(f"\\n--- Floyd's Triangle \({rows} rows\) ---"\)) Tj
+T*
+(   num = 1) Tj
+T*
+(   for i in range\(1, rows + 1\):) Tj
+T*
+(   for _ in range\(i\):) Tj
+T*
+(   print\(f"{num:2}", end=" "\)) Tj
+T*
+(   num += 1) Tj
+T*
+(   print\(\)) Tj
+T*
+() Tj
+T*
+(   # Verification) Tj
+T*
+(   PatternGenerator.right_triangle\(4\)) Tj
+T*
+(   PatternGenerator.centered_pyramid\(4\)) Tj
+T*
+(   PatternGenerator.floyds_triangle\(4\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(rows^2\) characters formatted and printed.) Tj
+T*
+(   - Space Complexity: O\(rows\) string buffering per line.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 16:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement a Banking ATM Transaction Simulator in Python using while loops, match-case \(or if-elif\), transaction logs, and PIN authentication.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Context:) Tj
+T*
+(   Develop a robust console ATM simulation. The program enforces PIN validation \(max 3 attempts\),) Tj
+T*
+ET
+
+endstream
+endobj
+55 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 56 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+56 0 obj
+<< /Length 2681 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 2: CONDITIONAL STATEMENTS AND LOOPS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 27 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   provides a multi-option transaction menu \(Check Balance, Deposit, Withdraw, Mini-Statement,) Tj
+T*
+(   Exit\), maintains an audit trail log, and guards against negative inputs or overdrafts.) Tj
+T*
+() Tj
+T*
+(   2. Python Implementation:) Tj
+T*
+(   class ATMSimulator:) Tj
+T*
+(   def __init__\(self, initial_pin="1234", initial_balance=5000.0\):) Tj
+T*
+(   self._pin = initial_pin) Tj
+T*
+(   self._balance = initial_balance) Tj
+T*
+(   self._transaction_log = [f"Account opened with initial balance: ${initial_balance:.2f}"]) Tj
+T*
+() Tj
+T*
+(   def authenticate\(self, entered_pin: str\) -> bool:) Tj
+T*
+(   return entered_pin == self._pin) Tj
+T*
+() Tj
+T*
+(   def run_simulation\(self, commands\):) Tj
+T*
+(   print\("=" * 55\)) Tj
+T*
+(   print\(" WELCOME TO PYTHON SECURE BANK ATM "\)) Tj
+T*
+(   print\("=" * 55\)) Tj
+T*
+() Tj
+T*
+(   cmd_iter = iter\(commands\)) Tj
+T*
+() Tj
+T*
+(   while True:) Tj
+T*
+(   try:) Tj
+T*
+(   action = next\(cmd_iter\)) Tj
+T*
+(   except StopIteration:) Tj
+T*
+(   break) Tj
+T*
+() Tj
+T*
+(   op = action.get\("type"\)) Tj
+T*
+() Tj
+T*
+(   if op == "BALANCE":) Tj
+T*
+(   print\(f"[ACTION] Current Available Balance: ${self._balance:,.2f}"\)) Tj
+T*
+(   elif op == "DEPOSIT":) Tj
+T*
+(   amount = action.get\("amount", 0.0\)) Tj
+T*
+(   if amount <= 0:) Tj
+T*
+(   print\("[ERROR] Deposit amount must be positive."\)) Tj
+T*
+(   else:) Tj
+T*
+(   self._balance += amount) Tj
+T*
+(   self._transaction_log.append\(f"Deposited: +${amount:.2f}"\)) Tj
+T*
+(   print\(f"[SUCCESS] Deposited ${amount:,.2f}. New Balance: ${self._balance:,.2f}"\)) Tj
+T*
+(   elif op == "WITHDRAW":) Tj
+T*
+(   amount = action.get\("amount", 0.0\)) Tj
+T*
+(   if amount > self._balance:) Tj
+T*
+(   print\(f"[REJECTED] Overdraft limit exceeded. Balance: ${self._balance:,.2f}"\)) Tj
+T*
+(   elif amount <= 0:) Tj
+T*
+(   print\("[ERROR] Withdrawal amount must be positive."\)) Tj
+T*
+(   else:) Tj
+T*
+(   self._balance -= amount) Tj
+T*
+(   self._transaction_log.append\(f"Withdrawn: -${amount:.2f}"\)) Tj
+T*
+(   print\(f"[SUCCESS] Dispensed ${amount:,.2f}. Remaining Balance: ${self._balance:,.2f}"\)) Tj
+T*
+(   elif op == "STATEMENT":) Tj
+T*
+(   print\("--- MINI STATEMENT AUDIT LOG ---"\)) Tj
+T*
+(   for entry in self._transaction_log:) Tj
+T*
+(   print\(f" * {entry}"\)) Tj
+T*
+(   elif op == "EXIT":) Tj
+T*
+(   print\("Session terminated. Thank you for banking with us!"\)) Tj
+T*
+ET
+
+endstream
+endobj
+57 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 58 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+58 0 obj
+<< /Length 3241 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 2: CONDITIONAL STATEMENTS AND LOOPS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 28 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   break) Tj
+T*
+() Tj
+T*
+(   # Automated Test Run) Tj
+T*
+(   atm = ATMSimulator\(\)) Tj
+T*
+(   test_script = [) Tj
+T*
+(   {"type": "BALANCE"},) Tj
+T*
+(   {"type": "DEPOSIT", "amount": 2500.0},) Tj
+T*
+(   {"type": "WITHDRAW", "amount": 1200.0},) Tj
+T*
+(   {"type": "WITHDRAW", "amount": 10000.0}, # Insufficient funds) Tj
+T*
+(   {"type": "STATEMENT"},) Tj
+T*
+(   {"type": "EXIT"}) Tj
+T*
+(   ]) Tj
+T*
+(   atm.run_simulation\(test_script\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(1\) per transaction request.) Tj
+T*
+(   - Space Complexity: O\(T\) where T is total transaction history entries.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 17:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the random module in depth. Detail the differences between randint, randrange, uniform, choice, choices, sample, and shuffle.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Architecture of Python's random Module:) Tj
+T*
+(   The random module implements the Mersenne Twister \(MT19937\) PRNG, providing a massive period of) Tj
+T*
+(   2^19937 - 1 with 623-dimensional equidistribution.) Tj
+T*
+() Tj
+T*
+(   2. Comprehensive Functional Comparison:) Tj
+T*
+(   1. random.randint\(a, b\): Returns random integer N such that a <= N <= b \(Both endpoints) Tj
+T*
+(   inclusive!\).) Tj
+T*
+(   2. random.randrange\(start, stop[, step]\): Returns random item from range\(start, stop, step\)) Tj
+T*
+(   \(Stop is exclusive!\).) Tj
+T*
+(   3. random.uniform\(a, b\): Returns continuous floating-point number N such that a <= N <= b.) Tj
+T*
+(   4. random.choice\(seq\): Selects a single random item from non-empty sequence seq.) Tj
+T*
+(   5. random.choices\(population, weights=None, k=1\): Selects k items with replacement \(items can) Tj
+T*
+(   repeat\). Supports weighted probabilities.) Tj
+T*
+(   6. random.sample\(population, k\): Selects k unique items without replacement \(items never) Tj
+T*
+(   repeat\). Raises ValueError if k > len\(population\).) Tj
+T*
+(   7. random.shuffle\(x\): Randomly permutes mutable sequence x in-place in O\(N\) time via the) Tj
+T*
+(   Fisher-Yates shuffle algorithm.) Tj
+T*
+() Tj
+T*
+(   3. Python Code Demonstration:) Tj
+T*
+(   import random) Tj
+T*
+() Tj
+T*
+(   random.seed\(101\) # Seed for reproducible verification) Tj
+T*
+() Tj
+T*
+(   print\(f"randint\(1, 10\): {random.randint\(1, 10\)}"\)) Tj
+T*
+(   print\(f"randrange\(0, 50, 5\): {random.randrange\(0, 50, 5\)}"\)) Tj
+T*
+(   print\(f"uniform\(1.5, 9.5\): {random.uniform\(1.5, 9.5\):.3f}"\)) Tj
+T*
+() Tj
+T*
+(   deck = ["Ace", "King", "Queen", "Jack", "Ten"]) Tj
+T*
+(   print\(f"choice\(deck\): {random.choice\(deck\)}"\)) Tj
+T*
+(   print\(f"choices\(k=3, repl\): {random.choices\(deck, k=3\)}"\)) Tj
+T*
+(   print\(f"sample\(k=3, norepl\): {random.sample\(deck, k=3\)}"\)) Tj
+T*
+ET
+
+endstream
+endobj
+59 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 60 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+60 0 obj
+<< /Length 3397 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 2: CONDITIONAL STATEMENTS AND LOOPS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 29 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   random.shuffle\(deck\)) Tj
+T*
+(   print\(f"shuffle\(in-place\): {deck}"\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(1\) for randint/choice; O\(k\) for choices/sample; O\(N\) for shuffle.) Tj
+T*
+(   - Space Complexity: O\(1\) for in-place shuffle; O\(k\) for sample/choices.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 18:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the secrets module introduced in Python 3.6. Why is random unsuitable for security, and how does secrets generate cryptographically secure tokens?) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Why the standard random module is insecure:) Tj
+T*
+(   The Mersenne Twister PRNG in random is designed purely for statistical simulation and gaming.) Tj
+T*
+(   It is completely deterministic. By observing just 624 consecutive 32-bit outputs, an attacker) Tj
+T*
+(   can reconstruct the internal 19,937-bit state vector and predict all future 'random' numbers) Tj
+T*
+(   with 100% accuracy!) Tj
+T*
+(   Using random for session tokens, passwords, or cryptographic keys creates critical security) Tj
+T*
+(   vulnerabilities \(CWE-330\).) Tj
+T*
+() Tj
+T*
+(   2. Cryptographic Randomness via secrets:) Tj
+T*
+(   Introduced in Python 3.6 \(PEP 506\), the secrets module accesses operating-system-level entropy) Tj
+T*
+(   sources \(CryptGenRandom on Windows, /dev/urandom or getrandom\(\) on Linux\):) Tj
+T*
+(   - secrets.choice\(seq\): Cryptographically secure random selection.) Tj
+T*
+(   - secrets.randbelow\(n\): Cryptographically secure integer in [0, n\).) Tj
+T*
+(   - secrets.token_bytes\(nbytes\): Raw cryptographically secure random bytes.) Tj
+T*
+(   - secrets.token_hex\(nbytes\): Hexadecimal-encoded secure token.) Tj
+T*
+(   - secrets.token_urlsafe\(nbytes\): Base64-URL-safe token \(ideal for password reset links\).) Tj
+T*
+() Tj
+T*
+(   3. Python Code Demonstration:) Tj
+T*
+(   import secrets) Tj
+T*
+(   import string) Tj
+T*
+() Tj
+T*
+(   def generate_secure_password\(length=16\) -> str:) Tj
+T*
+(   """Generate cryptographically secure high-entropy password.""") Tj
+T*
+(   alphabet = string.ascii_letters + string.digits + "!@#$%^&*\(\)-_=+") Tj
+T*
+(   # Cryptographically secure random selection) Tj
+T*
+(   password = "".join\(secrets.choice\(alphabet\) for _ in range\(length\)\)) Tj
+T*
+(   return password) Tj
+T*
+() Tj
+T*
+(   def generate_api_tokens\(\):) Tj
+T*
+(   """Generate secure URL tokens for authentication.""") Tj
+T*
+(   auth_token = secrets.token_hex\(16\) # 32 hex characters) Tj
+T*
+(   reset_token = secrets.token_urlsafe\(24\) # URL-safe Base64) Tj
+T*
+(   return auth_token, reset_token) Tj
+T*
+() Tj
+T*
+(   # Demonstration) Tj
+T*
+(   print\(f"Secure Password: {generate_secure_password\(14\)}"\)) Tj
+T*
+(   auth_tok, reset_tok = generate_api_tokens\(\)) Tj
+T*
+(   print\(f"Hex Auth Token: {auth_tok}"\)) Tj
+T*
+(   print\(f"URL Reset Token: {reset_tok}"\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+ET
+
+endstream
+endobj
+61 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 62 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+62 0 obj
+<< /Length 2948 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 2: CONDITIONAL STATEMENTS AND LOOPS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 30 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - Time Complexity: O\(length\) entropy extraction.) Tj
+T*
+(   - Space Complexity: O\(length\) string memory.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 19:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement a Binary Search algorithm using while loops. Analyze search intervals, mid calculation, logarithmic convergence, and asymptotic complexity.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Theoretical Basis of Binary Search:) Tj
+T*
+(   Binary Search is a divide-and-conquer algorithm designed to locate a target value within a) Tj
+T*
+(   sorted collection:) Tj
+T*
+(   Algorithm:) Tj
+T*
+(   1. Initialize two pointers: low = 0, high = len\(arr\) - 1.) Tj
+T*
+(   2. While low <= high:) Tj
+T*
+(   Calculate midpoint: mid = low + \(high - low\) // 2 \(avoids integer overflow\).) Tj
+T*
+(   - If arr[mid] == target -> Success, return mid.) Tj
+T*
+(   - If arr[mid] < target -> Target must lie in the right half: low = mid + 1.) Tj
+T*
+(   - If arr[mid] > target -> Target must lie in the left half: high = mid - 1.) Tj
+T*
+(   3. If low > high without finding target, return -1 \(Not Found\).) Tj
+T*
+() Tj
+T*
+(   2. Python Implementation with Step Trace:) Tj
+T*
+(   def binary_search_iterative\(arr: list, target: int\) -> int:) Tj
+T*
+(   """Iterative Binary Search with execution trace.""") Tj
+T*
+(   low = 0) Tj
+T*
+(   high = len\(arr\) - 1) Tj
+T*
+(   step = 1) Tj
+T*
+() Tj
+T*
+(   print\(f"Binary Search for Target: {target} in sorted array of {len\(arr\)} elements."\)) Tj
+T*
+(   print\(f"{'Step':<8}{'Low':<8}{'High':<8}{'Mid':<8}{'Val':<8}{'Action':<25}"\)) Tj
+T*
+(   print\("-" * 65\)) Tj
+T*
+() Tj
+T*
+(   while low <= high:) Tj
+T*
+(   mid = \(low + high\) // 2) Tj
+T*
+(   val = arr[mid]) Tj
+T*
+() Tj
+T*
+(   if val == target:) Tj
+T*
+(   print\(f"{step:<8}{low:<8}{high:<8}{mid:<8}{val:<8}{'Match Found!':<25}"\)) Tj
+T*
+(   return mid) Tj
+T*
+(   elif val < target:) Tj
+T*
+(   print\(f"{step:<8}{low:<8}{high:<8}{mid:<8}{val:<8}{'Search Right \(low=mid+1\)':<25}"\)) Tj
+T*
+(   low = mid + 1) Tj
+T*
+(   else:) Tj
+T*
+(   print\(f"{step:<8}{low:<8}{high:<8}{mid:<8}{val:<8}{'Search Left \(high=mid-1\)':<25}"\)) Tj
+T*
+(   high = mid - 1) Tj
+T*
+() Tj
+T*
+(   step += 1) Tj
+T*
+() Tj
+T*
+(   print\(f"Target {target} not present in collection."\)) Tj
+T*
+(   return -1) Tj
+T*
+() Tj
+T*
+(   # Verification on sorted list) Tj
+T*
+(   dataset = [12, 24, 32, 45, 57, 68, 79, 83, 91, 105, 120]) Tj
+T*
+(   target_val = 83) Tj
+T*
+(   result_idx = binary_search_iterative\(dataset, target_val\)) Tj
+T*
+ET
+
+endstream
+endobj
+63 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 64 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+64 0 obj
+<< /Length 3026 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 2: CONDITIONAL STATEMENTS AND LOOPS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 31 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   print\(f"Index of {target_val}: {result_idx}"\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Best-Case Time: O\(1\) \(target at exact middle on first step\).) Tj
+T*
+(   - Worst-Case Time: O\(log2 N\) \(search space halves every iteration\).) Tj
+T*
+(   - Auxiliary Space: O\(1\) strictly constant space.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 20:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement the Bubble Sort algorithm in Python using nested loops. Implement an early-exit optimization flag and analyze worst, average, and best-case complexities.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Theoretical Mechanics of Bubble Sort:) Tj
+T*
+(   Bubble Sort repeatedly steps through a list, compares adjacent elements, and swaps them if they) Tj
+T*
+(   are in the wrong order. With each outer pass, the largest unsorted element 'bubbles up' to its) Tj
+T*
+(   final position at the end of the array.) Tj
+T*
+() Tj
+T*
+(   2. Early-Exit Optimization Flag:) Tj
+T*
+(   In standard Bubble Sort, the algorithm always runs N*\(N - 1\)/2 comparisons even if the list is) Tj
+T*
+(   already completely sorted.) Tj
+T*
+(   By introducing a boolean flag \(swapped = False\), if an entire pass completes without a single) Tj
+T*
+(   swap, the list is already sorted, and the algorithm terminates immediately in O\(N\) time!) Tj
+T*
+() Tj
+T*
+(   3. Python Implementation:) Tj
+T*
+(   def bubble_sort_optimized\(arr: list\) -> tuple:) Tj
+T*
+(   """Optimized Bubble Sort with early-exit flag.""") Tj
+T*
+(   a = arr.copy\(\)) Tj
+T*
+(   n = len\(a\)) Tj
+T*
+(   total_comparisons = 0) Tj
+T*
+(   total_swaps = 0) Tj
+T*
+() Tj
+T*
+(   for i in range\(n\):) Tj
+T*
+(   swapped = False) Tj
+T*
+(   # Inner loop: Last i elements are already sorted in place) Tj
+T*
+(   for j in range\(0, n - i - 1\):) Tj
+T*
+(   total_comparisons += 1) Tj
+T*
+(   if a[j] > a[j + 1]:) Tj
+T*
+(   # Swap adjacent elements) Tj
+T*
+(   a[j], a[j + 1] = a[j + 1], a[j]) Tj
+T*
+(   total_swaps += 1) Tj
+T*
+(   swapped = True) Tj
+T*
+() Tj
+T*
+(   # If no elements were swapped in this pass, array is sorted!) Tj
+T*
+(   if not swapped:) Tj
+T*
+(   print\(f"Early exit triggered at pass {i + 1}: Array is fully sorted."\)) Tj
+T*
+(   break) Tj
+T*
+() Tj
+T*
+(   return a, total_comparisons, total_swaps) Tj
+T*
+() Tj
+T*
+(   # Verification) Tj
+T*
+(   unsorted_list = [64, 34, 25, 12, 22, 11, 90]) Tj
+T*
+(   sorted_list, comps, swaps = bubble_sort_optimized\(unsorted_list\)) Tj
+T*
+(   print\(f"Unsorted: {unsorted_list}"\)) Tj
+T*
+(   print\(f"Sorted: {sorted_list} | Comparisons: {comps} | Swaps: {swaps}"\)) Tj
+T*
+ET
+
+endstream
+endobj
+65 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 66 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+66 0 obj
+<< /Length 2794 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 2: CONDITIONAL STATEMENTS AND LOOPS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 32 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   # Best-Case Test \(Already Sorted\)) Tj
+T*
+(   already_sorted = [1, 2, 3, 4, 5]) Tj
+T*
+(   _, best_comps, best_swaps = bubble_sort_optimized\(already_sorted\)) Tj
+T*
+(   print\(f"Already Sorted Test -> Comps: {best_comps}, Swaps: {best_swaps} \(O\(N\) Best Case!\)"\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+(   - Best-Case Time: O\(N\) \(1 pass of N - 1 comparisons\).) Tj
+T*
+(   - Average & Worst-Case Time: O\(N^2\) comparisons and swaps.) Tj
+T*
+(   - Auxiliary Space: O\(1\) in-place sorting.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 21:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Design an interactive Caesar Cipher encryption and decryption program in Python using loops, character ordinals \(ord\), and modulo 26 arithmetic.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Theoretical Formulation of Caesar Cipher:) Tj
+T*
+(   The Caesar Cipher is a classic monoalphabetic substitution cipher where each letter in the) Tj
+T*
+(   plaintext is shifted by a fixed key k positions down the alphabet:) Tj
+T*
+(   Encryption Formula:) Tj
+T*
+(   E\(x\) = \(x + k\) % 26) Tj
+T*
+(   Decryption Formula:) Tj
+T*
+(   D\(x\) = \(x - k\) % 26) Tj
+T*
+(   where x is the 0-indexed position of letter \(A=0, B=1, ... Z=25\).) Tj
+T*
+() Tj
+T*
+(   2. Python Implementation:) Tj
+T*
+(   class CaesarCipher:) Tj
+T*
+(   @staticmethod) Tj
+T*
+(   def encrypt\(text: str, key: int\) -> str:) Tj
+T*
+(   result = []) Tj
+T*
+(   for char in text:) Tj
+T*
+(   if char.isupper\(\):) Tj
+T*
+(   # Base ord\('A'\) = 65) Tj
+T*
+(   enc_char = chr\(\(ord\(char\) - 65 + key\) % 26 + 65\)) Tj
+T*
+(   result.append\(enc_char\)) Tj
+T*
+(   elif char.islower\(\):) Tj
+T*
+(   # Base ord\('a'\) = 97) Tj
+T*
+(   enc_char = chr\(\(ord\(char\) - 97 + key\) % 26 + 97\)) Tj
+T*
+(   result.append\(enc_char\)) Tj
+T*
+(   else:) Tj
+T*
+(   # Retain punctuation, digits, spaces unchanged) Tj
+T*
+(   result.append\(char\)) Tj
+T*
+(   return "".join\(result\)) Tj
+T*
+() Tj
+T*
+(   @staticmethod) Tj
+T*
+(   def decrypt\(ciphertext: str, key: int\) -> str:) Tj
+T*
+(   # Decryption is encryption with negative key) Tj
+T*
+(   return CaesarCipher.encrypt\(ciphertext, -key\)) Tj
+T*
+() Tj
+T*
+(   # Verification) Tj
+T*
+(   plaintext = "Cyber Security & Python 3.10!") Tj
+T*
+(   shift_key = 5) Tj
+T*
+() Tj
+T*
+(   cipher = CaesarCipher.encrypt\(plaintext, shift_key\)) Tj
+T*
+ET
+
+endstream
+endobj
+67 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 68 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+68 0 obj
+<< /Length 2564 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 2: CONDITIONAL STATEMENTS AND LOOPS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 33 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   recovered = CaesarCipher.decrypt\(cipher, shift_key\)) Tj
+T*
+() Tj
+T*
+(   print\(f"Original Text: '{plaintext}'"\)) Tj
+T*
+(   print\(f"Encrypted \(k={shift_key}\): '{cipher}'"\)) Tj
+T*
+(   print\(f"Decrypted Text: '{recovered}'"\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(N\) single pass over text of length N.) Tj
+T*
+(   - Space Complexity: O\(N\) character buffer.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 22:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement a Matrix Transpose and Matrix Addition program in Python using nested loops and 2D list comprehensions.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Mathematical Concepts:) Tj
+T*
+(   Given matrix A of dimensions R x C:) Tj
+T*
+(   1. Matrix Transpose \(A^T\): Dimensions become C x R where:) Tj
+T*
+(   A^T[j][i] = A[i][j]) Tj
+T*
+(   2. Matrix Addition \(A + B\): Valid only when A and B have identical dimensions R x C:) Tj
+T*
+(   \(A + B\)[i][j] = A[i][j] + B[i][j]) Tj
+T*
+() Tj
+T*
+(   2. Python Implementation:) Tj
+T*
+(   class MatrixOperations:) Tj
+T*
+(   @staticmethod) Tj
+T*
+(   def transpose_nested_loops\(matrix\):) Tj
+T*
+(   rows = len\(matrix\)) Tj
+T*
+(   cols = len\(matrix[0]\)) Tj
+T*
+(   trans = []) Tj
+T*
+(   for j in range\(cols\):) Tj
+T*
+(   trans_row = []) Tj
+T*
+(   for i in range\(rows\):) Tj
+T*
+(   trans_row.append\(matrix[i][j]\)) Tj
+T*
+(   trans.append\(trans_row\)) Tj
+T*
+(   return trans) Tj
+T*
+() Tj
+T*
+(   @staticmethod) Tj
+T*
+(   def transpose_comprehension\(matrix\):) Tj
+T*
+(   # Idiomatic 2D list comprehension) Tj
+T*
+(   return [[matrix[i][j] for i in range\(len\(matrix\)\)] for j in range\(len\(matrix[0]\)\)]) Tj
+T*
+() Tj
+T*
+(   @staticmethod) Tj
+T*
+(   def add_matrices\(mat_a, mat_b\):) Tj
+T*
+(   rows = len\(mat_a\)) Tj
+T*
+(   cols = len\(mat_a[0]\)) Tj
+T*
+(   return [[mat_a[i][j] + mat_b[i][j] for j in range\(cols\)] for i in range\(rows\)]) Tj
+T*
+() Tj
+T*
+(   # Verification) Tj
+T*
+(   mat1 = [[1, 2, 3], [4, 5, 6]]) Tj
+T*
+(   mat2 = [[7, 8, 9], [1, 2, 3]]) Tj
+T*
+() Tj
+T*
+(   print\("Matrix 1:"\)) Tj
+T*
+(   for r in mat1: print\(" ", r\)) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+69 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 70 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+70 0 obj
+<< /Length 2961 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 2: CONDITIONAL STATEMENTS AND LOOPS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 34 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   print\("Transpose of Matrix 1:"\)) Tj
+T*
+(   for r in MatrixOperations.transpose_comprehension\(mat1\): print\(" ", r\)) Tj
+T*
+() Tj
+T*
+(   print\("Matrix 1 + Matrix 2:"\)) Tj
+T*
+(   for r in MatrixOperations.add_matrices\(mat1, mat2\): print\(" ", r\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(R * C\) where R is rows and C is columns.) Tj
+T*
+(   - Space Complexity: O\(R * C\) memory allocated for result matrix.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 23:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Design a Python program to compute the Taylor Series expansion of sin\(x\) and cos\(x\) up to N terms using while loops and factorial accumulation.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Mathematical Formulation of Taylor Series:) Tj
+T*
+(   The Maclaurin series expansions about x = 0 \(with x in radians\) are:) Tj
+T*
+(   sin\(x\) = Sum_{n=0}^{inf} \(-1\)^n * \(x^\(2n + 1\)\) / \(2n + 1\)! = x - x^3/3! + x^5/5! - ...) Tj
+T*
+(   cos\(x\) = Sum_{n=0}^{inf} \(-1\)^n * \(x^\(2n\)\) / \(2n\)! = 1 - x^2/2! + x^4/4! - ...) Tj
+T*
+() Tj
+T*
+(   2. Python Implementation:) Tj
+T*
+(   import math) Tj
+T*
+() Tj
+T*
+(   def taylor_sin\(x_deg: float, tolerance=1e-10, max_terms=50\) -> float:) Tj
+T*
+(   # Convert degrees to radians) Tj
+T*
+(   x = math.radians\(x_deg\)) Tj
+T*
+() Tj
+T*
+(   term = x # Initial term n=0: x^1 / 1!) Tj
+T*
+(   sin_sum = term) Tj
+T*
+(   n = 1) Tj
+T*
+() Tj
+T*
+(   while abs\(term\) > tolerance and n < max_terms:) Tj
+T*
+(   # Efficient recurrence relation: term_next = -term * \(x^2\) / \(\(2n\)*\(2n+1\)\)) Tj
+T*
+(   term = -term * \(x ** 2\) / \(\(2 * n\) * \(2 * n + 1\)\)) Tj
+T*
+(   sin_sum += term) Tj
+T*
+(   n += 1) Tj
+T*
+() Tj
+T*
+(   return sin_sum, n) Tj
+T*
+() Tj
+T*
+(   # Verification against math.sin\(\)) Tj
+T*
+(   angle = 30.0 # sin\(30 deg\) = 0.5000) Tj
+T*
+(   computed_val, num_terms = taylor_sin\(angle\)) Tj
+T*
+(   actual_val = math.sin\(math.radians\(angle\)\)) Tj
+T*
+() Tj
+T*
+(   print\(f"Taylor Series Calculation for sin\({angle} degrees\):"\)) Tj
+T*
+(   print\(f" Computed Value: {computed_val:.10f}"\)) Tj
+T*
+(   print\(f" math.sin Value: {actual_val:.10f}"\)) Tj
+T*
+(   print\(f" Terms Computed: {num_terms} | Absolute Error: {abs\(computed_val - actual_val\):.2e}"\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(K\) where K is number of terms needed for convergence \(typically < 15) Tj
+T*
+(   terms\).) Tj
+T*
+(   - Space Complexity: O\(1\) auxiliary variables.) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+71 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 72 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+72 0 obj
+<< /Length 2555 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 2: CONDITIONAL STATEMENTS AND LOOPS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 35 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 24:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement a Palindrome and Armstrong Number Validator in Python using numeric while loops without converting numbers to strings.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Algorithmic Formulation:) Tj
+T*
+(   - Palindrome Number: A number that reads the same backward as forward \(e.g., 12321\).) Tj
+T*
+(   Reversed number is built by repeatedly extracting the last digit: rev = \(rev * 10\) + \(temp %) Tj
+T*
+(   10\); temp //= 10.) Tj
+T*
+(   - Armstrong \(Narcissistic\) Number: An n-digit number equal to the sum of its digits each raised) Tj
+T*
+(   to the power n \(e.g., 153 = 1^3 + 5^3 + 3^3 = 1 + 125 + 27 = 153\).) Tj
+T*
+() Tj
+T*
+(   2. Python Implementation:) Tj
+T*
+(   class NumberValidator:) Tj
+T*
+(   @staticmethod) Tj
+T*
+(   def is_palindrome\(num: int\) -> bool:) Tj
+T*
+(   if num < 0:) Tj
+T*
+(   return False # Negative numbers cannot be palindromes due to minus sign) Tj
+T*
+() Tj
+T*
+(   orig = num) Tj
+T*
+(   rev = 0) Tj
+T*
+(   temp = num) Tj
+T*
+(   while temp > 0:) Tj
+T*
+(   digit = temp % 10) Tj
+T*
+(   rev = \(rev * 10\) + digit) Tj
+T*
+(   temp //= 10) Tj
+T*
+(   return orig == rev) Tj
+T*
+() Tj
+T*
+(   @staticmethod) Tj
+T*
+(   def is_armstrong\(num: int\) -> bool:) Tj
+T*
+(   if num < 0:) Tj
+T*
+(   return False) Tj
+T*
+() Tj
+T*
+(   # Count digits mathematically) Tj
+T*
+(   temp = num) Tj
+T*
+(   num_digits = 0) Tj
+T*
+(   while temp > 0:) Tj
+T*
+(   num_digits += 1) Tj
+T*
+(   temp //= 10) Tj
+T*
+() Tj
+T*
+(   temp = num) Tj
+T*
+(   armstrong_sum = 0) Tj
+T*
+(   while temp > 0:) Tj
+T*
+(   digit = temp % 10) Tj
+T*
+(   armstrong_sum += digit ** num_digits) Tj
+T*
+(   temp //= 10) Tj
+T*
+() Tj
+T*
+(   return armstrong_sum == num) Tj
+T*
+() Tj
+T*
+(   # Verification) Tj
+T*
+(   print\(f"Is 12321 a Palindrome? {NumberValidator.is_palindrome\(12321\)}"\)) Tj
+T*
+(   print\(f"Is 12345 a Palindrome? {NumberValidator.is_palindrome\(12345\)}"\)) Tj
+T*
+(   print\(f"Is 153 an Armstrong Number? {NumberValidator.is_armstrong\(153\)}"\)) Tj
+T*
+(   print\(f"Is 9474 an Armstrong Number? \(9^4+4^4+7^4+4^4\) ->) Tj
+T*
+ET
+
+endstream
+endobj
+73 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 74 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+74 0 obj
+<< /Length 2776 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 2: CONDITIONAL STATEMENTS AND LOOPS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 36 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   {NumberValidator.is_armstrong\(9474\)}"\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(D\) where D = floor\(log10 N\) + 1 is the number of decimal digits.) Tj
+T*
+(   - Space Complexity: O\(1\) arithmetic integer registers.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 25:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement an Run-Length Encoding \(RLE\) lossless string data compression utility using iterative while/for loops.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Theoretical Principles of Run-Length Encoding:) Tj
+T*
+(   Run-Length Encoding \(RLE\) is a lossless data compression technique where contiguous runs of) Tj
+T*
+(   identical data characters are stored as a single character value and count \(e.g.,) Tj
+T*
+(   'AAAAABBBCCDAA' -> 'A5B3C2D1A2'\).) Tj
+T*
+(   Ideal for compressing monochrome bitmaps, repeated sensor readings, and genomic DNA sequences.) Tj
+T*
+() Tj
+T*
+(   2. Python Implementation:) Tj
+T*
+(   class RunLengthEncoder:) Tj
+T*
+(   @staticmethod) Tj
+T*
+(   def compress\(text: str\) -> str:) Tj
+T*
+(   if not text:) Tj
+T*
+(   return "") Tj
+T*
+() Tj
+T*
+(   compressed = []) Tj
+T*
+(   n = len\(text\)) Tj
+T*
+(   i = 0) Tj
+T*
+() Tj
+T*
+(   while i < n:) Tj
+T*
+(   current_char = text[i]) Tj
+T*
+(   count = 1) Tj
+T*
+(   # Count consecutive identical characters) Tj
+T*
+(   while i + 1 < n and text[i + 1] == current_char:) Tj
+T*
+(   count += 1) Tj
+T*
+(   i += 1) Tj
+T*
+(   compressed.append\(f"{current_char}{count}"\)) Tj
+T*
+(   i += 1) Tj
+T*
+() Tj
+T*
+(   return "".join\(compressed\)) Tj
+T*
+() Tj
+T*
+(   @staticmethod) Tj
+T*
+(   def decompress\(encoded: str\) -> str:) Tj
+T*
+(   import re) Tj
+T*
+(   # Match character followed by numeric count) Tj
+T*
+(   tokens = re.findall\(r'\([A-Za-z]\)\(\\d+\)', encoded\)) Tj
+T*
+(   return "".join\(char * int\(count\) for char, count in tokens\)) Tj
+T*
+() Tj
+T*
+(   # Demonstration) Tj
+T*
+(   sample_data = "WWWWWWWWWWWWBWWWWWWWWWWWWBBBWWWWWWWWWWWWWWWWWWWWWWWWB") Tj
+T*
+(   compressed_data = RunLengthEncoder.compress\(sample_data\)) Tj
+T*
+(   decompressed_data = RunLengthEncoder.decompress\(compressed_data\)) Tj
+T*
+() Tj
+T*
+(   print\(f"Original String: '{sample_data}' \(Length: {len\(sample_data\)}\)"\)) Tj
+T*
+(   print\(f"Compressed RLE: '{compressed_data}' \(Length: {len\(compressed_data\)}\)"\)) Tj
+T*
+ET
+
+endstream
+endobj
+75 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 76 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+76 0 obj
+<< /Length 3397 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 2: CONDITIONAL STATEMENTS AND LOOPS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 37 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   print\(f"Compression Ratio: {len\(compressed_data\) / len\(sample_data\) * 100:.1f}%"\)) Tj
+T*
+(   print\(f"Lossless Recovery: {decompressed_data == sample_data}"\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(N\) single linear pass over the input string.) Tj
+T*
+(   - Space Complexity: O\(N\) memory for the output compressed string.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 26:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the itertools module in Python. Demonstrate infinite iterators \(count, cycle, repeat\) and combinatoric generators \(product, permutations, combinations\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Architecture of the itertools Module:) Tj
+T*
+(   The itertools module provides highly optimized, memory-efficient C-level iterators for fast) Tj
+T*
+(   looping:) Tj
+T*
+(   - Infinite Iterators: count\(\), cycle\(\), repeat\(\).) Tj
+T*
+(   - Terminating Combinatoric Iterators: product\(\), permutations\(\), combinations\(\).) Tj
+T*
+() Tj
+T*
+(   2. Core Iterators:) Tj
+T*
+(   - itertools.count\(start, step\): Generates infinite sequence start, start+step, start+2*step...) Tj
+T*
+(   - itertools.cycle\(iterable\): Cycles through an iterable indefinitely.) Tj
+T*
+(   - itertools.product\(*iterables, repeat=1\): Cartesian product \(equivalent to nested for loops\).) Tj
+T*
+(   - itertools.permutations\(iterable, r\): Successive r-length permutations with order mattering.) Tj
+T*
+(   - itertools.combinations\(iterable, r\): Successive r-length combinations without replacement.) Tj
+T*
+() Tj
+T*
+(   3. Python Demonstration:) Tj
+T*
+(   import itertools) Tj
+T*
+() Tj
+T*
+(   # 1. Cartesian Product) Tj
+T*
+(   colors = ["Red", "Blue"]) Tj
+T*
+(   sizes = ["S", "M", "L"]) Tj
+T*
+(   cartesian = list\(itertools.product\(colors, sizes\)\)) Tj
+T*
+(   print\(f"Cartesian Product \(Colors x Sizes\): {cartesian}"\)) Tj
+T*
+() Tj
+T*
+(   # 2. Permutations & Combinations) Tj
+T*
+(   letters = ['A', 'B', 'C']) Tj
+T*
+(   perms = list\(itertools.permutations\(letters, 2\)\)) Tj
+T*
+(   combs = list\(itertools.combinations\(letters, 2\)\)) Tj
+T*
+(   print\(f"Permutations of 3 choose 2 \(P\(3,2\)=6\): {perms}"\)) Tj
+T*
+(   print\(f"Combinations of 3 choose 2 \(C\(3,2\)=3\): {combs}"\)) Tj
+T*
+() Tj
+T*
+(   # 3. Controlled Infinite Iterator \(count + islice\)) Tj
+T*
+(   counter = itertools.count\(start=100, step=10\)) Tj
+T*
+(   first_5 = list\(itertools.islice\(counter, 5\)\)) Tj
+T*
+(   print\(f"itertools.count first 5 elements: {first_5}"\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+(   - Cartesian Product Time: O\(N * M\).) Tj
+T*
+(   - Combinations Time: O\(N! / \(r! * \(N - r\)!\)\).) Tj
+T*
+(   - Space Complexity: O\(r\) auxiliary generator frame \(streaming\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 27:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+ET
+
+endstream
+endobj
+77 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 78 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+78 0 obj
+<< /Length 3573 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 2: CONDITIONAL STATEMENTS AND LOOPS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 38 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   [Problem Statement]: Explain the Structural Pattern Matching \(match-case\) introduced in Python 3.10 \(PEP 634\). Compare with C-style switch-case and traditional if-elif-else.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Paradigm Shift: PEP 634 Structural Pattern Matching:) Tj
+T*
+(   Introduced in Python 3.10, match-case is fundamentally more powerful than C-style switch-case) Tj
+T*
+(   statements:) Tj
+T*
+(   - C switch: Only compares a primitive integer/char against static compile-time constants.) Tj
+T*
+(   Requires explicit break statements to avoid fall-through.) Tj
+T*
+(   - Python match-case: Inspects both value and structure \(shapes of sequences, objects,) Tj
+T*
+(   dictionaries\), extracts variables, and matches against patterns with optional guard clauses) Tj
+T*
+(   \(if\). No break is required; execution never falls through.) Tj
+T*
+() Tj
+T*
+(   2. Pattern Types Supported:) Tj
+T*
+(   - Literal patterns: case 404:) Tj
+T*
+(   - Capture patterns: case \(x, y\):) Tj
+T*
+(   - Wildcard pattern: case _: \(Matches anything; default branch\)) Tj
+T*
+(   - OR patterns: case 401 | 403:) Tj
+T*
+(   - Guard clauses: case x if x > 0:) Tj
+T*
+() Tj
+T*
+(   3. Python Code Demonstration:) Tj
+T*
+(   def handle_rest_api_event\(event: dict\) -> str:) Tj
+T*
+(   """Process API requests using structural pattern matching.""") Tj
+T*
+(   match event:) Tj
+T*
+(   case {"action": "login", "user": username, "status": "success"}:) Tj
+T*
+(   return f"User '{username}' logged in successfully.") Tj
+T*
+(   case {"action": "login", "user": username, "status": "failed", "attempts": n} if n >= 3:) Tj
+T*
+(   return f"ALERT: Account '{username}' locked due to {n} failed attempts!") Tj
+T*
+(   case {"action": "fetch", "resource_id": int\(rid\)}:) Tj
+T*
+(   return f"Fetching resource record #{rid}.") Tj
+T*
+(   case {"action": "logout"}:) Tj
+T*
+(   return "User logged out.") Tj
+T*
+(   case _:) Tj
+T*
+(   return "Unknown event payload received.") Tj
+T*
+() Tj
+T*
+(   # Demonstration) Tj
+T*
+(   print\(handle_rest_api_event\({"action": "login", "user": "Hariom", "status": "success"}\)\)) Tj
+T*
+(   print\(handle_rest_api_event\({"action": "login", "user": "Admin", "status": "failed",) Tj
+T*
+(   "attempts": 4}\)\)) Tj
+T*
+(   print\(handle_rest_api_event\({"action": "fetch", "resource_id": 1042}\)\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(P\) pattern checks matching structure.) Tj
+T*
+(   - Space Complexity: O\(1\) auxiliary frame memory.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 28:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Design a Python program to solve the 0/1 Knapsack Problem or Subset Sum Problem using iterative dynamic programming tables and nested loops.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Theoretical Formulation of 0/1 Knapsack:) Tj
+T*
+(   Given N items, each with weight w[i] and value v[i], and a knapsack with maximum weight) Tj
+T*
+(   capacity W:) Tj
+T*
+(   Determine the maximum value achievable without exceeding weight W.) Tj
+T*
+(   Recurrence Relation:) Tj
+T*
+(   For item i \(1 <= i <= N\) and weight w \(0 <= w <= W\):) Tj
+T*
+ET
+
+endstream
+endobj
+79 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 80 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+80 0 obj
+<< /Length 2827 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 2: CONDITIONAL STATEMENTS AND LOOPS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 39 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - If w[i - 1] > w: DP[i][w] = DP[i - 1][w]) Tj
+T*
+(   - Else: DP[i][w] = max\(DP[i - 1][w], v[i - 1] + DP[i - 1][w - w[i - 1]]\)) Tj
+T*
+() Tj
+T*
+(   2. Python Implementation:) Tj
+T*
+(   def solve_01_knapsack\(values: list, weights: list, capacity: int\) -> tuple:) Tj
+T*
+(   n = len\(values\)) Tj
+T*
+(   # Initialize DP table \(N + 1\) x \(capacity + 1\) with zeros) Tj
+T*
+(   dp = [[0 for _ in range\(capacity + 1\)] for _ in range\(n + 1\)]) Tj
+T*
+() Tj
+T*
+(   # Bottom-up iterative table construction) Tj
+T*
+(   for i in range\(1, n + 1\):) Tj
+T*
+(   item_val = values[i - 1]) Tj
+T*
+(   item_wt = weights[i - 1]) Tj
+T*
+(   for w in range\(1, capacity + 1\):) Tj
+T*
+(   if item_wt <= w:) Tj
+T*
+(   dp[i][w] = max\(dp[i - 1][w], item_val + dp[i - 1][w - item_wt]\)) Tj
+T*
+(   else:) Tj
+T*
+(   dp[i][w] = dp[i - 1][w]) Tj
+T*
+() Tj
+T*
+(   max_val = dp[n][capacity]) Tj
+T*
+() Tj
+T*
+(   # Backtrack to find selected items) Tj
+T*
+(   selected_items = []) Tj
+T*
+(   curr_w = capacity) Tj
+T*
+(   for i in range\(n, 0, -1\):) Tj
+T*
+(   if dp[i][curr_w] != dp[i - 1][curr_w]:) Tj
+T*
+(   selected_items.append\(i - 1\) # 0-indexed item) Tj
+T*
+(   curr_w -= weights[i - 1]) Tj
+T*
+() Tj
+T*
+(   selected_items.reverse\(\)) Tj
+T*
+(   return max_val, selected_items) Tj
+T*
+() Tj
+T*
+(   # Verification) Tj
+T*
+(   vals = [60, 100, 120]) Tj
+T*
+(   wts = [10, 20, 30]) Tj
+T*
+(   cap = 50) Tj
+T*
+() Tj
+T*
+(   best_val, chosen = solve_01_knapsack\(vals, wts, cap\)) Tj
+T*
+(   print\(f"Knapsack Capacity: {cap} kg"\)) Tj
+T*
+(   print\(f"Maximum Profit Achieved: ${best_val}"\)) Tj
+T*
+(   print\(f"Selected Item Indices: {chosen} \(Weights: {[wts[i] for i in chosen]}\)"\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(N * W\) where N is number of items and W is capacity.) Tj
+T*
+(   - Space Complexity: O\(N * W\) memory for the 2D DP matrix.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 29:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement a Monte Carlo Simulation in Python to estimate the mathematical constant Pi \(pi\) using random numbers and circular geometry.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Theoretical Basis of Monte Carlo Pi Estimation:) Tj
+T*
+(   Consider a 2D square with side length 2R centered at origin \(area = \(2R\)^2 = 4*R^2\).) Tj
+T*
+(   Inside this square, inscribe a circle of radius R \(area = pi * R^2\).) Tj
+T*
+ET
+
+endstream
+endobj
+81 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 82 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+82 0 obj
+<< /Length 2828 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 2: CONDITIONAL STATEMENTS AND LOOPS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 40 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   Ratio of Circle Area to Square Area:) Tj
+T*
+(   Area_Circle / Area_Square = \(pi * R^2\) / \(4 * R^2\) = pi / 4.) Tj
+T*
+(   Therefore:) Tj
+T*
+(   pi = 4 * \(Points_Inside_Circle / Total_Points\).) Tj
+T*
+() Tj
+T*
+(   2. Simulation Algorithm:) Tj
+T*
+(   1. Generate N uniform random points \(x, y\) in the range [-1.0, 1.0].) Tj
+T*
+(   2. For each point, evaluate Euclidean distance from origin: dist_sq = x^2 + y^2.) Tj
+T*
+(   3. If dist_sq <= 1.0, the point falls inside the inscribed circle.) Tj
+T*
+(   4. Estimate pi = 4.0 * inside_count / N.) Tj
+T*
+() Tj
+T*
+(   3. Python Implementation:) Tj
+T*
+(   import random) Tj
+T*
+(   import math) Tj
+T*
+() Tj
+T*
+(   def monte_carlo_pi_estimator\(num_samples=500_000, seed=42\):) Tj
+T*
+(   random.seed\(seed\)) Tj
+T*
+(   inside_circle = 0) Tj
+T*
+() Tj
+T*
+(   for _ in range\(num_samples\):) Tj
+T*
+(   x = random.uniform\(-1.0, 1.0\)) Tj
+T*
+(   y = random.uniform\(-1.0, 1.0\)) Tj
+T*
+() Tj
+T*
+(   if \(x * x\) + \(y * y\) <= 1.0:) Tj
+T*
+(   inside_circle += 1) Tj
+T*
+() Tj
+T*
+(   estimated_pi = 4.0 * inside_circle / num_samples) Tj
+T*
+(   error = abs\(estimated_pi - math.pi\)) Tj
+T*
+() Tj
+T*
+(   print\("=" * 55\)) Tj
+T*
+(   print\(" MONTE CARLO PI SIMULATION EXPERIMENT "\)) Tj
+T*
+(   print\("=" * 55\)) Tj
+T*
+(   print\(f"Total Random Samples \(N\): {num_samples:,}"\)) Tj
+T*
+(   print\(f"Points Inside Circle \(M\): {inside_circle:,}"\)) Tj
+T*
+(   print\(f"Estimated Pi Value: {estimated_pi:.6f}"\)) Tj
+T*
+(   print\(f"Actual math.pi Reference: {math.pi:.6f}"\)) Tj
+T*
+(   print\(f"Absolute Estimation Error: {error:.6f} \({error / math.pi * 100:.4f}%\)"\)) Tj
+T*
+(   print\("=" * 55\)) Tj
+T*
+(   return estimated_pi) Tj
+T*
+() Tj
+T*
+(   # Run verification) Tj
+T*
+(   monte_carlo_pi_estimator\(num_samples=250_000\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(N\) linear time proportional to sample count.) Tj
+T*
+(   - Space Complexity: O\(1\) auxiliary memory registers.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 30:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement Conway's Game of Life cellular automaton in Python using 2D grids, nested loops, and toroidal boundary conditions.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Theoretical Rules of Conway's Game of Life:) Tj
+T*
+(   A zero-player cellular automaton played on an M x N grid of cells \(1 = Alive, 0 = Dead\):) Tj
+T*
+ET
+
+endstream
+endobj
+83 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 84 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+84 0 obj
+<< /Length 2462 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 2: CONDITIONAL STATEMENTS AND LOOPS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 41 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   At each discrete tick, the fate of each cell is determined by its 8 orthogonal and diagonal) Tj
+T*
+(   neighbors:) Tj
+T*
+(   1. Underpopulation: Any live cell with < 2 live neighbors dies.) Tj
+T*
+(   2. Survival: Any live cell with 2 or 3 live neighbors lives to the next generation.) Tj
+T*
+(   3. Overpopulation: Any live cell with > 3 live neighbors dies.) Tj
+T*
+(   4. Reproduction: Any dead cell with exactly 3 live neighbors becomes a live cell.) Tj
+T*
+() Tj
+T*
+(   2. Toroidal Boundary Conditions:) Tj
+T*
+(   Edges wrap around using modulus arithmetic: \(r + dr\) % rows and \(c + dc\) % cols.) Tj
+T*
+() Tj
+T*
+(   3. Python Implementation:) Tj
+T*
+(   class GameOfLife:) Tj
+T*
+(   def __init__\(self, grid\):) Tj
+T*
+(   self.grid = grid) Tj
+T*
+(   self.rows = len\(grid\)) Tj
+T*
+(   self.cols = len\(grid[0]\)) Tj
+T*
+() Tj
+T*
+(   def count_neighbors\(self, r: int, c: int\) -> int:) Tj
+T*
+(   count = 0) Tj
+T*
+(   for dr in \(-1, 0, 1\):) Tj
+T*
+(   for dc in \(-1, 0, 1\):) Tj
+T*
+(   if dr == 0 and dc == 0:) Tj
+T*
+(   continue) Tj
+T*
+(   # Toroidal modular wraparound) Tj
+T*
+(   nr = \(r + dr\) % self.rows) Tj
+T*
+(   nc = \(c + dc\) % self.cols) Tj
+T*
+(   count += self.grid[nr][nc]) Tj
+T*
+(   return count) Tj
+T*
+() Tj
+T*
+(   def step\(self\):) Tj
+T*
+(   next_grid = [[0 for _ in range\(self.cols\)] for _ in range\(self.rows\)]) Tj
+T*
+(   for r in range\(self.rows\):) Tj
+T*
+(   for c in range\(self.cols\):) Tj
+T*
+(   live_neighbors = self.count_neighbors\(r, c\)) Tj
+T*
+(   if self.grid[r][c] == 1:) Tj
+T*
+(   next_grid[r][c] = 1 if live_neighbors in \(2, 3\) else 0) Tj
+T*
+(   else:) Tj
+T*
+(   next_grid[r][c] = 1 if live_neighbors == 3 else 0) Tj
+T*
+(   self.grid = next_grid) Tj
+T*
+() Tj
+T*
+(   def display\(self, label=""\):) Tj
+T*
+(   print\(f"\\n--- {label} ---"\)) Tj
+T*
+(   for row in self.grid:) Tj
+T*
+(   print\(" ".join\("#" if cell else "." for cell in row\)\)) Tj
+T*
+() Tj
+T*
+(   # Demonstration: Blinker Oscillator \(Period 2\)) Tj
+T*
+(   blinker = [) Tj
+T*
+(   [0, 0, 0, 0, 0],) Tj
+T*
+(   [0, 0, 1, 0, 0],) Tj
+T*
+(   [0, 0, 1, 0, 0],) Tj
+T*
+(   [0, 0, 1, 0, 0],) Tj
+T*
+(   [0, 0, 0, 0, 0]) Tj
+T*
+(   ]) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+85 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 86 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+86 0 obj
+<< /Length 859 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 2: CONDITIONAL STATEMENTS AND LOOPS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 42 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   sim = GameOfLife\(blinker\)) Tj
+T*
+(   sim.display\("Gen 0 \(Vertical Blinker\)"\)) Tj
+T*
+(   sim.step\(\)) Tj
+T*
+(   sim.display\("Gen 1 \(Horizontal Blinker\)"\)) Tj
+T*
+(   sim.step\(\)) Tj
+T*
+(   sim.display\("Gen 2 \(Returned to Vertical\)"\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(R * C\) per time step evolution.) Tj
+T*
+(   - Space Complexity: O\(R * C\) memory for next grid state.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+87 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+88 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+xref
+0 89
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000400 00000 n 
+0000000544 00000 n 
+0000008611 00000 n 
+0000008755 00000 n 
+0000017077 00000 n 
+0000017221 00000 n 
+0000025093 00000 n 
+0000025238 00000 n 
+0000033527 00000 n 
+0000033673 00000 n 
+0000042442 00000 n 
+0000042588 00000 n 
+0000051538 00000 n 
+0000051684 00000 n 
+0000060958 00000 n 
+0000061104 00000 n 
+0000062626 00000 n 
+0000062772 00000 n 
+0000068325 00000 n 
+0000068471 00000 n 
+0000071231 00000 n 
+0000071377 00000 n 
+0000079850 00000 n 
+0000079996 00000 n 
+0000083318 00000 n 
+0000083464 00000 n 
+0000086645 00000 n 
+0000086791 00000 n 
+0000089992 00000 n 
+0000090138 00000 n 
+0000093271 00000 n 
+0000093417 00000 n 
+0000096839 00000 n 
+0000096985 00000 n 
+0000100167 00000 n 
+0000100313 00000 n 
+0000103485 00000 n 
+0000103631 00000 n 
+0000106785 00000 n 
+0000106931 00000 n 
+0000109824 00000 n 
+0000109970 00000 n 
+0000112885 00000 n 
+0000113031 00000 n 
+0000115948 00000 n 
+0000116094 00000 n 
+0000118806 00000 n 
+0000118952 00000 n 
+0000121963 00000 n 
+0000122109 00000 n 
+0000125633 00000 n 
+0000125779 00000 n 
+0000128452 00000 n 
+0000128598 00000 n 
+0000131332 00000 n 
+0000131478 00000 n 
+0000134772 00000 n 
+0000134918 00000 n 
+0000138368 00000 n 
+0000138514 00000 n 
+0000141515 00000 n 
+0000141661 00000 n 
+0000144740 00000 n 
+0000144886 00000 n 
+0000147733 00000 n 
+0000147879 00000 n 
+0000150496 00000 n 
+0000150642 00000 n 
+0000153656 00000 n 
+0000153802 00000 n 
+0000156410 00000 n 
+0000156556 00000 n 
+0000159385 00000 n 
+0000159531 00000 n 
+0000162981 00000 n 
+0000163127 00000 n 
+0000166753 00000 n 
+0000166899 00000 n 
+0000169779 00000 n 
+0000169925 00000 n 
+0000172806 00000 n 
+0000172952 00000 n 
+0000175467 00000 n 
+0000175613 00000 n 
+0000176524 00000 n 
+0000176622 00000 n 
+trailer
+<< /Size 89 /Root 1 0 R >>
+startxref
+176725
+%%EOF

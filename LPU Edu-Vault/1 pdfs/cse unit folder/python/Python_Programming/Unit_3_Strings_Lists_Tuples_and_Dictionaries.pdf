@@ -1,0 +1,11853 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R 35 0 R 37 0 R 39 0 R 41 0 R 43 0 R 45 0 R 47 0 R 49 0 R 51 0 R 53 0 R 55 0 R 57 0 R 59 0 R 61 0 R 63 0 R 65 0 R 67 0 R 69 0 R 71 0 R 73 0 R 75 0 R 77 0 R 79 0 R 81 0 R 83 0 R] /Count 41 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 4 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 7961 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 3: STRINGS, LISTS, TUPLES AND DICTIONARIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 1 of 41) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(1.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Which of the following is a compound data type) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(str) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(list) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(dict) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(All of the above) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(2.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(What built-in function returns the total number) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(of items in a sequence or collection?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(size\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(count\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(len\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(dimension\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(3.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(How are individual characters accessed in a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(string s?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.5001 Td
+(s\(i\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.9001 Td
+(s[i]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.3002 Td
+(s{i}) Tj
+ET
+BT
+/F2 7.4 Tf
+58 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 587.7002 Td
+(s.get\(i\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 564.1002 Td
+(4.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(What does string slicing s[1:5] extract from) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(string s?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 543.2002 Td
+(Characters from index 1 to 5 inclusive) Tj
+ET
+BT
+/F2 7.4 Tf
+58 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 533.6002 Td
+(Characters from index 1 to 4 inclusive \(5 is) Tj
+ET
+BT
+/F1 7.4 Tf
+72 525.0002 Td
+(exclusive\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 515.4003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 515.4003 Td
+(Characters from index 0 to 4) Tj
+ET
+BT
+/F2 7.4 Tf
+58 505.8003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 505.8003 Td
+(Every 5th character starting at 1) Tj
+ET
+BT
+/F2 8.0 Tf
+42 482.2003 Td
+(5.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 482.2003 Td
+(Which string method searches for a substring and) Tj
+ET
+BT
+/F1 7.8 Tf
+58 473.0002 Td
+(returns -1 if not found?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 461.3002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 461.3002 Td
+(index\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 451.7002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 451.7002 Td
+(find\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 442.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 442.1002 Td
+(search\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 432.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 432.5002 Td
+(locate\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 408.9002 Td
+(6.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 408.9002 Td
+(What does the string method index\(\) raise if the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 399.7002 Td
+(substring is absent?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 388.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 388.0002 Td
+(ValueError) Tj
+ET
+BT
+/F2 7.4 Tf
+58 378.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 378.4002 Td
+(KeyError) Tj
+ET
+BT
+/F2 7.4 Tf
+58 368.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 368.8002 Td
+(IndexError) Tj
+ET
+BT
+/F2 7.4 Tf
+58 359.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 359.2002 Td
+(Returns -1) Tj
+ET
+BT
+/F2 8.0 Tf
+42 335.6002 Td
+(7.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.6002 Td
+(Which string method counts the non-overlapping) Tj
+ET
+BT
+/F1 7.8 Tf
+58 326.4001 Td
+(occurrences of a substring?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 314.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 314.7001 Td
+(tally\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 305.1001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 305.1001 Td
+(frequency\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 295.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 295.5001 Td
+(count\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 285.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 285.9001 Td
+(sum\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(8.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Which delimiter is used to define a list literal) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(Parentheses \( \)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(Square brackets [ ]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(Curly braces { }) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(Angle brackets < >) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(9.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(Are lists in Python mutable or immutable?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 699.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 699.0001 Td
+(Immutable) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.4001 Td
+(Mutable) Tj
+ET
+BT
+/F2 7.4 Tf
+322 679.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 679.8001 Td
+(Constant) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.2001 Td
+(Hashable) Tj
+ET
+BT
+/F2 8.0 Tf
+306 646.6002 Td
+(10.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 646.6002 Td
+(Which operator tests whether an item exists) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(inside a list or tuple?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 625.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 625.7001 Td
+(exists) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.1002 Td
+(in) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.5002 Td
+(contains) Tj
+ET
+BT
+/F2 7.4 Tf
+322 596.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 596.9002 Td
+(has) Tj
+ET
+BT
+/F2 8.0 Tf
+306 573.3002 Td
+(11.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 573.3002 Td
+(Which list method adds a single element to the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.1002 Td
+(end of the list in-place?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 552.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 552.4002 Td
+(push\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 542.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 542.8002 Td
+(insert\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 533.2003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 533.2003 Td
+(append\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 523.6003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 523.6003 Td
+(add\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 500.0003 Td
+(12.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 500.0003 Td
+(Which list method appends all elements of an) Tj
+ET
+BT
+/F1 7.8 Tf
+322 490.8003 Td
+(iterable to the end of the list?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 479.1003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 479.1003 Td
+(extend\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 469.5003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 469.5003 Td
+(append\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 459.9003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 459.9003 Td
+(concat\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 450.3003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 450.3003 Td
+(push_all\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 426.7003 Td
+(13.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 426.7003 Td
+(Which list method inserts an element at a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 417.5002 Td
+(specified index position?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 405.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 405.8002 Td
+(insert\(index, element\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 396.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 396.2002 Td
+(add\(index, element\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 386.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 386.6002 Td
+(place\(index, element\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.0002 Td
+(push\(index, element\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 353.4002 Td
+(14.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 353.4002 Td
+(Which statement deletes an element at index i) Tj
+ET
+BT
+/F1 7.8 Tf
+322 344.2002 Td
+(from list L?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 332.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 332.5002 Td
+(L.delete\(i\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 322.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 322.9002 Td
+(del L[i]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 313.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 313.3002 Td
+(remove L[i]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 303.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 303.7002 Td
+(drop\(L[i]\)) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 6 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+6 0 obj
+<< /Length 7985 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 3: STRINGS, LISTS, TUPLES AND DICTIONARIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 2 of 41) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(15.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Which list method removes and returns the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(element at a specified index \(default last\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(pop\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(remove\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(discard\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(extract\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(16.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(Which list method removes the first occurrence) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(of a specific value from the list?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(pop\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(remove\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(discard\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(del) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(17.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(What error occurs if list.remove\(x\) is called) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(for an element x not present in the list?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.5001 Td
+(IndexError) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.9001 Td
+(KeyError) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.3002 Td
+(ValueError) Tj
+ET
+BT
+/F2 7.4 Tf
+58 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 587.7002 Td
+(TypeError) Tj
+ET
+BT
+/F2 8.0 Tf
+42 564.1002 Td
+(18.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(Which delimiter is used to define a tuple) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(literal in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 543.2002 Td
+(Square brackets [ ]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 533.6002 Td
+(Parentheses \( \) or comma-separated values) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.0002 Td
+(Curly braces { }) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.4003 Td
+(Angle brackets < >) Tj
+ET
+BT
+/F2 8.0 Tf
+42 490.8003 Td
+(19.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 490.8003 Td
+(Are tuples mutable or immutable in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 479.1003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 479.1003 Td
+(Mutable) Tj
+ET
+BT
+/F2 7.4 Tf
+58 469.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 469.5002 Td
+(Immutable) Tj
+ET
+BT
+/F2 7.4 Tf
+58 459.9002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 459.9002 Td
+(Partially mutable) Tj
+ET
+BT
+/F2 7.4 Tf
+58 450.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 450.3002 Td
+(Dynamic) Tj
+ET
+BT
+/F2 8.0 Tf
+42 426.7002 Td
+(20.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 426.7002 Td
+(How is a single-element tuple containing integer) Tj
+ET
+BT
+/F1 7.8 Tf
+58 417.5002 Td
+(5 properly defined?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 405.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 405.8002 Td
+(t = \(5\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 396.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 396.2002 Td
+(t = \(5,\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 386.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 386.6002 Td
+(t = [5]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.0002 Td
+(t = tuple\(5\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 353.4002 Td
+(21.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 353.4002 Td
+(What is the type of t = \(5\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 341.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 341.7002 Td
+(tuple) Tj
+ET
+BT
+/F2 7.4 Tf
+58 332.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 332.1002 Td
+(int) Tj
+ET
+BT
+/F2 7.4 Tf
+58 322.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 322.5002 Td
+(list) Tj
+ET
+BT
+/F2 7.4 Tf
+58 312.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 312.9001 Td
+(singleton) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(22.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What technique allows assigning elements of a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(tuple to multiple variables simultaneously?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(Tuple concatenation) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(Tuple packing) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(Tuple unpacking / sequence assignment) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(Tuple indexing) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(23.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(What data structure stores unordered key-value) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(pairs with unique keys in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(set) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(tuple) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(dict \(dictionary\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(list) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(24.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(Which delimiter is used to enclose dictionary) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(key-value literals?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.5001 Td
+(Square brackets [ ]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.9001 Td
+(Curly braces { }) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.3002 Td
+(Parentheses \( \)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 587.7002 Td
+(Pipe symbols | |) Tj
+ET
+BT
+/F2 8.0 Tf
+306 564.1002 Td
+(25.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.1002 Td
+(Which method retrieves a dictionary value by key) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(without raising a KeyError if absent?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 543.2002 Td
+(dict[k]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 533.6002 Td
+(dict.get\(k, default\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.0002 Td
+(dict.fetch\(k\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.4003 Td
+(dict.lookup\(k\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 490.8003 Td
+(26.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 490.8003 Td
+(Which dictionary method returns a dynamic view) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6003 Td
+(of all keys?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 469.9002 Td
+(dict.keys\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.3002 Td
+(dict.all_keys\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 450.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 450.7002 Td
+(dict.index\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.1002 Td
+(dict.names\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 417.5002 Td
+(27.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 417.5002 Td
+(Which dictionary method returns a dynamic view) Tj
+ET
+BT
+/F1 7.8 Tf
+322 408.3002 Td
+(of all values?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 396.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 396.6002 Td
+(dict.values\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.0002 Td
+(dict.elements\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.4002 Td
+(dict.items\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 367.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 367.8002 Td
+(dict.data\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 344.2002 Td
+(28.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 344.2002 Td
+(Which dictionary method returns pairs of \(key,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 335.0002 Td
+(value\) as tuple views?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 323.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 323.3001 Td
+(dict.pairs\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 313.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 313.7001 Td
+(dict.items\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.1001 Td
+(dict.tuples\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 294.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 294.5001 Td
+(dict.entries\(\)) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 8 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+8 0 obj
+<< /Length 7972 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 3: STRINGS, LISTS, TUPLES AND DICTIONARIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 3 of 41) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(29.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Can a mutable list be used as a dictionary key) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(Yes, any object can be a key) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(No, keys must be hashable and immutable) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(Yes, if list length <= 2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(Yes, in Python 3.10+) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(30.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(Can a tuple containing only strings and integers) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(be used as a dictionary key?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(Yes, because it is strictly hashable and) Tj
+ET
+BT
+/F1 7.4 Tf
+72 681.2001 Td
+(immutable) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.6001 Td
+(No, tuples are not allowed as keys) Tj
+ET
+BT
+/F2 7.4 Tf
+58 662.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 662.0001 Td
+(Only if length is odd) Tj
+ET
+BT
+/F2 7.4 Tf
+58 652.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 652.4001 Td
+(No, only strings are keys) Tj
+ET
+BT
+/F2 8.0 Tf
+42 628.8002 Td
+(31.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.8002 Td
+(What does the expression ' '.join\(['CSE',) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.6002 Td
+('Python', 'AI']\) produce?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 607.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 607.9001 Td
+('CSE Python AI') Tj
+ET
+BT
+/F2 7.4 Tf
+58 598.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 598.3002 Td
+('['CSE', 'Python', 'AI']') Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.7002 Td
+('CSE, Python, AI') Tj
+ET
+BT
+/F2 7.4 Tf
+58 579.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 579.1002 Td
+(TypeError) Tj
+ET
+BT
+/F2 8.0 Tf
+42 555.5002 Td
+(32.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 555.5002 Td
+(What does 'apple,banana,orange'.split\(','\)) Tj
+ET
+BT
+/F1 7.8 Tf
+58 546.3002 Td
+(produce?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 534.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 534.6002 Td
+(['apple', 'banana', 'orange']) Tj
+ET
+BT
+/F2 7.4 Tf
+58 525.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 525.0002 Td
+(\('apple', 'banana', 'orange'\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 515.4003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 515.4003 Td
+({'apple', 'banana', 'orange'}) Tj
+ET
+BT
+/F2 7.4 Tf
+58 505.8003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 505.8003 Td
+('apple banana orange') Tj
+ET
+BT
+/F2 8.0 Tf
+42 482.2003 Td
+(33.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 482.2003 Td
+(What does ' hello '.strip\(\) return?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 470.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 470.5002 Td
+('hello') Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.9002 Td
+(' hello') Tj
+ET
+BT
+/F2 7.4 Tf
+58 451.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 451.3002 Td
+('hello ') Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.7002 Td
+('h e l l o') Tj
+ET
+BT
+/F2 8.0 Tf
+42 418.1002 Td
+(34.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 418.1002 Td
+(What does the list method clear\(\) do?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 406.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 406.4002 Td
+(Deletes the list variable from memory) Tj
+ET
+BT
+/F2 7.4 Tf
+58 396.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 396.8002 Td
+(Removes all elements from the list, making) Tj
+ET
+BT
+/F1 7.4 Tf
+72 388.2002 Td
+(it empty []) Tj
+ET
+BT
+/F2 7.4 Tf
+58 378.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 378.6002 Td
+(Sets all elements to zero) Tj
+ET
+BT
+/F2 7.4 Tf
+58 369.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 369.0002 Td
+(Sorts the list) Tj
+ET
+BT
+/F2 8.0 Tf
+42 345.4002 Td
+(35.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 345.4002 Td
+(What is the result of [1, 2] + [3, 4] in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 333.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 333.7002 Td
+([4, 6]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 324.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 324.1002 Td
+([1, 2, 3, 4]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 314.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 314.5002 Td
+([[1, 2], [3, 4]]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.9001 Td
+(Error) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(36.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What is the result of [0] * 4 in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 772.3 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 772.3 Td
+([0, 0, 0, 0]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 762.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 762.7 Td
+([0, 4]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.1 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.5001 Td
+(TypeError) Tj
+ET
+BT
+/F2 8.0 Tf
+306 719.9001 Td
+(37.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 719.9001 Td
+(Which operator removes a key-value pair from a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(dictionary by key?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 699.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 699.0001 Td
+(del dict[key]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.4001 Td
+(dict.drop\(key\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 679.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 679.8001 Td
+(remove dict[key]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.2001 Td
+(dict - key) Tj
+ET
+BT
+/F2 8.0 Tf
+306 646.6002 Td
+(38.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 646.6002 Td
+(What does dict.pop\(key\) return?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 634.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 634.9001 Td
+(The removed key) Tj
+ET
+BT
+/F2 7.4 Tf
+322 625.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 625.3002 Td
+(The value corresponding to the removed key) Tj
+ET
+BT
+/F2 7.4 Tf
+322 615.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 615.7002 Td
+(The remaining dictionary) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.1002 Td
+(True) Tj
+ET
+BT
+/F2 8.0 Tf
+306 582.5002 Td
+(39.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 582.5002 Td
+(What happens when accessing d['unknown'] for a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 573.3002 Td
+(non-existent key using bracket indexing?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 561.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 561.6002 Td
+(Returns None) Tj
+ET
+BT
+/F2 7.4 Tf
+322 552.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 552.0002 Td
+(Raises KeyError) Tj
+ET
+BT
+/F2 7.4 Tf
+322 542.4003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 542.4003 Td
+(Raises IndexError) Tj
+ET
+BT
+/F2 7.4 Tf
+322 532.8003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 532.8003 Td
+(Creates empty key) Tj
+ET
+BT
+/F2 8.0 Tf
+306 509.2003 Td
+(40.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 509.2003 Td
+(What is the boolean truth value of an empty) Tj
+ET
+BT
+/F1 7.8 Tf
+322 500.0003 Td
+(dictionary {}?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 488.3003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 488.3003 Td
+(True) Tj
+ET
+BT
+/F2 7.4 Tf
+322 478.7003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 478.7003 Td
+(False) Tj
+ET
+BT
+/F2 7.4 Tf
+322 469.1003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 469.1003 Td
+(None) Tj
+ET
+BT
+/F2 7.4 Tf
+322 459.5003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 459.5003 Td
+(Error) Tj
+ET
+BT
+/F2 8.0 Tf
+306 435.9003 Td
+(41.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 435.9003 Td
+(What is the output of print\('Python'[::-1]\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 424.2003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 424.2003 Td
+('nohtyP') Tj
+ET
+BT
+/F2 7.4 Tf
+322 414.6003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 414.6003 Td
+('Python') Tj
+ET
+BT
+/F2 7.4 Tf
+322 405.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 405.0002 Td
+('P') Tj
+ET
+BT
+/F2 7.4 Tf
+322 395.4002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 395.4002 Td
+(IndexError) Tj
+ET
+BT
+/F2 8.0 Tf
+306 371.8002 Td
+(42.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 371.8002 Td
+(What is the output of:\\na = [1, 2, 3]\\nb =) Tj
+ET
+BT
+/F1 7.8 Tf
+322 362.6002 Td
+(a\\nb.append\(4\)\\nprint\(len\(a\)\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 350.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 350.9002 Td
+(3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 341.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 341.3002 Td
+(4 \(aliasing: both refer to the same list\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 331.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 331.7002 Td
+(None) Tj
+ET
+BT
+/F2 7.4 Tf
+322 322.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 322.1002 Td
+(Error) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 10 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+10 0 obj
+<< /Length 8479 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 3: STRINGS, LISTS, TUPLES AND DICTIONARIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 4 of 41) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(43.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What is the output of:\\na = [1, 2, 3]\\nb = a[:) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(]\\nb.append\(4\)\\nprint\(len\(a\)\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(3 \(shallow slice copy prevents mutation of) Tj
+ET
+BT
+/F1 7.4 Tf
+72 754.5 Td
+(a\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.9 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.9 Td
+(4) Tj
+ET
+BT
+/F2 7.4 Tf
+58 735.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 735.3 Td
+(7) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.7001 Td
+(Error) Tj
+ET
+BT
+/F2 8.0 Tf
+42 702.1001 Td
+(44.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 702.1001 Td
+(What is the output of:\\nx, y = \(10, 20\)\\nx, y =) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.9001 Td
+(y, x\\nprint\(x, y\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 681.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 681.2001 Td
+(10 20) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.6001 Td
+(20 10) Tj
+ET
+BT
+/F2 7.4 Tf
+58 662.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 662.0001 Td
+(\(20, 10\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 652.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 652.4001 Td
+(\(10, 20\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 628.8002 Td
+(45.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.8002 Td
+(What does the expression first, *rest = [1, 2,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.6002 Td
+(3, 4] assign to rest?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 607.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 607.9001 Td
+(\(2, 3, 4\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 598.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 598.3002 Td
+([2, 3, 4]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.7002 Td
+(4) Tj
+ET
+BT
+/F2 7.4 Tf
+58 579.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 579.1002 Td
+(2) Tj
+ET
+BT
+/F2 8.0 Tf
+42 555.5002 Td
+(46.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 555.5002 Td
+(What does *head, tail = \(10, 20, 30, 40\) assign) Tj
+ET
+BT
+/F1 7.8 Tf
+58 546.3002 Td
+(to head?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 534.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 534.6002 Td
+([10, 20, 30]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 525.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 525.0002 Td
+(\(10, 20, 30\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 515.4003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 515.4003 Td
+(10) Tj
+ET
+BT
+/F2 7.4 Tf
+58 505.8003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 505.8003 Td
+([40]) Tj
+ET
+BT
+/F2 8.0 Tf
+42 482.2003 Td
+(47.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 482.2003 Td
+(What is the output of print\(sorted\([3, 1, 4, 1,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 473.0002 Td
+(5]\)\) vs list.sort\(\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 461.3002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 461.3002 Td
+(sorted\(\) returns a new sorted list;) Tj
+ET
+BT
+/F1 7.4 Tf
+72 452.7002 Td
+(list.sort\(\) sorts in-place returning None) Tj
+ET
+BT
+/F2 7.4 Tf
+58 443.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 443.1002 Td
+(Both return a new list) Tj
+ET
+BT
+/F2 7.4 Tf
+58 433.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 433.5002 Td
+(Both sort in-place) Tj
+ET
+BT
+/F2 7.4 Tf
+58 423.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 423.9002 Td
+(sorted\(\) is for strings only) Tj
+ET
+BT
+/F2 8.0 Tf
+42 400.3002 Td
+(48.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 400.3002 Td
+(What is the output of print\([x**2 for x in) Tj
+ET
+BT
+/F1 7.8 Tf
+58 391.1002 Td
+(range\(5\) if x % 2 != 0]\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 379.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 379.4002 Td
+([1, 9]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 369.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 369.8002 Td
+([0, 1, 4, 9, 16]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 360.2002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 360.2002 Td
+([1, 4, 9]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 350.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 350.6002 Td
+([9, 25]) Tj
+ET
+BT
+/F2 8.0 Tf
+42 327.0002 Td
+(49.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 327.0002 Td
+(What is the output of:\\nd = {'a': 1, 'b':) Tj
+ET
+BT
+/F1 7.8 Tf
+58 317.8001 Td
+(2}\\nprint\(d.get\('c', 99\)\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 306.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 306.1001 Td
+(None) Tj
+ET
+BT
+/F2 7.4 Tf
+58 296.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 296.5001 Td
+(KeyError) Tj
+ET
+BT
+/F2 7.4 Tf
+58 286.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 286.9001 Td
+(99) Tj
+ET
+BT
+/F2 7.4 Tf
+58 277.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 277.3001 Td
+(0) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(50.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What is the output of:\\nd = {'x':) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(10}\\nprint\(d.setdefault\('x', 50\),) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(d.setdefault\('y', 50\)\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(10 50) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.3 Td
+(50 50) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.7 Td
+(10 None) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.1 Td
+(KeyError) Tj
+ET
+BT
+/F2 8.0 Tf
+306 701.5001 Td
+(51.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(What occurs when attempting to modify an element) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(inside a tuple: t = \(1, 2\); t[0] = 9?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.6 Td
+(t becomes \(9, 2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.0001 Td
+(TypeError: 'tuple' object does not support) Tj
+ET
+BT
+/F1 7.4 Tf
+336 662.4001 Td
+(item assignment) Tj
+ET
+BT
+/F2 7.4 Tf
+322 652.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 652.8001 Td
+(ValueError: immutable sequence) Tj
+ET
+BT
+/F2 7.4 Tf
+322 643.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 643.2001 Td
+(IndexError) Tj
+ET
+BT
+/F2 8.0 Tf
+306 619.6002 Td
+(52.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.6002 Td
+(Consider: t = \(1, [2, 3]\); t[1].append\(4\). What) Tj
+ET
+BT
+/F1 7.8 Tf
+322 610.4001 Td
+(is the state of t?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 598.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 598.7001 Td
+(\(1, [2, 3, 4]\) \(mutable list inside) Tj
+ET
+BT
+/F1 7.4 Tf
+336 590.1002 Td
+(immutable tuple is mutated\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 580.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 580.5002 Td
+(TypeError is raised) Tj
+ET
+BT
+/F2 7.4 Tf
+322 570.9002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 570.9002 Td
+(\(1, [2, 3]\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 561.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 561.3002 Td
+(Tuple is cloned) Tj
+ET
+BT
+/F2 8.0 Tf
+306 537.7003 Td
+(53.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 537.7003 Td
+(What does dict.fromkeys\(['a', 'b'], 0\) produce?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 526.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 526.0002 Td
+({'a': 0, 'b': 0}) Tj
+ET
+BT
+/F2 7.4 Tf
+322 516.4003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 516.4003 Td
+({0: 'a', 0: 'b'}) Tj
+ET
+BT
+/F2 7.4 Tf
+322 506.8003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 506.8003 Td
+(['a', 'b', 0]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 497.2003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 497.2003 Td
+(TypeError) Tj
+ET
+BT
+/F2 8.0 Tf
+306 473.6003 Td
+(54.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 473.6003 Td
+(What is the danger of dict.fromkeys\(['a', 'b'],) Tj
+ET
+BT
+/F1 7.8 Tf
+322 464.4002 Td
+([]\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 452.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 452.7002 Td
+(SyntaxError) Tj
+ET
+BT
+/F2 7.4 Tf
+322 443.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 443.1002 Td
+(Both keys reference the exact same mutable) Tj
+ET
+BT
+/F1 7.4 Tf
+336 434.5002 Td
+(list object in memory) Tj
+ET
+BT
+/F2 7.4 Tf
+322 424.9002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 424.9002 Td
+(Lists cannot be values) Tj
+ET
+BT
+/F2 7.4 Tf
+322 415.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 415.3002 Td
+(Only one key is created) Tj
+ET
+BT
+/F2 8.0 Tf
+306 391.7002 Td
+(55.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 391.7002 Td
+(What is the output of:\\ns =) Tj
+ET
+BT
+/F1 7.8 Tf
+322 382.5002 Td
+('Mississippi'\\nprint\(s.count\('iss'\)\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 370.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 370.8002 Td
+(2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 361.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 361.2002 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 351.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 351.6002 Td
+(4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 342.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 342.0002 Td
+(0) Tj
+ET
+BT
+/F2 8.0 Tf
+306 318.4001 Td
+(56.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 318.4001 Td
+(What is the output of:\\ns =) Tj
+ET
+BT
+/F1 7.8 Tf
+322 309.2001 Td
+('Engineering'\\nprint\(s.replace\('e', 'X'\)\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 297.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 297.5001 Td
+('EnginXXring') Tj
+ET
+BT
+/F2 7.4 Tf
+322 287.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 287.9001 Td
+('EnginXXring' \(case sensitive: only) Tj
+ET
+BT
+/F1 7.4 Tf
+336 279.3001 Td
+(lowercase 'e' replaced\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 269.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 269.7001 Td
+('XnginXXring') Tj
+ET
+BT
+/F2 7.4 Tf
+322 260.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 260.1001 Td
+('Engineering') Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 12 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+12 0 obj
+<< /Length 8938 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 3: STRINGS, LISTS, TUPLES AND DICTIONARIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 5 of 41) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(57.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What is the output of:\\na = [[0] * 2] *) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(2\\na[0][0] = 5\\nprint\(a\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+([[5, 0], [0, 0]]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+([[5, 0], [5, 0]] \(outer multiplication) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.9 Td
+(replicates row references!\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 735.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 735.3 Td
+([[5, 5], [5, 5]]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.7001 Td
+([[0, 0], [0, 0]]) Tj
+ET
+BT
+/F2 8.0 Tf
+42 702.1001 Td
+(58.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 702.1001 Td
+(How should an independent 2D matrix of size R x) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.9001 Td
+(C initialized to 0 be safely created?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 681.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 681.2001 Td
+([[0] * C] * R) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.6001 Td
+([[0 for _ in range\(C\)] for _ in range\(R\)]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 662.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 662.0001 Td
+([[0] * R * C]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 652.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 652.4001 Td
+(list\(2D, 0\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 628.8002 Td
+(59.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.8002 Td
+(What is the output of:\\nmatrix = [[1, 2], [3,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.6002 Td
+(4]]\\nprint\([row[0] for row in matrix]\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 607.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 607.9001 Td
+([1, 2]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 598.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 598.3002 Td
+([1, 3] \(column 0 extraction\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.7002 Td
+([3, 4]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 579.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 579.1002 Td
+([2, 4]) Tj
+ET
+BT
+/F2 8.0 Tf
+42 555.5002 Td
+(60.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 555.5002 Td
+(What does the expression {x: x**3 for x in) Tj
+ET
+BT
+/F1 7.8 Tf
+58 546.3002 Td
+(range\(3\)} create?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 534.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 534.6002 Td
+(Dictionary comprehension: {0: 0, 1: 1, 2: 8}) Tj
+ET
+BT
+/F2 7.4 Tf
+58 525.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 525.0002 Td
+(Set comprehension: {0, 1, 8}) Tj
+ET
+BT
+/F2 7.4 Tf
+58 515.4003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 515.4003 Td
+(List: [\(0,0\), \(1,1\), \(2,8\)]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 505.8003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 505.8003 Td
+(Tuple: \(\(0,0\), ...\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 482.2003 Td
+(61.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 482.2003 Td
+(What is the output of:\\nwords = ['apple',) Tj
+ET
+BT
+/F1 7.8 Tf
+58 473.0002 Td
+('pear',) Tj
+ET
+BT
+/F1 7.8 Tf
+58 463.8002 Td
+('banana']\\nwords.sort\(key=len\)\\nprint\(words\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 452.1002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 452.1002 Td
+(['pear', 'apple', 'banana']) Tj
+ET
+BT
+/F2 7.4 Tf
+58 442.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 442.5002 Td
+(['apple', 'banana', 'pear']) Tj
+ET
+BT
+/F2 7.4 Tf
+58 432.9002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 432.9002 Td
+(['banana', 'apple', 'pear']) Tj
+ET
+BT
+/F2 7.4 Tf
+58 423.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 423.3002 Td
+(['pear', 'banana', 'apple']) Tj
+ET
+BT
+/F2 8.0 Tf
+42 399.7002 Td
+(62.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 399.7002 Td
+(What is the output of:\\nd = {'a': 1, 'b':) Tj
+ET
+BT
+/F1 7.8 Tf
+58 390.5002 Td
+(2}\\nfor k in d:\\n print\(k, end=' '\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 378.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 378.8002 Td
+(a b) Tj
+ET
+BT
+/F2 7.4 Tf
+58 369.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 369.2002 Td
+(1 2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 359.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 359.6002 Td
+(\('a', 1\) \('b', 2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 350.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 350.0002 Td
+(None) Tj
+ET
+BT
+/F2 8.0 Tf
+42 326.4001 Td
+(63.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 326.4001 Td
+(What does the dictionary method popitem\(\) do in) Tj
+ET
+BT
+/F1 7.8 Tf
+58 317.2001 Td
+(Python 3.7+?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 305.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 305.5001 Td
+(Removes and returns an arbitrary key-value) Tj
+ET
+BT
+/F1 7.4 Tf
+72 296.9001 Td
+(pair) Tj
+ET
+BT
+/F2 7.4 Tf
+58 287.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 287.3001 Td
+(Removes and returns the last inserted \(key,) Tj
+ET
+BT
+/F1 7.4 Tf
+72 278.7001 Td
+(value\) pair in LIFO order) Tj
+ET
+BT
+/F2 7.4 Tf
+58 269.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 269.1001 Td
+(Removes the smallest key) Tj
+ET
+BT
+/F2 7.4 Tf
+58 259.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 259.5001 Td
+(Clears the dictionary) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(64.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Since Python 3.7, what guarantee is officially) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(part of Python's dictionary specification?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(Keys are automatically sorted numerically) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(Insertion order of keys is strictly) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.9 Td
+(preserved) Tj
+ET
+BT
+/F2 7.4 Tf
+322 735.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 735.3 Td
+(Dictionaries consume 50% less RAM than lists) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.7001 Td
+(Keys are immutable integers) Tj
+ET
+BT
+/F2 8.0 Tf
+306 702.1001 Td
+(65.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 702.1001 Td
+(What is the output of: list\('abc'\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 690.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 690.4001 Td
+(['a', 'b', 'c']) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.8001 Td
+(['abc']) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.2001 Td
+(\('a', 'b', 'c'\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.6002 Td
+(['a b c']) Tj
+ET
+BT
+/F2 8.0 Tf
+306 638.0002 Td
+(66.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 638.0002 Td
+(What is the output of: tuple\('cat'\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 626.3002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 626.3002 Td
+(\('c', 'a', 't'\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.7002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.7002 Td
+(\('cat',\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 607.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.1002 Td
+(['c', 'a', 't']) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.5002 Td
+(TypeError) Tj
+ET
+BT
+/F2 8.0 Tf
+306 573.9003 Td
+(67.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 573.9003 Td
+(What is the output of:\\nkeys = ['id', 'name'];) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.7003 Td
+(vals = [101, 'Ada']\\nprint\(dict\(zip\(keys,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 555.5002 Td
+(vals\)\)\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 543.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 543.8002 Td
+({'id': 101, 'name': 'Ada'}) Tj
+ET
+BT
+/F2 7.4 Tf
+322 534.2003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 534.2003 Td
+({101: 'id', 'Ada': 'name'}) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.6003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.6003 Td
+([\('id', 101\), \('name', 'Ada'\)]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 515.0003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 515.0003 Td
+(TypeError) Tj
+ET
+BT
+/F2 8.0 Tf
+306 491.4003 Td
+(68.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 491.4003 Td
+(What does the copy.copy\(\) function perform?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 479.7003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 479.7003 Td
+(Deep recursive copy) Tj
+ET
+BT
+/F2 7.4 Tf
+322 470.1003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 470.1003 Td
+(Shallow copy \(duplicates container, but) Tj
+ET
+BT
+/F1 7.4 Tf
+336 461.5003 Td
+(shares internal child references\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 451.9003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 451.9003 Td
+(Bitwise clone) Tj
+ET
+BT
+/F2 7.4 Tf
+322 442.3003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 442.3003 Td
+(Hard link) Tj
+ET
+BT
+/F2 8.0 Tf
+306 418.7003 Td
+(69.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 418.7003 Td
+(What does copy.deepcopy\(\) perform?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 407.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 407.0002 Td
+(Shallow copy) Tj
+ET
+BT
+/F2 7.4 Tf
+322 397.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 397.4002 Td
+(Deep recursive clone \(recursively duplicates) Tj
+ET
+BT
+/F1 7.4 Tf
+336 388.8002 Td
+(all nested container objects\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 379.2002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 379.2002 Td
+(Memory pointer alias) Tj
+ET
+BT
+/F2 7.4 Tf
+322 369.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 369.6002 Td
+(String serialization) Tj
+ET
+BT
+/F2 8.0 Tf
+306 346.0002 Td
+(70.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 346.0002 Td
+(What is the output of print\(min\(['apple',) Tj
+ET
+BT
+/F1 7.8 Tf
+322 336.8002 Td
+('Banana', 'cherry']\)\) based on ASCII values?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 325.1002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 325.1002 Td
+('Banana' \(uppercase letters have lower ASCII) Tj
+ET
+BT
+/F1 7.4 Tf
+336 316.5002 Td
+(codes 65-90 than lowercase 97-122\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 306.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 306.9002 Td
+('apple') Tj
+ET
+BT
+/F2 7.4 Tf
+322 297.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 297.3002 Td
+('cherry') Tj
+ET
+BT
+/F2 7.4 Tf
+322 287.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 287.7002 Td
+(TypeError) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 14 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+14 0 obj
+<< /Length 8985 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 3: STRINGS, LISTS, TUPLES AND DICTIONARIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 6 of 41) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(71.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What does 'Python Programming'.find\('Pro', 5,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(15\) return?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(7) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(-1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(5) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(72.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(What is the output of:\\nnums = [10, 20, 30,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(40]\\nnums[1:3] = [99]\\nprint\(nums\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+([10, 99, 40]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+([10, 99, 30, 40]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+([10, 20, 99, 40]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(IndexError) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(73.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(What happens when executing nums[1:1] = [5, 6]) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(on list nums = [1, 2]?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.5001 Td
+(Replaces element at index 1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.9001 Td
+(Slices without deletion and inserts [5, 6]) Tj
+ET
+BT
+/F1 7.4 Tf
+72 598.3002 Td
+(at index 1 -> [1, 5, 6, 2]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.7002 Td
+(Raises ValueError) Tj
+ET
+BT
+/F2 7.4 Tf
+58 579.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 579.1002 Td
+(IndexError) Tj
+ET
+BT
+/F2 8.0 Tf
+42 555.5002 Td
+(74.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 555.5002 Td
+(How is a sparse matrix with zero entries at most) Tj
+ET
+BT
+/F1 7.8 Tf
+58 546.3002 Td
+(coordinates efficiently modeled in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 534.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 534.6002 Td
+(A nested list of all zeros) Tj
+ET
+BT
+/F2 7.4 Tf
+58 525.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 525.0002 Td
+(A dictionary mapping coordinate tuples \(row,) Tj
+ET
+BT
+/F1 7.4 Tf
+72 516.4003 Td
+(col\) to non-zero values) Tj
+ET
+BT
+/F2 7.4 Tf
+58 506.8003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 506.8003 Td
+(A tuple of strings) Tj
+ET
+BT
+/F2 7.4 Tf
+58 497.2003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 497.2003 Td
+(An unindexed linked list) Tj
+ET
+BT
+/F2 8.0 Tf
+42 473.6003 Td
+(75.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 473.6003 Td
+(What is the output of:\\nd = {\(0, 1\): 5, \(2, 3\):) Tj
+ET
+BT
+/F1 7.8 Tf
+58 464.4002 Td
+(8}\\nprint\(d.get\(\(1, 1\), 0\)\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 452.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 452.7002 Td
+(5) Tj
+ET
+BT
+/F2 7.4 Tf
+58 443.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 443.1002 Td
+(8) Tj
+ET
+BT
+/F2 7.4 Tf
+58 433.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 433.5002 Td
+(0 \(default value for zero-entry coordinate\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 423.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 423.9002 Td
+(KeyError) Tj
+ET
+BT
+/F2 8.0 Tf
+42 400.3002 Td
+(76.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 400.3002 Td
+(What underlying data structure powers Python's) Tj
+ET
+BT
+/F1 7.8 Tf
+58 391.1002 Td
+(list type in CPython?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 379.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 379.4002 Td
+(Singly linked list) Tj
+ET
+BT
+/F2 7.4 Tf
+58 369.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 369.8002 Td
+(Doubly linked list) Tj
+ET
+BT
+/F2 7.4 Tf
+58 360.2002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 360.2002 Td
+(Dynamic contiguous array of pointers) Tj
+ET
+BT
+/F1 7.4 Tf
+72 351.6002 Td
+(\(realloc buffer with overallocation\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 342.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 342.0002 Td
+(B-Tree) Tj
+ET
+BT
+/F2 8.0 Tf
+42 318.4001 Td
+(77.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 318.4001 Td
+(What is the amortized time complexity of) Tj
+ET
+BT
+/F1 7.8 Tf
+58 309.2001 Td
+(list.append\(\) in CPython?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 297.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 297.5001 Td
+(O\(N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 287.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 287.9001 Td
+(O\(1\) amortized constant time) Tj
+ET
+BT
+/F2 7.4 Tf
+58 278.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 278.3001 Td
+(O\(log N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 268.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 268.7001 Td
+(O\(N^2\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(78.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What is the worst-case time complexity of) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(list.insert\(0, val\) at the beginning of a list) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(of size N?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(O\(1\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.3 Td
+(O\(N\) \(all N pointers must be shifted in) Tj
+ET
+BT
+/F1 7.4 Tf
+336 735.7 Td
+(memory\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 726.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 726.1 Td
+(O\(log N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 716.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 716.5001 Td
+(O\(N^2\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 692.9001 Td
+(79.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.9001 Td
+(Which collection in the collections module) Tj
+ET
+BT
+/F1 7.8 Tf
+322 683.7001 Td
+(provides O\(1\) double-ended append and pop) Tj
+ET
+BT
+/F1 7.8 Tf
+322 674.5001 Td
+(operations?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 662.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 662.8 Td
+(collections.namedtuple) Tj
+ET
+BT
+/F2 7.4 Tf
+322 653.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 653.2001 Td
+(collections.deque) Tj
+ET
+BT
+/F2 7.4 Tf
+322 643.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 643.6001 Td
+(collections.OrderedDict) Tj
+ET
+BT
+/F2 7.4 Tf
+322 634.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 634.0001 Td
+(collections.ChainMap) Tj
+ET
+BT
+/F2 8.0 Tf
+306 610.4001 Td
+(80.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 610.4001 Td
+(What collision resolution strategy is employed) Tj
+ET
+BT
+/F1 7.8 Tf
+322 601.2001 Td
+(by CPython's dictionary hash table?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 589.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 589.5001 Td
+(Separate Chaining with linked lists) Tj
+ET
+BT
+/F2 7.4 Tf
+322 579.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 579.9001 Td
+(Open Addressing with pseudo-random) Tj
+ET
+BT
+/F1 7.4 Tf
+336 571.3002 Td
+(perturbation probing) Tj
+ET
+BT
+/F2 7.4 Tf
+322 561.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 561.7002 Td
+(Cuckoo Hashing) Tj
+ET
+BT
+/F2 7.4 Tf
+322 552.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 552.1002 Td
+(Hopscotch Hashing) Tj
+ET
+BT
+/F2 8.0 Tf
+306 528.5002 Td
+(81.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 528.5002 Td
+(What is the average time complexity of) Tj
+ET
+BT
+/F1 7.8 Tf
+322 519.3002 Td
+(dictionary key lookup d[k] in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 507.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 507.6002 Td
+(O\(1\) constant time) Tj
+ET
+BT
+/F2 7.4 Tf
+322 498.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 498.0002 Td
+(O\(N\) linear time) Tj
+ET
+BT
+/F2 7.4 Tf
+322 488.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 488.4002 Td
+(O\(log N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 478.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 478.8002 Td
+(O\(k\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 455.2002 Td
+(82.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 455.2002 Td
+(What is the worst-case time complexity of) Tj
+ET
+BT
+/F1 7.8 Tf
+322 446.0002 Td
+(dictionary key lookup when hash collisions are) Tj
+ET
+BT
+/F1 7.8 Tf
+322 436.8002 Td
+(rampant?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 425.1002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 425.1002 Td
+(O\(1\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 415.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 415.5002 Td
+(O\(N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 405.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 405.9001 Td
+(O\(N^2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 396.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 396.3001 Td
+(O\(log N\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 372.7001 Td
+(83.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 372.7001 Td
+(What built-in function returns the hash code) Tj
+ET
+BT
+/F1 7.8 Tf
+322 363.5001 Td
+(integer of an object for hash table indexing?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 351.8001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 351.8001 Td
+(id\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 342.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 342.2001 Td
+(hash\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 332.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 332.6001 Td
+(code\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 323.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 323.0001 Td
+(crc32\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 299.4001 Td
+(84.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 299.4001 Td
+(Why are unhashable types \(like list or dict\)) Tj
+ET
+BT
+/F1 7.8 Tf
+322 290.2001 Td
+(rejected as dictionary keys?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 278.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 278.5001 Td
+(They lack __hash__\(\) or define __hash__ =) Tj
+ET
+BT
+/F1 7.4 Tf
+336 269.9001 Td
+(None because their hash would change upon) Tj
+ET
+BT
+/F1 7.4 Tf
+336 261.3 Td
+(mutation) Tj
+ET
+BT
+/F2 7.4 Tf
+322 251.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 251.7 Td
+(They use too much memory) Tj
+ET
+BT
+/F2 7.4 Tf
+322 242.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 242.1 Td
+(They are too slow to parse) Tj
+ET
+BT
+/F2 7.4 Tf
+322 232.5 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 232.5 Td
+(They conflict with C memory layout) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 16 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+16 0 obj
+<< /Length 9710 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 3: STRINGS, LISTS, TUPLES AND DICTIONARIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 7 of 41) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(85.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What occurs if two distinct objects produce the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(exact same hash\(\) value in Python \(hash) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(collision\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(TypeError is raised immediately) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.3 Td
+(Python uses open addressing probing and) Tj
+ET
+BT
+/F1 7.4 Tf
+72 735.7 Td
+(resolves equality via __eq__\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 726.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 726.1 Td
+(The previous value is overwritten silently) Tj
+ET
+BT
+/F2 7.4 Tf
+58 716.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 716.5001 Td
+(The dictionary crashes) Tj
+ET
+BT
+/F2 8.0 Tf
+42 692.9001 Td
+(86.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.9001 Td
+(In Python 3.6+, how did Raymond Hettinger's) Tj
+ET
+BT
+/F1 7.8 Tf
+58 683.7001 Td
+(compact dictionary design reduce memory usage by) Tj
+ET
+BT
+/F1 7.8 Tf
+58 674.5001 Td
+(20-25%?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 662.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 662.8 Td
+(By separating the dense sparse hash table) Tj
+ET
+BT
+/F1 7.4 Tf
+72 654.2001 Td
+(array from a compact array of entries [hash,) Tj
+ET
+BT
+/F1 7.4 Tf
+72 645.6001 Td
+(key, val]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 636.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 636.0001 Td
+(By compressing keys using zlib) Tj
+ET
+BT
+/F2 7.4 Tf
+58 626.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 626.4001 Td
+(By storing values on the disk paging file) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.8002 Td
+(By eliminating Unicode headers) Tj
+ET
+BT
+/F2 8.0 Tf
+42 593.2002 Td
+(87.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 593.2002 Td
+(What is the time complexity of the list slice) Tj
+ET
+BT
+/F1 7.8 Tf
+58 584.0002 Td
+(operation L[a:b] where k = b - a?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 572.3002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 572.3002 Td
+(O\(1\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 562.7002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 562.7002 Td
+(O\(k\) \(copies k pointers into a new) Tj
+ET
+BT
+/F1 7.4 Tf
+72 554.1002 Td
+(PyListObject\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 544.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 544.5002 Td
+(O\(N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 534.9003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 534.9003 Td
+(O\(N log N\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 511.3003 Td
+(88.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 511.3003 Td
+(What is the time complexity of deleting an) Tj
+ET
+BT
+/F1 7.8 Tf
+58 502.1003 Td
+(element from the middle of a list: del L[i]?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 490.4003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 490.4003 Td
+(O\(1\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 480.8003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 480.8003 Td
+(O\(N - i\) \(requires shifting remaining) Tj
+ET
+BT
+/F1 7.4 Tf
+72 472.2003 Td
+(pointers leftward\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 462.6003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 462.6003 Td
+(O\(N log N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 453.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 453.0002 Td
+(O\(log N\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 429.4002 Td
+(89.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 429.4002 Td
+(What is the sorting algorithm used by Python's) Tj
+ET
+BT
+/F1 7.8 Tf
+58 420.2002 Td
+(list.sort\(\) and sorted\(\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 408.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 408.5002 Td
+(QuickSort) Tj
+ET
+BT
+/F2 7.4 Tf
+58 398.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 398.9002 Td
+(HeapSort) Tj
+ET
+BT
+/F2 7.4 Tf
+58 389.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 389.3002 Td
+(Timsort \(hybrid of Merge Sort and Insertion) Tj
+ET
+BT
+/F1 7.4 Tf
+72 380.7002 Td
+(Sort\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 371.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 371.1002 Td
+(RadixSort) Tj
+ET
+BT
+/F2 8.0 Tf
+42 347.5002 Td
+(90.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 347.5002 Td
+(What is the worst-case time complexity and) Tj
+ET
+BT
+/F1 7.8 Tf
+58 338.3002 Td
+(stability of Timsort?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 326.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 326.6002 Td
+(O\(N^2\), Unstable) Tj
+ET
+BT
+/F2 7.4 Tf
+58 317.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 317.0002 Td
+(O\(N log N\), Stable \(preserves relative order) Tj
+ET
+BT
+/F1 7.4 Tf
+72 308.4001 Td
+(of equal elements\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 298.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 298.8001 Td
+(O\(N\), Stable) Tj
+ET
+BT
+/F2 7.4 Tf
+58 289.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 289.2001 Td
+(O\(N log N\), Unstable) Tj
+ET
+BT
+/F2 8.0 Tf
+42 265.6001 Td
+(91.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 265.6001 Td
+(What is the best-case time complexity of Timsort) Tj
+ET
+BT
+/F1 7.8 Tf
+58 256.4001 Td
+(on an already sorted or mostly sorted array?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 244.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 244.7001 Td
+(O\(N\) linear time) Tj
+ET
+BT
+/F2 7.4 Tf
+58 235.1001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 235.1001 Td
+(O\(N log N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 225.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 225.5001 Td
+(O\(1\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 215.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 215.9001 Td
+(O\(N^2\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(92.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What does collections.defaultdict\(list\) do when) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(an accessed key does not exist?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(Raises KeyError) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(Automatically calls list\(\) to instantiate an) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.9 Td
+(empty list [] as value and inserts key) Tj
+ET
+BT
+/F2 7.4 Tf
+322 735.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 735.3 Td
+(Returns None) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.7001 Td
+(Raises TypeError) Tj
+ET
+BT
+/F2 8.0 Tf
+306 702.1001 Td
+(93.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 702.1001 Td
+(What does collections.Counter\('banana'\) produce?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 690.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 690.4001 Td
+(Counter\({'a': 3, 'n': 2, 'b': 1}\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.8001 Td
+({'b': 1, 'a': 1, 'n': 1}) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.2001 Td
+(6) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.6002 Td
+(['b', 'a', 'n']) Tj
+ET
+BT
+/F2 8.0 Tf
+306 638.0002 Td
+(94.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 638.0002 Td
+(What is the time complexity of string) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.8002 Td
+(concatenation in a loop: s = ''; for c in words:) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.6002 Td
+(s += c?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 607.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.9001 Td
+(O\(N\) linear time) Tj
+ET
+BT
+/F2 7.4 Tf
+322 598.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 598.3002 Td
+(O\(N^2\) quadratic time due to repeated string) Tj
+ET
+BT
+/F1 7.4 Tf
+336 589.7002 Td
+(reallocations and memory copies) Tj
+ET
+BT
+/F2 7.4 Tf
+322 580.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 580.1002 Td
+(O\(1\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 570.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 570.5002 Td
+(O\(log N\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 546.9003 Td
+(95.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 546.9003 Td
+(Why is ''.join\(words\) dramatically faster than) Tj
+ET
+BT
+/F1 7.8 Tf
+322 537.7003 Td
+(repeated += in a loop?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 526.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 526.0002 Td
+(join\(\) calculates total buffer length in) Tj
+ET
+BT
+/F1 7.4 Tf
+336 517.4003 Td
+(advance and allocates memory once in O\(N\)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 508.8003 Td
+(time) Tj
+ET
+BT
+/F2 7.4 Tf
+322 499.2003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 499.2003 Td
+(join\(\) uses multi-threading) Tj
+ET
+BT
+/F2 7.4 Tf
+322 489.6003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 489.6003 Td
+(join\(\) skips whitespace) Tj
+ET
+BT
+/F2 7.4 Tf
+322 480.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 480.0002 Td
+(join\(\) compresses strings) Tj
+ET
+BT
+/F2 8.0 Tf
+306 456.4002 Td
+(96.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 456.4002 Td
+(What is the output of:\\na = [[]] *) Tj
+ET
+BT
+/F1 7.8 Tf
+322 447.2002 Td
+(3\\na[0].append\('X'\)\\nprint\(a\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 435.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 435.5002 Td
+([['X'], [], []]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 425.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 425.9002 Td
+([['X'], ['X'], ['X']] \(all 3 elements) Tj
+ET
+BT
+/F1 7.4 Tf
+336 417.3002 Td
+(reference the identical inner list\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 407.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 407.7002 Td
+(['X', 'X', 'X']) Tj
+ET
+BT
+/F2 7.4 Tf
+322 398.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 398.1002 Td
+(TypeError) Tj
+ET
+BT
+/F2 8.0 Tf
+306 374.5002 Td
+(97.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 374.5002 Td
+(What is the result of hash\(float\('nan'\)\) in) Tj
+ET
+BT
+/F1 7.8 Tf
+322 365.3002 Td
+(Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 353.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 353.6002 Td
+(Zero always) Tj
+ET
+BT
+/F2 7.4 Tf
+322 344.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 344.0002 Td
+(A valid integer hash, but nan != nan causes) Tj
+ET
+BT
+/F1 7.4 Tf
+336 335.4001 Td
+(unexpected hash table behavior) Tj
+ET
+BT
+/F2 7.4 Tf
+322 325.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 325.8001 Td
+(TypeError: unhashable float) Tj
+ET
+BT
+/F2 7.4 Tf
+322 316.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 316.2001 Td
+(Raises FloatingPointError) Tj
+ET
+BT
+/F2 8.0 Tf
+306 292.6001 Td
+(98.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 292.6001 Td
+(What happens if float\('nan'\) is inserted into a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 283.4001 Td
+(set: s = {float\('nan'\), float\('nan'\)}?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 271.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 271.7001 Td
+(Set contains 1 element) Tj
+ET
+BT
+/F2 7.4 Tf
+322 262.1001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 262.1001 Td
+(Set contains 2 elements because nan != nan,) Tj
+ET
+BT
+/F1 7.4 Tf
+336 253.5001 Td
+(bypassing equality checks) Tj
+ET
+BT
+/F2 7.4 Tf
+322 243.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 243.9001 Td
+(TypeError) Tj
+ET
+BT
+/F2 7.4 Tf
+322 234.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 234.3001 Td
+(ValueError) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 18 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+18 0 obj
+<< /Length 1530 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 3: STRINGS, LISTS, TUPLES AND DICTIONARIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 8 of 41) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(99.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What is the space complexity of tuple unpacking:) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(a, b, c = t?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(O\(len\(t\)\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(O\(1\) pointer register assignment) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(O\(N^2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(O\(log N\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 700.7001 Td
+(100.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 700.7001 Td
+(What does the dictionary union operator d1 | d2) Tj
+ET
+BT
+/F1 7.8 Tf
+58 691.5001 Td
+(\(introduced in Python 3.9\) perform?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 679.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 679.8 Td
+(Bitwise OR of keys) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.2001 Td
+(Creates a merged dictionary combining) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.6001 Td
+(keys/values of d1 and d2 \(d2 overwriting d1\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 652.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 652.0001 Td
+(Intersection of keys) Tj
+ET
+BT
+/F2 7.4 Tf
+58 642.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 642.4001 Td
+(TypeError) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 20 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+20 0 obj
+<< /Length 5304 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 3: STRINGS, LISTS, TUPLES AND DICTIONARIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 9 of 41) Tj
+ET
+BT
+/F2 10 Tf
+45 780 Td
+(SECTION B: DESCRIPTIVE & SUBJECTIVE QUESTIONS) Tj
+ET
+BT
+/F2 8.5 Tf
+45 760 Td
+(Q1. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 760 Td
+(Explain Strings as Compound Data Types in Python. Detail string traversal algorithms using for and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 749.5 Td
+(while loops, character length determination, and memory immutability.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 724.5 Td
+(Q2. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 724.5 Td
+(Explain String Slicing, Negative Indexing, and Lexicographical String Comparison in Python with) Tj
+ET
+BT
+/F1 8.5 Tf
+72 714 Td
+(comprehensive code examples.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 689 Td
+(Q3. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 689 Td
+(Discuss String Searching and Transformation Methods: find\(\), index\(\), count\(\), replace\(\), split\(\),) Tj
+ET
+BT
+/F1 8.5 Tf
+72 678.5 Td
+(join\(\), and strip\(\). Explain exceptions vs sentinel returns.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 653.5 Td
+(Q4. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 653.5 Td
+(Explain Python Lists: Dynamic Array Architecture, Memory Allocation, Mutability, and In-Place) Tj
+ET
+BT
+/F1 8.5 Tf
+72 643 Td
+(Mutation versus Rebinding.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 618 Td
+(Q5. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 618 Td
+(Explain List Slicing, Slice Assignment, Deletion \(del, remove, pop, clear\), and Element Access) Tj
+ET
+BT
+/F1 8.5 Tf
+72 607.5 Td
+(with Negative Indexing.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 582.5 Td
+(Q6. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 582.5 Td
+(Explain List Comprehensions in Python. Contrast list comprehensions with map\(\), filter\(\), and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 572 Td
+(explicit for loops in readability, bytecode, and performance.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 547 Td
+(Q7. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 547 Td
+(Explain Parameter Passing in Python: 'Pass-by-Object-Reference' \(Call-by-Sharing\). Demonstrate how) Tj
+ET
+BT
+/F1 8.5 Tf
+72 536.5 Td
+(mutating mutable parameters affects caller state.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 511.5 Td
+(Q8. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 511.5 Td
+(Explain Tuples in Python: Immutability, Creation, Single-Element Gotcha, Tuple Packing, Unpacking,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 501 Td
+(and Functions Returning Multiple Values.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 476 Td
+(Q9. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 476 Td
+(Explain Python Dictionaries: Hash Table Architecture, Key Hashability, Collision Resolution, and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 465.5 Td
+(Compact Dict Memory Layout.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 440.5 Td
+(Q10. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 440.5 Td
+(Discuss Dictionary Methods: get\(\), keys\(\), values\(\), items\(\), update\(\), setdefault\(\), and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 430 Td
+(Dictionary Comprehensions with practical applications.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 405 Td
+(Q11. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 405 Td
+(Explain Sparse Matrices. Compare traditional 2D nested list representation with Dictionary of Keys) Tj
+ET
+BT
+/F1 8.5 Tf
+72 394.5 Td
+(\(DOK\) in memory footprint and retrieval efficiency.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 369.5 Td
+(Q12. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 369.5 Td
+(Explain Aliasing, Shallow Copy, and Deep Copy in Python. Analyze the copy module \(copy\(\) vs) Tj
+ET
+BT
+/F1 8.5 Tf
+72 359 Td
+(deepcopy\(\)\) with memory address diagrams and nested mutation traces.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 334 Td
+(Q13. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 334 Td
+(Implement a Text Analytics & Word Frequency Counter in Python using strings, lists, dictionaries,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 323.5 Td
+(and collections.Counter with punctuation stripping.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 298.5 Td
+(Q14. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 298.5 Td
+(Implement a Student Gradebook Management System in Python using nested dictionaries, calculating) Tj
+ET
+BT
+/F1 8.5 Tf
+72 288 Td
+(per-student weighted GPAs and class statistics.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 263 Td
+(Q15. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 263 Td
+(Implement Matrix Multiplication in Python using nested lists and nested loops, validating inner) Tj
+ET
+BT
+/F1 8.5 Tf
+72 252.5 Td
+(matrix dimension compatibility.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 227.5 Td
+(Q16. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 227.5 Td
+(Explain the collections.namedtuple factory in Python. Compare namedtuple with standard tuples,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 217 Td
+(dictionaries, and classes in syntax and memory overhead.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 192 Td
+(Q17. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 192 Td
+(Implement a Two-Sum Algorithm in Python using Hash Maps \(Dictionaries\) to achieve O\(N\) linear time) Tj
+ET
+BT
+/F1 8.5 Tf
+72 181.5 Td
+(complexity versus O\(N^2\) brute force.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 156.5 Td
+(Q18. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 156.5 Td
+(Implement an LRU \(Least Recently Used\) Cache simulation in Python using OrderedDict or) Tj
+ET
+BT
+/F1 8.5 Tf
+72 146 Td
+(dictionaries with move_to_end\(\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 121 Td
+(Q19. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 121 Td
+(Design an Anagram Grouping program in Python using dictionaries, sorted string keys, or character) Tj
+ET
+BT
+/F1 8.5 Tf
+72 110.5 Td
+(frequency tuples.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 85.5 Td
+(Q20. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 85.5 Td
+(Implement a Stack and Queue Data Structure in Python using list vs collections.deque. Benchmark) Tj
+ET
+BT
+/F1 8.5 Tf
+72 75 Td
+(pop\(0\) vs popleft\(\) performance.) Tj
+ET
+
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 22 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+22 0 obj
+<< /Length 2660 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 3: STRINGS, LISTS, TUPLES AND DICTIONARIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 10 of 41) Tj
+ET
+BT
+/F2 8.5 Tf
+45 780 Td
+(Q21. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 780 Td
+(Implement the Sieve of Eratosthenes in Python using boolean lists and list indexing to compute all) Tj
+ET
+BT
+/F1 8.5 Tf
+72 769.5 Td
+(prime numbers up to N efficiently.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 743.5 Td
+(Q22. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 743.5 Td
+(Implement a JSON-Style Nested Data Parser and Flattener in Python using dictionaries, recursive) Tj
+ET
+BT
+/F1 8.5 Tf
+72 733 Td
+(traversal, and key concatenation.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 707 Td
+(Q23. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 707 Td
+(Implement a Longest Common Prefix \(LCP\) algorithm in Python across an array of strings using) Tj
+ET
+BT
+/F1 8.5 Tf
+72 696.5 Td
+(character-by-character vertical scanning and zip\(\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 670.5 Td
+(Q24. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 670.5 Td
+(Explain the collections.defaultdict type. Contrast standard dict.setdefault\(\) with defaultdict and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 660 Td
+(demonstrate grouping applications.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 634 Td
+(Q25. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 634 Td
+(Implement a Sudoku Board Validator in Python using 2D nested lists, sets, and coordinate slicing) Tj
+ET
+BT
+/F1 8.5 Tf
+72 623.5 Td
+(to verify rows, columns, and 3x3 subgrids.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 597.5 Td
+(Q26. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 597.5 Td
+(Implement a String Permutation and Combination generator in Python without external libraries) Tj
+ET
+BT
+/F1 8.5 Tf
+72 587 Td
+(using recursive backtracking and list swapping.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 561 Td
+(Q27. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 561 Td
+(Explain the collections.ChainMap class in Python. How does it search across multiple chained) Tj
+ET
+BT
+/F1 8.5 Tf
+72 550.5 Td
+(dictionaries and how do updates behave?) Tj
+ET
+BT
+/F2 8.5 Tf
+45 524.5 Td
+(Q28. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 524.5 Td
+(Implement an In-Memory Inverted Index for a Document Search Engine using Python dictionaries and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 514 Td
+(sets.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 488 Td
+(Q29. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 488 Td
+(Design an Inventory Management System in Python using dictionaries, handling stock reorders,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 477.5 Td
+(low-stock alerts, and batch transactions.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 451.5 Td
+(Q30. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 451.5 Td
+(Implement a Custom Matrix Determinant and Matrix Inversion program for 2x2 and 3x3 matrices in) Tj
+ET
+BT
+/F1 8.5 Tf
+72 441 Td
+(Python using nested lists.) Tj
+ET
+
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 24 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+24 0 obj
+<< /Length 8427 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 3: STRINGS, LISTS, TUPLES AND DICTIONARIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 11 of 41) Tj
+ET
+BT
+/F2 11 Tf
+45 780 Td
+(SECTION C: ANSWER KEY - MULTIPLE CHOICE QUESTIONS) Tj
+ET
+0.5 w
+45 772 m 550 772 l S
+BT
+/F2 8.5 Tf
+45 750 Td
+(Q1: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 750 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 734 Td
+(Q2: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 734 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 718 Td
+(Q3: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 718 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 702 Td
+(Q4: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 702 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 686 Td
+(Q5: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 686 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 670 Td
+(Q6: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 654 Td
+(Q7: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 654 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 638 Td
+(Q8: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 638 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 622 Td
+(Q9: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 622 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 606 Td
+(Q10: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 606 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 590 Td
+(Q11: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 590 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 574 Td
+(Q12: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 558 Td
+(Q13: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 542 Td
+(Q14: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 542 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 526 Td
+(Q15: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 510 Td
+(Q16: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 510 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 494 Td
+(Q17: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 494 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 478 Td
+(Q18: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 478 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 462 Td
+(Q19: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 462 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 446 Td
+(Q20: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 446 Td
+([B]) Tj
+ET
+0.2 w
+135 755 m 135 425 l S
+BT
+/F2 8.5 Tf
+145 750 Td
+(Q21: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 750 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 734 Td
+(Q22: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 734 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 718 Td
+(Q23: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 718 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 702 Td
+(Q24: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 702 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 686 Td
+(Q25: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 686 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 670 Td
+(Q26: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 654 Td
+(Q27: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 638 Td
+(Q28: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 638 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 622 Td
+(Q29: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 622 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 606 Td
+(Q30: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 590 Td
+(Q31: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 574 Td
+(Q32: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 558 Td
+(Q33: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 542 Td
+(Q34: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 542 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 526 Td
+(Q35: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 526 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 510 Td
+(Q36: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 494 Td
+(Q37: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 478 Td
+(Q38: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 478 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 462 Td
+(Q39: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 462 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 446 Td
+(Q40: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 446 Td
+([B]) Tj
+ET
+0.2 w
+235 755 m 235 425 l S
+BT
+/F2 8.5 Tf
+245 750 Td
+(Q41: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 734 Td
+(Q42: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 734 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 718 Td
+(Q43: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 702 Td
+(Q44: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 702 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 686 Td
+(Q45: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 686 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 670 Td
+(Q46: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 654 Td
+(Q47: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 638 Td
+(Q48: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 622 Td
+(Q49: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 622 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 606 Td
+(Q50: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 590 Td
+(Q51: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 590 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 574 Td
+(Q52: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 558 Td
+(Q53: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 542 Td
+(Q54: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 542 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 526 Td
+(Q55: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 510 Td
+(Q56: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 510 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 494 Td
+(Q57: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 494 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 478 Td
+(Q58: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 478 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 462 Td
+(Q59: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 462 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 446 Td
+(Q60: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 446 Td
+([A]) Tj
+ET
+0.2 w
+335 755 m 335 425 l S
+BT
+/F2 8.5 Tf
+345 750 Td
+(Q61: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 734 Td
+(Q62: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 718 Td
+(Q63: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 718 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 702 Td
+(Q64: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 702 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 686 Td
+(Q65: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 670 Td
+(Q66: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 654 Td
+(Q67: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 638 Td
+(Q68: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 638 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 622 Td
+(Q69: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 622 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 606 Td
+(Q70: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 590 Td
+(Q71: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 574 Td
+(Q72: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 558 Td
+(Q73: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 558 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 542 Td
+(Q74: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 542 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 526 Td
+(Q75: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 526 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 510 Td
+(Q76: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 510 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 494 Td
+(Q77: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 494 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 478 Td
+(Q78: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 478 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 462 Td
+(Q79: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 462 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 446 Td
+(Q80: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 446 Td
+([B]) Tj
+ET
+0.2 w
+435 755 m 435 425 l S
+BT
+/F2 8.5 Tf
+445 750 Td
+(Q81: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 734 Td
+(Q82: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 734 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 718 Td
+(Q83: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 718 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 702 Td
+(Q84: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 686 Td
+(Q85: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 686 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 670 Td
+(Q86: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 654 Td
+(Q87: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 654 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 638 Td
+(Q88: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 638 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 622 Td
+(Q89: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 622 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 606 Td
+(Q90: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 606 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 590 Td
+(Q91: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 574 Td
+(Q92: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 574 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 558 Td
+(Q93: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 542 Td
+(Q94: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 542 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 526 Td
+(Q95: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 510 Td
+(Q96: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 510 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 494 Td
+(Q97: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 494 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 478 Td
+(Q98: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 478 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 462 Td
+(Q99: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 462 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 446 Td
+(Q100: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 446 Td
+([B]) Tj
+ET
+0.5 w
+45 400 m 550 400 l 550 340 l 45 340 l s
+BT
+/F2 9 Tf
+55 382 Td
+(MCQ Scoring Guide & Difficulty Distribution:) Tj
+ET
+BT
+/F1 8.5 Tf
+55 366 Td
+(Questions 1 to 40: Foundational & Conceptual [Easy] | Questions 41 to 75: Analytical & Applied [Moderate]) Tj
+ET
+BT
+/F1 8.5 Tf
+55 350 Td
+(Questions 76 to 100: Complex Numerical & Advanced Problem Solving [Difficult]) Tj
+ET
+
+endstream
+endobj
+25 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 26 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+26 0 obj
+<< /Length 2898 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 3: STRINGS, LISTS, TUPLES AND DICTIONARIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 12 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(SECTION D: DETAILED SOLUTIONS FOR SUBJECTIVE QUESTIONS) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(================================================================================) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 1:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Strings as Compound Data Types in Python. Detail string traversal algorithms using for and while loops, character length determination, and memory immutability.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Theoretical Foundations of Strings as Compound Types:) Tj
+T*
+(   In computer science, a compound data type is one constructed from smaller, fundamental) Tj
+T*
+(   components.) Tj
+T*
+(   In Python, the str type is an ordered, immutable sequence of Unicode code points.) Tj
+T*
+(   Key Architectural Properties:) Tj
+T*
+(   - Homogeneous Interface: Every character is accessed as a single-character string \(Python has) Tj
+T*
+(   no separate 'char' type\).) Tj
+T*
+(   - Immutability: Once allocated on the heap, the UTF-8/Latin-1/UCS-4 byte buffer cannot be) Tj
+T*
+(   mutated in place.) Tj
+T*
+(   - Sequential Indexing: Characters are indexed from 0 to len\(s\) - 1, and backward from -1 to) Tj
+T*
+(   -len\(s\).) Tj
+T*
+() Tj
+T*
+(   2. Traversal Paradigms:) Tj
+T*
+(   1. Iterator Traversal \(Idiomatic\): for char in s: Directly yields code points in O\(N\) time.) Tj
+T*
+(   2. Index-Based Traversal: for i in range\(len\(s\)\): Enables positional indexing and lookaheads.) Tj
+T*
+(   3. While-Loop Traversal: Explicit pointer advancement with custom boundary checks.) Tj
+T*
+() Tj
+T*
+(   3. Python Implementation & Demonstration:) Tj
+T*
+(   def traverse_and_analyze_string\(text: str\):) Tj
+T*
+(   """Demonstrate string traversal and character categorization.""") Tj
+T*
+(   vowel_count = 0) Tj
+T*
+(   consonant_count = 0) Tj
+T*
+(   digit_count = 0) Tj
+T*
+(   special_count = 0) Tj
+T*
+() Tj
+T*
+(   vowels = set\("aeiouAEIOU"\)) Tj
+T*
+() Tj
+T*
+(   # Traversal using idiomatic for-in loop) Tj
+T*
+(   for char in text:) Tj
+T*
+(   if char.isdigit\(\):) Tj
+T*
+(   digit_count += 1) Tj
+T*
+(   elif char.isalpha\(\):) Tj
+T*
+(   if char in vowels:) Tj
+T*
+(   vowel_count += 1) Tj
+T*
+(   else:) Tj
+T*
+(   consonant_count += 1) Tj
+T*
+(   else:) Tj
+T*
+(   special_count += 1) Tj
+T*
+() Tj
+T*
+(   return {) Tj
+T*
+(   "TotalLength": len\(text\),) Tj
+T*
+(   "Vowels": vowel_count,) Tj
+T*
+(   "Consonants": consonant_count,) Tj
+T*
+(   "Digits": digit_count,) Tj
+T*
+(   "SpecialChars": special_count) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   # Execution) Tj
+T*
+ET
+
+endstream
+endobj
+27 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 28 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+28 0 obj
+<< /Length 3346 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 3: STRINGS, LISTS, TUPLES AND DICTIONARIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 13 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   sample_str = "CSE-Python 3.10 & DataStructures!") Tj
+T*
+(   analysis = traverse_and_analyze_string\(sample_str\)) Tj
+T*
+(   print\("String Traversal & Analysis Report:", analysis\)) Tj
+T*
+() Tj
+T*
+(   4. Memory Model & Execution Trace:) Tj
+T*
+(   - Stack: text -> Heap [PyUnicodeObject: length=33, state=compact_ascii, buffer='CSE-Python...']) Tj
+T*
+(   - Each char during iteration is a transient reference to interned single-character string) Tj
+T*
+(   singletons in CPython memory.) Tj
+T*
+(   - No in-place modification occurs; total allocated buffer remains constant.) Tj
+T*
+() Tj
+T*
+(   5. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(N\) linear time single pass over N characters.) Tj
+T*
+(   - Space Complexity: O\(1\) auxiliary counter storage.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 2:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain String Slicing, Negative Indexing, and Lexicographical String Comparison in Python with comprehensive code examples.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Slicing Mechanics & Substring Extraction:) Tj
+T*
+(   String slicing extracts a new substring using the slice syntax:) Tj
+T*
+(   s[start : stop : step]) Tj
+T*
+(   - start: Inclusive index \(defaults to 0 if step > 0, len\(s\) - 1 if step < 0\).) Tj
+T*
+(   - stop: Exclusive bound \(defaults to len\(s\) if step > 0, past origin if step < 0\).) Tj
+T*
+(   - step: Stride/increment \(positive = left-to-right, negative = right-to-left\).) Tj
+T*
+(   - Python automatically clamps slice indices within [0, len\(s\)] without throwing IndexError.) Tj
+T*
+() Tj
+T*
+(   2. Negative Indexing Mechanics:) Tj
+T*
+(   Negative index -k refers to the element at physical index len\(s\) - k:) Tj
+T*
+(   - s[-1] is the last character.) Tj
+T*
+(   - s[-len\(s\)] is the first character.) Tj
+T*
+() Tj
+T*
+(   3. Lexicographical Comparison:) Tj
+T*
+(   Python compares strings character-by-character from left to right using Unicode ordinals) Tj
+T*
+(   \(ord\(c\)\):) Tj
+T*
+(   - 'apple' < 'banana' \(since ord\('a'\)=97 < ord\('b'\)=98 -> True\).) Tj
+T*
+(   - 'Apple' < 'apple' \(since uppercase 'A'=65 < lowercase 'a'=97 -> True\).) Tj
+T*
+(   - 'app' < 'apple' \(shorter string is less than longer prefix extension\).) Tj
+T*
+() Tj
+T*
+(   4. Python Code Demonstration:) Tj
+T*
+(   def demonstrate_slicing_and_comparisons\(\):) Tj
+T*
+(   phrase = "ArtificialIntelligence") Tj
+T*
+() Tj
+T*
+(   print\("--- Slicing Patterns ---"\)) Tj
+T*
+(   print\(f"Original: '{phrase}'"\)) Tj
+T*
+(   print\(f"phrase[0:10]: '{phrase[0:10]}'"\)) Tj
+T*
+(   print\(f"phrase[10:]: '{phrase[10:]}'"\)) Tj
+T*
+(   print\(f"phrase[-12:]: '{phrase[-12:]}'"\)) Tj
+T*
+(   print\(f"phrase[::2]: '{phrase[::2]}'"\)) Tj
+T*
+(   print\(f"phrase[::-1]: '{phrase[::-1]}' \(Reversed\)"\)) Tj
+T*
+() Tj
+T*
+(   print\("\\n--- Lexicographical Comparisons ---"\)) Tj
+T*
+(   s1 = "Algorithm") Tj
+T*
+(   s2 = "algor") Tj
+T*
+ET
+
+endstream
+endobj
+29 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 30 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+30 0 obj
+<< /Length 3434 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 3: STRINGS, LISTS, TUPLES AND DICTIONARIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 14 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   print\(f"'{s1}' < '{s2}': {s1 < s2} \(Reason: 'A'=65 < 'a'=97\)"\)) Tj
+T*
+(   print\(f"'Data' == 'data'.capitalize\(\): {'Data' == 'data'.capitalize\(\)}"\)) Tj
+T*
+(   print\(f"'byte' < 'bytes': {'byte' < 'bytes'} \(Prefix extension\)"\)) Tj
+T*
+() Tj
+T*
+(   demonstrate_slicing_and_comparisons\(\)) Tj
+T*
+() Tj
+T*
+(   5. Complexity Analysis:) Tj
+T*
+(   - Slicing Time Complexity: O\(K\) where K is slice length \(allocates new PyUnicodeObject\).) Tj
+T*
+(   - Lexicographical Comparison: O\(min\(len\(s1\), len\(s2\)\)\) character comparisons.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 3:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Discuss String Searching and Transformation Methods: find\(\), index\(\), count\(\), replace\(\), split\(\), join\(\), and strip\(\). Explain exceptions vs sentinel returns.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. String Inspection & Search Methods:) Tj
+T*
+(   - str.find\(sub[, start[, end]]\): Scans for substring sub. Returns lowest 0-based index if) Tj
+T*
+(   found; returns -1 sentinel if absent \(Never raises an exception\).) Tj
+T*
+(   - str.index\(sub[, start[, end]]\): Identical to find\(\), but raises a ValueError exception if sub) Tj
+T*
+(   is absent. Used when absence signifies a fatal logic error.) Tj
+T*
+(   - str.count\(sub[, start[, end]]\): Returns number of non-overlapping occurrences of sub.) Tj
+T*
+() Tj
+T*
+(   2. String Transformation & Sanitization Methods:) Tj
+T*
+(   - str.replace\(old, new[, count]\): Returns a new string with occurrences of old replaced by new.) Tj
+T*
+(   - str.split\(sep=None, maxsplit=-1\): Splits string on separator into a list of substrings. If) Tj
+T*
+(   sep is None, splits on arbitrary contiguous whitespace.) Tj
+T*
+(   - str.join\(iterable\): Concatenates elements of an iterable using str as separator in O\(N\) time.) Tj
+T*
+(   - str.strip\([chars]\): Strips leading and trailing whitespace or specified characters.) Tj
+T*
+() Tj
+T*
+(   3. Python Code Demonstration:) Tj
+T*
+(   def string_utility_pipeline\(raw_log: str\):) Tj
+T*
+(   """Sanitize, parse, and reformat a raw server log entry.""") Tj
+T*
+(   # 1. Strip edge padding) Tj
+T*
+(   cleaned = raw_log.strip\(\)) Tj
+T*
+() Tj
+T*
+(   # 2. Check presence using find vs index) Tj
+T*
+(   if cleaned.find\("ERROR"\) != -1:) Tj
+T*
+(   log_level = "CRITICAL") Tj
+T*
+(   else:) Tj
+T*
+(   log_level = "INFO") Tj
+T*
+() Tj
+T*
+(   # 3. Replace delimiters and split tokens) Tj
+T*
+(   normalized = cleaned.replace\("|", ";"\)) Tj
+T*
+(   tokens = [t.strip\(\) for t in normalized.split\(";"\)]) Tj
+T*
+() Tj
+T*
+(   # 4. Join into structured CSV format) Tj
+T*
+(   csv_line = ",".join\(tokens\)) Tj
+T*
+(   return {"Level": log_level, "Tokens": tokens, "CSV": csv_line}) Tj
+T*
+() Tj
+T*
+(   sample_log = " 2026-10-26 | ERROR | DatabaseConnectionTimeout | Host=192.168.1.50 ") Tj
+T*
+(   parsed = string_utility_pipeline\(sample_log\)) Tj
+T*
+(   print\("Pipeline Output:", parsed\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+ET
+
+endstream
+endobj
+31 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 32 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+32 0 obj
+<< /Length 3189 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 3: STRINGS, LISTS, TUPLES AND DICTIONARIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 15 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - find\(\) / count\(\) Time: O\(N\) using Boyer-Moore-Horspool / two-way algorithm.) Tj
+T*
+(   - split\(\) / join\(\) Time: O\(N\) memory allocation and copy.) Tj
+T*
+(   - Space Complexity: O\(N\) memory for generated lists and strings.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 4:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Python Lists: Dynamic Array Architecture, Memory Allocation, Mutability, and In-Place Mutation versus Rebinding.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. CPython List Architecture \(Dynamic Array of Pointers\):) Tj
+T*
+(   In CPython, a list is NOT a linked list! It is implemented as a PyListObject containing:) Tj
+T*
+(   1. ob_size: Number of elements currently in the list \(len\(L\)\).) Tj
+T*
+(   2. allocated: Total capacity of the internal contiguous C pointer array \(ob_item\).) Tj
+T*
+(   3. ob_item: Pointer to an array of pointers \(PyObject**\) referencing items on the heap.) Tj
+T*
+() Tj
+T*
+(   2. Overallocation & Amortized O\(1\) Growth:) Tj
+T*
+(   When append\(\) exceeds allocated capacity, CPython reallocates the array with an overallocation) Tj
+T*
+(   growth factor:) Tj
+T*
+(   allocated = \(size + \(size >> 3\) + \(size < 9 ? 3 : 6\)\)) Tj
+T*
+(   This geometric expansion guarantees that appending N elements takes O\(N\) total time, achieving) Tj
+T*
+(   Amortized O\(1\) per append!) Tj
+T*
+() Tj
+T*
+(   3. In-Place Mutation vs Variable Rebinding:) Tj
+T*
+(   - In-Place Mutation: Operations like L.append\(x\), L.extend\(items\), L[i] = v, and L.sort\(\)) Tj
+T*
+(   modify the existing heap object directly without changing id\(L\).) Tj
+T*
+(   - Rebinding: Operations like L = L + [x] allocate a brand new list and rebind variable L to the) Tj
+T*
+(   new object's memory address.) Tj
+T*
+() Tj
+T*
+(   4. Python Code Demonstration:) Tj
+T*
+(   import sys) Tj
+T*
+() Tj
+T*
+(   def trace_list_growth\(\):) Tj
+T*
+(   """Observe CPython dynamic overallocation in action.""") Tj
+T*
+(   nums = []) Tj
+T*
+(   print\(f"{'Length':<10}{'Capacity \(Bytes\)':<18}{'Growth Event':<20}"\)) Tj
+T*
+(   print\("-" * 48\)) Tj
+T*
+(   prev_size = sys.getsizeof\(nums\)) Tj
+T*
+() Tj
+T*
+(   for i in range\(25\):) Tj
+T*
+(   nums.append\(i\)) Tj
+T*
+(   current_size = sys.getsizeof\(nums\)) Tj
+T*
+(   if current_size != prev_size or i == 0:) Tj
+T*
+(   print\(f"{len\(nums\):<10}{current_size:<18}{'Reallocation!':<20}"\)) Tj
+T*
+(   prev_size = current_size) Tj
+T*
+() Tj
+T*
+(   trace_list_growth\(\)) Tj
+T*
+() Tj
+T*
+(   # Demonstrating Mutation vs Rebinding) Tj
+T*
+(   lst1 = [10, 20]) Tj
+T*
+(   orig_id = id\(lst1\)) Tj
+T*
+(   lst1.append\(30\)) Tj
+T*
+(   print\(f"\\nIn-Place Append -> ID Unchanged: {id\(lst1\) == orig_id}"\)) Tj
+T*
+() Tj
+T*
+(   lst1 = lst1 + [40] # Rebinding) Tj
+T*
+ET
+
+endstream
+endobj
+33 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 34 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+34 0 obj
+<< /Length 3172 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 3: STRINGS, LISTS, TUPLES AND DICTIONARIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 16 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   print\(f"Rebinding via + -> ID Changed: {id\(lst1\) != orig_id}"\)) Tj
+T*
+() Tj
+T*
+(   5. Complexity Analysis:) Tj
+T*
+(   - append\(\) / pop\(\): Amortized O\(1\) time.) Tj
+T*
+(   - insert\(0, x\) / pop\(0\): O\(N\) linear time \(shifts N pointers\).) Tj
+T*
+(   - Memory Overhead: O\(N\) contiguous pointer buffer.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 5:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain List Slicing, Slice Assignment, Deletion \(del, remove, pop, clear\), and Element Access with Negative Indexing.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. List Indexing and Boundaries:) Tj
+T*
+(   List elements are accessed in O\(1\) time via L[i] by dereferencing the pointer ob_item[i].) Tj
+T*
+(   Negative index L[-k] resolves to L[len\(L\) - k]. Attempting to access an index outside [-len\(L\),) Tj
+T*
+(   len\(L\) - 1] raises an IndexError.) Tj
+T*
+() Tj
+T*
+(   2. Advanced Slice Assignment:) Tj
+T*
+(   Unlike strings which are immutable, lists support slice assignment:) Tj
+T*
+(   - L[start:stop] = iterable replaces the targeted slice range with elements from the iterable,) Tj
+T*
+(   even if lengths differ!) Tj
+T*
+(   - L[i:i] = iterable inserts elements at index i without deleting any items.) Tj
+T*
+(   - L[::2] = iterable performs extended slice assignment \(requires matching lengths\).) Tj
+T*
+() Tj
+T*
+(   3. Deletion Strategies Comparison:) Tj
+T*
+(   1. del L[i]: Deletes item at index i by shifting subsequent pointers leftward in O\(N - i\) time.) Tj
+T*
+(   2. L.pop\([i]\): Removes and returns element at index i \(default last item in O\(1\) time\).) Tj
+T*
+(   3. L.remove\(val\): Searches for first occurrence of val and removes it. Raises ValueError if) Tj
+T*
+(   absent. O\(N\) time.) Tj
+T*
+(   4. L.clear\(\): Empties list completely in O\(1\) time \(equivalent to del L[:]\).) Tj
+T*
+() Tj
+T*
+(   4. Python Code Demonstration:) Tj
+T*
+(   data = [10, 20, 30, 40, 50, 60]) Tj
+T*
+(   print\(f"Initial List: {data}"\)) Tj
+T*
+() Tj
+T*
+(   # Slice replacement with different size) Tj
+T*
+(   data[1:4] = [99, 100] # Replaces [20, 30, 40] with [99, 100]) Tj
+T*
+(   print\(f"After Slice Assignment data[1:4]=[99, 100]: {data}"\)) Tj
+T*
+() Tj
+T*
+(   # In-place insertion via zero-width slice) Tj
+T*
+(   data[2:2] = ['A', 'B']) Tj
+T*
+(   print\(f"After Zero-Width Slice Insertion: {data}"\)) Tj
+T*
+() Tj
+T*
+(   # Pop and Remove) Tj
+T*
+(   popped_val = data.pop\(\) # Removes 60) Tj
+T*
+(   print\(f"Popped Last Item: {popped_val} | List: {data}"\)) Tj
+T*
+() Tj
+T*
+(   data.remove\('A'\)) Tj
+T*
+(   print\(f"After data.remove\('A'\): {data}"\)) Tj
+T*
+() Tj
+T*
+(   del data[0]) Tj
+T*
+(   print\(f"After del data[0]: {data}"\)) Tj
+T*
+() Tj
+T*
+(   5. Complexity Analysis:) Tj
+T*
+ET
+
+endstream
+endobj
+35 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 36 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+36 0 obj
+<< /Length 3131 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 3: STRINGS, LISTS, TUPLES AND DICTIONARIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 17 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - Indexing: O\(1\) time.) Tj
+T*
+(   - Slice Assignment: O\(N + K\) where K is number of inserted elements.) Tj
+T*
+(   - Space Complexity: In-place pointer modifications.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 6:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain List Comprehensions in Python. Contrast list comprehensions with map\(\), filter\(\), and explicit for loops in readability, bytecode, and performance.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Theoretical Basis of List Comprehensions:) Tj
+T*
+(   Codified in PEP 202, list comprehensions provide a concise, declarative mathematical) Tj
+T*
+(   set-builder syntax for constructing lists:) Tj
+T*
+(   Syntax: [expression for item in iterable if condition]) Tj
+T*
+(   Comprehensions combine mapping \(expression\) and filtering \(if condition\) into a unified) Tj
+T*
+(   construct.) Tj
+T*
+() Tj
+T*
+(   2. Performance and Bytecode Superiority:) Tj
+T*
+(   - Explicit for-loop: Repeatedly calls the list.append attribute lookup in Python bytecode on) Tj
+T*
+(   every iteration, incurring dictionary lookup overhead.) Tj
+T*
+(   - List Comprehension: Compiles into specialized C-level bytecode \(LIST_APPEND opcode\) that) Tj
+T*
+(   directly appends to the internal C array without Python attribute lookup overhead.) Tj
+T*
+(   - map\(\) / filter\(\): Return lazy iterators; converting them via list\(map\(...\)\) requires function) Tj
+T*
+(   call overhead for every element unless using C built-ins.) Tj
+T*
+() Tj
+T*
+(   3. Python Code Demonstration:) Tj
+T*
+(   import dis) Tj
+T*
+() Tj
+T*
+(   # 1. Comparative Implementations) Tj
+T*
+(   dataset = range\(1, 11\)) Tj
+T*
+() Tj
+T*
+(   # Method A: Traditional Loop) Tj
+T*
+(   loop_res = []) Tj
+T*
+(   for x in dataset:) Tj
+T*
+(   if x % 2 == 0:) Tj
+T*
+(   loop_res.append\(x ** 2\)) Tj
+T*
+() Tj
+T*
+(   # Method B: List Comprehension) Tj
+T*
+(   comp_res = [x ** 2 for x in dataset if x % 2 == 0]) Tj
+T*
+() Tj
+T*
+(   # Method C: map and filter) Tj
+T*
+(   mf_res = list\(map\(lambda x: x ** 2, filter\(lambda x: x % 2 == 0, dataset\)\)\)) Tj
+T*
+() Tj
+T*
+(   print\(f"Comprehension Result: {comp_res} \(Matches Loop: {comp_res == loop_res == mf_res}\)"\)) Tj
+T*
+() Tj
+T*
+(   # 2. Nested List Comprehension \(Matrix Flattening\)) Tj
+T*
+(   matrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]) Tj
+T*
+(   flattened = [val for row in matrix for val in row]) Tj
+T*
+(   print\(f"Flattened Matrix: {flattened}"\)) Tj
+T*
+() Tj
+T*
+(   # 3. Conditional Value Mapping \(if-else inside expression\)) Tj
+T*
+(   parity = ["Even" if x % 2 == 0 else "Odd" for x in range\(5\)]) Tj
+T*
+(   print\(f"Parity Classification: {parity}"\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+ET
+
+endstream
+endobj
+37 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 38 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+38 0 obj
+<< /Length 3419 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 3: STRINGS, LISTS, TUPLES AND DICTIONARIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 18 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - Time Complexity: O\(N\) linear time evaluation.) Tj
+T*
+(   - Space Complexity: O\(N\) memory allocated for the new list.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 7:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Parameter Passing in Python: 'Pass-by-Object-Reference' \(Call-by-Sharing\). Demonstrate how mutating mutable parameters affects caller state.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Theoretical Paradigm: Pass-by-Object-Reference:) Tj
+T*
+(   Python does NOT use traditional 'pass-by-value' \(copying data\) or 'pass-by-reference' \(alias to) Tj
+T*
+(   variable\).) Tj
+T*
+(   Instead, Python strictly adheres to Pass-by-Object-Reference \(Call-by-Sharing\):) Tj
+T*
+(   - Every argument passed into a function is an object reference \(pointer\).) Tj
+T*
+(   - The parameter inside the function receives a copy of the pointer pointing to the exact same) Tj
+T*
+(   heap object.) Tj
+T*
+() Tj
+T*
+(   2. Behavioral Consequences:) Tj
+T*
+(   - If the argument is an Immutable Object \(int, str, tuple\): The function cannot modify the) Tj
+T*
+(   caller's object. Any modification rebinds the local parameter to a new object, leaving the) Tj
+T*
+(   caller unaffected.) Tj
+T*
+(   - If the argument is a Mutable Object \(list, dict, set\): In-place mutations \(e.g.,) Tj
+T*
+(   param.append\(\), param[k]=v\) directly alter the underlying heap object, mutating the caller's) Tj
+T*
+(   state!) Tj
+T*
+(   - Rebinding a Mutable Parameter \(param = [1, 2, 3]\): Redirects the local pointer to a new heap) Tj
+T*
+(   object, severing the connection to caller's object.) Tj
+T*
+() Tj
+T*
+(   3. Python Code Demonstration:) Tj
+T*
+(   def mutate_vs_rebind\(shared_list: list, local_rebind: list\):) Tj
+T*
+(   # In-place mutation affects caller!) Tj
+T*
+(   shared_list.append\("MUTATED_IN_PLACE"\)) Tj
+T*
+() Tj
+T*
+(   # Rebinding affects only local parameter!) Tj
+T*
+(   local_rebind = ["NEW_OBJECT"]) Tj
+T*
+(   print\(f"Inside Function: local_rebind = {local_rebind}"\)) Tj
+T*
+() Tj
+T*
+(   orig_list1 = [1, 2]) Tj
+T*
+(   orig_list2 = ['A', 'B']) Tj
+T*
+() Tj
+T*
+(   print\(f"Before Function Call: list1 = {orig_list1}, list2 = {orig_list2}"\)) Tj
+T*
+(   mutate_vs_rebind\(orig_list1, orig_list2\)) Tj
+T*
+(   print\(f"After Function Call: list1 = {orig_list1} \(Mutated!\)"\)) Tj
+T*
+(   print\(f"After Function Call: list2 = {orig_list2} \(Unaffected by rebinding!\)"\)) Tj
+T*
+() Tj
+T*
+(   4. Memory Model Trace:) Tj
+T*
+(   - Function Entry: shared_list and orig_list1 both hold pointer 0x7fa0.) Tj
+T*
+(   shared_list.append modifies heap at 0x7fa0. Caller sees change.) Tj
+T*
+(   - local_rebind initially holds pointer 0x81b0.) Tj
+T*
+(   local_rebind = ['NEW_OBJECT'] allocates 0x95c0 and points local_rebind to 0x95c0.) Tj
+T*
+(   orig_list2 remains pointing to 0x81b0.) Tj
+T*
+() Tj
+T*
+(   5. Complexity Analysis:) Tj
+T*
+(   - Parameter Passing Overhead: O\(1\) pointer copy.) Tj
+T*
+(   - Space Complexity: O\(1\) frame reference.) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+39 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 40 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+40 0 obj
+<< /Length 3286 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 3: STRINGS, LISTS, TUPLES AND DICTIONARIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 19 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 8:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Tuples in Python: Immutability, Creation, Single-Element Gotcha, Tuple Packing, Unpacking, and Functions Returning Multiple Values.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Tuple Architecture & Immutability:) Tj
+T*
+(   A tuple \(tuple\) is an immutable ordered sequence of object references.) Tj
+T*
+(   Key Characteristics:) Tj
+T*
+(   - Defined with parentheses \(\) or comma-separated values.) Tj
+T*
+(   - Memory Efficient: Tuples require less memory overhead than lists because their size is fixed) Tj
+T*
+(   at instantiation. CPython pre-allocates small tuple caches.) Tj
+T*
+(   - Hashable: If all constituent elements of a tuple are immutable, the tuple itself is hashable) Tj
+T*
+(   and can serve as a dictionary key or set element.) Tj
+T*
+() Tj
+T*
+(   2. The Single-Element Tuple Gotcha:) Tj
+T*
+(   Writing t = \(5\) evaluates to the integer 5 because parentheses are parsed as mathematical) Tj
+T*
+(   grouping operators.) Tj
+T*
+(   To define a single-element tuple, a trailing comma is syntactically mandatory:) Tj
+T*
+(   t = \(5,\) or t = 5,) Tj
+T*
+() Tj
+T*
+(   3. Tuple Packing, Sequence Unpacking, and Return Values:) Tj
+T*
+(   - Packing: x = 10, 20, 30 packs integers into tuple \(10, 20, 30\).) Tj
+T*
+(   - Unpacking: a, b, c = x unpacks elements into separate variables.) Tj
+T*
+(   - Extended Unpacking \(PEP 3132\): first, *middle, last = sequence.) Tj
+T*
+(   - Multiple Return Values: A function returning return x, y, z is actually returning a single) Tj
+T*
+(   packed tuple \(x, y, z\).) Tj
+T*
+() Tj
+T*
+(   4. Python Code Demonstration:) Tj
+T*
+(   # 1. Single element tuple verification) Tj
+T*
+(   not_a_tuple = \(42\)) Tj
+T*
+(   valid_tuple = \(42,\)) Tj
+T*
+(   print\(f"type\(\(42\)\): {type\(not_a_tuple\).__name__} | type\(\(42,\)\): {type\(valid_tuple\).__name__}"\)) Tj
+T*
+() Tj
+T*
+(   # 2. Returning multiple values from function) Tj
+T*
+(   def compute_statistics\(numbers: list\):) Tj
+T*
+(   min_val = min\(numbers\)) Tj
+T*
+(   max_val = max\(numbers\)) Tj
+T*
+(   mean_val = sum\(numbers\) / len\(numbers\)) Tj
+T*
+(   return min_val, max_val, mean_val # Returns a packed 3-tuple) Tj
+T*
+() Tj
+T*
+(   stats = compute_statistics\([10, 25, 4, 88, 32]\)) Tj
+T*
+(   print\(f"Stats Tuple: {stats} | Type: {type\(stats\).__name__}"\)) Tj
+T*
+() Tj
+T*
+(   # Unpacking stats) Tj
+T*
+(   low, high, avg = stats) Tj
+T*
+(   print\(f"Unpacked: Min={low}, Max={high}, Mean={avg:.2f}"\)) Tj
+T*
+() Tj
+T*
+(   # 3. Extended Unpacking) Tj
+T*
+(   head, *tail = [100, 200, 300, 400]) Tj
+T*
+(   print\(f"Head: {head} | Tail: {tail}"\)) Tj
+T*
+() Tj
+T*
+(   5. Complexity Analysis:) Tj
+T*
+(   - Unpacking Time Complexity: O\(K\) where K is number of unpacked elements.) Tj
+T*
+(   - Space Complexity: O\(1\) register assignments.) Tj
+T*
+ET
+
+endstream
+endobj
+41 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 42 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+42 0 obj
+<< /Length 3350 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 3: STRINGS, LISTS, TUPLES AND DICTIONARIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 20 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 9:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Python Dictionaries: Hash Table Architecture, Key Hashability, Collision Resolution, and Compact Dict Memory Layout.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Hash Table Architecture of Python Dictionaries:) Tj
+T*
+(   A dictionary \(dict\) is an associative array mapping unique keys to arbitrary values.) Tj
+T*
+(   Key Architecture:) Tj
+T*
+(   - Hash Function: When a key k is accessed, Python calls hash\(k\) to generate an integer hash) Tj
+T*
+(   code.) Tj
+T*
+(   - Bucket Indexing: The hash code is masked with the table size to determine the starting bucket) Tj
+T*
+(   index: idx = hash\(k\) & \(size - 1\).) Tj
+T*
+() Tj
+T*
+(   2. Key Hashability Requirements:) Tj
+T*
+(   A key must be Hashable:) Tj
+T*
+(   1. Must implement __hash__\(\) returning an invariant integer across its lifespan.) Tj
+T*
+(   2. Must implement __eq__\(\) to compare equality.) Tj
+T*
+(   3. If two objects are equal \(a == b\), their hash codes MUST be identical \(hash\(a\) == hash\(b\)\).) Tj
+T*
+(   Mutable types \(list, dict, set\) are unhashable because in-place mutation would change their) Tj
+T*
+(   hash, corrupting the hash table.) Tj
+T*
+() Tj
+T*
+(   3. Collision Resolution via Open Addressing:) Tj
+T*
+(   When two keys hash to the same bucket, CPython uses Open Addressing with pseudo-random) Tj
+T*
+(   perturbation probing:) Tj
+T*
+(   idx = \(5 * idx + 1 + perturb\) & \(size - 1\)) Tj
+T*
+(   This probe sequence visits all table entries while avoiding primary clustering.) Tj
+T*
+() Tj
+T*
+(   4. Python 3.6+ Compact Dict Design:) Tj
+T*
+(   Traditional hash tables stored sparse arrays containing [hash, key, value] tuples, wasting 60%) Tj
+T*
+(   of memory on empty slots.) Tj
+T*
+(   Modern CPython separates the table into:) Tj
+T*
+(   1. Dense 'entries' array: Stores [hash, key, value] contiguously in insertion order.) Tj
+T*
+(   2. Sparse 'indices' array: Stores tiny integers \(int8/int16\) indexing into the dense entries) Tj
+T*
+(   array.) Tj
+T*
+(   This achieves 25% memory reduction and guarantees Insertion-Order Preservation!) Tj
+T*
+() Tj
+T*
+(   5. Python Code Demonstration:) Tj
+T*
+(   # Verification of hashability and dictionary operations) Tj
+T*
+(   class Coordinate:) Tj
+T*
+(   def __init__\(self, x, y\):) Tj
+T*
+(   self.x = x) Tj
+T*
+(   self.y = y) Tj
+T*
+(   def __hash__\(self\):) Tj
+T*
+(   return hash\(\(self.x, self.y\)\)) Tj
+T*
+(   def __eq__\(self, other\):) Tj
+T*
+(   return isinstance\(other, Coordinate\) and \(self.x, self.y\) == \(other.x, other.y\)) Tj
+T*
+() Tj
+T*
+(   c1 = Coordinate\(10, 20\)) Tj
+T*
+(   c2 = Coordinate\(10, 20\)) Tj
+T*
+(   geo_cache = {c1: "Sensor_Node_Alpha"}) Tj
+T*
+() Tj
+T*
+(   print\(f"c1 == c2: {c1 == c2} | hash\(c1\) == hash\(c2\): {hash\(c1\) == hash\(c2\)}"\)) Tj
+T*
+(   print\(f"Lookup via c2: {geo_cache[c2]} \(Hash table hit!\)"\)) Tj
+T*
+ET
+
+endstream
+endobj
+43 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 44 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+44 0 obj
+<< /Length 3481 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 3: STRINGS, LISTS, TUPLES AND DICTIONARIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 21 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   6. Complexity Analysis:) Tj
+T*
+(   - Average Lookup / Insert / Delete Time: O\(1\) constant time.) Tj
+T*
+(   - Worst-Case Time \(Massive Collisions\): O\(N\).) Tj
+T*
+(   - Space Complexity: O\(N\) compact dense array.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 10:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Discuss Dictionary Methods: get\(\), keys\(\), values\(\), items\(\), update\(\), setdefault\(\), and Dictionary Comprehensions with practical applications.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Core Dictionary Methods Inventory:) Tj
+T*
+(   - dict.get\(key, default=None\): Returns value for key; returns default if key is not found) Tj
+T*
+(   \(Prevents KeyError\).) Tj
+T*
+(   - dict.setdefault\(key, default\): If key is in dict, returns its value. If not, inserts key with) Tj
+T*
+(   value default and returns default.) Tj
+T*
+(   - dict.update\([other]\): Merges key-value pairs from another dictionary or iterable, overwriting) Tj
+T*
+(   existing keys in-place.) Tj
+T*
+(   - dict.keys\(\): Returns a dynamic dict_keys view object reflecting real-time dictionary keys.) Tj
+T*
+(   - dict.values\(\): Returns a dynamic dict_values view object.) Tj
+T*
+(   - dict.items\(\): Returns a dynamic dict_items view of \(key, value\) pairs.) Tj
+T*
+() Tj
+T*
+(   2. Dictionary Comprehensions:) Tj
+T*
+(   Syntax: {key_expr: value_expr for item in iterable if condition}) Tj
+T*
+(   Enables declarative transformation, filtering, and inversion of mappings.) Tj
+T*
+() Tj
+T*
+(   3. Python Implementation & Demonstration:) Tj
+T*
+(   # 1. Frequency Counter using setdefault vs get) Tj
+T*
+(   text = "apple orange banana apple banana apple") Tj
+T*
+(   freq_map = {}) Tj
+T*
+(   for word in text.split\(\):) Tj
+T*
+(   freq_map[word] = freq_map.get\(word, 0\) + 1) Tj
+T*
+(   print\(f"Word Frequencies via get\(\): {freq_map}"\)) Tj
+T*
+() Tj
+T*
+(   # 2. Dictionary Inversion using Dictionary Comprehension) Tj
+T*
+(   # Inverting mapping: Department -> List of Employees) Tj
+T*
+(   org = {"Engineering": "Aarav", "Marketing": "Priya", "Research": "Meera"}) Tj
+T*
+(   inverted_org = {employee: dept for dept, employee in org.items\(\)}) Tj
+T*
+(   print\(f"Inverted Org Mapping: {inverted_org}"\)) Tj
+T*
+() Tj
+T*
+(   # 3. Filtering Dictionary via Comprehension) Tj
+T*
+(   high_freq = {k: v for k, v in freq_map.items\(\) if v >= 2}) Tj
+T*
+(   print\(f"High Frequency Words \(count >= 2\): {high_freq}"\)) Tj
+T*
+() Tj
+T*
+(   # 4. Dictionary Merging using | operator \(Python 3.9+\)) Tj
+T*
+(   defaults = {"theme": "light", "notifications": True, "fontSize": 12}) Tj
+T*
+(   user_pref = {"theme": "dark", "fontSize": 14}) Tj
+T*
+(   final_config = defaults | user_pref # user_pref overrides defaults) Tj
+T*
+(   print\(f"Merged Final Configuration: {final_config}"\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+(   - get\(\) / setdefault\(\): O\(1\) average lookup/insert.) Tj
+T*
+(   - Dictionary Comprehension: O\(N\) linear time.) Tj
+T*
+(   - Space Complexity: O\(N\) memory for created dictionary.) Tj
+T*
+ET
+
+endstream
+endobj
+45 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 46 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+46 0 obj
+<< /Length 3394 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 3: STRINGS, LISTS, TUPLES AND DICTIONARIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 22 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 11:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Sparse Matrices. Compare traditional 2D nested list representation with Dictionary of Keys \(DOK\) in memory footprint and retrieval efficiency.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Theoretical Principles of Sparse Matrices:) Tj
+T*
+(   A sparse matrix is a matrix in which the overwhelming majority of elements are zero.) Tj
+T*
+(   In scientific computing, graph adjacency matrices, and machine learning recommendation engines,) Tj
+T*
+(   matrices often exceed 1,000,000 x 1,000,000 in dimensions, with < 0.01% non-zero entries.) Tj
+T*
+() Tj
+T*
+(   2. Traditional 2D Nested List vs Dictionary of Keys \(DOK\):) Tj
+T*
+(   - Traditional 2D List \(Dense\): Allocates memory for every single cell \(including all zeros\). An) Tj
+T*
+(   N x N matrix requires O\(N^2\) memory. For N = 100,000, storing 10 billion elements causes) Tj
+T*
+(   Out-Of-Memory \(OOM\) crashes.) Tj
+T*
+(   - Dictionary of Keys \(DOK\): Stores ONLY the non-zero elements, mapping coordinate tuples \(row,) Tj
+T*
+(   col\) to values: {\(r, c\): value}.) Tj
+T*
+(   Memory complexity drops to O\(K\) where K is the number of non-zero entries \(K << N^2\).) Tj
+T*
+(   Missing keys implicitly represent 0.0, retrieved in O\(1\) time via dok.get\(\(r, c\), 0.0\).) Tj
+T*
+() Tj
+T*
+(   3. Python Implementation:) Tj
+T*
+(   class SparseMatrixDOK:) Tj
+T*
+(   def __init__\(self, num_rows: int, num_cols: int\):) Tj
+T*
+(   self.rows = num_rows) Tj
+T*
+(   self.cols = num_cols) Tj
+T*
+(   self._data = {} # Dictionary of Keys) Tj
+T*
+() Tj
+T*
+(   def set\(self, r: int, c: int, value: float\):) Tj
+T*
+(   if not \(0 <= r < self.rows and 0 <= c < self.cols\):) Tj
+T*
+(   raise IndexError\("Matrix coordinate out of bounds."\)) Tj
+T*
+(   if value != 0:) Tj
+T*
+(   self._data[\(r, c\)] = value) Tj
+T*
+(   elif \(r, c\) in self._data:) Tj
+T*
+(   del self._data[\(r, c\)] # Remove zero entries to conserve memory) Tj
+T*
+() Tj
+T*
+(   def get\(self, r: int, c: int\) -> float:) Tj
+T*
+(   return self._data.get\(\(r, c\), 0.0\)) Tj
+T*
+() Tj
+T*
+(   def non_zero_count\(self\) -> int:) Tj
+T*
+(   return len\(self._data\)) Tj
+T*
+() Tj
+T*
+(   # Demonstration with large virtual matrix \(10,000 x 10,000\)) Tj
+T*
+(   sparse_mat = SparseMatrixDOK\(10_000, 10_000\)) Tj
+T*
+(   sparse_mat.set\(42, 108, 3.14159\)) Tj
+T*
+(   sparse_mat.set\(999, 5000, 42.0\)) Tj
+T*
+() Tj
+T*
+(   print\(f"Virtual Matrix Dimensions: {sparse_mat.rows} x {sparse_mat.cols} \(100 Million Cells!\)"\)) Tj
+T*
+(   print\(f"Actually Stored Non-Zero Entries: {sparse_mat.non_zero_count\(\)} entries"\)) Tj
+T*
+(   print\(f"Element at \(42, 108\): {sparse_mat.get\(42, 108\)}"\)) Tj
+T*
+(   print\(f"Element at \(0, 0\) [Zero]: {sparse_mat.get\(0, 0\)}"\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+(   - Dense List Space: O\(R * C\).) Tj
+T*
+(   - Sparse DOK Space: O\(K\) where K is non-zero elements.) Tj
+T*
+ET
+
+endstream
+endobj
+47 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 48 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+48 0 obj
+<< /Length 3195 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 3: STRINGS, LISTS, TUPLES AND DICTIONARIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 23 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - Retrieval Time: O\(1\) average hash lookup.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 12:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Aliasing, Shallow Copy, and Deep Copy in Python. Analyze the copy module \(copy\(\) vs deepcopy\(\)\) with memory address diagrams and nested mutation traces.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Object References and Aliasing:) Tj
+T*
+(   In Python, assigning b = a does NOT copy the object; it merely creates an Alias - a second) Tj
+T*
+(   variable pointing to the exact same heap memory address \(id\(b\) == id\(a\)\).) Tj
+T*
+(   Mutating b modifies a simultaneously.) Tj
+T*
+() Tj
+T*
+(   2. Shallow Copy vs Deep Copy:) Tj
+T*
+(   - Shallow Copy \(copy.copy\(x\), list.copy\(\), or x[:]\): Creates a new outer container object, but) Tj
+T*
+(   populates it with references to the exact same nested child objects.) Tj
+T*
+(   Modifying a primitive element in the outer container does not affect the original, but mutating) Tj
+T*
+(   a nested child object DOES affect the original!) Tj
+T*
+(   - Deep Copy \(copy.deepcopy\(x\)\): Recursively creates a new outer container AND recursively) Tj
+T*
+(   clones all nested objects, lists, and dictionaries. The clone is 100% physically decoupled from) Tj
+T*
+(   the original.) Tj
+T*
+() Tj
+T*
+(   3. Python Code Demonstration:) Tj
+T*
+(   import copy) Tj
+T*
+() Tj
+T*
+(   # Original nested list) Tj
+T*
+(   original = [[1, 2], [3, 4]]) Tj
+T*
+() Tj
+T*
+(   # 1. Aliasing) Tj
+T*
+(   alias = original) Tj
+T*
+() Tj
+T*
+(   # 2. Shallow Copy) Tj
+T*
+(   shallow = copy.copy\(original\)) Tj
+T*
+() Tj
+T*
+(   # 3. Deep Copy) Tj
+T*
+(   deep = copy.deepcopy\(original\)) Tj
+T*
+() Tj
+T*
+(   # Perform mutations) Tj
+T*
+(   original.append\([5, 6]\) # Mutates top-level list) Tj
+T*
+(   original[0][0] = 999 # Mutates nested child list) Tj
+T*
+() Tj
+T*
+(   print\("--- State After Mutations ---"\)) Tj
+T*
+(   print\(f"Original: {original} \(id: {id\(original\)}\)"\)) Tj
+T*
+(   print\(f"Alias: {alias} \(Tracks ALL changes; id: {id\(alias\)}\)"\)) Tj
+T*
+(   print\(f"Shallow: {shallow} \(Outer unaffected, but nested [0][0] was mutated!\)"\)) Tj
+T*
+(   print\(f"Deep: {deep} \(Completely isolated; zero mutations!\)"\)) Tj
+T*
+() Tj
+T*
+(   4. Memory Model Diagram:) Tj
+T*
+(   Original -> Heap 0x1000 [ ptr -> 0x2000 [1, 2], ptr -> 0x3000 [3, 4] ]) Tj
+T*
+(   Shallow -> Heap 0x4000 [ ptr -> 0x2000 [1, 2], ptr -> 0x3000 [3, 4] ] \(Shared children!\)) Tj
+T*
+(   Deep -> Heap 0x5000 [ ptr -> 0x6000 [1, 2], ptr -> 0x7000 [3, 4] ] \(Cloned children!\)) Tj
+T*
+() Tj
+T*
+(   5. Complexity Analysis:) Tj
+T*
+(   - Shallow Copy Time: O\(N\) outer elements copy.) Tj
+T*
+(   - Deep Copy Time: O\(Total Nodes\) recursive graph traversal with memoization table.) Tj
+T*
+ET
+
+endstream
+endobj
+49 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 50 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+50 0 obj
+<< /Length 2903 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 3: STRINGS, LISTS, TUPLES AND DICTIONARIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 24 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 13:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement a Text Analytics & Word Frequency Counter in Python using strings, lists, dictionaries, and collections.Counter with punctuation stripping.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Context:) Tj
+T*
+(   Develop a text analytics program that takes a block of raw prose, sanitizes it \(converts to) Tj
+T*
+(   lowercase, removes punctuation\), computes word frequencies, finds the top K most common words,) Tj
+T*
+(   and calculates average word length.) Tj
+T*
+() Tj
+T*
+(   2. Python Implementation:) Tj
+T*
+(   import string) Tj
+T*
+(   from collections import Counter) Tj
+T*
+() Tj
+T*
+(   class TextAnalyticsEngine:) Tj
+T*
+(   def __init__\(self, raw_text: str\):) Tj
+T*
+(   self.raw_text = raw_text) Tj
+T*
+(   self.tokens = self._tokenize\(\)) Tj
+T*
+() Tj
+T*
+(   def _tokenize\(self\) -> list:) Tj
+T*
+(   # Translation table to remove punctuation) Tj
+T*
+(   translator = str.maketrans\('', '', string.punctuation\)) Tj
+T*
+(   clean_text = self.raw_text.translate\(translator\).lower\(\)) Tj
+T*
+(   return clean_text.split\(\)) Tj
+T*
+() Tj
+T*
+(   def get_word_frequencies\(self\) -> dict:) Tj
+T*
+(   freq = {}) Tj
+T*
+(   for w in self.tokens:) Tj
+T*
+(   freq[w] = freq.get\(w, 0\) + 1) Tj
+T*
+(   return freq) Tj
+T*
+() Tj
+T*
+(   def top_k_words\(self, k=3\) -> list:) Tj
+T*
+(   counts = Counter\(self.tokens\)) Tj
+T*
+(   return counts.most_common\(k\)) Tj
+T*
+() Tj
+T*
+(   def average_word_length\(self\) -> float:) Tj
+T*
+(   if not self.tokens:) Tj
+T*
+(   return 0.0) Tj
+T*
+(   total_chars = sum\(len\(w\) for w in self.tokens\)) Tj
+T*
+(   return round\(total_chars / len\(self.tokens\), 2\)) Tj
+T*
+() Tj
+T*
+(   # Verification) Tj
+T*
+(   prose = """Python is an interpreted, high-level, general-purpose programming language.) Tj
+T*
+(   Python's design philosophy emphasizes code readability. Python is dynamically typed.""") Tj
+T*
+() Tj
+T*
+(   engine = TextAnalyticsEngine\(prose\)) Tj
+T*
+(   print\(f"Total Words Processed: {len\(engine.tokens\)}"\)) Tj
+T*
+(   print\(f"Average Word Length: {engine.average_word_length\(\)} characters"\)) Tj
+T*
+(   print\(f"Top 3 Most Frequent Words: {engine.top_k_words\(3\)}"\)) Tj
+T*
+(   print\(f"Vocabulary Size: {len\(engine.get_word_frequencies\(\)\)} unique words"\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Tokenization Time Complexity: O\(N\) where N is character count.) Tj
+T*
+ET
+
+endstream
+endobj
+51 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 52 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+52 0 obj
+<< /Length 3140 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 3: STRINGS, LISTS, TUPLES AND DICTIONARIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 25 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - Frequency Counting: O\(W\) where W is word count.) Tj
+T*
+(   - Top K Extraction: O\(W log K\) using min-heap inside Counter.most_common\(\).) Tj
+T*
+(   - Space Complexity: O\(W\) memory for token list and frequency map.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 14:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement a Student Gradebook Management System in Python using nested dictionaries, calculating per-student weighted GPAs and class statistics.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Context:) Tj
+T*
+(   Design a student record system where each student is keyed by Student ID. Each student contains) Tj
+T*
+(   demographic data and a dictionary of enrolled courses with credits and letter grades. The) Tj
+T*
+(   program computes individual cumulative GPA \(on a 4.0 scale\) and identifies class toppers.) Tj
+T*
+() Tj
+T*
+(   2. Grade Mapping:) Tj
+T*
+(   Letter grades correspond to grade points:) Tj
+T*
+(   'A': 4.0, 'B': 3.0, 'C': 2.0, 'D': 1.0, 'F': 0.0.) Tj
+T*
+(   GPA = Sum\(Grade_Points * Credits\) / Sum\(Credits\).) Tj
+T*
+() Tj
+T*
+(   3. Python Implementation:) Tj
+T*
+(   class GradebookSystem:) Tj
+T*
+(   GRADE_SCALE = {'A': 4.0, 'B': 3.0, 'C': 2.0, 'D': 1.0, 'F': 0.0}) Tj
+T*
+() Tj
+T*
+(   def __init__\(self\):) Tj
+T*
+(   self.students = {}) Tj
+T*
+() Tj
+T*
+(   def add_student\(self, student_id: str, name: str\):) Tj
+T*
+(   self.students[student_id] = {"name": name, "courses": {}}) Tj
+T*
+() Tj
+T*
+(   def add_course_grade\(self, student_id: str, course_code: str, credits: int, grade: str\):) Tj
+T*
+(   if student_id not in self.students:) Tj
+T*
+(   raise KeyError\(f"Student {student_id} not found."\)) Tj
+T*
+(   self.students[student_id]["courses"][course_code] = {"credits": credits, "grade":) Tj
+T*
+(   grade.upper\(\)}) Tj
+T*
+() Tj
+T*
+(   def calculate_gpa\(self, student_id: str\) -> float:) Tj
+T*
+(   courses = self.students[student_id]["courses"]) Tj
+T*
+(   if not courses:) Tj
+T*
+(   return 0.0) Tj
+T*
+(   total_points = sum\(self.GRADE_SCALE[c["grade"]] * c["credits"] for c in courses.values\(\)\)) Tj
+T*
+(   total_credits = sum\(c["credits"] for c in courses.values\(\)\)) Tj
+T*
+(   return round\(total_points / total_credits, 2\)) Tj
+T*
+() Tj
+T*
+(   def display_report\(self\):) Tj
+T*
+(   print\("=" * 65\)) Tj
+T*
+(   print\(f"{'ID':<10}{'Name':<20}{'Courses Taken':<18}{'Cumulative GPA':<15}"\)) Tj
+T*
+(   print\("-" * 65\)) Tj
+T*
+(   for s_id, data in self.students.items\(\):) Tj
+T*
+(   gpa = self.calculate_gpa\(s_id\)) Tj
+T*
+(   print\(f"{s_id:<10}{data['name']:<20}{len\(data['courses']\):<18}{gpa:<15}"\)) Tj
+T*
+(   print\("=" * 65\)) Tj
+T*
+() Tj
+T*
+(   # Verification) Tj
+T*
+(   gb = GradebookSystem\(\)) Tj
+T*
+ET
+
+endstream
+endobj
+53 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 54 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+54 0 obj
+<< /Length 2758 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 3: STRINGS, LISTS, TUPLES AND DICTIONARIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 26 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   gb.add_student\("CS101", "Aarav Sharma"\)) Tj
+T*
+(   gb.add_course_grade\("CS101", "CS101", credits=4, grade="A"\)) Tj
+T*
+(   gb.add_course_grade\("CS101", "MA101", credits=4, grade="B"\)) Tj
+T*
+() Tj
+T*
+(   gb.add_student\("CS102", "Priya Patel"\)) Tj
+T*
+(   gb.add_course_grade\("CS102", "CS101", credits=4, grade="A"\)) Tj
+T*
+(   gb.add_course_grade\("CS102", "MA101", credits=4, grade="A"\)) Tj
+T*
+() Tj
+T*
+(   gb.display_report\(\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(1\) student/course insertion; O\(C\) GPA calculation per student.) Tj
+T*
+(   - Space Complexity: O\(S * C\) nested dictionary memory.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 15:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement Matrix Multiplication in Python using nested lists and nested loops, validating inner matrix dimension compatibility.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Mathematical Formulation:) Tj
+T*
+(   Let A be an \(M x K\) matrix and B be a \(K x N\) matrix:) Tj
+T*
+(   Matrix multiplication C = A x B is valid if and only if:) Tj
+T*
+(   Number of Columns in A == Number of Rows in B \(Inner Dimension Match = K\).) Tj
+T*
+(   The resulting product matrix C has dimensions \(M x N\) where:) Tj
+T*
+(   C[i][j] = Sum_{p=0}^{K-1} A[i][p] * B[p][j].) Tj
+T*
+() Tj
+T*
+(   2. Python Implementation:) Tj
+T*
+(   def multiply_matrices_checked\(A: list, B: list\) -> list:) Tj
+T*
+(   rows_A = len\(A\)) Tj
+T*
+(   cols_A = len\(A[0]\)) Tj
+T*
+(   rows_B = len\(B\)) Tj
+T*
+(   cols_B = len\(B[0]\)) Tj
+T*
+() Tj
+T*
+(   # Validation check) Tj
+T*
+(   if cols_A != rows_B:) Tj
+T*
+(   raise ValueError\(f"Dimension Mismatch: Cannot multiply \({rows_A}x{cols_A}\) with) Tj
+T*
+(   \({rows_B}x{cols_B}\)."\)) Tj
+T*
+() Tj
+T*
+(   # Pre-allocate result matrix of size rows_A x cols_B with zeros) Tj
+T*
+(   C = [[0 for _ in range\(cols_B\)] for _ in range\(rows_A\)]) Tj
+T*
+() Tj
+T*
+(   # Triple nested loop evaluation) Tj
+T*
+(   for i in range\(rows_A\):) Tj
+T*
+(   for j in range\(cols_B\):) Tj
+T*
+(   dot_product = 0) Tj
+T*
+(   for p in range\(cols_A\):) Tj
+T*
+(   dot_product += A[i][p] * B[p][j]) Tj
+T*
+(   C[i][j] = dot_product) Tj
+T*
+() Tj
+T*
+(   return C) Tj
+T*
+() Tj
+T*
+(   # Demonstration) Tj
+T*
+(   matA = [[1, 2, 3],) Tj
+T*
+(   [4, 5, 6]] # 2 x 3) Tj
+T*
+ET
+
+endstream
+endobj
+55 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 56 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+56 0 obj
+<< /Length 2960 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 3: STRINGS, LISTS, TUPLES AND DICTIONARIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 27 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   matB = [[7, 8],) Tj
+T*
+(   [9, 1],) Tj
+T*
+(   [2, 3]] # 3 x 2) Tj
+T*
+() Tj
+T*
+(   product = multiply_matrices_checked\(matA, matB\)) Tj
+T*
+(   print\(f"Matrix A \(2x3\) x Matrix B \(3x2\) = Product \(2x2\):"\)) Tj
+T*
+(   for r in product:) Tj
+T*
+(   print\(" ", r\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(M * K * N\) arithmetic multiplications and additions.) Tj
+T*
+(   - Space Complexity: O\(M * N\) memory for product matrix C.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 16:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the collections.namedtuple factory in Python. Compare namedtuple with standard tuples, dictionaries, and classes in syntax and memory overhead.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Theoretical Motivation for namedtuple:) Tj
+T*
+(   Standard tuples are memory efficient and immutable, but accessing fields via numeric indices) Tj
+T*
+(   \(t[0], t[1]\) leads to unreadable, brittle code.) Tj
+T*
+(   Dictionaries provide named fields \(d['x']\), but incur high hash table memory overhead \(~240) Tj
+T*
+(   bytes\) and are mutable.) Tj
+T*
+(   collections.namedtuple is a factory function that produces a memory-efficient, immutable tuple) Tj
+T*
+(   subclass where fields are accessible by both attribute name \(p.x\) and index \(p[0]\)!) Tj
+T*
+() Tj
+T*
+(   2. Memory & Feature Comparison:) Tj
+T*
+(   - Standard Tuple: O\(1\) memory \(~48 bytes\), index access only.) Tj
+T*
+(   - namedtuple: O\(1\) memory \(~48 bytes, exact same as tuple!\), attribute & index access,) Tj
+T*
+(   immutable.) Tj
+T*
+(   - Dictionary: High memory overhead \(~240 bytes\), key lookup, mutable.) Tj
+T*
+(   - Standard Class: High memory overhead due to instance __dict__ \(~152 bytes\) unless using) Tj
+T*
+(   __slots__.) Tj
+T*
+() Tj
+T*
+(   3. Python Code Demonstration:) Tj
+T*
+(   import sys) Tj
+T*
+(   from collections import namedtuple) Tj
+T*
+() Tj
+T*
+(   # Define namedtuple type) Tj
+T*
+(   Point = namedtuple\('Point', ['x', 'y', 'z']\)) Tj
+T*
+() Tj
+T*
+(   p1 = Point\(x=10.5, y=20.0, z=-5.2\)) Tj
+T*
+() Tj
+T*
+(   # Access by name and index) Tj
+T*
+(   print\(f"Point: {p1}"\)) Tj
+T*
+(   print\(f"Access by Attribute Name: p1.x = {p1.x}, p1.y = {p1.y}"\)) Tj
+T*
+(   print\(f"Access by Tuple Index: p1[0] = {p1[0]}, p1[1] = {p1[1]}"\)) Tj
+T*
+() Tj
+T*
+(   # Conversion to dictionary) Tj
+T*
+(   p_dict = p1._asdict\(\)) Tj
+T*
+(   print\(f"Converted to Dict via _asdict\(\): {p_dict}"\)) Tj
+T*
+() Tj
+T*
+(   # Memory benchmark) Tj
+T*
+ET
+
+endstream
+endobj
+57 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 58 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+58 0 obj
+<< /Length 2984 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 3: STRINGS, LISTS, TUPLES AND DICTIONARIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 28 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   raw_tuple = \(10.5, 20.0, -5.2\)) Tj
+T*
+(   raw_dict = {'x': 10.5, 'y': 20.0, 'z': -5.2}) Tj
+T*
+() Tj
+T*
+(   print\(f"\\nMemory Size of namedtuple: {sys.getsizeof\(p1\)} bytes"\)) Tj
+T*
+(   print\(f"Memory Size of raw tuple: {sys.getsizeof\(raw_tuple\)} bytes \(Exact same!\)"\)) Tj
+T*
+(   print\(f"Memory Size of dictionary: {sys.getsizeof\(raw_dict\)} bytes \(5x larger!\)"\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+(   - Field Access Time: O\(1\) direct struct offset lookup.) Tj
+T*
+(   - Space Complexity: O\(1\) strictly minimal tuple allocation.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 17:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement a Two-Sum Algorithm in Python using Hash Maps \(Dictionaries\) to achieve O\(N\) linear time complexity versus O\(N^2\) brute force.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Context:) Tj
+T*
+(   Given an array of integers nums and an integer target, return indices of the two numbers such) Tj
+T*
+(   that they add up to target. Each input has exactly one solution, and you may not use the same) Tj
+T*
+(   element twice.) Tj
+T*
+() Tj
+T*
+(   2. Algorithmic Trade-off:) Tj
+T*
+(   - Brute Force Approach: Nested loops testing every pair \(i, j\).) Tj
+T*
+(   Time Complexity: O\(N^2\), Space: O\(1\). Unacceptable for N = 100,000.) Tj
+T*
+(   - Hash Map Approach \(One-Pass\):) Tj
+T*
+(   As we iterate through the list with index i and value num:) Tj
+T*
+(   Calculate complement: complement = target - num.) Tj
+T*
+(   If complement exists in seen_map: return \(seen_map[complement], i\).) Tj
+T*
+(   Else: insert seen_map[num] = i.) Tj
+T*
+(   Time Complexity: O\(N\), Space: O\(N\).) Tj
+T*
+() Tj
+T*
+(   3. Python Implementation:) Tj
+T*
+(   def two_sum_hash_map\(nums: list, target: int\) -> tuple:) Tj
+T*
+(   seen = {} # Maps number_value -> index) Tj
+T*
+() Tj
+T*
+(   for idx, num in enumerate\(nums\):) Tj
+T*
+(   complement = target - num) Tj
+T*
+(   if complement in seen:) Tj
+T*
+(   return \(seen[complement], idx\)) Tj
+T*
+(   seen[num] = idx) Tj
+T*
+() Tj
+T*
+(   return \(\)) Tj
+T*
+() Tj
+T*
+(   # Verification) Tj
+T*
+(   dataset = [2, 7, 11, 15]) Tj
+T*
+(   target_val = 9) Tj
+T*
+(   result_indices = two_sum_hash_map\(dataset, target_val\)) Tj
+T*
+() Tj
+T*
+(   print\(f"Array: {dataset} | Target: {target_val}"\)) Tj
+T*
+(   print\(f"Solution Indices: {result_indices}"\)) Tj
+T*
+(   print\(f"Verification: {dataset[result_indices[0]]} + {dataset[result_indices[1]]} =) Tj
+T*
+(   {target_val}"\)) Tj
+T*
+() Tj
+T*
+(   4. Memory Model Trace:) Tj
+T*
+ET
+
+endstream
+endobj
+59 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 60 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+60 0 obj
+<< /Length 2875 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 3: STRINGS, LISTS, TUPLES AND DICTIONARIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 29 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - Iteration 0: num=2, comp=7. seen={2: 0}) Tj
+T*
+(   - Iteration 1: num=7, comp=2. 2 is found in seen! Return \(seen[2], 1\) = \(0, 1\).) Tj
+T*
+() Tj
+T*
+(   5. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(N\) single linear pass with O\(1\) hash table lookups.) Tj
+T*
+(   - Space Complexity: O\(N\) auxiliary space to store seen hash map.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 18:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement an LRU \(Least Recently Used\) Cache simulation in Python using OrderedDict or dictionaries with move_to_end\(\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Theoretical Principles of LRU Cache:) Tj
+T*
+(   An LRU Cache is a bounded associative cache that evicts the least recently accessed item when) Tj
+T*
+(   capacity is exceeded.) Tj
+T*
+(   Both get\(\) and put\(\) must operate in O\(1\) time complexity.) Tj
+T*
+(   In Python 3.7+, standard dictionaries preserve insertion order. The collections.OrderedDict) Tj
+T*
+(   provides an explicit move_to_end\(key\) method to refresh item recency in O\(1\) time.) Tj
+T*
+() Tj
+T*
+(   2. Python Implementation:) Tj
+T*
+(   from collections import OrderedDict) Tj
+T*
+() Tj
+T*
+(   class LRUCache:) Tj
+T*
+(   def __init__\(self, capacity: int\):) Tj
+T*
+(   self.capacity = capacity) Tj
+T*
+(   self.cache = OrderedDict\(\)) Tj
+T*
+() Tj
+T*
+(   def get\(self, key: int\) -> int:) Tj
+T*
+(   if key not in self.cache:) Tj
+T*
+(   return -1) Tj
+T*
+(   # Refresh recency: move accessed item to end) Tj
+T*
+(   self.cache.move_to_end\(key\)) Tj
+T*
+(   return self.cache[key]) Tj
+T*
+() Tj
+T*
+(   def put\(self, key: int, value: int\):) Tj
+T*
+(   if key in self.cache:) Tj
+T*
+(   self.cache.move_to_end\(key\)) Tj
+T*
+(   self.cache[key] = value) Tj
+T*
+(   if len\(self.cache\) > self.capacity:) Tj
+T*
+(   # Evict least recently used \(first item in FIFO order\)) Tj
+T*
+(   oldest_key, _ = self.cache.popitem\(last=False\)) Tj
+T*
+(   print\(f" [EVICTION] Capacity exceeded. Evicted key: {oldest_key}"\)) Tj
+T*
+() Tj
+T*
+(   def display\(self\):) Tj
+T*
+(   print\(f"Current Cache State \(Oldest -> Newest\): {list\(self.cache.items\(\)\)}"\)) Tj
+T*
+() Tj
+T*
+(   # Demonstration) Tj
+T*
+(   lru = LRUCache\(capacity=2\)) Tj
+T*
+(   print\("Initialized LRU Cache with capacity=2"\)) Tj
+T*
+(   lru.put\(1, 10\)) Tj
+T*
+(   lru.put\(2, 20\)) Tj
+T*
+(   lru.display\(\)) Tj
+T*
+() Tj
+T*
+(   print\(f"Access key 1: {lru.get\(1\)}"\)) Tj
+T*
+ET
+
+endstream
+endobj
+61 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 62 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+62 0 obj
+<< /Length 2949 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 3: STRINGS, LISTS, TUPLES AND DICTIONARIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 30 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   lru.display\(\) # Key 1 is now most recent; Key 2 is oldest) Tj
+T*
+() Tj
+T*
+(   lru.put\(3, 30\) # Evicts Key 2!) Tj
+T*
+(   lru.display\(\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(1\) for both get\(\) and put\(\) operations.) Tj
+T*
+(   - Space Complexity: O\(capacity\) memory bound.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 19:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Design an Anagram Grouping program in Python using dictionaries, sorted string keys, or character frequency tuples.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Context:) Tj
+T*
+(   Given an array of strings, group all anagrams together into sublists.) Tj
+T*
+(   Two strings are anagrams if they contain the identical multiset of characters with identical) Tj
+T*
+(   frequencies \(e.g., 'eat', 'tea', 'ate'\).) Tj
+T*
+() Tj
+T*
+(   2. Algorithmic Approaches:) Tj
+T*
+(   - Approach 1 \(Sorted Key\): Sort each word alphabetically \(sorted\('tea'\) -> 'aet'\). Use the) Tj
+T*
+(   sorted string as dictionary key: anagram_map['aet'].append\(word\).) Tj
+T*
+(   Time Complexity: O\(N * K log K\) where N is word count and K is max word length.) Tj
+T*
+(   - Approach 2 \(Character Frequency Tuple Key\): Count character frequencies \(size 26 tuple\) as) Tj
+T*
+(   dictionary key.) Tj
+T*
+(   Time Complexity: O\(N * K\).) Tj
+T*
+() Tj
+T*
+(   3. Python Implementation:) Tj
+T*
+(   from collections import defaultdict) Tj
+T*
+() Tj
+T*
+(   def group_anagrams_sorted_key\(words: list\) -> list:) Tj
+T*
+(   groups = defaultdict\(list\)) Tj
+T*
+(   for word in words:) Tj
+T*
+(   # Canonical signature key) Tj
+T*
+(   sorted_sig = "".join\(sorted\(word\)\)) Tj
+T*
+(   groups[sorted_sig].append\(word\)) Tj
+T*
+(   return list\(groups.values\(\)\)) Tj
+T*
+() Tj
+T*
+(   # Verification) Tj
+T*
+(   word_list = ["eat", "tea", "tan", "ate", "nat", "bat", "listen", "silent"]) Tj
+T*
+(   grouped = group_anagrams_sorted_key\(word_list\)) Tj
+T*
+() Tj
+T*
+(   print\("Original Words:", word_list\)) Tj
+T*
+(   print\("Grouped Anagrams:"\)) Tj
+T*
+(   for group in grouped:) Tj
+T*
+(   print\(" ", group\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(N * K log K\) where K is string length.) Tj
+T*
+(   - Space Complexity: O\(N * K\) memory for grouping dictionary.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 20:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+ET
+
+endstream
+endobj
+63 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 64 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+64 0 obj
+<< /Length 3331 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 3: STRINGS, LISTS, TUPLES AND DICTIONARIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 31 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   [Problem Statement]: Implement a Stack and Queue Data Structure in Python using list vs collections.deque. Benchmark pop\(0\) vs popleft\(\) performance.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Data Structure Mechanics:) Tj
+T*
+(   - Stack: Last-In-First-Out \(LIFO\). Supported natively by list via append\(\) \(push\) and pop\(\)) Tj
+T*
+(   \(pop\) in O\(1\) time.) Tj
+T*
+(   - Queue: First-In-First-Out \(FIFO\). Requires enqueue at one end and dequeue at opposite end.) Tj
+T*
+() Tj
+T*
+(   2. The Python List Pop\(0\) Performance Trap:) Tj
+T*
+(   In Python list, pop\(0\) removes the first pointer, forcing CPython to shift all remaining N - 1) Tj
+T*
+(   pointers in memory leftward via memmove\(\), incurring O\(N\) linear time overhead.) Tj
+T*
+(   Using a list as a queue leads to disastrous O\(N^2\) cumulative performance!) Tj
+T*
+(   collections.deque \(Double-Ended Queue\) is implemented as a doubly linked list of fixed-size) Tj
+T*
+(   memory blocks \(64 elements each\). Both append\(\) and popleft\(\) run in strictly O\(1\) time without) Tj
+T*
+(   pointer shifting!) Tj
+T*
+() Tj
+T*
+(   3. Python Code Demonstration & Micro-Benchmark:) Tj
+T*
+(   import time) Tj
+T*
+(   from collections import deque) Tj
+T*
+() Tj
+T*
+(   def benchmark_queue_performance\(n=50_000\):) Tj
+T*
+(   # Benchmark 1: list.pop\(0\) - O\(N\)) Tj
+T*
+(   lst_q = list\(range\(n\)\)) Tj
+T*
+(   start_t = time.perf_counter\(\)) Tj
+T*
+(   while lst_q:) Tj
+T*
+(   lst_q.pop\(0\)) Tj
+T*
+(   list_elapsed = time.perf_counter\(\) - start_t) Tj
+T*
+() Tj
+T*
+(   # Benchmark 2: deque.popleft\(\) - O\(1\)) Tj
+T*
+(   deq_q = deque\(range\(n\)\)) Tj
+T*
+(   start_t = time.perf_counter\(\)) Tj
+T*
+(   while deq_q:) Tj
+T*
+(   deq_q.popleft\(\)) Tj
+T*
+(   deque_elapsed = time.perf_counter\(\) - start_t) Tj
+T*
+() Tj
+T*
+(   print\(f"Benchmark: Dequeuing {n:,} items:"\)) Tj
+T*
+(   print\(f" list.pop\(0\) [O\(N\)] Time: {list_elapsed:.4f} seconds"\)) Tj
+T*
+(   print\(f" deque.popleft\(\) [O\(1\)] Time: {deque_elapsed:.6f} seconds"\)) Tj
+T*
+(   print\(f" Speedup Factor: {list_elapsed / deque_elapsed:.1f}x faster!"\)) Tj
+T*
+() Tj
+T*
+(   benchmark_queue_performance\(30_000\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+(   - list.pop\(0\) Time Complexity: O\(N\).) Tj
+T*
+(   - deque.popleft\(\) Time Complexity: O\(1\).) Tj
+T*
+(   - Space Complexity: O\(N\) memory allocation.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 21:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement the Sieve of Eratosthenes in Python using boolean lists and list indexing to compute all prime numbers up to N efficiently.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Algorithmic Principles:) Tj
+T*
+(   The Sieve of Eratosthenes generates all prime numbers up to an integer N:) Tj
+T*
+(   1. Initialize a boolean list is_prime of size N + 1 with True; set is_prime[0] = is_prime[1] =) Tj
+T*
+ET
+
+endstream
+endobj
+65 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 66 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+66 0 obj
+<< /Length 2913 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 3: STRINGS, LISTS, TUPLES AND DICTIONARIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 32 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   False.) Tj
+T*
+(   2. For p = 2 up to floor\(sqrt\(N\)\):) Tj
+T*
+(   If is_prime[p] is True, mark all multiples of p starting from p^2 up to N as False:) Tj
+T*
+(   for i in range\(p * p, N + 1, p\): is_prime[i] = False.) Tj
+T*
+(   3. Collect all indices where is_prime[i] is True.) Tj
+T*
+() Tj
+T*
+(   2. Python Implementation:) Tj
+T*
+(   def generate_primes_sieve\(limit: int\) -> list:) Tj
+T*
+(   """Compute primes up to limit using Sieve of Eratosthenes.""") Tj
+T*
+(   if limit < 2:) Tj
+T*
+(   return []) Tj
+T*
+() Tj
+T*
+(   is_prime = [True] * \(limit + 1\)) Tj
+T*
+(   is_prime[0] = is_prime[1] = False) Tj
+T*
+() Tj
+T*
+(   # Check up to sqrt\(limit\)) Tj
+T*
+(   for p in range\(2, int\(limit ** 0.5\) + 1\):) Tj
+T*
+(   if is_prime[p]:) Tj
+T*
+(   # Slice assignment or strided range loop) Tj
+T*
+(   for multiple in range\(p * p, limit + 1, p\):) Tj
+T*
+(   is_prime[multiple] = False) Tj
+T*
+() Tj
+T*
+(   # List comprehension to collect primes) Tj
+T*
+(   primes = [num for num, prime_flag in enumerate\(is_prime\) if prime_flag]) Tj
+T*
+(   return primes) Tj
+T*
+() Tj
+T*
+(   # Verification) Tj
+T*
+(   prime_list = generate_primes_sieve\(100\)) Tj
+T*
+(   print\(f"Primes up to 100 \({len\(prime_list\)} primes found\):"\)) Tj
+T*
+(   print\(prime_list\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(N log\(log N\)\) harmonic prime series convergence.) Tj
+T*
+(   - Space Complexity: O\(N\) boolean flags in memory.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 22:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement a JSON-Style Nested Data Parser and Flattener in Python using dictionaries, recursive traversal, and key concatenation.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Context:) Tj
+T*
+(   Modern web APIs return hierarchical JSON objects with arbitrarily deep nesting. Flattening) Tj
+T*
+(   translates nested dictionaries into a single flat dictionary with period-separated keys \(e.g.,) Tj
+T*
+(   {'user': {'address': {'city': 'Bengaluru'}}} -> {'user.address.city': 'Bengaluru'}\).) Tj
+T*
+() Tj
+T*
+(   2. Python Implementation:) Tj
+T*
+(   def flatten_dictionary\(nested_dict: dict, parent_key='', sep='.'\) -> dict:) Tj
+T*
+(   """Recursively flatten nested dictionaries into dotted keys.""") Tj
+T*
+(   items = []) Tj
+T*
+() Tj
+T*
+(   for k, v in nested_dict.items\(\):) Tj
+T*
+(   new_key = f"{parent_key}{sep}{k}" if parent_key else str\(k\)) Tj
+T*
+() Tj
+T*
+(   if isinstance\(v, dict\):) Tj
+T*
+ET
+
+endstream
+endobj
+67 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 68 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+68 0 obj
+<< /Length 2683 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 3: STRINGS, LISTS, TUPLES AND DICTIONARIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 33 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   # Recursively flatten inner dictionary) Tj
+T*
+(   items.extend\(flatten_dictionary\(v, new_key, sep=sep\).items\(\)\)) Tj
+T*
+(   elif isinstance\(v, list\):) Tj
+T*
+(   # Flatten lists with index annotations) Tj
+T*
+(   for idx, elem in enumerate\(v\):) Tj
+T*
+(   list_key = f"{new_key}[{idx}]") Tj
+T*
+(   if isinstance\(elem, dict\):) Tj
+T*
+(   items.extend\(flatten_dictionary\(elem, list_key, sep=sep\).items\(\)\)) Tj
+T*
+(   else:) Tj
+T*
+(   items.append\(\(list_key, elem\)\)) Tj
+T*
+(   else:) Tj
+T*
+(   items.append\(\(new_key, v\)\)) Tj
+T*
+() Tj
+T*
+(   return dict\(items\)) Tj
+T*
+() Tj
+T*
+(   # Verification) Tj
+T*
+(   raw_json = {) Tj
+T*
+(   "server": "prod-east-1",) Tj
+T*
+(   "database": {) Tj
+T*
+(   "host": "10.0.0.1",) Tj
+T*
+(   "port": 5432,) Tj
+T*
+(   "credentials": {) Tj
+T*
+(   "username": "db_admin",) Tj
+T*
+(   "ssl_enabled": True) Tj
+T*
+(   }) Tj
+T*
+(   },) Tj
+T*
+(   "tags": ["web", "finance"]) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   flat = flatten_dictionary\(raw_json\)) Tj
+T*
+(   print\("Flattened Dictionary Keys & Values:"\)) Tj
+T*
+(   for k, v in flat.items\(\):) Tj
+T*
+(   print\(f" {k:<35} -> {v}"\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(Total Key-Value Nodes\) single traversal.) Tj
+T*
+(   - Space Complexity: O\(Depth\) call stack + O\(Nodes\) flattened dictionary.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 23:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement a Longest Common Prefix \(LCP\) algorithm in Python across an array of strings using character-by-character vertical scanning and zip\(\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Theoretical Formulation of Longest Common Prefix:) Tj
+T*
+(   Given an array of strings strs = ['flower', 'flow', 'flight'], find the longest common prefix) Tj
+T*
+(   string shared across all strings \('fl'\).) Tj
+T*
+(   Vertical Scanning Algorithm:) Tj
+T*
+(   Compare characters column by column: index 0 across all strings, then index 1, etc.) Tj
+T*
+(   Iteration halts at the first column where characters differ or a string ends.) Tj
+T*
+() Tj
+T*
+(   2. Python Implementation:) Tj
+T*
+(   def longest_common_prefix_vertical\(strs: list\) -> str:) Tj
+T*
+(   if not strs:) Tj
+T*
+(   return "") Tj
+T*
+ET
+
+endstream
+endobj
+69 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 70 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+70 0 obj
+<< /Length 2884 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 3: STRINGS, LISTS, TUPLES AND DICTIONARIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 34 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   if len\(strs\) == 1:) Tj
+T*
+(   return strs[0]) Tj
+T*
+() Tj
+T*
+(   # Vertical scanning via zip\(*strs\)) Tj
+T*
+(   prefix = []) Tj
+T*
+(   for char_tuple in zip\(*strs\):) Tj
+T*
+(   # If all characters in the column are identical) Tj
+T*
+(   if len\(set\(char_tuple\)\) == 1:) Tj
+T*
+(   prefix.append\(char_tuple[0]\)) Tj
+T*
+(   else:) Tj
+T*
+(   break) Tj
+T*
+() Tj
+T*
+(   return "".join\(prefix\)) Tj
+T*
+() Tj
+T*
+(   # Verification) Tj
+T*
+(   test1 = ["interspecies", "interstellar", "interstate"]) Tj
+T*
+(   test2 = ["throne", "dungeon"]) Tj
+T*
+(   test3 = ["prefix", "preheat", "preview"]) Tj
+T*
+() Tj
+T*
+(   print\(f"LCP of {test1} -> '{longest_common_prefix_vertical\(test1\)}'"\)) Tj
+T*
+(   print\(f"LCP of {test2} -> '{longest_common_prefix_vertical\(test2\)}'"\)) Tj
+T*
+(   print\(f"LCP of {test3} -> '{longest_common_prefix_vertical\(test3\)}'"\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(S\) where S is sum of characters across all strings \(best case O\(M *) Tj
+T*
+(   min_len\)\).) Tj
+T*
+(   - Space Complexity: O\(min_len\) memory for prefix buffer.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 24:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the collections.defaultdict type. Contrast standard dict.setdefault\(\) with defaultdict and demonstrate grouping applications.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Motivation for defaultdict:) Tj
+T*
+(   When building grouping dictionaries \(e.g., mapping category -> list of items\), standard) Tj
+T*
+(   dictionaries raise a KeyError if a key has not yet been initialized.) Tj
+T*
+(   Developers must write defensive code:) Tj
+T*
+(   if key not in d: d[key] = []) Tj
+T*
+(   d[key].append\(item\)) Tj
+T*
+(   or use d.setdefault\(key, []\).append\(item\), which constructs an empty list on every call) Tj
+T*
+(   regardless of necessity.) Tj
+T*
+(   collections.defaultdict\(default_factory\) automatically calls the default_factory callable) Tj
+T*
+(   \(e.g., list, int, set\) to instantiate and store a default value on the very first access of any) Tj
+T*
+(   missing key!) Tj
+T*
+() Tj
+T*
+(   2. Python Code Demonstration:) Tj
+T*
+(   from collections import defaultdict) Tj
+T*
+() Tj
+T*
+(   # 1. Grouping Employees by Department) Tj
+T*
+(   records = [) Tj
+T*
+(   \("Engineering", "Aarav"\),) Tj
+T*
+(   \("Marketing", "Priya"\),) Tj
+T*
+(   \("Engineering", "Siddharth"\),) Tj
+T*
+(   \("Research", "Meera"\),) Tj
+T*
+ET
+
+endstream
+endobj
+71 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 72 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+72 0 obj
+<< /Length 2775 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 3: STRINGS, LISTS, TUPLES AND DICTIONARIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 35 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   \("Marketing", "Rohan"\)) Tj
+T*
+(   ]) Tj
+T*
+() Tj
+T*
+(   dept_map = defaultdict\(list\)) Tj
+T*
+(   for dept, employee in records:) Tj
+T*
+(   dept_map[dept].append\(employee\) # Clean, no KeyError checks needed!) Tj
+T*
+() Tj
+T*
+(   print\("Department Roster via defaultdict\(list\):"\)) Tj
+T*
+(   for dept, roster in dept_map.items\(\):) Tj
+T*
+(   print\(f" {dept:<15}: {roster}"\)) Tj
+T*
+() Tj
+T*
+(   # 2. Integer Accumulator via defaultdict\(int\)) Tj
+T*
+(   inventory = [\("apple", 10\), \("banana", 5\), \("apple", 15\), \("orange", 8\)]) Tj
+T*
+(   stock = defaultdict\(int\)) Tj
+T*
+(   for item, qty in inventory:) Tj
+T*
+(   stock[item] += qty # Initializes missing key with int\(\) = 0) Tj
+T*
+() Tj
+T*
+(   print\(f"\\nAggregated Inventory: {dict\(stock\)}"\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Lookup and Default Insertion: O\(1\) amortized time.) Tj
+T*
+(   - Space Complexity: O\(K\) where K is number of unique keys.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 25:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement a Sudoku Board Validator in Python using 2D nested lists, sets, and coordinate slicing to verify rows, columns, and 3x3 subgrids.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Context:) Tj
+T*
+(   Determine if a 9x9 Sudoku board is valid according to classic rules:) Tj
+T*
+(   1. Each row must contain digits 1-9 without repetition.) Tj
+T*
+(   2. Each column must contain digits 1-9 without repetition.) Tj
+T*
+(   3. Each of the nine 3x3 subgrids must contain digits 1-9 without repetition.) Tj
+T*
+(   Empty cells are represented by '.') Tj
+T*
+() Tj
+T*
+(   2. Python Implementation:) Tj
+T*
+(   class SudokuValidator:) Tj
+T*
+(   @staticmethod) Tj
+T*
+(   def is_valid_sudoku\(board: list\) -> bool:) Tj
+T*
+(   rows = [set\(\) for _ in range\(9\)]) Tj
+T*
+(   cols = [set\(\) for _ in range\(9\)]) Tj
+T*
+(   boxes = [set\(\) for _ in range\(9\)]) Tj
+T*
+() Tj
+T*
+(   for r in range\(9\):) Tj
+T*
+(   for c in range\(9\):) Tj
+T*
+(   val = board[r][c]) Tj
+T*
+(   if val == '.':) Tj
+T*
+(   continue) Tj
+T*
+() Tj
+T*
+(   # Calculate 3x3 subgrid index) Tj
+T*
+(   box_idx = \(r // 3\) * 3 + \(c // 3\)) Tj
+T*
+() Tj
+T*
+(   # Check for duplicate in row, column, or subgrid) Tj
+T*
+(   if \(val in rows[r]\) or \(val in cols[c]\) or \(val in boxes[box_idx]\):) Tj
+T*
+ET
+
+endstream
+endobj
+73 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 74 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+74 0 obj
+<< /Length 2677 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 3: STRINGS, LISTS, TUPLES AND DICTIONARIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 36 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   return False) Tj
+T*
+() Tj
+T*
+(   rows[r].add\(val\)) Tj
+T*
+(   cols[c].add\(val\)) Tj
+T*
+(   boxes[box_idx].add\(val\)) Tj
+T*
+() Tj
+T*
+(   return True) Tj
+T*
+() Tj
+T*
+(   # Verification) Tj
+T*
+(   sample_board = [) Tj
+T*
+(   ["5","3",".",".","7",".",".",".","."],) Tj
+T*
+(   ["6",".",".","1","9","5",".",".","."],) Tj
+T*
+(   [".","9","8",".",".",".",".","6","."],) Tj
+T*
+(   ["8",".",".",".","6",".",".",".","3"],) Tj
+T*
+(   ["4",".",".","8",".","3",".",".","1"],) Tj
+T*
+(   ["7",".",".",".","2",".",".",".","6"],) Tj
+T*
+(   [".","6",".",".",".",".","2","8","."],) Tj
+T*
+(   [".",".",".","4","1","9",".",".","5"],) Tj
+T*
+(   [".",".",".",".","8",".",".","7","9"]) Tj
+T*
+(   ]) Tj
+T*
+() Tj
+T*
+(   is_valid = SudokuValidator.is_valid_sudoku\(sample_board\)) Tj
+T*
+(   print\(f"Is Sample Sudoku Board Valid? -> {is_valid}"\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(1\) constant time \(exactly 81 cells checked\).) Tj
+T*
+(   - Space Complexity: O\(1\) constant storage \(sets of size <= 9\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 26:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement a String Permutation and Combination generator in Python without external libraries using recursive backtracking and list swapping.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Theoretical Formulation of Permutations:) Tj
+T*
+(   Given a string of unique characters \(e.g., 'ABC'\), generate all N! permutations:) Tj
+T*
+(   Permutations are formed by fixing each character at index 0 and recursively generating) Tj
+T*
+(   permutations of the remaining N - 1 characters.) Tj
+T*
+() Tj
+T*
+(   2. Python Implementation:) Tj
+T*
+(   def generate_permutations\(chars: list, index=0, results=None\):) Tj
+T*
+(   if results is None:) Tj
+T*
+(   results = []) Tj
+T*
+() Tj
+T*
+(   if index == len\(chars\):) Tj
+T*
+(   results.append\("".join\(chars\)\)) Tj
+T*
+(   return results) Tj
+T*
+() Tj
+T*
+(   for i in range\(index, len\(chars\)\):) Tj
+T*
+(   # Swap characters to fix char at current index) Tj
+T*
+(   chars[index], chars[i] = chars[i], chars[index]) Tj
+T*
+() Tj
+T*
+(   # Recursive call for remaining characters) Tj
+T*
+(   generate_permutations\(chars, index + 1, results\)) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+75 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 76 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+76 0 obj
+<< /Length 3203 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 3: STRINGS, LISTS, TUPLES AND DICTIONARIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 37 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   # Backtrack: swap back to restore original order) Tj
+T*
+(   chars[index], chars[i] = chars[i], chars[index]) Tj
+T*
+() Tj
+T*
+(   return results) Tj
+T*
+() Tj
+T*
+(   # Verification) Tj
+T*
+(   input_str = "ABC") Tj
+T*
+(   perms = generate_permutations\(list\(input_str\)\)) Tj
+T*
+(   print\(f"Permutations of '{input_str}' \(Total: {len\(perms\)}\): {perms}"\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(N * N!\) recursive backtracking.) Tj
+T*
+(   - Space Complexity: O\(N\) recursion stack depth.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 27:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the collections.ChainMap class in Python. How does it search across multiple chained dictionaries and how do updates behave?) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Architecture of ChainMap:) Tj
+T*
+(   Introduced in Python 3.3, collections.ChainMap groups multiple dictionaries or mappings) Tj
+T*
+(   together to create a single, updateable view.) Tj
+T*
+(   Instead of copying and merging multiple dictionaries into a new dict \(d1 | d2\), ChainMap stores) Tj
+T*
+(   references to the original mappings in an internal list \(self.maps\).) Tj
+T*
+() Tj
+T*
+(   2. Lookup and Write Semantics:) Tj
+T*
+(   - Read Lookups: Searches dictionaries sequentially in order \(maps[0], maps[1], maps[2]...\).) Tj
+T*
+(   Returns the first match found.) Tj
+T*
+(   - Mutations \(Insert, Update, Delete\): All write operations affect ONLY the first mapping in the) Tj
+T*
+(   chain \(maps[0]\)!) Tj
+T*
+(   Ideal for managing hierarchical configuration scopes: CLI args -> Environment variables ->) Tj
+T*
+(   Configuration file -> Hardcoded defaults.) Tj
+T*
+() Tj
+T*
+(   3. Python Code Demonstration:) Tj
+T*
+(   from collections import ChainMap) Tj
+T*
+() Tj
+T*
+(   # Configuration scopes) Tj
+T*
+(   hardcoded_defaults = {"theme": "light", "port": 8080, "debug": False}) Tj
+T*
+(   config_file = {"theme": "dark", "port": 9000}) Tj
+T*
+(   cli_overrides = {"debug": True}) Tj
+T*
+() Tj
+T*
+(   # Chain the mappings) Tj
+T*
+(   app_config = ChainMap\(cli_overrides, config_file, hardcoded_defaults\)) Tj
+T*
+() Tj
+T*
+(   print\("Layered Configuration Lookup:"\)) Tj
+T*
+(   print\(f" debug: {app_config['debug']} \(Overridden by CLI\)"\)) Tj
+T*
+(   print\(f" port: {app_config['port']} \(Overridden by Config File\)"\)) Tj
+T*
+(   print\(f" theme: {app_config['theme']} \(Overridden by Config File\)"\)) Tj
+T*
+() Tj
+T*
+(   # Mutating ChainMap) Tj
+T*
+(   app_config['new_setting'] = 'active') Tj
+T*
+(   print\(f"\\nAfter Adding 'new_setting':"\)) Tj
+T*
+(   print\(f" cli_overrides \(maps[0]\): {cli_overrides} \(Modified directly!\)"\)) Tj
+T*
+(   print\(f" config_file \(maps[1]\): {config_file} \(Completely untouched!\)"\)) Tj
+T*
+ET
+
+endstream
+endobj
+77 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 78 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+78 0 obj
+<< /Length 2996 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 3: STRINGS, LISTS, TUPLES AND DICTIONARIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 38 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(M\) lookup where M is number of chained dictionaries; O\(1\) writes.) Tj
+T*
+(   - Space Complexity: O\(1\) zero data duplication.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 28:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement an In-Memory Inverted Index for a Document Search Engine using Python dictionaries and sets.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Context:) Tj
+T*
+(   An inverted index is the fundamental data structure used by search engines \(e.g.,) Tj
+T*
+(   Elasticsearch, Google\).) Tj
+T*
+(   It maps words \(terms\) to the set of document IDs in which they appear, enabling sub-millisecond) Tj
+T*
+(   multi-word boolean searches \(AND, OR\).) Tj
+T*
+() Tj
+T*
+(   2. Python Implementation:) Tj
+T*
+(   import string) Tj
+T*
+(   from collections import defaultdict) Tj
+T*
+() Tj
+T*
+(   class InvertedIndexEngine:) Tj
+T*
+(   def __init__\(self\):) Tj
+T*
+(   self.index = defaultdict\(set\)) Tj
+T*
+(   self.documents = {}) Tj
+T*
+() Tj
+T*
+(   def add_document\(self, doc_id: int, content: str\):) Tj
+T*
+(   self.documents[doc_id] = content) Tj
+T*
+(   # Clean and tokenize) Tj
+T*
+(   words = content.lower\(\).translate\(str.maketrans\('', '', string.punctuation\)\).split\(\)) Tj
+T*
+(   for w in set\(words\):) Tj
+T*
+(   self.index[w].add\(doc_id\)) Tj
+T*
+() Tj
+T*
+(   def search_and\(self, *query_terms\) -> list:) Tj
+T*
+(   """Find documents containing ALL query terms \(Intersection\).""") Tj
+T*
+(   if not query_terms:) Tj
+T*
+(   return []) Tj
+T*
+(   term_sets = [self.index.get\(t.lower\(\), set\(\)\) for t in query_terms]) Tj
+T*
+(   # Intersect all sets) Tj
+T*
+(   matching_doc_ids = set.intersection\(*term_sets\) if term_sets else set\(\)) Tj
+T*
+(   return [\(doc_id, self.documents[doc_id]\) for doc_id in matching_doc_ids]) Tj
+T*
+() Tj
+T*
+(   # Verification) Tj
+T*
+(   engine = InvertedIndexEngine\(\)) Tj
+T*
+(   engine.add_document\(1, "Python is a high-level programming language."\)) Tj
+T*
+(   engine.add_document\(2, "Data structures and algorithms in Python."\)) Tj
+T*
+(   engine.add_document\(3, "Machine learning algorithms with neural networks."\)) Tj
+T*
+() Tj
+T*
+(   results = engine.search_and\("algorithms", "python"\)) Tj
+T*
+(   print\("Search Query: ['algorithms' AND 'python'] -> Matches:"\)) Tj
+T*
+(   for doc_id, text in results:) Tj
+T*
+(   print\(f" Doc #{doc_id}: '{text}'"\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Ingestion Time: O\(D * W\) where D is documents and W is words.) Tj
+T*
+ET
+
+endstream
+endobj
+79 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 80 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+80 0 obj
+<< /Length 2833 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 3: STRINGS, LISTS, TUPLES AND DICTIONARIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 39 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - Query Time: O\(min\(len\(set1\), len\(set2\)\)\) set intersection.) Tj
+T*
+(   - Space Complexity: O\(Unique Terms * Posting Lists\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 29:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Design an Inventory Management System in Python using dictionaries, handling stock reorders, low-stock alerts, and batch transactions.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Context:) Tj
+T*
+(   Develop a retail inventory tracker using nested dictionaries:) Tj
+T*
+(   Item SKU -> {name, unit_price, quantity, reorder_threshold}.) Tj
+T*
+(   The system handles stock sales, restocks, low-stock alerts, and inventory valuation reports.) Tj
+T*
+() Tj
+T*
+(   2. Python Implementation:) Tj
+T*
+(   class RetailInventoryManager:) Tj
+T*
+(   def __init__\(self\):) Tj
+T*
+(   self.inventory = {}) Tj
+T*
+() Tj
+T*
+(   def add_product\(self, sku: str, name: str, price: float, initial_qty: int, threshold: int\):) Tj
+T*
+(   self.inventory[sku] = {) Tj
+T*
+(   "name": name,) Tj
+T*
+(   "price": price,) Tj
+T*
+(   "qty": initial_qty,) Tj
+T*
+(   "threshold": threshold) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   def process_sale\(self, sku: str, quantity: int\) -> float:) Tj
+T*
+(   if sku not in self.inventory:) Tj
+T*
+(   raise KeyError\(f"SKU {sku} not found in inventory catalog."\)) Tj
+T*
+(   item = self.inventory[sku]) Tj
+T*
+(   if item["qty"] < quantity:) Tj
+T*
+(   raise ValueError\(f"Insufficient Stock for {item['name']}. Available: {item['qty']}, Requested:) Tj
+T*
+(   {quantity}"\)) Tj
+T*
+(   item["qty"] -= quantity) Tj
+T*
+(   revenue = quantity * item["price"]) Tj
+T*
+(   return revenue) Tj
+T*
+() Tj
+T*
+(   def check_reorder_alerts\(self\) -> list:) Tj
+T*
+(   alerts = []) Tj
+T*
+(   for sku, data in self.inventory.items\(\):) Tj
+T*
+(   if data["qty"] <= data["threshold"]:) Tj
+T*
+(   alerts.append\(\(sku, data["name"], data["qty"], data["threshold"]\)\)) Tj
+T*
+(   return alerts) Tj
+T*
+() Tj
+T*
+(   # Demonstration) Tj
+T*
+(   inv = RetailInventoryManager\(\)) Tj
+T*
+(   inv.add_product\("SKU-101", "USB-C Cable", 9.99, 50, 10\)) Tj
+T*
+(   inv.add_product\("SKU-102", "Wireless Mouse", 24.50, 12, 15\)) Tj
+T*
+() Tj
+T*
+(   rev = inv.process_sale\("SKU-101", 5\)) Tj
+T*
+(   print\(f"Processed Sale: Generated ${rev:.2f}"\)) Tj
+T*
+() Tj
+T*
+(   alerts = inv.check_reorder_alerts\(\)) Tj
+T*
+(   print\(f"Low Stock Alerts: {alerts}"\)) Tj
+T*
+ET
+
+endstream
+endobj
+81 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 82 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+82 0 obj
+<< /Length 2753 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 3: STRINGS, LISTS, TUPLES AND DICTIONARIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 40 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Lookup & Sale Time: O\(1\) dictionary key indexing.) Tj
+T*
+(   - Reorder Scan Time: O\(N\) where N is number of catalog SKUs.) Tj
+T*
+(   - Space Complexity: O\(N\) memory for catalog.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 30:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement a Custom Matrix Determinant and Matrix Inversion program for 2x2 and 3x3 matrices in Python using nested lists.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Mathematical Formulation:) Tj
+T*
+(   - 2x2 Matrix A = [[a, b], [c, d]]:) Tj
+T*
+(   det\(A\) = a*d - b*c) Tj
+T*
+(   A^\(-1\) = \(1 / det\(A\)\) * [[d, -b], [-c, a]]) Tj
+T*
+(   - 3x3 Matrix Determinant via cofactor expansion:) Tj
+T*
+(   det\(A\) = A[0][0]*\(A[1][1]*A[2][2] - A[1][2]*A[2][1]\)) Tj
+T*
+(   - A[0][1]*\(A[1][0]*A[2][2] - A[1][2]*A[2][0]\)) Tj
+T*
+(   + A[0][2]*\(A[1][0]*A[2][1] - A[1][1]*A[2][0]\)) Tj
+T*
+() Tj
+T*
+(   2. Python Implementation:) Tj
+T*
+(   class MatrixMath:) Tj
+T*
+(   @staticmethod) Tj
+T*
+(   def det_2x2\(m: list\) -> float:) Tj
+T*
+(   return \(m[0][0] * m[1][1]\) - \(m[0][1] * m[1][0]\)) Tj
+T*
+() Tj
+T*
+(   @staticmethod) Tj
+T*
+(   def invert_2x2\(m: list\) -> list:) Tj
+T*
+(   d = MatrixMath.det_2x2\(m\)) Tj
+T*
+(   if abs\(d\) < 1e-12:) Tj
+T*
+(   raise ValueError\("Singular Matrix: Determinant is zero; cannot invert."\)) Tj
+T*
+(   inv_d = 1.0 / d) Tj
+T*
+(   return [) Tj
+T*
+(   [round\(m[1][1] * inv_d, 4\), round\(-m[0][1] * inv_d, 4\)],) Tj
+T*
+(   [round\(-m[1][0] * inv_d, 4\), round\(m[0][0] * inv_d, 4\)]) Tj
+T*
+(   ]) Tj
+T*
+() Tj
+T*
+(   @staticmethod) Tj
+T*
+(   def det_3x3\(m: list\) -> float:) Tj
+T*
+(   c0 = m[0][0] * \(m[1][1] * m[2][2] - m[1][2] * m[2][1]\)) Tj
+T*
+(   c1 = m[0][1] * \(m[1][0] * m[2][2] - m[1][2] * m[2][0]\)) Tj
+T*
+(   c2 = m[0][2] * \(m[1][0] * m[2][1] - m[1][1] * m[2][0]\)) Tj
+T*
+(   return c0 - c1 + c2) Tj
+T*
+() Tj
+T*
+(   # Verification) Tj
+T*
+(   m2 = [[4, 7], [2, 6]]) Tj
+T*
+(   det2 = MatrixMath.det_2x2\(m2\)) Tj
+T*
+(   inv2 = MatrixMath.invert_2x2\(m2\)) Tj
+T*
+(   print\(f"2x2 Matrix: {m2} | Determinant = {det2}"\)) Tj
+T*
+(   print\(f"Inverse of 2x2 Matrix: {inv2}"\)) Tj
+T*
+() Tj
+T*
+(   m3 = [[6, 1, 1], [4, -2, 5], [2, 8, 7]]) Tj
+T*
+(   print\(f"3x3 Matrix Determinant: {MatrixMath.det_3x3\(m3\)}"\)) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+83 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 84 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+84 0 obj
+<< /Length 598 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 3: STRINGS, LISTS, TUPLES AND DICTIONARIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 41 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   3. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(1\) closed-form formula evaluations.) Tj
+T*
+(   - Space Complexity: O\(1\) 2x2 / 3x3 return matrices.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+85 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+86 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+xref
+0 87
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000393 00000 n 
+0000000537 00000 n 
+0000008550 00000 n 
+0000008694 00000 n 
+0000016731 00000 n 
+0000016875 00000 n 
+0000024899 00000 n 
+0000025044 00000 n 
+0000033576 00000 n 
+0000033722 00000 n 
+0000042713 00000 n 
+0000042859 00000 n 
+0000051897 00000 n 
+0000052043 00000 n 
+0000061806 00000 n 
+0000061952 00000 n 
+0000063535 00000 n 
+0000063681 00000 n 
+0000069038 00000 n 
+0000069184 00000 n 
+0000071897 00000 n 
+0000072043 00000 n 
+0000080523 00000 n 
+0000080669 00000 n 
+0000083620 00000 n 
+0000083766 00000 n 
+0000087165 00000 n 
+0000087311 00000 n 
+0000090798 00000 n 
+0000090944 00000 n 
+0000094186 00000 n 
+0000094332 00000 n 
+0000097557 00000 n 
+0000097703 00000 n 
+0000100887 00000 n 
+0000101033 00000 n 
+0000104505 00000 n 
+0000104651 00000 n 
+0000107990 00000 n 
+0000108136 00000 n 
+0000111539 00000 n 
+0000111685 00000 n 
+0000115219 00000 n 
+0000115365 00000 n 
+0000118812 00000 n 
+0000118958 00000 n 
+0000122206 00000 n 
+0000122352 00000 n 
+0000125308 00000 n 
+0000125454 00000 n 
+0000128647 00000 n 
+0000128793 00000 n 
+0000131604 00000 n 
+0000131750 00000 n 
+0000134763 00000 n 
+0000134909 00000 n 
+0000137946 00000 n 
+0000138092 00000 n 
+0000141020 00000 n 
+0000141166 00000 n 
+0000144168 00000 n 
+0000144314 00000 n 
+0000147698 00000 n 
+0000147844 00000 n 
+0000150810 00000 n 
+0000150956 00000 n 
+0000153692 00000 n 
+0000153838 00000 n 
+0000156775 00000 n 
+0000156921 00000 n 
+0000159749 00000 n 
+0000159895 00000 n 
+0000162625 00000 n 
+0000162771 00000 n 
+0000166027 00000 n 
+0000166173 00000 n 
+0000169222 00000 n 
+0000169368 00000 n 
+0000172254 00000 n 
+0000172400 00000 n 
+0000175206 00000 n 
+0000175352 00000 n 
+0000176002 00000 n 
+0000176100 00000 n 
+trailer
+<< /Size 87 /Root 1 0 R >>
+startxref
+176203
+%%EOF

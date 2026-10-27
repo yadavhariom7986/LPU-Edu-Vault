@@ -1,0 +1,604 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2817 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Introduction to Python | Unit 6: Engineering DSP & Simulations) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Electronics & Communication Engineering) Tj
+340 0 Td
+(Page 1 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(INTRODUCTION TO PYTHON) Tj
+T*
+(UNIT 6: REAL-WORLD ENGINEERING APPLICATIONS & DSP SIMULATION) Tj
+T*
+(Curriculum: Lovely Professional University | School of Electronics & Communication) Tj
+T*
+(Engineering) Tj
+T*
+(Reference: Python Programming: Using Problem Solving Approach by Reema Thareja & Press) Tj
+T*
+(et al.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.1 Numerical Methods in Electrical Engineering) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Many real-world engineering models \(e.g. non-linear diode equations, transient) Tj
+T*
+(differential equations\) lack analytical closed-form solutions and mandate computational) Tj
+T*
+(algorithms:) Tj
+T*
+(* 1. Non-Linear Root Finding \(Newton-Raphson Method\):) Tj
+T*
+(- Iterative formulation: x_{n+1} = x_n - f\(x_n\) / f'\(x_n\). Quadratic rate of convergence) Tj
+T*
+(near roots.) Tj
+T*
+(* 2. Numerical Integration:) Tj
+T*
+(- Trapezoidal Rule: Integral_a^b [ f\(x\) dx ] approx \(h / 2\) * [ f\(a\) + 2 * sum\(f\(x_i\)\) +) Tj
+T*
+(f\(b\) ].) Tj
+T*
+(- Simpson's 1/3 Rule: Fits parabolic quadratic polynomials through sets of 3 points:) Tj
+T*
+(Integral_a^b [ f\(x\) dx ] approx \(h / 3\) * [ f\(x_0\) + 4 * sum\(odd\) + 2 * sum\(even\) +) Tj
+T*
+(f\(x_n\) ]. Higher accuracy order O\(h^4\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.2 Filter Simulation and Frequency Response Modeling) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Continuous-Time Transfer Function: H\(s\) = V_out\(s\) / V_in\(s\).) Tj
+T*
+(* First-Order Low-Pass RC Filter: H\(j*omega\) = 1 / \(1 + j * omega * R * C\). Magnitude) Tj
+T*
+(|H\(j*omega\)| = 1 / sqrt\(1 + \(omega / omega_c\)^2\).) Tj
+T*
+(* Bode Plot Representation: Decibel magnitude response: Gain \(dB\) = 20 *) Tj
+T*
+(log10\(|H\(j*omega\)|\). Cutoff frequency f_c = 1 / \(2 * pi * R * C\) corresponds to -3.01) Tj
+T*
+(dB attenuation.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.3 Spectral Analysis via Discrete Fourier Transform \(DFT / FFT\)) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Time-Domain to Frequency-Domain Transformation: The Fast Fourier Transform \(FFT\)) Tj
+T*
+(computes the N-point Discrete Fourier Transform in O\(N log N\) operations compared to) Tj
+T*
+(O\(N^2\) for brute-force DFT.) Tj
+T*
+(* Discrete Fourier Transform Definition: X[k] = sum_{n=0}^{N-1} x[n] * e^\(-j * 2 * pi) Tj
+T*
+(* k * n / N\).) Tj
+T*
+(* Nyquist Frequency: Maximum resolvable frequency = f_s / 2. Frequencies above) Tj
+T*
+(Nyquist alias down unless filtered.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.4 Communication Packet Framing and CRC-16 Checksum Verification) Tj
+T*
+/F1 9 Tf
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 2977 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Introduction to Python | Unit 6: Engineering DSP & Simulations) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Electronics & Communication Engineering) Tj
+340 0 Td
+(Page 2 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+() Tj
+T*
+(* Data Link Reliability: Ensuring uncorrupted packet transmission across noisy serial) Tj
+T*
+(channels.) Tj
+T*
+(* Cyclic Redundancy Check \(CRC-16\): Polynomial binary division treating bitstreams as) Tj
+T*
+(algebraic polynomials. Detects all single-bit errors, all double-bit errors, and) Tj
+T*
+(burst errors of length <= 16 bits.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 1: Non-Linear Diode Circuit Operating Point via Newton-Raphson]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Solve for the exact quiescent diode voltage V_D in a series circuit) Tj
+T*
+(with battery V_S = 5.0 V, resistor R = 1.0 kOhm, and a Silicon diode \(Shockley) Tj
+T*
+(parameters: I_S = 1e-14 A, thermal voltage V_T = 0.026 V\).) Tj
+T*
+(Python Source Code:) Tj
+T*
+(import math) Tj
+T*
+() Tj
+T*
+(def solve_diode_operating_point\(v_s, r, i_s=1e-14, v_t=0.026, tol=1e-7, max_iter=100\):) Tj
+T*
+(# Circuit KVL: f\(V_D\) = \(V_S - V_D\) / R - I_S * \(exp\(V_D / V_T\) - 1\) = 0) Tj
+T*
+(# Derivative: f'\(V_D\) = -1/R - \(I_S / V_T\) * exp\(V_D / V_T\)) Tj
+T*
+() Tj
+T*
+(v_d = 0.7 # Initial engineering guess for silicon diode) Tj
+T*
+(for i in range\(max_iter\):) Tj
+T*
+(f_val = \(v_s - v_d\) / r - i_s * \(math.exp\(v_d / v_t\) - 1\)) Tj
+T*
+(f_prime = -1.0 / r - \(i_s / v_t\) * math.exp\(v_d / v_t\)) Tj
+T*
+() Tj
+T*
+(delta = f_val / f_prime) Tj
+T*
+(v_d_new = v_d - delta) Tj
+T*
+() Tj
+T*
+(if abs\(v_d_new - v_d\) < tol:) Tj
+T*
+(current_ma = \(\(v_s - v_d_new\) / r\) * 1000.0) Tj
+T*
+(return v_d_new, current_ma, i + 1) Tj
+T*
+(v_d = v_d_new) Tj
+T*
+(raise RuntimeError\('Newton-Raphson failed to converge'\)) Tj
+T*
+() Tj
+T*
+(vd, id_ma, iterations = solve_diode_operating_point\(v_s=5.0, r=1000.0\)) Tj
+T*
+(print\(f'Newton-Raphson Converged in {iterations} iterations:'\)) Tj
+T*
+(print\(f' Diode Forward Voltage \(V_D\) : {vd:.6f} Volts'\)) Tj
+T*
+(print\(f' Circuit Current \(I_D\) : {id_ma:.6f} mA'\)) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 2: Simpson's 1/3 Rule for Energy Dissipation Integration]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Calculate the total energy dissipated in Joules by an electrical load) Tj
+T*
+(carrying a time-varying current i\(t\) = 10 * sin\(100 * pi * t\) through a 5 Ohm resistor) Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 2299 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Introduction to Python | Unit 6: Engineering DSP & Simulations) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Electronics & Communication Engineering) Tj
+340 0 Td
+(Page 3 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(over half a cycle \(0 to 10 ms\).) Tj
+T*
+(Python Source Code:) Tj
+T*
+(import math) Tj
+T*
+() Tj
+T*
+(def simpson_energy\(r, duration, n_intervals=100\):) Tj
+T*
+(if n_intervals % 2 != 0:) Tj
+T*
+(n_intervals += 1 # Simpson's rule mandates even number of intervals) Tj
+T*
+() Tj
+T*
+(h = duration / n_intervals) Tj
+T*
+() Tj
+T*
+(# Power function: p\(t\) = i\(t\)^2 * R) Tj
+T*
+(def p\(t\):) Tj
+T*
+(i = 10.0 * math.sin\(100.0 * math.pi * t\)) Tj
+T*
+(return \(i**2\) * r) Tj
+T*
+() Tj
+T*
+(# Simpson's 1/3 integration summation) Tj
+T*
+(sum_val = p\(0\) + p\(duration\)) Tj
+T*
+(for i in range\(1, n_intervals\):) Tj
+T*
+(t_i = i * h) Tj
+T*
+(weight = 4 if \(i % 2 != 0\) else 2) Tj
+T*
+(sum_val += weight * p\(t_i\)) Tj
+T*
+() Tj
+T*
+(energy_joules = \(h / 3.0\) * sum_val) Tj
+T*
+(return energy_joules) Tj
+T*
+() Tj
+T*
+(duration_s = 0.010 # 10 milliseconds) Tj
+T*
+(e_numeric = simpson_energy\(r=5.0, duration=duration_s, n_intervals=200\)) Tj
+T*
+(# Analytical check: Integral_0^0.01 [ 500 * sin^2\(100 pi t\) dt ] = 500 * \(0.01 / 2\) =) Tj
+T*
+(2.5 Joules) Tj
+T*
+(print\(f'Total Energy Dissipated \(Simpson 1/3\) : {e_numeric:.6f} Joules'\)) Tj
+T*
+(print\(f'Exact Analytical Integration Value : 2.500000 Joules'\)) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 3: Fast Fourier Transform \(FFT\) Spectral Analysis Simulator]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Synthesize a dual-tone audio signal \(500 Hz + 1200 Hz\) corrupted by) Tj
+T*
+(random Gaussian noise, and extract dominant harmonic peaks using NumPy FFT.) Tj
+T*
+(Python Source Code:) Tj
+T*
+(import numpy as np) Tj
+T*
+() Tj
+T*
+(# Sampling parameters) Tj
+T*
+(f_s = 8000.0 # 8 kHz audio sampling rate) Tj
+T*
+(n_samples = 2048 # FFT length \(power of 2\)) Tj
+T*
+(t = np.arange\(n_samples\) / f_s) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 2583 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Introduction to Python | Unit 6: Engineering DSP & Simulations) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Electronics & Communication Engineering) Tj
+340 0 Td
+(Page 4 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(# Composite dual-tone signal with added white noise) Tj
+T*
+(signal_clean = 2.0 * np.sin\(2 * np.pi * 500 * t\) + 1.2 * np.sin\(2 * np.pi * 1200 * t\)) Tj
+T*
+(np.random.seed\(42\)) Tj
+T*
+(noise = np.random.normal\(0, 0.8, size=n_samples\)) Tj
+T*
+(signal_noisy = signal_clean + noise) Tj
+T*
+() Tj
+T*
+(# Compute Fast Fourier Transform \(FFT\)) Tj
+T*
+(fft_complex = np.fft.fft\(signal_noisy\)) Tj
+T*
+(fft_magnitude = \(2.0 / n_samples\) * np.abs\(fft_complex[:n_samples // 2]\)) Tj
+T*
+(frequencies = np.fft.fftfreq\(n_samples, 1.0 / f_s\)[:n_samples // 2]) Tj
+T*
+() Tj
+T*
+(# Identify top 2 frequency peaks) Tj
+T*
+(peak_indices = np.argsort\(fft_magnitude\)[-2:][::-1]) Tj
+T*
+(print\('FFT Dominant Frequency Detection:'\)) Tj
+T*
+(for idx in peak_indices:) Tj
+T*
+(print\(f' Detected Peak: {frequencies[idx]:7.1f} Hz \(Amplitude:) Tj
+T*
+({fft_magnitude[idx]:.2f}\)'\)) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 4: End-to-End CRC-16 Communication Packet Verifier]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Implement a complete serial transmitter and receiver module that) Tj
+T*
+(computes CRC-16 \(CCITT standard: polynomial 0x1021\) to detect transmission errors.) Tj
+T*
+(Python Source Code:) Tj
+T*
+(def compute_crc16_ccitt\(data_bytes\):) Tj
+T*
+(crc = 0xFFFF) Tj
+T*
+(for byte in data_bytes:) Tj
+T*
+(crc ^= \(byte << 8\)) Tj
+T*
+(for _ in range\(8\):) Tj
+T*
+(if crc & 0x8000:) Tj
+T*
+(crc = \(\(crc << 1\) ^ 0x1021\) & 0xFFFF) Tj
+T*
+(else:) Tj
+T*
+(crc = \(crc << 1\) & 0xFFFF) Tj
+T*
+(return crc) Tj
+T*
+() Tj
+T*
+(# 1. Transmitter Side: Prepare packet and append CRC-16) Tj
+T*
+(payload = b"CMD_MOTOR_ON_SPEED_1500") Tj
+T*
+(crc_tx = compute_crc16_ccitt\(payload\)) Tj
+T*
+(transmitted_packet = payload + crc_tx.to_bytes\(2, byteorder='big'\)) Tj
+T*
+() Tj
+T*
+(# 2. Receiver Side \(Uncorrupted Packet\):) Tj
+T*
+(rx_payload = transmitted_packet[:-2]) Tj
+T*
+(rx_crc_claimed = int.from_bytes\(transmitted_packet[-2:], byteorder='big'\)) Tj
+T*
+(rx_crc_calc = compute_crc16_ccitt\(rx_payload\)) Tj
+T*
+(is_clean = \(rx_crc_claimed == rx_crc_calc\)) Tj
+T*
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 929 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Introduction to Python | Unit 6: Engineering DSP & Simulations) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Electronics & Communication Engineering) Tj
+340 0 Td
+(Page 5 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(print\(f'Clean Transmission Test : PASSED={is_clean} \(CRC: {rx_crc_calc:#06x}\)'\)) Tj
+T*
+() Tj
+T*
+(# 3. Receiver Side with Simulated Channel Noise Bit Flip:) Tj
+T*
+(corrupted_packet = bytearray\(transmitted_packet\)) Tj
+T*
+(corrupted_packet[5] ^= 0x01 # Flip 1 bit in payload) Tj
+T*
+(rx_corrupt_payload = corrupted_packet[:-2]) Tj
+T*
+(rx_corrupt_crc = int.from_bytes\(corrupted_packet[-2:], byteorder='big'\)) Tj
+T*
+(is_corrupt_clean = \(rx_corrupt_crc == compute_crc16_ccitt\(rx_corrupt_payload\)\)) Tj
+T*
+(print\(f'Corrupted Bit Test : REJECTED={not is_corrupt_clean} \(Error detected cleanly!\)'\)) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000171 00000 n 
+0000000241 00000 n 
+0000000316 00000 n 
+0000000428 00000 n 
+0000003297 00000 n 
+0000003409 00000 n 
+0000006438 00000 n 
+0000006551 00000 n 
+0000008903 00000 n 
+0000009017 00000 n 
+0000011653 00000 n 
+0000011767 00000 n 
+trailer
+<< /Size 15 /Root 1 0 R >>
+startxref
+12748
+%%EOF

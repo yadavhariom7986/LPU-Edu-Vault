@@ -1,0 +1,562 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2820 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Drawing & AutoCAD | Unit 5: Isometric Projections & 3D Modeling) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 1 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(ENGINEERING DRAWING WITH AUTOCAD) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 10.5 Tf
+(UNIT 5: ISOMETRIC VIEWS & 3D MODELING FUNDAMENTALS) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Curriculum: Lovely Professional University | School of Computer Science & Engineering) Tj
+T*
+(Reference: Engineering Drawing with an Introduction to AutoCAD by Dhananjay Jolhe) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.1 Principles and Terminology of Axonometric Projections) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Axonometric projection is a parallel pictorial projection where the object is tilted so) Tj
+T*
+(that all three principal axes are visible in a single drawing:) Tj
+T*
+(* Types of Axonometric Projections: Isometric \(all 3 axes equally inclined at 120) Tj
+T*
+(deg\), Dimetric \(2 axes equally inclined\), Trimetric \(all 3 axes unequally inclined\).) Tj
+T*
+(* Isometric Axes: Three lines meeting at 120 degrees to each other. In 2D drawing,) Tj
+T*
+(one axis is vertical, and the other two axes are inclined at 30 degrees to the) Tj
+T*
+(horizontal.) Tj
+T*
+(* Isometric Lines: Lines parallel to any of the three isometric axes. Distances along) Tj
+T*
+(isometric lines can be measured directly to scale.) Tj
+T*
+(* Non-Isometric Lines: Lines NOT parallel to any isometric axis \(e.g., edges of) Tj
+T*
+(pyramids, oblique chamfers\). Cannot be measured directly; must be located via) Tj
+T*
+(coordinates of their endpoints.) Tj
+T*
+(* Isometric Planes \(Isoplanes\): Three coordinate planes defined by pairs of isometric) Tj
+T*
+(axes: Isoplane Left \(30 deg left & vertical\), Isoplane Right \(30 deg right &) Tj
+T*
+(vertical\), Isoplane Top \(30 deg left & 30 deg right\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.2 Isometric Projection vs Isometric View) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Isometric Projection: Drawn using foreshortened Isometric Scale. Length = True) Tj
+T*
+(Length x cos\(45\) / cos\(30\) = sqrt\(2\)/sqrt\(3\) approx 0.816 \(81.6% of True Length\).) Tj
+T*
+(* Isometric View \(or Isometric Drawing\): Drawn using True Scale \(100% full scale) Tj
+T*
+(dimensions\). The drawing is identical in proportion to isometric projection but is) Tj
+T*
+(approximately 22.5% larger in visual area.) Tj
+T*
+(* Isometric Scale Construction: Draw horizontal line. From origin, draw line at 30) Tj
+T*
+(degrees \(Isometric scale\) and line at 45 degrees \(True scale\). Project true divisions) Tj
+T*
+(vertically down onto the 30-degree line.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.3 Methods of Drawing Isometric Projections) Tj
+T*
+/F1 9 Tf
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 3098 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Drawing & AutoCAD | Unit 5: Isometric Projections & 3D Modeling) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 2 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+() Tj
+T*
+(* 1. Box Method: Enclose the entire object inside an imaginary isometric rectangular) Tj
+T*
+(box of length L, width W, and height H. Carve out features by measuring along) Tj
+T*
+(isometric box edges. Essential for irregular objects, prisms, pyramids.) Tj
+T*
+(* 2. Coordinate / Offset Method: Locate individual key corner vertices in space using) Tj
+T*
+(X, Y, Z coordinates measured from a defined reference corner.) Tj
+T*
+(* 3. Four-Center Method for Isometric Circles \(Ellipses\): A circle in orthographic) Tj
+T*
+(view appears as an ellipse in isometric view. Inscribed in an isometric rhombus) Tj
+T*
+(\(rhombus side = circle diameter\). Drawn using four arcs struck from the two obtuse) Tj
+T*
+(angle vertices and the intersections of opposite side perpendicular bisectors.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.4 AutoCAD 3D Modeling Fundamentals) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* 3D Coordinate Systems: World Coordinate System \(WCS\) is fixed. User Coordinate) Tj
+T*
+(System \(UCS\) can be dynamically rotated and translated to align with any 3D face) Tj
+T*
+(using UCS -> 3Point \(Origin, X-axis, Y-axis\).) Tj
+T*
+(* 3D Primitive Solids: BOX, CYLINDER, CONE, SPHERE, TORUS, WEDGE, PYRAMID.) Tj
+T*
+(* 3D Solid Generation Commands:) Tj
+T*
+(- EXTRUDE \(EXT\): Projects an enclosed planar 2D curve or region along a perpendicular) Tj
+T*
+(height or specified path.) Tj
+T*
+(- REVOLVE \(REV\): Rotates a planar 2D profile around a specified axis of revolution by up) Tj
+T*
+(to 360 degrees.) Tj
+T*
+(- PRESSPULL: Dynamically extrudes an enclosed boundary area or face directly without) Tj
+T*
+(needing a prior Region entity.) Tj
+T*
+(- SWEEP & LOFT: Generates solids along arbitrary 3D guide curves or between multiple) Tj
+T*
+(distinct cross-sectional profiles.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROBLEM 1: Isometric View of a Hexagonal Prism using Box Method]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Statement: A hexagonal prism has base side 30 mm and axis height 65 mm. The) Tj
+T*
+(prism rests with its base on HP with one base edge parallel to VP. Draw its Isometric) Tj
+T*
+(View.) Tj
+T*
+(Step-by-Step Construction Procedure:) Tj
+T*
+(* Step 1: Orthographic Base & Enclosing Box:) Tj
+T*
+(- Draw a regular hexagon of side 30 mm in orthographic plan view.) Tj
+T*
+(- Enclose the hexagon in a tight rectangle ABCD. Length L = distance across corners = 2) Tj
+T*
+(x 30 = 60 mm. Width W = distance across flats = 2 x 30 x cos\(30\) = 51.96 mm.) Tj
+T*
+(* Step 2: Isometric Enclosing Box:) Tj
+T*
+(- Draw isometric axes \(one vertical, two at 30 deg to horizontal\).) Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 3088 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Drawing & AutoCAD | Unit 5: Isometric Projections & 3D Modeling) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 3 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(- Construct bottom isometric box base of size 60 mm x 51.96 mm on the 30-deg isometric) Tj
+T*
+(lines.) Tj
+T*
+(- Erect vertical lines of height 65 mm from each corner to form the top isometric box) Tj
+T*
+(face.) Tj
+T*
+(* Step 3: Plot Hexagonal Vertices:) Tj
+T*
+(- Transfer the coordinate offsets of the 6 hexagonal vertices from the orthographic) Tj
+T*
+(rectangle edges onto the corresponding edges of the isometric box base and top face.) Tj
+T*
+(* Step 4: Final Isometric Outlines:) Tj
+T*
+(- Connect the 6 vertices of the top face with solid lines.) Tj
+T*
+(- Connect vertical prism edges: the 3 front-facing vertical edges are solid visible) Tj
+T*
+(lines; rear edges hidden behind the prism body are omitted.) Tj
+T*
+(- Connect the 3 visible front base edges.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROBLEM 2: Four-Center Method Construction of Isometric Cylinder]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Statement: Draw the Isometric View of a vertical right circular cylinder of base) Tj
+T*
+(diameter 50 mm and height 70 mm.) Tj
+T*
+(Step-by-Step Four-Center Method Execution:) Tj
+T*
+(* 1. Top Face Rhombus: Draw isometric rhombus ABCD of side 50 mm on Isoplane Top) Tj
+T*
+(\(axes at 30 deg to left and 30 deg to right\). Obtuse angle vertices are at B \(top\)) Tj
+T*
+(and D \(bottom\).) Tj
+T*
+(* 2. Finding Centers:) Tj
+T*
+(- Find midpoints 1, 2, 3, 4 of rhombus sides AB, BC, CD, DA.) Tj
+T*
+(- From obtuse vertex B, draw lines to opposite midpoints 3 and 4.) Tj
+T*
+(- From obtuse vertex D, draw lines to opposite midpoints 1 and 2.) Tj
+T*
+(- The intersections of these lines establish two sharp centers C1 and C2.) Tj
+T*
+(* 3. Striking Ellipse Arcs:) Tj
+T*
+(- Center B, radius B-3: Draw large arc 3-4.) Tj
+T*
+(- Center D, radius D-1: Draw large arc 1-2.) Tj
+T*
+(- Center C1, radius C1-1: Draw small arc 1-4.) Tj
+T*
+(- Center C2, radius C2-2: Draw small arc 2-3. \(Completes smooth 4-arc top ellipse\).) Tj
+T*
+(* 4. Bottom Base Ellipse: Project centers B, D, C1, C2 vertically downward by 70 mm.) Tj
+T*
+(Strike identical lower arcs for the front half 1-2-3.) Tj
+T*
+(* 5. Tangent Generators: Draw two vertical lines tangent to the outer extremities of) Tj
+T*
+(the top and bottom ellipses. Erase construction guides.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROBLEM 3: Composite Solid: Sphere Resting Centrally on a Cube]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 3053 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Drawing & AutoCAD | Unit 5: Isometric Projections & 3D Modeling) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 4 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(Problem Statement: A solid sphere of diameter 40 mm rests centrally on the top face of a) Tj
+T*
+(cubical block of side 60 mm. Draw the Isometric Projection of the composite assembly.) Tj
+T*
+(Mathematical Derivation & Construction Protocol:) Tj
+T*
+(* 1. Cube Construction \(Isometric Scale\): Side of cube in isometric projection = 60) Tj
+T*
+(mm x 0.816 = 48.96 mm. Draw isometric box of side 49 mm.) Tj
+T*
+(* 2. Locate Center of Sphere:) Tj
+T*
+(- Find center of top face of cube by intersecting diagonal lines.) Tj
+T*
+(- The geometric center of the sphere lies vertically above the top face at a distance) Tj
+T*
+(equal to the sphere radius.) Tj
+T*
+(- Isometric height of center = 20 mm x 0.816 = 16.32 mm above the cube face. Mark sphere) Tj
+T*
+(center point O.) Tj
+T*
+(* 3. Sphere Outline in Isometric Projection:) Tj
+T*
+(- CRITICAL RULE: In axonometric / isometric projection, a sphere always projects as a) Tj
+T*
+(TRUE CIRCLE! It does NOT become an ellipse.) Tj
+T*
+(- Radius of circle in projection = TRUE radius of sphere = 20.0 mm \(NOT foreshortened,) Tj
+T*
+(because the sphere contour in all directions remains perpendicular to sight rays\).) Tj
+T*
+(- Center at point O, draw a true circle of radius 20 mm.) Tj
+T*
+(* 4. Visible Outlines: Top face of cube partially hidden beneath sphere silhouette;) Tj
+T*
+(finish visible edges with solid thick lines.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROBLEM 4: AutoCAD 3D Solid Modeling Sequence for Stepped Flange]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Model a 3D stepped shaft with circular flange and counterbored hole) Tj
+T*
+(using AutoCAD 3D tools.) Tj
+T*
+(AutoCAD Command Protocol:) Tj
+T*
+(* 1. Workspace: Switch to "3D Modeling" workspace. Set Visual Style to "Shaded with) Tj
+T*
+(edges".) Tj
+T*
+(* 2. REVOLVE Method:) Tj
+T*
+(- Draw 2D half-cross-sectional profile using PLINE: Start at 0,0 -> 15,0 -> 15,60 ->) Tj
+T*
+(45,60 -> 45,80 -> 0,80 -> Close.) Tj
+T*
+(- REVOLVE -> Select polyline -> Axis of revolution: 0,0 to 0,80 -> Angle: 360 deg.) Tj
+T*
+(\(Generates stepped solid cylinder\).) Tj
+T*
+(* 3. CYLINDER for Central Bore:) Tj
+T*
+(- CYLINDER -> Center: 0,0,0 -> Radius: 15 mm -> Height: 80 mm.) Tj
+T*
+(* 4. SUBTRACT Command:) Tj
+T*
+(- SUBTRACT -> Select outer stepped solid -> Press Enter -> Select inner cylinder ->) Tj
+T*
+(Press Enter. \(Produces hollow through bore\).) Tj
+T*
+(* 5. 3P UCS for Flange Bolt Holes:) Tj
+T*
+(- UCS -> 3P -> Click flange center, X-axis, Y-axis.) Tj
+T*
+(- CYLINDER -> Center: 30,0,60 -> Radius: 4 mm -> Height: -20 mm.) Tj
+T*
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 475 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Drawing & AutoCAD | Unit 5: Isometric Projections & 3D Modeling) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 5 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(- ARRAYPOLAR -> Select small cylinder -> Center 0,0 -> Items: 6 -> Angle: 360.) Tj
+T*
+(- EXPLODE array -> SUBTRACT the 6 cylinders from main flange body.) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000171 00000 n 
+0000000241 00000 n 
+0000000316 00000 n 
+0000000428 00000 n 
+0000003300 00000 n 
+0000003412 00000 n 
+0000006562 00000 n 
+0000006675 00000 n 
+0000009816 00000 n 
+0000009930 00000 n 
+0000013036 00000 n 
+0000013150 00000 n 
+trailer
+<< /Size 15 /Root 1 0 R >>
+startxref
+13677
+%%EOF

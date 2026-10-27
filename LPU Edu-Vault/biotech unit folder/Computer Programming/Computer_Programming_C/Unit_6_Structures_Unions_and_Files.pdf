@@ -1,0 +1,664 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2880 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Computer Programming in C | Unit 6: Structures, Unions & File Management) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 1 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(=== UNIT 6: STRUCTURES, UNIONS, PREPROCESSOR & FILE HANDLING ===) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.1 Structures and Unions: Definition and Memory Alignment) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Structures group heterogeneous variables under a single user-defined composite data) Tj
+T*
+(type.) Tj
+T*
+(* struct Definition: struct Student { int id; char name[30]; float gpa; };. Members) Tj
+T*
+(accessed using dot operator \(s.id\) for instances, or arrow operator \(ptr->id\) for) Tj
+T*
+(structure pointers.) Tj
+T*
+(* Structure Padding and Memory Alignment: Compilers align structure members on) Tj
+T*
+(natural byte boundaries \(e.g., 4-byte integers align on addresses divisible by 4\) to) Tj
+T*
+(optimize CPU memory bus transactions. This inserts invisible padding bytes, causing) Tj
+T*
+(sizeof\(struct\) to exceed algebraic sum of its members.) Tj
+T*
+(* unions: Syntactically identical to structures, but all members SHARE THE SAME) Tj
+T*
+(MEMORY LOCATION. Size of union equals size of its largest member. Modifying one) Tj
+T*
+(member overwrites all other members; used for type punning and hardware register) Tj
+T*
+(maps.) Tj
+T*
+(* typedef: Creates descriptive aliases for existing types: typedef struct Student) Tj
+T*
+(Student_t;.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.2 Preprocessor Directives and Macros) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Macro Substitution: #define PI 3.14159. Function-like macros: #define SQUARE\(x\)) Tj
+T*
+(\(\(x\) * \(x\)\) \(parentheses essential to avoid operator precedence errors\).) Tj
+T*
+(* Stringizing \(#\) and Token-Pasting \(##\) Operators:) Tj
+T*
+(- # operator converts macro parameter into quoted string: #define PRINT_VAR\(x\)) Tj
+T*
+(printf\(#x " = %d\\n", x\).) Tj
+T*
+(- ## operator concatenates two tokens into single identifier: #define GLUE\(a, b\)) Tj
+T*
+(a##b.) Tj
+T*
+(* Conditional Compilation: #ifdef, #ifndef, #endif. Header Guards: Prevents multiple) Tj
+T*
+(header file inclusion:) Tj
+T*
+(#ifndef HEADER_H \\n #define HEADER_H \\n /* declarations */ \\n #endif.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.3 File Management and Persistent Storage in C) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Stream Concept: In C, a file is an abstract byte stream accessed through a file) Tj
+T*
+(pointer: FILE *fp;.) Tj
+T*
+(* File Opening Modes \(fopen\):) Tj
+T*
+(- "r": Open text file for reading \(fails if file does not exist\).) Tj
+T*
+(- "w": Open text file for writing \(creates new file or truncates existing file to) Tj
+T*
+(0 bytes\).) Tj
+T*
+(- "a": Open text file for appending \(writes to end of file\).) Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 2713 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Computer Programming in C | Unit 6: Structures, Unions & File Management) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 2 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(- "rb", "wb", "ab": Binary modes for non-text binary data.) Tj
+T*
+(* Formatted File I/O: fprintf\(fp, "...", args\), fscanf\(fp, "...", &args\).) Tj
+T*
+(* Character & String File I/O: fgetc\(fp\), fputc\(ch, fp\), fgets\(buf, size, fp\),) Tj
+T*
+(fputs\(str, fp\).) Tj
+T*
+(* Direct Block Binary I/O: fwrite\(const void *ptr, size_t size, size_t count, FILE) Tj
+T*
+(*fp\), fread\(void *ptr, size_t size, size_t count, FILE *fp\).) Tj
+T*
+(* File Positioning: fseek\(fp, offset, whence\) \(whence: SEEK_SET, SEEK_CUR, SEEK_END\),) Tj
+T*
+(ftell\(fp\) \(returns current byte position\), rewind\(fp\). Always close files via) Tj
+T*
+(fclose\(fp\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 1: Structure Alignment and Padding Demonstration]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: Write an ANSI C program to demonstrate structure padding, compare struct vs.) Tj
+T*
+(union memory footprints, and prove that union members share memory.) Tj
+T*
+(Source Code:) Tj
+T*
+(#include <stdio.h>) Tj
+T*
+(struct UnpaddedStruct {) Tj
+T*
+(char c; /* 1 byte + 3 bytes padding */) Tj
+T*
+(int i; /* 4 bytes */) Tj
+T*
+(short s; /* 2 bytes + 2 bytes padding */) Tj
+T*
+(}; /* Total = 12 bytes on 32/64-bit systems */) Tj
+T*
+(union SharedMemory {) Tj
+T*
+(int intVal;) Tj
+T*
+(float floatVal;) Tj
+T*
+(char str[4];) Tj
+T*
+(}; /* Total = 4 bytes \(size of largest member\) */) Tj
+T*
+(int main\(\) {) Tj
+T*
+(printf\("Size of UnpaddedStruct: %zu bytes \(Sum of members = 1+4+2 = 7 bytes\)\\n",) Tj
+T*
+(sizeof\(struct UnpaddedStruct\)\);) Tj
+T*
+(printf\("Size of SharedMemory Union: %zu bytes\\n", sizeof\(union SharedMemory\)\);) Tj
+T*
+(union SharedMemory u;) Tj
+T*
+(u.intVal = 0x41424344;) Tj
+T*
+(printf\("Union intVal = 0x%X\\n", u.intVal\);) Tj
+T*
+(printf\("Union as chars: %c %c %c %c\\n", u.str[0], u.str[1], u.str[2], u.str[3]\);) Tj
+T*
+(return 0;) Tj
+T*
+(}) Tj
+T*
+(Output:) Tj
+T*
+(Size of UnpaddedStruct: 12 bytes \(Sum of members = 1+4+2 = 7 bytes\)) Tj
+T*
+(Size of SharedMemory Union: 4 bytes) Tj
+T*
+(Union intVal = 0x41424344) Tj
+T*
+(Union as chars: D C B A) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 2462 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Computer Programming in C | Unit 6: Structures, Unions & File Management) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 3 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+/F2 9.5 Tf
+([PROGRAM 2: Student Database Management System via Binary Files]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: Write a program to: \(1\) Write an array of student records to a binary file) Tj
+T*
+(using fwrite\(\), \(2\) Read and display records using fread\(\).) Tj
+T*
+(Source Code:) Tj
+T*
+(#include <stdio.h>) Tj
+T*
+(#include <stdlib.h>) Tj
+T*
+(typedef struct {) Tj
+T*
+(int rollNo;) Tj
+T*
+(char name[30];) Tj
+T*
+(float gpa;) Tj
+T*
+(} Student_t;) Tj
+T*
+(int main\(\) {) Tj
+T*
+(Student_t students[2] = {) Tj
+T*
+({ 101, "Aarav Sharma", 8.95 },) Tj
+T*
+({ 102, "Diya Verma", 9.40 }) Tj
+T*
+(};) Tj
+T*
+(FILE *fp = fopen\("students.dat", "wb"\);) Tj
+T*
+(if \(!fp\) { printf\("File open failed!\\n"\); return 1; }) Tj
+T*
+(fwrite\(students, sizeof\(Student_t\), 2, fp\);) Tj
+T*
+(fclose\(fp\);) Tj
+T*
+(printf\("Records written to binary file successfully.\\n"\);) Tj
+T*
+(Student_t readStudents[2];) Tj
+T*
+(fp = fopen\("students.dat", "rb"\);) Tj
+T*
+(if \(!fp\) { printf\("File read failed!\\n"\); return 1; }) Tj
+T*
+(fread\(readStudents, sizeof\(Student_t\), 2, fp\);) Tj
+T*
+(fclose\(fp\);) Tj
+T*
+(printf\("Retrieved Records:\\n"\);) Tj
+T*
+(for \(int i = 0; i < 2; i++\) {) Tj
+T*
+(printf\(" Roll: %d | Name: %-15s | GPA: %.2f\\n", readStudents[i].rollNo,) Tj
+T*
+(readStudents[i].name, readStudents[i].gpa\);) Tj
+T*
+(}) Tj
+T*
+(return 0;) Tj
+T*
+(}) Tj
+T*
+(Output:) Tj
+T*
+(Records written to binary file successfully.) Tj
+T*
+(Retrieved Records:) Tj
+T*
+(Roll: 101 | Name: Aarav Sharma | GPA: 8.95) Tj
+T*
+(Roll: 102 | Name: Diya Verma | GPA: 9.40) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 3: Preprocessor Stringizing and Token-Pasting Macro Pipeline]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: Implement logging macros in C demonstrating stringizing \(#\), token-pasting) Tj
+T*
+(\(##\), and function-like macro expansions.) Tj
+T*
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 2367 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Computer Programming in C | Unit 6: Structures, Unions & File Management) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 4 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(Source Code:) Tj
+T*
+(#include <stdio.h>) Tj
+T*
+(#define LOG_INT\(var\) printf\("[DEBUG] Variable '" #var "' has value: %d\\n", var\)) Tj
+T*
+(#define CREATE_PAIR\(type, name\) type name##_first; type name##_second) Tj
+T*
+(#define SAFE_DIV\(a, b\) \(\(b\) != 0 ? \(\(a\) / \(b\)\) : 0\)) Tj
+T*
+(int main\(\) {) Tj
+T*
+(int voltage = 230;) Tj
+T*
+(LOG_INT\(voltage\);) Tj
+T*
+(CREATE_PAIR\(double, point\);) Tj
+T*
+(point_first = 12.5;) Tj
+T*
+(point_second = 25.8;) Tj
+T*
+(printf\("Point Coordinates: \(%.1f, %.1f\)\\n", point_first, point_second\);) Tj
+T*
+(int q1 = SAFE_DIV\(100, 5\);) Tj
+T*
+(int q2 = SAFE_DIV\(100, 0\);) Tj
+T*
+(printf\("Safe Division: 100/5 = %d | 100/0 = %d\\n", q1, q2\);) Tj
+T*
+(return 0;) Tj
+T*
+(}) Tj
+T*
+(Output:) Tj
+T*
+([DEBUG] Variable 'voltage' has value: 230) Tj
+T*
+(Point Coordinates: \(12.5, 25.8\)) Tj
+T*
+(Safe Division: 100/5 = 20 | 100/0 = 0) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 4: Direct File Random Access via fseek and ftell]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: Write a program that writes alphabet 'A' through 'Z' to a file, then uses) Tj
+T*
+(fseek\(\) and ftell\(\) to read characters at specific byte offsets randomly.) Tj
+T*
+(Source Code:) Tj
+T*
+(#include <stdio.h>) Tj
+T*
+(int main\(\) {) Tj
+T*
+(FILE *fp = fopen\("alphabet.txt", "w+"\);) Tj
+T*
+(if \(!fp\) return 1;) Tj
+T*
+(for \(char c = 'A'; c <= 'Z'; c++\) fputc\(c, fp\);) Tj
+T*
+(fseek\(fp, 0, SEEK_END\);) Tj
+T*
+(long fileSize = ftell\(fp\);) Tj
+T*
+(printf\("Total file size: %ld bytes\\n", fileSize\);) Tj
+T*
+(fseek\(fp, 0, SEEK_SET\);) Tj
+T*
+(printf\("Position 0: %c\\n", fgetc\(fp\)\);) Tj
+T*
+(fseek\(fp, 4, SEEK_SET\);) Tj
+T*
+(printf\("Position 4: %c\\n", fgetc\(fp\)\);) Tj
+T*
+(fseek\(fp, -5, SEEK_END\);) Tj
+T*
+(printf\("5 bytes from end: %c\\n", fgetc\(fp\)\);) Tj
+T*
+(fclose\(fp\);) Tj
+T*
+(return 0;) Tj
+T*
+(}) Tj
+T*
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 2901 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Computer Programming in C | Unit 6: Structures, Unions & File Management) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 5 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(Output: Total file size: 26 bytes | Position 0: A | Position 4: E | 5 bytes from end: V.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.4 University Review & Examination Questions) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Q1: Contrast structures \(struct\) and unions \(union\) regarding memory allocation,) Tj
+T*
+(member accessibility, and practical use cases.) Tj
+T*
+(Answer: \(1\) Memory Allocation: In a struct, every member has its own separate memory) Tj
+T*
+(location. Total size is at least sum of member sizes plus compiler padding. In a union,) Tj
+T*
+(all members share SAME memory location. Size is strictly equal to size of largest) Tj
+T*
+(member. \(2\) Member Accessibility: In struct, all members can store distinct data) Tj
+T*
+(concurrently. In union, only ONE member holds meaningful data at any given instant;) Tj
+T*
+(writing to one member corrupts others. \(3\) Use Cases: Structures model entities with) Tj
+T*
+(multiple simultaneous attributes \(student records, coordinate points\). Unions used when) Tj
+T*
+(memory is scarce \(embedded microcontrollers\) or when an entity takes one of several) Tj
+T*
+(mutually exclusive formats \(variant data types, network packet headers\).) Tj
+T*
+(* Q2: Explain the difference between text files and binary files in C, detailing) Tj
+T*
+(fread\(\) and fwrite\(\) operations.) Tj
+T*
+(Answer: Text files store data as human-readable ASCII or UTF-8 characters where each) Tj
+T*
+(line terminates with newline delimiter \('\\n' on UNIX, '\\r\\n' on Windows\). During) Tj
+T*
+(reading/writing, runtime performs translation. Binary files store data as raw,) Tj
+T*
+(unformatted byte sequences mirroring exact memory representations. Binary files require) Tj
+T*
+(no translation, offer higher I/O speed, and prevent rounding errors. Block I/O) Tj
+T*
+(functions: 'fwrite\(buffer, size, count, fp\)' writes 'count' elements of 'size' bytes) Tj
+T*
+(from buffer to stream; 'fread\(buffer, size, count, fp\)' reads raw bytes directly into) Tj
+T*
+(memory. Both return number of complete items successfully processed.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.5 Key Takeaways and Revision Points) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Structures group diverse data; compilers add padding bytes to satisfy alignment) Tj
+T*
+(requirements.) Tj
+T*
+(* Union members share a single memory block; size equals largest member.) Tj
+T*
+(* Preprocessor directives \(#define, #ifdef\) execute prior to compilation; header) Tj
+T*
+(guards prevent multiple inclusions.) Tj
+T*
+(* File I/O uses stream pointers \(FILE*\); binary files use fread/fwrite; fseek enables) Tj
+T*
+(random access.) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000171 00000 n 
+0000000241 00000 n 
+0000000316 00000 n 
+0000000428 00000 n 
+0000003360 00000 n 
+0000003472 00000 n 
+0000006237 00000 n 
+0000006350 00000 n 
+0000008865 00000 n 
+0000008979 00000 n 
+0000011399 00000 n 
+0000011513 00000 n 
+trailer
+<< /Size 15 /Root 1 0 R >>
+startxref
+14467
+%%EOF

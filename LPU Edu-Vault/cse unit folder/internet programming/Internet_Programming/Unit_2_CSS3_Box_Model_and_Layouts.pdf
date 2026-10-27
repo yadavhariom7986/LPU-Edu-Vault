@@ -1,0 +1,756 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 6 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2833 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Internet Programming | Unit 2: CSS3 Box Model, Flexbox & Grid) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 1 of 6) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(=== UNIT 2: CASCADING STYLE SHEETS \(CSS3\), BOX MODEL & MODERN LAYOUTS ===) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.1 CSS3 Syntax, Cascading Rules and Specificity Hierarchy) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Cascading Style Sheets \(CSS3\) dictates the presentation, layout, visual aesthetics, and) Tj
+T*
+(responsive behavior of HTML documents across display viewports.) Tj
+T*
+(* CSS Syntax: selector { property: value; }.) Tj
+T*
+(* Insertion Methods: \(1\) Inline Styles \(<h1 style='...'>\) - highest specificity,) Tj
+T*
+(violates separation of concerns. \(2\) Internal Stylesheet \(<style> in <head>\). \(3\)) Tj
+T*
+(External Stylesheet \(<link rel='stylesheet' href='style.css'>\) - industry standard,) Tj
+T*
+(enables browser caching.) Tj
+T*
+(* The Cascade and Specificity Hierarchy: When conflicting rules target an element,) Tj
+T*
+(the browser computes Specificity Scores represented as \(Inline, IDs,) Tj
+T*
+(Classes/Attributes/Pseudo-classes, Elements/Pseudo-elements\):) Tj
+T*
+(- Inline style: \(1, 0, 0, 0\) = Score 1000.) Tj
+T*
+(- ID selector \(#header\): \(0, 1, 0, 0\) = Score 100.) Tj
+T*
+(- Class, attribute, pseudo-class \(.btn, [type='text'], :hover\): \(0, 0, 1, 0\) = Score 10.) Tj
+T*
+(- Element, pseudo-element \(p, h1, ::before\): \(0, 0, 0, 1\) = Score 1.) Tj
+T*
+(- Universal selector \(*\), combinators \(+, >, ~\): \(0, 0, 0, 0\) = Score 0.) Tj
+T*
+(- The !important override trumps all specificity, but should be avoided to prevent) Tj
+T*
+(unmaintainable code.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.2 The CSS Box Model and Sizing Paradigms) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Every rendered HTML element is treated as a rectangular box comprising four concentric) Tj
+T*
+(layers:) Tj
+T*
+(* 1. Content: The actual text, image, or media content area \(width x height\).) Tj
+T*
+(* 2. Padding: Transparent interior clearance between content and border.) Tj
+T*
+(* 3. Border: Structural perimeter line wrapping padding and content.) Tj
+T*
+(* 4. Margin: Transparent exterior clearance separating the element from neighboring) Tj
+T*
+(boxes.) Tj
+T*
+(* The Critical box-sizing Property:) Tj
+T*
+(- content-box \(Default\): Total Width = width + padding_left + padding_right +) Tj
+T*
+(border_left + border_right. Adding padding increases physical element size, frequently) Tj
+T*
+(breaking grid layouts.) Tj
+T*
+(- border-box \(Universal Best Practice\): Total Width = declared width. Padding and border) Tj
+T*
+(are absorbed inside the declared width: * { box-sizing: border-box; }.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 2873 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Internet Programming | Unit 2: CSS3 Box Model, Flexbox & Grid) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 2 of 6) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+/F2 9.5 Tf
+(>> 2.3 Display Modes and Element Positioning) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Display Modes: block \(occupies 100% width, starts on new line: div, p, h1\), inline) Tj
+T*
+(\(occupies only content width, ignores top/bottom margin/padding: span, a\),) Tj
+T*
+(inline-block \(flows inline, but respects width, height, padding, margin\), none) Tj
+T*
+(\(removes element from DOM layout\).) Tj
+T*
+(* Positioning Schemes \(position\):) Tj
+T*
+(- static \(Default\): Normal document flow.) Tj
+T*
+(- relative: Positioned relative to its normal flow position \(top, left\) without) Tj
+T*
+(affecting surrounding layout.) Tj
+T*
+(- absolute: Removed from document flow; positioned relative to nearest positioned) Tj
+T*
+(ancestor \(non-static\).) Tj
+T*
+(- fixed: Positioned relative to the browser viewport; remains stationary during page) Tj
+T*
+(scrolling.) Tj
+T*
+(- sticky: Toggles between relative and fixed depending on scroll threshold.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.4 Flexbox \(One-Dimensional Flexible Box Layout\)) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Flexbox aligns items along a single dimension \(either row or column\) with dynamic space) Tj
+T*
+(distribution:) Tj
+T*
+(* Flex Container Properties: display: flex; flex-direction: row | column; flex-wrap:) Tj
+T*
+(nowrap | wrap; justify-content: flex-start | center | space-between | space-around |) Tj
+T*
+(space-evenly \(aligns along main axis\); align-items: stretch | center | flex-start |) Tj
+T*
+(flex-end \(aligns along cross axis\).) Tj
+T*
+(* Flex Item Properties: flex-grow \(expansion factor\), flex-shrink \(shrinkage) Tj
+T*
+(resistance\), flex-basis \(initial size\), align-self \(overrides container alignment\).) Tj
+T*
+(Shorthand: flex: 1 1 auto.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.5 CSS Grid \(Two-Dimensional Layout Architecture\)) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(CSS Grid provides simultaneous multi-row and multi-column control:) Tj
+T*
+(* Container Properties: display: grid; grid-template-columns: repeat\(3, 1fr\) \(three) Tj
+T*
+(equal fractional columns\); grid-template-rows; gap: 20px \(row and column gutters\);) Tj
+T*
+(grid-template-areas: 'header header' 'nav main' 'footer footer'.) Tj
+T*
+(* Item Placement: grid-column: 1 / 3; grid-row: 2 / 4; grid-area: header.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 1: Universal CSS Reset and Typography System]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 2063 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Internet Programming | Unit 2: CSS3 Box Model, Flexbox & Grid) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 3 of 6) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(Problem Context: Construct a foundational CSS stylesheet establishing universal) Tj
+T*
+(border-box sizing, responsive typography using rem units, and standard CSS custom) Tj
+T*
+(properties \(variables\).) Tj
+T*
+(CSS Source Code:) Tj
+T*
+(/* Modern CSS Foundation & Custom Properties */) Tj
+T*
+(:root {) Tj
+T*
+(--primary-color: #0d6efd;) Tj
+T*
+(--secondary-color: #6c757d;) Tj
+T*
+(--success-color: #198754;) Tj
+T*
+(--dark-bg: #212529;) Tj
+T*
+(--light-bg: #f8f9fa;) Tj
+T*
+(--font-stack: 'Segoe UI', system-ui, -apple-system, sans-serif;) Tj
+T*
+(--spacing-unit: 1rem;) Tj
+T*
+(}) Tj
+T*
+() Tj
+T*
+(/* Universal Box-Sizing Reset */) Tj
+T*
+(*, *::before, *::after {) Tj
+T*
+(box-sizing: border-box;) Tj
+T*
+(margin: 0;) Tj
+T*
+(padding: 0;) Tj
+T*
+(}) Tj
+T*
+() Tj
+T*
+(body {) Tj
+T*
+(font-family: var\(--font-stack\);) Tj
+T*
+(font-size: 1rem;) Tj
+T*
+(line-height: 1.6;) Tj
+T*
+(color: var\(--dark-bg\);) Tj
+T*
+(background-color: var\(--light-bg\);) Tj
+T*
+(}) Tj
+T*
+() Tj
+T*
+(h1, h2, h3 { line-height: 1.2; margin-bottom: 0.75rem; }) Tj
+T*
+(h1 { font-size: 2.25rem; color: var\(--primary-color\); }) Tj
+T*
+(p { margin-bottom: 1rem; }) Tj
+T*
+(Explanation: Uses CSS variables \(--primary-color\), universal border-box reset, and) Tj
+T*
+(rem-based responsive typography.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 2: Responsive Flexbox Navigation Bar]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Create a responsive horizontal navigation bar using Flexbox that aligns) Tj
+T*
+(the brand logo to the left, links to the right, and centers items vertically.) Tj
+T*
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 2332 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Internet Programming | Unit 2: CSS3 Box Model, Flexbox & Grid) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 4 of 6) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(HTML & CSS Code:) Tj
+T*
+(<!-- HTML Navigation -->) Tj
+T*
+(<nav class='navbar'>) Tj
+T*
+(<div class='nav-brand'>LPU Engineering</div>) Tj
+T*
+(<ul class='nav-links'>) Tj
+T*
+(<li><a href='#'>Home</a></li>) Tj
+T*
+(<li><a href='#'>Academics</a></li>) Tj
+T*
+(<li><a href='#'>Placements</a></li>) Tj
+T*
+(<li><a href='#' class='btn-cta'>Student Portal</a></li>) Tj
+T*
+(</ul>) Tj
+T*
+(</nav>) Tj
+T*
+() Tj
+T*
+(/* Flexbox CSS */) Tj
+T*
+(.navbar {) Tj
+T*
+(display: flex;) Tj
+T*
+(justify-content: space-between; /* Brand on left, links on right */) Tj
+T*
+(align-items: center;            /* Center vertically on cross-axis */) Tj
+T*
+(padding: 1rem 2rem;) Tj
+T*
+(background-color: #ffffff;) Tj
+T*
+(box-shadow: 0 2px 4px rgba\(0,0,0,0.1\);) Tj
+T*
+(}) Tj
+T*
+(.nav-brand { font-size: 1.5rem; font-weight: bold; color: #0d6efd; }) Tj
+T*
+(.nav-links { display: flex; list-style: none; gap: 1.5rem; align-items: center; }) Tj
+T*
+(.nav-links a { text-decoration: none; color: #333; font-weight: 500; transition: color) Tj
+T*
+(0.2s; }) Tj
+T*
+(.nav-links a:hover { color: #0d6efd; }) Tj
+T*
+(.btn-cta { background-color: #0d6efd; color: #fff !important; padding: 0.5rem 1rem;) Tj
+T*
+(border-radius: 4px; }) Tj
+T*
+(Key Properties: justify-content: space-between separates brand and links; gap: 1.5rem) Tj
+T*
+(provides clean spacing without margin hacks.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 3: Responsive Multi-Column Layout using CSS Grid]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Build a responsive dashboard layout consisting of Header, Sidebar, Main) Tj
+T*
+(Content Area, and Footer using CSS Grid template areas.) Tj
+T*
+(CSS Grid Source Code:) Tj
+T*
+(.dashboard-container {) Tj
+T*
+(display: grid;) Tj
+T*
+(min-height: 100vh;) Tj
+T*
+(grid-template-columns: 240px 1fr;              /* 240px sidebar, remaining space for) Tj
+T*
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 2259 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Internet Programming | Unit 2: CSS3 Box Model, Flexbox & Grid) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 5 of 6) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(content */) Tj
+T*
+(grid-template-rows: 70px 1fr 50px;             /* Header, content, footer */) Tj
+T*
+(grid-template-areas:) Tj
+T*
+('header  header') Tj
+T*
+('sidebar main') Tj
+T*
+('footer  footer';) Tj
+T*
+(gap: 15px;) Tj
+T*
+(}) Tj
+T*
+() Tj
+T*
+(.header-area  { grid-area: header;  background: #0d6efd; color: #fff; padding: 1rem; }) Tj
+T*
+(.sidebar-area { grid-area: sidebar; background: #e9ecef; padding: 1rem; }) Tj
+T*
+(.main-area    { grid-area: main;    background: #ffffff; padding: 1.5rem; border-radius:) Tj
+T*
+(6px; }) Tj
+T*
+(.footer-area  { grid-area: footer;  background: #212529; color: #fff; text-align:) Tj
+T*
+(center; padding: 0.75rem; }) Tj
+T*
+(Key Properties: grid-template-areas defines an intuitive 2D ASCII layout diagram,) Tj
+T*
+(automatically positioning sub-elements.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 4: Interactive Card Grid with Hover Transitions]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Implement an interactive course card gallery using CSS Grid) Tj
+T*
+(repeat\(auto-fit, minmax\(\)\) and smooth cubic-bezier hover elevation animations.) Tj
+T*
+(CSS Source Code:) Tj
+T*
+(.card-grid {) Tj
+T*
+(display: grid;) Tj
+T*
+(grid-template-columns: repeat\(auto-fit, minmax\(280px, 1fr\)\); /* Fully responsive) Tj
+T*
+(auto-wrapping */) Tj
+T*
+(gap: 1.5rem;) Tj
+T*
+(padding: 2rem;) Tj
+T*
+(}) Tj
+T*
+(.course-card {) Tj
+T*
+(background: #fff;) Tj
+T*
+(border-radius: 8px;) Tj
+T*
+(border: 1px solid #dee2e6;) Tj
+T*
+(padding: 1.5rem;) Tj
+T*
+(box-shadow: 0 2px 6px rgba\(0,0,0,0.06\);) Tj
+T*
+(transition: transform 0.25s cubic-bezier\(0.4, 0, 0.2, 1\), box-shadow 0.25s ease;) Tj
+T*
+(}) Tj
+T*
+(.course-card:hover {) Tj
+T*
+(transform: translateY\(-6px\);                    /* Smooth uplifting card animation */) Tj
+T*
+ET
+
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 16 0 R >>
+endobj
+16 0 obj
+<< /Length 2953 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Internet Programming | Unit 2: CSS3 Box Model, Flexbox & Grid) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 6 of 6) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(box-shadow: 0 12px 20px rgba\(0,0,0,0.12\);) Tj
+T*
+(border-color: #0d6efd;) Tj
+T*
+(}) Tj
+T*
+(Key Features: repeat\(auto-fit, minmax\(280px, 1fr\)\) generates automatic responsive) Tj
+T*
+(columns without media queries; transform: translateY\(-6px\) provides smooth) Tj
+T*
+(GPU-accelerated micro-interactions.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.6 University Review & Examination Questions) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Q1: Contrast the CSS Box Model under 'box-sizing: content-box' versus 'box-sizing:) Tj
+T*
+(border-box' with a numerical dimension calculation.) Tj
+T*
+(Answer: Under 'content-box' \(CSS default\), declared width and height apply strictly to) Tj
+T*
+(the content box. Total rendered width is calculated as: Width_total = width +) Tj
+T*
+(padding_left + padding_right + border_left + border_right. For an element with width:) Tj
+T*
+(300px, padding: 20px, and border: 5px, Total Width = 300 + 20 + 20 + 5 + 5 = 350px. If) Tj
+T*
+(placed inside a 300px parent column, it overflows and breaks the layout. Under) Tj
+T*
+('box-sizing: border-box', the declared width includes content, padding, and border. The) Tj
+T*
+(browser automatically compresses content width: Content Width = 300 - \(40 + 10\) = 250px.) Tj
+T*
+(Total rendered width remains exactly 300px, guaranteeing layout stability.) Tj
+T*
+(* Q2: When should a web developer select CSS Flexbox versus CSS Grid? Detail their) Tj
+T*
+(architectural differences.) Tj
+T*
+(Answer: The fundamental distinction is dimensional scope: \(1\) Flexbox is) Tj
+T*
+(One-Dimensional: It manages layout along a single axis at a time \(either row OR column\).) Tj
+T*
+(It is content-driven \(items determine their own width/flex distribution\) and is optimal) Tj
+T*
+(for interface components such as navigation menus, button groups, form input rows, and) Tj
+T*
+(centering elements. \(2\) CSS Grid is Two-Dimensional: It manages rows AND columns) Tj
+T*
+(simultaneously. It is layout-driven \(the container establishes rigid structural tracks) Tj
+T*
+(into which elements are placed\) and is optimal for overarching page architectures,) Tj
+T*
+(complex dashboards, multi-column image galleries, and overlapping component grids.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.7 Key Takeaways and Revision Points) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Specificity formula: Inline \(1000\) > ID \(100\) > Class \(10\) > Element \(1\).) Tj
+T*
+(* Always set box-sizing: border-box universally across all elements.) Tj
+T*
+(* Flexbox manages 1D alignments \(main vs cross axis\); CSS Grid controls 2D rows and) Tj
+T*
+(columns.) Tj
+T*
+(* repeat\(auto-fit, minmax\(min, 1fr\)\) creates responsive grids without media queries.) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000178 00000 n 
+0000000248 00000 n 
+0000000323 00000 n 
+0000000435 00000 n 
+0000003320 00000 n 
+0000003432 00000 n 
+0000006357 00000 n 
+0000006470 00000 n 
+0000008586 00000 n 
+0000008700 00000 n 
+0000011085 00000 n 
+0000011199 00000 n 
+0000013511 00000 n 
+0000013625 00000 n 
+trailer
+<< /Size 17 /Root 1 0 R >>
+startxref
+16631
+%%EOF

@@ -1,0 +1,720 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 6 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 3276 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(ELECTRICAL ENGINEERING | UNIT 1: EVOLUTION OF ELECTRICAL POWER & EDUCATION) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Electrical Engineering) Tj
+340 0 Td
+(Page 1 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(ELECTRICAL ENGINEERING) Tj
+T*
+(UNIT 1: EVOLUTION OF ELECTRICAL POWER & ENGINEERING EDUCATION) Tj
+T*
+(Curriculum: Lovely Professional University | Department of Electrical Engineering) Tj
+T*
+(Reference: Electric Power Systems by C. L. Wadhwa / IEEE Power History Archives) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 1.1 Historical Genesis: From Static Electricity to Bulk Power Networks) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(The discipline of Electrical Engineering traces its lineage through revolutionary) Tj
+T*
+(discoveries:) Tj
+T*
+(- 1800 \(Alessandro Volta\): Invention of the voltaic pile, providing the first continuous) Tj
+T*
+(chemical source of direct current \(DC\).) Tj
+T*
+(- 1831 \(Michael Faraday\): Discovery of Electromagnetic Induction \(Faraday's Law: e =) Tj
+T*
+(-dPhi/dt\), enabling mechanical generation of electricity.) Tj
+T*
+(- 1882 \(Thomas Edison\): Commissioning of the Pearl Street Station in New York City, the) Tj
+T*
+(world's first commercial central DC power plant delivering 110V DC to 59 customers.) Tj
+T*
+(- The Fundamental Limitation of Low-Voltage DC: Edison's low-voltage DC system suffered) Tj
+T*
+(severe I^2*R transmission losses \(P_loss = I^2*R\). Transmitting power over just 1.5 km) Tj
+T*
+(required enormous copper conductors.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 1.2 The "War of the Currents": Edison \(DC\) vs. Westinghouse & Tesla \(AC\)) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(The struggle between Direct Current \(DC\) and Alternating Current \(AC\) defined modern) Tj
+T*
+(power engineering:) Tj
+T*
+(- Nikola Tesla patented the polyphase AC system, polyphase induction motor, and) Tj
+T*
+(multi-phase transformers in 1887-1888.) Tj
+T*
+(- George Westinghouse commercialized Tesla's AC patents using William Stanley's) Tj
+T*
+(practical step-up/step-down transformer design.) Tj
+T*
+(- The Mathematical Supremacy of AC: Transmitted power P = V * I. To deliver power P at) Tj
+T*
+(voltage V, current is I = P / V.) Tj
+T*
+(- Transmission loss is P_loss = I^2 * R = \(P / V\)^2 * R. Stepping up voltage by a factor) Tj
+T*
+(of 10 decreases line current by 10x and reduces copper losses by 100x!) Tj
+T*
+(- 1895: Niagara Falls AC hydroelectric plant proved that polyphase AC could transmit) Tj
+T*
+(bulk electrical power over 40 km to Buffalo, cementing AC dominance globally.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 1.3 HVAC vs. HVDC Transmission Systems) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(While AC won the historic battle, modern bulk transmission leverages both HVAC and) Tj
+T*
+(High-Voltage DC \(HVDC\):) Tj
+T*
+(- High-Voltage AC \(HVAC\): Global standard for regional grids \(132 kV, 220 kV, 400 kV,) Tj
+T*
+(765 kV\). Utilizes inexpensive step-up and step-down transformers.) Tj
+T*
+(- High-Voltage DC \(HVDC\): Essential for long-distance bulk transmission \(> 600 km) Tj
+T*
+(overhead, > 50 km submarine/underground\) and asynchronous grid interconnection.) Tj
+T*
+(- Converter Technologies: Line Commutated Converters \(LCC using high-power thyristors\)) Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 3011 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(ELECTRICAL ENGINEERING | UNIT 1: EVOLUTION OF ELECTRICAL POWER & EDUCATION) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Electrical Engineering) Tj
+340 0 Td
+(Page 2 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(and Voltage Source Converters \(VSC using IGBTs\).) Tj
+T*
+(- HVDC eliminates charging current losses of long AC cables, overcomes stability) Tj
+T*
+(distance limits, and prevents cascading power grid blackouts.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 1.4 Evolution of Electrical Engineering Curricula) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(The academic paradigm has transformed across four major eras:) Tj
+T*
+(- Era 1 \(1890s-1940s\): Heavy power engineering, DC/AC rotating machinery, synchronous) Tj
+T*
+(alternators, overhead transmission towers.) Tj
+T*
+(- Era 2 \(1950s-1980s\): Solid-state physics, power electronics \(SCRs, triacs\), analog) Tj
+T*
+(control theory, power system stability and protection relays.) Tj
+T*
+(- Era 3 \(1990s-2010s\): Digital Signal Processors \(DSP\), Microcontroller-based embedded) Tj
+T*
+(drives, SCADA, static VAR compensators \(FACTS\).) Tj
+T*
+(- Era 4 \(2020s-Present\): Renewable Microgrids, Smart Grids, Electric Mobility \(EV) Tj
+T*
+(powertrains\), Battery Management Systems \(BMS\), AI in Power Systems.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 1.5 Global & Indian Energy Landscape) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(India boasts the world's third-largest synchronous national electricity grid \(One) Tj
+T*
+(Nation, One Grid, One Frequency\):) Tj
+T*
+(- Central Electricity Authority \(CEA\) and Ministry of Power govern national grid) Tj
+T*
+(planning and regulatory frameworks.) Tj
+T*
+(- Installed generation capacity exceeds 430 GW, transitioning rapidly from thermal) Tj
+T*
+(dominance toward renewable generation \(500 GW non-fossil target by 2030\).) Tj
+T*
+(- National Smart Grid Mission \(NSGM\): Deployment of Advanced Metering Infrastructure) Tj
+T*
+(\(AMI\), automated fault location, and rooftop solar integration.) Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(--------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(DETAILED WORKED EXAMPLES & ENGINEERING COMPUTATIONS) Tj
+T*
+/F2 9.5 Tf
+(--------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> Example 1.1: AC vs. DC Transmission Loss and Conductor Sizing) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Statement: A power generation station delivers 500 MW of active power over a distance of) Tj
+T*
+(400 km. The transmission line has a loop resistance of R = 8 Ohms. Assume a power factor) Tj
+T*
+(of unity \(cos Phi = 1.0\).) Tj
+T*
+(Calculate the line current, line copper loss \(I^2*R\), and the percentage transmission) Tj
+T*
+(loss when transmitting power at:) Tj
+T*
+(\(a\) Medium Voltage: V_1 = 66 kV) Tj
+T*
+(\(b\) Extra High Voltage: V_2 = 400 kV) Tj
+T*
+(\(c\) Ultra High Voltage: V_3 = 765 kV) Tj
+T*
+() Tj
+T*
+(Step-by-Step Solution:) Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 3162 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(ELECTRICAL ENGINEERING | UNIT 1: EVOLUTION OF ELECTRICAL POWER & EDUCATION) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Electrical Engineering) Tj
+340 0 Td
+(Page 3 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(1. Basic Transmission Equations:) Tj
+T*
+(- Transmitted active power: P = sqrt\(3\) * V_L * I_L * cos\(Phi\)) Tj
+T*
+(- Line current: I_L = P / \(sqrt\(3\) * V_L * cos\(Phi\)\)) Tj
+T*
+(- Total three-phase line power loss: P_loss = 3 * I_L^2 * R_ph) Tj
+T*
+(- If R is the total loop resistance across the conductors, P_loss = I_L^2 * R.) Tj
+T*
+() Tj
+T*
+(2. Case \(a\): Transmission at V_1 = 66 kV \(66,000 V\):) Tj
+T*
+(- Line current: I_1 = \(500 * 10^6\) / \(sqrt\(3\) * 66,000 * 1.0\) = 4,373.86 A) Tj
+T*
+(- Total copper loss: P_loss1 = \(4,373.86\)^2 * 8 = 153,046,000 W = 153.05 MW) Tj
+T*
+(- Percentage loss = \(P_loss1 / P\) * 100 = \(153.05 / 500\) * 100 = 30.61%) Tj
+T*
+(- Observation: Over 30% of power is lost as heat; conductor would melt under thermal) Tj
+T*
+(stress!) Tj
+T*
+() Tj
+T*
+(3. Case \(b\): Transmission at V_2 = 400 kV \(400,000 V\):) Tj
+T*
+(- Line current: I_2 = \(500 * 10^6\) / \(sqrt\(3\) * 400,000 * 1.0\) = 721.69 A) Tj
+T*
+(- Total copper loss: P_loss2 = \(721.69\)^2 * 8 = 4,166,700 W = 4.17 MW) Tj
+T*
+(- Percentage loss = \(P_loss2 / P\) * 100 = \(4.17 / 500\) * 100 = 0.834%) Tj
+T*
+(- Observation: Stepping up to 400 kV slashes line losses from 30.6% down to just 0.83%!) Tj
+T*
+() Tj
+T*
+(4. Case \(c\): Transmission at V_3 = 765 kV \(765,000 V\):) Tj
+T*
+(- Line current: I_3 = \(500 * 10^6\) / \(sqrt\(3\) * 765,000 * 1.0\) = 377.35 A) Tj
+T*
+(- Total copper loss: P_loss3 = \(377.35\)^2 * 8 = 1,139,150 W = 1.14 MW) Tj
+T*
+(- Percentage loss = \(1.14 / 500\) * 100 = 0.228%) Tj
+T*
+(- Loss reduction factor from 66 kV to 765 kV: \(765 / 66\)^2 = \(11.59\)^2 = 134.35 times) Tj
+T*
+(lower losses!) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> Example 1.2: HVDC vs. HVAC Break-Even Economic & Technical Analysis) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Statement: A power planning commission evaluates transmitting 2,000 MW from an offshore) Tj
+T*
+(wind corridor over a distance of L km to a major industrial hub. The cost data is as) Tj
+T*
+(follows:) Tj
+T*
+(- HVAC Line Capital Cost: C_line_ac = Rs. 1.8 Crore per km) Tj
+T*
+(- HVAC Terminal Substations \(both ends\): C_term_ac = Rs. 400 Crore total) Tj
+T*
+(- HVDC Bipolar Line Capital Cost: C_line_dc = Rs. 1.1 Crore per km \(requires only 2) Tj
+T*
+(poles vs 3 phases\)) Tj
+T*
+(- HVDC Converter Stations \(both ends\): C_term_dc = Rs. 1,600 Crore total) Tj
+T*
+(\(a\) Calculate the break-even transmission distance \(L_break\) in kilometers.) Tj
+T*
+(\(b\) If the transmission route is 1,200 km, determine the total capital savings achieved) Tj
+T*
+(by selecting HVDC over HVAC.) Tj
+T*
+() Tj
+T*
+(Step-by-Step Solution:) Tj
+T*
+(1. Formulation of Total Capital Cost Equations:) Tj
+T*
+(- Total HVAC Cost: Cost_AC\(L\) = C_term_ac + \(C_line_ac * L\) = 400 + \(1.8 * L\) [in Rs.) Tj
+T*
+(Crore]) Tj
+T*
+(- Total HVDC Cost: Cost_DC\(L\) = C_term_dc + \(C_line_dc * L\) = 1,600 + \(1.1 * L\) [in Rs.) Tj
+T*
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 2883 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(ELECTRICAL ENGINEERING | UNIT 1: EVOLUTION OF ELECTRICAL POWER & EDUCATION) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Electrical Engineering) Tj
+340 0 Td
+(Page 4 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(Crore]) Tj
+T*
+() Tj
+T*
+(2. Setting Cost_AC\(L_break\) = Cost_DC\(L_break\):) Tj
+T*
+(- 400 + 1.8 * L_break = 1,600 + 1.1 * L_break) Tj
+T*
+(- \(1.8 - 1.1\) * L_break = 1,600 - 400) Tj
+T*
+(- 0.7 * L_break = 1,200) Tj
+T*
+(- L_break = 1,200 / 0.7 = 1,714.29 km \(for purely overhead line\).) Tj
+T*
+() Tj
+T*
+(3. Subsea / Underground Cable Correction:) Tj
+T*
+(- If 100 km of the link is subsea cable where AC charging current necessitates reactive) Tj
+T*
+(compensation every 20 km:) Tj
+T*
+(- AC subsea line cost is Rs. 9.5 Crore/km, while DC subsea cable is Rs. 4.2 Crore/km.) Tj
+T*
+(- Under subsea cable conditions, the break-even distance drops dramatically to between) Tj
+T*
+(50 km and 80 km.) Tj
+T*
+() Tj
+T*
+(4. Capital Expenditure Analysis for 1,200 km Overhead Route with Right-of-Way \(RoW\)) Tj
+T*
+(Factor:) Tj
+T*
+(- When factoring RoW land acquisition \(HVDC corridor is 40m wide vs 75m for HVAC\):) Tj
+T*
+(- Adjusted HVAC cost = Rs. 2.1 Crore/km; Adjusted HVDC cost = Rs. 1.25 Crore/km.) Tj
+T*
+(- Revised L_break = \(1,600 - 400\) / \(2.1 - 1.25\) = 1,200 / 0.85 = 1,411.76 km.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> Example 1.3: Transformer Efficiency & Annual Carbon Offset Calculation) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Statement: A 100 MVA, 400/132 kV, 3-phase grid step-down transformer has an iron core) Tj
+T*
+(loss \(no-load loss\) of P_i = 45 kW and full-load copper loss of P_cu = 180 kW.) Tj
+T*
+(\(a\) Determine the transformer efficiency at full load operating at 0.85 power factor) Tj
+T*
+(lagging.) Tj
+T*
+(\(b\) Determine the load kVA at which maximum efficiency occurs, and calculate the maximum) Tj
+T*
+(efficiency.) Tj
+T*
+(\(c\) An older transformer had P_i = 90 kW and P_cu = 320 kW. Calculate the annual energy) Tj
+T*
+(saved \(kWh\) by the modern transformer operating 24 hours/day, 365 days/year at an) Tj
+T*
+(average load factor of 75%.) Tj
+T*
+() Tj
+T*
+(Step-by-Step Solution:) Tj
+T*
+(1. Full Load Efficiency at cos\(Phi\) = 0.85:) Tj
+T*
+(- Active Output Power: P_out = S * cos\(Phi\) = 100,000 kVA * 0.85 = 85,000 kW) Tj
+T*
+(- Total Losses: P_loss = P_i + P_cu = 45 kW + 180 kW = 225 kW) Tj
+T*
+(- Input Power: P_in = P_out + P_loss = 85,000 + 225 = 85,225 kW) Tj
+T*
+(- Efficiency eta = \(P_out / P_in\) * 100 = \(85,000 / 85,225\) * 100 = 99.736%) Tj
+T*
+() Tj
+T*
+(2. Load for Maximum Efficiency \(x_max\):) Tj
+T*
+(- Maximum efficiency occurs when variable copper loss equals constant iron loss: x^2 *) Tj
+T*
+(P_cu = P_i) Tj
+T*
+(- Fraction of full load: x_max = sqrt\(P_i / P_cu\) = sqrt\(45 / 180\) = sqrt\(0.25\) = 0.50) Tj
+T*
+(\(i.e., 50% load\)) Tj
+T*
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 3089 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(ELECTRICAL ENGINEERING | UNIT 1: EVOLUTION OF ELECTRICAL POWER & EDUCATION) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Electrical Engineering) Tj
+340 0 Td
+(Page 5 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(- Load at max efficiency: S_max_eta = 0.50 * 100 MVA = 50 MVA.) Tj
+T*
+(- Output at 50% load: P_out_50 = 50,000 * 0.85 = 42,500 kW) Tj
+T*
+(- Total losses at 50% load: P_loss_50 = P_i + \(0.50\)^2 * P_cu = 45 + 0.25 * 180 = 45 +) Tj
+T*
+(45 = 90 kW) Tj
+T*
+(- Max Efficiency: eta_max = \(42,500 / \(42,500 + 90\)\) * 100 = \(42,500 / 42,590\) * 100 =) Tj
+T*
+(99.789%) Tj
+T*
+() Tj
+T*
+(3. Annual Energy Savings Comparison:) Tj
+T*
+(- Operating hours per year: T = 24 * 365 = 8,760 hours.) Tj
+T*
+(- Average load fraction: x = 0.75 \(75% load\).) Tj
+T*
+(- Loss of Modern Transformer: P_loss_mod = 45 + \(0.75\)^2 * 180 = 45 + \(0.5625 * 180\) =) Tj
+T*
+(45 + 101.25 = 146.25 kW) Tj
+T*
+(- Loss of Older Transformer: P_loss_old = 90 + \(0.75\)^2 * 320 = 90 + \(0.5625 * 320\) = 90) Tj
+T*
+(+ 180 = 270.00 kW) Tj
+T*
+(- Power saved: Delta_P = 270.00 - 146.25 = 123.75 kW) Tj
+T*
+(- Annual Energy Saved = 123.75 kW * 8,760 h = 1,084,050 kWh \(over 1.08 Million) Tj
+T*
+(Units/year\)!) Tj
+T*
+(- At an average grid tariff of Rs. 7.50/kWh, annual monetary savings = Rs. 81.3) Tj
+T*
+(Lakhs/year.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> Example 1.4: Grid Frequency Nadir and RoCoF Dynamics During Generator Outage) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Statement: A regional power grid has an aggregated operating capacity of S_n = 40 GW) Tj
+T*
+(\(40,000 MVA\) operating at 50.0 Hz. Suddenly, a major thermal power station generating) Tj
+T*
+(Delta_P = 1,200 MW trips offline.) Tj
+T*
+(\(a\) Calculate the initial Rate of Change of Frequency \(RoCoF = df/dt\) when the grid) Tj
+T*
+(inertia constant is H = 4.5 seconds \(conventional thermal/hydro grid\).) Tj
+T*
+(\(b\) Calculate the RoCoF if high penetration of inverter-based solar/wind resources) Tj
+T*
+(reduces effective grid inertia to H_eff = 2.0 seconds.) Tj
+T*
+(\(c\) Determine the critical response time for Fast Frequency Response \(FFR\) battery) Tj
+T*
+(energy storage systems \(BESS\) to prevent frequency from dropping below the) Tj
+T*
+(under-frequency load shedding \(UFLS\) trigger of 49.2 Hz.) Tj
+T*
+() Tj
+T*
+(Step-by-Step Solution:) Tj
+T*
+(1. Power System Swing Equation for Aggregated System Frequency:) Tj
+T*
+(- The fundamental relationship between power imbalance and frequency derivative is:) Tj
+T*
+(\(2 * H / f_0\) * \(df/dt\) = - Delta_P / S_n) Tj
+T*
+(- RoCoF: df/dt = - \(Delta_P * f_0\) / \(2 * H * S_n\)) Tj
+T*
+() Tj
+T*
+(2. Case \(a\): Traditional High-Inertia Grid \(H = 4.5 s\):) Tj
+T*
+(- df/dt = - \(1,200 * 50.0\) / \(2 * 4.5 * 40,000\) = - \(60,000\) / \(360,000\) = - 0.1667 Hz/s) Tj
+T*
+(- Interpretation: Frequency drops at a manageable rate of 0.167 Hz per second, giving) Tj
+T*
+(thermal governors \(3-5 second response\) ample time to ramp up.) Tj
+T*
+() Tj
+T*
+(3. Case \(b\): Low-Inertia Renewable Grid \(H_eff = 2.0 s\):) Tj
+T*
+ET
+
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 16 0 R >>
+endobj
+16 0 obj
+<< /Length 1003 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(ELECTRICAL ENGINEERING | UNIT 1: EVOLUTION OF ELECTRICAL POWER & EDUCATION) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Electrical Engineering) Tj
+340 0 Td
+(Page 6 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(- df/dt = - \(1,200 * 50.0\) / \(2 * 2.0 * 40,000\) = - \(60,000\) / \(160,000\) = - 0.3750 Hz/s) Tj
+T*
+(- Interpretation: The rate of decay is 2.25 times faster. Without synthetic inertia,) Tj
+T*
+(frequency drops dangerously fast.) Tj
+T*
+() Tj
+T*
+(4. Critical Time to Reach UFLS Threshold \(49.2 Hz\):) Tj
+T*
+(- Permissible frequency deviation: Delta_f = 50.0 - 49.2 = 0.8 Hz) Tj
+T*
+(- In Case \(a\): t_crit = Delta_f / |df/dt| = 0.8 / 0.1667 = 4.80 seconds.) Tj
+T*
+(- In Case \(b\): t_crit = Delta_f / |df/dt| = 0.8 / 0.3750 = 2.13 seconds.) Tj
+T*
+(- Engineering Action: Grid code mandates BESS battery injection within 500 ms to arrest) Tj
+T*
+(RoCoF and preserve grid stability.) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000178 00000 n 
+0000000248 00000 n 
+0000000323 00000 n 
+0000000435 00000 n 
+0000003763 00000 n 
+0000003875 00000 n 
+0000006938 00000 n 
+0000007051 00000 n 
+0000010266 00000 n 
+0000010380 00000 n 
+0000013316 00000 n 
+0000013430 00000 n 
+0000016572 00000 n 
+0000016686 00000 n 
+trailer
+<< /Size 17 /Root 1 0 R >>
+startxref
+17742
+%%EOF

@@ -1,0 +1,744 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 6 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2998 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Python Programming | Unit 1: Python Fundamentals & Setup) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 1 of 6) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(=== UNIT 1: PYTHON FUNDAMENTALS, ENVIRONMENT & SYNTAX ===) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 1.1 Evolution, Philosophy and Characteristics of Python) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Python is an interpreted, high-level, dynamically-typed, multi-paradigm programming) Tj
+T*
+(language conceived by Guido van Rossum in 1989 and officially released in 1991. It) Tj
+T*
+(emphasizes human code readability, rapid application prototyping, and clean expressive) Tj
+T*
+(syntax encapsulated in 'The Zen of Python' \(PEP 20\).) Tj
+T*
+(* Execution Architecture: Unlike pure compiled languages \(such as C/C++\) that compile) Tj
+T*
+(directly to native machine code, Python source code \(.py\) is compiled by the CPython) Tj
+T*
+(virtual machine into intermediate Bytecode \(.pyc\) stored inside the __pycache__) Tj
+T*
+(directory. The Python Virtual Machine \(PVM\) then interprets and executes this) Tj
+T*
+(bytecode at runtime.) Tj
+T*
+(* Distinctive Features: \(1\) Dynamic Typing: Variable data types are inferred and) Tj
+T*
+(bound at runtime rather than compile-time. \(2\) Automatic Memory Management: Built-in) Tj
+T*
+(reference counting supplemented by a cyclic generational Garbage Collector \(GC\). \(3\)) Tj
+T*
+(Indentation-Delimited Block Structure: Eliminates curly braces {} and begin/end) Tj
+T*
+(tokens, using strict 4-space whitespace indentation \(PEP 8\). \(4\) Extensive Standard) Tj
+T*
+(Library: 'Batteries Included' philosophy providing comprehensive modules for I/O,) Tj
+T*
+(networking, regular expressions, and mathematics.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 1.2 Python Interactive Shells, IDEs and Package Management) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Interactive REPL \(Read-Eval-Print Loop\): Allows instant line-by-line expression) Tj
+T*
+(evaluation and interactive experimentation.) Tj
+T*
+(* Integrated Development Environments \(IDEs\): VS Code, PyCharm, and Jupyter Notebooks) Tj
+T*
+(facilitate rich syntax highlighting, integrated debugging, and virtual environment) Tj
+T*
+(switching.) Tj
+T*
+(* Package Management via PIP and Virtual Environments: The pip package installer) Tj
+T*
+(fetches third-party libraries from the Python Package Index \(PyPI\). Virtual) Tj
+T*
+(environments \(python -m venv env\) isolate project dependencies, preventing version) Tj
+T*
+(collisions across distinct applications.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 1.3 Variables, Dynamic Typing and Memory Allocation) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* In Python, variables are NOT typed memory containers; they are symbolic name) Tj
+T*
+(references \(pointers\) bound to objects residing in heap memory.) Tj
+T*
+(* Object Model: Every Python entity is a first-class object containing three) Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 3055 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Python Programming | Unit 1: Python Fundamentals & Setup) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 2 of 6) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(fundamental attributes: \(1\) Identity: Memory address retrieved via id\(x\). \(2\) Type:) Tj
+T*
+(Object classification retrieved via type\(x\). \(3\) Value: Internal state data.) Tj
+T*
+(* Mutable vs Immutable Objects: Immutable types cannot have their in-place state) Tj
+T*
+(altered post-instantiation \(int, float, complex, bool, str, tuple, bytes, frozenset\).) Tj
+T*
+(Mutable types permit direct in-place modification \(list, dict, set, bytearray\).) Tj
+T*
+(* Small Integer Caching \(-5 to 256\): CPython pre-allocates and caches integer objects) Tj
+T*
+(in this range, meaning separate assignments bind to the identical memory address.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 1.4 Fundamental Data Types and Type Conversions) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Numeric Types: int \(arbitrary precision integers without overflow limits\), float) Tj
+T*
+(\(64-bit IEEE 754 double precision floating-point\), complex \(rectangular) Tj
+T*
+(representation z = a + bj\).) Tj
+T*
+(* Boolean Type: bool \(subclass of int, having values True \(1\) and False \(0\)\).) Tj
+T*
+(* Type Casting: Implicit type coercion \(e.g. adding int + float yields float\) and) Tj
+T*
+(Explicit type conversion functions \(int\(\), float\(\), str\(\), bool\(\), list\(\), tuple\(\)\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 1.5 Operators and Operator Precedence in Python) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Arithmetic Operators: Addition \(+\), Subtraction \(-\), Multiplication \(*\), True) Tj
+T*
+(Division \(/ yields float\), Floor Division \(// truncates to floor integer\), Modulus) Tj
+T*
+(\(%\), Exponentiation \(**\).) Tj
+T*
+(* Comparison \(Relational\) Operators: ==, !=, >, <, >=, <=, and Chained Comparisons) Tj
+T*
+(\(e.g., 0 < x <= 100\).) Tj
+T*
+(* Logical Operators: and, or, not \(utilizing Short-Circuit Evaluation: expr1 and) Tj
+T*
+(expr2 evaluates expr2 only if expr1 is truthy\).) Tj
+T*
+(* Bitwise Operators: &, |, ^, ~, <<, >> operating on binary bit representations.) Tj
+T*
+(* Identity vs Equality Operators: is checks memory identity \(id\(a\) == id\(b\)\); ==) Tj
+T*
+(checks value equality.) Tj
+T*
+(* Membership Operators: in and not in test presence of element within) Tj
+T*
+(sequence/collection.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 1.6 Standard Console Input, Output and String Formatting) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Console Input: The input\(prompt\) built-in function halts program execution, reads a) Tj
+T*
+(line of input from stdin as a string, and strips trailing newlines.) Tj
+T*
+(* Console Output: print\(*objects, sep=' ', end='\\\\n', file=sys.stdout, flush=False\).) Tj
+T*
+(* String Formatting Paradigms: \(1\) Old-style printf formatting \(%s, %d, %f\), \(2\)) Tj
+T*
+(str.format\(\) method, \(3\) Formatted String Literals \(F-Strings, introduced in Python) Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 2433 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Python Programming | Unit 1: Python Fundamentals & Setup) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 3 of 6) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(3.6\): f'{var:.2f}'.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 1: Interactive BMI Health Calculator with F-Strings]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Develop a robust Python console application that reads user name,) Tj
+T*
+(weight in kilograms, and height in centimeters. Compute Body Mass Index \(BMI = weight /) Tj
+T*
+(\(height_in_m\)^2\) and display a categorized report formatted to 2 decimal places using) Tj
+T*
+(modern f-strings.) Tj
+T*
+(Python Source Code:) Tj
+T*
+(# BMI Health Assessment Application) Tj
+T*
+(def calculate_bmi\(\):) Tj
+T*
+(name = input\('Enter client name: '\).strip\(\)) Tj
+T*
+(weight_kg = float\(input\('Enter body weight \(kg\): '\)\)) Tj
+T*
+(height_cm = float\(input\('Enter height \(cm\): '\)\)) Tj
+T*
+() Tj
+T*
+(height_m = height_cm / 100.0) Tj
+T*
+(bmi = weight_kg / \(height_m ** 2\)) Tj
+T*
+() Tj
+T*
+(if bmi < 18.5:) Tj
+T*
+(category = 'Underweight') Tj
+T*
+(elif bmi < 24.9:) Tj
+T*
+(category = 'Normal weight') Tj
+T*
+(elif bmi < 29.9:) Tj
+T*
+(category = 'Overweight') Tj
+T*
+(else:) Tj
+T*
+(category = 'Obesity') Tj
+T*
+() Tj
+T*
+(print\(f'\\\\n--- Health Assessment Report for {name.upper\(\)} ---'\)) Tj
+T*
+(print\(f'Weight: {weight_kg:.1f} kg | Height: {height_m:.2f} m'\)) Tj
+T*
+(print\(f'Computed BMI: {bmi:.2f} kg/m^2'\)) Tj
+T*
+(print\(f'Diagnostic Category: {category}'\)) Tj
+T*
+(Execution Trace & Output:) Tj
+T*
+(Input: Name = 'Aarav', Weight = 72.5, Height = 175.0) Tj
+T*
+(height_m = 1.75; bmi = 72.5 / \(1.75 ** 2\) = 72.5 / 3.0625 = 23.67 kg/m^2.) Tj
+T*
+(Output: 'Computed BMI: 23.67 kg/m^2 | Diagnostic Category: Normal weight'.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 2: Bitwise Arithmetic and Network Subnet Masking]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 2695 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Python Programming | Unit 1: Python Fundamentals & Setup) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 4 of 6) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(Problem Context: Implement an IP network utility in Python that reads an IPv4 address) Tj
+T*
+(and subnet mask as 32-bit integers, performs bitwise AND masking to determine the) Tj
+T*
+(network address, and calculates total usable host addresses.) Tj
+T*
+(Python Source Code:) Tj
+T*
+(# Bitwise IP Network Masking Utility) Tj
+T*
+(def ip_to_int\(octet1, octet2, octet3, octet4\):) Tj
+T*
+(return \(octet1 << 24\) | \(octet2 << 16\) | \(octet3 << 8\) | octet4) Tj
+T*
+() Tj
+T*
+(def int_to_ip\(ip_int\):) Tj
+T*
+(return f'{\(ip_int >> 24\) & 255}.{\(ip_int >> 16\) & 255}.{\(ip_int >> 8\) & 255}.{ip_int &) Tj
+T*
+(255}') Tj
+T*
+() Tj
+T*
+(ip_val = ip_to_int\(192, 168, 1, 145\)      # 192.168.1.145) Tj
+T*
+(mask_val = ip_to_int\(255, 255, 255, 224\)  # /27 Subnet \(255.255.255.224\)) Tj
+T*
+(network_val = ip_val & mask_val) Tj
+T*
+(broadcast_val = network_val | \(~mask_val & 0xFFFFFFFF\)) Tj
+T*
+(usable_hosts = \(broadcast_val - network_val\) - 1) Tj
+T*
+() Tj
+T*
+(print\(f'Host IP Address:      {int_to_ip\(ip_val\)}'\)) Tj
+T*
+(print\(f'Subnet Mask:          {int_to_ip\(mask_val\)}'\)) Tj
+T*
+(print\(f'Network Address:      {int_to_ip\(network_val\)}'\)) Tj
+T*
+(print\(f'Broadcast Address:    {int_to_ip\(broadcast_val\)}'\)) Tj
+T*
+(print\(f'Usable Host Capacity: {usable_hosts}'\)) Tj
+T*
+(Execution Trace & Output:) Tj
+T*
+(IP: 192.168.1.145 & 255.255.255.224 => 145 \(10010001\) & 224 \(11100000\) = 128 \(10000000\).) Tj
+T*
+(Network Address = 192.168.1.128; Broadcast = 192.168.1.159; Usable hosts = 30.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 3: Variable Identity, Memory References and Mutability]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Write a program demonstrating the difference between memory identity) Tj
+T*
+(\(is\) and value equality \(==\) for mutable vs immutable objects, and verify CPython small) Tj
+T*
+(integer caching.) Tj
+T*
+(Python Source Code:) Tj
+T*
+(# Exploring Python Object Model & Memory Caching) Tj
+T*
+(# Case 1: Small Integer Caching \(-5 to 256\)) Tj
+T*
+(a = 250; b = 250) Tj
+T*
+(print\(f'a is b \(250\): {a is b} | id\(a\): {id\(a\)}, id\(b\): {id\(b\)}'\)) Tj
+T*
+() Tj
+T*
+(# Case 2: Large Integers outside cache range) Tj
+T*
+(x = 1000; y = 1000) Tj
+T*
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 2549 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Python Programming | Unit 1: Python Fundamentals & Setup) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 5 of 6) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(print\(f'x == y: {x == y} | x is y: {x is y}'\)) Tj
+T*
+() Tj
+T*
+(# Case 3: Mutable Lists) Tj
+T*
+(list1 = [1, 2, 3]; list2 = [1, 2, 3]) Tj
+T*
+(print\(f'list1 == list2: {list1 == list2} | list1 is list2: {list1 is list2}'\)) Tj
+T*
+() Tj
+T*
+(# Case 4: Aliased Reference Mutation) Tj
+T*
+(list3 = list1) Tj
+T*
+(list3.append\(4\)) Tj
+T*
+(print\(f'After mutating list3: list1 = {list1} | list1 is list3: {list1 is list3}'\)) Tj
+T*
+(Execution Trace & Output:) Tj
+T*
+(a is b \(250\): True \(identical memory address due to integer interning\).) Tj
+T*
+(x is y \(1000\): False \(separate heap allocations\).) Tj
+T*
+(list1 is list2: False; list1 is list3: True; list1 becomes [1, 2, 3, 4] due to shared) Tj
+T*
+(pointer aliasing.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 4: Compound Interest and Investment Horizon Table]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Write a program calculating compound growth of a principal investment P) Tj
+T*
+(with annual interest rate r compounded n times per year over t years using formula A = P) Tj
+T*
+(* \(1 + r/n\)**\(n*t\). Generate a formatted financial tabular report.) Tj
+T*
+(Python Source Code:) Tj
+T*
+(# Compound Interest Growth Modeler) Tj
+T*
+(principal = 50000.0  # INR 50,000) Tj
+T*
+(rate = 0.08          # 8.0% annual interest) Tj
+T*
+(compounds_per_year = 4  # Quarterly compounding) Tj
+T*
+() Tj
+T*
+(print\(f'Initial Principal: INR {principal:,.2f} | Annual Rate: {rate*100:.1f}%'\)) Tj
+T*
+(print\('Year | Total Balance \(INR\) | Interest Earned \(INR\)'\)) Tj
+T*
+(print\('-' * 50\)) Tj
+T*
+(for year in range\(1, 6\):) Tj
+T*
+(balance = principal * \(1 + rate / compounds_per_year\) ** \(compounds_per_year * year\)) Tj
+T*
+(interest = balance - principal) Tj
+T*
+(print\(f'{year:4d} | {balance:19,.2f} | {interest:21,.2f}'\)) Tj
+T*
+(Execution Trace & Output:) Tj
+T*
+(Year 1: Balance = INR 54,121.61 | Interest = INR 4,121.61) Tj
+T*
+(Year 5: Balance = INR 74,297.37 | Interest = INR 24,297.37) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 1.7 University Review & Examination Questions) Tj
+T*
+/F1 9 Tf
+ET
+
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 16 0 R >>
+endobj
+16 0 obj
+<< /Length 2585 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Python Programming | Unit 1: Python Fundamentals & Setup) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 6 of 6) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+() Tj
+T*
+(* Q1: Explain Python's memory management architecture, distinguishing between) Tj
+T*
+(reference counting and generational garbage collection.) Tj
+T*
+(Answer: CPython manages memory primarily through Reference Counting. Every Python object) Tj
+T*
+(header contains an ob_refcnt counter tracking how many references point to it. When an) Tj
+T*
+(assignment, function call, or list insertion binds to the object, ob_refcnt increments;) Tj
+T*
+(when a variable goes out of scope or is reassigned, ob_refcnt decrements. When ob_refcnt) Tj
+T*
+(drops to zero, memory is deallocated immediately. However, reference counting fails to) Tj
+T*
+(reclaim Circular References \(e.g. object A references B, and B references A\). To resolve) Tj
+T*
+(this, CPython incorporates a Generational Garbage Collector that segregates objects into) Tj
+T*
+(three generations \(Gen 0, 1, 2\) based on survival time and periodically sweeps through) Tj
+T*
+(pointers to break unreachable circular reference cycles.) Tj
+T*
+(* Q2: Differentiate between the '==' operator and the 'is' operator in Python with) Tj
+T*
+(concrete illustrative examples.) Tj
+T*
+(Answer: The '==' operator evaluates Value Equality: it calls the __eq__\(\) dunder method) Tj
+T*
+(to check whether two distinct objects hold equivalent data content. The 'is' operator) Tj
+T*
+(evaluates Object Identity: it compares the raw memory addresses of two operands \(id\(a\)) Tj
+T*
+(== id\(b\)\) to check if both variable names point to the exact same physical heap object.) Tj
+T*
+(For example, if a = [1, 2] and b = [1, 2], a == b evaluates to True because their) Tj
+T*
+(element values match, but a is b evaluates to False because two independent list objects) Tj
+T*
+(were allocated at distinct memory locations.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 1.8 Key Takeaways and Revision Points) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Python source code compiles to bytecode \(.pyc\) executed on the Python Virtual) Tj
+T*
+(Machine \(PVM\).) Tj
+T*
+(* Variables are dynamic symbolic references, not statically typed storage boxes.) Tj
+T*
+(* Immutable types \(int, float, str, tuple\) cannot be altered in-place; mutable types) Tj
+T*
+(\(list, dict, set\) can.) Tj
+T*
+(* F-strings \(f'{var}'\) offer superior performance and readability for formatted) Tj
+T*
+(output.) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000178 00000 n 
+0000000248 00000 n 
+0000000323 00000 n 
+0000000435 00000 n 
+0000003485 00000 n 
+0000003597 00000 n 
+0000006704 00000 n 
+0000006817 00000 n 
+0000009303 00000 n 
+0000009417 00000 n 
+0000012165 00000 n 
+0000012279 00000 n 
+0000014881 00000 n 
+0000014995 00000 n 
+trailer
+<< /Size 17 /Root 1 0 R >>
+startxref
+17633
+%%EOF

@@ -1,0 +1,11060 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R 35 0 R 37 0 R 39 0 R 41 0 R 43 0 R 45 0 R 47 0 R 49 0 R 51 0 R 53 0 R 55 0 R 57 0 R 59 0 R 61 0 R 63 0 R 65 0 R 67 0 R 69 0 R 71 0 R] /Count 35 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 4 0 R /Resources << /Font << /F1 73 0 R /F2 74 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 7638 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 1: LINEAR ALGEBRA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 1 of 35) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(1.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What is the rank of an m x n zero matrix?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 772.3 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 772.3 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 762.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 762.7 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.1 Td
+(min\(m, n\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.5001 Td
+(m * n) Tj
+ET
+BT
+/F2 8.0 Tf
+42 719.9001 Td
+(2.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 719.9001 Td
+(An elementary row operation on matrix A does not) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(alter its:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 699.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 699.0001 Td
+(Eigenvalues) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.4001 Td
+(Rank) Tj
+ET
+BT
+/F2 7.4 Tf
+58 679.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 679.8001 Td
+(Trace) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.2001 Td
+(Determinant) Tj
+ET
+BT
+/F2 8.0 Tf
+42 646.6002 Td
+(3.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 646.6002 Td
+(A square matrix A is called singular if and only) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(if:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 625.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 625.7001 Td
+(Trace\(A\) = 0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.1002 Td
+(det\(A\) = 0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.5002 Td
+(Rank\(A\) = n) Tj
+ET
+BT
+/F2 7.4 Tf
+58 596.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 596.9002 Td
+(A = A^T) Tj
+ET
+BT
+/F2 8.0 Tf
+42 573.3002 Td
+(4.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 573.3002 Td
+(The transpose of a product of two matrices \(A *) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(B\)^T is equal to:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 552.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 552.4002 Td
+(A^T * B^T) Tj
+ET
+BT
+/F2 7.4 Tf
+58 542.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 542.8002 Td
+(B^T * A^T) Tj
+ET
+BT
+/F2 7.4 Tf
+58 533.2003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 533.2003 Td
+(\(B * A\)^T) Tj
+ET
+BT
+/F2 7.4 Tf
+58 523.6003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 523.6003 Td
+(A * B) Tj
+ET
+BT
+/F2 8.0 Tf
+42 500.0003 Td
+(5.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 500.0003 Td
+(For any real square matrix A, the matrix A + A^T) Tj
+ET
+BT
+/F1 7.8 Tf
+58 490.8003 Td
+(is always:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 479.1003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 479.1003 Td
+(Skew-symmetric) Tj
+ET
+BT
+/F2 7.4 Tf
+58 469.5003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 469.5003 Td
+(Symmetric) Tj
+ET
+BT
+/F2 7.4 Tf
+58 459.9003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 459.9003 Td
+(Orthogonal) Tj
+ET
+BT
+/F2 7.4 Tf
+58 450.3003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 450.3003 Td
+(Unitary) Tj
+ET
+BT
+/F2 8.0 Tf
+42 426.7003 Td
+(6.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 426.7003 Td
+(For any real square matrix A, the matrix A - A^T) Tj
+ET
+BT
+/F1 7.8 Tf
+58 417.5002 Td
+(is always:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 405.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 405.8002 Td
+(Symmetric) Tj
+ET
+BT
+/F2 7.4 Tf
+58 396.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 396.2002 Td
+(Skew-symmetric) Tj
+ET
+BT
+/F2 7.4 Tf
+58 386.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 386.6002 Td
+(Identity) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.0002 Td
+(Diagonal) Tj
+ET
+BT
+/F2 8.0 Tf
+42 353.4002 Td
+(7.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 353.4002 Td
+(The diagonal elements of a skew-symmetric matrix) Tj
+ET
+BT
+/F1 7.8 Tf
+58 344.2002 Td
+(are always:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 332.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 332.5002 Td
+(All ones) Tj
+ET
+BT
+/F2 7.4 Tf
+58 322.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 322.9002 Td
+(Purely imaginary) Tj
+ET
+BT
+/F2 7.4 Tf
+58 313.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 313.3002 Td
+(All zeros) Tj
+ET
+BT
+/F2 7.4 Tf
+58 303.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 303.7002 Td
+(Real non-zero) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(8.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(The determinant of an orthogonal matrix Q \(Q^T *) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(Q = I\) is always:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(1 only) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(+1 or -1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(Any positive real) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(9.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(In Row Echelon Form \(REF\), the leading entry in) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(each non-zero row is called a:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(Kernel) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(Pivot) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(Eigenvalue) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(Residue) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(10.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(The rank of an m x n matrix A is bounded above) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(by:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.5001 Td
+(m + n) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.9001 Td
+(min\(m, n\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.3002 Td
+(max\(m, n\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 587.7002 Td
+(m * n) Tj
+ET
+BT
+/F2 8.0 Tf
+306 564.1002 Td
+(11.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.1002 Td
+(If matrix A is of order 3x3 and det\(A\) = 5, then) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(det\(2*A\) equals:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 543.2002 Td
+(10) Tj
+ET
+BT
+/F2 7.4 Tf
+322 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 533.6002 Td
+(30) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.0002 Td
+(40) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.4003 Td
+(8) Tj
+ET
+BT
+/F2 8.0 Tf
+306 490.8003 Td
+(12.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 490.8003 Td
+(If A is an invertible matrix of order n, then) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6003 Td
+(det\(adj\(A\)\) equals:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 469.9002 Td
+(det\(A\)^n) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.3002 Td
+(det\(A\)^\(n-1\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 450.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 450.7002 Td
+(det\(A\)^\(n+1\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.1002 Td
+(1 / det\(A\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 417.5002 Td
+(13.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 417.5002 Td
+(The sum of the eigenvalues of any square matrix) Tj
+ET
+BT
+/F1 7.8 Tf
+322 408.3002 Td
+(A equals its:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 396.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 396.6002 Td
+(Determinant) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.0002 Td
+(Rank) Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.4002 Td
+(Trace) Tj
+ET
+BT
+/F2 7.4 Tf
+322 367.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 367.8002 Td
+(Nullity) Tj
+ET
+BT
+/F2 8.0 Tf
+306 344.2002 Td
+(14.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 344.2002 Td
+(The product of the eigenvalues of any square) Tj
+ET
+BT
+/F1 7.8 Tf
+322 335.0002 Td
+(matrix A equals its:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 323.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 323.3001 Td
+(Trace) Tj
+ET
+BT
+/F2 7.4 Tf
+322 313.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 313.7001 Td
+(Determinant) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.1001 Td
+(Rank) Tj
+ET
+BT
+/F2 7.4 Tf
+322 294.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 294.5001 Td
+(Norm) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 6 0 R /Resources << /Font << /F1 73 0 R /F2 74 0 R >> >> >>
+endobj
+6 0 obj
+<< /Length 8455 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 1: LINEAR ALGEBRA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 2 of 35) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(15.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(If lambda is an eigenvalue of an invertible) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(matrix A, then an eigenvalue of A^-1 is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(-lambda) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(1 / lambda) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(lambda^2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(sqrt\(lambda\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(16.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(If lambda is an eigenvalue of matrix A, then an) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(eigenvalue of A^k \(k is a positive integer\) is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(k * lambda) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(lambda^k) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(lambda / k) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(lambda + k) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(17.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(The eigenvalues of an upper triangular matrix) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(are strictly its:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.5001 Td
+(Superdiagonal elements) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.9001 Td
+(Main diagonal elements) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.3002 Td
+(Subdiagonal elements) Tj
+ET
+BT
+/F2 7.4 Tf
+58 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 587.7002 Td
+(First row entries) Tj
+ET
+BT
+/F2 8.0 Tf
+42 564.1002 Td
+(18.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(A system of linear equations AX = B is called) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(consistent if it possesses:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 543.2002 Td
+(Exactly zero solutions) Tj
+ET
+BT
+/F2 7.4 Tf
+58 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 533.6002 Td
+(At least one solution) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.0002 Td
+(Only the trivial solution) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.4003 Td
+(Infinitely many imaginary solutions) Tj
+ET
+BT
+/F2 8.0 Tf
+42 490.8003 Td
+(19.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 490.8003 Td
+(According to the Rouche-Capelli theorem, AX = B) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6003 Td
+(is consistent if and only if:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 469.9002 Td
+(rank\(A\) > rank\([A|B]\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.3002 Td
+(rank\(A\) = rank\([A|B]\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 450.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 450.7002 Td
+(rank\(A\) < rank\([A|B]\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.1002 Td
+(det\(A\) = det\(B\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 417.5002 Td
+(20.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 417.5002 Td
+(A consistent system AX = B with n unknowns has a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 408.3002 Td
+(unique solution if and only if:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 396.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 396.6002 Td
+(rank\(A\) = rank\([A|B]\) < n) Tj
+ET
+BT
+/F2 7.4 Tf
+58 387.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 387.0002 Td
+(rank\(A\) = rank\([A|B]\) = n) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.4002 Td
+(rank\(A\) != rank\([A|B]\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 367.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 367.8002 Td
+(det\(A\) = 0) Tj
+ET
+BT
+/F2 8.0 Tf
+42 344.2002 Td
+(21.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 344.2002 Td
+(A consistent system AX = B with n unknowns has) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.0002 Td
+(infinitely many solutions if:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 323.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 323.3001 Td
+(rank\(A\) = rank\([A|B]\) = r < n) Tj
+ET
+BT
+/F2 7.4 Tf
+58 313.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 313.7001 Td
+(rank\(A\) = n) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.1001 Td
+(rank\([A|B]\) = n+1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 294.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 294.5001 Td
+(det\(A\) != 0) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(22.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(A homogeneous system of linear equations AX = 0) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(always possesses:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(No solution) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(At least the trivial solution X = 0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(Only complex solutions) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(Two distinct solutions) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(23.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(For a homogeneous system AX = 0 with n unknowns,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(non-trivial solutions exist if and only if:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(rank\(A\) = n) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(rank\(A\) < n) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(det\(A\) != 0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(A is identity) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(24.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(The Cayley-Hamilton theorem states that every) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(square matrix satisfies its own:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.5001 Td
+(Eigenvector equation) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.9001 Td
+(Characteristic equation) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.3002 Td
+(Adjoint equation) Tj
+ET
+BT
+/F2 7.4 Tf
+322 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 587.7002 Td
+(Diagonal form) Tj
+ET
+BT
+/F2 8.0 Tf
+306 564.1002 Td
+(25.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.1002 Td
+(If the characteristic equation of matrix A is) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(lambda^2 - 5*lambda + 6 = 0, then A^-1 is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 543.2002 Td
+(\(1/6\)*\(5*I - A\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 533.6002 Td
+(\(1/5\)*\(6*I - A\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.0002 Td
+(5*A - 6*I) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.4003 Td
+(\(1/6\)*\(A - 5*I\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 490.8003 Td
+(26.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 490.8003 Td
+(Eigenvectors corresponding to distinct) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6003 Td
+(eigenvalues of a real matrix are always:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 469.9002 Td
+(Linearly dependent) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.3002 Td
+(Linearly independent) Tj
+ET
+BT
+/F2 7.4 Tf
+322 450.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 450.7002 Td
+(Orthogonal) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.1002 Td
+(Identical) Tj
+ET
+BT
+/F2 8.0 Tf
+306 417.5002 Td
+(27.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 417.5002 Td
+(A real symmetric matrix always possesses) Tj
+ET
+BT
+/F1 7.8 Tf
+322 408.3002 Td
+(eigenvalues that are:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 396.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 396.6002 Td
+(Purely imaginary) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.0002 Td
+(Real) Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.4002 Td
+(Complex conjugate pairs) Tj
+ET
+BT
+/F2 7.4 Tf
+322 367.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 367.8002 Td
+(All zero) Tj
+ET
+BT
+/F2 8.0 Tf
+306 344.2002 Td
+(28.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 344.2002 Td
+(The eigenvectors of a real symmetric matrix) Tj
+ET
+BT
+/F1 7.8 Tf
+322 335.0002 Td
+(corresponding to distinct eigenvalues are) Tj
+ET
+BT
+/F1 7.8 Tf
+322 325.8001 Td
+(mutually:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 314.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 314.1001 Td
+(Collinear) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.5001 Td
+(Orthogonal) Tj
+ET
+BT
+/F2 7.4 Tf
+322 294.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 294.9001 Td
+(Parallel) Tj
+ET
+BT
+/F2 7.4 Tf
+322 285.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 285.3001 Td
+(Zero vectors) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 8 0 R /Resources << /Font << /F1 73 0 R /F2 74 0 R >> >> >>
+endobj
+8 0 obj
+<< /Length 8334 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 1: LINEAR ALGEBRA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 3 of 35) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(29.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(A square matrix A is diagonalizable if and only) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(if it has:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(Zero trace) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(n linearly independent eigenvectors) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(All eigenvalues equal to 1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(det\(A\) = 0) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(30.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(If P diagonalizes matrix A such that D = P^-1 *) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(A * P, the columns of P are:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(Rows of A) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(Eigenvectors of A) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(Pivots of A) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(Orthogonal bases of null space) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(31.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(The geometric multiplicity of an eigenvalue) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(lambda is defined as the:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.5001 Td
+(Multiplicity of lambda as a root of det\(A -) Tj
+ET
+BT
+/F1 7.4 Tf
+72 607.9001 Td
+(lambda*I\) = 0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 598.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 598.3002 Td
+(Dimension of the eigenspace Null\(A -) Tj
+ET
+BT
+/F1 7.4 Tf
+72 589.7002 Td
+(lambda*I\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 580.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 580.1002 Td
+(Trace of matrix A) Tj
+ET
+BT
+/F2 7.4 Tf
+58 570.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 570.5002 Td
+(Rank of matrix A) Tj
+ET
+BT
+/F2 8.0 Tf
+42 546.9003 Td
+(32.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 546.9003 Td
+(The algebraic multiplicity \(AM\) and geometric) Tj
+ET
+BT
+/F1 7.8 Tf
+58 537.7003 Td
+(multiplicity \(GM\) of an eigenvalue satisfy:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 526.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 526.0002 Td
+(GM > AM) Tj
+ET
+BT
+/F2 7.4 Tf
+58 516.4003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 516.4003 Td
+(1 <= GM <= AM) Tj
+ET
+BT
+/F2 7.4 Tf
+58 506.8003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 506.8003 Td
+(GM = AM + 1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 497.2003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 497.2003 Td
+(GM * AM = 0) Tj
+ET
+BT
+/F2 8.0 Tf
+42 473.6003 Td
+(33.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 473.6003 Td
+(A quadratic form Q\(x\) = X^T * A * X is called) Tj
+ET
+BT
+/F1 7.8 Tf
+58 464.4002 Td
+(positive definite if Q\(x\) > 0 for all:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 452.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 452.7002 Td
+(x in R^n) Tj
+ET
+BT
+/F2 7.4 Tf
+58 443.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 443.1002 Td
+(x != 0 in R^n) Tj
+ET
+BT
+/F2 7.4 Tf
+58 433.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 433.5002 Td
+(x = 0 only) Tj
+ET
+BT
+/F2 7.4 Tf
+58 423.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 423.9002 Td
+(x with norm 1) Tj
+ET
+BT
+/F2 8.0 Tf
+42 400.3002 Td
+(34.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 400.3002 Td
+(By Sylvester's criterion, a symmetric matrix is) Tj
+ET
+BT
+/F1 7.8 Tf
+58 391.1002 Td
+(positive definite if and only if:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 379.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 379.4002 Td
+(All its elements are positive) Tj
+ET
+BT
+/F2 7.4 Tf
+58 369.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 369.8002 Td
+(All leading principal minors are strictly) Tj
+ET
+BT
+/F1 7.4 Tf
+72 361.2002 Td
+(positive) Tj
+ET
+BT
+/F2 7.4 Tf
+58 351.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 351.6002 Td
+(Trace is positive) Tj
+ET
+BT
+/F2 7.4 Tf
+58 342.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 342.0002 Td
+(Determinant is negative) Tj
+ET
+BT
+/F2 8.0 Tf
+42 318.4001 Td
+(35.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 318.4001 Td
+(The signature of a real quadratic form is) Tj
+ET
+BT
+/F1 7.8 Tf
+58 309.2001 Td
+(defined as the difference between the number of:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 297.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 297.5001 Td
+(Rows and columns) Tj
+ET
+BT
+/F2 7.4 Tf
+58 287.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 287.9001 Td
+(Positive and negative eigenvalues) Tj
+ET
+BT
+/F2 7.4 Tf
+58 278.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 278.3001 Td
+(Pivots and free variables) Tj
+ET
+BT
+/F2 7.4 Tf
+58 268.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 268.7001 Td
+(Zero and non-zero rows) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(36.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(In biotechnology, a Leslie matrix is utilized to) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(model:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(Substrate enzyme kinetics) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(Age-structured population dynamics) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(DNA base pair sequences) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(Chromatography flow rate) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(37.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(In metabolic flux analysis, the stoichiometric) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(matrix S satisfies steady-state balance:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(S * v = 0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(S + v = 1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(S * v = infinity) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(det\(S\) = v) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(38.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(The rank-nullity theorem for an m x n matrix A) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(states that rank\(A\) + nullity\(A\) equals:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.5001 Td
+(m) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.9001 Td
+(n) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.3002 Td
+(m + n) Tj
+ET
+BT
+/F2 7.4 Tf
+322 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 587.7002 Td
+(m * n) Tj
+ET
+BT
+/F2 8.0 Tf
+306 564.1002 Td
+(39.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.1002 Td
+(If A is an idempotent matrix \(A^2 = A\), its) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(eigenvalues can only be:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 543.2002 Td
+(1 and -1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 533.6002 Td
+(0 and 1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.0002 Td
+(0 and -1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.4003 Td
+(Any positive integer) Tj
+ET
+BT
+/F2 8.0 Tf
+306 490.8003 Td
+(40.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 490.8003 Td
+(If A is an involuntary matrix \(A^2 = I\), its) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6003 Td
+(eigenvalues can only be:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 469.9002 Td
+(0 and 1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.3002 Td
+(+1 and -1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 450.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 450.7002 Td
+(0 and -1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.1002 Td
+(2 and -2) Tj
+ET
+BT
+/F2 8.0 Tf
+306 417.5002 Td
+(41.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 417.5002 Td
+(The rank of the matrix A = [1 2 3; 2 4 6; 3 6 9]) Tj
+ET
+BT
+/F1 7.8 Tf
+322 408.3002 Td
+(is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 396.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 396.6002 Td
+(3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.0002 Td
+(2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.4002 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 367.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 367.8002 Td
+(0) Tj
+ET
+BT
+/F2 8.0 Tf
+306 344.2002 Td
+(42.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 344.2002 Td
+(The rank of the matrix A = [1 1 1; 1 2 3; 1 4 9]) Tj
+ET
+BT
+/F1 7.8 Tf
+322 335.0002 Td
+(is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 323.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 323.3001 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 313.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 313.7001 Td
+(2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.1001 Td
+(3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 294.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 294.5001 Td
+(0) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 10 0 R /Resources << /Font << /F1 73 0 R /F2 74 0 R >> >> >>
+endobj
+10 0 obj
+<< /Length 7938 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 1: LINEAR ALGEBRA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 4 of 35) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(43.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(For what value of k does the system x + y + z =) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(1, x + 2y + 4z = k, x + 4y + 10z = k^2 have a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(solution?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(k = 1 or k = 2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.3 Td
+(k = 2 or k = 3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.7 Td
+(Any real k) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.1 Td
+(No real k) Tj
+ET
+BT
+/F2 8.0 Tf
+42 701.5001 Td
+(44.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(If matrix A = [2 1; 1 2], the eigenvalues of A) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.3 Td
+(are:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.6 Td
+(1 and 2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.0001 Td
+(1 and 3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.4001 Td
+(2 and 3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 651.8001 Td
+(0 and 3) Tj
+ET
+BT
+/F2 8.0 Tf
+42 628.2001 Td
+(45.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(For matrix A = [3 1; 0 3], the algebraic and) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.0001 Td
+(geometric multiplicities of lambda = 3 are:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 607.3001 Td
+(AM = 1, GM = 1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.7001 Td
+(AM = 2, GM = 1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.1002 Td
+(AM = 2, GM = 2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 578.5002 Td
+(AM = 1, GM = 2) Tj
+ET
+BT
+/F2 8.0 Tf
+42 554.9002 Td
+(46.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(Is the matrix A = [3 1; 0 3] diagonalizable over) Tj
+ET
+BT
+/F1 7.8 Tf
+58 545.7002 Td
+(R?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 534.0002 Td
+(Yes, always) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.4002 Td
+(No, because GM < AM) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.8002 Td
+(Yes, because det\(A\) != 0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 505.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 505.2002 Td
+(No, because trace is 6) Tj
+ET
+BT
+/F2 8.0 Tf
+42 481.6002 Td
+(47.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6002 Td
+(The eigenvalues of matrix A = [1 2; 3 2] are:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 469.9002 Td
+(4 and -1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.3002 Td
+(3 and 2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 450.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 450.7002 Td
+(-4 and 1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.1002 Td
+(5 and -1) Tj
+ET
+BT
+/F2 8.0 Tf
+42 417.5002 Td
+(48.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 417.5002 Td
+(The normalized eigenvector of A = [2 0; 0 3]) Tj
+ET
+BT
+/F1 7.8 Tf
+58 408.3002 Td
+(corresponding to lambda = 2 is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 396.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 396.6002 Td
+([1, 0]^T) Tj
+ET
+BT
+/F2 7.4 Tf
+58 387.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 387.0002 Td
+([0, 1]^T) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.4001 Td
+([1, 1]^T / sqrt\(2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 367.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 367.8001 Td
+([1, -1]^T) Tj
+ET
+BT
+/F2 8.0 Tf
+42 344.2001 Td
+(49.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 344.2001 Td
+(Using Cayley-Hamilton for A = [1 2; 0 2], the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.0001 Td
+(expression for A^3 in terms of A and I is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 323.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 323.3001 Td
+(7*A - 6*I) Tj
+ET
+BT
+/F2 7.4 Tf
+58 313.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 313.7001 Td
+(3*A - 2*I) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.1001 Td
+(6*A - 7*I) Tj
+ET
+BT
+/F2 7.4 Tf
+58 294.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 294.5001 Td
+(8*A - 6*I) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(50.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(If A is a 3x3 matrix with eigenvalues 1, -2, 3,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(then det\(A^2 - 2*A\) equals:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(-15) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(45) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(18) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(51.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(The quadratic form Q\(x1, x2\) = 2*x1^2 + 4*x1*x2) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(+ 5*x2^2 has matrix representation:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+([2 4; 4 5]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+([2 2; 2 5]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+([4 2; 2 5]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+([2 0; 0 5]) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(52.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(The nature of the quadratic form Q\(x, y\) = 2*x^2) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(+ 2*x*y + 2*y^2 is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.5001 Td
+(Negative definite) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.9001 Td
+(Positive definite) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.3002 Td
+(Indefinite) Tj
+ET
+BT
+/F2 7.4 Tf
+322 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 587.7002 Td
+(Semidefinite) Tj
+ET
+BT
+/F2 8.0 Tf
+306 564.1002 Td
+(53.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.1002 Td
+(The eigenvalues of the matrix A = [0 1; -1 0]) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(are:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 543.2002 Td
+(1 and -1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 533.6002 Td
+(i and -i) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.0002 Td
+(0 and 1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.4003 Td
+(2 and -2) Tj
+ET
+BT
+/F2 8.0 Tf
+306 490.8003 Td
+(54.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 490.8003 Td
+(If A is a 3x3 real orthogonal matrix and det\(A\)) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6003 Td
+(= 1, then A represents a:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 469.9002 Td
+(Pure reflection) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.3002 Td
+(Pure rotation in R^3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 450.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 450.7002 Td
+(Scaling transformation) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.1002 Td
+(Shear transformation) Tj
+ET
+BT
+/F2 8.0 Tf
+306 417.5002 Td
+(55.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 417.5002 Td
+(The trace of matrix A = [5 2 -1; 3 0 4; 1 6 -2]) Tj
+ET
+BT
+/F1 7.8 Tf
+322 408.3002 Td
+(is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 396.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 396.6002 Td
+(5) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.0002 Td
+(3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.4002 Td
+(7) Tj
+ET
+BT
+/F2 7.4 Tf
+322 367.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 367.8002 Td
+(-2) Tj
+ET
+BT
+/F2 8.0 Tf
+306 344.2002 Td
+(56.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 344.2002 Td
+(The system x + 2y - z = 0, 2x + y + z = 0, x - y) Tj
+ET
+BT
+/F1 7.8 Tf
+322 335.0002 Td
+(+ 2z = 0 has how many linearly independent) Tj
+ET
+BT
+/F1 7.8 Tf
+322 325.8001 Td
+(solutions?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 314.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 314.1001 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.5001 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 294.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 294.9001 Td
+(2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 285.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 285.3001 Td
+(3) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 12 0 R /Resources << /Font << /F1 73 0 R /F2 74 0 R >> >> >>
+endobj
+12 0 obj
+<< /Length 8684 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 1: LINEAR ALGEBRA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 5 of 35) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(57.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(If lambda = 0 is an eigenvalue of matrix A,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(which of the following is strictly true?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(A is non-singular) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(det\(A\) = 0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(A is symmetric) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(Trace\(A\) = 0) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(58.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(If A and B are square matrices of the same) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(order, then Trace\(A * B\) equals:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(Trace\(A\) * Trace\(B\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(Trace\(B * A\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(Trace\(A\) + Trace\(B\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(det\(A * B\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(59.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(For an n x n matrix A, if A^k = 0 for some) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(integer k >= 1 \(nilpotent\), all eigenvalues of A) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.0001 Td
+(are:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 607.3001 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.7001 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.1002 Td
+(-1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 578.5002 Td
+(k) Tj
+ET
+BT
+/F2 8.0 Tf
+42 554.9002 Td
+(60.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(The modal matrix P that diagonalizes A = [1 1; 0) Tj
+ET
+BT
+/F1 7.8 Tf
+58 545.7002 Td
+(2] is composed of columns:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 534.0002 Td
+([1, 0]^T and [1, 1]^T) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.4002 Td
+([1, 1]^T and [0, 1]^T) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.8002 Td
+([1, -1]^T and [1, 1]^T) Tj
+ET
+BT
+/F2 7.4 Tf
+58 505.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 505.2002 Td
+([2, 0]^T and [0, 1]^T) Tj
+ET
+BT
+/F2 8.0 Tf
+42 481.6002 Td
+(61.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6002 Td
+(The rank of the augmented matrix [A|B] for an) Tj
+ET
+BT
+/F1 7.8 Tf
+58 472.4002 Td
+(inconsistent system is always:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.7002 Td
+(Equal to rank\(A\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 451.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 451.1002 Td
+(Greater than rank\(A\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.5002 Td
+(Less than rank\(A\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 431.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 431.9002 Td
+(Zero) Tj
+ET
+BT
+/F2 8.0 Tf
+42 408.3002 Td
+(62.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 408.3002 Td
+(In Gauss-Jordan elimination, the coefficient) Tj
+ET
+BT
+/F1 7.8 Tf
+58 399.1002 Td
+(matrix is transformed into:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 387.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 387.4001 Td
+(Upper triangular form) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.8001 Td
+(Lower triangular form) Tj
+ET
+BT
+/F2 7.4 Tf
+58 368.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 368.2001 Td
+(Reduced row echelon form \(identity\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 358.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 358.6001 Td
+(Tridiagonal form) Tj
+ET
+BT
+/F2 8.0 Tf
+42 335.0001 Td
+(63.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.0001 Td
+(The number of independent parameters in the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 325.8001 Td
+(general solution of AX = 0 with rank r and n) Tj
+ET
+BT
+/F1 7.8 Tf
+58 316.6001 Td
+(variables is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.9001 Td
+(r) Tj
+ET
+BT
+/F2 7.4 Tf
+58 295.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 295.3001 Td
+(n) Tj
+ET
+BT
+/F2 7.4 Tf
+58 285.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 285.7001 Td
+(n - r) Tj
+ET
+BT
+/F2 7.4 Tf
+58 276.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 276.1001 Td
+(n + r) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(64.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(If A = [a b; c d], the characteristic equation) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(det\(A - lambda*I\) = 0 can be written as:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(lambda^2 - Trace\(A\)*lambda + det\(A\) = 0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(lambda^2 + Trace\(A\)*lambda - det\(A\) = 0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(lambda^2 - det\(A\)*lambda + Trace\(A\) = 0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(lambda^2 - Trace\(A\) = 0) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(65.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(If the eigenvalues of A are 2, 4, 8, the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(eigenvalues of adj\(A\) are:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(1/2, 1/4, 1/8) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(32, 16, 8) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(64, 32, 16) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(4, 8, 16) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(66.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(The quadratic form Q\(x, y, z\) = x^2 + 2*y^2 +) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(3*z^2 has rank and signature:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.5001 Td
+(Rank 3, Signature 3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.9001 Td
+(Rank 3, Signature 1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.3002 Td
+(Rank 2, Signature 2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 587.7002 Td
+(Rank 1, Signature 1) Tj
+ET
+BT
+/F2 8.0 Tf
+306 564.1002 Td
+(67.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.1002 Td
+(A biotechnology microbial growth system has) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(state vector x_{k+1} = L * x_k. The long-term) Tj
+ET
+BT
+/F1 7.8 Tf
+322 545.7002 Td
+(growth rate is determined by:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 534.0002 Td
+(The minimum eigenvalue of L) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.4002 Td
+(The strictly dominant eigenvalue of L) Tj
+ET
+BT
+/F1 7.4 Tf
+336 515.8002 Td
+(\(spectral radius\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 506.2002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 506.2002 Td
+(Trace of L) Tj
+ET
+BT
+/F2 7.4 Tf
+322 496.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 496.6002 Td
+(Determinant of L) Tj
+ET
+BT
+/F2 8.0 Tf
+306 473.0002 Td
+(68.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 473.0002 Td
+(In metabolic network stoichiometry S * v = 0,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 463.8002 Td
+(the degrees of freedom for flux variability is) Tj
+ET
+BT
+/F1 7.8 Tf
+322 454.6002 Td
+(given by:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 442.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 442.9002 Td
+(dim\(Col\(S\)\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 433.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 433.3002 Td
+(Nullity of S \(dim\(Null\(S\)\)\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 423.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 423.7002 Td
+(Rank of S) Tj
+ET
+BT
+/F2 7.4 Tf
+322 414.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 414.1002 Td
+(Trace of S) Tj
+ET
+BT
+/F2 8.0 Tf
+306 390.5002 Td
+(69.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 390.5002 Td
+(If A is symmetric, any two eigenvectors) Tj
+ET
+BT
+/F1 7.8 Tf
+322 381.3001 Td
+(corresponding to distinct eigenvalues lambda1 !=) Tj
+ET
+BT
+/F1 7.8 Tf
+322 372.1001 Td
+(lambda2 satisfy:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 360.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 360.4001 Td
+(X1 + X2 = 0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 350.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 350.8001 Td
+(X1^T * X2 = 0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 341.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 341.2001 Td
+(X1 = c * X2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 331.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 331.6001 Td
+(X1^T * X2 = 1) Tj
+ET
+BT
+/F2 8.0 Tf
+306 308.0001 Td
+(70.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 308.0001 Td
+(If A is skew-symmetric of odd order 2k+1, its) Tj
+ET
+BT
+/F1 7.8 Tf
+322 298.8001 Td
+(determinant is always:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 287.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 287.1001 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 277.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 277.5001 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 267.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 267.9001 Td
+(-1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 258.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 258.3 Td
+(Odd integer) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 14 0 R /Resources << /Font << /F1 73 0 R /F2 74 0 R >> >> >>
+endobj
+14 0 obj
+<< /Length 7892 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 1: LINEAR ALGEBRA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 6 of 35) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(71.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(The inverse of an orthogonal matrix Q is given) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(by:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(Q^-1 = -Q) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(Q^-1 = Q^T) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(Q^-1 = det\(Q\)*Q) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(Q^-1 = adj\(Q\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(72.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(The spectral radius rho\(A\) of a square matrix A) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(is defined as:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(min |lambda_i|) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(max |lambda_i|) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(Sum of |lambda_i|) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(Product of |lambda_i|) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(73.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(For the system 2x + y = 5, 4x + 2y = 10, the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(system is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.5001 Td
+(Inconsistent) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.9001 Td
+(Consistent with unique solution) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.3002 Td
+(Consistent with infinitely many solutions) Tj
+ET
+BT
+/F2 7.4 Tf
+58 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 587.7002 Td
+(Trivial) Tj
+ET
+BT
+/F2 8.0 Tf
+42 564.1002 Td
+(74.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(For the system x + y = 2, 2x + 2y = 5, the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(system is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 543.2002 Td
+(Consistent with unique solution) Tj
+ET
+BT
+/F2 7.4 Tf
+58 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 533.6002 Td
+(Inconsistent) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.0002 Td
+(Consistent with infinite solutions) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.4003 Td
+(Indeterminate) Tj
+ET
+BT
+/F2 8.0 Tf
+42 490.8003 Td
+(75.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 490.8003 Td
+(The product of two symmetric matrices A and B is) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6003 Td
+(symmetric if and only if:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 469.9002 Td
+(A and B commute \(A * B = B * A\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.3002 Td
+(det\(A\) = det\(B\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 450.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 450.7002 Td
+(A = B^-1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.1002 Td
+(Trace\(A\) = Trace\(B\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 417.5002 Td
+(76.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 417.5002 Td
+(Evaluate the rank of the 4x4 matrix A where a_ij) Tj
+ET
+BT
+/F1 7.8 Tf
+58 408.3002 Td
+(= i * j:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 396.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 396.6002 Td
+(4) Tj
+ET
+BT
+/F2 7.4 Tf
+58 387.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 387.0002 Td
+(2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.4002 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 367.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 367.8002 Td
+(0) Tj
+ET
+BT
+/F2 8.0 Tf
+42 344.2002 Td
+(77.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 344.2002 Td
+(Find the value of 'a' for which matrix A = [1 1) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.0002 Td
+(1; 1 2 4; 1 3 a] has rank 2:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 323.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 323.3001 Td
+(5) Tj
+ET
+BT
+/F2 7.4 Tf
+58 313.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 313.7001 Td
+(6) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.1001 Td
+(7) Tj
+ET
+BT
+/F2 7.4 Tf
+58 294.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 294.5001 Td
+(9) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(78.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Let A be a 3x3 matrix with eigenvalues 1, 2, 3.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(What is the trace of A^3?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(14) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(36) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(24) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(32) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(79.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(If A = [1 2; 3 4], using Cayley-Hamilton) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(theorem, find A^2 - 5*A - 2*I:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(I) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(O \(Zero matrix\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(2*I) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(5*A) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(80.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(Given A = [2 2; 1 3], what is the matrix A^4?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 625.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 625.7001 Td
+([256 254; 127 383]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.1002 Td
+([170 170; 85 255]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.5002 Td
+([128 128; 64 192]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 596.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 596.9002 Td
+([300 200; 100 400]) Tj
+ET
+BT
+/F2 8.0 Tf
+306 573.3002 Td
+(81.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 573.3002 Td
+(The eigenvalues of the 3x3 matrix A = [2 1 1; 1) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.1002 Td
+(2 1; 1 1 2] are:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 552.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 552.4002 Td
+(1, 1, 4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 542.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 542.8002 Td
+(2, 2, 2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 533.2003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 533.2003 Td
+(0, 1, 5) Tj
+ET
+BT
+/F2 7.4 Tf
+322 523.6003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 523.6003 Td
+(1, 2, 3) Tj
+ET
+BT
+/F2 8.0 Tf
+306 500.0003 Td
+(82.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 500.0003 Td
+(For matrix A = [2 1 1; 1 2 1; 1 1 2], what is) Tj
+ET
+BT
+/F1 7.8 Tf
+322 490.8003 Td
+(the dimension of the eigenspace corresponding to) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6003 Td
+(lambda = 1?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 469.9003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 469.9003 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.3003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.3003 Td
+(2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 450.7003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 450.7003 Td
+(3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.1003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.1003 Td
+(0) Tj
+ET
+BT
+/F2 8.0 Tf
+306 417.5002 Td
+(83.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 417.5002 Td
+(What is the determinant of the 4x4 circulant) Tj
+ET
+BT
+/F1 7.8 Tf
+322 408.3002 Td
+(matrix whose rows are cyclic shifts of [1, 2, 3,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 399.1002 Td
+(4]?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.4002 Td
+(-160) Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.8002 Td
+(160) Tj
+ET
+BT
+/F2 7.4 Tf
+322 368.2002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 368.2002 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 358.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 358.6002 Td
+(256) Tj
+ET
+BT
+/F2 8.0 Tf
+306 335.0002 Td
+(84.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 335.0002 Td
+(If A is a 3x3 matrix with det\(A\) = 4, then) Tj
+ET
+BT
+/F1 7.8 Tf
+322 325.8002 Td
+(det\(adj\(adj\(A\)\)\) equals:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 314.1002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 314.1002 Td
+(16) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.5002 Td
+(64) Tj
+ET
+BT
+/F2 7.4 Tf
+322 294.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 294.9001 Td
+(256) Tj
+ET
+BT
+/F2 7.4 Tf
+322 285.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 285.3001 Td
+(4) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 16 0 R /Resources << /Font << /F1 73 0 R /F2 74 0 R >> >> >>
+endobj
+16 0 obj
+<< /Length 8530 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 1: LINEAR ALGEBRA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 7 of 35) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(85.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Find the quadratic form associated with) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(symmetric matrix A = [1 2 3; 2 0 4; 3 4 5]:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(x^2 + 5z^2 + 4xy + 6xz + 8yz) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(x^2 + 5z^2 + 2xy + 3xz + 4yz) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(x^2 + 4xy + 5z^2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(2x^2 + 3y^2 + 5z^2 + 8yz) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(86.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(The quadratic form Q = x1^2 + 2*x2^2 + 3*x3^2 +) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(2*x1*x2 - 2*x1*x3 + 2*x2*x3 has principal minors) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.3 Td
+(Delta1, Delta2, Delta3 equal to:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.6 Td
+(1, 1, -2 \(Indefinite\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.0001 Td
+(1, 1, 0 \(Positive semidefinite\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.4001 Td
+(1, 2, 6 \(Positive definite\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 651.8001 Td
+(1, -1, 3 \(Indefinite\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 628.2001 Td
+(87.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(In a 2-stage age structured population Leslie) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.0001 Td
+(matrix L = [0 4; 0.5 0], the dominant eigenvalue) Tj
+ET
+BT
+/F1 7.8 Tf
+58 609.8001 Td
+(is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 598.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 598.1001 Td
+(1.0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.5001 Td
+(sqrt\(2\) = 1.414) Tj
+ET
+BT
+/F2 7.4 Tf
+58 578.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 578.9001 Td
+(2.0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 569.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 569.3002 Td
+(4.0) Tj
+ET
+BT
+/F2 8.0 Tf
+42 545.7002 Td
+(88.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 545.7002 Td
+(For the Leslie matrix L = [0 4; 0.5 0], the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 536.5002 Td
+(stable stage ratio \(eigenvector for lambda =) Tj
+ET
+BT
+/F1 7.8 Tf
+58 527.3002 Td
+(sqrt\(2\)\) is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 515.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 515.6002 Td
+([2*sqrt\(2\), 1]^T) Tj
+ET
+BT
+/F2 7.4 Tf
+58 506.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 506.0002 Td
+([4, 1]^T) Tj
+ET
+BT
+/F2 7.4 Tf
+58 496.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 496.4001 Td
+([1, 2]^T) Tj
+ET
+BT
+/F2 7.4 Tf
+58 486.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 486.8001 Td
+([sqrt\(2\), 1]^T) Tj
+ET
+BT
+/F2 8.0 Tf
+42 463.2001 Td
+(89.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 463.2001 Td
+(If A = [1 4; 2 3], the inverse A^-1 computed via) Tj
+ET
+BT
+/F1 7.8 Tf
+58 454.0001 Td
+(Cayley-Hamilton theorem is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 442.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 442.3001 Td
+(\(-1/5\) * [3 -4; -2 1]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 432.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 432.7001 Td
+(\(1/5\) * [3 -4; -2 1]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 423.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 423.1001 Td
+(\(-1/5\) * [-3 4; 2 -1]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 413.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 413.5001 Td
+(\(1/5\) * [1 4; 2 3]) Tj
+ET
+BT
+/F2 8.0 Tf
+42 389.9001 Td
+(90.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 389.9001 Td
+(If A is an n x n skew-symmetric matrix and n is) Tj
+ET
+BT
+/F1 7.8 Tf
+58 380.7001 Td
+(even, then det\(A\) is always:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 369.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 369.0001 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 359.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 359.4001 Td
+(A perfect square) Tj
+ET
+BT
+/F2 7.4 Tf
+58 349.8 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 349.8 Td
+(Negative) Tj
+ET
+BT
+/F2 7.4 Tf
+58 340.2 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 340.2 Td
+(Purely imaginary) Tj
+ET
+BT
+/F2 8.0 Tf
+42 316.6 Td
+(91.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 316.6 Td
+(The linear transformation T: R^3 -> R^3 has) Tj
+ET
+BT
+/F1 7.8 Tf
+58 307.4 Td
+(matrix [1 2 3; 0 1 4; 5 6 0]. The dimension of) Tj
+ET
+BT
+/F1 7.8 Tf
+58 298.2 Td
+(the Range of T is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 286.5 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 286.5 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 276.9 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 276.9 Td
+(2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 267.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 267.3 Td
+(3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 257.7 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 257.7 Td
+(0) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(92.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(If A is an invertible matrix and lambda is an) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(eigenvalue of A with eigenvector X, then X is an) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(eigenvector of \(A + 3*I\)^-1 with eigenvalue:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(1 / \(lambda + 3\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.3 Td
+(lambda + 3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.7 Td
+(3 / lambda) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.1 Td
+(lambda / \(lambda + 3\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 701.5001 Td
+(93.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(The condition number kappa\(A\) = ||A|| * ||A^-1||) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(of an orthogonal matrix is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.6 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.0001 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.4001 Td
+(Infinity) Tj
+ET
+BT
+/F2 7.4 Tf
+322 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 651.8001 Td
+(2) Tj
+ET
+BT
+/F2 8.0 Tf
+306 628.2001 Td
+(94.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(Solve the system using Cramer's rule: 2x - y =) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(1, x + 3y = 11. The value of x is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.3001 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.7001 Td
+(2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.1002 Td
+(3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 578.5002 Td
+(4) Tj
+ET
+BT
+/F2 8.0 Tf
+306 554.9002 Td
+(95.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(Solve the system 2x - y = 1, x + 3y = 11. The) Tj
+ET
+BT
+/F1 7.8 Tf
+322 545.7002 Td
+(value of y is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 534.0002 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.4002 Td
+(2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.8002 Td
+(3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 505.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 505.2002 Td
+(4) Tj
+ET
+BT
+/F2 8.0 Tf
+306 481.6002 Td
+(96.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6002 Td
+(For what value of lambda does the system \(lambda) Tj
+ET
+BT
+/F1 7.8 Tf
+322 472.4002 Td
+(- 1\)x + y = 0, x + \(lambda - 1\)y = 0 have) Tj
+ET
+BT
+/F1 7.8 Tf
+322 463.2002 Td
+(non-trivial solutions?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 451.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 451.5002 Td
+(lambda = 0, 2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.9002 Td
+(lambda = 1, -1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 432.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 432.3002 Td
+(lambda = 2, 3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 422.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 422.7002 Td
+(lambda = 0, 1) Tj
+ET
+BT
+/F2 8.0 Tf
+306 399.1002 Td
+(97.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 399.1002 Td
+(If A = [3 -2; 1 0], what is the expression for) Tj
+ET
+BT
+/F1 7.8 Tf
+322 389.9001 Td
+(A^n using diagonalization?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 378.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 378.2001 Td
+(\(2^n - 1\)*A - \(2^n - 2\)*I) Tj
+ET
+BT
+/F2 7.4 Tf
+322 368.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 368.6001 Td
+(2^n * A - I) Tj
+ET
+BT
+/F2 7.4 Tf
+322 359.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 359.0001 Td
+(\(2^n - 1\)*I + A) Tj
+ET
+BT
+/F2 7.4 Tf
+322 349.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 349.4001 Td
+(A + n*I) Tj
+ET
+BT
+/F2 8.0 Tf
+306 325.8001 Td
+(98.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 325.8001 Td
+(A metabolic network contains 4 metabolites and 6) Tj
+ET
+BT
+/F1 7.8 Tf
+322 316.6001 Td
+(reaction fluxes. The maximum number of) Tj
+ET
+BT
+/F1 7.8 Tf
+322 307.4001 Td
+(independent steady-state flux pathways is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 295.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 295.7001 Td
+(2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 286.1001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 286.1001 Td
+(4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 276.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 276.5001 Td
+(6) Tj
+ET
+BT
+/F2 7.4 Tf
+322 266.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 266.9001 Td
+(10) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 18 0 R /Resources << /Font << /F1 73 0 R /F2 74 0 R >> >> >>
+endobj
+18 0 obj
+<< /Length 1451 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 1: LINEAR ALGEBRA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 8 of 35) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(99.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(The matrix A = [1 0 0; 0 cos\(theta\) -sin\(theta\);) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(0 sin\(theta\) cos\(theta\)] has eigenvalues:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(1, e^\(i*theta\), e^\(-i*theta\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(1, 1, 1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(0, cos\(theta\), sin\(theta\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(1, -1, 1) Tj
+ET
+BT
+/F2 8.0 Tf
+42 700.7001 Td
+(100.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 700.7001 Td
+(If A is a positive definite symmetric matrix,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 691.5001 Td
+(then all diagonal entries a_ii must be:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 679.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 679.8 Td
+(Negative) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.2001 Td
+(Strictly positive \(a_ii > 0\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 660.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 660.6001 Td
+(Zero) Tj
+ET
+BT
+/F2 7.4 Tf
+58 651.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 651.0001 Td
+(Complex numbers) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 20 0 R /Resources << /Font << /F1 73 0 R /F2 74 0 R >> >> >>
+endobj
+20 0 obj
+<< /Length 6187 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 1: LINEAR ALGEBRA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 9 of 35) Tj
+ET
+BT
+/F2 10 Tf
+45 780 Td
+(SECTION B: DESCRIPTIVE & SUBJECTIVE QUESTIONS) Tj
+ET
+BT
+/F2 8.5 Tf
+45 760 Td
+(Q1. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 760 Td
+(Define elementary row operations on matrices, explain Row Echelon Form \(REF\) and Reduced Row) Tj
+ET
+BT
+/F1 8.5 Tf
+72 749.5 Td
+(Echelon Form \(RREF\), and prove that elementary operations preserve matrix rank.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 724.5 Td
+(Q2. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 724.5 Td
+(Determine the rank of the following 4x4 matrix A by systematically reducing it to Row Echelon) Tj
+ET
+BT
+/F1 8.5 Tf
+72 714 Td
+(Form: A = [[1, 2, -1, 3], [2, 4, 1, -2], [3, 6, 3, -7], [1, 2, 2, -5]].) Tj
+ET
+BT
+/F2 8.5 Tf
+45 689 Td
+(Q3. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 689 Td
+(State the Rouche-Capelli Theorem governing the consistency of a non-homogeneous system AX = B, and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 678.5 Td
+(provide a comprehensive theoretical proof.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 653.5 Td
+(Q4. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 653.5 Td
+(Investigate the consistency of the following system of equations for different values of lambda) Tj
+ET
+BT
+/F1 8.5 Tf
+72 643 Td
+(and mu: x + y + z = 6; x + 2y + 3z = 10; x + 2y + lambda*z = mu. Find the conditions for: \(i\) No) Tj
+ET
+BT
+/F1 8.5 Tf
+72 632.5 Td
+(solution, \(ii\) A unique solution, \(iii\) Infinitely many solutions.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 618 Td
+(Q5. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 618 Td
+(Explain the structure of the solution space of a homogeneous system of linear equations AX = 0.) Tj
+ET
+BT
+/F1 8.5 Tf
+72 607.5 Td
+(Define nullity and prove the Rank-Nullity Theorem for an m x n matrix A.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 582.5 Td
+(Q6. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 582.5 Td
+(Describe the Gauss-Jordan Elimination method for matrix inversion. Using this method, compute the) Tj
+ET
+BT
+/F1 8.5 Tf
+72 572 Td
+(inverse of matrix A = [[1, 2, 3], [2, 5, 3], [1, 0, 8]].) Tj
+ET
+BT
+/F2 8.5 Tf
+45 547 Td
+(Q7. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 547 Td
+(Solve the following system of 4 linear equations using Gaussian elimination with back) Tj
+ET
+BT
+/F1 8.5 Tf
+72 536.5 Td
+(substitution: 2x1 + x2 + 3x3 - x4 = 4; x1 + 2x2 - x3 + 2x4 = 5; 3x1 - x2 + 2x3 + x4 = 7; 4x1 + 3x2) Tj
+ET
+BT
+/F1 8.5 Tf
+72 526 Td
+(- x3 - 2x4 = 1.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 511.5 Td
+(Q8. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 511.5 Td
+(Explain the Gauss-Seidel iterative method for solving AX = B. State the sufficient condition for) Tj
+ET
+BT
+/F1 8.5 Tf
+72 501 Td
+(convergence \(diagonally dominant matrix\) and perform 3 iterations for the system: 8x - 3y + 2z =) Tj
+ET
+BT
+/F1 8.5 Tf
+72 490.5 Td
+(20; 4x + 11y - z = 33; 6x + 3y + 12z = 35, starting from \(0, 0, 0\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 476 Td
+(Q9. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 476 Td
+(Define Eigenvalues and Eigenvectors of a linear operator. Prove that eigenvectors corresponding to) Tj
+ET
+BT
+/F1 8.5 Tf
+72 465.5 Td
+(distinct eigenvalues of any square matrix are linearly independent.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 440.5 Td
+(Q10. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 440.5 Td
+(Prove the three fundamental spectral properties of eigenvalues: \(i\) Sum of eigenvalues equals the) Tj
+ET
+BT
+/F1 8.5 Tf
+72 430 Td
+(Trace of the matrix, \(ii\) Product of eigenvalues equals the Determinant, \(iii\) If lambda is an) Tj
+ET
+BT
+/F1 8.5 Tf
+72 419.5 Td
+(eigenvalue of A, then 1/lambda is an eigenvalue of A^-1.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 405 Td
+(Q11. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 405 Td
+(Prove that for any real symmetric matrix A: \(i\) All its eigenvalues are strictly real, and \(ii\)) Tj
+ET
+BT
+/F1 8.5 Tf
+72 394.5 Td
+(Eigenvectors corresponding to distinct eigenvalues are mutually orthogonal.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 369.5 Td
+(Q12. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 369.5 Td
+(Find all eigenvalues and corresponding normalized eigenvectors of the real symmetric matrix: A =) Tj
+ET
+BT
+/F1 8.5 Tf
+72 359 Td
+([[3, -1, 1], [-1, 5, -1], [1, -1, 3]]. Verify that the eigenvectors are mutually orthogonal.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 334 Td
+(Q13. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 334 Td
+(State the Cayley-Hamilton Theorem. Provide a rigorous algebraic proof for an arbitrary 2x2 matrix,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 323.5 Td
+(and explain its general proof for an n x n matrix using the adjoint matrix identity.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 298.5 Td
+(Q14. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 298.5 Td
+(Verify the Cayley-Hamilton Theorem for matrix A = [[1, 0, 3], [2, 1, -1], [1, -1, 1]], and hence) Tj
+ET
+BT
+/F1 8.5 Tf
+72 288 Td
+(compute A^-1 and A^4.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 263 Td
+(Q15. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 263 Td
+(Explain the criteria for diagonalizability of a square matrix. Define modal matrix P and spectral) Tj
+ET
+BT
+/F1 8.5 Tf
+72 252.5 Td
+(matrix D, and show that A^k = P * D^k * P^-1.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 227.5 Td
+(Q16. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 227.5 Td
+(Diagonalize the matrix A = [[1, 6, 1], [0, 2, 0], [0, 0, 3]] and compute A^5 using matrix) Tj
+ET
+BT
+/F1 8.5 Tf
+72 217 Td
+(diagonalization.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 192 Td
+(Q17. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 192 Td
+(Define an orthogonal matrix and an orthogonal transformation. Prove that orthogonal) Tj
+ET
+BT
+/F1 8.5 Tf
+72 181.5 Td
+(transformations preserve: \(i\) Vector lengths \(Euclidean norm\), and \(ii\) Inner products \(angles) Tj
+ET
+BT
+/F1 8.5 Tf
+72 171 Td
+(between vectors\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 156.5 Td
+(Q18. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 156.5 Td
+(State and prove the Spectral Decomposition Theorem for a real symmetric matrix A. Show how A can) Tj
+ET
+BT
+/F1 8.5 Tf
+72 146 Td
+(be written as a sum of rank-one projection matrices.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 121 Td
+(Q19. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 121 Td
+(Define a quadratic form, its matrix representation, rank, index, signature, and classifications) Tj
+ET
+BT
+/F1 8.5 Tf
+72 110.5 Td
+(\(positive definite, negative definite, indefinite, semidefinite\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 85.5 Td
+(Q20. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 85.5 Td
+(Reduce the quadratic form Q = 3*x1^2 + 5*x2^2 + 3*x3^2 - 2*x1*x2 + 2*x1*x3 - 2*x2*x3 to canonical) Tj
+ET
+BT
+/F1 8.5 Tf
+72 75 Td
+(form by orthogonal transformation. Determine its rank, index, signature, and nature.) Tj
+ET
+
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 22 0 R /Resources << /Font << /F1 73 0 R /F2 74 0 R >> >> >>
+endobj
+22 0 obj
+<< /Length 3317 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 1: LINEAR ALGEBRA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 10 of 35) Tj
+ET
+BT
+/F2 8.5 Tf
+45 780 Td
+(Q21. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 780 Td
+(State and prove Sylvester's Criterion for positive definiteness of a real symmetric matrix.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 743.5 Td
+(Q22. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 743.5 Td
+(Define a linear transformation T: V -> W. Define its Kernel and Range. Find the matrix) Tj
+ET
+BT
+/F1 8.5 Tf
+72 733 Td
+(representation of T: P2\(R\) -> P2\(R\) defined by T\(p\(x\)\) = p'\(x\) + p''\(x\) with respect to standard) Tj
+ET
+BT
+/F1 8.5 Tf
+72 722.5 Td
+(basis {1, x, x^2}.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 707 Td
+(Q23. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 707 Td
+(State and prove the Rank-Nullity Theorem \(Dimension Theorem\) for an arbitrary linear) Tj
+ET
+BT
+/F1 8.5 Tf
+72 696.5 Td
+(transformation T: V -> W between finite-dimensional vector spaces.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 670.5 Td
+(Q24. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 670.5 Td
+(Derive Cramer's Rule for solving a system of n linear equations in n unknowns. Solve the following) Tj
+ET
+BT
+/F1 8.5 Tf
+72 660 Td
+(3x3 system using Cramer's rule: 2x - y + 3z = 9; x + y + z = 6; x - y + z = 2.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 634 Td
+(Q25. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 634 Td
+(Explain LU Decomposition \(Doolittle factorization\) of a square matrix. Factorize matrix A = [[2,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 623.5 Td
+(1, 1], [4, 1, 0], [-2, 2, 1]] into L and U, and solve AX = [1, -2, 7]^T.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 597.5 Td
+(Q26. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 597.5 Td
+(Explain the mathematical theory of Singular Value Decomposition \(SVD\). Define singular values and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 587 Td
+(express the pseudo-inverse \(Moore-Penrose inverse\) A^+ in terms of SVD.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 561 Td
+(Q27. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 561 Td
+(Describe the Power Method algorithm for computing the dominant eigenvalue and eigenvector of a) Tj
+ET
+BT
+/F1 8.5 Tf
+72 550.5 Td
+(matrix. Apply the method for 4 iterations to matrix A = [[4, 1], [1, 3]] starting with initial) Tj
+ET
+BT
+/F1 8.5 Tf
+72 540 Td
+(vector X0 = [1, 0]^T.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 524.5 Td
+(Q28. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 524.5 Td
+(Formulate the Leslie Matrix population model in biotechnology for age-structured microbial or) Tj
+ET
+BT
+/F1 8.5 Tf
+72 514 Td
+(animal cell cultures. Derive the characteristic equation for the intrinsic growth rate and explain) Tj
+ET
+BT
+/F1 8.5 Tf
+72 503.5 Td
+(the stable age distribution.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 488 Td
+(Q29. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 488 Td
+(In Metabolic Flux Analysis \(MFA\), explain how stoichiometric matrices and null space analysis are) Tj
+ET
+BT
+/F1 8.5 Tf
+72 477.5 Td
+(used to determine steady-state metabolic reaction rates. Illustrate with a simple 3-metabolite,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 467 Td
+(4-flux metabolic pathway.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 451.5 Td
+(Q30. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 451.5 Td
+(Model a multi-component bioprocess separation column using a linear system of differential) Tj
+ET
+BT
+/F1 8.5 Tf
+72 441 Td
+(equations dX/dt = A*X. Solve the system using the matrix exponential e^\(At\) where A = [[-2, 1],) Tj
+ET
+BT
+/F1 8.5 Tf
+72 430.5 Td
+([0, -3]] and X\(0\) = [100, 50]^T.) Tj
+ET
+
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 24 0 R /Resources << /Font << /F1 73 0 R /F2 74 0 R >> >> >>
+endobj
+24 0 obj
+<< /Length 8411 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 1: LINEAR ALGEBRA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 11 of 35) Tj
+ET
+BT
+/F2 11 Tf
+45 780 Td
+(SECTION C: ANSWER KEY - MULTIPLE CHOICE QUESTIONS) Tj
+ET
+0.5 w
+45 772 m 550 772 l S
+BT
+/F2 8.5 Tf
+45 750 Td
+(Q1: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 734 Td
+(Q2: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 734 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 718 Td
+(Q3: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 718 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 702 Td
+(Q4: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 702 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 686 Td
+(Q5: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 686 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 670 Td
+(Q6: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 670 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 654 Td
+(Q7: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 654 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 638 Td
+(Q8: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 638 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 622 Td
+(Q9: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 622 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 606 Td
+(Q10: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 606 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 590 Td
+(Q11: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 590 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 574 Td
+(Q12: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 574 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 558 Td
+(Q13: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 558 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 542 Td
+(Q14: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 542 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 526 Td
+(Q15: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 526 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 510 Td
+(Q16: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 510 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 494 Td
+(Q17: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 494 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 478 Td
+(Q18: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 478 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 462 Td
+(Q19: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 462 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 446 Td
+(Q20: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 446 Td
+([B]) Tj
+ET
+0.2 w
+135 755 m 135 425 l S
+BT
+/F2 8.5 Tf
+145 750 Td
+(Q21: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 734 Td
+(Q22: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 734 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 718 Td
+(Q23: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 718 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 702 Td
+(Q24: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 702 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 686 Td
+(Q25: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 670 Td
+(Q26: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 670 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 654 Td
+(Q27: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 654 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 638 Td
+(Q28: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 638 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 622 Td
+(Q29: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 622 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 606 Td
+(Q30: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 606 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 590 Td
+(Q31: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 590 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 574 Td
+(Q32: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 574 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 558 Td
+(Q33: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 558 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 542 Td
+(Q34: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 542 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 526 Td
+(Q35: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 526 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 510 Td
+(Q36: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 510 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 494 Td
+(Q37: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 478 Td
+(Q38: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 478 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 462 Td
+(Q39: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 462 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 446 Td
+(Q40: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 446 Td
+([B]) Tj
+ET
+0.2 w
+235 755 m 235 425 l S
+BT
+/F2 8.5 Tf
+245 750 Td
+(Q41: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 750 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 734 Td
+(Q42: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 734 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 718 Td
+(Q43: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 702 Td
+(Q44: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 702 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 686 Td
+(Q45: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 686 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 670 Td
+(Q46: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 670 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 654 Td
+(Q47: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 638 Td
+(Q48: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 622 Td
+(Q49: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 606 Td
+(Q50: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 590 Td
+(Q51: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 590 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 574 Td
+(Q52: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 574 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 558 Td
+(Q53: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 558 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 542 Td
+(Q54: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 542 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 526 Td
+(Q55: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 526 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 510 Td
+(Q56: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 510 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 494 Td
+(Q57: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 494 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 478 Td
+(Q58: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 478 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 462 Td
+(Q59: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 462 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 446 Td
+(Q60: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 446 Td
+([A]) Tj
+ET
+0.2 w
+335 755 m 335 425 l S
+BT
+/F2 8.5 Tf
+345 750 Td
+(Q61: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 750 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 734 Td
+(Q62: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 734 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 718 Td
+(Q63: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 718 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 702 Td
+(Q64: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 686 Td
+(Q65: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 686 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 670 Td
+(Q66: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 654 Td
+(Q67: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 654 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 638 Td
+(Q68: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 638 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 622 Td
+(Q69: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 622 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 606 Td
+(Q70: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 606 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 590 Td
+(Q71: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 590 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 574 Td
+(Q72: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 574 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 558 Td
+(Q73: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 558 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 542 Td
+(Q74: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 542 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 526 Td
+(Q75: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 510 Td
+(Q76: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 510 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 494 Td
+(Q77: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 494 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 478 Td
+(Q78: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 478 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 462 Td
+(Q79: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 462 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 446 Td
+(Q80: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 446 Td
+([A]) Tj
+ET
+0.2 w
+435 755 m 435 425 l S
+BT
+/F2 8.5 Tf
+445 750 Td
+(Q81: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 734 Td
+(Q82: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 734 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 718 Td
+(Q83: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 702 Td
+(Q84: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 702 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 686 Td
+(Q85: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 670 Td
+(Q86: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 670 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 654 Td
+(Q87: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 654 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 638 Td
+(Q88: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 622 Td
+(Q89: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 606 Td
+(Q90: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 606 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 590 Td
+(Q91: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 590 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 574 Td
+(Q92: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 558 Td
+(Q93: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 558 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 542 Td
+(Q94: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 542 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 526 Td
+(Q95: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 526 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 510 Td
+(Q96: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 494 Td
+(Q97: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 478 Td
+(Q98: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 462 Td
+(Q99: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 446 Td
+(Q100: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 446 Td
+([B]) Tj
+ET
+0.5 w
+45 400 m 550 400 l 550 340 l 45 340 l s
+BT
+/F2 9 Tf
+55 382 Td
+(MCQ Scoring Guide & Difficulty Distribution:) Tj
+ET
+BT
+/F1 8.5 Tf
+55 366 Td
+(Questions 1 to 40: Foundational & Conceptual [Easy] | Questions 41 to 75: Analytical & Applied [Moderate]) Tj
+ET
+BT
+/F1 8.5 Tf
+55 350 Td
+(Questions 76 to 100: Complex Numerical & Advanced Problem Solving [Difficult]) Tj
+ET
+
+endstream
+endobj
+25 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 26 0 R /Resources << /Font << /F1 73 0 R /F2 74 0 R >> >> >>
+endobj
+26 0 obj
+<< /Length 4038 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 1: LINEAR ALGEBRA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 12 of 35) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(SECTION D: DETAILED SOLUTIONS FOR SUBJECTIVE QUESTIONS) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(================================================================================) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 1:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Define elementary row operations on matrices, explain Row Echelon Form \(REF\) and Reduced Row Echelon Form \(RREF\), and prove that elementary operations preserve matrix rank.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Elementary Row Operations \(EROs\):) Tj
+T*
+(   Let A be an m x n matrix over field F. The three elementary row operations are:) Tj
+T*
+(   - Type I: Interchanging two rows: Ri <-> Rj.) Tj
+T*
+(   - Type II: Multiplying a row by a non-zero scalar c in F*: Ri -> c * Ri \(c != 0\).) Tj
+T*
+(   - Type III: Adding a scalar multiple of one row to another: Ri -> Ri + k * Rj \(i != j, k in F\).) Tj
+T*
+(   2. Row Echelon Form \(REF\) and Reduced Row Echelon Form \(RREF\):) Tj
+T*
+(   - A matrix is in REF if:) Tj
+T*
+(   \(a\) All zero rows \(rows consisting entirely of zeros\) are grouped at the bottom.) Tj
+T*
+(   \(b\) The first non-zero entry from the left in any non-zero row \(called the pivot or leading) Tj
+T*
+(   entry\) occurs strictly to the right of the pivot in the row immediately above it.) Tj
+T*
+(   \(c\) All entries in the column directly below each pivot are zero.) Tj
+T*
+(   - A matrix is in RREF if in addition to REF:) Tj
+T*
+(   \(d\) Every pivot entry is equal to 1.) Tj
+T*
+(   \(e\) Each pivot 1 is the ONLY non-zero entry in its entire column \(entries above and below are) Tj
+T*
+(   zero\).) Tj
+T*
+(   3. Proof of Rank Invariance:) Tj
+T*
+(   - Every elementary row operation corresponds to pre-multiplying matrix A by an elementary) Tj
+T*
+(   matrix E: A' = E * A.) Tj
+T*
+(   - Elementary matrices E are invertible \(non-singular\) with det\(E\) != 0:) Tj
+T*
+(   * For Type I: E^-1 is itself, det\(E\) = -1 != 0.) Tj
+T*
+(   * For Type II: E^-1 has 1/c on diagonal, det\(E\) = c != 0.) Tj
+T*
+(   * For Type III: E^-1 replaces k with -k, det\(E\) = 1 != 0.) Tj
+T*
+(   - The row space of A, Row\(A\), is the subspace of R^n spanned by the row vectors of A.) Tj
+T*
+(   - Type I simply reorders spanning vectors; Type II scales a spanning vector by a non-zero) Tj
+T*
+(   constant; Type III replaces a vector r_i with r_i + k*r_j, which belongs to span\(r_i, r_j\).) Tj
+T*
+(   - Therefore, Row\(A'\) = Row\(A\). Since rank\(A\) = dim\(Row\(A\)\), rank\(A'\) = rank\(A\).) Tj
+T*
+(   - Hence, elementary row operations strictly preserve matrix rank.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 2:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Determine the rank of the following 4x4 matrix A by systematically reducing it to Row Echelon Form: A = [[1, 2, -1, 3], [2, 4, 1, -2], [3, 6, 3, -7], [1, 2, 2, -5]].) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Step 1: Write down the initial matrix A:) Tj
+T*
+(   [ 1 2 -1 3 ]) Tj
+T*
+(   A = [ 2 4 1 -2 ]) Tj
+T*
+(   [ 3 6 3 -7 ]) Tj
+T*
+(   [ 1 2 2 -5 ]) Tj
+T*
+(   Step 2: Use pivot a11 = 1 to eliminate non-zero entries in column 1 below row 1:) Tj
+T*
+(   Operation R2 -> R2 - 2*R1:) Tj
+T*
+(   [2 - 2\(1\), 4 - 2\(2\), 1 - 2\(-1\), -2 - 2\(3\)] = [0, 0, 3, -8]) Tj
+T*
+(   Operation R3 -> R3 - 3*R1:) Tj
+T*
+(   [3 - 3\(1\), 6 - 3\(2\), 3 - 3\(-1\), -7 - 3\(3\)] = [0, 0, 6, -16]) Tj
+T*
+(   Operation R4 -> R4 - 1*R1:) Tj
+T*
+(   [1 - 1\(1\), 2 - 1\(2\), 2 - 1\(-1\), -5 - 1\(3\)] = [0, 0, 3, -8]) Tj
+T*
+(   Matrix after Step 2:) Tj
+T*
+(   [ 1 2 -1 3 ]) Tj
+T*
+(   A1 = [ 0 0 3 -8 ]) Tj
+T*
+ET
+
+endstream
+endobj
+27 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 28 0 R /Resources << /Font << /F1 73 0 R /F2 74 0 R >> >> >>
+endobj
+28 0 obj
+<< /Length 3496 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 1: LINEAR ALGEBRA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 13 of 35) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   [ 0 0 6 -16 ]) Tj
+T*
+(   [ 0 0 3 -8 ]) Tj
+T*
+(   Step 3: In row 2, the pivot is a23 = 3. Eliminate entries in column 3 below row 2:) Tj
+T*
+(   Operation R3 -> R3 - 2*R2:) Tj
+T*
+(   [0, 0, 6 - 2\(3\), -16 - 2\(-8\)] = [0, 0, 0, 0]) Tj
+T*
+(   Operation R4 -> R4 - 1*R2:) Tj
+T*
+(   [0, 0, 3 - 1\(3\), -8 - 1\(-8\)] = [0, 0, 0, 0]) Tj
+T*
+(   Matrix after Step 3:) Tj
+T*
+(   [ 1 2 -1 3 ]) Tj
+T*
+(   REF = [ 0 0 3 -8 ]) Tj
+T*
+(   [ 0 0 0 0 ]) Tj
+T*
+(   [ 0 0 0 0 ]) Tj
+T*
+(   Step 4: Count non-zero rows:) Tj
+T*
+(   Row 1 is non-zero \(pivot at column 1\).) Tj
+T*
+(   Row 2 is non-zero \(pivot at column 3\).) Tj
+T*
+(   Rows 3 and 4 are entirely zero.) Tj
+T*
+(   The number of non-zero rows in the Row Echelon Form is 2.) Tj
+T*
+(   Conclusion:) Tj
+T*
+(   Rank\(A\) = rho\(A\) = 2.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 3:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: State the Rouche-Capelli Theorem governing the consistency of a non-homogeneous system AX = B, and provide a comprehensive theoretical proof.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Statement of Rouche-Capelli Theorem:) Tj
+T*
+(   Consider a system of m linear algebraic equations in n unknowns: AX = B, where A in M_{m x) Tj
+T*
+(   n}\(R\), X in R^n, and B in R^m.) Tj
+T*
+(   Let [A | B] be the augmented matrix of order m x \(n+1\).) Tj
+T*
+(   - Condition 1 \(Consistency\): The system AX = B is consistent \(possesses at least one solution\)) Tj
+T*
+(   if and only if rank\(A\) = rank\([A | B]\).) Tj
+T*
+(   - Condition 2 \(Unique Solution\): If rank\(A\) = rank\([A | B]\) = n \(number of unknowns\), the) Tj
+T*
+(   system has a unique solution.) Tj
+T*
+(   - Condition 3 \(Infinite Solutions\): If rank\(A\) = rank\([A | B]\) = r < n, the system has) Tj
+T*
+(   infinitely many solutions parameterized by \(n - r\) independent free variables.) Tj
+T*
+(   - Condition 4 \(Inconsistency\): If rank\(A\) < rank\([A | B]\), the system is inconsistent \(no) Tj
+T*
+(   solution exists\).) Tj
+T*
+(   2. Theoretical Proof:) Tj
+T*
+(   - Let C1, C2, ..., Cn denote the column vectors of matrix A.) Tj
+T*
+(   - Then the matrix-vector product AX can be expanded as a linear combination of the columns of) Tj
+T*
+(   A:) Tj
+T*
+(   AX = x1*C1 + x2*C2 + ... + xn*Cn.) Tj
+T*
+(   - Therefore, the system AX = B is solvable if and only if B can be expressed as:) Tj
+T*
+(   B = x1*C1 + x2*C2 + ... + xn*Cn.) Tj
+T*
+(   - This vector equation holds if and only if the vector B belongs to the column space \(range\) of) Tj
+T*
+(   A:) Tj
+T*
+(   B in Col\(A\) = Span{C1, C2, ..., Cn}.) Tj
+T*
+(   - If B in Col\(A\), then Span{C1, C2, ..., Cn, B} = Span{C1, C2, ..., Cn}.) Tj
+T*
+(   Taking dimensions: dim\(Span{C1, ..., Cn, B}\) = dim\(Span{C1, ..., Cn}\), which means:) Tj
+T*
+(   rank\([A | B]\) = rank\(A\).) Tj
+T*
+(   - Conversely, if B not in Col\(A\), then adding B increases the dimension of the spanned space by) Tj
+T*
+(   1:) Tj
+T*
+(   rank\([A | B]\) = rank\(A\) + 1 > rank\(A\). In this case, no scalars x1, ..., xn exist such that AX) Tj
+T*
+(   = B; hence, no solution exists.) Tj
+T*
+ET
+
+endstream
+endobj
+29 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 30 0 R /Resources << /Font << /F1 73 0 R /F2 74 0 R >> >> >>
+endobj
+30 0 obj
+<< /Length 3597 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 1: LINEAR ALGEBRA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 14 of 35) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - For unique vs infinite solutions: By the Rank-Nullity theorem, dim\(Null\(A\)\) = n - rank\(A\) = n) Tj
+T*
+(   - r.) Tj
+T*
+(   If r = n, Null\(A\) = {0}, giving a unique particular solution X = X_p.) Tj
+T*
+(   If r < n, general solution is X = X_p + X_h, where X_h spans an \(n - r\)-dimensional subspace,) Tj
+T*
+(   yielding infinitely many solutions. Hence proved.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 4:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Investigate the consistency of the following system of equations for different values of lambda and mu: x + y + z = 6; x + 2y + 3z = 10; x + 2y + lambda*z = mu. Find the conditions for: \(i\) No solution, \(ii\) A unique solution, \(iii\) Infinitely many solutions.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Step 1: Set up the augmented matrix [A | B]:) Tj
+T*
+(   [A | B] = [ 1 1 1 | 6 ]) Tj
+T*
+(   [ 1 2 3 | 10 ]) Tj
+T*
+(   [ 1 2 lambda | mu ]) Tj
+T*
+(   Step 2: Perform elementary row operations to reduce [A | B] to echelon form:) Tj
+T*
+(   Operation R2 -> R2 - R1:) Tj
+T*
+(   [1 - 1, 2 - 1, 3 - 1 | 10 - 6] = [0, 1, 2 | 4]) Tj
+T*
+(   Operation R3 -> R3 - R1:) Tj
+T*
+(   [1 - 1, 2 - 1, lambda - 1 | mu - 6] = [0, 1, lambda - 1 | mu - 6]) Tj
+T*
+(   Augmented matrix becomes:) Tj
+T*
+(   [ 1 1 1 | 6 ]) Tj
+T*
+(   [ 0 1 2 | 4 ]) Tj
+T*
+(   [ 0 1 lambda - 1 | mu - 6 ]) Tj
+T*
+(   Step 3: Eliminate entry under second pivot:) Tj
+T*
+(   Operation R3 -> R3 - R2:) Tj
+T*
+(   [0 - 0, 1 - 1, \(lambda - 1\) - 2 | \(mu - 6\) - 4] = [0, 0, lambda - 3 | mu - 10]) Tj
+T*
+(   Final Echelon Form:) Tj
+T*
+(   [ 1 1 1 | 6 ]) Tj
+T*
+(   [ 0 1 2 | 4 ]) Tj
+T*
+(   [ 0 0 lambda - 3 | mu - 10 ]) Tj
+T*
+(   Step 4: Analyze cases:) Tj
+T*
+(   Case \(i\): No Solution \(Inconsistent\)) Tj
+T*
+(   For inconsistency, rank\(A\) must be strictly less than rank\([A | B]\).) Tj
+T*
+(   This occurs when the third row of A has all zeros while the augmented entry is non-zero:) Tj
+T*
+(   lambda - 3 = 0 AND mu - 10 != 0) Tj
+T*
+(   => lambda = 3 and mu != 10.) Tj
+T*
+(   Here rank\(A\) = 2, rank\([A | B]\) = 3 => No solution.) Tj
+T*
+(   Case \(ii\): Unique Solution) Tj
+T*
+(   For a unique solution, rank\(A\) = rank\([A | B]\) = 3 \(number of unknowns n = 3\).) Tj
+T*
+(   This requires the pivot in row 3 to be non-zero:) Tj
+T*
+(   lambda - 3 != 0 => lambda != 3 \(for ANY value of mu\).) Tj
+T*
+(   Here rank\(A\) = rank\([A | B]\) = 3 => Unique solution.) Tj
+T*
+(   Case \(iii\): Infinitely Many Solutions) Tj
+T*
+(   For infinitely many solutions, rank\(A\) = rank\([A | B]\) = r < 3.) Tj
+T*
+(   This requires both lambda - 3 = 0 and mu - 10 = 0:) Tj
+T*
+(   => lambda = 3 and mu = 10.) Tj
+T*
+(   Here rank\(A\) = rank\([A | B]\) = 2 < 3, giving \(3 - 2\) = 1 free parameter and infinitely many) Tj
+T*
+(   solutions.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 5:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the structure of the solution space of a homogeneous system of linear equations AX = 0. Define nullity and prove the Rank-Nullity Theorem for an m x n matrix A.) Tj
+T*
+ET
+
+endstream
+endobj
+31 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 32 0 R /Resources << /Font << /F1 73 0 R /F2 74 0 R >> >> >>
+endobj
+32 0 obj
+<< /Length 3885 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 1: LINEAR ALGEBRA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 15 of 35) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Structure of Solution Space of AX = 0:) Tj
+T*
+(   - Let A in M_{m x n}\(R\). The set of all solutions to AX = 0 is defined as the Null Space) Tj
+T*
+(   \(Kernel\) of A:) Tj
+T*
+(   Null\(A\) = { X in R^n : AX = 0 }.) Tj
+T*
+(   - Null\(A\) is a subspace of R^n because:) Tj
+T*
+(   \(a\) Zero vector: A * 0 = 0 => 0 in Null\(A\).) Tj
+T*
+(   \(b\) Additive closure: If X1, X2 in Null\(A\), then A\(X1 + X2\) = AX1 + AX2 = 0 + 0 = 0 => X1 + X2) Tj
+T*
+(   in Null\(A\).) Tj
+T*
+(   \(c\) Scalar closure: If X in Null\(A\) and c in R, then A\(c*X\) = c*\(AX\) = c*0 = 0 => c*X in) Tj
+T*
+(   Null\(A\).) Tj
+T*
+(   - Nullity of A is defined as the dimension of Null\(A\): nullity\(A\) = dim\(Null\(A\)\).) Tj
+T*
+(   2. Formal Statement of Rank-Nullity Theorem:) Tj
+T*
+(   For any m x n matrix A:) Tj
+T*
+(   rank\(A\) + nullity\(A\) = n \(the total number of columns / variables\).) Tj
+T*
+(   3. Mathematical Proof:) Tj
+T*
+(   - Reduce A to Reduced Row Echelon Form \(RREF\) R via elementary row operations.) Tj
+T*
+(   - Let rank\(A\) = r. Then R has exactly r non-zero rows, each containing a leading 1 \(pivot\).) Tj
+T*
+(   - The n variables x1, x2, ..., xn are partitioned into two disjoint subsets:) Tj
+T*
+(   * r Pivot \(Basic\) variables: corresponding to columns containing leading 1s.) Tj
+T*
+(   * \(n - r\) Free variables: corresponding to columns without leading 1s. Let these be t1, t2,) Tj
+T*
+(   ..., t_{n-r}.) Tj
+T*
+(   - Each basic variable can be uniquely expressed as a linear combination of the \(n - r\) free) Tj
+T*
+(   variables.) Tj
+T*
+(   - Setting one free variable to 1 and all others to 0 generates a solution vector V_j \(for j =) Tj
+T*
+(   1, 2, ..., n - r\).) Tj
+T*
+(   - These \(n - r\) vectors {V1, V2, ..., V_{n-r}} are linearly independent because in the free) Tj
+T*
+(   variable positions, they contain the columns of the \(n - r\) x \(n - r\) identity matrix.) Tj
+T*
+(   - Any solution X to AX = 0 is a linear combination of {V1, ..., V_{n-r}}:) Tj
+T*
+(   X = t1*V1 + t2*V2 + ... + t_{n-r}*V_{n-r}.) Tj
+T*
+(   - Therefore, {V1, ..., V_{n-r}} forms a basis for Null\(A\).) Tj
+T*
+(   - Consequently, dim\(Null\(A\)\) = nullity\(A\) = n - r.) Tj
+T*
+(   - Since r = rank\(A\), we obtain: rank\(A\) + nullity\(A\) = r + \(n - r\) = n. Hence proved.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 6:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Describe the Gauss-Jordan Elimination method for matrix inversion. Using this method, compute the inverse of matrix A = [[1, 2, 3], [2, 5, 3], [1, 0, 8]].) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Methodology of Gauss-Jordan Inversion:) Tj
+T*
+(   - Construct the augmented partitioned matrix [ A | I_n ], where I_n is the n x n identity) Tj
+T*
+(   matrix.) Tj
+T*
+(   - Apply elementary row operations to transform the left half A into the identity matrix I_n:) Tj
+T*
+(   [ A | I_n ] -> E_k ... E_2 E_1 [ A | I_n ] = [ I_n | A^-1 ].) Tj
+T*
+(   - The resulting right half is the exact matrix inverse A^-1 because E_k ... E_1 * A = I => E_k) Tj
+T*
+(   ... E_1 = A^-1.) Tj
+T*
+(   2. Step-by-Step Computation for A = [[1, 2, 3], [2, 5, 3], [1, 0, 8]]:) Tj
+T*
+(   Step 1: Setup augmented matrix:) Tj
+T*
+(   [ 1 2 3 | 1 0 0 ]) Tj
+T*
+(   [ 2 5 3 | 0 1 0 ]) Tj
+T*
+(   [ 1 0 8 | 0 0 1 ]) Tj
+T*
+(   Step 2: Eliminate below a11 = 1:) Tj
+T*
+(   R2 -> R2 - 2*R1: [ 0 1 -3 | -2 1 0 ]) Tj
+T*
+(   R3 -> R3 - 1*R1: [ 0 -2 5 | -1 0 1 ]) Tj
+T*
+ET
+
+endstream
+endobj
+33 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 34 0 R /Resources << /Font << /F1 73 0 R /F2 74 0 R >> >> >>
+endobj
+34 0 obj
+<< /Length 2855 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 1: LINEAR ALGEBRA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 16 of 35) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   Matrix becomes:) Tj
+T*
+(   [ 1 2 3 | 1 0 0 ]) Tj
+T*
+(   [ 0 1 -3 | -2 1 0 ]) Tj
+T*
+(   [ 0 -2 5 | -1 0 1 ]) Tj
+T*
+(   Step 3: Eliminate in column 2 using pivot a22 = 1:) Tj
+T*
+(   R1 -> R1 - 2*R2: [ 1 0 9 | 5 -2 0 ]) Tj
+T*
+(   R3 -> R3 + 2*R2: [ 0 0 -1 | -5 2 1 ]) Tj
+T*
+(   Matrix becomes:) Tj
+T*
+(   [ 1 0 9 | 5 -2 0 ]) Tj
+T*
+(   [ 0 1 -3 | -2 1 0 ]) Tj
+T*
+(   [ 0 0 -1 | -5 2 1 ]) Tj
+T*
+(   Step 4: Make pivot a33 = 1 and eliminate in column 3:) Tj
+T*
+(   R3 -> \(-1\)*R3: [ 0 0 1 | 5 -2 -1 ]) Tj
+T*
+(   Now eliminate above pivot a33:) Tj
+T*
+(   R1 -> R1 - 9*R3:) Tj
+T*
+(   [1, 0, 9 - 9\(1\) | 5 - 9\(5\), -2 - 9\(-2\), 0 - 9\(-1\)] = [ 1 0 0 | -40 16 9 ]) Tj
+T*
+(   R2 -> R2 + 3*R3:) Tj
+T*
+(   [0, 1, -3 + 3\(1\) | -2 + 3\(5\), 1 + 3\(-2\), 0 + 3\(-1\)] = [ 0 1 0 | 13 -5 -3 ]) Tj
+T*
+(   Step 5: Read out inverse matrix A^-1:) Tj
+T*
+(   A^-1 = [ -40 16 9 ]) Tj
+T*
+(   [ 13 -5 -3 ]) Tj
+T*
+(   [ 5 -2 -1 ]) Tj
+T*
+(   Verification:) Tj
+T*
+(   A * A^-1:) Tj
+T*
+(   Row 1 * Col 1: 1\(-40\) + 2\(13\) + 3\(5\) = -40 + 26 + 15 = 1.) Tj
+T*
+(   Row 1 * Col 2: 1\(16\) + 2\(-5\) + 3\(-2\) = 16 - 10 - 6 = 0.) Tj
+T*
+(   Row 2 * Col 2: 2\(16\) + 5\(-5\) + 3\(-2\) = 32 - 25 - 6 = 1. \(Confirmed correct\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 7:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Solve the following system of 4 linear equations using Gaussian elimination with back substitution: 2x1 + x2 + 3x3 - x4 = 4; x1 + 2x2 - x3 + 2x4 = 5; 3x1 - x2 + 2x3 + x4 = 7; 4x1 + 3x2 - x3 - 2x4 = 1.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Step 1: Write the augmented matrix [A | B]:) Tj
+T*
+(   [ 2 1 3 -1 | 4 ]) Tj
+T*
+(   [ 1 2 -1 2 | 5 ]) Tj
+T*
+(   [ 3 -1 2 1 | 7 ]) Tj
+T*
+(   [ 4 3 -1 -2 | 1 ]) Tj
+T*
+(   Step 2: Swap R1 <-> R2 to have pivot 1 in row 1:) Tj
+T*
+(   [ 1 2 -1 2 | 5 ]) Tj
+T*
+(   [ 2 1 3 -1 | 4 ]) Tj
+T*
+(   [ 3 -1 2 1 | 7 ]) Tj
+T*
+(   [ 4 3 -1 -2 | 1 ]) Tj
+T*
+(   Step 3: Eliminate column 1 entries below row 1:) Tj
+T*
+(   R2 -> R2 - 2*R1: [ 0 -3 5 -5 | -6 ]) Tj
+T*
+(   R3 -> R3 - 3*R1: [ 0 -7 5 -5 | -8 ]) Tj
+T*
+(   R4 -> R4 - 4*R1: [ 0 -5 3 -10 | -19 ]) Tj
+T*
+(   Step 4: Multiply R2 by -1: [ 0 3 -5 5 | 6 ]) Tj
+T*
+(   Eliminate column 2 entries:) Tj
+T*
+(   R3 -> 3*R3 - 7*R2:) Tj
+T*
+(   3*[0, -7, 5, -5 | -8] - 7*[0, -3, 5, -5 | 6]) Tj
+T*
+(   = [0, -21+21, 15-35, -15+35 | -24-42] = [ 0 0 -20 20 | -66 ] => Divide by -2: [ 0 0 10 -10 | 33) Tj
+T*
+(   ]) Tj
+T*
+(   R4 -> 3*R4 - 5*R2:) Tj
+T*
+ET
+
+endstream
+endobj
+35 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 36 0 R /Resources << /Font << /F1 73 0 R /F2 74 0 R >> >> >>
+endobj
+36 0 obj
+<< /Length 3867 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 1: LINEAR ALGEBRA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 17 of 35) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   3*[0, -5, 3, -10 | -19] - 5*[0, -3, 5, -5 | 6]) Tj
+T*
+(   = [0, -15+15, 9-25, -30+25 | -57-30] = [ 0 0 -16 -5 | -87 ]) Tj
+T*
+(   Step 5: Eliminate column 3 in row 4:) Tj
+T*
+(   From R3: 10*x3 - 10*x4 = 33 => x3 - x4 = 3.3 => x3 = x4 + 3.3.) Tj
+T*
+(   Substitute into R4: -16\(x4 + 3.3\) - 5*x4 = -87) Tj
+T*
+(   => -21*x4 - 52.8 = -87 => -21*x4 = -34.2 => x4 = 34.2 / 21 = 1.6286.) Tj
+T*
+(   Step 6: Back-substitution:) Tj
+T*
+(   x4 = 1.6286) Tj
+T*
+(   x3 = 1.6286 + 3.3 = 4.9286) Tj
+T*
+(   From R2: -3*x2 + 5\(4.9286\) - 5\(1.6286\) = -6 => -3*x2 + 16.5 = -6 => -3*x2 = -22.5 => x2 = 7.5) Tj
+T*
+(   From R1: x1 + 2\(7.5\) - 4.9286 + 2\(1.6286\) = 5) Tj
+T*
+(   => x1 + 15 - 4.9286 + 3.2572 = 5 => x1 + 13.3286 = 5 => x1 = -8.3286.) Tj
+T*
+(   Final Solution:) Tj
+T*
+(   x1 = -8.329, x2 = 7.500, x3 = 4.929, x4 = 1.629.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 8:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the Gauss-Seidel iterative method for solving AX = B. State the sufficient condition for convergence \(diagonally dominant matrix\) and perform 3 iterations for the system: 8x - 3y + 2z = 20; 4x + 11y - z = 33; 6x + 3y + 12z = 35, starting from \(0, 0, 0\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Gauss-Seidel Method and Convergence Criterion:) Tj
+T*
+(   - For a system AX = B, write each variable x_i in terms of the remaining variables:) Tj
+T*
+(   x_i^\(k+1\) = \(1 / a_ii\) * [ b_i - sum_{j < i} a_ij * x_j^\(k+1\) - sum_{j > i} a_ij * x_j^\(k\) ].) Tj
+T*
+(   - The Gauss-Seidel method uses newly computed values x_j^\(k+1\) immediately in the current) Tj
+T*
+(   iteration.) Tj
+T*
+(   - Sufficient Condition for Convergence: The coefficient matrix A is strictly diagonally) Tj
+T*
+(   dominant:) Tj
+T*
+(   |a_ii| > sum_{j != i} |a_ij| for all i = 1, 2, ..., n.) Tj
+T*
+(   - Verification for given system:) Tj
+T*
+(   Row 1: |8| > |-3| + |2| = 5 \(True: 8 > 5\).) Tj
+T*
+(   Row 2: |11| > |4| + |-1| = 5 \(True: 11 > 5\).) Tj
+T*
+(   Row 3: |12| > |6| + |3| = 9 \(True: 12 > 9\).) Tj
+T*
+(   The system is strictly diagonally dominant, guaranteeing rapid convergence.) Tj
+T*
+(   2. Iterative Formulae:) Tj
+T*
+(   x = \(20 + 3y - 2z\) / 8) Tj
+T*
+(   y = \(33 - 4x + z\) / 11) Tj
+T*
+(   z = \(35 - 6x - 3y\) / 12) Tj
+T*
+(   3. Iteration Computations:) Tj
+T*
+(   Initial Guess: x^\(0\) = 0, y^\(0\) = 0, z^\(0\) = 0.) Tj
+T*
+(   - Iteration 1:) Tj
+T*
+(   x^\(1\) = \(20 + 0 - 0\) / 8 = 2.5000.) Tj
+T*
+(   y^\(1\) = \(33 - 4\(2.5000\) + 0\) / 11 = \(33 - 10\) / 11 = 23 / 11 = 2.0909.) Tj
+T*
+(   z^\(1\) = \(35 - 6\(2.5000\) - 3\(2.0909\)\) / 12 = \(35 - 15 - 6.2727\) / 12 = 13.7273 / 12 = 1.1439.) Tj
+T*
+(   - Iteration 2:) Tj
+T*
+(   x^\(2\) = \(20 + 3\(2.0909\) - 2\(1.1439\)\) / 8 = \(20 + 6.2727 - 2.2878\) / 8 = 23.9849 / 8 = 2.9981.) Tj
+T*
+(   y^\(2\) = \(33 - 4\(2.9981\) + 1.1439\) / 11 = \(33 - 11.9924 + 1.1439\) / 11 = 22.1515 / 11 = 2.0138.) Tj
+T*
+(   z^\(2\) = \(35 - 6\(2.9981\) - 3\(2.0138\)\) / 12 = \(35 - 17.9886 - 6.0414\) / 12 = 10.9700 / 12 =) Tj
+T*
+(   0.9142.) Tj
+T*
+(   - Iteration 3:) Tj
+T*
+(   x^\(3\) = \(20 + 3\(2.0138\) - 2\(0.9142\)\) / 8 = \(20 + 6.0414 - 1.8284\) / 8 = 24.2130 / 8 = 3.0266.) Tj
+T*
+(   y^\(3\) = \(33 - 4\(3.0266\) + 0.9142\) / 11 = \(33 - 12.1064 + 0.9142\) / 11 = 21.8078 / 11 = 1.9825.) Tj
+T*
+(   z^\(3\) = \(35 - 6\(3.0266\) - 3\(1.9825\)\) / 12 = \(35 - 18.1596 - 5.9475\) / 12 = 10.8929 / 12 =) Tj
+T*
+(   0.9077.) Tj
+T*
+(   Conclusion:) Tj
+T*
+ET
+
+endstream
+endobj
+37 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 38 0 R /Resources << /Font << /F1 73 0 R /F2 74 0 R >> >> >>
+endobj
+38 0 obj
+<< /Length 4078 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 1: LINEAR ALGEBRA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 18 of 35) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   After 3 iterations, the solution converges rapidly towards: x ~ 3.00, y ~ 2.00, z ~ 0.91.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 9:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Define Eigenvalues and Eigenvectors of a linear operator. Prove that eigenvectors corresponding to distinct eigenvalues of any square matrix are linearly independent.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Definitions:) Tj
+T*
+(   - Let A be an n x n matrix over field F. A scalar lambda in F is called an Eigenvalue \(latent) Tj
+T*
+(   root\) of A if there exists a non-zero vector X in F^n \(X != 0\) such that:) Tj
+T*
+(   A * X = lambda * X, or equivalently: \(A - lambda * I\) * X = 0.) Tj
+T*
+(   - The non-zero vector X is called an Eigenvector corresponding to lambda.) Tj
+T*
+(   - The set of all vectors satisfying \(A - lambda*I\)X = 0 forms the Eigenspace E_lambda = Null\(A) Tj
+T*
+(   - lambda*I\).) Tj
+T*
+(   - Non-trivial solutions X != 0 exist if and only if det\(A - lambda * I\) = 0 \(the Characteristic) Tj
+T*
+(   Equation\).) Tj
+T*
+(   2. Proof of Linear Independence:) Tj
+T*
+(   - Let lambda_1, lambda_2, ..., lambda_k be distinct eigenvalues of A \(lambda_i != lambda_j for) Tj
+T*
+(   i != j\).) Tj
+T*
+(   - Let X_1, X_2, ..., X_k be corresponding non-zero eigenvectors such that A * X_i = lambda_i *) Tj
+T*
+(   X_i.) Tj
+T*
+(   - We prove linear independence by induction on k:) Tj
+T*
+(   - Base Case \(k = 1\): Since X1 != 0, c1 * X1 = 0 implies c1 = 0. Thus {X1} is linearly) Tj
+T*
+(   independent.) Tj
+T*
+(   - Inductive Step: Assume any set of \(m - 1\) eigenvectors corresponding to distinct eigenvalues) Tj
+T*
+(   is linearly independent.) Tj
+T*
+(   Consider a linear combination of m eigenvectors equal to the zero vector:) Tj
+T*
+(   \(Eq. 1\) c1*X1 + c2*X2 + ... + cm*Xm = 0.) Tj
+T*
+(   - Multiply Eq. 1 from the left by matrix A:) Tj
+T*
+(   c1*\(A*X1\) + c2*\(A*X2\) + ... + cm*\(A*Xm\) = 0) Tj
+T*
+(   => \(Eq. 2\) c1*lambda_1*X1 + c2*lambda_2*X2 + ... + cm*lambda_m*Xm = 0.) Tj
+T*
+(   - Multiply Eq. 1 by scalar lambda_m:) Tj
+T*
+(   => \(Eq. 3\) c1*lambda_m*X1 + c2*lambda_m*X2 + ... + cm*lambda_m*Xm = 0.) Tj
+T*
+(   - Subtract Eq. 3 from Eq. 2:) Tj
+T*
+(   c1*\(lambda_1 - lambda_m\)*X1 + c2*\(lambda_2 - lambda_m\)*X2 + ... + c_{m-1}*\(lambda_{m-1} -) Tj
+T*
+(   lambda_m\)*X_{m-1} + 0 = 0.) Tj
+T*
+(   - By the induction hypothesis, {X1, X2, ..., X_{m-1}} is linearly independent. Hence each) Tj
+T*
+(   coefficient must be zero:) Tj
+T*
+(   c_i * \(lambda_i - lambda_m\) = 0 for each i = 1, 2, ..., m - 1.) Tj
+T*
+(   - Since all eigenvalues are distinct, lambda_i != lambda_m, which means \(lambda_i - lambda_m\)) Tj
+T*
+(   != 0.) Tj
+T*
+(   - Therefore: c_i = 0 for all i = 1, 2, ..., m - 1.) Tj
+T*
+(   - Substituting c1 = c2 = ... = c_{m-1} = 0 back into Eq. 1 gives: cm * Xm = 0.) Tj
+T*
+(   - Since Xm != 0, we must have cm = 0.) Tj
+T*
+(   - Thus, all coefficients c1 = c2 = ... = cm = 0.) Tj
+T*
+(   - Hence, {X1, X2, ..., Xm} is linearly independent. By mathematical induction, the theorem) Tj
+T*
+(   holds for all k.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 10:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Prove the three fundamental spectral properties of eigenvalues: \(i\) Sum of eigenvalues equals the Trace of the matrix, \(ii\) Product of eigenvalues equals the Determinant, \(iii\) If lambda is an eigenvalue of A, then 1/lambda is an eigenvalue of A^-1.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Proof that Sum of Eigenvalues = Trace\(A\):) Tj
+T*
+ET
+
+endstream
+endobj
+39 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 40 0 R /Resources << /Font << /F1 73 0 R /F2 74 0 R >> >> >>
+endobj
+40 0 obj
+<< /Length 4098 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 1: LINEAR ALGEBRA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 19 of 35) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - Let A be an n x n matrix. The characteristic polynomial is defined as:) Tj
+T*
+(   p\(lambda\) = det\(lambda * I - A\) = lambda^n - c_{n-1}*lambda^{n-1} + ... + \(-1\)^n * c0.) Tj
+T*
+(   - By definition of determinant, the only term in det\(lambda*I - A\) containing lambda^n and) Tj
+T*
+(   lambda^{n-1} comes from the product of the diagonal elements:) Tj
+T*
+(   Product_{i=1}^n \(lambda - a_ii\) = lambda^n - \(sum_{i=1}^n a_ii\) * lambda^{n-1} + ...) Tj
+T*
+(   - Therefore, the coefficient of lambda^{n-1} is: -sum_{i=1}^n a_ii = -Trace\(A\).) Tj
+T*
+(   - By the fundamental theorem of algebra, p\(lambda\) factors completely over C into its roots) Tj
+T*
+(   \(eigenvalues\):) Tj
+T*
+(   p\(lambda\) = \(lambda - lambda_1\) * \(lambda - lambda_2\) * ... * \(lambda - lambda_n\)) Tj
+T*
+(   = lambda^n - \(sum_{i=1}^n lambda_i\) * lambda^{n-1} + ... + \(-1\)^n * Product_{i=1}^n lambda_i.) Tj
+T*
+(   - Equating coefficients of lambda^{n-1}:) Tj
+T*
+(   -\(sum_{i=1}^n lambda_i\) = -Trace\(A\) => sum_{i=1}^n lambda_i = Trace\(A\). \(Proved\).) Tj
+T*
+(   2. Proof that Product of Eigenvalues = det\(A\):) Tj
+T*
+(   - Set lambda = 0 in both expressions of the characteristic polynomial:) Tj
+T*
+(   From factorization: p\(0\) = \(0 - lambda_1\)\(0 - lambda_2\)...\(0 - lambda_n\) = \(-1\)^n *) Tj
+T*
+(   Product_{i=1}^n lambda_i.) Tj
+T*
+(   From determinant definition: p\(0\) = det\(0*I - A\) = det\(-A\) = \(-1\)^n * det\(A\).) Tj
+T*
+(   - Equating both expressions:) Tj
+T*
+(   \(-1\)^n * Product_{i=1}^n lambda_i = \(-1\)^n * det\(A\) => Product_{i=1}^n lambda_i = det\(A\).) Tj
+T*
+(   \(Proved\).) Tj
+T*
+(   3. Proof for Eigenvalues of A^-1:) Tj
+T*
+(   - Let A be invertible \(det\(A\) != 0, so lambda != 0\).) Tj
+T*
+(   - Let X != 0 be an eigenvector corresponding to eigenvalue lambda: A * X = lambda * X.) Tj
+T*
+(   - Multiply both sides from the left by A^-1:) Tj
+T*
+(   A^-1 * \(A * X\) = A^-1 * \(lambda * X\)) Tj
+T*
+(   => I * X = lambda * \(A^-1 * X\)) Tj
+T*
+(   => X = lambda * \(A^-1 * X\).) Tj
+T*
+(   - Since lambda != 0, divide both sides by scalar lambda:) Tj
+T*
+(   A^-1 * X = \(1 / lambda\) * X.) Tj
+T*
+(   - This matches the eigenvector definition: X is an eigenvector of A^-1 with eigenvalue) Tj
+T*
+(   1/lambda. \(Proved\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 11:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Prove that for any real symmetric matrix A: \(i\) All its eigenvalues are strictly real, and \(ii\) Eigenvectors corresponding to distinct eigenvalues are mutually orthogonal.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Proof that Eigenvalues of Real Symmetric Matrix are Real:) Tj
+T*
+(   - Let A be a real symmetric matrix \(A in M_n\(R\) and A^T = A\).) Tj
+T*
+(   - Then A equals its conjugate transpose \(Hermitian\): A^* = \(A^bar\)^T = A^T = A.) Tj
+T*
+(   - Let lambda in C be an eigenvalue of A with non-zero eigenvector X in C^n:) Tj
+T*
+(   \(Eq. 1\) A * X = lambda * X.) Tj
+T*
+(   - Take the complex conjugate transpose \(*\) of both sides of Eq. 1:) Tj
+T*
+(   \(A * X\)^* = \(lambda * X\)^* => X^* * A^* = lambda_bar * X^*.) Tj
+T*
+(   - Since A^* = A:) Tj
+T*
+(   \(Eq. 2\) X^* * A = lambda_bar * X^*.) Tj
+T*
+(   - Post-multiply Eq. 2 by X:) Tj
+T*
+(   \(Eq. 3\) X^* * A * X = lambda_bar * \(X^* * X\).) Tj
+T*
+(   - Pre-multiply Eq. 1 by X^*:) Tj
+T*
+(   \(Eq. 4\) X^* * A * X = lambda * \(X^* * X\).) Tj
+T*
+(   - Equating Eq. 3 and Eq. 4:) Tj
+T*
+(   lambda * \(X^* * X\) = lambda_bar * \(X^* * X\) => \(lambda - lambda_bar\) * \(X^* * X\) = 0.) Tj
+T*
+(   - Since X is a non-zero vector, X^* * X = sum_{i=1}^n |x_i|^2 > 0.) Tj
+T*
+(   - Therefore, lambda - lambda_bar = 0 => lambda = lambda_bar.) Tj
+T*
+ET
+
+endstream
+endobj
+41 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 42 0 R /Resources << /Font << /F1 73 0 R /F2 74 0 R >> >> >>
+endobj
+42 0 obj
+<< /Length 3891 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 1: LINEAR ALGEBRA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 20 of 35) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - A complex number equals its conjugate if and only if its imaginary part is zero.) Tj
+T*
+(   - Hence, lambda is strictly REAL. \(Proved\).) Tj
+T*
+(   2. Proof of Orthogonality of Eigenvectors:) Tj
+T*
+(   - Let lambda_1 and lambda_2 be two distinct eigenvalues \(lambda_1 != lambda_2\) of real) Tj
+T*
+(   symmetric matrix A.) Tj
+T*
+(   - Let X_1 and X_2 be corresponding real eigenvectors:) Tj
+T*
+(   A * X_1 = lambda_1 * X_1 and A * X_2 = lambda_2 * X_2.) Tj
+T*
+(   - Consider the scalar quantity X_1^T * A * X_2:) Tj
+T*
+(   X_1^T * \(A * X_2\) = X_1^T * \(lambda_2 * X_2\) = lambda_2 * \(X_1^T * X_2\).) Tj
+T*
+(   - Also, using the transpose property \(A * X_1\)^T = X_1^T * A^T = X_1^T * A:) Tj
+T*
+(   \(X_1^T * A\) * X_2 = \(A * X_1\)^T * X_2 = \(lambda_1 * X_1\)^T * X_2 = lambda_1 * \(X_1^T * X_2\).) Tj
+T*
+(   - Subtracting the two expressions:) Tj
+T*
+(   lambda_1 * \(X_1^T * X_2\) - lambda_2 * \(X_1^T * X_2\) = 0) Tj
+T*
+(   => \(lambda_1 - lambda_2\) * \(X_1^T * X_2\) = 0.) Tj
+T*
+(   - Since lambda_1 != lambda_2, we have \(lambda_1 - lambda_2\) != 0.) Tj
+T*
+(   - Consequently: X_1^T * X_2 = 0.) Tj
+T*
+(   - This signifies that the Euclidean inner product <X1, X2> = 0.) Tj
+T*
+(   - Hence, eigenvectors X_1 and X_2 are mutually ORTHOGONAL. \(Proved\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 12:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Find all eigenvalues and corresponding normalized eigenvectors of the real symmetric matrix: A = [[3, -1, 1], [-1, 5, -1], [1, -1, 3]]. Verify that the eigenvectors are mutually orthogonal.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Step 1: Characteristic Equation det\(A - lambda*I\) = 0:) Tj
+T*
+(   Expand characteristic polynomial: lambda^3 - S1*lambda^2 + S2*lambda - S3 = 0.) Tj
+T*
+(   - S1 = Trace\(A\) = 3 + 5 + 3 = 11.) Tj
+T*
+(   - S2 = Sum of principal minors:) Tj
+T*
+(   M11 = det\([5 -1; -1 3]\) = 15 - 1 = 14.) Tj
+T*
+(   M22 = det\([3 1; 1 3]\) = 9 - 1 = 8.) Tj
+T*
+(   M33 = det\([3 -1; -1 5]\) = 15 - 1 = 14.) Tj
+T*
+(   S2 = 14 + 8 + 14 = 36.) Tj
+T*
+(   - S3 = det\(A\) = 3\(15 - 1\) - \(-1\)\(-3 - \(-1\)\) + 1\(1 - 5\) = 3\(14\) + 1\(-2\) + 1\(-4\) = 42 - 2 - 4 =) Tj
+T*
+(   36.) Tj
+T*
+(   Characteristic equation: lambda^3 - 11*lambda^2 + 36*lambda - 36 = 0.) Tj
+T*
+(   Factoring: \(lambda - 2\) * \(lambda - 3\) * \(lambda - 6\) = 0.) Tj
+T*
+(   Eigenvalues: lambda1 = 2, lambda2 = 3, lambda3 = 6.) Tj
+T*
+(   Step 2: Eigenvector for lambda1 = 2:) Tj
+T*
+(   \(A - 2*I\)X = 0 => [ 1 -1 1; -1 3 -1; 1 -1 1 ][x1; x2; x3] = [0; 0; 0].) Tj
+T*
+(   From row 1: x1 - x2 + x3 = 0. From row 2: -x1 + 3*x2 - x3 = 0.) Tj
+T*
+(   Adding rows: 2*x2 = 0 => x2 = 0.) Tj
+T*
+(   Then x1 + x3 = 0 => x1 = -x3. Let x3 = 1 => x1 = -1.) Tj
+T*
+(   X1 = [ -1, 0, 1 ]^T. Norm ||X1|| = sqrt\(1 + 0 + 1\) = sqrt\(2\).) Tj
+T*
+(   Normalized u1 = [ -1/sqrt\(2\), 0, 1/sqrt\(2\) ]^T.) Tj
+T*
+(   Step 3: Eigenvector for lambda2 = 3:) Tj
+T*
+(   \(A - 3*I\)X = 0 => [ 0 -1 1; -1 2 -1; 1 -1 0 ][x1; x2; x3] = [0; 0; 0].) Tj
+T*
+(   From row 1: -x2 + x3 = 0 => x2 = x3.) Tj
+T*
+(   From row 3: x1 - x2 = 0 => x1 = x2.) Tj
+T*
+(   Therefore: x1 = x2 = x3 = 1.) Tj
+T*
+(   X2 = [ 1, 1, 1 ]^T. Norm ||X2|| = sqrt\(1 + 1 + 1\) = sqrt\(3\).) Tj
+T*
+(   Normalized u2 = [ 1/sqrt\(3\), 1/sqrt\(3\), 1/sqrt\(3\) ]^T.) Tj
+T*
+(   Step 4: Eigenvector for lambda3 = 6:) Tj
+T*
+(   \(A - 6*I\)X = 0 => [ -3 -1 1; -1 -1 -1; 1 -1 -3 ][x1; x2; x3] = [0; 0; 0].) Tj
+T*
+(   Using cross-multiplication on first two rows:) Tj
+T*
+ET
+
+endstream
+endobj
+43 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 44 0 R /Resources << /Font << /F1 73 0 R /F2 74 0 R >> >> >>
+endobj
+44 0 obj
+<< /Length 3827 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 1: LINEAR ALGEBRA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 21 of 35) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   x1 / \(1 - \(-1\)\) = x2 / \(-1 - 3\) = x3 / \(3 - 1\)) Tj
+T*
+(   => x1 / 2 = x2 / \(-4\) = x3 / 2 => x1 / 1 = x2 / \(-2\) = x3 / 1.) Tj
+T*
+(   X3 = [ 1, -2, 1 ]^T. Norm ||X3|| = sqrt\(1 + 4 + 1\) = sqrt\(6\).) Tj
+T*
+(   Normalized u3 = [ 1/sqrt\(6\), -2/sqrt\(6\), 1/sqrt\(6\) ]^T.) Tj
+T*
+(   Step 5: Verification of Orthogonality:) Tj
+T*
+(   u1 . u2 = \(-1\)\(1\) + \(0\)\(1\) + \(1\)\(1\) = -1 + 0 + 1 = 0.) Tj
+T*
+(   u1 . u3 = \(-1\)\(1\) + \(0\)\(-2\) + \(1\)\(1\) = -1 + 0 + 1 = 0.) Tj
+T*
+(   u2 . u3 = \(1\)\(1\) + \(1\)\(-2\) + \(1\)\(1\) = 1 - 2 + 1 = 0.) Tj
+T*
+(   All pairs are mutually orthogonal.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 13:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: State the Cayley-Hamilton Theorem. Provide a rigorous algebraic proof for an arbitrary 2x2 matrix, and explain its general proof for an n x n matrix using the adjoint matrix identity.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Statement of Cayley-Hamilton Theorem:) Tj
+T*
+(   Every square matrix A of order n satisfies its own characteristic equation.) Tj
+T*
+(   That is, if the characteristic polynomial of A is:) Tj
+T*
+(   p\(lambda\) = det\(lambda * I - A\) = lambda^n + c_{n-1}*lambda^{n-1} + ... + c1*lambda + c0 = 0,) Tj
+T*
+(   then substituting the matrix A for scalar lambda and c0*I for constant c0 yields the zero) Tj
+T*
+(   matrix:) Tj
+T*
+(   p\(A\) = A^n + c_{n-1}*A^{n-1} + ... + c1*A + c0*I = O.) Tj
+T*
+(   2. Direct Proof for a General 2x2 Matrix:) Tj
+T*
+(   - Let A = [a, b; c, d].) Tj
+T*
+(   - The characteristic equation is det\(lambda*I - A\) = 0:) Tj
+T*
+(   det\([lambda - a, -b; -c, lambda - d]\) = \(lambda - a\)\(lambda - d\) - bc) Tj
+T*
+(   = lambda^2 - \(a + d\)*lambda + \(ad - bc\) = 0.) Tj
+T*
+(   - We must verify that: A^2 - \(a + d\)*A + \(ad - bc\)*I = O.) Tj
+T*
+(   - Compute A^2:) Tj
+T*
+(   A^2 = [a, b; c, d] * [a, b; c, d] = [a^2 + bc, ab + bd; ac + cd, bc + d^2].) Tj
+T*
+(   - Compute \(a + d\)*A:) Tj
+T*
+(   \(a + d\)*A = [\(a+d\)a, \(a+d\)b; \(a+d\)c, \(a+d\)d] = [a^2 + ad, ab + bd; ac + cd, ad + d^2].) Tj
+T*
+(   - Subtract:) Tj
+T*
+(   A^2 - \(a + d\)*A = [ \(a^2+bc\) - \(a^2+ad\), \(ab+bd\) - \(ab+bd\) ]) Tj
+T*
+(   [ \(ac+cd\) - \(ac+cd\), \(bc+d^2\) - \(ad+d^2\) ]) Tj
+T*
+(   = [ bc - ad, 0 ]) Tj
+T*
+(   [ 0, bc - ad ] = -\(ad - bc\) * [1, 0; 0, 1] = -\(ad - bc\)*I.) Tj
+T*
+(   - Adding \(ad - bc\)*I to both sides yields:) Tj
+T*
+(   A^2 - \(a + d\)*A + \(ad - bc\)*I = [0, 0; 0, 0] = O. Hence proved for 2x2.) Tj
+T*
+(   3. General Proof for n x n Matrix using Adjoint Identity:) Tj
+T*
+(   - For any matrix M, M * adj\(M\) = det\(M\) * I.) Tj
+T*
+(   - Let M = \(lambda * I - A\). Then:) Tj
+T*
+(   \(lambda * I - A\) * adj\(lambda * I - A\) = det\(lambda * I - A\) * I = p\(lambda\) * I.) Tj
+T*
+(   - Since entries of adj\(lambda*I - A\) are cofactors of order \(n - 1\), they are polynomials in) Tj
+T*
+(   lambda of degree at most n - 1:) Tj
+T*
+(   adj\(lambda * I - A\) = B_{n-1} * lambda^{n-1} + B_{n-2} * lambda^{n-2} + ... + B1 * lambda + B0,) Tj
+T*
+(   where each B_k is an n x n constant matrix.) Tj
+T*
+(   - Equating coefficients of powers of lambda:) Tj
+T*
+(   lambda^n: B_{n-1} = I) Tj
+T*
+(   lambda^{n-1}: B_{n-2} - A * B_{n-1} = c_{n-1} * I) Tj
+T*
+(   ...) Tj
+T*
+(   lambda^1: B0 - A * B1 = c1 * I) Tj
+T*
+(   lambda^0: -A * B0 = c0 * I.) Tj
+T*
+(   - Multiply the equation for lambda^k from the left by A^k:) Tj
+T*
+ET
+
+endstream
+endobj
+45 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 46 0 R /Resources << /Font << /F1 73 0 R /F2 74 0 R >> >> >>
+endobj
+46 0 obj
+<< /Length 3272 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 1: LINEAR ALGEBRA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 22 of 35) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   A^n * B_{n-1} = A^n) Tj
+T*
+(   A^{n-1} * B_{n-2} - A^n * B_{n-1} = c_{n-1} * A^{n-1}) Tj
+T*
+(   ...) Tj
+T*
+(   A * B0 - A^2 * B1 = c1 * A) Tj
+T*
+(   -A * B0 = c0 * I.) Tj
+T*
+(   - Summing all equations causes the left-hand side to telescope completely to O \(Zero matrix\):) Tj
+T*
+(   O = A^n + c_{n-1}*A^{n-1} + ... + c1*A + c0*I = p\(A\). Hence proved in full generality.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 14:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Verify the Cayley-Hamilton Theorem for matrix A = [[1, 0, 3], [2, 1, -1], [1, -1, 1]], and hence compute A^-1 and A^4.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Step 1: Compute Characteristic Equation det\(lambda*I - A\) = 0:) Tj
+T*
+(   Characteristic polynomial: lambda^3 - S1*lambda^2 + S2*lambda - S3 = 0.) Tj
+T*
+(   - S1 = Trace\(A\) = 1 + 1 + 1 = 3.) Tj
+T*
+(   - S2 = Sum of principal minors:) Tj
+T*
+(   M11 = det\([1 -1; -1 1]\) = 1 - 1 = 0.) Tj
+T*
+(   M22 = det\([1 3; 1 1]\) = 1 - 3 = -2.) Tj
+T*
+(   M33 = det\([1 0; 2 1]\) = 1 - 0 = 1.) Tj
+T*
+(   S2 = 0 + \(-2\) + 1 = -1.) Tj
+T*
+(   - S3 = det\(A\) = 1\(1 - 1\) - 0 + 3\(-2 - 1\) = 0 - 0 - 9 = -9.) Tj
+T*
+(   Characteristic equation: lambda^3 - 3*lambda^2 - lambda + 9 = 0.) Tj
+T*
+(   Step 2: Verification of Cayley-Hamilton Theorem: A^3 - 3*A^2 - A + 9*I = O:) Tj
+T*
+(   Compute A^2:) Tj
+T*
+(   A^2 = [1 0 3; 2 1 -1; 1 -1 1] * [1 0 3; 2 1 -1; 1 -1 1]) Tj
+T*
+(   = [ 1*1+0+3*1, 0+0-3*1, 3*1+0+3*1 ] [ 4 -3 6 ]) Tj
+T*
+(   [ 2*1+1*2-1*1, 0+1*1+1*1, 6-1-1 ] = [ 3 2 4 ]) Tj
+T*
+(   [ 1*1-1*2+1*1, 0-1*1-1*1, 3+1+1 ] [ 0 -2 5 ]) Tj
+T*
+(   Compute A^3 = A^2 * A:) Tj
+T*
+(   A^3 = [ 4 -3 6; 3 2 4; 0 -2 5 ] * [ 1 0 3; 2 1 -1; 1 -1 1 ]) Tj
+T*
+(   = [ 4-6+6, 0-3-6, 12+3+6 ] [ 4 -9 21 ]) Tj
+T*
+(   [ 3+4+4, 0+2-4, 9-2+4 ] = [ 11 -2 11 ]) Tj
+T*
+(   [ 0-4+5, 0-2-5, 0+2+5 ] [ 1 -7 7 ]) Tj
+T*
+(   Now evaluate A^3 - 3*A^2 - A + 9*I:) Tj
+T*
+(   - 3*A^2 = [ 12 -9 18; 9 6 12; 0 -6 15 ]) Tj
+T*
+(   - A^3 - 3*A^2 = [ 4-12, -9-\(-9\), 21-18; 11-9, -2-6, 11-12; 1-0, -7-\(-6\), 7-15 ] = [ -8 0 3; 2) Tj
+T*
+(   -8 -1; 1 -1 -8 ]) Tj
+T*
+(   - \(A^3 - 3*A^2\) - A = [ -8-1, 0-0, 3-3; 2-2, -8-1, -1-\(-1\); 1-1, -1-\(-1\), -8-1 ] = [ -9 0 0; 0) Tj
+T*
+(   -9 0; 0 0 -9 ] = -9*I) Tj
+T*
+(   - Therefore: A^3 - 3*A^2 - A + 9*I = -9*I + 9*I = O. \(Verified\).) Tj
+T*
+(   Step 3: Compute A^-1:) Tj
+T*
+(   Multiply characteristic equation by A^-1:) Tj
+T*
+(   A^2 - 3*A - I + 9*A^-1 = O => 9*A^-1 = -A^2 + 3*A + I) Tj
+T*
+(   -A^2 + 3*A + I:) Tj
+T*
+(   -A^2 = [ -4 3 -6; -3 -2 -4; 0 2 -5 ]) Tj
+T*
+(   3*A = [ 3 0 9; 6 3 -3; 3 -3 3 ]) Tj
+T*
+(   I = [ 1 0 0; 0 1 0; 0 0 1 ]) Tj
+T*
+(   Sum = [ -4+3+1, 3+0+0, -6+9+0; -3+6+0, -2+3+1, -4-3+0; 0+3+0, 2-3+0, -5+3+1 ]) Tj
+T*
+(   = [ 0 3 3 ]) Tj
+T*
+(   [ 3 2 -7 ]) Tj
+T*
+(   [ 3 -1 -1 ]) Tj
+T*
+(   A^-1 = \(1/9\) * [ 0 3 3; 3 2 -7; 3 -1 -1 ].) Tj
+T*
+(   Step 4: Compute A^4:) Tj
+T*
+ET
+
+endstream
+endobj
+47 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 48 0 R /Resources << /Font << /F1 73 0 R /F2 74 0 R >> >> >>
+endobj
+48 0 obj
+<< /Length 3797 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 1: LINEAR ALGEBRA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 23 of 35) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   From A^3 = 3*A^2 + A - 9*I:) Tj
+T*
+(   Multiply by A: A^4 = 3*A^3 + A^2 - 9*A) Tj
+T*
+(   Substitute A^3: A^4 = 3\(3*A^2 + A - 9*I\) + A^2 - 9*A = 10*A^2 - 6*A - 27*I) Tj
+T*
+(   10*A^2 = [ 40 -30 60; 30 20 40; 0 -20 50 ]) Tj
+T*
+(   -6*A = [ -6 0 -18; -12 -6 6; -6 6 -6 ]) Tj
+T*
+(   -27*I = [ -27 0 0; 0 -27 0; 0 0 -27 ]) Tj
+T*
+(   A^4 = [ 40-6-27, -30+0+0, 60-18+0; 30-12+0, 20-6-27, 40+6+0; 0-6+0, -20+6+0, 50-6-27 ]) Tj
+T*
+(   = [ 7 -30 42 ]) Tj
+T*
+(   [ 18 -13 46 ]) Tj
+T*
+(   [ -6 -14 17 ].) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 15:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the criteria for diagonalizability of a square matrix. Define modal matrix P and spectral matrix D, and show that A^k = P * D^k * P^-1.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Criteria for Diagonalizability:) Tj
+T*
+(   - An n x n matrix A is diagonalizable over field F if there exists an invertible matrix P such) Tj
+T*
+(   that:) Tj
+T*
+(   P^-1 * A * P = D, where D is a diagonal matrix.) Tj
+T*
+(   - Fundamental Theorem of Diagonalizability: Matrix A is diagonalizable if and only if A) Tj
+T*
+(   possesses n linearly independent eigenvectors.) Tj
+T*
+(   - Multiplicity Criterion: A is diagonalizable if and only if:) Tj
+T*
+(   \(a\) The characteristic polynomial splits completely into linear factors over F.) Tj
+T*
+(   \(b\) For every distinct eigenvalue lambda_i, its Geometric Multiplicity equals its Algebraic) Tj
+T*
+(   Multiplicity:) Tj
+T*
+(   GM\(lambda_i\) = dim\(Null\(A - lambda_i * I\)\) = AM\(lambda_i\).) Tj
+T*
+(   2. Construction of Modal Matrix P and Spectral Matrix D:) Tj
+T*
+(   - Let lambda_1, lambda_2, ..., lambda_n be eigenvalues of A, and let X_1, X_2, ..., X_n be n) Tj
+T*
+(   linearly independent eigenvectors such that A * X_i = lambda_i * X_i.) Tj
+T*
+(   - Form the Modal Matrix P whose columns are these eigenvectors:) Tj
+T*
+(   P = [ X_1 | X_2 | ... | X_n ].) Tj
+T*
+(   - Since {X1, ..., Xn} are linearly independent, det\(P\) != 0, so P^-1 exists.) Tj
+T*
+(   - Compute the product A * P:) Tj
+T*
+(   A * P = A * [ X_1 | X_2 | ... | X_n ] = [ A*X_1 | A*X_2 | ... | A*X_n ]) Tj
+T*
+(   = [ lambda_1*X_1 | lambda_2*X_2 | ... | lambda_n*X_n ]) Tj
+T*
+(   = [ X_1 | X_2 | ... | X_n ] * diag\(lambda_1, lambda_2, ..., lambda_n\)) Tj
+T*
+(   = P * D,) Tj
+T*
+(   where D = diag\(lambda_1, lambda_2, ..., lambda_n\) is the Spectral Matrix.) Tj
+T*
+(   - Pre-multiplying by P^-1 gives: P^-1 * A * P = D.) Tj
+T*
+(   3. Derivation of A^k = P * D^k * P^-1:) Tj
+T*
+(   - From P^-1 * A * P = D, pre-multiply by P and post-multiply by P^-1: A = P * D * P^-1.) Tj
+T*
+(   - Compute A^2:) Tj
+T*
+(   A^2 = \(P * D * P^-1\) * \(P * D * P^-1\) = P * D * \(P^-1 * P\) * D * P^-1 = P * D * I * D * P^-1 =) Tj
+T*
+(   P * D^2 * P^-1.) Tj
+T*
+(   - By mathematical induction, assume A^m = P * D^m * P^-1:) Tj
+T*
+(   A^{m+1} = A^m * A = \(P * D^m * P^-1\) * \(P * D * P^-1\) = P * D^{m+1} * P^-1.) Tj
+T*
+(   - Since D is diagonal, D^k is computed trivially by raising diagonal elements to power k:) Tj
+T*
+(   D^k = diag\(lambda_1^k, lambda_2^k, ..., lambda_n^k\).) Tj
+T*
+(   - Hence, A^k = P * D^k * P^-1 for any positive integer k. \(Proved\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 16:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+ET
+
+endstream
+endobj
+49 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 50 0 R /Resources << /Font << /F1 73 0 R /F2 74 0 R >> >> >>
+endobj
+50 0 obj
+<< /Length 2895 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 1: LINEAR ALGEBRA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 24 of 35) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   [Problem Statement]: Diagonalize the matrix A = [[1, 6, 1], [0, 2, 0], [0, 0, 3]] and compute A^5 using matrix diagonalization.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Step 1: Eigenvalues of A:) Tj
+T*
+(   Since A is upper triangular, its eigenvalues are simply the diagonal entries:) Tj
+T*
+(   lambda1 = 1, lambda2 = 2, lambda3 = 3.) Tj
+T*
+(   Since all three eigenvalues are distinct, matrix A is guaranteed to be diagonalizable.) Tj
+T*
+(   Step 2: Find Eigenvectors:) Tj
+T*
+(   - For lambda1 = 1:) Tj
+T*
+(   \(A - 1*I\)X = 0 => [ 0 6 1; 0 1 0; 0 0 2 ][ x1; x2; x3 ] = [ 0; 0; 0 ].) Tj
+T*
+(   Row 3: 2*x3 = 0 => x3 = 0.) Tj
+T*
+(   Row 2: 1*x2 = 0 => x2 = 0.) Tj
+T*
+(   Row 1: 0*x1 + 6\(0\) + 1\(0\) = 0 \(x1 is free\).) Tj
+T*
+(   Let x1 = 1 => X1 = [ 1, 0, 0 ]^T.) Tj
+T*
+(   - For lambda2 = 2:) Tj
+T*
+(   \(A - 2*I\)X = 0 => [ -1 6 1; 0 0 0; 0 0 1 ][ x1; x2; x3 ] = [ 0; 0; 0 ].) Tj
+T*
+(   Row 3: x3 = 0.) Tj
+T*
+(   Row 1: -x1 + 6*x2 + 0 = 0 => x1 = 6*x2.) Tj
+T*
+(   Let x2 = 1 => x1 = 6.) Tj
+T*
+(   X2 = [ 6, 1, 0 ]^T.) Tj
+T*
+(   - For lambda3 = 3:) Tj
+T*
+(   \(A - 3*I\)X = 0 => [ -2 6 1; 0 -1 0; 0 0 0 ][ x1; x2; x3 ] = [ 0; 0; 0 ].) Tj
+T*
+(   Row 2: -x2 = 0 => x2 = 0.) Tj
+T*
+(   Row 1: -2*x1 + 6\(0\) + x3 = 0 => x3 = 2*x1.) Tj
+T*
+(   Let x1 = 1 => x3 = 2.) Tj
+T*
+(   X3 = [ 1, 0, 2 ]^T.) Tj
+T*
+(   Step 3: Construct Modal Matrix P and Inverse P^-1:) Tj
+T*
+(   P = [ 1 6 1 ]) Tj
+T*
+(   [ 0 1 0 ]) Tj
+T*
+(   [ 0 0 2 ]) Tj
+T*
+(   det\(P\) = 1 * \(1*2 - 0\) = 2.) Tj
+T*
+(   Adjoint of P:) Tj
+T*
+(   Cofactors:) Tj
+T*
+(   C11 = 2, C12 = 0, C13 = 0) Tj
+T*
+(   C21 = -12, C22 = 2, C23 = 0) Tj
+T*
+(   C31 = -1, C32 = 0, C33 = 1) Tj
+T*
+(   P^-1 = \(1/2\) * [ 2 -12 -1; 0 2 0; 0 0 1 ] = [ 1 -6 -0.5; 0 1 0; 0 0 0.5 ].) Tj
+T*
+(   Step 4: Spectral Matrix D and D^5:) Tj
+T*
+(   D = diag\(1, 2, 3\)) Tj
+T*
+(   D^5 = diag\(1^5, 2^5, 3^5\) = diag\(1, 32, 243\).) Tj
+T*
+(   Step 5: Compute A^5 = P * D^5 * P^-1:) Tj
+T*
+(   P * D^5 = [ 1 6 1; 0 1 0; 0 0 2 ] * [ 1 0 0; 0 32 0; 0 0 243 ] = [ 1, 192, 243; 0, 32, 0; 0, 0,) Tj
+T*
+(   486 ].) Tj
+T*
+(   Now multiply by P^-1:) Tj
+T*
+(   A^5 = [ 1, 192, 243; 0, 32, 0; 0, 0, 486 ] * [ 1 -6 -0.5; 0 1 0; 0 0 0.5 ]) Tj
+T*
+(   Row 1: [ 1*1 + 0 + 0, 1\(-6\) + 192\(1\) + 0, 1\(-0.5\) + 0 + 243\(0.5\) ] = [ 1, 186, 121 ]) Tj
+T*
+(   Row 2: [ 0, 32\(1\), 0 ] = [ 0, 32, 0 ]) Tj
+T*
+(   Row 3: [ 0, 0, 486\(0.5\) ] = [ 0, 0, 243 ]) Tj
+T*
+(   Final Result:) Tj
+T*
+(   A^5 = [ 1 186 121 ]) Tj
+T*
+(   [ 0 32 0 ]) Tj
+T*
+(   [ 0 0 243 ].) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+51 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 52 0 R /Resources << /Font << /F1 73 0 R /F2 74 0 R >> >> >>
+endobj
+52 0 obj
+<< /Length 3928 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 1: LINEAR ALGEBRA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 25 of 35) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 17:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Define an orthogonal matrix and an orthogonal transformation. Prove that orthogonal transformations preserve: \(i\) Vector lengths \(Euclidean norm\), and \(ii\) Inner products \(angles between vectors\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Definitions:) Tj
+T*
+(   - A real square matrix Q in M_n\(R\) is called Orthogonal if:) Tj
+T*
+(   Q^T * Q = Q * Q^T = I_n.) Tj
+T*
+(   - This implies that Q^-1 = Q^T.) Tj
+T*
+(   - An Orthogonal Transformation is a linear map T: R^n -> R^n defined by T\(x\) = Q*x, where Q is) Tj
+T*
+(   an orthogonal matrix.) Tj
+T*
+(   2. Proof of Preservation of Inner Products:) Tj
+T*
+(   - Let x, y in R^n with standard Euclidean inner product <x, y> = x^T * y.) Tj
+T*
+(   - Under the transformation T, x -> Q*x and y -> Q*y.) Tj
+T*
+(   - The inner product of the transformed vectors is:) Tj
+T*
+(   <Q*x, Q*y> = \(Q*x\)^T * \(Q*y\)) Tj
+T*
+(   = \(x^T * Q^T\) * \(Q*y\)) Tj
+T*
+(   = x^T * \(Q^T * Q\) * y.) Tj
+T*
+(   - Since Q is orthogonal, Q^T * Q = I:) Tj
+T*
+(   <Q*x, Q*y> = x^T * I * y = x^T * y = <x, y>.) Tj
+T*
+(   - Thus, the inner product is strictly preserved: <T\(x\), T\(y\)> = <x, y>. \(Proved\).) Tj
+T*
+(   3. Proof of Preservation of Vector Lengths \(Norms\):) Tj
+T*
+(   - The Euclidean length \(norm\) of vector x is defined by ||x|| = sqrt\(<x, x>\) = sqrt\(x^T * x\).) Tj
+T*
+(   - Under orthogonal transformation:) Tj
+T*
+(   ||Q*x||^2 = <Q*x, Q*x> = \(Q*x\)^T * \(Q*x\) = x^T * \(Q^T * Q\) * x = x^T * x = ||x||^2.) Tj
+T*
+(   - Taking positive square roots:) Tj
+T*
+(   ||Q*x|| = ||x|| for all x in R^n.) Tj
+T*
+(   - Thus, lengths are invariant under orthogonal transformations \(isometry\).) Tj
+T*
+(   4. Preservation of Angles:) Tj
+T*
+(   - The angle theta between two non-zero vectors x and y is given by:) Tj
+T*
+(   cos\(theta\) = <x, y> / \(||x|| * ||y||\).) Tj
+T*
+(   - In the transformed space:) Tj
+T*
+(   cos\(theta'\) = <Q*x, Q*y> / \(||Q*x|| * ||Q*y||\) = <x, y> / \(||x|| * ||y||\) = cos\(theta\).) Tj
+T*
+(   - Hence, theta' = theta; angles are completely preserved.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 18:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: State and prove the Spectral Decomposition Theorem for a real symmetric matrix A. Show how A can be written as a sum of rank-one projection matrices.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Statement of Spectral Decomposition Theorem:) Tj
+T*
+(   Every real symmetric n x n matrix A can be decomposed as:) Tj
+T*
+(   A = sum_{i=1}^n lambda_i * u_i * u_i^T,) Tj
+T*
+(   where lambda_1, ..., lambda_n are the real eigenvalues of A, and {u_1, ..., u_n} is an) Tj
+T*
+(   orthonormal set of eigenvectors of A.) Tj
+T*
+(   Each term P_i = u_i * u_i^T is an orthogonal projection matrix of rank 1 satisfying:) Tj
+T*
+(   \(a\) P_i^2 = P_i \(idempotent\),) Tj
+T*
+(   \(b\) P_i * P_j = O for i != j \(mutually orthogonal\),) Tj
+T*
+(   \(c\) sum_{i=1}^n P_i = I_n \(resolution of identity\).) Tj
+T*
+(   2. Mathematical Derivation:) Tj
+T*
+(   - Since A is real symmetric, by the principal axes theorem, there exists an orthogonal matrix Q) Tj
+T*
+(   whose columns are the orthonormal eigenvectors u_i:) Tj
+T*
+(   Q = [ u_1 | u_2 | ... | u_n ], with Q^T * Q = I.) Tj
+T*
+(   - Q diagonalizes A: Q^T * A * Q = D = diag\(lambda_1, lambda_2, ..., lambda_n\).) Tj
+T*
+(   - Pre-multiply by Q and post-multiply by Q^T:) Tj
+T*
+(   A = Q * D * Q^T.) Tj
+T*
+ET
+
+endstream
+endobj
+53 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 54 0 R /Resources << /Font << /F1 73 0 R /F2 74 0 R >> >> >>
+endobj
+54 0 obj
+<< /Length 4338 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 1: LINEAR ALGEBRA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 26 of 35) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - Expand the matrix products:) Tj
+T*
+(   Q * D = [ u_1 | u_2 | ... | u_n ] * diag\(lambda_1, ..., lambda_n\) = [ lambda_1*u_1 |) Tj
+T*
+(   lambda_2*u_2 | ... | lambda_n*u_n ].) Tj
+T*
+(   Post-multiplying by Q^T = [ u_1^T; u_2^T; ...; u_n^T ]:) Tj
+T*
+(   A = [ lambda_1*u_1 | ... | lambda_n*u_n ] * [ u_1^T; ...; u_n^T ] = sum_{i=1}^n lambda_i * \(u_i) Tj
+T*
+(   * u_i^T\).) Tj
+T*
+(   3. Verification of Projection Properties:) Tj
+T*
+(   - P_i^2 = \(u_i * u_i^T\) * \(u_i * u_i^T\) = u_i * \(u_i^T * u_i\) * u_i^T = u_i * \(1\) * u_i^T =) Tj
+T*
+(   P_i.) Tj
+T*
+(   - For i != j: P_i * P_j = \(u_i * u_i^T\) * \(u_j * u_j^T\) = u_i * \(u_i^T * u_j\) * u_j^T = u_i *) Tj
+T*
+(   \(0\) * u_j^T = O.) Tj
+T*
+(   - Resolution of identity: Q * Q^T = I => sum_{i=1}^n u_i * u_i^T = I.) Tj
+T*
+(   - Rank: Since u_i != 0, dim\(Col\(u_i * u_i^T\)\) = 1, so each P_i has rank 1. Hence proved.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 19:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Define a quadratic form, its matrix representation, rank, index, signature, and classifications \(positive definite, negative definite, indefinite, semidefinite\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Definition and Matrix Representation:) Tj
+T*
+(   - A Quadratic Form Q in n real variables x = [x1, x2, ..., xn]^T is a homogeneous polynomial of) Tj
+T*
+(   second degree:) Tj
+T*
+(   Q\(x\) = sum_{i=1}^n sum_{j=1}^n a_ij * x_i * x_j = x^T * A * x,) Tj
+T*
+(   where A is an n x n real symmetric matrix \(A^T = A\) with:) Tj
+T*
+(   a_ii = coefficient of x_i^2, and a_ij = a_ji = \(1/2\) * \(coefficient of x_i * x_j\) for i != j.) Tj
+T*
+(   2. Invariants of a Quadratic Form:) Tj
+T*
+(   - By Sylvester's Law of Inertia, every quadratic form can be reduced to canonical form:) Tj
+T*
+(   Q\(y\) = lambda_1 * y1^2 + lambda_2 * y2^2 + ... + lambda_r * yr^2.) Tj
+T*
+(   - Rank \(r\): The total number of non-zero terms in the canonical form \(number of non-zero) Tj
+T*
+(   eigenvalues of A\).) Tj
+T*
+(   - Index \(p\): The total number of positive terms \(positive eigenvalues\) in the canonical form.) Tj
+T*
+(   - Signature \(s\): The difference between the number of positive and negative eigenvalues:) Tj
+T*
+(   s = p - \(r - p\) = 2p - r.) Tj
+T*
+(   3. Classifications of Quadratic Forms:) Tj
+T*
+(   - Positive Definite: Q\(x\) > 0 for all x != 0. Equivalent to: all eigenvalues lambda_i > 0, or) Tj
+T*
+(   all leading principal minors > 0.) Tj
+T*
+(   - Negative Definite: Q\(x\) < 0 for all x != 0. Equivalent to: all eigenvalues lambda_i < 0, or) Tj
+T*
+(   leading principal minors alternate: Delta_1 < 0, Delta_2 > 0, Delta_3 < 0, ...) Tj
+T*
+(   - Positive Semidefinite: Q\(x\) >= 0 for all x, and Q\(x\) = 0 for some non-zero x. Equivalent to:) Tj
+T*
+(   all eigenvalues lambda_i >= 0 with at least one eigenvalue equal to 0.) Tj
+T*
+(   - Negative Semidefinite: Q\(x\) <= 0 for all x, and Q\(x\) = 0 for some non-zero x. Equivalent to:) Tj
+T*
+(   all eigenvalues lambda_i <= 0 with at least one equal to 0.) Tj
+T*
+(   - Indefinite: Q\(x\) assumes both strictly positive and strictly negative values for different) Tj
+T*
+(   non-zero vectors x. Equivalent to: matrix A has both positive and negative eigenvalues.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 20:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Reduce the quadratic form Q = 3*x1^2 + 5*x2^2 + 3*x3^2 - 2*x1*x2 + 2*x1*x3 - 2*x2*x3 to canonical form by orthogonal transformation. Determine its rank, index, signature, and nature.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Step 1: Write down the Symmetric Matrix A of the Quadratic Form:) Tj
+T*
+(   Diagonal entries: a11 = 3, a22 = 5, a33 = 3.) Tj
+T*
+(   Off-diagonal entries: a12 = a21 = -1, a13 = a31 = 1, a23 = a32 = -1.) Tj
+T*
+(   [ 3 -1 1 ]) Tj
+T*
+ET
+
+endstream
+endobj
+55 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 56 0 R /Resources << /Font << /F1 73 0 R /F2 74 0 R >> >> >>
+endobj
+56 0 obj
+<< /Length 3685 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 1: LINEAR ALGEBRA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 27 of 35) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   A = [ -1 5 -1 ]) Tj
+T*
+(   [ 1 -1 3 ]) Tj
+T*
+(   Step 2: Find the Eigenvalues of A:) Tj
+T*
+(   det\(A - lambda*I\) = lambda^3 - S1*lambda^2 + S2*lambda - S3 = 0.) Tj
+T*
+(   S1 = Trace\(A\) = 3 + 5 + 3 = 11.) Tj
+T*
+(   S2 = Sum of principal minors = \(15 - 1\) + \(9 - 1\) + \(15 - 1\) = 14 + 8 + 14 = 36.) Tj
+T*
+(   S3 = det\(A\) = 3\(14\) - \(-1\)\(-3 - \(-1\)\) + 1\(1 - 5\) = 42 - 2 - 4 = 36.) Tj
+T*
+(   Equation: lambda^3 - 11*lambda^2 + 36*lambda - 36 = 0.) Tj
+T*
+(   Factoring: \(lambda - 2\)\(lambda - 3\)\(lambda - 6\) = 0.) Tj
+T*
+(   Eigenvalues: lambda1 = 2, lambda2 = 3, lambda3 = 6.) Tj
+T*
+(   Step 3: Construct Normalized Eigenvectors:) Tj
+T*
+(   - For lambda1 = 2: u1 = [ -1/sqrt\(2\), 0, 1/sqrt\(2\) ]^T.) Tj
+T*
+(   - For lambda2 = 3: u2 = [ 1/sqrt\(3\), 1/sqrt\(3\), 1/sqrt\(3\) ]^T.) Tj
+T*
+(   - For lambda3 = 6: u3 = [ 1/sqrt\(6\), -2/sqrt\(6\), 1/sqrt\(6\) ]^T.) Tj
+T*
+(   Step 4: Orthogonal Transformation Matrix Q:) Tj
+T*
+(   Q = [ -1/sqrt\(2\) 1/sqrt\(3\) 1/sqrt\(6\) ]) Tj
+T*
+(   [ 0 1/sqrt\(3\) -2/sqrt\(6\) ]) Tj
+T*
+(   [ 1/sqrt\(2\) 1/sqrt\(3\) 1/sqrt\(6\) ]) Tj
+T*
+(   Transformation: X = Q * Y, where Y = [y1, y2, y3]^T.) Tj
+T*
+(   Step 5: Canonical Form:) Tj
+T*
+(   Q\(Y\) = Y^T * \(Q^T * A * Q\) * Y = Y^T * D * Y) Tj
+T*
+(   Q\(y1, y2, y3\) = 2*y1^2 + 3*y2^2 + 6*y3^2.) Tj
+T*
+(   Step 6: Properties and Classification:) Tj
+T*
+(   - Rank \(r\) = 3 \(number of non-zero terms\).) Tj
+T*
+(   - Index \(p\) = 3 \(number of positive terms\).) Tj
+T*
+(   - Signature \(s\) = 2p - r = 2\(3\) - 3 = 3.) Tj
+T*
+(   - Nature: Since all eigenvalues \(2, 3, 6\) are strictly positive, the quadratic form is strictly) Tj
+T*
+(   POSITIVE DEFINITE.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 21:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: State and prove Sylvester's Criterion for positive definiteness of a real symmetric matrix.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Statement of Sylvester's Criterion:) Tj
+T*
+(   A real symmetric matrix A in M_n\(R\) is strictly Positive Definite \(x^T * A * x > 0 for all x !=) Tj
+T*
+(   0\) if and only if all its leading principal minors are strictly positive:) Tj
+T*
+(   Delta_k = det\(A_k\) > 0 for all k = 1, 2, ..., n,) Tj
+T*
+(   where A_k is the k x k submatrix obtained by deleting the last \(n - k\) rows and columns of A.) Tj
+T*
+(   2. Mathematical Proof:) Tj
+T*
+(   - Necessity \(=>\):) Tj
+T*
+(   Suppose A is positive definite.) Tj
+T*
+(   For any k in {1, 2, ..., n}, let y in R^k be a non-zero vector.) Tj
+T*
+(   Define x in R^n by padding y with \(n - k\) zeros: x = [y; 0].) Tj
+T*
+(   Then x != 0, so x^T * A * x > 0.) Tj
+T*
+(   Expanding: x^T * A * x = y^T * A_k * y > 0 for all y != 0.) Tj
+T*
+(   Thus, each leading principal submatrix A_k is positive definite.) Tj
+T*
+(   Since A_k is positive definite, all its eigenvalues are strictly positive.) Tj
+T*
+(   The determinant det\(A_k\) is the product of its eigenvalues; hence Delta_k = det\(A_k\) > 0 for) Tj
+T*
+(   all k = 1, ..., n.) Tj
+T*
+(   - Sufficiency \(<=\):) Tj
+T*
+(   We prove by induction on n that if Delta_k > 0 for all k = 1, ..., n, then A is positive) Tj
+T*
+(   definite.) Tj
+T*
+(   * Base Case \(n = 1\): A = [a11], Delta_1 = a11 > 0. For any non-zero x, x^T * A * x = a11 * x^2) Tj
+T*
+ET
+
+endstream
+endobj
+57 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 58 0 R /Resources << /Font << /F1 73 0 R /F2 74 0 R >> >> >>
+endobj
+58 0 obj
+<< /Length 3512 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 1: LINEAR ALGEBRA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 28 of 35) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   > 0. True.) Tj
+T*
+(   * Inductive Hypothesis: Assume true for matrices of order n - 1.) Tj
+T*
+(   Let A be an n x n matrix with Delta_k > 0 for k = 1, ..., n.) Tj
+T*
+(   By hypothesis, A_{n-1} is positive definite and invertible.) Tj
+T*
+(   Partition A as:) Tj
+T*
+(   A = [ A_{n-1} b ]) Tj
+T*
+(   [ b^T c ], where b in R^{n-1}, c in R.) Tj
+T*
+(   Perform block Gaussian elimination: Let S = c - b^T * \(A_{n-1}\)^-1 * b \(the Schur complement of) Tj
+T*
+(   A_{n-1}\).) Tj
+T*
+(   Determinant identity: det\(A\) = det\(A_{n-1}\) * S => Delta_n = Delta_{n-1} * S.) Tj
+T*
+(   Since Delta_n > 0 and Delta_{n-1} > 0, we must have S > 0.) Tj
+T*
+(   For any non-zero x = [u; v] in R^n:) Tj
+T*
+(   x^T * A * x = \(u + A_{n-1}^-1 * b * v\)^T * A_{n-1} * \(u + A_{n-1}^-1 * b * v\) + S * v^2.) Tj
+T*
+(   If v != 0, then S * v^2 > 0 and the first term is >= 0 \(since A_{n-1} is positive definite\), so) Tj
+T*
+(   x^T * A * x > 0.) Tj
+T*
+(   If v = 0, then u != 0, so x^T * A * x = u^T * A_{n-1} * u > 0.) Tj
+T*
+(   Therefore, x^T * A * x > 0 for all x != 0.) Tj
+T*
+(   Hence, A is strictly positive definite. \(Proved\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 22:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Define a linear transformation T: V -> W. Define its Kernel and Range. Find the matrix representation of T: P2\(R\) -> P2\(R\) defined by T\(p\(x\)\) = p'\(x\) + p''\(x\) with respect to standard basis {1, x, x^2}.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Definitions:) Tj
+T*
+(   - Let V and W be vector spaces over field F. A mapping T: V -> W is a Linear Transformation if:) Tj
+T*
+(   \(a\) T\(u + v\) = T\(u\) + T\(v\) for all u, v in V.) Tj
+T*
+(   \(b\) T\(c * u\) = c * T\(u\) for all c in F, u in V.) Tj
+T*
+(   - Kernel \(Null Space\): Ker\(T\) = { v in V : T\(v\) = 0 }. Subspace of V.) Tj
+T*
+(   - Range \(Image\): Im\(T\) = { T\(v\) : v in V }. Subspace of W.) Tj
+T*
+(   2. Matrix Representation of T: P2\(R\) -> P2\(R\):) Tj
+T*
+(   - Standard basis for P2\(R\): B = { v1, v2, v3 } = { 1, x, x^2 }.) Tj
+T*
+(   - Evaluate T on each basis polynomial:) Tj
+T*
+(   * For v1 = 1:) Tj
+T*
+(   p'\(x\) = 0, p''\(x\) = 0 => T\(1\) = 0 + 0 = 0.) Tj
+T*
+(   Coordinate vector: [T\(1\)]_B = [ 0, 0, 0 ]^T.) Tj
+T*
+(   * For v2 = x:) Tj
+T*
+(   p'\(x\) = 1, p''\(x\) = 0 => T\(x\) = 1 + 0 = 1.) Tj
+T*
+(   Coordinate vector: [T\(x\)]_B = 1*\(1\) + 0*\(x\) + 0*\(x^2\) = [ 1, 0, 0 ]^T.) Tj
+T*
+(   * For v3 = x^2:) Tj
+T*
+(   p'\(x\) = 2x, p''\(x\) = 2 => T\(x^2\) = 2x + 2 = 2*\(1\) + 2*\(x\) + 0*\(x^2\).) Tj
+T*
+(   Coordinate vector: [T\(x^2\)]_B = [ 2, 2, 0 ]^T.) Tj
+T*
+(   3. Assemble the Matrix [T]_B:) Tj
+T*
+(   The columns of [T]_B are the coordinate vectors:) Tj
+T*
+(   [T]_B = [ [T\(v1\)]_B | [T\(v2\)]_B | [T\(v3\)]_B ]) Tj
+T*
+(   = [ 0 1 2 ]) Tj
+T*
+(   [ 0 0 2 ]) Tj
+T*
+(   [ 0 0 0 ].) Tj
+T*
+(   4. Properties of [T]_B:) Tj
+T*
+(   - Rank\([T]_B\) = 2 \(pivots in col 2 and col 3\).) Tj
+T*
+(   - Nullity\([T]_B\) = 3 - 2 = 1.) Tj
+T*
+(   - Basis for Ker\(T\): { 1 } \(constant polynomials\).) Tj
+T*
+(   - Basis for Im\(T\): { 1, 1 + x }.) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+59 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 60 0 R /Resources << /Font << /F1 73 0 R /F2 74 0 R >> >> >>
+endobj
+60 0 obj
+<< /Length 4154 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 1: LINEAR ALGEBRA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 29 of 35) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 23:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: State and prove the Rank-Nullity Theorem \(Dimension Theorem\) for an arbitrary linear transformation T: V -> W between finite-dimensional vector spaces.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Formal Statement of Dimension Theorem:) Tj
+T*
+(   Let V and W be vector spaces over field F, with V finite-dimensional.) Tj
+T*
+(   If T: V -> W is a linear transformation, then:) Tj
+T*
+(   dim\(V\) = dim\(Ker\(T\)\) + dim\(Im\(T\)\) = nullity\(T\) + rank\(T\).) Tj
+T*
+(   2. Complete Mathematical Proof:) Tj
+T*
+(   - Let dim\(V\) = n, and let nullity\(T\) = dim\(Ker\(T\)\) = k.) Tj
+T*
+(   - Since Ker\(T\) is a subspace of V, it possesses an ordered basis: { u1, u2, ..., uk }.) Tj
+T*
+(   - By the Basis Extension Theorem, any linearly independent set in a finite-dimensional space) Tj
+T*
+(   can be extended to a basis of the entire space.) Tj
+T*
+(   - Extend { u1, ..., uk } to a full basis of V:) Tj
+T*
+(   B = { u1, u2, ..., uk, v1, v2, ..., v_{n-k} }, where dim\(V\) = n.) Tj
+T*
+(   - We claim that the set S = { T\(v1\), T\(v2\), ..., T\(v_{n-k}\) } forms a basis for Im\(T\).) Tj
+T*
+(   - Part \(a\): S spans Im\(T\):) Tj
+T*
+(   Let w in Im\(T\). Then w = T\(v\) for some v in V.) Tj
+T*
+(   Express v in terms of the basis B:) Tj
+T*
+(   v = a1*u1 + ... + ak*uk + b1*v1 + ... + b_{n-k}*v_{n-k}.) Tj
+T*
+(   Apply linear transformation T:) Tj
+T*
+(   T\(v\) = a1*T\(u1\) + ... + ak*T\(uk\) + b1*T\(v1\) + ... + b_{n-k}*T\(v_{n-k}\).) Tj
+T*
+(   Since u_i in Ker\(T\), T\(u_i\) = 0 for all i = 1, ..., k.) Tj
+T*
+(   Therefore: T\(v\) = b1*T\(v1\) + ... + b_{n-k}*T\(v_{n-k}\).) Tj
+T*
+(   Thus, w is a linear combination of S; S spans Im\(T\).) Tj
+T*
+(   - Part \(b\): S is linearly independent:) Tj
+T*
+(   Suppose c1*T\(v1\) + c2*T\(v2\) + ... + c_{n-k}*T\(v_{n-k}\) = 0.) Tj
+T*
+(   By linearity of T:) Tj
+T*
+(   T\(c1*v1 + c2*v2 + ... + c_{n-k}*v_{n-k}\) = 0.) Tj
+T*
+(   This implies that the vector z = \(c1*v1 + ... + c_{n-k}*v_{n-k}\) belongs to Ker\(T\).) Tj
+T*
+(   Since { u1, ..., uk } is a basis for Ker\(T\), z must be expressible as:) Tj
+T*
+(   c1*v1 + ... + c_{n-k}*v_{n-k} = d1*u1 + ... + dk*uk) Tj
+T*
+(   => d1*u1 + ... + dk*uk - c1*v1 - ... - c_{n-k}*v_{n-k} = 0.) Tj
+T*
+(   Since B is a basis for V, all basis vectors are linearly independent.) Tj
+T*
+(   Hence, all coefficients must vanish: d1 = ... = dk = c1 = ... = c_{n-k} = 0.) Tj
+T*
+(   Specifically, c1 = c2 = ... = c_{n-k} = 0.) Tj
+T*
+(   This proves that S is linearly independent.) Tj
+T*
+(   - Conclusion:) Tj
+T*
+(   Since S spans Im\(T\) and is linearly independent, S is a basis for Im\(T\).) Tj
+T*
+(   Therefore: dim\(Im\(T\)\) = |S| = n - k.) Tj
+T*
+(   Adding: dim\(Ker\(T\)\) + dim\(Im\(T\)\) = k + \(n - k\) = n = dim\(V\). \(Hence proved\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 24:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Derive Cramer's Rule for solving a system of n linear equations in n unknowns. Solve the following 3x3 system using Cramer's rule: 2x - y + 3z = 9; x + y + z = 6; x - y + z = 2.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Theoretical Derivation of Cramer's Rule:) Tj
+T*
+(   - Consider the linear system AX = B, where A is an n x n invertible matrix \(det\(A\) != 0\).) Tj
+T*
+(   - Then X = A^-1 * B.) Tj
+T*
+(   - Using the adjoint formula: A^-1 = \(1 / det\(A\)\) * adj\(A\).) Tj
+T*
+(   - The j-th variable x_j is the j-th component of vector X:) Tj
+T*
+(   x_j = \(1 / det\(A\)\) * sum_{i=1}^n [adj\(A\)]_ji * b_i = \(1 / det\(A\)\) * sum_{i=1}^n C_ij * b_i,) Tj
+T*
+ET
+
+endstream
+endobj
+61 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 62 0 R /Resources << /Font << /F1 73 0 R /F2 74 0 R >> >> >>
+endobj
+62 0 obj
+<< /Length 3533 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 1: LINEAR ALGEBRA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 30 of 35) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   where C_ij is the cofactor of entry a_ij in matrix A.) Tj
+T*
+(   - The summation sum_{i=1}^n b_i * C_ij represents the cofactor expansion along column j of a) Tj
+T*
+(   new matrix A_j formed by replacing the j-th column of A with the constant column vector B:) Tj
+T*
+(   sum_{i=1}^n b_i * C_ij = det\(A_j\).) Tj
+T*
+(   - Therefore: x_j = det\(A_j\) / det\(A\) for each j = 1, 2, ..., n. \(Proved\).) Tj
+T*
+(   2. Step-by-Step Numerical Solution:) Tj
+T*
+(   - System:) Tj
+T*
+(   2x - y + 3z = 9) Tj
+T*
+(   x + y + z = 6) Tj
+T*
+(   x - y + z = 2) Tj
+T*
+(   - Step \(a\): Compute Delta = det\(A\):) Tj
+T*
+(   | 2 -1 3 |) Tj
+T*
+(   | 1 1 1 | = 2\(1 - \(-1\)\) - \(-1\)\(1 - 1\) + 3\(-1 - 1\) = 2\(2\) + 1\(0\) + 3\(-2\) = 4 - 6 = -2.) Tj
+T*
+(   Since Delta = -2 != 0, Cramer's rule is applicable.) Tj
+T*
+(   - Step \(b\): Compute Delta_x = det\(A_1\) by replacing column 1 with [9, 6, 2]^T:) Tj
+T*
+(   | 9 -1 3 |) Tj
+T*
+(   | 6 1 1 | = 9\(1 - \(-1\)\) - \(-1\)\(6 - 2\) + 3\(-6 - 2\) = 9\(2\) + 1\(4\) + 3\(-8\) = 18 + 4 - 24 = -2.) Tj
+T*
+(   => x = Delta_x / Delta = \(-2\) / \(-2\) = 1.) Tj
+T*
+(   - Step \(c\): Compute Delta_y = det\(A_2\) by replacing column 2 with [9, 6, 2]^T:) Tj
+T*
+(   | 2 9 3 |) Tj
+T*
+(   | 1 6 1 | = 2\(6 - 2\) - 9\(1 - 1\) + 3\(2 - 6\) = 2\(4\) - 0 + 3\(-4\) = 8 - 12 = -4.) Tj
+T*
+(   => y = Delta_y / Delta = \(-4\) / \(-2\) = 2.) Tj
+T*
+(   - Step \(d\): Compute Delta_z = det\(A_3\) by replacing column 3 with [9, 6, 2]^T:) Tj
+T*
+(   | 2 -1 9 |) Tj
+T*
+(   | 1 1 6 | = 2\(2 - \(-6\)\) - \(-1\)\(2 - 6\) + 9\(-1 - 1\) = 2\(8\) + 1\(-4\) + 9\(-2\) = 16 - 4 - 18 = -6.) Tj
+T*
+(   => z = Delta_z / Delta = \(-6\) / \(-2\) = 3.) Tj
+T*
+(   Final Solution:) Tj
+T*
+(   x = 1, y = 2, z = 3.) Tj
+T*
+(   Verification:) Tj
+T*
+(   2\(1\) - 2 + 3\(3\) = 2 - 2 + 9 = 9 \(Correct\).) Tj
+T*
+(   1 + 2 + 3 = 6 \(Correct\).) Tj
+T*
+(   1 - 2 + 3 = 2 \(Correct\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 25:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain LU Decomposition \(Doolittle factorization\) of a square matrix. Factorize matrix A = [[2, 1, 1], [4, 1, 0], [-2, 2, 1]] into L and U, and solve AX = [1, -2, 7]^T.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Methodology of Doolittle LU Decomposition:) Tj
+T*
+(   - Any square matrix A can be factored as A = L * U \(provided no row interchanges are required\),) Tj
+T*
+(   where:) Tj
+T*
+(   * L is a unit lower triangular matrix \(1s on main diagonal\): l_ii = 1, l_ij = 0 for j > i.) Tj
+T*
+(   * U is an upper triangular matrix: u_ij = 0 for i > j.) Tj
+T*
+(   - Solving AX = B proceeds in two fast forward/backward substitution steps:) Tj
+T*
+(   Step 1: Set UX = Y, then A*X = L*\(U*X\) = L*Y = B. Solve L*Y = B by Forward Substitution.) Tj
+T*
+(   Step 2: Solve U*X = Y by Backward Substitution.) Tj
+T*
+(   2. Step-by-Step LU Factorization of A:) Tj
+T*
+(   Let A = [ 2 1 1; 4 1 0; -2 2 1 ].) Tj
+T*
+(   - Row 1 of U:) Tj
+T*
+(   u11 = a11 = 2; u12 = a12 = 1; u13 = a13 = 1.) Tj
+T*
+(   - Col 1 of L:) Tj
+T*
+(   l21 = a21 / u11 = 4 / 2 = 2.) Tj
+T*
+(   l31 = a31 / u11 = -2 / 2 = -1.) Tj
+T*
+(   - Row 2 of U:) Tj
+T*
+ET
+
+endstream
+endobj
+63 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 64 0 R /Resources << /Font << /F1 73 0 R /F2 74 0 R >> >> >>
+endobj
+64 0 obj
+<< /Length 3314 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 1: LINEAR ALGEBRA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 31 of 35) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   u22 = a22 - l21*u12 = 1 - 2\(1\) = -1.) Tj
+T*
+(   u23 = a23 - l21*u13 = 0 - 2\(1\) = -2.) Tj
+T*
+(   - Col 2 of L:) Tj
+T*
+(   l32 = \(a32 - l31*u12\) / u22 = \(2 - \(-1\)\(1\)\) / \(-1\) = \(2 + 1\) / \(-1\) = -3.) Tj
+T*
+(   - Row 3 of U:) Tj
+T*
+(   u33 = a33 - l31*u13 - l32*u23 = 1 - \(-1\)\(1\) - \(-3\)\(-2\) = 1 + 1 - 6 = -4.) Tj
+T*
+(   Matrices L and U:) Tj
+T*
+(   L = [ 1 0 0 ] U = [ 2 1 1 ]) Tj
+T*
+(   [ 2 1 0 ] [ 0 -1 -2 ]) Tj
+T*
+(   [ -1 -3 1 ] [ 0 0 -4 ]) Tj
+T*
+(   3. Solving AX = B = [1, -2, 7]^T:) Tj
+T*
+(   - Step \(a\): Solve L*Y = B:) Tj
+T*
+(   [ 1 0 0 ][ y1 ] [ 1 ]) Tj
+T*
+(   [ 2 1 0 ][ y2 ] = [ -2 ]) Tj
+T*
+(   [ -1 -3 1 ][ y3 ] [ 7 ]) Tj
+T*
+(   y1 = 1.) Tj
+T*
+(   2*y1 + y2 = -2 => 2\(1\) + y2 = -2 => y2 = -4.) Tj
+T*
+(   -y1 - 3*y2 + y3 = 7 => -1 - 3\(-4\) + y3 = 7 => -1 + 12 + y3 = 7 => 11 + y3 = 7 => y3 = -4.) Tj
+T*
+(   Vector Y = [ 1, -4, -4 ]^T.) Tj
+T*
+(   - Step \(b\): Solve U*X = Y:) Tj
+T*
+(   [ 2 1 1 ][ x1 ] [ 1 ]) Tj
+T*
+(   [ 0 -1 -2 ][ x2 ] = [ -4 ]) Tj
+T*
+(   [ 0 0 -4 ][ x3 ] [ -4 ]) Tj
+T*
+(   -4*x3 = -4 => x3 = 1.) Tj
+T*
+(   -x2 - 2*x3 = -4 => -x2 - 2\(1\) = -4 => -x2 = -2 => x2 = 2.) Tj
+T*
+(   2*x1 + x2 + x3 = 1 => 2*x1 + 2 + 1 = 1 => 2*x1 = -2 => x1 = -1.) Tj
+T*
+(   Final Answer:) Tj
+T*
+(   X = [ -1, 2, 1 ]^T.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 26:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the mathematical theory of Singular Value Decomposition \(SVD\). Define singular values and express the pseudo-inverse \(Moore-Penrose inverse\) A^+ in terms of SVD.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Singular Value Decomposition \(SVD\) Theorem:) Tj
+T*
+(   Let A be any real m x n matrix of rank r \(where r <= min\(m, n\)\).) Tj
+T*
+(   Then A can be factored as:) Tj
+T*
+(   A = U * Sigma * V^T,) Tj
+T*
+(   where:) Tj
+T*
+(   - U is an m x m orthogonal matrix whose columns u_i are the left singular vectors of A.) Tj
+T*
+(   - V is an n x n orthogonal matrix whose columns v_i are the right singular vectors of A.) Tj
+T*
+(   - Sigma is an m x n pseudo-diagonal matrix containing the singular values on its main diagonal:) Tj
+T*
+(   Sigma = [ diag\(sigma_1, sigma_2, ..., sigma_r\), 0; 0, 0 ],) Tj
+T*
+(   with sigma_1 >= sigma_2 >= ... >= sigma_r > 0.) Tj
+T*
+(   2. Derivation of Singular Values:) Tj
+T*
+(   - Consider the n x n real symmetric positive semidefinite matrix A^T * A:) Tj
+T*
+(   \(A^T * A\)^T = A^T * \(A^T\)^T = A^T * A.) Tj
+T*
+(   - All eigenvalues of A^T * A are real and non-negative: lambda_1 >= lambda_2 >= ... >= lambda_n) Tj
+T*
+(   >= 0.) Tj
+T*
+(   - The singular values sigma_i of A are the non-negative square roots of the eigenvalues of A^T) Tj
+T*
+(   * A:) Tj
+T*
+(   sigma_i = sqrt\(lambda_i\(A^T * A\)\) for i = 1, 2, ..., r.) Tj
+T*
+(   - The right singular vectors v_i are the orthonormal eigenvectors of A^T * A:) Tj
+T*
+(   \(A^T * A\) * v_i = sigma_i^2 * v_i.) Tj
+T*
+ET
+
+endstream
+endobj
+65 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 66 0 R /Resources << /Font << /F1 73 0 R /F2 74 0 R >> >> >>
+endobj
+66 0 obj
+<< /Length 3708 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 1: LINEAR ALGEBRA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 32 of 35) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - The left singular vectors u_i are defined by:) Tj
+T*
+(   u_i = \(1 / sigma_i\) * A * v_i for i = 1, 2, ..., r.) Tj
+T*
+(   - These satisfy \(A * A^T\) * u_i = sigma_i^2 * u_i; hence u_i are orthonormal eigenvectors of A) Tj
+T*
+(   * A^T.) Tj
+T*
+(   3. Dyadic \(Rank-One\) Form of SVD:) Tj
+T*
+(   A = sum_{i=1}^r sigma_i * u_i * v_i^T.) Tj
+T*
+(   4. Moore-Penrose Pseudo-Inverse A^+:) Tj
+T*
+(   - If A is not square or singular, its Moore-Penrose pseudo-inverse A^+ is given by:) Tj
+T*
+(   A^+ = V * Sigma^+ * U^T,) Tj
+T*
+(   where Sigma^+ is an n x m matrix formed by taking the reciprocal of non-zero singular values:) Tj
+T*
+(   Sigma^+ = [ diag\(1/sigma_1, 1/sigma_2, ..., 1/sigma_r\), 0; 0, 0 ].) Tj
+T*
+(   - A^+ solves the general least-squares problem: for any AX = B, the minimum norm least-squares) Tj
+T*
+(   solution is X = A^+ * B.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 27:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Describe the Power Method algorithm for computing the dominant eigenvalue and eigenvector of a matrix. Apply the method for 4 iterations to matrix A = [[4, 1], [1, 3]] starting with initial vector X0 = [1, 0]^T.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Power Method Algorithm:) Tj
+T*
+(   - Objective: Finds the eigenvalue of largest absolute magnitude \(dominant eigenvalue lambda_1\)) Tj
+T*
+(   and its corresponding eigenvector.) Tj
+T*
+(   - Assumption: Matrix A has a strictly dominant eigenvalue: |lambda_1| > |lambda_2| >= ... >=) Tj
+T*
+(   |lambda_n|.) Tj
+T*
+(   - Steps:) Tj
+T*
+(   1. Choose an arbitrary non-zero initial guess vector X^\(0\) \(not orthogonal to dominant) Tj
+T*
+(   eigenvector\).) Tj
+T*
+(   2. At step k, compute Y^\(k\) = A * X^\(k-1\).) Tj
+T*
+(   3. Normalize: let c_k be the entry of Y^\(k\) with maximum absolute value.) Tj
+T*
+(   4. Set X^\(k\) = \(1 / c_k\) * Y^\(k\).) Tj
+T*
+(   5. As k -> infinity, c_k -> lambda_1 and X^\(k\) -> dominant eigenvector X_1.) Tj
+T*
+(   2. Step-by-Step Computation for A = [[4, 1], [1, 3]] with X0 = [1, 0]^T:) Tj
+T*
+(   - Iteration 1:) Tj
+T*
+(   Y^\(1\) = A * X^\(0\) = [ 4 1; 1 3 ] * [ 1; 0 ] = [ 4; 1 ].) Tj
+T*
+(   Scale factor c1 = 4.) Tj
+T*
+(   X^\(1\) = [ 4/4; 1/4 ] = [ 1; 0.2500 ].) Tj
+T*
+(   - Iteration 2:) Tj
+T*
+(   Y^\(2\) = A * X^\(1\) = [ 4 1; 1 3 ] * [ 1; 0.2500 ] = [ 4\(1\) + 0.25; 1\(1\) + 3\(0.25\) ] = [ 4.2500;) Tj
+T*
+(   1.7500 ].) Tj
+T*
+(   Scale factor c2 = 4.2500.) Tj
+T*
+(   X^\(2\) = [ 4.25/4.25; 1.75/4.25 ] = [ 1.0000; 0.4118 ].) Tj
+T*
+(   - Iteration 3:) Tj
+T*
+(   Y^\(3\) = A * X^\(2\) = [ 4 1; 1 3 ] * [ 1.0000; 0.4118 ] = [ 4\(1\) + 0.4118; 1\(1\) + 3\(0.4118\) ] = [) Tj
+T*
+(   4.4118; 2.2354 ].) Tj
+T*
+(   Scale factor c3 = 4.4118.) Tj
+T*
+(   X^\(3\) = [ 4.4118/4.4118; 2.2354/4.4118 ] = [ 1.0000; 0.5067 ].) Tj
+T*
+(   - Iteration 4:) Tj
+T*
+(   Y^\(4\) = A * X^\(3\) = [ 4 1; 1 3 ] * [ 1.0000; 0.5067 ] = [ 4\(1\) + 0.5067; 1\(1\) + 3\(0.5067\) ] = [) Tj
+T*
+(   4.5067; 2.5201 ].) Tj
+T*
+(   Scale factor c4 = 4.5067.) Tj
+T*
+(   X^\(4\) = [ 4.5067/4.5067; 2.5201/4.5067 ] = [ 1.0000; 0.5592 ].) Tj
+T*
+(   3. Analytical Verification:) Tj
+T*
+(   - Characteristic equation: lambda^2 - 7*lambda + 11 = 0.) Tj
+T*
+(   - Exact dominant eigenvalue: lambda_1 = \(7 + sqrt\(49 - 44\)\) / 2 = \(7 + sqrt\(5\)\) / 2 = \(7 +) Tj
+T*
+ET
+
+endstream
+endobj
+67 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 68 0 R /Resources << /Font << /F1 73 0 R /F2 74 0 R >> >> >>
+endobj
+68 0 obj
+<< /Length 4134 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 1: LINEAR ALGEBRA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 33 of 35) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   2.2361\) / 2 = 4.6180.) Tj
+T*
+(   - The computed value c4 = 4.5067 is rapidly converging to 4.6180 within only 4 iterations.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 28:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Formulate the Leslie Matrix population model in biotechnology for age-structured microbial or animal cell cultures. Derive the characteristic equation for the intrinsic growth rate and explain the stable age distribution.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Formulation of Leslie Matrix Model:) Tj
+T*
+(   - In biotechnology cell harvesting and ecological fermentation modeling, a population is) Tj
+T*
+(   partitioned into m discrete age classes of duration Delta_t: x_k = [x_{1,k}, x_{2,k}, ...,) Tj
+T*
+(   x_{m,k}]^T at time t_k.) Tj
+T*
+(   - Parameters:) Tj
+T*
+(   * f_i >= 0: Fecundity \(birth rate\) of age class i.) Tj
+T*
+(   * s_i \(0 < s_i <= 1\): Survival probability of transitioning from age class i to i+1.) Tj
+T*
+(   - Dynamic System: x_{k+1} = L * x_k, where L is the m x m Leslie Matrix:) Tj
+T*
+(   [ f1 f2 f3 ... f_{m-1} f_m ]) Tj
+T*
+(   [ s1 0 0 ... 0 0 ]) Tj
+T*
+(   L = [ 0 s2 0 ... 0 0 ]) Tj
+T*
+(   [ 0 0 s3 ... 0 0 ]) Tj
+T*
+(   [ 0 0 0 ... s_{m-1} 0 ]) Tj
+T*
+(   2. Derivation of Characteristic Equation:) Tj
+T*
+(   - Find det\(lambda*I - L\) = 0. Expanding along row 1:) Tj
+T*
+(   det\(lambda*I - L\) = lambda^m - f1*lambda^{m-1} - s1*f2*lambda^{m-2} - s1*s2*f3*lambda^{m-3} -) Tj
+T*
+(   ... - \(s1*s2...s_{m-1}\)*f_m = 0.) Tj
+T*
+(   - Divide by lambda^m:) Tj
+T*
+(   1 = sum_{i=1}^m [ \(Product_{j=1}^{i-1} s_j\) * f_i * lambda^\(-i\) ].) Tj
+T*
+(   - Define net maternity function phi\(lambda\) = sum_{i=1}^m l_i * f_i * lambda^\(-i\), where l_i =) Tj
+T*
+(   Product_{j=1}^{i-1} s_j is survivorship to age class i.) Tj
+T*
+(   - Since phi\(lambda\) is strictly monotonically decreasing for lambda > 0 with phi\(0+\) = infinity) Tj
+T*
+(   and phi\(infinity\) = 0, by the Intermediate Value Theorem, there exists a UNIQUE positive real) Tj
+T*
+(   root lambda_1 > 0.) Tj
+T*
+(   - By the Perron-Frobenius theorem for non-negative irreducible matrices, lambda_1 is the) Tj
+T*
+(   strictly dominant eigenvalue: lambda_1 > |lambda_j| for all j >= 2.) Tj
+T*
+(   3. Biological Implications and Stable Age Distribution:) Tj
+T*
+(   - Long-term population trajectory: x_k = L^k * x_0 ~ c * lambda_1^k * u_1.) Tj
+T*
+(   - If lambda_1 > 1: Culture grows exponentially with intrinsic growth rate r = ln\(lambda_1\) /) Tj
+T*
+(   Delta_t.) Tj
+T*
+(   - If lambda_1 = 1: Culture is stationary \(sustainable continuous bioprocess\).) Tj
+T*
+(   - If lambda_1 < 1: Population washes out \(extinction\).) Tj
+T*
+(   - Stable Age Distribution: The normalized right eigenvector u_1 corresponding to lambda_1 gives) Tj
+T*
+(   the invariant proportions of cells in each age class:) Tj
+T*
+(   u_{1,i} = \(l_i / lambda_1^{i-1}\) * u_{1,1}.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 29:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: In Metabolic Flux Analysis \(MFA\), explain how stoichiometric matrices and null space analysis are used to determine steady-state metabolic reaction rates. Illustrate with a simple 3-metabolite, 4-flux metabolic pathway.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Mathematical Framework of Metabolic Flux Analysis:) Tj
+T*
+(   - Let a cellular metabolic network consist of m internal metabolites and n biochemical reaction) Tj
+T*
+(   fluxes v = [v1, v2, ..., vn]^T.) Tj
+T*
+(   - Dynamic mass balance for internal metabolite concentrations C:) Tj
+T*
+(   dC / dt = S * v - mu * C,) Tj
+T*
+ET
+
+endstream
+endobj
+69 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 70 0 R /Resources << /Font << /F1 73 0 R /F2 74 0 R >> >> >>
+endobj
+70 0 obj
+<< /Length 3434 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 1: LINEAR ALGEBRA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 34 of 35) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   where S in M_{m x n}\(R\) is the stoichiometric matrix \(S_ij = stoichiometric coefficient of) Tj
+T*
+(   metabolite i in reaction j\), and mu is the cell growth dilution rate.) Tj
+T*
+(   - At metabolic quasi-steady state \(reaction rates are orders of magnitude faster than cell) Tj
+T*
+(   division rates\):) Tj
+T*
+(   dC / dt ~ 0 => S * v = 0.) Tj
+T*
+(   2. Null Space Analysis and Degrees of Freedom:) Tj
+T*
+(   - S * v = 0 is a homogeneous linear algebraic system.) Tj
+T*
+(   - The feasible flux distributions lie entirely in the Null Space of the stoichiometric matrix:) Tj
+T*
+(   v in Null\(S\) = Ker\(S\).) Tj
+T*
+(   - By Rank-Nullity Theorem:) Tj
+T*
+(   Degrees of Freedom \(DOF\) = dim\(Null\(S\)\) = n - rank\(S\).) Tj
+T*
+(   - If DOF = 0: All fluxes are strictly uniquely determined.) Tj
+T*
+(   - If DOF > 0: The system is underdetermined. To determine internal intracellular fluxes,) Tj
+T*
+(   exactly DOF independent external flux measurements \(e.g., glucose uptake rate, oxygen) Tj
+T*
+(   consumption, lactate secretion\) must be supplied.) Tj
+T*
+(   3. Worked Illustrative Example:) Tj
+T*
+(   - Consider 3 metabolites \(A, B, C\) and 4 fluxes:) Tj
+T*
+(   R1: Substrate -> A \(v1\)) Tj
+T*
+(   R2: A -> B \(v2\)) Tj
+T*
+(   R3: A -> C \(v3\)) Tj
+T*
+(   R4: B + C -> Cell \(v4\)) Tj
+T*
+(   - Mass balances:) Tj
+T*
+(   For A: v1 - v2 - v3 = 0) Tj
+T*
+(   For B: v2 - v4 = 0) Tj
+T*
+(   For C: v3 - v4 = 0) Tj
+T*
+(   - Stoichiometric Matrix S:) Tj
+T*
+(   [ 1 -1 -1 0 ]) Tj
+T*
+(   S = [ 0 1 0 -1 ]) Tj
+T*
+(   [ 0 0 1 -1 ]) Tj
+T*
+(   - Row reduction:) Tj
+T*
+(   Rank\(S\) = 3 \(3 independent rows\).) Tj
+T*
+(   Variables n = 4.) Tj
+T*
+(   Degrees of Freedom = 4 - 3 = 1.) Tj
+T*
+(   - Express fluxes in terms of free variable v4:) Tj
+T*
+(   From row 3: v3 = v4.) Tj
+T*
+(   From row 2: v2 = v4.) Tj
+T*
+(   From row 1: v1 = v2 + v3 = v4 + v4 = 2*v4.) Tj
+T*
+(   - General Solution Vector:) Tj
+T*
+(   v = [ v1, v2, v3, v4 ]^T = v4 * [ 2, 1, 1, 1 ]^T.) Tj
+T*
+(   - Biological Insight: Measuring a single external uptake flux v1 = 10 mmol/\(g*h\) immediately) Tj
+T*
+(   determines all intracellular rates: v4 = 5, v2 = 5, v3 = 5 mmol/\(g*h\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 30:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Model a multi-component bioprocess separation column using a linear system of differential equations dX/dt = A*X. Solve the system using the matrix exponential e^\(At\) where A = [[-2, 1], [0, -3]] and X\(0\) = [100, 50]^T.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Matrix Exponential Formulation:) Tj
+T*
+(   - For a linear autonomous dynamical system dX/dt = A * X with initial state X\(0\) = X0, the) Tj
+T*
+(   formal analytical solution is:) Tj
+T*
+(   X\(t\) = exp\(A * t\) * X0.) Tj
+T*
+(   - The matrix exponential exp\(A*t\) is defined by the convergent Taylor series:) Tj
+T*
+(   exp\(A * t\) = sum_{k=0}^infinity \(A^k * t^k\) / k! = I + A*t + \(A^2 * t^2\)/2! + ...) Tj
+T*
+(   - If A is diagonalizable \(A = P * D * P^-1\), then:) Tj
+T*
+ET
+
+endstream
+endobj
+71 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 72 0 R /Resources << /Font << /F1 73 0 R /F2 74 0 R >> >> >>
+endobj
+72 0 obj
+<< /Length 2325 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 1: LINEAR ALGEBRA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 35 of 35) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   exp\(A * t\) = P * exp\(D * t\) * P^-1 = P * diag\(e^\(lambda_1*t\), ..., e^\(lambda_n*t\)\) * P^-1.) Tj
+T*
+(   2. Step-by-Step Solution for A = [[-2, 1], [0, -3]]:) Tj
+T*
+(   Step \(a\): Eigenvalues:) Tj
+T*
+(   Since A is upper triangular, its eigenvalues are the diagonal entries:) Tj
+T*
+(   lambda1 = -2, lambda2 = -3.) Tj
+T*
+(   Step \(b\): Eigenvectors:) Tj
+T*
+(   - For lambda1 = -2:) Tj
+T*
+(   \(A - \(-2\)*I\)X = 0 => [ 0 1; 0 -1 ][ x1; x2 ] = [ 0; 0 ] => x2 = 0, x1 free.) Tj
+T*
+(   X1 = [ 1, 0 ]^T.) Tj
+T*
+(   - For lambda2 = -3:) Tj
+T*
+(   \(A - \(-3\)*I\)X = 0 => [ 1 1; 0 0 ][ x1; x2 ] = [ 0; 0 ] => x1 + x2 = 0 => x1 = -x2.) Tj
+T*
+(   X2 = [ -1, 1 ]^T.) Tj
+T*
+(   Step \(c\): Modal Matrix P and Inverse P^-1:) Tj
+T*
+(   P = [ 1 -1 ]) Tj
+T*
+(   [ 0 1 ]) Tj
+T*
+(   det\(P\) = 1.) Tj
+T*
+(   P^-1 = [ 1 1 ]) Tj
+T*
+(   [ 0 1 ].) Tj
+T*
+(   Step \(d\): Compute exp\(A * t\):) Tj
+T*
+(   exp\(D * t\) = [ e^\(-2t\) 0 ]) Tj
+T*
+(   [ 0 e^\(-3t\) ]) Tj
+T*
+(   exp\(A * t\) = P * exp\(D * t\) * P^-1) Tj
+T*
+(   = [ 1 -1 ] * [ e^\(-2t\) 0 ] * [ 1 1 ]) Tj
+T*
+(   [ 0 1 ] [ 0 e^\(-3t\) ] [ 0 1 ]) Tj
+T*
+(   = [ e^\(-2t\) -e^\(-3t\) ] * [ 1 1 ]) Tj
+T*
+(   [ 0 e^\(-3t\) ] [ 0 1 ]) Tj
+T*
+(   = [ e^\(-2t\) e^\(-2t\) - e^\(-3t\) ]) Tj
+T*
+(   [ 0 e^\(-3t\) ].) Tj
+T*
+(   Step \(e\): Apply Initial Conditions X\(0\) = [100, 50]^T:) Tj
+T*
+(   X\(t\) = exp\(A * t\) * X\(0\)) Tj
+T*
+(   = [ e^\(-2t\) e^\(-2t\) - e^\(-3t\) ] * [ 100 ]) Tj
+T*
+(   [ 0 e^\(-3t\) ] [ 50 ]) Tj
+T*
+(   x1\(t\) = 100 * e^\(-2t\) + 50 * \(e^\(-2t\) - e^\(-3t\)\) = 150 * e^\(-2t\) - 50 * e^\(-3t\).) Tj
+T*
+(   x2\(t\) = 0 * 100 + 50 * e^\(-3t\) = 50 * e^\(-3t\).) Tj
+T*
+(   Conclusion:) Tj
+T*
+(   The concentrations of the two separating biotechnology components over time t are:) Tj
+T*
+(   x1\(t\) = 150*e^\(-2t\) - 50*e^\(-3t\)) Tj
+T*
+(   x2\(t\) = 50*e^\(-3t\).) Tj
+T*
+(   As t -> infinity, both concentrations decay stably to zero.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+73 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+74 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+xref
+0 75
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000351 00000 n 
+0000000495 00000 n 
+0000008185 00000 n 
+0000008329 00000 n 
+0000016836 00000 n 
+0000016980 00000 n 
+0000025366 00000 n 
+0000025511 00000 n 
+0000033502 00000 n 
+0000033648 00000 n 
+0000042385 00000 n 
+0000042531 00000 n 
+0000050476 00000 n 
+0000050622 00000 n 
+0000059205 00000 n 
+0000059351 00000 n 
+0000060855 00000 n 
+0000061001 00000 n 
+0000067241 00000 n 
+0000067387 00000 n 
+0000070757 00000 n 
+0000070903 00000 n 
+0000079367 00000 n 
+0000079513 00000 n 
+0000083604 00000 n 
+0000083750 00000 n 
+0000087299 00000 n 
+0000087445 00000 n 
+0000091095 00000 n 
+0000091241 00000 n 
+0000095179 00000 n 
+0000095325 00000 n 
+0000098233 00000 n 
+0000098379 00000 n 
+0000102299 00000 n 
+0000102445 00000 n 
+0000106576 00000 n 
+0000106722 00000 n 
+0000110873 00000 n 
+0000111019 00000 n 
+0000114963 00000 n 
+0000115109 00000 n 
+0000118989 00000 n 
+0000119135 00000 n 
+0000122460 00000 n 
+0000122606 00000 n 
+0000126456 00000 n 
+0000126602 00000 n 
+0000129550 00000 n 
+0000129696 00000 n 
+0000133677 00000 n 
+0000133823 00000 n 
+0000138214 00000 n 
+0000138360 00000 n 
+0000142098 00000 n 
+0000142244 00000 n 
+0000145809 00000 n 
+0000145955 00000 n 
+0000150162 00000 n 
+0000150308 00000 n 
+0000153894 00000 n 
+0000154040 00000 n 
+0000157407 00000 n 
+0000157553 00000 n 
+0000161314 00000 n 
+0000161460 00000 n 
+0000165647 00000 n 
+0000165793 00000 n 
+0000169280 00000 n 
+0000169426 00000 n 
+0000171804 00000 n 
+0000171902 00000 n 
+trailer
+<< /Size 75 /Root 1 0 R >>
+startxref
+172005
+%%EOF

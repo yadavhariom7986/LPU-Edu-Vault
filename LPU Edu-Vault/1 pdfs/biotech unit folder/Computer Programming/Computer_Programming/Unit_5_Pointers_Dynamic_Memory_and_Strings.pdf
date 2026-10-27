@@ -1,0 +1,11316 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R 35 0 R 37 0 R 39 0 R 41 0 R 43 0 R 45 0 R 47 0 R 49 0 R 51 0 R 53 0 R 55 0 R 57 0 R 59 0 R 61 0 R 63 0 R 65 0 R 67 0 R 69 0 R 71 0 R 73 0 R 75 0 R 77 0 R] /Count 38 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 4 0 R /Resources << /Font << /F1 79 0 R /F2 80 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 8168 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 5: POINTERS, DYNAMIC MEMORY & STRINGS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 1 of 38) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(1.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What does a pointer variable store in the C) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(programming language?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(Memory address of var) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(Floating-point value) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(ASCII code only) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(Instruction opcode) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(2.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(Which operator is used to obtain the physical) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(memory address of a variable?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(& \(Address-of\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(* \(Indirection\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(-> \(Arrow\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(% \(Modulo\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(3.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(Which operator is used to access or modify the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(value stored at an address held by a pointer?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.5001 Td
+(* \(Dereference\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.9001 Td
+(& \(Address-of\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.3002 Td
+(sizeof) Tj
+ET
+BT
+/F2 7.4 Tf
+58 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 587.7002 Td
+(-> \(Arrow\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 564.1002 Td
+(4.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(What is a pointer that has not been initialized) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(to any valid memory address called?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 543.2002 Td
+(Wild pointer) Tj
+ET
+BT
+/F2 7.4 Tf
+58 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 533.6002 Td
+(NULL pointer) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.0002 Td
+(Dangling pointer) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.4003 Td
+(Void pointer) Tj
+ET
+BT
+/F2 8.0 Tf
+42 490.8003 Td
+(5.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 490.8003 Td
+(What standard macro represents a pointer) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6003 Td
+(pointing to nothing / memory address 0?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 469.9002 Td
+(NULL) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.3002 Td
+(NIL) Tj
+ET
+BT
+/F2 7.4 Tf
+58 450.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 450.7002 Td
+(0xFFFFFFFF) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.1002 Td
+(EMPTY) Tj
+ET
+BT
+/F2 8.0 Tf
+42 417.5002 Td
+(6.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 417.5002 Td
+(What is the size of any pointer variable on a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 408.3002 Td
+(standard 64-bit microprocessor architecture?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 396.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 396.6002 Td
+(8 bytes) Tj
+ET
+BT
+/F2 7.4 Tf
+58 387.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 387.0002 Td
+(4 bytes) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.4002 Td
+(2 bytes) Tj
+ET
+BT
+/F2 7.4 Tf
+58 367.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 367.8002 Td
+(16 bytes) Tj
+ET
+BT
+/F2 8.0 Tf
+42 344.2002 Td
+(7.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 344.2002 Td
+(What is the size of a char pointer \(char*\) on a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.0002 Td
+(64-bit operating system?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 323.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 323.3001 Td
+(8 bytes) Tj
+ET
+BT
+/F2 7.4 Tf
+58 313.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 313.7001 Td
+(1 byte) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.1001 Td
+(4 bytes) Tj
+ET
+BT
+/F2 7.4 Tf
+58 294.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 294.5001 Td
+(16 bytes) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(8.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What is a generic pointer in C that can point to) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(any data type called?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(void pointer \(void*\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(generic pointer) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(null pointer) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(dynamic pointer) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(9.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(Can a void pointer \(void*\) be directly) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(dereferenced without explicit type casting in) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(ANSI C?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.6 Td
+(No \(must be cast\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.0001 Td
+(Yes \(defaults to int\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.4001 Td
+(Only in GCC) Tj
+ET
+BT
+/F2 7.4 Tf
+322 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 651.8001 Td
+(Only for char) Tj
+ET
+BT
+/F2 8.0 Tf
+306 628.2001 Td
+(10.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(If int *ptr = 1000 and sizeof\(int\) is 4, what is) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(the address evaluated by \(ptr + 1\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.3001 Td
+(1004) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.7001 Td
+(1001) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.1002 Td
+(1002) Tj
+ET
+BT
+/F2 7.4 Tf
+322 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 578.5002 Td
+(1008) Tj
+ET
+BT
+/F2 8.0 Tf
+306 554.9002 Td
+(11.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(If double *p = 2000 and sizeof\(double\) is 8,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 545.7002 Td
+(what address is evaluated by \(p + 2\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 534.0002 Td
+(2016 \(2000 + 2*8\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.4002 Td
+(2002) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.8002 Td
+(2008) Tj
+ET
+BT
+/F2 7.4 Tf
+322 505.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 505.2002 Td
+(2032) Tj
+ET
+BT
+/F2 8.0 Tf
+306 481.6002 Td
+(12.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6002 Td
+(What type does the difference between two) Tj
+ET
+BT
+/F1 7.8 Tf
+322 472.4002 Td
+(pointers of the same type evaluate to?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.7002 Td
+(ptrdiff_t \(integer\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 451.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 451.1002 Td
+(size_t) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.5002 Td
+(void*) Tj
+ET
+BT
+/F2 7.4 Tf
+322 431.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 431.9002 Td
+(double) Tj
+ET
+BT
+/F2 8.0 Tf
+306 408.3002 Td
+(13.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 408.3002 Td
+(Which arithmetic operation between two pointers) Tj
+ET
+BT
+/F1 7.8 Tf
+322 399.1002 Td
+(is strictly ILLEGAL in C?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.4001 Td
+(Adding two pointers) Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.8001 Td
+(Subtracting two pointers) Tj
+ET
+BT
+/F2 7.4 Tf
+322 368.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 368.2001 Td
+(Comparing pointers) Tj
+ET
+BT
+/F2 7.4 Tf
+322 358.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 358.6001 Td
+(Incrementing pointer) Tj
+ET
+BT
+/F2 8.0 Tf
+306 335.0001 Td
+(14.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 335.0001 Td
+(Which heap allocation function allocates) Tj
+ET
+BT
+/F1 7.8 Tf
+322 325.8001 Td
+(uninitialized contiguous memory bytes?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 314.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 314.1001 Td
+(malloc\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.5001 Td
+(calloc\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 294.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 294.9001 Td
+(realloc\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 285.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 285.3001 Td
+(free\(\)) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 6 0 R /Resources << /Font << /F1 79 0 R /F2 80 0 R >> >> >>
+endobj
+6 0 obj
+<< /Length 8167 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 5: POINTERS, DYNAMIC MEMORY & STRINGS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 2 of 38) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(15.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What does malloc\(\) return if the operating) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(system cannot satisfy the memory request?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(NULL) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(0xFFFFFFFF) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(Throws exception) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(-1) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(16.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(Which heap allocation function initializes all) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(allocated bytes to zero \(0\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(calloc\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(malloc\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(realloc\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(valloc\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(17.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(What are the two arguments required by calloc\(\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 625.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 625.7001 Td
+(\(num_elements, size\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.1002 Td
+(\(total_bytes, 0\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.5002 Td
+(\(pointer, new_size\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 596.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 596.9002 Td
+(\(type, count\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 573.3002 Td
+(18.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 573.3002 Td
+(Which standard library function resizes a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(previously allocated heap memory block?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 552.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 552.4002 Td
+(realloc\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 542.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 542.8002 Td
+(malloc\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 533.2003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 533.2003 Td
+(calloc\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 523.6003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 523.6003 Td
+(resize\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 500.0003 Td
+(19.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 500.0003 Td
+(Which standard library function deallocates) Tj
+ET
+BT
+/F1 7.8 Tf
+58 490.8003 Td
+(memory previously reserved on the heap?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 479.1003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 479.1003 Td
+(free\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 469.5003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 469.5003 Td
+(delete\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 459.9003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 459.9003 Td
+(destroy\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 450.3003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 450.3003 Td
+(release\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 426.7003 Td
+(20.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 426.7003 Td
+(What header file must be included to use) Tj
+ET
+BT
+/F1 7.8 Tf
+58 417.5002 Td
+(malloc\(\), calloc\(\), realloc\(\), and free\(\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 405.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 405.8002 Td
+(<stdlib.h>) Tj
+ET
+BT
+/F2 7.4 Tf
+58 396.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 396.2002 Td
+(<stdio.h>) Tj
+ET
+BT
+/F2 7.4 Tf
+58 386.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 386.6002 Td
+(<string.h>) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.0002 Td
+(<memory.h>) Tj
+ET
+BT
+/F2 8.0 Tf
+42 353.4002 Td
+(21.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 353.4002 Td
+(What is a pointer that continues to reference) Tj
+ET
+BT
+/F1 7.8 Tf
+58 344.2002 Td
+(memory that has already been deallocated called?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 332.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 332.5002 Td
+(Dangling pointer) Tj
+ET
+BT
+/F2 7.4 Tf
+58 322.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 322.9002 Td
+(Wild pointer) Tj
+ET
+BT
+/F2 7.4 Tf
+58 313.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 313.3002 Td
+(NULL pointer) Tj
+ET
+BT
+/F2 7.4 Tf
+58 303.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 303.7002 Td
+(Void pointer) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(22.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What occurs when dynamically allocated heap) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(memory is never freed before losing its pointer?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(Memory leak) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(Stack overflow) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(Double free) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(Segmentation fault) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(23.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(What occurs when free\(\) is executed twice on the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(exact same allocated heap pointer?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(Double-free vulnerability) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(Memory leak) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(Silent success) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(Reallocation) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(24.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(What character terminates all standard character) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(strings in C?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.5001 Td
+(Null character \('\\0'\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.9001 Td
+(Newline \('\\n'\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.3002 Td
+(EOF \(-1\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 587.7002 Td
+(Period \('.'\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 564.1002 Td
+(25.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.1002 Td
+(What is the ASCII integer value of the null) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(string terminator '\\0'?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 543.2002 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 533.6002 Td
+(48) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.0002 Td
+(32) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.4003 Td
+(-1) Tj
+ET
+BT
+/F2 8.0 Tf
+306 490.8003 Td
+(26.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 490.8003 Td
+(What header file must be included to access) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6003 Td
+(string manipulation functions like strlen,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 472.4002 Td
+(strcpy?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.7002 Td
+(<string.h>) Tj
+ET
+BT
+/F2 7.4 Tf
+322 451.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 451.1002 Td
+(<strings.h>) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.5002 Td
+(<stdlib.h>) Tj
+ET
+BT
+/F2 7.4 Tf
+322 431.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 431.9002 Td
+(<stdio.h>) Tj
+ET
+BT
+/F2 8.0 Tf
+306 408.3002 Td
+(27.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 408.3002 Td
+(Which standard library function computes the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 399.1002 Td
+(length of a string excluding the null) Tj
+ET
+BT
+/F1 7.8 Tf
+322 389.9002 Td
+(terminator?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 378.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 378.2002 Td
+(strlen\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 368.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 368.6002 Td
+(sizeof\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 359.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 359.0002 Td
+(strsize\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 349.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 349.4001 Td
+(strcount\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 325.8001 Td
+(28.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 325.8001 Td
+(For char s[] = "Bio"; what are the values of) Tj
+ET
+BT
+/F1 7.8 Tf
+322 316.6001 Td
+(strlen\(s\) and sizeof\(s\) respectively?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.9001 Td
+(3 and 4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 295.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 295.3001 Td
+(3 and 3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 285.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 285.7001 Td
+(4 and 4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 276.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 276.1001 Td
+(4 and 3) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 8 0 R /Resources << /Font << /F1 79 0 R /F2 80 0 R >> >> >>
+endobj
+8 0 obj
+<< /Length 8121 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 5: POINTERS, DYNAMIC MEMORY & STRINGS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 3 of 38) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(29.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Which function copies a source string including) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(null terminator into a destination buffer?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(strcpy\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(strncpy\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(memcpy\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(strcat\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(30.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(Which safer string copy function specifies the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(maximum number of characters to copy?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(strncpy\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(strcpy\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(strdup\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(strcat\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(31.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(Which function concatenates \(appends\) a source) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(string onto the end of a destination string?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.5001 Td
+(strcat\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.9001 Td
+(strcpy\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.3002 Td
+(strncat\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 587.7002 Td
+(append\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 564.1002 Td
+(32.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(Which function performs lexicographical) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(comparison of two strings in C?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 543.2002 Td
+(strcmp\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 533.6002 Td
+(strcasecmp\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.0002 Td
+(strequal\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.4003 Td
+(strncmp\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 490.8003 Td
+(33.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 490.8003 Td
+(What does strcmp\(s1, s2\) return when string s1) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6003 Td
+(is identical to string s2?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 469.9002 Td
+(0 \(zero\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.3002 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 450.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 450.7002 Td
+(-1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.1002 Td
+(Boolean true) Tj
+ET
+BT
+/F2 8.0 Tf
+42 417.5002 Td
+(34.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 417.5002 Td
+(What does strcmp\(s1, s2\) return when s1 is) Tj
+ET
+BT
+/F1 7.8 Tf
+58 408.3002 Td
+(lexicographically smaller than s2?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 396.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 396.6002 Td
+(Negative integer \(< 0\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 387.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 387.0002 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.4002 Td
+(Positive integer \(> 0\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 367.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 367.8002 Td
+(Null) Tj
+ET
+BT
+/F2 8.0 Tf
+42 344.2002 Td
+(35.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 344.2002 Td
+(Which function searches for the first occurrence) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.0002 Td
+(of a character in a string?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 323.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 323.3001 Td
+(strchr\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 313.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 313.7001 Td
+(strrchr\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.1001 Td
+(strstr\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 294.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 294.5001 Td
+(strpbrk\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(36.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Which function searches for the last occurrence) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(of a character in a string?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(strrchr\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(strchr\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(strstr\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(strtok\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(37.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(Which function searches for the first occurrence) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(of a substring needle within haystack?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(strstr\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(strchr\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(strtok\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(strspn\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(38.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(What does strstr\(\) return if the target) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(substring is not found?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.5001 Td
+(NULL) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.9001 Td
+(-1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.3002 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 587.7002 Td
+(Empty string) Tj
+ET
+BT
+/F2 8.0 Tf
+306 564.1002 Td
+(39.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.1002 Td
+(Which function sets all bytes in a specified) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(memory block to a given value?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 543.2002 Td
+(memset\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 533.6002 Td
+(memcpy\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.0002 Td
+(memmove\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.4003 Td
+(bzero\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 490.8003 Td
+(40.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 490.8003 Td
+(Which memory copy function safely handles) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6003 Td
+(overlapping source and destination memory) Tj
+ET
+BT
+/F1 7.8 Tf
+322 472.4002 Td
+(regions?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.7002 Td
+(memmove\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 451.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 451.1002 Td
+(memcpy\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.5002 Td
+(strcpy\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 431.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 431.9002 Td
+(memcmp\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 408.3002 Td
+(41.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 408.3002 Td
+(Where are string literals like char *p = "DNA";) Tj
+ET
+BT
+/F1 7.8 Tf
+322 399.1002 Td
+(typically stored in memory?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.4002 Td
+(Read-only data segment) Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.8002 Td
+(Call stack) Tj
+ET
+BT
+/F2 7.4 Tf
+322 368.2002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 368.2002 Td
+(Heap segment) Tj
+ET
+BT
+/F2 7.4 Tf
+322 358.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 358.6002 Td
+(BSS segment) Tj
+ET
+BT
+/F2 8.0 Tf
+306 335.0002 Td
+(42.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 335.0002 Td
+(What happens if a program attempts to modify a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 325.8001 Td
+(string literal: char *p = "DNA"; p[0] = 'R';?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 314.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 314.1001 Td
+(Bus error / Seg fault) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.5001 Td
+(Modifies character) Tj
+ET
+BT
+/F2 7.4 Tf
+322 294.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 294.9001 Td
+(Syntax error) Tj
+ET
+BT
+/F2 7.4 Tf
+322 285.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 285.3001 Td
+(Warning only) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 10 0 R /Resources << /Font << /F1 79 0 R /F2 80 0 R >> >> >>
+endobj
+10 0 obj
+<< /Length 8084 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 5: POINTERS, DYNAMIC MEMORY & STRINGS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 4 of 38) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(43.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Where is the array stored in: char s[] = "DNA";) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(s[0] = 'R'; and is it mutable?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(Call stack \(mutable\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(Read-only segment) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(Heap segment) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(BSS segment) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(44.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(What is the difference between const int *ptr) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(and int * const ptr?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(ptr to const vs const ptr) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(Both identical) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(int is constant) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(Pointer to pointer) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(45.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(In const int *ptr, can you modify the value) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(pointed to \(*ptr = 10\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.5001 Td
+(No \(data is const\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.9001 Td
+(Yes) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.3002 Td
+(Only if cast) Tj
+ET
+BT
+/F2 7.4 Tf
+58 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 587.7002 Td
+(Implementation defined) Tj
+ET
+BT
+/F2 8.0 Tf
+42 564.1002 Td
+(46.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(In int * const ptr = &x; can you reassign the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(pointer to another address \(ptr = &y\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 543.2002 Td
+(No \(pointer is const\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 533.6002 Td
+(Yes) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.0002 Td
+(Only in C99) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.4003 Td
+(Only if x == y) Tj
+ET
+BT
+/F2 8.0 Tf
+42 490.8003 Td
+(47.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 490.8003 Td
+(What does const int * const ptr declare?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 479.1003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 479.1003 Td
+(Immutable ptr to const data) Tj
+ET
+BT
+/F2 7.4 Tf
+58 469.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 469.5002 Td
+(Array of pointers) Tj
+ET
+BT
+/F2 7.4 Tf
+58 459.9002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 459.9002 Td
+(Void pointer) Tj
+ET
+BT
+/F2 7.4 Tf
+58 450.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 450.3002 Td
+(Dangling pointer) Tj
+ET
+BT
+/F2 8.0 Tf
+42 426.7002 Td
+(48.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 426.7002 Td
+(What is a pointer to a pointer in C?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 415.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 415.0002 Td
+(Holds address of pointer) Tj
+ET
+BT
+/F2 7.4 Tf
+58 405.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 405.4002 Td
+(Array of structs) Tj
+ET
+BT
+/F2 7.4 Tf
+58 395.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 395.8002 Td
+(Void function) Tj
+ET
+BT
+/F2 7.4 Tf
+58 386.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 386.2002 Td
+(Memory block) Tj
+ET
+BT
+/F2 8.0 Tf
+42 362.6002 Td
+(49.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 362.6002 Td
+(What is the syntax to declare a double pointer) Tj
+ET
+BT
+/F1 7.8 Tf
+58 353.4002 Td
+(to an integer?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 341.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 341.7002 Td
+(int **pp;) Tj
+ET
+BT
+/F2 7.4 Tf
+58 332.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 332.1002 Td
+(int *pp*;) Tj
+ET
+BT
+/F2 7.4 Tf
+58 322.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 322.5002 Td
+(int &&pp;) Tj
+ET
+BT
+/F2 7.4 Tf
+58 312.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 312.9001 Td
+(int *\(*pp\);) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(50.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(How do you access the original integer value) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(through double pointer int **pp?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(**pp) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(*pp) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(&pp) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(*&pp) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(51.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(What does the declaration int *arr[10];) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(represent?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(Array of 10 pointers to int) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(Pointer to array of 10 ints) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(Function pointer) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(10-element int array) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(52.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(What does the declaration int \(*ptr\)[10];) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(represent?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.5001 Td
+(Pointer to array of 10 ints) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.9001 Td
+(Array of 10 pointers) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.3002 Td
+(Pointer to pointer) Tj
+ET
+BT
+/F2 7.4 Tf
+322 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 587.7002 Td
+(Function returning array) Tj
+ET
+BT
+/F2 8.0 Tf
+306 564.1002 Td
+(53.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.1002 Td
+(What is the difference in pointer arithmetic) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(between ptr[10] array and \(*ptr\)[10]?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 543.2002 Td
+(ptr+1 skips 10 ints) Tj
+ET
+BT
+/F2 7.4 Tf
+322 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 533.6002 Td
+(ptr+1 skips 1 int) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.0002 Td
+(Identical offset) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.4003 Td
+(Syntax error) Tj
+ET
+BT
+/F2 8.0 Tf
+306 490.8003 Td
+(54.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 490.8003 Td
+(How is a dynamic 2D array allocated on the heap) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6003 Td
+(in C?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 469.9002 Td
+(malloc row ptrs then cols) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.3002 Td
+(Single 1D malloc only) Tj
+ET
+BT
+/F2 7.4 Tf
+322 450.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 450.7002 Td
+(calloc with 2 dims) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.1002 Td
+(Impossible in C) Tj
+ET
+BT
+/F2 8.0 Tf
+306 417.5002 Td
+(55.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 417.5002 Td
+(In freeing a dynamically allocated 2D array \(int) Tj
+ET
+BT
+/F1 7.8 Tf
+322 408.3002 Td
+(**mat\), what is the correct order?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 396.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 396.6002 Td
+(Free rows then free mat) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.0002 Td
+(Free mat then free rows) Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.4002 Td
+(Single free\(mat\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 367.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 367.8002 Td
+(Free in any order) Tj
+ET
+BT
+/F2 8.0 Tf
+306 344.2002 Td
+(56.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 344.2002 Td
+(Why is free\(mat\) followed by free\(mat[i]\) a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 335.0002 Td
+(severe bug?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 323.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 323.3001 Td
+(Use-after-free corruption) Tj
+ET
+BT
+/F2 7.4 Tf
+322 313.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 313.7001 Td
+(Memory leak) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.1001 Td
+(Syntax error) Tj
+ET
+BT
+/F2 7.4 Tf
+322 294.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 294.5001 Td
+(Double free) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 12 0 R /Resources << /Font << /F1 79 0 R /F2 80 0 R >> >> >>
+endobj
+12 0 obj
+<< /Length 8134 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 5: POINTERS, DYNAMIC MEMORY & STRINGS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 5 of 38) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(57.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What does realloc\(ptr, 0\) do in standard ANSI C?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 772.3 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 772.3 Td
+(Equivalent to free\(ptr\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 762.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 762.7 Td
+(Allocates 1 byte) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.1 Td
+(Returns NULL leak) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.5001 Td
+(Throws error) Tj
+ET
+BT
+/F2 8.0 Tf
+42 719.9001 Td
+(58.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 719.9001 Td
+(What does realloc\(NULL, size\) do?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 708.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 708.2001 Td
+(Equivalent to malloc\(size\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 698.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 698.6001 Td
+(Throws error) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.0001 Td
+(Returns NULL) Tj
+ET
+BT
+/F2 7.4 Tf
+58 679.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 679.4001 Td
+(Frees memory) Tj
+ET
+BT
+/F2 8.0 Tf
+42 655.8002 Td
+(59.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 655.8002 Td
+(What bug occurs if you write: ptr = realloc\(ptr,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 646.6002 Td
+(new_size\); without a temporary pointer?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 634.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 634.9001 Td
+(Memory leak if realloc fails) Tj
+ET
+BT
+/F2 7.4 Tf
+58 625.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 625.3002 Td
+(Double free) Tj
+ET
+BT
+/F2 7.4 Tf
+58 615.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 615.7002 Td
+(Buffer overflow) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.1002 Td
+(Syntax error) Tj
+ET
+BT
+/F2 8.0 Tf
+42 582.5002 Td
+(60.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 582.5002 Td
+(Why does ptr = realloc\(ptr, new_size\) leak) Tj
+ET
+BT
+/F1 7.8 Tf
+58 573.3002 Td
+(memory when realloc fails and returns NULL?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 561.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 561.6002 Td
+(Original address is lost) Tj
+ET
+BT
+/F2 7.4 Tf
+58 552.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 552.0002 Td
+(OS frees memory) Tj
+ET
+BT
+/F2 7.4 Tf
+58 542.4003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 542.4003 Td
+(Pointer is corrupted) Tj
+ET
+BT
+/F2 7.4 Tf
+58 532.8003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 532.8003 Td
+(Heap corrupted) Tj
+ET
+BT
+/F2 8.0 Tf
+42 509.2003 Td
+(61.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 509.2003 Td
+(How should realloc return value be handled) Tj
+ET
+BT
+/F1 7.8 Tf
+58 500.0003 Td
+(defensively?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 488.3003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 488.3003 Td
+(Assign to temp, check NULL) Tj
+ET
+BT
+/F2 7.4 Tf
+58 478.7003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 478.7003 Td
+(Assert not NULL) Tj
+ET
+BT
+/F2 7.4 Tf
+58 469.1003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 469.1003 Td
+(Cast to void*) Tj
+ET
+BT
+/F2 7.4 Tf
+58 459.5003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 459.5003 Td
+(Wrap in try-catch) Tj
+ET
+BT
+/F2 8.0 Tf
+42 435.9003 Td
+(62.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 435.9003 Td
+(Which function breaks a string into a sequence) Tj
+ET
+BT
+/F1 7.8 Tf
+58 426.7003 Td
+(of tokens separated by delimiter characters?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 415.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 415.0002 Td
+(strtok\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 405.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 405.4002 Td
+(strstr\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 395.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 395.8002 Td
+(strchr\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 386.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 386.2002 Td
+(strsep\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 362.6002 Td
+(63.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 362.6002 Td
+(How does strtok\(\) mark the boundary of each) Tj
+ET
+BT
+/F1 7.8 Tf
+58 353.4002 Td
+(extracted token in the source string?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 341.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 341.7002 Td
+(Overwrites delim with '\\0') Tj
+ET
+BT
+/F2 7.4 Tf
+58 332.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 332.1002 Td
+(Allocates new string) Tj
+ET
+BT
+/F2 7.4 Tf
+58 322.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 322.5002 Td
+(Returns index offset) Tj
+ET
+BT
+/F2 7.4 Tf
+58 312.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 312.9002 Td
+(Pushes to stack) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(64.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What argument must be passed as the first) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(parameter to strtok\(\) in subsequent tokenization) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(calls?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(NULL) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.3 Td
+(Same string pointer) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.7 Td
+(Delimiter string) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.1 Td
+(EOF) Tj
+ET
+BT
+/F2 8.0 Tf
+306 701.5001 Td
+(65.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(Why is strtok\(\) non-reentrant and dangerous in) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(multi-threaded programming?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.6 Td
+(Uses internal static state) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.0001 Td
+(Allocates heap memory) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.4001 Td
+(Modifies read-only memory) Tj
+ET
+BT
+/F2 7.4 Tf
+322 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 651.8001 Td
+(Too slow) Tj
+ET
+BT
+/F2 8.0 Tf
+306 628.2001 Td
+(66.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(What POSIX function is the thread-safe,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(reentrant equivalent of strtok\(\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.3001 Td
+(strtok_r\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.7001 Td
+(strtok_s\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.1002 Td
+(strsep\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 578.5002 Td
+(str_split\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 554.9002 Td
+(67.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(In bioinformatics, which restriction enzyme) Tj
+ET
+BT
+/F1 7.8 Tf
+322 545.7002 Td
+(recognizes the palindromic hexamer 5'-GAATTC-3'?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 534.0002 Td
+(EcoRI) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.4002 Td
+(BamHI) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.8002 Td
+(HindIII) Tj
+ET
+BT
+/F2 7.4 Tf
+322 505.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 505.2002 Td
+(TaqI) Tj
+ET
+BT
+/F2 8.0 Tf
+306 481.6002 Td
+(68.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6002 Td
+(Which restriction enzyme recognizes the hexamer) Tj
+ET
+BT
+/F1 7.8 Tf
+322 472.4002 Td
+(5'-GGATCC-3'?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.7002 Td
+(BamHI) Tj
+ET
+BT
+/F2 7.4 Tf
+322 451.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 451.1002 Td
+(EcoRI) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.5002 Td
+(HindIII) Tj
+ET
+BT
+/F2 7.4 Tf
+322 431.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 431.9002 Td
+(NotI) Tj
+ET
+BT
+/F2 8.0 Tf
+306 408.3002 Td
+(69.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 408.3002 Td
+(Which restriction enzyme recognizes) Tj
+ET
+BT
+/F1 7.8 Tf
+322 399.1002 Td
+(5'-AAGCTT-3'?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.4001 Td
+(HindIII) Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.8001 Td
+(EcoRI) Tj
+ET
+BT
+/F2 7.4 Tf
+322 368.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 368.2001 Td
+(BamHI) Tj
+ET
+BT
+/F2 7.4 Tf
+322 358.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 358.6001 Td
+(AluI) Tj
+ET
+BT
+/F2 8.0 Tf
+306 335.0001 Td
+(70.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 335.0001 Td
+(How can strstr\(\) be used to scan DNA for) Tj
+ET
+BT
+/F1 7.8 Tf
+322 325.8001 Td
+(restriction enzyme cleavage sites?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 314.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 314.1001 Td
+(Returns pointer to match) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.5001 Td
+(Counts total matches) Tj
+ET
+BT
+/F2 7.4 Tf
+322 294.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 294.9001 Td
+(Splits sequence) Tj
+ET
+BT
+/F2 7.4 Tf
+322 285.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 285.3001 Td
+(Replaces with gaps) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 14 0 R /Resources << /Font << /F1 79 0 R /F2 80 0 R >> >> >>
+endobj
+14 0 obj
+<< /Length 8636 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 5: POINTERS, DYNAMIC MEMORY & STRINGS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 6 of 38) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(71.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What does strncpy\(dest, src, n\) NOT guarantee if) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(length of src >= n?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(Null termination '\\0') Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(Copying all chars) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(Buffer overflow check) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(Fast execution) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(72.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(How do you guarantee null-termination when using) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(strncpy\(dest, src, sizeof\(dest\)\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(dest[sizeof\(dest\)-1]='\\0') Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(Use strcat after) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(Call memset first) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(Cast to char*) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(73.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(What is the result of applying sizeof to a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(pointer allocated via malloc\(100 * sizeof\(int\)\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.5001 Td
+(sizeof\(int*\) [4 or 8]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.9001 Td
+(400 bytes) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.3002 Td
+(100) Tj
+ET
+BT
+/F2 7.4 Tf
+58 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 587.7002 Td
+(0) Tj
+ET
+BT
+/F2 8.0 Tf
+42 564.1002 Td
+(74.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(Why cannot the C runtime determine the allocated) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(size of a heap pointer via sizeof?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 543.2002 Td
+(sizeof is compile-time) Tj
+ET
+BT
+/F2 7.4 Tf
+58 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 533.6002 Td
+(Pointer size is 0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.0002 Td
+(Heap is untracked) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.4003 Td
+(Compiler bug) Tj
+ET
+BT
+/F2 8.0 Tf
+42 490.8003 Td
+(75.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 490.8003 Td
+(What standard function duplicates a string by) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6003 Td
+(allocating heap memory with malloc?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 469.9002 Td
+(strdup\(\) \(POSIX / C23\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.3002 Td
+(strcpy\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 450.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 450.7002 Td
+(strcopy\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.1002 Td
+(strclone\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 417.5002 Td
+(76.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 417.5002 Td
+(What is the difference between memcpy\(\) and) Tj
+ET
+BT
+/F1 7.8 Tf
+58 408.3002 Td
+(memmove\(\) when source and destination overlap?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 396.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 396.6002 Td
+(memmove safely buffers) Tj
+ET
+BT
+/F2 7.4 Tf
+58 387.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 387.0002 Td
+(memcpy is safe) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.4002 Td
+(memmove is slower O\(N^2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 367.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 367.8002 Td
+(Both identical) Tj
+ET
+BT
+/F2 8.0 Tf
+42 344.2002 Td
+(77.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 344.2002 Td
+(In manual implementation of strlen\(const char) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.0002 Td
+(*s\), what loop condition detects string end?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 323.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 323.3001 Td
+(*s != '\\0') Tj
+ET
+BT
+/F2 7.4 Tf
+58 313.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 313.7001 Td
+(*s > 0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.1001 Td
+(s != NULL) Tj
+ET
+BT
+/F2 7.4 Tf
+58 294.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 294.5001 Td
+(sizeof\(*s\) != 0) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(78.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(In manual implementation of strcpy\(char *d,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(const char *s\), what is the canonical while) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(idiom?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(while\(\(*d++ = *s++\)\);) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.3 Td
+(while\(*s\) *d=*s;) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.7 Td
+(while\(*d == *s\);) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.1 Td
+(for\(;;*d++=*s++\);) Tj
+ET
+BT
+/F2 8.0 Tf
+306 701.5001 Td
+(79.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(Why does while\(\(*d++ = *s++\)\); successfully) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(terminate after copying the null character?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.6 Td
+(Assigns '\\0' \(0=false\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.0001 Td
+(Throws EOF signal) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.4001 Td
+(Checks pointer bounds) Tj
+ET
+BT
+/F2 7.4 Tf
+322 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 651.8001 Td
+(Post-increment stops) Tj
+ET
+BT
+/F2 8.0 Tf
+306 628.2001 Td
+(80.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(In manual strcmp\(const char *s1, const char) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(*s2\), why must characters be cast to unsigned) Tj
+ET
+BT
+/F1 7.8 Tf
+322 609.8001 Td
+(char?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 598.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 598.1001 Td
+(Prevents negative promotion) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.5001 Td
+(ASCII is 7-bit only) Tj
+ET
+BT
+/F2 7.4 Tf
+322 578.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 578.9001 Td
+(Char is 16-bit) Tj
+ET
+BT
+/F2 7.4 Tf
+322 569.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 569.3002 Td
+(Required by GCC) Tj
+ET
+BT
+/F2 8.0 Tf
+306 545.7002 Td
+(81.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 545.7002 Td
+(What security vulnerability is known as) Tj
+ET
+BT
+/F1 7.8 Tf
+322 536.5002 Td
+('Use-After-Free' \(UAF\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.8002 Td
+(Accessing memory post free\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 515.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 515.2002 Td
+(Calling free\(\) twice) Tj
+ET
+BT
+/F2 7.4 Tf
+322 505.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 505.6002 Td
+(Buffer overflow in heap) Tj
+ET
+BT
+/F2 7.4 Tf
+322 496.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 496.0002 Td
+(Memory leak in loop) Tj
+ET
+BT
+/F2 8.0 Tf
+306 472.4002 Td
+(82.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 472.4002 Td
+(How do professional C programmers neutralize) Tj
+ET
+BT
+/F1 7.8 Tf
+322 463.2002 Td
+(dangling pointers immediately after calling) Tj
+ET
+BT
+/F1 7.8 Tf
+322 454.0002 Td
+(free\(p\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 442.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 442.3001 Td
+(p = NULL;) Tj
+ET
+BT
+/F2 7.4 Tf
+322 432.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 432.7001 Td
+(p = 0xFFFFFFFF;) Tj
+ET
+BT
+/F2 7.4 Tf
+322 423.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 423.1001 Td
+(memset\(p, 0, 1\);) Tj
+ET
+BT
+/F2 7.4 Tf
+322 413.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 413.5001 Td
+(free\(&p\);) Tj
+ET
+BT
+/F2 8.0 Tf
+306 389.9001 Td
+(83.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 389.9001 Td
+(Why is free\(NULL\) completely safe and guaranteed) Tj
+ET
+BT
+/F1 7.8 Tf
+322 380.7001 Td
+(to perform no operation in ANSI C?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 369.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 369.0001 Td
+(Guaranteed by ISO C spec) Tj
+ET
+BT
+/F2 7.4 Tf
+322 359.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 359.4001 Td
+(Compiler optimization) Tj
+ET
+BT
+/F2 7.4 Tf
+322 349.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 349.8001 Td
+(Null pointer exception) Tj
+ET
+BT
+/F2 7.4 Tf
+322 340.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 340.2001 Td
+(Warning emitted) Tj
+ET
+BT
+/F2 8.0 Tf
+306 316.6001 Td
+(84.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 316.6001 Td
+(What is Heap Fragmentation in long-running C) Tj
+ET
+BT
+/F1 7.8 Tf
+322 307.4001 Td
+(bioinformatics server applications?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 295.7 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 295.7 Td
+(Scattered unusable holes) Tj
+ET
+BT
+/F2 7.4 Tf
+322 286.1 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 286.1 Td
+(Memory running out) Tj
+ET
+BT
+/F2 7.4 Tf
+322 276.5 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 276.5 Td
+(Stack corruption) Tj
+ET
+BT
+/F2 7.4 Tf
+322 266.9 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 266.9 Td
+(Cache invalidation) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 16 0 R /Resources << /Font << /F1 79 0 R /F2 80 0 R >> >> >>
+endobj
+16 0 obj
+<< /Length 8570 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 5: POINTERS, DYNAMIC MEMORY & STRINGS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 7 of 38) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(85.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(How does a Custom Memory Arena \(Memory Pool\)) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(prevent heap fragmentation?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(Bulk allocation, bump ptr) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(Calls malloc per byte) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(Uses static arrays only) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(Compresses RAM) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(86.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(In an arena bump allocator, how is deallocation) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(performed?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(Reset offset to zero) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(Call free per chunk) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(Iterate linked list) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(Invoke OS garbage coll) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(87.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(What dynamic programming table dimension is) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(required to tokenize a FASTA genome of 10^7 bp?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.5001 Td
+(Requires block streaming) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.9001 Td
+(10^7 x 10^7 matrix) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.3002 Td
+(Stack VLA allocation) Tj
+ET
+BT
+/F2 7.4 Tf
+58 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 587.7002 Td
+(Static 2D array) Tj
+ET
+BT
+/F2 8.0 Tf
+42 564.1002 Td
+(88.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(In parsing PDB \(Protein Data Bank\) ATOM records,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(which function extracts formatted coordinates?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 543.2002 Td
+(sscanf\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 533.6002 Td
+(strtok\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.0002 Td
+(atoi\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.4003 Td
+(strcat\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 490.8003 Td
+(89.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 490.8003 Td
+(What does sscanf\(line, "ATOM %d %s %s %d %lf %lf) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6003 Td
+(%lf", ...\) accomplish?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 469.9002 Td
+(Parses formatted string) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.3002 Td
+(Prints to console) Tj
+ET
+BT
+/F2 7.4 Tf
+58 450.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 450.7002 Td
+(Allocates heap struct) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.1002 Td
+(Encrypts record) Tj
+ET
+BT
+/F2 8.0 Tf
+42 417.5002 Td
+(90.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 417.5002 Td
+(What is the return value of sscanf\(\) upon) Tj
+ET
+BT
+/F1 7.8 Tf
+58 408.3002 Td
+(complete matching of all 7 fields?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 396.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 396.6002 Td
+(7) Tj
+ET
+BT
+/F2 7.4 Tf
+58 387.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 387.0002 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.4002 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 367.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 367.8002 Td
+(-1) Tj
+ET
+BT
+/F2 8.0 Tf
+42 344.2002 Td
+(91.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 344.2002 Td
+(What is the difference between shallow copy and) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.0002 Td
+(deep copy when copying structures with pointers?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 323.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 323.3001 Td
+(Deep allocates fresh memory) Tj
+ET
+BT
+/F2 7.4 Tf
+58 313.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 313.7001 Td
+(Shallow copies memory) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.1001 Td
+(Both duplicate buffer) Tj
+ET
+BT
+/F2 7.4 Tf
+58 294.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 294.5001 Td
+(Deep is faster) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(92.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Why does shallow copying a structure containing) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(a heap pointer cause a double-free bug?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(Both structs share same ptr) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(Memory is uninitialized) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(Pointer is NULL) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(Structure padding) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(93.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(What standard C library tool or flag detects) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(memory leaks and heap buffer overflows during) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(testing?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.6 Td
+(AddressSanitizer \(-fsanitize=address\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.0001 Td
+(GDB only) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.4001 Td
+(Valgrind only) Tj
+ET
+BT
+/F2 7.4 Tf
+322 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 651.8001 Td
+(Both A and C) Tj
+ET
+BT
+/F2 8.0 Tf
+306 628.2001 Td
+(94.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(What GCC compiler flag enables AddressSanitizer) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(\(ASan\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.3001 Td
+(-fsanitize=address) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.7001 Td
+(-fcheck-memory) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.1002 Td
+(-Wall-memory) Tj
+ET
+BT
+/F2 7.4 Tf
+322 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 578.5002 Td
+(-O3-sanitize) Tj
+ET
+BT
+/F2 8.0 Tf
+306 554.9002 Td
+(95.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(What is alignment padding in dynamic memory) Tj
+ET
+BT
+/F1 7.8 Tf
+322 545.7002 Td
+(allocations?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 534.0002 Td
+(Rounding size to word boundary) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.4002 Td
+(Adding zeroes to strings) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.8002 Td
+(Stack realignment) Tj
+ET
+BT
+/F2 7.4 Tf
+322 505.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 505.2002 Td
+(Bit field shifting) Tj
+ET
+BT
+/F2 8.0 Tf
+306 481.6002 Td
+(96.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6002 Td
+(In standard 64-bit systems, malloc\(\) returns) Tj
+ET
+BT
+/F1 7.8 Tf
+322 472.4002 Td
+(memory aligned to at least how many bytes?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.7002 Td
+(16 bytes \(or 8 bytes\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 451.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 451.1002 Td
+(1 byte) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.5002 Td
+(4 bytes) Tj
+ET
+BT
+/F2 7.4 Tf
+322 431.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 431.9002 Td
+(64 bytes) Tj
+ET
+BT
+/F2 8.0 Tf
+306 408.3002 Td
+(97.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 408.3002 Td
+(What function introduced in C11 allocates) Tj
+ET
+BT
+/F1 7.8 Tf
+322 399.1002 Td
+(dynamically aligned memory to a specified) Tj
+ET
+BT
+/F1 7.8 Tf
+322 389.9001 Td
+(boundary?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 378.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 378.2001 Td
+(aligned_alloc\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 368.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 368.6001 Td
+(posix_memalign\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 359.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 359.0001 Td
+(malloc_aligned\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 349.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 349.4001 Td
+(calloc_align\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 325.8001 Td
+(98.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 325.8001 Td
+(What is the consequence of casting an unaligned) Tj
+ET
+BT
+/F1 7.8 Tf
+322 316.6001 Td
+(char pointer to int* and dereferencing on ARM) Tj
+ET
+BT
+/F1 7.8 Tf
+322 307.4001 Td
+(architectures?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 295.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 295.7001 Td
+(Hardware alignment fault) Tj
+ET
+BT
+/F2 7.4 Tf
+322 286.1001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 286.1001 Td
+(Silent success always) Tj
+ET
+BT
+/F2 7.4 Tf
+322 276.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 276.5001 Td
+(Truncation of bytes) Tj
+ET
+BT
+/F2 7.4 Tf
+322 266.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 266.9001 Td
+(Automatic correction) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 18 0 R /Resources << /Font << /F1 79 0 R /F2 80 0 R >> >> >>
+endobj
+18 0 obj
+<< /Length 1515 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 5: POINTERS, DYNAMIC MEMORY & STRINGS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 8 of 38) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(99.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What standard string function computes the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(length of the initial substring consisting only) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(of accepted characters?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(strspn\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.3 Td
+(strcspn\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.7 Td
+(strpbrk\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.1 Td
+(strstr\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 691.5001 Td
+(100.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 691.5001 Td
+(What function computes the length of the initial) Tj
+ET
+BT
+/F1 7.8 Tf
+58 682.3 Td
+(substring consisting entirely of characters NOT) Tj
+ET
+BT
+/F1 7.8 Tf
+58 673.1 Td
+(in reject set?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.4 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.4 Td
+(strcspn\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 651.8 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 651.8 Td
+(strspn\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 642.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 642.2001 Td
+(strchr\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 632.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 632.6001 Td
+(strtok\(\)) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 20 0 R /Resources << /Font << /F1 79 0 R /F2 80 0 R >> >> >>
+endobj
+20 0 obj
+<< /Length 4971 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 5: POINTERS, DYNAMIC MEMORY & STRINGS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 9 of 38) Tj
+ET
+BT
+/F2 10 Tf
+45 780 Td
+(SECTION B: DESCRIPTIVE & SUBJECTIVE QUESTIONS) Tj
+ET
+BT
+/F2 8.5 Tf
+45 760 Td
+(Q1. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 760 Td
+(Explain Pointer Fundamentals in C, detailing address-of \(&\) and indirection \(*\) operators, pointer) Tj
+ET
+BT
+/F1 8.5 Tf
+72 749.5 Td
+(sizing, and physical memory addressing.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 724.5 Td
+(Q2. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 724.5 Td
+(Detail Pointer Arithmetic rules in C, explaining scaling by sizeof\(*ptr\), pointer difference) Tj
+ET
+BT
+/F1 8.5 Tf
+72 714 Td
+(\(ptrdiff_t\), and illegal operations.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 689 Td
+(Q3. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 689 Td
+(Explain the equivalence between Arrays and Pointers in C, detailing array decay, ptr[i] vs *\(ptr +) Tj
+ET
+BT
+/F1 8.5 Tf
+72 678.5 Td
+(i\), and the 2[arr] curiosity.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 653.5 Td
+(Q4. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 653.5 Td
+(Explain Pointer Classification: Wild Pointers, NULL Pointers, Dangling Pointers, and Void Pointers) Tj
+ET
+BT
+/F1 8.5 Tf
+72 643 Td
+(with prevention strategies.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 618 Td
+(Q5. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 618 Td
+(Contrast Pointers to Constants vs Constant Pointers vs Constant Pointers to Constants with syntax) Tj
+ET
+BT
+/F1 8.5 Tf
+72 607.5 Td
+(and code examples.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 582.5 Td
+(Q6. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 582.5 Td
+(Detail Dynamic Memory Allocation functions: malloc\(\), calloc\(\), realloc\(\), and free\(\), explaining) Tj
+ET
+BT
+/F1 8.5 Tf
+72 572 Td
+(heap internals and failure handling.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 547 Td
+(Q7. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 547 Td
+(Write an ANSI C program to allocate, populate, and deallocate a dynamic 2D array \(matrix\) using) Tj
+ET
+BT
+/F1 8.5 Tf
+72 536.5 Td
+(pointers to pointers \(int **\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 511.5 Td
+(Q8. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 511.5 Td
+(Explain Strings in C, contrasting string literals vs character arrays, null termination \('\\0'\),) Tj
+ET
+BT
+/F1 8.5 Tf
+72 501 Td
+(and string literal immutability.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 476 Td
+(Q9. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 476 Td
+(Implement custom versions of core string library functions without <string.h>: my_strlen,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 465.5 Td
+(my_strcpy, my_strcmp, and my_strcat.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 440.5 Td
+(Q10. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 440.5 Td
+(Write an ANSI C program to search a DNA genomic string for Restriction Endonuclease recognition) Tj
+ET
+BT
+/F1 8.5 Tf
+72 430 Td
+(motifs using strstr\(\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 405 Td
+(Q11. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 405 Td
+(Explain string tokenization using strtok\(\), detailing how delimiter replacement works, reentrancy) Tj
+ET
+BT
+/F1 8.5 Tf
+72 394.5 Td
+(limitations, and strtok_r\(\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 369.5 Td
+(Q12. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 369.5 Td
+(Detail common Dynamic Memory Allocation bugs in C: Memory Leaks, Double Free, Use-After-Free, and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 359 Td
+(Heap Buffer Overflows.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 334 Td
+(Q13. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 334 Td
+(Write an ANSI C program to dynamically allocate a variable-length DNA sequence buffer, dynamically) Tj
+ET
+BT
+/F1 8.5 Tf
+72 323.5 Td
+(resizing it using realloc\(\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 298.5 Td
+(Q14. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 298.5 Td
+(Write an ANSI C program to parse Protein Data Bank \(PDB\) ATOM record coordinates using sscanf\(\)) Tj
+ET
+BT
+/F1 8.5 Tf
+72 288 Td
+(and pointer arithmetic.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 263 Td
+(Q15. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 263 Td
+(Explain the difference between memcpy\(\) and memmove\(\), detailing memory overlap handling and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 252.5 Td
+(buffer safety.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 227.5 Td
+(Q16. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 227.5 Td
+(Write an ANSI C program to reverse words in a sentence string in-place using two-pointer string) Tj
+ET
+BT
+/F1 8.5 Tf
+72 217 Td
+(reversal.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 192 Td
+(Q17. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 192 Td
+(Explain memory layout of a compiled C program: Text, Data, BSS, Heap, and Stack segments with) Tj
+ET
+BT
+/F1 8.5 Tf
+72 181.5 Td
+(virtual address directionality.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 156.5 Td
+(Q18. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 156.5 Td
+(Write an ANSI C program to implement a Custom Fixed-Size Memory Arena \(Bump Allocator\) for) Tj
+ET
+BT
+/F1 8.5 Tf
+72 146 Td
+(ultra-fast allocations without fragmentation.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 121 Td
+(Q19. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 121 Td
+(Write an ANSI C program to check whether a given string is a Palindrome ignoring case and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 110.5 Td
+(whitespace.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 85.5 Td
+(Q20. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 85.5 Td
+(Explain deep copy vs shallow copy in C structures containing dynamic pointers, detailing memory) Tj
+ET
+BT
+/F1 8.5 Tf
+72 75 Td
+(aliasing and corruption traps.) Tj
+ET
+
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 22 0 R /Resources << /Font << /F1 79 0 R /F2 80 0 R >> >> >>
+endobj
+22 0 obj
+<< /Length 2469 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 5: POINTERS, DYNAMIC MEMORY & STRINGS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 10 of 38) Tj
+ET
+BT
+/F2 8.5 Tf
+45 780 Td
+(Q21. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 780 Td
+(Write an ANSI C program to count occurrences of a substring within a DNA sequence using pointer) Tj
+ET
+BT
+/F1 8.5 Tf
+72 769.5 Td
+(arithmetic and strstr\(\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 743.5 Td
+(Q22. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 743.5 Td
+(Explain the restrict type qualifier in C99, detailing compiler pointer aliasing assumptions and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 733 Td
+(optimization opportunities.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 707 Td
+(Q23. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 707 Td
+(Write an ANSI C program to strip leading and trailing whitespace from a string in-place using) Tj
+ET
+BT
+/F1 8.5 Tf
+72 696.5 Td
+(pointer manipulation.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 670.5 Td
+(Q24. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 670.5 Td
+(Explain pointer-to-pointer indirection mechanics, demonstrating how a function can modify the) Tj
+ET
+BT
+/F1 8.5 Tf
+72 660 Td
+(caller's pointer address.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 634 Td
+(Q25. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 634 Td
+(Write an ANSI C program to sort an array of strings alphabetically using qsort\(\) and pointer) Tj
+ET
+BT
+/F1 8.5 Tf
+72 623.5 Td
+(comparison callbacks.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 597.5 Td
+(Q26. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 597.5 Td
+(Explain AddressSanitizer \(ASan\) and Valgrind tools for detecting C pointer corruption, memory) Tj
+ET
+BT
+/F1 8.5 Tf
+72 587 Td
+(leaks, and out-of-bounds errors.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 561 Td
+(Q27. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 561 Td
+(Write an ANSI C program to concatenate two strings dynamically without using strcat\(\) or standard) Tj
+ET
+BT
+/F1 8.5 Tf
+72 550.5 Td
+(library functions.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 524.5 Td
+(Q28. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 524.5 Td
+(Explain pointer type casting and aliasing rules, detailing strict aliasing violations and the) Tj
+ET
+BT
+/F1 8.5 Tf
+72 514 Td
+(char* exception in ANSI C.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 488 Td
+(Q29. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 488 Td
+(Write an ANSI C program to implement a generic memory swap function using void* and memcpy\(\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 451.5 Td
+(Q30. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 451.5 Td
+(Write an ANSI C program to tokenize and extract sequence metadata from a Multi-FASTA file header) Tj
+ET
+BT
+/F1 8.5 Tf
+72 441 Td
+(string.) Tj
+ET
+
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 24 0 R /Resources << /Font << /F1 79 0 R /F2 80 0 R >> >> >>
+endobj
+24 0 obj
+<< /Length 8424 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 5: POINTERS, DYNAMIC MEMORY & STRINGS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 11 of 38) Tj
+ET
+BT
+/F2 11 Tf
+45 780 Td
+(SECTION C: ANSWER KEY - MULTIPLE CHOICE QUESTIONS) Tj
+ET
+0.5 w
+45 772 m 550 772 l S
+BT
+/F2 8.5 Tf
+45 750 Td
+(Q1: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 734 Td
+(Q2: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 718 Td
+(Q3: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 702 Td
+(Q4: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 686 Td
+(Q5: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 670 Td
+(Q6: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 654 Td
+(Q7: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 638 Td
+(Q8: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 622 Td
+(Q9: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 606 Td
+(Q10: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 590 Td
+(Q11: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 574 Td
+(Q12: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 558 Td
+(Q13: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 542 Td
+(Q14: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 526 Td
+(Q15: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 510 Td
+(Q16: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 494 Td
+(Q17: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 478 Td
+(Q18: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 462 Td
+(Q19: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 446 Td
+(Q20: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 446 Td
+([A]) Tj
+ET
+0.2 w
+135 755 m 135 425 l S
+BT
+/F2 8.5 Tf
+145 750 Td
+(Q21: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 734 Td
+(Q22: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 718 Td
+(Q23: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 702 Td
+(Q24: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 686 Td
+(Q25: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 670 Td
+(Q26: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 654 Td
+(Q27: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 638 Td
+(Q28: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 622 Td
+(Q29: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 606 Td
+(Q30: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 590 Td
+(Q31: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 574 Td
+(Q32: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 558 Td
+(Q33: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 542 Td
+(Q34: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 526 Td
+(Q35: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 510 Td
+(Q36: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 494 Td
+(Q37: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 478 Td
+(Q38: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 462 Td
+(Q39: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 446 Td
+(Q40: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 446 Td
+([A]) Tj
+ET
+0.2 w
+235 755 m 235 425 l S
+BT
+/F2 8.5 Tf
+245 750 Td
+(Q41: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 734 Td
+(Q42: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 718 Td
+(Q43: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 702 Td
+(Q44: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 686 Td
+(Q45: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 670 Td
+(Q46: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 654 Td
+(Q47: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 638 Td
+(Q48: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 622 Td
+(Q49: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 606 Td
+(Q50: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 590 Td
+(Q51: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 574 Td
+(Q52: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 558 Td
+(Q53: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 542 Td
+(Q54: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 526 Td
+(Q55: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 510 Td
+(Q56: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 494 Td
+(Q57: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 478 Td
+(Q58: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 462 Td
+(Q59: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 446 Td
+(Q60: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 446 Td
+([A]) Tj
+ET
+0.2 w
+335 755 m 335 425 l S
+BT
+/F2 8.5 Tf
+345 750 Td
+(Q61: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 734 Td
+(Q62: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 718 Td
+(Q63: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 702 Td
+(Q64: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 686 Td
+(Q65: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 670 Td
+(Q66: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 654 Td
+(Q67: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 638 Td
+(Q68: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 622 Td
+(Q69: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 606 Td
+(Q70: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 590 Td
+(Q71: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 574 Td
+(Q72: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 558 Td
+(Q73: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 542 Td
+(Q74: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 526 Td
+(Q75: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 510 Td
+(Q76: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 494 Td
+(Q77: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 478 Td
+(Q78: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 462 Td
+(Q79: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 446 Td
+(Q80: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 446 Td
+([A]) Tj
+ET
+0.2 w
+435 755 m 435 425 l S
+BT
+/F2 8.5 Tf
+445 750 Td
+(Q81: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 734 Td
+(Q82: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 718 Td
+(Q83: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 702 Td
+(Q84: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 686 Td
+(Q85: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 670 Td
+(Q86: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 654 Td
+(Q87: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 638 Td
+(Q88: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 622 Td
+(Q89: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 606 Td
+(Q90: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 590 Td
+(Q91: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 574 Td
+(Q92: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 558 Td
+(Q93: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 558 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 542 Td
+(Q94: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 526 Td
+(Q95: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 510 Td
+(Q96: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 494 Td
+(Q97: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 478 Td
+(Q98: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 462 Td
+(Q99: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 446 Td
+(Q100: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 446 Td
+([A]) Tj
+ET
+0.5 w
+45 400 m 550 400 l 550 340 l 45 340 l s
+BT
+/F2 9 Tf
+55 382 Td
+(MCQ Scoring Guide & Difficulty Distribution:) Tj
+ET
+BT
+/F1 8.5 Tf
+55 366 Td
+(Questions 1 to 40: Foundational & Conceptual [Easy] | Questions 41 to 75: Analytical & Applied [Moderate]) Tj
+ET
+BT
+/F1 8.5 Tf
+55 350 Td
+(Questions 76 to 100: Complex Numerical & Advanced Problem Solving [Difficult]) Tj
+ET
+
+endstream
+endobj
+25 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 26 0 R /Resources << /Font << /F1 79 0 R /F2 80 0 R >> >> >>
+endobj
+26 0 obj
+<< /Length 3205 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 5: POINTERS, DYNAMIC MEMORY & STRINGS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 12 of 38) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(SECTION D: DETAILED SOLUTIONS FOR SUBJECTIVE QUESTIONS) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(================================================================================) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 1:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Pointer Fundamentals in C, detailing address-of \(&\) and indirection \(*\) operators, pointer sizing, and physical memory addressing.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Pointer Fundamentals and Architecture in C:) Tj
+T*
+(   1. Definition and Physical Architecture:) Tj
+T*
+(   - A pointer is a variable whose stored value is the physical or virtual memory address of) Tj
+T*
+(   another variable.) Tj
+T*
+(   - Pointers provide direct access to microprocessor memory registers and system RAM.) Tj
+T*
+() Tj
+T*
+(   2. Fundamental Operators:) Tj
+T*
+(   - Address-Of Operator \(&\): Unary operator that returns the memory address of an lvalue operand.) Tj
+T*
+(   int x = 42;) Tj
+T*
+(   int *ptr = &x; /* ptr receives address of x \(e.g., 0x7ffd10\) */) Tj
+T*
+(   - Indirection / Dereferencing Operator \(*\): Accesses or mutates the value located at the) Tj
+T*
+(   address held by the pointer.) Tj
+T*
+(   *ptr = 99; /* Writes 99 directly into variable x's memory */) Tj
+T*
+() Tj
+T*
+(   3. Uniform Pointer Sizing:) Tj
+T*
+(   - Rule: Regardless of the data type pointed to \(char, int, double, struct\), a pointer variable) Tj
+T*
+(   ALWAYS occupies the exact same memory width required to hold an architecture address!) Tj
+T*
+(   - 32-bit Architecture \(x86\): 32-bit address bus -> sizeof\(any_pointer\) = 4 bytes.) Tj
+T*
+(   - 64-bit Architecture \(x86-64\): 64-bit address bus -> sizeof\(any_pointer\) = 8 bytes.) Tj
+T*
+(   - sizeof\(char*\) == sizeof\(int*\) == sizeof\(double*\) == sizeof\(void*\) == 8 bytes \(on 64-bit\).) Tj
+T*
+() Tj
+T*
+(   4. Complete ANSI C Demonstration Program:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   char c = 'A';) Tj
+T*
+(   int i = 100;) Tj
+T*
+(   double d = 3.14159;) Tj
+T*
+() Tj
+T*
+(   char *pc = &c;) Tj
+T*
+(   int *pi = &i;) Tj
+T*
+(   double *pd = &d;) Tj
+T*
+() Tj
+T*
+(   printf\("=== Memory Footprint of Pointers \(64-bit ABI\) ===\\n"\);) Tj
+T*
+(   printf\("sizeof\(char*\): %zu bytes | Points to %zu-byte char at %p\\n", sizeof\(pc\), sizeof\(*pc\),) Tj
+T*
+(   \(void *\)pc\);) Tj
+T*
+(   printf\("sizeof\(int*\): %zu bytes | Points to %zu-byte int at %p\\n", sizeof\(pi\), sizeof\(*pi\),) Tj
+T*
+(   \(void *\)pi\);) Tj
+T*
+(   printf\("sizeof\(double*\): %zu bytes | Points to %zu-byte double at %p\\n", sizeof\(pd\),) Tj
+T*
+(   sizeof\(*pd\), \(void *\)pd\);) Tj
+T*
+() Tj
+T*
+(   /* Dereferencing mutation */) Tj
+T*
+(   *pi = 500;) Tj
+T*
+(   printf\("Value of integer 'i' after pointer mutation: %d\\n", i\);) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+27 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 28 0 R /Resources << /Font << /F1 79 0 R /F2 80 0 R >> >> >>
+endobj
+28 0 obj
+<< /Length 3210 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 5: POINTERS, DYNAMIC MEMORY & STRINGS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 13 of 38) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 2:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Detail Pointer Arithmetic rules in C, explaining scaling by sizeof\(*ptr\), pointer difference \(ptrdiff_t\), and illegal operations.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Pointer Arithmetic Mechanics in C:) Tj
+T*
+(   1. The Scaling Principle:) Tj
+T*
+(   Pointer arithmetic does NOT advance by raw bytes! It advances by WHOLE ELEMENTS based on the) Tj
+T*
+(   byte footprint of the pointed type:) Tj
+T*
+(   Formula: ptr + n = RawAddress + \(n * sizeof\(*ptr\)\)) Tj
+T*
+(   - If int *p = 1000 and sizeof\(int\) = 4:) Tj
+T*
+(   p + 1 evaluates to memory address 1004.) Tj
+T*
+(   p + 3 evaluates to memory address 1012.) Tj
+T*
+(   - If double *dp = 2000 and sizeof\(double\) = 8:) Tj
+T*
+(   dp + 1 evaluates to memory address 2008.) Tj
+T*
+() Tj
+T*
+(   2. Pointer Subtraction \(ptrdiff_t\):) Tj
+T*
+(   - Subtracting two pointers pointing to elements within the same array computes the distance in) Tj
+T*
+(   NUMBER OF ELEMENTS between them:) Tj
+T*
+(   ptrdiff_t distance = p2 - p1;) Tj
+T*
+(   Formula: \(Address\(p2\) - Address\(p1\)\) / sizeof\(*p1\).) Tj
+T*
+(   - Defined in <stddef.h>, printed using %td.) Tj
+T*
+() Tj
+T*
+(   3. Strict Rules: Legal vs Illegal Operations:) Tj
+T*
+(   - Legal Operations:) Tj
+T*
+(   a. Adding an integer to a pointer: ptr + n) Tj
+T*
+(   b. Subtracting an integer from a pointer: ptr - n) Tj
+T*
+(   c. Subtracting two pointers of the exact same type: ptr2 - ptr1) Tj
+T*
+(   d. Comparing two pointers \(<, <=, >, >=, ==, !=\) within the same array object.) Tj
+T*
+(   - Strictly Illegal Operations \(Cause compilation errors\):) Tj
+T*
+(   a. Adding two pointers \(ptr1 + ptr2 is meaningless in physics/logic\).) Tj
+T*
+(   b. Multiplying, dividing, or modulo between pointers.) Tj
+T*
+(   c. Bitwise operations \(&, |, ^, ~, <<, >>\) directly on pointer variables.) Tj
+T*
+() Tj
+T*
+(   4. Demonstrative ANSI C Program:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <stddef.h>) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   int buffer[8] = {10, 20, 30, 40, 50, 60, 70, 80};) Tj
+T*
+(   int *p_start = &buffer[1]; /* Points to 20 */) Tj
+T*
+(   int *p_end = &buffer[6]; /* Points to 70 */) Tj
+T*
+() Tj
+T*
+(   ptrdiff_t diff = p_end - p_start;) Tj
+T*
+(   printf\("p_start address: %p | Val: %d\\n", \(void *\)p_start, *p_start\);) Tj
+T*
+(   printf\("p_end address: %p | Val: %d\\n", \(void *\)p_end, *p_end\);) Tj
+T*
+(   printf\("Distance in elements \(p_end - p_start\): %td elements\\n", diff\);) Tj
+T*
+(   printf\("Raw byte span: %td bytes\\n", \(char *\)p_end - \(char *\)p_start\);) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+29 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 30 0 R /Resources << /Font << /F1 79 0 R /F2 80 0 R >> >> >>
+endobj
+30 0 obj
+<< /Length 3250 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 5: POINTERS, DYNAMIC MEMORY & STRINGS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 14 of 38) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 3:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the equivalence between Arrays and Pointers in C, detailing array decay, ptr[i] vs *\(ptr + i\), and the 2[arr] curiosity.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Equivalence of Arrays and Pointers in C:) Tj
+T*
+(   1. The Array Decay Invariant:) Tj
+T*
+(   In almost all expression contexts, an array identifier automatically decays into a constant) Tj
+T*
+(   pointer to its first element \(&arr[0]\).) Tj
+T*
+(   \(Exceptions: when used as operand to sizeof, unary &, or string literal initializer\).) Tj
+T*
+() Tj
+T*
+(   2. The Subscript Equivalence Axiom:) Tj
+T*
+(   In ANSI C, the square bracket array subscript operator is defined strictly as syntactic sugar) Tj
+T*
+(   for pointer arithmetic:) Tj
+T*
+(   E1[E2] is syntactically identical to: *\(\(E1\) + \(E2\)\)) Tj
+T*
+(   - arr[i] == *\(arr + i\)) Tj
+T*
+(   - Pointer can be indexed like an array:) Tj
+T*
+(   int *p = arr;) Tj
+T*
+(   p[3] == *\(p + 3\) == arr[3].) Tj
+T*
+() Tj
+T*
+(   3. The 2[arr] Syntactical Curiosity:) Tj
+T*
+(   Because mathematical addition \(+\) is commutative:) Tj
+T*
+(   *\(arr + 2\) == *\(2 + arr\)) Tj
+T*
+(   Applying the definition of subscripting in reverse:) Tj
+T*
+(   *\(2 + arr\) == 2[arr]!) Tj
+T*
+(   Writing 2[arr] is 100% valid ANSI C code and produces the exact same element as arr[2]!) Tj
+T*
+() Tj
+T*
+(   4. Demonstrative ANSI C Program:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   int primers[5] = {100, 200, 300, 400, 500};) Tj
+T*
+(   int *ptr = primers;) Tj
+T*
+() Tj
+T*
+(   printf\("Standard Subscript arr[2]: %d\\n", primers[2]\);) Tj
+T*
+(   printf\("Pointer Dereference *\(arr + 2\): %d\\n", *\(primers + 2\)\);) Tj
+T*
+(   printf\("Pointer Subscript ptr[2]: %d\\n", ptr[2]\);) Tj
+T*
+(   printf\("Commutative Subscript 2[arr]: %d \(Valid ANSI C!\)\\n", 2[primers]\);) Tj
+T*
+(   printf\("Commutative Subscript 2[ptr]: %d\\n", 2[ptr]\);) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 4:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Pointer Classification: Wild Pointers, NULL Pointers, Dangling Pointers, and Void Pointers with prevention strategies.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Classification of Pointers in C:) Tj
+T*
+(   1. Wild Pointer:) Tj
+T*
+(   - Definition: A pointer variable that has been declared but never initialized.) Tj
+T*
+(   int *p; /* Uninitialized: contains random stack garbage bits */) Tj
+T*
+(   - Hazard: Dereferencing *p accesses arbitrary memory addresses, causing immediate segmentation) Tj
+T*
+(   faults or corrupting unrelated variables.) Tj
+T*
+(   - Prevention: Always initialize pointers upon declaration: int *p = NULL;) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+31 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 32 0 R /Resources << /Font << /F1 79 0 R /F2 80 0 R >> >> >>
+endobj
+32 0 obj
+<< /Length 3748 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 5: POINTERS, DYNAMIC MEMORY & STRINGS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 15 of 38) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   2. NULL Pointer:) Tj
+T*
+(   - Definition: A pointer explicitly assigned the constant value NULL \(\(void*\)0\).) Tj
+T*
+(   - Guarantee: Standard guarantees NULL points to an invalid address that cannot be dereferenced) Tj
+T*
+(   by any user program.) Tj
+T*
+(   - Purpose: Serves as a defensive sentinel indicating 'points to nothing' or 'allocation) Tj
+T*
+(   failed'.) Tj
+T*
+() Tj
+T*
+(   3. Dangling Pointer:) Tj
+T*
+(   - Definition: A pointer that continues referencing a memory location after the storage has been) Tj
+T*
+(   released or destroyed.) Tj
+T*
+(   Occurs when:) Tj
+T*
+(   a. Calling free\(ptr\) without resetting ptr to NULL.) Tj
+T*
+(   b. Returning the address of a local stack variable from a function.) Tj
+T*
+(   - Hazard: 'Use-After-Free' security exploit. Memory may be reallocated to another process) Tj
+T*
+(   component; reading/writing it causes severe data corruption.) Tj
+T*
+(   - Prevention: Immediately set pointer to NULL after freeing: free\(p\); p = NULL;) Tj
+T*
+() Tj
+T*
+(   4. Void Pointer \(Generic Pointer void*\):) Tj
+T*
+(   - Definition: A pointer that represents a raw memory address without any associated data type.) Tj
+T*
+(   - Properties: Can hold address of any type \(int*, double*, struct*\).) Tj
+T*
+(   - Dereference Restriction: CANNOT be dereferenced directly without explicit casting: *\(int*\)vp.) Tj
+T*
+(   - Arithmetic Restriction: Standard C forbids pointer arithmetic on void* \(since sizeof\(void\) is) Tj
+T*
+(   incomplete\). Used extensively in malloc, qsort, and memcpy.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 5:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Contrast Pointers to Constants vs Constant Pointers vs Constant Pointers to Constants with syntax and code examples.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   const Pointers: The Three Placement Variations:) Tj
+T*
+(   The placement of the 'const' keyword relative to the asterisk \(*\) determines whether the) Tj
+T*
+(   pointed-to data, the pointer itself, or both are immutable:) Tj
+T*
+() Tj
+T*
+(   1. Pointer to Constant Data \(const Type *ptr or Type const *ptr\):) Tj
+T*
+(   - Rule: The memory data pointed to is read-only. The pointer variable itself can be changed to) Tj
+T*
+(   point to another address.) Tj
+T*
+(   - Memory Mutability: *ptr = 20; -> COMPILATION ERROR!) Tj
+T*
+(   - Pointer Mutability: ptr = &other; -> LEGAL!) Tj
+T*
+(   - Idiom: Used for read-only function parameters: void print_str\(const char *s\);) Tj
+T*
+() Tj
+T*
+(   2. Constant Pointer to Mutable Data \(Type * const ptr\):) Tj
+T*
+(   - Rule: The pointer variable itself is immutable \(locked to a specific address\). The data at) Tj
+T*
+(   that address can be freely modified.) Tj
+T*
+(   - Pointer Mutability: ptr = &other; -> COMPILATION ERROR!) Tj
+T*
+(   - Memory Mutability: *ptr = 20; -> LEGAL!) Tj
+T*
+(   - Mandatory Requirement: Must be initialized immediately upon declaration!) Tj
+T*
+() Tj
+T*
+(   3. Constant Pointer to Constant Data \(const Type * const ptr\):) Tj
+T*
+(   - Rule: Neither the pointer address nor the pointed-to data can be modified.) Tj
+T*
+(   - Memory Mutability: *ptr = 20; -> COMPILATION ERROR!) Tj
+T*
+(   - Pointer Mutability: ptr = &other; -> COMPILATION ERROR!) Tj
+T*
+() Tj
+T*
+(   4. Demonstrative ANSI C Program:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+ET
+
+endstream
+endobj
+33 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 34 0 R /Resources << /Font << /F1 79 0 R /F2 80 0 R >> >> >>
+endobj
+34 0 obj
+<< /Length 3009 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 5: POINTERS, DYNAMIC MEMORY & STRINGS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 16 of 38) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   int a = 10, b = 20;) Tj
+T*
+() Tj
+T*
+(   /* 1. Pointer to constant data */) Tj
+T*
+(   const int *p1 = &a;) Tj
+T*
+(   p1 = &b; /* LEGAL: Pointer can re-bind */) Tj
+T*
+(   /* *p1 = 99; */ /* ILLEGAL: Data is read-only */) Tj
+T*
+() Tj
+T*
+(   /* 2. Constant pointer */) Tj
+T*
+(   int * const p2 = &a;) Tj
+T*
+(   *p2 = 99; /* LEGAL: Data is mutable */) Tj
+T*
+(   /* p2 = &b; */ /* ILLEGAL: Pointer cannot re-bind */) Tj
+T*
+() Tj
+T*
+(   /* 3. Constant pointer to constant data */) Tj
+T*
+(   const int * const p3 = &a;) Tj
+T*
+(   /* *p3 = 50; */ /* ILLEGAL */) Tj
+T*
+(   /* p3 = &b; */ /* ILLEGAL */) Tj
+T*
+() Tj
+T*
+(   printf\("Const pointer demonstrations verified.\\n"\);) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 6:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Detail Dynamic Memory Allocation functions: malloc\(\), calloc\(\), realloc\(\), and free\(\), explaining heap internals and failure handling.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Dynamic Memory Allocation Architecture in C:) Tj
+T*
+(   1. Heap Memory Segment:) Tj
+T*
+(   Dynamic memory is allocated on the Heap, an unorganized pool of memory managed by the operating) Tj
+T*
+(   system kernel and runtime allocator \(ptmalloc, jemalloc\). Memory persists until explicitly) Tj
+T*
+(   deallocated.) Tj
+T*
+() Tj
+T*
+(   2. Allocation Functions Breakdown:) Tj
+T*
+(   a. malloc\(size_t size\):) Tj
+T*
+(   - Allocates 'size' contiguous bytes of uninitialized memory.) Tj
+T*
+(   - Returns void* pointer to base address, or NULL on allocation failure.) Tj
+T*
+(   - Data contains indeterminate garbage bits.) Tj
+T*
+(   b. calloc\(size_t num, size_t size\):) Tj
+T*
+(   - Allocates contiguous array of 'num' elements of 'size' bytes each.) Tj
+T*
+(   - Guarantees ALL bytes are initialized to zero \(0\).) Tj
+T*
+(   - Prevents integer overflow: checks if num * size wraps around.) Tj
+T*
+(   c. realloc\(void *ptr, size_t new_size\):) Tj
+T*
+(   - Resizes previously allocated block.) Tj
+T*
+(   - If possible, expands block in-place. If contiguous space is blocked, allocates a new block) Tj
+T*
+(   elsewhere, copies existing bytes, frees old block, and returns new address.) Tj
+T*
+(   - Critical Rule: If realloc fails, it returns NULL BUT LEAVES ORIGINAL BLOCK INTACT!) Tj
+T*
+(   d. free\(void *ptr\):) Tj
+T*
+(   - Returns heap block to allocator free list. Passing NULL is safe \(no-op\).) Tj
+T*
+() Tj
+T*
+(   3. Complete Defensive Allocation Program:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <stdlib.h>) Tj
+T*
+ET
+
+endstream
+endobj
+35 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 36 0 R /Resources << /Font << /F1 79 0 R /F2 80 0 R >> >> >>
+endobj
+36 0 obj
+<< /Length 2844 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 5: POINTERS, DYNAMIC MEMORY & STRINGS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 17 of 38) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   int initial_cap = 5;) Tj
+T*
+(   int expanded_cap = 10;) Tj
+T*
+() Tj
+T*
+(   /* 1. Allocate initial zeroed array */) Tj
+T*
+(   int *gene_ids = \(int *\)calloc\(initial_cap, sizeof\(int\)\);) Tj
+T*
+(   if \(gene_ids == NULL\) {) Tj
+T*
+(   fprintf\(stderr, "Error: Heap allocation failed!\\n"\);) Tj
+T*
+(   return EXIT_FAILURE;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   for \(int i = 0; i < initial_cap; i++\) gene_ids[i] = \(i + 1\) * 100;) Tj
+T*
+() Tj
+T*
+(   /* 2. Defensive reallocation using temporary pointer */) Tj
+T*
+(   int *temp = \(int *\)realloc\(gene_ids, expanded_cap * sizeof\(int\)\);) Tj
+T*
+(   if \(temp == NULL\) {) Tj
+T*
+(   fprintf\(stderr, "Error: Reallocation failed, preserving original block.\\n"\);) Tj
+T*
+(   free\(gene_ids\);) Tj
+T*
+(   return EXIT_FAILURE;) Tj
+T*
+(   }) Tj
+T*
+(   gene_ids = temp; /* Safe update */) Tj
+T*
+() Tj
+T*
+(   for \(int i = initial_cap; i < expanded_cap; i++\) gene_ids[i] = \(i + 1\) * 100;) Tj
+T*
+() Tj
+T*
+(   printf\("Dynamically expanded array \(%d elements\): ", expanded_cap\);) Tj
+T*
+(   for \(int i = 0; i < expanded_cap; i++\) printf\("%d ", gene_ids[i]\);) Tj
+T*
+(   printf\("\\n"\);) Tj
+T*
+() Tj
+T*
+(   /* 3. Deallocate and nullify dangling pointer */) Tj
+T*
+(   free\(gene_ids\);) Tj
+T*
+(   gene_ids = NULL;) Tj
+T*
+() Tj
+T*
+(   return EXIT_SUCCESS;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 7:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to allocate, populate, and deallocate a dynamic 2D array \(matrix\) using pointers to pointers \(int **\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Dynamic 2D Array Allocation Using Double Pointers:) Tj
+T*
+(   1. Structural Concept:) Tj
+T*
+(   A dynamic 2D array can be structured as an array of pointers \(rows\), where each pointer) Tj
+T*
+(   addresses an independently allocated 1D array of elements \(columns\).) Tj
+T*
+(   - mat: Pointer to pointer \(int **\).) Tj
+T*
+(   - mat[i]: Pointer to row 'i' \(int *\).) Tj
+T*
+(   - mat[i][j]: The actual integer element at row i, col j \(*\(*\(mat + i\) + j\)\).) Tj
+T*
+() Tj
+T*
+(   2. Step-by-Step Allocation Algorithm:) Tj
+T*
+(   Step 1: Allocate array of row pointers:) Tj
+T*
+(   mat = \(int **\)malloc\(rows * sizeof\(int *\)\);) Tj
+T*
+(   Step 2: For each row i, allocate column buffer:) Tj
+T*
+(   mat[i] = \(int *\)malloc\(cols * sizeof\(int\)\);) Tj
+T*
+ET
+
+endstream
+endobj
+37 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 38 0 R /Resources << /Font << /F1 79 0 R /F2 80 0 R >> >> >>
+endobj
+38 0 obj
+<< /Length 2260 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 5: POINTERS, DYNAMIC MEMORY & STRINGS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 18 of 38) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   3. Proper Deallocation Sequence:) Tj
+T*
+(   Crucial Rule: MUST FREE IN STRICT REVERSE ORDER OF ALLOCATION!) Tj
+T*
+(   Step 1: Loop through each row and free row buffer: free\(mat[i]\);) Tj
+T*
+(   Step 2: Free the top-level pointer array: free\(mat\);) Tj
+T*
+(   If free\(mat\) is executed first, pointers to row buffers are lost, permanently leaking heap) Tj
+T*
+(   memory!) Tj
+T*
+() Tj
+T*
+(   4. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <stdlib.h>) Tj
+T*
+() Tj
+T*
+(   int **create_matrix\(int rows, int cols\) {) Tj
+T*
+(   int **mat = \(int **\)malloc\(rows * sizeof\(int *\)\);) Tj
+T*
+(   if \(!mat\) return NULL;) Tj
+T*
+() Tj
+T*
+(   for \(int i = 0; i < rows; i++\) {) Tj
+T*
+(   mat[i] = \(int *\)malloc\(cols * sizeof\(int\)\);) Tj
+T*
+(   if \(!mat[i]\) {) Tj
+T*
+(   /* Rollback previously allocated rows on failure */) Tj
+T*
+(   for \(int k = 0; k < i; k++\) free\(mat[k]\);) Tj
+T*
+(   free\(mat\);) Tj
+T*
+(   return NULL;) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+(   return mat;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   void destroy_matrix\(int **mat, int rows\) {) Tj
+T*
+(   if \(!mat\) return;) Tj
+T*
+(   for \(int i = 0; i < rows; i++\) {) Tj
+T*
+(   free\(mat[i]\); /* Free individual column arrays */) Tj
+T*
+(   }) Tj
+T*
+(   free\(mat\); /* Free row pointer array */) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   int r = 3, c = 4;) Tj
+T*
+(   int **grid = create_matrix\(r, c\);) Tj
+T*
+(   if \(!grid\) return 1;) Tj
+T*
+() Tj
+T*
+(   /* Populate matrix */) Tj
+T*
+(   for \(int i = 0; i < r; i++\) {) Tj
+T*
+(   for \(int j = 0; j < c; j++\) grid[i][j] = \(i + 1\) * 10 + j;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   printf\("Dynamic 2D Matrix Content:\\n"\);) Tj
+T*
+(   for \(int i = 0; i < r; i++\) {) Tj
+T*
+(   for \(int j = 0; j < c; j++\) printf\("%4d ", grid[i][j]\);) Tj
+T*
+(   printf\("\\n"\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   destroy_matrix\(grid, r\);) Tj
+T*
+(   grid = NULL;) Tj
+T*
+ET
+
+endstream
+endobj
+39 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 40 0 R /Resources << /Font << /F1 79 0 R /F2 80 0 R >> >> >>
+endobj
+40 0 obj
+<< /Length 3278 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 5: POINTERS, DYNAMIC MEMORY & STRINGS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 19 of 38) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   printf\("Matrix successfully freed without memory leaks.\\n"\);) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 8:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Strings in C, contrasting string literals vs character arrays, null termination \('\\0'\), and string literal immutability.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Strings in C: Representation, Storage, and Immutability:) Tj
+T*
+(   1. Language Definition:) Tj
+T*
+(   In ANSI C, there is NO primitive 'string' data type.) Tj
+T*
+(   A string is formally defined as a contiguous array of characters terminated by a null character) Tj
+T*
+(   \('\\0', byte value 0\).) Tj
+T*
+() Tj
+T*
+(   2. String Literals vs Character Arrays:) Tj
+T*
+(   - String Literal: char *str = "Biotech";) Tj
+T*
+(   - Storage Location: Read-Only Data Segment \(.rodata / Text segment\).) Tj
+T*
+(   - Immutability: Memory is marked read-only by the OS MMU.) Tj
+T*
+(   - Attempting to modify str[0] = 'b'; triggers a segmentation fault \(SIGSEGV\)!) Tj
+T*
+(   - Character Array: char arr[] = "Biotech";) Tj
+T*
+(   - Storage Location: Stack Frame \(or Data segment if global\).) Tj
+T*
+(   - Initialization: The compiler allocates an 8-byte array on the stack and copies the characters) Tj
+T*
+(   'B','i','o','t','e','c','h','\\0' into it.) Tj
+T*
+(   - Mutability: Fully mutable! arr[0] = 'b'; executes safely.) Tj
+T*
+() Tj
+T*
+(   3. The Role of the Null Terminator \('\\0'\):) Tj
+T*
+(   Because character arrays carry no length metadata, all standard string processing functions) Tj
+T*
+(   \(strlen, strcpy, printf %s\) iterate sequentially until encountering '\\0'.) Tj
+T*
+(   If a string buffer lacks '\\0', functions run off the end into unallocated memory, causing) Tj
+T*
+(   buffer overflows or crashes.) Tj
+T*
+() Tj
+T*
+(   4. Demonstrative ANSI C Program:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   /* Mutable Stack Array */) Tj
+T*
+(   char sequence_array[] = "ATGC";) Tj
+T*
+(   sequence_array[0] = 'C'; /* Completely legal */) Tj
+T*
+(   printf\("Modified stack string: %s \(Length: 4\)\\n", sequence_array\);) Tj
+T*
+() Tj
+T*
+(   /* Immutable String Literal */) Tj
+T*
+(   const char *sequence_literal = "ATGC";) Tj
+T*
+(   printf\("Read-only literal at %p: %s\\n", \(void *\)sequence_literal, sequence_literal\);) Tj
+T*
+(   /* sequence_literal[0] = 'C'; -> Triggers runtime hardware fault! */) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 9:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement custom versions of core string library functions without <string.h>: my_strlen, my_strcpy, my_strcmp, and my_strcat.) Tj
+T*
+ET
+
+endstream
+endobj
+41 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 42 0 R /Resources << /Font << /F1 79 0 R /F2 80 0 R >> >> >>
+endobj
+42 0 obj
+<< /Length 2451 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 5: POINTERS, DYNAMIC MEMORY & STRINGS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 20 of 38) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Custom Implementations of Core C String Functions:) Tj
+T*
+(   Writing standard string functions from scratch demonstrates fundamental pointer manipulation) Tj
+T*
+(   and null-termination mechanics:) Tj
+T*
+() Tj
+T*
+(   1. Custom String Length \(my_strlen\):) Tj
+T*
+(   size_t my_strlen\(const char *s\) {) Tj
+T*
+(   const char *p = s;) Tj
+T*
+(   while \(*p != '\\0'\) p++;) Tj
+T*
+(   return \(size_t\)\(p - s\); /* Pointer subtraction */) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   2. Custom String Copy \(my_strcpy\):) Tj
+T*
+(   char *my_strcpy\(char *dest, const char *src\) {) Tj
+T*
+(   char *orig_dest = dest;) Tj
+T*
+(   /* Idiomatic C: copies char, evaluates value, terminates when '\\0' is copied */) Tj
+T*
+(   while \(\(*dest++ = *src++\) != '\\0'\);) Tj
+T*
+(   return orig_dest;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   3. Custom String Comparison \(my_strcmp\):) Tj
+T*
+(   int my_strcmp\(const char *s1, const char *s2\) {) Tj
+T*
+(   while \(*s1 && \(*s1 == *s2\)\) {) Tj
+T*
+(   s1++;) Tj
+T*
+(   s2++;) Tj
+T*
+(   }) Tj
+T*
+(   /* Cast to unsigned char to prevent negative char sign-extension bugs */) Tj
+T*
+(   return \(int\)\(\(unsigned char\)*s1 - \(unsigned char\)*s2\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   4. Custom String Concatenation \(my_strcat\):) Tj
+T*
+(   char *my_strcat\(char *dest, const char *src\) {) Tj
+T*
+(   char *p = dest;) Tj
+T*
+(   while \(*p != '\\0'\) p++; /* Advance to null terminator of dest */) Tj
+T*
+(   while \(\(*p++ = *src++\) != '\\0'\); /* Append source */) Tj
+T*
+(   return dest;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   5. Complete Test Driver:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   char buf[64];) Tj
+T*
+(   my_strcpy\(buf, "Polymerase"\);) Tj
+T*
+(   printf\("my_strcpy: %s \(Length: %zu\)\\n", buf, my_strlen\(buf\)\);) Tj
+T*
+() Tj
+T*
+(   my_strcat\(buf, "_Chain_Reaction"\);) Tj
+T*
+(   printf\("my_strcat: %s\\n", buf\);) Tj
+T*
+() Tj
+T*
+(   int cmp = my_strcmp\("DNA", "RNA"\);) Tj
+T*
+(   printf\("my_strcmp\(\\"DNA\\", \\"RNA\\"\): %d \(Negative denotes DNA < RNA\)\\n", cmp\);) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+ET
+
+endstream
+endobj
+43 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 44 0 R /Resources << /Font << /F1 79 0 R /F2 80 0 R >> >> >>
+endobj
+44 0 obj
+<< /Length 2793 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 5: POINTERS, DYNAMIC MEMORY & STRINGS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 21 of 38) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 10:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to search a DNA genomic string for Restriction Endonuclease recognition motifs using strstr\(\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Restriction Endonuclease Recognition Site Scanner:) Tj
+T*
+(   1. Biological Application:) Tj
+T*
+(   Restriction enzymes are molecular scissors that cleave DNA at specific palindromic sequences.) Tj
+T*
+(   - EcoRI: Cleaves at 5'-GAATTC-3') Tj
+T*
+(   - BamHI: Cleaves at 5'-GGATCC-3') Tj
+T*
+(   - HindIII: Cleaves at 5'-AAGCTT-3') Tj
+T*
+(   Scanning an entire genomic sequence for these motifs identifies recombinant cloning junction) Tj
+T*
+(   sites.) Tj
+T*
+() Tj
+T*
+(   2. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <string.h>) Tj
+T*
+() Tj
+T*
+(   void find_restriction_sites\(const char *dna, const char *motif, const char *enzyme_name\) {) Tj
+T*
+(   const char *current_pos = dna;) Tj
+T*
+(   int count = 0;) Tj
+T*
+(   int motif_len = strlen\(motif\);) Tj
+T*
+() Tj
+T*
+(   printf\("Searching for %s Recognition Site [%s]...\\n", enzyme_name, motif\);) Tj
+T*
+() Tj
+T*
+(   while \(\(current_pos = strstr\(current_pos, motif\)\) != NULL\) {) Tj
+T*
+(   count++;) Tj
+T*
+(   int nucleotide_index = \(int\)\(current_pos - dna\) + 1;) Tj
+T*
+(   printf\(" -> Cleavage Site %d: Found at nucleotide coordinate %d\\n", count, nucleotide_index\);) Tj
+T*
+() Tj
+T*
+(   /* Advance past the start of the current match to search downstream */) Tj
+T*
+(   current_pos += motif_len;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   if \(count == 0\) {) Tj
+T*
+(   printf\(" -> No recognition motifs identified for %s.\\n", enzyme_name\);) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   const char *cloning_vector =) Tj
+T*
+(   "AGCTTTTCATTCTGAATTCGATCGATCGGATCCGTCGATCGAATTCGCGCGAAGCTTTT";) Tj
+T*
+() Tj
+T*
+(   printf\("=== Molecular Cloning Restriction Site Mapping ===\\n"\);) Tj
+T*
+(   printf\("Plasmid Vector Sequence Length: %zu bp\\n\\n", strlen\(cloning_vector\)\);) Tj
+T*
+() Tj
+T*
+(   find_restriction_sites\(cloning_vector, "GAATTC", "EcoRI"\);) Tj
+T*
+(   find_restriction_sites\(cloning_vector, "GGATCC", "BamHI"\);) Tj
+T*
+(   find_restriction_sites\(cloning_vector, "AAGCTT", "HindIII"\);) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+45 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 46 0 R /Resources << /Font << /F1 79 0 R /F2 80 0 R >> >> >>
+endobj
+46 0 obj
+<< /Length 3224 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 5: POINTERS, DYNAMIC MEMORY & STRINGS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 22 of 38) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 11:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain string tokenization using strtok\(\), detailing how delimiter replacement works, reentrancy limitations, and strtok_r\(\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   String Tokenization Mechanics: strtok\(\) vs strtok_r\(\):) Tj
+T*
+(   1. How strtok\(\) Operates:) Tj
+T*
+(   - Prototype: char *strtok\(char *str, const char *delim\);) Tj
+T*
+(   - Operation:) Tj
+T*
+(   a. On the first call, passes the source string 'str'.) Tj
+T*
+(   b. Scans for the first character not in 'delim' \(token start\).) Tj
+T*
+(   c. Scans for the next delimiter character and OVERWRITES IT WITH A NULL TERMINATOR \('\\0'\)!) Tj
+T*
+(   d. Saves its position internally in a hidden static pointer.) Tj
+T*
+(   e. Returns pointer to token start.) Tj
+T*
+(   - Subsequent Calls: Caller passes NULL as first argument \(strtok\(NULL, delim\)\) to continue) Tj
+T*
+(   tokenizing from the saved static position.) Tj
+T*
+(   - Destructive Mutation: strtok\(\) alters the original string in-place by writing '\\0' bytes!) Tj
+T*
+() Tj
+T*
+(   2. Reentrancy Hazard:) Tj
+T*
+(   Because the state pointer is stored in an internal static variable:) Tj
+T*
+(   - strtok\(\) CANNOT be used concurrently across multiple threads.) Tj
+T*
+(   - strtok\(\) CANNOT be nested \(e.g. tokenizing an outer line by tabs and inner fields by commas) Tj
+T*
+(   resets the static pointer!\).) Tj
+T*
+() Tj
+T*
+(   3. The Safe Alternative: strtok_r\(\) \(POSIX Reentrant\):) Tj
+T*
+(   - Prototype: char *strtok_r\(char *str, const char *delim, char **saveptr\);) Tj
+T*
+(   - Caller explicitly supplies the context pointer 'saveptr', maintaining state on caller's) Tj
+T*
+(   stack!) Tj
+T*
+() Tj
+T*
+(   4. Demonstrative ANSI C Program:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <string.h>) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   char fasta_header[] = ">sp|P01308|INS_HUMAN Insulin OS=Homo sapiens OX=9606";) Tj
+T*
+() Tj
+T*
+(   printf\("Original Header: %s\\n", fasta_header\);) Tj
+T*
+(   printf\("Parsing Pipe-Delimited Identifiers:\\n"\);) Tj
+T*
+() Tj
+T*
+(   char *token = strtok\(fasta_header, "| "\);) Tj
+T*
+(   int field = 1;) Tj
+T*
+(   while \(token != NULL\) {) Tj
+T*
+(   printf\("Field %d: \\"%s\\"\\n", field++, token\);) Tj
+T*
+(   token = strtok\(NULL, "| "\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 12:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Detail common Dynamic Memory Allocation bugs in C: Memory Leaks, Double Free, Use-After-Free, and Heap Buffer Overflows.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+ET
+
+endstream
+endobj
+47 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 48 0 R /Resources << /Font << /F1 79 0 R /F2 80 0 R >> >> >>
+endobj
+48 0 obj
+<< /Length 3102 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 5: POINTERS, DYNAMIC MEMORY & STRINGS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 23 of 38) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   The Four Critical Heap Memory Vulnerabilities in C:) Tj
+T*
+(   1. Memory Leak:) Tj
+T*
+(   - Cause: Allocating heap memory via malloc/calloc and allowing all pointers referencing that) Tj
+T*
+(   block to be overwritten or fall out of scope without calling free\(\).) Tj
+T*
+(   - Consequence: Heap memory grows monotonically, exhausting physical RAM and swap space,) Tj
+T*
+(   resulting in Out-Of-Memory \(OOM\) kernel panics.) Tj
+T*
+() Tj
+T*
+(   2. Double-Free Vulnerability:) Tj
+T*
+(   - Cause: Invoking free\(ptr\) twice on the exact same heap memory pointer without an intervening) Tj
+T*
+(   allocation.) Tj
+T*
+(   - Consequence: Corrupts the heap allocator's internal free-list bin metadata \(fastbins /) Tj
+T*
+(   tcache\), enabling arbitrary code execution exploits.) Tj
+T*
+() Tj
+T*
+(   3. Use-After-Free \(UAF\):) Tj
+T*
+(   - Cause: Accessing memory through a pointer after calling free\(ptr\).) Tj
+T*
+(   - Consequence: The deallocated memory may be reallocated to another object. Modifying the old) Tj
+T*
+(   pointer corrupts the new object's data or vtable pointers.) Tj
+T*
+() Tj
+T*
+(   4. Heap Buffer Overflow:) Tj
+T*
+(   - Cause: Writing more bytes into a dynamically allocated buffer than the requested allocation) Tj
+T*
+(   size.) Tj
+T*
+(   - Consequence: Overwrites heap metadata chunks and adjacent allocated objects, destroying heap) Tj
+T*
+(   consistency.) Tj
+T*
+() Tj
+T*
+(   5. Prevention Best-Practice Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <stdlib.h>) Tj
+T*
+() Tj
+T*
+(   void safe_deallocate\(void **ptr_ref\) {) Tj
+T*
+(   if \(ptr_ref != NULL && *ptr_ref != NULL\) {) Tj
+T*
+(   free\(*ptr_ref\);) Tj
+T*
+(   *ptr_ref = NULL; /* Nullifies dangling pointer */) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   int *buffer = \(int *\)malloc\(10 * sizeof\(int\)\);) Tj
+T*
+(   /* Safe deallocation macro / wrapper */) Tj
+T*
+(   safe_deallocate\(\(void **\)&buffer\);) Tj
+T*
+() Tj
+T*
+(   /* Second free is now completely safe \(free\(NULL\) is no-op\) */) Tj
+T*
+(   safe_deallocate\(\(void **\)&buffer\);) Tj
+T*
+(   printf\("Safely avoided double-free and dangling pointer traps.\\n"\);) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 13:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to dynamically allocate a variable-length DNA sequence buffer, dynamically resizing it using realloc\(\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Dynamic Genomic Buffer Expansion Using realloc\(\):) Tj
+T*
+(   1. Problem Statement:) Tj
+T*
+(   When reading long genomic sequences from a stream or sequencer, total base pair length is) Tj
+T*
+ET
+
+endstream
+endobj
+49 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 50 0 R /Resources << /Font << /F1 79 0 R /F2 80 0 R >> >> >>
+endobj
+50 0 obj
+<< /Length 2220 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 5: POINTERS, DYNAMIC MEMORY & STRINGS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 24 of 38) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   unknown upfront.) Tj
+T*
+(   Start with a modest buffer capacity. When capacity is reached, double the buffer size using) Tj
+T*
+(   realloc\(\) \(amortized O\(1\) growth strategy\).) Tj
+T*
+() Tj
+T*
+(   2. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <stdlib.h>) Tj
+T*
+() Tj
+T*
+(   #define INITIAL_CAPACITY 8) Tj
+T*
+() Tj
+T*
+(   typedef struct {) Tj
+T*
+(   char *data;) Tj
+T*
+(   size_t length;) Tj
+T*
+(   size_t capacity;) Tj
+T*
+(   } DynamicDnaBuffer;) Tj
+T*
+() Tj
+T*
+(   DynamicDnaBuffer *create_dna_buffer\(void\) {) Tj
+T*
+(   DynamicDnaBuffer *buf = \(DynamicDnaBuffer *\)malloc\(sizeof\(DynamicDnaBuffer\)\);) Tj
+T*
+(   if \(!buf\) return NULL;) Tj
+T*
+() Tj
+T*
+(   buf->data = \(char *\)malloc\(INITIAL_CAPACITY * sizeof\(char\)\);) Tj
+T*
+(   if \(!buf->data\) { free\(buf\); return NULL; }) Tj
+T*
+() Tj
+T*
+(   buf->length = 0;) Tj
+T*
+(   buf->capacity = INITIAL_CAPACITY;) Tj
+T*
+(   buf->data[0] = '\\0';) Tj
+T*
+(   return buf;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int append_base\(DynamicDnaBuffer *buf, char base\) {) Tj
+T*
+(   /* Check if capacity is reached \(reserve 1 byte for null terminator\) */) Tj
+T*
+(   if \(buf->length + 1 >= buf->capacity\) {) Tj
+T*
+(   size_t new_cap = buf->capacity * 2;) Tj
+T*
+(   char *temp = \(char *\)realloc\(buf->data, new_cap * sizeof\(char\)\);) Tj
+T*
+(   if \(!temp\) return -1; /* Allocation failed */) Tj
+T*
+() Tj
+T*
+(   buf->data = temp;) Tj
+T*
+(   buf->capacity = new_cap;) Tj
+T*
+(   printf\("[Buffer Growth]: Resized capacity to %zu bytes\\n", new_cap\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   buf->data[buf->length++] = base;) Tj
+T*
+(   buf->data[buf->length] = '\\0';) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   void free_dna_buffer\(DynamicDnaBuffer *buf\) {) Tj
+T*
+(   if \(buf\) {) Tj
+T*
+(   free\(buf->data\);) Tj
+T*
+(   free\(buf\);) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+ET
+
+endstream
+endobj
+51 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 52 0 R /Resources << /Font << /F1 79 0 R /F2 80 0 R >> >> >>
+endobj
+52 0 obj
+<< /Length 2700 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 5: POINTERS, DYNAMIC MEMORY & STRINGS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 25 of 38) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   DynamicDnaBuffer *stream = create_dna_buffer\(\);) Tj
+T*
+(   const char *simulated_stream = "ATGCGATCGATCGATCGCGCATATCGATCAGCTATCGAT";) Tj
+T*
+() Tj
+T*
+(   for \(int i = 0; simulated_stream[i] != '\\0'; i++\) {) Tj
+T*
+(   append_base\(stream, simulated_stream[i]\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   printf\("Final Sequence: %s\\n", stream->data\);) Tj
+T*
+(   printf\("Total Bases Captured: %zu | Final Buffer Capacity: %zu bytes\\n",) Tj
+T*
+(   stream->length, stream->capacity\);) Tj
+T*
+() Tj
+T*
+(   free_dna_buffer\(stream\);) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 14:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to parse Protein Data Bank \(PDB\) ATOM record coordinates using sscanf\(\) and pointer arithmetic.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Parsing PDB Structural Atom Coordinates in C:) Tj
+T*
+(   1. PDB Format Background:) Tj
+T*
+(   The Protein Data Bank \(PDB\) format records atomic spatial coordinates of macromolecules:) Tj
+T*
+(   Column specification for 'ATOM' records:) Tj
+T*
+(   Record Name \(1-4\), Atom Serial \(7-11\), Atom Name \(13-16\), Residue Name \(18-20\),) Tj
+T*
+(   Chain ID \(22\), Residue Seq \(23-26\), Orthogonal X \(31-38\), Y \(39-46\), Z \(47-54\).) Tj
+T*
+() Tj
+T*
+(   2. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <string.h>) Tj
+T*
+() Tj
+T*
+(   typedef struct {) Tj
+T*
+(   int atom_number;) Tj
+T*
+(   char atom_name[8];) Tj
+T*
+(   char res_name[8];) Tj
+T*
+(   char chain;) Tj
+T*
+(   int res_seq;) Tj
+T*
+(   double x, y, z;) Tj
+T*
+(   } PdbAtom;) Tj
+T*
+() Tj
+T*
+(   int parse_pdb_atom_line\(const char *line, PdbAtom *atom\) {) Tj
+T*
+(   if \(strncmp\(line, "ATOM", 4\) != 0\) return 0; /* Not an ATOM record */) Tj
+T*
+() Tj
+T*
+(   /* Extract using sscanf formatted field parsing */) Tj
+T*
+(   int matched = sscanf\(line, "ATOM %d %s %s %c %d %lf %lf %lf",) Tj
+T*
+(   &atom->atom_number, atom->atom_name, atom->res_name,) Tj
+T*
+(   &atom->chain, &atom->res_seq,) Tj
+T*
+(   &atom->x, &atom->y, &atom->z\);) Tj
+T*
+(   return \(matched == 8\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   const char *pdb_lines[] = {) Tj
+T*
+(   "ATOM 1 N MET A 1 27.340 24.430 2.614",) Tj
+T*
+ET
+
+endstream
+endobj
+53 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 54 0 R /Resources << /Font << /F1 79 0 R /F2 80 0 R >> >> >>
+endobj
+54 0 obj
+<< /Length 3015 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 5: POINTERS, DYNAMIC MEMORY & STRINGS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 26 of 38) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   "ATOM 2 CA MET A 1 26.266 25.413 2.842",) Tj
+T*
+(   "ATOM 3 C MET A 1 26.913 26.639 3.531",) Tj
+T*
+(   "HETATM 1001 O HOH A 101 30.120 15.400 12.110") Tj
+T*
+(   };) Tj
+T*
+(   int count = sizeof\(pdb_lines\) / sizeof\(pdb_lines[0]\);) Tj
+T*
+() Tj
+T*
+(   printf\("=== PDB Coordinate Parser ===\\n"\);) Tj
+T*
+(   for \(int i = 0; i < count; i++\) {) Tj
+T*
+(   PdbAtom atom;) Tj
+T*
+(   if \(parse_pdb_atom_line\(pdb_lines[i], &atom\)\) {) Tj
+T*
+(   printf\("Atom #%d [%-4s of %s %d-%c] -> X:%7.3f, Y:%7.3f, Z:%7.3f\\n",) Tj
+T*
+(   atom.atom_number, atom.atom_name, atom.res_name,) Tj
+T*
+(   atom.res_seq, atom.chain, atom.x, atom.y, atom.z\);) Tj
+T*
+(   } else {) Tj
+T*
+(   printf\("Skipping Non-ATOM record: %-20.20s...\\n", pdb_lines[i]\);) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 15:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the difference between memcpy\(\) and memmove\(\), detailing memory overlap handling and buffer safety.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Memory Copying: memcpy\(\) vs memmove\(\):) Tj
+T*
+(   1. Fundamental Prototypes \(<string.h>\):) Tj
+T*
+(   void *memcpy\(void *dest, const void *src, size_t n\);) Tj
+T*
+(   void *memmove\(void *dest, const void *src, size_t n\);) Tj
+T*
+() Tj
+T*
+(   2. Overlapping Memory Regions:) Tj
+T*
+(   - memcpy\(\): Assumes that source and destination memory buffers DO NOT OVERLAP in RAM.) Tj
+T*
+(   If buffers overlap \(e.g., dest = src + 2\), memcpy\(\) produces undefined behavior! On modern) Tj
+T*
+(   glibc x86-64, optimized SIMD/AVX instructions copy bytes out-of-order, corrupting data.) Tj
+T*
+(   - memmove\(\): GUARANTEES CORRECT COPYING EVEN IF SOURCE AND DESTINATION OVERLAP!) Tj
+T*
+(   Internally checks:) Tj
+T*
+(   If dest < src: Copies bytes forward \(from index 0 to n-1\).) Tj
+T*
+(   If dest > src: Copies bytes backward \(from index n-1 down to 0\).) Tj
+T*
+(   This guarantees no source byte is overwritten before being read!) Tj
+T*
+() Tj
+T*
+(   3. Code Demonstrating the Overlap Bug:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <string.h>) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   char str1[32] = "1234567890";) Tj
+T*
+(   char str2[32] = "1234567890";) Tj
+T*
+() Tj
+T*
+(   /* Overlapping shift: copy 6 bytes from index 2 to index 0 */) Tj
+T*
+(   /* Safe memmove: correctly shifts "345678" into start */) Tj
+T*
+(   memmove\(str1, str1 + 2, 6\);) Tj
+T*
+(   printf\("memmove result: %s\\n", str1\); /* Prints "3456787890" */) Tj
+T*
+() Tj
+T*
+(   /* In-place buffer duplication */) Tj
+T*
+ET
+
+endstream
+endobj
+55 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 56 0 R /Resources << /Font << /F1 79 0 R /F2 80 0 R >> >> >>
+endobj
+56 0 obj
+<< /Length 2353 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 5: POINTERS, DYNAMIC MEMORY & STRINGS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 27 of 38) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   char buf[16] = "ABCDEF";) Tj
+T*
+(   memmove\(buf + 2, buf, 4\); /* Shift right by 2 */) Tj
+T*
+(   printf\("memmove shift right: %s\\n", buf\); /* Prints "ABABCD" */) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 16:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to reverse words in a sentence string in-place using two-pointer string reversal.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   In-Place Word Reversal in a Sentence:) Tj
+T*
+(   1. Two-Step Inversion Algorithm:) Tj
+T*
+(   To reverse words in a sentence \("Biotechnology Is Fun" -> "Fun Is Biotechnology"\) in-place in) Tj
+T*
+(   O\(N\) time and O\(1\) space:) Tj
+T*
+(   Step 1: Reverse each individual word in-place:) Tj
+T*
+(   "ygolonhcetoiB sI nuF") Tj
+T*
+(   Step 2: Reverse the entire sentence string:) Tj
+T*
+(   "Fun Is Biotechnology"!) Tj
+T*
+() Tj
+T*
+(   2. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <string.h>) Tj
+T*
+() Tj
+T*
+(   void reverse_sub_string\(char *start, char *end\) {) Tj
+T*
+(   while \(start < end\) {) Tj
+T*
+(   char temp = *start;) Tj
+T*
+(   *start = *end;) Tj
+T*
+(   *end = temp;) Tj
+T*
+(   start++;) Tj
+T*
+(   end--;) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   void reverse_words\(char *sentence\) {) Tj
+T*
+(   char *word_start = sentence;) Tj
+T*
+(   char *temp = sentence;) Tj
+T*
+() Tj
+T*
+(   /* Step 1: Reverse individual words */) Tj
+T*
+(   while \(*temp\) {) Tj
+T*
+(   temp++;) Tj
+T*
+(   if \(*temp == ' ' || *temp == '\\0'\) {) Tj
+T*
+(   reverse_sub_string\(word_start, temp - 1\);) Tj
+T*
+(   word_start = temp + 1;) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   /* Step 2: Reverse entire sentence */) Tj
+T*
+(   reverse_sub_string\(sentence, sentence + strlen\(sentence\) - 1\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   char text[] = "Biotechnology Is Modern Science";) Tj
+T*
+ET
+
+endstream
+endobj
+57 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 58 0 R /Resources << /Font << /F1 79 0 R /F2 80 0 R >> >> >>
+endobj
+58 0 obj
+<< /Length 2900 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 5: POINTERS, DYNAMIC MEMORY & STRINGS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 28 of 38) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   printf\("Original: %s\\n", text\);) Tj
+T*
+(   reverse_words\(text\);) Tj
+T*
+(   printf\("Reversed: %s\\n", text\);) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 17:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain memory layout of a compiled C program: Text, Data, BSS, Heap, and Stack segments with virtual address directionality.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Memory Layout of a C Program:) Tj
+T*
+(   Modern operating systems present each C process with a unified Virtual Address Space) Tj
+T*
+(   partitioned into five distinct segments:) Tj
+T*
+() Tj
+T*
+(   1. Text Segment \(Code Segment\):) Tj
+T*
+(   - Stores machine instructions compiled from C code.) Tj
+T*
+(   - Read-only and shareable across concurrent process instances. Prevents self-modifying code) Tj
+T*
+(   vulnerabilities.) Tj
+T*
+() Tj
+T*
+(   2. Initialized Data Segment \(.data\):) Tj
+T*
+(   - Stores global and static variables explicitly initialized to non-zero values by the) Tj
+T*
+(   programmer:) Tj
+T*
+(   int global_cycles = 42;) Tj
+T*
+(   static double threshold = 0.05;) Tj
+T*
+() Tj
+T*
+(   3. Uninitialized Data Segment \(.bss - Block Started by Symbol\):) Tj
+T*
+(   - Stores global and static variables that are uninitialized or initialized to zero.) Tj
+T*
+(   - Takes zero bytes in the disk executable file \(OS kernel zero-fills this segment at process) Tj
+T*
+(   startup\).) Tj
+T*
+() Tj
+T*
+(   4. Heap Segment:) Tj
+T*
+(   - Manages dynamically allocated memory \(malloc, calloc, realloc\).) Tj
+T*
+(   - Grows UPWARD from lower to higher memory addresses as memory is requested \(managed via) Tj
+T*
+(   brk/sbrk and mmap\).) Tj
+T*
+() Tj
+T*
+(   5. Call Stack Segment:) Tj
+T*
+(   - Manages automatic local variables, function parameters, stack frames, and return addresses.) Tj
+T*
+(   - Grows DOWNWARD from higher to lower memory addresses.) Tj
+T*
+(   - Stack Overflow occurs when the downward-growing Stack collides with the upward-growing Heap!) Tj
+T*
+() Tj
+T*
+(   Visual Diagram:) Tj
+T*
+(   [High Address 0x7FFF...]) Tj
+T*
+(   | Call Stack \(grows DOWNWARD\) |) Tj
+T*
+(   | v |) Tj
+T*
+(   | ^ |) Tj
+T*
+(   | Heap \(grows UPWARD\) |) Tj
+T*
+(   | BSS Segment \(Zero-filled\) |) Tj
+T*
+(   | Data Segment \(.data\) |) Tj
+T*
+(   | Text Segment \(.text / Code\) |) Tj
+T*
+(   [Low Address 0x0040...]) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+59 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 60 0 R /Resources << /Font << /F1 79 0 R /F2 80 0 R >> >> >>
+endobj
+60 0 obj
+<< /Length 2651 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 5: POINTERS, DYNAMIC MEMORY & STRINGS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 29 of 38) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 18:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to implement a Custom Fixed-Size Memory Arena \(Bump Allocator\) for ultra-fast allocations without fragmentation.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Custom Memory Arena \(Bump Allocator\) in C:) Tj
+T*
+(   1. Concept and Advantages:) Tj
+T*
+(   In high-performance bioinformatics pipelines \(e.g. processing millions of short sequencing) Tj
+T*
+(   reads\), calling malloc\(\) millions of times incurs catastrophic metadata overhead and memory) Tj
+T*
+(   fragmentation.) Tj
+T*
+(   A Memory Arena pre-allocates a large contiguous memory slab and satisfies allocations by simply) Tj
+T*
+(   bumping an offset pointer forward:) Tj
+T*
+(   - Allocation Time: Exactly O\(1\) single pointer addition!) Tj
+T*
+(   - Deallocation: The entire arena is reclaimed in O\(1\) time by resetting the offset to zero!) Tj
+T*
+() Tj
+T*
+(   2. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <stdlib.h>) Tj
+T*
+(   #include <stdint.h>) Tj
+T*
+() Tj
+T*
+(   typedef struct {) Tj
+T*
+(   uint8_t *buffer;) Tj
+T*
+(   size_t capacity;) Tj
+T*
+(   size_t offset;) Tj
+T*
+(   } MemoryArena;) Tj
+T*
+() Tj
+T*
+(   MemoryArena *create_arena\(size_t capacity\) {) Tj
+T*
+(   MemoryArena *arena = \(MemoryArena *\)malloc\(sizeof\(MemoryArena\)\);) Tj
+T*
+(   arena->buffer = \(uint8_t *\)malloc\(capacity\);) Tj
+T*
+(   arena->capacity = capacity;) Tj
+T*
+(   arena->offset = 0;) Tj
+T*
+(   return arena;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   void *arena_alloc\(MemoryArena *arena, size_t size\) {) Tj
+T*
+(   /* Align size to 8-byte boundary */) Tj
+T*
+(   size = \(size + 7\) & ~7;) Tj
+T*
+(   if \(arena->offset + size > arena->capacity\) {) Tj
+T*
+(   return NULL; /* Out of arena memory */) Tj
+T*
+(   }) Tj
+T*
+(   void *ptr = &arena->buffer[arena->offset];) Tj
+T*
+(   arena->offset += size;) Tj
+T*
+(   return ptr;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   void arena_reset\(MemoryArena *arena\) {) Tj
+T*
+(   arena->offset = 0; /* Instant O\(1\) reclamation */) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   void destroy_arena\(MemoryArena *arena\) {) Tj
+T*
+(   free\(arena->buffer\);) Tj
+T*
+(   free\(arena\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   MemoryArena *arena = create_arena\(1024\);) Tj
+T*
+ET
+
+endstream
+endobj
+61 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 62 0 R /Resources << /Font << /F1 79 0 R /F2 80 0 R >> >> >>
+endobj
+62 0 obj
+<< /Length 2676 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 5: POINTERS, DYNAMIC MEMORY & STRINGS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 30 of 38) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   int *scores = \(int *\)arena_alloc\(arena, 5 * sizeof\(int\)\);) Tj
+T*
+(   char *tag = \(char *\)arena_alloc\(arena, 32\);) Tj
+T*
+() Tj
+T*
+(   for \(int i = 0; i < 5; i++\) scores[i] = \(i + 1\) * 10;) Tj
+T*
+(   sprintf\(tag, "Illumina_HiSeq_Read_01"\);) Tj
+T*
+() Tj
+T*
+(   printf\("Arena Allocated Tag: %s\\n", tag\);) Tj
+T*
+(   printf\("Arena Offset Used: %zu of %zu bytes\\n", arena->offset, arena->capacity\);) Tj
+T*
+() Tj
+T*
+(   arena_reset\(arena\);) Tj
+T*
+(   printf\("Arena reset: offset reset to %zu bytes\\n", arena->offset\);) Tj
+T*
+() Tj
+T*
+(   destroy_arena\(arena\);) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 19:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to check whether a given string is a Palindrome ignoring case and whitespace.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Case-Insensitive Alphanumeric Palindrome Checker:) Tj
+T*
+(   1. Problem:) Tj
+T*
+(   Determine if a string reads identically forwards and backwards, ignoring non-alphanumeric) Tj
+T*
+(   characters and case differences \(e.g. "Madam, I'm Adam"\).) Tj
+T*
+() Tj
+T*
+(   2. Two-Pointer In-Place Strategy:) Tj
+T*
+(   Left pointer starts at 0; right pointer starts at strlen - 1.) Tj
+T*
+(   - Advance left while !isalnum\(*left\).) Tj
+T*
+(   - Decrement right while !isalnum\(*right\).) Tj
+T*
+(   - Compare tolower\(*left\) != tolower\(*right\): return false if mismatch.) Tj
+T*
+(   - Advance both pointers until left >= right.) Tj
+T*
+() Tj
+T*
+(   3. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <ctype.h>) Tj
+T*
+(   #include <stdbool.h>) Tj
+T*
+(   #include <string.h>) Tj
+T*
+() Tj
+T*
+(   bool is_palindrome_clean\(const char *str\) {) Tj
+T*
+(   int left = 0;) Tj
+T*
+(   int right = strlen\(str\) - 1;) Tj
+T*
+() Tj
+T*
+(   while \(left < right\) {) Tj
+T*
+(   while \(left < right && !isalnum\(\(unsigned char\)str[left]\)\) left++;) Tj
+T*
+(   while \(left < right && !isalnum\(\(unsigned char\)str[right]\)\) right--;) Tj
+T*
+() Tj
+T*
+(   if \(tolower\(\(unsigned char\)str[left]\) != tolower\(\(unsigned char\)str[right]\)\) {) Tj
+T*
+(   return false;) Tj
+T*
+(   }) Tj
+T*
+(   left++;) Tj
+T*
+(   right--;) Tj
+T*
+(   }) Tj
+T*
+ET
+
+endstream
+endobj
+63 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 64 0 R /Resources << /Font << /F1 79 0 R /F2 80 0 R >> >> >>
+endobj
+64 0 obj
+<< /Length 2972 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 5: POINTERS, DYNAMIC MEMORY & STRINGS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 31 of 38) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   return true;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   const char *phrases[] = {) Tj
+T*
+(   "Racecar",) Tj
+T*
+(   "A man, a plan, a canal, Panama!",) Tj
+T*
+(   "Biotechnology",) Tj
+T*
+(   "Was it a car or a cat I saw?") Tj
+T*
+(   };) Tj
+T*
+(   int count = sizeof\(phrases\) / sizeof\(phrases[0]\);) Tj
+T*
+() Tj
+T*
+(   for \(int i = 0; i < count; i++\) {) Tj
+T*
+(   printf\("\\"%-35s\\" -> %s\\n", phrases[i],) Tj
+T*
+(   is_palindrome_clean\(phrases[i]\) ? "PALINDROME" : "NOT Palindrome"\);) Tj
+T*
+(   }) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 20:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain deep copy vs shallow copy in C structures containing dynamic pointers, detailing memory aliasing and corruption traps.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Deep Copy vs Shallow Copy in C:) Tj
+T*
+(   1. Definitions:) Tj
+T*
+(   - Shallow Copy: Duplicates only the top-level structure bits \(member-by-member copy, as) Tj
+T*
+(   performed by default struct assignment '='\).) Tj
+T*
+(   If the struct contains a pointer to heap memory, only the memory address pointer is copied!) Tj
+T*
+(   - Deep Copy: Allocates brand new heap memory for the destination struct and copies the) Tj
+T*
+(   underlying data elements.) Tj
+T*
+() Tj
+T*
+(   2. The Memory Aliasing Hazard \(Double-Free Bug\):) Tj
+T*
+(   typedef struct { char *sequence; int len; } GeneRecord;) Tj
+T*
+(   GeneRecord g1; g1.sequence = malloc\(100\);) Tj
+T*
+(   GeneRecord g2 = g1; /* SHALLOW COPY! g1 and g2 point to the SAME heap buffer! */) Tj
+T*
+(   free\(g1.sequence\);) Tj
+T*
+(   free\(g2.sequence\); /* CRITICAL BUG: Double-Free Heap Corruption Crash! */) Tj
+T*
+() Tj
+T*
+(   3. Deep Copy Implementation:) Tj
+T*
+(   GeneRecord deep_copy_gene\(const GeneRecord *src\) {) Tj
+T*
+(   GeneRecord dest;) Tj
+T*
+(   dest.len = src->len;) Tj
+T*
+(   dest.sequence = \(char *\)malloc\(\(src->len + 1\) * sizeof\(char\)\);) Tj
+T*
+(   strcpy\(dest.sequence, src->sequence\); /* Distinct memory clone */) Tj
+T*
+(   return dest;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 21:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to count occurrences of a substring within a DNA sequence using pointer arithmetic and strstr\(\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Substring Occurrence Counting with strstr\(\):) Tj
+T*
+ET
+
+endstream
+endobj
+65 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 66 0 R /Resources << /Font << /F1 79 0 R /F2 80 0 R >> >> >>
+endobj
+66 0 obj
+<< /Length 2890 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 5: POINTERS, DYNAMIC MEMORY & STRINGS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 32 of 38) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   1. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <string.h>) Tj
+T*
+() Tj
+T*
+(   int count_substring_occurrences\(const char *haystack, const char *needle\) {) Tj
+T*
+(   if \(!haystack || !needle || *needle == '\\0'\) return 0;) Tj
+T*
+() Tj
+T*
+(   int count = 0;) Tj
+T*
+(   int needle_len = strlen\(needle\);) Tj
+T*
+(   const char *p = haystack;) Tj
+T*
+() Tj
+T*
+(   while \(\(p = strstr\(p, needle\)\) != NULL\) {) Tj
+T*
+(   count++;) Tj
+T*
+(   p += needle_len; /* Advance past match \(non-overlapping count\) */) Tj
+T*
+(   }) Tj
+T*
+(   return count;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   const char *genome = "ATGAAATGCCCATGTTTATGCCATG";) Tj
+T*
+(   const char *motif = "ATG";) Tj
+T*
+() Tj
+T*
+(   int total = count_substring_occurrences\(genome, motif\);) Tj
+T*
+(   printf\("Genome: %s\\n", genome\);) Tj
+T*
+(   printf\("Total Start Codon \(ATG\) occurrences: %d\\n", total\);) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 22:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the restrict type qualifier in C99, detailing compiler pointer aliasing assumptions and optimization opportunities.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   The restrict Type Qualifier in C99:) Tj
+T*
+(   1. Definition and Semantics:) Tj
+T*
+(   - Introduced in C99, applied strictly to pointer declarations: int * restrict ptr;) Tj
+T*
+(   - Contract: Informs the compiler that for the lifetime of the pointer, the object pointed to) Tj
+T*
+(   will ONLY be accessed through that pointer \(or pointers derived directly from it\).) Tj
+T*
+(   - No Aliasing: Assures the compiler that no other pointer points to \(aliases\) the same memory) Tj
+T*
+(   location.) Tj
+T*
+() Tj
+T*
+(   2. Compiler Optimization Benefits:) Tj
+T*
+(   Without restrict, in:) Tj
+T*
+(   void add_vectors\(int *a, int *b, int *c, int n\) {) Tj
+T*
+(   for \(int i = 0; i < n; i++\) a[i] = b[i] + c[i];) Tj
+T*
+(   }) Tj
+T*
+(   The compiler must conservatively assume that writing to a[i] might mutate b[i] or c[i] \(if) Tj
+T*
+(   pointers alias\).) Tj
+T*
+(   Therefore, it cannot cache b[i] in registers and cannot vectorize using SIMD instructions.) Tj
+T*
+(   With restrict, the compiler emits unrolled AVX/SSE vector instructions, boosting execution) Tj
+T*
+(   speed by 4x!) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+ET
+
+endstream
+endobj
+67 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 68 0 R /Resources << /Font << /F1 79 0 R /F2 80 0 R >> >> >>
+endobj
+68 0 obj
+<< /Length 2720 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 5: POINTERS, DYNAMIC MEMORY & STRINGS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 33 of 38) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 23:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to strip leading and trailing whitespace from a string in-place using pointer manipulation.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   In-Place Whitespace Trimming in C:) Tj
+T*
+(   1. Algorithmic Principle:) Tj
+T*
+(   - Trailing Trim: Start from string end \(strlen - 1\), decrement pointer while isspace\(*p\), and) Tj
+T*
+(   place '\\0' immediately after last non-space character.) Tj
+T*
+(   - Leading Trim: Find first non-space character. Use memmove\(\) to shift remaining substring to) Tj
+T*
+(   the start of the buffer.) Tj
+T*
+() Tj
+T*
+(   2. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <ctype.h>) Tj
+T*
+(   #include <string.h>) Tj
+T*
+() Tj
+T*
+(   void trim_whitespace\(char *str\) {) Tj
+T*
+(   if \(!str || *str == '\\0'\) return;) Tj
+T*
+() Tj
+T*
+(   /* 1. Trim trailing whitespace */) Tj
+T*
+(   char *end = str + strlen\(str\) - 1;) Tj
+T*
+(   while \(end >= str && isspace\(\(unsigned char\)*end\)\) {) Tj
+T*
+(   *end = '\\0';) Tj
+T*
+(   end--;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   /* 2. Trim leading whitespace */) Tj
+T*
+(   char *start = str;) Tj
+T*
+(   while \(*start && isspace\(\(unsigned char\)*start\)\) {) Tj
+T*
+(   start++;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   /* Shift string left if leading spaces existed */) Tj
+T*
+(   if \(start != str\) {) Tj
+T*
+(   memmove\(str, start, strlen\(start\) + 1\);) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   char sample[] = " \\t\\n Target_Sequence_BRCA1 \\r\\n ";) Tj
+T*
+(   printf\("Before: \\"%s\\"\\n", sample\);) Tj
+T*
+(   trim_whitespace\(sample\);) Tj
+T*
+(   printf\("After: \\"%s\\"\\n", sample\);) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 24:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain pointer-to-pointer indirection mechanics, demonstrating how a function can modify the caller's pointer address.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Modifying Caller Pointers via Pointers-to-Pointers \(Type **\):) Tj
+T*
+(   1. The Problem:) Tj
+T*
+(   In C, passing a pointer into a function: void allocate\(int *p\) { p = malloc\(100\); }) Tj
+T*
+ET
+
+endstream
+endobj
+69 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 70 0 R /Resources << /Font << /F1 79 0 R /F2 80 0 R >> >> >>
+endobj
+70 0 obj
+<< /Length 2704 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 5: POINTERS, DYNAMIC MEMORY & STRINGS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 34 of 38) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   passes the POINTER BY VALUE \(a local copy of the pointer address is created\).) Tj
+T*
+(   Updating 'p' modifies ONLY the local copy; the caller's original pointer remains unchanged) Tj
+T*
+(   \(dangling/NULL\)!) Tj
+T*
+() Tj
+T*
+(   2. The Solution:) Tj
+T*
+(   Pass the MEMORY ADDRESS of the pointer variable \(a double pointer Type **\):) Tj
+T*
+(   void allocate_safe\(int **pp\) {) Tj
+T*
+(   *pp = \(int *\)malloc\(100 * sizeof\(int\)\);) Tj
+T*
+(   }) Tj
+T*
+(   Dereferencing *pp modifies the caller's actual pointer variable directly!) Tj
+T*
+() Tj
+T*
+(   3. Demonstrative ANSI C Program:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <stdlib.h>) Tj
+T*
+() Tj
+T*
+(   void allocate_buffer\(char **buf_ptr, int size\) {) Tj
+T*
+(   *buf_ptr = \(char *\)malloc\(size * sizeof\(char\)\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   char *data = NULL;) Tj
+T*
+(   allocate_buffer\(&data, 64\);) Tj
+T*
+() Tj
+T*
+(   sprintf\(data, "Dynamic Buffer Allocated via Double Pointer"\);) Tj
+T*
+(   printf\("Result: %s\\n", data\);) Tj
+T*
+() Tj
+T*
+(   free\(data\);) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 25:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to sort an array of strings alphabetically using qsort\(\) and pointer comparison callbacks.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Alphabetical String Array Sorting with qsort\(\):) Tj
+T*
+(   1. Double Indirection in String Comparators:) Tj
+T*
+(   When sorting an array of strings \(char *arr[]\), qsort passes pointers to array elements into) Tj
+T*
+(   the comparator callback.) Tj
+T*
+(   Since the array elements are themselves pointers \(char*\), the arguments passed to the) Tj
+T*
+(   comparator are POINTERS TO POINTERS \(const char **\)!) Tj
+T*
+() Tj
+T*
+(   2. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <stdlib.h>) Tj
+T*
+(   #include <string.h>) Tj
+T*
+() Tj
+T*
+(   int compare_strings\(const void *a, const void *b\) {) Tj
+T*
+(   /* Dereference once to get the underlying char* string pointers */) Tj
+T*
+(   const char *strA = *\(const char **\)a;) Tj
+T*
+(   const char *strB = *\(const char **\)b;) Tj
+T*
+(   return strcmp\(strA, strB\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+71 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 72 0 R /Resources << /Font << /F1 79 0 R /F2 80 0 R >> >> >>
+endobj
+72 0 obj
+<< /Length 2976 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 5: POINTERS, DYNAMIC MEMORY & STRINGS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 35 of 38) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   int main\(void\) {) Tj
+T*
+(   const char *enzymes[] = {) Tj
+T*
+(   "TaqPolymerase",) Tj
+T*
+(   "EcoRI",) Tj
+T*
+(   "Cas9",) Tj
+T*
+(   "BamHI",) Tj
+T*
+(   "DNA_Ligase",) Tj
+T*
+(   "HindIII") Tj
+T*
+(   };) Tj
+T*
+(   int count = sizeof\(enzymes\) / sizeof\(enzymes[0]\);) Tj
+T*
+() Tj
+T*
+(   qsort\(enzymes, count, sizeof\(const char *\), compare_strings\);) Tj
+T*
+() Tj
+T*
+(   printf\("=== Alphabetically Sorted Reagents ===\\n"\);) Tj
+T*
+(   for \(int i = 0; i < count; i++\) {) Tj
+T*
+(   printf\("%d. %s\\n", i + 1, enzymes[i]\);) Tj
+T*
+(   }) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 26:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain AddressSanitizer \(ASan\) and Valgrind tools for detecting C pointer corruption, memory leaks, and out-of-bounds errors.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Memory Diagnostics: AddressSanitizer and Valgrind:) Tj
+T*
+(   1. AddressSanitizer \(ASan\):) Tj
+T*
+(   - Compiler-instrumentation tool built into GCC and Clang.) Tj
+T*
+(   - Compilation Flag: gcc -fsanitize=address -g program.c -o program) Tj
+T*
+(   - How it works: Surrounds all allocations with 'Redzones' and uses 'Shadow Memory' to track) Tj
+T*
+(   address validity.) Tj
+T*
+(   - Catches: Out-of-bounds accesses \(heap, stack, global\), Use-After-Free, Double-Free with) Tj
+T*
+(   near-zero runtime overhead \(~2x slowdown\).) Tj
+T*
+() Tj
+T*
+(   2. Valgrind \(Memcheck\):) Tj
+T*
+(   - Dynamic binary instrumentation tool \(no recompilation needed\).) Tj
+T*
+(   - Execution Command: valgrind --leak-check=full --track-origins=yes ./program) Tj
+T*
+(   - How it works: Emulates CPU and tracks validity of every memory byte in synthetic shadow) Tj
+T*
+(   registers.) Tj
+T*
+(   - Catches: Uninitialized variable reads, exact leak line numbers, mismatched frees) Tj
+T*
+(   \(malloc/delete\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 27:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to concatenate two strings dynamically without using strcat\(\) or standard library functions.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Dynamic String Concatenation Without Library Functions:) Tj
+T*
+(   1. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <stdlib.h>) Tj
+T*
+() Tj
+T*
+(   char *dynamic_concat\(const char *s1, const char *s2\) {) Tj
+T*
+(   size_t len1 = 0, len2 = 0;) Tj
+T*
+ET
+
+endstream
+endobj
+73 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 74 0 R /Resources << /Font << /F1 79 0 R /F2 80 0 R >> >> >>
+endobj
+74 0 obj
+<< /Length 2921 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 5: POINTERS, DYNAMIC MEMORY & STRINGS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 36 of 38) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   while \(s1[len1] != '\\0'\) len1++;) Tj
+T*
+(   while \(s2[len2] != '\\0'\) len2++;) Tj
+T*
+() Tj
+T*
+(   char *result = \(char *\)malloc\(\(len1 + len2 + 1\) * sizeof\(char\)\);) Tj
+T*
+(   if \(!result\) return NULL;) Tj
+T*
+() Tj
+T*
+(   size_t i = 0;) Tj
+T*
+(   for \(size_t j = 0; j < len1; j++\) result[i++] = s1[j];) Tj
+T*
+(   for \(size_t k = 0; k < len2; k++\) result[i++] = s2[k];) Tj
+T*
+(   result[i] = '\\0';) Tj
+T*
+() Tj
+T*
+(   return result;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   const char *genus = "Escherichia";) Tj
+T*
+(   const char *species = "_coli_K12";) Tj
+T*
+() Tj
+T*
+(   char *organism = dynamic_concat\(genus, species\);) Tj
+T*
+(   printf\("Concatenated Organism String: %s\\n", organism\);) Tj
+T*
+() Tj
+T*
+(   free\(organism\);) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 28:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain pointer type casting and aliasing rules, detailing strict aliasing violations and the char* exception in ANSI C.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Strict Aliasing Rules and Type Punning in C:) Tj
+T*
+(   1. Strict Aliasing Rule \(ISO C99\):) Tj
+T*
+(   Compilers assume that pointers of different types \(e.g. int* and float*\) never point to the) Tj
+T*
+(   same memory location.) Tj
+T*
+(   Allowing the compiler to assume no pointer aliasing enables heavy register caching and) Tj
+T*
+(   reordering.) Tj
+T*
+() Tj
+T*
+(   2. Strict Aliasing Violation:) Tj
+T*
+(   float f = 5.0f;) Tj
+T*
+(   int *ip = \(int *\)&f; /* VIOLATES STRICT ALIASING! */) Tj
+T*
+(   *ip = 0; /* Undefined behavior! Optimizing compiler may eliminate or reorder */) Tj
+T*
+() Tj
+T*
+(   3. The Universal char* Exception:) Tj
+T*
+(   The C standard explicitly grants an exception to character pointers \(char*, unsigned char*\):) Tj
+T*
+(   ANY DATA TYPE MAY BE ACCESSED AND INSPECTED BYTE-BY-BYTE THROUGH A CHARACTER POINTER!) Tj
+T*
+(   This exception permits memcpy\(\) and serialization engines to operate universally.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 29:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to implement a generic memory swap function using void* and memcpy\(\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Generic Memory Swap Function in C:) Tj
+T*
+(   1. Operational Principle:) Tj
+T*
+ET
+
+endstream
+endobj
+75 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 76 0 R /Resources << /Font << /F1 79 0 R /F2 80 0 R >> >> >>
+endobj
+76 0 obj
+<< /Length 2568 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 5: POINTERS, DYNAMIC MEMORY & STRINGS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 37 of 38) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   By utilizing void* pointers and explicit element byte size, a single swap function can swap any) Tj
+T*
+(   arbitrary data type \(int, double, structures\):) Tj
+T*
+() Tj
+T*
+(   2. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <stdlib.h>) Tj
+T*
+(   #include <string.h>) Tj
+T*
+() Tj
+T*
+(   void generic_swap\(void *a, void *b, size_t size\) {) Tj
+T*
+(   void *temp = malloc\(size\);) Tj
+T*
+(   memcpy\(temp, a, size\);) Tj
+T*
+(   memcpy\(a, b, size\);) Tj
+T*
+(   memcpy\(b, temp, size\);) Tj
+T*
+(   free\(temp\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   double conc1 = 14.5, conc2 = 98.2;) Tj
+T*
+(   printf\("Before: conc1=%.1f, conc2=%.1f\\n", conc1, conc2\);) Tj
+T*
+(   generic_swap\(&conc1, &conc2, sizeof\(double\)\);) Tj
+T*
+(   printf\("After: conc1=%.1f, conc2=%.1f\\n", conc1, conc2\);) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 30:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to tokenize and extract sequence metadata from a Multi-FASTA file header string.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Multi-FASTA Header Metadata Extractor:) Tj
+T*
+(   1. Problem:) Tj
+T*
+(   Extract Accession Number, Organism, and Gene Name from a FASTA header:) Tj
+T*
+(   ">gi|12345|ref|NM_001| Homo_sapiens BRCA1_gene") Tj
+T*
+() Tj
+T*
+(   2. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <string.h>) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   char header[] = ">gi|12345|ref|NM_001| Homo_sapiens BRCA1_gene";) Tj
+T*
+(   char accession[32], organism[32], gene[32];) Tj
+T*
+() Tj
+T*
+(   char *tok = strtok\(header, "| "\);) Tj
+T*
+(   tok = strtok\(NULL, "| "\); /* Skip 'gi' */) Tj
+T*
+(   tok = strtok\(NULL, "| "\); /* Skip '12345' */) Tj
+T*
+(   tok = strtok\(NULL, "| "\); /* Skip 'ref' */) Tj
+T*
+(   strcpy\(accession, tok\); /* 'NM_001' */) Tj
+T*
+() Tj
+T*
+(   tok = strtok\(NULL, "| "\);) Tj
+T*
+(   strcpy\(organism, tok\); /* 'Homo_sapiens' */) Tj
+T*
+() Tj
+T*
+(   tok = strtok\(NULL, "| "\);) Tj
+T*
+(   strcpy\(gene, tok\); /* 'BRCA1_gene' */) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+77 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 78 0 R /Resources << /Font << /F1 79 0 R /F2 80 0 R >> >> >>
+endobj
+78 0 obj
+<< /Length 688 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 5: POINTERS, DYNAMIC MEMORY & STRINGS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 38 of 38) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   printf\("=== Extracted Genomic Metadata ===\\n"\);) Tj
+T*
+(   printf\("Accession ID: %s\\n", accession\);) Tj
+T*
+(   printf\("Host Species: %s\\n", organism\);) Tj
+T*
+(   printf\("Target Gene: %s\\n", gene\);) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+79 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+80 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+xref
+0 81
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000372 00000 n 
+0000000516 00000 n 
+0000008736 00000 n 
+0000008880 00000 n 
+0000017099 00000 n 
+0000017243 00000 n 
+0000025416 00000 n 
+0000025561 00000 n 
+0000033698 00000 n 
+0000033844 00000 n 
+0000042031 00000 n 
+0000042177 00000 n 
+0000050866 00000 n 
+0000051012 00000 n 
+0000059635 00000 n 
+0000059781 00000 n 
+0000061349 00000 n 
+0000061495 00000 n 
+0000066519 00000 n 
+0000066665 00000 n 
+0000069187 00000 n 
+0000069333 00000 n 
+0000077810 00000 n 
+0000077956 00000 n 
+0000081214 00000 n 
+0000081360 00000 n 
+0000084623 00000 n 
+0000084769 00000 n 
+0000088072 00000 n 
+0000088218 00000 n 
+0000092019 00000 n 
+0000092165 00000 n 
+0000095227 00000 n 
+0000095373 00000 n 
+0000098270 00000 n 
+0000098416 00000 n 
+0000100729 00000 n 
+0000100875 00000 n 
+0000104206 00000 n 
+0000104352 00000 n 
+0000106856 00000 n 
+0000107002 00000 n 
+0000109848 00000 n 
+0000109994 00000 n 
+0000113271 00000 n 
+0000113417 00000 n 
+0000116572 00000 n 
+0000116718 00000 n 
+0000118991 00000 n 
+0000119137 00000 n 
+0000121890 00000 n 
+0000122036 00000 n 
+0000125104 00000 n 
+0000125250 00000 n 
+0000127656 00000 n 
+0000127802 00000 n 
+0000130755 00000 n 
+0000130901 00000 n 
+0000133605 00000 n 
+0000133751 00000 n 
+0000136480 00000 n 
+0000136626 00000 n 
+0000139651 00000 n 
+0000139797 00000 n 
+0000142740 00000 n 
+0000142886 00000 n 
+0000145659 00000 n 
+0000145805 00000 n 
+0000148562 00000 n 
+0000148708 00000 n 
+0000151737 00000 n 
+0000151883 00000 n 
+0000154857 00000 n 
+0000155003 00000 n 
+0000157624 00000 n 
+0000157770 00000 n 
+0000158510 00000 n 
+0000158608 00000 n 
+trailer
+<< /Size 81 /Root 1 0 R >>
+startxref
+158711
+%%EOF

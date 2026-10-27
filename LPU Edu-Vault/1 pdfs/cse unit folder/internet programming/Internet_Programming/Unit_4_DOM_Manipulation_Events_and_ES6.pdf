@@ -1,0 +1,10941 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R 35 0 R 37 0 R 39 0 R 41 0 R 43 0 R 45 0 R 47 0 R 49 0 R 51 0 R 53 0 R 55 0 R 57 0 R 59 0 R] /Count 29 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 4 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 8958 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 1 of 29) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(1.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What does DOM stand for in client-side web) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(development?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(Document Object Model) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(Data Object Mechanism) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(Document Oriented Middleware) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(Digital Option Model) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(2.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(The DOM represents an HTML document in memory as) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(a hierarchical tree of:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(Nodes and Objects) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(Relational Database Tables) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(Linear Text Buffers) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(Binary Bitmaps) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(3.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(Which global object in browser JavaScript serves) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(as the entry point to the web page's DOM tree?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.5001 Td
+(document) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.9001 Td
+(window.screen) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.3002 Td
+(navigator) Tj
+ET
+BT
+/F2 7.4 Tf
+58 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 587.7002 Td
+(console) Tj
+ET
+BT
+/F2 8.0 Tf
+42 564.1002 Td
+(4.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(Which DOM method selects an element based on its) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(unique HTML 'id' attribute?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 543.2002 Td
+(document.getElementById\('id'\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 533.6002 Td
+(document.getElementByClass\('id'\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.0002 Td
+(document.selectId\('id'\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.4003 Td
+(document.getId\('id'\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 490.8003 Td
+(5.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 490.8003 Td
+(Which modern DOM method returns the FIRST) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6003 Td
+(element within the document that matches a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 472.4002 Td
+(specified CSS selector?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.7002 Td
+(document.querySelector\('selector'\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 451.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 451.1002 Td
+(document.querySelectorAll\('selector'\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.5002 Td
+(document.getElementByCss\('selector'\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 431.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 431.9002 Td
+(document.find\('selector'\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 408.3002 Td
+(6.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 408.3002 Td
+(Which DOM method returns a static NodeList of) Tj
+ET
+BT
+/F1 7.8 Tf
+58 399.1002 Td
+(ALL elements matching a specified CSS selector?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 387.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 387.4002 Td
+(document.querySelectorAll\('selector'\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.8002 Td
+(document.querySelector\('selector'\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 368.2002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 368.2002 Td
+(document.getElementsByTagName\('selector'\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 358.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 358.6002 Td
+(document.selectAll\('selector'\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 335.0002 Td
+(7.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.0002 Td
+(Which property is used to get or set the raw) Tj
+ET
+BT
+/F1 7.8 Tf
+58 325.8001 Td
+(HTML markup contained within an element?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 314.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 314.1001 Td
+(innerHTML) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.5001 Td
+(innerText) Tj
+ET
+BT
+/F2 7.4 Tf
+58 294.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 294.9001 Td
+(textContent) Tj
+ET
+BT
+/F2 7.4 Tf
+58 285.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 285.3001 Td
+(outerHTML) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(8.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Which property retrieves or sets the plain) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(rendered text content of an element without HTML) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(tags, respecting CSS styling?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(innerText) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.3 Td
+(innerHTML) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.7 Td
+(nodeValue) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.1 Td
+(outerText) Tj
+ET
+BT
+/F2 8.0 Tf
+306 701.5001 Td
+(9.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(Which property retrieves or sets all plain text) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(content within a node and its descendants) Tj
+ET
+BT
+/F1 7.8 Tf
+322 683.1 Td
+(without triggering layout recalculations?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.4 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.4 Td
+(textContent) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.8 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.8 Td
+(innerText) Tj
+ET
+BT
+/F2 7.4 Tf
+322 652.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 652.2001 Td
+(innerHTML) Tj
+ET
+BT
+/F2 7.4 Tf
+322 642.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 642.6001 Td
+(value) Tj
+ET
+BT
+/F2 8.0 Tf
+306 619.0001 Td
+(10.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(Which DOM method creates a new HTML element node) Tj
+ET
+BT
+/F1 7.8 Tf
+322 609.8001 Td
+(specified by tag name in memory?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 598.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 598.1001 Td
+(document.createElement\('tagName'\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.5001 Td
+(document.newElement\('tagName'\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 578.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 578.9001 Td
+(document.buildNode\('tagName'\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 569.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 569.3002 Td
+(new HTMLElement\('tagName'\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 545.7002 Td
+(11.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 545.7002 Td
+(Which DOM method creates a new plain text node) Tj
+ET
+BT
+/F1 7.8 Tf
+322 536.5002 Td
+(in memory?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.8002 Td
+(document.createTextNode\('text'\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 515.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 515.2002 Td
+(document.createText\('text'\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 505.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 505.6002 Td
+(new TextNode\('text'\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 496.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 496.0002 Td
+(document.createString\('text'\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 472.4002 Td
+(12.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 472.4002 Td
+(Which DOM method appends a node as the last) Tj
+ET
+BT
+/F1 7.8 Tf
+322 463.2002 Td
+(child of a specified parent element?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 451.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 451.5002 Td
+(parentElement.appendChild\(newChild\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.9001 Td
+(parentElement.insert\(newChild\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 432.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 432.3001 Td
+(parentElement.attach\(newChild\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 422.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 422.7001 Td
+(parentElement.addLast\(newChild\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 399.1001 Td
+(13.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 399.1001 Td
+(Which modern DOM method inserts a node or string) Tj
+ET
+BT
+/F1 7.8 Tf
+322 389.9001 Td
+(before the first child of an element?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 378.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 378.2001 Td
+(element.prepend\(newChild\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 368.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 368.6001 Td
+(element.appendChild\(newChild\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 359.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 359.0001 Td
+(element.before\(newChild\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 349.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 349.4001 Td
+(element.addFirst\(newChild\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 325.8001 Td
+(14.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 325.8001 Td
+(Which modern DOM method allows appending) Tj
+ET
+BT
+/F1 7.8 Tf
+322 316.6001 Td
+(multiple nodes or DOMString objects at once to a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 307.4001 Td
+(parent element?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 295.7 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 295.7 Td
+(element.append\(...nodes\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 286.1 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 286.1 Td
+(element.appendChild\(...nodes\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 276.5 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 276.5 Td
+(element.push\(...nodes\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 266.9 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 266.9 Td
+(element.concat\(...nodes\)) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 6 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+6 0 obj
+<< /Length 8958 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 2 of 29) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(15.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Which DOM method removes a specified child node) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(from a parent element?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(parentElement.removeChild\(childNode\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(parentElement.deleteChild\(childNode\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(childNode.drop\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(parentElement.detach\(childNode\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(16.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(Which modern DOM method allows an element to) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(remove itself directly from the DOM tree?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(element.remove\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(element.delete\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(element.detach\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(element.destroy\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(17.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(Which DOM property provides a live list of an) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(element's CSS class names with helper methods) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.0001 Td
+(\(add, remove, toggle, contains\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 607.3001 Td
+(element.classList) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.7001 Td
+(element.className) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.1002 Td
+(element.classes) Tj
+ET
+BT
+/F2 7.4 Tf
+58 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 578.5002 Td
+(element.styles) Tj
+ET
+BT
+/F2 8.0 Tf
+42 554.9002 Td
+(18.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(Which method of classList adds a CSS class to an) Tj
+ET
+BT
+/F1 7.8 Tf
+58 545.7002 Td
+(element if it does not already exist?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 534.0002 Td
+(element.classList.add\('className'\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.4002 Td
+(element.classList.append\('className'\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.8002 Td
+(element.classList.push\('className'\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 505.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 505.2002 Td
+(element.classList.set\('className'\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 481.6002 Td
+(19.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6002 Td
+(Which method of classList adds a class if) Tj
+ET
+BT
+/F1 7.8 Tf
+58 472.4002 Td
+(absent, or removes it if already present?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.7002 Td
+(element.classList.toggle\('className'\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 451.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 451.1002 Td
+(element.classList.switch\('className'\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.5002 Td
+(element.classList.flip\('className'\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 431.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 431.9002 Td
+(element.classList.alter\('className'\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 408.3002 Td
+(20.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 408.3002 Td
+(Which method of classList checks whether an) Tj
+ET
+BT
+/F1 7.8 Tf
+58 399.1002 Td
+(element currently has a specific CSS class,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 389.9001 Td
+(returning a boolean?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 378.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 378.2001 Td
+(element.classList.contains\('className'\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 368.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 368.6001 Td
+(element.classList.has\('className'\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 359.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 359.0001 Td
+(element.classList.includes\('className'\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 349.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 349.4001 Td
+(element.classList.is\('className'\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 325.8001 Td
+(21.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 325.8001 Td
+(Which property on DOM elements allows getting or) Tj
+ET
+BT
+/F1 7.8 Tf
+58 316.6001 Td
+(setting inline CSS styles directly?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.9001 Td
+(element.style) Tj
+ET
+BT
+/F2 7.4 Tf
+58 295.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 295.3001 Td
+(element.css) Tj
+ET
+BT
+/F2 7.4 Tf
+58 285.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 285.7001 Td
+(element.inlineStyle) Tj
+ET
+BT
+/F2 7.4 Tf
+58 276.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 276.1001 Td
+(element.stylesheet) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(22.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(How is a multi-word CSS property like) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+('background-color' accessed via element.style in) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(JavaScript?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(element.style.backgroundColor \(camelCase\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.3 Td
+(element.style['background-color']) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.7 Td
+(Both A and B are valid) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.1 Td
+(element.style.background_color) Tj
+ET
+BT
+/F2 8.0 Tf
+306 701.5001 Td
+(23.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(Which method attaches an event handler function) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(to an element without overwriting existing) Tj
+ET
+BT
+/F1 7.8 Tf
+322 683.1 Td
+(handlers?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.4 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.4 Td
+(element.addEventListener\(type, listener\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.8 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.8 Td
+(element.attachEvent\(type, listener\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 652.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 652.2001 Td
+(element.on\(type, listener\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 642.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 642.6001 Td
+(element.bindEvent\(type, listener\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 619.0001 Td
+(24.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(Which method removes an event listener) Tj
+ET
+BT
+/F1 7.8 Tf
+322 609.8001 Td
+(previously registered with addEventListener?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 598.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 598.1001 Td
+(element.removeEventListener\(type, listener\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.5001 Td
+(element.detachEvent\(type, listener\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 578.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 578.9001 Td
+(element.off\(type, listener\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 569.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 569.3002 Td
+(element.unbind\(type, listener\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 545.7002 Td
+(25.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 545.7002 Td
+(Which event fires when a user clicks on an) Tj
+ET
+BT
+/F1 7.8 Tf
+322 536.5002 Td
+(element with a mouse or pointing device?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.8002 Td
+('click') Tj
+ET
+BT
+/F2 7.4 Tf
+322 515.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 515.2002 Td
+('mouseclick') Tj
+ET
+BT
+/F2 7.4 Tf
+322 505.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 505.6002 Td
+('press') Tj
+ET
+BT
+/F2 7.4 Tf
+322 496.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 496.0002 Td
+('tap') Tj
+ET
+BT
+/F2 8.0 Tf
+306 472.4002 Td
+(26.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 472.4002 Td
+(Which event fires when the user double-clicks an) Tj
+ET
+BT
+/F1 7.8 Tf
+322 463.2002 Td
+(element?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 451.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 451.5002 Td
+('dblclick') Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.9001 Td
+('doubleclick') Tj
+ET
+BT
+/F2 7.4 Tf
+322 432.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 432.3001 Td
+('2click') Tj
+ET
+BT
+/F2 7.4 Tf
+322 422.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 422.7001 Td
+('press2') Tj
+ET
+BT
+/F2 8.0 Tf
+306 399.1001 Td
+(27.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 399.1001 Td
+(Which keyboard event fires when a key on the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 389.9001 Td
+(keyboard is initially pushed down?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 378.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 378.2001 Td
+('keydown') Tj
+ET
+BT
+/F2 7.4 Tf
+322 368.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 368.6001 Td
+('keypress') Tj
+ET
+BT
+/F2 7.4 Tf
+322 359.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 359.0001 Td
+('keyup') Tj
+ET
+BT
+/F2 7.4 Tf
+322 349.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 349.4001 Td
+('keyhit') Tj
+ET
+BT
+/F2 8.0 Tf
+306 325.8001 Td
+(28.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 325.8001 Td
+(Which keyboard event fires when the user) Tj
+ET
+BT
+/F1 7.8 Tf
+322 316.6001 Td
+(releases a pressed key?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.9001 Td
+('keyup') Tj
+ET
+BT
+/F2 7.4 Tf
+322 295.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 295.3 Td
+('keydown') Tj
+ET
+BT
+/F2 7.4 Tf
+322 285.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 285.7 Td
+('keyrelease') Tj
+ET
+BT
+/F2 7.4 Tf
+322 276.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 276.1 Td
+('keyend') Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 8 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+8 0 obj
+<< /Length 9142 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 3 of 29) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(29.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Which event fires when an input element loses) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(focus \(e.g., user tabs or clicks away\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+('blur') Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+('focusout') Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+('defocus') Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+('leave') Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(30.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(Which event fires when an input element gains) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(focus?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+('focus') Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+('focusin') Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+('active') Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+('enter') Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(31.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(Which event fires synchronously whenever the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(value of an <input>, <select>, or <textarea>) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.0001 Td
+(element is altered by the user?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 607.3001 Td
+('input') Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.7001 Td
+('change') Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.1002 Td
+('modify') Tj
+ET
+BT
+/F2 7.4 Tf
+58 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 578.5002 Td
+('update') Tj
+ET
+BT
+/F2 8.0 Tf
+42 554.9002 Td
+(32.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(Which event fires when a form element commits a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 545.7002 Td
+(value change \(e.g., losing focus after typing,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 536.5002 Td
+(or changing a dropdown selection\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.8002 Td
+('change') Tj
+ET
+BT
+/F2 7.4 Tf
+58 515.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 515.2002 Td
+('input') Tj
+ET
+BT
+/F2 7.4 Tf
+58 505.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 505.6002 Td
+('select') Tj
+ET
+BT
+/F2 7.4 Tf
+58 496.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 496.0002 Td
+('commit') Tj
+ET
+BT
+/F2 8.0 Tf
+42 472.4002 Td
+(33.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 472.4002 Td
+(Which event fires when a <form> is submitted by) Tj
+ET
+BT
+/F1 7.8 Tf
+58 463.2002 Td
+(clicking a submit button or pressing Enter?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 451.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 451.5002 Td
+('submit') Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.9001 Td
+('post') Tj
+ET
+BT
+/F2 7.4 Tf
+58 432.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 432.3001 Td
+('send') Tj
+ET
+BT
+/F2 7.4 Tf
+58 422.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 422.7001 Td
+('dispatch') Tj
+ET
+BT
+/F2 8.0 Tf
+42 399.1001 Td
+(34.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 399.1001 Td
+(Which method on the Event object cancels the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 389.9001 Td
+(default browser action associated with the event) Tj
+ET
+BT
+/F1 7.8 Tf
+58 380.7001 Td
+(\(e.g., preventing form submission or link) Tj
+ET
+BT
+/F1 7.8 Tf
+58 371.5001 Td
+(navigation\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 359.8001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 359.8001 Td
+(event.preventDefault\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 350.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 350.2001 Td
+(event.stopPropagation\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 340.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 340.6001 Td
+(event.stopImmediatePropagation\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 331.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 331.0001 Td
+(event.cancel\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 307.4001 Td
+(35.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 307.4001 Td
+(Which method on the Event object prevents the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 298.2 Td
+(event from propagating further up or down the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 289 Td
+(DOM tree?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 277.3 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 277.3 Td
+(event.stopPropagation\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 267.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 267.7 Td
+(event.preventDefault\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 258.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 258.1 Td
+(event.halt\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 248.5 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 248.5 Td
+(event.freeze\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(36.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Which Event property refers to the actual) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(innermost DOM element that originated or) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(triggered the event?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(event.target) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.3 Td
+(event.currentTarget) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.7 Td
+(event.srcElement) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.1 Td
+(event.initiator) Tj
+ET
+BT
+/F2 8.0 Tf
+306 701.5001 Td
+(37.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(Which Event property refers to the DOM element) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(to which the event listener is currently) Tj
+ET
+BT
+/F1 7.8 Tf
+322 683.1 Td
+(attached?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.4 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.4 Td
+(event.currentTarget) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.8 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.8 Td
+(event.target) Tj
+ET
+BT
+/F2 7.4 Tf
+322 652.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 652.2001 Td
+(event.parentElement) Tj
+ET
+BT
+/F2 7.4 Tf
+322 642.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 642.6001 Td
+(event.boundElement) Tj
+ET
+BT
+/F2 8.0 Tf
+306 619.0001 Td
+(38.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(Which event fires when the initial HTML document) Tj
+ET
+BT
+/F1 7.8 Tf
+322 609.8001 Td
+(has been completely parsed without waiting for) Tj
+ET
+BT
+/F1 7.8 Tf
+322 600.6001 Td
+(stylesheets and images to load?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.9001 Td
+('DOMContentLoaded') Tj
+ET
+BT
+/F2 7.4 Tf
+322 579.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 579.3001 Td
+('load') Tj
+ET
+BT
+/F2 7.4 Tf
+322 569.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 569.7001 Td
+('ready') Tj
+ET
+BT
+/F2 7.4 Tf
+322 560.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 560.1002 Td
+('mount') Tj
+ET
+BT
+/F2 8.0 Tf
+306 536.5002 Td
+(39.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 536.5002 Td
+(Which event on the window object fires when the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 527.3002 Td
+(entire webpage, including all images,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 518.1002 Td
+(stylesheets, and subframes, has fully loaded?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 506.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 506.4001 Td
+('load') Tj
+ET
+BT
+/F2 7.4 Tf
+322 496.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 496.8001 Td
+('DOMContentLoaded') Tj
+ET
+BT
+/F2 7.4 Tf
+322 487.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 487.2001 Td
+('complete') Tj
+ET
+BT
+/F2 7.4 Tf
+322 477.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 477.6001 Td
+('finish') Tj
+ET
+BT
+/F2 8.0 Tf
+306 454.0001 Td
+(40.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 454.0001 Td
+(Which event fires immediately before the user) Tj
+ET
+BT
+/F1 7.8 Tf
+322 444.8001 Td
+(leaves or closes the webpage, allowing prompt) Tj
+ET
+BT
+/F1 7.8 Tf
+322 435.6001 Td
+(confirmation?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 423.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 423.9001 Td
+('beforeunload') Tj
+ET
+BT
+/F2 7.4 Tf
+322 414.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 414.3001 Td
+('unload') Tj
+ET
+BT
+/F2 7.4 Tf
+322 404.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 404.7001 Td
+('pagehide') Tj
+ET
+BT
+/F2 7.4 Tf
+322 395.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 395.1001 Td
+('exit') Tj
+ET
+BT
+/F2 8.0 Tf
+306 371.5001 Td
+(41.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 371.5001 Td
+(What are the three distinct phases of DOM Event) Tj
+ET
+BT
+/F1 7.8 Tf
+322 362.3 Td
+(Flow defined by the W3C specification?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 350.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 350.6 Td
+(1. Capturing Phase \(Trickling down\); 2.) Tj
+ET
+BT
+/F1 7.4 Tf
+336 342 Td
+(Target Phase; 3. Bubbling Phase \(Bubbling) Tj
+ET
+BT
+/F1 7.4 Tf
+336 333.4 Td
+(up\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 323.8 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 323.8 Td
+(1. Init; 2. Dispatch; 3. Destroy) Tj
+ET
+BT
+/F2 7.4 Tf
+322 314.2 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 314.2 Td
+(1. Loading; 2. Active; 3. Idle) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.6 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.6 Td
+(1. Parent phase; 2. Sibling phase; 3. Child) Tj
+ET
+BT
+/F1 7.4 Tf
+336 296 Td
+(phase) Tj
+ET
+BT
+/F2 8.0 Tf
+306 272.4 Td
+(42.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 272.4 Td
+(By default, when you attach an event listener) Tj
+ET
+BT
+/F1 7.8 Tf
+322 263.2 Td
+(via `element.addEventListener\('click',) Tj
+ET
+BT
+/F1 7.8 Tf
+322 254 Td
+(handler\)`, during which phase does it fire?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 242.3 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 242.3 Td
+(Bubbling Phase \(default third argument is) Tj
+ET
+BT
+/F1 7.4 Tf
+336 233.7 Td
+(false\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 224.1 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 224.1 Td
+(Capturing Phase) Tj
+ET
+BT
+/F2 7.4 Tf
+322 214.5 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 214.5 Td
+(Target Phase only) Tj
+ET
+BT
+/F2 7.4 Tf
+322 204.9 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 204.9 Td
+(Both Capturing and Bubbling) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 10 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+10 0 obj
+<< /Length 11802 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 4 of 29) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(43.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(How do you configure an event listener to) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(trigger during the Capturing \(Trickling\) Phase) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(instead of Bubbling?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(Pass `true` \(or `{ capture: true }`\) as the) Tj
+ET
+BT
+/F1 7.4 Tf
+72 745.3 Td
+(third argument to addEventListener\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 735.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 735.7 Td
+(Use addCaptureEventListener\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 726.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 726.1 Td
+(Call event.enableCapture\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 716.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 716.5001 Td
+(Set element.style.capture = true) Tj
+ET
+BT
+/F2 8.0 Tf
+42 692.9001 Td
+(44.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.9001 Td
+(What is Event Delegation in JavaScript DOM) Tj
+ET
+BT
+/F1 7.8 Tf
+58 683.7001 Td
+(programming?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 672.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 672.0001 Td
+(Attaching a single event listener to a) Tj
+ET
+BT
+/F1 7.4 Tf
+72 663.4001 Td
+(common ancestor element to handle events for) Tj
+ET
+BT
+/F1 7.4 Tf
+72 654.8001 Td
+(all existing and dynamically added) Tj
+ET
+BT
+/F1 7.4 Tf
+72 646.2001 Td
+(descendant elements via event bubbling) Tj
+ET
+BT
+/F2 7.4 Tf
+58 636.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 636.6002 Td
+(Delegating event processing to a Web Worker) Tj
+ET
+BT
+/F2 7.4 Tf
+58 627.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 627.0002 Td
+(Passing events to external iframe windows) Tj
+ET
+BT
+/F2 7.4 Tf
+58 617.4002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 617.4002 Td
+(Binding events to custom objects) Tj
+ET
+BT
+/F2 8.0 Tf
+42 593.8002 Td
+(45.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 593.8002 Td
+(Why is Event Delegation considered an essential) Tj
+ET
+BT
+/F1 7.8 Tf
+58 584.6002 Td
+(performance pattern when handling large lists) Tj
+ET
+BT
+/F1 7.8 Tf
+58 575.4002 Td
+(\(e.g., 10,000 table rows\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 563.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 563.7002 Td
+(It replaces thousands of individual) Tj
+ET
+BT
+/F1 7.4 Tf
+72 555.1002 Td
+(memory-heavy event listeners with a single) Tj
+ET
+BT
+/F1 7.4 Tf
+72 546.5002 Td
+(listener, drastically lowering memory usage) Tj
+ET
+BT
+/F1 7.4 Tf
+72 537.9003 Td
+(and setup time) Tj
+ET
+BT
+/F2 7.4 Tf
+58 528.3003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 528.3003 Td
+(It compiles events to C++ machine code) Tj
+ET
+BT
+/F2 7.4 Tf
+58 518.7003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 518.7003 Td
+(It runs events on the GPU) Tj
+ET
+BT
+/F2 7.4 Tf
+58 509.1003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 509.1003 Td
+(It prevents garbage collection) Tj
+ET
+BT
+/F2 8.0 Tf
+42 485.5003 Td
+(46.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 485.5003 Td
+(What is the difference between HTMLCollection) Tj
+ET
+BT
+/F1 7.8 Tf
+58 476.3003 Td
+(and NodeList returned by DOM selection methods?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 464.6003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 464.6003 Td
+(HTMLCollection is always live \(automatically) Tj
+ET
+BT
+/F1 7.4 Tf
+72 456.0003 Td
+(updates when DOM changes\) and contains only) Tj
+ET
+BT
+/F1 7.4 Tf
+72 447.4003 Td
+(elements; NodeList can be static) Tj
+ET
+BT
+/F1 7.4 Tf
+72 438.8003 Td
+(\(querySelectorAll\) and contains any node) Tj
+ET
+BT
+/F1 7.4 Tf
+72 430.2003 Td
+(type) Tj
+ET
+BT
+/F2 7.4 Tf
+58 420.6003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 420.6003 Td
+(NodeList is an array, HTMLCollection is an) Tj
+ET
+BT
+/F1 7.4 Tf
+72 412.0002 Td
+(object) Tj
+ET
+BT
+/F2 7.4 Tf
+58 402.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 402.4002 Td
+(HTMLCollection supports forEach, NodeList) Tj
+ET
+BT
+/F1 7.4 Tf
+72 393.8002 Td
+(does not) Tj
+ET
+BT
+/F2 7.4 Tf
+58 384.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 384.2002 Td
+(NodeList only holds text nodes) Tj
+ET
+BT
+/F2 8.0 Tf
+42 360.6002 Td
+(47.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 360.6002 Td
+(Why does) Tj
+ET
+BT
+/F1 7.8 Tf
+58 351.4002 Td
+(`document.getElementsByClassName\('item'\)` differ) Tj
+ET
+BT
+/F1 7.8 Tf
+58 342.2002 Td
+(from `document.querySelectorAll\('.item'\)`?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 330.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 330.5002 Td
+(getElementsByClassName returns a LIVE) Tj
+ET
+BT
+/F1 7.4 Tf
+72 321.9002 Td
+(HTMLCollection; querySelectorAll returns a) Tj
+ET
+BT
+/F1 7.4 Tf
+72 313.3002 Td
+(STATIC NodeList snapshot) Tj
+ET
+BT
+/F2 7.4 Tf
+58 303.7002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 303.7002 Td
+(querySelectorAll is 100 times slower) Tj
+ET
+BT
+/F2 7.4 Tf
+58 294.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 294.1002 Td
+(getElementsByClassName accepts CSS selectors) Tj
+ET
+BT
+/F2 7.4 Tf
+58 284.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 284.5002 Td
+(querySelectorAll does not work on mobile) Tj
+ET
+BT
+/F2 8.0 Tf
+42 260.9001 Td
+(48.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 260.9001 Td
+(What does `document.createDocumentFragment\(\)`) Tj
+ET
+BT
+/F1 7.8 Tf
+58 251.7001 Td
+(achieve in DOM manipulation performance?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 240.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 240.0002 Td
+(Creates a lightweight virtual container) Tj
+ET
+BT
+/F1 7.4 Tf
+72 231.4001 Td
+(off-DOM; appending child elements to it and) Tj
+ET
+BT
+/F1 7.4 Tf
+72 222.8001 Td
+(appending the fragment once triggers only) Tj
+ET
+BT
+/F1 7.4 Tf
+72 214.2001 Td
+(ONE single browser reflow) Tj
+ET
+BT
+/F2 7.4 Tf
+58 204.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 204.6001 Td
+(Saves DOM trees to IndexedDB) Tj
+ET
+BT
+/F2 7.4 Tf
+58 195.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 195.0001 Td
+(Creates an HTML iframe) Tj
+ET
+BT
+/F2 7.4 Tf
+58 185.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 185.4001 Td
+(Encrypts DOM nodes in memory) Tj
+ET
+BT
+/F2 8.0 Tf
+42 161.8001 Td
+(49.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 161.8001 Td
+(Which DOM method provides the computed, resolved) Tj
+ET
+BT
+/F1 7.8 Tf
+58 152.6001 Td
+(styling values of an element as rendered on) Tj
+ET
+BT
+/F1 7.8 Tf
+58 143.4001 Td
+(screen by the browser?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 131.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 131.7001 Td
+(window.getComputedStyle\(element\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 122.1001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 122.1001 Td
+(element.style) Tj
+ET
+BT
+/F2 7.4 Tf
+58 112.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 112.5001 Td
+(element.getStyles\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 102.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 102.9001 Td
+(document.getComputedStyles\(element\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(50.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What is the difference between) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(element.getAttribute\('href'\) and element.href?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(element.getAttribute\('href'\) returns the) Tj
+ET
+BT
+/F1 7.4 Tf
+336 754.5 Td
+(exact string written in HTML markup;) Tj
+ET
+BT
+/F1 7.4 Tf
+336 745.9 Td
+(element.href returns the fully qualified) Tj
+ET
+BT
+/F1 7.4 Tf
+336 737.3 Td
+(absolute URL resolved by browser) Tj
+ET
+BT
+/F2 7.4 Tf
+322 727.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 727.7001 Td
+(element.href is read-only) Tj
+ET
+BT
+/F2 7.4 Tf
+322 718.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 718.1001 Td
+(getAttribute is deprecated) Tj
+ET
+BT
+/F2 7.4 Tf
+322 708.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 708.5001 Td
+(element.href only works on images) Tj
+ET
+BT
+/F2 8.0 Tf
+306 684.9001 Td
+(51.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 684.9001 Td
+(What does the DOM method) Tj
+ET
+BT
+/F1 7.8 Tf
+322 675.7001 Td
+(`element.getBoundingClientRect\(\)` return?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 664.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 664.0001 Td
+(A DOMRect object providing the size \(width,) Tj
+ET
+BT
+/F1 7.4 Tf
+336 655.4001 Td
+(height\) and position \(top, right, bottom,) Tj
+ET
+BT
+/F1 7.4 Tf
+336 646.8002 Td
+(left\) of an element relative to the viewport) Tj
+ET
+BT
+/F2 7.4 Tf
+322 637.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 637.2002 Td
+(The size relative to the entire document) Tj
+ET
+BT
+/F1 7.4 Tf
+336 628.6002 Td
+(body) Tj
+ET
+BT
+/F2 7.4 Tf
+322 619.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 619.0002 Td
+(The bounding box of text nodes only) Tj
+ET
+BT
+/F2 7.4 Tf
+322 609.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 609.4003 Td
+(The CSS margin coordinates) Tj
+ET
+BT
+/F2 8.0 Tf
+306 585.8003 Td
+(52.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 585.8003 Td
+(What is Array and Object Destructuring in ES6?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 574.1003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 574.1003 Td
+(A syntax expression that unpacks values from) Tj
+ET
+BT
+/F1 7.4 Tf
+336 565.5003 Td
+(arrays or properties from objects into) Tj
+ET
+BT
+/F1 7.4 Tf
+336 556.9003 Td
+(distinct distinct variables cleanly) Tj
+ET
+BT
+/F2 7.4 Tf
+322 547.3004 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 547.3004 Td
+(Deleting items from arrays) Tj
+ET
+BT
+/F2 7.4 Tf
+322 537.7004 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 537.7004 Td
+(Converting arrays into JSON) Tj
+ET
+BT
+/F2 7.4 Tf
+322 528.1004 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 528.1004 Td
+(Serializing objects across sockets) Tj
+ET
+BT
+/F2 8.0 Tf
+306 504.5004 Td
+(53.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 504.5004 Td
+(Given `const [first, , third = 10] = [1, 2];`,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 495.3004 Td
+(what are the values of 'first' and 'third'?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 483.6004 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 483.6004 Td
+(first = 1, third = 10) Tj
+ET
+BT
+/F2 7.4 Tf
+322 474.0004 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 474.0004 Td
+(first = 1, third = 2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 464.4004 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 464.4004 Td
+(first = 1, third = undefined) Tj
+ET
+BT
+/F2 7.4 Tf
+322 454.8004 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 454.8004 Td
+(first = 2, third = 10) Tj
+ET
+BT
+/F2 8.0 Tf
+306 431.2004 Td
+(54.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 431.2004 Td
+(Given `const user = { name: 'Bob', age: 30 };) Tj
+ET
+BT
+/F1 7.8 Tf
+322 422.0004 Td
+(const { name: userName, city = 'Paris' } =) Tj
+ET
+BT
+/F1 7.8 Tf
+322 412.8004 Td
+(user;`, what are userName and city?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 401.1003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 401.1003 Td
+(userName = 'Bob', city = 'Paris') Tj
+ET
+BT
+/F2 7.4 Tf
+322 391.5003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 391.5003 Td
+(name = 'Bob', city = undefined) Tj
+ET
+BT
+/F2 7.4 Tf
+322 381.9003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 381.9003 Td
+(userName = undefined, city = 'Paris') Tj
+ET
+BT
+/F2 7.4 Tf
+322 372.3003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 372.3003 Td
+(Throws ReferenceError) Tj
+ET
+BT
+/F2 8.0 Tf
+306 348.7003 Td
+(55.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 348.7003 Td
+(What is the Rest Parameter \(`...args`\) syntax in) Tj
+ET
+BT
+/F1 7.8 Tf
+322 339.5003 Td
+(ES6 function definitions?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 327.8003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 327.8003 Td
+(Collects an indefinite number of remaining) Tj
+ET
+BT
+/F1 7.4 Tf
+336 319.2003 Td
+(arguments passed to a function into a single) Tj
+ET
+BT
+/F1 7.4 Tf
+336 310.6003 Td
+(real Array) Tj
+ET
+BT
+/F2 7.4 Tf
+322 301.0003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 301.0003 Td
+(Spreads array items into comma-separated) Tj
+ET
+BT
+/F1 7.4 Tf
+336 292.4003 Td
+(arguments) Tj
+ET
+BT
+/F2 7.4 Tf
+322 282.8003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 282.8003 Td
+(Converts functions to generators) Tj
+ET
+BT
+/F2 7.4 Tf
+322 273.2003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 273.2003 Td
+(Limits arguments to 5 items) Tj
+ET
+BT
+/F2 8.0 Tf
+306 249.6003 Td
+(56.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 249.6003 Td
+(How does the Rest parameter differ from the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 240.4003 Td
+(legacy `arguments` object inside functions?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 228.7003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 228.7003 Td
+(Rest parameters produce a true JavaScript) Tj
+ET
+BT
+/F1 7.4 Tf
+336 220.1003 Td
+(Array with all array methods; arguments is) Tj
+ET
+BT
+/F1 7.4 Tf
+336 211.5002 Td
+(an array-like object lacking map, filter,) Tj
+ET
+BT
+/F1 7.4 Tf
+336 202.9002 Td
+(and forEach) Tj
+ET
+BT
+/F2 7.4 Tf
+322 193.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 193.3002 Td
+(arguments only works in arrow functions) Tj
+ET
+BT
+/F2 7.4 Tf
+322 183.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 183.7002 Td
+(Rest parameters cannot accept objects) Tj
+ET
+BT
+/F2 7.4 Tf
+322 174.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 174.1002 Td
+(There is zero difference) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 12 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+12 0 obj
+<< /Length 11080 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 5 of 29) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(57.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What is the Spread Operator \(`...iterable`\)) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(syntax in ES6 expressions?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(Expands an iterable \(like an array or) Tj
+ET
+BT
+/F1 7.4 Tf
+72 754.5 Td
+(string\) into individual elements in function) Tj
+ET
+BT
+/F1 7.4 Tf
+72 745.9 Td
+(calls, array literals, or object literals) Tj
+ET
+BT
+/F2 7.4 Tf
+58 736.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 736.3 Td
+(Combines arguments into an array) Tj
+ET
+BT
+/F2 7.4 Tf
+58 726.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 726.7001 Td
+(Creates a closure loop) Tj
+ET
+BT
+/F2 7.4 Tf
+58 717.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 717.1001 Td
+(Deletes array indices) Tj
+ET
+BT
+/F2 8.0 Tf
+42 693.5001 Td
+(58.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 693.5001 Td
+(What is the result of `const merged = { ...objA,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 684.3001 Td
+(...objB };` if both objects contain a property) Tj
+ET
+BT
+/F1 7.8 Tf
+58 675.1001 Td
+(with the same key 'id'?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 663.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 663.4001 Td
+(The property value from objB overrides that) Tj
+ET
+BT
+/F1 7.4 Tf
+72 654.8001 Td
+(of objA \(properties declared later take) Tj
+ET
+BT
+/F1 7.4 Tf
+72 646.2001 Td
+(precedence\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 636.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 636.6002 Td
+(Throws a duplicate property SyntaxError) Tj
+ET
+BT
+/F2 7.4 Tf
+58 627.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 627.0002 Td
+(Both IDs are merged into an array) Tj
+ET
+BT
+/F2 7.4 Tf
+58 617.4002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 617.4002 Td
+(objA wins and ignores objB) Tj
+ET
+BT
+/F2 8.0 Tf
+42 593.8002 Td
+(59.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 593.8002 Td
+(What are ES6 Template Literals, and how do they) Tj
+ET
+BT
+/F1 7.8 Tf
+58 584.6002 Td
+(differ from regular strings?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 572.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 572.9002 Td
+(Strings delimited with backticks \(``\)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 564.3002 Td
+(allowing embedded expressions via) Tj
+ET
+BT
+/F1 7.4 Tf
+72 555.7003 Td
+(`${expression}` and multi-line strings) Tj
+ET
+BT
+/F1 7.4 Tf
+72 547.1003 Td
+(without newline escape characters) Tj
+ET
+BT
+/F2 7.4 Tf
+58 537.5003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 537.5003 Td
+(Strings that compile to HTML canvas) Tj
+ET
+BT
+/F2 7.4 Tf
+58 527.9003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 527.9003 Td
+(Strings encrypted with AES) Tj
+ET
+BT
+/F2 7.4 Tf
+58 518.3004 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 518.3004 Td
+(Strings restricted to 256 characters) Tj
+ET
+BT
+/F2 8.0 Tf
+42 494.7003 Td
+(60.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 494.7003 Td
+(What is the HTML5 Constraint Validation API) Tj
+ET
+BT
+/F1 7.8 Tf
+58 485.5003 Td
+(method `input.checkValidity\(\)`?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 473.8003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 473.8003 Td
+(Returns true if the input element satisfies) Tj
+ET
+BT
+/F1 7.4 Tf
+72 465.2003 Td
+(all its validation constraints \(required,) Tj
+ET
+BT
+/F1 7.4 Tf
+72 456.6003 Td
+(pattern, min/max\), or false otherwise) Tj
+ET
+BT
+/F2 7.4 Tf
+58 447.0003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 447.0003 Td
+(Submits the form immediately) Tj
+ET
+BT
+/F2 7.4 Tf
+58 437.4003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 437.4003 Td
+(Displays an alert popup) Tj
+ET
+BT
+/F2 7.4 Tf
+58 427.8003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 427.8003 Td
+(Resets the form fields) Tj
+ET
+BT
+/F2 8.0 Tf
+42 404.2003 Td
+(61.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 404.2003 Td
+(What does `input.reportValidity\(\)` do beyond) Tj
+ET
+BT
+/F1 7.8 Tf
+58 395.0003 Td
+(`input.checkValidity\(\)`?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 383.3003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 383.3003 Td
+(Checks validity AND triggers the browser's) Tj
+ET
+BT
+/F1 7.4 Tf
+72 374.7003 Td
+(native error bubble tooltip if constraints) Tj
+ET
+BT
+/F1 7.4 Tf
+72 366.1003 Td
+(are violated) Tj
+ET
+BT
+/F2 7.4 Tf
+58 356.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 356.5002 Td
+(Clears the input field) Tj
+ET
+BT
+/F2 7.4 Tf
+58 346.9002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 346.9002 Td
+(Sends error logs to server) Tj
+ET
+BT
+/F2 7.4 Tf
+58 337.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 337.3002 Td
+(Disables the submit button) Tj
+ET
+BT
+/F2 8.0 Tf
+42 313.7002 Td
+(62.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 313.7002 Td
+(Which method customizes the native browser) Tj
+ET
+BT
+/F1 7.8 Tf
+58 304.5002 Td
+(validation error message on a form input?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 292.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 292.8002 Td
+(input.setCustomValidity\('Custom message'\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 283.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 283.2002 Td
+(input.setError\('Custom message'\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 273.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 273.6002 Td
+(input.customError = 'message') Tj
+ET
+BT
+/F2 7.4 Tf
+58 264.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 264.0002 Td
+(input.validationMessage = 'message') Tj
+ET
+BT
+/F2 8.0 Tf
+42 240.4002 Td
+(63.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 240.4002 Td
+(What must be passed to) Tj
+ET
+BT
+/F1 7.8 Tf
+58 231.2002 Td
+(`input.setCustomValidity\(''\)` to clear the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 222.0002 Td
+(custom error and mark the field valid?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 210.3002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 210.3002 Td
+(An empty string "") Tj
+ET
+BT
+/F2 7.4 Tf
+58 200.7002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 200.7002 Td
+(null) Tj
+ET
+BT
+/F2 7.4 Tf
+58 191.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 191.1002 Td
+(false) Tj
+ET
+BT
+/F2 7.4 Tf
+58 181.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 181.5002 Td
+(undefined) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(64.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Which DOM mutation observer API monitors changes) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(to the DOM tree \(child additions, attribute) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(modifications, text changes\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(MutationObserver) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.3 Td
+(DOMWatcher) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.7 Td
+(EventListener) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.1 Td
+(ResizeObserver) Tj
+ET
+BT
+/F2 8.0 Tf
+306 701.5001 Td
+(65.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(Which modern browser API efficiently monitors) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(changes to an element's physical dimensions) Tj
+ET
+BT
+/F1 7.8 Tf
+322 683.1 Td
+(\(width, height\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.4 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.4 Td
+(ResizeObserver) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.8 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.8 Td
+(MutationObserver) Tj
+ET
+BT
+/F2 7.4 Tf
+322 652.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 652.2001 Td
+(IntersectionObserver) Tj
+ET
+BT
+/F2 7.4 Tf
+322 642.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 642.6001 Td
+(WindowObserver) Tj
+ET
+BT
+/F2 8.0 Tf
+306 619.0001 Td
+(66.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(Which modern browser API monitors when a target) Tj
+ET
+BT
+/F1 7.8 Tf
+322 609.8001 Td
+(element enters or exits the browser viewport) Tj
+ET
+BT
+/F1 7.8 Tf
+322 600.6001 Td
+(\(ideal for lazy-loading images and infinite) Tj
+ET
+BT
+/F1 7.8 Tf
+322 591.4001 Td
+(scroll\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 579.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 579.7001 Td
+(IntersectionObserver) Tj
+ET
+BT
+/F2 7.4 Tf
+322 570.1001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 570.1001 Td
+(ScrollObserver) Tj
+ET
+BT
+/F2 7.4 Tf
+322 560.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 560.5001 Td
+(ViewportWatcher) Tj
+ET
+BT
+/F2 7.4 Tf
+322 550.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 550.9001 Td
+(LazyObserver) Tj
+ET
+BT
+/F2 8.0 Tf
+306 527.3002 Td
+(67.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 527.3002 Td
+(What is the difference between) Tj
+ET
+BT
+/F1 7.8 Tf
+322 518.1002 Td
+(`element.closest\('selector'\)` and) Tj
+ET
+BT
+/F1 7.8 Tf
+322 508.9001 Td
+(`element.querySelector\('selector'\)`?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 497.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 497.2001 Td
+(`closest\(\)` traverses UP the DOM tree) Tj
+ET
+BT
+/F1 7.4 Tf
+336 488.6001 Td
+(through ancestors looking for a match;) Tj
+ET
+BT
+/F1 7.4 Tf
+336 480.0001 Td
+(`querySelector\(\)` searches DOWN through) Tj
+ET
+BT
+/F1 7.4 Tf
+336 471.4001 Td
+(descendants) Tj
+ET
+BT
+/F2 7.4 Tf
+322 461.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 461.8001 Td
+(Both search downwards) Tj
+ET
+BT
+/F2 7.4 Tf
+322 452.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 452.2001 Td
+(`closest\(\)` only searches sibling nodes) Tj
+ET
+BT
+/F2 7.4 Tf
+322 442.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 442.6001 Td
+(`closest\(\)` is an array method) Tj
+ET
+BT
+/F2 8.0 Tf
+306 419.0001 Td
+(68.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 419.0001 Td
+(What does `element.matches\('selector'\)` return?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 407.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 407.3001 Td
+(true if the element itself would be selected) Tj
+ET
+BT
+/F1 7.4 Tf
+336 398.7001 Td
+(by the specified CSS selector string;) Tj
+ET
+BT
+/F1 7.4 Tf
+336 390.1001 Td
+(otherwise false) Tj
+ET
+BT
+/F2 7.4 Tf
+322 380.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 380.5001 Td
+(All child elements matching the selector) Tj
+ET
+BT
+/F2 7.4 Tf
+322 370.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 370.9001 Td
+(The parent element) Tj
+ET
+BT
+/F2 7.4 Tf
+322 361.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 361.3 Td
+(A NodeList) Tj
+ET
+BT
+/F2 8.0 Tf
+306 337.7 Td
+(69.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 337.7 Td
+(What is the difference between) Tj
+ET
+BT
+/F1 7.8 Tf
+322 328.5 Td
+(`event.stopImmediatePropagation\(\)` and) Tj
+ET
+BT
+/F1 7.8 Tf
+322 319.3 Td
+(`event.stopPropagation\(\)`?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 307.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 307.6 Td
+(`stopImmediatePropagation\(\)` prevents) Tj
+ET
+BT
+/F1 7.4 Tf
+336 299 Td
+(bubbling AND stops other listeners) Tj
+ET
+BT
+/F1 7.4 Tf
+336 290.4 Td
+(registered on the EXACT same element from) Tj
+ET
+BT
+/F1 7.4 Tf
+336 281.8 Td
+(executing; `stopPropagation\(\)` only halts) Tj
+ET
+BT
+/F1 7.4 Tf
+336 273.2 Td
+(bubbling to ancestors) Tj
+ET
+BT
+/F2 7.4 Tf
+322 263.6 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 263.6 Td
+(`stopImmediatePropagation\(\)` cancels default) Tj
+ET
+BT
+/F1 7.4 Tf
+336 255 Td
+(link behavior) Tj
+ET
+BT
+/F2 7.4 Tf
+322 245.4 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 245.4 Td
+(`stopPropagation\(\)` halts JavaScript) Tj
+ET
+BT
+/F1 7.4 Tf
+336 236.8 Td
+(completely) Tj
+ET
+BT
+/F2 7.4 Tf
+322 227.2 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 227.2 Td
+(They are identical aliases) Tj
+ET
+BT
+/F2 8.0 Tf
+306 203.5999 Td
+(70.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 203.5999 Td
+(What are passive event listeners \(`{ passive:) Tj
+ET
+BT
+/F1 7.8 Tf
+322 194.3999 Td
+(true }`\) in addEventListener?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 182.7 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 182.7 Td
+(Informs the browser the listener will never) Tj
+ET
+BT
+/F1 7.4 Tf
+336 174.0999 Td
+(call `event.preventDefault\(\)`, allowing) Tj
+ET
+BT
+/F1 7.4 Tf
+336 165.4999 Td
+(scrolling and touch gestures to run smoothly) Tj
+ET
+BT
+/F1 7.4 Tf
+336 156.8999 Td
+(without waiting for JavaScript execution) Tj
+ET
+BT
+/F2 7.4 Tf
+322 147.2999 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 147.2999 Td
+(Disables keyboard clicks) Tj
+ET
+BT
+/F2 7.4 Tf
+322 137.6999 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 137.6999 Td
+(Runs listener in background Web Worker) Tj
+ET
+BT
+/F2 7.4 Tf
+322 128.0999 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 128.0999 Td
+(Fires listener only once) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 14 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+14 0 obj
+<< /Length 12620 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 6 of 29) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(71.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What does the option `{ once: true }` accomplish) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(in addEventListener?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(Automatically removes the event listener) Tj
+ET
+BT
+/F1 7.4 Tf
+72 754.5 Td
+(after it executes exactly one time) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.9 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.9 Td
+(Prevents duplicate clicks within 1 second) Tj
+ET
+BT
+/F2 7.4 Tf
+58 735.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 735.3 Td
+(Executes listener before DOM loads) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.7001 Td
+(Makes event immutable) Tj
+ET
+BT
+/F2 8.0 Tf
+42 702.1001 Td
+(72.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 702.1001 Td
+(What does the method `element.scrollIntoView\({) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.9001 Td
+(behavior: 'smooth' }\)` do?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 681.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 681.2001 Td
+(Smoothly scrolls the browser window until) Tj
+ET
+BT
+/F1 7.4 Tf
+72 672.6001 Td
+(the target element is visible in the) Tj
+ET
+BT
+/F1 7.4 Tf
+72 664.0001 Td
+(viewport) Tj
+ET
+BT
+/F2 7.4 Tf
+58 654.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 654.4001 Td
+(Animates element opacity) Tj
+ET
+BT
+/F2 7.4 Tf
+58 644.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 644.8002 Td
+(Zooms the camera into the element) Tj
+ET
+BT
+/F2 7.4 Tf
+58 635.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 635.2002 Td
+(Refreshes the scrollbar position) Tj
+ET
+BT
+/F2 8.0 Tf
+42 611.6002 Td
+(73.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 611.6002 Td
+(What is the difference between) Tj
+ET
+BT
+/F1 7.8 Tf
+58 602.4002 Td
+(`window.innerWidth` and `window.outerWidth`?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 590.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 590.7002 Td
+(`innerWidth` is the width of the viewport) Tj
+ET
+BT
+/F1 7.4 Tf
+72 582.1002 Td
+(content area \(excluding browser chrome and) Tj
+ET
+BT
+/F1 7.4 Tf
+72 573.5002 Td
+(toolbars\); `outerWidth` is the full width of) Tj
+ET
+BT
+/F1 7.4 Tf
+72 564.9003 Td
+(the desktop browser window) Tj
+ET
+BT
+/F2 7.4 Tf
+58 555.3003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 555.3003 Td
+(`outerWidth` excludes scrollbars) Tj
+ET
+BT
+/F2 7.4 Tf
+58 545.7003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 545.7003 Td
+(They are identical in full screen) Tj
+ET
+BT
+/F2 7.4 Tf
+58 536.1003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 536.1003 Td
+(`innerWidth` measures document body) Tj
+ET
+BT
+/F2 8.0 Tf
+42 512.5004 Td
+(74.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 512.5004 Td
+(How do you dispatch a custom synthetic event in) Tj
+ET
+BT
+/F1 7.8 Tf
+58 503.3004 Td
+(modern JavaScript DOM?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 491.6003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 491.6003 Td
+(`element.dispatchEvent\(new) Tj
+ET
+BT
+/F1 7.4 Tf
+72 483.0003 Td
+(CustomEvent\('myEvent', { detail: payload) Tj
+ET
+BT
+/F1 7.4 Tf
+72 474.4003 Td
+(}\)\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 464.8003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 464.8003 Td
+(`element.fireEvent\('myEvent', payload\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 455.2003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 455.2003 Td
+(`element.trigger\('myEvent', payload\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 445.6003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 445.6003 Td
+(`document.createEvent\('myEvent', payload\)`) Tj
+ET
+BT
+/F2 8.0 Tf
+42 422.0003 Td
+(75.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 422.0003 Td
+(What is the Shadow DOM in Web Components?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 410.3003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 410.3003 Td
+(An encapsulated, isolated DOM tree attached) Tj
+ET
+BT
+/F1 7.4 Tf
+72 401.7003 Td
+(to an element that prevents internal styles) Tj
+ET
+BT
+/F1 7.4 Tf
+72 393.1003 Td
+(and scripts from leaking into or out of the) Tj
+ET
+BT
+/F1 7.4 Tf
+72 384.5003 Td
+(main document) Tj
+ET
+BT
+/F2 7.4 Tf
+58 374.9003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 374.9003 Td
+(A hidden backup copy of the DOM) Tj
+ET
+BT
+/F2 7.4 Tf
+58 365.3003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 365.3003 Td
+(A headless browser instance) Tj
+ET
+BT
+/F2 7.4 Tf
+58 355.7003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 355.7003 Td
+(A canvas 2D rendering buffer) Tj
+ET
+BT
+/F2 8.0 Tf
+42 332.1003 Td
+(76.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 332.1003 Td
+(What is Layout Thrashing \(Forced Synchronous) Tj
+ET
+BT
+/F1 7.8 Tf
+58 322.9002 Td
+(Layout\) in DOM programming, and what causes it?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 311.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 311.2002 Td
+(Alternating between writing to the DOM) Tj
+ET
+BT
+/F1 7.4 Tf
+72 302.6002 Td
+(\(style changes\) and immediately reading) Tj
+ET
+BT
+/F1 7.4 Tf
+72 294.0002 Td
+(geometric layout properties \(offsetHeight,) Tj
+ET
+BT
+/F1 7.4 Tf
+72 285.4002 Td
+(clientWidth\), forcing the browser to) Tj
+ET
+BT
+/F1 7.4 Tf
+72 276.8002 Td
+(recalculate layout repeatedly in a loop) Tj
+ET
+BT
+/F2 7.4 Tf
+58 267.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 267.2002 Td
+(Executing too many console.log statements) Tj
+ET
+BT
+/F2 7.4 Tf
+58 257.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 257.6002 Td
+(Loading 50 fonts simultaneously) Tj
+ET
+BT
+/F2 7.4 Tf
+58 248.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 248.0002 Td
+(Animating opacity on the GPU) Tj
+ET
+BT
+/F2 8.0 Tf
+42 224.4002 Td
+(77.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 224.4002 Td
+(How do you eliminate Layout Thrashing in) Tj
+ET
+BT
+/F1 7.8 Tf
+58 215.2002 Td
+(high-frequency animation loops?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 203.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 203.5002 Td
+(Batch all DOM style reads together first,) Tj
+ET
+BT
+/F1 7.4 Tf
+72 194.9002 Td
+(and then batch all DOM style writes together) Tj
+ET
+BT
+/F1 7.4 Tf
+72 186.3002 Td
+(\(or use window.requestAnimationFrame\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 176.7002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 176.7002 Td
+(Set display: none on the body) Tj
+ET
+BT
+/F2 7.4 Tf
+58 167.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 167.1002 Td
+(Use setTimeout with 1000ms delay) Tj
+ET
+BT
+/F2 7.4 Tf
+58 157.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 157.5002 Td
+(Convert DOM elements to canvas pixels) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(78.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Why should animations be orchestrated using) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(`window.requestAnimationFrame\(\)` rather than) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(`setInterval\(\)` or `setTimeout\(\)`?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(`requestAnimationFrame\(\)` synchronizes) Tj
+ET
+BT
+/F1 7.4 Tf
+336 745.3 Td
+(callbacks with the display hardware refresh) Tj
+ET
+BT
+/F1 7.4 Tf
+336 736.7 Td
+(rate \(60/120 Hz\) and pauses automatically) Tj
+ET
+BT
+/F1 7.4 Tf
+336 728.1 Td
+(when browser tabs are in background, saving) Tj
+ET
+BT
+/F1 7.4 Tf
+336 719.5001 Td
+(CPU/battery) Tj
+ET
+BT
+/F2 7.4 Tf
+322 709.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 709.9001 Td
+(It compiles animations into WebGL) Tj
+ET
+BT
+/F2 7.4 Tf
+322 700.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 700.3001 Td
+(It runs synchronously on the main thread) Tj
+ET
+BT
+/F2 7.4 Tf
+322 690.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 690.7001 Td
+(It bypasses CSS styling rules) Tj
+ET
+BT
+/F2 8.0 Tf
+306 671.143 Td
+(79.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 671.143 Td
+(In an Event Delegation architecture, how do you) Tj
+ET
+BT
+/F1 7.8 Tf
+322 661.943 Td
+(reliably determine which interactive child) Tj
+ET
+BT
+/F1 7.8 Tf
+322 652.743 Td
+(button was clicked even if the user clicked an) Tj
+ET
+BT
+/F1 7.8 Tf
+322 643.543 Td
+(interior nested `<span>` or `<i>` icon?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 631.843 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 631.843 Td
+(`const button =) Tj
+ET
+BT
+/F1 7.4 Tf
+336 623.243 Td
+(event.target.closest\('button'\);` \(traverses) Tj
+ET
+BT
+/F1 7.4 Tf
+336 614.643 Td
+(up from clicked icon to find the enclosing) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.043 Td
+(button\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 596.4431 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 596.4431 Td
+(`event.target.querySelector\('button'\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 586.8431 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 586.8431 Td
+(`event.currentTarget.parentElement`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 577.2431 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 577.2431 Td
+(`event.target.children[0]`) Tj
+ET
+BT
+/F2 8.0 Tf
+306 557.686 Td
+(80.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 557.686 Td
+(What is the security hazard known as DOM-based) Tj
+ET
+BT
+/F1 7.8 Tf
+322 548.486 Td
+(Cross-Site Scripting \(DOM XSS\), and which DOM) Tj
+ET
+BT
+/F1 7.8 Tf
+322 539.2859 Td
+(property is most vulnerable to it?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 527.5859 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 527.5859 Td
+(Insecurely injecting unsanitized) Tj
+ET
+BT
+/F1 7.4 Tf
+336 518.986 Td
+(user-controlled data into execution sinks) Tj
+ET
+BT
+/F1 7.4 Tf
+336 510.386 Td
+(like `element.innerHTML` or `eval\(\)`,) Tj
+ET
+BT
+/F1 7.4 Tf
+336 501.7859 Td
+(allowing attacker scripts to run) Tj
+ET
+BT
+/F2 7.4 Tf
+322 492.1859 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 492.1859 Td
+(Using textContent on input fields) Tj
+ET
+BT
+/F2 7.4 Tf
+322 482.5859 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 482.5859 Td
+(Selecting nodes with querySelector) Tj
+ET
+BT
+/F2 7.4 Tf
+322 472.9859 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 472.9859 Td
+(Attaching click event listeners) Tj
+ET
+BT
+/F2 8.0 Tf
+306 453.4288 Td
+(81.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 453.4288 Td
+(Which modern browser API safely converts an) Tj
+ET
+BT
+/F1 7.8 Tf
+322 444.2288 Td
+(untrusted HTML string into an inert DOM tree) Tj
+ET
+BT
+/F1 7.8 Tf
+322 435.0287 Td
+(sanitized of malicious scripts before insertion?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 423.3287 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 423.3287 Td
+(Sanitizer API) Tj
+ET
+BT
+/F1 7.4 Tf
+336 414.7287 Td
+(\(`element.setHTML\(untrustedString\)`\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 405.1287 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 405.1287 Td
+(JSON.parse\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 395.5287 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 395.5287 Td
+(encodeURIComponent\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 385.9287 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 385.9287 Td
+(document.write\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 366.3716 Td
+(82.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 366.3716 Td
+(What is the exact functional difference between) Tj
+ET
+BT
+/F1 7.8 Tf
+322 357.1715 Td
+(`element.cloneNode\(false\)` and) Tj
+ET
+BT
+/F1 7.8 Tf
+322 347.9715 Td
+(`element.cloneNode\(true\)`?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 336.2715 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 336.2715 Td
+(`cloneNode\(false\)` performs a shallow clone) Tj
+ET
+BT
+/F1 7.4 Tf
+336 327.6715 Td
+(of the element and attributes only;) Tj
+ET
+BT
+/F1 7.4 Tf
+336 319.0715 Td
+(`cloneNode\(true\)` performs a deep clone) Tj
+ET
+BT
+/F1 7.4 Tf
+336 310.4715 Td
+(including all child nodes and text content) Tj
+ET
+BT
+/F2 7.4 Tf
+322 300.8715 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 300.8715 Td
+(`true` copies event listeners; `false` does) Tj
+ET
+BT
+/F1 7.4 Tf
+336 292.2715 Td
+(not) Tj
+ET
+BT
+/F2 7.4 Tf
+322 282.6715 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 282.6715 Td
+(`true` copies styles; `false` does not) Tj
+ET
+BT
+/F2 7.4 Tf
+322 273.0715 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 273.0715 Td
+(`false` throws an error if children exist) Tj
+ET
+BT
+/F2 8.0 Tf
+306 253.5143 Td
+(83.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 253.5143 Td
+(Do cloned DOM nodes created via) Tj
+ET
+BT
+/F1 7.8 Tf
+322 244.3143 Td
+(`element.cloneNode\(true\)` retain event listeners) Tj
+ET
+BT
+/F1 7.8 Tf
+322 235.1143 Td
+(added via `addEventListener\(\)`?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 223.4143 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 223.4143 Td
+(No: event listeners added via) Tj
+ET
+BT
+/F1 7.4 Tf
+336 214.8143 Td
+(addEventListener are NOT copied; only inline) Tj
+ET
+BT
+/F1 7.4 Tf
+336 206.2143 Td
+(event attributes \(onclick\) are copied) Tj
+ET
+BT
+/F2 7.4 Tf
+322 196.6143 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 196.6143 Td
+(Yes: all event listeners are cloned) Tj
+ET
+BT
+/F1 7.4 Tf
+336 188.0143 Td
+(automatically) Tj
+ET
+BT
+/F2 7.4 Tf
+322 178.4143 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 178.4143 Td
+(Only click listeners are cloned) Tj
+ET
+BT
+/F2 7.4 Tf
+322 168.8143 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 168.8143 Td
+(Only listeners with passive: true are cloned) Tj
+ET
+BT
+/F2 8.0 Tf
+306 149.2572 Td
+(84.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 149.2572 Td
+(What does `document.adoptNode\(externalNode\)` do) Tj
+ET
+BT
+/F1 7.8 Tf
+322 140.0572 Td
+(compared to `document.importNode\(externalNode,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 130.8572 Td
+(deep\)`?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 119.1572 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 119.1572 Td
+(`adoptNode\(\)` moves the original node from) Tj
+ET
+BT
+/F1 7.4 Tf
+336 110.5572 Td
+(an external document \(e.g. iframe\) into the) Tj
+ET
+BT
+/F1 7.4 Tf
+336 101.9572 Td
+(current document; `importNode\(\)` creates a) Tj
+ET
+BT
+/F1 7.4 Tf
+336 93.35717 Td
+(new copy leaving the original intact) Tj
+ET
+BT
+/F2 7.4 Tf
+322 83.75717 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 83.75717 Td
+(`importNode\(\)` deletes the original) Tj
+ET
+BT
+/F2 7.4 Tf
+322 74.15717 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 74.15717 Td
+(`adoptNode\(\)` only works on scripts) Tj
+ET
+BT
+/F2 7.4 Tf
+322 64.55717 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 64.55717 Td
+(They are identical aliases) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 16 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+16 0 obj
+<< /Length 12157 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 7 of 29) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(85.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(In modern ES6+, what does Object Property) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(Shorthand and Computed Property Names achieve?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(Shorthand `{ x, y }` maps variables to) Tj
+ET
+BT
+/F1 7.4 Tf
+72 754.5 Td
+(properties; computed `[prefix + id]: val`) Tj
+ET
+BT
+/F1 7.4 Tf
+72 745.9 Td
+(allows dynamic runtime expressions inside) Tj
+ET
+BT
+/F1 7.4 Tf
+72 737.3 Td
+(object literals) Tj
+ET
+BT
+/F2 7.4 Tf
+58 727.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 727.7001 Td
+(Freezes object properties) Tj
+ET
+BT
+/F2 7.4 Tf
+58 718.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 718.1001 Td
+(Generates getters and setters automatically) Tj
+ET
+BT
+/F2 7.4 Tf
+58 708.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 708.5001 Td
+(Converts keys to uppercase) Tj
+ET
+BT
+/F2 8.0 Tf
+42 684.9001 Td
+(86.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 684.9001 Td
+(What is the output of `const key = 'score';) Tj
+ET
+BT
+/F1 7.8 Tf
+58 675.7001 Td
+(const obj = { [key]: 100 };) Tj
+ET
+BT
+/F1 7.8 Tf
+58 666.5001 Td
+(console.log\(obj.score\);`?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 654.8001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 654.8001 Td
+(100 \(computed property name evaluates) Tj
+ET
+BT
+/F1 7.4 Tf
+72 646.2001 Td
+(variable 'key'\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 636.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 636.6002 Td
+(undefined) Tj
+ET
+BT
+/F2 7.4 Tf
+58 627.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 627.0002 Td
+(NaN) Tj
+ET
+BT
+/F2 7.4 Tf
+58 617.4002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 617.4002 Td
+(ReferenceError) Tj
+ET
+BT
+/F2 8.0 Tf
+42 593.8002 Td
+(87.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 593.8002 Td
+(How does Destructuring Assignment handle) Tj
+ET
+BT
+/F1 7.8 Tf
+58 584.6002 Td
+(swapping two variables without a temporary third) Tj
+ET
+BT
+/F1 7.8 Tf
+58 575.4002 Td
+(variable?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 563.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 563.7002 Td
+(`[a, b] = [b, a];`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 554.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 554.1002 Td
+(`a = b = a;`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 544.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 544.5002 Td
+(`swap\(a, b\);`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 534.9003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 534.9003 Td
+(`a = [b, b = a][0];` only) Tj
+ET
+BT
+/F2 8.0 Tf
+42 511.3003 Td
+(88.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 511.3003 Td
+(What is the purpose of `event.isTrusted` boolean) Tj
+ET
+BT
+/F1 7.8 Tf
+58 502.1003 Td
+(property on DOM events?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 490.4003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 490.4003 Td
+(Returns true if the event was generated by a) Tj
+ET
+BT
+/F1 7.4 Tf
+72 481.8003 Td
+(genuine user action \(physical) Tj
+ET
+BT
+/F1 7.4 Tf
+72 473.2003 Td
+(click/keypress\), and false if generated by) Tj
+ET
+BT
+/F1 7.4 Tf
+72 464.6003 Td
+(scripts \(e.g. element.click\(\)\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 455.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 455.0002 Td
+(Verifies whether SSL certificate is trusted) Tj
+ET
+BT
+/F2 7.4 Tf
+58 445.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 445.4002 Td
+(Checks if user is logged in) Tj
+ET
+BT
+/F2 7.4 Tf
+58 435.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 435.8002 Td
+(Verifies CORS origin) Tj
+ET
+BT
+/F2 8.0 Tf
+42 412.2002 Td
+(89.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 412.2002 Td
+(What happens during Event Bubbling when a click) Tj
+ET
+BT
+/F1 7.8 Tf
+58 403.0002 Td
+(event encounters a shadow root boundary?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 391.3002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 391.3002 Td
+(The event is retargeted so that) Tj
+ET
+BT
+/F1 7.4 Tf
+72 382.7002 Td
+(`event.target` appears as the custom host) Tj
+ET
+BT
+/F1 7.4 Tf
+72 374.1002 Td
+(element itself to listeners outside the) Tj
+ET
+BT
+/F1 7.4 Tf
+72 365.5002 Td
+(shadow DOM, preserving encapsulation) Tj
+ET
+BT
+/F2 7.4 Tf
+58 355.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 355.9002 Td
+(The event stops immediately and dies) Tj
+ET
+BT
+/F2 7.4 Tf
+58 346.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 346.3002 Td
+(The event reloads the webpage) Tj
+ET
+BT
+/F2 7.4 Tf
+58 336.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 336.7002 Td
+(The event converts into a mouseup event) Tj
+ET
+BT
+/F2 8.0 Tf
+42 313.1002 Td
+(90.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 313.1002 Td
+(What is the difference between) Tj
+ET
+BT
+/F1 7.8 Tf
+58 303.9001 Td
+(`element.offsetWidth` / `element.offsetHeight`) Tj
+ET
+BT
+/F1 7.8 Tf
+58 294.7001 Td
+(and `element.clientWidth` /) Tj
+ET
+BT
+/F1 7.8 Tf
+58 285.5001 Td
+(`element.clientHeight`?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 273.8001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 273.8001 Td
+(`offsetWidth/Height` includes content,) Tj
+ET
+BT
+/F1 7.4 Tf
+72 265.2001 Td
+(padding, border, and scrollbar;) Tj
+ET
+BT
+/F1 7.4 Tf
+72 256.6001 Td
+(`clientWidth/Height` includes content and) Tj
+ET
+BT
+/F1 7.4 Tf
+72 248.0001 Td
+(padding only \(excludes border and scrollbar\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 238.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 238.4001 Td
+(`clientWidth` includes margins) Tj
+ET
+BT
+/F2 7.4 Tf
+58 228.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 228.8001 Td
+(`offsetWidth` only measures text) Tj
+ET
+BT
+/F2 7.4 Tf
+58 219.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 219.2001 Td
+(There is no difference in border-box) Tj
+ET
+BT
+/F2 8.0 Tf
+42 195.6001 Td
+(91.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 195.6001 Td
+(What does `element.scrollWidth` /) Tj
+ET
+BT
+/F1 7.8 Tf
+58 186.4001 Td
+(`element.scrollHeight` represent?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 174.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 174.7001 Td
+(The entire width and height of an element's) Tj
+ET
+BT
+/F1 7.4 Tf
+72 166.1001 Td
+(total content, including overflowing content) Tj
+ET
+BT
+/F1 7.4 Tf
+72 157.5001 Td
+(that is currently hidden outside the) Tj
+ET
+BT
+/F1 7.4 Tf
+72 148.9001 Td
+(scrollable viewport) Tj
+ET
+BT
+/F2 7.4 Tf
+58 139.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 139.3 Td
+(The visible rendered viewport size) Tj
+ET
+BT
+/F2 7.4 Tf
+58 129.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 129.7 Td
+(The size of the scrollbar thumb) Tj
+ET
+BT
+/F2 7.4 Tf
+58 120.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 120.1 Td
+(The scroll offset coordinates) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(92.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(How do you detect whether an element currently) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(has overflowing content requiring a scrollbar?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(`element.scrollHeight > element.clientHeight) Tj
+ET
+BT
+/F1 7.4 Tf
+336 754.5 Td
+(|| element.scrollWidth >) Tj
+ET
+BT
+/F1 7.4 Tf
+336 745.9 Td
+(element.clientWidth`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 736.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 736.3 Td
+(`element.style.overflow === 'scroll'`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 726.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 726.7001 Td
+(`element.hasScrollbar\(\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 717.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 717.1001 Td
+(`element.offsetHeight > window.innerHeight`) Tj
+ET
+BT
+/F2 8.0 Tf
+306 693.5001 Td
+(93.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 693.5001 Td
+(What does the DOM method) Tj
+ET
+BT
+/F1 7.8 Tf
+322 684.3001 Td
+(`element.insertAdjacentHTML\(position, text\)` do,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 675.1001 Td
+(and why is it faster than `innerHTML += text`?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 663.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 663.4001 Td
+(Parses text as HTML and inserts nodes at) Tj
+ET
+BT
+/F1 7.4 Tf
+336 654.8001 Td
+(specified position without re-parsing or) Tj
+ET
+BT
+/F1 7.4 Tf
+336 646.2001 Td
+(destroying existing DOM children; `innerHTML) Tj
+ET
+BT
+/F1 7.4 Tf
+336 637.6002 Td
+(+=` destroys and recreates all children) Tj
+ET
+BT
+/F2 7.4 Tf
+322 628.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 628.0002 Td
+(It creates an iframe) Tj
+ET
+BT
+/F2 7.4 Tf
+322 618.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 618.4002 Td
+(It validates HTML syntax with W3C servers) Tj
+ET
+BT
+/F2 7.4 Tf
+322 608.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 608.8002 Td
+(It compiles HTML into SVG) Tj
+ET
+BT
+/F2 8.0 Tf
+306 585.2003 Td
+(94.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 585.2003 Td
+(What are the four valid position arguments) Tj
+ET
+BT
+/F1 7.8 Tf
+322 576.0002 Td
+(accepted by `insertAdjacentHTML\(\)`?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 564.3002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 564.3002 Td
+('beforebegin', 'afterbegin', 'beforeend',) Tj
+ET
+BT
+/F1 7.4 Tf
+336 555.7003 Td
+('afterend') Tj
+ET
+BT
+/F2 7.4 Tf
+322 546.1003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 546.1003 Td
+('top', 'bottom', 'left', 'right') Tj
+ET
+BT
+/F2 7.4 Tf
+322 536.5003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 536.5003 Td
+('first', 'last', 'prepend', 'append') Tj
+ET
+BT
+/F2 7.4 Tf
+322 526.9003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 526.9003 Td
+('inside', 'outside', 'start', 'end') Tj
+ET
+BT
+/F2 8.0 Tf
+306 503.3004 Td
+(95.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 503.3004 Td
+(What is the Virtual DOM used by modern frontend) Tj
+ET
+BT
+/F1 7.8 Tf
+322 494.1003 Td
+(libraries \(React, Vue\), and how does it optimize) Tj
+ET
+BT
+/F1 7.8 Tf
+322 484.9003 Td
+(real DOM updates?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 473.2003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 473.2003 Td
+(An in-memory lightweight JavaScript tree) Tj
+ET
+BT
+/F1 7.4 Tf
+336 464.6003 Td
+(representation of the UI; diffing algorithms) Tj
+ET
+BT
+/F1 7.4 Tf
+336 456.0003 Td
+(calculate the minimal delta updates required) Tj
+ET
+BT
+/F1 7.4 Tf
+336 447.4003 Td
+(on the slow real DOM) Tj
+ET
+BT
+/F2 7.4 Tf
+322 437.8003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 437.8003 Td
+(A browser extension that runs on GPU) Tj
+ET
+BT
+/F2 7.4 Tf
+322 428.2003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 428.2003 Td
+(A canvas simulation of HTML elements) Tj
+ET
+BT
+/F2 7.4 Tf
+322 418.6003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 418.6003 Td
+(A WebAssembly engine for CSS) Tj
+ET
+BT
+/F2 8.0 Tf
+306 395.0003 Td
+(96.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 395.0003 Td
+(What is the difference between shallow and deep) Tj
+ET
+BT
+/F1 7.8 Tf
+322 385.8003 Td
+(reactivity in modern frontend state proxies?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 374.1003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 374.1003 Td
+(Shallow reactivity only tracks top-level) Tj
+ET
+BT
+/F1 7.4 Tf
+336 365.5002 Td
+(property mutations; deep reactivity) Tj
+ET
+BT
+/F1 7.4 Tf
+336 356.9002 Td
+(recursively wraps nested objects in Proxies) Tj
+ET
+BT
+/F1 7.4 Tf
+336 348.3002 Td
+(to track mutations at all levels) Tj
+ET
+BT
+/F2 7.4 Tf
+322 338.7002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 338.7002 Td
+(Shallow reactivity uses getters, deep uses) Tj
+ET
+BT
+/F1 7.4 Tf
+336 330.1002 Td
+(setters) Tj
+ET
+BT
+/F2 7.4 Tf
+322 320.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 320.5002 Td
+(Deep reactivity compiles to bytecode) Tj
+ET
+BT
+/F2 7.4 Tf
+322 310.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 310.9002 Td
+(There is no difference in JavaScript) Tj
+ET
+BT
+/F2 8.0 Tf
+306 287.3002 Td
+(97.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 287.3002 Td
+(What is the role of `document.activeElement` in) Tj
+ET
+BT
+/F1 7.8 Tf
+322 278.1002 Td
+(DOM accessibility and focus management?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 266.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 266.4002 Td
+(Returns the DOM element that currently holds) Tj
+ET
+BT
+/F1 7.4 Tf
+336 257.8002 Td
+(keyboard input focus within the active) Tj
+ET
+BT
+/F1 7.4 Tf
+336 249.2002 Td
+(document) Tj
+ET
+BT
+/F2 7.4 Tf
+322 239.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 239.6002 Td
+(Returns the currently hovered element) Tj
+ET
+BT
+/F2 7.4 Tf
+322 230.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 230.0002 Td
+(Returns the element currently being animated) Tj
+ET
+BT
+/F2 7.4 Tf
+322 220.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 220.4001 Td
+(Returns the active script tag) Tj
+ET
+BT
+/F2 8.0 Tf
+306 196.8001 Td
+(98.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 196.8001 Td
+(What does the HTML5 'inert' boolean attribute) Tj
+ET
+BT
+/F1 7.8 Tf
+322 187.6001 Td
+(achieve when set on a modal background overlay) Tj
+ET
+BT
+/F1 7.8 Tf
+322 178.4001 Td
+(container?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 166.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 166.7001 Td
+(Makes the entire DOM subtree) Tj
+ET
+BT
+/F1 7.4 Tf
+336 158.1001 Td
+(non-interactive, removing it from tab) Tj
+ET
+BT
+/F1 7.4 Tf
+336 149.5001 Td
+(navigation, accessibility trees, and pointer) Tj
+ET
+BT
+/F1 7.4 Tf
+336 140.9001 Td
+(event hits) Tj
+ET
+BT
+/F2 7.4 Tf
+322 131.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 131.3001 Td
+(Hides the subtree via display: none) Tj
+ET
+BT
+/F2 7.4 Tf
+322 121.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 121.7001 Td
+(Freezes JavaScript execution inside the) Tj
+ET
+BT
+/F1 7.4 Tf
+336 113.1001 Td
+(container) Tj
+ET
+BT
+/F2 7.4 Tf
+322 103.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 103.5001 Td
+(Disables CSS styling) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 18 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+18 0 obj
+<< /Length 2047 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 8 of 29) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(99.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(How do you safely trap keyboard focus inside an) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(active Modal Dialog for accessibility) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(compliance?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(Listen for Tab/Shift+Tab keydown events on) Tj
+ET
+BT
+/F1 7.4 Tf
+72 745.3 Td
+(first and last focusable elements in modal,) Tj
+ET
+BT
+/F1 7.4 Tf
+72 736.7 Td
+(wrapping focus in a cycle within the dialog) Tj
+ET
+BT
+/F2 7.4 Tf
+58 727.1 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 727.1 Td
+(Disable all keyboard events on window) Tj
+ET
+BT
+/F2 7.4 Tf
+58 717.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 717.5001 Td
+(Set tabIndex = -1 on all buttons) Tj
+ET
+BT
+/F2 7.4 Tf
+58 707.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 707.9001 Td
+(Use alert\(\) popups instead of modals) Tj
+ET
+BT
+/F2 8.0 Tf
+42 674.3001 Td
+(100.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 674.3001 Td
+(What is the purpose of the modern) Tj
+ET
+BT
+/F1 7.8 Tf
+58 665.1001 Td
+(`AbortController` and `AbortSignal` when) Tj
+ET
+BT
+/F1 7.8 Tf
+58 655.9001 Td
+(managing DOM event listeners?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 644.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 644.2001 Td
+(Allows removing dozens of event listeners) Tj
+ET
+BT
+/F1 7.4 Tf
+72 635.6001 Td
+(across multiple elements simultaneously with) Tj
+ET
+BT
+/F1 7.4 Tf
+72 627.0001 Td
+(a single call to `controller.abort\(\)` via `{) Tj
+ET
+BT
+/F1 7.4 Tf
+72 618.4001 Td
+(signal: controller.signal }`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 608.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 608.8002 Td
+(Cancels CPU memory allocations) Tj
+ET
+BT
+/F2 7.4 Tf
+58 599.2002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 599.2002 Td
+(Terminates browser worker processes) Tj
+ET
+BT
+/F2 7.4 Tf
+58 589.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 589.6002 Td
+(Stops CSS transitions midway) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 20 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+20 0 obj
+<< /Length 4806 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 9 of 29) Tj
+ET
+BT
+/F2 10 Tf
+45 780 Td
+(SECTION B: DESCRIPTIVE & SUBJECTIVE QUESTIONS) Tj
+ET
+BT
+/F2 8.5 Tf
+45 760 Td
+(Q1. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 760 Td
+(Explain the Document Object Model \(DOM\) tree architecture, detailing Node hierarchy: Document,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 749.5 Td
+(Element, Attr, and Text nodes.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 724.5 Td
+(Q2. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 724.5 Td
+(Compare DOM selection methods: getElementById, getElementsByTagName, getElementsByClassName,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 714 Td
+(querySelector, and querySelectorAll.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 689 Td
+(Q3. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 689 Td
+(Explain the complete W3C DOM Event Flow architecture: Capturing Phase, Target Phase, and Bubbling) Tj
+ET
+BT
+/F1 8.5 Tf
+72 678.5 Td
+(Phase.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 653.5 Td
+(Q4. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 653.5 Td
+(Explain Event Delegation in full technical detail, illustrating how to implement a) Tj
+ET
+BT
+/F1 8.5 Tf
+72 643 Td
+(high-performance delegated list handler.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 618 Td
+(Q5. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 618 Td
+(Analyze Browser Reflow \(Layout\) and Repaint, detailing Layout Thrashing and strategies to optimize) Tj
+ET
+BT
+/F1 8.5 Tf
+72 607.5 Td
+(DOM performance.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 582.5 Td
+(Q6. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 582.5 Td
+(Explain the HTML5 Constraint Validation API, detailing form element properties, validity states,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 572 Td
+(and custom validation styling.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 547 Td
+(Q7. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 547 Td
+(Explain the IntersectionObserver API, detailing its configuration options and demonstrating an) Tj
+ET
+BT
+/F1 8.5 Tf
+72 536.5 Td
+(image lazy-loading script.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 511.5 Td
+(Q8. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 511.5 Td
+(Explain the MutationObserver API, detailing configuration options and demonstrating tracking of) Tj
+ET
+BT
+/F1 8.5 Tf
+72 501 Td
+(dynamic element insertions.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 476 Td
+(Q9. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 476 Td
+(Explain ES6+ Destructuring Assignment features: default values, alias renaming, nested) Tj
+ET
+BT
+/F1 8.5 Tf
+72 465.5 Td
+(destructuring, and parameter destructuring.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 440.5 Td
+(Q10. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 440.5 Td
+(Explain the Rest and Spread operators in ES6+, detailing functional differences across parameters,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 430 Td
+(arrays, and objects.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 405 Td
+(Q11. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 405 Td
+(Explain Optional Chaining \(?.\) and Nullish Coalescing \(??\) operators in ES2020, illustrating bug) Tj
+ET
+BT
+/F1 8.5 Tf
+72 394.5 Td
+(prevention in nested data.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 369.5 Td
+(Q12. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 369.5 Td
+(Describe the Shadow DOM architecture in Web Components, explaining open vs closed modes, slots,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 359 Td
+(and style scoping.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 334 Td
+(Q13. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 334 Td
+(Explain modern DOM element insertion methods: append\(\), prepend\(\), before\(\), after\(\),) Tj
+ET
+BT
+/F1 8.5 Tf
+72 323.5 Td
+(replaceWith\(\), and insertAdjacentElement\(\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 298.5 Td
+(Q14. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 298.5 Td
+(Explain the AbortController API and demonstrate how it manages cleanup of event listeners and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 288 Td
+(cancellation of Fetch requests.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 263 Td
+(Q15. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 263 Td
+(Describe HTML Form serialization techniques: FormData API, URLSearchParams, and submitting JSON) Tj
+ET
+BT
+/F1 8.5 Tf
+72 252.5 Td
+(payloads.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 227.5 Td
+(Q16. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 227.5 Td
+(Explain Passive Event Listeners \({ passive: true }\) and the performance problems they solve in) Tj
+ET
+BT
+/F1 8.5 Tf
+72 217 Td
+(mobile touch and wheel interactions.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 192 Td
+(Q17. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 192 Td
+(Discuss Keyboard Accessibility: Focus Trapping, roving tabindex, and ARIA modal accessibility) Tj
+ET
+BT
+/F1 8.5 Tf
+72 181.5 Td
+(patterns.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 156.5 Td
+(Q18. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 156.5 Td
+(Explain JavaScript Custom Events \(new CustomEvent\), event bubbling, and component communication) Tj
+ET
+BT
+/F1 8.5 Tf
+72 146 Td
+(architectures.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 121 Td
+(Q19. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 121 Td
+(Detail DOM security hazards: innerHTML vs textContent, DOM-based XSS, and safe DOM manipulation) Tj
+ET
+BT
+/F1 8.5 Tf
+72 110.5 Td
+(patterns.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 85.5 Td
+(Q20. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 85.5 Td
+(Explain the ResizeObserver API, compare it with window.onresize, and demonstrate responsive) Tj
+ET
+BT
+/F1 8.5 Tf
+72 75 Td
+(component card resizing.) Tj
+ET
+
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 22 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+22 0 obj
+<< /Length 2443 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 10 of 29) Tj
+ET
+BT
+/F2 8.5 Tf
+45 780 Td
+(Q21. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 780 Td
+(Write a complete vanilla JavaScript interactive Tabbed Component: rendering tab buttons, managing) Tj
+ET
+BT
+/F1 8.5 Tf
+72 769.5 Td
+(active classes, and switching panels.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 743.5 Td
+(Q22. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 743.5 Td
+(Write a comprehensive client-side form validation script that validates username, email, and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 733 Td
+(password complexity in real time.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 707 Td
+(Q23. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 707 Td
+(Implement an Infinite Scroll feature using IntersectionObserver, fetching and appending new items) Tj
+ET
+BT
+/F1 8.5 Tf
+72 696.5 Td
+(dynamically when reaching bottom.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 670.5 Td
+(Q24. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 670.5 Td
+(Write an accessible, keyboard-navigable Accordion widget in vanilla JavaScript using ARIA states.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 634 Td
+(Q25. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 634 Td
+(Demonstrate how to implement a Toast Notification system in pure JavaScript that displays) Tj
+ET
+BT
+/F1 8.5 Tf
+72 623.5 Td
+(auto-dismissing toast alerts.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 597.5 Td
+(Q26. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 597.5 Td
+(Explain the HTML5 <template> element and write code to clone and populate template content into) Tj
+ET
+BT
+/F1 8.5 Tf
+72 587 Td
+(the DOM.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 561 Td
+(Q27. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 561 Td
+(Implement a custom Drag-and-Drop Reorderable List in vanilla JavaScript using HTML5 Drag and Drop) Tj
+ET
+BT
+/F1 8.5 Tf
+72 550.5 Td
+(API.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 524.5 Td
+(Q28. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 524.5 Td
+(Explain JavaScript Event Bubbling traps when working with nested elements and how to handle) Tj
+ET
+BT
+/F1 8.5 Tf
+72 514 Td
+(event.target vs event.currentTarget.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 488 Td
+(Q29. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 488 Td
+(Write a lightweight state-management store in vanilla JavaScript inspired by Redux \(Store,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 477.5 Td
+(Reducer, Dispatch, Subscribe\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 451.5 Td
+(Q30. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 451.5 Td
+(Analyze DOM performance profiling tools in Chrome DevTools: Performance tab, Memory heap) Tj
+ET
+BT
+/F1 8.5 Tf
+72 441 Td
+(snapshots, and Rendering paint flashing.) Tj
+ET
+
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 24 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+24 0 obj
+<< /Length 8362 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 11 of 29) Tj
+ET
+BT
+/F2 11 Tf
+45 780 Td
+(SECTION C: ANSWER KEY - MULTIPLE CHOICE QUESTIONS) Tj
+ET
+0.5 w
+45 772 m 550 772 l S
+BT
+/F2 8.5 Tf
+45 750 Td
+(Q1: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 734 Td
+(Q2: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 718 Td
+(Q3: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 702 Td
+(Q4: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 686 Td
+(Q5: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 670 Td
+(Q6: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 654 Td
+(Q7: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 638 Td
+(Q8: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 622 Td
+(Q9: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 606 Td
+(Q10: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 590 Td
+(Q11: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 574 Td
+(Q12: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 558 Td
+(Q13: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 542 Td
+(Q14: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 526 Td
+(Q15: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 510 Td
+(Q16: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 494 Td
+(Q17: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 478 Td
+(Q18: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 462 Td
+(Q19: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 446 Td
+(Q20: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 446 Td
+([A]) Tj
+ET
+0.2 w
+135 755 m 135 425 l S
+BT
+/F2 8.5 Tf
+145 750 Td
+(Q21: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 734 Td
+(Q22: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 718 Td
+(Q23: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 702 Td
+(Q24: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 686 Td
+(Q25: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 670 Td
+(Q26: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 654 Td
+(Q27: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 638 Td
+(Q28: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 622 Td
+(Q29: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 606 Td
+(Q30: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 590 Td
+(Q31: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 574 Td
+(Q32: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 558 Td
+(Q33: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 542 Td
+(Q34: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 526 Td
+(Q35: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 510 Td
+(Q36: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 494 Td
+(Q37: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 478 Td
+(Q38: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 462 Td
+(Q39: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 446 Td
+(Q40: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 446 Td
+([A]) Tj
+ET
+0.2 w
+235 755 m 235 425 l S
+BT
+/F2 8.5 Tf
+245 750 Td
+(Q41: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 734 Td
+(Q42: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 718 Td
+(Q43: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 702 Td
+(Q44: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 686 Td
+(Q45: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 670 Td
+(Q46: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 654 Td
+(Q47: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 638 Td
+(Q48: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 622 Td
+(Q49: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 606 Td
+(Q50: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 590 Td
+(Q51: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 574 Td
+(Q52: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 558 Td
+(Q53: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 542 Td
+(Q54: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 526 Td
+(Q55: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 510 Td
+(Q56: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 494 Td
+(Q57: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 478 Td
+(Q58: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 462 Td
+(Q59: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 446 Td
+(Q60: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 446 Td
+([A]) Tj
+ET
+0.2 w
+335 755 m 335 425 l S
+BT
+/F2 8.5 Tf
+345 750 Td
+(Q61: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 734 Td
+(Q62: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 718 Td
+(Q63: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 702 Td
+(Q64: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 686 Td
+(Q65: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 670 Td
+(Q66: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 654 Td
+(Q67: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 638 Td
+(Q68: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 622 Td
+(Q69: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 606 Td
+(Q70: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 590 Td
+(Q71: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 574 Td
+(Q72: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 558 Td
+(Q73: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 542 Td
+(Q74: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 526 Td
+(Q75: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 510 Td
+(Q76: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 494 Td
+(Q77: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 478 Td
+(Q78: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 462 Td
+(Q79: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 446 Td
+(Q80: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 446 Td
+([A]) Tj
+ET
+0.2 w
+435 755 m 435 425 l S
+BT
+/F2 8.5 Tf
+445 750 Td
+(Q81: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 734 Td
+(Q82: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 718 Td
+(Q83: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 702 Td
+(Q84: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 686 Td
+(Q85: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 670 Td
+(Q86: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 654 Td
+(Q87: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 638 Td
+(Q88: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 622 Td
+(Q89: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 606 Td
+(Q90: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 590 Td
+(Q91: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 574 Td
+(Q92: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 558 Td
+(Q93: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 542 Td
+(Q94: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 526 Td
+(Q95: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 510 Td
+(Q96: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 494 Td
+(Q97: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 478 Td
+(Q98: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 462 Td
+(Q99: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 446 Td
+(Q100: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 446 Td
+([A]) Tj
+ET
+0.5 w
+45 400 m 550 400 l 550 340 l 45 340 l s
+BT
+/F2 9 Tf
+55 382 Td
+(MCQ Scoring Guide & Difficulty Distribution:) Tj
+ET
+BT
+/F1 8.5 Tf
+55 366 Td
+(Questions 1 to 40: Foundational & Conceptual [Easy] | Questions 41 to 75: Analytical & Applied [Moderate]) Tj
+ET
+BT
+/F1 8.5 Tf
+55 350 Td
+(Questions 76 to 100: Complex Numerical & Advanced Problem Solving [Difficult]) Tj
+ET
+
+endstream
+endobj
+25 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 26 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+26 0 obj
+<< /Length 4087 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 12 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(SECTION D: DETAILED SOLUTIONS FOR SUBJECTIVE QUESTIONS) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(================================================================================) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 1:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the Document Object Model \(DOM\) tree architecture, detailing Node hierarchy: Document, Element, Attr, and Text nodes.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   The Document Object Model \(DOM\) is an object-oriented structural representation of an HTML) Tj
+T*
+(   document created by the browser during parsing:) Tj
+T*
+() Tj
+T*
+(   DOM Node Hierarchy:) Tj
+T*
+(   At the root of the hierarchy is the generic `Node` interface, from which specialized node types) Tj
+T*
+(   inherit:) Tj
+T*
+(   1. Document Node: The root owner of the entire document tree \(`window.document`\). Node type) Tj
+T*
+(   constant = 9 \(`Node.DOCUMENT_NODE`\).) Tj
+T*
+(   2. Element Nodes: Represent HTML tags \(e.g., `<div>`, `<p>`, `<a>`\). They form the structural) Tj
+T*
+(   scaffolding of the visual page. Node type = 1 \(`Node.ELEMENT_NODE`\). Elements support) Tj
+T*
+(   attributes, child nodes, and CSS styling.) Tj
+T*
+(   3. Text Nodes: Represent the actual text content enclosed within element tags. Node type = 3) Tj
+T*
+(   \(`Node.TEXT_NODE`\). Text nodes are leaf nodes with no children.) Tj
+T*
+(   4. Attribute Nodes: Historically represented HTML attributes \(node type = 2\); in modern DOM) Tj
+T*
+(   specifications, attributes are managed directly on elements via NamedNodeMap) Tj
+T*
+(   \(`element.attributes`\).) Tj
+T*
+(   5. Comment Nodes: Represent HTML comments \(`<!-- comment -->`\). Node type = 8) Tj
+T*
+(   \(`Node.COMMENT_NODE`\).) Tj
+T*
+() Tj
+T*
+(   Tree Traversal Properties:) Tj
+T*
+(   Nodes are navigated using pointer properties: `parentNode`, `childNodes` \(all node types\),) Tj
+T*
+(   `children` \(elements only\), `firstChild`, `firstElementChild`, `nextSibling`, and) Tj
+T*
+(   `nextElementSibling`.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 2:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Compare DOM selection methods: getElementById, getElementsByTagName, getElementsByClassName, querySelector, and querySelectorAll.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Selecting elements efficiently is fundamental to client-side scripting:) Tj
+T*
+() Tj
+T*
+(   Method Comparison:) Tj
+T*
+(   1. `getElementById\('id'\)`: Fastest lookup; queries internal hash map for an exact ID match.) Tj
+T*
+(   Returns a single Element or null.) Tj
+T*
+(   2. `getElementsByClassName\('class'\)`: Returns a live `HTMLCollection` of elements matching the) Tj
+T*
+(   class name. Reflects real-time DOM changes automatically.) Tj
+T*
+(   3. `getElementsByTagName\('tag'\)`: Returns a live `HTMLCollection` of all elements with the) Tj
+T*
+(   specified tag name \(e.g., 'div'\).) Tj
+T*
+(   4. `querySelector\('cssSelector'\)`: Evaluates any valid CSS selector string \(including complex) Tj
+T*
+(   combinators and pseudo-classes\). Returns the FIRST matching Element or null.) Tj
+T*
+(   5. `querySelectorAll\('cssSelector'\)`: Evaluates CSS selectors and returns a STATIC \(non-live\)) Tj
+T*
+(   `NodeList` containing all matches snapshot at query time.) Tj
+T*
+() Tj
+T*
+(   Performance Criteria: Prefer `getElementById` for simple ID queries due to raw speed. Use) Tj
+T*
+(   `querySelector` / `querySelectorAll` for rich selector queries \(e.g., `#main >) Tj
+T*
+(   .card:not\(.hidden\)`\). Note that `NodeList` natively supports `.forEach\(\)`, while) Tj
+T*
+(   `HTMLCollection` must be converted to an array \(`[...collection]`\) to iterate.) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+27 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 28 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+28 0 obj
+<< /Length 3492 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 13 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 3:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the complete W3C DOM Event Flow architecture: Capturing Phase, Target Phase, and Bubbling Phase.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   When an event \(such as a mouse click\) occurs on a web element, the browser does not simply) Tj
+T*
+(   trigger that element's listener immediately; it executes a three-phase event dispatch cycle:) Tj
+T*
+() Tj
+T*
+(   The Three Phases:) Tj
+T*
+(   1. Capturing Phase \(Trickling Down\):) Tj
+T*
+(   The event originates at the `window` object and travels down through document, html, body, and) Tj
+T*
+(   successive ancestor elements toward the target element.) Tj
+T*
+(   - Listeners configured with `{ capture: true }` fire during this phase.) Tj
+T*
+() Tj
+T*
+(   2. Target Phase:) Tj
+T*
+(   The event reaches the exact innermost DOM element where the interaction occurred) Tj
+T*
+(   \(`event.target`\).) Tj
+T*
+(   - Listeners registered directly on the target element execute in the order they were) Tj
+T*
+(   registered.) Tj
+T*
+() Tj
+T*
+(   3. Bubbling Phase \(Bubbling Up\):) Tj
+T*
+(   The event bubbles upward from the target element through all its ancestor elements back to the) Tj
+T*
+(   `window`.) Tj
+T*
+(   - Standard listeners \(default third argument `false`\) fire during this phase.) Tj
+T*
+() Tj
+T*
+(   Stopping Propagation:) Tj
+T*
+(   - `event.stopPropagation\(\)`: Halts propagation to subsequent ancestors.) Tj
+T*
+(   - `event.stopImmediatePropagation\(\)`: Halts propagation AND stops any remaining listeners on) Tj
+T*
+(   the CURRENT element from firing.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 4:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Event Delegation in full technical detail, illustrating how to implement a high-performance delegated list handler.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Event Delegation is an architectural pattern that leverages Event Bubbling to manage events at) Tj
+T*
+(   a parent level rather than binding individual listeners to each child element:) Tj
+T*
+() Tj
+T*
+(   The Problem:) Tj
+T*
+(   In a dynamic application with a table or list of 5,000 items, binding an event listener to) Tj
+T*
+(   every single row consumes megabytes of heap memory and slows page initialization. Furthermore,) Tj
+T*
+(   new rows added dynamically via AJAX require manual event rebinding.) Tj
+T*
+() Tj
+T*
+(   The Delegated Solution:) Tj
+T*
+(   Attach a SINGLE listener to the static parent container \(`<ul>`\). When any child item is) Tj
+T*
+(   clicked, the event bubbles up to the parent, which inspects `event.target`:) Tj
+T*
+() Tj
+T*
+(   ```javascript) Tj
+T*
+(   const todoList = document.getElementById\('todoList'\);) Tj
+T*
+() Tj
+T*
+(   todoList.addEventListener\('click', function\(e\) {) Tj
+T*
+(   // Find closest button or delete action) Tj
+T*
+(   const deleteBtn = e.target.closest\('.delete-btn'\);) Tj
+T*
+(   if \(deleteBtn && todoList.contains\(deleteBtn\)\) {) Tj
+T*
+ET
+
+endstream
+endobj
+29 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 30 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+30 0 obj
+<< /Length 3316 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 14 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   const listItem = deleteBtn.closest\('li'\);) Tj
+T*
+(   listItem.remove\(\); // Removes item) Tj
+T*
+(   console.log\(`Deleted item ID: ${listItem.dataset.id}`\);) Tj
+T*
+(   }) Tj
+T*
+(   }\);) Tj
+T*
+(   ```) Tj
+T*
+(   Benefits: Zero memory overhead, instant setup, and seamless support for dynamically inserted) Tj
+T*
+(   DOM elements.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 5:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze Browser Reflow \(Layout\) and Repaint, detailing Layout Thrashing and strategies to optimize DOM performance.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Understanding how DOM mutations interact with browser rendering engines is critical to) Tj
+T*
+(   preventing jank and stutter:) Tj
+T*
+() Tj
+T*
+(   1. Reflow \(Layout\):) Tj
+T*
+(   The browser recalculates the physical geometric dimensions and coordinates \(x, y, width,) Tj
+T*
+(   height\) of elements in the render tree. Triggered by modifying width, height, padding, margin,) Tj
+T*
+(   font-size, adding/removing DOM nodes, or reading geometric properties.) Tj
+T*
+() Tj
+T*
+(   2. Repaint:) Tj
+T*
+(   The browser redraws pixels on screen without altering geometry. Triggered by changing) Tj
+T*
+(   background-color, color, visibility, or box-shadow. Cheaper than reflow, but still CPU) Tj
+T*
+(   intensive.) Tj
+T*
+() Tj
+T*
+(   3. Layout Thrashing \(Forced Synchronous Layout\):) Tj
+T*
+(   Occurs when code interleaves DOM writes and DOM reads in a loop:) Tj
+T*
+(   ```javascript) Tj
+T*
+(   // BAD: Forces browser to recalculate layout on every iteration!) Tj
+T*
+(   for \(let i = 0; i < elements.length; i++\) {) Tj
+T*
+(   const width = container.offsetWidth; // READ \(forces reflow\)) Tj
+T*
+(   elements[i].style.width = width + 'px'; // WRITE \(invalidates layout\)) Tj
+T*
+(   }) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(   Optimization Strategies:) Tj
+T*
+(   - Batch Reads and Writes: Read all geometric values first, then apply all style mutations.) Tj
+T*
+(   - DocumentFragment: Assemble multiple child nodes off-DOM before attaching.) Tj
+T*
+(   - CSS Classes: Toggle classes rather than setting multiple inline styles.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 6:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the HTML5 Constraint Validation API, detailing form element properties, validity states, and custom validation styling.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   HTML5 provides a programmatic JavaScript API to validate form inputs against constraints before) Tj
+T*
+(   server transmission:) Tj
+T*
+() Tj
+T*
+(   Core API Methods:) Tj
+T*
+(   1. `element.checkValidity\(\)`: Returns boolean indicating whether input satisfies all) Tj
+T*
+(   constraints.) Tj
+T*
+(   2. `element.reportValidity\(\)`: Evaluates validity and displays native browser error tooltip if) Tj
+T*
+ET
+
+endstream
+endobj
+31 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 32 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+32 0 obj
+<< /Length 3206 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 15 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   invalid.) Tj
+T*
+(   3. `element.setCustomValidity\(message\)`: Injects custom error string. Passing non-empty string) Tj
+T*
+(   marks field invalid; passing empty string `""` marks field valid.) Tj
+T*
+() Tj
+T*
+(   The ValidityState Object \(`element.validity`\):) Tj
+T*
+(   - `valueMissing`: True if required field is empty.) Tj
+T*
+(   - `typeMismatch`: True if value does not match syntax \(e.g. invalid email or URL\).) Tj
+T*
+(   - `patternMismatch`: True if value violates regex pattern.) Tj
+T*
+(   - `tooShort` / `tooLong`: Violates minlength/maxlength.) Tj
+T*
+(   - `rangeUnderflow` / `rangeOverflow`: Outside min/max numeric bounds.) Tj
+T*
+(   - `stepMismatch`: Does not fit step interval.) Tj
+T*
+(   - `customError`: True if custom error message was set.) Tj
+T*
+(   - `valid`: True if ALL constraints are satisfied.) Tj
+T*
+() Tj
+T*
+(   CSS Pseudo-classes: `:valid`, `:invalid`, `:user-valid`, and `:user-invalid` automatically) Tj
+T*
+(   style fields based on constraint states.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 7:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the IntersectionObserver API, detailing its configuration options and demonstrating an image lazy-loading script.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Historically, detecting when an element scrolled into view required listening to window) Tj
+T*
+(   'scroll' events and repeatedly calling `getBoundingClientRect\(\)`, causing severe main-thread) Tj
+T*
+(   layout thrashing.) Tj
+T*
+() Tj
+T*
+(   IntersectionObserver Solution:) Tj
+T*
+(   Asynchronously monitors the intersection of a target element with an ancestor viewport) Tj
+T*
+(   container:) Tj
+T*
+() Tj
+T*
+(   ```javascript) Tj
+T*
+(   const imgObserver = new IntersectionObserver\(\(entries, observer\) => {) Tj
+T*
+(   entries.forEach\(entry => {) Tj
+T*
+(   if \(entry.isIntersecting\) {) Tj
+T*
+(   const img = entry.target;) Tj
+T*
+(   img.src = img.dataset.src; // Swap placeholder with real image) Tj
+T*
+(   img.classList.remove\('lazy'\);) Tj
+T*
+(   observer.unobserve\(img\); // Stop observing loaded image) Tj
+T*
+(   }) Tj
+T*
+(   }\);) Tj
+T*
+(   }, {) Tj
+T*
+(   root: null, // Viewport) Tj
+T*
+(   rootMargin: '0px 0px 200px 0px', // Pre-load 200px before scrolling into view) Tj
+T*
+(   threshold: 0.1 // 10% visible) Tj
+T*
+(   }\);) Tj
+T*
+() Tj
+T*
+(   document.querySelectorAll\('img.lazy'\).forEach\(img => imgObserver.observe\(img\)\);) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 8:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the MutationObserver API, detailing configuration options and demonstrating tracking of dynamic element insertions.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+ET
+
+endstream
+endobj
+33 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 34 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+34 0 obj
+<< /Length 2769 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 16 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   MutationObserver provides an asynchronous mechanism to watch for mutations in the DOM tree,) Tj
+T*
+(   replacing legacy deprecated Mutation Events \(like DOMNodeInserted\):) Tj
+T*
+() Tj
+T*
+(   Implementation Example:) Tj
+T*
+(   ```javascript) Tj
+T*
+(   const targetNode = document.getElementById\('chatContainer'\);) Tj
+T*
+() Tj
+T*
+(   const observerOptions = {) Tj
+T*
+(   childList: true, // Monitor addition/removal of child nodes) Tj
+T*
+(   subtree: true, // Extend monitoring to all descendant subtrees) Tj
+T*
+(   attributes: true, // Monitor attribute mutations) Tj
+T*
+(   attributeFilter: ['class', 'data-status'] // Whitelist specific attributes) Tj
+T*
+(   };) Tj
+T*
+() Tj
+T*
+(   const observer = new MutationObserver\(\(mutationsList, obs\) => {) Tj
+T*
+(   for \(const mutation of mutationsList\) {) Tj
+T*
+(   if \(mutation.type === 'childList'\) {) Tj
+T*
+(   mutation.addedNodes.forEach\(node => {) Tj
+T*
+(   if \(node.nodeType === Node.ELEMENT_NODE\) {) Tj
+T*
+(   console.log\('New message element appended:', node\);) Tj
+T*
+(   }) Tj
+T*
+(   }\);) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+(   }\);) Tj
+T*
+() Tj
+T*
+(   observer.observe\(targetNode, observerOptions\);) Tj
+T*
+(   // To disconnect: observer.disconnect\(\);) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 9:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain ES6+ Destructuring Assignment features: default values, alias renaming, nested destructuring, and parameter destructuring.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Destructuring assignment provides an ergonomic syntax to extract data from arrays and objects) Tj
+T*
+(   into distinct variables:) Tj
+T*
+() Tj
+T*
+(   1. Object Destructuring with Aliasing and Defaults:) Tj
+T*
+(   ```javascript) Tj
+T*
+(   const response = {) Tj
+T*
+(   data: { user: { id: 101, username: 'alex', profile: { city: 'Tokyo' } } },) Tj
+T*
+(   status: 200) Tj
+T*
+(   };) Tj
+T*
+() Tj
+T*
+(   // Nested destructuring with alias renaming and default values) Tj
+T*
+(   const { data: { user: { username: handle, profile: { city }, role = 'Member' } }, status } =) Tj
+T*
+(   response;) Tj
+T*
+(   console.log\(handle, city, role, status\); // alex Tokyo Member 200) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(   2. Function Parameter Destructuring:) Tj
+T*
+(   ```javascript) Tj
+T*
+(   function createButton\({ label = 'Click', width = 100, active = false } = {}\) {) Tj
+T*
+ET
+
+endstream
+endobj
+35 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 36 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+36 0 obj
+<< /Length 3405 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 17 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   return `<button style="width: ${width}px">${label}</button>`;) Tj
+T*
+(   }) Tj
+T*
+(   ```) Tj
+T*
+(   3. Array Destructuring & Skipping Elements:) Tj
+T*
+(   `const [first, , third, ...rest] = [10, 20, 30, 40, 50]; // first=10, third=30, rest=[40, 50]`) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 10:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the Rest and Spread operators in ES6+, detailing functional differences across parameters, arrays, and objects.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Although both Rest and Spread use the three-dot \(`...`\) syntax, they perform inverse operations) Tj
+T*
+(   based on context:) Tj
+T*
+() Tj
+T*
+(   1. The Rest Operator \(Gathers items together\):) Tj
+T*
+(   - Used in function parameter lists: Gathers trailing arguments into a single real Array.) Tj
+T*
+(   `function calculateTotal\(taxRate, ...items\) { return items.reduce\(\(a, b\) => a + b\) * \(1 +) Tj
+T*
+(   taxRate\); }`) Tj
+T*
+(   - Used in destructuring: Gathers remaining unassigned properties or elements.) Tj
+T*
+(   `const { id, ...metadata } = user;`) Tj
+T*
+() Tj
+T*
+(   2. The Spread Operator \(Unpacks items\):) Tj
+T*
+(   - Used in function calls: Expands an array into discrete argument parameters.) Tj
+T*
+(   `const numbers = [5, 12, 8, 130]; Math.max\(...numbers\); // 130`) Tj
+T*
+(   - Used in array literals: Concatenates or clones arrays.) Tj
+T*
+(   `const combined = [...listA, 'separator', ...listB];`) Tj
+T*
+(   - Used in object literals: Merges or shallow-clones objects.) Tj
+T*
+(   `const updatedUser = { ...user, active: true };`) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 11:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Optional Chaining \(?.\) and Nullish Coalescing \(??\) operators in ES2020, illustrating bug prevention in nested data.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Reading deeply nested JSON responses often produces catastrophic runtime errors when) Tj
+T*
+(   intermediate keys are absent:) Tj
+T*
+() Tj
+T*
+(   1. Optional Chaining \(?.\):) Tj
+T*
+(   Short-circuits evaluation if the reference before `?.` is `null` or `undefined`, returning) Tj
+T*
+(   `undefined` instead of throwing `TypeError: Cannot read properties of undefined`:) Tj
+T*
+(   ```javascript) Tj
+T*
+(   // Traditional fragile lookup:) Tj
+T*
+(   // const city = user && user.address && user.address.geo && user.address.geo.city;) Tj
+T*
+(   // Modern safe lookup:) Tj
+T*
+(   const city = user?.address?.geo?.city;) Tj
+T*
+(   const firstItem = list?.[0];) Tj
+T*
+(   const result = service.calculate?.\(arg\);) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(   2. Nullish Coalescing \(??\):) Tj
+T*
+(   Returns the right-hand value ONLY if the left-hand value is `null` or `undefined`. Unlike) Tj
+T*
+(   Logical OR \(`||`\), it does not treat `0`, `false`, `""`, or `NaN` as falsy:) Tj
+T*
+(   ```javascript) Tj
+T*
+(   const userTimeout = 0;) Tj
+T*
+ET
+
+endstream
+endobj
+37 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 38 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+38 0 obj
+<< /Length 3380 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 18 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   const timeout1 = userTimeout || 3000; // 3000 \(BUG: 0 was intentionally set!\)) Tj
+T*
+(   const timeout2 = userTimeout ?? 3000; // 0 \(Correct: retains valid 0\)) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 12:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Describe the Shadow DOM architecture in Web Components, explaining open vs closed modes, slots, and style scoping.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   The Shadow DOM provides true encapsulation for reusable custom Web Components:) Tj
+T*
+() Tj
+T*
+(   Core Concepts:) Tj
+T*
+(   1. Shadow Root: An isolated DOM tree attached to a custom HTML element via) Tj
+T*
+(   `element.attachShadow\({ mode: 'open' }\)`.) Tj
+T*
+(   - 'open': JavaScript in the main page can inspect the shadow root via `element.shadowRoot`.) Tj
+T*
+(   - 'closed': Denies external JavaScript access to the shadow root.) Tj
+T*
+(   2. Style Encapsulation: CSS declared inside `<style>` within a shadow tree strictly targets) Tj
+T*
+(   shadow elements; styles from the parent page cannot bleed in, and shadow styles cannot leak) Tj
+T*
+(   out.) Tj
+T*
+(   3. `<slot>` Elements: Placeholder insertion points where light-DOM child markup passed by the) Tj
+T*
+(   consumer is projected into the shadow DOM layout.) Tj
+T*
+() Tj
+T*
+(   Example Custom Element:) Tj
+T*
+(   ```javascript) Tj
+T*
+(   class UserBadge extends HTMLElement {) Tj
+T*
+(   constructor\(\) {) Tj
+T*
+(   super\(\);) Tj
+T*
+(   const shadow = this.attachShadow\({ mode: 'open' }\);) Tj
+T*
+(   shadow.innerHTML = `) Tj
+T*
+(   <style>span { background: #0066cc; color: #fff; padding: 4px 8px; }</style>) Tj
+T*
+(   <span><slot>Default User</slot></span>) Tj
+T*
+(   `;) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+(   customElements.define\('user-badge', UserBadge\);) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 13:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain modern DOM element insertion methods: append\(\), prepend\(\), before\(\), after\(\), replaceWith\(\), and insertAdjacentElement\(\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Modern DOM specifications \(DOM Living Standard\) replaced clunky legacy insertion methods with) Tj
+T*
+(   clean, flexible APIs:) Tj
+T*
+() Tj
+T*
+(   1. Parent Insertion Methods:) Tj
+T*
+(   - `parent.append\(...nodesOrStrings\)`: Inserts nodes or plain text strings at the end of) Tj
+T*
+(   parent's children \(unlike `appendChild`, accepts multiple arguments and raw strings directly\).) Tj
+T*
+(   - `parent.prepend\(...nodesOrStrings\)`: Inserts nodes/strings at the beginning of parent's) Tj
+T*
+(   children.) Tj
+T*
+() Tj
+T*
+(   2. Sibling Insertion Methods:) Tj
+T*
+(   - `element.before\(...nodes\)`: Inserts nodes immediately before `element` as preceding siblings.) Tj
+T*
+(   - `element.after\(...nodes\)`: Inserts nodes immediately after `element` as subsequent siblings.) Tj
+T*
+ET
+
+endstream
+endobj
+39 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 40 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+40 0 obj
+<< /Length 3290 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 19 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - `element.replaceWith\(...nodes\)`: Replaces `element` directly in its parent with provided) Tj
+T*
+(   nodes.) Tj
+T*
+() Tj
+T*
+(   3. Positioned Insertion \(`insertAdjacentElement` / `insertAdjacentHTML`\):) Tj
+T*
+(   Inserts element/HTML at one of four exact relative anchor positions: 'beforebegin',) Tj
+T*
+(   'afterbegin', 'beforeend', 'afterend'.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 14:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the AbortController API and demonstrate how it manages cleanup of event listeners and cancellation of Fetch requests.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   The `AbortController` interface represents a standard controller object that allows canceling) Tj
+T*
+(   asynchronous operations \(such as Fetch HTTP requests\) and cleanly unbinding event listeners:) Tj
+T*
+() Tj
+T*
+(   Mass Event Listener Cleanup:) Tj
+T*
+(   In complex components or modals, removing dozens of registered event listeners upon component) Tj
+T*
+(   unmount traditionally required tracking individual function pointers. `AbortController`) Tj
+T*
+(   provides instant mass unbinding:) Tj
+T*
+() Tj
+T*
+(   ```javascript) Tj
+T*
+(   const controller = new AbortController\(\);) Tj
+T*
+(   const { signal } = controller;) Tj
+T*
+() Tj
+T*
+(   // Bind multiple listeners linked to the signal) Tj
+T*
+(   window.addEventListener\('resize', handleResize, { signal }\);) Tj
+T*
+(   window.addEventListener\('scroll', handleScroll, { signal }\);) Tj
+T*
+(   document.addEventListener\('keydown', handleKey, { signal }\);) Tj
+T*
+() Tj
+T*
+(   // When modal closes or component unmounts:) Tj
+T*
+(   controller.abort\(\); // Instantly removes ALL three listeners in a single line!) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 15:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Describe HTML Form serialization techniques: FormData API, URLSearchParams, and submitting JSON payloads.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Modern client-side scripting serializes form inputs into different formats for backend) Tj
+T*
+(   transmission:) Tj
+T*
+() Tj
+T*
+(   1. The FormData API:) Tj
+T*
+(   Automatically gathers all named input values, files, and multi-selects from a `<form>` element:) Tj
+T*
+(   ```javascript) Tj
+T*
+(   const form = document.querySelector\('form'\);) Tj
+T*
+(   const formData = new FormData\(form\);) Tj
+T*
+(   formData.append\('timestamp', Date.now\(\)\); // Add extra fields) Tj
+T*
+(   // Sent directly via fetch with multipart/form-data) Tj
+T*
+(   await fetch\('/api/upload', { method: 'POST', body: formData }\);) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(   2. URLSearchParams \(Query Strings & URL-Encoded\):) Tj
+T*
+(   `const params = new URLSearchParams\(new FormData\(form\)\).toString\(\);`) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+41 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 42 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+42 0 obj
+<< /Length 3400 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 20 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   3. Converting FormData to a Clean JSON Object:) Tj
+T*
+(   ```javascript) Tj
+T*
+(   const formObject = Object.fromEntries\(formData.entries\(\)\);) Tj
+T*
+(   const jsonString = JSON.stringify\(formObject\);) Tj
+T*
+(   await fetch\('/api/user', {) Tj
+T*
+(   method: 'POST',) Tj
+T*
+(   headers: { 'Content-Type': 'application/json' },) Tj
+T*
+(   body: jsonString) Tj
+T*
+(   }\);) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 16:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Passive Event Listeners \({ passive: true }\) and the performance problems they solve in mobile touch and wheel interactions.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Passive event listeners solve critical frame-rate drops during touch scrolling on mobile) Tj
+T*
+(   devices:) Tj
+T*
+() Tj
+T*
+(   The Historical Scrolling Bottleneck:) Tj
+T*
+(   When a mobile user touches the screen and drags their finger, the browser fires `touchstart`) Tj
+T*
+(   and `touchmove` events. Because the event listener could potentially call) Tj
+T*
+(   `event.preventDefault\(\)` to cancel scrolling, the browser MUST pause scrolling completely until) Tj
+T*
+(   the JavaScript callback finishes executing. If the callback takes 50ms, scrolling stutters) Tj
+T*
+(   visibly.) Tj
+T*
+() Tj
+T*
+(   The Passive Solution:) Tj
+T*
+(   Declaring `{ passive: true }` promises to the browser engine that the listener will NEVER call) Tj
+T*
+(   `event.preventDefault\(\)`:) Tj
+T*
+(   ```javascript) Tj
+T*
+(   window.addEventListener\('touchstart', onTouchStart, { passive: true }\);) Tj
+T*
+(   window.addEventListener\('wheel', onWheel, { passive: true }\);) Tj
+T*
+(   ```) Tj
+T*
+(   Impact: The browser initiates scrolling immediately on the compositor thread without waiting) Tj
+T*
+(   for the JavaScript main thread, ensuring silky-smooth 60/120 FPS scrolling.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 17:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Discuss Keyboard Accessibility: Focus Trapping, roving tabindex, and ARIA modal accessibility patterns.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Accessible modal dialogs require strict focus management so that keyboard-only users \(Tab key\)) Tj
+T*
+(   cannot accidentally interact with background page elements:) Tj
+T*
+() Tj
+T*
+(   Key Engineering Rules for Modal Accessibility:) Tj
+T*
+(   1. Background Inertia: Apply the `inert` attribute to the main page container when the modal is) Tj
+T*
+(   open, removing background content from tab navigation.) Tj
+T*
+(   2. Initial Focus: Automatically set focus onto the modal container or its first interactive) Tj
+T*
+(   field upon opening \(`dialog.focus\(\)`\).) Tj
+T*
+(   3. Focus Trapping Loop:) Tj
+T*
+(   ```javascript) Tj
+T*
+(   modal.addEventListener\('keydown', function\(e\) {) Tj
+T*
+(   if \(e.key === 'Escape'\) closeModal\(\);) Tj
+T*
+(   if \(e.key !== 'Tab'\) return;) Tj
+T*
+ET
+
+endstream
+endobj
+43 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 44 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+44 0 obj
+<< /Length 2936 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 21 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   const focusables = modal.querySelectorAll\('button, [href], input, select, textarea,) Tj
+T*
+(   [tabindex]:not\([tabindex="-1"]\)'\);) Tj
+T*
+(   const first = focusables[0];) Tj
+T*
+(   const last = focusables[focusables.length - 1];) Tj
+T*
+() Tj
+T*
+(   if \(e.shiftKey && document.activeElement === first\) {) Tj
+T*
+(   last.focus\(\); e.preventDefault\(\);) Tj
+T*
+(   } else if \(!e.shiftKey && document.activeElement === last\) {) Tj
+T*
+(   first.focus\(\); e.preventDefault\(\);) Tj
+T*
+(   }) Tj
+T*
+(   }\);) Tj
+T*
+(   ```) Tj
+T*
+(   4. Focus Restoration: Store a reference to the element that triggered the modal) Tj
+T*
+(   \(`document.activeElement`\) and return focus to it when the modal closes.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 18:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain JavaScript Custom Events \(new CustomEvent\), event bubbling, and component communication architectures.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Custom Events allow decoupled components to communicate without maintaining direct object) Tj
+T*
+(   references:) Tj
+T*
+() Tj
+T*
+(   Dispatching Custom Events:) Tj
+T*
+(   ```javascript) Tj
+T*
+(   const shoppingCart = document.getElementById\('cart'\);) Tj
+T*
+() Tj
+T*
+(   // Create custom event carrying payload data in 'detail') Tj
+T*
+(   const itemAddedEvent = new CustomEvent\('cart:item-added', {) Tj
+T*
+(   bubbles: true, // Allows event to bubble up the DOM) Tj
+T*
+(   cancelable: true,) Tj
+T*
+(   detail: { productId: 4821, price: 29.99, quantity: 1 }) Tj
+T*
+(   }\);) Tj
+T*
+() Tj
+T*
+(   shoppingCart.dispatchEvent\(itemAddedEvent\);) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(   Listening for Custom Events:) Tj
+T*
+(   ```javascript) Tj
+T*
+(   document.addEventListener\('cart:item-added', \(e\) => {) Tj
+T*
+(   console.log\(`Item ${e.detail.productId} added! Total price: $${e.detail.price}`\);) Tj
+T*
+(   updateCartBadge\(\);) Tj
+T*
+(   }\);) Tj
+T*
+(   ```) Tj
+T*
+(   Benefits: Facilitates a clean event-driven architecture mimicking microservices in frontend) Tj
+T*
+(   applications.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 19:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Detail DOM security hazards: innerHTML vs textContent, DOM-based XSS, and safe DOM manipulation patterns.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Cross-Site Scripting \(XSS\) is a top cybersecurity vulnerability in frontend web applications:) Tj
+T*
+ET
+
+endstream
+endobj
+45 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 46 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+46 0 obj
+<< /Length 3137 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 22 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   The Vulnerability Sink \(`innerHTML`\):) Tj
+T*
+(   When untrusted user input \(e.g., query params, comments\) is assigned to `innerHTML`, attackers) Tj
+T*
+(   can inject malicious scripts:) Tj
+T*
+(   ```javascript) Tj
+T*
+(   // VULNERABLE TO DOM XSS:) Tj
+T*
+(   const username = new URLSearchParams\(window.location.search\).get\('user'\);) Tj
+T*
+(   profileDiv.innerHTML = `<h1>Welcome ${username}</h1>`;) Tj
+T*
+(   // Attacker passes: ?user=<img src=x onerror=stealCookies\(\)>) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(   Defensive Best Practices:) Tj
+T*
+(   1. Use `textContent` or `innerText` for plain text insertion; browsers treat input purely as) Tj
+T*
+(   strings, neutralizing tags.) Tj
+T*
+(   2. Create DOM nodes programmatically: `const h1 = document.createElement\('h1'\); h1.textContent) Tj
+T*
+(   = username;`.) Tj
+T*
+(   3. Use the Sanitizer API: `profileDiv.setHTML\(untrustedMarkup\)` cleanses malicious tags.) Tj
+T*
+(   4. Enforce strict Content Security Policy \(CSP\) headers.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 20:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the ResizeObserver API, compare it with window.onresize, and demonstrate responsive component card resizing.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   The `ResizeObserver` API monitors changes to the content or border box dimensions of individual) Tj
+T*
+(   DOM elements independently of the browser window:) Tj
+T*
+() Tj
+T*
+(   Why Window.onresize is Insufficient:) Tj
+T*
+(   `window.onresize` fires only when the global browser window is resized. It does not fire when a) Tj
+T*
+(   container's width changes due to sidebar toggling, CSS grid shifts, or font loads.) Tj
+T*
+() Tj
+T*
+(   ResizeObserver Implementation:) Tj
+T*
+(   ```javascript) Tj
+T*
+(   const cardObserver = new ResizeObserver\(entries => {) Tj
+T*
+(   for \(const entry of entries\) {) Tj
+T*
+(   const width = entry.contentRect.width;) Tj
+T*
+(   const card = entry.target;) Tj
+T*
+(   if \(width < 350\) {) Tj
+T*
+(   card.classList.add\('card-compact'\);) Tj
+T*
+(   card.classList.remove\('card-expanded'\);) Tj
+T*
+(   } else {) Tj
+T*
+(   card.classList.add\('card-expanded'\);) Tj
+T*
+(   card.classList.remove\('card-compact'\);) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+(   }\);) Tj
+T*
+() Tj
+T*
+(   document.querySelectorAll\('.dashboard-widget'\).forEach\(el => cardObserver.observe\(el\)\);) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 21:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write a complete vanilla JavaScript interactive Tabbed Component: rendering tab buttons, managing active classes, and switching panels.) Tj
+T*
+ET
+
+endstream
+endobj
+47 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 48 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+48 0 obj
+<< /Length 2644 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 23 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Here is a complete, accessible tabbed panel implementation:) Tj
+T*
+() Tj
+T*
+(   ```javascript) Tj
+T*
+(   class TabComponent {) Tj
+T*
+(   constructor\(container\) {) Tj
+T*
+(   this.container = container;) Tj
+T*
+(   this.tabs = container.querySelectorAll\('[role="tab"]'\);) Tj
+T*
+(   this.panels = container.querySelectorAll\('[role="tabpanel"]'\);) Tj
+T*
+(   this.init\(\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   init\(\) {) Tj
+T*
+(   this.container.addEventListener\('click', \(e\) => {) Tj
+T*
+(   const tab = e.target.closest\('[role="tab"]'\);) Tj
+T*
+(   if \(!tab\) return;) Tj
+T*
+(   this.activateTab\(tab\);) Tj
+T*
+(   }\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   activateTab\(selectedTab\) {) Tj
+T*
+(   this.tabs.forEach\(tab => {) Tj
+T*
+(   tab.classList.remove\('active'\);) Tj
+T*
+(   tab.setAttribute\('aria-selected', 'false'\);) Tj
+T*
+(   }\);) Tj
+T*
+(   this.panels.forEach\(panel => panel.hidden = true\);) Tj
+T*
+() Tj
+T*
+(   selectedTab.classList.add\('active'\);) Tj
+T*
+(   selectedTab.setAttribute\('aria-selected', 'true'\);) Tj
+T*
+(   const targetPanelId = selectedTab.getAttribute\('aria-controls'\);) Tj
+T*
+(   document.getElementById\(targetPanelId\).hidden = false;) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+(   // Usage: new TabComponent\(document.getElementById\('myTabGroup'\)\);) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 22:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write a comprehensive client-side form validation script that validates username, email, and password complexity in real time.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Here is a complete real-time form validation controller using constraint validation:) Tj
+T*
+() Tj
+T*
+(   ```javascript) Tj
+T*
+(   const form = document.getElementById\('signupForm'\);) Tj
+T*
+(   const emailInput = document.getElementById\('email'\);) Tj
+T*
+(   const pwdInput = document.getElementById\('password'\);) Tj
+T*
+() Tj
+T*
+(   // Real-time custom validation on password complexity) Tj
+T*
+(   pwdInput.addEventListener\('input', \(\) => {) Tj
+T*
+(   const val = pwdInput.value;) Tj
+T*
+(   const hasNumber = /[0-9]/.test\(val\);) Tj
+T*
+(   const hasUpper = /[A-Z]/.test\(val\);) Tj
+T*
+(   const isLong = val.length >= 8;) Tj
+T*
+ET
+
+endstream
+endobj
+49 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 50 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+50 0 obj
+<< /Length 2548 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 24 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   if \(!isLong || !hasNumber || !hasUpper\) {) Tj
+T*
+(   pwdInput.setCustomValidity\('Password must be >= 8 chars with 1 uppercase and 1 digit.'\);) Tj
+T*
+(   } else {) Tj
+T*
+(   pwdInput.setCustomValidity\(''\); // Clear custom error) Tj
+T*
+(   }) Tj
+T*
+(   }\);) Tj
+T*
+() Tj
+T*
+(   form.addEventListener\('submit', \(e\) => {) Tj
+T*
+(   if \(!form.checkValidity\(\)\) {) Tj
+T*
+(   e.preventDefault\(\);) Tj
+T*
+(   form.reportValidity\(\); // Display native error balloons) Tj
+T*
+(   } else {) Tj
+T*
+(   console.log\('Form inputs validated successfully!'\);) Tj
+T*
+(   }) Tj
+T*
+(   }\);) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 23:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement an Infinite Scroll feature using IntersectionObserver, fetching and appending new items dynamically when reaching bottom.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Infinite scrolling seamlessly fetches subsequent pages as the user approaches the footer:) Tj
+T*
+() Tj
+T*
+(   ```javascript) Tj
+T*
+(   let page = 1;) Tj
+T*
+(   const feed = document.getElementById\('feed'\);) Tj
+T*
+(   const sentinel = document.getElementById\('sentinel'\); // Empty element at bottom) Tj
+T*
+() Tj
+T*
+(   const observer = new IntersectionObserver\(async \(entries\) => {) Tj
+T*
+(   const [entry] = entries;) Tj
+T*
+(   if \(entry.isIntersecting\) {) Tj
+T*
+(   await loadMorePosts\(\);) Tj
+T*
+(   }) Tj
+T*
+(   }, { rootMargin: '300px' }\); // Trigger 300px before reaching sentinel) Tj
+T*
+() Tj
+T*
+(   async function loadMorePosts\(\) {) Tj
+T*
+(   const res = await fetch\(`/api/posts?page=${page}`\);) Tj
+T*
+(   const posts = await res.json\(\);) Tj
+T*
+(   if \(posts.length === 0\) {) Tj
+T*
+(   observer.unobserve\(sentinel\); // No more posts) Tj
+T*
+(   return;) Tj
+T*
+(   }) Tj
+T*
+(   const fragment = document.createDocumentFragment\(\);) Tj
+T*
+(   posts.forEach\(post => {) Tj
+T*
+(   const div = document.createElement\('div'\);) Tj
+T*
+(   div.className = 'post-card';) Tj
+T*
+(   div.textContent = post.title;) Tj
+T*
+(   fragment.appendChild\(div\);) Tj
+T*
+(   }\);) Tj
+T*
+(   feed.appendChild\(fragment\);) Tj
+T*
+(   page++;) Tj
+T*
+(   }) Tj
+T*
+ET
+
+endstream
+endobj
+51 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 52 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+52 0 obj
+<< /Length 2772 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 25 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   observer.observe\(sentinel\);) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 24:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an accessible, keyboard-navigable Accordion widget in vanilla JavaScript using ARIA states.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Here is a complete accessible accordion implementation:) Tj
+T*
+() Tj
+T*
+(   ```javascript) Tj
+T*
+(   const accordion = document.getElementById\('faqAccordion'\);) Tj
+T*
+() Tj
+T*
+(   accordion.addEventListener\('click', \(e\) => {) Tj
+T*
+(   const header = e.target.closest\('.accordion-header'\);) Tj
+T*
+(   if \(!header\) return;) Tj
+T*
+() Tj
+T*
+(   const isExpanded = header.getAttribute\('aria-expanded'\) === 'true';) Tj
+T*
+(   const panel = document.getElementById\(header.getAttribute\('aria-controls'\)\);) Tj
+T*
+() Tj
+T*
+(   // Toggle state) Tj
+T*
+(   header.setAttribute\('aria-expanded', !isExpanded\);) Tj
+T*
+(   panel.hidden = isExpanded;) Tj
+T*
+() Tj
+T*
+(   // Optional: close other sibling accordion panels) Tj
+T*
+(   accordion.querySelectorAll\('.accordion-header'\).forEach\(other => {) Tj
+T*
+(   if \(other !== header\) {) Tj
+T*
+(   other.setAttribute\('aria-expanded', 'false'\);) Tj
+T*
+(   document.getElementById\(other.getAttribute\('aria-controls'\)\).hidden = true;) Tj
+T*
+(   }) Tj
+T*
+(   }\);) Tj
+T*
+(   }\);) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 25:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Demonstrate how to implement a Toast Notification system in pure JavaScript that displays auto-dismissing toast alerts.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   A modular toast notification system manages queueing and auto-dismissal:) Tj
+T*
+() Tj
+T*
+(   ```javascript) Tj
+T*
+(   class ToastManager {) Tj
+T*
+(   static show\(message, type = 'info', duration = 3000\) {) Tj
+T*
+(   let container = document.getElementById\('toast-container'\);) Tj
+T*
+(   if \(!container\) {) Tj
+T*
+(   container = document.createElement\('div'\);) Tj
+T*
+(   container.id = 'toast-container';) Tj
+T*
+(   document.body.appendChild\(container\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   const toast = document.createElement\('div'\);) Tj
+T*
+(   toast.className = `toast toast-${type}`;) Tj
+T*
+(   toast.textContent = message;) Tj
+T*
+ET
+
+endstream
+endobj
+53 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 54 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+54 0 obj
+<< /Length 2580 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 26 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   container.appendChild\(toast\);) Tj
+T*
+() Tj
+T*
+(   setTimeout\(\(\) => {) Tj
+T*
+(   toast.classList.add\('fade-out'\);) Tj
+T*
+(   toast.addEventListener\('transitionend', \(\) => toast.remove\(\)\);) Tj
+T*
+(   }, duration\);) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+(   // Usage: ToastManager.show\('File uploaded successfully!', 'success'\);) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 26:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the HTML5 <template> element and write code to clone and populate template content into the DOM.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   The `<template>` element holds client-side markup that is parsed by the browser but NOT) Tj
+T*
+(   rendered on page load:) Tj
+T*
+() Tj
+T*
+(   HTML:) Tj
+T*
+(   ```html) Tj
+T*
+(   <template id="userCardTemplate">) Tj
+T*
+(   <div class="user-card">) Tj
+T*
+(   <h3 class="user-name"></h3>) Tj
+T*
+(   <p class="user-role"></p>) Tj
+T*
+(   </div>) Tj
+T*
+(   </template>) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(   JavaScript Population:) Tj
+T*
+(   ```javascript) Tj
+T*
+(   const template = document.getElementById\('userCardTemplate'\);) Tj
+T*
+(   const container = document.getElementById\('cardGrid'\);) Tj
+T*
+() Tj
+T*
+(   function addUserCard\(name, role\) {) Tj
+T*
+(   // Clone template content deeply) Tj
+T*
+(   const clone = template.content.cloneNode\(true\);) Tj
+T*
+(   clone.querySelector\('.user-name'\).textContent = name;) Tj
+T*
+(   clone.querySelector\('.user-role'\).textContent = role;) Tj
+T*
+(   container.appendChild\(clone\);) Tj
+T*
+(   }) Tj
+T*
+(   addUserCard\('Ada Lovelace', 'Lead Architect'\);) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 27:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement a custom Drag-and-Drop Reorderable List in vanilla JavaScript using HTML5 Drag and Drop API.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Reordering list items via drag-and-drop:) Tj
+T*
+() Tj
+T*
+(   ```javascript) Tj
+T*
+(   const list = document.getElementById\('reorderableList'\);) Tj
+T*
+(   let draggedItem = null;) Tj
+T*
+ET
+
+endstream
+endobj
+55 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 56 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+56 0 obj
+<< /Length 2798 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 27 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   list.addEventListener\('dragstart', \(e\) => {) Tj
+T*
+(   draggedItem = e.target;) Tj
+T*
+(   e.dataTransfer.effectAllowed = 'move';) Tj
+T*
+(   setTimeout\(\(\) => draggedItem.classList.add\('dragging'\), 0\);) Tj
+T*
+(   }\);) Tj
+T*
+() Tj
+T*
+(   list.addEventListener\('dragend', \(\) => {) Tj
+T*
+(   draggedItem.classList.remove\('dragging'\);) Tj
+T*
+(   draggedItem = null;) Tj
+T*
+(   }\);) Tj
+T*
+() Tj
+T*
+(   list.addEventListener\('dragover', \(e\) => {) Tj
+T*
+(   e.preventDefault\(\);) Tj
+T*
+(   const afterElement = getDragAfterElement\(list, e.clientY\);) Tj
+T*
+(   if \(afterElement == null\) {) Tj
+T*
+(   list.appendChild\(draggedItem\);) Tj
+T*
+(   } else {) Tj
+T*
+(   list.insertBefore\(draggedItem, afterElement\);) Tj
+T*
+(   }) Tj
+T*
+(   }\);) Tj
+T*
+() Tj
+T*
+(   function getDragAfterElement\(container, y\) {) Tj
+T*
+(   const elements = [...container.querySelectorAll\('li:not\(.dragging\)'\)];) Tj
+T*
+(   return elements.reduce\(\(closest, child\) => {) Tj
+T*
+(   const box = child.getBoundingClientRect\(\);) Tj
+T*
+(   const offset = y - box.top - box.height / 2;) Tj
+T*
+(   if \(offset < 0 && offset > closest.offset\) {) Tj
+T*
+(   return { offset, element: child };) Tj
+T*
+(   } else return closest;) Tj
+T*
+(   }, { offset: Number.NEGATIVE_INFINITY }\).element;) Tj
+T*
+(   }) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 28:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain JavaScript Event Bubbling traps when working with nested elements and how to handle event.target vs event.currentTarget.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   A common bug in DOM programming arises from misunderstanding `event.target` vs) Tj
+T*
+(   `event.currentTarget`:) Tj
+T*
+() Tj
+T*
+(   The Distinction:) Tj
+T*
+(   - `event.target`: The exact innermost element clicked by the user \(which could be an `<i>` icon) Tj
+T*
+(   or `<span>` inside a button\).) Tj
+T*
+(   - `event.currentTarget`: The element to which the event listener was actually attached.) Tj
+T*
+() Tj
+T*
+(   The Bug:) Tj
+T*
+(   If you bind a click listener to `<button class="btn"><i class="icon"></i> Submit</button>` and) Tj
+T*
+(   read `e.target.dataset.id`, clicking the icon returns `undefined` because `e.target` is the) Tj
+T*
+(   `<i>` element.) Tj
+T*
+() Tj
+T*
+(   The Robust Fix:) Tj
+T*
+(   Use `event.currentTarget` \(guaranteed to be the button\) OR `event.target.closest\('button'\)`:) Tj
+T*
+ET
+
+endstream
+endobj
+57 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 58 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+58 0 obj
+<< /Length 2932 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 28 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   `const button = e.target.closest\('.btn'\); const id = button.dataset.id;`) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 29:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write a lightweight state-management store in vanilla JavaScript inspired by Redux \(Store, Reducer, Dispatch, Subscribe\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Here is a complete Redux-like state store in 25 lines of pure modern JavaScript:) Tj
+T*
+() Tj
+T*
+(   ```javascript) Tj
+T*
+(   function createStore\(reducer, initialState\) {) Tj
+T*
+(   let state = initialState;) Tj
+T*
+(   let listeners = [];) Tj
+T*
+() Tj
+T*
+(   return {) Tj
+T*
+(   getState: \(\) => state,) Tj
+T*
+(   dispatch: \(action\) => {) Tj
+T*
+(   state = reducer\(state, action\);) Tj
+T*
+(   listeners.forEach\(fn => fn\(\)\);) Tj
+T*
+(   },) Tj
+T*
+(   subscribe: \(listener\) => {) Tj
+T*
+(   listeners.push\(listener\);) Tj
+T*
+(   return \(\) => listeners = listeners.filter\(l => l !== listener\);) Tj
+T*
+(   }) Tj
+T*
+(   };) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   // Usage:) Tj
+T*
+(   const counterReducer = \(state = 0, action\) => {) Tj
+T*
+(   if \(action.type === 'INC'\) return state + 1;) Tj
+T*
+(   if \(action.type === 'DEC'\) return state - 1;) Tj
+T*
+(   return state;) Tj
+T*
+(   };) Tj
+T*
+(   const store = createStore\(counterReducer, 0\);) Tj
+T*
+(   store.subscribe\(\(\) => console.log\('Current state:', store.getState\(\)\)\);) Tj
+T*
+(   store.dispatch\({ type: 'INC' }\); // Current state: 1) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 30:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze DOM performance profiling tools in Chrome DevTools: Performance tab, Memory heap snapshots, and Rendering paint flashing.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Diagnosing client-side bottlenecks requires professional DevTools profiling workflows:) Tj
+T*
+() Tj
+T*
+(   DevTools Diagnostic Panels:) Tj
+T*
+(   1. Performance Tab \(Flame Charts\):) Tj
+T*
+(   - Records runtime execution, measuring Long Tasks \(> 50ms\) that block the main thread.) Tj
+T*
+(   - Flags Forced Synchronous Layouts / Layout Thrashing in bright purple.) Tj
+T*
+(   - Analyzes Total Blocking Time \(TBT\) and Interaction to Next Paint \(INP\).) Tj
+T*
+() Tj
+T*
+(   2. Memory Tab \(Heap Snapshots\):) Tj
+T*
+(   - Compares heap snapshots over time to isolate memory leaks \(e.g., detached DOM tree nodes and) Tj
+T*
+(   retaining closure paths\).) Tj
+T*
+ET
+
+endstream
+endobj
+59 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 60 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+60 0 obj
+<< /Length 766 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 29 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - Allocation Instrumentation on Timeline pinpoints functions generating high garbage collection) Tj
+T*
+(   pressure.) Tj
+T*
+() Tj
+T*
+(   3. Rendering Panel \(Visual Diagnostics\):) Tj
+T*
+(   - Paint Flashing: Highlights repainted screen regions in green.) Tj
+T*
+(   - Layout Shift Regions: Highlights elements causing sudden visual jumps \(Cumulative Layout) Tj
+T*
+(   Shift / CLS\) in blue.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+61 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+62 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+xref
+0 63
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000309 00000 n 
+0000000453 00000 n 
+0000009463 00000 n 
+0000009607 00000 n 
+0000018617 00000 n 
+0000018761 00000 n 
+0000027955 00000 n 
+0000028100 00000 n 
+0000039956 00000 n 
+0000040102 00000 n 
+0000051236 00000 n 
+0000051382 00000 n 
+0000064056 00000 n 
+0000064202 00000 n 
+0000076413 00000 n 
+0000076559 00000 n 
+0000078659 00000 n 
+0000078805 00000 n 
+0000083664 00000 n 
+0000083810 00000 n 
+0000086306 00000 n 
+0000086452 00000 n 
+0000094867 00000 n 
+0000095013 00000 n 
+0000099153 00000 n 
+0000099299 00000 n 
+0000102844 00000 n 
+0000102990 00000 n 
+0000106359 00000 n 
+0000106505 00000 n 
+0000109764 00000 n 
+0000109910 00000 n 
+0000112732 00000 n 
+0000112878 00000 n 
+0000116336 00000 n 
+0000116482 00000 n 
+0000119915 00000 n 
+0000120061 00000 n 
+0000123404 00000 n 
+0000123550 00000 n 
+0000127003 00000 n 
+0000127149 00000 n 
+0000130138 00000 n 
+0000130284 00000 n 
+0000133474 00000 n 
+0000133620 00000 n 
+0000136317 00000 n 
+0000136463 00000 n 
+0000139064 00000 n 
+0000139210 00000 n 
+0000142035 00000 n 
+0000142181 00000 n 
+0000144814 00000 n 
+0000144960 00000 n 
+0000147811 00000 n 
+0000147957 00000 n 
+0000150942 00000 n 
+0000151088 00000 n 
+0000151906 00000 n 
+0000152004 00000 n 
+trailer
+<< /Size 63 /Root 1 0 R >>
+startxref
+152107
+%%EOF

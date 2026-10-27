@@ -1,0 +1,560 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2800 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Drawing & AutoCAD | Unit 6: Surface Development & Solid Modeling) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 1 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(ENGINEERING DRAWING WITH AUTOCAD) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 10.5 Tf
+(UNIT 6: DEVELOPMENT OF SURFACES & AUTOCAD 3D OPERATIONS) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Curriculum: Lovely Professional University | School of Computer Science & Engineering) Tj
+T*
+(Reference: Engineering Drawing with an Introduction to AutoCAD by Dhananjay Jolhe) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.1 Concept and Industrial Applications of Surface Development) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(The development of a surface is the complete unfolding or unrolling of all outer) Tj
+T*
+(bounding surfaces of a 3D solid onto a flat 2D plane without stretching, tearing, or) Tj
+T*
+(distortion:) Tj
+T*
+(* Industrial Relevance: Essential for sheet metal fabrication, duct design \(HVAC\),) Tj
+T*
+(pipe bends, chemical hoppers, aircraft fairings, boiler shells, and packaging design.) Tj
+T*
+(* True Length Principle: Every line and boundary edge drawn in a surface development) Tj
+T*
+(must show its TRUE LENGTH \(TL\). Apparent foreshortened lengths from orthographic) Tj
+T*
+(views cannot be used directly.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.2 Classification of Surface Development Methods) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* 1. Parallel-Line Development: Used for solids having uniform parallel edges or) Tj
+T*
+(generators \(Prisms and Cylinders\). The stretch-out line is a straight line) Tj
+T*
+(perpendicular to the axis, with length equal to the perimeter of the base.) Tj
+T*
+(* 2. Radial-Line Development: Used for solids with converging edges or generators) Tj
+T*
+(meeting at a single apex \(Pyramids and Cones\). The development is formed by radiating) Tj
+T*
+(circular arcs centered at the apex, with radius equal to True Slant Height.) Tj
+T*
+(* 3. Triangulation Development: Used for transition pieces, hoppers, and irregular) Tj
+T*
+(non-developable shapes. The surface is divided into a mesh of contiguous triangles) Tj
+T*
+(whose true edge lengths are found and laid out consecutively.) Tj
+T*
+(* 4. Approximate Development: Used for double-curved surfaces that are mathematically) Tj
+T*
+(non-developable \(Spheres, paraboloids\) by dividing into spherical zones \(lunettes\) or) Tj
+T*
+(gore strips.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.3 Development of Truncated Solids and Cones) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Truncated Prism: Stretch-out line length = Perimeter \(n x side\). Vertical fold) Tj
+T*
+(lines spaced by side width. Heights of cut points measured directly from elevation) Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 3077 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Drawing & AutoCAD | Unit 6: Surface Development & Solid Modeling) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 2 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(view true lengths.) Tj
+T*
+(* Truncated Cylinder: Stretch-out line length = Circumference = pi x D. Divide) Tj
+T*
+(circumference into 12 equal parts. Vertical generators erected and cut heights) Tj
+T*
+(transferred horizontally.) Tj
+T*
+(* Truncated Cone: Sector of circle. Subtended angle theta = \(Radius of base / True) Tj
+T*
+(Slant Height\) x 360 degrees = \(R / L\) x 360 deg. Divide sector into 12 equal angles) Tj
+T*
+(and transfer cut generator points.) Tj
+T*
+(* Slant Edge True Length in Pyramids: If a pyramid slant edge is inclined to both HP) Tj
+T*
+(and VP, rotate it parallel to the plane before measuring true length L.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.4 AutoCAD 3D Boolean Operations and Visual Styles) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Boolean Solid Modeling Commands:) Tj
+T*
+(- UNION \(UNI\): Merges two or more overlapping 3D solids or 2D regions into a single) Tj
+T*
+(seamless continuous solid entity.) Tj
+T*
+(- SUBTRACT \(SU\): Removes the volume of selected tool solids from the designated base) Tj
+T*
+(solid \(Base Solid - Tool Solid\).) Tj
+T*
+(- INTERSECT \(IN\): Calculates and retains only the common overlapping intersecting volume) Tj
+T*
+(shared between two or more solids.) Tj
+T*
+(* 3D Navigation & Inspection:) Tj
+T*
+(- 3DORBIT \(3DO\): Dynamically rotates 3D model view in real time about target point.) Tj
+T*
+(- NAVISWHEEL: Unified steering wheel providing Pan, Zoom, Orbit, Rewind, and Look) Tj
+T*
+(functions.) Tj
+T*
+(* Visual Styles \(VS\):) Tj
+T*
+(- 2D Wireframe: Basic vector lines and arcs representing edges.) Tj
+T*
+(- Conceptual: Smooth shaded surface with cool-to-warm color transitions based on face) Tj
+T*
+(normals.) Tj
+T*
+(- Hidden: Displays solid geometry while suppressing hidden back lines.) Tj
+T*
+(- Realistic: Displays solid models with realistic materials, textures, and lighting.) Tj
+T*
+(- Shaded with Edges: Optimal engineering drafting mode displaying crisp black boundary) Tj
+T*
+(edges over shaded faces.) Tj
+T*
+(* Mass Properties \(MASSPROP\): Calculates volume, mass, bounding box, center of) Tj
+T*
+(gravity \(centroid\), moments of inertia, and radii of gyration for any 3D solid.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROBLEM 1: Parallel-Line Development of a Truncated Hexagonal Prism]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Statement: A right regular hexagonal prism, base edge 30 mm and axis height 70) Tj
+T*
+(mm, rests on HP with one base edge perpendicular to VP. A cutting plane inclined at 45) Tj
+T*
+(degrees to HP cuts the prism axis at a height of 40 mm from the base. Draw the) Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 3329 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Drawing & AutoCAD | Unit 6: Surface Development & Solid Modeling) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 3 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(development of the lateral surface of the truncated prism.) Tj
+T*
+(Step-by-Step Construction Procedure:) Tj
+T*
+(* 1. Front View & Section Plane:) Tj
+T*
+(- Draw Front View of hexagonal prism: Base line = 60 mm, Height = 70 mm.) Tj
+T*
+(- Axis passes at x = 30 mm. Mark cut center at height 40 mm on axis.) Tj
+T*
+(- Draw cutting plane at 45 degrees inclined to base passing through \(30, 40\).) Tj
+T*
+(- Label intersection points with vertical edges: 1'', 2'', 3'', 4'', 5'', 6''.) Tj
+T*
+(* 2. Stretch-Out Line Formulation:) Tj
+T*
+(- Stretch-out line length = 6 x side = 6 x 30 mm = 180 mm.) Tj
+T*
+(- Divide into 6 equal segments of 30 mm labeled A, B, C, D, E, F, A \(seam at A\).) Tj
+T*
+(- Erect vertical lines of height 70 mm at each division representing vertical edges.) Tj
+T*
+(* 3. Transferring True Cut Heights:) Tj
+T*
+(- Since vertical edges of the prism are perpendicular to HP, their elevation views show) Tj
+T*
+(TRUE LENGTHS directly!) Tj
+T*
+(- Project cut point 1'' horizontally to edges A; point 2'' to edge B; point 3'' to edge) Tj
+T*
+(C; point 4'' to edge D; point 5'' to edge E; point 6'' to edge F.) Tj
+T*
+(* 4. Boundary Profiling: Connect points 1, 2, 3, 4, 5, 6, 1 with straight lines) Tj
+T*
+(\(since prism faces are flat planar facets\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROBLEM 2: Radial-Line Development of a Truncated Right Circular Cone]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Statement: A right circular cone of base diameter 60 mm and altitude 80 mm rests) Tj
+T*
+(on its base on HP. It is cut by a section plane inclined at 30 degrees to HP, bisecting) Tj
+T*
+(the cone axis. Draw the development of the remaining truncated cone surface.) Tj
+T*
+(Mathematical Derivation & Geometric Protocol:) Tj
+T*
+(* 1. Calculate True Slant Height \(L\):) Tj
+T*
+(- Radius R = 60 / 2 = 30 mm. Height H = 80 mm.) Tj
+T*
+(- Slant Height L = sqrt\(R^2 + H^2\) = sqrt\(30^2 + 80^2\) = sqrt\(900 + 6400\) = sqrt\(7300\) =) Tj
+T*
+(85.44 mm.) Tj
+T*
+(* 2. Calculate Sector Development Angle \(theta\):) Tj
+T*
+(- theta = \(R / L\) x 360 deg = \(30 / 85.44\) x 360 deg = 0.3511 x 360 = 126.4 degrees.) Tj
+T*
+(* 3. Radial Sector Layout:) Tj
+T*
+(- Center at Apex O, strike a circular arc of radius L = 85.44 mm.) Tj
+T*
+(- Measure sector angle theta = 126.4 degrees using protractor. Divide sector into 12) Tj
+T*
+(equal angles \(10.53 deg each\) representing 12 cone generators.) Tj
+T*
+(* 4. Finding True Cut Generator Lengths:) Tj
+T*
+(- Section plane bisects axis at height H/2 = 40 mm. Draw 30-deg cut plane.) Tj
+T*
+(- Only the extreme contour generators O-1'' and O-7'' in elevation show True Length.) Tj
+T*
+(- For intermediate generators \(2, 3, 4, 5, 6\), project intersection points HORIZONTALLY) Tj
+T*
+(onto the extreme contour generator O-7'' to measure their true distances from apex O.) Tj
+T*
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 3255 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Drawing & AutoCAD | Unit 6: Surface Development & Solid Modeling) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 4 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(* 5. Plotting Cut Curve: Transfer these true radial distances from O along the) Tj
+T*
+(corresponding radial generator lines in the sector. Connect points with a smooth) Tj
+T*
+(French curve.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROBLEM 3: Development of a Square-to-Round Transition Duct]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Statement: A sheet metal transition hopper connects a rectangular furnace flue) Tj
+T*
+(\(100 mm x 100 mm\) at the base to a circular exhaust duct \(dia 60 mm\) at the top,) Tj
+T*
+(vertical height 75 mm. Explain the Triangulation Development procedure.) Tj
+T*
+(Engineering Solution & Triangulation Procedure:) Tj
+T*
+(* 1. Symmetrical Decomposition: Due to 4-fold symmetry, divide the top circle into 12) Tj
+T*
+(equal parts \(3 per quadrant: 1, 2, 3, 4\). Each quadrant consists of a central flat) Tj
+T*
+(triangle and two transitional scalene triangles connected to base corner A.) Tj
+T*
+(* 2. True Length Calculation via Right Triangles:) Tj
+T*
+(- Plan length = sqrt\(\(X_top - X_base\)^2 + \(Y_top - Y_base\)^2\).) Tj
+T*
+(- True Length = sqrt\(\(Plan length\)^2 + \(Vertical Height 75\)^2\).) Tj
+T*
+(* 3. Successive Triangle Construction: Lay down base edge AB = 100 mm. Strike arc) Tj
+T*
+(from A with True Length A-1 and arc from B with True Length B-1 to locate apex 1.) Tj
+T*
+(Continue constructing adjacent triangles A-1-2 and A-2-3 sequentially.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROBLEM 4: AutoCAD 3D Boolean Modeling & Mass Properties Analysis]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Create a hydraulic valve manifold body with intersecting bores using) Tj
+T*
+(AutoCAD 3D Boolean tools and inspect mass properties.) Tj
+T*
+(AutoCAD Command Protocol:) Tj
+T*
+(* 1. BOX -> 0,0,0 -> Length 120 mm, Width 80 mm, Height 60 mm.) Tj
+T*
+(* 2. CYLINDER -> Center: 60,40,60 -> Radius: 20 mm -> Height: -60 mm \(Vertical fluid) Tj
+T*
+(chamber\).) Tj
+T*
+(* 3. UCS -> 3P -> Align with front face \(120 x 60 face\).) Tj
+T*
+(* 4. CYLINDER -> Center: 60,30,0 -> Radius: 12 mm -> Height: -80 mm \(Horizontal cross) Tj
+T*
+(bore\).) Tj
+T*
+(* 5. SUBTRACT Command: Select main Box -> Enter -> Select vertical and horizontal) Tj
+T*
+(cylinders -> Enter.) Tj
+T*
+(* 6. FILLETEDGE -> Select all 12 outer sharp edges -> Radius: 3 mm. \(Generates smooth) Tj
+T*
+(cast fillets\).) Tj
+T*
+(* 7. VISUALSTYLES -> Select "Shaded with Edges". Run 3DORBIT to inspect intersecting) Tj
+T*
+(internal cavity.) Tj
+T*
+(* 8. MASSPROP Command: Select final manifold solid -> AutoCAD outputs exact Volume) Tj
+T*
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 392 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Drawing & AutoCAD | Unit 6: Surface Development & Solid Modeling) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 5 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(\(e.g., 478,214 mm^3\), Centroid coordinates, and Moments of Inertia.) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000171 00000 n 
+0000000241 00000 n 
+0000000316 00000 n 
+0000000428 00000 n 
+0000003280 00000 n 
+0000003392 00000 n 
+0000006521 00000 n 
+0000006634 00000 n 
+0000010016 00000 n 
+0000010130 00000 n 
+0000013438 00000 n 
+0000013552 00000 n 
+trailer
+<< /Size 15 /Root 1 0 R >>
+startxref
+13996
+%%EOF

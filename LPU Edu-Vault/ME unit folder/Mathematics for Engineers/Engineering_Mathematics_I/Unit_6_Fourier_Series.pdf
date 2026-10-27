@@ -1,0 +1,602 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 3009 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mathematics - I | Unit 6: Fourier Series & Harmonics) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 1 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(=== UNIT 6: FOURIER SERIES AND HARMONIC ANALYSIS ===) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.1 Periodic Functions and Dirichlet's Conditions) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Fourier analysis decomposes arbitrary periodic engineering signals into linear) Tj
+T*
+(combinations of pure sinusoidal harmonics.) Tj
+T*
+(* Periodic Functions: A function f\(x\) is periodic with period T if f\(x + T\) = f\(x\)) Tj
+T*
+(for all x in its domain.) Tj
+T*
+(* Dirichlet's Conditions for Fourier Convergence: Any function f\(x\) defined in) Tj
+T*
+(interval \(-c, c\) can be expanded into a convergent Fourier series provided:) Tj
+T*
+(1. f\(x\) is periodic, single-valued, and bounded.) Tj
+T*
+(2. f\(x\) has at most a finite number of jump discontinuities in any single period.) Tj
+T*
+(3. f\(x\) has at most a finite number of local maxima and minima in any single period.) Tj
+T*
+(* Convergence at Discontinuities: At a point of finite discontinuity x0, the Fourier) Tj
+T*
+(series converges to the arithmetic mean of its left- and right-hand limits: f\(x0\) = [) Tj
+T*
+(f\(x0-\) + f\(x0+\) ] / 2.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.2 Euler's Formulae for Fourier Coefficients) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Fourier Series Representation in Interval \(-pi, pi\):) Tj
+T*
+(f\(x\) = a0 / 2 + sum_{n=1}^inf [ an * cos\(nx\) + bn * sin\(nx\) ].) Tj
+T*
+(* Euler's Formulae:) Tj
+T*
+(a0 = \(1 / pi\) * int_{-pi}^{pi} f\(x\) dx.) Tj
+T*
+(an = \(1 / pi\) * int_{-pi}^{pi} f\(x\) * cos\(nx\) dx \(for n = 1, 2, 3, ...\).) Tj
+T*
+(bn = \(1 / pi\) * int_{-pi}^{pi} f\(x\) * sin\(nx\) dx \(for n = 1, 2, 3, ...\).) Tj
+T*
+(* Fourier Series for Arbitrary Period T = 2L \(Interval -L to L\):) Tj
+T*
+(f\(x\) = a0 / 2 + sum_{n=1}^inf [ an * cos\(n*pi*x / L\) + bn * sin\(n*pi*x / L\) ], where:) Tj
+T*
+(a0 = \(1 / L\) * int_{-L}^L f\(x\) dx.) Tj
+T*
+(an = \(1 / L\) * int_{-L}^L f\(x\) * cos\(n*pi*x / L\) dx.) Tj
+T*
+(bn = \(1 / L\) * int_{-L}^L f\(x\) * sin\(n*pi*x / L\) dx.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.3 Even and Odd Functions \(Half-Range Expansions\)) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Even Functions \(f\(-x\) = f\(x\), symmetric about y-axis\):) Tj
+T*
+(Product f\(x\)*sin\(nx\) is odd => bn = 0 \(No sine terms\).) Tj
+T*
+(Fourier Cosine Series: a0 = \(2 / L\) * int_0^L f\(x\) dx; an = \(2 / L\) * int_0^L) Tj
+T*
+(f\(x\)*cos\(n*pi*x / L\) dx.) Tj
+T*
+(* Odd Functions \(f\(-x\) = -f\(x\), symmetric about origin\):) Tj
+T*
+(f\(x\) and f\(x\)*cos\(nx\) are odd => a0 = 0 and an = 0 \(No cosine terms\).) Tj
+T*
+(Fourier Sine Series: bn = \(2 / L\) * int_0^L f\(x\)*sin\(n*pi*x / L\) dx.) Tj
+T*
+(* Half-Range Series: A function defined only on interval \(0, L\) can be expanded into) Tj
+T*
+(either:) Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 3387 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mathematics - I | Unit 6: Fourier Series & Harmonics) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 2 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(1. Half-Range Sine Series: Extend f\(x\) as an odd function into \(-L, 0\). Contains only) Tj
+T*
+(sine terms.) Tj
+T*
+(2. Half-Range Cosine Series: Extend f\(x\) as an even function into \(-L, 0\). Contains only) Tj
+T*
+(cosine terms.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([SOLVED PROBLEM 1: Fourier Series of Square Wave and Gregory-Leibniz Formula]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: Obtain the Fourier series for the square wave function defined by f\(x\) = -k for) Tj
+T*
+(-pi < x < 0, and f\(x\) = +k for 0 < x < pi, with f\(x + 2*pi\) = f\(x\). Hence deduce the) Tj
+T*
+(Gregory-Leibniz series: 1 - 1/3 + 1/5 - 1/7 + ... = pi / 4.) Tj
+T*
+(Solution Step 1: Symmetry inspection: f\(-x\) = -f\(x\). Thus f\(x\) is an ODD function.) Tj
+T*
+(Consequently: a0 = 0 and an = 0 for all n.) Tj
+T*
+(Solution Step 2: Compute Fourier sine coefficients bn:) Tj
+T*
+(bn = \(2 / pi\) * int_0^pi f\(x\) * sin\(nx\) dx = \(2 / pi\) * int_0^pi k * sin\(nx\) dx) Tj
+T*
+(bn = \(2*k / pi\) * [ -cos\(nx\) / n ]_0^pi = \(2*k / \(n*pi\)\) * [ 1 - cos\(n*pi\) ].) Tj
+T*
+(Since cos\(n*pi\) = \(-1\)^n:) Tj
+T*
+(- If n is EVEN: 1 - \(-1\)^n = 1 - 1 = 0 => bn = 0.) Tj
+T*
+(- If n is ODD: 1 - \(-1\)^n = 1 - \(-1\) = 2 => bn = 4*k / \(n*pi\).) Tj
+T*
+(Solution Step 3: Write out Fourier Series:) Tj
+T*
+(f\(x\) = \(4*k / pi\) * [ sin\(x\) + sin\(3x\)/3 + sin\(5x\)/5 + sin\(7x\)/7 + ... ].) Tj
+T*
+(Solution Step 4: Deduce numerical sum at x = pi/2:) Tj
+T*
+(At x = pi/2, f\(pi/2\) = k.) Tj
+T*
+(sin\(pi/2\) = 1, sin\(3*pi/2\) = -1, sin\(5*pi/2\) = 1, sin\(7*pi/2\) = -1.) Tj
+T*
+(Substitute: k = \(4*k / pi\) * [ 1 - 1/3 + 1/5 - 1/7 + ... ].) Tj
+T*
+(Divide by k and multiply by pi/4:) Tj
+T*
+(1 - 1/3 + 1/5 - 1/7 + ... = pi / 4. \(Hence Proved\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([SOLVED PROBLEM 2: Fourier Expansion of Parabolic Function f\(x\) = x^2]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: Find the Fourier series of f\(x\) = x^2 in the interval -pi <= x <= pi. Hence) Tj
+T*
+(prove that:) Tj
+T*
+(1/1^2 - 1/2^2 + 1/3^2 - 1/4^2 + ... = pi^2 / 12, and 1/1^2 + 1/2^2 + 1/3^2 + ... = pi^2) Tj
+T*
+(/ 6.) Tj
+T*
+(Solution Step 1: Function parity: f\(-x\) = \(-x\)^2 = x^2 = f\(x\). f\(x\) is EVEN.) Tj
+T*
+(Therefore: bn = 0 for all n.) Tj
+T*
+(Solution Step 2: Calculate a0:) Tj
+T*
+(a0 = \(2 / pi\) * int_0^pi x^2 dx = \(2 / pi\) * [ x^3 / 3 ]_0^pi = \(2 / pi\) * \(pi^3 / 3\) =) Tj
+T*
+(2*pi^2 / 3.) Tj
+T*
+(Constant term: a0 / 2 = pi^2 / 3.) Tj
+T*
+(Solution Step 3: Calculate an using integration by parts:) Tj
+T*
+(an = \(2 / pi\) * int_0^pi x^2 * cos\(nx\) dx.) Tj
+T*
+(Let u = x^2, dv = cos\(nx\) dx => v = sin\(nx\)/n, v1 = -cos\(nx\)/n^2, v2 = -sin\(nx\)/n^3.) Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 3509 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mathematics - I | Unit 6: Fourier Series & Harmonics) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 3 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(Using generalized parts: int u*v dx = u*v - u'*v1 + u''*v2) Tj
+T*
+(= [ x^2 * \(sin\(nx\)/n\) - \(2x\)*\(-cos\(nx\)/n^2\) + \(2\)*\(-sin\(nx\)/n^3\) ]_0^pi.) Tj
+T*
+(Evaluating at 0 and pi: sin\(n*pi\) = 0, so only cosine term survives:) Tj
+T*
+(an = \(2 / pi\) * [ 2*pi * cos\(n*pi\) / n^2 ] = \(4 / n^2\) * \(-1\)^n.) Tj
+T*
+(Solution Step 4: Write Fourier Series:) Tj
+T*
+(x^2 = pi^2 / 3 + 4 * sum_{n=1}^inf [ \(\(-1\)^n / n^2\) * cos\(nx\) ]) Tj
+T*
+(x^2 = pi^2 / 3 - 4 * [ cos\(x\)/1^2 - cos\(2x\)/2^2 + cos\(3x\)/3^2 - cos\(4x\)/4^2 + ... ].) Tj
+T*
+(Solution Step 5: Deduction 1 \(Set x = 0\):) Tj
+T*
+(0 = pi^2 / 3 - 4 * [ 1/1^2 - 1/2^2 + 1/3^2 - 1/4^2 + ... ]) Tj
+T*
+(=> 4 * [ 1/1^2 - 1/2^2 + 1/3^2 - 1/4^2 + ... ] = pi^2 / 3) Tj
+T*
+(=> 1/1^2 - 1/2^2 + 1/3^2 - 1/4^2 + ... = pi^2 / 12. \(Proven\).) Tj
+T*
+(Solution Step 6: Deduction 2 \(Set x = pi\):) Tj
+T*
+(pi^2 = pi^2 / 3 - 4 * [ -1/1^2 - 1/2^2 - 1/3^2 - ... ] = pi^2 / 3 + 4 * [ 1/1^2 + 1/2^2) Tj
+T*
+(+ 1/3^2 + ... ]) Tj
+T*
+(pi^2 - pi^2 / 3 = 2*pi^2 / 3 = 4 * sum_{n=1}^inf \(1 / n^2\)) Tj
+T*
+(=> sum_{n=1}^inf \(1 / n^2\) = \(2*pi^2 / 3\) / 4 = pi^2 / 6. \(Basel Problem Proven\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([SOLVED PROBLEM 3: Half-Range Sine Series for Linear Ramp]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: Find the half-range Fourier sine series for f\(x\) = x in the interval 0 < x < 2) Tj
+T*
+(\(L = 2\).) Tj
+T*
+(Solution Step 1: For half-range sine series, a0 = 0 and an = 0.) Tj
+T*
+(Solution Step 2: Compute bn with L = 2:) Tj
+T*
+(bn = \(2 / L\) * int_0^L f\(x\) * sin\(n*pi*x / L\) dx = \(2 / 2\) * int_0^2 x * sin\(n*pi*x / 2\)) Tj
+T*
+(dx.) Tj
+T*
+(bn = int_0^2 x * sin\(n*pi*x / 2\) dx.) Tj
+T*
+(Solution Step 3: Integrate by parts \(u = x, dv = sin\(n*pi*x / 2\) dx\):) Tj
+T*
+(v = - [ 2 / \(n*pi\) ] * cos\(n*pi*x / 2\).) Tj
+T*
+(bn = [ - x * \(2 / \(n*pi\)\) * cos\(n*pi*x / 2\) ]_0^2 - int_0^2 [ - \(2 / \(n*pi\)\) *) Tj
+T*
+(cos\(n*pi*x / 2\) ] dx) Tj
+T*
+(bn = [ - 2 * \(2 / \(n*pi\)\) * cos\(n*pi\) - 0 ] + [ 4 / \(n^2*pi^2\) * sin\(n*pi*x / 2\) ]_0^2.) Tj
+T*
+(Since sin\(n*pi\) = 0 and sin\(0\) = 0, the second bracket is zero.) Tj
+T*
+(bn = - \(4 / \(n*pi\)\) * \(-1\)^n = \(4 / \(n*pi\)\) * \(-1\)^{n+1}.) Tj
+T*
+(Solution Step 4: Write series expansion:) Tj
+T*
+(f\(x\) = sum_{n=1}^inf [ \(4 / \(n*pi\)\) * \(-1\)^{n+1} * sin\(n*pi*x / 2\) ]) Tj
+T*
+(f\(x\) = \(4 / pi\) * [ sin\(pi*x/2\) - \(1/2\)*sin\(2*pi*x/2\) + \(1/3\)*sin\(3*pi*x/2\) - ... ].) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([SOLVED PROBLEM 4: Half-Range Cosine Series for f\(x\) = x*\(pi - x\)]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: Obtain the half-range cosine series for f\(x\) = pi*x - x^2 in the range 0 <= x) Tj
+T*
+(<= pi.) Tj
+T*
+(Solution Step 1: For half-range cosine series in \(0, pi\), L = pi. bn = 0.) Tj
+T*
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 3393 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mathematics - I | Unit 6: Fourier Series & Harmonics) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 4 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(Solution Step 2: Compute a0:) Tj
+T*
+(a0 = \(2 / pi\) * int_0^pi \(pi*x - x^2\) dx = \(2 / pi\) * [ pi*x^2/2 - x^3/3 ]_0^pi) Tj
+T*
+(a0 = \(2 / pi\) * [ pi^3/2 - pi^3/3 ] = \(2 / pi\) * \(pi^3 / 6\) = pi^2 / 3.) Tj
+T*
+(Constant term: a0 / 2 = pi^2 / 6.) Tj
+T*
+(Solution Step 3: Compute an using integration by parts:) Tj
+T*
+(an = \(2 / pi\) * int_0^pi \(pi*x - x^2\) * cos\(nx\) dx.) Tj
+T*
+(Using generalized formula \(u = pi*x - x^2, u' = pi - 2x, u'' = -2\):) Tj
+T*
+(an = \(2 / pi\) * [ \(pi*x - x^2\)*\(sin\(nx\)/n\) - \(pi - 2x\)*\(-cos\(nx\)/n^2\) +) Tj
+T*
+(\(-2\)*\(-sin\(nx\)/n^3\) ]_0^pi.) Tj
+T*
+(Evaluating at 0 and pi \(sin terms vanish\):) Tj
+T*
+(At x = pi: - \(pi - 2*pi\)*\(-cos\(n*pi\)/n^2\) = - \(-pi\)*\(-\(-1\)^n / n^2\) = - pi*\(-1\)^n / n^2.) Tj
+T*
+(At x = 0: - \(pi - 0\)*\(-cos\(0\)/n^2\) = - pi*\(-1/n^2\) = + pi / n^2.) Tj
+T*
+(an = \(2 / pi\) * [ - pi*\(-1\)^n / n^2 - pi / n^2 ] = - \(2 / n^2\) * [ 1 + \(-1\)^n ].) Tj
+T*
+(- If n is ODD: 1 + \(-1\)^n = 1 - 1 = 0 => an = 0.) Tj
+T*
+(- If n is EVEN: 1 + \(-1\)^n = 2 => an = - 4 / n^2. Let n = 2m: a_{2m} = - 4 /) Tj
+T*
+(\(2m\)^2 = - 1 / m^2.) Tj
+T*
+(Solution Step 4: Write Half-Range Cosine Series:) Tj
+T*
+(pi*x - x^2 = pi^2 / 6 - sum_{m=1}^inf [ \(1 / m^2\) * cos\(2mx\) ]) Tj
+T*
+(pi*x - x^2 = pi^2 / 6 - [ cos\(2x\)/1^2 + cos\(4x\)/2^2 + cos\(6x\)/3^2 + ... ].) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.4 University Review & Examination Questions) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Q1: State Dirichlet's conditions for the existence of a Fourier series of a) Tj
+T*
+(function f\(x\) in \(-pi, pi\).) Tj
+T*
+(Answer: Dirichlet's conditions guarantee that a function f\(x\) defined on \(-pi, pi\) has a) Tj
+T*
+(convergent Fourier series: \(1\) f\(x\) must be single-valued and bounded everywhere in) Tj
+T*
+(\(-pi, pi\). \(2\) f\(x\) must have at most a finite number of jump discontinuities within any) Tj
+T*
+(single period. \(3\) f\(x\) must have at most a finite number of local maxima and local) Tj
+T*
+(minima in that interval. When these conditions hold, the series converges to f\(x\) at) Tj
+T*
+(every point of continuity, and converges to [f\(x+\) + f\(x-\)] / 2 at any point of) Tj
+T*
+(discontinuity.) Tj
+T*
+(* Q2: Explain Parseval's identity for Fourier series and its application in summing) Tj
+T*
+(infinite numerical series.) Tj
+T*
+(Answer: Parseval's identity equates the mean-square value of a periodic function to the) Tj
+T*
+(sum of the squares of its Fourier coefficients: \(1 / 2L\) * int_{-L}^L [f\(x\)]^2 dx = \(a0) Tj
+T*
+(/ 2\)^2 + \(1 / 2\) * sum_{n=1}^inf \(an^2 + bn^2\). In the interval \(-pi, pi\), this becomes:) Tj
+T*
+(\(1 / pi\) * int_{-pi}^{pi} [f\(x\)]^2 dx = a0^2 / 2 + sum_{n=1}^inf \(an^2 + bn^2\).) Tj
+T*
+(Parseval's theorem is extraordinarily powerful in computing higher-order infinite) Tj
+T*
+(numerical series \(such as sum 1/n^4 or sum 1/n^6\) by simply evaluating the definite) Tj
+T*
+(integral of [f\(x\)]^2.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.5 Key Takeaways and Revision Points) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Euler's formulas determine harmonic coefficients a0, an, and bn.) Tj
+T*
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 660 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mathematics - I | Unit 6: Fourier Series & Harmonics) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 5 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(* Even functions yield pure cosine series \(bn = 0\); odd functions yield pure sine) Tj
+T*
+(series \(a0 = an = 0\).) Tj
+T*
+(* At points of jump discontinuity, Fourier series converges to the midpoint [f\(x+\) +) Tj
+T*
+(f\(x-\)] / 2.) Tj
+T*
+(* Half-range series extend functions defined on \(0, L\) into full even or odd periodic) Tj
+T*
+(domains.) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000171 00000 n 
+0000000241 00000 n 
+0000000316 00000 n 
+0000000428 00000 n 
+0000003489 00000 n 
+0000003601 00000 n 
+0000007040 00000 n 
+0000007153 00000 n 
+0000010715 00000 n 
+0000010829 00000 n 
+0000014275 00000 n 
+0000014389 00000 n 
+trailer
+<< /Size 15 /Root 1 0 R >>
+startxref
+15101
+%%EOF

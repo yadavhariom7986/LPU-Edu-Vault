@@ -1,0 +1,602 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2599 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Orientation to Computing | Unit 2: Number Systems & Digital Logic) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 1 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(ORIENTATION TO COMPUTING) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 10.5 Tf
+(UNIT 2: NUMBER SYSTEMS, DATA REPRESENTATION & DIGITAL LOGIC) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Curriculum: Lovely Professional University | School of Computer Science & Engineering) Tj
+T*
+(Reference: Data Communications and Networking by Behrouz A. Forouzan & Digital Design by) Tj
+T*
+(M. Morris Mano) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.1 Positional Number Systems and Radix Conversion) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Computers represent all instructions and data using positional number systems based on) Tj
+T*
+(discrete integer bases \(radix r\):) Tj
+T*
+(* Decimal System \(Radix 10\): Digits 0 through 9.) Tj
+T*
+(* Binary System \(Radix 2\): Digits 0 and 1. Fundamental language of electronic digital) Tj
+T*
+(logic.) Tj
+T*
+(* Octal System \(Radix 8\): Digits 0 through 7 \(Each octal digit maps to exactly 3) Tj
+T*
+(binary bits: 2^3 = 8\).) Tj
+T*
+(* Hexadecimal System \(Radix 16\): Digits 0 through 9 and letters A \(10\) through F) Tj
+T*
+(\(15\). \(Each hex digit maps to exactly 4 binary bits / 1 nibble: 2^4 = 16\).) Tj
+T*
+(* Conversion Principles:) Tj
+T*
+(- Radix r to Decimal: Polynomial expansion: Value = Sum\(d_i x r^i\) for integer and) Tj
+T*
+(fractional components.) Tj
+T*
+(- Decimal to Radix r: Successive division by r for integer part \(collect remainders in) Tj
+T*
+(reverse order\); successive multiplication by r for fractional part \(collect integer) Tj
+T*
+(overflows in forward order\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.2 Binary Integer Representation and Arithmetic) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* 1. Unsigned Integers: All n bits represent magnitude. Range for n bits: [0 to 2^n -) Tj
+T*
+(1].) Tj
+T*
+(* 2. Sign-Magnitude: Most Significant Bit \(MSB\) is sign \(0 = positive, 1 = negative\);) Tj
+T*
+(remaining n-1 bits represent magnitude. Drawbacks: Two representations of zero \(+0) Tj
+T*
+(and -0\); complex arithmetic hardware.) Tj
+T*
+(* 3. 1''s Complement: Negative number formed by bitwise inverting all bits \(NOT) Tj
+T*
+(operation\). Still suffers from dual zero representation.) Tj
+T*
+(* 4. 2''s Complement \(Universal Hardware Standard\):) Tj
+T*
+(- Formulation: Negative of X is formed by taking 1''s complement of X and adding 1: 2''s) Tj
+T*
+(Comp\(X\) = \(~X\) + 1.) Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 2788 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Orientation to Computing | Unit 2: Number Systems & Digital Logic) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 2 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(- Advantages: Unique representation of zero \(00000000\); hardware subtraction is achieved) Tj
+T*
+(by standard addition \(A - B = A + \(~B + 1\)\).) Tj
+T*
+(- Range for n bits: [-2^\(n-1\) to +2^\(n-1\) - 1]. For 8 bits: -128 to +127.) Tj
+T*
+(- Overflow Rule: When adding two numbers of the same sign, if the result produces an) Tj
+T*
+(opposite sign bit, arithmetic overflow has occurred \(Carry into MSB XOR Carry out of MSB) Tj
+T*
+(= 1\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.3 Floating-Point Representation: IEEE 754 Standard) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Real numbers with fractional parts and wide dynamic ranges are represented using) Tj
+T*
+(normalized scientific notation:) Tj
+T*
+(* Single Precision \(32-bit\):) Tj
+T*
+(- 1 Sign bit \(S\): 0 for positive, 1 for negative.) Tj
+T*
+(- 8 Exponent bits \(E\): Biased exponent using Bias = 127. Actual exponent e = E - 127.) Tj
+T*
+(- 23 Mantissa / Fraction bits \(M\): Normalized with an implicit leading 1: Significant =) Tj
+T*
+(1.M.) Tj
+T*
+(- Value = \(-1\)^S x \(1.M\) x 2^\(E - 127\).) Tj
+T*
+(* Double Precision \(64-bit\): 1 Sign bit, 11 Exponent bits \(Bias = 1023\), 52 Mantissa) Tj
+T*
+(bits.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.4 Character and Symbol Encoding Systems) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* ASCII \(American Standard Code for Information Interchange\): 7-bit encoding) Tj
+T*
+(representing 128 characters \(0-127\). Extended ASCII uses 8 bits for 256 symbols.) Tj
+T*
+(* Unicode Standard: Universal character set assigning unique code points \(U+XXXX\) to) Tj
+T*
+(all world languages and symbols:) Tj
+T*
+(- UTF-8: Variable-length encoding \(1 to 4 bytes per character\). 100% backward compatible) Tj
+T*
+(with ASCII \(1 byte\). Dominates the World Wide Web \(>98% of web pages\).) Tj
+T*
+(- UTF-16: 2 or 4 bytes per character; standard internal encoding in Java and Windows OS.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.5 Digital Logic Gates and Boolean Minimization) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Fundamental Logic Gates: AND \(F = A.B\), OR \(F = A + B\), NOT \(F = ~A\).) Tj
+T*
+(* Universal Logic Gates: NAND \(~\(A.B\)\) and NOR \(~\(A + B\)\). Any digital logic circuit) Tj
+T*
+(can be realized exclusively using only NAND or only NOR gates.) Tj
+T*
+(* Exclusive Gates: XOR \(F = A \(+\) B = A''B + AB'', odd parity detector\) and XNOR \(F =) Tj
+T*
+(AB + A''B'', equivalence comparator\).) Tj
+T*
+(* Boolean Algebra Axioms & De Morgan''s Laws:) Tj
+T*
+(- Law 1: ~\(A + B\) = ~A . ~B \(NOT of OR is AND of NOTs\).) Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 2931 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Orientation to Computing | Unit 2: Number Systems & Digital Logic) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 3 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(- Law 2: ~\(A . B\) = ~A + ~B \(NOT of AND is OR of NOTs\).) Tj
+T*
+(* Karnaugh Maps \(K-Maps\): Graphical minimization technique utilizing Gray code) Tj
+T*
+(ordering where adjacent cells differ by exactly one binary bit, enabling systematic) Tj
+T*
+(identification of prime implicants.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROBLEM 1: Multi-Base Conversion with Fractional Component]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Statement: Convert the decimal number 218.625 into: \(1\) Binary, \(2\) Octal, and) Tj
+T*
+(\(3\) Hexadecimal.) Tj
+T*
+(Step-by-Step Mathematical Derivation:) Tj
+T*
+(* 1. Integer Part Conversion \(218\):) Tj
+T*
+(- 218 / 2 = 109 rem 0 | 109 / 2 = 54 rem 1 | 54 / 2 = 27 rem 0 | 27 / 2 = 13 rem 1 | 13) Tj
+T*
+(/ 2 = 6 rem 1 | 6 / 2 = 3 rem 0 | 3 / 2 = 1 rem 1 | 1 / 2 = 0 rem 1.) Tj
+T*
+(- Reading remainders from bottom to top: 218_10 = 11011010_2.) Tj
+T*
+(* 2. Fractional Part Conversion \(0.625\):) Tj
+T*
+(- 0.625 x 2 = 1.250 -> Integer 1, fractional 0.250.) Tj
+T*
+(- 0.250 x 2 = 0.500 -> Integer 0, fractional 0.500.) Tj
+T*
+(- 0.500 x 2 = 1.000 -> Integer 1, fractional 0.000 \(terminates\).) Tj
+T*
+(- Reading integers top to bottom: 0.625_10 = 0.101_2.) Tj
+T*
+(* 3. Binary Result: 218.625_10 = 11011010.101_2.) Tj
+T*
+(* 4. Conversion to Octal \(Group in 3s from binary point\):) Tj
+T*
+(- Integer: \(011\) \(011\) \(010\) = 3 3 2.) Tj
+T*
+(- Fractional: \(101\) = 5.) Tj
+T*
+(- Octal Result: 332.5_8.) Tj
+T*
+(* 5. Conversion to Hexadecimal \(Group in 4s from binary point\):) Tj
+T*
+(- Integer: \(1101\) \(1010\) = D A.) Tj
+T*
+(- Fractional: \(1010\) = A.) Tj
+T*
+(- Hexadecimal Result: DA.A_16 or 0xDA.A.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROBLEM 2: 8-Bit 2''s Complement Subtraction and Overflow Detection]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Statement: Perform the following operations using 8-bit 2''s complement) Tj
+T*
+(arithmetic and verify whether arithmetic overflow occurs: \(A\) \(+68\) - \(+35\), and \(B\)) Tj
+T*
+(\(+85\) + \(+60\).) Tj
+T*
+(Mathematical Execution:) Tj
+T*
+(* Part A: \(+68\) - \(+35\) = \(+68\) + \(-35\):) Tj
+T*
+(- +68 in binary = 01000100_2.) Tj
+T*
+(- +35 in binary = 00100011_2 -> 1''s comp = 11011100 -> 2''s comp \(-35\) = 11011101_2.) Tj
+T*
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 2754 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Orientation to Computing | Unit 2: Number Systems & Digital Logic) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 4 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(- Addition: 01000100 + 11011101 = \(1\) 00100001_2 \(discard end-around carry\).) Tj
+T*
+(- Result: 00100001_2 = 32 + 1 = +33 in decimal. Check: 68 - 35 = 33 \(Correct!\).) Tj
+T*
+(- Overflow check: Adding positive and negative numbers CANNOT cause overflow.) Tj
+T*
+(* Part B: \(+85\) + \(+60\):) Tj
+T*
+(- +85 in binary = 01010101_2.) Tj
+T*
+(- +60 in binary = 00111100_2.) Tj
+T*
+(- Addition: 01010101 + 00111100 = 10010001_2.) Tj
+T*
+(- Result Analysis: Both operands are POSITIVE \(MSB = 0\), but the sum has MSB = 1) Tj
+T*
+(\(NEGATIVE!\).) Tj
+T*
+(- True arithmetic sum = 145, which exceeds the maximum positive limit of 8-bit signed) Tj
+T*
+(integer \(+127\).) Tj
+T*
+(- Conclusion: OVERFLOW OCCURRED! The CPU sets the Overflow Flag \(V = 1\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROBLEM 3: IEEE 754 Single-Precision Floating-Point Encoding]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Statement: Encode the decimal number -43.75 into 32-bit IEEE 754) Tj
+T*
+(Single-Precision floating-point format. Express the final bit sequence in Hexadecimal.) Tj
+T*
+(Step-by-Step Derivation:) Tj
+T*
+(* 1. Determine Sign Bit \(S\): Number is negative -> S = 1.) Tj
+T*
+(* 2. Convert Absolute Value to Binary: 43.75:) Tj
+T*
+(- 43 = 32 + 8 + 2 + 1 = 101011_2. 0.75 = 0.5 + 0.25 = 0.11_2.) Tj
+T*
+(- 43.75_10 = 101011.11_2.) Tj
+T*
+(* 3. Normalize into Scientific Notation \(1.M x 2^e\):) Tj
+T*
+(- 101011.11 = 1.0101111 x 2^5 \(Shifted binary point 5 positions to the left\). Actual) Tj
+T*
+(exponent e = 5.) Tj
+T*
+(* 4. Calculate Biased Exponent \(E\):) Tj
+T*
+(- E = e + Bias = 5 + 127 = 132.) Tj
+T*
+(- 132 in 8-bit binary = 128 + 4 = 10000100_2.) Tj
+T*
+(* 5. Determine 23-bit Mantissa \(M\):) Tj
+T*
+(- Drop leading 1: M = 01011110000000000000000 \(padded with trailing zeros to 23 bits\).) Tj
+T*
+(* 6. Assemble 32-bit Pattern:) Tj
+T*
+(- S \(1 bit\): 1) Tj
+T*
+(- E \(8 bits\): 10000100) Tj
+T*
+(- M \(23 bits\): 01011110000000000000000) Tj
+T*
+(- Concatenated: 1 10000100 01011110000000000000000) Tj
+T*
+(* 7. Hexadecimal Representation \(Group into nibbles\):) Tj
+T*
+(- 1100 0010 0010 1111 0000 0000 0000 0000 -> 0xC22F0000.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 1868 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Orientation to Computing | Unit 2: Number Systems & Digital Logic) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 5 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+/F2 9.5 Tf
+([PROBLEM 4: 4-Variable K-Map Minimization and NAND Circuit Implementation]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Statement: Minimize the Boolean switching function F\(A, B, C, D\) = Sum m\(0, 2,) Tj
+T*
+(5, 7, 8, 10, 13, 15\) using a 4-variable Karnaugh Map, and draw the equivalent circuit) Tj
+T*
+(using only universal 2-input NAND gates.) Tj
+T*
+(K-Map Minimization Protocol:) Tj
+T*
+(* 1. K-Map Cell Population \(Gray Code grid AB x CD\):) Tj
+T*
+(- Min-terms at \(0, 2\), \(8, 10\) form a 4-corner quad: m0 \(0000\), m2 \(0010\), m8 \(1000\),) Tj
+T*
+(m10 \(1010\).) Tj
+T*
+(- Common variables across the 4 corners: B is 0 \(B''\), D is 0 \(D''\). Term 1 = B''.D''.) Tj
+T*
+(- Min-terms at \(5, 7, 13, 15\) form an interior quad: m5 \(0101\), m7 \(0111\), m13 \(1101\),) Tj
+T*
+(m15 \(1111\).) Tj
+T*
+(- Common variables across the interior quad: B is 1 \(B\), D is 1 \(D\). Term 2 = B.D.) Tj
+T*
+(* 2. Minimized Sum of Products \(SOP\): F = B''.D'' + B.D \(Notice this is the Boolean) Tj
+T*
+(equivalence XNOR: F = ~\(B \(+\) D\)\).) Tj
+T*
+(* 3. Universal NAND Gate Realization:) Tj
+T*
+(- Apply double negation: F = ~~F = ~\( ~\(B''.D''\) . ~\(B.D\) \).) Tj
+T*
+(- Invert B and D using NAND gates with tied inputs to produce B'' and D''.) Tj
+T*
+(- Feed B'' and D'' into NAND gate 1 to produce ~\(B''.D''\).) Tj
+T*
+(- Feed B and D into NAND gate 2 to produce ~\(B.D\).) Tj
+T*
+(- Feed the outputs of NAND 1 and NAND 2 into output NAND gate 3 to yield F.) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000171 00000 n 
+0000000241 00000 n 
+0000000316 00000 n 
+0000000428 00000 n 
+0000003079 00000 n 
+0000003191 00000 n 
+0000006031 00000 n 
+0000006144 00000 n 
+0000009128 00000 n 
+0000009242 00000 n 
+0000012049 00000 n 
+0000012163 00000 n 
+trailer
+<< /Size 15 /Root 1 0 R >>
+startxref
+14084
+%%EOF

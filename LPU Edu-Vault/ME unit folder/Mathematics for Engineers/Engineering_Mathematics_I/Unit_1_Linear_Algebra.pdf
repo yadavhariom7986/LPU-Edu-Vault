@@ -1,0 +1,656 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 3366 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mathematics - I | Unit 1: Linear Algebra & Matrices) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 1 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(=== UNIT 1: LINEAR ALGEBRA, MATRICES & EIGENVALUE THEORY ===) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 1.1 Elementary Matrix Transformations and Matrix Rank) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Linear algebra provides the mathematical framework for solving multidimensional physical) Tj
+T*
+(and biological engineering models.) Tj
+T*
+(* Elementary Operations: \(1\) Interchanging any two rows or columns \(Ri <-> Rj\). \(2\)) Tj
+T*
+(Multiplying any row by a non-zero scalar k \(Ri -> k*Ri\). \(3\) Adding a scalar multiple) Tj
+T*
+(of one row to another \(Ri -> Ri + k*Rj\). These operations preserve the rank and) Tj
+T*
+(solution set of associated linear systems.) Tj
+T*
+(* Row Echelon Form \(REF\): A matrix is in REF if: \(a\) All zero rows are at the bottom.) Tj
+T*
+(\(b\) The leading entry \(first non-zero number from the left, pivot\) of each non-zero) Tj
+T*
+(row is strictly to the right of the leading entry of the row above it. \(c\) All) Tj
+T*
+(entries below each pivot are zero.) Tj
+T*
+(* Reduced Row Echelon Form \(RREF\): An REF matrix where every pivot entry is equal to) Tj
+T*
+(1, and each pivot 1 is the ONLY non-zero entry in its entire column.) Tj
+T*
+(* Rank of Matrix \(rho\): Defined as the maximum number of linearly independent row or) Tj
+T*
+(column vectors. Computationally, rho\(A\) equals the total count of non-zero rows in) Tj
+T*
+(its row echelon form. For an m x n matrix, rho\(A\) <= min\(m, n\). A matrix of order n) Tj
+T*
+(with rho\(A\) = n is non-singular with det\(A\) != 0.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 1.2 System of Linear Algebraic Equations \(AX = B\)) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Augmented Matrix [A | B]: Formed by adjoining column vector B to coefficient matrix) Tj
+T*
+(A.) Tj
+T*
+(* The Rouche-Capelli Theorem \(Fundamental Existence & Uniqueness Theorem\):) Tj
+T*
+(1. Inconsistent System \(No Solution\): If rho\(A\) < rho\(A | B\). Geometrically,) Tj
+T*
+(planes/hyperplanes do not intersect at a common manifold.) Tj
+T*
+(2. Consistent System with Unique Solution: If rho\(A\) = rho\(A | B\) = n \(where n is the) Tj
+T*
+(number of unknown variables\). Det\(A\) != 0.) Tj
+T*
+(3. Consistent System with Infinitely Many Solutions: If rho\(A\) = rho\(A | B\) = r < n. The) Tj
+T*
+(system possesses \(n - r\) independent arbitrary parameters \(degrees of freedom\).) Tj
+T*
+(* Homogeneous Linear Systems \(AX = 0\): Always consistent since X = 0 \(the trivial) Tj
+T*
+(zero vector\) is always a solution. If rho\(A\) = n, only the trivial solution exists.) Tj
+T*
+(If rho\(A\) < n \(i.e., det\(A\) = 0\), non-trivial non-zero solutions exist, spanning the) Tj
+T*
+(null space \(kernel\) of dimension n - rho\(A\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 1.3 Eigenvalues, Eigenvectors and Diagonalization) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Characteristic Equation: For a square matrix A of order n, det\(A - lambda * I\) = 0.) Tj
+T*
+(Expanding this determinant yields an nth-degree polynomial in lambda. The n roots) Tj
+T*
+(\(real or complex\) are the Eigenvalues \(latent roots/characteristic values\).) Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 3146 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mathematics - I | Unit 1: Linear Algebra & Matrices) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 2 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(* Fundamental Invariants: \(1\) Sum of eigenvalues = Trace of A \(sum of main diagonal) Tj
+T*
+(elements: sum\(a_ii\)\). \(2\) Product of eigenvalues = Determinant of A \(det\(A\)\). \(3\) If) Tj
+T*
+(lambda is an eigenvalue of A, then lambda^k is an eigenvalue of A^k, and 1/lambda is) Tj
+T*
+(an eigenvalue of A^-1 \(if A is invertible\).) Tj
+T*
+(* Eigenvectors: Non-zero vectors X satisfying \(A - lambda * I\) * X = 0. Eigenvectors) Tj
+T*
+(corresponding to distinct eigenvalues are mutually linearly independent.) Tj
+T*
+(* Cayley-Hamilton Theorem: Every square matrix satisfies its own characteristic) Tj
+T*
+(equation. That is, if characteristic equation is p\(lambda\) = lambda^n +) Tj
+T*
+(c_{n-1}*lambda^{n-1} + ... + c1*lambda + c0 = 0, then A^n + c_{n-1}*A^{n-1} + ... +) Tj
+T*
+(c1*A + c0*I = O \(zero matrix\). Highly efficient for computing higher matrix powers) Tj
+T*
+(A^m and matrix inverses: A^-1 = \(-1/c0\) * [A^{n-1} + c_{n-1}*A^{n-2} + ... + c1*I].) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([SOLVED PROBLEM 1: Finding Matrix Rank via Row Echelon Form]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: Determine the rank of the 4x4 matrix A by reducing it to Row Echelon Form:) Tj
+T*
+([ 1 2 -1 3 ]) Tj
+T*
+(A = [ 2 4 1 -2 ]) Tj
+T*
+([ 3 6 3 -7 ]) Tj
+T*
+([ 1 2 2 -5 ]) Tj
+T*
+(Solution Step 1: Use pivot a11 = 1 to eliminate entries in column 1 below row 1:) Tj
+T*
+(R2 -> R2 - 2*R1: [ 2-2, 4-4, 1 - \(-2\), -2 - 6 ] = [ 0, 0, 3, -8 ]) Tj
+T*
+(R3 -> R3 - 3*R1: [ 3-3, 6-6, 3 - \(-3\), -7 - 9 ] = [ 0, 0, 6, -16 ]) Tj
+T*
+(R4 -> R4 - 1*R1: [ 1-1, 2-2, 2 - \(-1\), -5 - 3 ] = [ 0, 0, 3, -8 ]) Tj
+T*
+(Matrix becomes:) Tj
+T*
+([ 1 2 -1 3 ]) Tj
+T*
+(A1 = [ 0 0 3 -8 ]) Tj
+T*
+([ 0 0 6 -16 ]) Tj
+T*
+([ 0 0 3 -8 ]) Tj
+T*
+(Solution Step 2: Use pivot a23 = 3 to eliminate entries in column 3 below row 2:) Tj
+T*
+(R3 -> R3 - 2*R2: [ 0, 0, 6 - 6, -16 - \(-16\) ] = [ 0, 0, 0, 0 ]) Tj
+T*
+(R4 -> R4 - 1*R2: [ 0, 0, 3 - 3, -8 - \(-8\) ] = [ 0, 0, 0, 0 ]) Tj
+T*
+(Resulting Row Echelon Form:) Tj
+T*
+([ 1 2 -1 3 ]) Tj
+T*
+(REF= [ 0 0 3 -8 ]) Tj
+T*
+([ 0 0 0 0 ]) Tj
+T*
+([ 0 0 0 0 ]) Tj
+T*
+(Conclusion: The number of non-zero rows in REF is exactly 2. Therefore, Rank\(A\) = rho\(A\)) Tj
+T*
+(= 2.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([SOLVED PROBLEM 2: Consistency and Complete Solution of Linear System]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: Investigate the consistency of the system of equations, and if consistent,) Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 2315 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mathematics - I | Unit 1: Linear Algebra & Matrices) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 3 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(solve it completely:) Tj
+T*
+(x + y + z = 6) Tj
+T*
+(x + 2y + 3z = 10) Tj
+T*
+(x + 2y + 4z = 11) Tj
+T*
+(Solution Step 1: Construct the augmented matrix [A | B]:) Tj
+T*
+([A | B] = [ 1 1 1 | 6 ]) Tj
+T*
+([ 1 2 3 | 10 ]) Tj
+T*
+([ 1 2 4 | 11 ]) Tj
+T*
+(Solution Step 2: Apply elementary row transformations:) Tj
+T*
+(R2 -> R2 - R1: [ 0 1 2 | 4 ]) Tj
+T*
+(R3 -> R3 - R1: [ 0 1 3 | 5 ]) Tj
+T*
+(Matrix becomes:) Tj
+T*
+([ 1 1 1 | 6 ]) Tj
+T*
+([ 0 1 2 | 4 ]) Tj
+T*
+([ 0 1 3 | 5 ]) Tj
+T*
+(Next, eliminate under second pivot:) Tj
+T*
+(R3 -> R3 - R2: [ 0 0 1 | 1 ]) Tj
+T*
+(Final Echelon Form:) Tj
+T*
+([ 1 1 1 | 6 ]) Tj
+T*
+([ 0 1 2 | 4 ]) Tj
+T*
+([ 0 0 1 | 1 ]) Tj
+T*
+(Solution Step 3: Evaluate ranks:) Tj
+T*
+(rho\(A\) = 3, rho\(A | B\) = 3, number of unknowns n = 3.) Tj
+T*
+(Since rho\(A\) = rho\(A | B\) = n = 3, the system is CONSISTENT with a UNIQUE SOLUTION.) Tj
+T*
+(Solution Step 4: Back-substitution:) Tj
+T*
+(From Row 3: 1*z = 1 => z = 1.) Tj
+T*
+(From Row 2: y + 2*z = 4 => y + 2\(1\) = 4 => y = 2.) Tj
+T*
+(From Row 1: x + y + z = 6 => x + 2 + 1 = 6 => x = 3.) Tj
+T*
+(Final Answer: Unique solution is x = 3, y = 2, z = 1.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([SOLVED PROBLEM 3: Complete Eigenvalue and Eigenvector Determination]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: Find all eigenvalues and the corresponding eigenvectors for the matrix:) Tj
+T*
+([ 8 -6 2 ]) Tj
+T*
+(A = [ -6 7 -4 ]) Tj
+T*
+([ 2 -4 3 ]) Tj
+T*
+(Solution Step 1: Characteristic equation det\(A - lambda * I\) = 0:) Tj
+T*
+(lambda^3 - S1*lambda^2 + S2*lambda - S3 = 0, where:) Tj
+T*
+(S1 = Trace\(A\) = 8 + 7 + 3 = 18.) Tj
+T*
+(S2 = Sum of principal minors:) Tj
+T*
+(M11 = det\([7 -4; -4 3]\) = 21 - 16 = 5.) Tj
+T*
+(M22 = det\([8 2; 2 3]\) = 24 - 4 = 20.) Tj
+T*
+(M33 = det\([8 -6; -6 7]\) = 56 - 36 = 20.) Tj
+T*
+(S2 = 5 + 20 + 20 = 45.) Tj
+T*
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 3309 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mathematics - I | Unit 1: Linear Algebra & Matrices) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 4 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(S3 = det\(A\) = 8\(21 - 16\) - \(-6\)\(-18 - \(-8\)\) + 2\(24 - 14\) = 8\(5\) + 6\(-10\) + 2\(10\) = 40 -) Tj
+T*
+(60 + 20 = 0.) Tj
+T*
+(Characteristic Equation: lambda^3 - 18*lambda^2 + 45*lambda = 0.) Tj
+T*
+(Factoring: lambda * \(lambda^2 - 18*lambda + 45\) = 0 => lambda * \(lambda - 3\) * \(lambda -) Tj
+T*
+(15\) = 0.) Tj
+T*
+(Eigenvalues: lambda1 = 0, lambda2 = 3, lambda3 = 15.) Tj
+T*
+(Solution Step 2: Eigenvector for lambda = 0:) Tj
+T*
+(\(A - 0*I\)X = 0 => [ 8 -6 2; -6 7 -4; 2 -4 3 ][ x1; x2; x3 ] = [ 0; 0; 0 ].) Tj
+T*
+(From rows: 2*x1 - 4*x2 + 3*x3 = 0 and -6*x1 + 7*x2 - 4*x3 = 0.) Tj
+T*
+(Using cross-multiplication: x1 / \(16 - 21\) = x2 / \(-18 - \(-8\)\) = x3 / \(14 - 24\)) Tj
+T*
+(=> x1 / \(-5\) = x2 / \(-10\) = x3 / \(-10\) => x1/1 = x2/2 = x3/2.) Tj
+T*
+(Eigenvector X1 = [ 1, 2, 2 ]^T.) Tj
+T*
+(Solution Step 3: Eigenvector for lambda = 3:) Tj
+T*
+(\(A - 3*I\)X = 0 => [ 5 -6 2; -6 4 -4; 2 -4 0 ][ x1; x2; x3 ] = [ 0; 0; 0 ].) Tj
+T*
+(From row 3: 2*x1 - 4*x2 = 0 => x1 = 2*x2.) Tj
+T*
+(Substitute into row 1: 5\(2*x2\) - 6*x2 + 2*x3 = 0 => 4*x2 + 2*x3 = 0 => x3 = -2*x2.) Tj
+T*
+(Let x2 = 1 => x1 = 2, x3 = -2. Eigenvector X2 = [ 2, 1, -2 ]^T.) Tj
+T*
+(Solution Step 4: Eigenvector for lambda = 15:) Tj
+T*
+(\(A - 15*I\)X = 0 => [ -7 -6 2; -6 -8 -4; 2 -4 -12 ][ x1; x2; x3 ] = [ 0; 0; 0 ].) Tj
+T*
+(Cross-multiplication of first two rows yields: x1 / \(24 - \(-16\)\) = x2 / \(-12 - 28\) = x3) Tj
+T*
+(/ \(56 - 36\)) Tj
+T*
+(=> x1 / 40 = x2 / \(-40\) = x3 / 20 => x1/2 = x2/\(-2\) = x3/1.) Tj
+T*
+(Eigenvector X3 = [ 2, -2, 1 ]^T.) Tj
+T*
+(Verification: Since A is real symmetric, eigenvectors are mutually orthogonal: X1 . X2 =) Tj
+T*
+(2 + 2 - 4 = 0; X1 . X3 = 2 - 4 + 2 = 0; X2 . X3 = 4 - 2 - 2 = 0 \(Confirmed\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([SOLVED PROBLEM 4: Verification of Cayley-Hamilton Theorem & Inverse]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: Verify Cayley-Hamilton Theorem for matrix A = [ 1 4; 2 3 ] and hence evaluate) Tj
+T*
+(A^-1 and A^4.) Tj
+T*
+(Solution Step 1: Characteristic equation det\(A - lambda*I\) = 0:) Tj
+T*
+(det\([ 1-lambda 4; 2 3-lambda ]\) = \(1-lambda\)\(3-lambda\) - 8 = lambda^2 - 4*lambda - 5 =) Tj
+T*
+(0.) Tj
+T*
+(Solution Step 2: Verification with Cayley-Hamilton theorem: A^2 - 4*A - 5*I = O:) Tj
+T*
+(A^2 = [ 1 4; 2 3 ] * [ 1 4; 2 3 ] = [ 1*1+4*2 1*4+4*3; 2*1+3*2 2*4+3*3 ] = [ 9 16; 8 17) Tj
+T*
+(].) Tj
+T*
+(4*A = [ 4 16; 8 12 ].) Tj
+T*
+(5*I = [ 5 0; 0 5 ].) Tj
+T*
+(A^2 - 4*A - 5*I = [ 9-4-5 16-16-0; 8-8-0 17-12-5 ] = [ 0 0; 0 0 ] = O. \(Verified\).) Tj
+T*
+(Solution Step 3: Compute A^-1:) Tj
+T*
+(Multiply equation by A^-1: A - 4*I - 5*A^-1 = 0 => 5*A^-1 = A - 4*I) Tj
+T*
+(5*A^-1 = [ 1-4 4-0; 2-0 3-4 ] = [ -3 4; 2 -1 ]) Tj
+T*
+(A^-1 = \(1/5\) * [ -3 4; 2 -1 ] = [ -0.6 0.8; 0.4 -0.2 ].) Tj
+T*
+(Solution Step 4: Compute A^4:) Tj
+T*
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 2435 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mathematics - I | Unit 1: Linear Algebra & Matrices) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 5 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(From A^2 = 4*A + 5*I, multiply by A: A^3 = 4*A^2 + 5*A = 4\(4*A + 5*I\) + 5*A = 21*A +) Tj
+T*
+(20*I.) Tj
+T*
+(Multiply by A: A^4 = 21*A^2 + 20*A = 21\(4*A + 5*I\) + 20*A = 84*A + 105*I + 20*A = 104*A) Tj
+T*
+(+ 105*I.) Tj
+T*
+(104*A = [ 104 416; 208 312 ]; 105*I = [ 105 0; 0 105 ].) Tj
+T*
+(A^4 = [ 209 416; 208 417 ].) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 1.4 University Review & Examination Questions) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Q1: State and prove the Cayley-Hamilton theorem for a general 2x2 matrix.) Tj
+T*
+(Answer: Theorem: Every square matrix satisfies its own characteristic equation det\(A -) Tj
+T*
+(lambda*I\) = 0. For A = [a b; c d], characteristic polynomial is lambda^2 - \(a+d\)*lambda) Tj
+T*
+(+ \(ad - bc\) = 0. We must show A^2 - \(a+d\)*A + \(ad-bc\)*I = O. A^2 = [a^2+bc ab+bd; ac+cd) Tj
+T*
+(bc+d^2]. \(a+d\)*A = [a^2+ad ab+bd; ac+cd ad+d^2]. Subtracting: A^2 - \(a+d\)*A = [bc-ad 0;) Tj
+T*
+(0 bc-ad] = -\(ad-bc\)*I. Adding \(ad-bc\)*I yields [0 0; 0 0] = O. Hence proved.) Tj
+T*
+(* Q2: Explain the conditions under which a system of non-homogeneous linear equations) Tj
+T*
+(AX = B has \(i\) No solution, \(ii\) Unique solution, \(iii\) Infinite solutions.) Tj
+T*
+(Answer: By the Rouche-Capelli theorem, let [A | B] be the augmented matrix and n be the) Tj
+T*
+(number of variables: \(i\) Inconsistent \(No solution\) iff rho\(A\) < rho\(A | B\). \(ii\)) Tj
+T*
+(Consistent with Unique solution iff rho\(A\) = rho\(A | B\) = n. \(iii\) Consistent with) Tj
+T*
+(Infinite solutions iff rho\(A\) = rho\(A | B\) = r < n, yielding n - r arbitrary free) Tj
+T*
+(parameters.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 1.5 Key Takeaways and Revision Points) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Rank is the number of non-zero rows in Row Echelon Form; invariant under elementary) Tj
+T*
+(row operations.) Tj
+T*
+(* Rouche-Capelli theorem governs system consistency: compare rho\(A\) vs. rho\(A | B\).) Tj
+T*
+(* Sum of eigenvalues equals matrix trace; product equals determinant.) Tj
+T*
+(* Cayley-Hamilton theorem allows direct calculation of inverses and polynomial matrix) Tj
+T*
+(powers without explicit multi-step multiplication.) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000171 00000 n 
+0000000241 00000 n 
+0000000316 00000 n 
+0000000428 00000 n 
+0000003846 00000 n 
+0000003958 00000 n 
+0000007156 00000 n 
+0000007269 00000 n 
+0000009637 00000 n 
+0000009751 00000 n 
+0000013113 00000 n 
+0000013227 00000 n 
+trailer
+<< /Size 15 /Root 1 0 R >>
+startxref
+15715
+%%EOF

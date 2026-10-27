@@ -1,0 +1,632 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 3113 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Orientation to Computing | Unit 3: Operating Systems & Virtual Memory) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 1 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(ORIENTATION TO COMPUTING) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(UNIT 3: OPERATING SYSTEM ARCHITECTURE, PROCESS MANAGEMENT & MEMORY SYSTEMS) Tj
+T*
+(Curriculum: Lovely Professional University | School of Computer Science & Engineering) Tj
+T*
+(Reference: Operating System Concepts by Silberschatz, Galvin & Gagne) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.1 Role, Architecture and Evolutionary Types of Operating Systems) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(An Operating System \(OS\) is core system software that acts as an intermediary between) Tj
+T*
+(computer hardware and user application programs, managing hardware resources) Tj
+T*
+(efficiently:) Tj
+T*
+(* Core Objectives: Resource abstraction \(hiding hardware complexity\), Resource) Tj
+T*
+(allocation \(CPU, memory, storage, I/O devices\), and Protection/Security.) Tj
+T*
+(* Evolutionary Paradigms: Batch Systems \(jobs grouped without interaction\),) Tj
+T*
+(Multiprogramming \(keeping CPU busy by running another job when one waits for I/O\),) Tj
+T*
+(Time-Sharing \(multitasking via rapid CPU context switching\), Distributed Systems, and) Tj
+T*
+(Real-Time Operating Systems \(RTOS - strict deadline guarantees: Hard RTOS vs Soft) Tj
+T*
+(RTOS\).) Tj
+T*
+(* Dual-Mode Operation and Hardware Protection:) Tj
+T*
+(- User Mode \(Mode bit = 1\): Application software executes with restricted privileges;) Tj
+T*
+(cannot execute privileged machine instructions or access hardware registers directly.) Tj
+T*
+(- Kernel Mode / Supervisor Mode \(Mode bit = 0\): Unrestricted hardware access. Traps and) Tj
+T*
+(System Calls transition CPU from User Mode to Kernel Mode.) Tj
+T*
+(* OS Structural Models: Monolithic Kernel \(Linux - all OS services reside in kernel) Tj
+T*
+(space; maximum performance\) vs Microkernel \(Mach, QNX - only IPC, basic scheduling,) Tj
+T*
+(and virtual memory in kernel; file systems and drivers run as user space daemons;) Tj
+T*
+(high reliability and fault isolation\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.2 The Process Model and Lifecycle Transitions) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Process Definition: An active program in execution \(including Program Counter, CPU) Tj
+T*
+(registers, Stack, Heap, Data, and Text sections\).) Tj
+T*
+(* Process Control Block \(PCB\): The data structure maintaining process state: Process) Tj
+T*
+(ID \(PID\), Program Counter, CPU Registers, CPU Scheduling Information,) Tj
+T*
+(Memory-Management Info, I/O Status & Open File Descriptors.) Tj
+T*
+(* 5-State Process Model: New -> Ready \(in memory waiting for CPU\) -> Running) Tj
+T*
+(\(instructions executing\) -> Waiting/Blocked \(waiting for I/O or event\) -> Terminated.) Tj
+T*
+(* Context Switching: The mechanism of saving the state of the currently running) Tj
+T*
+(process to its PCB and loading the saved state of another ready process into CPU) Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 2923 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Orientation to Computing | Unit 3: Operating Systems & Virtual Memory) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 2 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(registers. Pure computational overhead.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.3 CPU Scheduling Algorithms and Metrics) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Optimization Goals: Maximize CPU Utilization and Throughput; Minimize Turnaround) Tj
+T*
+(Time \(TAT = Completion - Arrival\), Waiting Time \(WT = TAT - Burst Time\), and Response) Tj
+T*
+(Time.) Tj
+T*
+(* Core Scheduling Algorithms:) Tj
+T*
+(- 1. First-Come First-Served \(FCFS\): Non-preemptive. Suffers from Convoy Effect \(short) Tj
+T*
+(processes stuck behind a long CPU-bound process\).) Tj
+T*
+(- 2. Shortest Job First \(SJF\) / Shortest Remaining Time First \(SRTF\): Provably optimal) Tj
+T*
+(average waiting time. Preemptive variant is SRTF. Suffers from potential starvation of) Tj
+T*
+(long processes.) Tj
+T*
+(- 3. Round Robin \(RR\): Preemptive. Each process gets a fixed time quantum q. If burst >) Tj
+T*
+(q, process is preempted and placed at tail of ready queue. Fair, interactive.) Tj
+T*
+(- 4. Priority Scheduling: CPU assigned to highest priority process. Starvation prevented) Tj
+T*
+(via Aging \(gradually increasing priority of waiting processes\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.4 Inter-Process Synchronization and Deadlock Theory) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Race Condition: A concurrency flaw where output depends critically on the) Tj
+T*
+(non-deterministic execution sequence or interleaving of competing threads.) Tj
+T*
+(* Critical Section Problem: Code segment accessing shared resources. Solutions must) Tj
+T*
+(satisfy: Mutual Exclusion, Progress, and Bounded Waiting.) Tj
+T*
+(* Semaphores: Synchronization primitive with atomic operations wait\(\) \(P\) and) Tj
+T*
+(signal\(\) \(V\). Binary Semaphore \(Mutex\) takes values 0 and 1; Counting Semaphore) Tj
+T*
+(manages multiple resource instances.) Tj
+T*
+(* Deadlock: A permanent blocking condition where every process in a set waits for a) Tj
+T*
+(resource held by another process in the set.) Tj
+T*
+(* The 4 Coffman Necessary Conditions for Deadlock:) Tj
+T*
+(- 1. Mutual Exclusion: At least one resource held in non-shareable mode.) Tj
+T*
+(- 2. Hold and Wait: Process holding resources requests additional resources.) Tj
+T*
+(- 3. No Preemption: Resources cannot be forcibly confiscated from a process.) Tj
+T*
+(- 4. Circular Wait: A closed loop chain of processes where P_i waits for resource held) Tj
+T*
+(by P_\(i+1\).) Tj
+T*
+(* Deadlock Handling: Deadlock Prevention, Deadlock Avoidance \(Banker''s Algorithm for) Tj
+T*
+(safe states\), Deadlock Detection and Recovery.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.5 Virtual Memory, Paging and Page Replacement Algorithms) Tj
+T*
+/F1 9 Tf
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 3184 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Orientation to Computing | Unit 3: Operating Systems & Virtual Memory) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 3 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+() Tj
+T*
+(* Physical vs Logical Address: Logical address generated by CPU; translated into) Tj
+T*
+(Physical Address in DRAM by Memory Management Unit \(MMU\).) Tj
+T*
+(* Paging Architecture: Logical memory divided into fixed-size blocks called Pages;) Tj
+T*
+(physical memory divided into equal-sized blocks called Frames. Page Table maps Page) Tj
+T*
+(Number to Frame Number.) Tj
+T*
+(* Translation Lookaside Buffer \(TLB\): High-speed associative hardware cache storing) Tj
+T*
+(recently used Page-to-Frame mappings to accelerate address translation.) Tj
+T*
+(* Virtual Memory: Allows execution of processes not completely loaded in physical RAM) Tj
+T*
+(using Demand Paging.) Tj
+T*
+(* Page Replacement Algorithms \(executed upon Page Fault when all RAM frames are) Tj
+T*
+(occupied\):) Tj
+T*
+(- FIFO \(First-In, First-Out\): Suffers from Belady''s Anomaly \(more frames can produce) Tj
+T*
+(more page faults\).) Tj
+T*
+(- LRU \(Least Recently Used\): Replaces page that has not been referenced for longest) Tj
+T*
+(duration. Optimal practical algorithm.) Tj
+T*
+(- Optimal \(OPT\): Replaces page that will not be used for longest future duration) Tj
+T*
+(\(theoretical benchmark\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROBLEM 1: Comparative CPU Scheduling Analysis: FCFS vs Round Robin]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Statement: Three processes arrive at time 0 with the following CPU burst times:) Tj
+T*
+(P1 = 24 ms, P2 = 3 ms, P3 = 3 ms. Compare First-Come First-Served \(FCFS\) and Round Robin) Tj
+T*
+(\(RR with time quantum q = 4 ms\) in terms of: \(1\) Gantt Chart, \(2\) Turnaround Time, and) Tj
+T*
+(\(3\) Average Waiting Time.) Tj
+T*
+(Mathematical Derivation & Evaluation:) Tj
+T*
+(* 1. FCFS Scheduling Execution:) Tj
+T*
+(- Gantt Chart: [ P1: 0 to 24 ] [ P2: 24 to 27 ] [ P3: 27 to 30 ].) Tj
+T*
+(- Completion Times: P1 = 24, P2 = 27, P3 = 30.) Tj
+T*
+(- Waiting Times: P1 = 0 ms, P2 = 24 ms, P3 = 27 ms.) Tj
+T*
+(- Average Waiting Time \(FCFS\) = \(0 + 24 + 27\) / 3 = 51 / 3 = 17.0 ms.) Tj
+T*
+(* 2. Round Robin Scheduling Execution \(q = 4 ms\):) Tj
+T*
+(- Gantt Chart: [ P1: 0 to 4 ] [ P2: 4 to 7 ] [ P3: 7 to 10 ] [ P1: 10 to 30 ].) Tj
+T*
+(- Note: P2 finishes at t = 7; P3 finishes at t = 10; P1 resumes at t = 10 and finishes) Tj
+T*
+(remaining 20 ms at t = 30.) Tj
+T*
+(- Completion Times: P1 = 30, P2 = 7, P3 = 10.) Tj
+T*
+(- Waiting Times: P1 = \(0\) + \(10 - 4\) = 6 ms; P2 = 4 ms; P3 = 7 ms.) Tj
+T*
+(- Average Waiting Time \(RR\) = \(6 + 4 + 7\) / 3 = 17 / 3 = 5.67 ms.) Tj
+T*
+(* 3. Engineering Conclusion: Round Robin drastically slashes average waiting time) Tj
+T*
+(from 17.0 ms to 5.67 ms \(a 3x improvement\) by eliminating the convoy effect.) Tj
+T*
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 3258 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Orientation to Computing | Unit 3: Operating Systems & Virtual Memory) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 4 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROBLEM 2: Deadlock Avoidance using Dijkstra''s Banker''s Algorithm]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Statement: A system has 5 processes \(P0 to P4\) and 3 resource types A \(10) Tj
+T*
+(instances\), B \(5 instances\), C \(7 instances\). Current Allocation and Max Need matrices) Tj
+T*
+(are given:) Tj
+T*
+(* Allocation: P0=\(0,1,0\), P1=\(2,0,0\), P2=\(3,0,2\), P3=\(2,1,1\), P4=\(0,0,2\). Sum) Tj
+T*
+(allocated = \(7, 2, 5\).) Tj
+T*
+(* Max Matrix: P0=\(7,5,3\), P1=\(3,2,2\), P2=\(9,0,2\), P3=\(2,2,2\), P4=\(4,3,3\).) Tj
+T*
+(* Calculate: Available Vector and verify if the system is in a Safe State by finding) Tj
+T*
+(the Safe Sequence.) Tj
+T*
+(Mathematical Execution:) Tj
+T*
+(* 1. Available Vector = Total - Allocated = \(10,5,7\) - \(7,2,5\) = \(3, 3, 2\).) Tj
+T*
+(* 2. Calculate Need Matrix \(Need = Max - Allocation\):) Tj
+T*
+(- Need P0 = \(7,5,3\) - \(0,1,0\) = \(7, 4, 3\)) Tj
+T*
+(- Need P1 = \(3,2,2\) - \(2,0,0\) = \(1, 2, 2\)) Tj
+T*
+(- Need P2 = \(9,0,2\) - \(3,0,2\) = \(6, 0, 0\)) Tj
+T*
+(- Need P3 = \(2,2,2\) - \(2,1,1\) = \(0, 1, 1\)) Tj
+T*
+(- Need P4 = \(4,3,3\) - \(0,0,2\) = \(4, 3, 1\)) Tj
+T*
+(* 3. Safety Algorithm Iterations:) Tj
+T*
+(- Iteration 1: Check P1: Need \(1,2,2\) <= Available \(3,3,2\) -> TRUE! P1 executes,) Tj
+T*
+(releases allocation. New Available = \(3,3,2\) + \(2,0,0\) = \(5, 3, 2\).) Tj
+T*
+(- Iteration 2: Check P3: Need \(0,1,1\) <= Available \(5,3,2\) -> TRUE! P3 executes,) Tj
+T*
+(releases allocation. New Available = \(5,3,2\) + \(2,1,1\) = \(7, 4, 3\).) Tj
+T*
+(- Iteration 3: Check P0: Need \(7,4,3\) <= Available \(7,4,3\) -> TRUE! P0 executes,) Tj
+T*
+(releases allocation. New Available = \(7,4,3\) + \(0,1,0\) = \(7, 5, 3\).) Tj
+T*
+(- Iteration 4: Check P2: Need \(6,0,0\) <= Available \(7,5,3\) -> TRUE! P2 executes,) Tj
+T*
+(releases allocation. New Available = \(7,5,3\) + \(3,0,2\) = \(10, 5, 5\).) Tj
+T*
+(- Iteration 5: Check P4: Need \(4,3,1\) <= Available \(10,5,5\) -> TRUE! P4 executes. New) Tj
+T*
+(Available = \(10, 5, 7\).) Tj
+T*
+(* 4. Safe Sequence Found: < P1, P3, P0, P2, P4 >. The system is provably DEADLOCK) Tj
+T*
+(FREE.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROBLEM 3: Virtual Memory Page Replacement: FIFO vs LRU Analysis]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Statement: Consider the following memory page reference string: 7, 0, 1, 2, 0,) Tj
+T*
+(3, 0, 4, 2, 3, 0, 3, 2. For a physical memory allocated 3 page frames \(initially empty\),) Tj
+T*
+(compute the number of page faults for: \(1\) FIFO, and \(2\) LRU.) Tj
+T*
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 2822 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Orientation to Computing | Unit 3: Operating Systems & Virtual Memory) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 5 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(Step-by-Step Fault Trace:) Tj
+T*
+(* 1. FIFO \(First-In First-Out\) Trace \(3 frames\):) Tj
+T*
+(- Ref 7: [7, -, -] \(Fault 1\) | Ref 0: [7, 0, -] \(Fault 2\) | Ref 1: [7, 0, 1] \(Fault 3\)) Tj
+T*
+(- Ref 2: Replace 7 -> [2, 0, 1] \(Fault 4\) | Ref 0: Hit [2, 0, 1]) Tj
+T*
+(- Ref 3: Replace 0 -> [2, 3, 1] \(Fault 5\) | Ref 0: Replace 1 -> [2, 3, 0] \(Fault 6\)) Tj
+T*
+(- Ref 4: Replace 2 -> [4, 3, 0] \(Fault 7\) | Ref 2: Replace 3 -> [4, 2, 0] \(Fault 8\)) Tj
+T*
+(- Ref 3: Replace 0 -> [4, 2, 3] \(Fault 9\) | Ref 0: Replace 4 -> [0, 2, 3] \(Fault 10\)) Tj
+T*
+(- Ref 3: Hit [0, 2, 3] | Ref 2: Hit [0, 2, 3].) Tj
+T*
+(- Total FIFO Page Faults = 10.) Tj
+T*
+(* 2. LRU \(Least Recently Used\) Trace \(3 frames\):) Tj
+T*
+(- Ref 7, 0, 1: [7, 0, 1] \(Faults 1, 2, 3\)) Tj
+T*
+(- Ref 2: Replace least recently used \(7\) -> [2, 0, 1] \(Fault 4\)) Tj
+T*
+(- Ref 0: Hit -> Recent order: [1, 2, 0]) Tj
+T*
+(- Ref 3: Replace 1 -> [2, 0, 3] \(Fault 5\) | Ref 0: Hit -> Recent: [2, 3, 0]) Tj
+T*
+(- Ref 4: Replace 2 -> [4, 3, 0] \(Fault 6\) | Ref 2: Replace 3 -> [4, 0, 2] \(Fault 7\)) Tj
+T*
+(- Ref 3: Replace 4 -> [3, 0, 2] \(Fault 8\) | Ref 0: Hit [3, 2, 0] | Ref 3: Hit [2, 0, 3]) Tj
+T*
+(| Ref 2: Hit [0, 3, 2].) Tj
+T*
+(- Total LRU Page Faults = 8.) Tj
+T*
+(* 3. Conclusion: LRU achieves lower page fault rate \(8 vs 10\) by exploiting temporal) Tj
+T*
+(locality of reference.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROBLEM 4: Logical-to-Physical Address Translation in Paging]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Statement: A 32-bit computing system uses paging with 4 KB \(2^12 bytes\) page) Tj
+T*
+(size. A process generates logical address 0x0002A3F4. If Page Table entry for Page) Tj
+T*
+(0x0002A holds Frame Number 0x0010B, determine the exact physical DRAM address.) Tj
+T*
+(Mathematical Derivation:) Tj
+T*
+(* 1. Address Bit Division: Page Size = 4 KB = 2^12 bytes -> Offset occupies 12 bits) Tj
+T*
+(\(3 hex digits\). Remaining 20 bits \(5 hex digits\) represent Page Number.) Tj
+T*
+(* 2. Decompose Logical Address 0x0002A3F4:) Tj
+T*
+(- Page Number \(p\) = 0x0002A.) Tj
+T*
+(- Offset \(d\) = 0x3F4.) Tj
+T*
+(* 3. Frame Lookup: Page Table indicates Frame Number \(f\) = 0x0010B.) Tj
+T*
+(* 4. Form Physical Address: Physical Address = \(Frame Number << 12\) | Offset =) Tj
+T*
+(0x0010B000 + 0x3F4 = 0x0010B3F4.) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000171 00000 n 
+0000000241 00000 n 
+0000000316 00000 n 
+0000000428 00000 n 
+0000003593 00000 n 
+0000003705 00000 n 
+0000006680 00000 n 
+0000006793 00000 n 
+0000010030 00000 n 
+0000010144 00000 n 
+0000013455 00000 n 
+0000013569 00000 n 
+trailer
+<< /Size 15 /Root 1 0 R >>
+startxref
+16444
+%%EOF

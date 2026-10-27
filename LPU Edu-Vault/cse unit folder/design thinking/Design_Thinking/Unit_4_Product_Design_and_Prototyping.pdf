@@ -1,0 +1,564 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2835 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Design Thinking | Unit 4: Prototyping & UX Interaction) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 1 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(=== UNIT 4: RAPID PROTOTYPING & USER EXPERIENCE \(UX\) DESIGN ===) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.1 Prototyping Philosophy and Rapid Learning Loops) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(A prototype is a tangible, testable manifestation of an idea built to answer specific) Tj
+T*
+(design questions and test critical hypotheses rapidly:) Tj
+T*
+(* 'Build to Think, Think to Build': Prototypes are not finished miniature products;) Tj
+T*
+(they are learning instruments. Physical construction exposes unexpected friction) Tj
+T*
+(points that remain hidden in theoretical diagrams.) Tj
+T*
+(* Fail Fast, Learn Faster: Low-cost rapid prototyping minimizes the sunk-cost) Tj
+T*
+(fallacy. Discovering fatal flaws during day 2 of prototyping costs $10; discovering) Tj
+T*
+(them after software launch costs millions.) Tj
+T*
+(* The Fidelity Spectrum:) Tj
+T*
+(- Low-Fidelity \(Lo-Fi\): Fast, cheap, disposable artifacts \(paper sketches, cardboard) Tj
+T*
+(models, wireframes\). Used early to validate concepts, user flows, and information) Tj
+T*
+(hierarchy.) Tj
+T*
+(- High-Fidelity \(Hi-Fi\): Polished, interactive digital mockups or 3D-printed physical) Tj
+T*
+(assemblies with realistic visual aesthetics, fonts, and functional micro-interactions.) Tj
+T*
+(Used late to validate usability, latency, and detailed ergonomics.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.2 Paper Prototyping and Storyboarding for Software) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Paper Prototyping: Hand-drawn paper screens, pop-up dialog cutouts, and sticky-note) Tj
+T*
+(dropdowns simulating software mobile or web interfaces. One designer acts as the) Tj
+T*
+('Human Computer', manipulating paper elements in real-time as the test user taps) Tj
+T*
+(paper buttons.) Tj
+T*
+(* Storyboarding: Sequential visual narrative depicting a user journey before, during,) Tj
+T*
+(and after interacting with a product. Contextualizes the emotional trigger, user) Tj
+T*
+(friction, and ultimate value delivery.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.3 Digital Wireframing and Information Architecture) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Information Architecture \(IA\): Structural blueprint of how information is) Tj
+T*
+(categorized, labeled, and navigated across digital software systems.) Tj
+T*
+(* Wireframing: Grayscale, visual representations of interface layouts focusing on) Tj
+T*
+(structural hierarchy, visual balance, and functionality without color or graphic) Tj
+T*
+(distractions.) Tj
+T*
+(* Wireframe Fidelity Levels: Low-fidelity \(rough block layout\), Mid-fidelity) Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 3246 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Design Thinking | Unit 4: Prototyping & UX Interaction) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 2 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(\(accurate layout and typography without images\), High-fidelity \(interactive clickable) Tj
+T*
+(prototypes in Figma or Adobe XD\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.4 The Minimum Viable Product \(MVP\)) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Coined by Frank Robinson and popularized by Eric Ries \(The Lean Startup\), an MVP is the) Tj
+T*
+(simplest version of a new product that allows a team to collect the maximum amount of) Tj
+T*
+(validated learning about customers with the least engineering effort:) Tj
+T*
+(* MVP Types:) Tj
+T*
+(- Wizard of Oz MVP: The front-end appears automated and sophisticated, but behind the) Tj
+T*
+(scenes, humans perform all algorithmic tasks manually \(e.g., Zappos originally) Tj
+T*
+(photographed shoes in retail stores and mailed them manually when orders arrived\).) Tj
+T*
+(- Concierge MVP: Providing services entirely manually and transparently to high-value) Tj
+T*
+(pilot customers before writing a single line of software.) Tj
+T*
+(- Piecemeal MVP: Combining existing off-the-shelf software tools \(e.g. Google Forms +) Tj
+T*
+(Zapier + Google Sheets\) to validate workflows without custom code.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([CASE STUDY 1: The PalmPilot Wooden Block Prototype]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: In 1995, Jeff Hawkins was designing the PalmPilot PDA. His engineering) Tj
+T*
+(team debated screen sizes, stylus interactions, and whether users would actually carry) Tj
+T*
+(an electronic organizer in their pockets.) Tj
+T*
+(Rapid Prototyping Intervention:) Tj
+T*
+(Lo-Fi Prototype: Hawkins carved a simple piece of wood to the exact proposed PalmPilot) Tj
+T*
+(dimensions and whittled a short wooden peg to act as a stylus.) Tj
+T*
+(In-Context Testing: For months, Hawkins carried this wooden block in his shirt pocket.) Tj
+T*
+(In meetings, he pulled it out, tapped on drawn paper buttons, and evaluated whether the) Tj
+T*
+(form factor felt natural or annoying.) Tj
+T*
+(Learnings & Product Impact: He discovered that instant single-tap calendar and memo) Tj
+T*
+(retrieval was 100x more important than full desktop syncing, resulting in the) Tj
+T*
+(streamlined PalmPilot interface that dominated the market.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([CASE STUDY 2: Paper Prototyping a Hospital Patient Check-in Kiosk]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: A software team was tasked with building automated self-service) Tj
+T*
+(touchscreen check-in kiosks for a public hospital to reduce admissions queue wait times) Tj
+T*
+(from 45 minutes to 5 minutes.) Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 3127 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Design Thinking | Unit 4: Prototyping & UX Interaction) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 3 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(Paper Prototyping Session:) Tj
+T*
+(Lo-Fi Artifacts: Cardboard box cut to kiosk dimensions, with hand-drawn paper screens) Tj
+T*
+(slipped into a clear acrylic sleeve. Paper cards simulated health insurance cards and) Tj
+T*
+(driver's licenses.) Tj
+T*
+(Human Computer Role: A developer sat behind the cardboard box, swapping paper screens) Tj
+T*
+(when test patients tapped buttons.) Tj
+T*
+(Critical Usability Discoveries in 2 Hours:) Tj
+T*
+(- Elderly patients tapped the paper screen too forcefully, expecting physical button) Tj
+T*
+(depression.) Tj
+T*
+(- Users were confused by medical jargon \('Ailment Taxonomy'\); terminology was simplified) Tj
+T*
+(to 'Where does it hurt?'.) Tj
+T*
+(- Barcode scanners placed at the bottom were blocked by wheelchairs; redesigned to an) Tj
+T*
+(accessible 45-degree angled shelf.) Tj
+T*
+(Outcome: Fixed 14 fundamental UI and ergonomic defects on day 1 before writing any) Tj
+T*
+(front-end software code.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([CASE STUDY 3: Dropbox Explainer Video as a Wizard-of-Oz MVP]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: In 2007, Drew Houston conceived Dropbox: seamless cloud file) Tj
+T*
+(synchronization across diverse operating systems. Building the distributed file) Tj
+T*
+(synchronization architecture required millions of dollars and deep systems engineering.) Tj
+T*
+(Lean MVP Execution:) Tj
+T*
+(The MVP was NOT software. It was a simple 3-minute screen-recorded video demonstration) Tj
+T*
+(narrated by Drew Houston showing how the proposed desktop folder would seamlessly sync) Tj
+T*
+(files across Macs and PCs.) Tj
+T*
+(Houston posted the video to Hacker News and Digg with a simple email waitlist capture) Tj
+T*
+(form.) Tj
+T*
+(Measurable Results: In 24 hours, the beta waiting list jumped from 5,000 to 75,000) Tj
+T*
+(sign-ups, providing incontrovertible market validation that secured venture funding) Tj
+T*
+(before complex server infrastructure was constructed.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([CASE STUDY 4: Storyboarding an Emergency Blood Donation Mobile App]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: A student team built an emergency blood donor matching app, but) Tj
+T*
+(hospital blood banks reported donor response rates were under 5%.) Tj
+T*
+(Storyboarding the Complete Human Journey \(6 Panels\):) Tj
+T*
+(Panel 1 \(Trigger\): ICU doctor enters urgent need for O-negative blood for accident) Tj
+T*
+(victim.) Tj
+T*
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 3193 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Design Thinking | Unit 4: Prototyping & UX Interaction) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 4 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(Panel 2 \(Notification\): Nearby registered donor receives push notification while working) Tj
+T*
+(at desk.) Tj
+T*
+(Panel 3 \(Friction Encountered\): Notification reads 'Emergency: Go to Central Hospital'.) Tj
+T*
+(Donor doesn't know parking availability, current line wait, or eligibility criteria.) Tj
+T*
+(Panel 4 \(Emotional Hesitation\): Donor assumes someone else will go; dismisses) Tj
+T*
+(notification.) Tj
+T*
+(Panel 5 \(Redesigned Flow\): Push notification provides one-click taxi voucher, exact) Tj
+T*
+(arrival gate, and countdown timer showing 'Only 2 donors needed in your area'.) Tj
+T*
+(Panel 6 \(Resolution\): Donor accepts; blood bank confirms arrival; donor receives digital) Tj
+T*
+(badge and health update.) Tj
+T*
+(Outcome: Refactored notifications based on the storyboard increased donor acceptance) Tj
+T*
+(rates from 5% to 48%.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.5 University Review & Examination Questions) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Q1: Contrast Low-Fidelity and High-Fidelity prototyping across cost, execution) Tj
+T*
+(velocity, user feedback depth, and design lifecycle stage.) Tj
+T*
+(Answer: Low-Fidelity prototypes \(paper sketches, wireframes, foam models\) are cheap,) Tj
+T*
+(created in minutes or hours, and used early in the design cycle. They encourage honest,) Tj
+T*
+(radical critique because users perceive them as incomplete works-in-progress, focusing) Tj
+T*
+(feedback on core concepts and workflow logic. High-Fidelity prototypes \(interactive) Tj
+T*
+(digital mockups, 3D functional models\) are expensive, require days or weeks, and appear) Tj
+T*
+(late in the cycle. Users focus on visual polish, typography, and micro-interactions,) Tj
+T*
+(making Hi-Fi ideal for usability testing, latency verification, and stakeholder) Tj
+T*
+(sign-off.) Tj
+T*
+(* Q2: Define the Minimum Viable Product \(MVP\) and explain the operational difference) Tj
+T*
+(between a 'Wizard of Oz' MVP and a 'Concierge' MVP.) Tj
+T*
+(Answer: An MVP is the most stripped-down functional version of a product that enables a) Tj
+T*
+(team to collect validated empirical learning about customers with minimal effort. In a) Tj
+T*
+('Wizard of Oz' MVP, the front-end appears fully automated and intelligent to users, but) Tj
+T*
+(all background operations are performed manually by humans behind the scenes. In a) Tj
+T*
+('Concierge' MVP, the service is provided entirely manually and explicitly: the human) Tj
+T*
+(operator interacts directly with the customer without disguising the manual service,) Tj
+T*
+(allowing deep, bespoke qualitative observation of customer workflows before investing in) Tj
+T*
+(software automation.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.6 Key Takeaways and Revision Points) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Prototypes are learning experiments designed to test specific hypotheses.) Tj
+T*
+(* Paper prototyping uncovers core navigational and mental-model flaws in hours.) Tj
+T*
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 467 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Design Thinking | Unit 4: Prototyping & UX Interaction) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 5 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(* Storyboarding maps the complete holistic emotional and contextual user journey.) Tj
+T*
+(* An MVP tests customer demand with the minimum possible engineering effort.) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000171 00000 n 
+0000000241 00000 n 
+0000000316 00000 n 
+0000000428 00000 n 
+0000003315 00000 n 
+0000003427 00000 n 
+0000006725 00000 n 
+0000006838 00000 n 
+0000010018 00000 n 
+0000010132 00000 n 
+0000013378 00000 n 
+0000013492 00000 n 
+trailer
+<< /Size 15 /Root 1 0 R >>
+startxref
+14011
+%%EOF

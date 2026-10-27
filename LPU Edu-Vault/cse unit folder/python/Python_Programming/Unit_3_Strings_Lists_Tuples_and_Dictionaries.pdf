@@ -1,0 +1,608 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2790 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Python Programming | Unit 3: Data Structures & Collections) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 1 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(=== UNIT 3: DATA STRUCTURES: STRINGS, LISTS, TUPLES & DICTS ===) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.1 Strings: Architecture, Slicing and Methods) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Strings in Python are immutable sequences of Unicode characters \(str\):) Tj
+T*
+(* Indexing and Extended Slicing: s[start:stop:step]. Positive indices index from 0 to) Tj
+T*
+(N-1; negative indices index from -1 \(last character\) to -N. Step specifies stride:) Tj
+T*
+(s[::-1] reverses a string in O\(n\) time.) Tj
+T*
+(* Core String Methods: .strip\(\), .lower\(\), .upper\(\), .split\(sep\), .join\(iterable\),) Tj
+T*
+(.replace\(old, new\), .find\(sub\), .count\(sub\), .startswith\(prefix\), .endswith\(suffix\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.2 Lists: Dynamic Array Architecture and Operations) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Lists are mutable, ordered sequences of heterogeneous elements implemented internally as) Tj
+T*
+(dynamic arrays of pointers:) Tj
+T*
+(* Memory Allocation: CPython overallocates list capacity geometrically \(growth factor) Tj
+T*
+(~1.125\) to achieve amortized O\(1\) append performance.) Tj
+T*
+(* Core List Methods: .append\(x\) [O\(1\)], .extend\(iterable\) [O\(k\)], .insert\(i, x\)) Tj
+T*
+([O\(n\)], .pop\([i]\) [O\(1\) from end, O\(n\) from start], .remove\(x\) [O\(n\)],) Tj
+T*
+(.sort\(key=None, reverse=False\) [Timsort, O\(n log n\)], .reverse\(\) [O\(n\)].) Tj
+T*
+(* List Comprehensions: Compact, highly optimized syntax replacing manual loops:) Tj
+T*
+([expression for item in iterable if condition].) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.3 Tuples: Immutable Sequences) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Tuples are immutable ordered sequences of heterogeneous elements: t = \(1, 2, 'three'\):) Tj
+T*
+(* Tuple Packing and Unpacking: a, b, c = \(10, 20, 30\); Extended unpacking: first,) Tj
+T*
+(*middle, last = [1, 2, 3, 4, 5].) Tj
+T*
+(* Advantages over Lists: \(1\) Memory Efficiency: Fixed memory footprint without) Tj
+T*
+(over-allocation overhead. \(2\) Immutability: Guarantees data integrity for constant) Tj
+T*
+(records. \(3\) Hashability: Tuples can serve as dictionary keys and set elements \(if) Tj
+T*
+(all constituent elements are immutable\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.4 Dictionaries: Hash Map Architecture and Operations) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Dictionaries \(dict\) are mutable mappings of unique, hashable keys to arbitrary values,) Tj
+T*
+(implemented as compact open-addressing hash tables with quadratic probing:) Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 2457 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Python Programming | Unit 3: Data Structures & Collections) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 2 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(* Time Complexity: Average O\(1\) for lookup, insertion, and deletion.) Tj
+T*
+(* Core Methods: .keys\(\), .values\(\), .items\(\), .get\(key, default\), .pop\(key, default\),) Tj
+T*
+(.update\(dict2\), .setdefault\(key, default\).) Tj
+T*
+(* Dictionary Comprehensions: {key_expr: val_expr for item in iterable if condition}.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.5 Sets: Hash-Based Unique Collections) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Sets \(set\) are mutable, unordered collections of unique, hashable elements: s = {1, 2,) Tj
+T*
+(3}:) Tj
+T*
+(* Set Mathematical Operations: Union \(|\), Intersection \(&\), Difference \(-\), Symmetric) Tj
+T*
+(Difference \(^\), Subset \(<=\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 1: Text Frequency Analysis & Word Counter]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Build a text-processing utility that cleans raw text \(stripping) Tj
+T*
+(punctuation and converting to lowercase\), computes word frequency using a dictionary,) Tj
+T*
+(and displays the top 5 most frequent words.) Tj
+T*
+(Python Source Code:) Tj
+T*
+(import string) Tj
+T*
+() Tj
+T*
+(def word_frequency_analyzer\(text\):) Tj
+T*
+(# Clean punctuation and normalize case) Tj
+T*
+(clean_text = text.translate\(str.maketrans\('', '', string.punctuation\)\).lower\(\)) Tj
+T*
+(words = clean_text.split\(\)) Tj
+T*
+() Tj
+T*
+(freq_map = {}) Tj
+T*
+(for word in words:) Tj
+T*
+(freq_map[word] = freq_map.get\(word, 0\) + 1) Tj
+T*
+() Tj
+T*
+(# Sort by frequency descending using lambda) Tj
+T*
+(sorted_words = sorted\(freq_map.items\(\), key=lambda item: item[1], reverse=True\)) Tj
+T*
+(return sorted_words[:5]) Tj
+T*
+() Tj
+T*
+(sample = 'Data structures in Python are powerful. Python lists and Python dictionaries) Tj
+T*
+(offer fast lookups in data science.') Tj
+T*
+(top_words = word_frequency_analyzer\(sample\)) Tj
+T*
+(print\('Top 5 Most Frequent Words:'\)) Tj
+T*
+(for word, count in top_words:) Tj
+T*
+(print\(f'  {word:12s} : {count} occurrences'\)) Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 2323 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Python Programming | Unit 3: Data Structures & Collections) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 3 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(Execution Trace & Output:) Tj
+T*
+(Words: python \(3\), data \(2\), in \(2\), structures \(1\), are \(1\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 2: Matrix Transposition using List Comprehensions]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Given a 3x4 rectangular matrix, compute its 4x3 transpose using nested) Tj
+T*
+(list comprehensions.) Tj
+T*
+(Python Source Code:) Tj
+T*
+(matrix = [) Tj
+T*
+([1,  2,  3,  4]) Tj
+T*
+([5,  6,  7,  8]) Tj
+T*
+([9, 10, 11, 12]) Tj
+T*
+(]) Tj
+T*
+() Tj
+T*
+(# Nested list comprehension for transposition) Tj
+T*
+(transposed = [[row[col] for row in matrix] for col in range\(len\(matrix[0]\)\)]) Tj
+T*
+() Tj
+T*
+(print\('Original Matrix \(3x4\):'\)) Tj
+T*
+(for r in matrix: print\(r\)) Tj
+T*
+(print\('\\\\nTransposed Matrix \(4x3\):'\)) Tj
+T*
+(for r in transposed: print\(r\)) Tj
+T*
+(Execution Trace & Output:) Tj
+T*
+(Transposed row 0: [1, 5, 9]; row 1: [2, 6, 10]; row 2: [3, 7, 11]; row 3: [4, 8, 12].) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 3: Student Gradebook with Dictionary Comprehensions]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Implement a gradebook processor calculating percentage marks, assigning) Tj
+T*
+(letter grades, and filtering distinction holders using dictionary comprehensions.) Tj
+T*
+(Python Source Code:) Tj
+T*
+(scores = {) Tj
+T*
+('Aarav': [88, 92, 79, 95]) Tj
+T*
+('Diya':  [72, 68, 75, 70]) Tj
+T*
+('Rohan': [94, 98, 90, 92]) Tj
+T*
+('Ananya':[55, 62, 58, 60]) Tj
+T*
+(}) Tj
+T*
+() Tj
+T*
+(# Compute average percentage per student) Tj
+T*
+(averages = {name: sum\(marks\) / len\(marks\) for name, marks in scores.items\(\)}) Tj
+T*
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 2708 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Python Programming | Unit 3: Data Structures & Collections) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 4 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+() Tj
+T*
+(# Filter distinction holders \(avg >= 85.0\)) Tj
+T*
+(distinctions = {name: avg for name, avg in averages.items\(\) if avg >= 85.0}) Tj
+T*
+() Tj
+T*
+(print\('All Student Averages:', averages\)) Tj
+T*
+(print\('Distinction Holders \(>=85%\):', distinctions\)) Tj
+T*
+(Execution Trace & Output:) Tj
+T*
+(Averages: Aarav=88.5, Diya=71.25, Rohan=93.5, Ananya=58.75.) Tj
+T*
+(Distinction Holders: {'Aarav': 88.5, 'Rohan': 93.5}.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 4: Set Operations for Common Course Enrollment]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Two university sections have enrolled students in CSE101 and MTH165.) Tj
+T*
+(Compute: \(1\) Students taking both courses, \(2\) Students taking either course, \(3\)) Tj
+T*
+(Students in CSE101 only.) Tj
+T*
+(Python Source Code:) Tj
+T*
+(cse_students = {'Aarav', 'Diya', 'Rohan', 'Kavita', 'Suresh'}) Tj
+T*
+(math_students = {'Rohan', 'Kavita', 'Neha', 'Priya', 'Amit'}) Tj
+T*
+() Tj
+T*
+(both_courses = cse_students & math_students          # Intersection) Tj
+T*
+(all_students = cse_students | math_students          # Union) Tj
+T*
+(cse_only = cse_students - math_students              # Difference) Tj
+T*
+(exclusive_to_one = cse_students ^ math_students      # Symmetric Difference) Tj
+T*
+() Tj
+T*
+(print\(f'Enrolled in Both \(Intersection\):  {both_courses}'\)) Tj
+T*
+(print\(f'Total Unique Students \(Union\):     {all_students}'\)) Tj
+T*
+(print\(f'CSE101 Only \(Difference\):          {cse_only}'\)) Tj
+T*
+(print\(f'Taking Exactly One Course:         {exclusive_to_one}'\)) Tj
+T*
+(Execution Trace & Output:) Tj
+T*
+(Both: {'Rohan', 'Kavita'}; Total unique: 8 students; CSE only: {'Aarav', 'Diya',) Tj
+T*
+('Suresh'}.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.6 University Review & Examination Questions) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Q1: Contrast lists and tuples in terms of internal memory representation,) Tj
+T*
+(performance, and mutability.) Tj
+T*
+(Answer: Lists are mutable dynamic arrays: elements can be modified, appended, or deleted) Tj
+T*
+(in-place. Because lists must accommodate growth, CPython over-allocates memory slots,) Tj
+T*
+(incurring extra pointer overhead and reallocation costs. Tuples are immutable: once) Tj
+T*
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 1970 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Python Programming | Unit 3: Data Structures & Collections) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 5 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(allocated, their length and element references cannot change. Consequently, CPython) Tj
+T*
+(allocates exact memory blocks for tuples, reducing memory footprint and accelerating) Tj
+T*
+(creation time. Furthermore, immutable tuples containing only hashable objects are) Tj
+T*
+(themselves hashable, allowing them to serve as dictionary keys or set elements, whereas) Tj
+T*
+(lists are unhashable and raise TypeError.) Tj
+T*
+(* Q2: Explain the internal hash table architecture of Python dictionaries and how) Tj
+T*
+(hash collisions are resolved.) Tj
+T*
+(Answer: Python dictionaries use a compact hash table structure. Keys are hashed via) Tj
+T*
+(hash\(key\) to generate a pseudo-random integer. In modern Python \(3.6+\), dictionaries) Tj
+T*
+(maintain two arrays: a sparse indices array and a dense entries array storing [hash,) Tj
+T*
+(key, value] in insertion order, preserving key insertion order while saving ~30-50%) Tj
+T*
+(memory. When two distinct keys produce the same hash index \(hash collision\), Python) Tj
+T*
+(resolves it using Open Addressing with a pseudo-random perturb sequence: j = \(\(5*j\) + 1) Tj
+T*
+(+ perturb\) % table_size. Lookup continues along the probe chain until the key is found) Tj
+T*
+(or an empty slot is encountered.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.7 Key Takeaways and Revision Points) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Strings and tuples are immutable; lists and dictionaries are mutable.) Tj
+T*
+(* List append is amortized O\(1\); insert at index 0 is O\(n\).) Tj
+T*
+(* Dictionary lookups are average O\(1\) backed by open-addressing hash tables.) Tj
+T*
+(* Sets enforce element uniqueness and provide fast O\(1\) membership testing.) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000171 00000 n 
+0000000241 00000 n 
+0000000316 00000 n 
+0000000428 00000 n 
+0000003270 00000 n 
+0000003382 00000 n 
+0000005891 00000 n 
+0000006004 00000 n 
+0000008380 00000 n 
+0000008494 00000 n 
+0000011255 00000 n 
+0000011369 00000 n 
+trailer
+<< /Size 15 /Root 1 0 R >>
+startxref
+13392
+%%EOF

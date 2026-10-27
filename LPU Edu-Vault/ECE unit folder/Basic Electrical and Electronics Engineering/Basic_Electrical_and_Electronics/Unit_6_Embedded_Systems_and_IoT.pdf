@@ -1,0 +1,604 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 3496 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Basic Electrical & Electronics | Unit 6: Transducers, Sensors, Embedded & IoT) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 1 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(=== UNIT 6: TRANSDUCERS, SENSORS, EMBEDDED SYSTEMS & IOT ===) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.1 Transducer Classification and Performance Metrics) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(A transducer is a device that converts physical or biochemical parameters \(temperature,) Tj
+T*
+(pressure, pH, analyte concentration\) into measurable electrical signals.) Tj
+T*
+(* Classification Schemes:) Tj
+T*
+(1. Active vs. Passive: Active transducers generate an electrical signal directly from) Tj
+T*
+(the measured physical energy without requiring an external excitation power supply) Tj
+T*
+(\(e.g., Thermocouple [Seebeck effect], Piezoelectric sensor, Photovoltaic cell\). Passive) Tj
+T*
+(transducers require an external excitation voltage/current to measure resistance,) Tj
+T*
+(inductance, or capacitance variations \(e.g., RTD, Strain gauge, Thermistor, LVDT\).) Tj
+T*
+(2. Primary vs. Secondary: Primary transducer converts physical input into a mechanical) Tj
+T*
+(displacement \(e.g., Bourdon tube, Diaphragm\). Secondary transducer converts mechanical) Tj
+T*
+(displacement into electrical output \(e.g., LVDT attached to Bourdon tube\).) Tj
+T*
+(* Transducer Characteristics: Sensitivity \(S = Delta V / Delta Physical_Input\),) Tj
+T*
+(Linearity, Accuracy, Precision, Resolution, Hysteresis, and Response Time.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.2 Temperature, Pressure and Displacement Sensors) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Resistance Temperature Detectors \(RTD\): Positive temperature coefficient \(PTC\)) Tj
+T*
+(metal sensor. Resistance relationship: R_T = R_0 * [ 1 + alpha * \(T - T_0\) ]. Pt100) Tj
+T*
+(is the industrial gold standard \(Platinum, R_0 = 100 Omega at 0 deg C, alpha =) Tj
+T*
+(0.00385 / deg C\). Highly linear, stable, and accurate across -200 deg C to +650 deg) Tj
+T*
+(C.) Tj
+T*
+(* Thermocouples: Based on the Seebeck Effect: when two dissimilar metals \(e.g.,) Tj
+T*
+(Copper and Constantan [Type T], Chromel and Alumel [Type K]\) are joined at two) Tj
+T*
+(junctions held at different temperatures \(T_hot and T_cold\), a net thermoelectric EMF) Tj
+T*
+(is produced: V_emf = alpha_Seebeck * \(T_hot - T_cold\). Operates across extreme) Tj
+T*
+(temperature ranges \(-270 deg C to +1,800 deg C\).) Tj
+T*
+(* Strain Gauge: Piezoresistive sensor whose electrical resistance changes under) Tj
+T*
+(mechanical strain. Gauge Factor \(GF\): GF = \(Delta R / R\) / \(Delta L / L\) = \(Delta R /) Tj
+T*
+(R\) / epsilon = 1 + 2*nu + \(Delta rho / rho\) / epsilon. For metal foil gauges, GF ~) Tj
+T*
+(2.0. Interfaced via a Wheatstone Bridge circuit.) Tj
+T*
+(* Linear Variable Differential Transformer \(LVDT\): Inductive displacement transducer) Tj
+T*
+(consisting of one primary coil excited by AC voltage \(1-10 kHz\) and two identical) Tj
+T*
+(secondary coils wound symmetrically in series opposition. A movable ferromagnetic) Tj
+T*
+(core alters flux coupling: when centered \(null position\), induced voltages cancel:) Tj
+T*
+(V_out = V_s1 - V_s2 = 0. Displacement moves core closer to one secondary, producing) Tj
+T*
+(an AC output whose amplitude is proportional to displacement and phase indicates) Tj
+T*
+(direction.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 3405 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Basic Electrical & Electronics | Unit 6: Transducers, Sensors, Embedded & IoT) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 2 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+/F2 9.5 Tf
+(>> 6.3 Biosensors and Biochemical Interfaces) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Biosensor Architecture: Integrates a biological recognition element \(enzymes,) Tj
+T*
+(antibodies, nucleic acids, whole cells\) in intimate contact with a physicochemical) Tj
+T*
+(transducer \(electrochemical, optical, piezoelectric, thermal\).) Tj
+T*
+(* Glucose Biosensor \(Clark-Type Amperometric Electrode\): Utilizes Glucose Oxidase) Tj
+T*
+(\(GOx\) immobilized on an electrode surface:) Tj
+T*
+(Glucose + O2 + H2O --[GOx]--> Gluconic Acid + H2O2.) Tj
+T*
+(H2O2 is oxidized at a platinum anode held at +0.6 V vs. Ag/AgCl: H2O2 -> O2 + 2 H+ + 2) Tj
+T*
+(e-.) Tj
+T*
+(The resulting anodic current is directly proportional to glucose concentration in the) Tj
+T*
+(biological fluid.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.4 Embedded Systems Architectures and IoT Framework) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Microcontroller Architecture: Harvard architecture \(separate physical instruction) Tj
+T*
+(and data memory buses, allowing parallel instruction fetch and operand execution\) vs.) Tj
+T*
+(Von Neumann architecture \(shared bus for code and data, subject to the Von Neumann) Tj
+T*
+(bottleneck\).) Tj
+T*
+(* Key Peripherals: Analog-to-Digital Converter \(ADC: Successive Approximation) Tj
+T*
+(Register SAR or Delta-Sigma architectures\), General Purpose I/O \(GPIO\), Timers, PWM,) Tj
+T*
+(and communication protocols \(UART, SPI, I2C, CAN\).) Tj
+T*
+(* Internet of Things \(IoT\) Three-Layer Hierarchy: \(1\) Perception Layer \(Sensors and) Tj
+T*
+(actuators gathering physical data\), \(2\) Network/Transport Layer \(WiFi, BLE, LoRaWAN,) Tj
+T*
+(Cellular transmitting data using MQTT or CoAP protocols\), \(3\) Application/Cloud Layer) Tj
+T*
+(\(AWS IoT, Azure, ThingSpeak analyzing data, executing predictive analytics and) Tj
+T*
+(supervisory control\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([SOLVED PROBLEM 1: Industrial RTD \(Pt100\) Resistance and Temperature Measurement]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: A platinum RTD \(Pt100\) has a resistance of R_0 = 100.0 Omega at 0 deg C and) Tj
+T*
+(temperature coefficient alpha = 0.00385 / deg C. Calculate: \(1\) Resistance at bioreactor) Tj
+T*
+(operating temperature T = 37.0 deg C, \(2\) If measured resistance in an autoclave is R_T) Tj
+T*
+(= 146.2 Omega, determine the autoclave temperature.) Tj
+T*
+(Solution Step 1: Resistance at 37 deg C:) Tj
+T*
+(Formula: R_T = R_0 * [ 1 + alpha * \(T - 0\) ].) Tj
+T*
+(R_37 = 100.0 * [ 1 + 0.00385 * 37.0 ] = 100.0 * [ 1 + 0.14245 ] = 100.0 * 1.14245 =) Tj
+T*
+(114.25 Omega.) Tj
+T*
+(Solution Step 2: Determine Autoclave Temperature from R_T = 146.2 Omega:) Tj
+T*
+(146.2 = 100.0 * [ 1 + 0.00385 * T ].) Tj
+T*
+(1.462 = 1 + 0.00385 * T => 0.00385 * T = 0.462.) Tj
+T*
+(T = 0.462 / 0.00385 = 120.0 deg C.) Tj
+T*
+(Conclusion: The measured resistance corresponds exactly to 120 deg C, confirming) Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 3758 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Basic Electrical & Electronics | Unit 6: Transducers, Sensors, Embedded & IoT) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 3 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(standard medical autoclaving sterilization temperature.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([SOLVED PROBLEM 2: Wheatstone Bridge Strain Gauge Circuit Sensitivity]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: A metallic strain gauge with nominal resistance R = 120 Omega and Gauge Factor) Tj
+T*
+(GF = 2.0 is mounted on a steel biomechanical implant arm. The gauge forms one active arm) Tj
+T*
+(of a balanced Wheatstone bridge excited by V_s = 10 V DC. If mechanical load creates a) Tj
+T*
+(tensile strain of epsilon = 500 micro-strain \(500 * 10^-6\), calculate: \(1\) Change in) Tj
+T*
+(resistance Delta R, \(2\) Bridge output voltage Delta V_out.) Tj
+T*
+(Solution Step 1: Compute Resistance Change Delta R:) Tj
+T*
+(GF = \(Delta R / R\) / epsilon => Delta R = GF * epsilon * R) Tj
+T*
+(Delta R = 2.0 * \(500 * 10^-6\) * 120 Omega = 1000 * 10^-6 * 120 = 0.120 Omega.) Tj
+T*
+(Solution Step 2: Calculate Bridge Output Voltage for Quarter-Bridge Configuration:) Tj
+T*
+(For a quarter-bridge where Delta R << R:) Tj
+T*
+(Delta V_out = \(V_s / 4\) * \(Delta R / R\) = \(V_s / 4\) * GF * epsilon) Tj
+T*
+(Delta V_out = \(10 V / 4\) * \(0.120 / 120\) = 2.5 V * 0.0010 = 0.0025 Volts = 2.5 mV.) Tj
+T*
+(Signal Conditioning Requirement: A differential instrumentation amplifier with gain A_v) Tj
+T*
+(= 1000 is required to scale this 2.5 mV signal to a 2.5 V level for microcontroller ADC) Tj
+T*
+(digitization.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([SOLVED PROBLEM 3: Microcontroller 10-Bit ADC Resolution and Quantization]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: An embedded biotechnology data logger uses a microcontroller with a 10-bit) Tj
+T*
+(Successive Approximation ADC powered by a reference voltage V_ref = 3.30 V. Calculate:) Tj
+T*
+(\(1\) Number of discrete quantization levels, \(2\) Voltage resolution per Least Significant) Tj
+T*
+(Bit \(LSB\), \(3\) Digital output code for an analog biosensor voltage input of V_in = 1.65) Tj
+T*
+(V, \(4\) Quantization error.) Tj
+T*
+(Solution Step 1: Discrete Quantization Levels:) Tj
+T*
+(For an n-bit ADC: Total levels = 2^n = 2^10 = 1,024 levels \(codes 0 to 1,023\).) Tj
+T*
+(Solution Step 2: Voltage Resolution \(LSB Size\):) Tj
+T*
+(Resolution = V_ref / 2^n = 3.30 V / 1,024 = 0.0032226 Volts = 3.223 mV/LSB.) Tj
+T*
+(Solution Step 3: Digital Output Code for V_in = 1.65 V:) Tj
+T*
+(Digital Code D = floor\( \(V_in / V_ref\) * 2^n \) = floor\( \(1.65 / 3.30\) * 1,024 \) = floor\() Tj
+T*
+(0.5 * 1024 \) = 512.) Tj
+T*
+(In Binary: 512 = \(10 0000 0000\)_2; In Hexadecimal: 0x200.) Tj
+T*
+(Solution Step 4: Quantization Error:) Tj
+T*
+(Maximum quantization uncertainty = +/- 0.5 LSB = +/- 0.5 * 3.223 mV = +/- 1.61 mV.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([SOLVED PROBLEM 4: LVDT Sensitivity and Output Voltage Calculation]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 3652 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Basic Electrical & Electronics | Unit 6: Transducers, Sensors, Embedded & IoT) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 4 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(Problem: An LVDT displacement sensor has an output of 2.0 V RMS when its core is) Tj
+T*
+(displaced by 5.0 mm from its null position. Calculate: \(1\) Sensitivity of the LVDT in) Tj
+T*
+(V/mm and V/micrometer, \(2\) Core displacement when the output voltage reads 0.8 V RMS.) Tj
+T*
+(Solution Step 1: Compute Sensitivity S:) Tj
+T*
+(S = Delta V_out / Delta x = 2.0 V / 5.0 mm = 0.40 V/mm \(400 mV/mm\).) Tj
+T*
+(In V/micrometer: S = 0.40 V / 1000 micrometers = 0.0004 V/micrometer = 0.40) Tj
+T*
+(mV/micrometer.) Tj
+T*
+(Solution Step 2: Displacement for V_out = 0.8 V:) Tj
+T*
+(Delta x = V_out / S = 0.8 V / \(0.40 V/mm\) = 2.0 mm \(2,000 micrometers\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.5 University Review & Examination Questions) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Q1: Explain the construction, working principle, and differential voltage) Tj
+T*
+(cancellation of an LVDT.) Tj
+T*
+(Answer: Construction: An LVDT consists of a hollow non-magnetic cylindrical former. A) Tj
+T*
+(single primary winding P is wound at the center, excited by an AC carrier voltage \(1-10) Tj
+T*
+(kHz, 3-15V\). Two identical secondary windings S1 and S2 are wound symmetrically on) Tj
+T*
+(either side of the primary and connected in series opposition. A high-permeability) Tj
+T*
+(nickel-iron core moves axially inside the former. Working Principle: When the core is at) Tj
+T*
+(the central null position, flux linking S1 and S2 is identical, inducing equal voltages) Tj
+T*
+(E_s1 = E_s2. The net output is V_out = E_s1 - E_s2 = 0. When the core moves toward S1,) Tj
+T*
+(magnetic coupling to S1 increases while coupling to S2 decreases \(E_s1 > E_s2\),) Tj
+T*
+(producing a net output voltage in phase with primary excitation. When the core moves) Tj
+T*
+(toward S2, E_s2 > E_s1, producing an output voltage 180 degrees out of phase. Output) Tj
+T*
+(magnitude is linearly proportional to displacement over its operating range.) Tj
+T*
+(* Q2: Diagram and describe the architecture and biochemical sensing mechanism of an) Tj
+T*
+(amperometric Glucose Biosensor.) Tj
+T*
+(Answer: Architecture: A Clark-type amperometric glucose biosensor comprises a) Tj
+T*
+(three-electrode electrochemical cell: a Platinum working electrode, a Silver/Silver) Tj
+T*
+(Chloride \(Ag/AgCl\) reference electrode, and a Platinum auxiliary electrode, enclosed) Tj
+T*
+(behind an outer semi-permeable polycarbonate membrane and an inner enzyme membrane.) Tj
+T*
+(Biochemical mechanism: Glucose Oxidase \(GOx\) containing flavin adenine dinucleotide) Tj
+T*
+(\(FAD\) is covalently immobilized on the working electrode. When glucose diffuses through) Tj
+T*
+(the membrane, GOx catalyzes its oxidation: Glucose + O2 + H2O -> Gluconic Acid + H2O2.) Tj
+T*
+(The working electrode is biased at +0.6V relative to Ag/AgCl. At this potential, H2O2) Tj
+T*
+(undergoes electrocatalytic oxidation at the platinum anode: H2O2 -> O2 + 2 H+ + 2 e-.) Tj
+T*
+(The resulting anodic electron current is directly proportional to the enzymatic) Tj
+T*
+(production rate of H2O2, which in turn is linearly proportional to blood glucose) Tj
+T*
+(concentration.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.6 Key Takeaways and Revision Points) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Active transducers generate voltage without external power \(Thermocouple,) Tj
+T*
+(Piezoelectric\); passive require excitation \(RTD, Strain gauge, LVDT\).) Tj
+T*
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 721 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Basic Electrical & Electronics | Unit 6: Transducers, Sensors, Embedded & IoT) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 5 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(* RTD Pt100 is highly linear \(alpha = 0.00385 / deg C\); strain gauges measure) Tj
+T*
+(micro-strain via Wheatstone bridge.) Tj
+T*
+(* Biosensors couple bio-recognition elements \(enzymes, antibodies\) with) Tj
+T*
+(electrochemical or optical transducers.) Tj
+T*
+(* IoT systems link sensors through microcontrollers and wireless protocols \(MQTT,) Tj
+T*
+(LoRaWAN\) to cloud monitoring platforms.) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000171 00000 n 
+0000000241 00000 n 
+0000000316 00000 n 
+0000000428 00000 n 
+0000003976 00000 n 
+0000004088 00000 n 
+0000007545 00000 n 
+0000007658 00000 n 
+0000011469 00000 n 
+0000011583 00000 n 
+0000015288 00000 n 
+0000015402 00000 n 
+trailer
+<< /Size 15 /Root 1 0 R >>
+startxref
+16175
+%%EOF

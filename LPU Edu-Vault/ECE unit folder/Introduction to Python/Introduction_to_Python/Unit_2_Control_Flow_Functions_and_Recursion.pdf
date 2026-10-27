@@ -1,0 +1,652 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2897 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Introduction to Python | Unit 2: Conditionals, Loops & Functions) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Electronics & Communication Engineering) Tj
+340 0 Td
+(Page 1 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(INTRODUCTION TO PYTHON) Tj
+T*
+(UNIT 2: CONTROL FLOW, LOOPS, MODULAR FUNCTIONS & RECURSION) Tj
+T*
+(Curriculum: Lovely Professional University | School of Electronics & Communication) Tj
+T*
+(Engineering) Tj
+T*
+(Reference: Python Programming: Using Problem Solving Approach by Reema Thareja) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.1 Decision Making and Conditional Control Structures) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Conditional constructs direct program execution flow along branching paths based on) Tj
+T*
+(boolean evaluations:) Tj
+T*
+(* 1. Single if Statement: Evaluates test expression; executes indented block if) Tj
+T*
+(condition evaluates to True.) Tj
+T*
+(* 2. if-else Statement: Provides binary alternative branch \(executes else block when) Tj
+T*
+(test evaluates to False\).) Tj
+T*
+(* 3. if-elif-else Ladder: Evaluates multi-way conditions sequentially from top to) Tj
+T*
+(bottom. Once a condition evaluates to True, its block executes and the remaining) Tj
+T*
+(ladder is completely bypassed.) Tj
+T*
+(* 4. Nested Conditionals: if statements placed inside other if or else blocks. Code) Tj
+T*
+(readability maintained via consistent 4-space indentation.) Tj
+T*
+(* Short-Circuit Evaluation: In logical expressions A and B, if A is False, B is never) Tj
+T*
+(evaluated. In A or B, if A is True, B is never evaluated.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.2 Iterative Control: while and for Loops) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* 1. while Loop: Pre-test loop executing repeatedly as long as condition remains) Tj
+T*
+(True. Mandates loop variable initialization, condition check, and loop variable) Tj
+T*
+(update to prevent infinite loops.) Tj
+T*
+(* 2. for Loop: Traverses over elements of any iterable sequence \(string, list, tuple,) Tj
+T*
+(range, dictionary\).) Tj
+T*
+(* range\(\) Built-in: range\(start, stop, step\) generates an immutable arithmetic) Tj
+T*
+(sequence. Omission defaults: start=0, step=1.) Tj
+T*
+(* Loop Control Statements:) Tj
+T*
+(- break: Terminates execution of innermost loop immediately, transferring control to) Tj
+T*
+(statement following loop.) Tj
+T*
+(- continue: Skips remainder of current iteration and jumps immediately to next iteration) Tj
+T*
+(cycle.) Tj
+T*
+(- pass: Null statement acting as syntactic placeholder where code is syntactically) Tj
+T*
+(required but no action is desired.) Tj
+T*
+(* Loop else Clause: Unique Python feature. The else block executes when loop finishes) Tj
+T*
+(naturally without encountering a break statement.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.3 Modular Programming and Function Definitions) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 3094 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Introduction to Python | Unit 2: Conditionals, Loops & Functions) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Electronics & Communication Engineering) Tj
+340 0 Td
+(Page 2 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(* Function Syntax: def function_name\(param1, param2=default\): followed by docstring,) Tj
+T*
+(body, and return statement.) Tj
+T*
+(* Parameter Passing Semantics: Pass-by-Object-Reference \(Call-by-Assignment\):) Tj
+T*
+(- Immutable arguments \(int, float, str, tuple\): Behave like call-by-value; caller) Tj
+T*
+(variable remains unmodified.) Tj
+T*
+(- Mutable arguments \(list, dict, set\): Modified in-place inside function; changes) Tj
+T*
+(reflect in caller.) Tj
+T*
+(* Argument Classification:) Tj
+T*
+(- Positional Arguments: Mapped in order of appearance.) Tj
+T*
+(- Keyword Arguments: Explicitly specified by name \(e.g. func\(b=2, a=1\)\), order) Tj
+T*
+(independent.) Tj
+T*
+(- Default Arguments: Assigned default value in header. Warning: Never use mutable) Tj
+T*
+(objects \(like []\) as default arguments!) Tj
+T*
+(- Variable-Length Arguments: *args collects extra positional arguments into a tuple;) Tj
+T*
+(**kwargs collects extra keyword arguments into a dictionary.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.4 Scope Rules and Lambda Functions) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* The LEGB Scope Resolution Rule: Local -> Enclosing -> Global -> Built-in.) Tj
+T*
+(* global keyword: Allows modifying a module-level global variable from within a local) Tj
+T*
+(function scope.) Tj
+T*
+(* nonlocal keyword: Allows modifying a variable in an outer enclosing non-global) Tj
+T*
+(scope \(closures\).) Tj
+T*
+(* Lambda Functions: Compact anonymous single-expression functions: lambda x, y: x +) Tj
+T*
+(y.) Tj
+T*
+(* Functional Primitives: map\(func, iter\), filter\(func, iter\), and) Tj
+T*
+(functools.reduce\(func, iter\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.5 Recursion: Mechanics and Stack Frames) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Recursion: A programming technique where a function calls itself directly or) Tj
+T*
+(indirectly to solve smaller sub-problems.) Tj
+T*
+(* Essential Components: Base Case \(terminating condition preventing infinite) Tj
+T*
+(recursion\) and Recursive Step \(reducing problem size\).) Tj
+T*
+(* Call Stack: Every recursive call allocates a new activation record \(stack frame\) on) Tj
+T*
+(the runtime call stack. Python enforces a safety recursion limit \(default 1000,) Tj
+T*
+(inspectable via sys.getrecursionlimit\(\)\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 1: Resistor Color Code Decoder and Tolerance Verification]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Decode standard 4-band resistor color codes, calculate nominal) Tj
+T*
+(resistance and tolerance bounds, and verify whether a measured resistance falls within) Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 2706 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Introduction to Python | Unit 2: Conditionals, Loops & Functions) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Electronics & Communication Engineering) Tj
+340 0 Td
+(Page 3 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(specification.) Tj
+T*
+(Python Source Code:) Tj
+T*
+(# Standard EIA color code lookup tables) Tj
+T*
+(COLOR_DIGITS = {'black': 0, 'brown': 1, 'red': 2, 'orange': 3, 'yellow': 4,) Tj
+T*
+('green': 5, 'blue': 6, 'violet': 7, 'gray': 8, 'white': 9}) Tj
+T*
+() Tj
+T*
+(COLOR_MULTIPLIER = {'black': 1, 'brown': 10, 'red': 100, 'orange': 1000,) Tj
+T*
+('yellow': 10000, 'green': 100000, 'blue': 1000000,) Tj
+T*
+('gold': 0.1, 'silver': 0.01}) Tj
+T*
+() Tj
+T*
+(COLOR_TOLERANCE = {'brown': 1.0, 'red': 2.0, 'gold': 5.0, 'silver': 10.0, 'none': 20.0}) Tj
+T*
+() Tj
+T*
+(def decode_resistor\(b1, b2, b3, b4='gold'\):) Tj
+T*
+(b1, b2, b3, b4 = b1.lower\(\), b2.lower\(\), b3.lower\(\), b4.lower\(\)) Tj
+T*
+(if b1 not in COLOR_DIGITS or b2 not in COLOR_DIGITS:) Tj
+T*
+(return 'Invalid band 1 or 2 color!') Tj
+T*
+(if b3 not in COLOR_MULTIPLIER or b4 not in COLOR_TOLERANCE:) Tj
+T*
+(return 'Invalid multiplier or tolerance color!') Tj
+T*
+() Tj
+T*
+(significant_digits = \(COLOR_DIGITS[b1] * 10\) + COLOR_DIGITS[b2]) Tj
+T*
+(nominal_resistance = significant_digits * COLOR_MULTIPLIER[b3]) Tj
+T*
+(tolerance_pct = COLOR_TOLERANCE[b4]) Tj
+T*
+() Tj
+T*
+(lower_limit = nominal_resistance * \(1 - tolerance_pct / 100\)) Tj
+T*
+(upper_limit = nominal_resistance * \(1 + tolerance_pct / 100\)) Tj
+T*
+() Tj
+T*
+(return nominal_resistance, tolerance_pct, lower_limit, upper_limit) Tj
+T*
+() Tj
+T*
+(# Example: Yellow - Violet - Orange - Gold \(47 kOhm +/- 5%\)) Tj
+T*
+(nom, tol, low, high = decode_resistor\('yellow', 'violet', 'orange', 'gold'\)) Tj
+T*
+(print\(f'Nominal Resistance : {nom} Ohms \({nom/1000:.1f} kOhms\)'\)) Tj
+T*
+(print\(f'Tolerance : +/- {tol} %'\)) Tj
+T*
+(print\(f'Acceptable Range : {low:.1f} Ohms to {high:.1f} Ohms'\)) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 2: Prime Number Generator & Factorizer using Loop-Else]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Generate all prime numbers in an engineering range and decompose) Tj
+T*
+(composite numbers into prime factors using for-else loops.) Tj
+T*
+(Python Source Code:) Tj
+T*
+(def find_primes_in_range\(start, end\):) Tj
+T*
+(primes = []) Tj
+T*
+(for num in range\(start, end + 1\):) Tj
+T*
+(if num < 2:) Tj
+T*
+(continue) Tj
+T*
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 1983 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Introduction to Python | Unit 2: Conditionals, Loops & Functions) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Electronics & Communication Engineering) Tj
+340 0 Td
+(Page 4 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(for i in range\(2, int\(num**0.5\) + 1\):) Tj
+T*
+(if num % i == 0:) Tj
+T*
+(break) Tj
+T*
+(else:) Tj
+T*
+(# Executes only if loop completed without break) Tj
+T*
+(primes.append\(num\)) Tj
+T*
+(return primes) Tj
+T*
+() Tj
+T*
+(def prime_factorization\(n\):) Tj
+T*
+(factors = []) Tj
+T*
+(d = 2) Tj
+T*
+(while d * d <= n:) Tj
+T*
+(while n % d == 0:) Tj
+T*
+(factors.append\(d\)) Tj
+T*
+(n //= d) Tj
+T*
+(d += 1) Tj
+T*
+(if n > 1:) Tj
+T*
+(factors.append\(n\)) Tj
+T*
+(return factors) Tj
+T*
+() Tj
+T*
+(print\('Primes between 20 and 60:', find_primes_in_range\(20, 60\)\)) Tj
+T*
+(print\('Prime factors of 840:', prime_factorization\(840\)\)) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 3: Taylor Series Approximation of Sine using Recursive Factorial]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Compute sin\(x\) using Taylor series expansion up to N terms and compare) Tj
+T*
+(accuracy against math.sin\(\).) Tj
+T*
+(Python Source Code:) Tj
+T*
+(import math) Tj
+T*
+() Tj
+T*
+(def factorial_rec\(n\):) Tj
+T*
+(if n <= 1:) Tj
+T*
+(return 1) Tj
+T*
+(return n * factorial_rec\(n - 1\)) Tj
+T*
+() Tj
+T*
+(def taylor_sin\(x_rad, terms=7\):) Tj
+T*
+(# sin\(x\) = sum_{k=0}^{terms-1} \(-1\)^k * x^\(2k+1\) / \(2k+1\)!) Tj
+T*
+(sin_approx = 0.0) Tj
+T*
+(for k in range\(terms\):) Tj
+T*
+(numerator = \(\(-1\)**k\) * \(x_rad**\(2 * k + 1\)\)) Tj
+T*
+(denominator = factorial_rec\(2 * k + 1\)) Tj
+T*
+(sin_approx += numerator / denominator) Tj
+T*
+(return sin_approx) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 2090 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Introduction to Python | Unit 2: Conditionals, Loops & Functions) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Electronics & Communication Engineering) Tj
+340 0 Td
+(Page 5 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(angle_deg = 45.0) Tj
+T*
+(x = math.radians\(angle_deg\)) Tj
+T*
+(approx = taylor_sin\(x, terms=6\)) Tj
+T*
+(exact = math.sin\(x\)) Tj
+T*
+(print\(f'Angle: {angle_deg} degrees \({x:.4f} rad\)'\)) Tj
+T*
+(print\(f'Taylor Series Approximation : {approx:.10f}'\)) Tj
+T*
+(print\(f'math.sin\(\) Library Value : {exact:.10f}'\)) Tj
+T*
+(print\(f'Absolute Error : {abs\(approx - exact\):.2e}'\)) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 4: Functional Sensor Calibration Pipeline using Map & Filter]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Filter out out-of-bounds electrical noise from an ADC reading stream) Tj
+T*
+(and calibrate raw integers into physical temperature readings using functional) Tj
+T*
+(programming.) Tj
+T*
+(Python Source Code:) Tj
+T*
+(raw_adc_readings = [12, 105, 340, 1025, 512, -4, 780, 2048, 420]) Tj
+T*
+() Tj
+T*
+(# 1. Filter valid 10-bit ADC range [0 to 1023]) Tj
+T*
+(valid_readings = list\(filter\(lambda x: 0 <= x <= 1023, raw_adc_readings\)\)) Tj
+T*
+() Tj
+T*
+(# 2. Map ADC reading to Voltage: V = \(ADC / 1023\) * 5.0 Volts) Tj
+T*
+(voltages = list\(map\(lambda adc: round\(\(adc / 1023.0\) * 5.0, 3\), valid_readings\)\)) Tj
+T*
+() Tj
+T*
+(# 3. Map Voltage to Temperature \(LM35 sensor: 10 mV/C -> T = V / 0.010\)) Tj
+T*
+(temperatures = list\(map\(lambda v: round\(v / 0.010, 1\), voltages\)\)) Tj
+T*
+() Tj
+T*
+(print\('Raw ADC Stream :', raw_adc_readings\)) Tj
+T*
+(print\('Filtered ADC Values :', valid_readings\)) Tj
+T*
+(print\('Calibrated Voltages :', voltages\)) Tj
+T*
+(print\('Final Temperatures C:', temperatures\)) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000171 00000 n 
+0000000241 00000 n 
+0000000316 00000 n 
+0000000428 00000 n 
+0000003377 00000 n 
+0000003489 00000 n 
+0000006635 00000 n 
+0000006748 00000 n 
+0000009507 00000 n 
+0000009621 00000 n 
+0000011657 00000 n 
+0000011771 00000 n 
+trailer
+<< /Size 15 /Root 1 0 R >>
+startxref
+13914
+%%EOF

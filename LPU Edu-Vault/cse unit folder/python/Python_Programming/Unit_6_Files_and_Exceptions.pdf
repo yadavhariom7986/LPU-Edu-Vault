@@ -1,0 +1,688 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 6 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2711 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Python Programming | Unit 6: File I/O & Exception Handling) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 1 of 6) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(=== UNIT 6: FILE I/O, SERIALIZATION & EXCEPTION HANDLING ===) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.1 File Streams and File Access Modes) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Persistent data storage requires transferring data between volatile RAM and non-volatile) Tj
+T*
+(disk files:) Tj
+T*
+(* The open\(\) Built-in Function: file_obj = open\(filename, mode='r',) Tj
+T*
+(encoding='utf-8'\).) Tj
+T*
+(* Standard File Modes: 'r' \(read only\), 'w' \(write only, truncates existing file\),) Tj
+T*
+('a' \(append\), 'r+' \(read/write\), 'b' \(binary mode for images/compiled data\).) Tj
+T*
+(* Context Managers and the 'with' Statement: Encapsulates file handling within an) Tj
+T*
+(automated resource management block based on the __enter__ and __exit__ dunder) Tj
+T*
+(protocols. Guarantees that the file descriptor is closed automatically, even if) Tj
+T*
+(unhandled exceptions occur.) Tj
+T*
+(* Reading Methods: .read\(size\) reads entire file or up to size characters;) Tj
+T*
+(.readline\(\) reads one line; .readlines\(\) reads all lines into a list of strings.) Tj
+T*
+(* Writing Methods: .write\(string\) writes text; .writelines\(list_of_strings\) writes) Tj
+T*
+(sequences.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.2 Data Serialization: CSV and JSON) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* JSON \(JavaScript Object Notation\): Universal lightweight data interchange format) Tj
+T*
+(supported by built-in json module: json.dumps\(obj\) \(serialize to string\),) Tj
+T*
+(json.dump\(obj, file\) \(serialize to file\), json.loads\(str\) \(parse from string\),) Tj
+T*
+(json.load\(file\) \(parse from file\).) Tj
+T*
+(* CSV \(Comma-Separated Values\): Managed via csv.reader, csv.writer, csv.DictReader,) Tj
+T*
+(and csv.DictWriter.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.3 Exception Architecture and Handling Hierarchy) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(An exception is a runtime error event that disrupts the normal programmatic instruction) Tj
+T*
+(flow:) Tj
+T*
+(* Exception Hierarchy: All exceptions inherit from BaseException. Standard) Tj
+T*
+(programmatic errors derive from Exception: \(ArithmeticError -> ZeroDivisionError,) Tj
+T*
+(LookupError -> IndexError, KeyError, ValueError, TypeError, FileNotFoundError\).) Tj
+T*
+(* The Complete Try-Except Block Structure:) Tj
+T*
+(- try: Critical code block monitored for potential exceptions.) Tj
+T*
+(- except SpecificException as err: Handles matched exception type.) Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 2306 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Python Programming | Unit 6: File I/O & Exception Handling) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 2 of 6) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(- else: Executes ONLY if the try block completes successfully WITHOUT exceptions.) Tj
+T*
+(- finally: Cleanup block guaranteed to execute unconditionally \(e.g. closing database) Tj
+T*
+(connections\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.4 Raising Exceptions and Custom Exception Classes) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* The raise Statement: Explicitly triggers an exception: raise ValueError\('Invalid) Tj
+T*
+(input'\).) Tj
+T*
+(* Custom User-Defined Exceptions: Created by subclassing the standard Exception) Tj
+T*
+(class:) Tj
+T*
+(class InsufficientBalanceError\(Exception\): pass.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 1: Safe File Processor with 'with' and Exception Handling]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Write a program reading a configuration file containing key=value) Tj
+T*
+(pairs, parsing valid entries into a dictionary, handling FileNotFoundError and parsing) Tj
+T*
+(errors cleanly.) Tj
+T*
+(Python Source Code:) Tj
+T*
+(def parse_config\(file_path\):) Tj
+T*
+(config = {}) Tj
+T*
+(try:) Tj
+T*
+(with open\(file_path, 'r', encoding='utf-8'\) as f:) Tj
+T*
+(for line_no, line in enumerate\(f, start=1\):) Tj
+T*
+(clean_line = line.strip\(\)) Tj
+T*
+(if not clean_line or clean_line.startswith\('#'\):) Tj
+T*
+(continue) Tj
+T*
+(if '=' not in clean_line:) Tj
+T*
+(print\(f'Warning: Line {line_no} malformed, skipping.'\)) Tj
+T*
+(continue) Tj
+T*
+(key, val = clean_line.split\('=', 1\)) Tj
+T*
+(config[key.strip\(\)] = val.strip\(\)) Tj
+T*
+(except FileNotFoundError:) Tj
+T*
+(print\(f'Error: File '{file_path}' not found on disk.'\)) Tj
+T*
+(return None) Tj
+T*
+(except PermissionError:) Tj
+T*
+(print\(f'Error: Insufficient permission to read '{file_path}'.'\)) Tj
+T*
+(return None) Tj
+T*
+(else:) Tj
+T*
+(print\(f'Successfully parsed {len\(config\)} config parameters.'\)) Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 2456 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Python Programming | Unit 6: File I/O & Exception Handling) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 3 of 6) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(return config) Tj
+T*
+() Tj
+T*
+(# Test with non-existent file) Tj
+T*
+(parse_config\('missing_config.env'\)) Tj
+T*
+(Execution Trace & Output:) Tj
+T*
+(Output: 'Error: File 'missing_config.env' not found on disk.' Application terminates) Tj
+T*
+(gracefully without crashing.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 2: JSON Data Serialization and Deserialization Pipeline]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Model a student record database, serialize the dictionary into an) Tj
+T*
+(encrypted/formatted JSON file on disk, read it back, and verify data parity.) Tj
+T*
+(Python Source Code:) Tj
+T*
+(import json) Tj
+T*
+() Tj
+T*
+(students_db = [) Tj
+T*
+({'id': 101, 'name': 'Aarav', 'courses': ['CSE101', 'MTH165'], 'gpa': 3.85}) Tj
+T*
+({'id': 102, 'name': 'Diya',  'courses': ['INT108', 'GEN231'], 'gpa': 3.92}) Tj
+T*
+(]) Tj
+T*
+() Tj
+T*
+(json_path = 'students.json') Tj
+T*
+(# Serialization to file) Tj
+T*
+(with open\(json_path, 'w', encoding='utf-8'\) as f:) Tj
+T*
+(json.dump\(students_db, f, indent=4\)) Tj
+T*
+(print\('JSON data serialized to disk.'\)) Tj
+T*
+() Tj
+T*
+(# Deserialization from file) Tj
+T*
+(with open\(json_path, 'r', encoding='utf-8'\) as f:) Tj
+T*
+(loaded_data = json.load\(f\)) Tj
+T*
+(print\(f'Loaded {len\(loaded_data\)} records. First student: {loaded_data[0]['name']}'\)) Tj
+T*
+(Execution Trace & Output:) Tj
+T*
+(JSON file written with 4-space indentation; deserialized loaded_data matches original) Tj
+T*
+(students_db list.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 3: Custom Business Logic Exception Classes]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Implement a shopping cart checkout module with a custom) Tj
+T*
+(InsufficientStockError exception raised when inventory is exceeded.) Tj
+T*
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 2160 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Python Programming | Unit 6: File I/O & Exception Handling) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 4 of 6) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(Python Source Code:) Tj
+T*
+(class InsufficientStockError\(Exception\):) Tj
+T*
+(def __init__\(self, item, requested, available\):) Tj
+T*
+(super\(\).__init__\(f'Cannot purchase {requested} units of '{item}'. Only {available}) Tj
+T*
+(available.'\)) Tj
+T*
+(self.item = item) Tj
+T*
+(self.requested = requested) Tj
+T*
+(self.available = available) Tj
+T*
+() Tj
+T*
+(inventory = {'Laptop': 5, 'Mouse': 20}) Tj
+T*
+() Tj
+T*
+(def purchase\(item, quantity\):) Tj
+T*
+(if item not in inventory:) Tj
+T*
+(raise KeyError\(f'Item '{item}' does not exist in inventory.'\)) Tj
+T*
+(if quantity > inventory[item]:) Tj
+T*
+(raise InsufficientStockError\(item, quantity, inventory[item]\)) Tj
+T*
+(inventory[item] -= quantity) Tj
+T*
+(print\(f'Purchase successful! Remaining {item} stock: {inventory[item]}'\)) Tj
+T*
+() Tj
+T*
+(try:) Tj
+T*
+(purchase\('Laptop', 8\)) Tj
+T*
+(except InsufficientStockError as err:) Tj
+T*
+(print\(f'Checkout Failed: {err}'\)) Tj
+T*
+(Execution Trace & Output:) Tj
+T*
+(Output: 'Checkout Failed: Cannot purchase 8 units of 'Laptop'. Only 5 available.') Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 4: CSV Data Parsing and Summary Statistics]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Write a program generating a CSV sales file, read it using) Tj
+T*
+(csv.DictReader, and compute total revenues and sales by category.) Tj
+T*
+(Python Source Code:) Tj
+T*
+(import csv) Tj
+T*
+() Tj
+T*
+(csv_file = 'sales.csv') Tj
+T*
+(sales_data = [) Tj
+T*
+(['TransactionID', 'Category', 'Amount']) Tj
+T*
+(['TX101', 'Electronics', '12500']) Tj
+T*
+(['TX102', 'Stationery',  '450']) Tj
+T*
+(['TX103', 'Electronics', '8500']) Tj
+T*
+(['TX104', 'Books',        '1200']) Tj
+T*
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 2701 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Python Programming | Unit 6: File I/O & Exception Handling) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 5 of 6) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(]) Tj
+T*
+() Tj
+T*
+(with open\(csv_file, 'w', newline='', encoding='utf-8'\) as f:) Tj
+T*
+(writer = csv.writer\(f\)) Tj
+T*
+(writer.writerows\(sales_data\)) Tj
+T*
+() Tj
+T*
+(category_revenue = {}) Tj
+T*
+(with open\(csv_file, 'r', encoding='utf-8'\) as f:) Tj
+T*
+(reader = csv.DictReader\(f\)) Tj
+T*
+(for row in reader:) Tj
+T*
+(cat = row['Category']) Tj
+T*
+(amt = float\(row['Amount']\)) Tj
+T*
+(category_revenue[cat] = category_revenue.get\(cat, 0.0\) + amt) Tj
+T*
+() Tj
+T*
+(for cat, total in category_revenue.items\(\):) Tj
+T*
+(print\(f'Category {cat:12s} : INR {total:10,.2f}'\)) Tj
+T*
+(Execution Trace & Output:) Tj
+T*
+(Electronics: INR 21,000.00 | Stationery: INR 450.00 | Books: INR 1,200.00.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.5 University Review & Examination Questions) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Q1: Explain the purpose and operation of Context Managers \('with' statement\) in) Tj
+T*
+(Python file I/O.) Tj
+T*
+(Answer: The 'with' statement simplifies resource management by guaranteeing that setup) Tj
+T*
+(and teardown actions occur reliably around a block of code. For file I/O, 'with) Tj
+T*
+(open\(...\) as f:' binds the opened stream to f. Internally, the context manager calls the) Tj
+T*
+(__enter__\(\) method when entering the block, and guarantees that __exit__\(\) is executed) Tj
+T*
+(upon leaving the block \(even if a critical exception occurs, an unhandled error is) Tj
+T*
+(raised, or a return statement is executed\). This prevents file descriptor leaks,) Tj
+T*
+(operating system resource exhaustion, and file corruption caused by unclosed buffers.) Tj
+T*
+(* Q2: Describe the role of 'else' and 'finally' blocks in Python exception handling.) Tj
+T*
+(Answer: In a try-except structure: The 'except' block catches and handles designated) Tj
+T*
+(exceptions that occurred during try execution. The 'else' block executes ONLY if the try) Tj
+T*
+(block completes successfully with ZERO exceptions raised. It isolates code that should) Tj
+T*
+(not be accidentally monitored by the try handlers. The 'finally' block executes) Tj
+T*
+(unconditionally in all circumstances: whether an exception was raised, caught,) Tj
+T*
+(re-raised, or if no exception occurred. It is reserved for essential resource cleanup,) Tj
+T*
+(such as closing network sockets, database connections, or freeing hardware locks.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.6 Key Takeaways and Revision Points) Tj
+T*
+/F1 9 Tf
+ET
+
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 16 0 R >>
+endobj
+16 0 obj
+<< /Length 658 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Python Programming | Unit 6: File I/O & Exception Handling) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 6 of 6) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+() Tj
+T*
+(* The 'with' statement guarantees automated file closing via context management.) Tj
+T*
+(* json.dump\(\) and json.load\(\) handle structured data serialization to disk.) Tj
+T*
+(* 'try-except-else-finally' cleanly separates error detection, normal flow, and) Tj
+T*
+(cleanup.) Tj
+T*
+(* Custom exceptions inherit from the built-in Exception class.) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000178 00000 n 
+0000000248 00000 n 
+0000000323 00000 n 
+0000000435 00000 n 
+0000003198 00000 n 
+0000003310 00000 n 
+0000005668 00000 n 
+0000005781 00000 n 
+0000008290 00000 n 
+0000008404 00000 n 
+0000010617 00000 n 
+0000010731 00000 n 
+0000013485 00000 n 
+0000013599 00000 n 
+trailer
+<< /Size 17 /Root 1 0 R >>
+startxref
+14309
+%%EOF

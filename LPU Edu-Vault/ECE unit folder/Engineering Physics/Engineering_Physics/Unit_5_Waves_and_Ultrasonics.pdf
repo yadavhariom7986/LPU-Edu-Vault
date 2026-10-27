@@ -1,0 +1,742 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 6 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 3292 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Physics | Unit 5: Waves, Acoustics & Ultrasonics) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 1 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(=== UNIT 5: WAVES, ACOUSTICS & INDUSTRIAL ULTRASONICS ===) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.1 Simple Harmonic Motion and Mechanical Waves) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Wave mechanics governs the transport of mechanical disturbance and energy through) Tj
+T*
+(deformable elastic media without net translation of matter.) Tj
+T*
+(* Simple Harmonic Motion \(SHM\): Restoring force is directly proportional to) Tj
+T*
+(displacement from equilibrium: F = - k * x => d^2x/dt^2 + omega_0^2 * x = 0, where) Tj
+T*
+(natural angular frequency omega_0 = sqrt\(k / m\).) Tj
+T*
+(* One-Dimensional Wave Equation: A spatial disturbance y\(x,t\) propagating with wave) Tj
+T*
+(velocity v satisfies: d^2y/dx^2 = \(1 / v^2\) * \(d^2y/dt^2\).) Tj
+T*
+(* Wave Parameters: Wavelength lambda, Frequency f = omega / \(2*pi\), Wave velocity v =) Tj
+T*
+(f * lambda, Wave number k = 2*pi / lambda.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.2 Damped and Forced Oscillations & Resonance) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(In physical systems, dissipative frictional forces \(viscous damping proportional to) Tj
+T*
+(velocity F_d = - b * dx/dt\) retard motion:) Tj
+T*
+(* Differential Equation of Damped Harmonic Oscillator: m * \(d^2x/dt^2\) + b * \(dx/dt\)) Tj
+T*
+(+ k * x = 0 => d^2x/dt^2 + 2*gamma*\(dx/dt\) + omega_0^2 * x = 0, where gamma = b /) Tj
+T*
+(\(2*m\) is damping factor.) Tj
+T*
+(* Damping Regimes:) Tj
+T*
+(- 1. Underdamped \(gamma < omega_0\): Oscillatory decay with reduced frequency omega_d =) Tj
+T*
+(sqrt\(omega_0^2 - gamma^2\). Amplitude decays exponentially: A\(t\) = A_0 * e^\(- gamma * t\).) Tj
+T*
+(- 2. Critically Damped \(gamma = omega_0\): System returns to equilibrium in minimum) Tj
+T*
+(possible time without oscillation \(ideal for civil seismographs and vehicle suspension) Tj
+T*
+(dampers\).) Tj
+T*
+(- 3. Overdamped \(gamma > omega_0\): Heavy non-oscillatory creeping return to equilibrium.) Tj
+T*
+(* Logarithmic Decrement \(delta\): Natural log of ratio of two consecutive peak) Tj
+T*
+(amplitudes: delta = ln\( A_n / A_{n+1} \) = gamma * T_d = 2 * pi * gamma / omega_d.) Tj
+T*
+(* Quality Factor \(Q\): Dimensionless parameter measuring sharpness of resonance: Q =) Tj
+T*
+(2*pi * \(Stored Energy / Energy Lost per Cycle\) = omega_0 / \(2*gamma\) = pi / delta.) Tj
+T*
+(* Forced Oscillations and Amplitude Resonance: Under external driving force) Tj
+T*
+(F0*cos\(omega*t\), maximum displacement amplitude occurs when driving frequency matches) Tj
+T*
+(natural frequency: omega_res = sqrt\(omega_0^2 - 2*gamma^2\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.3 Fundamentals and Properties of Ultrasonic Waves) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Ultrasonic waves are acoustic longitudinal mechanical waves having frequencies strictly) Tj
+T*
+(above the upper audible human limit \(f > 20 kHz\):) Tj
+T*
+(* Distinctive Properties: \(1\) Extremely short acoustic wavelengths \(sub-millimeter in) Tj
+T*
+(solids\), \(2\) Highly directional beam propagation with negligible diffraction) Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 3283 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Physics | Unit 5: Waves, Acoustics & Ultrasonics) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 2 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(spreading, \(3\) High energy density, \(4\) Capable of inducing acoustic cavitation in) Tj
+T*
+(liquids, \(5\) Highly sensitive to acoustic impedance mismatches at material) Tj
+T*
+(interfaces.) Tj
+T*
+(* Characteristic Acoustic Impedance \(Z\): Measures resistance of a medium to) Tj
+T*
+(ultrasonic wave transmission: Z = rho * v, where rho is density and v is acoustic) Tj
+T*
+(velocity in medium \(Rayls or kg/m^2-s\).) Tj
+T*
+(* Acoustic Reflection and Transmission at Boundaries:) Tj
+T*
+(- Sound Pressure Reflection Coefficient: R_p = \(Z2 - Z1\) / \(Z2 + Z1\).) Tj
+T*
+(- Sound Pressure Transmission Coefficient: T_p = \(2 * Z1\) / \(Z2 + Z1\).) Tj
+T*
+(- If Z1 matches Z2 \(acoustic matching\), 100% of ultrasonic energy transmits across the) Tj
+T*
+(interface.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.4 Production Methods for Ultrasonics) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* 1. Magnetostriction Method \(Joule Effect\):) Tj
+T*
+(- Principle: When a ferromagnetic rod \(iron or nickel\) is magnetized by an alternating) Tj
+T*
+(magnetic field, it undergoes mechanical elastic deformation \(dimensional length change) Tj
+T*
+(Delta L\) irrespective of field polarity.) Tj
+T*
+(- Construction: Nickel rod clamped at center inside an inductive coil connected to a) Tj
+T*
+(high-frequency LC tank oscillator.) Tj
+T*
+(- Resonant Frequency: f = \(p / \(2 * L\)\) * sqrt\( Y / rho \), where p = 1,2,3... harmonic,) Tj
+T*
+(Y is Young's modulus, L is rod length.) Tj
+T*
+(- Limitation: Usable only for lower ultrasonic frequencies \(up to ~100 kHz\) due to heavy) Tj
+T*
+(eddy current and hysteresis losses at higher frequencies.) Tj
+T*
+(* 2. Piezoelectric Oscillator Method \(Curie Brothers' Effect\):) Tj
+T*
+(- Principle: Inverse Piezoelectric Effect. Applying an alternating RF electric field) Tj
+T*
+(across opposite faces of certain non-centrosymmetric crystals \(Quartz, PZT - Lead) Tj
+T*
+(Zirconate Titanate\) causes mechanical vibrations \(compression and rarefaction\) at) Tj
+T*
+(identical frequency.) Tj
+T*
+(- Resonant Condition: Occurs when applied RF electric frequency matches fundamental) Tj
+T*
+(mechanical resonant frequency of the crystal slice:) Tj
+T*
+(Formula: f = \(p / \(2 * t\)\) * sqrt\( Y / rho \), where t is crystal plate thickness.) Tj
+T*
+(- Advantages: Operates up to ultra-high frequencies \(hundreds of MHz\), highly stable,) Tj
+T*
+(compact.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.5 Detection of Ultrasonic Waves) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* 1. Piezoelectric Receiver: Direct piezoelectric effect generates electric potential) Tj
+T*
+(across crystal faces when ultrasonic waves strike them.) Tj
+T*
+(* 2. Acoustic Diffraction Grating Method: Ultrasonic longitudinal waves set up) Tj
+T*
+(periodic spatial compressions and rarefactions in a transparent liquid, modulating) Tj
+T*
+(its local refractive index to act as an optical diffraction grating for monochromatic) Tj
+T*
+(light.) Tj
+T*
+(* 3. Kundt's Tube with Lycopodium Powder: Nodal and antinodal stationary wave) Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 3555 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Physics | Unit 5: Waves, Acoustics & Ultrasonics) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 3 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(patterns produce distinct striations.) Tj
+T*
+(* 4. Thermal Detector: Fine platinum wire resistance shifts due to adiabatic heating) Tj
+T*
+(at wave antinodes.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.6 Civil Engineering & Industrial Applications of Ultrasonics) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* 1. Non-Destructive Testing \(NDT\) of Concrete Structures: Ultrasonic Pulse Velocity) Tj
+T*
+(\(UPV\) testing measures transit time of longitudinal ultrasound through structural) Tj
+T*
+(concrete columns, slabs, and bridge decks to determine in-situ compressive strength,) Tj
+T*
+(detect internal honeycomb voids, and assess fire damage.) Tj
+T*
+(* 2. Flaw Detection in Steel Welds and Bridges: Pulse-echo ultrasonic testing detects) Tj
+T*
+(internal cracks, slag inclusions, and fatigue fissures in structural steel joints.) Tj
+T*
+(* 3. SONAR and Bathymetry: Sound Navigation and Ranging maps riverbeds, sea floor) Tj
+T*
+(topography, and scours around bridge foundation piers.) Tj
+T*
+(* 4. Ultrasonic Drilling, Cutting, and Welding: Micro-drilling of hard brittle civil) Tj
+T*
+(stones \(granite, quartz, glass\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([EXAMPLE 1: Resonant Frequency of Piezoelectric Quartz Plate]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: An X-cut quartz crystal plate of thickness t = 2.0 mm is used in an) Tj
+T*
+(ultrasonic generator. Properties of quartz are Young's modulus Y = 7.90 * 10^10 N/m^2) Tj
+T*
+(and density rho = 2650 kg/m^3. Calculate: \(1\) Fundamental resonant frequency f1, \(2\)) Tj
+T*
+(Acoustic wavelength in quartz, \(3\) Thickness required to generate ultrasound at f = 5.0) Tj
+T*
+(MHz.) Tj
+T*
+(Solution Step 1: Acoustic Velocity in Quartz v:) Tj
+T*
+(v = sqrt\( Y / rho \) = sqrt\( 7.90 * 10^10 / 2650 \) = sqrt\( 29,811,320.75 \) = 5460.0 m/s.) Tj
+T*
+(Solution Step 2: Fundamental Resonant Frequency f1 \(p = 1\):) Tj
+T*
+(f1 = v / \(2 * t\) = 5460.0 / \(2 * 0.002 m\) = 5460.0 / 0.004 = 1,365,000 Hz = 1.365 MHz.) Tj
+T*
+(Solution Step 3: Acoustic Wavelength lambda in Quartz:) Tj
+T*
+(lambda = v / f1 = 5460.0 / 1.365 * 10^6 = 0.004 m = 4.0 mm \(= 2 * t\).) Tj
+T*
+(Solution Step 4: Thickness for f = 5.0 MHz:) Tj
+T*
+(t_new = v / \(2 * f_new\) = 5460.0 / \(2 * 5.0 * 10^6\) = 5460.0 / 10^7 = 5.46 * 10^-4 m =) Tj
+T*
+(0.546 mm.) Tj
+T*
+(Conclusion: Fundamental frequency = 1.365 MHz; acoustic wavelength = 4.0 mm; required) Tj
+T*
+(thickness for 5 MHz is 0.546 mm.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([EXAMPLE 2: Damped Oscillator Logarithmic Decrement & Q-Factor]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: An underdamped mechanical vibration sensor of mass m = 0.25 kg has) Tj
+T*
+(spring stiffness k = 100 N/m and damping coefficient b = 0.50 N-s/m. Calculate: \(1\)) Tj
+T*
+(Natural frequency omega_0, \(2\) Damping factor gamma and damped frequency omega_d, \(3\)) Tj
+T*
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 3520 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Physics | Unit 5: Waves, Acoustics & Ultrasonics) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 4 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(Logarithmic decrement delta, \(4\) Quality factor Q, \(5\) Time required for vibration) Tj
+T*
+(amplitude to drop to 10% of initial value.) Tj
+T*
+(Solution Step 1: Natural Frequency omega_0:) Tj
+T*
+(omega_0 = sqrt\(k / m\) = sqrt\(100 / 0.25\) = sqrt\(400\) = 20.0 rad/s.) Tj
+T*
+(Solution Step 2: Damping Factor gamma and Damped Frequency omega_d:) Tj
+T*
+(gamma = b / \(2 * m\) = 0.50 / \(2 * 0.25\) = 1.0 s^-1.) Tj
+T*
+(omega_d = sqrt\( omega_0^2 - gamma^2 \) = sqrt\( 20^2 - 1^2 \) = sqrt\(399\) = 19.975 rad/s.) Tj
+T*
+(Solution Step 3: Logarithmic Decrement delta:) Tj
+T*
+(Damped period T_d = 2 * pi / omega_d = 2 * 3.14159 / 19.975 = 0.3145 s.) Tj
+T*
+(delta = gamma * T_d = 1.0 * 0.3145 = 0.3145.) Tj
+T*
+(Solution Step 4: Quality Factor Q:) Tj
+T*
+(Q = omega_0 / \(2 * gamma\) = 20.0 / \(2 * 1.0\) = 10.0.) Tj
+T*
+(Solution Step 5: Time for 90% Amplitude Decay \(A\(t\) / A_0 = 0.10\):) Tj
+T*
+(A\(t\) = A_0 * e^\(- gamma * t\) => e^\(- 1.0 * t\) = 0.10.) Tj
+T*
+(- t = ln\(0.10\) = - 2.3026 => t = 2.30 seconds.) Tj
+T*
+(Conclusion: omega_d = 19.98 rad/s; delta = 0.315; Q = 10.0; decay time to 10% amplitude) Tj
+T*
+(= 2.30 s.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([EXAMPLE 3: Ultrasonic Pulse Velocity \(UPV\) Testing of Concrete Column]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: An Ultrasonic Pulse Velocity \(UPV\) test is performed across a) Tj
+T*
+(reinforced concrete bridge pier of path length L = 450 mm \(0.45 m\). The measured transit) Tj
+T*
+(time of the ultrasonic longitudinal pulse is Delta t = 105 microseconds. Standard civil) Tj
+T*
+(engineering quality ratings \(IS 13311 Part 1\): v > 4.5 km/s \(Excellent\); 3.5 to 4.5 km/s) Tj
+T*
+(\(Good\); 3.0 to 3.5 km/s \(Medium\); < 3.0 km/s \(Doubtful\). Determine: \(1\) Ultrasonic pulse) Tj
+T*
+(velocity in concrete, \(2\) Dynamic Young's modulus E_d if concrete density is rho = 2400) Tj
+T*
+(kg/m^3 and Poisson's ratio is nu = 0.20, \(3\) Quality classification of the concrete) Tj
+T*
+(column.) Tj
+T*
+(Solution Step 1: Compute Ultrasonic Pulse Velocity v:) Tj
+T*
+(v = Path Length / Transit Time = 0.450 m / \(105 * 10^-6 s\) = 4285.7 m/s = 4.29 km/s.) Tj
+T*
+(Solution Step 2: Compute Dynamic Young's Modulus E_d:) Tj
+T*
+(Relation for longitudinal wave in an elastic solid:) Tj
+T*
+(v = sqrt\( [ E_d * \(1 - nu\) ] / [ rho * \(1 + nu\) * \(1 - 2*nu\) ] \).) Tj
+T*
+(Rearranging: E_d = rho * v^2 * [ \(1 + nu\) * \(1 - 2*nu\) / \(1 - nu\) ].) Tj
+T*
+(Poisson factor = [ \(1 + 0.20\) * \(1 - 0.40\) ] / \(1 - 0.20\) = [ 1.20 * 0.60 ] / 0.80 =) Tj
+T*
+(0.72 / 0.80 = 0.90.) Tj
+T*
+(E_d = 2400 kg/m^3 * \(4285.7 m/s\)^2 * 0.90 = 2400 * \(1.8367 * 10^7\) * 0.90 = 3.967 *) Tj
+T*
+(10^10 N/m^2 = 39.67 GPa.) Tj
+T*
+(Solution Step 3: Quality Classification:) Tj
+T*
+(Calculated velocity v = 4.29 km/s lies between 3.5 km/s and 4.5 km/s.) Tj
+T*
+(Conclusion: Pulse velocity = 4.29 km/s; Dynamic modulus E_d = 39.67 GPa; Concrete rating) Tj
+T*
+(is GOOD \(satisfactory structural integrity without internal honeycombing\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 4004 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Physics | Unit 5: Waves, Acoustics & Ultrasonics) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 5 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([EXAMPLE 4: Acoustic Grating Measurement of Sound Velocity in Liquid]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: In an acoustic grating experiment, an ultrasonic wave of frequency f =) Tj
+T*
+(3.0 MHz is set up in an organic chemical solvent. A monochromatic sodium light beam) Tj
+T*
+(\(lambda = 589.3 nm\) passes perpendicularly through the liquid cell, producing) Tj
+T*
+(diffraction fringes on a screen placed at focal distance D = 1.2 m. The distance between) Tj
+T*
+(the central zeroth-order and first-order diffraction maxima is x_1 = 3.5 mm. Calculate:) Tj
+T*
+(\(1\) Grating element d \(acoustic wavelength in liquid\), \(2\) Acoustic velocity v of) Tj
+T*
+(ultrasound in the solvent.) Tj
+T*
+(Solution Step 1: Grating Equation for First-Order Diffraction:) Tj
+T*
+(Diffraction angle: sin\(theta\) ~= tan\(theta\) = x_1 / D = 0.0035 m / 1.2 m = 0.002917) Tj
+T*
+(radians.) Tj
+T*
+(Grating condition: d * sin\(theta\) = 1 * lambda => d = lambda / sin\(theta\).) Tj
+T*
+(Acoustic wavelength d = \(589.3 * 10^-9 m\) / 0.002917 = 2.0205 * 10^-4 m = 0.202 mm.) Tj
+T*
+(Solution Step 2: Compute Ultrasonic Velocity v in the liquid:) Tj
+T*
+(v = f * d = \(3.0 * 10^6 s^-1\) * \(2.0205 * 10^-4 m\) = 606.15 m/s.) Tj
+T*
+(Conclusion: Grating pitch d = 0.202 mm; Ultrasonic wave velocity in liquid = 606.15 m/s.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.7 University Review & Examination Questions) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Q1: Explain the principle, construction, and working of a Piezoelectric Oscillator) Tj
+T*
+(for producing ultrasonic waves.) Tj
+T*
+(Answer: Principle: Inverse piezoelectric effect. When alternating RF electrical voltage) Tj
+T*
+(is applied across opposite metallized faces of an anisotropic crystal plate \(quartz\),) Tj
+T*
+(the crystal alternately expands and contracts along its optical/mechanical axis at the) Tj
+T*
+(driving frequency. Construction: An X-cut quartz plate is mounted between metal plates) Tj
+T*
+(and connected in parallel with an inductance coil L1 forming a tank circuit coupled to) Tj
+T*
+(the grid of a vacuum tube or transistor RF oscillator. A high-voltage DC supply powers) Tj
+T*
+(the circuit. Working: Tuning the variable capacitor C1 adjusts electrical frequency.) Tj
+T*
+(When RF frequency coincides with the natural fundamental mechanical frequency of the) Tj
+T*
+(crystal slice \(f = \(p/2t\)*sqrt\(Y/rho\)\), acoustic resonance occurs, radiating intense) Tj
+T*
+(ultrasonic waves into the adjacent medium.) Tj
+T*
+(* Q2: Explain the principle of Ultrasonic Pulse Velocity \(UPV\) testing in concrete) Tj
+T*
+(structures and its clinical engineering interpretation.) Tj
+T*
+(Answer: Principle: An electro-acoustic transducer placed on the concrete surface) Tj
+T*
+(converts high-voltage electrical pulses into longitudinal ultrasonic pulses \(~54 kHz\).) Tj
+T*
+(The pulse traverses concrete path length L to a receiving transducer, which reconverts) Tj
+T*
+(acoustic vibrations into electrical signals displayed on a digital timer. Transit time t) Tj
+T*
+(is recorded to compute pulse velocity v = L / t. Engineering Interpretation: Wave speed) Tj
+T*
+(depends directly on concrete density and elastic modulus \(v = sqrt\(E*\(1-nu\) /) Tj
+T*
+(rho*\(1+nu\)*\(1-2nu\)\)\). Higher velocity \(> 4.5 km/s\) indicates dense, defect-free concrete) Tj
+T*
+(with high compressive strength. Lower velocity \(< 3.0 km/s\) warns of internal honeycomb) Tj
+T*
+(voids, micro-cracks, freeze-thaw damage, or structural delamination.) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 16 0 R >>
+endobj
+16 0 obj
+<< /Length 869 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Physics | Unit 5: Waves, Acoustics & Ultrasonics) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 6 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.8 Key Takeaways and Revision Points) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Underdamped oscillations decay exponentially with logarithmic decrement delta =) Tj
+T*
+(gamma * T_d.) Tj
+T*
+(* Piezoelectric generators produce high-frequency ultrasound \(> 1 MHz\) via inverse) Tj
+T*
+(piezoelectric effect.) Tj
+T*
+(* Magnetostriction generators produce lower-frequency ultrasound \(< 100 kHz\) via) Tj
+T*
+(Joule effect.) Tj
+T*
+(* UPV test is the universal civil non-destructive standard for concrete compressive) Tj
+T*
+(strength and void detection.) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000178 00000 n 
+0000000248 00000 n 
+0000000323 00000 n 
+0000000435 00000 n 
+0000003779 00000 n 
+0000003891 00000 n 
+0000007226 00000 n 
+0000007339 00000 n 
+0000010947 00000 n 
+0000011061 00000 n 
+0000014634 00000 n 
+0000014748 00000 n 
+0000018805 00000 n 
+0000018919 00000 n 
+trailer
+<< /Size 17 /Root 1 0 R >>
+startxref
+19840
+%%EOF

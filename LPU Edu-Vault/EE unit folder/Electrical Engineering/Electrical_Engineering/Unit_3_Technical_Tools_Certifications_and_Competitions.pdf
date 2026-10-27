@@ -1,0 +1,830 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R] /Count 7 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 3398 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(ELECTRICAL ENGINEERING | UNIT 3: TECHNICAL TOOLS, CERTS & COMPETITIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Electrical Engineering) Tj
+340 0 Td
+(Page 1 of 7) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(ELECTRICAL ENGINEERING) Tj
+T*
+(UNIT 3: TECHNICAL TOOLS, CERTIFICATIONS & COMPETITIONS) Tj
+T*
+(Curriculum: Lovely Professional University | Department of Electrical Engineering) Tj
+T*
+(Reference: IEEE Standards Association / MATLAB & Simulink Power Systems Toolbox) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.1 Industry-Standard Simulation Software Suites) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Modern electrical engineering demands rigorous computational simulation prior to) Tj
+T*
+(physical prototyping:) Tj
+T*
+(- MATLAB / Simulink & Simscape Electrical: Comprehensive numerical modeling of) Tj
+T*
+(multi-domain physical systems. Modules include power systems, motor drives,) Tj
+T*
+(semiconductor power losses, and control algorithm auto-code generation \(Embedded Coder) Tj
+T*
+(for TI DSPs\).) Tj
+T*
+(- PSCAD / EMTDC: Transient electromagnetic analysis software. Utilized globally for) Tj
+T*
+(lightning surge propagation, transformer core saturation, HVDC converter firing angle) Tj
+T*
+(dynamics, and sub-synchronous resonance \(SSR\).) Tj
+T*
+(- ETAP \(Electrical Transient Analyzer Program\): The enterprise standard for industrial) Tj
+T*
+(power networks. Key capabilities: Newton-Raphson load flow, balanced and unbalanced) Tj
+T*
+(short circuit analysis \(IEC 60909\), protective relay coordination, and arc flash safety) Tj
+T*
+(calculations.) Tj
+T*
+(- ANSYS Maxwell: Low-frequency electromagnetic Finite Element Analysis \(FEA\). Used to) Tj
+T*
+(design magnetic circuits, optimize stator/rotor slot geometry in electric motors,) Tj
+T*
+(minimize eddy currents, and calculate torque ripple.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.2 Hardware Prototyping & Digital Embedded Controllers) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Real-time digital control bridges software algorithms with high-power hardware:) Tj
+T*
+(- Digital Signal Processors \(DSP\): Texas Instruments C2000 family \(e.g., TMS320F28379D,) Tj
+T*
+(F280049C\) featuring high-resolution Pulse Width Modulation \(HRPWM\) with 150 picosecond) Tj
+T*
+(resolution, dual-core architecture, and ultra-fast integrated SAR ADCs.) Tj
+T*
+(- Microcontrollers & SoC: STM32 \(ARM Cortex-M4/M7 with floating point unit\), ESP32) Tj
+T*
+(\(dual-core 240 MHz for IoT-connected smart energy meters\), and Microchip dsPIC.) Tj
+T*
+(- Hardware-in-the-Loop \(HIL\) Simulation: OPAL-RT and Typhoon HIL systems executing) Tj
+T*
+(real-time FPGA-based solver models at 1-microsecond step times to test actual physical) Tj
+T*
+(BMS and inverter controllers before high-voltage deployment.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.3 High-Power PCB Design & Electromagnetic Compatibility \(EMC\)) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Power electronic hardware design requires strict adherence to physical layout standards:) Tj
+T*
+(- PCB Layout & Toolchains: Altium Designer and KiCad for multi-layer power PCB design.) Tj
+T*
+(- High-Current Trace Sizing: IPC-2152 standard calculations for trace width, copper) Tj
+T*
+(thickness \(2 oz, 3 oz, or 4 oz copper\), and internal via thermal stitching.) Tj
+T*
+(- Creepage and Clearance Distances: IEC 60664-1 compliance to prevent dielectric) Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 3216 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(ELECTRICAL ENGINEERING | UNIT 3: TECHNICAL TOOLS, CERTS & COMPETITIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Electrical Engineering) Tj
+340 0 Td
+(Page 2 of 7) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(flashover across high-voltage traces under varying pollution degrees.) Tj
+T*
+(- Thermal Management: Direct Bonded Copper \(DBC\) ceramic substrates, insulated metal) Tj
+T*
+(substrates \(IMS\), heat sink thermal resistance \(R_th_ha\) modeling, and forced-air fan) Tj
+T*
+(CFM sizing.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.4 Professional Certifications & Global Engineering Standards) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Professional credentials validate specialized technical competence:) Tj
+T*
+(- Certified Energy Auditor \(CEA\) & Energy Manager \(CEM\): Administered by the Bureau of) Tj
+T*
+(Energy Efficiency \(BEE\), Ministry of Power, Government of India.) Tj
+T*
+(- Industrial Automation Certifications: Certified PLC/SCADA Systems Specialist \(Siemens) Tj
+T*
+(SITRAIN, Schneider Electric Automation Academy\).) Tj
+T*
+(- Key Engineering Standards: IEEE 1547 \(Interconnection and Interoperability of) Tj
+T*
+(Distributed Energy Resources with Associated Electric Power Systems Interfaces\), IEEE) Tj
+T*
+(519 \(Harmonic Control in Electric Power Systems\), and IEC 61850 \(Communication Networks) Tj
+T*
+(and Systems for Power Utility Automation\).) Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(--------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(DETAILED WORKED EXAMPLES & ENGINEERING COMPUTATIONS) Tj
+T*
+/F2 9.5 Tf
+(--------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> Example 3.1: ETAP Power Flow and Shunt Capacitor Sizing) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Statement: A 33 kV utility substation supplies power to a remote manufacturing cluster) Tj
+T*
+(over an 8 km, 3-phase radial distribution feeder. Feeder parameters and load conditions) Tj
+T*
+(are:) Tj
+T*
+(- Line Impedance: Z_line = \(0.32 + j 0.58\) Ohms per km) Tj
+T*
+(- Connected Industrial Load: S_load = 12 MVA at a lagging power factor of 0.80) Tj
+T*
+(- Substation Sending End Bus Voltage: V_s = 33.0 kV \(line-to-line\)) Tj
+T*
+(\(a\) Calculate the total feeder loop impedance, load current, and receiving end) Tj
+T*
+(line-to-line bus voltage \(V_r\) without compensation.) Tj
+T*
+(\(b\) Calculate the feeder percentage voltage regulation and total active power) Tj
+T*
+(transmission loss \(kW\).) Tj
+T*
+(\(c\) Determine the rating of a shunt capacitor bank \(MVAR\) required at the receiving bus) Tj
+T*
+(to boost the power factor to 0.96 lagging and restore V_r to nominal 33 kV.) Tj
+T*
+() Tj
+T*
+(Step-by-Step Solution:) Tj
+T*
+(1. Feeder Total Impedance and Receiving Load Current:) Tj
+T*
+(- Total resistance: R_total = 0.32 * 8 = 2.56 Ohms) Tj
+T*
+(- Total inductive reactance: X_total = 0.58 * 8 = 4.64 Ohms) Tj
+T*
+(- Total feeder impedance: Z_line = \(2.56 + j 4.64\) Ohms \(|Z| = sqrt\(2.56^2 + 4.64^2\) =) Tj
+T*
+(5.297 Ohms\).) Tj
+T*
+(- Load active and reactive power:) Tj
+T*
+(P_load = S_load * cos\(Phi\) = 12 * 0.80 = 9.60 MW = 9,600 kW) Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 3273 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(ELECTRICAL ENGINEERING | UNIT 3: TECHNICAL TOOLS, CERTS & COMPETITIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Electrical Engineering) Tj
+340 0 Td
+(Page 3 of 7) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(Q_load = S_load * sin\(Phi\) = 12 * 0.60 = 7.20 MVAR = 7,200 kVAR) Tj
+T*
+(- Initial estimated line current: I_L = \(12 * 10^6\) / \(sqrt\(3\) * 33,000\) = 209.95 A.) Tj
+T*
+() Tj
+T*
+(2. Voltage Drop and Voltage Regulation Calculation:) Tj
+T*
+(- Approximate phase voltage drop formula: Delta_V_ph = I_L * \(R * cos\(Phi\) + X *) Tj
+T*
+(sin\(Phi\)\)) Tj
+T*
+(- Delta_V_ph = 209.95 * [ \(2.56 * 0.80\) + \(4.64 * 0.60\) ] = 209.95 * [ 2.048 + 2.784 ] =) Tj
+T*
+(209.95 * 4.832 = 1,014.5 V per phase.) Tj
+T*
+(- Line-to-line voltage drop: Delta_V_LL = sqrt\(3\) * 1,014.5 = 1,757.2 V = 1.76 kV.) Tj
+T*
+(- Receiving End Voltage: V_r = V_s - Delta_V_LL = 33.0 - 1.76 = 31.24 kV.) Tj
+T*
+(- Percentage Voltage Regulation = [ \(V_s - V_r\) / V_r ] * 100 = \(1.76 / 31.24\) * 100 =) Tj
+T*
+(5.63%.) Tj
+T*
+(- Total 3-Phase Line Loss: P_loss = 3 * I_L^2 * R_line = 3 * \(209.95\)^2 * 2.56 = 3 *) Tj
+T*
+(44,079 * 2.56 = 338,527 W = 338.53 kW.) Tj
+T*
+() Tj
+T*
+(3. Shunt Capacitor Bank Sizing for Power Factor Correction to 0.96 Lagging:) Tj
+T*
+(- Desired power factor: cos\(Phi_new\) = 0.96 => tan\(Phi_new\) = tan\(acos\(0.96\)\) =) Tj
+T*
+(tan\(16.26 deg\) = 0.2917.) Tj
+T*
+(- Initial power factor angle: cos\(Phi_old\) = 0.80 => tan\(Phi_old\) = 0.7500.) Tj
+T*
+(- Required reactive power compensation: Q_cap = P_load * [ tan\(Phi_old\) - tan\(Phi_new\) ]) Tj
+T*
+(- Q_cap = 9.60 MW * [ 0.7500 - 0.2917 ] = 9.60 * 0.4583 = 4.40 MVAR.) Tj
+T*
+(- Practical Specification: Install a 4.5 MVAR, 33 kV automatic switched capacitor bank) Tj
+T*
+(\(three 1.5 MVAR stages\).) Tj
+T*
+(- Post-compensation line current drops to: I_new = \(9.60 * 10^6\) / \(sqrt\(3\) * 33,000 *) Tj
+T*
+(0.96\) = 174.96 A.) Tj
+T*
+(- Reduced line losses: P_loss_new = 3 * \(174.96\)^2 * 2.56 = 235,093 W = 235.09 kW) Tj
+T*
+(\(Savings of 103.4 kW!\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> Example 3.2: Digital PI Controller and Filter Sizing for Synchronous Buck Converter) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Statement: An electrical engineer is designing a high-efficiency DC-DC synchronous buck) Tj
+T*
+(converter to power an industrial IoT controller board from a 48 V telecom battery backup) Tj
+T*
+(bus. The design requirements are:) Tj
+T*
+(- Input DC Voltage: V_in = 48.0 V \(+/- 10%\)) Tj
+T*
+(- Regulated Output DC Voltage: V_out = 12.0 V) Tj
+T*
+(- Rated Load Current: I_out = 15.0 A) Tj
+T*
+(- Switching Frequency: f_sw = 100 kHz \(T_sw = 10 microseconds\)) Tj
+T*
+(- Maximum Allowed Inductor Current Ripple: Delta_I_L <= 20% of rated I_out) Tj
+T*
+(- Maximum Allowed Output Voltage Ripple: Delta_V_out <= 1.0% of nominal V_out \(120 mV\)) Tj
+T*
+(\(a\) Calculate the steady-state duty cycle \(D\).) Tj
+T*
+(\(b\) Calculate the minimum filter inductance \(L\) and output filter capacitance \(C\).) Tj
+T*
+(\(c\) Determine the digital sampling frequency and discrete PI controller transfer) Tj
+T*
+(function parameters using Bilinear Tustin Transformation for continuous gains K_p = 1.8) Tj
+T*
+(and K_i = 850.) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 2997 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(ELECTRICAL ENGINEERING | UNIT 3: TECHNICAL TOOLS, CERTS & COMPETITIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Electrical Engineering) Tj
+340 0 Td
+(Page 4 of 7) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(Step-by-Step Solution:) Tj
+T*
+(1. Calculation of Duty Cycle \(D\):) Tj
+T*
+(- Neglecting diode and switch conduction drops: D = V_out / V_in = 12.0 / 48.0 = 0.25) Tj
+T*
+(\(25.0%\).) Tj
+T*
+() Tj
+T*
+(2. Sizing the Power Inductor \(L\):) Tj
+T*
+(- Permissible inductor ripple current: Delta_I_L = 0.20 * 15.0 A = 3.0 A.) Tj
+T*
+(- Inductor volt-second balance: V_L = L * \(Delta_I_L / Delta_t\) = \(V_in - V_out\)) Tj
+T*
+(- Since Delta_t = D * T_sw = D / f_sw:) Tj
+T*
+(L = [ \(V_in - V_out\) * D ] / \(f_sw * Delta_I_L\)) Tj
+T*
+(L = [ \(48.0 - 12.0\) * 0.25 ] / \(100,000 * 3.0\) = [ 36.0 * 0.25 ] / 300,000 = 9.0 /) Tj
+T*
+(300,000 = 30.0 microHenries.) Tj
+T*
+(- Standard E-series selection: 33 microH, 20 A saturation current shielded power) Tj
+T*
+(inductor.) Tj
+T*
+() Tj
+T*
+(3. Sizing the Output Filter Capacitor \(C\):) Tj
+T*
+(- In a buck converter, the inductor ripple current flows entirely into the output) Tj
+T*
+(capacitor:) Tj
+T*
+(Delta_V_out = Delta_I_L / \(8 * f_sw * C\)) Tj
+T*
+(C = Delta_I_L / \(8 * f_sw * Delta_V_out\)) Tj
+T*
+(- Given Delta_V_out = 0.01 * 12.0 = 0.12 V:) Tj
+T*
+(C = 3.0 / \(8 * 100,000 * 0.12\) = 3.0 / 96,000 = 31.25 microFarads.) Tj
+T*
+(- Accounting for ceramic capacitor DC-bias capacitance degradation \(40% loss at 12V DC\):) Tj
+T*
+(C_actual = 31.25 / 0.60 = 52.08 microF. Select four 22 microF, 25V X7R ceramic) Tj
+T*
+(capacitors in parallel \(88 microF total\).) Tj
+T*
+() Tj
+T*
+(4. Discrete PI Controller Discretization \(Tustin Transform\):) Tj
+T*
+(- Continuous PI controller: G_c\(s\) = K_p + \(K_i / s\)) Tj
+T*
+(- Sampling time T_s chosen equal to switching period T_sw = 10 microseconds \(100 kHz) Tj
+T*
+(sampling\).) Tj
+T*
+(- Tustin substitution: s = \(2 / T_s\) * \( \(1 - z^-1\) / \(1 + z^-1\) \)) Tj
+T*
+(- G_c\(z\) = K_p + K_i * \(T_s / 2\) * \( \(1 + z^-1\) / \(1 - z^-1\) \)) Tj
+T*
+(- Numerical values: K_p = 1.8; K_i * \(T_s / 2\) = 850 * \(10 * 10^-6 / 2\) = 850 * 5 *) Tj
+T*
+(10^-6 = 0.00425.) Tj
+T*
+(- G_c\(z\) = [ \(1.8 + 0.00425\) - \(1.8 - 0.00425\) * z^-1 ] / [ 1 - z^-1 ]) Tj
+T*
+(- Difference Equation for DSP implementation:) Tj
+T*
+(u[n] = u[n-1] + 1.80425 * e[n] - 1.79575 * e[n-1], where e[n] is the voltage error.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> Example 3.3: Formula Student Electric EV Accumulator Pack Design) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Statement: A student racing team participating in Formula Bharat Electric is designing a) Tj
+T*
+(400 V nominal lithium-ion accumulator container complying with FSAE electric vehicle) Tj
+T*
+(regulations:) Tj
+T*
+(- Lithium-ion Cell: High-discharge 21700 cylindrical cells \(Molicel P42A\)) Tj
+T*
+(- Nominal cell voltage: V_cell = 3.60 V \(Fully charged = 4.20 V, Cut-off = 3.00 V\)) Tj
+T*
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 3237 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(ELECTRICAL ENGINEERING | UNIT 3: TECHNICAL TOOLS, CERTS & COMPETITIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Electrical Engineering) Tj
+340 0 Td
+(Page 5 of 7) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(- Cell capacity: C_cell = 4.2 Ah) Tj
+T*
+(- Cell internal AC resistance \(1 kHz\): R_cell = 10.0 milliOhms) Tj
+T*
+(- Maximum continuous discharge rating: 45 A per cell) Tj
+T*
+(- Competition Rules Constraints: Maximum allowed tractive system voltage = 400.0 V DC;) Tj
+T*
+(Max power limit = 80.0 kW.) Tj
+T*
+(\(a\) Determine the cell series-parallel configuration \(Ns-Np\) to achieve 400 V peak) Tj
+T*
+(voltage and deliver 80 kW.) Tj
+T*
+(\(b\) Calculate the total internal resistance of the battery pack and total internal I^2*R) Tj
+T*
+(heat dissipation at 80 kW power draw.) Tj
+T*
+(\(c\) Determine the cooling airflow rate \(CFM\) required to prevent cell temperatures from) Tj
+T*
+(exceeding 50 deg C ambient during an endurance heat run.) Tj
+T*
+() Tj
+T*
+(Step-by-Step Solution:) Tj
+T*
+(1. Series and Parallel Cell Configuration:) Tj
+T*
+(- Maximum pack voltage at 100% state of charge: V_pack_max = N_s * 4.20 V <= 400.0 V.) Tj
+T*
+(- N_s = floor\(400.0 / 4.20\) = floor\(95.23\) = 95 cells in series.) Tj
+T*
+(- Nominal pack voltage: V_pack_nom = 95 * 3.60 V = 342.0 V.) Tj
+T*
+(- Maximum current drawn at 80 kW power limit \(at nominal voltage\):) Tj
+T*
+(I_pack_max = P_limit / V_pack_nom = 80,000 W / 342.0 V = 233.92 A.) Tj
+T*
+(- Parallel cell requirement: N_p = ceil\(I_pack_max / I_cell_max\) = ceil\(233.92 / 45\) =) Tj
+T*
+(ceil\(5.20\) = 6 cells in parallel.) Tj
+T*
+(- Accumulator Architecture: 95S6P configuration.) Tj
+T*
+(- Total number of cells: N_total = 95 * 6 = 570 cells.) Tj
+T*
+(- Total Pack Energy Capacity: E_pack = 95 * 3.60 V * \(6 * 4.2 Ah\) = 342 V * 25.2 Ah =) Tj
+T*
+(8,618.4 Wh = 8.62 kWh.) Tj
+T*
+() Tj
+T*
+(2. Pack Internal Resistance and Thermal Heat Generation:) Tj
+T*
+(- Resistance of one string of 95 series cells: R_string = 95 * 10.0 milliOhms = 950) Tj
+T*
+(milliOhms = 0.95 Ohms.) Tj
+T*
+(- Total pack internal resistance \(6 strings in parallel\): R_pack = R_string / 6 = 0.95 /) Tj
+T*
+(6 = 0.1583 Ohms \(158.3 milliOhms\).) Tj
+T*
+(- Internal I^2*R heat dissipation at peak 233.92 A load:) Tj
+T*
+(Q_heat = I_pack_max^2 * R_pack = \(233.92\)^2 * 0.1583 = 54,718.5 * 0.1583 = 8,662 W =) Tj
+T*
+(8.66 kW of thermal energy!) Tj
+T*
+() Tj
+T*
+(3. Thermal Management and Cooling Airflow Calculation:) Tj
+T*
+(- Permissible air temperature rise: Delta_T = T_max_cell - T_ambient = 50 deg C - 35 deg) Tj
+T*
+(C = 15 deg C \(15 K\).) Tj
+T*
+(- Specific heat capacity of air: c_p = 1,005 J / \(kg * K\); Air density: rho = 1.184) Tj
+T*
+(kg/m^3.) Tj
+T*
+(- Required mass flow rate of cooling air: m_dot = Q_heat / \(c_p * Delta_T\)) Tj
+T*
+(m_dot = 8,662 / \(1,005 * 15\) = 8,662 / 15,075 = 0.5746 kg/s.) Tj
+T*
+(- Volumetric flow rate: V_dot = m_dot / rho = 0.5746 / 1.184 = 0.4853 m^3/s.) Tj
+T*
+(- Convert to CFM \(Cubic Feet per Minute, 1 m^3/s = 2,118.88 CFM\):) Tj
+T*
+(Airflow = 0.4853 * 2,118.88 = 1,028.3 CFM.) Tj
+T*
+(- Engineering Selection: Install two 12V high-static-pressure brushless blowers rated at) Tj
+T*
+ET
+
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 16 0 R >>
+endobj
+16 0 obj
+<< /Length 3065 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(ELECTRICAL ENGINEERING | UNIT 3: TECHNICAL TOOLS, CERTS & COMPETITIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Electrical Engineering) Tj
+340 0 Td
+(Page 6 of 7) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(550 CFM each.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> Example 3.4: High-Voltage PCB Creepage & Clearance Sizing \(IEC 60664-1\)) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Statement: A power electronics engineer is laying out the printed circuit board for an) Tj
+T*
+(off-grid solar inverter operating with an internal DC bus voltage of 600 V DC and rated) Tj
+T*
+(impulse withstand voltage of 4.0 kV.) Tj
+T*
+(- Environmental Conditions: Pollution Degree 2 \(standard industrial laboratory) Tj
+T*
+(environment\)) Tj
+T*
+(- PCB Substrate Material: FR-4 fiberglass \(Comparative Tracking Index CTI = 175 V to 400) Tj
+T*
+(V, Material Group IIIa\)) Tj
+T*
+(- Insulation Requirement: Reinforced / Double Isolation between high-voltage DC bus and) Tj
+T*
+(low-voltage microcontroller logic.) Tj
+T*
+(\(a\) Determine the minimum clearance distance \(through air\) according to IEC 60664-1.) Tj
+T*
+(\(b\) Determine the minimum creepage distance \(along the PCB surface\) for basic and) Tj
+T*
+(reinforced insulation.) Tj
+T*
+(\(c\) If space constraints restrict creepage to 4.0 mm, design an isolation milling slot) Tj
+T*
+(to satisfy safety requirements.) Tj
+T*
+() Tj
+T*
+(Step-by-Step Solution:) Tj
+T*
+(1. Minimum Clearance Distance Determination \(IEC 60664-1 Table F.2\):) Tj
+T*
+(- Clearance is determined by the impulse withstand voltage \(peak voltage transient\):) Tj
+T*
+(- For an impulse withstand rating of 4.0 kV in an inhomogeneous electric field \(Case B\):) Tj
+T*
+(Minimum Basic Clearance = 3.0 mm.) Tj
+T*
+(- For Reinforced Insulation, standard mandates stepping up to the next higher impulse) Tj
+T*
+(withstand tier \(6.0 kV\):) Tj
+T*
+(Minimum Reinforced Clearance = 5.5 mm.) Tj
+T*
+() Tj
+T*
+(2. Minimum Creepage Distance Determination \(IEC 60664-1 Table F.4\):) Tj
+T*
+(- Operating working RMS/DC voltage = 600 V.) Tj
+T*
+(- Material Group IIIa \(175 <= CTI < 400\), Pollution Degree 2:) Tj
+T*
+(- Basic Creepage Distance for 630 V interpolated from table = 6.3 mm.) Tj
+T*
+(- Reinforced Insulation requires doubling the basic creepage distance:) Tj
+T*
+(Reinforced Creepage = 2 * 6.3 mm = 12.6 mm.) Tj
+T*
+() Tj
+T*
+(3. Engineering Design of PCB Isolation Milling Slot:) Tj
+T*
+(- When linear PCB trace spacing cannot accommodate 12.6 mm creepage due to compact form) Tj
+T*
+(factors:) Tj
+T*
+(- An air slot \(isolation trench\) is routed through the FR-4 board beneath the) Tj
+T*
+(optocouplers/digital isolators.) Tj
+T*
+(- According to IEC 60664-1, an air slot having width >= 1.0 mm breaks the conductive) Tj
+T*
+(tracking path along the surface.) Tj
+T*
+(- The creepage measurement path then traverses down through the slot boundary, through) Tj
+T*
+(air, and up the other side.) Tj
+T*
+(- Path length = Surface distance to edge \(4 mm\) + Slot depth \(1.6 mm board thickness\) +) Tj
+T*
+ET
+
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 18 0 R >>
+endobj
+18 0 obj
+<< /Length 573 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(ELECTRICAL ENGINEERING | UNIT 3: TECHNICAL TOOLS, CERTS & COMPETITIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Electrical Engineering) Tj
+340 0 Td
+(Page 7 of 7) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(Slot bottom width \(1.5 mm\) + Board thickness \(1.6 mm\) + Surface distance \(4 mm\) = 12.7) Tj
+T*
+(mm.) Tj
+T*
+(- Conclusion: Routing a 1.5 mm wide milled slot provides 12.7 mm creepage, fully) Tj
+T*
+(satisfying the 12.6 mm reinforced safety requirement!) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 19
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000185 00000 n 
+0000000255 00000 n 
+0000000330 00000 n 
+0000000442 00000 n 
+0000003892 00000 n 
+0000004004 00000 n 
+0000007272 00000 n 
+0000007385 00000 n 
+0000010711 00000 n 
+0000010825 00000 n 
+0000013875 00000 n 
+0000013989 00000 n 
+0000017279 00000 n 
+0000017393 00000 n 
+0000020511 00000 n 
+0000020625 00000 n 
+trailer
+<< /Size 19 /Root 1 0 R >>
+startxref
+21250
+%%EOF

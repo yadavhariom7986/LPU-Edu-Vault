@@ -1,0 +1,660 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 3044 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Computer Programming in C | Unit 1: Programming Concepts, Tokens & Operators) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 1 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(=== UNIT 1: PROGRAMMING CONCEPTS, C TOKENS, DATA TYPES & OPERATORS ===) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 1.1 Program Development Cycle and C Compilation Pipeline) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(C is a structured, procedural, statically-typed programming language developed by Dennis) Tj
+T*
+(Ritchie at Bell Labs \(1972\).) Tj
+T*
+(* Four-Stage Compilation Pipeline:) Tj
+T*
+(1. Preprocessing \(cpp\): Strips comments, expands preprocessor directives \(#include,) Tj
+T*
+(#define\), executes conditional compilation \(#ifdef\). Generates expanded source file) Tj
+T*
+(\(.i\).) Tj
+T*
+(2. Compilation \(c1\): Translates preprocessed source code into target architecture) Tj
+T*
+(Assembly code \(.s\), performing lexical analysis, syntax analysis \(AST\), semantic checks,) Tj
+T*
+(and code optimization.) Tj
+T*
+(3. Assembly \(as\): Converts assembly instructions into machine code object files) Tj
+T*
+(containing relocatable binary \(.o or .obj\).) Tj
+T*
+(4. Linking \(ld\): Resolves cross-file symbol references and links external library) Tj
+T*
+(functions \(e.g., libc.a, libm.a\) to produce the final executable binary \(.exe or a.out\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 1.2 C Tokens, Literals and Primitive Data Types) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* C Tokens: Smallest individual units in a program: Keywords \(32 standard ANSI) Tj
+T*
+(keywords\), Identifiers \(user-defined names starting with letter or underscore\),) Tj
+T*
+(Constants, String Literals, and Special Symbols.) Tj
+T*
+(* Primitive Data Types and Typical Memory Footprints:) Tj
+T*
+(- char: 1 byte \(8 bits, range -128 to +127 or 0 to 255 for unsigned char\). Format) Tj
+T*
+(specifier: %c.) Tj
+T*
+(- short int: 2 bytes \(16 bits, range -32,768 to +32,767\). Format specifier: %hd.) Tj
+T*
+(- int: 4 bytes \(32 bits, range -2,147,483,648 to +2,147,483,647\). Format) Tj
+T*
+(specifier: %d.) Tj
+T*
+(- float: 4 bytes \(IEEE-754 single precision, 6-7 decimal digits precision\). Format) Tj
+T*
+(specifier: %f.) Tj
+T*
+(- double: 8 bytes \(IEEE-754 double precision, 15-17 decimal digits precision\).) Tj
+T*
+(Format specifier: %lf.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 1.3 Operators, Precedence and Type Conversions) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Arithmetic Operators: Addition \(+\), Subtraction \(-\), Multiplication \(*\), Division) Tj
+T*
+(\(/, truncates integer quotients\), Modulo \(%, remainder of integer division only\).) Tj
+T*
+(* Relational and Logical Operators: <, <=, >, >=, ==, !=. Logical AND \(&&\), OR \(||\),) Tj
+T*
+(NOT \(!\). Exhibit short-circuit evaluation: in \(A && B\), if A is false, B is never) Tj
+T*
+(evaluated.) Tj
+T*
+(* Bitwise Operators: Bitwise AND \(&\), OR \(|\), XOR \(^\), NOT \(~\), Left Shift \(<<,) Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 3058 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Computer Programming in C | Unit 1: Programming Concepts, Tokens & Operators) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 2 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(multiplies by 2^n\), Right Shift \(>>, divides by 2^n\).) Tj
+T*
+(* Ternary Conditional Operator: \(condition\) ? expression_if_true :) Tj
+T*
+(expression_if_false.) Tj
+T*
+(* Precedence and Associativity: Parentheses \(\) have highest precedence. Unary) Tj
+T*
+(operators \(!, ++, --, sizeof\) associate Right-to-Left. Multiplicative \(*, /, %\)) Tj
+T*
+(associate Left-to-Right. Assignment \(=, +=, -=\) associates Right-to-Left.) Tj
+T*
+(* Type Casting: Implicit \(Automatic type promotion following hierarchy: char -> int) Tj
+T*
+(-> float -> double\) vs. Explicit \(programmer-directed coercion: \(type\)expression\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 1: Complete Temperature Conversion and Precision Formatting]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: Write an ANSI C program to convert temperature from Fahrenheit to Celsius using) Tj
+T*
+(formula C = \(5.0/9.0\) * \(F - 32\). Demonstrate integer vs. floating-point division) Tj
+T*
+(pitfalls and format specifiers.) Tj
+T*
+(Source Code:) Tj
+T*
+(#include <stdio.h>) Tj
+T*
+(int main\(\) {) Tj
+T*
+(double fahrenheit, celsius;) Tj
+T*
+(printf\("Enter temperature in Fahrenheit: "\);) Tj
+T*
+(if \(scanf\("%lf", &fahrenheit\) != 1\) {) Tj
+T*
+(printf\("Invalid numeric input!\\n"\);) Tj
+T*
+(return 1;) Tj
+T*
+(}) Tj
+T*
+(/* Note: Writing 5/9 causes integer division truncation to 0. Must use 5.0/9.0 */) Tj
+T*
+(celsius = \(5.0 / 9.0\) * \(fahrenheit - 32.0\);) Tj
+T*
+(printf\("---------------------------------------------------\\n"\);) Tj
+T*
+(printf\("Fahrenheit: %10.2f deg F\\n", fahrenheit\);) Tj
+T*
+(printf\("Celsius: %10.2f deg C\\n", celsius\);) Tj
+T*
+(printf\("Kelvin: %10.2f K\\n", celsius + 273.15\);) Tj
+T*
+(printf\("---------------------------------------------------\\n"\);) Tj
+T*
+(return 0;) Tj
+T*
+(}) Tj
+T*
+(Program Trace for Input 98.6 deg F \(Human Body Temperature\):) Tj
+T*
+(Step 1: fahrenheit = 98.6.) Tj
+T*
+(Step 2: fahrenheit - 32.0 = 66.6.) Tj
+T*
+(Step 3: \(5.0 / 9.0\) = 0.5555556.) Tj
+T*
+(Step 4: celsius = 0.5555556 * 66.6 = 37.00 deg C.) Tj
+T*
+(Output: Celsius = 37.00 deg C | Kelvin = 310.15 K.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 2: Bitwise Manipulation and Endianness Detection]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: Write a program to: \(1\) Check if processor architecture is Little-Endian or) Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 2563 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Computer Programming in C | Unit 1: Programming Concepts, Tokens & Operators) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 3 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(Big-Endian using pointers and bitwise access, \(2\) Count total set bits \(1s\) in a 32-bit) Tj
+T*
+(integer using Brian Kernighan's algorithm.) Tj
+T*
+(Source Code:) Tj
+T*
+(#include <stdio.h>) Tj
+T*
+(int countSetBits\(unsigned int n\) {) Tj
+T*
+(int count = 0;) Tj
+T*
+(while \(n > 0\) {) Tj
+T*
+(n = n & \(n - 1\); /* Clears lowest set bit in O\(k\) iterations */) Tj
+T*
+(count++;) Tj
+T*
+(}) Tj
+T*
+(return count;) Tj
+T*
+(}) Tj
+T*
+(int main\(\) {) Tj
+T*
+(unsigned int x = 1;) Tj
+T*
+(char *c = \(char*\)&x;) Tj
+T*
+(if \(*c == 1\)) Tj
+T*
+(printf\("Architecture: Little-Endian \(LSB stored first\)\\n"\);) Tj
+T*
+(else) Tj
+T*
+(printf\("Architecture: Big-Endian \(MSB stored first\)\\n"\);) Tj
+T*
+(unsigned int val = 29;) Tj
+T*
+(printf\("Integer: %u | Set Bits Count: %d\\n", val, countSetBits\(val\)\);) Tj
+T*
+(return 0;) Tj
+T*
+(}) Tj
+T*
+(Algorithm Trace for val = 29 \(Binary 11101\):) Tj
+T*
+(Iteration 1: n = 29 \(11101\) & 28 \(11100\) = 28. count = 1.) Tj
+T*
+(Iteration 2: n = 28 \(11100\) & 27 \(11011\) = 24. count = 2.) Tj
+T*
+(Iteration 3: n = 24 \(11000\) & 23 \(10111\) = 16. count = 3.) Tj
+T*
+(Iteration 4: n = 16 \(10000\) & 15 \(01111\) = 0. count = 4. Terminate.) Tj
+T*
+(Output: Architecture: Little-Endian | Set Bits Count: 4.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 3: Operator Precedence and Short-Circuit Evaluation Demonstration]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: Write a program to verify short-circuit evaluation of logical operators && and) Tj
+T*
+(|| in C expressions containing embedded side-effect increments.) Tj
+T*
+(Source Code:) Tj
+T*
+(#include <stdio.h>) Tj
+T*
+(int main\(\) {) Tj
+T*
+(int a = 0, b = 5, c = 10;) Tj
+T*
+(int res1 = \(a && \(++b\)\);) Tj
+T*
+(printf\("res1: %d | a: %d | b: %d \(b was NOT incremented\)\\n", res1, a, b\);) Tj
+T*
+(int res2 = \(b || \(++c\)\);) Tj
+T*
+(printf\("res2: %d | b: %d | c: %d \(c was NOT incremented\)\\n", res2, b, c\);) Tj
+T*
+(int res3 = \(a || \(++b\)\);) Tj
+T*
+(printf\("res3: %d | a: %d | b: %d \(b WAS incremented to 6\)\\n", res3, a, b\);) Tj
+T*
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 2402 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Computer Programming in C | Unit 1: Programming Concepts, Tokens & Operators) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 4 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(return 0;) Tj
+T*
+(}) Tj
+T*
+(Dry-Run Output:) Tj
+T*
+(res1: 0 | a: 0 | b: 5 \(b was NOT incremented\)) Tj
+T*
+(res2: 1 | b: 5 | c: 10 \(c was NOT incremented\)) Tj
+T*
+(res3: 1 | a: 0 | b: 6 \(b WAS incremented to 6\)) Tj
+T*
+(Conclusion: Logical expressions must never embed required variable modifications because) Tj
+T*
+(short-circuit optimization bypasses right-hand operands.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 4: Quadratic Equation Root Solver with Discriminant Analysis]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: Write a robust C program to compute real and complex roots of a quadratic) Tj
+T*
+(equation ax^2 + bx + c = 0.) Tj
+T*
+(Source Code:) Tj
+T*
+(#include <stdio.h>) Tj
+T*
+(#include <math.h>) Tj
+T*
+(int main\(\) {) Tj
+T*
+(double a, b, c, disc, root1, root2, realPart, imagPart;) Tj
+T*
+(printf\("Enter coefficients a, b, c: "\);) Tj
+T*
+(scanf\("%lf %lf %lf", &a, &b, &c\);) Tj
+T*
+(if \(a == 0.0\) {) Tj
+T*
+(printf\("Coefficient 'a' cannot be zero in a quadratic equation.\\n"\);) Tj
+T*
+(return 1;) Tj
+T*
+(}) Tj
+T*
+(disc = b * b - 4.0 * a * c;) Tj
+T*
+(if \(disc > 0.0\) {) Tj
+T*
+(root1 = \(-b + sqrt\(disc\)\) / \(2.0 * a\);) Tj
+T*
+(root2 = \(-b - sqrt\(disc\)\) / \(2.0 * a\);) Tj
+T*
+(printf\("Roots are real and distinct: Root1 = %.4f, Root2 = %.4f\\n", root1, root2\);) Tj
+T*
+(} else if \(disc == 0.0\) {) Tj
+T*
+(root1 = -b / \(2.0 * a\);) Tj
+T*
+(printf\("Roots are real and equal: Root1 = Root2 = %.4f\\n", root1\);) Tj
+T*
+(} else {) Tj
+T*
+(realPart = -b / \(2.0 * a\);) Tj
+T*
+(imagPart = sqrt\(-disc\) / \(2.0 * a\);) Tj
+T*
+(printf\("Roots are complex conjugates:\\n"\);) Tj
+T*
+(printf\("Root1 = %.4f + %.4fi\\n", realPart, imagPart\);) Tj
+T*
+(printf\("Root2 = %.4f - %.4fi\\n", realPart, imagPart\);) Tj
+T*
+(}) Tj
+T*
+(return 0;) Tj
+T*
+(}) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 1.4 University Review & Examination Questions) Tj
+T*
+/F1 9 Tf
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 2830 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Computer Programming in C | Unit 1: Programming Concepts, Tokens & Operators) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 5 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+() Tj
+T*
+(* Q1: Explain the four stages of the C compilation system in detail, naming the) Tj
+T*
+(intermediate files produced.) Tj
+T*
+(Answer: The compilation system transforms source code \(prog.c\) into machine executable) Tj
+T*
+(through four stages: \(1\) Preprocessing \(cpp\): Executes all directives beginning with) Tj
+T*
+('#'. Replaces #include header lines with literal text of header files, replaces #define) Tj
+T*
+(macros with replacement strings, and strips comments. Produces expanded preprocessed) Tj
+T*
+(source file \(prog.i\). \(2\) Compilation \(c1\): Analyzes syntax, builds abstract syntax) Tj
+T*
+(trees, and optimizes code, translating high-level C code into target-specific assembly) Tj
+T*
+(code \(prog.s\). \(3\) Assembly \(as\): Translates assembly mnemonics into machine code) Tj
+T*
+(instructions, packaging them into relocatable object format \(prog.o\). \(4\) Linking \(ld\):) Tj
+T*
+(Resolves external references, connects runtime startup code, and links standard C) Tj
+T*
+(library functions \(e.g., printf in libc\), generating final executable binary \(prog.exe) Tj
+T*
+(or a.out\).) Tj
+T*
+(* Q2: Differentiate between implicit type conversion \(type promotion\) and explicit) Tj
+T*
+(type casting in C with examples.) Tj
+T*
+(Answer: Implicit conversion is performed automatically by the compiler when operands of) Tj
+T*
+(mixed types appear in an expression. The smaller type is promoted following standard) Tj
+T*
+(conversion hierarchy: char/short -> int -> unsigned int -> long -> float -> double ->) Tj
+T*
+(long double. Example: in 'int i = 5; float f = 2.5; float res = i + f;', i is promoted) Tj
+T*
+(to float \(5.0f\). Explicit casting is performed intentionally by the programmer using) Tj
+T*
+('\(target_type\)expression'. Example: 'int a = 5, b = 2; double d = \(double\)a / b;') Tj
+T*
+(explicitly casts 'a' to double \(5.0\), forcing floating-point division to yield 2.5) Tj
+T*
+(instead of integer truncation 2.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 1.5 Key Takeaways and Revision Points) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* C compilation consists of Preprocessor -> Compiler -> Assembler -> Linker.) Tj
+T*
+(* Integer division in C truncates remainders; floating-point literals require decimal) Tj
+T*
+(notation \(e.g., 5.0 / 9.0\).) Tj
+T*
+(* Logical AND \(&&\) and OR \(||\) exhibit short-circuit evaluation, skipping right-hand) Tj
+T*
+(operands when outcome is determined.) Tj
+T*
+(* Bitwise manipulation operates directly on binary representation \(&, |, ^, ~, <<,) Tj
+T*
+(>>\).) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000171 00000 n 
+0000000241 00000 n 
+0000000316 00000 n 
+0000000428 00000 n 
+0000003524 00000 n 
+0000003636 00000 n 
+0000006746 00000 n 
+0000006859 00000 n 
+0000009475 00000 n 
+0000009589 00000 n 
+0000012044 00000 n 
+0000012158 00000 n 
+trailer
+<< /Size 15 /Root 1 0 R >>
+startxref
+15041
+%%EOF

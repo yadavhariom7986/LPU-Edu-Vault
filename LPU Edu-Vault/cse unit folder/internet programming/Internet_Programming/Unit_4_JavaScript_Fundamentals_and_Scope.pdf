@@ -1,0 +1,696 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 6 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2811 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Internet Programming | Unit 4: JavaScript Core & Execution Context) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 1 of 6) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(=== UNIT 4: JAVASCRIPT LANGUAGE CORE, SCOPE & FUNCTIONS ===) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.1 Evolution, Role and Runtime Environment of JavaScript) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(JavaScript \(ECMAScript / ES\) is the dynamic, high-level, interpreted scripting language) Tj
+T*
+(that brings interactivity, programmatic logic, and asynchronous data transfer to web) Tj
+T*
+(browsers.) Tj
+T*
+(* The Trinity of Front-End Web Development: HTML \(Structure and Semantics\), CSS) Tj
+T*
+(\(Presentation and Visual Style\), JavaScript \(Dynamic Behavior and User Interaction\).) Tj
+T*
+(* JavaScript Engines and JIT Compilation: Modern browsers execute JS via) Tj
+T*
+(high-performance engines \(Google V8 in Chrome/Node.js, SpiderMonkey in Firefox,) Tj
+T*
+(JavaScriptCore in Safari\). These engines utilize Just-In-Time \(JIT\) compilation:) Tj
+T*
+(source code is compiled into optimized machine bytecode at runtime rather than) Tj
+T*
+(interpreted line-by-line.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.2 Variables, Hoisting and Data Types) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Variable Declarations: var, let, and const:) Tj
+T*
+(- var: Function-scoped, hoisted with default value undefined, permits re-declaration.) Tj
+T*
+(Causes subtle bugs; legacy only.) Tj
+T*
+(- let \(ES6\): Block-scoped \({}\), hoisted into Temporal Dead Zone \(TDZ\) where accessing) Tj
+T*
+(before declaration throws ReferenceError, re-assignable.) Tj
+T*
+(- const \(ES6\): Block-scoped, TDZ-restricted, immutable reference binding \(must be) Tj
+T*
+(initialized upon declaration; primitives cannot change, but object properties can) Tj
+T*
+(mutate\).) Tj
+T*
+(* Data Types: Primitives \(Number, BigInt, String, Boolean, Undefined, Null, Symbol\)) Tj
+T*
+(stored by value on the Call Stack; Objects \(Object, Array, Function, Date, RegExp\)) Tj
+T*
+(stored by reference on the Memory Heap.) Tj
+T*
+(* Type Coercion: Loose equality \(==\) coerces types before checking \(e.g. 5 == '5' is) Tj
+T*
+(true\); Strict equality \(===\) checks value AND type without coercion \(5 === '5' is) Tj
+T*
+(false\). Always use ===.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.3 Functions, Arrow Syntax and Closures) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Function Declaration: Hoisted completely: function add\(a, b\) { return a + b; }.) Tj
+T*
+(* Function Expression: Not hoisted: const add = function\(a, b\) { return a + b; };.) Tj
+T*
+(* Arrow Functions \(ES6\): Lexically bind this keyword; concise syntax: const add = \(a,) Tj
+T*
+(b\) => a + b;.) Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 2838 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Internet Programming | Unit 4: JavaScript Core & Execution Context) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 2 of 6) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(* Closures: A closure is the combination of a function bundled together with) Tj
+T*
+(references to its surrounding lexical state \(Lexical Scope\). A closure gives an inner) Tj
+T*
+(function access to an outer function's scope even after the outer function has) Tj
+T*
+(finished executing and returned. Fundamental for data encapsulation and private) Tj
+T*
+(variables.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.4 Array Higher-Order Methods \(ES6+\)) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Modern JavaScript favors functional declarative array manipulation over manual for) Tj
+T*
+(loops:) Tj
+T*
+(* .map\(callback\): Transforms each element, returning a new array of identical length.) Tj
+T*
+(* .filter\(callback\): Returns a new array containing only elements satisfying the test) Tj
+T*
+(condition.) Tj
+T*
+(* .reduce\(callback, initialValue\): Combines array elements into a single accumulated) Tj
+T*
+(result.) Tj
+T*
+(* .find\(\), .findIndex\(\), .some\(\), .every\(\), .includes\(\), .sort\(\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 1: Data Type Validation and Strict Equality Engine]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Build a JavaScript module illustrating implicit type coercion versus) Tj
+T*
+(strict equality, checking primitives vs objects, and handling null vs undefined.) Tj
+T*
+(JavaScript Source Code:) Tj
+T*
+(// Demonstrating JavaScript Type Coercion & Strict Equality) Tj
+T*
+(function demonstrateTypes\(\) {) Tj
+T*
+(console.log\('--- Type Coercion Analysis ---'\);) Tj
+T*
+(console.log\('5' + 2\);        // '52' \(Number coerced to string\)) Tj
+T*
+(console.log\('5' - 2\);        // 3    \(String coerced to number\)) Tj
+T*
+(console.log\('5' * '2'\);      // 10   \(Both coerced to numbers\)) Tj
+T*
+(console.log\([] == false\);    // true \(Complex coercion\)) Tj
+T*
+(console.log\([] === false\);   // false \(Different types: Object vs Boolean\)) Tj
+T*
+() Tj
+T*
+(console.log\('--- Null vs Undefined ---'\);) Tj
+T*
+(let unassignedVar;) Tj
+T*
+(let emptyVar = null;) Tj
+T*
+(console.log\('unassignedVar: '${unassignedVar} \('${typeof unassignedVar}\)'\);) Tj
+T*
+(console.log\('emptyVar:      '${emptyVar} \('${typeof emptyVar}\)'\);) Tj
+T*
+(console.log\('null == undefined:  '${null == undefined}'\);   // true) Tj
+T*
+(console.log\('null === undefined: '${null === undefined}'\);  // false) Tj
+T*
+(}) Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 2442 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Internet Programming | Unit 4: JavaScript Core & Execution Context) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 3 of 6) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(demonstrateTypes\(\);) Tj
+T*
+(Key Learnings: typeof null returns 'object' \(famous legacy JS bug\); == treats null and) Tj
+T*
+(undefined as loosely equal; === separates them strictly.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 2: Factory Function with Private State via Closures]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Implement a secure bank account creator using JavaScript closures to) Tj
+T*
+(maintain private encapsulated state without exposing variables to the global window) Tj
+T*
+(scope.) Tj
+T*
+(JavaScript Source Code:) Tj
+T*
+(// Closure-based Private State Encapsulation) Tj
+T*
+(function createSecureAccount\(accountHolder, initialDeposit\) {) Tj
+T*
+(// Private variables inaccessible from external scope) Tj
+T*
+(let balance = initialDeposit;) Tj
+T*
+(let transactionHistory = [];) Tj
+T*
+() Tj
+T*
+(return {) Tj
+T*
+(getHolder: \(\) => accountHolder) Tj
+T*
+(getBalance: \(\) => balance) Tj
+T*
+(deposit: function\(amount\) {) Tj
+T*
+(if \(amount <= 0\) return 'Invalid deposit amount';) Tj
+T*
+(balance += amount;) Tj
+T*
+(transactionHistory.push\({ type: 'DEPOSIT', amount, date: new Date\(\) }\);) Tj
+T*
+(return 'Deposited INR '${amount}. New Balance: INR '${balance}';) Tj
+T*
+(}) Tj
+T*
+(withdraw: function\(amount\) {) Tj
+T*
+(if \(amount > balance\) return 'Insufficient funds';) Tj
+T*
+(balance -= amount;) Tj
+T*
+(transactionHistory.push\({ type: 'WITHDRAWAL', amount, date: new Date\(\) }\);) Tj
+T*
+(return 'Withdrew INR '${amount}. Remaining: INR '${balance}';) Tj
+T*
+(}) Tj
+T*
+(};) Tj
+T*
+(}) Tj
+T*
+() Tj
+T*
+(const acc = createSecureAccount\('Aarav', 10000\);) Tj
+T*
+(console.log\(acc.deposit\(5000\)\);) Tj
+T*
+(console.log\(acc.withdraw\(2000\)\);) Tj
+T*
+(console.log\('Audited Balance: INR '${acc.getBalance\(\)}'\);) Tj
+T*
+(console.log\(acc.balance\); // Output: undefined! Balance is completely private!) Tj
+T*
+(Execution Trace: Balance is modified only through closure methods; direct access) Tj
+T*
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 2588 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Internet Programming | Unit 4: JavaScript Core & Execution Context) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 4 of 6) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(acc.balance yields undefined.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 3: Functional Array Processing Pipeline \(Map, Filter, Reduce\)]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Given an array of student objects with course grades, filter students) Tj
+T*
+(who passed, compute weighted grade point averages \(GPA\), and calculate class average) Tj
+T*
+(using map, filter, and reduce.) Tj
+T*
+(JavaScript Source Code:) Tj
+T*
+(const students = [) Tj
+T*
+({ id: 1, name: 'Aarav', marks: 88, credits: 4 }) Tj
+T*
+({ id: 2, name: 'Diya',  marks: 42, credits: 4 }) Tj
+T*
+({ id: 3, name: 'Rohan', marks: 94, credits: 3 }) Tj
+T*
+({ id: 4, name: 'Kavita',marks: 76, credits: 3 }) Tj
+T*
+(];) Tj
+T*
+() Tj
+T*
+(// 1. Filter: Passing students \(marks >= 50\)) Tj
+T*
+(const passingStudents = students.filter\(s => s.marks >= 50\);) Tj
+T*
+() Tj
+T*
+(// 2. Map: Convert marks into 10-point GPA scale) Tj
+T*
+(const gpaCohort = passingStudents.map\(s => \({) Tj
+T*
+(...s) Tj
+T*
+(gpa: Number\(\(s.marks / 10\).toFixed\(1\)\)) Tj
+T*
+(}\)\);) Tj
+T*
+() Tj
+T*
+(// 3. Reduce: Compute overall cohort average GPA) Tj
+T*
+(const totalGPA = gpaCohort.reduce\(\(acc, curr\) => acc + curr.gpa, 0\);) Tj
+T*
+(const averageGPA = \(totalGPA / gpaCohort.length\).toFixed\(2\);) Tj
+T*
+() Tj
+T*
+(console.log\('Passing Students GPA:', gpaCohort\);) Tj
+T*
+(console.log\('Class Average GPA: '${averageGPA} / 10.0'\);) Tj
+T*
+(Execution Trace: Diya \(42\) filtered out. Passing cohort: Aarav \(8.8\), Rohan \(9.4\),) Tj
+T*
+(Kavita \(7.6\). Average GPA = 8.60.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 4: Object Destructuring, Rest & Spread Operators]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Implement user profile normalization illustrating ES6 object and array) Tj
+T*
+(destructuring, default parameters, rest parameters, and spread cloning.) Tj
+T*
+(JavaScript Source Code:) Tj
+T*
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 3233 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Internet Programming | Unit 4: JavaScript Core & Execution Context) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 5 of 6) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(// Modern ES6 Destructuring & Spread Syntax) Tj
+T*
+(const defaultPreferences = { theme: 'dark', notifications: true, language: 'en' };) Tj
+T*
+(const userRecord = { name: 'Aarav', email: 'aarav@lpu.in', theme: 'light' };) Tj
+T*
+() Tj
+T*
+(// Merge objects with spread operator \(userRecord overrides defaults\)) Tj
+T*
+(const userSettings = { ...defaultPreferences, ...userRecord };) Tj
+T*
+() Tj
+T*
+(// Object Destructuring with Aliasing and Defaults) Tj
+T*
+(const { name: userName, email, language = 'hi' } = userSettings;) Tj
+T*
+(console.log\('User: '${userName} | Email: '${email} | Language: '${language}'\);) Tj
+T*
+() Tj
+T*
+(// Array Destructuring with Rest Parameters) Tj
+T*
+(const scores = [95, 88, 82, 74, 65];) Tj
+T*
+(const [topScore, secondScore, ...remainingScores] = scores;) Tj
+T*
+(console.log\('Top Score: '${topScore}, Runner Up: '${secondScore}'\);) Tj
+T*
+(console.log\('Other Scores: '${remainingScores}'\);) Tj
+T*
+(Output: Merges preferences smoothly; extracts topScore=95, secondScore=88,) Tj
+T*
+(remainingScores=[82, 74, 65].) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.5 University Review & Examination Questions) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Q1: Contrast 'var', 'let', and 'const' with respect to scope, variable hoisting,) Tj
+T*
+(and the Temporal Dead Zone \(TDZ\).) Tj
+T*
+(Answer: 'var' is function-scoped; when declared inside an if-block or loop, it leaks) Tj
+T*
+(into the enclosing function. 'var' declarations are hoisted to the top of their scope) Tj
+T*
+(and initialized to 'undefined', allowing access before declaration without error. 'let') Tj
+T*
+(and 'const' \(introduced in ES6\) are block-scoped, existing strictly within their) Tj
+T*
+(enclosing curly braces {}. While 'let' and 'const' are also hoisted by the JS engine) Tj
+T*
+(during creation phase, they are NOT initialized. The time between entering the block) Tj
+T*
+(scope and encountering the actual declaration statement is the Temporal Dead Zone \(TDZ\).) Tj
+T*
+(Accessing a 'let' or 'const' variable in the TDZ throws a fatal ReferenceError. 'const') Tj
+T*
+(further mandates immediate initialization and forbids re-assignment.) Tj
+T*
+(* Q2: Explain the concept of Closures in JavaScript and demonstrate how closures can) Tj
+T*
+(be used to emulate private object properties.) Tj
+T*
+(Answer: A closure is the persistent lexical scope bundle formed when an inner function) Tj
+T*
+(retains access to variables declared in its outer enclosing function, even after that) Tj
+T*
+(outer function has returned and exited the call stack. Because JavaScript historically) Tj
+T*
+(lacked native 'private' class keywords, closures provide the canonical mechanism for) Tj
+T*
+(data encapsulation. In a factory function, local variables defined inside the outer) Tj
+T*
+(function cannot be accessed or modified directly by external code; they can only be read) Tj
+T*
+(or manipulated via inner methods exposed in the returned public object, creating true) Tj
+T*
+ET
+
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 16 0 R >>
+endobj
+16 0 obj
+<< /Length 780 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Internet Programming | Unit 4: JavaScript Core & Execution Context) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 6 of 6) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(private variables.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.6 Key Takeaways and Revision Points) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Use const by default, let when re-assignment is required; never use legacy var.) Tj
+T*
+(* === enforces strict equality without implicit type coercion.) Tj
+T*
+(* Closures retain access to their outer lexical environment after execution) Tj
+T*
+(completes.) Tj
+T*
+(* Arrow functions \(\(\) => {}\) bind this lexically from their enclosing scope.) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000178 00000 n 
+0000000248 00000 n 
+0000000323 00000 n 
+0000000435 00000 n 
+0000003298 00000 n 
+0000003410 00000 n 
+0000006300 00000 n 
+0000006413 00000 n 
+0000008908 00000 n 
+0000009022 00000 n 
+0000011663 00000 n 
+0000011777 00000 n 
+0000015063 00000 n 
+0000015177 00000 n 
+trailer
+<< /Size 17 /Root 1 0 R >>
+startxref
+16009
+%%EOF

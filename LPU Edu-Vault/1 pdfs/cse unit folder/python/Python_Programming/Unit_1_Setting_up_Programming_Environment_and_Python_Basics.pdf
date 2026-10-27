@@ -1,0 +1,11726 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R 35 0 R 37 0 R 39 0 R 41 0 R 43 0 R 45 0 R 47 0 R 49 0 R 51 0 R 53 0 R 55 0 R 57 0 R 59 0 R 61 0 R 63 0 R 65 0 R 67 0 R 69 0 R 71 0 R 73 0 R 75 0 R 77 0 R 79 0 R 81 0 R] /Count 40 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 4 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 8948 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 1: SETTING UP PROGRAMMING ENVIRONMENT AND PYTHON BASICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 1 of 40) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(1.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Who is the original creator and designer of the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(Python programming language?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(Dennis Ritchie) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(Guido van Rossum) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(Bjarne Stroustrup) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(James Gosling) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(2.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(Python was officially released to the public in) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(which year?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(1985) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(1991) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(1995) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(2000) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(3.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(Which programming paradigm does Python) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(inherently support?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.5001 Td
+(Object-Oriented Programming only) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.9001 Td
+(Functional Programming only) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.3002 Td
+(Imperative and Procedural only) Tj
+ET
+BT
+/F2 7.4 Tf
+58 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 587.7002 Td
+(Multi-paradigm \(OOP, Imperative, Functional\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 564.1002 Td
+(4.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(How is Python source code \(.py\) executed by the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(standard CPython runtime?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 543.2002 Td
+(Directly compiled to native machine code) Tj
+ET
+BT
+/F1 7.4 Tf
+72 534.6002 Td
+(binaries) Tj
+ET
+BT
+/F2 7.4 Tf
+58 525.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 525.0002 Td
+(Compiled to intermediate bytecode \(.pyc\) and) Tj
+ET
+BT
+/F1 7.4 Tf
+72 516.4003 Td
+(interpreted by PVM) Tj
+ET
+BT
+/F2 7.4 Tf
+58 506.8003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 506.8003 Td
+(Translated to pure assembly language) Tj
+ET
+BT
+/F1 7.4 Tf
+72 498.2003 Td
+(beforehand) Tj
+ET
+BT
+/F2 7.4 Tf
+58 488.6003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 488.6003 Td
+(Executed directly by hardware CPU microcode) Tj
+ET
+BT
+/F2 8.0 Tf
+42 465.0002 Td
+(5.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 465.0002 Td
+(Which environment variable in Windows is crucial) Tj
+ET
+BT
+/F1 7.8 Tf
+58 455.8002 Td
+(for executing 'python' from any command prompt?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 444.1002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 444.1002 Td
+(PYTHONPATH) Tj
+ET
+BT
+/F2 7.4 Tf
+58 434.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 434.5002 Td
+(PATH) Tj
+ET
+BT
+/F2 7.4 Tf
+58 424.9002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 424.9002 Td
+(SYS_PATH) Tj
+ET
+BT
+/F2 7.4 Tf
+58 415.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 415.3002 Td
+(WINDIR) Tj
+ET
+BT
+/F2 8.0 Tf
+42 391.7002 Td
+(6.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 391.7002 Td
+(Which tool is the standard package manager) Tj
+ET
+BT
+/F1 7.8 Tf
+58 382.5002 Td
+(included with Python installations to install) Tj
+ET
+BT
+/F1 7.8 Tf
+58 373.3002 Td
+(third-party packages?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 361.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 361.6002 Td
+(pip) Tj
+ET
+BT
+/F2 7.4 Tf
+58 352.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 352.0002 Td
+(npm) Tj
+ET
+BT
+/F2 7.4 Tf
+58 342.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 342.4001 Td
+(gem) Tj
+ET
+BT
+/F2 7.4 Tf
+58 332.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 332.8001 Td
+(cargo) Tj
+ET
+BT
+/F2 8.0 Tf
+42 309.2001 Td
+(7.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 309.2001 Td
+(What is the primary role of the Python Virtual) Tj
+ET
+BT
+/F1 7.8 Tf
+58 300.0001 Td
+(Machine \(PVM\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 288.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 288.3001 Td
+(To edit Python script files with syntax) Tj
+ET
+BT
+/F1 7.4 Tf
+72 279.7001 Td
+(highlighting) Tj
+ET
+BT
+/F2 7.4 Tf
+58 270.1001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 270.1001 Td
+(To interpret intermediate bytecode) Tj
+ET
+BT
+/F1 7.4 Tf
+72 261.5001 Td
+(instructions into machine actions) Tj
+ET
+BT
+/F2 7.4 Tf
+58 251.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 251.9001 Td
+(To link C++ object libraries into machine) Tj
+ET
+BT
+/F1 7.4 Tf
+72 243.3001 Td
+(code) Tj
+ET
+BT
+/F2 7.4 Tf
+58 233.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 233.7001 Td
+(To convert Python into JavaScript for web) Tj
+ET
+BT
+/F1 7.4 Tf
+72 225.1001 Td
+(browsers) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(8.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Which command is used to launch an interactive) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(Python REPL shell on Windows?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(run python) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(python) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(pyexec) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(compile) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(9.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(What is the output of running print\('Hello,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(World!'\) in Python 3?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(Hello, World!) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(\('Hello, World!'\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(None) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(SyntaxError) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(10.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(In Python 3, why does print 'Hello' \(without) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(parentheses\) raise an error?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.5001 Td
+(print is a deprecated operator) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.9001 Td
+(print is a built-in function requiring) Tj
+ET
+BT
+/F1 7.4 Tf
+336 598.3002 Td
+(parentheses) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.7002 Td
+(Quotes are illegal without parentheses) Tj
+ET
+BT
+/F2 7.4 Tf
+322 579.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 579.1002 Td
+(Single quotes are reserved for integers) Tj
+ET
+BT
+/F2 8.0 Tf
+306 555.5002 Td
+(11.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 555.5002 Td
+(Which of the following is a valid identifier) Tj
+ET
+BT
+/F1 7.8 Tf
+322 546.3002 Td
+(\(variable name\) in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 534.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 534.6002 Td
+(2nd_counter) Tj
+ET
+BT
+/F2 7.4 Tf
+322 525.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 525.0002 Td
+(_total_sum) Tj
+ET
+BT
+/F2 7.4 Tf
+322 515.4003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 515.4003 Td
+(total$sum) Tj
+ET
+BT
+/F2 7.4 Tf
+322 505.8003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 505.8003 Td
+(class) Tj
+ET
+BT
+/F2 8.0 Tf
+306 482.2003 Td
+(12.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 482.2003 Td
+(Why can the word 'while' NOT be used as an) Tj
+ET
+BT
+/F1 7.8 Tf
+322 473.0002 Td
+(ordinary variable name in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 461.3002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 461.3002 Td
+(It contains five lowercase letters) Tj
+ET
+BT
+/F2 7.4 Tf
+322 451.7002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 451.7002 Td
+(It is a reserved Python language keyword) Tj
+ET
+BT
+/F2 7.4 Tf
+322 442.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 442.1002 Td
+(It is an existing mathematical constant) Tj
+ET
+BT
+/F2 7.4 Tf
+322 432.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 432.5002 Td
+(It conflicts with Windows registry keys) Tj
+ET
+BT
+/F2 8.0 Tf
+306 408.9002 Td
+(13.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 408.9002 Td
+(Which built-in function returns the data type) Tj
+ET
+BT
+/F1 7.8 Tf
+322 399.7002 Td
+(classification of any Python object?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 388.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 388.0002 Td
+(typeof\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 378.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 378.4002 Td
+(kind\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 368.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 368.8002 Td
+(type\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 359.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 359.2002 Td
+(datatype\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 335.6002 Td
+(14.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 335.6002 Td
+(Which built-in function returns the unique) Tj
+ET
+BT
+/F1 7.8 Tf
+322 326.4001 Td
+(integer memory address identifier of an object?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 314.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 314.7001 Td
+(address\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 305.1001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 305.1001 Td
+(pointer\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 295.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 295.5001 Td
+(id\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 285.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 285.9001 Td
+(mem\(\)) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 6 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+6 0 obj
+<< /Length 7517 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 1: SETTING UP PROGRAMMING ENVIRONMENT AND PYTHON BASICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 2 of 40) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(15.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What type does the expression x = 42 have in) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(Python 3?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(int) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(float) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(long) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(Integer) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(16.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(What type does the expression y = 3.14159 have) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(double) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(float) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(real) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(decimal) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(17.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(What is the data type of the value True in) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.5001 Td
+(Boolean) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.9001 Td
+(bool) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.3002 Td
+(int1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 587.7002 Td
+(bit) Tj
+ET
+BT
+/F2 8.0 Tf
+42 564.1002 Td
+(18.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(Which built-in constant represents the absence) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(of a value or null state in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 543.2002 Td
+(null) Tj
+ET
+BT
+/F2 7.4 Tf
+58 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 533.6002 Td
+(nil) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.0002 Td
+(None) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.4003 Td
+(void) Tj
+ET
+BT
+/F2 8.0 Tf
+42 490.8003 Td
+(19.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 490.8003 Td
+(Which operator is used for calculating the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6003 Td
+(remainder of an integer division in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 469.9002 Td
+(/) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.3002 Td
+(//) Tj
+ET
+BT
+/F2 7.4 Tf
+58 450.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 450.7002 Td
+(%) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.1002 Td
+(^) Tj
+ET
+BT
+/F2 8.0 Tf
+42 417.5002 Td
+(20.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 417.5002 Td
+(What is the result of 7 // 2 in Python 3?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 405.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 405.8002 Td
+(3.5) Tj
+ET
+BT
+/F2 7.4 Tf
+58 396.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 396.2002 Td
+(3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 386.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 386.6002 Td
+(4) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.0002 Td
+(3.0) Tj
+ET
+BT
+/F2 8.0 Tf
+42 353.4002 Td
+(21.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 353.4002 Td
+(What is the result of 7 / 2 in Python 3?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 341.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 341.7002 Td
+(3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 332.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 332.1002 Td
+(3.5) Tj
+ET
+BT
+/F2 7.4 Tf
+58 322.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 322.5002 Td
+(3.0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 312.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 312.9001 Td
+(4) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(22.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Which operator performs exponentiation \(power) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(calculation\) in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(^) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(**) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(^^) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(pow_op) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(23.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(What is the character used to denote a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(single-line comment in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(//) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(/*) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(#) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(--) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(24.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(Which of the following creates a multiline) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(string or docstring in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.5001 Td
+(/* ... */) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.9001 Td
+(<!-- ... -->) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.3002 Td
+(""" ... """) Tj
+ET
+BT
+/F2 7.4 Tf
+322 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 587.7002 Td
+(~~ ... ~~) Tj
+ET
+BT
+/F2 8.0 Tf
+306 564.1002 Td
+(25.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.1002 Td
+(What is the result of the string concatenation) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+('Data' + 'Science'?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 543.2002 Td
+(Data Science) Tj
+ET
+BT
+/F2 7.4 Tf
+322 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 533.6002 Td
+(DataScience) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.0002 Td
+(Error: cannot add strings) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.4003 Td
+(['Data', 'Science']) Tj
+ET
+BT
+/F2 8.0 Tf
+306 490.8003 Td
+(26.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 490.8003 Td
+(What is the result of the string repetition) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6003 Td
+(operation 'Hi' * 3?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 469.9002 Td
+(HiHiHi) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.3002 Td
+(Hi 3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 450.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 450.7002 Td
+(Error: unsupported operand type) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.1002 Td
+(\('Hi', 'Hi', 'Hi'\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 417.5002 Td
+(27.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 417.5002 Td
+(Which built-in function measures the number of) Tj
+ET
+BT
+/F1 7.8 Tf
+322 408.3002 Td
+(characters in a string?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 396.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 396.6002 Td
+(count\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.0002 Td
+(size\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.4002 Td
+(length\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 367.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 367.8002 Td
+(len\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 344.2002 Td
+(28.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 344.2002 Td
+(What is the index of the first character in any) Tj
+ET
+BT
+/F1 7.8 Tf
+322 335.0002 Td
+(Python string s?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 323.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 323.3001 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 313.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 313.7001 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.1001 Td
+(-1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 294.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 294.5001 Td
+(None) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 8 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+8 0 obj
+<< /Length 7574 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 1: SETTING UP PROGRAMMING ENVIRONMENT AND PYTHON BASICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 3 of 40) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(29.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What does negative indexing s[-1] access in a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(non-empty string s?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(The first character) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(The last character) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(The second character) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(IndexOutOfBoundsError) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(30.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(What error is raised when attempting to access a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(variable name that has not been defined?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(TypeError) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(ValueError) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(NameError) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(AttributeError) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(31.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(Which of the following is an immutable data type) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.5001 Td
+(list) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.9001 Td
+(dict) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.3002 Td
+(set) Tj
+ET
+BT
+/F2 7.4 Tf
+58 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 587.7002 Td
+(str) Tj
+ET
+BT
+/F2 8.0 Tf
+42 564.1002 Td
+(32.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(Which module provides the list of all reserved) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(keywords in the current Python interpreter?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 543.2002 Td
+(sys) Tj
+ET
+BT
+/F2 7.4 Tf
+58 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 533.6002 Td
+(keyword) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.0002 Td
+(builtins) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.4003 Td
+(os) Tj
+ET
+BT
+/F2 8.0 Tf
+42 490.8003 Td
+(33.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 490.8003 Td
+(Which operator is used to test whether two) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6003 Td
+(variables point to the exact same object in) Tj
+ET
+BT
+/F1 7.8 Tf
+58 472.4002 Td
+(memory?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.7002 Td
+(==) Tj
+ET
+BT
+/F2 7.4 Tf
+58 451.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 451.1002 Td
+(is) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.5002 Td
+(equals) Tj
+ET
+BT
+/F2 7.4 Tf
+58 431.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 431.9002 Td
+(eq) Tj
+ET
+BT
+/F2 8.0 Tf
+42 408.3002 Td
+(34.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 408.3002 Td
+(Which operator tests if two variables have) Tj
+ET
+BT
+/F1 7.8 Tf
+58 399.1002 Td
+(equivalent content/values?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 387.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 387.4002 Td
+(==) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.8002 Td
+(is) Tj
+ET
+BT
+/F2 7.4 Tf
+58 368.2002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 368.2002 Td
+(equals) Tj
+ET
+BT
+/F2 7.4 Tf
+58 358.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 358.6002 Td
+(:=) Tj
+ET
+BT
+/F2 8.0 Tf
+42 335.0002 Td
+(35.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.0002 Td
+(What is the value of 2 + 3 * 4 in Python based) Tj
+ET
+BT
+/F1 7.8 Tf
+58 325.8001 Td
+(on operator precedence?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 314.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 314.1001 Td
+(20) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.5001 Td
+(14) Tj
+ET
+BT
+/F2 7.4 Tf
+58 294.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 294.9001 Td
+(24) Tj
+ET
+BT
+/F2 7.4 Tf
+58 285.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 285.3001 Td
+(10) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(36.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What is the result of bool\(0\) in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 772.3 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 772.3 Td
+(True) Tj
+ET
+BT
+/F2 7.4 Tf
+322 762.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 762.7 Td
+(False) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.1 Td
+(None) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.5001 Td
+(0) Tj
+ET
+BT
+/F2 8.0 Tf
+306 719.9001 Td
+(37.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 719.9001 Td
+(What is the result of bool\('False'\) in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 708.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 708.2001 Td
+(False) Tj
+ET
+BT
+/F2 7.4 Tf
+322 698.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 698.6001 Td
+(True) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.0001 Td
+(None) Tj
+ET
+BT
+/F2 7.4 Tf
+322 679.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 679.4001 Td
+(ValueError) Tj
+ET
+BT
+/F2 8.0 Tf
+306 655.8002 Td
+(38.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 655.8002 Td
+(Which symbol represents the bitwise XOR operator) Tj
+ET
+BT
+/F1 7.8 Tf
+322 646.6002 Td
+(in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 634.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 634.9001 Td
+(^) Tj
+ET
+BT
+/F2 7.4 Tf
+322 625.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 625.3002 Td
+(~) Tj
+ET
+BT
+/F2 7.4 Tf
+322 615.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 615.7002 Td
+(|) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.1002 Td
+(&) Tj
+ET
+BT
+/F2 8.0 Tf
+306 582.5002 Td
+(39.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 582.5002 Td
+(Which symbol represents the bitwise NOT operator) Tj
+ET
+BT
+/F1 7.8 Tf
+322 573.3002 Td
+(in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 561.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 561.6002 Td
+(!) Tj
+ET
+BT
+/F2 7.4 Tf
+322 552.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 552.0002 Td
+(~) Tj
+ET
+BT
+/F2 7.4 Tf
+322 542.4003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 542.4003 Td
+(^) Tj
+ET
+BT
+/F2 7.4 Tf
+322 532.8003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 532.8003 Td
+(-) Tj
+ET
+BT
+/F2 8.0 Tf
+306 509.2003 Td
+(40.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 509.2003 Td
+(Which file extension is standard for compiled) Tj
+ET
+BT
+/F1 7.8 Tf
+322 500.0003 Td
+(Python bytecode files?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 488.3003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 488.3003 Td
+(.py) Tj
+ET
+BT
+/F2 7.4 Tf
+322 478.7003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 478.7003 Td
+(.pyc) Tj
+ET
+BT
+/F2 7.4 Tf
+322 469.1003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 469.1003 Td
+(.obj) Tj
+ET
+BT
+/F2 7.4 Tf
+322 459.5003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 459.5003 Td
+(.class) Tj
+ET
+BT
+/F2 8.0 Tf
+306 435.9003 Td
+(41.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 435.9003 Td
+(What is the result of 2 ** 3 ** 2 in Python,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 426.7003 Td
+(considering exponentiation associativity?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 415.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 415.0002 Td
+(64) Tj
+ET
+BT
+/F2 7.4 Tf
+322 405.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 405.4002 Td
+(512) Tj
+ET
+BT
+/F2 7.4 Tf
+322 395.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 395.8002 Td
+(36) Tj
+ET
+BT
+/F2 7.4 Tf
+322 386.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 386.2002 Td
+(72) Tj
+ET
+BT
+/F2 8.0 Tf
+306 362.6002 Td
+(42.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 362.6002 Td
+(What is the evaluated result of -7 // 2 in) Tj
+ET
+BT
+/F1 7.8 Tf
+322 353.4002 Td
+(Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 341.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 341.7002 Td
+(-3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 332.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 332.1002 Td
+(-4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 322.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 322.5002 Td
+(-3.5) Tj
+ET
+BT
+/F2 7.4 Tf
+322 312.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 312.9002 Td
+(-4.0) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 10 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+10 0 obj
+<< /Length 7858 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 1: SETTING UP PROGRAMMING ENVIRONMENT AND PYTHON BASICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 4 of 40) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(43.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What is the output of 7 % -3 in Python) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(arithmetic?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(-2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(-1) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(44.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(What is the evaluated output of the expression) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(10 / 2 + 3 * 2?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(11.0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(16.0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(11) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(16) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(45.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(What is the output of print\(type\(1 / 1\)\) in) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(Python 3?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.5001 Td
+(<class 'int'>) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.9001 Td
+(<class 'float'>) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.3002 Td
+(<class 'number'>) Tj
+ET
+BT
+/F2 7.4 Tf
+58 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 587.7002 Td
+(<class 'rational'>) Tj
+ET
+BT
+/F2 8.0 Tf
+42 564.1002 Td
+(46.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(Consider a = [1, 2]; b = [1, 2]. What do \(a ==) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(b\) and \(a is b\) evaluate to?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 543.2002 Td
+(True, True) Tj
+ET
+BT
+/F2 7.4 Tf
+58 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 533.6002 Td
+(True, False) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.0002 Td
+(False, True) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.4003 Td
+(False, False) Tj
+ET
+BT
+/F2 8.0 Tf
+42 490.8003 Td
+(47.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 490.8003 Td
+(For small integers x = 256; y = 256, what does) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6003 Td
+(\(x is y\) evaluate to in standard CPython?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 469.9002 Td
+(True \(due to small integer interning -5 to) Tj
+ET
+BT
+/F1 7.4 Tf
+72 461.3002 Td
+(256\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 451.7002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 451.7002 Td
+(False \(different memory allocations\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 442.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 442.1002 Td
+(SyntaxError) Tj
+ET
+BT
+/F2 7.4 Tf
+58 432.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 432.5002 Td
+(None) Tj
+ET
+BT
+/F2 8.0 Tf
+42 408.9002 Td
+(48.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 408.9002 Td
+(What does the expression 3 < 5 < 10 evaluate to) Tj
+ET
+BT
+/F1 7.8 Tf
+58 399.7002 Td
+(in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 388.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 388.0002 Td
+(True \(chained comparison\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 378.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 378.4002 Td
+(False) Tj
+ET
+BT
+/F2 7.4 Tf
+58 368.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 368.8002 Td
+(TypeError) Tj
+ET
+BT
+/F2 7.4 Tf
+58 359.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 359.2002 Td
+(10) Tj
+ET
+BT
+/F2 8.0 Tf
+42 335.6002 Td
+(49.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.6002 Td
+(What is the output of print\('Python'[1:4]\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 323.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 323.9001 Td
+(Pyt) Tj
+ET
+BT
+/F2 7.4 Tf
+58 314.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 314.3001 Td
+(yth) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.7001 Td
+(ytho) Tj
+ET
+BT
+/F2 7.4 Tf
+58 295.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 295.1001 Td
+(Pyth) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(50.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What is the output of print\('Engineering'[::2]\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 772.3 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 772.3 Td
+(Egnein) Tj
+ET
+BT
+/F2 7.4 Tf
+322 762.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 762.7 Td
+(Egienig) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.1 Td
+(Engin) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.5001 Td
+(nein) Tj
+ET
+BT
+/F2 8.0 Tf
+306 719.9001 Td
+(51.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 719.9001 Td
+(What is the output of print\('Algorithm'[-3:]\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 708.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 708.2001 Td
+(thm) Tj
+ET
+BT
+/F2 7.4 Tf
+322 698.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 698.6001 Td
+(ithm) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.0001 Td
+(hm) Tj
+ET
+BT
+/F2 7.4 Tf
+322 679.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 679.4001 Td
+(Algorithm) Tj
+ET
+BT
+/F2 8.0 Tf
+306 655.8002 Td
+(52.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 655.8002 Td
+(What is the output of print\('Python'[::-1]\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 644.1002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 644.1002 Td
+(nohtyP) Tj
+ET
+BT
+/F2 7.4 Tf
+322 634.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 634.5002 Td
+(Python) Tj
+ET
+BT
+/F2 7.4 Tf
+322 624.9002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 624.9002 Td
+(P) Tj
+ET
+BT
+/F2 7.4 Tf
+322 615.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 615.3002 Td
+(SyntaxError) Tj
+ET
+BT
+/F2 8.0 Tf
+306 591.7003 Td
+(53.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 591.7003 Td
+(What does the membership test 'on' in 'Python') Tj
+ET
+BT
+/F1 7.8 Tf
+322 582.5002 Td
+(return?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 570.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 570.8002 Td
+(True) Tj
+ET
+BT
+/F2 7.4 Tf
+322 561.2003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 561.2003 Td
+(False) Tj
+ET
+BT
+/F2 7.4 Tf
+322 551.6003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 551.6003 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 542.0003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 542.0003 Td
+(None) Tj
+ET
+BT
+/F2 8.0 Tf
+306 518.4003 Td
+(54.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 518.4003 Td
+(What happens when you execute s = 'Hello'; s[0]) Tj
+ET
+BT
+/F1 7.8 Tf
+322 509.2003 Td
+(= 'J'?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 497.5003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 497.5003 Td
+(s becomes 'Jello') Tj
+ET
+BT
+/F2 7.4 Tf
+322 487.9003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 487.9003 Td
+(TypeError: 'str' object does not support) Tj
+ET
+BT
+/F1 7.4 Tf
+336 479.3003 Td
+(item assignment) Tj
+ET
+BT
+/F2 7.4 Tf
+322 469.7003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 469.7003 Td
+(ValueError: immutable character) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.1003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.1003 Td
+(IndexError: string assignment) Tj
+ET
+BT
+/F2 8.0 Tf
+306 436.5003 Td
+(55.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 436.5003 Td
+(What is the result of 0.1 + 0.2 == 0.3 in) Tj
+ET
+BT
+/F1 7.8 Tf
+322 427.3003 Td
+(standard IEEE 754 floating-point Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 415.6003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 415.6003 Td
+(True) Tj
+ET
+BT
+/F2 7.4 Tf
+322 406.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 406.0002 Td
+(False \(due to floating-point precision) Tj
+ET
+BT
+/F1 7.4 Tf
+336 397.4002 Td
+(representation\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.8002 Td
+(None) Tj
+ET
+BT
+/F2 7.4 Tf
+322 378.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 378.2002 Td
+(ZeroDivisionError) Tj
+ET
+BT
+/F2 8.0 Tf
+306 354.6002 Td
+(56.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 354.6002 Td
+(Which function in the math module accurately) Tj
+ET
+BT
+/F1 7.8 Tf
+322 345.4002 Td
+(tests floating-point equality with a tolerance?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 333.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 333.7002 Td
+(math.equal\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 324.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 324.1002 Td
+(math.isclose\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 314.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 314.5002 Td
+(math.approx\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.9002 Td
+(math.same\(\)) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 12 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+12 0 obj
+<< /Length 7732 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 1: SETTING UP PROGRAMMING ENVIRONMENT AND PYTHON BASICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 5 of 40) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(57.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What is the value of 5 & 3 in Python bitwise) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(arithmetic?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(7) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(5) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(3) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(58.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(What is the value of 5 | 3 in Python bitwise) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(arithmetic?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(7) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(8) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(15) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(59.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(What is the output of 1 << 4 in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 625.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 625.7001 Td
+(4) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.1002 Td
+(8) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.5002 Td
+(16) Tj
+ET
+BT
+/F2 7.4 Tf
+58 596.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 596.9002 Td
+(32) Tj
+ET
+BT
+/F2 8.0 Tf
+42 573.3002 Td
+(60.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 573.3002 Td
+(What is the output of 32 >> 2 in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 561.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 561.6002 Td
+(16) Tj
+ET
+BT
+/F2 7.4 Tf
+58 552.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 552.0002 Td
+(8) Tj
+ET
+BT
+/F2 7.4 Tf
+58 542.4003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 542.4003 Td
+(4) Tj
+ET
+BT
+/F2 7.4 Tf
+58 532.8003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 532.8003 Td
+(2) Tj
+ET
+BT
+/F2 8.0 Tf
+42 509.2003 Td
+(61.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 509.2003 Td
+(What does the walrus operator \(:=\) introduced in) Tj
+ET
+BT
+/F1 7.8 Tf
+58 500.0003 Td
+(Python 3.8 do?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 488.3003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 488.3003 Td
+(Compares values strictly) Tj
+ET
+BT
+/F2 7.4 Tf
+58 478.7003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 478.7003 Td
+(Assigns values to variables as part of an) Tj
+ET
+BT
+/F1 7.4 Tf
+72 470.1003 Td
+(expression) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.5003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.5003 Td
+(Creates an immutable pointer) Tj
+ET
+BT
+/F2 7.4 Tf
+58 450.9003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 450.9003 Td
+(Performs ceiling division) Tj
+ET
+BT
+/F2 8.0 Tf
+42 427.3003 Td
+(62.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 427.3003 Td
+(What is the output of bool\([]\) and bool\([0]\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 415.6003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 415.6003 Td
+(False, True) Tj
+ET
+BT
+/F2 7.4 Tf
+58 406.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 406.0002 Td
+(False, False) Tj
+ET
+BT
+/F2 7.4 Tf
+58 396.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 396.4002 Td
+(True, True) Tj
+ET
+BT
+/F2 7.4 Tf
+58 386.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 386.8002 Td
+(True, False) Tj
+ET
+BT
+/F2 8.0 Tf
+42 363.2002 Td
+(63.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 363.2002 Td
+(What is the output of True + True + False in) Tj
+ET
+BT
+/F1 7.8 Tf
+58 354.0002 Td
+(Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 342.3002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 342.3002 Td
+(2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 332.7002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 332.7002 Td
+(True) Tj
+ET
+BT
+/F2 7.4 Tf
+58 323.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 323.1002 Td
+(TypeError) Tj
+ET
+BT
+/F2 7.4 Tf
+58 313.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 313.5002 Td
+(1) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(64.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(In Python, what is the output of '2' + '3' * 2?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 772.3 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 772.3 Td
+('26') Tj
+ET
+BT
+/F2 7.4 Tf
+322 762.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 762.7 Td
+('10') Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.1 Td
+('233') Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.5001 Td
+('2323') Tj
+ET
+BT
+/F2 8.0 Tf
+306 719.9001 Td
+(65.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 719.9001 Td
+(What is the output of 'apple' < 'banana' in) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 699.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 699.0001 Td
+(True \(lexicographical comparison based on) Tj
+ET
+BT
+/F1 7.4 Tf
+336 690.4001 Td
+(ASCII/Unicode values\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.8001 Td
+(False) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.2001 Td
+(TypeError) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.6002 Td
+(None) Tj
+ET
+BT
+/F2 8.0 Tf
+306 638.0002 Td
+(66.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 638.0002 Td
+(What is the output of the expression 0 or 5 and) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.8002 Td
+(10?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 617.1002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 617.1002 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 607.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.5002 Td
+(5) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.9002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.9002 Td
+(10) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.3002 Td
+(True) Tj
+ET
+BT
+/F2 8.0 Tf
+306 564.7003 Td
+(67.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.7003 Td
+(Why does the expression False and \(1 / 0\) NOT) Tj
+ET
+BT
+/F1 7.8 Tf
+322 555.5002 Td
+(raise a ZeroDivisionError?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 543.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 543.8002 Td
+(Short-circuit evaluation stops at False) Tj
+ET
+BT
+/F1 7.4 Tf
+336 535.2003 Td
+(without evaluating the second operand) Tj
+ET
+BT
+/F2 7.4 Tf
+322 525.6003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 525.6003 Td
+(Division by zero returns 0 in boolean) Tj
+ET
+BT
+/F1 7.4 Tf
+336 517.0003 Td
+(contexts) Tj
+ET
+BT
+/F2 7.4 Tf
+322 507.4003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 507.4003 Td
+(ZeroDivisionError is suppressed in logical) Tj
+ET
+BT
+/F1 7.4 Tf
+336 498.8003 Td
+(expressions) Tj
+ET
+BT
+/F2 7.4 Tf
+322 489.2003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 489.2003 Td
+(PVM rearranges operands) Tj
+ET
+BT
+/F2 8.0 Tf
+306 465.6003 Td
+(68.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 465.6003 Td
+(What is the output of True or \(1 / 0\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 453.9003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 453.9003 Td
+(True \(short-circuit evaluation skips second) Tj
+ET
+BT
+/F1 7.4 Tf
+336 445.3003 Td
+(operand\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 435.7003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 435.7003 Td
+(ZeroDivisionError) Tj
+ET
+BT
+/F2 7.4 Tf
+322 426.1003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 426.1003 Td
+(False) Tj
+ET
+BT
+/F2 7.4 Tf
+322 416.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 416.5002 Td
+(None) Tj
+ET
+BT
+/F2 8.0 Tf
+306 392.9002 Td
+(69.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 392.9002 Td
+(What is the result of not \(5 > 3 and 2 < 1\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 381.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 381.2002 Td
+(False) Tj
+ET
+BT
+/F2 7.4 Tf
+322 371.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 371.6002 Td
+(True) Tj
+ET
+BT
+/F2 7.4 Tf
+322 362.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 362.0002 Td
+(None) Tj
+ET
+BT
+/F2 7.4 Tf
+322 352.4002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 352.4002 Td
+(TypeError) Tj
+ET
+BT
+/F2 8.0 Tf
+306 328.8002 Td
+(70.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 328.8002 Td
+(What is the output of int\(3.99\) in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 317.1002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 317.1002 Td
+(4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 307.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 307.5002 Td
+(3 \(truncates towards zero\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 297.9002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 297.9002 Td
+(3.0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 288.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 288.3002 Td
+(ValueError) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 14 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+14 0 obj
+<< /Length 9185 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 1: SETTING UP PROGRAMMING ENVIRONMENT AND PYTHON BASICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 6 of 40) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(71.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What does float\('inf'\) evaluate to in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 772.3 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 772.3 Td
+(A special floating-point representation of) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.7 Td
+(positive infinity) Tj
+ET
+BT
+/F2 7.4 Tf
+58 754.1 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 754.1 Td
+(ValueError: invalid literal) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.5001 Td
+(0.0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.9001 Td
+(OverflowError) Tj
+ET
+BT
+/F2 8.0 Tf
+42 711.3001 Td
+(72.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 711.3001 Td
+(What does the expression complex\(2, 3\) create in) Tj
+ET
+BT
+/F1 7.8 Tf
+58 702.1001 Td
+(Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 690.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 690.4001 Td
+(A complex number \(2 + 3j\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.8001 Td
+(A tuple \(2, 3\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.2001 Td
+(A coordinate object \(2, 3\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.6002 Td
+(TypeError) Tj
+ET
+BT
+/F2 8.0 Tf
+42 638.0002 Td
+(73.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 638.0002 Td
+(What is the imaginary unit symbol in Python) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.8002 Td
+(complex number literals?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 617.1002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 617.1002 Td
+(i) Tj
+ET
+BT
+/F2 7.4 Tf
+58 607.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 607.5002 Td
+(j) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.9002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.9002 Td
+(k) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.3002 Td
+(im) Tj
+ET
+BT
+/F2 8.0 Tf
+42 564.7003 Td
+(74.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.7003 Td
+(What is the output of z = 3 + 4j; print\(z.real,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 555.5002 Td
+(z.imag\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 543.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 543.8002 Td
+(3 4) Tj
+ET
+BT
+/F2 7.4 Tf
+58 534.2003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 534.2003 Td
+(3.0 4.0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.6003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.6003 Td
+(\(3, 4\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 515.0003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 515.0003 Td
+(7.0) Tj
+ET
+BT
+/F2 8.0 Tf
+42 491.4003 Td
+(75.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 491.4003 Td
+(What does the expression 'python'.capitalize\(\)) Tj
+ET
+BT
+/F1 7.8 Tf
+58 482.2003 Td
+(produce?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 470.5003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 470.5003 Td
+('PYTHON') Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.9003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.9003 Td
+('Python') Tj
+ET
+BT
+/F2 7.4 Tf
+58 451.3003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 451.3003 Td
+('python') Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.7003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.7003 Td
+('PyThOn') Tj
+ET
+BT
+/F2 8.0 Tf
+42 418.1003 Td
+(76.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 418.1003 Td
+(What is the CPython GIL \(Global Interpreter) Tj
+ET
+BT
+/F1 7.8 Tf
+58 408.9002 Td
+(Lock\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 397.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 397.2002 Td
+(A lock ensuring file I/O consistency) Tj
+ET
+BT
+/F2 7.4 Tf
+58 387.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 387.6002 Td
+(A mutex preventing multiple native threads) Tj
+ET
+BT
+/F1 7.4 Tf
+72 379.0002 Td
+(from executing Python bytecode) Tj
+ET
+BT
+/F1 7.4 Tf
+72 370.4002 Td
+(simultaneously) Tj
+ET
+BT
+/F2 7.4 Tf
+58 360.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 360.8002 Td
+(A mechanism preventing garbage collection) Tj
+ET
+BT
+/F1 7.4 Tf
+72 352.2002 Td
+(memory leaks) Tj
+ET
+BT
+/F2 7.4 Tf
+58 342.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 342.6002 Td
+(A compiler flag optimizing nested loops) Tj
+ET
+BT
+/F2 8.0 Tf
+42 319.0002 Td
+(77.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 319.0002 Td
+(In CPython, what is the primary automatic memory) Tj
+ET
+BT
+/F1 7.8 Tf
+58 309.8002 Td
+(management mechanism?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 298.1002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 298.1002 Td
+(Generational garbage collection alone) Tj
+ET
+BT
+/F2 7.4 Tf
+58 288.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 288.5002 Td
+(Reference counting supplemented by cyclic) Tj
+ET
+BT
+/F1 7.4 Tf
+72 279.9001 Td
+(garbage collector) Tj
+ET
+BT
+/F2 7.4 Tf
+58 270.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 270.3001 Td
+(Mark-and-sweep collector alone) Tj
+ET
+BT
+/F2 7.4 Tf
+58 260.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 260.7001 Td
+(Manual pointer deallocation \(free/delete\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(78.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(When does CPython immediately reclaim heap) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(memory occupied by an object?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(When its reference count drops to zero) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(Only when the interpreter terminates) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(When the heap reaches 100% capacity) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(Every 60 seconds via cron) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(79.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(Which module allows developers to inspect and) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(manipulate Python's cyclic garbage collector?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(gc) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(mem) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(sys.alloc) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(cleanup) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(80.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(What does the __pycache__ directory contain?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 625.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 625.7001 Td
+(Log files from interactive REPL sessions) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.1002 Td
+(Compiled bytecode files \(.pyc\) tagged with) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.5002 Td
+(Python version) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.9002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.9002 Td
+(Temporary cache of variable names) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.3002 Td
+(Downloaded pip source packages) Tj
+ET
+BT
+/F2 8.0 Tf
+306 564.7003 Td
+(81.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.7003 Td
+(What does the shebang line #!/usr/bin/env) Tj
+ET
+BT
+/F1 7.8 Tf
+322 555.5002 Td
+(python3 at the start of a script accomplish on) Tj
+ET
+BT
+/F1 7.8 Tf
+322 546.3002 Td
+(POSIX systems?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 534.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 534.6002 Td
+(Specifies the interpreter path for direct) Tj
+ET
+BT
+/F1 7.4 Tf
+336 526.0002 Td
+(script execution) Tj
+ET
+BT
+/F2 7.4 Tf
+322 516.4003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 516.4003 Td
+(Imports the env module automatically) Tj
+ET
+BT
+/F2 7.4 Tf
+322 506.8003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 506.8003 Td
+(Sets compiler optimization level 3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 497.2003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 497.2003 Td
+(Locks the script to Python 3.0 exclusively) Tj
+ET
+BT
+/F2 8.0 Tf
+306 473.6003 Td
+(82.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 473.6003 Td
+(What is PEP 8 in the Python ecosystem?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 461.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 461.9002 Td
+(The formal Python language specification for) Tj
+ET
+BT
+/F1 7.4 Tf
+336 453.3002 Td
+(bytecode compilers) Tj
+ET
+BT
+/F2 7.4 Tf
+322 443.7002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 443.7002 Td
+(The official Style Guide for Python Code) Tj
+ET
+BT
+/F2 7.4 Tf
+322 434.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 434.1002 Td
+(The specification for Python package) Tj
+ET
+BT
+/F1 7.4 Tf
+336 425.5002 Td
+(metadata) Tj
+ET
+BT
+/F2 7.4 Tf
+322 415.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 415.9002 Td
+(The security protocol for PyPI packages) Tj
+ET
+BT
+/F2 8.0 Tf
+306 392.3002 Td
+(83.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 392.3002 Td
+(According to PEP 8, what is the recommended) Tj
+ET
+BT
+/F1 7.8 Tf
+322 383.1002 Td
+(indentation standard for Python code?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 371.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 371.4002 Td
+(1 tab character) Tj
+ET
+BT
+/F2 7.4 Tf
+322 361.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 361.8002 Td
+(4 spaces per indentation level) Tj
+ET
+BT
+/F2 7.4 Tf
+322 352.2002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 352.2002 Td
+(2 spaces per indentation level) Tj
+ET
+BT
+/F2 7.4 Tf
+322 342.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 342.6002 Td
+(8 spaces per indentation level) Tj
+ET
+BT
+/F2 8.0 Tf
+306 319.0002 Td
+(84.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 319.0002 Td
+(What is the result of executing) Tj
+ET
+BT
+/F1 7.8 Tf
+322 309.8001 Td
+(sys.getrefcount\(x\) on a newly assigned integer) Tj
+ET
+BT
+/F1 7.8 Tf
+322 300.6001 Td
+(variable?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 288.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 288.9001 Td
+(Always exactly 1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 279.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 279.3001 Td
+(At least 2 \(the variable reference plus the) Tj
+ET
+BT
+/F1 7.4 Tf
+336 270.7001 Td
+(argument passed to getrefcount\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 261.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 261.1001 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 251.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 251.5001 Td
+(Memory address of x) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 16 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+16 0 obj
+<< /Length 9044 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 1: SETTING UP PROGRAMMING ENVIRONMENT AND PYTHON BASICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 7 of 40) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(85.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What occurs when Python evaluates a = 1000; b =) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(1000 in separate REPL lines in standard CPython?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(a is b evaluates to True because all) Tj
+ET
+BT
+/F1 7.4 Tf
+72 754.5 Td
+(integers are interned) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.9 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.9 Td
+(a is b evaluates to False because 1000 is) Tj
+ET
+BT
+/F1 7.4 Tf
+72 736.3 Td
+(outside the small integer cache \(-5 to 256\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 726.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 726.7001 Td
+(a == b evaluates to False) Tj
+ET
+BT
+/F2 7.4 Tf
+58 717.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 717.1001 Td
+(NameError is raised) Tj
+ET
+BT
+/F2 8.0 Tf
+42 693.5001 Td
+(86.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 693.5001 Td
+(What is string interning in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 681.8001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 681.8001 Td
+(Encrypting strings in bytecode) Tj
+ET
+BT
+/F2 7.4 Tf
+58 672.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 672.2001 Td
+(Reusing identical immutable string instances) Tj
+ET
+BT
+/F1 7.4 Tf
+72 663.6002 Td
+(in a lookup table to save memory and speed) Tj
+ET
+BT
+/F1 7.4 Tf
+72 655.0002 Td
+(comparison) Tj
+ET
+BT
+/F2 7.4 Tf
+58 645.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 645.4002 Td
+(Converting ASCII strings to UTF-32) Tj
+ET
+BT
+/F1 7.4 Tf
+72 636.8002 Td
+(automatically) Tj
+ET
+BT
+/F2 7.4 Tf
+58 627.2003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 627.2003 Td
+(Embedding C strings into Python modules) Tj
+ET
+BT
+/F2 8.0 Tf
+42 603.6003 Td
+(87.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 603.6003 Td
+(What is the output of print\('foo' 'bar'\) with) Tj
+ET
+BT
+/F1 7.8 Tf
+58 594.4003 Td
+(adjacent string literals separated only by) Tj
+ET
+BT
+/F1 7.8 Tf
+58 585.2003 Td
+(whitespace?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 573.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 573.5002 Td
+('foo bar') Tj
+ET
+BT
+/F2 7.4 Tf
+58 563.9003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 563.9003 Td
+('foobar') Tj
+ET
+BT
+/F2 7.4 Tf
+58 554.3003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 554.3003 Td
+(SyntaxError) Tj
+ET
+BT
+/F2 7.4 Tf
+58 544.7003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 544.7003 Td
+(\('foo', 'bar'\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 521.1003 Td
+(88.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 521.1003 Td
+(What is the result of the expression ~5 in) Tj
+ET
+BT
+/F1 7.8 Tf
+58 511.9003 Td
+(Python two's complement integer arithmetic?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 500.2003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 500.2003 Td
+(-5) Tj
+ET
+BT
+/F2 7.4 Tf
+58 490.6003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 490.6003 Td
+(-6) Tj
+ET
+BT
+/F2 7.4 Tf
+58 481.0003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 481.0003 Td
+(4) Tj
+ET
+BT
+/F2 7.4 Tf
+58 471.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 471.4003 Td
+(-4) Tj
+ET
+BT
+/F2 8.0 Tf
+42 447.8003 Td
+(89.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 447.8003 Td
+(Why does ~x equal -\(x + 1\) in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 436.1003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 436.1003 Td
+(Python integers use two's complement binary) Tj
+ET
+BT
+/F1 7.4 Tf
+72 427.5003 Td
+(representation of infinite precision) Tj
+ET
+BT
+/F2 7.4 Tf
+58 417.9003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 417.9003 Td
+(Python uses one's complement representation) Tj
+ET
+BT
+/F2 7.4 Tf
+58 408.3003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 408.3003 Td
+(It is an arbitrary design decision from ABC) Tj
+ET
+BT
+/F1 7.4 Tf
+72 399.7003 Td
+(language) Tj
+ET
+BT
+/F2 7.4 Tf
+58 390.1003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 390.1003 Td
+(Because bitwise NOT flips only the sign bit) Tj
+ET
+BT
+/F2 8.0 Tf
+42 366.5002 Td
+(90.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 366.5002 Td
+(What is the result of \(True, \) * 3 in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 354.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 354.8002 Td
+(\(True, True, True\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 345.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 345.2002 Td
+(True) Tj
+ET
+BT
+/F2 7.4 Tf
+58 335.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 335.6002 Td
+(TypeError) Tj
+ET
+BT
+/F2 7.4 Tf
+58 326.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 326.0002 Td
+([True, True, True]) Tj
+ET
+BT
+/F2 8.0 Tf
+42 302.4002 Td
+(91.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 302.4002 Td
+(What does the expression divmod\(17, 5\) return in) Tj
+ET
+BT
+/F1 7.8 Tf
+58 293.2002 Td
+(Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 281.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 281.5002 Td
+(\(3.4, 2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 271.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 271.9002 Td
+(\(3, 2\) representing \(quotient, remainder\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 262.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 262.3002 Td
+(\(2, 3\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 252.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 252.7002 Td
+(17.0) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(92.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What is the output of print\(format\(1234.5678,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+('.2f'\)\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+('1234.56') Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+('1234.57') Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+('1234.5') Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+('1235') Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(93.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(What does an f-string f'{x=}' produce if x = 42) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(\(introduced in Python 3.8\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+('x=42') Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+('42') Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+('{42}') Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(SyntaxError) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(94.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(What does the built-in function callable\(obj\)) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(return?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.5001 Td
+(True if the object appears callable \(like a) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.9001 Td
+(function or class\), False otherwise) Tj
+ET
+BT
+/F2 7.4 Tf
+322 598.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 598.3002 Td
+(The number of parameters required by obj) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.7002 Td
+(The memory location of obj) Tj
+ET
+BT
+/F2 7.4 Tf
+322 579.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 579.1002 Td
+(None) Tj
+ET
+BT
+/F2 8.0 Tf
+306 555.5002 Td
+(95.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 555.5002 Td
+(What does id\(None\) represent during a single) Tj
+ET
+BT
+/F1 7.8 Tf
+322 546.3002 Td
+(Python interpreter run?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 534.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 534.6002 Td
+(A constant unique integer memory address for) Tj
+ET
+BT
+/F1 7.4 Tf
+336 526.0002 Td
+(the singleton NoneType object) Tj
+ET
+BT
+/F2 7.4 Tf
+322 516.4003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 516.4003 Td
+(A random integer that changes every time) Tj
+ET
+BT
+/F1 7.4 Tf
+336 507.8003 Td
+(None is accessed) Tj
+ET
+BT
+/F2 7.4 Tf
+322 498.2003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 498.2003 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 488.6003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 488.6003 Td
+(-1) Tj
+ET
+BT
+/F2 8.0 Tf
+306 465.0002 Td
+(96.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 465.0002 Td
+(In Python 3, what is the maximum value an int) Tj
+ET
+BT
+/F1 7.8 Tf
+322 455.8002 Td
+(object can represent before triggering an) Tj
+ET
+BT
+/F1 7.8 Tf
+322 446.6002 Td
+(integer overflow error?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 434.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 434.9002 Td
+(2^31 - 1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 425.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 425.3002 Td
+(2^63 - 1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 415.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 415.7002 Td
+(2^127 - 1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 406.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 406.1002 Td
+(Arbitrary precision; bounded only by) Tj
+ET
+BT
+/F1 7.4 Tf
+336 397.5002 Td
+(available system RAM) Tj
+ET
+BT
+/F2 8.0 Tf
+306 373.9002 Td
+(97.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 373.9002 Td
+(What does sys.byteorder return on modern x86/x64) Tj
+ET
+BT
+/F1 7.8 Tf
+322 364.7002 Td
+(Windows systems?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 353.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 353.0002 Td
+('big') Tj
+ET
+BT
+/F2 7.4 Tf
+322 343.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 343.4001 Td
+('little') Tj
+ET
+BT
+/F2 7.4 Tf
+322 333.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 333.8001 Td
+('network') Tj
+ET
+BT
+/F2 7.4 Tf
+322 324.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 324.2001 Td
+('undefined') Tj
+ET
+BT
+/F2 8.0 Tf
+306 300.6001 Td
+(98.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 300.6001 Td
+(What does the expression round\(2.5\) evaluate to) Tj
+ET
+BT
+/F1 7.8 Tf
+322 291.4001 Td
+(in Python 3 \(banker's rounding\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 279.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 279.7001 Td
+(3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 270.1001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 270.1001 Td
+(2 \(rounds to nearest even integer\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 260.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 260.5001 Td
+(2.5) Tj
+ET
+BT
+/F2 7.4 Tf
+322 250.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 250.9001 Td
+(3.0) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 18 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+18 0 obj
+<< /Length 1371 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 1: SETTING UP PROGRAMMING ENVIRONMENT AND PYTHON BASICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 8 of 40) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(99.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What does round\(3.5\) evaluate to under Python) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(3's round-half-to-even rule?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(4) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(3.5) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(4.0) Tj
+ET
+BT
+/F2 8.0 Tf
+42 700.7001 Td
+(100.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 700.7001 Td
+(What is the result of hash\(\(1, 2, [3, 4]\)\) in) Tj
+ET
+BT
+/F1 7.8 Tf
+58 691.5001 Td
+(Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 679.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 679.8 Td
+(A valid 64-bit integer hash) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.2001 Td
+(TypeError: unhashable type: 'list') Tj
+ET
+BT
+/F2 7.4 Tf
+58 660.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 660.6001 Td
+(None) Tj
+ET
+BT
+/F2 7.4 Tf
+58 651.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 651.0001 Td
+(0) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 20 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+20 0 obj
+<< /Length 5615 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 1: SETTING UP PROGRAMMING ENVIRONMENT AND PYTHON BASICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 9 of 40) Tj
+ET
+BT
+/F2 10 Tf
+45 780 Td
+(SECTION B: DESCRIPTIVE & SUBJECTIVE QUESTIONS) Tj
+ET
+BT
+/F2 8.5 Tf
+45 760 Td
+(Q1. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 760 Td
+(Explain the internal execution workflow of Python programs. Compare CPython with compiled) Tj
+ET
+BT
+/F1 8.5 Tf
+72 749.5 Td
+(languages \(C/C++\) and explain the roles of Bytecode and the Python Virtual Machine \(PVM\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 724.5 Td
+(Q2. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 724.5 Td
+(Discuss Python's Object Model and Dynamic Typing. Explain the three fundamental attributes of) Tj
+ET
+BT
+/F1 8.5 Tf
+72 714 Td
+(every Python object \(Identity, Type, Value\) with code demonstrations.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 689 Td
+(Q3. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 689 Td
+(Explain CPython's Small Integer Caching \(-5 to 256\) and String Interning mechanisms. Write code to) Tj
+ET
+BT
+/F1 8.5 Tf
+72 678.5 Td
+(verify memory identity \(is\) versus value equality \(==\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 653.5 Td
+(Q4. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 653.5 Td
+(Explain Mutable vs Immutable data types in Python. Detail how memory allocation behaves during) Tj
+ET
+BT
+/F1 8.5 Tf
+72 643 Td
+(in-place mutations vs rebinding operations with illustrative code.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 618 Td
+(Q5. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 618 Td
+(Explain Python Variable Naming Conventions \(PEP 8\) and NameError exceptions. Discuss common) Tj
+ET
+BT
+/F1 8.5 Tf
+72 607.5 Td
+(scenarios that trigger NameError and how to resolve them.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 582.5 Td
+(Q6. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 582.5 Td
+(Analyze Python's Arithmetic Operators \(+, -, *, /, //, %, **\). Explain Floor Division \(//\) and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 572 Td
+(Modulus \(%\) with positive and negative operands.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 547 Td
+(Q7. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 547 Td
+(Explain Operator Precedence and Associativity in Python. Provide a full hierarchy table from) Tj
+ET
+BT
+/F1 8.5 Tf
+72 536.5 Td
+(highest to lowest precedence with illustrative evaluation examples.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 511.5 Td
+(Q8. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 511.5 Td
+(Explain Logical Operators \(and, or, not\) and Short-Circuit Evaluation in Python. How does) Tj
+ET
+BT
+/F1 8.5 Tf
+72 501 Td
+(short-circuit evaluation optimize execution and prevent runtime exceptions?) Tj
+ET
+BT
+/F2 8.5 Tf
+45 476 Td
+(Q9. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 476 Td
+(Detail the representation and mechanics of Python Bitwise Operators \(&, |, ^, ~, <<, >>\). Explain) Tj
+ET
+BT
+/F1 8.5 Tf
+72 465.5 Td
+(two's complement integer arithmetic and why ~x equals -\(x + 1\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 440.5 Td
+(Q10. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 440.5 Td
+(Explain String Indexing and Slicing in Python. Detail the syntax s[start:stop:step], positive vs) Tj
+ET
+BT
+/F1 8.5 Tf
+72 430 Td
+(negative indexing, boundary defaults, and slice reversal.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 405 Td
+(Q11. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 405 Td
+(Explain String Immutability and String Operations \(+, *, in, not in\). Why are strings designed to) Tj
+ET
+BT
+/F1 8.5 Tf
+72 394.5 Td
+(be immutable in Python, and how does this affect memory efficiency and security?) Tj
+ET
+BT
+/F2 8.5 Tf
+45 369.5 Td
+(Q12. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 369.5 Td
+(Discuss the built-in type conversion and type casting functions in Python \(int, float, str, bool,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 359 Td
+(complex\). Explain explicit conversion versus implicit type coercion.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 334 Td
+(Q13. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 334 Td
+(Explain Python Comments, Docstrings, and the Composition of Statements. How are docstrings) Tj
+ET
+BT
+/F1 8.5 Tf
+72 323.5 Td
+(accessed at runtime via __doc__ and help\(\)?) Tj
+ET
+BT
+/F2 8.5 Tf
+45 298.5 Td
+(Q14. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 298.5 Td
+(Explain Python 2 versus Python 3 architectural differences. Focus on print, Unicode string) Tj
+ET
+BT
+/F1 8.5 Tf
+72 288 Td
+(handling, integer division, and range vs xrange.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 263 Td
+(Q15. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 263 Td
+(Explain Python Virtual Environments \(venv\) and Package Management \(pip\). Why are virtual) Tj
+ET
+BT
+/F1 8.5 Tf
+72 252.5 Td
+(environments essential in enterprise software engineering?) Tj
+ET
+BT
+/F2 8.5 Tf
+45 227.5 Td
+(Q16. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 227.5 Td
+(Explain the Python Standard Library and the 'Batteries Included' philosophy. Provide examples of 5) Tj
+ET
+BT
+/F1 8.5 Tf
+72 217 Td
+(essential built-in modules \(math, sys, os, random, time\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 192 Td
+(Q17. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 192 Td
+(Explain Modern Python String Formatting Paradigms: % formatting, str.format\(\), and Formatted) Tj
+ET
+BT
+/F1 8.5 Tf
+72 181.5 Td
+(String Literals \(F-Strings\). Compare performance and readability.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 156.5 Td
+(Q18. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 156.5 Td
+(Explain CPython's Reference Counting and Cyclic Garbage Collection mechanisms. How are reference) Tj
+ET
+BT
+/F1 8.5 Tf
+72 146 Td
+(cycles detected and resolved?) Tj
+ET
+BT
+/F2 8.5 Tf
+45 121 Td
+(Q19. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 121 Td
+(Explain Python's sys.argv and Command-Line Argument Processing. Write a standalone Python script) Tj
+ET
+BT
+/F1 8.5 Tf
+72 110.5 Td
+(demonstrating command-line parameter parsing.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 85.5 Td
+(Q20. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 85.5 Td
+(Explain Floating-Point Representation \(IEEE 754\) in Python. Why does 0.1 + 0.2 != 0.3, and how) Tj
+ET
+BT
+/F1 8.5 Tf
+72 75 Td
+(should financial/scientific calculations handle precision?) Tj
+ET
+
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 22 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+22 0 obj
+<< /Length 2812 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 1: SETTING UP PROGRAMMING ENVIRONMENT AND PYTHON BASICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 10 of 40) Tj
+ET
+BT
+/F2 8.5 Tf
+45 780 Td
+(Q21. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 780 Td
+(Design an interactive Python console application that computes Compound Interest and displays an) Tj
+ET
+BT
+/F1 8.5 Tf
+72 769.5 Td
+(annual amortization schedule table.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 743.5 Td
+(Q22. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 743.5 Td
+(Implement a Python program for Temperature Conversion supporting Celsius, Fahrenheit, and Kelvin) Tj
+ET
+BT
+/F1 8.5 Tf
+72 733 Td
+(scales with input validation and error handling.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 707 Td
+(Q23. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 707 Td
+(Implement a comprehensive Python script demonstrating all Bitwise Operations to manipulate) Tj
+ET
+BT
+/F1 8.5 Tf
+72 696.5 Td
+(hardware register control flags \(Set, Clear, Toggle, Check\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 670.5 Td
+(Q24. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 670.5 Td
+(Implement a Python program to perform Cartesian Coordinate System operations: Distance) Tj
+ET
+BT
+/F1 8.5 Tf
+72 660 Td
+(calculation, midpoint, polar coordinate conversion, and slope.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 634 Td
+(Q25. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 634 Td
+(Explain the Walrus Operator \(:=\) introduced in Python 3.8. Discuss its motivation, syntax,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 623.5 Td
+(performance advantages, and write code demonstrating its practical use.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 597.5 Td
+(Q26. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 597.5 Td
+(Explain String Encoding and Decoding \(ASCII, UTF-8, Unicode\) in Python. Detail how str.encode\(\)) Tj
+ET
+BT
+/F1 8.5 Tf
+72 587 Td
+(and bytes.decode\(\) bridge text and binary data.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 561 Td
+(Q27. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 561 Td
+(Explain the keyword module and dynamic inspection of Python keywords. Demonstrate how to check) Tj
+ET
+BT
+/F1 8.5 Tf
+72 550.5 Td
+(valid identifiers programmatically.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 524.5 Td
+(Q28. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 524.5 Td
+(Explain the Python Data Model and Built-in Special \(Dunder\) Attributes: __name__, __doc__,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 514 Td
+(__file__, __dict__, and __class__.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 488 Td
+(Q29. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 488 Td
+(Design an interactive quadratic equation solver in Python that handles real roots, single) Tj
+ET
+BT
+/F1 8.5 Tf
+72 477.5 Td
+(degenerate roots, and complex conjugate roots with full error handling.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 451.5 Td
+(Q30. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 451.5 Td
+(Explain the if __name__ == '__main__' idiom in Python. What problem does it solve, and how does) Tj
+ET
+BT
+/F1 8.5 Tf
+72 441 Td
+(Python execute scripts versus imported modules?) Tj
+ET
+
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 24 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+24 0 obj
+<< /Length 8440 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 1: SETTING UP PROGRAMMING ENVIRONMENT AND PYTHON BASICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 11 of 40) Tj
+ET
+BT
+/F2 11 Tf
+45 780 Td
+(SECTION C: ANSWER KEY - MULTIPLE CHOICE QUESTIONS) Tj
+ET
+0.5 w
+45 772 m 550 772 l S
+BT
+/F2 8.5 Tf
+45 750 Td
+(Q1: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 750 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 734 Td
+(Q2: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 734 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 718 Td
+(Q3: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 718 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 702 Td
+(Q4: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 702 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 686 Td
+(Q5: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 686 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 670 Td
+(Q6: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 654 Td
+(Q7: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 654 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 638 Td
+(Q8: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 638 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 622 Td
+(Q9: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 606 Td
+(Q10: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 606 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 590 Td
+(Q11: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 590 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 574 Td
+(Q12: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 574 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 558 Td
+(Q13: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 558 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 542 Td
+(Q14: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 542 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 526 Td
+(Q15: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 510 Td
+(Q16: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 510 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 494 Td
+(Q17: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 494 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 478 Td
+(Q18: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 478 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 462 Td
+(Q19: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 462 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 446 Td
+(Q20: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 446 Td
+([B]) Tj
+ET
+0.2 w
+135 755 m 135 425 l S
+BT
+/F2 8.5 Tf
+145 750 Td
+(Q21: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 750 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 734 Td
+(Q22: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 734 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 718 Td
+(Q23: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 718 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 702 Td
+(Q24: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 702 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 686 Td
+(Q25: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 686 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 670 Td
+(Q26: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 654 Td
+(Q27: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 654 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 638 Td
+(Q28: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 638 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 622 Td
+(Q29: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 622 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 606 Td
+(Q30: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 606 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 590 Td
+(Q31: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 590 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 574 Td
+(Q32: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 574 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 558 Td
+(Q33: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 558 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 542 Td
+(Q34: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 526 Td
+(Q35: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 526 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 510 Td
+(Q36: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 510 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 494 Td
+(Q37: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 494 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 478 Td
+(Q38: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 462 Td
+(Q39: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 462 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 446 Td
+(Q40: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 446 Td
+([B]) Tj
+ET
+0.2 w
+235 755 m 235 425 l S
+BT
+/F2 8.5 Tf
+245 750 Td
+(Q41: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 750 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 734 Td
+(Q42: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 734 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 718 Td
+(Q43: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 718 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 702 Td
+(Q44: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 686 Td
+(Q45: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 686 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 670 Td
+(Q46: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 670 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 654 Td
+(Q47: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 638 Td
+(Q48: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 622 Td
+(Q49: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 622 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 606 Td
+(Q50: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 606 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 590 Td
+(Q51: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 574 Td
+(Q52: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 558 Td
+(Q53: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 542 Td
+(Q54: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 542 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 526 Td
+(Q55: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 526 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 510 Td
+(Q56: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 510 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 494 Td
+(Q57: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 478 Td
+(Q58: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 478 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 462 Td
+(Q59: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 462 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 446 Td
+(Q60: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 446 Td
+([B]) Tj
+ET
+0.2 w
+335 755 m 335 425 l S
+BT
+/F2 8.5 Tf
+345 750 Td
+(Q61: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 750 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 734 Td
+(Q62: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 718 Td
+(Q63: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 702 Td
+(Q64: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 702 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 686 Td
+(Q65: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 670 Td
+(Q66: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 670 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 654 Td
+(Q67: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 638 Td
+(Q68: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 622 Td
+(Q69: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 622 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 606 Td
+(Q70: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 606 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 590 Td
+(Q71: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 574 Td
+(Q72: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 558 Td
+(Q73: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 558 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 542 Td
+(Q74: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 542 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 526 Td
+(Q75: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 526 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 510 Td
+(Q76: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 510 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 494 Td
+(Q77: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 494 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 478 Td
+(Q78: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 462 Td
+(Q79: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 446 Td
+(Q80: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 446 Td
+([B]) Tj
+ET
+0.2 w
+435 755 m 435 425 l S
+BT
+/F2 8.5 Tf
+445 750 Td
+(Q81: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 734 Td
+(Q82: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 734 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 718 Td
+(Q83: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 718 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 702 Td
+(Q84: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 702 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 686 Td
+(Q85: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 686 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 670 Td
+(Q86: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 670 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 654 Td
+(Q87: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 654 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 638 Td
+(Q88: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 638 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 622 Td
+(Q89: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 606 Td
+(Q90: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 590 Td
+(Q91: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 590 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 574 Td
+(Q92: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 574 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 558 Td
+(Q93: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 542 Td
+(Q94: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 526 Td
+(Q95: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 510 Td
+(Q96: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 510 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 494 Td
+(Q97: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 494 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 478 Td
+(Q98: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 478 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 462 Td
+(Q99: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 446 Td
+(Q100: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 446 Td
+([B]) Tj
+ET
+0.5 w
+45 400 m 550 400 l 550 340 l 45 340 l s
+BT
+/F2 9 Tf
+55 382 Td
+(MCQ Scoring Guide & Difficulty Distribution:) Tj
+ET
+BT
+/F1 8.5 Tf
+55 366 Td
+(Questions 1 to 40: Foundational & Conceptual [Easy] | Questions 41 to 75: Analytical & Applied [Moderate]) Tj
+ET
+BT
+/F1 8.5 Tf
+55 350 Td
+(Questions 76 to 100: Complex Numerical & Advanced Problem Solving [Difficult]) Tj
+ET
+
+endstream
+endobj
+25 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 26 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+26 0 obj
+<< /Length 3827 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 1: SETTING UP PROGRAMMING ENVIRONMENT AND PYTHON BASICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 12 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(SECTION D: DETAILED SOLUTIONS FOR SUBJECTIVE QUESTIONS) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(================================================================================) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 1:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the internal execution workflow of Python programs. Compare CPython with compiled languages \(C/C++\) and explain the roles of Bytecode and the Python Virtual Machine \(PVM\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Conceptual Architecture of CPython Execution:) Tj
+T*
+(   Python is traditionally classified as an interpreted language, but modern CPython employs a) Tj
+T*
+(   two-tier compilation-interpretation pipeline:) Tj
+T*
+(   Step 1: Source Code \(.py\) -> Parser & AST Generator: The Lexer tokenizes the source text and) Tj
+T*
+(   constructs an Abstract Syntax Tree \(AST\).) Tj
+T*
+(   Step 2: AST -> Bytecode \(.pyc\): The compiler translates AST nodes into low-level,) Tj
+T*
+(   platform-independent instruction sequences called Bytecode. Bytecode files are cached inside) Tj
+T*
+(   the __pycache__ directory with .pyc extensions to accelerate subsequent startup times.) Tj
+T*
+(   Step 3: Bytecode -> Python Virtual Machine \(PVM\): The PVM is a stack-based virtual machine) Tj
+T*
+(   written in C. It iterates through the bytecode instruction loop \(the evaluation loop,) Tj
+T*
+(   PyEval_EvalFrameDefault\), decoding each opcode and executing the corresponding C library) Tj
+T*
+(   routine.) Tj
+T*
+() Tj
+T*
+(   2. Comparison with Purely Compiled Languages \(C/C++\):) Tj
+T*
+(   - Compilation Target: C/C++ compiles source code directly to hardware-specific machine code) Tj
+T*
+(   binaries \(.exe, ELF\) via GCC/Clang. Python compiles to abstract intermediate bytecode.) Tj
+T*
+(   - Portability: Python bytecode can execute on any operating system equipped with a compatible) Tj
+T*
+(   PVM. C binaries are strictly bound to target CPU architectures and OS ABIs.) Tj
+T*
+(   - Execution Speed: C executes directly on bare silicon with zero runtime interpreter overhead.) Tj
+T*
+(   Python incurs interpretive dispatch overhead, dynamic type checking, and boxing/unboxing costs.) Tj
+T*
+() Tj
+T*
+(   3. Working Python Demonstration \(Bytecode Disassembly\):) Tj
+T*
+(   import dis) Tj
+T*
+() Tj
+T*
+(   def compute_kinetic_energy\(mass, velocity\):) Tj
+T*
+(   '''Calculate kinetic energy: 0.5 * m * v^2''') Tj
+T*
+(   energy = 0.5 * mass * \(velocity ** 2\)) Tj
+T*
+(   return energy) Tj
+T*
+() Tj
+T*
+(   print\("Disassembled Bytecode for compute_kinetic_energy:"\)) Tj
+T*
+(   dis.dis\(compute_kinetic_energy\)) Tj
+T*
+() Tj
+T*
+(   4. Memory Model & Execution Trace:) Tj
+T*
+(   - When compute_kinetic_energy\(10, 5\) is invoked:) Tj
+T*
+(   Stack Frame: Pushed onto PVM call stack.) Tj
+T*
+(   Local Symbol Table: {'mass': 10, 'velocity': 5, 'energy': 125.0}.) Tj
+T*
+(   Operand Stack Evaluation:) Tj
+T*
+(   LOAD_CONST 0.5 -> Push 0.5) Tj
+T*
+(   LOAD_FAST mass \(10\) -> Push 10) Tj
+T*
+(   BINARY_MULTIPLY -> Pop both, compute 5.0, push 5.0) Tj
+T*
+(   LOAD_FAST velocity \(5\) -> Push 5) Tj
+T*
+(   LOAD_CONST 2 -> Push 2) Tj
+T*
+(   BINARY_POWER -> Pop both, compute 25, push 25) Tj
+T*
+(   BINARY_MULTIPLY -> Pop 5.0 and 25, compute 125.0, push 125.0) Tj
+T*
+(   STORE_FAST energy -> Store top of stack into local variable 'energy') Tj
+T*
+(   LOAD_FAST energy -> Push 125.0) Tj
+T*
+(   RETURN_VALUE -> Return 125.0 and pop stack frame.) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+27 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 28 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+28 0 obj
+<< /Length 3679 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 1: SETTING UP PROGRAMMING ENVIRONMENT AND PYTHON BASICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 13 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   5. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(1\) arithmetic operations per instruction.) Tj
+T*
+(   - Space Complexity: O\(1\) auxiliary memory for local variables and operand stack.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 2:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Discuss Python's Object Model and Dynamic Typing. Explain the three fundamental attributes of every Python object \(Identity, Type, Value\) with code demonstrations.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Theoretical Foundation of Python's Object Model:) Tj
+T*
+(   In Python, 'everything is a first-class object' - functions, modules, primitive numbers, and) Tj
+T*
+(   classes are all instances of PyObject in CPython heap memory.) Tj
+T*
+(   Every object in Python is defined by three immutable pillars:) Tj
+T*
+(   1. Identity: The unique physical or virtual memory address where the object resides. Inspected) Tj
+T*
+(   via id\(obj\). In CPython, id\(obj\) returns the actual pointer address cast to an integer.) Tj
+T*
+(   2. Type: Defines the set of possible values, valid operations, and methods supported by the) Tj
+T*
+(   object. Inspected via type\(obj\). An object's type cannot be changed after instantiation.) Tj
+T*
+(   3. Value: The actual data or state payload stored within the object's allocated memory block.) Tj
+T*
+() Tj
+T*
+(   2. Dynamic Typing vs Static Typing:) Tj
+T*
+(   - In statically-typed languages \(Java/C++\), variables are named containers of a fixed type: int) Tj
+T*
+(   x = 10;) Tj
+T*
+(   - In Python, variables are purely symbolic name tags \(references or pointers\) bound to objects) Tj
+T*
+(   residing on the heap: x = 10. The name 'x' has no type; the integer object 10 possesses the) Tj
+T*
+(   type 'int'. Rebinding x = 'Hello' merely points the name 'x' to a newly allocated string) Tj
+T*
+(   object.) Tj
+T*
+() Tj
+T*
+(   3. Python Implementation & Verification:) Tj
+T*
+(   import sys) Tj
+T*
+() Tj
+T*
+(   def inspect_object\(name, obj\):) Tj
+T*
+(   print\(f"Name: {name:<8} | Type: {type\(obj\).__name__:<10} | ID: {id\(obj\)} | Size:) Tj
+T*
+(   {sys.getsizeof\(obj\)} bytes | Value: {repr\(obj\)}"\)) Tj
+T*
+() Tj
+T*
+(   val = 42) Tj
+T*
+(   inspect_object\("val", val\)) Tj
+T*
+() Tj
+T*
+(   val = "Python Dynamic Typing") Tj
+T*
+(   inspect_object\("val", val\)) Tj
+T*
+() Tj
+T*
+(   val = [10, 20, 30]) Tj
+T*
+(   inspect_object\("val", val\)) Tj
+T*
+() Tj
+T*
+(   4. Memory Model & Reference Binding Trace:) Tj
+T*
+(   - Step 1: val = 42 -> An int object with ob_refcnt=1, ob_type=&PyLong_Type, ob_digit=[42] is) Tj
+T*
+(   allocated on the heap. 'val' in globals\(\) dict points to this address.) Tj
+T*
+(   - Step 2: val = 'Python Dynamic Typing' -> A new PyUnicodeObject is allocated. 'val' pointer is) Tj
+T*
+(   redirected to the string object. The integer 42's reference count is decremented.) Tj
+T*
+(   - Step 3: val = [10, 20, 30] -> A PyListObject containing an array of three pointers to) Tj
+T*
+(   integers is allocated. 'val' is rebound. The string's reference count drops to 0 and its memory) Tj
+T*
+(   is reclaimed.) Tj
+T*
+() Tj
+T*
+(   5. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(1\) for type lookup, identity retrieval, and variable rebinding.) Tj
+T*
+ET
+
+endstream
+endobj
+29 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 30 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+30 0 obj
+<< /Length 3453 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 1: SETTING UP PROGRAMMING ENVIRONMENT AND PYTHON BASICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 14 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - Space Complexity: O\(1\) pointer reassignment overhead.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 3:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain CPython's Small Integer Caching \(-5 to 256\) and String Interning mechanisms. Write code to verify memory identity \(is\) versus value equality \(==\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Memory Optimization via Caching and Interning:) Tj
+T*
+(   CPython incorporates specific memory and runtime optimizations to mitigate dynamic allocation) Tj
+T*
+(   overhead for frequently used immutable entities:) Tj
+T*
+(   - Small Integer Caching: Upon interpreter startup, CPython allocates an internal array of 262) Tj
+T*
+(   integer objects covering the inclusive range [-5, 256]. Any arithmetic operation or assignment) Tj
+T*
+(   yielding an integer in this range binds to the pre-existing singleton object, avoiding repeated) Tj
+T*
+(   heap allocations.) Tj
+T*
+(   - String Interning: Immutable strings that look like valid identifiers \(alphanumeric with) Tj
+T*
+(   underscores\) are automatically 'interned' into an internal dictionary. When interned, Python) Tj
+T*
+(   verifies string equality in O\(1\) pointer comparison \(is\) rather than O\(N\)) Tj
+T*
+(   character-by-character scanning \(==\).) Tj
+T*
+() Tj
+T*
+(   2. Identity \('is'\) vs Equality \('=='\):) Tj
+T*
+(   - Operator '==': Evaluates the __eq__\(\) method to determine whether two objects have equivalent) Tj
+T*
+(   content/values.) Tj
+T*
+(   - Operator 'is': Evaluates pointer identity: id\(a\) == id\(b\). It tests whether both names point) Tj
+T*
+(   to the exact same physical heap memory buffer.) Tj
+T*
+() Tj
+T*
+(   3. Python Demonstration Code:) Tj
+T*
+(   import sys) Tj
+T*
+() Tj
+T*
+(   # Test 1: Small Integer Caching \(-5 to 256\)) Tj
+T*
+(   x1 = 250 + 6 # 256) Tj
+T*
+(   y1 = 256) Tj
+T*
+(   print\(f"256 -> Equality: {x1 == y1}, Identity: {x1 is y1}, id\(x1\): {id\(x1\)}, id\(y1\): {id\(y1\)}"\)) Tj
+T*
+() Tj
+T*
+(   x2 = 257) Tj
+T*
+(   y2 = 257) Tj
+T*
+(   # In REPL, x2 and y2 will have different IDs; in compiled code block they may be co-allocated) Tj
+T*
+(   print\(f"257 -> Equality: {x2 == y2}, Identity: {x2 is y2}"\)) Tj
+T*
+() Tj
+T*
+(   # Test 2: String Interning) Tj
+T*
+(   str1 = "python_identifier") Tj
+T*
+(   str2 = "python_identifier") Tj
+T*
+(   print\(f"Interned Strings -> str1 is str2: {str1 is str2}"\)) Tj
+T*
+() Tj
+T*
+(   # Explicit Interning using sys.intern\(\)) Tj
+T*
+(   dyn1 = sys.intern\("hello world!" + ""\)) Tj
+T*
+(   dyn2 = sys.intern\("hello world!" + ""\)) Tj
+T*
+(   print\(f"Explicitly Interned -> dyn1 is dyn2: {dyn1 is dyn2}"\)) Tj
+T*
+() Tj
+T*
+(   4. Memory Model Diagram / Trace:) Tj
+T*
+(   Global Namespace:) Tj
+T*
+(   [x1] -------------> [ PyLongObject: 256 ] <------------- [y1] \(Shared Singleton in small_ints) Tj
+T*
+(   array\)) Tj
+T*
+(   [x2] -------------> [ PyLongObject: 257 at 0x7f8a1 ]) Tj
+T*
+(   [y2] -------------> [ PyLongObject: 257 at 0x7f8b4 ] \(Distinct Heap Allocations\)) Tj
+T*
+ET
+
+endstream
+endobj
+31 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 32 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+32 0 obj
+<< /Length 3289 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 1: SETTING UP PROGRAMMING ENVIRONMENT AND PYTHON BASICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 15 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   5. Complexity Analysis:) Tj
+T*
+(   - Value Equality \(==\): O\(N\) where N is number of elements/digits.) Tj
+T*
+(   - Identity Comparison \(is\): O\(1\) single machine pointer register comparison.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 4:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Mutable vs Immutable data types in Python. Detail how memory allocation behaves during in-place mutations vs rebinding operations with illustrative code.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Mutability Concept in Python:) Tj
+T*
+(   Python classifies all data types into two distinct categories:) Tj
+T*
+(   - Immutable Types: Objects whose internal memory representation and state cannot be modified) Tj
+T*
+(   after creation. Examples: int, float, complex, bool, str, tuple, frozenset, bytes.) Tj
+T*
+(   When an 'alteration' is performed on an immutable object, Python does NOT modify the object; it) Tj
+T*
+(   allocates a brand new object on the heap and rebinds the variable reference.) Tj
+T*
+(   - Mutable Types: Objects whose internal content can be modified in-place without altering the) Tj
+T*
+(   object's identity or memory address. Examples: list, dict, set, bytearray.) Tj
+T*
+() Tj
+T*
+(   2. Behavioral Differences & Memory Implications:) Tj
+T*
+(   Modifying a mutable object alters the shared state for all variable references pointing to that) Tj
+T*
+(   object \(aliasing\). In contrast, rebinding an immutable variable affects only the local) Tj
+T*
+(   reference.) Tj
+T*
+() Tj
+T*
+(   3. Python Code Demonstration:) Tj
+T*
+(   # Part A: Immutable Type \(int & str\)) Tj
+T*
+(   num = 50) Tj
+T*
+(   initial_id = id\(num\)) Tj
+T*
+(   num += 5) Tj
+T*
+(   print\(f"Immutable Int: Initial ID = {initial_id}, Post-Addition ID = {id\(num\)} \(Different) Tj
+T*
+(   Object Allocated!\)"\)) Tj
+T*
+() Tj
+T*
+(   greeting = "Hello") Tj
+T*
+(   g_id = id\(greeting\)) Tj
+T*
+(   greeting += " World") Tj
+T*
+(   print\(f"Immutable String: Initial ID = {g_id}, Post-Concat ID = {id\(greeting\)} \(Different) Tj
+T*
+(   Object Allocated!\)"\)) Tj
+T*
+() Tj
+T*
+(   # Part B: Mutable Type \(list\)) Tj
+T*
+(   my_list = [10, 20, 30]) Tj
+T*
+(   list_id = id\(my_list\)) Tj
+T*
+(   my_list.append\(40\)) Tj
+T*
+(   my_list[0] = 99) Tj
+T*
+(   print\(f"Mutable List: Initial ID = {list_id}, Post-Mutation ID = {id\(my_list\)} \(Same Memory) Tj
+T*
+(   Address!\)"\)) Tj
+T*
+(   print\(f"Updated List Content: {my_list}"\)) Tj
+T*
+() Tj
+T*
+(   4. Memory Model Trace:) Tj
+T*
+(   - Step 1 \(Immutable\):) Tj
+T*
+(   Stack: num -> Heap 0x1000 [int: 50]) Tj
+T*
+(   num += 5 -> Allocates Heap 0x1040 [int: 55]. Stack: num -> 0x1040. Heap 0x1000 refcount) Tj
+T*
+(   decrements.) Tj
+T*
+(   - Step 2 \(Mutable\):) Tj
+T*
+(   Stack: my_list -> Heap 0x2000 [PyListObject: size=3, allocated=4, items -> [0x10, 0x20, 0x30]]) Tj
+T*
+ET
+
+endstream
+endobj
+33 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 34 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+34 0 obj
+<< /Length 3457 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 1: SETTING UP PROGRAMMING ENVIRONMENT AND PYTHON BASICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 16 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   my_list.append\(40\) -> Size becomes 4. Address of list remains 0x2000. No new list object is) Tj
+T*
+(   allocated.) Tj
+T*
+() Tj
+T*
+(   5. Complexity Analysis:) Tj
+T*
+(   - List In-place Append: Amortized O\(1\) time complexity.) Tj
+T*
+(   - String In-place Concat \(when unshared\): O\(1\) optimization in CPython; otherwise O\(N\)) Tj
+T*
+(   allocation and memory copy.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 5:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Python Variable Naming Conventions \(PEP 8\) and NameError exceptions. Discuss common scenarios that trigger NameError and how to resolve them.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. PEP 8 Variable Naming Conventions:) Tj
+T*
+(   PEP 8 defines standardized guidelines for identifiers across Python codebases:) Tj
+T*
+(   - Variable & Function Names: snake_case \(all lowercase words joined by underscores\), e.g.,) Tj
+T*
+(   student_count, calculate_area.) Tj
+T*
+(   - Constant Identifiers: UPPER_SNAKE_CASE \(all uppercase words\), e.g., MAX_RETRIES, PI_VALUE.) Tj
+T*
+(   - Class Names: PascalCase \(CapWords convention\), e.g., NeuralNetwork, DatabaseConnection.) Tj
+T*
+(   - Private Attributes: Leading single underscore \(_internal_cache\) for non-public API; leading) Tj
+T*
+(   double underscore \(__mangled_attr\) for name mangling in inheritance.) Tj
+T*
+() Tj
+T*
+(   2. Identifier Rules:) Tj
+T*
+(   - Must start with a letter \(a-z, A-Z\) or underscore \(_\).) Tj
+T*
+(   - Subsequent characters can be letters, digits \(0-9\), or underscores.) Tj
+T*
+(   - Cannot contain whitespace or special symbols \(@, $, %, ^, &, *\).) Tj
+T*
+(   - Cannot match any of the 35 Python keywords \(def, class, while, etc.\).) Tj
+T*
+() Tj
+T*
+(   3. The NameError Exception and Common Causes:) Tj
+T*
+(   NameError occurs when the interpreter attempts to evaluate a symbolic identifier that cannot be) Tj
+T*
+(   found in any of the four LEGB scopes \(Local, Enclosing, Global, Built-in\).) Tj
+T*
+(   Common Scenarios:) Tj
+T*
+(   - Scenario A: Typographical error in variable name.) Tj
+T*
+(   - Scenario B: Accessing a variable before its declaration or initialization.) Tj
+T*
+(   - Scenario C: Using a local variable before assignment \(UnboundLocalError, a subclass of) Tj
+T*
+(   NameError\).) Tj
+T*
+(   - Scenario D: Calling an unimported function or module.) Tj
+T*
+() Tj
+T*
+(   4. Python Demonstration Code:) Tj
+T*
+(   # Resolution Demonstration) Tj
+T*
+(   def safe_variable_lookup\(\):) Tj
+T*
+(   # Correct declaration and initialization) Tj
+T*
+(   total_score = 100) Tj
+T*
+(   bonus_multiplier = 1.15) Tj
+T*
+() Tj
+T*
+(   try:) Tj
+T*
+(   # Intentional typo triggering NameError) Tj
+T*
+(   final_result = totl_score * bonus_multiplier) Tj
+T*
+(   except NameError as ex:) Tj
+T*
+(   print\(f"Handled Error: {ex}"\)) Tj
+T*
+(   # Remediation: Use correctly spelled variable) Tj
+T*
+(   final_result = total_score * bonus_multiplier) Tj
+T*
+(   print\(f"Remediated Calculation: {final_result:.2f}"\)) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+35 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 36 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+36 0 obj
+<< /Length 3314 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 1: SETTING UP PROGRAMMING ENVIRONMENT AND PYTHON BASICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 17 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   safe_variable_lookup\(\)) Tj
+T*
+() Tj
+T*
+(   5. Complexity Analysis:) Tj
+T*
+(   - Scope Lookup: O\(1\) average time via dictionary hash table lookups across Local, Global, and) Tj
+T*
+(   Builtins namespaces.) Tj
+T*
+(   - Space Complexity: O\(1\) auxiliary overhead.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 6:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze Python's Arithmetic Operators \(+, -, *, /, //, %, **\). Explain Floor Division \(//\) and Modulus \(%\) with positive and negative operands.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Comprehensive Inventory of Arithmetic Operators:) Tj
+T*
+(   - Addition \(+\), Subtraction \(-\), Multiplication \(*\).) Tj
+T*
+(   - True Division \(/\): Always returns a float in Python 3, even if operands divide evenly \(e.g.,) Tj
+T*
+(   4 / 2 -> 2.0\).) Tj
+T*
+(   - Floor Division \(//\): Divides operands and truncates the quotient to the nearest mathematical) Tj
+T*
+(   floor integer \(i.e., floor\(a / b\) = greatest integer <= a / b\).) Tj
+T*
+(   - Modulus \(%\): Returns remainder r satisfying the fundamental mathematical identity:) Tj
+T*
+(   a = \(b * \(a // b\)\) + \(a % b\)) Tj
+T*
+(   Consequently: a % b = a - b * \(a // b\).) Tj
+T*
+(   Notice: The sign of \(a % b\) in Python always matches the sign of the divisor b.) Tj
+T*
+(   - Exponentiation \(**\): Computes power with right-to-left associativity.) Tj
+T*
+() Tj
+T*
+(   2. Mathematical Breakdown for Floor Division and Modulus:) Tj
+T*
+(   Case 1: 7 // 3 = 2, 7 % 3 = 7 - 3 * 2 = 1.) Tj
+T*
+(   Case 2: -7 // 3 = -3 \(since -7 / 3 = -2.333; floor\(-2.333\) = -3\).) Tj
+T*
+(   -7 % 3 = -7 - 3 * \(-3\) = -7 + 9 = 2.) Tj
+T*
+(   Case 3: 7 // -3 = -3.) Tj
+T*
+(   7 % -3 = 7 - \(-3\) * \(-3\) = 7 - 9 = -2.) Tj
+T*
+(   Case 4: -7 // -3 = 2.) Tj
+T*
+(   -7 % -3 = -7 - \(-3\) * 2 = -7 + 6 = -1.) Tj
+T*
+() Tj
+T*
+(   3. Python Verification Program:) Tj
+T*
+(   def verify_division_identity\(a, b\):) Tj
+T*
+(   quotient = a // b) Tj
+T*
+(   remainder = a % b) Tj
+T*
+(   identity_check = \(b * quotient\) + remainder == a) Tj
+T*
+(   print\(f"a = {a:2}, b = {b:2} | a // b = {quotient:2} | a % b = {remainder:2} | Identity Holds:) Tj
+T*
+(   {identity_check}"\)) Tj
+T*
+() Tj
+T*
+(   print\("Verification of Python Arithmetic Identity: a = \(b * \(a // b\)\) + \(a % b\)"\)) Tj
+T*
+(   verify_division_identity\(7, 3\)) Tj
+T*
+(   verify_division_identity\(-7, 3\)) Tj
+T*
+(   verify_division_identity\(7, -3\)) Tj
+T*
+(   verify_division_identity\(-7, -3\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(1\) for fixed-width integers; O\(M * N\) for arbitrary precision Karatsuba /) Tj
+T*
+(   schoolbook division on massive integers.) Tj
+T*
+(   - Space Complexity: O\(1\) storage for result.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+37 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 38 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+38 0 obj
+<< /Length 3274 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 1: SETTING UP PROGRAMMING ENVIRONMENT AND PYTHON BASICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 18 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 7:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Operator Precedence and Associativity in Python. Provide a full hierarchy table from highest to lowest precedence with illustrative evaluation examples.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Precedence and Associativity Principles:) Tj
+T*
+(   Operator Precedence dictates the binding priority of operators in an unparenthesized compound) Tj
+T*
+(   expression. Operators with higher precedence are evaluated before operators with lower) Tj
+T*
+(   precedence.) Tj
+T*
+(   Associativity determines the evaluation direction \(Left-to-Right vs Right-to-Left\) when) Tj
+T*
+(   operators of identical precedence appear consecutively.) Tj
+T*
+() Tj
+T*
+(   2. Complete Python Operator Precedence Hierarchy \(Highest to Lowest\):) Tj
+T*
+(   1. Parentheses: \( \) - Highest binding) Tj
+T*
+(   2. Exponentiation: ** \(Right-to-Left associativity: 2**3**2 = 2**9 = 512\)) Tj
+T*
+(   3. Unary Operators: +x, -x, ~x \(Positive, Negative, Bitwise NOT\)) Tj
+T*
+(   4. Multiplicative: *, /, //, % \(Left-to-Right\)) Tj
+T*
+(   5. Additive: +, - \(Left-to-Right\)) Tj
+T*
+(   6. Bitwise Shifts: <<, >>) Tj
+T*
+(   7. Bitwise AND: &) Tj
+T*
+(   8. Bitwise XOR: ^) Tj
+T*
+(   9. Bitwise OR: |) Tj
+T*
+(   10. Comparison, Identity & Membership: ==, !=, <, <=, >, >=, is, is not, in, not in) Tj
+T*
+(   11. Boolean NOT: not) Tj
+T*
+(   12. Boolean AND: and) Tj
+T*
+(   13. Boolean OR: or) Tj
+T*
+(   14. Conditional Expression: x if condition else y) Tj
+T*
+(   15. Assignment & Walrus: =, +=, -=, *=, /=, := - Lowest) Tj
+T*
+() Tj
+T*
+(   3. Step-by-Step Expression Evaluation Trace:) Tj
+T*
+(   Expression: result = 10 + 2 * 3 ** 2 > 25 and not 4 & 1 == 0) Tj
+T*
+(   Step 1: Exponentiation: 3 ** 2 -> 9) Tj
+T*
+(   Step 2: Multiplication: 2 * 9 -> 18) Tj
+T*
+(   Step 3: Addition: 10 + 18 -> 28) Tj
+T*
+(   Step 4: Comparison 1: 28 > 25 -> True) Tj
+T*
+(   Step 5: Bitwise AND: 4 & 1 -> 0 \(binary 100 & 001 = 000\)) Tj
+T*
+(   Step 6: Comparison 2: 0 == 0 -> True) Tj
+T*
+(   Step 7: Logical NOT: not True -> False) Tj
+T*
+(   Step 8: Logical AND: True and False -> False) Tj
+T*
+(   Final Value: False) Tj
+T*
+() Tj
+T*
+(   4. Python Code Demonstration:) Tj
+T*
+(   expr_val = 10 + 2 * 3 ** 2 > 25 and not 4 & 1 == 0) Tj
+T*
+(   print\(f"Evaluated Compound Expression: {expr_val}"\)) Tj
+T*
+() Tj
+T*
+(   # Demonstrating Right-to-Left Associativity of Exponentiation) Tj
+T*
+(   rtl_power = 2 ** 3 ** 2) Tj
+T*
+(   ltr_equiv = 2 ** \(3 ** 2\)) Tj
+T*
+(   print\(f"2 ** 3 ** 2 = {rtl_power} \(Matches Right-to-Left: {rtl_power == ltr_equiv}\)"\)) Tj
+T*
+() Tj
+T*
+(   5. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(1\) arithmetic and logical evaluations.) Tj
+T*
+(   - Space Complexity: O\(1\) temporary values on PVM evaluation stack.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+39 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 40 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+40 0 obj
+<< /Length 3927 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 1: SETTING UP PROGRAMMING ENVIRONMENT AND PYTHON BASICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 19 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 8:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Logical Operators \(and, or, not\) and Short-Circuit Evaluation in Python. How does short-circuit evaluation optimize execution and prevent runtime exceptions?) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Python's Boolean Logical Operators:) Tj
+T*
+(   Python supports three logical operators: and, or, and not. Unlike languages that return strict) Tj
+T*
+(   booleans \(true/false\), Python's and and or operators return the actual operand object that) Tj
+T*
+(   determined the result!) Tj
+T*
+(   - Operand Truthiness: All values are truthy except: False, None, 0, 0.0, empty collections \('',) Tj
+T*
+(   [], \(\), {}, set\(\)\).) Tj
+T*
+() Tj
+T*
+(   2. Short-Circuit Evaluation Mechanics:) Tj
+T*
+(   Short-circuit evaluation is a semantic optimization where the interpreter stops evaluating a) Tj
+T*
+(   boolean expression as soon as the outcome is definitively determined:) Tj
+T*
+(   - Expr1 and Expr2: Evaluates Expr1. If Expr1 is falsy, Python immediately returns Expr1 without) Tj
+T*
+(   evaluating Expr2. If Expr1 is truthy, it evaluates and returns Expr2.) Tj
+T*
+(   - Expr1 or Expr2: Evaluates Expr1. If Expr1 is truthy, Python immediately returns Expr1 without) Tj
+T*
+(   evaluating Expr2. If Expr1 is falsy, it evaluates and returns Expr2.) Tj
+T*
+() Tj
+T*
+(   3. Safeguarding Against Runtime Exceptions:) Tj
+T*
+(   Short-circuiting is heavily leveraged in production software to:) Tj
+T*
+(   1. Prevent ZeroDivisionError: denom != 0 and \(num / denom > 1\)) Tj
+T*
+(   2. Prevent NoneType AttributeError: obj is not None and obj.process\(\)) Tj
+T*
+(   3. Prevent IndexError: index < len\(arr\) and arr[index] == target) Tj
+T*
+() Tj
+T*
+(   4. Python Code Demonstration:) Tj
+T*
+(   def safe_divide\(numerator, denominator\):) Tj
+T*
+(   # Short-circuiting prevents ZeroDivisionError) Tj
+T*
+(   result = \(denominator != 0\) and \(numerator / denominator\)) Tj
+T*
+(   return result) Tj
+T*
+() Tj
+T*
+(   print\(f"safe_divide\(100, 4\) = {safe_divide\(100, 4\)}"\)) Tj
+T*
+(   print\(f"safe_divide\(100, 0\) = {safe_divide\(100, 0\)} \(No Exception Raised!\)"\)) Tj
+T*
+() Tj
+T*
+(   # Object Returning Behavior) Tj
+T*
+(   print\(f"'Python' or 'Default' => {repr\('Python' or 'Default'\)}"\)) Tj
+T*
+(   print\(f"'' or 'Fallback' => {repr\('' or 'Fallback'\)}"\)) Tj
+T*
+(   print\(f"[] and [1, 2, 3] => {repr\([] and [1, 2, 3]\)}"\)) Tj
+T*
+(   print\(f"[1, 2] and 'Success' => {repr\([1, 2] and 'Success'\)}"\)) Tj
+T*
+() Tj
+T*
+(   5. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(1\) best case \(short-circuit on first operand\); at most O\(Cost\(Expr1\) +) Tj
+T*
+(   Cost\(Expr2\)\).) Tj
+T*
+(   - Space Complexity: O\(1\) stack space.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 9:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Detail the representation and mechanics of Python Bitwise Operators \(&, |, ^, ~, <<, >>\). Explain two's complement integer arithmetic and why ~x equals -\(x + 1\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Binary Representations and Bitwise Operators:) Tj
+T*
+(   Python bitwise operators operate on integers at the bit level:) Tj
+T*
+(   - Bitwise AND \(&\): Sets bit to 1 if both corresponding bits are 1.) Tj
+T*
+(   - Bitwise OR \(|\): Sets bit to 1 if at least one corresponding bit is 1.) Tj
+T*
+(   - Bitwise XOR \(^\): Sets bit to 1 if bits differ \(1 and 0 or 0 and 1\).) Tj
+T*
+ET
+
+endstream
+endobj
+41 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 42 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+42 0 obj
+<< /Length 3081 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 1: SETTING UP PROGRAMMING ENVIRONMENT AND PYTHON BASICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 20 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - Bitwise NOT \(~\): Inverts all bits.) Tj
+T*
+(   - Left Shift \(<<\): Shifts bits left by n positions, equivalent to multiplying by 2^n: x << n =) Tj
+T*
+(   x * \(2**n\).) Tj
+T*
+(   - Right Shift \(>>\): Shifts bits right by n positions, equivalent to floor dividing by 2^n: x >>) Tj
+T*
+(   n = x // \(2**n\).) Tj
+T*
+() Tj
+T*
+(   2. Two's Complement Arithmetic & The ~x Identity:) Tj
+T*
+(   In computer systems, negative integers are represented using two's complement notation:) Tj
+T*
+(   - For any integer x, its two's complement negative representation -x is obtained by inverting) Tj
+T*
+(   all bits \(~x\) and adding 1:) Tj
+T*
+(   -x = ~x + 1) Tj
+T*
+(   - Rearranging this fundamental formula algebraically:) Tj
+T*
+(   ~x = -x - 1 = -\(x + 1\)) Tj
+T*
+(   Therefore:) Tj
+T*
+(   ~0 = -\(0 + 1\) = -1) Tj
+T*
+(   ~5 = -\(5 + 1\) = -6) Tj
+T*
+(   ~\(-8\) = -\(-8 + 1\) = 7) Tj
+T*
+() Tj
+T*
+(   3. Python Implementation & Bitwise Flag Demonstration:) Tj
+T*
+(   # Permissions System Using Bitwise Flags) Tj
+T*
+(   READ = 1 << 0 # 0001 \(1\)) Tj
+T*
+(   WRITE = 1 << 1 # 0010 \(2\)) Tj
+T*
+(   EXECUTE = 1 << 2 # 0100 \(4\)) Tj
+T*
+() Tj
+T*
+(   user_perm = READ | WRITE # 0011 \(3\)) Tj
+T*
+() Tj
+T*
+(   def check_permission\(perm, flag\):) Tj
+T*
+(   return \(perm & flag\) != 0) Tj
+T*
+() Tj
+T*
+(   print\(f"User Permissions: bin={bin\(user_perm\)}"\)) Tj
+T*
+(   print\(f"Has Read Access: {check_permission\(user_perm, READ\)}"\)) Tj
+T*
+(   print\(f"Has Execute Access: {check_permission\(user_perm, EXECUTE\)}"\)) Tj
+T*
+() Tj
+T*
+(   # Bitwise Shifts) Tj
+T*
+(   val = 12) Tj
+T*
+(   print\(f"12 << 2 = {val << 2} \(12 * 4\)"\)) Tj
+T*
+(   print\(f"12 >> 2 = {val >> 2} \(12 // 4\)"\)) Tj
+T*
+(   print\(f"~12 = {~val} \(Formula: -\(12 + 1\) = -13\)"\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(1\) for machine word bitwise operations.) Tj
+T*
+(   - Space Complexity: O\(1\) integer registers.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 10:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain String Indexing and Slicing in Python. Detail the syntax s[start:stop:step], positive vs negative indexing, boundary defaults, and slice reversal.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. String Structure as an Ordered Sequence:) Tj
+T*
+(   In Python, strings \(str\) are immutable ordered sequences of Unicode code points. Characters are) Tj
+T*
+(   indexed starting from 0 up to len\(s\) - 1. Python also supports negative indexing from -1 \(last) Tj
+T*
+(   character\) down to -len\(s\) \(first character\).) Tj
+T*
+() Tj
+T*
+(   2. Slicing Syntax: s[start : stop : step]) Tj
+T*
+ET
+
+endstream
+endobj
+43 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 44 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+44 0 obj
+<< /Length 3689 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 1: SETTING UP PROGRAMMING ENVIRONMENT AND PYTHON BASICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 21 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - start: The inclusive starting index. Defaults to 0 if step > 0, or len\(s\) - 1 if step < 0.) Tj
+T*
+(   - stop: The exclusive ending boundary index. Defaults to len\(s\) if step > 0, or -1 \(past) Tj
+T*
+(   beginning\) if step < 0.) Tj
+T*
+(   - step: The stride or increment between successive indices. Can be positive \(forward traversal\)) Tj
+T*
+(   or negative \(backward traversal\). Defaults to +1.) Tj
+T*
+() Tj
+T*
+(   3. Special Slicing Patterns:) Tj
+T*
+(   - s[:] -> Creates a shallow copy of the entire string.) Tj
+T*
+(   - s[::2] -> Extracts every second character \(even indices\).) Tj
+T*
+(   - s[1::2] -> Extracts characters at odd indices.) Tj
+T*
+(   - s[::-1] -> Traverses the string in reverse direction, producing a reversed string.) Tj
+T*
+(   - Boundary Handling: Slicing never raises an IndexError even if indices exceed string) Tj
+T*
+(   boundaries; Python automatically clamps indices to [0, len\(s\)].) Tj
+T*
+() Tj
+T*
+(   4. Python Code Demonstration:) Tj
+T*
+(   text = "ComputerScience") Tj
+T*
+(   print\(f"Original String: '{text}' \(Length: {len\(text\)}\)"\)) Tj
+T*
+() Tj
+T*
+(   # Positive Indexing & Slicing) Tj
+T*
+(   print\(f"text[0:8] -> '{text[0:8]}'"\)) Tj
+T*
+(   print\(f"text[8:] -> '{text[8:]}'"\)) Tj
+T*
+(   print\(f"text[::2] -> '{text[::2]}'"\)) Tj
+T*
+() Tj
+T*
+(   # Negative Indexing & Slicing) Tj
+T*
+(   print\(f"text[-7:] -> '{text[-7:]}'"\)) Tj
+T*
+(   print\(f"text[:-7] -> '{text[:-7]}'"\)) Tj
+T*
+(   print\(f"text[::-1] -> '{text[::-1]}' \(Reversed\)"\)) Tj
+T*
+() Tj
+T*
+(   # Boundary Clamping Tolerance) Tj
+T*
+(   print\(f"text[5:100] -> '{text[5:100]}' \(No IndexError raised\)"\)) Tj
+T*
+() Tj
+T*
+(   5. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(K\) where K = len\(slice\) is the number of characters extracted to create) Tj
+T*
+(   the new string.) Tj
+T*
+(   - Space Complexity: O\(K\) memory allocated for the new sliced string object.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 11:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain String Immutability and String Operations \(+, *, in, not in\). Why are strings designed to be immutable in Python, and how does this affect memory efficiency and security?) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Concept of String Immutability:) Tj
+T*
+(   Once a string object is created in Python heap memory, its characters and size cannot be) Tj
+T*
+(   modified in-place. Attempting an item assignment such as s[0] = 'X' raises a TypeError: 'str') Tj
+T*
+(   object does not support item assignment.) Tj
+T*
+() Tj
+T*
+(   2. Rationales for String Immutability:) Tj
+T*
+(   - Hashability & Dictionary Keys: Because strings are immutable, their cryptographic/hash value) Tj
+T*
+(   \(hash\(s\)\) is invariant throughout their lifespan. This allows strings to serve as keys in hash) Tj
+T*
+(   maps \(dictionaries\) and members of hash sets.) Tj
+T*
+(   - Memory Sharing & Interning: Identical immutable string literals can safely share the exact) Tj
+T*
+(   same memory address without risk of one subsystem inadvertently mutating another's data.) Tj
+T*
+(   - Thread Safety: Immutable strings are inherently thread-safe; concurrent threads can read) Tj
+T*
+(   shared strings without synchronization locks.) Tj
+T*
+ET
+
+endstream
+endobj
+45 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 46 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+46 0 obj
+<< /Length 3603 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 1: SETTING UP PROGRAMMING ENVIRONMENT AND PYTHON BASICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 22 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - Security: Critical system resources \(file paths, network sockets, SQL connection strings\)) Tj
+T*
+(   cannot be maliciously altered after validation checks.) Tj
+T*
+() Tj
+T*
+(   3. String Operations:) Tj
+T*
+(   - Concatenation \(+\): Combines two strings into a new string: 'Py' + 'thon' -> 'Python'.) Tj
+T*
+(   - Repetition \(*\): Replicates string n times: 'abc' * 3 -> 'abcabcabc'.) Tj
+T*
+(   - Membership \(in, not in\): Substring search in O\(N\) worst-case time using two-way string search) Tj
+T*
+(   algorithm.) Tj
+T*
+() Tj
+T*
+(   4. Python Code Demonstration:) Tj
+T*
+(   base_str = "Python") Tj
+T*
+(   print\(f"Initial String: {base_str}, ID: {id\(base_str\)}"\)) Tj
+T*
+() Tj
+T*
+(   # Attempting mutation raises TypeError) Tj
+T*
+(   try:) Tj
+T*
+(   base_str[0] = 'J') Tj
+T*
+(   except TypeError as ex:) Tj
+T*
+(   print\(f"Caught Expected Mutation Error: {ex}"\)) Tj
+T*
+() Tj
+T*
+(   # Concatenation creates a brand new string) Tj
+T*
+(   new_str = base_str + " Programming") Tj
+T*
+(   print\(f"New String: {new_str}, New ID: {id\(new_str\)}"\)) Tj
+T*
+() Tj
+T*
+(   # Efficient Building via join\(\) vs Inefficient Building via +=) Tj
+T*
+(   words = ["Modern", "Operating", "Systems", "Design"]) Tj
+T*
+(   efficient_sentence = " ".join\(words\)) Tj
+T*
+(   print\(f"Built Sentence: {efficient_sentence}"\)) Tj
+T*
+() Tj
+T*
+(   5. Complexity Analysis:) Tj
+T*
+(   - Inefficient += loop: O\(N^2\) time due to repeated reallocations and copies.) Tj
+T*
+(   - str.join\(list\): O\(N\) linear time with single-pass memory pre-allocation.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 12:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Discuss the built-in type conversion and type casting functions in Python \(int, float, str, bool, complex\). Explain explicit conversion versus implicit type coercion.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Type Conversion in Python:) Tj
+T*
+(   Python is strongly typed: it does not permit nonsensical operations between incompatible types) Tj
+T*
+(   \(e.g., '10' + 5 raises TypeError\). However, Python supports two categories of type conversions:) Tj
+T*
+(   - Implicit Type Coercion: The interpreter automatically promotes operands of lower precision to) Tj
+T*
+(   higher precision to prevent data loss. For example, when adding an integer and a float, the) Tj
+T*
+(   integer is coerced to a float: 5 + 2.5 -> 7.5.) Tj
+T*
+(   - Explicit Type Conversion \(Type Casting\): The developer explicitly calls built-in constructor) Tj
+T*
+(   functions to transform an object from one type to another.) Tj
+T*
+() Tj
+T*
+(   2. Core Conversion Functions:) Tj
+T*
+(   - int\(x, base=10\): Converts numeric or string x to an integer. Can parse strings with arbitrary) Tj
+T*
+(   number bases \(2 to 36\). Truncates floats toward zero.) Tj
+T*
+(   - float\(x\): Converts string or integer to IEEE 754 64-bit floating point.) Tj
+T*
+(   - str\(x\): Converts any object to its human-readable string representation via __str__\(\).) Tj
+T*
+(   - bool\(x\): Converts object to boolean based on truthiness rules.) Tj
+T*
+(   - complex\(real, imag\): Constructs a complex number real + imag*1j.) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+47 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 48 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+48 0 obj
+<< /Length 3414 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 1: SETTING UP PROGRAMMING ENVIRONMENT AND PYTHON BASICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 23 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   3. Python Code Demonstration:) Tj
+T*
+(   # Implicit Coercion) Tj
+T*
+(   int_val = 15) Tj
+T*
+(   flt_val = 4.5) Tj
+T*
+(   coerced_result = int_val + flt_val) Tj
+T*
+(   print\(f"Implicit Coercion: {int_val} \({type\(int_val\).__name__}\) + {flt_val}) Tj
+T*
+(   \({type\(flt_val\).__name__}\) = {coerced_result} \({type\(coerced_result\).__name__}\)"\)) Tj
+T*
+() Tj
+T*
+(   # Explicit Conversions) Tj
+T*
+(   binary_str = "1101") Tj
+T*
+(   decimal_from_bin = int\(binary_str, 2\)) Tj
+T*
+(   hex_from_str = int\("1A", 16\)) Tj
+T*
+(   print\(f"Binary '1101' to Int: {decimal_from_bin} | Hex '1A' to Int: {hex_from_str}"\)) Tj
+T*
+() Tj
+T*
+(   trunc_float = int\(9.99\)) Tj
+T*
+(   print\(f"int\(9.99\) Truncation: {trunc_float}"\)) Tj
+T*
+() Tj
+T*
+(   # Float to String and String to Complex) Tj
+T*
+(   cmp_obj = complex\("3+4j"\)) Tj
+T*
+(   print\(f"Parsed Complex Object: {cmp_obj}, Conjugate: {cmp_obj.conjugate\(\)}"\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(1\) for primitive numeric conversions; O\(D\) where D is number of string) Tj
+T*
+(   digits during base conversions.) Tj
+T*
+(   - Space Complexity: O\(1\) auxiliary space.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 13:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Python Comments, Docstrings, and the Composition of Statements. How are docstrings accessed at runtime via __doc__ and help\(\)?) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Comments in Python:) Tj
+T*
+(   - Single-Line Comments: Introduced with the hash character \(#\). The lexer ignores all text) Tj
+T*
+(   following # on that line. Used for explaining non-obvious algorithmic decisions.) Tj
+T*
+(   - Inline Comments: Placed on the same line as code, separated by at least two spaces \(PEP 8\).) Tj
+T*
+() Tj
+T*
+(   2. Docstrings \(Documentation Strings\):) Tj
+T*
+(   A docstring is a string literal appearing as the very first statement within a module,) Tj
+T*
+(   function, class, or method definition, demarcated by triple double quotes \(""" ... """\).) Tj
+T*
+(   Unlike comments, docstrings are NOT discarded by the compiler. They are compiled into bytecode) Tj
+T*
+(   and attached to the object's __doc__ attribute, allowing runtime introspection, automated) Tj
+T*
+(   documentation generation \(Sphinx, pydoc\), and IDE auto-completion.) Tj
+T*
+() Tj
+T*
+(   3. Composition of Statements:) Tj
+T*
+(   Statement composition refers to combining simple statements, expressions, and control) Tj
+T*
+(   structures into compound expressions. Python's clean indentation-delimited block structure) Tj
+T*
+(   ensures high readability without bracket noise.) Tj
+T*
+() Tj
+T*
+(   4. Python Code Demonstration:) Tj
+T*
+(   def calculate_cylinder_volume\(radius: float, height: float\) -> float:) Tj
+T*
+(   """Calculate the volume of a right circular cylinder.) Tj
+T*
+() Tj
+T*
+(   Parameters:) Tj
+T*
+(   radius \(float\): The radial distance from center to circumference.) Tj
+T*
+ET
+
+endstream
+endobj
+49 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 50 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+50 0 obj
+<< /Length 3440 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 1: SETTING UP PROGRAMMING ENVIRONMENT AND PYTHON BASICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 24 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   height \(float\): The axial length/height of the cylinder.) Tj
+T*
+() Tj
+T*
+(   Returns:) Tj
+T*
+(   float: Computed volume in cubic units \(V = pi * r^2 * h\).) Tj
+T*
+(   """) Tj
+T*
+(   import math) Tj
+T*
+(   # Compute base area then multiply by axial height) Tj
+T*
+(   base_area = math.pi * \(radius ** 2\)) Tj
+T*
+(   volume = base_area * height) Tj
+T*
+(   return volume) Tj
+T*
+() Tj
+T*
+(   # Runtime Docstring Introspection) Tj
+T*
+(   print\("Introspecting __doc__ attribute directly:"\)) Tj
+T*
+(   print\(calculate_cylinder_volume.__doc__\)) Tj
+T*
+() Tj
+T*
+(   print\(f"Calculated Volume \(r=3, h=5\): {calculate_cylinder_volume\(3.0, 5.0\):.4f}"\)) Tj
+T*
+() Tj
+T*
+(   5. Complexity Analysis:) Tj
+T*
+(   - Docstring Overhead: Stored once as an immutable string object in module const table; zero) Tj
+T*
+(   runtime CPU penalty during function calls.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 14:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Python 2 versus Python 3 architectural differences. Focus on print, Unicode string handling, integer division, and range vs xrange.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Historical Context and Python 3 Migration:) Tj
+T*
+(   Python 3.0 \(released December 2008, codified in PEP 3000\) was an intentionally) Tj
+T*
+(   backward-incompatible major release designed to rectify fundamental design flaws in Python 2:) Tj
+T*
+() Tj
+T*
+(   2. Core Architectural Distinctions:) Tj
+T*
+(   1. Print Statement vs Function:) Tj
+T*
+(   - Python 2: print was a language statement \(print 'Hello'\). It could not be passed as a) Tj
+T*
+(   callback or customized with keyword arguments.) Tj
+T*
+(   - Python 3: print\(\) is a built-in function \(print\('Hello', sep=' ', end='\\n',) Tj
+T*
+(   file=sys.stdout\)\).) Tj
+T*
+(   2. String and Unicode Architecture:) Tj
+T*
+(   - Python 2: Default str was 8-bit ASCII/bytes; unicode was a separate type \(u'text'\). Mixing) Tj
+T*
+(   them led to frequent UnicodeDecodeError exceptions.) Tj
+T*
+(   - Python 3: All str objects are Unicode \(UTF-8 decoded code points\) by default. Raw binary) Tj
+T*
+(   streams are encapsulated strictly in the bytes type.) Tj
+T*
+(   3. Integer Division:) Tj
+T*
+(   - Python 2: 5 / 2 evaluated to 2 \(integer truncation\).) Tj
+T*
+(   - Python 3: 5 / 2 evaluates to 2.5 \(true float division\). Floor division requires explicit //) Tj
+T*
+(   operator.) Tj
+T*
+(   4. Range vs XRange:) Tj
+T*
+(   - Python 2: range\(N\) generated an in-memory list of N integers immediately, causing high memory) Tj
+T*
+(   consumption for large N. xrange\(N\) was a lazy generator object.) Tj
+T*
+(   - Python 3: xrange was removed, and range\(\) was redesigned to behave like xrange as a lazy,) Tj
+T*
+(   memory-efficient sequence iterator with O\(1\) memory overhead.) Tj
+T*
+(   5. Long Integers:) Tj
+T*
+(   - Python 2 had both int \(32/64 bit\) and long \(unbounded\).) Tj
+T*
+(   - Python 3 unified all integers into a single unbounded int type.) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+51 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 52 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+52 0 obj
+<< /Length 3253 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 1: SETTING UP PROGRAMMING ENVIRONMENT AND PYTHON BASICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 25 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   3. Python 3 Code Verification:) Tj
+T*
+(   import sys) Tj
+T*
+() Tj
+T*
+(   # Division behavior in Python 3) Tj
+T*
+(   print\(f"5 / 2 in Python 3 = {5 / 2} \(type: {type\(5 / 2\).__name__}\)"\)) Tj
+T*
+(   print\(f"5 // 2 in Python 3 = {5 // 2} \(type: {type\(5 // 2\).__name__}\)"\)) Tj
+T*
+() Tj
+T*
+(   # Range Memory Efficiency) Tj
+T*
+(   r = range\(10_000_000\)) Tj
+T*
+(   print\(f"Size of range\(10,000,000\) object: {sys.getsizeof\(r\)} bytes \(O\(1\) memory!\)"\)) Tj
+T*
+() Tj
+T*
+(   # Unicode Text vs Bytes) Tj
+T*
+(   unicode_text = "Python Programming ?" # Greek Omega) Tj
+T*
+(   byte_data = unicode_text.encode\('utf-8'\)) Tj
+T*
+(   print\(f"Unicode str: {unicode_text} | Encoded bytes: {byte_data}"\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+(   - Memory Complexity of range\(N\) in Python 3: O\(1\) fixed memory.) Tj
+T*
+(   - Division Time Complexity: O\(1\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 15:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Python Virtual Environments \(venv\) and Package Management \(pip\). Why are virtual environments essential in enterprise software engineering?) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. The Problem of Dependency Collision:) Tj
+T*
+(   In standard operating system installations, Python packages installed via pip install are) Tj
+T*
+(   placed into a single global site-packages directory. If Project A requires Django 3.2 LTS and) Tj
+T*
+(   Project B requires Django 5.0, a global environment will experience version collisions,) Tj
+T*
+(   breaking one or both applications.) Tj
+T*
+() Tj
+T*
+(   2. Architecture of Virtual Environments \(venv\):) Tj
+T*
+(   A virtual environment is a self-contained, isolated directory tree that houses:) Tj
+T*
+(   1. A local copy or symlink of the Python interpreter executable.) Tj
+T*
+(   2. An isolated site-packages directory dedicated to that project.) Tj
+T*
+(   3. Activation scripts \(activate.bat for Windows CMD, Activate.ps1 for PowerShell, activate for) Tj
+T*
+(   bash\).) Tj
+T*
+(   When activated, the virtual environment prepends its local bin/Scripts directory to the system) Tj
+T*
+(   PATH environment variable, ensuring all python and pip invocations resolve locally.) Tj
+T*
+() Tj
+T*
+(   3. Step-by-Step Command Lifecycle:) Tj
+T*
+(   # Step 1: Create a virtual environment named 'myenv') Tj
+T*
+(   python -m venv myenv) Tj
+T*
+() Tj
+T*
+(   # Step 2: Activate the environment on Windows) Tj
+T*
+(   .\\myenv\\Scripts\\activate) Tj
+T*
+() Tj
+T*
+(   # Step 3: Install project dependencies) Tj
+T*
+(   pip install requests numpy) Tj
+T*
+() Tj
+T*
+(   # Step 4: Freeze exact installed package versions to requirements.txt) Tj
+T*
+(   pip freeze > requirements.txt) Tj
+T*
+() Tj
+T*
+(   # Step 5: Replicate the identical environment on another server) Tj
+T*
+ET
+
+endstream
+endobj
+53 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 54 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+54 0 obj
+<< /Length 3108 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 1: SETTING UP PROGRAMMING ENVIRONMENT AND PYTHON BASICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 26 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   pip install -r requirements.txt) Tj
+T*
+() Tj
+T*
+(   # Step 6: Deactivate the environment) Tj
+T*
+(   deactivate) Tj
+T*
+() Tj
+T*
+(   4. Production Best Practices:) Tj
+T*
+(   - Always commit requirements.txt or pyproject.toml to Git; NEVER commit the venv folder itself.) Tj
+T*
+(   - Leverage modern tools like poetry or pipenv for deterministic lockfile resolution.) Tj
+T*
+() Tj
+T*
+(   5. Complexity Analysis:) Tj
+T*
+(   - Runtime Overhead: Zero execution overhead; environment isolation is purely a PATH redirection) Tj
+T*
+(   mechanism.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 16:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the Python Standard Library and the 'Batteries Included' philosophy. Provide examples of 5 essential built-in modules \(math, sys, os, random, time\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Python's 'Batteries Included' Philosophy:) Tj
+T*
+(   Conceived by Guido van Rossum, 'Batteries Included' means Python ships with a comprehensive,) Tj
+T*
+(   robust standard library out of the box. Developers can build networking services, parse) Tj
+T*
+(   CSV/JSON, calculate statistical distributions, and interact with operating systems without) Tj
+T*
+(   needing third-party dependencies.) Tj
+T*
+() Tj
+T*
+(   2. Deep Dive into 5 Essential Standard Library Modules:) Tj
+T*
+(   1. math: C-standard mathematical functions \(trigonometric, logarithmic, gamma, constants pi and) Tj
+T*
+(   e\).) Tj
+T*
+(   2. sys: System-specific parameters and interpreter controls \(sys.argv, sys.path, sys.version,) Tj
+T*
+(   sys.exit\).) Tj
+T*
+(   3. os: Operating system interface \(file management, directories, environment variables) Tj
+T*
+(   os.environ\).) Tj
+T*
+(   4. random: Pseudo-random number generator implementing the Mersenne Twister algorithm \(PRNG\).) Tj
+T*
+(   5. time: Wall-clock time, CPU execution timers, and sleep pauses.) Tj
+T*
+() Tj
+T*
+(   3. Integrated Python Demonstration:) Tj
+T*
+(   import math) Tj
+T*
+(   import sys) Tj
+T*
+(   import os) Tj
+T*
+(   import random) Tj
+T*
+(   import time) Tj
+T*
+() Tj
+T*
+(   # 1. math demonstration) Tj
+T*
+(   hypot = math.hypot\(3, 4\)) Tj
+T*
+(   print\(f"math.hypot\(3, 4\) = {hypot} | math.pi = {math.pi:.4f}"\)) Tj
+T*
+() Tj
+T*
+(   # 2. sys demonstration) Tj
+T*
+(   print\(f"Python Interpreter Version: {sys.version.split\(\)[0]} | Platform: {sys.platform}"\)) Tj
+T*
+() Tj
+T*
+(   # 3. os demonstration) Tj
+T*
+(   current_dir = os.getcwd\(\)) Tj
+T*
+(   print\(f"Current Directory: {os.path.basename\(current_dir\)}"\)) Tj
+T*
+() Tj
+T*
+(   # 4. random demonstration) Tj
+T*
+(   random.seed\(42\) # Deterministic seed for reproducible testing) Tj
+T*
+ET
+
+endstream
+endobj
+55 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 56 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+56 0 obj
+<< /Length 3376 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 1: SETTING UP PROGRAMMING ENVIRONMENT AND PYTHON BASICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 27 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   dice_roll = random.randint\(1, 6\)) Tj
+T*
+(   print\(f"Random Dice Roll: {dice_roll}"\)) Tj
+T*
+() Tj
+T*
+(   # 5. time demonstration) Tj
+T*
+(   start_t = time.perf_counter\(\)) Tj
+T*
+(   _ = [x ** 2 for x in range\(100_000\)]) Tj
+T*
+(   elapsed_ms = \(time.perf_counter\(\) - start_t\) * 1000) Tj
+T*
+(   print\(f"Benchmark: 100k squares calculated in {elapsed_ms:.2f} ms"\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(1\) for math, os, and random generator calls; O\(N\) for list comprehension.) Tj
+T*
+(   - Space Complexity: O\(N\) for 100,000 integer elements.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 17:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Modern Python String Formatting Paradigms: % formatting, str.format\(\), and Formatted String Literals \(F-Strings\). Compare performance and readability.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Evolution of String Formatting in Python:) Tj
+T*
+(   Python has supported three distinct formatting paradigms across its evolutionary history:) Tj
+T*
+(   1. Old-Style printf Formatting \(% Operator\): Borrowed from ANSI C printf syntax. Uses format) Tj
+T*
+(   specifiers like %d, %s, %f. Prone to tuple unpacking bugs and poor readability.) Tj
+T*
+(   2. str.format\(\) Method \(Python 2.6+\): Uses curly braces {} with positional and keyword) Tj
+T*
+(   arguments. Provides cleaner syntax but can become verbose with complex nested variables.) Tj
+T*
+(   3. Formatted String Literals / F-Strings \(Python 3.6+, PEP 498\): Prefixed with f or F.) Tj
+T*
+(   Expressions inside {expr} are evaluated directly at runtime in the caller's scope. F-strings) Tj
+T*
+(   compile into specialized BUILD_STRING and FORMAT_VALUE bytecode, making them faster than % and) Tj
+T*
+(   str.format\(\).) Tj
+T*
+() Tj
+T*
+(   2. Feature Comparison Matrix:) Tj
+T*
+(   - Readability: F-Strings > str.format\(\) > % Formatting.) Tj
+T*
+(   - Speed: F-Strings \(Compiled bytecode\) > % Formatting \(C routine\) > str.format\(\) \(Method lookup) Tj
+T*
+(   overhead\).) Tj
+T*
+(   - Arbitrary Expression Evaluation: F-Strings support arbitrary Python code within braces:) Tj
+T*
+(   f'{math.sqrt\(x\):.2f}'.) Tj
+T*
+() Tj
+T*
+(   3. Python Code Demonstration:) Tj
+T*
+(   name = "Aarav") Tj
+T*
+(   score = 94.6782) Tj
+T*
+(   exam_id = 402) Tj
+T*
+() Tj
+T*
+(   # 1. % Formatting) Tj
+T*
+(   old_style = "Student %s \(ID: %04d\) achieved %.2f%%" % \(name, exam_id, score\)) Tj
+T*
+() Tj
+T*
+(   # 2. str.format\(\)) Tj
+T*
+(   mid_style = "Student {} \(ID: {:04d}\) achieved {:.2f}%".format\(name, exam_id, score\)) Tj
+T*
+() Tj
+T*
+(   # 3. Modern F-String) Tj
+T*
+(   new_style = f"Student {name} \(ID: {exam_id:04d}\) achieved {score:.2f}%") Tj
+T*
+() Tj
+T*
+(   print\("Formatting Comparison Results:"\)) Tj
+T*
+(   print\("Old Style: ", old_style\)) Tj
+T*
+(   print\("Mid Style: ", mid_style\)) Tj
+T*
+(   print\("F-String: ", new_style\)) Tj
+T*
+ET
+
+endstream
+endobj
+57 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 58 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+58 0 obj
+<< /Length 3124 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 1: SETTING UP PROGRAMMING ENVIRONMENT AND PYTHON BASICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 28 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   # Self-documenting F-string \(Python 3.8+\)) Tj
+T*
+(   x = 25) Tj
+T*
+(   print\(f"Self-documenting: {x*2=}"\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(N\) where N is output string length.) Tj
+T*
+(   - Space Complexity: O\(N\) memory allocated for formatted string.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 18:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain CPython's Reference Counting and Cyclic Garbage Collection mechanisms. How are reference cycles detected and resolved?) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Dual Memory Management Architecture in CPython:) Tj
+T*
+(   Memory reclamation in CPython relies on two cooperating systems:) Tj
+T*
+(   System 1: Reference Counting \(Primary, Real-Time\):) Tj
+T*
+(   Every PyObject contains an internal field ob_refcnt. Whenever a new variable references the) Tj
+T*
+(   object, its reference count increments. Whenever a reference goes out of scope or is deleted) Tj
+T*
+(   \(del var\), the count decrements. When ob_refcnt == 0, the object is immediately deallocated and) Tj
+T*
+(   its memory freed back to the pymalloc allocator.) Tj
+T*
+(   System 2: Cyclic Generational Garbage Collector \(Secondary, Periodic\):) Tj
+T*
+(   Reference counting alone fails when objects reference each other cyclically \(e.g., node_a.next) Tj
+T*
+(   = node_b and node_b.prev = node_a\). Even if the user deletes external references to node_a and) Tj
+T*
+(   node_b, their internal reference counts remain at 1, causing a permanent memory leak. The) Tj
+T*
+(   cyclic GC identifies and collects these isolated circular islands.) Tj
+T*
+() Tj
+T*
+(   2. Generational GC Mechanics:) Tj
+T*
+(   CPython categorizes objects into three generations \(Gen 0, Gen 1, Gen 2\):) Tj
+T*
+(   - Gen 0: Holds newly allocated objects. Collected most frequently.) Tj
+T*
+(   - Gen 1 & 2: Objects that survive collections are promoted to older generations and scanned) Tj
+T*
+(   less frequently.) Tj
+T*
+() Tj
+T*
+(   3. Python Code Demonstration:) Tj
+T*
+(   import gc) Tj
+T*
+(   import sys) Tj
+T*
+() Tj
+T*
+(   class CycleNode:) Tj
+T*
+(   def __init__\(self, name\):) Tj
+T*
+(   self.name = name) Tj
+T*
+(   self.link = None) Tj
+T*
+() Tj
+T*
+(   # Create isolated circular reference) Tj
+T*
+(   node_a = CycleNode\("A"\)) Tj
+T*
+(   node_b = CycleNode\("B"\)) Tj
+T*
+(   node_a.link = node_b) Tj
+T*
+(   node_b.link = node_a) Tj
+T*
+() Tj
+T*
+(   # Break external variable references) Tj
+T*
+(   del node_a) Tj
+T*
+(   del node_b) Tj
+T*
+() Tj
+T*
+(   print\("External references deleted, circular reference trapped in heap."\)) Tj
+T*
+(   # Manually trigger cyclic garbage collection) Tj
+T*
+ET
+
+endstream
+endobj
+59 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 60 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+60 0 obj
+<< /Length 2999 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 1: SETTING UP PROGRAMMING ENVIRONMENT AND PYTHON BASICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 29 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   unreachable_count = gc.collect\(\)) Tj
+T*
+(   print\(f"Cyclic GC collected {unreachable_count} unreachable cyclic objects."\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+(   - Reference Counting: O\(1\) amortized increment/decrement per assignment.) Tj
+T*
+(   - Cyclic GC Collection: O\(N\) where N is number of candidate container objects in the) Tj
+T*
+(   generation.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 19:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Python's sys.argv and Command-Line Argument Processing. Write a standalone Python script demonstrating command-line parameter parsing.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Concept of Command-Line Execution:) Tj
+T*
+(   When a Python script is launched from the Windows command line or PowerShell \(e.g., python) Tj
+T*
+(   process.py input.csv --verbose\), the arguments passed to the script are captured by the runtime) Tj
+T*
+(   and exposed as a list of strings in the sys module: sys.argv.) Tj
+T*
+() Tj
+T*
+(   2. Structure of sys.argv:) Tj
+T*
+(   - sys.argv[0]: The script filename or path being executed.) Tj
+T*
+(   - sys.argv[1:]: The actual positional parameters and flags passed by the user.) Tj
+T*
+(   - All items in sys.argv are strictly strings \(str\); numeric parameters must be explicitly) Tj
+T*
+(   converted using int\(\) or float\(\).) Tj
+T*
+() Tj
+T*
+(   3. Robust Python Demonstration:) Tj
+T*
+(   import sys) Tj
+T*
+() Tj
+T*
+(   def parse_cli_arguments\(args\):) Tj
+T*
+(   """Simulate command-line argument processing.""") Tj
+T*
+(   if len\(args\) < 3:) Tj
+T*
+(   return "Usage: python script.py <operation: add|mul> <num1> <num2>") Tj
+T*
+() Tj
+T*
+(   op = args[1].lower\(\)) Tj
+T*
+(   try:) Tj
+T*
+(   n1 = float\(args[2]\)) Tj
+T*
+(   n2 = float\(args[3]\)) Tj
+T*
+(   except ValueError:) Tj
+T*
+(   return "Error: Both arguments must be valid numeric numbers.") Tj
+T*
+() Tj
+T*
+(   if op == "add":) Tj
+T*
+(   return f"Result of {n1} + {n2} = {n1 + n2}") Tj
+T*
+(   elif op == "mul":) Tj
+T*
+(   return f"Result of {n1} * {n2} = {n1 * n2}") Tj
+T*
+(   else:) Tj
+T*
+(   return f"Error: Unknown operation '{op}'. Supported: add, mul.") Tj
+T*
+() Tj
+T*
+(   # Simulation with mock command line arguments) Tj
+T*
+(   mock_args = ["calc.py", "mul", "12.5", "4"]) Tj
+T*
+(   print\(f"Simulating command: {' '.join\(mock_args\)}"\)) Tj
+T*
+(   result = parse_cli_arguments\(mock_args\)) Tj
+T*
+(   print\(result\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(1\) argument indexing and validation.) Tj
+T*
+ET
+
+endstream
+endobj
+61 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 62 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+62 0 obj
+<< /Length 3207 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 1: SETTING UP PROGRAMMING ENVIRONMENT AND PYTHON BASICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 30 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - Space Complexity: O\(A\) where A is the total string length of passed arguments.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 20:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Floating-Point Representation \(IEEE 754\) in Python. Why does 0.1 + 0.2 != 0.3, and how should financial/scientific calculations handle precision?) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Binary Floating-Point Representation:) Tj
+T*
+(   Python's float type is implemented as a 64-bit double precision value conforming to IEEE 754) Tj
+T*
+(   standard:) Tj
+T*
+(   - 1 sign bit) Tj
+T*
+(   - 11 exponent bits) Tj
+T*
+(   - 52 fraction \(mantissa\) bits \(yielding ~15 to 17 significant decimal digits of precision\).) Tj
+T*
+() Tj
+T*
+(   2. Why 0.1 + 0.2 != 0.3:) Tj
+T*
+(   In base-10, numbers like 1/3 cannot be represented with finite decimal digits \(0.3333...\).) Tj
+T*
+(   Similarly, in base-2 \(binary\), numbers like 0.1 \(1/10\) and 0.2 \(1/5\) result in infinitely) Tj
+T*
+(   repeating binary fractions:) Tj
+T*
+(   - 0.1 in binary = 0.0001100110011001100110011...) Tj
+T*
+(   When stored in 53 bits of precision, the number must be rounded. When 0.1 and 0.2 are added in) Tj
+T*
+(   binary:) Tj
+T*
+(   0.1 + 0.2 = 0.300000000000000044408920985006...) Tj
+T*
+(   Therefore, the equality test 0.1 + 0.2 == 0.3 evaluates to False!) Tj
+T*
+() Tj
+T*
+(   3. Industry Solutions for Exact Calculations:) Tj
+T*
+(   1. For Scientific Calculations: Use math.isclose\(a, b, rel_tol=1e-9\) to check equality within a) Tj
+T*
+(   tolerance epsilon.) Tj
+T*
+(   2. For Financial/Banking Calculations: Use the decimal.Decimal class, which implements exact) Tj
+T*
+(   base-10 fixed-point arithmetic without binary representation errors.) Tj
+T*
+() Tj
+T*
+(   4. Python Code Demonstration:) Tj
+T*
+(   import math) Tj
+T*
+(   from decimal import Decimal) Tj
+T*
+() Tj
+T*
+(   # IEEE 754 Error Demonstration) Tj
+T*
+(   sum_float = 0.1 + 0.2) Tj
+T*
+(   print\(f"0.1 + 0.2 = {sum_float:.20f}"\)) Tj
+T*
+(   print\(f"0.1 + 0.2 == 0.3 -> {sum_float == 0.3}"\)) Tj
+T*
+() Tj
+T*
+(   # Solution 1: math.isclose\(\)) Tj
+T*
+(   print\(f"math.isclose\(0.1 + 0.2, 0.3\) -> {math.isclose\(sum_float, 0.3\)}"\)) Tj
+T*
+() Tj
+T*
+(   # Solution 2: decimal.Decimal) Tj
+T*
+(   dec1 = Decimal\('0.1'\)) Tj
+T*
+(   dec2 = Decimal\('0.2'\)) Tj
+T*
+(   dec_sum = dec1 + dec2) Tj
+T*
+(   print\(f"Decimal\('0.1'\) + Decimal\('0.2'\) = {dec_sum} \(Exact Match: {dec_sum ==) Tj
+T*
+(   Decimal\('0.3'\)}\)"\)) Tj
+T*
+() Tj
+T*
+(   5. Complexity Analysis:) Tj
+T*
+(   - Float Operations: O\(1\) hardware CPU ALU execution.) Tj
+T*
+(   - Decimal Operations: O\(D\) software emulation arithmetic.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+ET
+
+endstream
+endobj
+63 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 64 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+64 0 obj
+<< /Length 3334 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 1: SETTING UP PROGRAMMING ENVIRONMENT AND PYTHON BASICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 31 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 21:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Design an interactive Python console application that computes Compound Interest and displays an annual amortization schedule table.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Context:) Tj
+T*
+(   Develop a robust Python program that takes Principal \(P\), Annual Interest Rate \(R in percent\),) Tj
+T*
+(   Compounding Frequency \(n per year\), and Time Period \(t in years\). Compute the total Compound) Tj
+T*
+(   Interest and maturity amount, and display an formatted annual table.) Tj
+T*
+() Tj
+T*
+(   2. Mathematical Formula:) Tj
+T*
+(   A = P * \(1 + R / \(100 * n\)\) ** \(n * t\)) Tj
+T*
+(   Compound Interest \(CI\) = A - P.) Tj
+T*
+() Tj
+T*
+(   3. Python Implementation:) Tj
+T*
+(   def calculate_compound_interest\(principal, annual_rate, comp_freq, years\):) Tj
+T*
+(   print\("=" * 65\)) Tj
+T*
+(   print\(f"{'ANNUAL COMPOUND INTEREST AMORTIZATION SCHEDULE':^65}"\)) Tj
+T*
+(   print\("=" * 65\)) Tj
+T*
+(   print\(f"Initial Principal: ${principal:,.2f} | Annual Rate: {annual_rate:.2f}% | Freq:) Tj
+T*
+(   {comp_freq}/yr"\)) Tj
+T*
+(   print\("-" * 65\)) Tj
+T*
+(   print\(f"{'Year':<8}{'Opening Balance':<20}{'Interest Earned':<18}{'Closing Balance':<18}"\)) Tj
+T*
+(   print\("-" * 65\)) Tj
+T*
+() Tj
+T*
+(   current_balance = principal) Tj
+T*
+(   rate_per_period = \(annual_rate / 100.0\) / comp_freq) Tj
+T*
+() Tj
+T*
+(   for yr in range\(1, years + 1\):) Tj
+T*
+(   opening = current_balance) Tj
+T*
+(   # Calculate balance after 1 full year \(comp_freq periods\)) Tj
+T*
+(   current_balance = opening * \(\(1 + rate_per_period\) ** comp_freq\)) Tj
+T*
+(   interest_this_year = current_balance - opening) Tj
+T*
+(   print\(f"{yr:<8}${opening:<19,.2f}${interest_this_year:<17,.2f}${current_balance:<17,.2f}"\)) Tj
+T*
+() Tj
+T*
+(   total_interest = current_balance - principal) Tj
+T*
+(   print\("=" * 65\)) Tj
+T*
+(   print\(f"Total Maturity Amount: ${current_balance:,.2f}"\)) Tj
+T*
+(   print\(f"Total Compound Interest Accrued: ${total_interest:,.2f}"\)) Tj
+T*
+(   print\("=" * 65\)) Tj
+T*
+(   return current_balance) Tj
+T*
+() Tj
+T*
+(   # Execution with test parameters) Tj
+T*
+(   calculate_compound_interest\(principal=10000.0, annual_rate=6.5, comp_freq=4, years=5\)) Tj
+T*
+() Tj
+T*
+(   4. Memory Model & Complexity Analysis:) Tj
+T*
+(   - Local Variables: 5 float numbers stored in the activation record.) Tj
+T*
+(   - Time Complexity: O\(years\) linear iteration over annual schedule.) Tj
+T*
+(   - Space Complexity: O\(1\) auxiliary memory.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 22:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement a Python program for Temperature Conversion supporting Celsius, Fahrenheit, and Kelvin scales with input validation and error handling.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+ET
+
+endstream
+endobj
+65 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 66 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+66 0 obj
+<< /Length 2759 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 1: SETTING UP PROGRAMMING ENVIRONMENT AND PYTHON BASICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 32 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   1. Problem Context:) Tj
+T*
+(   Engineering applications frequently require seamless conversion across thermodynamic) Tj
+T*
+(   temperature scales: Celsius \(C\), Fahrenheit \(F\), and Kelvin \(K\). The program must validate) Tj
+T*
+(   inputs \(e.g., rejecting temperatures below Absolute Zero: -273.15 C or 0 K\).) Tj
+T*
+() Tj
+T*
+(   2. Thermodynamic Formulas:) Tj
+T*
+(   - F = \(C * 9/5\) + 32) Tj
+T*
+(   - C = \(F - 32\) * 5/9) Tj
+T*
+(   - K = C + 273.15) Tj
+T*
+(   - C = K - 273.15) Tj
+T*
+() Tj
+T*
+(   3. Python Implementation:) Tj
+T*
+(   class TemperatureConverter:) Tj
+T*
+(   ABSOLUTE_ZERO_C = -273.15) Tj
+T*
+(   ABSOLUTE_ZERO_K = 0.0) Tj
+T*
+() Tj
+T*
+(   @staticmethod) Tj
+T*
+(   def celsius_to_all\(celsius: float\):) Tj
+T*
+(   if celsius < TemperatureConverter.ABSOLUTE_ZERO_C:) Tj
+T*
+(   raise ValueError\(f"Physics Violation: Temperature {celsius} C is below Absolute Zero \(-273.15) Tj
+T*
+(   C\)!"\)) Tj
+T*
+() Tj
+T*
+(   fahrenheit = \(celsius * 9 / 5\) + 32) Tj
+T*
+(   kelvin = celsius + 273.15) Tj
+T*
+(   return {"Celsius": celsius, "Fahrenheit": round\(fahrenheit, 2\), "Kelvin": round\(kelvin, 2\)}) Tj
+T*
+() Tj
+T*
+(   @staticmethod) Tj
+T*
+(   def fahrenheit_to_all\(fahrenheit: float\):) Tj
+T*
+(   celsius = \(fahrenheit - 32\) * 5 / 9) Tj
+T*
+(   return TemperatureConverter.celsius_to_all\(celsius\)) Tj
+T*
+() Tj
+T*
+(   # Demonstration and Verification) Tj
+T*
+(   try:) Tj
+T*
+(   c_sample = 37.0 # Human body temperature) Tj
+T*
+(   res = TemperatureConverter.celsius_to_all\(c_sample\)) Tj
+T*
+(   print\(f"Human Body Temp: {res['Celsius']} C = {res['Fahrenheit']} F = {res['Kelvin']} K"\)) Tj
+T*
+() Tj
+T*
+(   # Boundary test: Absolute zero) Tj
+T*
+(   abs_zero = TemperatureConverter.celsius_to_all\(-273.15\)) Tj
+T*
+(   print\(f"Absolute Zero: {abs_zero['Celsius']} C = {abs_zero['Fahrenheit']} F =) Tj
+T*
+(   {abs_zero['Kelvin']} K"\)) Tj
+T*
+() Tj
+T*
+(   # Invalid temperature test) Tj
+T*
+(   TemperatureConverter.celsius_to_all\(-300.0\)) Tj
+T*
+(   except ValueError as err:) Tj
+T*
+(   print\(f"Validation Caught: {err}"\)) Tj
+T*
+() Tj
+T*
+(   4. Memory Model & Complexity:) Tj
+T*
+(   - Time Complexity: O\(1\) elementary arithmetic operations.) Tj
+T*
+(   - Space Complexity: O\(1\) dictionary creation.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 23:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+ET
+
+endstream
+endobj
+67 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 68 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+68 0 obj
+<< /Length 2480 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 1: SETTING UP PROGRAMMING ENVIRONMENT AND PYTHON BASICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 33 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   [Problem Statement]: Implement a comprehensive Python script demonstrating all Bitwise Operations to manipulate hardware register control flags \(Set, Clear, Toggle, Check\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Context:) Tj
+T*
+(   In embedded systems and low-level driver development, hardware status registers are manipulated) Tj
+T*
+(   using bitwise bit masks:) Tj
+T*
+(   - Set Bit: register |= \(1 << n\)) Tj
+T*
+(   - Clear Bit: register &= ~\(1 << n\)) Tj
+T*
+(   - Toggle Bit: register ^= \(1 << n\)) Tj
+T*
+(   - Check Bit: \(register & \(1 << n\)\) != 0) Tj
+T*
+() Tj
+T*
+(   2. Python Implementation:) Tj
+T*
+(   class HardwareRegister:) Tj
+T*
+(   def __init__\(self, initial_val=0x00\):) Tj
+T*
+(   self._reg = initial_val & 0xFF # Emulate 8-bit hardware register) Tj
+T*
+() Tj
+T*
+(   def set_bit\(self, bit_pos: int\):) Tj
+T*
+(   self._reg |= \(1 << bit_pos\)) Tj
+T*
+() Tj
+T*
+(   def clear_bit\(self, bit_pos: int\):) Tj
+T*
+(   self._reg &= ~\(1 << bit_pos\)) Tj
+T*
+() Tj
+T*
+(   def toggle_bit\(self, bit_pos: int\):) Tj
+T*
+(   self._reg ^= \(1 << bit_pos\)) Tj
+T*
+() Tj
+T*
+(   def is_bit_set\(self, bit_pos: int\) -> bool:) Tj
+T*
+(   return \(self._reg & \(1 << bit_pos\)\) != 0) Tj
+T*
+() Tj
+T*
+(   def display\(self, label=""\):) Tj
+T*
+(   print\(f"{label:<25} | Hex: 0x{self._reg:02X} | Bin: {self._reg:08b}"\)) Tj
+T*
+() Tj
+T*
+(   # Demonstration) Tj
+T*
+(   reg = HardwareRegister\(0b00000000\)) Tj
+T*
+(   reg.display\("Initial State"\)) Tj
+T*
+() Tj
+T*
+(   # Set Bit 3 \(e.g., Enable Motor\)) Tj
+T*
+(   reg.set_bit\(3\)) Tj
+T*
+(   reg.display\("After Setting Bit 3"\)) Tj
+T*
+() Tj
+T*
+(   # Set Bit 0 \(e.g., Power ON\)) Tj
+T*
+(   reg.set_bit\(0\)) Tj
+T*
+(   reg.display\("After Setting Bit 0"\)) Tj
+T*
+() Tj
+T*
+(   # Check Bit 3) Tj
+T*
+(   print\(f"Is Bit 3 Active? {reg.is_bit_set\(3\)}"\)) Tj
+T*
+() Tj
+T*
+(   # Toggle Bit 0 \(Turn Power OFF\)) Tj
+T*
+(   reg.toggle_bit\(0\)) Tj
+T*
+(   reg.display\("After Toggling Bit 0"\)) Tj
+T*
+() Tj
+T*
+(   # Clear Bit 3 \(Disable Motor\)) Tj
+T*
+(   reg.clear_bit\(3\)) Tj
+T*
+(   reg.display\("After Clearing Bit 3"\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+ET
+
+endstream
+endobj
+69 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 70 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+70 0 obj
+<< /Length 2821 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 1: SETTING UP PROGRAMMING ENVIRONMENT AND PYTHON BASICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 34 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - Time Complexity: O\(1\) single-cycle bitwise ALU operations.) Tj
+T*
+(   - Space Complexity: O\(1\) 8-bit integer state.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 24:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement a Python program to perform Cartesian Coordinate System operations: Distance calculation, midpoint, polar coordinate conversion, and slope.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Context:) Tj
+T*
+(   Develop a modular Python program for 2D Cartesian plane geometry. Given two points P1\(x1, y1\)) Tj
+T*
+(   and P2\(x2, y2\), calculate:) Tj
+T*
+(   1. Euclidean distance d = sqrt\(\(x2 - x1\)^2 + \(y2 - y1\)^2\)) Tj
+T*
+(   2. Midpoint M = \(\(x1 + x2\)/2, \(y1 + y2\)/2\)) Tj
+T*
+(   3. Line slope m = \(y2 - y1\) / \(x2 - x1\)) Tj
+T*
+(   4. Polar coordinates \(r, theta\) using math.hypot and math.atan2.) Tj
+T*
+() Tj
+T*
+(   2. Python Implementation:) Tj
+T*
+(   import math) Tj
+T*
+() Tj
+T*
+(   class Point2D:) Tj
+T*
+(   def __init__\(self, x: float, y: float\):) Tj
+T*
+(   self.x = float\(x\)) Tj
+T*
+(   self.y = float\(y\)) Tj
+T*
+() Tj
+T*
+(   def distance_to\(self, other: 'Point2D'\) -> float:) Tj
+T*
+(   return math.hypot\(self.x - other.x, self.y - other.y\)) Tj
+T*
+() Tj
+T*
+(   def midpoint_with\(self, other: 'Point2D'\) -> tuple:) Tj
+T*
+(   return \(\(self.x + other.x\) / 2.0, \(self.y + other.y\) / 2.0\)) Tj
+T*
+() Tj
+T*
+(   def slope_to\(self, other: 'Point2D'\) -> float:) Tj
+T*
+(   dx = other.x - self.x) Tj
+T*
+(   dy = other.y - self.y) Tj
+T*
+(   if dx == 0:) Tj
+T*
+(   return float\('inf'\) # Vertical line) Tj
+T*
+(   return dy / dx) Tj
+T*
+() Tj
+T*
+(   def to_polar\(self\) -> tuple:) Tj
+T*
+(   r = math.hypot\(self.x, self.y\)) Tj
+T*
+(   theta_rad = math.atan2\(self.y, self.x\)) Tj
+T*
+(   theta_deg = math.degrees\(theta_rad\)) Tj
+T*
+(   return \(round\(r, 4\), round\(theta_deg, 2\)\)) Tj
+T*
+() Tj
+T*
+(   def __repr__\(self\):) Tj
+T*
+(   return f"Point\({self.x}, {self.y}\)") Tj
+T*
+() Tj
+T*
+(   # Verification) Tj
+T*
+(   p1 = Point2D\(3, 4\)) Tj
+T*
+(   p2 = Point2D\(7, 1\)) Tj
+T*
+() Tj
+T*
+(   print\(f"Point 1: {p1} | Polar \(r, theta\): {p1.to_polar\(\)}"\)) Tj
+T*
+(   print\(f"Point 2: {p2} | Polar \(r, theta\): {p2.to_polar\(\)}"\)) Tj
+T*
+(   print\(f"Euclidean Distance P1-P2: {p1.distance_to\(p2\):.4f}"\)) Tj
+T*
+(   print\(f"Midpoint P1-P2: {p1.midpoint_with\(p2\)}"\)) Tj
+T*
+ET
+
+endstream
+endobj
+71 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 72 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+72 0 obj
+<< /Length 3024 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 1: SETTING UP PROGRAMMING ENVIRONMENT AND PYTHON BASICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 35 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   print\(f"Slope of Line P1-P2: {p1.slope_to\(p2\):.4f}"\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(1\) analytic geometry operations.) Tj
+T*
+(   - Space Complexity: O\(1\) object allocations.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 25:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the Walrus Operator \(:=\) introduced in Python 3.8. Discuss its motivation, syntax, performance advantages, and write code demonstrating its practical use.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Motivation Behind the Assignment Expression \(PEP 572\):) Tj
+T*
+(   Prior to Python 3.8, assignment \(=\) was purely a statement and could not be used inside) Tj
+T*
+(   expressions \(such as while loops or if conditions\). Developers often had to write redundant) Tj
+T*
+(   duplicate calls or initialize variables outside loops.) Tj
+T*
+(   The Walrus Operator \(:=\), formally termed Assignment Expression, allows assigning values to) Tj
+T*
+(   variables inside expressions while simultaneously evaluating to that value.) Tj
+T*
+() Tj
+T*
+(   2. Syntax Comparison:) Tj
+T*
+(   - Without Walrus Operator:) Tj
+T*
+(   data = file.readline\(\)) Tj
+T*
+(   while data != '':) Tj
+T*
+(   process\(data\)) Tj
+T*
+(   data = file.readline\(\)) Tj
+T*
+(   - With Walrus Operator:) Tj
+T*
+(   while \(data := file.readline\(\)\) != '':) Tj
+T*
+(   process\(data\)) Tj
+T*
+() Tj
+T*
+(   3. Python Demonstration:) Tj
+T*
+(   # Example 1: Streamlining Regex or String Parsing) Tj
+T*
+(   def process_data_stream\(\):) Tj
+T*
+(   inputs = ["python", "c++", "supercalifragilistic", "ai", "machinelearning"]) Tj
+T*
+() Tj
+T*
+(   print\("Filtering words with length > 6 and printing both word and length:"\)) Tj
+T*
+(   # Using walrus operator inside list comprehension) Tj
+T*
+(   filtered = [\(w, n\) for w in inputs if \(n := len\(w\)\) > 6]) Tj
+T*
+(   for word, length in filtered:) Tj
+T*
+(   print\(f" Word: '{word}' -> Length: {length}"\)) Tj
+T*
+() Tj
+T*
+(   process_data_stream\(\)) Tj
+T*
+() Tj
+T*
+(   # Example 2: Avoiding Duplicate Expensive Computations) Tj
+T*
+(   import math) Tj
+T*
+(   def check_heavy_computation\(x\):) Tj
+T*
+(   # Calculate expensive square root once and check threshold) Tj
+T*
+(   if \(val := math.sqrt\(x\)\) > 10:) Tj
+T*
+(   print\(f"Condition met! sqrt\({x}\) = {val:.2f} > 10"\)) Tj
+T*
+(   else:) Tj
+T*
+(   print\(f"Condition not met! sqrt\({x}\) = {val:.2f} <= 10"\)) Tj
+T*
+() Tj
+T*
+(   check_heavy_computation\(144\)) Tj
+T*
+(   check_heavy_computation\(49\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+ET
+
+endstream
+endobj
+73 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 74 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+74 0 obj
+<< /Length 3651 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 1: SETTING UP PROGRAMMING ENVIRONMENT AND PYTHON BASICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 36 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - Time Complexity: Eliminates redundant O\(N\) or O\(Cost\) duplicate evaluations.) Tj
+T*
+(   - Space Complexity: O\(1\) auxiliary variable binding.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 26:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain String Encoding and Decoding \(ASCII, UTF-8, Unicode\) in Python. Detail how str.encode\(\) and bytes.decode\(\) bridge text and binary data.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. The Need for Character Encodings:) Tj
+T*
+(   Computers store bytes \(8-bit sequences of 0s and 1s\). Human languages use abstract symbols) Tj
+T*
+(   \(letters, ideograms, emojis\). An encoding is a translation mapping between abstract character) Tj
+T*
+(   code points and concrete byte sequences:) Tj
+T*
+(   - ASCII: 7-bit encoding supporting 128 English characters \(0x00 to 0x7F\).) Tj
+T*
+(   - Unicode: A universal character set mapping over 149,000 characters from all world languages) Tj
+T*
+(   to integer code points \(U+0000 to U+10FFFF\).) Tj
+T*
+(   - UTF-8: A variable-length encoding \(1 to 4 bytes per code point\). It is backward compatible) Tj
+T*
+(   with 7-bit ASCII and is the dominant encoding standard of the World Wide Web.) Tj
+T*
+() Tj
+T*
+(   2. Bridging str and bytes in Python:) Tj
+T*
+(   - str: An abstract sequence of Unicode code points. Human-readable text.) Tj
+T*
+(   - bytes: An immutable sequence of raw 8-bit integers \(0 to 255\). Machine/network readable.) Tj
+T*
+(   - encode\('utf-8'\): Translates str -> bytes.) Tj
+T*
+(   - decode\('utf-8'\): Translates bytes -> str.) Tj
+T*
+() Tj
+T*
+(   3. Python Demonstration Code:) Tj
+T*
+(   # Original Unicode String with Multilingual Content) Tj
+T*
+(   text = "Python ? CSE \(?\)" # Heart and Greek Pi) Tj
+T*
+(   print\(f"Original Text \(str\): {text} \(Length: {len\(text\)} characters\)"\)) Tj
+T*
+() Tj
+T*
+(   # Encoding to UTF-8 Bytes) Tj
+T*
+(   utf8_bytes = text.encode\('utf-8'\)) Tj
+T*
+(   print\(f"UTF-8 Encoded \(bytes\): {utf8_bytes} \(Length: {len\(utf8_bytes\)} bytes\)"\)) Tj
+T*
+() Tj
+T*
+(   # Decoding back to Unicode String) Tj
+T*
+(   restored_text = utf8_bytes.decode\('utf-8'\)) Tj
+T*
+(   print\(f"Decoded Text Matches: {restored_text == text}"\)) Tj
+T*
+() Tj
+T*
+(   # Error Handling Strategies during Decoding) Tj
+T*
+(   corrupt_bytes = b"Hello ? World") Tj
+T*
+(   decoded_ignore = corrupt_bytes.decode\('utf-8', errors='ignore'\)) Tj
+T*
+(   decoded_replace = corrupt_bytes.decode\('utf-8', errors='replace'\)) Tj
+T*
+(   print\(f"Ignore Errors: '{decoded_ignore}'"\)) Tj
+T*
+(   print\(f"Replace Errors: '{decoded_replace}'"\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(N\) where N is string length.) Tj
+T*
+(   - Space Complexity: O\(N\) memory for byte array.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 27:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the keyword module and dynamic inspection of Python keywords. Demonstrate how to check valid identifiers programmatically.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Language Keywords in Python:) Tj
+T*
+ET
+
+endstream
+endobj
+75 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 76 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+76 0 obj
+<< /Length 3252 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 1: SETTING UP PROGRAMMING ENVIRONMENT AND PYTHON BASICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 37 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   Python keywords are reserved tokens defined in the interpreter's grammar. They have special) Tj
+T*
+(   syntactic meaning \(e.g., if, for, class, def, return, yield\) and cannot be assigned as) Tj
+T*
+(   variable, function, or class names.) Tj
+T*
+(   Modern Python 3.10+ contains 35 keywords.) Tj
+T*
+() Tj
+T*
+(   2. Dynamic Inspection via keyword Module:) Tj
+T*
+(   The standard library keyword module provides:) Tj
+T*
+(   - keyword.kwlist: A sorted list of all reserved keywords.) Tj
+T*
+(   - keyword.iskeyword\(s\): Returns True if string s is a reserved keyword.) Tj
+T*
+(   - keyword.issoftkeyword\(s\): Identifies contextual soft keywords introduced in Python 3.10) Tj
+T*
+(   \(e.g., match, case\).) Tj
+T*
+(   - str.isidentifier\(\): Built-in string method checking if string follows valid identifier) Tj
+T*
+(   syntax.) Tj
+T*
+() Tj
+T*
+(   3. Python Implementation & Identifier Validator:) Tj
+T*
+(   import keyword) Tj
+T*
+() Tj
+T*
+(   def validate_python_identifier\(identifier_name: str\) -> tuple:) Tj
+T*
+(   """Validates whether a string can serve as a legal variable name.""") Tj
+T*
+(   if not isinstance\(identifier_name, str\):) Tj
+T*
+(   return \(False, "Identifier must be a string."\)) Tj
+T*
+() Tj
+T*
+(   if len\(identifier_name\) == 0:) Tj
+T*
+(   return \(False, "Identifier cannot be empty."\)) Tj
+T*
+() Tj
+T*
+(   if keyword.iskeyword\(identifier_name\):) Tj
+T*
+(   return \(False, f"'{identifier_name}' is a reserved Python keyword."\)) Tj
+T*
+() Tj
+T*
+(   if not identifier_name.isidentifier\(\):) Tj
+T*
+(   return \(False, f"'{identifier_name}' contains illegal characters or starts with a digit."\)) Tj
+T*
+() Tj
+T*
+(   return \(True, f"'{identifier_name}' is a completely valid Python identifier."\)) Tj
+T*
+() Tj
+T*
+(   # Test Scenarios) Tj
+T*
+(   test_cases = ["student_name", "_temp_var", "2nd_rank", "class", "total$sum", "def",) Tj
+T*
+(   "normalVariable"]) Tj
+T*
+(   print\(f"Total Python Keywords: {len\(keyword.kwlist\)}"\)) Tj
+T*
+(   print\("-" * 60\)) Tj
+T*
+(   for tc in test_cases:) Tj
+T*
+(   valid, msg = validate_python_identifier\(tc\)) Tj
+T*
+(   status = "[VALID] " if valid else "[INVALID]") Tj
+T*
+(   print\(f"{status} {msg}"\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(1\) hash set lookup in keyword.iskeyword\(\).) Tj
+T*
+(   - Space Complexity: O\(1\) auxiliary validation overhead.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 28:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the Python Data Model and Built-in Special \(Dunder\) Attributes: __name__, __doc__, __file__, __dict__, and __class__.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Theoretical Foundation of Dunder Attributes:) Tj
+T*
+(   CPython exposes internal runtime state and metadata through reserved double-underscore) Tj
+T*
+ET
+
+endstream
+endobj
+77 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 78 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+78 0 obj
+<< /Length 3274 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 1: SETTING UP PROGRAMMING ENVIRONMENT AND PYTHON BASICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 38 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   \('dunder'\) attributes attached to modules, classes, and instances.) Tj
+T*
+() Tj
+T*
+(   2. Core Dunder Attributes:) Tj
+T*
+(   1. __name__: Holds the name of the module or function. For the main entry script executed) Tj
+T*
+(   directly, __name__ is set to '__main__'.) Tj
+T*
+(   2. __doc__: Stores the documentation string \(docstring\) of the entity.) Tj
+T*
+(   3. __file__: Contains the absolute filesystem path from which the module was loaded.) Tj
+T*
+(   4. __dict__: A dictionary namespace holding all writable attributes of an object or module.) Tj
+T*
+(   5. __class__: A reference to the type or class of which the current object is an instance.) Tj
+T*
+() Tj
+T*
+(   3. Python Demonstration Code:) Tj
+T*
+(   """Sample Module Docstring for Introspection Demonstration.""") Tj
+T*
+() Tj
+T*
+(   class StudentProfile:) Tj
+T*
+(   """Student demographic and academic record class.""") Tj
+T*
+(   def __init__\(self, name: str, gpa: float\):) Tj
+T*
+(   self.name = name) Tj
+T*
+(   self.gpa = gpa) Tj
+T*
+() Tj
+T*
+(   stu = StudentProfile\("Meera", 3.88\)) Tj
+T*
+() Tj
+T*
+(   print\("Introspecting Module & Object Dunder Attributes:"\)) Tj
+T*
+(   print\(f"Module __name__: {__name__}"\)) Tj
+T*
+(   print\(f"Class __name__: {StudentProfile.__name__}"\)) Tj
+T*
+(   print\(f"Class __doc__: {StudentProfile.__doc__}"\)) Tj
+T*
+(   print\(f"Instance __class__: {stu.__class__}"\)) Tj
+T*
+(   print\(f"Instance __dict__: {stu.__dict__}"\)) Tj
+T*
+() Tj
+T*
+(   # Modifying state through __dict__) Tj
+T*
+(   stu.__dict__['major'] = 'Computer Science') Tj
+T*
+(   print\(f"Dynamic Attribute Added via __dict__: stu.major = {stu.major}"\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+(   - Attribute Access: O\(1\) dictionary lookup in instance and class __dict__.) Tj
+T*
+(   - Space Complexity: O\(K\) where K is number of instance attributes stored in __dict__.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 29:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Design an interactive quadratic equation solver in Python that handles real roots, single degenerate roots, and complex conjugate roots with full error handling.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Mathematical Formulation:) Tj
+T*
+(   For a quadratic equation a*x^2 + b*x + c = 0 \(where a != 0\):) Tj
+T*
+(   Discriminant: Delta = b^2 - 4*a*c.) Tj
+T*
+(   - Case 1: Delta > 0 -> Two distinct real roots: x = \(-b +/- sqrt\(Delta\)\) / \(2*a\).) Tj
+T*
+(   - Case 2: Delta == 0 -> Single degenerate real root: x = -b / \(2*a\).) Tj
+T*
+(   - Case 3: Delta < 0 -> Two complex conjugate roots: x = -b / \(2*a\) +/- \(sqrt\(|Delta|\) / \(2*a\)\)) Tj
+T*
+(   * 1j.) Tj
+T*
+() Tj
+T*
+(   2. Python Implementation:) Tj
+T*
+(   import cmath) Tj
+T*
+(   import math) Tj
+T*
+() Tj
+T*
+(   def solve_quadratic_equation\(a: float, b: float, c: float\):) Tj
+T*
+ET
+
+endstream
+endobj
+79 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 80 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+80 0 obj
+<< /Length 3362 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 1: SETTING UP PROGRAMMING ENVIRONMENT AND PYTHON BASICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 39 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   if a == 0:) Tj
+T*
+(   raise ValueError\("Degenerate Case: 'a' cannot be zero in a quadratic equation."\)) Tj
+T*
+() Tj
+T*
+(   discriminant = \(b ** 2\) - \(4 * a * c\)) Tj
+T*
+(   print\(f"\\nSolving: \({a}\)x^2 + \({b}\)x + \({c}\) = 0 | Discriminant = {discriminant}"\)) Tj
+T*
+() Tj
+T*
+(   if discriminant > 0:) Tj
+T*
+(   sqrt_d = math.sqrt\(discriminant\)) Tj
+T*
+(   r1 = \(-b + sqrt_d\) / \(2 * a\)) Tj
+T*
+(   r2 = \(-b - sqrt_d\) / \(2 * a\)) Tj
+T*
+(   print\(f" Two Distinct Real Roots: x1 = {r1:.4f}, x2 = {r2:.4f}"\)) Tj
+T*
+(   return \(r1, r2\)) Tj
+T*
+(   elif discriminant == 0:) Tj
+T*
+(   r = -b / \(2 * a\)) Tj
+T*
+(   print\(f" Single Degenerate Real Root: x = {r:.4f}"\)) Tj
+T*
+(   return \(r,\)) Tj
+T*
+(   else:) Tj
+T*
+(   # Complex conjugate roots using cmath) Tj
+T*
+(   sqrt_d = cmath.sqrt\(discriminant\)) Tj
+T*
+(   r1 = \(-b + sqrt_d\) / \(2 * a\)) Tj
+T*
+(   r2 = \(-b - sqrt_d\) / \(2 * a\)) Tj
+T*
+(   print\(f" Complex Conjugate Roots: x1 = {r1.real:.4f} + {r1.imag:.4f}j, x2 = {r2.real:.4f} +) Tj
+T*
+(   {r2.imag:.4f}j"\)) Tj
+T*
+(   return \(r1, r2\)) Tj
+T*
+() Tj
+T*
+(   # Test All Three Regimes) Tj
+T*
+(   solve_quadratic_equation\(1, -5, 6\) # Roots: 3.0, 2.0 \(Delta = 1\)) Tj
+T*
+(   solve_quadratic_equation\(1, -4, 4\) # Roots: 2.0 \(Delta = 0\)) Tj
+T*
+(   solve_quadratic_equation\(1, 2, 5\) # Complex Roots: -1 +/- 2j \(Delta = -16\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(1\) elementary arithmetic and square root computation.) Tj
+T*
+(   - Space Complexity: O\(1\) memory for roots.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 30:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the if __name__ == '__main__' idiom in Python. What problem does it solve, and how does Python execute scripts versus imported modules?) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. The Problem of Unintended Code Execution on Import:) Tj
+T*
+(   When Python imports a module \(e.g., import my_script\), the interpreter reads, compiles to) Tj
+T*
+(   bytecode, and executes every top-level statement in that file from top to bottom.) Tj
+T*
+(   If a script contains testing code, print statements, or server launch commands at the top) Tj
+T*
+(   level, those statements will execute immediately upon import by another script, causing severe) Tj
+T*
+(   side effects!) Tj
+T*
+() Tj
+T*
+(   2. The __name__ Mechanism:) Tj
+T*
+(   The CPython interpreter automatically populates the built-in variable __name__ before executing) Tj
+T*
+(   a file:) Tj
+T*
+(   - Scenario A \(Direct Execution\): When a script is executed directly from the terminal \(python) Tj
+T*
+(   my_script.py\), CPython sets __name__ = '__main__'.) Tj
+T*
+(   - Scenario B \(Imported as a Module\): When my_script.py is imported by another module \(import) Tj
+T*
+(   my_script\), CPython sets __name__ = 'my_script' \(the module's actual file/package name\).) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+81 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 82 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+82 0 obj
+<< /Length 1823 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 1: SETTING UP PROGRAMMING ENVIRONMENT AND PYTHON BASICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 40 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   3. The Guard Idiom:) Tj
+T*
+(   By enclosing script entry points within the guard:) Tj
+T*
+(   if __name__ == '__main__':) Tj
+T*
+(   main\(\)) Tj
+T*
+(   developers guarantee that execution occurs ONLY when the script is run directly, while allowing) Tj
+T*
+(   all classes, functions, and constants to be cleanly imported elsewhere without side effects.) Tj
+T*
+() Tj
+T*
+(   4. Python Code Demonstration:) Tj
+T*
+(   def calculate_factorial\(n: int\) -> int:) Tj
+T*
+(   """Reusable library function.""") Tj
+T*
+(   if n < 0:) Tj
+T*
+(   raise ValueError\("Factorial undefined for negative numbers."\)) Tj
+T*
+(   result = 1) Tj
+T*
+(   for i in range\(1, n + 1\):) Tj
+T*
+(   result *= i) Tj
+T*
+(   return result) Tj
+T*
+() Tj
+T*
+(   def main\(\):) Tj
+T*
+(   """CLI entry point for direct script execution.""") Tj
+T*
+(   print\("Executing as standalone script..."\)) Tj
+T*
+(   test_val = 5) Tj
+T*
+(   print\(f"Test Factorial\({test_val}\) = {calculate_factorial\(test_val\)}"\)) Tj
+T*
+() Tj
+T*
+(   # Idiomatic Module Guard) Tj
+T*
+(   if __name__ == '__main__':) Tj
+T*
+(   main\(\)) Tj
+T*
+(   else:) Tj
+T*
+(   print\(f"Module '{__name__}' imported successfully into another namespace."\)) Tj
+T*
+() Tj
+T*
+(   5. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(1\) string equality comparison during module initialization.) Tj
+T*
+(   - Space Complexity: O\(1\) interpreter state.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+83 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+84 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+xref
+0 85
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000386 00000 n 
+0000000530 00000 n 
+0000009530 00000 n 
+0000009674 00000 n 
+0000017243 00000 n 
+0000017387 00000 n 
+0000025013 00000 n 
+0000025158 00000 n 
+0000033069 00000 n 
+0000033215 00000 n 
+0000041000 00000 n 
+0000041146 00000 n 
+0000050384 00000 n 
+0000050530 00000 n 
+0000059627 00000 n 
+0000059773 00000 n 
+0000061197 00000 n 
+0000061343 00000 n 
+0000067011 00000 n 
+0000067157 00000 n 
+0000070022 00000 n 
+0000070168 00000 n 
+0000078661 00000 n 
+0000078807 00000 n 
+0000082687 00000 n 
+0000082833 00000 n 
+0000086565 00000 n 
+0000086711 00000 n 
+0000090217 00000 n 
+0000090363 00000 n 
+0000093705 00000 n 
+0000093851 00000 n 
+0000097361 00000 n 
+0000097507 00000 n 
+0000100874 00000 n 
+0000101020 00000 n 
+0000104347 00000 n 
+0000104493 00000 n 
+0000108473 00000 n 
+0000108619 00000 n 
+0000111753 00000 n 
+0000111899 00000 n 
+0000115641 00000 n 
+0000115787 00000 n 
+0000119443 00000 n 
+0000119589 00000 n 
+0000123056 00000 n 
+0000123202 00000 n 
+0000126695 00000 n 
+0000126841 00000 n 
+0000130147 00000 n 
+0000130293 00000 n 
+0000133454 00000 n 
+0000133600 00000 n 
+0000137029 00000 n 
+0000137175 00000 n 
+0000140352 00000 n 
+0000140498 00000 n 
+0000143550 00000 n 
+0000143696 00000 n 
+0000146956 00000 n 
+0000147102 00000 n 
+0000150489 00000 n 
+0000150635 00000 n 
+0000153447 00000 n 
+0000153593 00000 n 
+0000156126 00000 n 
+0000156272 00000 n 
+0000159146 00000 n 
+0000159292 00000 n 
+0000162369 00000 n 
+0000162515 00000 n 
+0000166219 00000 n 
+0000166365 00000 n 
+0000169670 00000 n 
+0000169816 00000 n 
+0000173143 00000 n 
+0000173289 00000 n 
+0000176704 00000 n 
+0000176850 00000 n 
+0000178726 00000 n 
+0000178824 00000 n 
+trailer
+<< /Size 85 /Root 1 0 R >>
+startxref
+178927
+%%EOF

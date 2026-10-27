@@ -1,0 +1,514 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2528 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Drawing & AutoCAD | Unit 3: Orthographic Projections) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 1 of 4) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(ENGINEERING DRAWING WITH AUTOCAD) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 10.5 Tf
+(UNIT 3: ORTHOGRAPHIC PROJECTIONS) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Curriculum: Lovely Professional University | School of Computer Science & Engineering) Tj
+T*
+(Reference: Engineering Drawing with an Introduction to AutoCAD by Dhananjay Jolhe) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.1 Principles and Geometry of Multiview Projection) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Orthographic projection projects parallel perpendicular sight rays from an object to) Tj
+T*
+(mutually perpendicular viewing planes:) Tj
+T*
+(* The Three Principal Views: Front View \(Elevation\), Top View \(Plan\), and Side View) Tj
+T*
+(\(Profile view / End view\).) Tj
+T*
+(* Glass Box Concept: The object is imagined inside an imaginary glass box.) Tj
+T*
+(Projections of features onto the 6 walls are folded flat into a 2D plane.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.2 First Angle vs Third Angle Projection Systems) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* 1. First Angle Projection \(ISO / Indian BIS Standard\):) Tj
+T*
+(- Object is placed between Observer and Projection Plane \(Quadrant 1\).) Tj
+T*
+(- Front View is ABOVE the Top View.) Tj
+T*
+(- Left Side View is drawn on the RIGHT of Front View.) Tj
+T*
+(- Right Side View is drawn on the LEFT of Front View.) Tj
+T*
+(- Symbol: Truncated cone with small circle on right and front view trapezoid on left.) Tj
+T*
+(* 2. Third Angle Projection \(American ANSI Standard\):) Tj
+T*
+(- Projection Plane is placed between Observer and Object \(Quadrant 3, plane assumed) Tj
+T*
+(transparent\).) Tj
+T*
+(- Top View is ABOVE the Front View.) Tj
+T*
+(- Left Side View is drawn on the LEFT of Front View.) Tj
+T*
+(- Right Side View is drawn on the RIGHT of Front View.) Tj
+T*
+(- Symbol: Truncated cone with small circle on left and front view trapezoid on right.) Tj
+T*
+(* Comparative Summary Table:) Tj
+T*
+(- Parameter | First Angle System | Third Angle System) Tj
+T*
+(- Plane Transparency | Opaque planes behind object | Transparent planes in front of) Tj
+T*
+(object) Tj
+T*
+(- View Layout | Inverted \(Left on Right, Top below\) | Natural \(Left on Left, Top above\)) Tj
+T*
+(- Standard Code | BIS SP 46, ISO 128 | ASME Y14.3M) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 2963 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Drawing & AutoCAD | Unit 3: Orthographic Projections) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 2 of 4) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.3 Rules for Projecting Multiviews) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Alignment Principle: Front and Top views must be vertically aligned along common) Tj
+T*
+(projector lines. Front and Side views must be horizontally aligned.) Tj
+T*
+(* Line Precedence: Solid visible outline > Dashed hidden line > Cutting plane line >) Tj
+T*
+(Center line > Extension/dimension line.) Tj
+T*
+(* Miter Line Technique: A 45-degree line drawn from the intersection of projection) Tj
+T*
+(axes allows seamless transfer of depth dimensions between Top and Side views without) Tj
+T*
+(manual measurement.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.4 AutoCAD 2D Modification and Precision Transformation Commands) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* LINETYPE \(LT\): Loads dashed, center, hidden linetypes. LTSCALE controls global) Tj
+T*
+(scale factor of dash lengths.) Tj
+T*
+(* MOVE \(M\) & COPY \(CO\): Translates selected objects by base point and displacement) Tj
+T*
+(vector.) Tj
+T*
+(* ROTATE \(RO\): Rotates entities about specified base point by given angle or) Tj
+T*
+(reference angle.) Tj
+T*
+(* TRIM \(TR\) & EXTEND \(EX\): Trims objects at cutting edges or extends objects to) Tj
+T*
+(boundary edges.) Tj
+T*
+(* ERASE \(E\): Removes selected entities from database.) Tj
+T*
+(* MIRROR \(MI\): Reflects objects across specified mirror line; option to delete source) Tj
+T*
+(object or retain it.) Tj
+T*
+(* SCALE \(SC\): Enlarges or reduces objects proportionally by a numerical scale factor) Tj
+T*
+(about base point.) Tj
+T*
+(* FILLET \(F\): Connects two non-parallel lines with a smooth tangent arc of specified) Tj
+T*
+(radius \(R=0 creates sharp corner\).) Tj
+T*
+(* CHAMFER \(CHA\): Creates beveled edge between two lines defined by distance1 and) Tj
+T*
+(distance2 or distance and angle.) Tj
+T*
+(* ARRAY \(AR\): Generates associative repeating patterns: Rectangular Array \(rows,) Tj
+T*
+(columns, spacing\) or Polar Array \(items, angle to fill, center point\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROBLEM 1: 3-View First Angle Projection of Stepped Block]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Statement: An isometric block has base 80 mm x 50 mm, total height 45 mm. It has) Tj
+T*
+(a step of height 20 mm extending 35 mm from the left edge. A central through rectangular) Tj
+T*
+(slot of 20 mm width x 15 mm depth runs across the entire 50 mm depth on the upper) Tj
+T*
+(surface. Draw Front View, Top View, and Left Side View in First Angle Projection.) Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 3353 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Drawing & AutoCAD | Unit 3: Orthographic Projections) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 3 of 4) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(Step-by-Step Multiview Construction:) Tj
+T*
+(* 1. Front View \(Looking from Front, showing Length 80 mm and Height 45 mm\):) Tj
+T*
+(- Base line = 80 mm. Left vertical rise = 20 mm. Horizontal step = 35 mm. Vertical rise) Tj
+T*
+(to top = 25 mm \(reaching total 45 mm\).) Tj
+T*
+(- Right edge = 45 mm vertical. Top horizontal width = 80 - 35 = 45 mm.) Tj
+T*
+(- Central slot: Width 20 mm, depth 15 mm. Drawn as visible solid cutout on the top) Tj
+T*
+(surface between x = 47.5 mm and 67.5 mm.) Tj
+T*
+(* 2. Top View \(Looking from Above, aligned vertically below Front View, showing) Tj
+T*
+(Length 80 mm and Width 50 mm\):) Tj
+T*
+(- Overall boundary rectangle = 80 mm x 50 mm.) Tj
+T*
+(- Step line: Visible solid line at x = 35 mm from left edge running full 50 mm width.) Tj
+T*
+(- Slot: Two parallel visible lines spaced 20 mm apart running horizontally across the) Tj
+T*
+(right block portion.) Tj
+T*
+(* 3. Left Side View \(Drawn on the RIGHT side of Front View as per First Angle rules\):) Tj
+T*
+(- Shows Width 50 mm and Height 45 mm.) Tj
+T*
+(- Base width = 50 mm, left and right heights = 45 mm. Visible line at height 20 mm) Tj
+T*
+(representing top edge of lower step.) Tj
+T*
+(- Slot shown as central cutout of width 20 mm and height 15 mm down from top edge.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROBLEM 2: Bracket with Circular Bore and Hidden Feature Handling]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Statement: A cast iron bracket consists of an L-flange with vertical plate) Tj
+T*
+(\(thickness 15 mm, height 60 mm, width 50 mm\) and horizontal base \(thickness 15 mm,) Tj
+T*
+(length 70 mm, width 50 mm\). The vertical plate has a central through circular hole of 20) Tj
+T*
+(mm diameter located 35 mm above the base. Draw Front View and Top View.) Tj
+T*
+(Solution & Drafting Conventions:) Tj
+T*
+(* Front View: Shows L-profile. Base 70 mm x 15 mm, vertical arm 15 mm x 45 mm. The) Tj
+T*
+(circular hole appears on the vertical plate: center mark at height 15 + 35 = 50 mm) Tj
+T*
+(from bottom, diameter 20 mm drawn as visible circle with horizontal and vertical) Tj
+T*
+(centerlines \(chain thin lines\).) Tj
+T*
+(* Top View: Placed directly below Front View. Overall rectangle 70 mm x 50 mm. The) Tj
+T*
+(vertical plate appears as a 15 mm x 50 mm rectangle on the left. The circular hole) Tj
+T*
+(cannot be seen from above: it passes through the 15 mm thickness. It is represented) Tj
+T*
+(by two dashed hidden lines spaced 20 mm apart, with a chain-thin centerline running) Tj
+T*
+(midway.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROBLEM 3: Conversion of 3D Bearing Bracket: 1st vs 3rd Angle Layout]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 2574 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Drawing & AutoCAD | Unit 3: Orthographic Projections) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 4 of 4) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(Problem Statement: Compare the placement and projection orientation of a bearing bracket) Tj
+T*
+(in First Angle versus Third Angle projection systems.) Tj
+T*
+(Detailed Comparison Matrix & View Layouts:) Tj
+T*
+(* 1. First Angle System Layout:) Tj
+T*
+(- Top-Left: Right Side View \(looking from right of bracket\).) Tj
+T*
+(- Center-Top: FRONT VIEW \(Elevation\).) Tj
+T*
+(- Top-Right: Left Side View \(looking from left of bracket\).) Tj
+T*
+(- Center-Bottom: TOP VIEW \(Plan view, looking from above\).) Tj
+T*
+(* 2. Third Angle System Layout:) Tj
+T*
+(- Center-Top: TOP VIEW \(Plan view, looking from above\).) Tj
+T*
+(- Top-Left: Left Side View \(looking from left of bracket\).) Tj
+T*
+(- Center-Bottom: FRONT VIEW \(Elevation\).) Tj
+T*
+(- Bottom-Right: Right Side View \(looking from right of bracket\).) Tj
+T*
+(* Engineering Conclusion: First angle projects views onto the far plane; third angle) Tj
+T*
+(projects views onto the near transparent plane. Dimensions across views remain) Tj
+T*
+(identical.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROBLEM 4: AutoCAD Multiview Drafting Protocol for Machine Support]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Draft the 2D orthographic views of a shaft support bracket using) Tj
+T*
+(AutoCAD modification tools.) Tj
+T*
+(AutoCAD Command Step Log:) Tj
+T*
+(* 1. Layer Setup: Activate Layer "0_Visible".) Tj
+T*
+(* 2. RECTANG -> 0,0 to 80,45 \(Front view perimeter\).) Tj
+T*
+(* 3. FILLET -> Radius = 10 -> Select top-right corner edges to create smooth rounded) Tj
+T*
+(shoulder.) Tj
+T*
+(* 4. CIRCLE -> Center at 40,25, Radius 12 mm for shaft bore.) Tj
+T*
+(* 5. MIRROR -> Select left reinforcement web -> Mirror line at X=40 to duplicate) Tj
+T*
+(perfectly to the right side.) Tj
+T*
+(* 6. Project Top View: Draw construction lines downward using XLINE -> Vertical ->) Tj
+T*
+(Snap to front view vertices.) Tj
+T*
+(* 7. OFFSET -> 25 mm below front view for top view base -> RECTANG 80 mm x 50 mm.) Tj
+T*
+(* 8. LTSCALE -> Set to 0.5 to ensure dashed hidden lines of the 24 mm hole display) Tj
+T*
+(clearly in top view.) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 13
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000164 00000 n 
+0000000234 00000 n 
+0000000309 00000 n 
+0000000421 00000 n 
+0000003001 00000 n 
+0000003113 00000 n 
+0000006128 00000 n 
+0000006241 00000 n 
+0000009647 00000 n 
+0000009761 00000 n 
+trailer
+<< /Size 13 /Root 1 0 R >>
+startxref
+12388
+%%EOF

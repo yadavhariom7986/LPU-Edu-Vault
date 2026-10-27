@@ -1,0 +1,670 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 3140 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Computer Programming in C | Unit 4: Arrays, Searching & Sorting) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 1 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(=== UNIT 4: ARRAYS, STRING BASICS & SEARCHING-SORTING ALGORITHMS ===) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.1 Array Data Structure and Memory Layout) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(An array is a homogeneous, contiguous collection of elements of identical data type) Tj
+T*
+(stored in contiguous physical memory locations.) Tj
+T*
+(* One-Dimensional Arrays: Declaration: int arr[N];. Elements accessed via zero-based) Tj
+T*
+(indices \(0 to N-1\). Array indexing formula: Address\(arr[i]\) = Base_Address + i *) Tj
+T*
+(sizeof\(data_type\). Array decay: Array name decays into pointer to first element: arr) Tj
+T*
+(== &arr[0].) Tj
+T*
+(* Multidimensional Arrays \(2D Matrices\): Declaration: int matrix[ROWS][COLS];.) Tj
+T*
+(- Row-Major Order \(C Standard\): Elements stored consecutively row by row in) Tj
+T*
+(physical RAM. Address formula:) Tj
+T*
+(Address\(matrix[i][j]\) = Base_Address + [ i * COLS + j ] * sizeof\(data_type\).) Tj
+T*
+(- Column-Major Order \(Used in Fortran/MATLAB\): Elements stored column by column.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.2 Searching Algorithms) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Linear Search: Sequentially examines each array element from index 0 to N-1 until) Tj
+T*
+(target is matched. Time complexity: Best Case O\(1\), Worst Case O\(N\), Average Case) Tj
+T*
+(O\(N\). Applicable to unsorted arrays.) Tj
+T*
+(* Binary Search: Divide-and-conquer search on sorted arrays. Compares target with) Tj
+T*
+(middle element mid = low + \(high - low\)/2. If target < arr[mid], search left half; if) Tj
+T*
+(target > arr[mid], search right half. Time complexity: Best Case O\(1\), Worst/Average) Tj
+T*
+(Case O\(log2 N\). Space complexity: O\(1\) iterative.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.3 Sorting Algorithms) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Bubble Sort: Compares adjacent elements and swaps them if out of order. After pass) Tj
+T*
+(i, ith largest element bubbles up to final position at end of array. Time Complexity:) Tj
+T*
+(Best Case O\(N\) \(with swap flag optimization\), Worst/Average Case O\(N^2\). Stable sort.) Tj
+T*
+(* Selection Sort: Finds minimum element in unsorted subarray and swaps it with first) Tj
+T*
+(unsorted element. Time Complexity: O\(N^2\) in all cases \(Best, Worst, Average\).) Tj
+T*
+(Unstable sort.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 1: Bubble Sort with Early-Termination Flag Optimization]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: Implement Bubble Sort in C with a swapped boolean flag that achieves O\(N\)) Tj
+T*
+(linear time on already-sorted arrays, tracking comparisons and swap operations.) Tj
+T*
+(Source Code:) Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 2158 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Computer Programming in C | Unit 4: Arrays, Searching & Sorting) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 2 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(#include <stdio.h>) Tj
+T*
+(#include <stdbool.h>) Tj
+T*
+(void bubbleSortOptimized\(int arr[], int n\) {) Tj
+T*
+(int comparisons = 0, swaps = 0;) Tj
+T*
+(for \(int i = 0; i < n - 1; i++\) {) Tj
+T*
+(bool swapped = false;) Tj
+T*
+(for \(int j = 0; j < n - i - 1; j++\) {) Tj
+T*
+(comparisons++;) Tj
+T*
+(if \(arr[j] > arr[j + 1]\) {) Tj
+T*
+(int temp = arr[j];) Tj
+T*
+(arr[j] = arr[j + 1];) Tj
+T*
+(arr[j + 1] = temp;) Tj
+T*
+(swapped = true;) Tj
+T*
+(swaps++;) Tj
+T*
+(}) Tj
+T*
+(}) Tj
+T*
+(if \(!swapped\) {) Tj
+T*
+(printf\("Array sorted early at pass %d!\\n", i + 1\);) Tj
+T*
+(break;) Tj
+T*
+(}) Tj
+T*
+(}) Tj
+T*
+(printf\("Total Comparisons: %d | Total Swaps: %d\\n", comparisons, swaps\);) Tj
+T*
+(}) Tj
+T*
+(int main\(\) {) Tj
+T*
+(int data[] = { 64, 34, 25, 12, 22, 11, 90 };) Tj
+T*
+(int n = sizeof\(data\) / sizeof\(data[0]\);) Tj
+T*
+(bubbleSortOptimized\(data, n\);) Tj
+T*
+(printf\("Sorted Array: "\);) Tj
+T*
+(for \(int i = 0; i < n; i++\) printf\("%d ", data[i]\);) Tj
+T*
+(printf\("\\n"\);) Tj
+T*
+(return 0;) Tj
+T*
+(}) Tj
+T*
+(Output: Total Comparisons: 21 | Total Swaps: 14 | Sorted Array: 11 12 22 25 34 64 90.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 2: Binary Search Implementation with Step-by-Step Interval Tracing]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: Implement iterative Binary Search in C, printing low, high, and mid index) Tj
+T*
+(values at every iteration to illustrate logarithmic halving.) Tj
+T*
+(Source Code:) Tj
+T*
+(#include <stdio.h>) Tj
+T*
+(int binarySearch\(int arr[], int n, int key\) {) Tj
+T*
+(int low = 0, high = n - 1, step = 1;) Tj
+T*
+(while \(low <= high\) {) Tj
+T*
+(int mid = low + \(high - low\) / 2;) Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 2244 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Computer Programming in C | Unit 4: Arrays, Searching & Sorting) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 3 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(printf\("Step %d: low=%d, high=%d, mid=%d, arr[mid]=%d\\n", step++, low, high, mid,) Tj
+T*
+(arr[mid]\);) Tj
+T*
+(if \(arr[mid] == key\)) Tj
+T*
+(return mid;) Tj
+T*
+(if \(arr[mid] < key\)) Tj
+T*
+(low = mid + 1;) Tj
+T*
+(else) Tj
+T*
+(high = mid - 1;) Tj
+T*
+(}) Tj
+T*
+(return -1;) Tj
+T*
+(}) Tj
+T*
+(int main\(\) {) Tj
+T*
+(int sorted[] = { 2, 5, 8, 12, 16, 23, 38, 56, 72, 91 };) Tj
+T*
+(int n = 10, target = 23;) Tj
+T*
+(int idx = binarySearch\(sorted, n, target\);) Tj
+T*
+(if \(idx != -1\)) Tj
+T*
+(printf\("Found target %d at index %d!\\n", target, idx\);) Tj
+T*
+(else) Tj
+T*
+(printf\("Target not found!\\n"\);) Tj
+T*
+(return 0;) Tj
+T*
+(}) Tj
+T*
+(Trace Output:) Tj
+T*
+(Step 1: low=0, high=9, mid=4, arr[mid]=16 \(16 < 23 => search right half\)) Tj
+T*
+(Step 2: low=5, high=9, mid=7, arr[mid]=56 \(56 > 23 => search left half\)) Tj
+T*
+(Step 3: low=5, high=6, mid=5, arr[mid]=23 \(Match found at index 5!\)) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 3: Matrix Multiplication with Dimensional Compatibility Verification]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: Write an ANSI C program to compute matrix product C = A * B of an \(m x p\)) Tj
+T*
+(matrix and a \(p x n\) matrix, verifying dimensional compatibility.) Tj
+T*
+(Source Code:) Tj
+T*
+(#include <stdio.h>) Tj
+T*
+(#define MAX 10) Tj
+T*
+(void multiplyMatrices\(int A[MAX][MAX], int B[MAX][MAX], int C[MAX][MAX], int r1, int c1,) Tj
+T*
+(int r2, int c2\) {) Tj
+T*
+(if \(c1 != r2\) {) Tj
+T*
+(printf\("Matrix dimensions incompatible for multiplication!\\n"\);) Tj
+T*
+(return;) Tj
+T*
+(}) Tj
+T*
+(for \(int i = 0; i < r1; i++\) {) Tj
+T*
+(for \(int j = 0; j < c2; j++\) {) Tj
+T*
+(C[i][j] = 0;) Tj
+T*
+(for \(int k = 0; k < c1; k++\) {) Tj
+T*
+(C[i][j] += A[i][k] * B[k][j];) Tj
+T*
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 1895 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Computer Programming in C | Unit 4: Arrays, Searching & Sorting) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 4 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(}) Tj
+T*
+(}) Tj
+T*
+(}) Tj
+T*
+(}) Tj
+T*
+(int main\(\) {) Tj
+T*
+(int A[MAX][MAX] = { {1, 2}, {3, 4} };) Tj
+T*
+(int B[MAX][MAX] = { {5, 6}, {7, 8} };) Tj
+T*
+(int C[MAX][MAX];) Tj
+T*
+(multiplyMatrices\(A, B, C, 2, 2, 2, 2\);) Tj
+T*
+(printf\("Product Matrix C \(2x2\):\\n"\);) Tj
+T*
+(for \(int i = 0; i < 2; i++\) {) Tj
+T*
+(for \(int j = 0; j < 2; j++\)) Tj
+T*
+(printf\("%4d", C[i][j]\);) Tj
+T*
+(printf\("\\n"\);) Tj
+T*
+(}) Tj
+T*
+(return 0;) Tj
+T*
+(}) Tj
+T*
+(Output:) Tj
+T*
+(19 22) Tj
+T*
+(43 50) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 4: Selection Sort with Step-by-Step Min-Element Tracking]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: Implement Selection Sort in C, printing array after every outer iteration to) Tj
+T*
+(show unsorted subarray reduction.) Tj
+T*
+(Source Code:) Tj
+T*
+(#include <stdio.h>) Tj
+T*
+(void selectionSort\(int arr[], int n\) {) Tj
+T*
+(for \(int i = 0; i < n - 1; i++\) {) Tj
+T*
+(int minIdx = i;) Tj
+T*
+(for \(int j = i + 1; j < n; j++\) {) Tj
+T*
+(if \(arr[j] < arr[minIdx]\)) Tj
+T*
+(minIdx = j;) Tj
+T*
+(}) Tj
+T*
+(int temp = arr[minIdx];) Tj
+T*
+(arr[minIdx] = arr[i];) Tj
+T*
+(arr[i] = temp;) Tj
+T*
+(printf\("Pass %d \(min=%d placed at %d\): ", i + 1, temp, i\);) Tj
+T*
+(for \(int k = 0; k < n; k++\) printf\("%d ", arr[k]\);) Tj
+T*
+(printf\("\\n"\);) Tj
+T*
+(}) Tj
+T*
+(}) Tj
+T*
+(int main\(\) {) Tj
+T*
+(int data[] = { 29, 10, 14, 37, 13 };) Tj
+T*
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 2808 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Computer Programming in C | Unit 4: Arrays, Searching & Sorting) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 5 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(selectionSort\(data, 5\);) Tj
+T*
+(return 0;) Tj
+T*
+(}) Tj
+T*
+(Output Steps:) Tj
+T*
+(Pass 1 \(min=10 placed at 0\): 10 29 14 37 13) Tj
+T*
+(Pass 2 \(min=13 placed at 1\): 10 13 14 37 29) Tj
+T*
+(Pass 3 \(min=14 placed at 2\): 10 13 14 37 29) Tj
+T*
+(Pass 4 \(min=29 placed at 3\): 10 13 14 29 37) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.4 University Review & Examination Questions) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Q1: Derive physical memory address mapping formula for a 2D array in Row-Major) Tj
+T*
+(Order vs. Column-Major Order.) Tj
+T*
+(Answer: Let a 2D array be declared as A[M][N] with base address B and element size S) Tj
+T*
+(bytes. \(1\) Row-Major Order: Elements of Row 0 stored contiguously, followed by Row 1, up) Tj
+T*
+(to Row M-1. To access element A[i][j], program skips 'i' complete rows of N elements) Tj
+T*
+(each, plus 'j' elements within row i. Address\(A[i][j]\) = B + [ i * N + j ] * S. \(2\)) Tj
+T*
+(Column-Major Order: Elements of Column 0 stored contiguously, followed by Column 1, up) Tj
+T*
+(to Column N-1. To access A[i][j], program skips 'j' complete columns of M elements each,) Tj
+T*
+(plus 'i' elements within column j. Address\(A[i][j]\) = B + [ j * M + i ] * S.) Tj
+T*
+(* Q2: Explain why Binary Search cannot be applied to an unsorted array, and derive) Tj
+T*
+(its worst-case time complexity.) Tj
+T*
+(Answer: Binary Search relies strictly on monotonicity \(ordered property\) of data. It) Tj
+T*
+(assumes that if target key > arr[mid], target CANNOT exist in left half [low, mid-1],) Tj
+T*
+(safely discarding N/2 elements in a single comparison. In an unsorted array, this) Tj
+T*
+(assumption fails because larger elements could reside anywhere. Derivation of Time) Tj
+T*
+(Complexity: At each step, search space is divided by 2. After step 1: N/2; step 2: N/4;) Tj
+T*
+(step k: N / 2^k. Search terminates when 1 element remains: N / 2^k = 1 => 2^k = N => k =) Tj
+T*
+(log2\(N\). Therefore, worst-case number of comparisons is proportional to log2\(N\), giving) Tj
+T*
+(O\(log N\) time complexity.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.5 Key Takeaways and Revision Points) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Arrays allocate contiguous physical memory; 2D arrays in C use Row-Major order.) Tj
+T*
+(* Linear search is O\(N\); Binary search achieves O\(log N\) on pre-sorted arrays.) Tj
+T*
+(* Bubble sort is stable with O\(N^2\) complexity \(optimizable to O\(N\) using a swap) Tj
+T*
+(flag\).) Tj
+T*
+(* Matrix multiplication of \(m x p\) and \(p x n\) requires O\(m * p * n\) operations.) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000171 00000 n 
+0000000241 00000 n 
+0000000316 00000 n 
+0000000428 00000 n 
+0000003620 00000 n 
+0000003732 00000 n 
+0000005942 00000 n 
+0000006055 00000 n 
+0000008352 00000 n 
+0000008466 00000 n 
+0000010414 00000 n 
+0000010528 00000 n 
+trailer
+<< /Size 15 /Root 1 0 R >>
+startxref
+13389
+%%EOF

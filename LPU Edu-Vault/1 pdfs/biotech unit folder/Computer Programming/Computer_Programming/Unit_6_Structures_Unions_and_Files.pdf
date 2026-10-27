@@ -1,0 +1,11177 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R 35 0 R 37 0 R 39 0 R 41 0 R 43 0 R 45 0 R 47 0 R 49 0 R 51 0 R 53 0 R 55 0 R 57 0 R 59 0 R 61 0 R 63 0 R 65 0 R 67 0 R 69 0 R 71 0 R 73 0 R 75 0 R] /Count 37 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 4 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 8084 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 6: USER-DEFINED COMPOSITE TYPES & FILE HANDLING) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 1 of 37) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(1.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Which keyword is used in C to define a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(user-defined composite data type grouping) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(heterogeneous elements?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(struct) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.3 Td
+(union) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.7 Td
+(typedef) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.1 Td
+(class) Tj
+ET
+BT
+/F2 8.0 Tf
+42 701.5001 Td
+(2.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(Which operator is used to access members of a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.3 Td
+(structure variable directly?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.6 Td
+(. \(Dot operator\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.0001 Td
+(-> \(Arrow\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.4001 Td
+(* \(Dereference\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 651.8001 Td
+(& \(Address-of\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 628.2001 Td
+(3.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(Which operator is used to access structure) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.0001 Td
+(members through a pointer to the structure?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 607.3001 Td
+(-> \(Arrow operator\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.7001 Td
+(. \(Dot operator\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.1002 Td
+(* \(Indirection\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 578.5002 Td
+(:: \(Scope\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 554.9002 Td
+(4.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(The expression ptr->member is syntactically) Tj
+ET
+BT
+/F1 7.8 Tf
+58 545.7002 Td
+(equivalent to which expression?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 534.0002 Td
+(\(*ptr\).member) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.4002 Td
+(*ptr.member) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.8002 Td
+(&ptr->member) Tj
+ET
+BT
+/F2 7.4 Tf
+58 505.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 505.2002 Td
+(ptr.\(member\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 481.6002 Td
+(5.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6002 Td
+(Which keyword creates user-defined composite) Tj
+ET
+BT
+/F1 7.8 Tf
+58 472.4002 Td
+(types where all members share the exact same) Tj
+ET
+BT
+/F1 7.8 Tf
+58 463.2002 Td
+(memory location?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 451.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 451.5002 Td
+(union) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.9002 Td
+(struct) Tj
+ET
+BT
+/F2 7.4 Tf
+58 432.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 432.3002 Td
+(enum) Tj
+ET
+BT
+/F2 7.4 Tf
+58 422.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 422.7002 Td
+(typedef) Tj
+ET
+BT
+/F2 8.0 Tf
+42 399.1002 Td
+(6.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 399.1002 Td
+(What is the memory size of a union variable?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 387.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 387.4001 Td
+(Size of largest member) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.8001 Td
+(Sum of all members) Tj
+ET
+BT
+/F2 7.4 Tf
+58 368.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 368.2001 Td
+(Average of members) Tj
+ET
+BT
+/F2 7.4 Tf
+58 358.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 358.6001 Td
+(Pointer size) Tj
+ET
+BT
+/F2 8.0 Tf
+42 335.0001 Td
+(7.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.0001 Td
+(What is the primary difference in memory) Tj
+ET
+BT
+/F1 7.8 Tf
+58 325.8001 Td
+(allocation between a struct and a union?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 314.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 314.1001 Td
+(Struct sums, Union shares) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.5001 Td
+(Struct shares, Union sums) Tj
+ET
+BT
+/F2 7.4 Tf
+58 294.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 294.9001 Td
+(Both share memory) Tj
+ET
+BT
+/F2 7.4 Tf
+58 285.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 285.3001 Td
+(Both sum memory) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(8.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Which keyword creates a new, readable type alias) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(for an existing data type in C?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(typedef) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(alias) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(type) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(define) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(9.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(Which keyword defines a set of named integer) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(constants in C?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(enum) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(const) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(typedef) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(struct) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(10.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(What is the default integer value assigned to) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(the first enumerator in an enum if unspecified?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.5001 Td
+(0 \(zero\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.9001 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.3002 Td
+(-1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 587.7002 Td
+(Null) Tj
+ET
+BT
+/F2 8.0 Tf
+306 564.1002 Td
+(11.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.1002 Td
+(In enum { MON = 1, TUE, WED }; what integer) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(value is assigned to WED?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 543.2002 Td
+(3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 533.6002 Td
+(2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.0002 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.4003 Td
+(0) Tj
+ET
+BT
+/F2 8.0 Tf
+306 490.8003 Td
+(12.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 490.8003 Td
+(Which preprocessor directive is used to include) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6003 Td
+(system standard library headers?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 469.9002 Td
+(#include <...>) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.3002 Td
+(#include "...") Tj
+ET
+BT
+/F2 7.4 Tf
+322 450.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 450.7002 Td
+(#import) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.1002 Td
+(#define) Tj
+ET
+BT
+/F2 8.0 Tf
+306 417.5002 Td
+(13.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 417.5002 Td
+(Which syntax includes user-defined local header) Tj
+ET
+BT
+/F1 7.8 Tf
+322 408.3002 Td
+(files located in the current project directory?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 396.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 396.6002 Td
+(#include "...") Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.0002 Td
+(#include <...>) Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.4002 Td
+(#use "...") Tj
+ET
+BT
+/F2 7.4 Tf
+322 367.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 367.8002 Td
+(#package) Tj
+ET
+BT
+/F2 8.0 Tf
+306 344.2002 Td
+(14.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 344.2002 Td
+(Which preprocessor directive defines a symbolic) Tj
+ET
+BT
+/F1 7.8 Tf
+322 335.0002 Td
+(constant or parameterized macro?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 323.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 323.3001 Td
+(#define) Tj
+ET
+BT
+/F2 7.4 Tf
+322 313.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 313.7001 Td
+(#macro) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.1001 Td
+(#const) Tj
+ET
+BT
+/F2 7.4 Tf
+322 294.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 294.5001 Td
+(#typedef) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 6 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+6 0 obj
+<< /Length 8062 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 6: USER-DEFINED COMPOSITE TYPES & FILE HANDLING) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 2 of 37) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(15.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Which preprocessor directives form standard) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(Include Guards to prevent duplicate header) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(inclusion?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(#ifndef, #define, #endif) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.3 Td
+(#if, #else, #endif) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.7 Td
+(#pragma guard) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.1 Td
+(#include_once) Tj
+ET
+BT
+/F2 8.0 Tf
+42 701.5001 Td
+(16.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(What opaque data type defined in <stdio.h>) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.3 Td
+(represents a file stream pointer?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.6 Td
+(FILE *) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.0001 Td
+(FSTREAM *) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.4001 Td
+(int fd) Tj
+ET
+BT
+/F2 7.4 Tf
+58 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 651.8001 Td
+(HANDLE) Tj
+ET
+BT
+/F2 8.0 Tf
+42 628.2001 Td
+(17.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(Which standard library function opens an) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.0001 Td
+(existing file or creates a new file?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 607.3001 Td
+(fopen\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.7001 Td
+(open\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.1002 Td
+(file_open\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 578.5002 Td
+(create_file\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 554.9002 Td
+(18.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(What does fopen\(\) return if the requested file) Tj
+ET
+BT
+/F1 7.8 Tf
+58 545.7002 Td
+(cannot be opened or does not exist in read mode?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 534.0002 Td
+(NULL) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.4002 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.8002 Td
+(-1 \(EOF\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 505.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 505.2002 Td
+(Throws exception) Tj
+ET
+BT
+/F2 8.0 Tf
+42 481.6002 Td
+(19.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6002 Td
+(Which standard library function closes an open) Tj
+ET
+BT
+/F1 7.8 Tf
+58 472.4002 Td
+(file stream and flushes its buffer?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.7002 Td
+(fclose\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 451.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 451.1002 Td
+(close\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.5002 Td
+(file_close\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 431.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 431.9002 Td
+(fflush\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 408.3002 Td
+(20.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 408.3002 Td
+(Which file mode opens a file for reading text;) Tj
+ET
+BT
+/F1 7.8 Tf
+58 399.1002 Td
+(fails if file does not exist?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 387.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 387.4001 Td
+("r") Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.8001 Td
+("w") Tj
+ET
+BT
+/F2 7.4 Tf
+58 368.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 368.2001 Td
+("a") Tj
+ET
+BT
+/F2 7.4 Tf
+58 358.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 358.6001 Td
+("r+") Tj
+ET
+BT
+/F2 8.0 Tf
+42 335.0001 Td
+(21.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.0001 Td
+(Which file mode opens a file for writing text;) Tj
+ET
+BT
+/F1 7.8 Tf
+58 325.8001 Td
+(creates new or truncates existing file to zero) Tj
+ET
+BT
+/F1 7.8 Tf
+58 316.6001 Td
+(length?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.9001 Td
+("w") Tj
+ET
+BT
+/F2 7.4 Tf
+58 295.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 295.3001 Td
+("r") Tj
+ET
+BT
+/F2 7.4 Tf
+58 285.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 285.7001 Td
+("a") Tj
+ET
+BT
+/F2 7.4 Tf
+58 276.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 276.1001 Td
+("w+") Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(22.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Which file mode opens a file for appending text) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(at the end without truncating?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+("a") Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+("w") Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+("r") Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+("a+") Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(23.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(Which letter is appended to file mode strings to) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(indicate binary mode across platforms?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+("b" \(e.g. "rb", "wb"\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+("x") Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+("bin") Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+("d") Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(24.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(Which function writes formatted text data to a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(specified file stream?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.5001 Td
+(fprintf\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.9001 Td
+(printf\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.3002 Td
+(fputs\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 587.7002 Td
+(fwrite\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 564.1002 Td
+(25.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.1002 Td
+(Which function reads formatted data from a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(specified file stream?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 543.2002 Td
+(fscanf\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 533.6002 Td
+(scanf\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.0002 Td
+(fgets\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.4003 Td
+(fread\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 490.8003 Td
+(26.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 490.8003 Td
+(Which function reads a single character from an) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6003 Td
+(open file stream?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 469.9002 Td
+(fgetc\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.3002 Td
+(getc\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 450.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 450.7002 Td
+(getchar\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.1002 Td
+(read_char\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 417.5002 Td
+(27.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 417.5002 Td
+(Which function writes a single character to a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 408.3002 Td
+(specified file stream?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 396.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 396.6002 Td
+(fputc\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.0002 Td
+(putc\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.4002 Td
+(putchar\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 367.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 367.8002 Td
+(write_char\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 344.2002 Td
+(28.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 344.2002 Td
+(Which function reads a string line safely from a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 335.0002 Td
+(file stream up to a specified character limit?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 323.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 323.3001 Td
+(fgets\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 313.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 313.7001 Td
+(gets\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.1001 Td
+(fscanf\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 294.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 294.5001 Td
+(fgetline\(\)) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 8 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+8 0 obj
+<< /Length 8150 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 6: USER-DEFINED COMPOSITE TYPES & FILE HANDLING) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 3 of 37) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(29.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Which function writes a null-terminated string) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(to a file stream without appending extra) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(newlines?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(fputs\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.3 Td
+(puts\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.7 Td
+(fprintf\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.1 Td
+(fwrite\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 701.5001 Td
+(30.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(Which standard function reads binary blocks from) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.3 Td
+(a file stream directly into memory?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.6 Td
+(fread\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.0001 Td
+(read\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.4001 Td
+(fscanf\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 651.8001 Td
+(fgets\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 628.2001 Td
+(31.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(Which standard function writes binary blocks) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.0001 Td
+(from memory directly to a file stream?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 607.3001 Td
+(fwrite\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.7001 Td
+(write\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.1002 Td
+(fprintf\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 578.5002 Td
+(fputs\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 554.9002 Td
+(32.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(How many parameters are accepted by fread\(\) and) Tj
+ET
+BT
+/F1 7.8 Tf
+58 545.7002 Td
+(fwrite\(\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 534.0002 Td
+(4 \(ptr, size, count, fp\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.4002 Td
+(2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.8002 Td
+(3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 505.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 505.2002 Td
+(5) Tj
+ET
+BT
+/F2 8.0 Tf
+42 481.6002 Td
+(33.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6002 Td
+(Which function sets the file position indicator) Tj
+ET
+BT
+/F1 7.8 Tf
+58 472.4002 Td
+(to a specified offset?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.7002 Td
+(fseek\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 451.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 451.1002 Td
+(ftell\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.5002 Td
+(rewind\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 431.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 431.9002 Td
+(fsetpos\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 408.3002 Td
+(34.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 408.3002 Td
+(Which seek origin constant in fseek\(\) indicates) Tj
+ET
+BT
+/F1 7.8 Tf
+58 399.1002 Td
+(offsets relative to the beginning of the file?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 387.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 387.4001 Td
+(SEEK_SET) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.8001 Td
+(SEEK_CUR) Tj
+ET
+BT
+/F2 7.4 Tf
+58 368.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 368.2001 Td
+(SEEK_END) Tj
+ET
+BT
+/F2 7.4 Tf
+58 358.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 358.6001 Td
+(SEEK_START) Tj
+ET
+BT
+/F2 8.0 Tf
+42 335.0001 Td
+(35.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.0001 Td
+(Which seek origin constant indicates offsets) Tj
+ET
+BT
+/F1 7.8 Tf
+58 325.8001 Td
+(relative to current file position?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 314.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 314.1001 Td
+(SEEK_CUR) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.5001 Td
+(SEEK_SET) Tj
+ET
+BT
+/F2 7.4 Tf
+58 294.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 294.9001 Td
+(SEEK_END) Tj
+ET
+BT
+/F2 7.4 Tf
+58 285.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 285.3001 Td
+(SEEK_REL) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(36.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Which seek origin constant indicates offsets) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(relative to the end of the file?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(SEEK_END) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(SEEK_SET) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(SEEK_CUR) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(SEEK_TAIL) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(37.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(Which function returns the current byte offset) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(of the file position indicator?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(ftell\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(fseek\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(rewind\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(fgetpos\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(38.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(Which convenience function resets the file) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(position indicator to the start of the file?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.5001 Td
+(rewind\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.9001 Td
+(freset\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.3002 Td
+(fseek\(fp,0,0\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 587.7002 Td
+(restart\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 564.1002 Td
+(39.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.1002 Td
+(Which function tests whether the End-Of-File) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(indicator for a stream has been set?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 543.2002 Td
+(feof\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 533.6002 Td
+(ferror\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.0002 Td
+(eof\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.4003 Td
+(fis_eof\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 490.8003 Td
+(40.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 490.8003 Td
+(Which function tests whether an error indicator) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6003 Td
+(has been set for a stream?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 469.9002 Td
+(ferror\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.3002 Td
+(feof\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 450.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 450.7002 Td
+(perror\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.1002 Td
+(clearerr\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 417.5002 Td
+(41.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 417.5002 Td
+(Why is sizeof\(struct { char c; int i; }\)) Tj
+ET
+BT
+/F1 7.8 Tf
+322 408.3002 Td
+(typically 8 bytes rather than 5 bytes?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 396.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 396.6002 Td
+(Structure padding for align) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.0002 Td
+(Compiler bug) Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.4002 Td
+(int requires 7 bytes) Tj
+ET
+BT
+/F2 7.4 Tf
+322 367.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 367.8002 Td
+(char requires 4 bytes) Tj
+ET
+BT
+/F2 8.0 Tf
+306 344.2002 Td
+(42.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 344.2002 Td
+(What hardware principle necessitates structure) Tj
+ET
+BT
+/F1 7.8 Tf
+322 335.0002 Td
+(padding in modern microprocessor architectures?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 323.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 323.3001 Td
+(Memory alignment for speed) Tj
+ET
+BT
+/F2 7.4 Tf
+322 313.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 313.7001 Td
+(Virtual RAM limits) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.1001 Td
+(Cache size constraints) Tj
+ET
+BT
+/F2 7.4 Tf
+322 294.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 294.5001 Td
+(Bit-field rules) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 10 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+10 0 obj
+<< /Length 8484 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 6: USER-DEFINED COMPOSITE TYPES & FILE HANDLING) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 4 of 37) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(43.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(How can compiler structure padding be completely) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(disabled in GCC / Clang?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(__attribute__\(\(packed\)\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(#pragma unpack) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(typedef packed) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(volatile struct) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(44.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(What preprocessor pragma controls structure) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(member packing in MSVC and GCC?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(#pragma pack\(1\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(#pragma align\(0\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(#pragma nopad) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(#pragma byte_align) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(45.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(Can a structure contain an instance of itself as) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(a direct member: struct Node { struct Node next;) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.0001 Td
+(};?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 607.3001 Td
+(No \(infinite size error\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.7001 Td
+(Yes \(fully valid\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.1002 Td
+(Only if typedef'd) Tj
+ET
+BT
+/F2 7.4 Tf
+58 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 578.5002 Td
+(Only if static) Tj
+ET
+BT
+/F2 8.0 Tf
+42 554.9002 Td
+(46.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(How does a self-referential structure properly) Tj
+ET
+BT
+/F1 7.8 Tf
+58 545.7002 Td
+(point to another node of its own type?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 534.0002 Td
+(Pointer: struct Node *next;) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.4002 Td
+(Reference: Node &next;) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.8002 Td
+(Array: Node next[1];) Tj
+ET
+BT
+/F2 7.4 Tf
+58 505.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 505.2002 Td
+(Macro: SELF\(Node\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 481.6002 Td
+(47.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6002 Td
+(What is a structure containing a pointer to its) Tj
+ET
+BT
+/F1 7.8 Tf
+58 472.4002 Td
+(own type formally termed in computer science?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.7002 Td
+(Self-referential structure) Tj
+ET
+BT
+/F2 7.4 Tf
+58 451.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 451.1002 Td
+(Circular structure) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.5002 Td
+(Recursive record) Tj
+ET
+BT
+/F2 7.4 Tf
+58 431.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 431.9002 Td
+(Reflective type) Tj
+ET
+BT
+/F2 8.0 Tf
+42 408.3002 Td
+(48.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 408.3002 Td
+(What data structures are fundamentally) Tj
+ET
+BT
+/F1 7.8 Tf
+58 399.1002 Td
+(constructed using self-referential structures?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 387.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 387.4001 Td
+(Linked lists and trees) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.8001 Td
+(Static arrays only) Tj
+ET
+BT
+/F2 7.4 Tf
+58 368.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 368.2001 Td
+(Primitive scalars) Tj
+ET
+BT
+/F2 7.4 Tf
+58 358.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 358.6001 Td
+(Bitmasks only) Tj
+ET
+BT
+/F2 8.0 Tf
+42 335.0001 Td
+(49.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.0001 Td
+(When passing a structure to a function, what) Tj
+ET
+BT
+/F1 7.8 Tf
+58 325.8001 Td
+(does passing by value do?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 314.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 314.1001 Td
+(Copies entire structure) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.5001 Td
+(Passes pointer to struct) Tj
+ET
+BT
+/F2 7.4 Tf
+58 294.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 294.9001 Td
+(Throws compile error) Tj
+ET
+BT
+/F2 7.4 Tf
+58 285.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 285.3001 Td
+(Shares single copy) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(50.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Why is passing large structures by pointer) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(\(const Struct *\) preferred over passing by) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(value?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(Eliminates memory copy bloat) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.3 Td
+(Prevents stack overflow) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.7 Td
+(Faster execution speed) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.1 Td
+(All of the above) Tj
+ET
+BT
+/F2 8.0 Tf
+306 701.5001 Td
+(51.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(What feature allows defining structure members) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(with exact custom bit widths?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.6 Td
+(Bit-Fields) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.0001 Td
+(Byte-Fields) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.4001 Td
+(Packed Enums) Tj
+ET
+BT
+/F2 7.4 Tf
+322 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 651.8001 Td
+(Bitwise Unions) Tj
+ET
+BT
+/F2 8.0 Tf
+306 628.2001 Td
+(52.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(In struct { unsigned int flag : 1; unsigned int) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(code : 3; }; what is maximum value of code?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.3001 Td
+(7 \(2^3 - 1\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.7001 Td
+(3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.1002 Td
+(8) Tj
+ET
+BT
+/F2 7.4 Tf
+322 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 578.5002 Td
+(15) Tj
+ET
+BT
+/F2 8.0 Tf
+306 554.9002 Td
+(53.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(Can the address-of operator \(&\) be applied to a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 545.7002 Td
+(bit-field member \(&s.flag\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 534.0002 Td
+(No \(cannot take address\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.4002 Td
+(Yes \(returns bit pointer\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.8002 Td
+(Only if unsigned) Tj
+ET
+BT
+/F2 7.4 Tf
+322 505.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 505.2002 Td
+(Only in GCC) Tj
+ET
+BT
+/F2 8.0 Tf
+306 481.6002 Td
+(54.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6002 Td
+(Why cannot a programmer take the address of a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 472.4002 Td
+(bit-field member?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.7002 Td
+(RAM addresses point to bytes) Tj
+ET
+BT
+/F2 7.4 Tf
+322 451.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 451.1002 Td
+(Bit-fields are in CPU reg) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.5002 Td
+(Compiler bug) Tj
+ET
+BT
+/F2 7.4 Tf
+322 431.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 431.9002 Td
+(Illegal syntax) Tj
+ET
+BT
+/F2 8.0 Tf
+306 408.3002 Td
+(55.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 408.3002 Td
+(What is a Discriminated / Tagged Union?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 396.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 396.6002 Td
+(Struct with enum tag + union) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.0002 Td
+(Union of two structs) Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.4001 Td
+(Bit-field union) Tj
+ET
+BT
+/F2 7.4 Tf
+322 367.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 367.8001 Td
+(Anonymous union) Tj
+ET
+BT
+/F2 8.0 Tf
+306 344.2001 Td
+(56.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 344.2001 Td
+(What is the purpose of the tag in a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 335.0001 Td
+(discriminated union?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 323.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 323.3001 Td
+(Identifies active member) Tj
+ET
+BT
+/F2 7.4 Tf
+322 313.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 313.7001 Td
+(Calculates byte size) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.1001 Td
+(Enforces alignment) Tj
+ET
+BT
+/F2 7.4 Tf
+322 294.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 294.5001 Td
+(Cleans up memory) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 12 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+12 0 obj
+<< /Length 8400 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 6: USER-DEFINED COMPOSITE TYPES & FILE HANDLING) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 5 of 37) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(57.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What preprocessor operator transforms a macro) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(parameter into a quoted string literal?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(# \(Stringizing operator\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(## \(Token-pasting\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+($ \(Expansion\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(@ \(Quote\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(58.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(What does the macro #define PRINT_VAR\(x\)) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(printf\(#x " = %d\\n", x\) output for) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.3 Td
+(PRINT_VAR\(count\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.6 Td
+("count = <val>") Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.0001 Td
+("#x = <val>") Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.4001 Td
+("x = <val>") Tj
+ET
+BT
+/F2 7.4 Tf
+58 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 651.8001 Td
+(Syntax error) Tj
+ET
+BT
+/F2 8.0 Tf
+42 628.2001 Td
+(59.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(What preprocessor operator concatenates two) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.0001 Td
+(separate tokens into a single valid token?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 607.3001 Td
+(## \(Token-pasting operator\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.7001 Td
+(# \(Stringizing\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.1002 Td
+(++ \(Concat\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 578.5002 Td
+(& \(Merge\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 554.9002 Td
+(60.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(What does #define CONCAT\(a, b\) a ## b produce) Tj
+ET
+BT
+/F1 7.8 Tf
+58 545.7002 Td
+(for CONCAT\(gene_, 42\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 534.0002 Td
+(gene_42) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.4002 Td
+("gene_42") Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.8002 Td
+(gene_ ## 42) Tj
+ET
+BT
+/F2 7.4 Tf
+58 505.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 505.2002 Td
+(gene_42\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 481.6002 Td
+(61.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6002 Td
+(Which predefined macro expands to the current) Tj
+ET
+BT
+/F1 7.8 Tf
+58 472.4002 Td
+(source code line number as an integer?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.7002 Td
+(__LINE__) Tj
+ET
+BT
+/F2 7.4 Tf
+58 451.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 451.1002 Td
+(__FILE__) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.5002 Td
+(__DATE__) Tj
+ET
+BT
+/F2 7.4 Tf
+58 431.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 431.9002 Td
+(__TIME__) Tj
+ET
+BT
+/F2 8.0 Tf
+42 408.3002 Td
+(62.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 408.3002 Td
+(Which predefined macro expands to the current) Tj
+ET
+BT
+/F1 7.8 Tf
+58 399.1002 Td
+(source file name as a string literal?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 387.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 387.4001 Td
+(__FILE__) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.8001 Td
+(__LINE__) Tj
+ET
+BT
+/F2 7.4 Tf
+58 368.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 368.2001 Td
+(__STDC__) Tj
+ET
+BT
+/F2 7.4 Tf
+58 358.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 358.6001 Td
+(__SOURCE__) Tj
+ET
+BT
+/F2 8.0 Tf
+42 335.0001 Td
+(63.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.0001 Td
+(Which function outputs a descriptive system) Tj
+ET
+BT
+/F1 7.8 Tf
+58 325.8001 Td
+(error message based on global errno?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 314.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 314.1001 Td
+(perror\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.5001 Td
+(strerror\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 294.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 294.9001 Td
+(ferror\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 285.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 285.3001 Td
+(printf_error\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(64.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Which function in <string.h> converts an integer) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(errno code into a descriptive error string?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(strerror\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(perror\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(errstring\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(strfault\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(65.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(What is the purpose of fflush\(FILE *stream\) when) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(applied to an output stream?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(Writes cached buffer to disk) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(Clears input stream buffer) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(Resets file pointer to 0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(Deletes file content) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(66.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(According to the ISO C standard, is) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(fflush\(stdin\) on input streams defined behavior?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.5001 Td
+(Undefined behavior) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.9001 Td
+(Well-defined \(clears buffer\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.3002 Td
+(Implementation defined) Tj
+ET
+BT
+/F2 7.4 Tf
+322 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 587.7002 Td
+(Standard ANSI C) Tj
+ET
+BT
+/F2 8.0 Tf
+306 564.1002 Td
+(67.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.1002 Td
+(In calculating file size in C, what standard) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(sequence of fseek and ftell is used?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 543.2002 Td
+(fseek\(fp,0,SEEK_END\);ftell) Tj
+ET
+BT
+/F2 7.4 Tf
+322 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 533.6002 Td
+(fseek\(fp,0,SEEK_SET\);ftell) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.0002 Td
+(ftell\(fp\);fseek) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.4003 Td
+(rewind\(fp\);ftell) Tj
+ET
+BT
+/F2 8.0 Tf
+306 490.8003 Td
+(68.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 490.8003 Td
+(What does remove\("data.txt"\) do in standard C?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 479.1003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 479.1003 Td
+(Deletes file from storage) Tj
+ET
+BT
+/F2 7.4 Tf
+322 469.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 469.5002 Td
+(Closes open file) Tj
+ET
+BT
+/F2 7.4 Tf
+322 459.9002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 459.9002 Td
+(Clears file contents) Tj
+ET
+BT
+/F2 7.4 Tf
+322 450.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 450.3002 Td
+(Moves file to trash) Tj
+ET
+BT
+/F2 8.0 Tf
+306 426.7002 Td
+(69.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 426.7002 Td
+(What does rename\("old.txt", "new.txt"\) do in) Tj
+ET
+BT
+/F1 7.8 Tf
+322 417.5002 Td
+(standard C?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 405.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 405.8002 Td
+(Renames or moves file) Tj
+ET
+BT
+/F2 7.4 Tf
+322 396.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 396.2002 Td
+(Copies file content) Tj
+ET
+BT
+/F2 7.4 Tf
+322 386.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 386.6002 Td
+(Creates file alias) Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.0002 Td
+(Merges files) Tj
+ET
+BT
+/F2 8.0 Tf
+306 353.4002 Td
+(70.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 353.4002 Td
+(In bioinformatics, what standard file format) Tj
+ET
+BT
+/F1 7.8 Tf
+322 344.2002 Td
+(uses lines beginning with '>' for sequence) Tj
+ET
+BT
+/F1 7.8 Tf
+322 335.0002 Td
+(headers?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 323.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 323.3001 Td
+(FASTA format) Tj
+ET
+BT
+/F2 7.4 Tf
+322 313.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 313.7001 Td
+(PDB format) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.1001 Td
+(GenBank format) Tj
+ET
+BT
+/F2 7.4 Tf
+322 294.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 294.5001 Td
+(BED format) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 14 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+14 0 obj
+<< /Length 8456 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 6: USER-DEFINED COMPOSITE TYPES & FILE HANDLING) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 6 of 37) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(71.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What file format uses 80-column fixed-width) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(records to store 3D macromolecular structures?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(PDB \(Protein Data Bank\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(FASTA) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(FASTQ) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(SAM / BAM) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(72.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(What 4-line repeating format stores DNA) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(sequencing reads alongside quality scores?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(FASTQ format) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(FASTA format) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(GFF format) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(VCF format) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(73.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(What does the 'w+' file open mode do?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 625.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 625.7001 Td
+(Read and write \(truncate\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.1002 Td
+(Read only) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.5002 Td
+(Append and read) Tj
+ET
+BT
+/F2 7.4 Tf
+58 596.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 596.9002 Td
+(Binary read only) Tj
+ET
+BT
+/F2 8.0 Tf
+42 573.3002 Td
+(74.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 573.3002 Td
+(What does the 'r+' file open mode do?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 561.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 561.6002 Td
+(Read and write \(no truncate\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 552.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 552.0002 Td
+(Write only) Tj
+ET
+BT
+/F2 7.4 Tf
+58 542.4003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 542.4003 Td
+(Truncate and write) Tj
+ET
+BT
+/F2 7.4 Tf
+58 532.8003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 532.8003 Td
+(Append binary) Tj
+ET
+BT
+/F2 8.0 Tf
+42 509.2003 Td
+(75.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 509.2003 Td
+(What does the 'a+' file open mode do?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 497.5003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 497.5003 Td
+(Append and read from file) Tj
+ET
+BT
+/F2 7.4 Tf
+58 487.9003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 487.9003 Td
+(Truncate and read) Tj
+ET
+BT
+/F2 7.4 Tf
+58 478.3003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 478.3003 Td
+(Write only) Tj
+ET
+BT
+/F2 7.4 Tf
+58 468.7003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 468.7003 Td
+(Read only) Tj
+ET
+BT
+/F2 8.0 Tf
+42 445.1003 Td
+(76.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 445.1003 Td
+(Given struct S { char a; double b; int c; char) Tj
+ET
+BT
+/F1 7.8 Tf
+58 435.9003 Td
+(d; }; on 64-bit alignment, what is its sizeof?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 424.2003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 424.2003 Td
+(24 bytes \(1+7pad + 8 + 4+1+3pad\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 414.6003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 414.6003 Td
+(14 bytes) Tj
+ET
+BT
+/F2 7.4 Tf
+58 405.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 405.0002 Td
+(16 bytes) Tj
+ET
+BT
+/F2 7.4 Tf
+58 395.4002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 395.4002 Td
+(32 bytes) Tj
+ET
+BT
+/F2 8.0 Tf
+42 371.8002 Td
+(77.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 371.8002 Td
+(How can the members of struct S { char a; double) Tj
+ET
+BT
+/F1 7.8 Tf
+58 362.6002 Td
+(b; int c; char d; } be reordered to minimize) Tj
+ET
+BT
+/F1 7.8 Tf
+58 353.4002 Td
+(padding?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 341.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 341.7002 Td
+(double b; int c; char a; char d;) Tj
+ET
+BT
+/F2 7.4 Tf
+58 332.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 332.1002 Td
+(char a; char d; int c; double b;) Tj
+ET
+BT
+/F2 7.4 Tf
+58 322.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 322.5002 Td
+(Both A and B yield 16 bytes) Tj
+ET
+BT
+/F2 7.4 Tf
+58 312.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 312.9002 Td
+(Cannot be reduced) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(78.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(When reordered as struct S { double b; int c;) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(char a; char d; }; what is its new packed) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(sizeof?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(16 bytes \(saved 8 bytes!\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.3 Td
+(24 bytes) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.7 Td
+(14 bytes) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.1 Td
+(12 bytes) Tj
+ET
+BT
+/F2 8.0 Tf
+306 701.5001 Td
+(79.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(Why does writing a struct directly to disk via) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(fwrite\(&s, sizeof\(s\), 1, fp\) create portability) Tj
+ET
+BT
+/F1 7.8 Tf
+322 683.1 Td
+(bugs?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.4 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.4 Td
+(Padding and endianness differ) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.8 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.8 Td
+(Data is corrupted) Tj
+ET
+BT
+/F2 7.4 Tf
+322 652.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 652.2001 Td
+(fwrite only writes text) Tj
+ET
+BT
+/F2 7.4 Tf
+322 642.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 642.6001 Td
+(Cannot write structs) Tj
+ET
+BT
+/F2 8.0 Tf
+306 619.0001 Td
+(80.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(What is Endianness in computer systems?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.3001 Td
+(Byte order in multi-byte data) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.7001 Td
+(Bit alignment in words) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.1002 Td
+(File system format) Tj
+ET
+BT
+/F2 7.4 Tf
+322 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 578.5002 Td
+(Floating-point precision) Tj
+ET
+BT
+/F2 8.0 Tf
+306 554.9002 Td
+(81.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(In Little-Endian systems \(x86/x64\), which byte) Tj
+ET
+BT
+/F1 7.8 Tf
+322 545.7002 Td
+(of a multi-byte integer is stored at lowest) Tj
+ET
+BT
+/F1 7.8 Tf
+322 536.5002 Td
+(address?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.8002 Td
+(Least Significant Byte \(LSB\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 515.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 515.2002 Td
+(Most Significant Byte \(MSB\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 505.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 505.6002 Td
+(Sign bit byte) Tj
+ET
+BT
+/F2 7.4 Tf
+322 496.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 496.0002 Td
+(Parity byte) Tj
+ET
+BT
+/F2 8.0 Tf
+306 472.4002 Td
+(82.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 472.4002 Td
+(In Big-Endian systems \(network byte order\),) Tj
+ET
+BT
+/F1 7.8 Tf
+322 463.2002 Td
+(which byte is stored at lowest address?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 451.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 451.5002 Td
+(Most Significant Byte \(MSB\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.9001 Td
+(Least Significant Byte \(LSB\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 432.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 432.3001 Td
+(Middle byte) Tj
+ET
+BT
+/F2 7.4 Tf
+322 422.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 422.7001 Td
+(Zero byte) Tj
+ET
+BT
+/F2 8.0 Tf
+306 399.1001 Td
+(83.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 399.1001 Td
+(How should binary file structures be designed) Tj
+ET
+BT
+/F1 7.8 Tf
+322 389.9001 Td
+(for cross-platform portability?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 378.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 378.2001 Td
+(Fixed-width types & serialization) Tj
+ET
+BT
+/F2 7.4 Tf
+322 368.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 368.6001 Td
+(Rely on default struct writes) Tj
+ET
+BT
+/F2 7.4 Tf
+322 359.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 359.0001 Td
+(Use floating-point text only) Tj
+ET
+BT
+/F2 7.4 Tf
+322 349.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 349.4001 Td
+(Use #pragma pack only) Tj
+ET
+BT
+/F2 8.0 Tf
+306 325.8001 Td
+(84.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 325.8001 Td
+(What functions convert 16-bit and 32-bit) Tj
+ET
+BT
+/F1 7.8 Tf
+322 316.6001 Td
+(integers between host and network byte orders?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.9001 Td
+(htons, htonl, ntohs, ntohl) Tj
+ET
+BT
+/F2 7.4 Tf
+322 295.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 295.3 Td
+(hton, ntoh, bswap) Tj
+ET
+BT
+/F2 7.4 Tf
+322 285.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 285.7 Td
+(endian_conv, byte_swap) Tj
+ET
+BT
+/F2 7.4 Tf
+322 276.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 276.1 Td
+(int_to_net, net_to_int) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 16 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+16 0 obj
+<< /Length 8457 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 6: USER-DEFINED COMPOSITE TYPES & FILE HANDLING) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 7 of 37) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(85.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What is a Flexible Array Member in C99?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 772.3 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 772.3 Td
+(Unsized array as last member) Tj
+ET
+BT
+/F2 7.4 Tf
+58 762.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 762.7 Td
+(Array of pointers) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.1 Td
+(VLA inside struct) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.5001 Td
+(Dynamic union) Tj
+ET
+BT
+/F2 8.0 Tf
+42 719.9001 Td
+(86.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 719.9001 Td
+(What is the syntax for a Flexible Array Member) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(in C99 struct?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 699.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 699.0001 Td
+(struct Rec { int n; char seq[]; };) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.4001 Td
+(struct Rec { int n; char seq[0]; };) Tj
+ET
+BT
+/F2 7.4 Tf
+58 679.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 679.8001 Td
+(struct Rec { int n; char *seq; };) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.2001 Td
+(struct Rec { int n[]; };) Tj
+ET
+BT
+/F2 8.0 Tf
+42 646.6002 Td
+(87.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 646.6002 Td
+(How is memory allocated for a struct containing) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(a Flexible Array Member seq[] of size N?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 625.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 625.7001 Td
+(malloc\(sizeof\(struct Rec\) + N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.1002 Td
+(malloc\(sizeof\(struct Rec\)\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.5002 Td
+(malloc\(N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 596.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 596.9002 Td
+(calloc\(N, sizeof\(char\)\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 573.3002 Td
+(88.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 573.3002 Td
+(Does sizeof\(struct Rec\) include the size of the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(Flexible Array Member seq[]?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 552.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 552.4002 Td
+(No \(size is 0 / omitted\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 542.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 542.8002 Td
+(Yes \(includes N bytes\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 533.2003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 533.2003 Td
+(Includes pointer size) Tj
+ET
+BT
+/F2 7.4 Tf
+58 523.6003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 523.6003 Td
+(Undefined) Tj
+ET
+BT
+/F2 8.0 Tf
+42 500.0003 Td
+(89.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 500.0003 Td
+(Why was the GCC 'struct hack' \(char seq[1] or) Tj
+ET
+BT
+/F1 7.8 Tf
+58 490.8003 Td
+(seq[0]\) replaced by C99 flexible array members?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 479.1003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 479.1003 Td
+(Codified standard behavior) Tj
+ET
+BT
+/F2 7.4 Tf
+58 469.5003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 469.5003 Td
+(Avoided bounds warnings) Tj
+ET
+BT
+/F2 7.4 Tf
+58 459.9003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 459.9003 Td
+(Eliminated wasted byte) Tj
+ET
+BT
+/F2 7.4 Tf
+58 450.3003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 450.3003 Td
+(All of the above) Tj
+ET
+BT
+/F2 8.0 Tf
+42 426.7003 Td
+(90.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 426.7003 Td
+(In processing large genomic files \(> 4 GB\) on) Tj
+ET
+BT
+/F1 7.8 Tf
+58 417.5002 Td
+(32-bit systems, why does ftell\(\) fail?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 405.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 405.8002 Td
+(32-bit long overflows at 2GB) Tj
+ET
+BT
+/F2 7.4 Tf
+58 396.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 396.2002 Td
+(File pointer corrupted) Tj
+ET
+BT
+/F2 7.4 Tf
+58 386.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 386.6002 Td
+(Buffer too small) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.0002 Td
+(Disk error) Tj
+ET
+BT
+/F2 8.0 Tf
+42 353.4002 Td
+(91.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 353.4002 Td
+(Which 64-bit file positioning functions handle) Tj
+ET
+BT
+/F1 7.8 Tf
+58 344.2002 Td
+(files > 4 GB in POSIX and modern C?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 332.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 332.5002 Td
+(fseeko\(\) and ftello\(\) [off_t]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 322.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 322.9002 Td
+(fseek64\(\) and ftell64\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 313.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 313.3002 Td
+(fsetpos64\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 303.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 303.7002 Td
+(Both A and B) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(92.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What does setvbuf\(fp, buffer, _IOFBF, size\)) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(allow a C program to configure?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(Full custom stream buffering) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(Line buffering only) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(Disable all I/O) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(File encryption) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(93.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(What are the three buffering modes selectable) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(via setvbuf\(\) in C?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(_IOFBF, _IOLBF, _IONBF) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(_FULL, _LINE, _NONE) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(_BUFFERED, _UNBUFFERED) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(_FAST, _NORMAL, _SLOW) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(94.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(What does _IONBF passed to setvbuf\(\) accomplish?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 625.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 625.7001 Td
+(Disables all buffering \(raw\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.1002 Td
+(Enables line buffering) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.5002 Td
+(Maximizes buffer size) Tj
+ET
+BT
+/F2 7.4 Tf
+322 596.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 596.9002 Td
+(Flushes on newline) Tj
+ET
+BT
+/F2 8.0 Tf
+306 573.3002 Td
+(95.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 573.3002 Td
+(In C, which standard stream is typically) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.1002 Td
+(unbuffered \(_IONBF\) by default?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 552.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 552.4002 Td
+(stderr) Tj
+ET
+BT
+/F2 7.4 Tf
+322 542.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 542.8002 Td
+(stdout) Tj
+ET
+BT
+/F2 7.4 Tf
+322 533.2003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 533.2003 Td
+(stdin) Tj
+ET
+BT
+/F2 7.4 Tf
+322 523.6003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 523.6003 Td
+(stdlog) Tj
+ET
+BT
+/F2 8.0 Tf
+306 500.0003 Td
+(96.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 500.0003 Td
+(Why is stderr unbuffered while stdout is) Tj
+ET
+BT
+/F1 7.8 Tf
+322 490.8003 Td
+(line-buffered?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 479.1003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 479.1003 Td
+(Error messages appear immediately) Tj
+ET
+BT
+/F2 7.4 Tf
+322 469.5003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 469.5003 Td
+(stderr is slower) Tj
+ET
+BT
+/F2 7.4 Tf
+322 459.9003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 459.9003 Td
+(stderr writes to disk) Tj
+ET
+BT
+/F2 7.4 Tf
+322 450.3003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 450.3003 Td
+(stdout is read-only) Tj
+ET
+BT
+/F2 8.0 Tf
+306 426.7003 Td
+(97.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 426.7003 Td
+(What function creates an anonymous temporary) Tj
+ET
+BT
+/F1 7.8 Tf
+322 417.5002 Td
+(file that is automatically deleted when closed?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 405.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 405.8002 Td
+(tmpfile\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 396.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 396.2002 Td
+(tempfile\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 386.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 386.6002 Td
+(tmpnam\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.0002 Td
+(mktemp\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 353.4002 Td
+(98.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 353.4002 Td
+(Why is the legacy function tmpnam\(\) considered) Tj
+ET
+BT
+/F1 7.8 Tf
+322 344.2002 Td
+(insecure in security-sensitive systems?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 332.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 332.5002 Td
+(Race condition \(TOCTOU\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 322.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 322.9002 Td
+(Cannot write binary) Tj
+ET
+BT
+/F2 7.4 Tf
+322 313.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 313.3002 Td
+(Buffer overflow) Tj
+ET
+BT
+/F2 7.4 Tf
+322 303.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 303.7002 Td
+(Memory leak) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 18 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+18 0 obj
+<< /Length 1411 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 6: USER-DEFINED COMPOSITE TYPES & FILE HANDLING) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 8 of 37) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(99.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What POSIX function securely creates a unique) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(temporary file without race conditions?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(mkstemp\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(tmpfile\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(tempnam\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(creat\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 700.7001 Td
+(100.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 700.7001 Td
+(What does feof\(fp\) return when an attempt to) Tj
+ET
+BT
+/F1 7.8 Tf
+58 691.5001 Td
+(read PAST the end of the file occurs?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 679.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 679.8 Td
+(Non-zero \(true\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.2001 Td
+(0 \(false\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 660.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 660.6001 Td
+(-1 \(EOF\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 651.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 651.0001 Td
+(NULL) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 20 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+20 0 obj
+<< /Length 4845 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 6: USER-DEFINED COMPOSITE TYPES & FILE HANDLING) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 9 of 37) Tj
+ET
+BT
+/F2 10 Tf
+45 780 Td
+(SECTION B: DESCRIPTIVE & SUBJECTIVE QUESTIONS) Tj
+ET
+BT
+/F2 8.5 Tf
+45 760 Td
+(Q1. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 760 Td
+(Explain Structures \(struct\) in C, detailing syntax declaration, member access operators \(. vs ->\),) Tj
+ET
+BT
+/F1 8.5 Tf
+72 749.5 Td
+(and nested structures.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 724.5 Td
+(Q2. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 724.5 Td
+(Detail Structure Padding, Data Alignment, and sizeof\(struct\) calculations, explaining #pragma) Tj
+ET
+BT
+/F1 8.5 Tf
+72 714 Td
+(pack\(1\) and __attribute__\(\(packed\)\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 689 Td
+(Q3. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 689 Td
+(Compare Structures with Unions, detailing memory overlap, type punning, and memory size) Tj
+ET
+BT
+/F1 8.5 Tf
+72 678.5 Td
+(calculation formulas.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 653.5 Td
+(Q4. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 653.5 Td
+(Explain Tagged / Discriminated Unions in C, implementing a type-safe polymorphic biological entity) Tj
+ET
+BT
+/F1 8.5 Tf
+72 643 Td
+(container.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 618 Td
+(Q5. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 618 Td
+(Detail Bit-Fields in C, explaining packing syntax, member constraints, hardware register mapping,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 607.5 Td
+(and endianness issues.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 582.5 Td
+(Q6. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 582.5 Td
+(Explain typedef and enum in C, detailing type aliasing, code readability, function pointer) Tj
+ET
+BT
+/F1 8.5 Tf
+72 572 Td
+(shortcuts, and underlying integral types.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 547 Td
+(Q7. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 547 Td
+(Detail the C Preprocessor pipeline: #define macros, token-pasting \(##\), stringizing \(#\), and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 536.5 Td
+(predefined macros.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 511.5 Td
+(Q8. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 511.5 Td
+(Explain File Handling in C, detailing streams \(FILE*\), file open modes \("r", "w", "a", "r+", "w+",) Tj
+ET
+BT
+/F1 8.5 Tf
+72 501 Td
+("a+", "b"\), and buffer flushing.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 476 Td
+(Q9. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 476 Td
+(Write an ANSI C program to write and read formatted experimental assay records to a text file) Tj
+ET
+BT
+/F1 8.5 Tf
+72 465.5 Td
+(using fprintf\(\) and fscanf\(\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 440.5 Td
+(Q10. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 440.5 Td
+(Write an ANSI C program to read a multi-line FASTA genomic file using fgets\(\) and count total base) Tj
+ET
+BT
+/F1 8.5 Tf
+72 430 Td
+(pairs.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 405 Td
+(Q11. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 405 Td
+(Detail Binary File I/O in C: fread\(\), fwrite\(\), binary modes \("rb", "wb"\), and structure) Tj
+ET
+BT
+/F1 8.5 Tf
+72 394.5 Td
+(serialization.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 369.5 Td
+(Q12. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 369.5 Td
+(Explain Random Access File Handling in C, detailing fseek\(\), ftell\(\), rewind\(\), and SEEK_SET,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 359 Td
+(SEEK_CUR, SEEK_END origin flags.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 334 Td
+(Q13. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 334 Td
+(Analyze the dangerous while \(!feof\(fp\)\) anti-pattern in C file handling, explaining why feof\(\)) Tj
+ET
+BT
+/F1 8.5 Tf
+72 323.5 Td
+(only triggers AFTER read failure.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 298.5 Td
+(Q14. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 298.5 Td
+(Write an ANSI C program to serialize and deserialize an array of Protein Structures to a binary) Tj
+ET
+BT
+/F1 8.5 Tf
+72 288 Td
+(file with integrity verification.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 263 Td
+(Q15. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 263 Td
+(Explain Flexible Array Members in C99 structures, detailing memory allocation, sizeof semantics,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 252.5 Td
+(and the legacy struct hack.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 227.5 Td
+(Q16. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 227.5 Td
+(Write an ANSI C program to copy a file byte-by-byte using fgetc\(\) and fputc\(\) with error checking.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 192 Td
+(Q17. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 192 Td
+(Explain the role of errno, perror\(\), and strerror\(\) in standard C file and system call error) Tj
+ET
+BT
+/F1 8.5 Tf
+72 181.5 Td
+(diagnostics.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 156.5 Td
+(Q18. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 156.5 Td
+(Write an ANSI C program to parse a CSV file of clinical biochemical parameters and compute group) Tj
+ET
+BT
+/F1 8.5 Tf
+72 146 Td
+(averages.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 121 Td
+(Q19. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 121 Td
+(Explain Include Guards vs #pragma once, detailing preprocessor token mechanics, multi-file builds,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 110.5 Td
+(and compiler support.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 85.5 Td
+(Q20. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 85.5 Td
+(Write an ANSI C program to implement a self-referential structure representing a Singly Linked) Tj
+ET
+BT
+/F1 8.5 Tf
+72 75 Td
+(List of DNA base nodes.) Tj
+ET
+
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 22 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+22 0 obj
+<< /Length 2333 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 6: USER-DEFINED COMPOSITE TYPES & FILE HANDLING) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 10 of 37) Tj
+ET
+BT
+/F2 8.5 Tf
+45 780 Td
+(Q21. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 780 Td
+(Explain stream buffering modes in C: Full Buffering \(_IOFBF\), Line Buffering \(_IOLBF\), and No) Tj
+ET
+BT
+/F1 8.5 Tf
+72 769.5 Td
+(Buffering \(_IONBF\) via setvbuf\(\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 743.5 Td
+(Q22. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 743.5 Td
+(Write an ANSI C program to count total lines, words, and characters in a text file \(equivalent to) Tj
+ET
+BT
+/F1 8.5 Tf
+72 733 Td
+(UNIX wc utility\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 707 Td
+(Q23. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 707 Td
+(Explain memory-mapped file access vs standard buffered stream I/O in large-scale bioinformatics) Tj
+ET
+BT
+/F1 8.5 Tf
+72 696.5 Td
+(data pipelines.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 670.5 Td
+(Q24. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 670.5 Td
+(Write an ANSI C program demonstrating the use of temporary files using tmpfile\(\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 634 Td
+(Q25. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 634 Td
+(Explain the endianness problem when transmitting binary structures across network sockets or disk) Tj
+ET
+BT
+/F1 8.5 Tf
+72 623.5 Td
+(files with code remedies.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 597.5 Td
+(Q26. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 597.5 Td
+(Write an ANSI C program to append log telemetry timestamps to an existing file using "a" open) Tj
+ET
+BT
+/F1 8.5 Tf
+72 587 Td
+(mode.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 561 Td
+(Q27. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 561 Td
+(Explain anonymous unions and anonymous structures in modern C, detailing member flattening.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 524.5 Td
+(Q28. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 524.5 Td
+(Write an ANSI C program to reverse lines of a file by reading lines into a dynamic array of) Tj
+ET
+BT
+/F1 8.5 Tf
+72 514 Td
+(strings.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 488 Td
+(Q29. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 488 Td
+(Explain structure assignment semantics in C, detailing bitwise member copy and pointers aliasing.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 451.5 Td
+(Q30. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 451.5 Td
+(Write an ANSI C program to create a binary indexed database of genomic gene records with) Tj
+ET
+BT
+/F1 8.5 Tf
+72 441 Td
+(constant-time random lookups by ID.) Tj
+ET
+
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 24 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+24 0 obj
+<< /Length 8434 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 6: USER-DEFINED COMPOSITE TYPES & FILE HANDLING) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 11 of 37) Tj
+ET
+BT
+/F2 11 Tf
+45 780 Td
+(SECTION C: ANSWER KEY - MULTIPLE CHOICE QUESTIONS) Tj
+ET
+0.5 w
+45 772 m 550 772 l S
+BT
+/F2 8.5 Tf
+45 750 Td
+(Q1: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 734 Td
+(Q2: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 718 Td
+(Q3: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 702 Td
+(Q4: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 686 Td
+(Q5: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 670 Td
+(Q6: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 654 Td
+(Q7: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 638 Td
+(Q8: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 622 Td
+(Q9: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 606 Td
+(Q10: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 590 Td
+(Q11: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 574 Td
+(Q12: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 558 Td
+(Q13: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 542 Td
+(Q14: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 526 Td
+(Q15: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 510 Td
+(Q16: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 494 Td
+(Q17: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 478 Td
+(Q18: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 462 Td
+(Q19: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 446 Td
+(Q20: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 446 Td
+([A]) Tj
+ET
+0.2 w
+135 755 m 135 425 l S
+BT
+/F2 8.5 Tf
+145 750 Td
+(Q21: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 734 Td
+(Q22: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 718 Td
+(Q23: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 702 Td
+(Q24: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 686 Td
+(Q25: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 670 Td
+(Q26: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 654 Td
+(Q27: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 638 Td
+(Q28: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 622 Td
+(Q29: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 606 Td
+(Q30: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 590 Td
+(Q31: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 574 Td
+(Q32: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 558 Td
+(Q33: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 542 Td
+(Q34: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 526 Td
+(Q35: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 510 Td
+(Q36: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 494 Td
+(Q37: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 478 Td
+(Q38: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 462 Td
+(Q39: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 446 Td
+(Q40: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 446 Td
+([A]) Tj
+ET
+0.2 w
+235 755 m 235 425 l S
+BT
+/F2 8.5 Tf
+245 750 Td
+(Q41: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 734 Td
+(Q42: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 718 Td
+(Q43: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 702 Td
+(Q44: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 686 Td
+(Q45: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 670 Td
+(Q46: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 654 Td
+(Q47: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 638 Td
+(Q48: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 622 Td
+(Q49: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 606 Td
+(Q50: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 606 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 590 Td
+(Q51: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 574 Td
+(Q52: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 558 Td
+(Q53: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 542 Td
+(Q54: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 526 Td
+(Q55: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 510 Td
+(Q56: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 494 Td
+(Q57: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 478 Td
+(Q58: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 462 Td
+(Q59: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 446 Td
+(Q60: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 446 Td
+([A]) Tj
+ET
+0.2 w
+335 755 m 335 425 l S
+BT
+/F2 8.5 Tf
+345 750 Td
+(Q61: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 734 Td
+(Q62: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 718 Td
+(Q63: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 702 Td
+(Q64: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 686 Td
+(Q65: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 670 Td
+(Q66: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 654 Td
+(Q67: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 638 Td
+(Q68: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 622 Td
+(Q69: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 606 Td
+(Q70: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 590 Td
+(Q71: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 574 Td
+(Q72: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 558 Td
+(Q73: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 542 Td
+(Q74: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 526 Td
+(Q75: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 510 Td
+(Q76: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 494 Td
+(Q77: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 494 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 478 Td
+(Q78: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 462 Td
+(Q79: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 446 Td
+(Q80: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 446 Td
+([A]) Tj
+ET
+0.2 w
+435 755 m 435 425 l S
+BT
+/F2 8.5 Tf
+445 750 Td
+(Q81: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 734 Td
+(Q82: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 718 Td
+(Q83: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 702 Td
+(Q84: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 686 Td
+(Q85: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 670 Td
+(Q86: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 654 Td
+(Q87: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 638 Td
+(Q88: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 622 Td
+(Q89: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 622 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 606 Td
+(Q90: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 590 Td
+(Q91: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 590 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 574 Td
+(Q92: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 558 Td
+(Q93: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 542 Td
+(Q94: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 526 Td
+(Q95: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 510 Td
+(Q96: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 494 Td
+(Q97: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 478 Td
+(Q98: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 462 Td
+(Q99: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 446 Td
+(Q100: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 446 Td
+([A]) Tj
+ET
+0.5 w
+45 400 m 550 400 l 550 340 l 45 340 l s
+BT
+/F2 9 Tf
+55 382 Td
+(MCQ Scoring Guide & Difficulty Distribution:) Tj
+ET
+BT
+/F1 8.5 Tf
+55 366 Td
+(Questions 1 to 40: Foundational & Conceptual [Easy] | Questions 41 to 75: Analytical & Applied [Moderate]) Tj
+ET
+BT
+/F1 8.5 Tf
+55 350 Td
+(Questions 76 to 100: Complex Numerical & Advanced Problem Solving [Difficult]) Tj
+ET
+
+endstream
+endobj
+25 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 26 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+26 0 obj
+<< /Length 2726 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 6: USER-DEFINED COMPOSITE TYPES & FILE HANDLING) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 12 of 37) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(SECTION D: DETAILED SOLUTIONS FOR SUBJECTIVE QUESTIONS) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(================================================================================) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 1:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Structures \(struct\) in C, detailing syntax declaration, member access operators \(. vs ->\), and nested structures.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Structures \(struct\) in C:) Tj
+T*
+(   1. Definition and Conceptual Purpose:) Tj
+T*
+(   - A structure is a user-defined composite data type that packages together heterogeneous) Tj
+T*
+(   variables under a unified identifier.) Tj
+T*
+(   - Unlike arrays \(which enforce identical types\), structures group distinct data types \(e.g.) Tj
+T*
+(   char arrays, integers, floats, pointers\) into a cohesive domain model.) Tj
+T*
+() Tj
+T*
+(   2. Syntax Anatomy:) Tj
+T*
+(   struct TagName {) Tj
+T*
+(   member_type1 member1;) Tj
+T*
+(   member_type2 member2;) Tj
+T*
+(   };) Tj
+T*
+() Tj
+T*
+(   3. Member Access Operators \(. vs ->\):) Tj
+T*
+(   - Direct Member Operator \(Dot .\): Used when accessing members through an actual structure) Tj
+T*
+(   variable:) Tj
+T*
+(   struct Gene g1;) Tj
+T*
+(   g1.length = 1200;) Tj
+T*
+(   - Indirect Member Operator \(Arrow ->\): Used when accessing members through a pointer to a) Tj
+T*
+(   structure:) Tj
+T*
+(   struct Gene *ptr = &g1;) Tj
+T*
+(   ptr->length = 1200; /* Syntactic sugar for: \(*ptr\).length = 1200 */) Tj
+T*
+() Tj
+T*
+(   4. Nested Structures:) Tj
+T*
+(   Structures can embed other structure instances to represent hierarchical relationships:) Tj
+T*
+() Tj
+T*
+(   5. Complete ANSI C Demonstration Program:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <string.h>) Tj
+T*
+() Tj
+T*
+(   struct GenomicCoordinates {) Tj
+T*
+(   int chromosome;) Tj
+T*
+(   long start_position;) Tj
+T*
+(   long end_position;) Tj
+T*
+(   };) Tj
+T*
+() Tj
+T*
+(   struct GeneAnnotation {) Tj
+T*
+(   char gene_id[16];) Tj
+T*
+(   char symbol[16];) Tj
+T*
+(   struct GenomicCoordinates locus; /* Nested structure */) Tj
+T*
+(   double expression_level;) Tj
+T*
+(   };) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   struct GeneAnnotation gene;) Tj
+T*
+(   strcpy\(gene.gene_id, "ENSG00000139618"\);) Tj
+T*
+(   strcpy\(gene.symbol, "BRCA2"\);) Tj
+T*
+(   gene.locus.chromosome = 13;) Tj
+T*
+ET
+
+endstream
+endobj
+27 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 28 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+28 0 obj
+<< /Length 3235 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 6: USER-DEFINED COMPOSITE TYPES & FILE HANDLING) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 13 of 37) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   gene.locus.start_position = 32315474L;) Tj
+T*
+(   gene.locus.end_position = 32400266L;) Tj
+T*
+(   gene.expression_level = 45.8;) Tj
+T*
+() Tj
+T*
+(   struct GeneAnnotation *ptr = &gene;) Tj
+T*
+() Tj
+T*
+(   printf\("=== Genomic Annotation Record ===\\n"\);) Tj
+T*
+(   printf\("Ensembl ID: %s\\n", ptr->gene_id\);) Tj
+T*
+(   printf\("Gene Symbol: %s\\n", ptr->symbol\);) Tj
+T*
+(   printf\("Locus: Chr %d : %ld - %ld \(Span: %ld bp\)\\n",) Tj
+T*
+(   ptr->locus.chromosome, ptr->locus.start_position, ptr->locus.end_position,) Tj
+T*
+(   ptr->locus.end_position - ptr->locus.start_position\);) Tj
+T*
+(   printf\("FPKM Level: %.2f\\n", ptr->expression_level\);) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 2:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Detail Structure Padding, Data Alignment, and sizeof\(struct\) calculations, explaining #pragma pack\(1\) and __attribute__\(\(packed\)\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Structure Padding and Data Alignment in C:) Tj
+T*
+(   1. Microprocessor Hardware Alignment Constraints:) Tj
+T*
+(   - Modern 32-bit and 64-bit microprocessors access memory in aligned word chunks \(4-byte or) Tj
+T*
+(   8-byte boundaries\).) Tj
+T*
+(   - Reading an unaligned 4-byte integer spanning two cache lines requires two memory bus cycles) Tj
+T*
+(   and bitwise shifting, significantly degrading performance.) Tj
+T*
+(   - Alignment Rules:) Tj
+T*
+(   - 1-byte char can reside at any address.) Tj
+T*
+(   - 2-byte short must align to an even address \(multiple of 2\).) Tj
+T*
+(   - 4-byte int/float must align to addresses divisible by 4.) Tj
+T*
+(   - 8-byte double/pointer must align to addresses divisible by 8.) Tj
+T*
+() Tj
+T*
+(   2. Structure Padding Walkthrough:) Tj
+T*
+(   Consider:) Tj
+T*
+(   struct Sample {) Tj
+T*
+(   char a; /* 1 byte at offset 0 */) Tj
+T*
+(   /* 3 padding bytes inserted here to align 'b' to multiple of 4! */) Tj
+T*
+(   int b; /* 4 bytes at offset 4 */) Tj
+T*
+(   char c; /* 1 byte at offset 8 */) Tj
+T*
+(   /* 3 tail padding bytes added to make entire struct multiple of 4! */) Tj
+T*
+(   };) Tj
+T*
+(   Total sizeof\(struct Sample\) = 1 + 3 + 4 + 1 + 3 = 12 bytes! \(Not 6 bytes!\).) Tj
+T*
+() Tj
+T*
+(   3. Disabling Padding: Packed Structures:) Tj
+T*
+(   - In networking protocols and binary file formats, padding wastes bandwidth and destroys field) Tj
+T*
+(   offsets.) Tj
+T*
+(   - GCC / Clang: struct __attribute__\(\(packed\)\) PackedSample { ... };) Tj
+T*
+(   - MSVC / Standard: #pragma pack\(push, 1\) ... #pragma pack\(pop\)) Tj
+T*
+(   - Tradeoff: Packed structures eliminate padding but incur memory read speed penalties on) Tj
+T*
+(   architectures that forbid unaligned access \(e.g. ARM\).) Tj
+T*
+() Tj
+T*
+(   4. Demonstrative ANSI C Program:) Tj
+T*
+ET
+
+endstream
+endobj
+29 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 30 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+30 0 obj
+<< /Length 2676 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 6: USER-DEFINED COMPOSITE TYPES & FILE HANDLING) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 14 of 37) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   struct PaddedStruct {) Tj
+T*
+(   char a;) Tj
+T*
+(   double b;) Tj
+T*
+(   int c;) Tj
+T*
+(   };) Tj
+T*
+() Tj
+T*
+(   #pragma pack\(push, 1\)) Tj
+T*
+(   struct PackedStruct {) Tj
+T*
+(   char a;) Tj
+T*
+(   double b;) Tj
+T*
+(   int c;) Tj
+T*
+(   };) Tj
+T*
+(   #pragma pack\(pop\)) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   printf\("Padded Struct Size: %zu bytes \(Includes alignment gaps\)\\n", sizeof\(struct) Tj
+T*
+(   PaddedStruct\)\);) Tj
+T*
+(   printf\("Packed Struct Size: %zu bytes \(Pure sum of member sizes: 1+8+4=13\)\\n", sizeof\(struct) Tj
+T*
+(   PackedStruct\)\);) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 3:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Compare Structures with Unions, detailing memory overlap, type punning, and memory size calculation formulas.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Structures vs Unions in C:) Tj
+T*
+(   1. Fundamental Distinction:) Tj
+T*
+(   - struct: Allocates separate, distinct memory space for each member. All members exist) Tj
+T*
+(   simultaneously and independently.) Tj
+T*
+(   Total Size = Sum of member sizes + internal/tail alignment padding.) Tj
+T*
+(   - union: Allocates a single shared memory location for all members. All members occupy the) Tj
+T*
+(   exact same base address; only ONE member can be actively stored at any given moment.) Tj
+T*
+(   Total Size = Size of its largest member \(plus any padding required for the largest member's) Tj
+T*
+(   alignment\).) Tj
+T*
+() Tj
+T*
+(   2. Memory Footprint Comparison:) Tj
+T*
+(   struct S { int i; double d; char c; };) Tj
+T*
+(   Size: 4 \(i\) + 4 \(pad\) + 8 \(d\) + 1 \(c\) + 7 \(tail pad\) = 24 bytes.) Tj
+T*
+() Tj
+T*
+(   union U { int i; double d; char c; };) Tj
+T*
+(   Size: Largest member is double \(8 bytes\). Total size = 8 bytes!) Tj
+T*
+() Tj
+T*
+(   3. Type Punning via Unions:) Tj
+T*
+(   Type punning inspects the raw binary representation of one data type as another data type:) Tj
+T*
+(   union FloatBits {) Tj
+T*
+(   float f;) Tj
+T*
+(   unsigned int bits;) Tj
+T*
+(   };) Tj
+T*
+(   Assigning fb.f = 1.0f; and reading fb.bits reveals the exact IEEE 754 bit pattern \(0x3F800000\)!) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+31 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 32 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+32 0 obj
+<< /Length 2557 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 6: USER-DEFINED COMPOSITE TYPES & FILE HANDLING) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 15 of 37) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   4. Demonstrative ANSI C Program:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   union VariantData {) Tj
+T*
+(   int int_val;) Tj
+T*
+(   double dbl_val;) Tj
+T*
+(   char str_val[16];) Tj
+T*
+(   };) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   union VariantData u;) Tj
+T*
+() Tj
+T*
+(   printf\("sizeof\(union VariantData\): %zu bytes\\n", sizeof\(u\)\);) Tj
+T*
+(   printf\("Address of u.int_val: %p\\n", \(void *\)&u.int_val\);) Tj
+T*
+(   printf\("Address of u.dbl_val: %p\\n", \(void *\)&u.dbl_val\);) Tj
+T*
+(   printf\("Address of u.str_val: %p\\n", \(void *\)u.str_val\);) Tj
+T*
+(   printf\("-> All union members share the exact same starting address!\\n\\n"\);) Tj
+T*
+() Tj
+T*
+(   /* Storing integer */) Tj
+T*
+(   u.int_val = 12345;) Tj
+T*
+(   printf\("Stored int: %d\\n", u.int_val\);) Tj
+T*
+() Tj
+T*
+(   /* Overwriting with double */) Tj
+T*
+(   u.dbl_val = 98.7654;) Tj
+T*
+(   printf\("Stored dbl: %.4f\\n", u.dbl_val\);) Tj
+T*
+(   printf\("Reading int after dbl write: %d \(Overwritten/corrupted!\)\\n", u.int_val\);) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 4:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Tagged / Discriminated Unions in C, implementing a type-safe polymorphic biological entity container.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Tagged \(Discriminated\) Unions in C:) Tj
+T*
+(   1. Conceptual Purpose:) Tj
+T*
+(   Because C unions share memory, a raw union has no built-in mechanism to record WHICH member is) Tj
+T*
+(   currently active. Accessing an inactive member reads garbage or corrupted data.) Tj
+T*
+(   A Tagged Union wraps an enum tag and the union together inside a struct, providing type-safe) Tj
+T*
+(   pseudo-polymorphism.) Tj
+T*
+() Tj
+T*
+(   2. Architecture:) Tj
+T*
+(   struct TaggedContainer {) Tj
+T*
+(   enum TypeDiscriminator type;) Tj
+T*
+(   union Payload data;) Tj
+T*
+(   };) Tj
+T*
+() Tj
+T*
+(   3. Complete ANSI C Source Code \(Biological Reagent Assay\):) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <string.h>) Tj
+T*
+() Tj
+T*
+(   typedef enum {) Tj
+T*
+(   TYPE_DNA,) Tj
+T*
+ET
+
+endstream
+endobj
+33 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 34 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+34 0 obj
+<< /Length 2283 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 6: USER-DEFINED COMPOSITE TYPES & FILE HANDLING) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 16 of 37) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   TYPE_PROTEIN,) Tj
+T*
+(   TYPE_CHEMICAL_BUFFER) Tj
+T*
+(   } BiomoleculeType;) Tj
+T*
+() Tj
+T*
+(   typedef struct {) Tj
+T*
+(   BiomoleculeType type;) Tj
+T*
+(   char sample_id[16];) Tj
+T*
+(   union {) Tj
+T*
+(   struct { int base_pairs; double gc_content; } dna;) Tj
+T*
+(   struct { int amino_acids; double pI_value; } protein;) Tj
+T*
+(   struct { double ph_level; double molarity; } buffer;) Tj
+T*
+(   } payload;) Tj
+T*
+(   } BiologicalSample;) Tj
+T*
+() Tj
+T*
+(   void inspect_sample\(const BiologicalSample *s\) {) Tj
+T*
+(   printf\("Sample ID: %s | ", s->sample_id\);) Tj
+T*
+(   switch \(s->type\) {) Tj
+T*
+(   case TYPE_DNA:) Tj
+T*
+(   printf\("DNA Entity: %d bp, GC: %.1f%%\\n",) Tj
+T*
+(   s->payload.dna.base_pairs, s->payload.dna.gc_content\);) Tj
+T*
+(   break;) Tj
+T*
+(   case TYPE_PROTEIN:) Tj
+T*
+(   printf\("Protein Entity: %d residues, Isoelectric Point \(pI\): %.2f\\n",) Tj
+T*
+(   s->payload.protein.amino_acids, s->payload.protein.pI_value\);) Tj
+T*
+(   break;) Tj
+T*
+(   case TYPE_CHEMICAL_BUFFER:) Tj
+T*
+(   printf\("Buffer Entity: pH %.2f at %.2f M concentration\\n",) Tj
+T*
+(   s->payload.buffer.ph_level, s->payload.buffer.molarity\);) Tj
+T*
+(   break;) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   BiologicalSample s1, s2;) Tj
+T*
+() Tj
+T*
+(   s1.type = TYPE_DNA;) Tj
+T*
+(   strcpy\(s1.sample_id, "DNA-001"\);) Tj
+T*
+(   s1.payload.dna.base_pairs = 4500;) Tj
+T*
+(   s1.payload.dna.gc_content = 52.4;) Tj
+T*
+() Tj
+T*
+(   s2.type = TYPE_PROTEIN;) Tj
+T*
+(   strcpy\(s2.sample_id, "PROT-042"\);) Tj
+T*
+(   s2.payload.protein.amino_acids = 380;) Tj
+T*
+(   s2.payload.protein.pI_value = 6.85;) Tj
+T*
+() Tj
+T*
+(   inspect_sample\(&s1\);) Tj
+T*
+(   inspect_sample\(&s2\);) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 5:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+ET
+
+endstream
+endobj
+35 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 36 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+36 0 obj
+<< /Length 3132 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 6: USER-DEFINED COMPOSITE TYPES & FILE HANDLING) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 17 of 37) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   [Problem Statement]: Detail Bit-Fields in C, explaining packing syntax, member constraints, hardware register mapping, and endianness issues.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Bit-Fields in C: Syntax, Constraints, and Systems Applications:) Tj
+T*
+(   1. Syntax and Definition:) Tj
+T*
+(   Bit-fields permit declaring structure members with explicit, custom bit widths, packing) Tj
+T*
+(   multiple variables into single bytes/words:) Tj
+T*
+(   struct BitFieldDefinition {) Tj
+T*
+(   type member_name : bit_width;) Tj
+T*
+(   };) Tj
+T*
+(   - Allowed Types: unsigned int, signed int, _Bool \(C99\).) Tj
+T*
+() Tj
+T*
+(   2. Memory Conservation Example:) Tj
+T*
+(   struct PacketHeader {) Tj
+T*
+(   unsigned int version : 4; /* 4 bits \(0-15\) */) Tj
+T*
+(   unsigned int header_len : 4; /* 4 bits \(0-15\) */) Tj
+T*
+(   unsigned int tos : 8; /* 8 bits \(0-255\) */) Tj
+T*
+(   unsigned int total_len : 16; /* 16 bits \(0-65535\) */) Tj
+T*
+(   };) Tj
+T*
+(   Packs all 4 fields into exactly 32 bits \(4 bytes\)!) Tj
+T*
+() Tj
+T*
+(   3. Strict Bit-Field Constraints:) Tj
+T*
+(   - No Address-Of Operator \(&\): Bit-fields do NOT have distinct byte memory addresses. Code like) Tj
+T*
+(   &hdr.version causes an immediate compile error!) Tj
+T*
+(   - No Array of Bit-Fields: Arrays require contiguous element byte addresses.) Tj
+T*
+(   - No sizeof on Bit-Field Members: sizeof\(hdr.version\) is illegal.) Tj
+T*
+() Tj
+T*
+(   4. Endianness and Portability Caveat:) Tj
+T*
+(   The ISO C standard leaves the layout order of bits within an integer word \(low-order to) Tj
+T*
+(   high-order vs high-order to low-order\) IMPLEMENTATION-DEFINED!) Tj
+T*
+(   Bit-fields written on x86 \(little-endian\) are reversed relative to network protocols or) Tj
+T*
+(   big-endian processors.) Tj
+T*
+() Tj
+T*
+(   5. Complete ANSI C Demonstration Program:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   struct BioreactorStatus {) Tj
+T*
+(   unsigned int impeller_active : 1; /* 1 bit: 0 or 1 */) Tj
+T*
+(   unsigned int heater_active : 1; /* 1 bit: 0 or 1 */) Tj
+T*
+(   unsigned int acid_valve_open : 1; /* 1 bit: 0 or 1 */) Tj
+T*
+(   unsigned int base_valve_open : 1; /* 1 bit: 0 or 1 */) Tj
+T*
+(   unsigned int sensor_fault : 1; /* 1 bit: 0 or 1 */) Tj
+T*
+(   unsigned int alarm_severity : 3; /* 3 bits: 0 to 7 */) Tj
+T*
+(   };) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   struct BioreactorStatus status = {0};) Tj
+T*
+(   status.impeller_active = 1;) Tj
+T*
+(   status.acid_valve_open = 1;) Tj
+T*
+(   status.alarm_severity = 5;) Tj
+T*
+() Tj
+T*
+(   printf\("Bioreactor packed status footprint: %zu byte\(s\)\\n", sizeof\(status\)\);) Tj
+T*
+(   printf\("Impeller: %u | Acid Valve: %u | Alarm Severity: %u of 7\\n",) Tj
+T*
+(   status.impeller_active, status.acid_valve_open, status.alarm_severity\);) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+37 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 38 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+38 0 obj
+<< /Length 2623 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 6: USER-DEFINED COMPOSITE TYPES & FILE HANDLING) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 18 of 37) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 6:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain typedef and enum in C, detailing type aliasing, code readability, function pointer shortcuts, and underlying integral types.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   typedef and enum in C:) Tj
+T*
+(   1. The typedef Facility:) Tj
+T*
+(   - Purpose: Establishes a synonym \(alias\) for an existing data type. Does NOT create a new type.) Tj
+T*
+(   - Syntax: typedef existing_type new_alias_name;) Tj
+T*
+(   - Enhancing Code Portability:) Tj
+T*
+(   typedef unsigned long long uint64_t;) Tj
+T*
+(   - Simplifying Structure Definitions:) Tj
+T*
+(   typedef struct Node { int data; struct Node *next; } Node;) Tj
+T*
+(   Allows declaring Node n1; without prefixing 'struct'.) Tj
+T*
+(   - Simplifying Function Pointers:) Tj
+T*
+(   typedef double \(*MathFunc\)\(double, double\);) Tj
+T*
+() Tj
+T*
+(   2. The enum Facility:) Tj
+T*
+(   - Purpose: Defines a user-defined enumeration type consisting of named integer constants.) Tj
+T*
+(   - Syntax: enum Colors { RED, GREEN, BLUE };) Tj
+T*
+(   - Auto-Numbering: RED = 0, GREEN = 1, BLUE = 2.) Tj
+T*
+(   - Custom Numbering:) Tj
+T*
+(   enum Response { SUCCESS = 200, NOT_FOUND = 404, SERVER_ERROR = 500 };) Tj
+T*
+(   - Underlying Type: Enumerations are internally represented as signed integer \(int\) values.) Tj
+T*
+() Tj
+T*
+(   3. Demonstrative ANSI C Program:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   typedef enum {) Tj
+T*
+(   NUCLEOTIDE_A = 1,) Tj
+T*
+(   NUCLEOTIDE_C = 2,) Tj
+T*
+(   NUCLEOTIDE_G = 3,) Tj
+T*
+(   NUCLEOTIDE_T = 4) Tj
+T*
+(   } BaseCode;) Tj
+T*
+() Tj
+T*
+(   typedef struct {) Tj
+T*
+(   char sequence_tag[16];) Tj
+T*
+(   BaseCode leading_base;) Tj
+T*
+(   } SequencePrimer;) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   SequencePrimer primer = {"Forward_16S", NUCLEOTIDE_G};) Tj
+T*
+() Tj
+T*
+(   printf\("Primer: %s | Leading Base Enum Value: %d\\n",) Tj
+T*
+(   primer.sequence_tag, primer.leading_base\);) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+39 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 40 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+40 0 obj
+<< /Length 3159 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 6: USER-DEFINED COMPOSITE TYPES & FILE HANDLING) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 19 of 37) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 7:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Detail the C Preprocessor pipeline: #define macros, token-pasting \(##\), stringizing \(#\), and predefined macros.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   The C Preprocessor: Advanced Directives and Operators:) Tj
+T*
+(   1. Operational Mechanism:) Tj
+T*
+(   The C preprocessor runs prior to compilation, executing text transformations without) Tj
+T*
+(   understanding C syntax.) Tj
+T*
+() Tj
+T*
+(   2. Parameterized Macros and Precedence Traps:) Tj
+T*
+(   #define SQUARE\(x\) \(\(x\) * \(x\)\)) Tj
+T*
+(   Must enclose all parameters and the entire replacement expression in parentheses to prevent) Tj
+T*
+(   operator precedence bugs.) Tj
+T*
+() Tj
+T*
+(   3. The Stringizing Operator \(#\):) Tj
+T*
+(   Transforms a macro argument into a quoted string literal:) Tj
+T*
+(   #define DEBUG_PRINT\(var\) printf\(#var " = %d \(File: %s, Line: %d\)\\n", var, __FILE__, __LINE__\)) Tj
+T*
+() Tj
+T*
+(   4. The Token-Pasting Operator \(##\):) Tj
+T*
+(   Merges two separate lexical tokens into a single combined token:) Tj
+T*
+(   #define MAKE_SAMPLE\(id\) int sample_##id = id * 10) Tj
+T*
+() Tj
+T*
+(   5. Standard Predefined Macros:) Tj
+T*
+(   - __FILE__: Current source file path \(string literal\).) Tj
+T*
+(   - __LINE__: Current source line number \(integer\).) Tj
+T*
+(   - __DATE__: Compilation date \("Mmm dd yyyy"\).) Tj
+T*
+(   - __TIME__: Compilation time \("hh:mm:ss"\).) Tj
+T*
+(   - __STDC__: Expands to 1 if compiler complies with ISO C standard.) Tj
+T*
+() Tj
+T*
+(   6. Demonstrative ANSI C Program:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   #define STRINGIZE\(x\) #x) Tj
+T*
+(   #define CONCAT_VARS\(a, b\) a ## b) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   int CONCAT_VARS\(patient_, 101\) = 98; /* Declares patient_101 */) Tj
+T*
+() Tj
+T*
+(   printf\("Variable name: %s\\n", STRINGIZE\(patient_101\)\);) Tj
+T*
+(   printf\("Variable value: %d\\n", patient_101\);) Tj
+T*
+(   printf\("Compiled on: %s at %s in %s \(Line: %d\)\\n",) Tj
+T*
+(   __DATE__, __TIME__, __FILE__, __LINE__\);) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 8:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain File Handling in C, detailing streams \(FILE*\), file open modes \("r", "w", "a", "r+", "w+", "a+", "b"\), and buffer flushing.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   File Handling Fundamentals in C:) Tj
+T*
+(   1. File Streams and the FILE* Handle:) Tj
+T*
+(   - All C file operations are performed through Streams: an abstract logical interface mapping to) Tj
+T*
+(   physical disk files, terminals, or network sockets.) Tj
+T*
+ET
+
+endstream
+endobj
+41 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 42 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+42 0 obj
+<< /Length 2910 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 6: USER-DEFINED COMPOSITE TYPES & FILE HANDLING) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 20 of 37) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - The FILE structure \(defined in <stdio.h>\) maintains stream state: file descriptor, read/write) Tj
+T*
+(   offset position, error flags, and I/O buffer pointers.) Tj
+T*
+() Tj
+T*
+(   2. The 12 Standard File Open Modes \(fopen\):) Tj
+T*
+(   Mode Read/Write? File Exists? File Missing? Initial Position) Tj
+T*
+(   "r" Read-Only Opens file FAILS \(NULL\) Beginning) Tj
+T*
+(   "w" Write-Only TRUNCATES to 0 CREATES new Beginning) Tj
+T*
+(   "a" Append-Only Preserves content CREATES new End of File) Tj
+T*
+(   "r+" Read/Write Preserves content FAILS \(NULL\) Beginning) Tj
+T*
+(   "w+" Read/Write TRUNCATES to 0 CREATES new Beginning) Tj
+T*
+(   "a+" Read/Append Preserves content CREATES new End for writing) Tj
+T*
+(   Appending "b" \(e.g. "rb", "wb+"\) disables CRLF/LF line-ending translations, mandatory for) Tj
+T*
+(   binary files!) Tj
+T*
+() Tj
+T*
+(   3. Stream Buffer Flushing \(fflush\):) Tj
+T*
+(   Standard C file output is buffered in user-space RAM for efficiency.) Tj
+T*
+(   fflush\(fp\) forces all buffered data to be written immediately to disk.) Tj
+T*
+() Tj
+T*
+(   4. Demonstrative ANSI C Program:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   FILE *fp = fopen\("lab_log.txt", "w"\);) Tj
+T*
+(   if \(fp == NULL\) {) Tj
+T*
+(   perror\("Failed to open file"\);) Tj
+T*
+(   return 1;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   fprintf\(fp, "Experiment ID: EXP-2026-BT\\n"\);) Tj
+T*
+(   fprintf\(fp, "Incubation Temp: 37.0 C\\n"\);) Tj
+T*
+(   fflush\(fp\); /* Ensure data is safely on disk */) Tj
+T*
+() Tj
+T*
+(   fclose\(fp\);) Tj
+T*
+(   printf\("File created and flushed successfully.\\n"\);) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 9:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to write and read formatted experimental assay records to a text file using fprintf\(\) and fscanf\(\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Formatted Text File I/O with fprintf\(\) and fscanf\(\):) Tj
+T*
+(   1. Problem Statement:) Tj
+T*
+(   Create a structured laboratory log file containing sample records \(ID, Concentration,) Tj
+T*
+(   Absorbance, Purity\), write formatted records with fprintf\(\), then reopen the file and parse) Tj
+T*
+(   records with fscanf\(\).) Tj
+T*
+() Tj
+T*
+(   2. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <stdlib.h>) Tj
+T*
+() Tj
+T*
+(   typedef struct {) Tj
+T*
+(   char sample_id[16];) Tj
+T*
+ET
+
+endstream
+endobj
+43 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 44 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+44 0 obj
+<< /Length 2591 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 6: USER-DEFINED COMPOSITE TYPES & FILE HANDLING) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 21 of 37) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   double concentration;) Tj
+T*
+(   double absorbance;) Tj
+T*
+(   } AssayRecord;) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   const char *filename = "assay_data.txt";) Tj
+T*
+(   AssayRecord samples[] = {) Tj
+T*
+(   {"SMP-01", 14.50, 0.452},) Tj
+T*
+(   {"SMP-02", 28.90, 0.891},) Tj
+T*
+(   {"SMP-03", 5.25, 0.165}) Tj
+T*
+(   };) Tj
+T*
+(   int count = sizeof\(samples\) / sizeof\(samples[0]\);) Tj
+T*
+() Tj
+T*
+(   /* 1. Writing formatted text records */) Tj
+T*
+(   FILE *fout = fopen\(filename, "w"\);) Tj
+T*
+(   if \(!fout\) { perror\("Write open error"\); return EXIT_FAILURE; }) Tj
+T*
+() Tj
+T*
+(   for \(int i = 0; i < count; i++\) {) Tj
+T*
+(   fprintf\(fout, "%-10s %8.2f %8.4f\\n",) Tj
+T*
+(   samples[i].sample_id, samples[i].concentration, samples[i].absorbance\);) Tj
+T*
+(   }) Tj
+T*
+(   fclose\(fout\);) Tj
+T*
+() Tj
+T*
+(   /* 2. Reading formatted text records */) Tj
+T*
+(   FILE *fin = fopen\(filename, "r"\);) Tj
+T*
+(   if \(!fin\) { perror\("Read open error"\); return EXIT_FAILURE; }) Tj
+T*
+() Tj
+T*
+(   printf\("=== Parsed Laboratory Assay Records ===\\n"\);) Tj
+T*
+(   char id[16];) Tj
+T*
+(   double conc, abs_val;) Tj
+T*
+(   while \(fscanf\(fin, "%15s %lf %lf", id, &conc, &abs_val\) == 3\) {) Tj
+T*
+(   printf\("Sample: %-10s | Conc: %6.2f ug/mL | Abs: %.4f OD\\n", id, conc, abs_val\);) Tj
+T*
+(   }) Tj
+T*
+(   fclose\(fin\);) Tj
+T*
+() Tj
+T*
+(   return EXIT_SUCCESS;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 10:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to read a multi-line FASTA genomic file using fgets\(\) and count total base pairs.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   FASTA Genomic File Parser in C:) Tj
+T*
+(   1. Biological Format Specifications:) Tj
+T*
+(   FASTA files consist of:) Tj
+T*
+(   - Header lines: Begin with '>' followed by description text.) Tj
+T*
+(   - Sequence lines: Follow header, containing nucleotide bases \(A, C, G, T, N\). Lines may contain) Tj
+T*
+(   spaces or newlines.) Tj
+T*
+() Tj
+T*
+(   2. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <stdlib.h>) Tj
+T*
+(   #include <ctype.h>) Tj
+T*
+ET
+
+endstream
+endobj
+45 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 46 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+46 0 obj
+<< /Length 2136 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 6: USER-DEFINED COMPOSITE TYPES & FILE HANDLING) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 22 of 37) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   #include <string.h>) Tj
+T*
+() Tj
+T*
+(   #define LINE_BUFFER 1024) Tj
+T*
+() Tj
+T*
+(   void parse_fasta_file\(const char *filename\) {) Tj
+T*
+(   FILE *fp = fopen\(filename, "r"\);) Tj
+T*
+(   if \(!fp\) {) Tj
+T*
+(   perror\("FASTA file open error"\);) Tj
+T*
+(   return;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   char line[LINE_BUFFER];) Tj
+T*
+(   int sequence_count = 0;) Tj
+T*
+(   long total_bases = 0;) Tj
+T*
+(   char current_header[128] = "";) Tj
+T*
+() Tj
+T*
+(   while \(fgets\(line, sizeof\(line\), fp\) != NULL\) {) Tj
+T*
+(   /* Strip trailing newlines */) Tj
+T*
+(   line[strcspn\(line, "\\r\\n"\)] = '\\0';) Tj
+T*
+() Tj
+T*
+(   if \(line[0] == '>'\) {) Tj
+T*
+(   /* Header line */) Tj
+T*
+(   if \(sequence_count > 0\) {) Tj
+T*
+(   printf\(" -> Base count: %ld bp\\n", total_bases\);) Tj
+T*
+(   }) Tj
+T*
+(   sequence_count++;) Tj
+T*
+(   strncpy\(current_header, line + 1, sizeof\(current_header\) - 1\);) Tj
+T*
+(   printf\("Record %d: %s\\n", sequence_count, current_header\);) Tj
+T*
+(   total_bases = 0;) Tj
+T*
+(   } else {) Tj
+T*
+(   /* Sequence lines */) Tj
+T*
+(   for \(int i = 0; line[i] != '\\0'; i++\) {) Tj
+T*
+(   if \(isalpha\(\(unsigned char\)line[i]\)\) {) Tj
+T*
+(   total_bases++;) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   if \(sequence_count > 0\) {) Tj
+T*
+(   printf\(" -> Base count: %ld bp\\n", total_bases\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   fclose\(fp\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   /* Create demo FASTA file */) Tj
+T*
+(   FILE *demo = fopen\("sample.fasta", "w"\);) Tj
+T*
+(   fprintf\(demo, ">seq1 Human Insulin Exon 1\\nATGCGATCGA\\nTCGATCGATC\\n"\);) Tj
+T*
+(   fprintf\(demo, ">seq2 Beta Actin Promoter\\nGGCCATATAT\\nAGCTAGCTA\\n"\);) Tj
+T*
+(   fclose\(demo\);) Tj
+T*
+() Tj
+T*
+(   parse_fasta_file\("sample.fasta"\);) Tj
+T*
+ET
+
+endstream
+endobj
+47 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 48 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+48 0 obj
+<< /Length 2811 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 6: USER-DEFINED COMPOSITE TYPES & FILE HANDLING) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 23 of 37) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 11:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Detail Binary File I/O in C: fread\(\), fwrite\(\), binary modes \("rb", "wb"\), and structure serialization.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Binary File I/O and Structure Serialization:) Tj
+T*
+(   1. Advantages of Binary Files over Text Files:) Tj
+T*
+(   - Compact Storage: Numbers are stored in their native binary memory representations \(e.g.,) Tj
+T*
+(   double takes exactly 8 bytes, compared to up to 24 ASCII characters in text\).) Tj
+T*
+(   - Fast Execution: Zero parsing/formatting overhead \(no conversion between binary numbers and) Tj
+T*
+(   ASCII strings\).) Tj
+T*
+(   - Precision Integrity: No floating-point rounding errors during serialization.) Tj
+T*
+() Tj
+T*
+(   2. Function Signatures \(<stdio.h>\):) Tj
+T*
+(   size_t fwrite\(const void *ptr, size_t size, size_t count, FILE *stream\);) Tj
+T*
+(   size_t fread\(void *ptr, size_t size, size_t count, FILE *stream\);) Tj
+T*
+(   - Return Value: Number of complete items \(not bytes!\) successfully read/written. Always verify) Tj
+T*
+(   return value == count!) Tj
+T*
+() Tj
+T*
+(   3. Complete ANSI C Demonstration Program:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <stdlib.h>) Tj
+T*
+() Tj
+T*
+(   typedef struct {) Tj
+T*
+(   int gene_id;) Tj
+T*
+(   char locus_tag[12];) Tj
+T*
+(   double mw_daltons;) Tj
+T*
+(   } GeneBinaryRecord;) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   const char *bin_filename = "genes.dat";) Tj
+T*
+(   GeneBinaryRecord dataset[2] = {) Tj
+T*
+(   {101, "LOC_001", 45200.5},) Tj
+T*
+(   {102, "LOC_002", 92300.8}) Tj
+T*
+(   };) Tj
+T*
+() Tj
+T*
+(   /* 1. Binary Write */) Tj
+T*
+(   FILE *wb = fopen\(bin_filename, "wb"\);) Tj
+T*
+(   if \(!wb\) return 1;) Tj
+T*
+(   size_t written = fwrite\(dataset, sizeof\(GeneBinaryRecord\), 2, wb\);) Tj
+T*
+(   fclose\(wb\);) Tj
+T*
+(   printf\("Successfully serialized %zu binary records to disk.\\n", written\);) Tj
+T*
+() Tj
+T*
+(   /* 2. Binary Read */) Tj
+T*
+(   GeneBinaryRecord loaded[2];) Tj
+T*
+(   FILE *rb = fopen\(bin_filename, "rb"\);) Tj
+T*
+(   if \(!rb\) return 1;) Tj
+T*
+(   size_t read_items = fread\(loaded, sizeof\(GeneBinaryRecord\), 2, rb\);) Tj
+T*
+(   fclose\(rb\);) Tj
+T*
+() Tj
+T*
+(   printf\("Successfully deserialized %zu records:\\n", read_items\);) Tj
+T*
+ET
+
+endstream
+endobj
+49 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 50 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+50 0 obj
+<< /Length 2793 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 6: USER-DEFINED COMPOSITE TYPES & FILE HANDLING) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 24 of 37) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   for \(size_t i = 0; i < read_items; i++\) {) Tj
+T*
+(   printf\("Gene ID: %d | Locus: %s | MW: %.1f Da\\n",) Tj
+T*
+(   loaded[i].gene_id, loaded[i].locus_tag, loaded[i].mw_daltons\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 12:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Random Access File Handling in C, detailing fseek\(\), ftell\(\), rewind\(\), and SEEK_SET, SEEK_CUR, SEEK_END origin flags.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Random Access File Handling in C:) Tj
+T*
+(   1. Concept of File Positioning:) Tj
+T*
+(   Unlike sequential file access, random access moves the file stream position indicator directly) Tj
+T*
+(   to any arbitrary byte offset without reading intervening data.) Tj
+T*
+() Tj
+T*
+(   2. The fseek\(\) Function:) Tj
+T*
+(   int fseek\(FILE *stream, long offset, int origin\);) Tj
+T*
+(   Origins:) Tj
+T*
+(   - SEEK_SET: Offset is relative to the start of the file \(offset >= 0\).) Tj
+T*
+(   - SEEK_CUR: Offset is relative to current file position \(offset can be positive or negative\).) Tj
+T*
+(   - SEEK_END: Offset is relative to end of file \(offset typically <= 0\).) Tj
+T*
+() Tj
+T*
+(   3. The ftell\(\) Function:) Tj
+T*
+(   long ftell\(FILE *stream\);) Tj
+T*
+(   Returns current byte position offset from beginning of file, or -1L on error.) Tj
+T*
+() Tj
+T*
+(   4. Computing File Size via fseek and ftell:) Tj
+T*
+(   fseek\(fp, 0L, SEEK_END\);) Tj
+T*
+(   long file_size = ftell\(fp\);) Tj
+T*
+(   fseek\(fp, 0L, SEEK_SET\); /* Or rewind\(fp\); */) Tj
+T*
+() Tj
+T*
+(   5. Complete ANSI C Demonstration Program:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <stdlib.h>) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   FILE *fp = fopen\("records.bin", "wb+"\);) Tj
+T*
+(   if \(!fp\) return 1;) Tj
+T*
+() Tj
+T*
+(   /* Write 10 integers \(0, 10, 20, ..., 90\) */) Tj
+T*
+(   for \(int i = 0; i < 10; i++\) {) Tj
+T*
+(   int val = i * 10;) Tj
+T*
+(   fwrite\(&val, sizeof\(int\), 1, fp\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   /* Random access: Seek directly to the 5th integer \(index 4\) */) Tj
+T*
+(   fseek\(fp, 4 * sizeof\(int\), SEEK_SET\);) Tj
+T*
+(   int read_val;) Tj
+T*
+(   fread\(&read_val, sizeof\(int\), 1, fp\);) Tj
+T*
+(   printf\("Randomly retrieved 5th record: %d \(Expected: 40\)\\n", read_val\);) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+51 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 52 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+52 0 obj
+<< /Length 2948 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 6: USER-DEFINED COMPOSITE TYPES & FILE HANDLING) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 25 of 37) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   /* Check file size */) Tj
+T*
+(   fseek\(fp, 0L, SEEK_END\);) Tj
+T*
+(   long total_bytes = ftell\(fp\);) Tj
+T*
+(   printf\("Total file size: %ld bytes \(10 * %zu\)\\n", total_bytes, sizeof\(int\)\);) Tj
+T*
+() Tj
+T*
+(   fclose\(fp\);) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 13:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze the dangerous while \(!feof\(fp\)\) anti-pattern in C file handling, explaining why feof\(\) only triggers AFTER read failure.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   The Fatal while \(!feof\(fp\)\) Anti-Pattern in C:) Tj
+T*
+(   1. The Common Flawed Code Pattern:) Tj
+T*
+(   while \(!feof\(fp\)\) {) Tj
+T*
+(   fscanf\(fp, "%s", buffer\);) Tj
+T*
+(   printf\("%s\\n", buffer\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   2. Why it Fails \(The One-Extra-Iteration Bug\):) Tj
+T*
+(   - Flaw: The feof\(\) function DOES NOT predict the future!) Tj
+T*
+(   - In standard ANSI C, the EOF indicator flag is set ONLY AFTER AN I/O OPERATION ATTEMPTS TO) Tj
+T*
+(   READ BEYOND THE END OF THE FILE AND FAILS!) Tj
+T*
+(   - Sequence of Events on Final Line:) Tj
+T*
+(   a. Final data line is read successfully. feof\(fp\) is still FALSE \(0\).) Tj
+T*
+(   b. Loop repeats because !feof\(fp\) is true.) Tj
+T*
+(   c. fscanf\(\) attempts to read past EOF, fails, and returns EOF \(-1\).) Tj
+T*
+(   d. THE BUFFER IS NOT UPDATED!) Tj
+T*
+(   e. printf\("%s\\n", buffer\) executes AGAIN, printing the final record TWICE!) Tj
+T*
+() Tj
+T*
+(   3. The Correct Idiomatic C Pattern:) Tj
+T*
+(   Always check the return value of the read function directly in the loop condition:) Tj
+T*
+(   /* Correct Pattern 1: Formatted input */) Tj
+T*
+(   while \(fscanf\(fp, "%s", buffer\) == 1\) {) Tj
+T*
+(   printf\("%s\\n", buffer\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   /* Correct Pattern 2: Line reading */) Tj
+T*
+(   while \(fgets\(buffer, sizeof\(buffer\), fp\) != NULL\) {) Tj
+T*
+(   printf\("%s", buffer\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   /* Correct Pattern 3: Character reading */) Tj
+T*
+(   int ch;) Tj
+T*
+(   while \(\(ch = fgetc\(fp\)\) != EOF\) {) Tj
+T*
+(   putchar\(ch\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 14:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to serialize and deserialize an array of Protein Structures to a binary file with integrity verification.) Tj
+T*
+ET
+
+endstream
+endobj
+53 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 54 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+54 0 obj
+<< /Length 2563 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 6: USER-DEFINED COMPOSITE TYPES & FILE HANDLING) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 26 of 37) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Binary Serialization and Deserialization of Biological Entities:) Tj
+T*
+(   1. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <stdlib.h>) Tj
+T*
+(   #include <string.h>) Tj
+T*
+() Tj
+T*
+(   typedef struct {) Tj
+T*
+(   int accession_id;) Tj
+T*
+(   char symbol[8];) Tj
+T*
+(   double molecular_weight;) Tj
+T*
+(   int residue_count;) Tj
+T*
+(   } ProteinRecord;) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   const char *db_file = "proteins.bin";) Tj
+T*
+(   ProteinRecord write_catalog[3] = {) Tj
+T*
+(   {1001, "INS", 5808.0, 51},) Tj
+T*
+(   {1002, "HBB", 15867.0, 146},) Tj
+T*
+(   {1003, "MYO", 17083.0, 154}) Tj
+T*
+(   };) Tj
+T*
+() Tj
+T*
+(   /* 1. Serialize */) Tj
+T*
+(   FILE *fout = fopen\(db_file, "wb"\);) Tj
+T*
+(   if \(!fout\) return 1;) Tj
+T*
+(   fwrite\(write_catalog, sizeof\(ProteinRecord\), 3, fout\);) Tj
+T*
+(   fclose\(fout\);) Tj
+T*
+() Tj
+T*
+(   /* 2. Deserialize */) Tj
+T*
+(   FILE *fin = fopen\(db_file, "rb"\);) Tj
+T*
+(   if \(!fin\) return 1;) Tj
+T*
+(   ProteinRecord read_catalog[3];) Tj
+T*
+(   size_t items_loaded = fread\(read_catalog, sizeof\(ProteinRecord\), 3, fin\);) Tj
+T*
+(   fclose\(fin\);) Tj
+T*
+() Tj
+T*
+(   /* 3. Verification */) Tj
+T*
+(   printf\("=== Deserialized Protein Catalog Verification ===\\n"\);) Tj
+T*
+(   for \(size_t i = 0; i < items_loaded; i++\) {) Tj
+T*
+(   printf\("ID: %d | Symbol: %-4s | MW: %8.1f Da | Length: %3d AA\\n",) Tj
+T*
+(   read_catalog[i].accession_id, read_catalog[i].symbol,) Tj
+T*
+(   read_catalog[i].molecular_weight, read_catalog[i].residue_count\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 15:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Flexible Array Members in C99 structures, detailing memory allocation, sizeof semantics, and the legacy struct hack.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Flexible Array Members in C99:) Tj
+T*
+(   1. Definition and Syntax:) Tj
+T*
+(   Introduced in ISO C99, a Flexible Array Member allows the last member of a structure to have an) Tj
+T*
+ET
+
+endstream
+endobj
+55 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 56 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+56 0 obj
+<< /Length 2685 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 6: USER-DEFINED COMPOSITE TYPES & FILE HANDLING) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 27 of 37) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   incomplete array type:) Tj
+T*
+(   struct Packet {) Tj
+T*
+(   int length;) Tj
+T*
+(   char payload[]; /* Flexible array member: no dimension */) Tj
+T*
+(   };) Tj
+T*
+() Tj
+T*
+(   2. Memory Allocation Pattern:) Tj
+T*
+(   Allocate the structure size plus the desired dynamic array capacity in a single continuous) Tj
+T*
+(   malloc\(\) call:) Tj
+T*
+(   size_t n = 500;) Tj
+T*
+(   struct Packet *pkt = malloc\(sizeof\(struct Packet\) + \(n * sizeof\(char\)\)\);) Tj
+T*
+(   pkt->length = n;) Tj
+T*
+() Tj
+T*
+(   3. Semantics and Advantages:) Tj
+T*
+(   - Single Allocation: Structure header and payload reside in a single contiguous heap block,) Tj
+T*
+(   improving cache locality.) Tj
+T*
+(   - Single Free: Entire entity is released with a single free\(pkt\).) Tj
+T*
+(   - sizeof\(struct Packet\) evaluates ONLY to the header members \(payload size is omitted\).) Tj
+T*
+() Tj
+T*
+(   4. Contrast with Legacy 'Struct Hack':) Tj
+T*
+(   Before C99, programmers used char payload[1]; or char payload[0];, which triggered compiler) Tj
+T*
+(   bounds warnings or relied on non-standard GCC extensions.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 16:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to copy a file byte-by-byte using fgetc\(\) and fputc\(\) with error checking.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Byte-by-Byte File Duplication Utility:) Tj
+T*
+(   1. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <stdlib.h>) Tj
+T*
+() Tj
+T*
+(   int copy_file\(const char *src_path, const char *dest_path\) {) Tj
+T*
+(   FILE *src = fopen\(src_path, "rb"\);) Tj
+T*
+(   if \(!src\) { perror\("Source open error"\); return -1; }) Tj
+T*
+() Tj
+T*
+(   FILE *dest = fopen\(dest_path, "wb"\);) Tj
+T*
+(   if \(!dest\) { perror\("Destination open error"\); fclose\(src\); return -1; }) Tj
+T*
+() Tj
+T*
+(   int ch;) Tj
+T*
+(   long bytes_copied = 0;) Tj
+T*
+(   while \(\(ch = fgetc\(src\)\) != EOF\) {) Tj
+T*
+(   if \(fputc\(ch, dest\) == EOF\) {) Tj
+T*
+(   perror\("Write failure"\);) Tj
+T*
+(   fclose\(src\);) Tj
+T*
+(   fclose\(dest\);) Tj
+T*
+(   return -1;) Tj
+T*
+(   }) Tj
+T*
+(   bytes_copied++;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   fclose\(src\);) Tj
+T*
+(   fclose\(dest\);) Tj
+T*
+ET
+
+endstream
+endobj
+57 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 58 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+58 0 obj
+<< /Length 2916 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 6: USER-DEFINED COMPOSITE TYPES & FILE HANDLING) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 28 of 37) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   printf\("Successfully cloned %ld bytes from %s -> %s\\n", bytes_copied, src_path, dest_path\);) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   /* Create source file */) Tj
+T*
+(   FILE *f = fopen\("source_data.txt", "w"\);) Tj
+T*
+(   fprintf\(f, "Gene Sequence Cloning Demonstration\\nLine 2 Data\\n"\);) Tj
+T*
+(   fclose\(f\);) Tj
+T*
+() Tj
+T*
+(   copy_file\("source_data.txt", "clone_data.txt"\);) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 17:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the role of errno, perror\(\), and strerror\(\) in standard C file and system call error diagnostics.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Error Diagnostics: errno, perror\(\), and strerror\(\):) Tj
+T*
+(   1. The Global errno Variable \(<errno.h>\):) Tj
+T*
+(   When a standard C library function or system call fails \(e.g. fopen, malloc\), it sets an) Tj
+T*
+(   integer code in the thread-local global variable 'errno'.) Tj
+T*
+(   Common error codes:) Tj
+T*
+(   - ENOENT: No such file or directory.) Tj
+T*
+(   - EACCES: Permission denied.) Tj
+T*
+(   - ENOMEM: Cannot allocate memory.) Tj
+T*
+() Tj
+T*
+(   2. The perror\(\) Function \(<stdio.h>\):) Tj
+T*
+(   void perror\(const char *custom_prefix\);) Tj
+T*
+(   Prints custom_prefix followed by a colon and the human-readable explanation of current errno to) Tj
+T*
+(   stderr:) Tj
+T*
+(   perror\("Failed to open sequencing database"\);) Tj
+T*
+(   Output: "Failed to open sequencing database: No such file or directory".) Tj
+T*
+() Tj
+T*
+(   3. The strerror\(\) Function \(<string.h>\):) Tj
+T*
+(   char *strerror\(int errnum\);) Tj
+T*
+(   Returns a pointer to the textual error string corresponding to errnum, allowing formatted) Tj
+T*
+(   custom logging.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 18:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to parse a CSV file of clinical biochemical parameters and compute group averages.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Clinical Biochemical CSV Parser in C:) Tj
+T*
+(   1. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <stdlib.h>) Tj
+T*
+(   #include <string.h>) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   const char *csv_file = "clinical.csv";) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+59 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 60 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+60 0 obj
+<< /Length 2679 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 6: USER-DEFINED COMPOSITE TYPES & FILE HANDLING) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 29 of 37) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   /* Create sample CSV */) Tj
+T*
+(   FILE *init = fopen\(csv_file, "w"\);) Tj
+T*
+(   fprintf\(init, "PatientID,Glucose_mgdL,Cholesterol_mgdL\\n"\);) Tj
+T*
+(   fprintf\(init, "P101,95.5,180.2\\n"\);) Tj
+T*
+(   fprintf\(init, "P102,142.0,240.5\\n"\);) Tj
+T*
+(   fprintf\(init, "P103,110.5,195.0\\n"\);) Tj
+T*
+(   fclose\(init\);) Tj
+T*
+() Tj
+T*
+(   FILE *fp = fopen\(csv_file, "r"\);) Tj
+T*
+(   if \(!fp\) return 1;) Tj
+T*
+() Tj
+T*
+(   char line[128];) Tj
+T*
+(   /* Skip header line */) Tj
+T*
+(   if \(!fgets\(line, sizeof\(line\), fp\)\) { fclose\(fp\); return 1; }) Tj
+T*
+() Tj
+T*
+(   int count = 0;) Tj
+T*
+(   double total_glucose = 0.0, total_cholesterol = 0.0;) Tj
+T*
+() Tj
+T*
+(   while \(fgets\(line, sizeof\(line\), fp\) != NULL\) {) Tj
+T*
+(   char *pid = strtok\(line, ",\\r\\n"\);) Tj
+T*
+(   char *glu = strtok\(NULL, ",\\r\\n"\);) Tj
+T*
+(   char *cho = strtok\(NULL, ",\\r\\n"\);) Tj
+T*
+() Tj
+T*
+(   if \(pid && glu && cho\) {) Tj
+T*
+(   total_glucose += atof\(glu\);) Tj
+T*
+(   total_cholesterol += atof\(cho\);) Tj
+T*
+(   count++;) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+(   fclose\(fp\);) Tj
+T*
+() Tj
+T*
+(   printf\("=== Clinical Biomarker Cohort Report ===\\n"\);) Tj
+T*
+(   printf\("Total Patients Analyzed: %d\\n", count\);) Tj
+T*
+(   printf\("Mean Fasting Blood Glucose: %.2f mg/dL\\n", total_glucose / count\);) Tj
+T*
+(   printf\("Mean Total Cholesterol: %.2f mg/dL\\n", total_cholesterol / count\);) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 19:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Include Guards vs #pragma once, detailing preprocessor token mechanics, multi-file builds, and compiler support.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Include Guards vs #pragma once:) Tj
+T*
+(   1. The Multiple Inclusion Hazard:) Tj
+T*
+(   If header file A.h includes Common.h, and B.h also includes Common.h, any source file including) Tj
+T*
+(   both A.h and B.h receives duplicate declarations, causing 'redefinition of struct' compiler) Tj
+T*
+(   errors.) Tj
+T*
+() Tj
+T*
+(   2. Classical Include Guards \(#ifndef / #define / #endif\):) Tj
+T*
+(   #ifndef COMMON_H_INCLUDED) Tj
+T*
+(   #define COMMON_H_INCLUDED) Tj
+T*
+(   /* Declarations */) Tj
+T*
+ET
+
+endstream
+endobj
+61 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 62 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+62 0 obj
+<< /Length 2476 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 6: USER-DEFINED COMPOSITE TYPES & FILE HANDLING) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 30 of 37) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   #endif) Tj
+T*
+(   - Advantages: 100% ISO C standard compliant across all compilers since 1989.) Tj
+T*
+(   - Disadvantages: Requires unique guard macro names; preprocessor must reopen and parse file) Tj
+T*
+(   lines to check guard.) Tj
+T*
+() Tj
+T*
+(   3. #pragma once:) Tj
+T*
+(   Non-standard but universally supported compiler directive placed at top of header.) Tj
+T*
+(   - Advantages: Concise; eliminates macro naming collisions; faster compilation \(compiler never) Tj
+T*
+(   re-opens the file\).) Tj
+T*
+(   - Caveats: May fail with complex symlinks or network drive aliasing.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 20:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to implement a self-referential structure representing a Singly Linked List of DNA base nodes.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Singly Linked List of DNA Bases:) Tj
+T*
+(   1. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <stdlib.h>) Tj
+T*
+() Tj
+T*
+(   typedef struct DnaNode {) Tj
+T*
+(   char base;) Tj
+T*
+(   struct DnaNode *next; /* Self-referential pointer */) Tj
+T*
+(   } DnaNode;) Tj
+T*
+() Tj
+T*
+(   DnaNode *append_base_node\(DnaNode *head, char base\) {) Tj
+T*
+(   DnaNode *new_node = \(DnaNode *\)malloc\(sizeof\(DnaNode\)\);) Tj
+T*
+(   new_node->base = base;) Tj
+T*
+(   new_node->next = NULL;) Tj
+T*
+() Tj
+T*
+(   if \(!head\) return new_node;) Tj
+T*
+() Tj
+T*
+(   DnaNode *curr = head;) Tj
+T*
+(   while \(curr->next\) curr = curr->next;) Tj
+T*
+(   curr->next = new_node;) Tj
+T*
+(   return head;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   void print_dna_list\(const DnaNode *head\) {) Tj
+T*
+(   printf\("5'- "\);) Tj
+T*
+(   while \(head\) {) Tj
+T*
+(   printf\("%c -> ", head->base\);) Tj
+T*
+(   head = head->next;) Tj
+T*
+(   }) Tj
+T*
+(   printf\("3'\\n"\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   void free_dna_list\(DnaNode *head\) {) Tj
+T*
+(   while \(head\) {) Tj
+T*
+(   DnaNode *temp = head;) Tj
+T*
+(   head = head->next;) Tj
+T*
+(   free\(temp\);) Tj
+T*
+(   }) Tj
+T*
+ET
+
+endstream
+endobj
+63 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 64 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+64 0 obj
+<< /Length 2983 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 6: USER-DEFINED COMPOSITE TYPES & FILE HANDLING) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 31 of 37) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   DnaNode *strand = NULL;) Tj
+T*
+(   strand = append_base_node\(strand, 'A'\);) Tj
+T*
+(   strand = append_base_node\(strand, 'T'\);) Tj
+T*
+(   strand = append_base_node\(strand, 'G'\);) Tj
+T*
+(   strand = append_base_node\(strand, 'C'\);) Tj
+T*
+() Tj
+T*
+(   print_dna_list\(strand\);) Tj
+T*
+(   free_dna_list\(strand\);) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 21:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain stream buffering modes in C: Full Buffering \(_IOFBF\), Line Buffering \(_IOLBF\), and No Buffering \(_IONBF\) via setvbuf\(\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Stream Buffering Modes and setvbuf\(\):) Tj
+T*
+(   1. Stream Buffering Mechanics:) Tj
+T*
+(   I/O system calls \(read/write\) are slow kernel context switches. User-space buffers bundle many) Tj
+T*
+(   byte operations into large block transfers.) Tj
+T*
+() Tj
+T*
+(   2. The Three Buffering Modes:) Tj
+T*
+(   - _IOFBF \(Full Buffering\): Flushes buffer to physical device only when the buffer is completely) Tj
+T*
+(   full or upon explicit fflush\(\)/fclose\(\). Default for disk files.) Tj
+T*
+(   - _IOLBF \(Line Buffering\): Flushes buffer when a newline \('\\n'\) is encountered. Default for) Tj
+T*
+(   interactive terminals \(stdout\).) Tj
+T*
+(   - _IONBF \(No Buffering\): Bytes are transmitted immediately to kernel without buffering. Default) Tj
+T*
+(   for stderr.) Tj
+T*
+() Tj
+T*
+(   3. The setvbuf\(\) Prototype:) Tj
+T*
+(   int setvbuf\(FILE *stream, char *buffer, int mode, size_t size\);) Tj
+T*
+(   Must be called immediately after fopen\(\) before any I/O occurs!) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 22:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to count total lines, words, and characters in a text file \(equivalent to UNIX wc utility\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Word, Line, and Character Counter \(UNIX wc in C\):) Tj
+T*
+(   1. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <ctype.h>) Tj
+T*
+(   #include <stdbool.h>) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   const char *path = "sample_text.txt";) Tj
+T*
+() Tj
+T*
+(   FILE *init = fopen\(path, "w"\);) Tj
+T*
+(   fprintf\(init, "Biotechnology\\nComputational Biology\\nData Science 101\\n"\);) Tj
+T*
+(   fclose\(init\);) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+65 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 66 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+66 0 obj
+<< /Length 2778 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 6: USER-DEFINED COMPOSITE TYPES & FILE HANDLING) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 32 of 37) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   FILE *fp = fopen\(path, "r"\);) Tj
+T*
+(   if \(!fp\) return 1;) Tj
+T*
+() Tj
+T*
+(   long chars = 0, words = 0, lines = 0;) Tj
+T*
+(   bool in_word = false;) Tj
+T*
+(   int c;) Tj
+T*
+() Tj
+T*
+(   while \(\(c = fgetc\(fp\)\) != EOF\) {) Tj
+T*
+(   chars++;) Tj
+T*
+(   if \(c == '\\n'\) lines++;) Tj
+T*
+() Tj
+T*
+(   if \(isspace\(c\)\) {) Tj
+T*
+(   in_word = false;) Tj
+T*
+(   } else if \(!in_word\) {) Tj
+T*
+(   in_word = true;) Tj
+T*
+(   words++;) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+(   fclose\(fp\);) Tj
+T*
+() Tj
+T*
+(   printf\("Lines: %ld | Words: %ld | Characters: %ld\\n", lines, words, chars\);) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 23:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain memory-mapped file access vs standard buffered stream I/O in large-scale bioinformatics data pipelines.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Memory-Mapped Files \(mmap\) vs Stream I/O:) Tj
+T*
+(   1. Standard Stream I/O \(fread/fwrite\):) Tj
+T*
+(   - Reads data from disk into OS Page Cache, then copies bytes into user-space buffer \(Double) Tj
+T*
+(   Buffering\).) Tj
+T*
+(   - Incurs memory copy overhead and syscall latency for multi-gigabyte genomics files.) Tj
+T*
+() Tj
+T*
+(   2. Memory-Mapped Files \(mmap / CreateFileMapping\):) Tj
+T*
+(   - Maps disk file blocks directly into process virtual memory address space.) Tj
+T*
+(   - Access file contents via standard memory pointers \(char *ptr = mmap\(...\)\).) Tj
+T*
+(   - Demand Paging: Operating system pages in 4 KB blocks on-demand when memory addresses are) Tj
+T*
+(   dereferenced.) Tj
+T*
+(   - Zero-Copy: Eliminates intermediate memory copying. Ideal for random access indexing of large) Tj
+T*
+(   genome assemblies.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 24:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program demonstrating the use of temporary files using tmpfile\(\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Anonymous Temporary Files with tmpfile\(\):) Tj
+T*
+(   1. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   /* Creates binary temporary file opened in "wb+" mode */) Tj
+T*
+ET
+
+endstream
+endobj
+67 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 68 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+68 0 obj
+<< /Length 3037 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 6: USER-DEFINED COMPOSITE TYPES & FILE HANDLING) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 33 of 37) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   FILE *temp = tmpfile\(\);) Tj
+T*
+(   if \(!temp\) { perror\("tmpfile error"\); return 1; }) Tj
+T*
+() Tj
+T*
+(   fprintf\(temp, "Intermediate Polymerase Chain Reaction Cycle Data\\n"\);) Tj
+T*
+(   rewind\(temp\); /* Reset to beginning */) Tj
+T*
+() Tj
+T*
+(   char buffer[128];) Tj
+T*
+(   if \(fgets\(buffer, sizeof\(buffer\), temp\)\) {) Tj
+T*
+(   printf\("Read from anonymous temp file: %s", buffer\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   /* Closing automatically deletes the temporary file from disk */) Tj
+T*
+(   fclose\(temp\);) Tj
+T*
+(   printf\("Temporary file automatically erased from disk storage.\\n"\);) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 25:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the endianness problem when transmitting binary structures across network sockets or disk files with code remedies.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Endianness Independence in Binary Serialization:) Tj
+T*
+(   1. The Problem:) Tj
+T*
+(   Little-Endian architectures \(x86/x64\) store least significant bytes at lower addresses.) Tj
+T*
+(   Big-Endian architectures \(SPARC, Network protocols\) store most significant bytes at lower) Tj
+T*
+(   addresses.) Tj
+T*
+(   Writing raw binary structs to disk breaks when read by systems with opposite endianness!) Tj
+T*
+() Tj
+T*
+(   2. Serialization Remedy:) Tj
+T*
+(   Always serialize data in network byte order \(Big-Endian\) using standard conversion functions:) Tj
+T*
+(   - htons\(\) / ntohs\(\): 16-bit integers.) Tj
+T*
+(   - htonl\(\) / ntohl\(\): 32-bit integers.) Tj
+T*
+(   Or serialize byte-by-byte with explicit bitwise shifts:) Tj
+T*
+(   void write_uint32_be\(FILE *fp, unsigned int val\) {) Tj
+T*
+(   fputc\(\(val >> 24\) & 0xFF, fp\);) Tj
+T*
+(   fputc\(\(val >> 16\) & 0xFF, fp\);) Tj
+T*
+(   fputc\(\(val >> 8\) & 0xFF, fp\);) Tj
+T*
+(   fputc\(val & 0xFF, fp\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 26:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to append log telemetry timestamps to an existing file using "a" open mode.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Appending Laboratory Telemetry with Timestamps:) Tj
+T*
+(   1. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <time.h>) Tj
+T*
+() Tj
+T*
+(   void append_log_entry\(const char *logfile, const char *event_message\) {) Tj
+T*
+(   FILE *fp = fopen\(logfile, "a"\);) Tj
+T*
+ET
+
+endstream
+endobj
+69 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 70 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+70 0 obj
+<< /Length 2433 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 6: USER-DEFINED COMPOSITE TYPES & FILE HANDLING) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 34 of 37) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   if \(!fp\) { perror\("Log append error"\); return; }) Tj
+T*
+() Tj
+T*
+(   time_t raw_time = time\(NULL\);) Tj
+T*
+(   struct tm *info = localtime\(&raw_time\);) Tj
+T*
+() Tj
+T*
+(   char time_str[32];) Tj
+T*
+(   strftime\(time_str, sizeof\(time_str\), "%Y-%m-%d %H:%M:%S", info\);) Tj
+T*
+() Tj
+T*
+(   fprintf\(fp, "[%s] %s\\n", time_str, event_message\);) Tj
+T*
+(   fclose\(fp\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   const char *log = "telemetry.log";) Tj
+T*
+(   append_log_entry\(log, "Incubator temperature stabilized at 37.0 C."\);) Tj
+T*
+(   append_log_entry\(log, "Optical density reached target setpoint 0.600 OD."\);) Tj
+T*
+(   printf\("Appended telemetry entries successfully.\\n"\);) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 27:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain anonymous unions and anonymous structures in modern C, detailing member flattening.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Anonymous Structures and Unions in C11:) Tj
+T*
+(   1. Definition:) Tj
+T*
+(   Introduced in C11, anonymous structures and unions have no tag name and no member variable name) Tj
+T*
+(   inside an enclosing structure.) Tj
+T*
+(   Members are directly 'flattened' into the scope of the parent structure!) Tj
+T*
+() Tj
+T*
+(   2. Code Example:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   struct Vector3D {) Tj
+T*
+(   struct {) Tj
+T*
+(   double x, y, z; /* Anonymous structure */) Tj
+T*
+(   };) Tj
+T*
+(   int id;) Tj
+T*
+(   };) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   struct Vector3D v;) Tj
+T*
+(   /* Accessed directly without intermediate struct tag! */) Tj
+T*
+(   v.x = 10.5;) Tj
+T*
+(   v.y = 20.2;) Tj
+T*
+(   v.z = 30.8;) Tj
+T*
+(   v.id = 1;) Tj
+T*
+() Tj
+T*
+(   printf\("Vector ID %d: \(%.1f, %.1f, %.1f\)\\n", v.id, v.x, v.y, v.z\);) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+ET
+
+endstream
+endobj
+71 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 72 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+72 0 obj
+<< /Length 2635 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 6: USER-DEFINED COMPOSITE TYPES & FILE HANDLING) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 35 of 37) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 28:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to reverse lines of a file by reading lines into a dynamic array of strings.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Reversing File Lines with Dynamic Memory:) Tj
+T*
+(   1. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <stdlib.h>) Tj
+T*
+(   #include <string.h>) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   const char *test_path = "lines.txt";) Tj
+T*
+(   FILE *fout = fopen\(test_path, "w"\);) Tj
+T*
+(   fprintf\(fout, "Line 1: DNA Replication\\nLine 2: RNA Transcription\\nLine 3: Protein) Tj
+T*
+(   Translation\\n"\);) Tj
+T*
+(   fclose\(fout\);) Tj
+T*
+() Tj
+T*
+(   FILE *fin = fopen\(test_path, "r"\);) Tj
+T*
+(   if \(!fin\) return 1;) Tj
+T*
+() Tj
+T*
+(   char **lines = NULL;) Tj
+T*
+(   int count = 0;) Tj
+T*
+(   char buffer[256];) Tj
+T*
+() Tj
+T*
+(   while \(fgets\(buffer, sizeof\(buffer\), fin\)\) {) Tj
+T*
+(   buffer[strcspn\(buffer, "\\r\\n"\)] = '\\0';) Tj
+T*
+(   lines = \(char **\)realloc\(lines, \(count + 1\) * sizeof\(char *\)\);) Tj
+T*
+(   lines[count] = \(char *\)malloc\(\(strlen\(buffer\) + 1\) * sizeof\(char\)\);) Tj
+T*
+(   strcpy\(lines[count], buffer\);) Tj
+T*
+(   count++;) Tj
+T*
+(   }) Tj
+T*
+(   fclose\(fin\);) Tj
+T*
+() Tj
+T*
+(   printf\("=== Lines Displayed in Reverse Order ===\\n"\);) Tj
+T*
+(   for \(int i = count - 1; i >= 0; i--\) {) Tj
+T*
+(   printf\("%s\\n", lines[i]\);) Tj
+T*
+(   free\(lines[i]\);) Tj
+T*
+(   }) Tj
+T*
+(   free\(lines\);) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 29:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain structure assignment semantics in C, detailing bitwise member copy and pointers aliasing.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Structure Assignment Semantics in C:) Tj
+T*
+(   1. Structure Assignment '=':) Tj
+T*
+(   In ANSI C, one structure variable can be assigned directly to another of the exact same type:) Tj
+T*
+(   struct Point p1 = {10, 20};) Tj
+T*
+(   struct Point p2 = p1; /* Legal! Performs shallow member-by-member copy */) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+73 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 74 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+74 0 obj
+<< /Length 2689 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 6: USER-DEFINED COMPOSITE TYPES & FILE HANDLING) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 36 of 37) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   2. Shallow Copy Aliasing Hazard:) Tj
+T*
+(   If a structure contains pointers:) Tj
+T*
+(   struct Buffer { int *data; };) Tj
+T*
+(   struct Buffer b1, b2;) Tj
+T*
+(   b1.data = malloc\(100\);) Tj
+T*
+(   b2 = b1; /* b2.data receives the EXACT SAME MEMORY ADDRESS as b1.data! */) Tj
+T*
+(   Both structures now alias the same heap memory block. Freeing both causes a catastrophic) Tj
+T*
+(   double-free crash!) Tj
+T*
+(   Always perform manual deep copies for structures containing pointers.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 30:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to create a binary indexed database of genomic gene records with constant-time random lookups by ID.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Indexed Genomic Database with Constant-Time Random Access:) Tj
+T*
+(   1. Architectural Design:) Tj
+T*
+(   In binary record files where each record has a fixed byte footprint sizeof\(GeneRecord\), record) Tj
+T*
+(   N resides at exact byte offset:) Tj
+T*
+(   Offset = \(N - 1\) * sizeof\(GeneRecord\).) Tj
+T*
+(   Enables O\(1\) instantaneous random lookups via fseek without scanning the file!) Tj
+T*
+() Tj
+T*
+(   2. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <stdlib.h>) Tj
+T*
+(   #include <string.h>) Tj
+T*
+() Tj
+T*
+(   typedef struct {) Tj
+T*
+(   int id;) Tj
+T*
+(   char name[16];) Tj
+T*
+(   double gc_content;) Tj
+T*
+(   } GeneRecord;) Tj
+T*
+() Tj
+T*
+(   void write_database\(const char *path\) {) Tj
+T*
+(   FILE *fp = fopen\(path, "wb"\);) Tj
+T*
+(   if \(!fp\) return;) Tj
+T*
+() Tj
+T*
+(   GeneRecord catalog[4] = {) Tj
+T*
+(   {1, "BRCA1", 42.5},) Tj
+T*
+(   {2, "TP53", 64.2},) Tj
+T*
+(   {3, "EGFR", 55.8},) Tj
+T*
+(   {4, "MYC", 58.1}) Tj
+T*
+(   };) Tj
+T*
+(   fwrite\(catalog, sizeof\(GeneRecord\), 4, fp\);) Tj
+T*
+(   fclose\(fp\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int query_gene_by_id\(const char *path, int target_id, GeneRecord *result\) {) Tj
+T*
+(   FILE *fp = fopen\(path, "rb"\);) Tj
+T*
+(   if \(!fp\) return 0;) Tj
+T*
+() Tj
+T*
+(   /* Calculate direct byte offset: O\(1\) random jump */) Tj
+T*
+(   long offset = \(long\)\(target_id - 1\) * sizeof\(GeneRecord\);) Tj
+T*
+(   if \(fseek\(fp, offset, SEEK_SET\) != 0\) {) Tj
+T*
+ET
+
+endstream
+endobj
+75 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 76 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+76 0 obj
+<< /Length 1276 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 6: USER-DEFINED COMPOSITE TYPES & FILE HANDLING) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 37 of 37) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   fclose\(fp\);) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   size_t read_count = fread\(result, sizeof\(GeneRecord\), 1, fp\);) Tj
+T*
+(   fclose\(fp\);) Tj
+T*
+(   return \(read_count == 1 && result->id == target_id\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   const char *db = "genomic_index.db";) Tj
+T*
+(   write_database\(db\);) Tj
+T*
+() Tj
+T*
+(   int lookup_id = 3;) Tj
+T*
+(   GeneRecord record;) Tj
+T*
+(   if \(query_gene_by_id\(db, lookup_id, &record\)\) {) Tj
+T*
+(   printf\("Instantaneous O\(1\) Query Result for ID %d:\\n", lookup_id\);) Tj
+T*
+(   printf\("Gene Name: %s\\n", record.name\);) Tj
+T*
+(   printf\("GC-Content: %.2f%%\\n", record.gc_content\);) Tj
+T*
+(   } else {) Tj
+T*
+(   printf\("Record ID %d not found.\\n", lookup_id\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+77 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+78 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+xref
+0 79
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000365 00000 n 
+0000000509 00000 n 
+0000008645 00000 n 
+0000008789 00000 n 
+0000016903 00000 n 
+0000017047 00000 n 
+0000025249 00000 n 
+0000025394 00000 n 
+0000033931 00000 n 
+0000034077 00000 n 
+0000042530 00000 n 
+0000042676 00000 n 
+0000051185 00000 n 
+0000051331 00000 n 
+0000059841 00000 n 
+0000059987 00000 n 
+0000061451 00000 n 
+0000061597 00000 n 
+0000066495 00000 n 
+0000066641 00000 n 
+0000069027 00000 n 
+0000069173 00000 n 
+0000077660 00000 n 
+0000077806 00000 n 
+0000080585 00000 n 
+0000080731 00000 n 
+0000084019 00000 n 
+0000084165 00000 n 
+0000086894 00000 n 
+0000087040 00000 n 
+0000089650 00000 n 
+0000089796 00000 n 
+0000092132 00000 n 
+0000092278 00000 n 
+0000095463 00000 n 
+0000095609 00000 n 
+0000098285 00000 n 
+0000098431 00000 n 
+0000101643 00000 n 
+0000101789 00000 n 
+0000104752 00000 n 
+0000104898 00000 n 
+0000107542 00000 n 
+0000107688 00000 n 
+0000109877 00000 n 
+0000110023 00000 n 
+0000112887 00000 n 
+0000113033 00000 n 
+0000115879 00000 n 
+0000116025 00000 n 
+0000119026 00000 n 
+0000119172 00000 n 
+0000121788 00000 n 
+0000121934 00000 n 
+0000124672 00000 n 
+0000124818 00000 n 
+0000127787 00000 n 
+0000127933 00000 n 
+0000130665 00000 n 
+0000130811 00000 n 
+0000133340 00000 n 
+0000133486 00000 n 
+0000136522 00000 n 
+0000136668 00000 n 
+0000139499 00000 n 
+0000139645 00000 n 
+0000142735 00000 n 
+0000142881 00000 n 
+0000145367 00000 n 
+0000145513 00000 n 
+0000148201 00000 n 
+0000148347 00000 n 
+0000151089 00000 n 
+0000151235 00000 n 
+0000152564 00000 n 
+0000152662 00000 n 
+trailer
+<< /Size 79 /Root 1 0 R >>
+startxref
+152765
+%%EOF

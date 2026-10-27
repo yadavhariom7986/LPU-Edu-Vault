@@ -1,0 +1,10124 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R 35 0 R 37 0 R 39 0 R 41 0 R 43 0 R 45 0 R 47 0 R 49 0 R 51 0 R 53 0 R 55 0 R] /Count 27 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 4 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 9387 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 3: CENTROID & MOMENT OF INERTIA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 1 of 27) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(1.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(The point through which the resultant) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(gravitational weight of a physical body acts is) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(termed its:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(Centre of Gravity \(CG\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.3 Td
+(Centroid) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.7 Td
+(Centre of Pressure) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.1 Td
+(Instantaneous Centre) Tj
+ET
+BT
+/F2 8.0 Tf
+42 701.5001 Td
+(2.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(The geometric center of a 2D plane area or) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.3 Td
+(lamina depending solely on its geometric) Tj
+ET
+BT
+/F1 7.8 Tf
+58 683.1 Td
+(boundary is the:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.4 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.4 Td
+(Centroid) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.8 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.8 Td
+(Centre of Gravity) Tj
+ET
+BT
+/F2 7.4 Tf
+58 652.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 652.2001 Td
+(Metacentre) Tj
+ET
+BT
+/F2 7.4 Tf
+58 642.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 642.6001 Td
+(Centre of Percussion) Tj
+ET
+BT
+/F2 8.0 Tf
+42 619.0001 Td
+(3.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.0001 Td
+(For a homogeneous material in a uniform) Tj
+ET
+BT
+/F1 7.8 Tf
+58 609.8001 Td
+(gravitational field, the Centre of Gravity,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 600.6001 Td
+(Centre of Mass, and Centroid:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.9001 Td
+(Coincide identically at the same point) Tj
+ET
+BT
+/F2 7.4 Tf
+58 579.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 579.3001 Td
+(Are always at different locations) Tj
+ET
+BT
+/F2 7.4 Tf
+58 569.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 569.7001 Td
+(Are undefined for composite shapes) Tj
+ET
+BT
+/F2 7.4 Tf
+58 560.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 560.1002 Td
+(Depend on the temperature gradient) Tj
+ET
+BT
+/F2 8.0 Tf
+42 536.5002 Td
+(4.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 536.5002 Td
+(The first moment of area Q_y of a plane area A) Tj
+ET
+BT
+/F1 7.8 Tf
+58 527.3002 Td
+(about the y-axis is mathematically defined as:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 515.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 515.6002 Td
+(Integral\(x dA\) = A * x_bar) Tj
+ET
+BT
+/F2 7.4 Tf
+58 506.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 506.0002 Td
+(Integral\(y dA\) = A * y_bar) Tj
+ET
+BT
+/F2 7.4 Tf
+58 496.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 496.4001 Td
+(Integral\(x^2 dA\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 486.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 486.8001 Td
+(Integral\(x*y dA\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 463.2001 Td
+(5.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 463.2001 Td
+(The first moment of area about any centroidal) Tj
+ET
+BT
+/F1 7.8 Tf
+58 454.0001 Td
+(axis passing through the centroid is always:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 442.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 442.3001 Td
+(Zero) Tj
+ET
+BT
+/F2 7.4 Tf
+58 432.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 432.7001 Td
+(Equal to total area A) Tj
+ET
+BT
+/F2 7.4 Tf
+58 423.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 423.1001 Td
+(Equal to infinity) Tj
+ET
+BT
+/F2 7.4 Tf
+58 413.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 413.5001 Td
+(Equal to the moment of inertia) Tj
+ET
+BT
+/F2 8.0 Tf
+42 389.9001 Td
+(6.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 389.9001 Td
+(If a plane cross-section possesses an axis of) Tj
+ET
+BT
+/F1 7.8 Tf
+58 380.7001 Td
+(symmetry, its centroid:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 369.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 369.0001 Td
+(Must lie somewhere on that axis of symmetry) Tj
+ET
+BT
+/F2 7.4 Tf
+58 359.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 359.4001 Td
+(Must lie outside the section) Tj
+ET
+BT
+/F2 7.4 Tf
+58 349.8 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 349.8 Td
+(Cannot be determined by statics) Tj
+ET
+BT
+/F2 7.4 Tf
+58 340.2 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 340.2 Td
+(Is always at the origin \(0,0\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 316.6 Td
+(7.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 316.6 Td
+(If a cross-section possesses two orthogonal axes) Tj
+ET
+BT
+/F1 7.8 Tf
+58 307.4 Td
+(of symmetry \(e.g. standard I-beam or circle\),) Tj
+ET
+BT
+/F1 7.8 Tf
+58 298.2 Td
+(the centroid lies:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 286.5 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 286.5 Td
+(At the geometric intersection of the two) Tj
+ET
+BT
+/F1 7.4 Tf
+72 277.9 Td
+(axes) Tj
+ET
+BT
+/F2 7.4 Tf
+58 268.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 268.3 Td
+(At the bottom boundary) Tj
+ET
+BT
+/F2 7.4 Tf
+58 258.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 258.7 Td
+(At the top flange apex) Tj
+ET
+BT
+/F2 7.4 Tf
+58 249.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 249.1 Td
+(Along the diagonal line) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(8.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(The First Theorem of Pappus-Guldinus states that) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(the surface area generated by revolving a plane) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(curve about a coplanar non-intersecting axis) Tj
+ET
+BT
+/F1 7.8 Tf
+322 756.4 Td
+(equals:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.7 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.7 Td
+(Curve length times distance traversed by its) Tj
+ET
+BT
+/F1 7.4 Tf
+336 736.1 Td
+(centroid \(2*pi*y_bar*L\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 726.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 726.5 Td
+(Area times distance traversed by centroid) Tj
+ET
+BT
+/F2 7.4 Tf
+322 716.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 716.9 Td
+(Curve length squared times pi) Tj
+ET
+BT
+/F2 7.4 Tf
+322 707.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 707.3 Td
+(Two times area divided by length) Tj
+ET
+BT
+/F2 8.0 Tf
+306 683.7001 Td
+(9.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 683.7001 Td
+(The Second Theorem of Pappus-Guldinus states) Tj
+ET
+BT
+/F1 7.8 Tf
+322 674.5001 Td
+(that the volume generated by revolving a plane) Tj
+ET
+BT
+/F1 7.8 Tf
+322 665.3 Td
+(area about a coplanar non-intersecting axis) Tj
+ET
+BT
+/F1 7.8 Tf
+322 656.1 Td
+(equals:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 644.4 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 644.4 Td
+(Area times distance traversed by its) Tj
+ET
+BT
+/F1 7.4 Tf
+336 635.8 Td
+(centroid \(2*pi*y_bar*A\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 626.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 626.2001 Td
+(Curve length times distance traversed) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.6001 Td
+(Area squared times 2*pi) Tj
+ET
+BT
+/F2 7.4 Tf
+322 607.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.0001 Td
+(Volume divided by centroid radius) Tj
+ET
+BT
+/F2 8.0 Tf
+306 583.4001 Td
+(10.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 583.4001 Td
+(In applying the theorems of Pappus-Guldinus, the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 574.2001 Td
+(axis of revolution must strictly:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 562.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 562.5001 Td
+(Not intersect the generating curve or area) Tj
+ET
+BT
+/F2 7.4 Tf
+322 552.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 552.9001 Td
+(Pass directly through the centroid) Tj
+ET
+BT
+/F2 7.4 Tf
+322 543.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 543.3002 Td
+(Be inclined at 45 degrees) Tj
+ET
+BT
+/F2 7.4 Tf
+322 533.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 533.7002 Td
+(Be a curved spatial axis) Tj
+ET
+BT
+/F2 8.0 Tf
+306 510.1002 Td
+(11.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 510.1002 Td
+(The second moment of area of a planar figure) Tj
+ET
+BT
+/F1 7.8 Tf
+322 500.9002 Td
+(about the x-axis \(I_xx\) is defined as:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 489.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 489.2002 Td
+(Integral\(y^2 dA\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 479.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 479.6002 Td
+(Integral\(x^2 dA\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 470.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 470.0002 Td
+(Integral\(y dA\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.4002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.4002 Td
+(Integral\(x*y dA\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 436.8002 Td
+(12.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 436.8002 Td
+(In SI units, the second moment of area \(area) Tj
+ET
+BT
+/F1 7.8 Tf
+322 427.6002 Td
+(moment of inertia\) is expressed in:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 415.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 415.9001 Td
+(m^4 or mm^4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 406.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 406.3001 Td
+(m^3 or mm^3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 396.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 396.7001 Td
+(N-m) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.1001 Td
+(kg-m^2) Tj
+ET
+BT
+/F2 8.0 Tf
+306 363.5001 Td
+(13.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 363.5001 Td
+(Mass moment of inertia \(resistance to angular) Tj
+ET
+BT
+/F1 7.8 Tf
+322 354.3001 Td
+(acceleration\) in SI units is expressed in:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 342.6001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 342.6001 Td
+(kg-m^2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 333.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 333.0001 Td
+(m^4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 323.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 323.4001 Td
+(N-m/s) Tj
+ET
+BT
+/F2 7.4 Tf
+322 313.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 313.8001 Td
+(kg/m^2) Tj
+ET
+BT
+/F2 8.0 Tf
+306 290.2001 Td
+(14.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 290.2001 Td
+(The Polar Moment of Inertia J \(or I_zz\) for a 2D) Tj
+ET
+BT
+/F1 7.8 Tf
+322 281.0001 Td
+(plane area lying in the x-y plane is defined as:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 269.3 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 269.3 Td
+(Integral\(r^2 dA\) = I_xx + I_yy) Tj
+ET
+BT
+/F2 7.4 Tf
+322 259.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 259.7 Td
+(Integral\(r dA\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 250.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 250.1 Td
+(I_xx - I_yy) Tj
+ET
+BT
+/F2 7.4 Tf
+322 240.5 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 240.5 Td
+(sqrt\(I_xx * I_yy\)) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 6 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+6 0 obj
+<< /Length 8722 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 3: CENTROID & MOMENT OF INERTIA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 2 of 27) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(15.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(The Perpendicular Axis Theorem states that for) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(any flat planar lamina in the x-y plane:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(I_zz = I_xx + I_yy) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(I_zz = I_xx - I_yy) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(I_zz = sqrt\(I_xx^2 + I_yy^2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(I_xx = I_yy + I_zz) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(16.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(The Perpendicular Axis Theorem is strictly valid) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(only for:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(Planar 2D laminas lying in a single plane) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(Any general 3D spatial solid body) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(Thin spherical shells only) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(Hollow cylinders only) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(17.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(The Parallel Axis Theorem \(Steiner's Theorem\)) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(for area moment of inertia is mathematically) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.0001 Td
+(formulated as:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 607.3001 Td
+(I_axis = I_centroidal + A * d^2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.7001 Td
+(I_axis = I_centroidal - A * d^2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.1002 Td
+(I_centroidal = I_axis + A * d^2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 578.5002 Td
+(I_axis = I_centroidal + A * d) Tj
+ET
+BT
+/F2 8.0 Tf
+42 554.9002 Td
+(18.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(In the Parallel Axis Theorem I = I_G + A*d^2,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 545.7002 Td
+(the distance d represents:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 534.0002 Td
+(Perpendicular distance between centroidal) Tj
+ET
+BT
+/F1 7.4 Tf
+72 525.4002 Td
+(axis and target axis) Tj
+ET
+BT
+/F2 7.4 Tf
+58 515.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 515.8002 Td
+(Distance from origin to point) Tj
+ET
+BT
+/F2 7.4 Tf
+58 506.2002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 506.2002 Td
+(Radius of gyration) Tj
+ET
+BT
+/F2 7.4 Tf
+58 496.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 496.6002 Td
+(Length of the member) Tj
+ET
+BT
+/F2 8.0 Tf
+42 473.0002 Td
+(19.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 473.0002 Td
+(Among all parallel axes in a plane, the moment) Tj
+ET
+BT
+/F1 7.8 Tf
+58 463.8002 Td
+(of inertia is minimum about:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 452.1002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 452.1002 Td
+(The axis passing through the centroid) Tj
+ET
+BT
+/F2 7.4 Tf
+58 442.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 442.5002 Td
+(The base axis) Tj
+ET
+BT
+/F2 7.4 Tf
+58 432.9002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 432.9002 Td
+(The top extreme fiber axis) Tj
+ET
+BT
+/F2 7.4 Tf
+58 423.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 423.3002 Td
+(An axis at infinity) Tj
+ET
+BT
+/F2 8.0 Tf
+42 399.7002 Td
+(20.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 399.7002 Td
+(The Radius of Gyration k of a plane area A with) Tj
+ET
+BT
+/F1 7.8 Tf
+58 390.5002 Td
+(moment of inertia I is defined by:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 378.8001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 378.8001 Td
+(k = sqrt\(I / A\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 369.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 369.2001 Td
+(k = I / A) Tj
+ET
+BT
+/F2 7.4 Tf
+58 359.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 359.6001 Td
+(k = sqrt\(A / I\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 350.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 350.0001 Td
+(k = I^2 / A) Tj
+ET
+BT
+/F2 8.0 Tf
+42 326.4001 Td
+(21.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 326.4001 Td
+(The physical interpretation of radius of) Tj
+ET
+BT
+/F1 7.8 Tf
+58 317.2001 Td
+(gyration k is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 305.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 305.5001 Td
+(Distance at which entire area could be) Tj
+ET
+BT
+/F1 7.4 Tf
+72 296.9001 Td
+(concentrated to give same MOI) Tj
+ET
+BT
+/F2 7.4 Tf
+58 287.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 287.3001 Td
+(Distance to extreme fiber) Tj
+ET
+BT
+/F2 7.4 Tf
+58 277.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 277.7001 Td
+(Centroidal height) Tj
+ET
+BT
+/F2 7.4 Tf
+58 268.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 268.1001 Td
+(Diameter of gyration) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(22.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(For a rectangle of base b and height h, the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(centroidal moment of inertia I_xx is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(b * h^3 / 12) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(b * h^3 / 3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(b * h^3 / 36) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(b^3 * h / 12) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(23.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(For a rectangle of base b and height h, the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(moment of inertia about its base edge is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(b * h^3 / 3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(b * h^3 / 12) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(b * h^3 / 4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(b * h^3 / 24) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(24.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(For a triangle of base b and height h, the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(centroidal moment of inertia I_xx is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.5001 Td
+(b * h^3 / 36) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.9001 Td
+(b * h^3 / 12) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.3002 Td
+(b * h^3 / 3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 587.7002 Td
+(b * h^3 / 48) Tj
+ET
+BT
+/F2 8.0 Tf
+306 564.1002 Td
+(25.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.1002 Td
+(For a triangle of base b and height h, the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(moment of inertia about its base is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 543.2002 Td
+(b * h^3 / 12) Tj
+ET
+BT
+/F2 7.4 Tf
+322 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 533.6002 Td
+(b * h^3 / 36) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.0002 Td
+(b * h^3 / 3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.4003 Td
+(b * h^3 / 4) Tj
+ET
+BT
+/F2 8.0 Tf
+306 490.8003 Td
+(26.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 490.8003 Td
+(The centroid of a right triangle of base b and) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6003 Td
+(height h measured from its right-angled corner) Tj
+ET
+BT
+/F1 7.8 Tf
+322 472.4002 Td
+(is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.7002 Td
+(\(b/3, h/3\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 451.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 451.1002 Td
+(\(b/2, h/2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.5002 Td
+(\(2b/3, 2h/3\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 431.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 431.9002 Td
+(\(b/4, h/4\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 408.3002 Td
+(27.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 408.3002 Td
+(For a solid circular area of radius R \(diameter) Tj
+ET
+BT
+/F1 7.8 Tf
+322 399.1002 Td
+(d\), the centroidal moment of inertia I_xx is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.4002 Td
+(pi * R^4 / 4 = pi * d^4 / 64) Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.8002 Td
+(pi * R^4 / 2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 368.2002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 368.2002 Td
+(pi * R^4 / 8) Tj
+ET
+BT
+/F2 7.4 Tf
+322 358.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 358.6002 Td
+(pi * d^4 / 32) Tj
+ET
+BT
+/F2 8.0 Tf
+306 335.0002 Td
+(28.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 335.0002 Td
+(The polar moment of inertia J of a solid) Tj
+ET
+BT
+/F1 7.8 Tf
+322 325.8001 Td
+(circular shaft of diameter d is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 314.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 314.1001 Td
+(pi * d^4 / 32) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.5001 Td
+(pi * d^4 / 64) Tj
+ET
+BT
+/F2 7.4 Tf
+322 294.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 294.9001 Td
+(pi * d^4 / 16) Tj
+ET
+BT
+/F2 7.4 Tf
+322 285.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 285.3001 Td
+(pi * d^4 / 4) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 8 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+8 0 obj
+<< /Length 9017 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 3: CENTROID & MOMENT OF INERTIA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 3 of 27) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(29.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(The centroid of a semicircular area of radius R) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(measured from its diametral base along the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(symmetry axis is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(4 * R / \(3 * pi\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.3 Td
+(3 * R / \(4 * pi\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.7 Td
+(R / 2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.1 Td
+(2 * R / pi) Tj
+ET
+BT
+/F2 8.0 Tf
+42 701.5001 Td
+(30.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(The centroid of a semicircular thin wire arc of) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.3 Td
+(radius R from its base is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.6 Td
+(2 * R / pi) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.0001 Td
+(4 * R / \(3 * pi\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.4001 Td
+(R / 2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 651.8001 Td
+(R / pi) Tj
+ET
+BT
+/F2 8.0 Tf
+42 628.2001 Td
+(31.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(For a quarter-circle of radius R, the centroid) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.0001 Td
+(coordinates \(x_bar, y_bar\) from the center are:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 607.3001 Td
+(\(4R / 3pi, 4R / 3pi\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.7001 Td
+(\(2R / pi, 2R / pi\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.1002 Td
+(\(R/2, R/2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 578.5002 Td
+(\(R/3, R/3\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 554.9002 Td
+(32.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(For a hollow circular pipe with outer diameter D) Tj
+ET
+BT
+/F1 7.8 Tf
+58 545.7002 Td
+(and inner diameter d, the moment of inertia I_xx) Tj
+ET
+BT
+/F1 7.8 Tf
+58 536.5002 Td
+(is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.8002 Td
+(pi * \(D^4 - d^4\) / 64) Tj
+ET
+BT
+/F2 7.4 Tf
+58 515.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 515.2002 Td
+(pi * \(D - d\)^4 / 64) Tj
+ET
+BT
+/F2 7.4 Tf
+58 505.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 505.6002 Td
+(pi * \(D^4 + d^4\) / 64) Tj
+ET
+BT
+/F2 7.4 Tf
+58 496.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 496.0002 Td
+(pi * \(D^2 - d^2\) / 4) Tj
+ET
+BT
+/F2 8.0 Tf
+42 472.4002 Td
+(33.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 472.4002 Td
+(The Product of Inertia I_xy of a plane area A is) Tj
+ET
+BT
+/F1 7.8 Tf
+58 463.2002 Td
+(defined as:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 451.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 451.5002 Td
+(Integral\(x * y dA\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.9001 Td
+(Integral\(x^2 * y^2 dA\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 432.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 432.3001 Td
+(Integral\(x dA\) * Integral\(y dA\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 422.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 422.7001 Td
+(I_xx * I_yy) Tj
+ET
+BT
+/F2 8.0 Tf
+42 399.1001 Td
+(34.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 399.1001 Td
+(If a cross-section possesses at least one axis) Tj
+ET
+BT
+/F1 7.8 Tf
+58 389.9001 Td
+(of symmetry \(e.g. x-axis or y-axis\), its product) Tj
+ET
+BT
+/F1 7.8 Tf
+58 380.7001 Td
+(of inertia I_xy is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 369.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 369.0001 Td
+(Identically zero \(I_xy = 0\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 359.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 359.4001 Td
+(Maximum) Tj
+ET
+BT
+/F2 7.4 Tf
+58 349.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 349.8001 Td
+(Always negative) Tj
+ET
+BT
+/F2 7.4 Tf
+58 340.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 340.2001 Td
+(Equal to J) Tj
+ET
+BT
+/F2 8.0 Tf
+42 316.6001 Td
+(35.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 316.6001 Td
+(Axes for which the product of inertia vanishes) Tj
+ET
+BT
+/F1 7.8 Tf
+58 307.4001 Td
+(\(I_xy = 0\) are termed the:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 295.7 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 295.7 Td
+(Principal Axes of Inertia) Tj
+ET
+BT
+/F2 7.4 Tf
+58 286.1 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 286.1 Td
+(Centroidal Conjugate Axes) Tj
+ET
+BT
+/F2 7.4 Tf
+58 276.5 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 276.5 Td
+(Secant Axes) Tj
+ET
+BT
+/F2 7.4 Tf
+58 266.9 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 266.9 Td
+(Eulerian Neutral Axes) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(36.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(The moments of inertia about the principal axes) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(are called the:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(Principal Moments of Inertia \(I_max and) Tj
+ET
+BT
+/F1 7.4 Tf
+336 754.5 Td
+(I_min\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.9 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.9 Td
+(Polar Constants) Tj
+ET
+BT
+/F2 7.4 Tf
+322 735.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 735.3 Td
+(Gyration Radii) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.7001 Td
+(Second Order Integrals) Tj
+ET
+BT
+/F2 8.0 Tf
+306 702.1001 Td
+(37.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 702.1001 Td
+(The sum of moments of inertia about any two) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.9001 Td
+(mutually perpendicular axes through a point is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 681.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 681.2001 Td
+(Constant \(Invariant under coordinate) Tj
+ET
+BT
+/F1 7.4 Tf
+336 672.6001 Td
+(rotation: I_xx + I_yy = J\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 663.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 663.0001 Td
+(Variable depending on angle) Tj
+ET
+BT
+/F2 7.4 Tf
+322 653.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 653.4001 Td
+(Zero) Tj
+ET
+BT
+/F2 7.4 Tf
+322 643.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 643.8002 Td
+(Equal to I_xy) Tj
+ET
+BT
+/F2 8.0 Tf
+306 620.2002 Td
+(38.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 620.2002 Td
+(Section Modulus Z for a beam cross-section) Tj
+ET
+BT
+/F1 7.8 Tf
+322 611.0002 Td
+(subjected to bending is defined as:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 599.3002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 599.3002 Td
+(Z = I / y_max) Tj
+ET
+BT
+/F2 7.4 Tf
+322 589.7002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 589.7002 Td
+(Z = I * y_max) Tj
+ET
+BT
+/F2 7.4 Tf
+322 580.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 580.1002 Td
+(Z = A / I) Tj
+ET
+BT
+/F2 7.4 Tf
+322 570.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 570.5002 Td
+(Z = k^2 / y_max) Tj
+ET
+BT
+/F2 8.0 Tf
+306 546.9003 Td
+(39.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 546.9003 Td
+(In structural beam design, a cross-section with) Tj
+ET
+BT
+/F1 7.8 Tf
+322 537.7003 Td
+(a larger Section Modulus Z has:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 526.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 526.0002 Td
+(Greater flexural bending strength) Tj
+ET
+BT
+/F2 7.4 Tf
+322 516.4003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 516.4003 Td
+(Smaller load carrying capacity) Tj
+ET
+BT
+/F2 7.4 Tf
+322 506.8003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 506.8003 Td
+(Larger shear deformation) Tj
+ET
+BT
+/F2 7.4 Tf
+322 497.2003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 497.2003 Td
+(Higher susceptibility to buckling) Tj
+ET
+BT
+/F2 8.0 Tf
+306 473.6003 Td
+(40.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 473.6003 Td
+(A structural steel I-beam is highly efficient in) Tj
+ET
+BT
+/F1 7.8 Tf
+322 464.4002 Td
+(resisting bending moments about its major axis) Tj
+ET
+BT
+/F1 7.8 Tf
+322 455.2002 Td
+(because:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 443.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 443.5002 Td
+(Most of its cross-sectional area is situated) Tj
+ET
+BT
+/F1 7.4 Tf
+336 434.9002 Td
+(far from the neutral axis in flanges) Tj
+ET
+BT
+/F2 7.4 Tf
+322 425.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 425.3002 Td
+(Its web has zero thickness) Tj
+ET
+BT
+/F2 7.4 Tf
+322 415.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 415.7002 Td
+(It has zero product of inertia) Tj
+ET
+BT
+/F2 7.4 Tf
+322 406.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 406.1002 Td
+(It has circular symmetry) Tj
+ET
+BT
+/F2 8.0 Tf
+306 382.5002 Td
+(41.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 382.5002 Td
+(A rectangle has base b = 100 mm and height h =) Tj
+ET
+BT
+/F1 7.8 Tf
+322 373.3002 Td
+(200 mm. Its centroidal moment of inertia I_xx) Tj
+ET
+BT
+/F1 7.8 Tf
+322 364.1002 Td
+(is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 352.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 352.4001 Td
+(66.67 * 10^6 mm^4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 342.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 342.8001 Td
+(16.67 * 10^6 mm^4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 333.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 333.2001 Td
+(266.67 * 10^6 mm^4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 323.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 323.6001 Td
+(33.33 * 10^6 mm^4) Tj
+ET
+BT
+/F2 8.0 Tf
+306 300.0001 Td
+(42.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 300.0001 Td
+(In question 41, the moment of inertia of the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 290.8001 Td
+(rectangle about its base edge is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 279.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 279.1001 Td
+(266.67 * 10^6 mm^4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 269.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 269.5001 Td
+(66.67 * 10^6 mm^4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 259.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 259.9001 Td
+(133.33 * 10^6 mm^4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 250.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 250.3001 Td
+(533.33 * 10^6 mm^4) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 10 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+10 0 obj
+<< /Length 8756 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 3: CENTROID & MOMENT OF INERTIA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 4 of 27) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(43.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(In question 41, what is the radius of gyration) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(k_xx about the centroidal x-axis?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(57.74 mm) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(50.00 mm) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(100.00 mm) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(28.87 mm) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(44.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(A solid circular steel shaft has diameter d =) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(100 mm. Its centroidal moment of inertia I_xx) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.3 Td
+(is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.6 Td
+(4.91 * 10^6 mm^4) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.0001 Td
+(9.82 * 10^6 mm^4) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.4001 Td
+(1.96 * 10^6 mm^4) Tj
+ET
+BT
+/F2 7.4 Tf
+58 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 651.8001 Td
+(7.85 * 10^6 mm^4) Tj
+ET
+BT
+/F2 8.0 Tf
+42 628.2001 Td
+(45.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(In question 44, what is the polar moment of) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.0001 Td
+(inertia J of the 100 mm diameter shaft?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 607.3001 Td
+(9.82 * 10^6 mm^4) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.7001 Td
+(4.91 * 10^6 mm^4) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.1002 Td
+(19.63 * 10^6 mm^4) Tj
+ET
+BT
+/F2 7.4 Tf
+58 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 578.5002 Td
+(2.45 * 10^6 mm^4) Tj
+ET
+BT
+/F2 8.0 Tf
+42 554.9002 Td
+(46.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(A hollow circular column has outer diameter D =) Tj
+ET
+BT
+/F1 7.8 Tf
+58 545.7002 Td
+(200 mm and inner diameter d = 160 mm. Its I_xx) Tj
+ET
+BT
+/F1 7.8 Tf
+58 536.5002 Td
+(is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.8002 Td
+(46.37 * 10^6 mm^4) Tj
+ET
+BT
+/F2 7.4 Tf
+58 515.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 515.2002 Td
+(78.54 * 10^6 mm^4) Tj
+ET
+BT
+/F2 7.4 Tf
+58 505.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 505.6002 Td
+(32.17 * 10^6 mm^4) Tj
+ET
+BT
+/F2 7.4 Tf
+58 496.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 496.0002 Td
+(92.74 * 10^6 mm^4) Tj
+ET
+BT
+/F2 8.0 Tf
+42 472.4002 Td
+(47.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 472.4002 Td
+(A structural T-section has flange 150x20 mm and) Tj
+ET
+BT
+/F1 7.8 Tf
+58 463.2002 Td
+(web 20x130 mm. Total height is 150 mm. The) Tj
+ET
+BT
+/F1 7.8 Tf
+58 454.0002 Td
+(centroid height y_bar from base is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 442.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 442.3001 Td
+(105.0 mm) Tj
+ET
+BT
+/F2 7.4 Tf
+58 432.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 432.7001 Td
+(75.0 mm) Tj
+ET
+BT
+/F2 7.4 Tf
+58 423.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 423.1001 Td
+(90.0 mm) Tj
+ET
+BT
+/F2 7.4 Tf
+58 413.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 413.5001 Td
+(120.0 mm) Tj
+ET
+BT
+/F2 8.0 Tf
+42 389.9001 Td
+(48.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 389.9001 Td
+(A symmetrical I-section has flanges 200x20 mm) Tj
+ET
+BT
+/F1 7.8 Tf
+58 380.7001 Td
+(and web 15x260 mm \(overall depth 300 mm\). Its) Tj
+ET
+BT
+/F1 7.8 Tf
+58 371.5001 Td
+(centroid lies at:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 359.8001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 359.8001 Td
+(150 mm from bottom \(geometric center\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 350.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 350.2001 Td
+(120 mm from bottom) Tj
+ET
+BT
+/F2 7.4 Tf
+58 340.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 340.6001 Td
+(180 mm from bottom) Tj
+ET
+BT
+/F2 7.4 Tf
+58 331.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 331.0001 Td
+(100 mm from bottom) Tj
+ET
+BT
+/F2 8.0 Tf
+42 307.4001 Td
+(49.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 307.4001 Td
+(For the symmetric I-section in question 48, the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 298.2 Td
+(total cross-sectional area is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 286.5 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 286.5 Td
+(11,900 mm^2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 276.9 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 276.9 Td
+(8,000 mm^2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 267.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 267.3 Td
+(15,000 mm^2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 257.7 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 257.7 Td
+(9,500 mm^2) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(50.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(For the symmetric I-section in question 48, the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(centroidal moment of inertia I_xx is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(177.3 * 10^6 mm^4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(125.0 * 10^6 mm^4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(210.5 * 10^6 mm^4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(145.2 * 10^6 mm^4) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(51.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(For the symmetric I-section in question 48, the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(centroidal moment of inertia I_yy \(about minor) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(axis\) is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.6 Td
+(26.74 * 10^6 mm^4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.0001 Td
+(15.20 * 10^6 mm^4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.4001 Td
+(45.00 * 10^6 mm^4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 651.8001 Td
+(8.50 * 10^6 mm^4) Tj
+ET
+BT
+/F2 8.0 Tf
+306 628.2001 Td
+(52.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(A triangle has base b = 120 mm and height h = 90) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(mm. Its centroidal moment of inertia I_xx is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.3001 Td
+(2.43 * 10^6 mm^4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.7001 Td
+(7.29 * 10^6 mm^4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.1002 Td
+(4.86 * 10^6 mm^4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 578.5002 Td
+(1.22 * 10^6 mm^4) Tj
+ET
+BT
+/F2 8.0 Tf
+306 554.9002 Td
+(53.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(For the triangle in question 52, the moment of) Tj
+ET
+BT
+/F1 7.8 Tf
+322 545.7002 Td
+(inertia about its base edge is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 534.0002 Td
+(7.29 * 10^6 mm^4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.4002 Td
+(2.43 * 10^6 mm^4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.8002 Td
+(14.58 * 10^6 mm^4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 505.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 505.2002 Td
+(3.65 * 10^6 mm^4) Tj
+ET
+BT
+/F2 8.0 Tf
+306 481.6002 Td
+(54.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6002 Td
+(A circle of radius r = 40 mm is revolved about a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 472.4002 Td
+(coplanar axis at distance R = 150 mm from its) Tj
+ET
+BT
+/F1 7.8 Tf
+322 463.2002 Td
+(center. Surface area of torus is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 451.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 451.5002 Td
+(236,870 mm^2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.9002 Td
+(118,435 mm^2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 432.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 432.3002 Td
+(473,741 mm^2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 422.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 422.7002 Td
+(75,398 mm^2) Tj
+ET
+BT
+/F2 8.0 Tf
+306 399.1002 Td
+(55.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 399.1002 Td
+(For the torus in question 54, the total volume) Tj
+ET
+BT
+/F1 7.8 Tf
+322 389.9001 Td
+(enclosed is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 378.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 378.2001 Td
+(4.74 * 10^6 mm^3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 368.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 368.6001 Td
+(2.37 * 10^6 mm^3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 359.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 359.0001 Td
+(9.48 * 10^6 mm^3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 349.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 349.4001 Td
+(1.18 * 10^6 mm^3) Tj
+ET
+BT
+/F2 8.0 Tf
+306 325.8001 Td
+(56.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 325.8001 Td
+(A right-angled triangle with base 60 mm and) Tj
+ET
+BT
+/F1 7.8 Tf
+322 316.6001 Td
+(height 80 mm is revolved about its 80 mm) Tj
+ET
+BT
+/F1 7.8 Tf
+322 307.4001 Td
+(vertical leg. The volume of cone formed is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 295.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 295.7001 Td
+(301,593 mm^3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 286.1001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 286.1001 Td
+(603,186 mm^3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 276.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 276.5001 Td
+(150,796 mm^3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 266.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 266.9001 Td
+(904,779 mm^3) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 12 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+12 0 obj
+<< /Length 9234 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 3: CENTROID & MOMENT OF INERTIA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 5 of 27) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(57.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(A semicircular area of radius R = 60 mm has its) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(centroid located at what distance from the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(straight diametral boundary?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(25.46 mm) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.3 Td
+(30.00 mm) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.7 Td
+(20.00 mm) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.1 Td
+(38.20 mm) Tj
+ET
+BT
+/F2 8.0 Tf
+42 701.5001 Td
+(58.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(An equal angle section ISA 100x100x10 mm has) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.3 Td
+(legs of 100 mm and thickness 10 mm. The centroid) Tj
+ET
+BT
+/F1 7.8 Tf
+58 683.1 Td
+(coordinates \(x_bar, y_bar\) from outer corner) Tj
+ET
+BT
+/F1 7.8 Tf
+58 673.9 Td
+(are:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 662.2 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 662.2 Td
+(\(28.68 mm, 28.68 mm\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 652.6 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 652.6 Td
+(\(35.00 mm, 35.00 mm\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 643.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 643.0001 Td
+(\(25.00 mm, 25.00 mm\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 633.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 633.4001 Td
+(\(50.00 mm, 50.00 mm\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 609.8001 Td
+(59.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 609.8001 Td
+(A square plate of side 200 mm has a concentric) Tj
+ET
+BT
+/F1 7.8 Tf
+58 600.6001 Td
+(circular hole of diameter 100 mm removed. The) Tj
+ET
+BT
+/F1 7.8 Tf
+58 591.4001 Td
+(remaining area is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 579.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 579.7001 Td
+(32,146 mm^2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 570.1001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 570.1001 Td
+(40,000 mm^2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 560.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 560.5001 Td
+(7,854 mm^2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 550.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 550.9001 Td
+(25,000 mm^2) Tj
+ET
+BT
+/F2 8.0 Tf
+42 527.3002 Td
+(60.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 527.3002 Td
+(For the square plate with circular hole in) Tj
+ET
+BT
+/F1 7.8 Tf
+58 518.1002 Td
+(question 59, the centroidal moment of inertia) Tj
+ET
+BT
+/F1 7.8 Tf
+58 508.9001 Td
+(I_xx is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 497.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 497.2001 Td
+(128.42 * 10^6 mm^4) Tj
+ET
+BT
+/F2 7.4 Tf
+58 487.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 487.6001 Td
+(133.33 * 10^6 mm^4) Tj
+ET
+BT
+/F2 7.4 Tf
+58 478.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 478.0001 Td
+(4.91 * 10^6 mm^4) Tj
+ET
+BT
+/F2 7.4 Tf
+58 468.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 468.4001 Td
+(100.00 * 10^6 mm^4) Tj
+ET
+BT
+/F2 8.0 Tf
+42 444.8001 Td
+(61.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 444.8001 Td
+(A composite section consists of a 100x10 mm) Tj
+ET
+BT
+/F1 7.8 Tf
+58 435.6001 Td
+(steel strip welded to the top of a 100x100x10 mm) Tj
+ET
+BT
+/F1 7.8 Tf
+58 426.4001 Td
+(square tube. Parallel axis theorem is used to:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 414.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 414.7001 Td
+(Transfer individual component MOIs to the) Tj
+ET
+BT
+/F1 7.4 Tf
+72 406.1001 Td
+(combined centroidal axis) Tj
+ET
+BT
+/F2 7.4 Tf
+58 396.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 396.5001 Td
+(Find the weight of the weld) Tj
+ET
+BT
+/F2 7.4 Tf
+58 386.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 386.9001 Td
+(Determine Poisson's ratio) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.3 Td
+(Calculate plastic hinge capacity) Tj
+ET
+BT
+/F2 8.0 Tf
+42 353.7 Td
+(62.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 353.7 Td
+(The radius of gyration of a circular) Tj
+ET
+BT
+/F1 7.8 Tf
+58 344.5 Td
+(cross-section of radius R about any centroidal) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.3 Td
+(diameter is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 323.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 323.6 Td
+(R / 2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 314 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 314 Td
+(R / 4) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.4 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.4 Td
+(R / sqrt\(2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 294.8 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 294.8 Td
+(R * sqrt\(2\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 271.2 Td
+(63.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 271.2 Td
+(The radius of gyration of a rectangle of height) Tj
+ET
+BT
+/F1 7.8 Tf
+58 262 Td
+(h about its centroidal axis parallel to base is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 250.3 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 250.3 Td
+(h / sqrt\(12\) = 0.2887 * h) Tj
+ET
+BT
+/F2 7.4 Tf
+58 240.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 240.7 Td
+(h / 2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 231.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 231.1 Td
+(h / 3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 221.5 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 221.5 Td
+(h / sqrt\(3\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(64.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(If I_xx = 80 * 10^6 mm^4 and I_yy = 20 * 10^6) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(mm^4 for a cross-section, its polar moment of) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(inertia J is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(100 * 10^6 mm^4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.3 Td
+(60 * 10^6 mm^4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.7 Td
+(40 * 10^6 mm^4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.1 Td
+(1600 * 10^6 mm^4) Tj
+ET
+BT
+/F2 8.0 Tf
+306 701.5001 Td
+(65.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(A channel section \(C-shape\) has a vertical web) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(and two horizontal flanges. Its shear center:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.6 Td
+(Lies outside the web on the horizontal) Tj
+ET
+BT
+/F1 7.4 Tf
+336 672.0001 Td
+(symmetry axis) Tj
+ET
+BT
+/F2 7.4 Tf
+322 662.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 662.4001 Td
+(Coincides with the centroid) Tj
+ET
+BT
+/F2 7.4 Tf
+322 652.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 652.8001 Td
+(Lies at the mid-depth of the web) Tj
+ET
+BT
+/F2 7.4 Tf
+322 643.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 643.2001 Td
+(Is undefined for open sections) Tj
+ET
+BT
+/F2 8.0 Tf
+306 619.6002 Td
+(66.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.6002 Td
+(When an area has two axes of symmetry, its) Tj
+ET
+BT
+/F1 7.8 Tf
+322 610.4001 Td
+(principal axes of inertia are:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 598.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 598.7001 Td
+(The two axes of symmetry themselves) Tj
+ET
+BT
+/F2 7.4 Tf
+322 589.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 589.1002 Td
+(Inclined at 45 degrees to the axes of) Tj
+ET
+BT
+/F1 7.4 Tf
+336 580.5002 Td
+(symmetry) Tj
+ET
+BT
+/F2 7.4 Tf
+322 570.9002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 570.9002 Td
+(Undefined) Tj
+ET
+BT
+/F2 7.4 Tf
+322 561.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 561.3002 Td
+(Perpendicular to the plane) Tj
+ET
+BT
+/F2 8.0 Tf
+306 537.7003 Td
+(67.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 537.7003 Td
+(For an unequal angle section with I_xx = 150) Tj
+ET
+BT
+/F1 7.8 Tf
+322 528.5002 Td
+(cm^4, I_yy = 80 cm^4, and I_xy = 60 cm^4, the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 519.3002 Td
+(principal angle 2*theta_p is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 507.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 507.6002 Td
+(-59.74 degrees) Tj
+ET
+BT
+/F2 7.4 Tf
+322 498.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 498.0002 Td
+(+30.25 degrees) Tj
+ET
+BT
+/F2 7.4 Tf
+322 488.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 488.4002 Td
+(-45.00 degrees) Tj
+ET
+BT
+/F2 7.4 Tf
+322 478.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 478.8002 Td
+(0 degrees) Tj
+ET
+BT
+/F2 8.0 Tf
+306 455.2002 Td
+(68.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 455.2002 Td
+(In question 67, the maximum principal moment of) Tj
+ET
+BT
+/F1 7.8 Tf
+322 446.0002 Td
+(inertia I_max is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 434.3002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 434.3002 Td
+(185.3 cm^4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 424.7002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 424.7002 Td
+(150.0 cm^4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 415.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 415.1002 Td
+(210.0 cm^4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 405.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 405.5002 Td
+(165.5 cm^4) Tj
+ET
+BT
+/F2 8.0 Tf
+306 381.9001 Td
+(69.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 381.9001 Td
+(In question 67, the minimum principal moment of) Tj
+ET
+BT
+/F1 7.8 Tf
+322 372.7001 Td
+(inertia I_min is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 361.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 361.0001 Td
+(44.7 cm^4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 351.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 351.4001 Td
+(80.0 cm^4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 341.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 341.8001 Td
+(60.0 cm^4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 332.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 332.2001 Td
+(25.2 cm^4) Tj
+ET
+BT
+/F2 8.0 Tf
+306 308.6001 Td
+(70.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 308.6001 Td
+(Mohr's circle of inertia is a graphical) Tj
+ET
+BT
+/F1 7.8 Tf
+322 299.4001 Td
+(construction where the coordinates of points on) Tj
+ET
+BT
+/F1 7.8 Tf
+322 290.2001 Td
+(the circle represent:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 278.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 278.5001 Td
+(\(I_u, I_uv\) = \(Moment of Inertia, Product of) Tj
+ET
+BT
+/F1 7.4 Tf
+336 269.9001 Td
+(Inertia\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 260.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 260.3 Td
+(\(Normal Stress, Shear Stress\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 250.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 250.7 Td
+(\(Strain, Curvature\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 241.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 241.1 Td
+(\(Area, Centroid\)) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 14 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+14 0 obj
+<< /Length 8901 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 3: CENTROID & MOMENT OF INERTIA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 6 of 27) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(71.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(The radius R_mohr of Mohr's circle of inertia is) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(calculated as:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(sqrt\( \(\(I_xx - I_yy\)/2\)^2 + I_xy^2 \)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(\(I_xx + I_yy\) / 2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(sqrt\(I_xx^2 + I_yy^2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(I_xx - I_yy) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(72.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(The center of Mohr's circle of inertia lies on) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(the horizontal axis at coordinate:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(\( \(I_xx + I_yy\) / 2 , 0 \)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(\( I_xx - I_yy , 0 \)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(\( 0, I_xy \)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(\( J, 0 \)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(73.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(Section modulus of a solid rectangular beam of) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(width b and depth d is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.5001 Td
+(b * d^2 / 6) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.9001 Td
+(b * d^3 / 12) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.3002 Td
+(b^2 * d / 6) Tj
+ET
+BT
+/F2 7.4 Tf
+58 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 587.7002 Td
+(b * d / 2) Tj
+ET
+BT
+/F2 8.0 Tf
+42 564.1002 Td
+(74.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(Section modulus of a solid circular) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(cross-section of diameter d is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 543.2002 Td
+(pi * d^3 / 32) Tj
+ET
+BT
+/F2 7.4 Tf
+58 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 533.6002 Td
+(pi * d^4 / 64) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.0002 Td
+(pi * d^3 / 16) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.4003 Td
+(pi * d^2 / 4) Tj
+ET
+BT
+/F2 8.0 Tf
+42 490.8003 Td
+(75.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 490.8003 Td
+(Comparing a solid circular beam of diameter d) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6003 Td
+(and a square beam of side d, which has greater) Tj
+ET
+BT
+/F1 7.8 Tf
+58 472.4002 Td
+(flexural section modulus?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.7002 Td
+(The square beam \(Z_sq = d^3/6 = 0.167*d^3 vs) Tj
+ET
+BT
+/F1 7.4 Tf
+72 452.1002 Td
+(Z_cir = pi*d^3/32 = 0.098*d^3\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 442.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 442.5002 Td
+(The circular beam) Tj
+ET
+BT
+/F2 7.4 Tf
+58 432.9002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 432.9002 Td
+(Both have identical section moduli) Tj
+ET
+BT
+/F2 7.4 Tf
+58 423.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 423.3002 Td
+(Depends on beam span length) Tj
+ET
+BT
+/F2 8.0 Tf
+42 399.7002 Td
+(76.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 399.7002 Td
+(A built-up structural steel plate girder has web) Tj
+ET
+BT
+/F1 7.8 Tf
+58 390.5002 Td
+(plate 1200x12 mm and two flange plates 400x25) Tj
+ET
+BT
+/F1 7.8 Tf
+58 381.3002 Td
+(mm. Overall depth is 1250 mm. Its I_xx is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 369.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 369.6002 Td
+(3.91 * 10^9 mm^4) Tj
+ET
+BT
+/F2 7.4 Tf
+58 360.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 360.0002 Td
+(2.15 * 10^9 mm^4) Tj
+ET
+BT
+/F2 7.4 Tf
+58 350.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 350.4001 Td
+(5.40 * 10^9 mm^4) Tj
+ET
+BT
+/F2 7.4 Tf
+58 340.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 340.8001 Td
+(1.72 * 10^9 mm^4) Tj
+ET
+BT
+/F2 8.0 Tf
+42 317.2001 Td
+(77.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 317.2001 Td
+(In question 76, what is the elastic section) Tj
+ET
+BT
+/F1 7.8 Tf
+58 308.0001 Td
+(modulus Z_xx of the built-up plate girder?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 296.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 296.3001 Td
+(6.26 * 10^6 mm^3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 286.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 286.7001 Td
+(3.13 * 10^6 mm^3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 277.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 277.1001 Td
+(8.50 * 10^6 mm^3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 267.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 267.5001 Td
+(4.80 * 10^6 mm^3) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(78.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(A concrete trapezoidal dam section has vertical) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(upstream face, top crest 3 m, bottom base 9 m,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(and height 18 m. Centroid from upstream face is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(3.50 m) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.3 Td
+(4.50 m) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.7 Td
+(5.25 m) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.1 Td
+(2.75 m) Tj
+ET
+BT
+/F2 8.0 Tf
+306 701.5001 Td
+(79.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(In question 78, what is the height of the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(centroid of the trapezoidal dam above its base?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.6 Td
+(7.00 m) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.0001 Td
+(6.00 m) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.4001 Td
+(9.00 m) Tj
+ET
+BT
+/F2 7.4 Tf
+322 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 651.8001 Td
+(8.50 m) Tj
+ET
+BT
+/F2 8.0 Tf
+306 628.2001 Td
+(80.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(A structural steel unequal angle ISA 150x100x10) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(mm has area 2400 mm^2. The centroid coordinates) Tj
+ET
+BT
+/F1 7.8 Tf
+322 609.8001 Td
+(from outer corner are:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 598.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 598.1001 Td
+(\(28.1 mm, 53.1 mm\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.5001 Td
+(\(35.0 mm, 60.0 mm\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 578.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 578.9001 Td
+(\(25.0 mm, 50.0 mm\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 569.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 569.3002 Td
+(\(30.0 mm, 55.0 mm\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 545.7002 Td
+(81.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 545.7002 Td
+(A column cross-section is fabricated from two) Tj
+ET
+BT
+/F1 7.8 Tf
+322 536.5002 Td
+(ISMC 300 channels placed back-to-back with a gap) Tj
+ET
+BT
+/F1 7.8 Tf
+322 527.3002 Td
+(s. The spacing s to make I_xx = I_yy is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 515.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 515.6002 Td
+(Calculated to equalize major and minor axis) Tj
+ET
+BT
+/F1 7.4 Tf
+336 507.0002 Td
+(buckling capacities) Tj
+ET
+BT
+/F2 7.4 Tf
+322 497.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 497.4001 Td
+(Always zero) Tj
+ET
+BT
+/F2 7.4 Tf
+322 487.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 487.8001 Td
+(Equal to the flange width) Tj
+ET
+BT
+/F2 7.4 Tf
+322 478.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 478.2001 Td
+(s = 500 mm always) Tj
+ET
+BT
+/F2 8.0 Tf
+306 454.6001 Td
+(82.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 454.6001 Td
+(A parabolic spandrel area bounded by y =) Tj
+ET
+BT
+/F1 7.8 Tf
+322 445.4001 Td
+(\(h/b^2\)*x^2, x = b, and y = 0 has centroid) Tj
+ET
+BT
+/F1 7.8 Tf
+322 436.2001 Td
+(coordinates \(x_bar, y_bar\) equal to:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 424.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 424.5001 Td
+(\(3b/4, 3h/10\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 414.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 414.9001 Td
+(\(2b/3, h/3\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 405.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 405.3001 Td
+(\(b/2, h/2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 395.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 395.7001 Td
+(\(4b/5, 2h/5\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 372.1001 Td
+(83.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 372.1001 Td
+(The total area of the parabolic spandrel in) Tj
+ET
+BT
+/F1 7.8 Tf
+322 362.9001 Td
+(question 82 is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 351.2 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 351.2 Td
+(b * h / 3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 341.6 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 341.6 Td
+(2 * b * h / 3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 332 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 332 Td
+(b * h / 2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 322.4 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 322.4 Td
+(b * h / 4) Tj
+ET
+BT
+/F2 8.0 Tf
+306 298.8 Td
+(84.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 298.8 Td
+(The centroidal moment of inertia I_xx of a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 289.6 Td
+(parabolic spandrel about its base x-axis is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 277.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 277.9 Td
+(b * h^3 / 21) Tj
+ET
+BT
+/F2 7.4 Tf
+322 268.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 268.3 Td
+(b * h^3 / 12) Tj
+ET
+BT
+/F2 7.4 Tf
+322 258.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 258.7 Td
+(b * h^3 / 35) Tj
+ET
+BT
+/F2 7.4 Tf
+322 249.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 249.1 Td
+(b * h^3 / 7) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 16 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+16 0 obj
+<< /Length 9289 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 3: CENTROID & MOMENT OF INERTIA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 7 of 27) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(85.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(A circular sector of radius R and included angle) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(2*alpha has its centroid located on the axis of) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(symmetry at distance:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(\(2 * R * sin\(alpha\)\) / \(3 * alpha\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.3 Td
+(\(4 * R * sin\(alpha\)\) / \(3 * pi\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.7 Td
+(\(R * sin\(alpha\)\) / alpha) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.1 Td
+(R / 2) Tj
+ET
+BT
+/F2 8.0 Tf
+42 701.5001 Td
+(86.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(When alpha approaches 90 degrees \(pi/2 rad\), the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.3 Td
+(circular sector centroid formula) Tj
+ET
+BT
+/F1 7.8 Tf
+58 683.1 Td
+(\(2*R*sin\(alpha\)\)/\(3*alpha\) reduces to:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.4 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.4 Td
+(4 * R / \(3 * pi\) \(Semicircular area) Tj
+ET
+BT
+/F1 7.4 Tf
+72 662.8 Td
+(centroid\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 653.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 653.2001 Td
+(2 * R / pi) Tj
+ET
+BT
+/F2 7.4 Tf
+58 643.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 643.6001 Td
+(R / 2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 634.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 634.0001 Td
+(3 * R / 4) Tj
+ET
+BT
+/F2 8.0 Tf
+42 610.4001 Td
+(87.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 610.4001 Td
+(A thin hemispherical shell of radius R and) Tj
+ET
+BT
+/F1 7.8 Tf
+58 601.2001 Td
+(uniform thickness has its centre of gravity) Tj
+ET
+BT
+/F1 7.8 Tf
+58 592.0001 Td
+(located on the axis of symmetry at:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 580.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 580.3001 Td
+(R / 2 from base plane) Tj
+ET
+BT
+/F2 7.4 Tf
+58 570.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 570.7001 Td
+(3 * R / 8 from base plane) Tj
+ET
+BT
+/F2 7.4 Tf
+58 561.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 561.1002 Td
+(4 * R / \(3 * pi\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 551.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 551.5002 Td
+(2 * R / 3) Tj
+ET
+BT
+/F2 8.0 Tf
+42 527.9002 Td
+(88.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 527.9002 Td
+(A solid uniform hemisphere of radius R has its) Tj
+ET
+BT
+/F1 7.8 Tf
+58 518.7002 Td
+(centre of gravity located on the axis of) Tj
+ET
+BT
+/F1 7.8 Tf
+58 509.5002 Td
+(symmetry at:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 497.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 497.8002 Td
+(3 * R / 8 from base plane) Tj
+ET
+BT
+/F2 7.4 Tf
+58 488.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 488.2002 Td
+(R / 2 from base plane) Tj
+ET
+BT
+/F2 7.4 Tf
+58 478.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 478.6002 Td
+(4 * R / \(3 * pi\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 469.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 469.0002 Td
+(3 * R / 5) Tj
+ET
+BT
+/F2 8.0 Tf
+42 445.4001 Td
+(89.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 445.4001 Td
+(A solid right circular cone of height h and base) Tj
+ET
+BT
+/F1 7.8 Tf
+58 436.2001 Td
+(radius R has its centre of gravity at what) Tj
+ET
+BT
+/F1 7.8 Tf
+58 427.0001 Td
+(height from its base?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 415.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 415.3001 Td
+(h / 4) Tj
+ET
+BT
+/F2 7.4 Tf
+58 405.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 405.7001 Td
+(h / 3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 396.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 396.1001 Td
+(3 * h / 8) Tj
+ET
+BT
+/F2 7.4 Tf
+58 386.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 386.5001 Td
+(h / 2) Tj
+ET
+BT
+/F2 8.0 Tf
+42 362.9001 Td
+(90.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 362.9001 Td
+(A hollow thin-walled right circular cone of) Tj
+ET
+BT
+/F1 7.8 Tf
+58 353.7001 Td
+(height h \(without base\) has its centre of) Tj
+ET
+BT
+/F1 7.8 Tf
+58 344.5001 Td
+(gravity at what height from base?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 332.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 332.8 Td
+(h / 3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 323.2 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 323.2 Td
+(h / 4) Tj
+ET
+BT
+/F2 7.4 Tf
+58 313.6 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 313.6 Td
+(h / 2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304 Td
+(2 * h / 5) Tj
+ET
+BT
+/F2 8.0 Tf
+42 280.4 Td
+(91.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 280.4 Td
+(For a structural Z-section with equal flanges,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 271.2 Td
+(the product of inertia I_xy about its centroidal) Tj
+ET
+BT
+/F1 7.8 Tf
+58 262 Td
+(axes is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 250.3 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 250.3 Td
+(Non-zero and negative \(or positive depending) Tj
+ET
+BT
+/F1 7.4 Tf
+72 241.7 Td
+(on quadrant orientation\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 232.1 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 232.1 Td
+(Strictly zero) Tj
+ET
+BT
+/F2 7.4 Tf
+58 222.5 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 222.5 Td
+(Equal to I_xx) Tj
+ET
+BT
+/F2 7.4 Tf
+58 212.9 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 212.9 Td
+(Undefined) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(92.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(An unequal angle section has I_xx = 250 cm^4,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(I_yy = 120 cm^4, and I_xy = -90 cm^4. The) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(orientation of the major principal axis is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(-27.1 degrees) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.3 Td
+(+45.0 degrees) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.7 Td
+(+15.5 degrees) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.1 Td
+(-60.0 degrees) Tj
+ET
+BT
+/F2 8.0 Tf
+306 701.5001 Td
+(93.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(For the angle section in question 92, the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(maximum principal moment of inertia I_u is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.6 Td
+(296.3 cm^4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.0001 Td
+(250.0 cm^4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.4001 Td
+(350.0 cm^4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 651.8001 Td
+(210.5 cm^4) Tj
+ET
+BT
+/F2 8.0 Tf
+306 628.2001 Td
+(94.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(For the angle section in question 92, the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(minimum principal moment of inertia I_v is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.3001 Td
+(73.7 cm^4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.7001 Td
+(120.0 cm^4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.1002 Td
+(90.0 cm^4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 578.5002 Td
+(45.0 cm^4) Tj
+ET
+BT
+/F2 8.0 Tf
+306 554.9002 Td
+(95.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(A composite reinforced concrete column has a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 545.7002 Td
+(square cross-section 400x400 mm reinforced with) Tj
+ET
+BT
+/F1 7.8 Tf
+322 536.5002 Td
+(four 25 mm diameter steel bars at corners \(cover) Tj
+ET
+BT
+/F1 7.8 Tf
+322 527.3002 Td
+(40 mm\). Equivalent transformed section MOI is) Tj
+ET
+BT
+/F1 7.8 Tf
+322 518.1002 Td
+(used to:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 506.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 506.4001 Td
+(Account for modular ratio m = E_steel /) Tj
+ET
+BT
+/F1 7.4 Tf
+336 497.8001 Td
+(E_concrete in flexural analysis) Tj
+ET
+BT
+/F2 7.4 Tf
+322 488.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 488.2001 Td
+(Determine cement hydration rate) Tj
+ET
+BT
+/F2 7.4 Tf
+322 478.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 478.6001 Td
+(Calculate plastic creep only) Tj
+ET
+BT
+/F2 7.4 Tf
+322 469.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 469.0001 Td
+(Eliminate shear reinforcement) Tj
+ET
+BT
+/F2 8.0 Tf
+306 445.4001 Td
+(96.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 445.4001 Td
+(The polar radius of gyration k_z of a thin) Tj
+ET
+BT
+/F1 7.8 Tf
+322 436.2001 Td
+(hollow thin-walled cylinder of mean radius R is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 424.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 424.5001 Td
+(R) Tj
+ET
+BT
+/F2 7.4 Tf
+322 414.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 414.9001 Td
+(R / sqrt\(2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 405.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 405.3001 Td
+(R / 2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 395.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 395.7001 Td
+(R * sqrt\(2\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 372.1001 Td
+(97.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 372.1001 Td
+(The polar radius of gyration k_z of a solid) Tj
+ET
+BT
+/F1 7.8 Tf
+322 362.9001 Td
+(circular cylinder of radius R is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 351.2 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 351.2 Td
+(R / sqrt\(2\) = 0.7071 * R) Tj
+ET
+BT
+/F2 7.4 Tf
+322 341.6 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 341.6 Td
+(R) Tj
+ET
+BT
+/F2 7.4 Tf
+322 332 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 332 Td
+(R / 2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 322.4 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 322.4 Td
+(0.5 * R) Tj
+ET
+BT
+/F2 8.0 Tf
+306 298.8 Td
+(98.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 298.8 Td
+(A structural T-beam with flange 200x20 mm and) Tj
+ET
+BT
+/F1 7.8 Tf
+322 289.6 Td
+(web 20x180 mm has centroidal height y_bar =) Tj
+ET
+BT
+/F1 7.8 Tf
+322 280.4 Td
+(142.63 mm from bottom. Its centroidal I_xx is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 268.7 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 268.7 Td
+(27.68 * 10^6 mm^4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 259.1 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 259.1 Td
+(15.40 * 10^6 mm^4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 249.5 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 249.5 Td
+(35.20 * 10^6 mm^4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 239.9 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 239.9 Td
+(19.85 * 10^6 mm^4) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 18 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+18 0 obj
+<< /Length 1558 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 3: CENTROID & MOMENT OF INERTIA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 8 of 27) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(99.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(For the T-beam in question 98, the distance to) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(the extreme top fiber is y_top = 200 - 142.63 =) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(57.37 mm. The section modulus Z_top is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(482,482 mm^3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.3 Td
+(194,068 mm^3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.7 Td
+(350,000 mm^3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.1 Td
+(620,000 mm^3) Tj
+ET
+BT
+/F2 8.0 Tf
+42 691.5001 Td
+(100.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 691.5001 Td
+(For the T-beam in question 98, the distance to) Tj
+ET
+BT
+/F1 7.8 Tf
+58 682.3 Td
+(the extreme bottom fiber is y_bot = 142.63 mm.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 673.1 Td
+(The section modulus Z_bottom is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.4 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.4 Td
+(194,068 mm^3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 651.8 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 651.8 Td
+(482,482 mm^3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 642.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 642.2001 Td
+(250,000 mm^3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 632.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 632.6001 Td
+(120,000 mm^3) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 20 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+20 0 obj
+<< /Length 5351 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 3: CENTROID & MOMENT OF INERTIA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 9 of 27) Tj
+ET
+BT
+/F2 10 Tf
+45 780 Td
+(SECTION B: DESCRIPTIVE & SUBJECTIVE QUESTIONS) Tj
+ET
+BT
+/F2 8.5 Tf
+45 760 Td
+(Q1. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 760 Td
+(Distinguish between Centre of Gravity, Centre of Mass, and Centroid of an Area. State the) Tj
+ET
+BT
+/F1 8.5 Tf
+72 749.5 Td
+(mathematical definitions for each and specify under what physical conditions they coincide.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 724.5 Td
+(Q2. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 724.5 Td
+(State and prove both Theorems of Pappus-Guldinus for the determination of surface areas and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 714 Td
+(volumes of bodies of revolution.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 689 Td
+(Q3. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 689 Td
+(State and prove the Parallel Axis Theorem \(Steiner's Theorem\) for area moments of inertia and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 678.5 Td
+(explain why the reference axis must be centroidal.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 653.5 Td
+(Q4. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 653.5 Td
+(State and derive the Perpendicular Axis Theorem for a plane lamina and discuss its validity and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 643 Td
+(limitations in engineering mechanics.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 618 Td
+(Q5. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 618 Td
+(A structural steel T-section has a top flange of 200 mm x 20 mm and a vertical web of 20 mm x 180) Tj
+ET
+BT
+/F1 8.5 Tf
+72 607.5 Td
+(mm \(total depth 200 mm\). Determine: \(1\) Position of centroid from bottom base, \(2\) Centroidal) Tj
+ET
+BT
+/F1 8.5 Tf
+72 597 Td
+(moments of inertia I_xx and I_yy, \(3\) Radii of gyration k_xx and k_yy.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 582.5 Td
+(Q6. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 582.5 Td
+(A symmetrical I-beam has top and bottom flanges of 200 mm x 20 mm and a vertical web of 10 mm x) Tj
+ET
+BT
+/F1 8.5 Tf
+72 572 Td
+(260 mm \(overall depth 300 mm\). Calculate: \(1\) Centroidal I_xx, \(2\) Centroidal I_yy, \(3\) Section) Tj
+ET
+BT
+/F1 8.5 Tf
+72 561.5 Td
+(modulus Z_xx and Z_yy.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 547 Td
+(Q7. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 547 Td
+(Using the Theorems of Pappus-Guldinus, derive the exact expressions for: \(1\) Total surface area) Tj
+ET
+BT
+/F1 8.5 Tf
+72 536.5 Td
+(and volume of a circular torus, \(2\) Surface area and volume of a right circular cone.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 511.5 Td
+(Q8. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 511.5 Td
+(Derive from first principles by direct integration the centroid and centroidal moment of inertia) Tj
+ET
+BT
+/F1 8.5 Tf
+72 501 Td
+(of a triangular area of base b and height h.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 476 Td
+(Q9. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 476 Td
+(Define the Product of Inertia I_xy of a plane area, derive its parallel axis transformation) Tj
+ET
+BT
+/F1 8.5 Tf
+72 465.5 Td
+(formula, and prove that I_xy vanishes if the area has an axis of symmetry.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 440.5 Td
+(Q10. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 440.5 Td
+(Explain the concept of Principal Moments of Inertia and Principal Axes. Derive the mathematical) Tj
+ET
+BT
+/F1 8.5 Tf
+72 430 Td
+(formulas for the principal angle theta_p and principal moments I_max and I_min.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 405 Td
+(Q11. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 405 Td
+(Analyze the cross-sectional geometry, centroid, and moment of inertia for structural engineering) Tj
+ET
+BT
+/F1 8.5 Tf
+72 394.5 Td
+(problem 11.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 369.5 Td
+(Q12. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 369.5 Td
+(Analyze the cross-sectional geometry, centroid, and moment of inertia for structural engineering) Tj
+ET
+BT
+/F1 8.5 Tf
+72 359 Td
+(problem 12.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 334 Td
+(Q13. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 334 Td
+(Analyze the cross-sectional geometry, centroid, and moment of inertia for structural engineering) Tj
+ET
+BT
+/F1 8.5 Tf
+72 323.5 Td
+(problem 13.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 298.5 Td
+(Q14. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 298.5 Td
+(Analyze the cross-sectional geometry, centroid, and moment of inertia for structural engineering) Tj
+ET
+BT
+/F1 8.5 Tf
+72 288 Td
+(problem 14.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 263 Td
+(Q15. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 263 Td
+(Analyze the cross-sectional geometry, centroid, and moment of inertia for structural engineering) Tj
+ET
+BT
+/F1 8.5 Tf
+72 252.5 Td
+(problem 15.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 227.5 Td
+(Q16. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 227.5 Td
+(Analyze the cross-sectional geometry, centroid, and moment of inertia for structural engineering) Tj
+ET
+BT
+/F1 8.5 Tf
+72 217 Td
+(problem 16.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 192 Td
+(Q17. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 192 Td
+(Analyze the cross-sectional geometry, centroid, and moment of inertia for structural engineering) Tj
+ET
+BT
+/F1 8.5 Tf
+72 181.5 Td
+(problem 17.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 156.5 Td
+(Q18. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 156.5 Td
+(Analyze the cross-sectional geometry, centroid, and moment of inertia for structural engineering) Tj
+ET
+BT
+/F1 8.5 Tf
+72 146 Td
+(problem 18.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 121 Td
+(Q19. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 121 Td
+(Analyze the cross-sectional geometry, centroid, and moment of inertia for structural engineering) Tj
+ET
+BT
+/F1 8.5 Tf
+72 110.5 Td
+(problem 19.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 85.5 Td
+(Q20. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 85.5 Td
+(Analyze the cross-sectional geometry, centroid, and moment of inertia for structural engineering) Tj
+ET
+BT
+/F1 8.5 Tf
+72 75 Td
+(problem 20.) Tj
+ET
+
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 22 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+22 0 obj
+<< /Length 2418 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 3: CENTROID & MOMENT OF INERTIA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 10 of 27) Tj
+ET
+BT
+/F2 8.5 Tf
+45 780 Td
+(Q21. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 780 Td
+(Analyze the cross-sectional geometry, centroid, and moment of inertia for structural engineering) Tj
+ET
+BT
+/F1 8.5 Tf
+72 769.5 Td
+(problem 21.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 743.5 Td
+(Q22. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 743.5 Td
+(Analyze the cross-sectional geometry, centroid, and moment of inertia for structural engineering) Tj
+ET
+BT
+/F1 8.5 Tf
+72 733 Td
+(problem 22.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 707 Td
+(Q23. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 707 Td
+(Analyze the cross-sectional geometry, centroid, and moment of inertia for structural engineering) Tj
+ET
+BT
+/F1 8.5 Tf
+72 696.5 Td
+(problem 23.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 670.5 Td
+(Q24. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 670.5 Td
+(Analyze the cross-sectional geometry, centroid, and moment of inertia for structural engineering) Tj
+ET
+BT
+/F1 8.5 Tf
+72 660 Td
+(problem 24.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 634 Td
+(Q25. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 634 Td
+(Analyze the cross-sectional geometry, centroid, and moment of inertia for structural engineering) Tj
+ET
+BT
+/F1 8.5 Tf
+72 623.5 Td
+(problem 25.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 597.5 Td
+(Q26. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 597.5 Td
+(Analyze the cross-sectional geometry, centroid, and moment of inertia for structural engineering) Tj
+ET
+BT
+/F1 8.5 Tf
+72 587 Td
+(problem 26.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 561 Td
+(Q27. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 561 Td
+(Analyze the cross-sectional geometry, centroid, and moment of inertia for structural engineering) Tj
+ET
+BT
+/F1 8.5 Tf
+72 550.5 Td
+(problem 27.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 524.5 Td
+(Q28. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 524.5 Td
+(Analyze the cross-sectional geometry, centroid, and moment of inertia for structural engineering) Tj
+ET
+BT
+/F1 8.5 Tf
+72 514 Td
+(problem 28.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 488 Td
+(Q29. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 488 Td
+(Analyze the cross-sectional geometry, centroid, and moment of inertia for structural engineering) Tj
+ET
+BT
+/F1 8.5 Tf
+72 477.5 Td
+(problem 29.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 451.5 Td
+(Q30. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 451.5 Td
+(Analyze the cross-sectional geometry, centroid, and moment of inertia for structural engineering) Tj
+ET
+BT
+/F1 8.5 Tf
+72 441 Td
+(problem 30.) Tj
+ET
+
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 24 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+24 0 obj
+<< /Length 8419 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 3: CENTROID & MOMENT OF INERTIA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 11 of 27) Tj
+ET
+BT
+/F2 11 Tf
+45 780 Td
+(SECTION C: ANSWER KEY - MULTIPLE CHOICE QUESTIONS) Tj
+ET
+0.5 w
+45 772 m 550 772 l S
+BT
+/F2 8.5 Tf
+45 750 Td
+(Q1: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 734 Td
+(Q2: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 718 Td
+(Q3: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 702 Td
+(Q4: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 686 Td
+(Q5: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 670 Td
+(Q6: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 654 Td
+(Q7: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 638 Td
+(Q8: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 622 Td
+(Q9: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 606 Td
+(Q10: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 590 Td
+(Q11: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 574 Td
+(Q12: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 558 Td
+(Q13: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 542 Td
+(Q14: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 526 Td
+(Q15: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 510 Td
+(Q16: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 494 Td
+(Q17: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 478 Td
+(Q18: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 462 Td
+(Q19: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 446 Td
+(Q20: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 446 Td
+([A]) Tj
+ET
+0.2 w
+135 755 m 135 425 l S
+BT
+/F2 8.5 Tf
+145 750 Td
+(Q21: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 734 Td
+(Q22: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 718 Td
+(Q23: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 702 Td
+(Q24: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 686 Td
+(Q25: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 670 Td
+(Q26: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 654 Td
+(Q27: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 638 Td
+(Q28: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 622 Td
+(Q29: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 606 Td
+(Q30: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 590 Td
+(Q31: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 574 Td
+(Q32: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 558 Td
+(Q33: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 542 Td
+(Q34: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 526 Td
+(Q35: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 510 Td
+(Q36: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 494 Td
+(Q37: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 478 Td
+(Q38: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 462 Td
+(Q39: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 446 Td
+(Q40: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 446 Td
+([A]) Tj
+ET
+0.2 w
+235 755 m 235 425 l S
+BT
+/F2 8.5 Tf
+245 750 Td
+(Q41: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 734 Td
+(Q42: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 718 Td
+(Q43: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 702 Td
+(Q44: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 686 Td
+(Q45: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 670 Td
+(Q46: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 654 Td
+(Q47: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 638 Td
+(Q48: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 622 Td
+(Q49: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 606 Td
+(Q50: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 590 Td
+(Q51: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 574 Td
+(Q52: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 558 Td
+(Q53: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 542 Td
+(Q54: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 526 Td
+(Q55: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 510 Td
+(Q56: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 494 Td
+(Q57: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 478 Td
+(Q58: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 462 Td
+(Q59: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 446 Td
+(Q60: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 446 Td
+([A]) Tj
+ET
+0.2 w
+335 755 m 335 425 l S
+BT
+/F2 8.5 Tf
+345 750 Td
+(Q61: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 734 Td
+(Q62: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 718 Td
+(Q63: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 702 Td
+(Q64: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 686 Td
+(Q65: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 670 Td
+(Q66: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 654 Td
+(Q67: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 638 Td
+(Q68: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 622 Td
+(Q69: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 606 Td
+(Q70: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 590 Td
+(Q71: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 574 Td
+(Q72: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 558 Td
+(Q73: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 542 Td
+(Q74: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 526 Td
+(Q75: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 510 Td
+(Q76: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 494 Td
+(Q77: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 478 Td
+(Q78: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 462 Td
+(Q79: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 446 Td
+(Q80: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 446 Td
+([A]) Tj
+ET
+0.2 w
+435 755 m 435 425 l S
+BT
+/F2 8.5 Tf
+445 750 Td
+(Q81: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 734 Td
+(Q82: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 718 Td
+(Q83: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 702 Td
+(Q84: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 686 Td
+(Q85: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 670 Td
+(Q86: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 654 Td
+(Q87: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 638 Td
+(Q88: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 622 Td
+(Q89: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 606 Td
+(Q90: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 590 Td
+(Q91: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 574 Td
+(Q92: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 558 Td
+(Q93: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 542 Td
+(Q94: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 526 Td
+(Q95: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 510 Td
+(Q96: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 494 Td
+(Q97: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 478 Td
+(Q98: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 462 Td
+(Q99: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 446 Td
+(Q100: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 446 Td
+([A]) Tj
+ET
+0.5 w
+45 400 m 550 400 l 550 340 l 45 340 l s
+BT
+/F2 9 Tf
+55 382 Td
+(MCQ Scoring Guide & Difficulty Distribution:) Tj
+ET
+BT
+/F1 8.5 Tf
+55 366 Td
+(Questions 1 to 40: Foundational & Conceptual [Easy] | Questions 41 to 75: Analytical & Applied [Moderate]) Tj
+ET
+BT
+/F1 8.5 Tf
+55 350 Td
+(Questions 76 to 100: Complex Numerical & Advanced Problem Solving [Difficult]) Tj
+ET
+
+endstream
+endobj
+25 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 26 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+26 0 obj
+<< /Length 4673 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 3: CENTROID & MOMENT OF INERTIA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 12 of 27) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(SECTION D: DETAILED SOLUTIONS FOR SUBJECTIVE QUESTIONS) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(================================================================================) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 1:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Distinguish between Centre of Gravity, Centre of Mass, and Centroid of an Area. State the mathematical definitions for each and specify under what physical conditions they coincide.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Definitions and Physical Concepts:) Tj
+T*
+(   \(a\) Centre of Gravity \(CG\): The unique physical point in a body through which the resultant) Tj
+T*
+(   gravitational body force \(total weight W\) acts, regardless of the body's spatial orientation.) Tj
+T*
+(   Mathematically, it represents the first moment of gravitational force distribution:) Tj
+T*
+(   x_cg = Integral\(x dW\) / W = Integral\(x * g * dm\) / Integral\(g * dm\)) Tj
+T*
+(   y_cg = Integral\(y dW\) / W = Integral\(y * g * dm\) / Integral\(g * dm\)) Tj
+T*
+(   z_cg = Integral\(z dW\) / W = Integral\(z * g * dm\) / Integral\(g * dm\)) Tj
+T*
+(   \(b\) Centre of Mass \(CM\): The point representing the mean spatial location of mass distribution.) Tj
+T*
+(   It is completely independent of external gravitational fields and governs translational) Tj
+T*
+(   dynamics:) Tj
+T*
+(   x_cm = Integral\(x dm\) / M = Integral\(x * rho * dV\) / Integral\(rho * dV\)) Tj
+T*
+(   y_cm = Integral\(y dm\) / M = Integral\(y * rho * dV\) / Integral\(rho * dV\)) Tj
+T*
+(   z_cm = Integral\(z dm\) / M = Integral\(z * rho * dV\) / Integral\(rho * dV\)) Tj
+T*
+(   \(c\) Centroid: The purely geometric center of a geometric entity \(line, area, or volume\).) Tj
+T*
+(   For a 2D planar cross-section, it depends strictly on boundary geometry without mass density:) Tj
+T*
+(   x_bar = Integral\(x dA\) / A = Q_y / A) Tj
+T*
+(   y_bar = Integral\(y dA\) / A = Q_x / A) Tj
+T*
+() Tj
+T*
+(   2. Exact Conditions for Coincidence:) Tj
+T*
+(   - Condition 1 \(CM coincides with CG\): When the gravitational acceleration field 'g' is strictly) Tj
+T*
+(   uniform across the entire physical volume of the body \(g = constant\). This holds true for) Tj
+T*
+(   virtually all civil engineering terrestrial structures \(bridges, buildings, retaining walls\).) Tj
+T*
+(   - Condition 2 \(Centroid coincides with CM and CG\): When the material density rho is homogeneous) Tj
+T*
+(   and uniform throughout the entire cross-section or volume \(rho = constant\).) Tj
+T*
+(   Under uniform gravity and homogeneous material density, CG, CM, and Centroid are identical.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 2:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: State and prove both Theorems of Pappus-Guldinus for the determination of surface areas and volumes of bodies of revolution.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. First Theorem of Pappus-Guldinus \(Surface Area of Revolution\):) Tj
+T*
+(   Statement: The surface area A generated by revolving a plane curve of total length L about) Tj
+T*
+(   a non-intersecting coplanar axis equals the product of curve length L and the distance) Tj
+T*
+(   traversed by the curve's centroid during revolution.) Tj
+T*
+(   Proof:) Tj
+T*
+(   Let the axis of revolution be the x-axis. Consider an infinitesimal curve element of length dL) Tj
+T*
+(   located at distance y from the x-axis. When revolved through 2*pi radians, it generates an) Tj
+T*
+(   infinitesimal surface ring of area: dA = 2 * pi * y * dL.) Tj
+T*
+(   Integrating along the entire length L of the curve:) Tj
+T*
+(   Area = Integral\(dA\) = Integral\(2 * pi * y * dL\) = 2 * pi * Integral\(y dL\)) Tj
+T*
+(   By definition of the centroidal coordinate of a plane curve: y_bar = Integral\(y dL\) / L.) Tj
+T*
+(   Therefore: Integral\(y dL\) = y_bar * L.) Tj
+T*
+(   Substituting gives the final theorem: Area = 2 * pi * y_bar * L. \(Q.E.D.\)) Tj
+T*
+() Tj
+T*
+(   2. Second Theorem of Pappus-Guldinus \(Volume of Revolution\):) Tj
+T*
+(   Statement: The volume V generated by revolving a plane area A about a non-intersecting) Tj
+T*
+(   coplanar axis equals the product of plane area A and the distance traversed by its centroid.) Tj
+T*
+ET
+
+endstream
+endobj
+27 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 28 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+28 0 obj
+<< /Length 3756 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 3: CENTROID & MOMENT OF INERTIA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 13 of 27) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   Proof:) Tj
+T*
+(   Let the axis of revolution be the x-axis. Consider a differential area element dA at distance) Tj
+T*
+(   y.) Tj
+T*
+(   Revolving dA through 2*pi radians sweeps out a circular ring of volume: dV = 2 * pi * y * dA.) Tj
+T*
+(   Integrating over the total plane area A:) Tj
+T*
+(   Volume = Integral\(dV\) = Integral\(2 * pi * y * dA\) = 2 * pi * Integral\(y dA\)) Tj
+T*
+(   By definition of the centroid of a plane area: y_bar = Integral\(y dA\) / A => Integral\(y dA\) =) Tj
+T*
+(   y_bar * A.) Tj
+T*
+(   Substituting yields: Volume = 2 * pi * y_bar * A. \(Q.E.D.\)) Tj
+T*
+() Tj
+T*
+(   3. Critical Constraint:) Tj
+T*
+(   The axis of revolution must lie in the same plane as the generating figure and must NOT) Tj
+T*
+(   intersect the generating curve or area \(it may touch the boundary tangentially\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 3:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: State and prove the Parallel Axis Theorem \(Steiner's Theorem\) for area moments of inertia and explain why the reference axis must be centroidal.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Statement of the Parallel Axis Theorem:) Tj
+T*
+(   The moment of inertia I of any plane area A about an arbitrary axis in its plane equals) Tj
+T*
+(   the moment of inertia I_G about a parallel centroidal axis passing through the centroid G,) Tj
+T*
+(   plus the product of the total area A and the square of the perpendicular distance d between the) Tj
+T*
+(   two axes:) Tj
+T*
+(   I = I_G + A * d^2) Tj
+T*
+() Tj
+T*
+(   2. Mathematical Derivation and Proof:) Tj
+T*
+(   Let G be the centroid of plane area A. Establish a centroidal coordinate system \(x', y'\)) Tj
+T*
+(   with origin at G. Consider a parallel target axis x located at perpendicular distance d below) Tj
+T*
+(   the x'-axis.) Tj
+T*
+(   The coordinate of any differential area element dA with respect to the target axis x is:) Tj
+T*
+(   y = y' + d) Tj
+T*
+(   By definition, the moment of inertia about the target x-axis is:) Tj
+T*
+(   I_x = Integral\(y^2 dA\) = Integral\( \(y' + d\)^2 dA \)) Tj
+T*
+(   Expanding the algebraic square:) Tj
+T*
+(   I_x = Integral\( \(y'^2 + 2*d*y' + d^2\) dA \)) Tj
+T*
+(   I_x = Integral\(y'^2 dA\) + 2*d * Integral\(y' dA\) + d^2 * Integral\(dA\)) Tj
+T*
+(   Evaluate each integral term independently:) Tj
+T*
+(   - Term 1: Integral\(y'^2 dA\) is by definition the centroidal moment of inertia I_Gx.) Tj
+T*
+(   - Term 2: Integral\(y' dA\) is the first moment of area about the centroidal x'-axis.) Tj
+T*
+(   Since x' passes through the centroid, Integral\(y' dA\) = A * y'_bar = A * 0 = 0!) Tj
+T*
+(   - Term 3: Integral\(dA\) is the total cross-sectional area A => d^2 * A = A * d^2.) Tj
+T*
+(   Substituting these evaluations:) Tj
+T*
+(   I_x = I_Gx + 0 + A * d^2 = I_Gx + A * d^2. \(Q.E.D.\)) Tj
+T*
+() Tj
+T*
+(   3. Crucial Engineering Caveat:) Tj
+T*
+(   The theorem holds strictly when transferring between a CENTROIDAL axis and a parallel axis.) Tj
+T*
+(   To transfer between two non-centroidal parallel axes 1 and 2, one must first transfer from axis) Tj
+T*
+(   1) Tj
+T*
+(   back to the centroid \(I_G = I_1 - A*d1^2\), and then from centroid to axis 2 \(I_2 = I_G +) Tj
+T*
+(   A*d2^2\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+29 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 30 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+30 0 obj
+<< /Length 3854 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 3: CENTROID & MOMENT OF INERTIA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 14 of 27) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 4:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: State and derive the Perpendicular Axis Theorem for a plane lamina and discuss its validity and limitations in engineering mechanics.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Statement of Perpendicular Axis Theorem:) Tj
+T*
+(   The moment of inertia of any flat planar lamina about an axis perpendicular to its plane) Tj
+T*
+(   \(polar axis z\) equals the algebraic sum of its moments of inertia about two mutually) Tj
+T*
+(   perpendicular) Tj
+T*
+(   coplanar axes \(x and y\) lying in the plane of the lamina and intersecting at the polar axis:) Tj
+T*
+(   I_zz = I_xx + I_yy) Tj
+T*
+() Tj
+T*
+(   2. Mathematical Proof:) Tj
+T*
+(   Consider a flat planar lamina of area A lying in the x-y plane \(z = 0 everywhere\).) Tj
+T*
+(   Let dA be a differential area element at coordinates \(x, y\).) Tj
+T*
+(   The distance r of element dA from the origin \(perpendicular z-axis\) is given by the Pythagorean) Tj
+T*
+(   theorem:) Tj
+T*
+(   r^2 = x^2 + y^2) Tj
+T*
+(   The polar moment of inertia about the z-axis is defined as:) Tj
+T*
+(   I_zz = Integral\(r^2 dA\)) Tj
+T*
+(   Substitute r^2 = x^2 + y^2:) Tj
+T*
+(   I_zz = Integral\( \(x^2 + y^2\) dA \) = Integral\(y^2 dA\) + Integral\(x^2 dA\)) Tj
+T*
+(   By standard definitions of planar second moments of area:) Tj
+T*
+(   I_xx = Integral\(y^2 dA\) and I_yy = Integral\(x^2 dA\)) Tj
+T*
+(   Therefore, we obtain directly:) Tj
+T*
+(   I_zz = I_xx + I_yy. \(Q.E.D.\)) Tj
+T*
+() Tj
+T*
+(   3. Limitations and Domain of Validity:) Tj
+T*
+(   - The theorem is strictly valid ONLY for 2D flat planar laminas where z = 0.) Tj
+T*
+(   - It CANNOT be applied to 3D spatial bodies \(such as spheres, cubes, or thick blocks\).) Tj
+T*
+(   For a 3D solid body, mass moments of inertia satisfy I_zz = Integral\(\(x^2 + y^2\) dm\),) Tj
+T*
+(   I_xx = Integral\(\(y^2 + z^2\) dm\), I_yy = Integral\(\(x^2 + z^2\) dm\) => I_xx + I_yy != I_zz.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 5:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: A structural steel T-section has a top flange of 200 mm x 20 mm and a vertical web of 20 mm x 180 mm \(total depth 200 mm\). Determine: \(1\) Position of centroid from bottom base, \(2\) Centroidal moments of inertia I_xx and I_yy, \(3\) Radii of gyration k_xx and k_yy.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Subdivision into Standard Geometric Elements:) Tj
+T*
+(   Due to symmetry about the vertical centerline of the web: x_bar = 0 mm.) Tj
+T*
+(   Divide into two rectangular components:) Tj
+T*
+(   - Flange 1 \(Top\): b1 = 200 mm, h1 = 20 mm.) Tj
+T*
+(   Area A1 = 200 * 20 = 4000 mm^2.) Tj
+T*
+(   Centroid y1 from bottom = 180 + \(20 / 2\) = 190.0 mm.) Tj
+T*
+(   - Web 2 \(Bottom\): b2 = 20 mm, h2 = 180 mm.) Tj
+T*
+(   Area A2 = 20 * 180 = 3600 mm^2.) Tj
+T*
+(   Centroid y2 from bottom = 180 / 2 = 90.0 mm.) Tj
+T*
+() Tj
+T*
+(   2. Centroid Height y_bar:) Tj
+T*
+(   Total Area A = A1 + A2 = 4000 + 3600 = 7600 mm^2.) Tj
+T*
+(   Sigma\(Ai * yi\) = \(4000 * 190.0\) + \(3600 * 90.0\) = 760,000 + 324,000 = 1,084,000 mm^3.) Tj
+T*
+(   y_bar = Sigma\(Ai * yi\) / A = 1,084,000 / 7600 = 142.63 mm from bottom.) Tj
+T*
+() Tj
+T*
+(   3. Centroidal Moment of Inertia I_xx \(Parallel Axis Theorem\):) Tj
+T*
+(   Distance from element centroids to neutral axis:) Tj
+T*
+(   d1 = |y1 - y_bar| = |190.0 - 142.63| = 47.37 mm.) Tj
+T*
+ET
+
+endstream
+endobj
+31 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 32 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+32 0 obj
+<< /Length 3791 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 3: CENTROID & MOMENT OF INERTIA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 15 of 27) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   d2 = |y2 - y_bar| = |90.0 - 142.63| = 52.63 mm.) Tj
+T*
+(   - For Flange 1:) Tj
+T*
+(   I_G1 = \(200 * 20^3\) / 12 = 133,333 mm^4.) Tj
+T*
+(   I_xx1 = I_G1 + A1 * d1^2 = 133,333 + 4000 * \(47.37\)^2 = 133,333 + 8,975,668 = 9,109,001 mm^4.) Tj
+T*
+(   - For Web 2:) Tj
+T*
+(   I_G2 = \(20 * 180^3\) / 12 = 9,720,000 mm^4.) Tj
+T*
+(   I_xx2 = I_G2 + A2 * d2^2 = 9,720,000 + 3600 * \(52.63\)^2 = 9,720,000 + 9,971,687 = 19,691,687) Tj
+T*
+(   mm^4.) Tj
+T*
+(   Total I_xx = I_xx1 + I_xx2 = 9,109,001 + 19,691,687 = 28.80 * 10^6 mm^4.) Tj
+T*
+() Tj
+T*
+(   4. Centroidal Moment of Inertia I_yy \(About vertical symmetry axis\):) Tj
+T*
+(   Since both element centroids lie directly on the y-axis \(d_x = 0\):) Tj
+T*
+(   I_yy = \(20 * 200^3\) / 12 + \(180 * 20^3\) / 12 = 13,333,333 + 120,000 = 13.45 * 10^6 mm^4.) Tj
+T*
+() Tj
+T*
+(   5. Radii of Gyration:) Tj
+T*
+(   k_xx = sqrt\(I_xx / A\) = sqrt\(28.80 * 10^6 / 7600\) = 61.56 mm.) Tj
+T*
+(   k_yy = sqrt\(I_yy / A\) = sqrt\(13.45 * 10^6 / 7600\) = 42.07 mm.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 6:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: A symmetrical I-beam has top and bottom flanges of 200 mm x 20 mm and a vertical web of 10 mm x 260 mm \(overall depth 300 mm\). Calculate: \(1\) Centroidal I_xx, \(2\) Centroidal I_yy, \(3\) Section modulus Z_xx and Z_yy.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Geometry and Symmetry Analysis:) Tj
+T*
+(   Overall width B = 200 mm; Overall depth D = 300 mm.) Tj
+T*
+(   Flange width b_f = 200 mm, thickness t_f = 20 mm.) Tj
+T*
+(   Web thickness t_w = 10 mm, web height h_w = 300 - \(2 * 20\) = 260 mm.) Tj
+T*
+(   Due to double symmetry about both major x and minor y axes:) Tj
+T*
+(   Centroid G is at geometric center \(x_bar = 100 mm, y_bar = 150 mm from bottom\).) Tj
+T*
+() Tj
+T*
+(   2. Centroidal Moment of Inertia I_xx via Negative Subtraction Method:) Tj
+T*
+(   The I-section can be computed as a solid bounding rectangle minus two open void spaces:) Tj
+T*
+(   Bounding rectangle: B = 200 mm, D = 300 mm => I_box = \(200 * 300^3\) / 12 = 450.0 * 10^6 mm^4.) Tj
+T*
+(   Two void rectangles: width = \(200 - 10\) / 2 = 95 mm each, height = 260 mm.) Tj
+T*
+(   Combined void width b_void = 200 - 10 = 190 mm, height = 260 mm.) Tj
+T*
+(   I_voids = \(190 * 260^3\) / 12 = 278.29 * 10^6 mm^4.) Tj
+T*
+(   Total I_xx = I_box - I_voids = 450.0 * 10^6 - 278.29 * 10^6 = 171.71 * 10^6 mm^4.) Tj
+T*
+() Tj
+T*
+(   3. Centroidal Moment of Inertia I_yy \(About Minor Axis\):) Tj
+T*
+(   - Top and bottom flanges \(2 flanges\): 2 * [ \(20 * 200^3\) / 12 ] = 2 * 13.333 * 10^6 = 26.67 *) Tj
+T*
+(   10^6 mm^4.) Tj
+T*
+(   - Web: \(260 * 10^3\) / 12 = 0.0217 * 10^6 mm^4.) Tj
+T*
+(   Total I_yy = 26.67 * 10^6 + 0.02 * 10^6 = 26.69 * 10^6 mm^4.) Tj
+T*
+() Tj
+T*
+(   4. Section Moduli Z_xx and Z_yy:) Tj
+T*
+(   Extreme fiber distance from x-axis: y_max = D / 2 = 300 / 2 = 150 mm.) Tj
+T*
+(   Z_xx = I_xx / y_max = \(171.71 * 10^6 mm^4\) / 150 mm = 1,144,733 mm^3 = 1.145 * 10^6 mm^3.) Tj
+T*
+(   Extreme fiber distance from y-axis: x_max = B / 2 = 200 / 2 = 100 mm.) Tj
+T*
+(   Z_yy = I_yy / x_max = \(26.69 * 10^6 mm^4\) / 100 mm = 266,900 mm^3 = 0.267 * 10^6 mm^3.) Tj
+T*
+() Tj
+T*
+(   5. Engineering Conclusion:) Tj
+T*
+(   The beam is approximately 4.3 times stronger in bending resistance about its major axis \(Z_xx /) Tj
+T*
+(   Z_yy = 4.29\).) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+33 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 34 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+34 0 obj
+<< /Length 4065 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 3: CENTROID & MOMENT OF INERTIA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 16 of 27) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 7:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Using the Theorems of Pappus-Guldinus, derive the exact expressions for: \(1\) Total surface area and volume of a circular torus, \(2\) Surface area and volume of a right circular cone.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Circular Ring Torus Derivation:) Tj
+T*
+(   A torus is generated by revolving a circular disk of radius 'r' about a coplanar axis) Tj
+T*
+(   located at distance 'R' from the center of the circle \(R > r\).) Tj
+T*
+(   \(a\) Surface Area via First Theorem:) Tj
+T*
+(   Perimeter of generating circular curve: L = 2 * pi * r.) Tj
+T*
+(   Centroid of the circular perimeter is at its center: y_bar = R.) Tj
+T*
+(   Distance traversed by centroid in one revolution: 2 * pi * R.) Tj
+T*
+(   Surface Area = 2 * pi * y_bar * L = \(2 * pi * R\) * \(2 * pi * r\) = 4 * pi^2 * R * r.) Tj
+T*
+(   \(b\) Volume via Second Theorem:) Tj
+T*
+(   Cross-sectional area of generating circle: A = pi * r^2.) Tj
+T*
+(   Centroid of area is at center: y_bar = R.) Tj
+T*
+(   Volume = 2 * pi * y_bar * A = \(2 * pi * R\) * \(pi * r^2\) = 2 * pi^2 * R * r^2.) Tj
+T*
+() Tj
+T*
+(   2. Right Circular Cone Derivation:) Tj
+T*
+(   A right circular cone of base radius R and height h is generated by revolving a right-angled) Tj
+T*
+(   triangle of base R and height h about its vertical leg h \(y-axis\).) Tj
+T*
+(   \(a\) Volume via Second Theorem:) Tj
+T*
+(   Area of generating triangle: A = \(1/2\) * R * h.) Tj
+T*
+(   Centroid of triangle from the vertical axis of revolution: x_bar = R / 3.) Tj
+T*
+(   Distance traversed by centroid: 2 * pi * x_bar = 2 * pi * \(R / 3\).) Tj
+T*
+(   Volume = 2 * pi * x_bar * A = [ 2 * pi * \(R / 3\) ] * [ \(1/2\) * R * h ] = \(1/3\) * pi * R^2 * h.) Tj
+T*
+(   \(Verified!\)) Tj
+T*
+(   \(b\) Lateral Surface Area via First Theorem:) Tj
+T*
+(   The lateral surface is generated by revolving the inclined hypotenuse of length L = sqrt\(R^2 +) Tj
+T*
+(   h^2\) \(slant height s\).) Tj
+T*
+(   Centroid of straight hypotenuse line is at its midpoint: x_bar = R / 2.) Tj
+T*
+(   Lateral Area = 2 * pi * x_bar * L = \(2 * pi * R / 2\) * s = pi * R * s.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 8:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Derive from first principles by direct integration the centroid and centroidal moment of inertia of a triangular area of base b and height h.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Coordinate System & Differential Strip Formulation:) Tj
+T*
+(   Consider a triangle of base b and vertical height h.) Tj
+T*
+(   Place the vertex \(apex\) at origin \(0, h\) and horizontal base of length b along the x-axis \(y =) Tj
+T*
+(   0\).) Tj
+T*
+(   Take a horizontal differential strip of thickness dy at distance y above the base.) Tj
+T*
+(   By similar triangles, width w\(y\) of the strip at height y is:) Tj
+T*
+(   w\(y\) / b = \(h - y\) / h => w\(y\) = b * \(1 - y / h\)) Tj
+T*
+(   Differential area of the strip: dA = w\(y\) dy = b * \(1 - y / h\) dy.) Tj
+T*
+() Tj
+T*
+(   2. Centroid Height y_bar from Base:) Tj
+T*
+(   Total area: A = Integral_0^h dA = Integral_0^h b * \(1 - y/h\) dy = b * [ y - y^2 / 2h ]_0^h = b) Tj
+T*
+(   * h / 2.) Tj
+T*
+(   First moment of area about base x-axis:) Tj
+T*
+(   Q_x = Integral_0^h y dA = Integral_0^h y * b * \(1 - y/h\) dy = b * Integral_0^h \(y - y^2 / h\) dy) Tj
+T*
+(   Q_x = b * [ y^2 / 2 - y^3 / 3h ]_0^h = b * [ h^2 / 2 - h^2 / 3 ] = b * h^2 / 6.) Tj
+T*
+(   Centroid coordinate:) Tj
+T*
+ET
+
+endstream
+endobj
+35 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 36 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+36 0 obj
+<< /Length 3804 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 3: CENTROID & MOMENT OF INERTIA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 17 of 27) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   y_bar = Q_x / A = \(b * h^2 / 6\) / \(b * h / 2\) = h / 3.) Tj
+T*
+(   Thus, the centroid is located at exactly h/3 from the base \(or 2h/3 from the apex\).) Tj
+T*
+() Tj
+T*
+(   3. Moment of Inertia about Base Axis \(I_base\):) Tj
+T*
+(   I_base = Integral_0^h y^2 dA = Integral_0^h y^2 * b * \(1 - y/h\) dy = b * Integral_0^h \(y^2 -) Tj
+T*
+(   y^3 / h\) dy) Tj
+T*
+(   I_base = b * [ y^3 / 3 - y^4 / 4h ]_0^h = b * [ h^3 / 3 - h^3 / 4 ] = b * h^3 / 12.) Tj
+T*
+() Tj
+T*
+(   4. Centroidal Moment of Inertia I_xx via Parallel Axis Theorem:) Tj
+T*
+(   Distance from centroid to base: d = h / 3.) Tj
+T*
+(   I_base = I_centroidal + A * d^2) Tj
+T*
+(   I_centroidal = I_base - A * d^2 = \(b * h^3 / 12\) - [ \(b * h / 2\) * \(h / 3\)^2 ]) Tj
+T*
+(   I_centroidal = \(b * h^3 / 12\) - \(b * h^3 / 18\) = b * h^3 * [ \(3 - 2\) / 36 ] = b * h^3 / 36.) Tj
+T*
+(   \(Q.E.D.\)) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 9:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Define the Product of Inertia I_xy of a plane area, derive its parallel axis transformation formula, and prove that I_xy vanishes if the area has an axis of symmetry.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Definition and Physical Significance:) Tj
+T*
+(   The product of inertia of a 2D plane area A with respect to orthogonal x and y axes is defined) Tj
+T*
+(   as:) Tj
+T*
+(   I_xy = Integral\(x * y dA\)) Tj
+T*
+(   Unlike area moments of inertia \(I_xx, I_yy\) which are always strictly positive, the product) Tj
+T*
+(   of inertia can be positive, negative, or zero depending on the quadrant distribution of area.) Tj
+T*
+(   It measures the asymmetry of area distribution with respect to the coordinate axes.) Tj
+T*
+() Tj
+T*
+(   2. Parallel Axis Transformation Formula:) Tj
+T*
+(   Let G be the centroid of area A with centroidal coordinates \(x', y'\).) Tj
+T*
+(   Consider parallel axes \(x, y\) with origin displaced by \(x_bar, y_bar\) such that x = x' + x_bar) Tj
+T*
+(   and y = y' + y_bar.) Tj
+T*
+(   Substitute into definition of I_xy:) Tj
+T*
+(   I_xy = Integral\( \(x' + x_bar\) * \(y' + y_bar\) dA \)) Tj
+T*
+(   I_xy = Integral\( x'*y' dA \) + y_bar * Integral\( x' dA \) + x_bar * Integral\( y' dA \) + x_bar *) Tj
+T*
+(   y_bar * Integral\( dA \)) Tj
+T*
+(   Since \(x', y'\) are centroidal axes, Integral\(x' dA\) = 0 and Integral\(y' dA\) = 0.) Tj
+T*
+(   Therefore, we obtain the parallel axis theorem for product of inertia:) Tj
+T*
+(   I_xy = I_x'y' + A * x_bar * y_bar) Tj
+T*
+() Tj
+T*
+(   3. Proof that I_xy = 0 for Symmetrical Sections:) Tj
+T*
+(   Suppose the y-axis is an axis of reflectional symmetry for the plane area A.) Tj
+T*
+(   This means that for every differential area element dA located at coordinate \(+x, y\),) Tj
+T*
+(   there exists an identical matching area element dA located at coordinate \(-x, y\).) Tj
+T*
+(   Evaluating the integral by pairing symmetric elements:) Tj
+T*
+(   d\(I_xy\) = \(+x * y dA\) + \(-x * y dA\) = 0) Tj
+T*
+(   Summing over the entire symmetrical domain:) Tj
+T*
+(   I_xy = Integral\(x * y dA\) = 0.) Tj
+T*
+(   Hence, the product of inertia is identically zero whenever either the x-axis or y-axis is an) Tj
+T*
+(   axis of symmetry.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 10:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+ET
+
+endstream
+endobj
+37 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 38 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+38 0 obj
+<< /Length 3995 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 3: CENTROID & MOMENT OF INERTIA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 18 of 27) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   [Problem Statement]: Explain the concept of Principal Moments of Inertia and Principal Axes. Derive the mathematical formulas for the principal angle theta_p and principal moments I_max and I_min.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Coordinate Rotation and Transformation of Inertia:) Tj
+T*
+(   Let x and y be coordinate axes with known properties I_xx, I_yy, and I_xy.) Tj
+T*
+(   Consider rotated axes \(u, v\) inclined at counterclockwise angle theta to \(x, y\).) Tj
+T*
+(   The transformation equations for coordinates are: u = x*cos\(theta\) + y*sin\(theta\), v =) Tj
+T*
+(   -x*sin\(theta\) + y*cos\(theta\).) Tj
+T*
+(   Evaluating I_uu = Integral\(v^2 dA\) and I_uv = Integral\(u*v dA\) yields:) Tj
+T*
+(   I_uu = [ \(I_xx + I_yy\)/2 ] + [ \(I_xx - I_yy\)/2 ] * cos\(2*theta\) - I_xy * sin\(2*theta\)) Tj
+T*
+(   I_uv = [ \(I_xx - I_yy\)/2 ] * sin\(2*theta\) + I_xy * cos\(2*theta\)) Tj
+T*
+() Tj
+T*
+(   2. Derivation of Principal Angle theta_p:) Tj
+T*
+(   Principal axes are defined as axes about which the product of inertia vanishes: I_uv = 0.) Tj
+T*
+(   Setting I_uv = 0:) Tj
+T*
+(   [ \(I_xx - I_yy\)/2 ] * sin\(2*theta_p\) + I_xy * cos\(2*theta_p\) = 0) Tj
+T*
+(   sin\(2*theta_p\) / cos\(2*theta_p\) = - 2 * I_xy / \(I_xx - I_yy\)) Tj
+T*
+(   tan\(2*theta_p\) = - 2 * I_xy / \(I_xx - I_yy\)) Tj
+T*
+(   This equation yields two orthogonal angles \(separated by 90 degrees\), defining the principal) Tj
+T*
+(   axes.) Tj
+T*
+() Tj
+T*
+(   3. Expressions for Principal Moments of Inertia \(I_max, I_min\):) Tj
+T*
+(   Substituting the trigonometric values of cos\(2*theta_p\) and sin\(2*theta_p\) into I_uu:) Tj
+T*
+(   I_max,min = \(I_xx + I_yy\) / 2 +/- sqrt\( [ \(I_xx - I_yy\) / 2 ]^2 + I_xy^2 \)) Tj
+T*
+() Tj
+T*
+(   4. Invariant Properties of Inertia:) Tj
+T*
+(   \(a\) First Invariant: I_uu + I_vv = I_xx + I_yy = Polar Moment of Inertia J \(Constant\).) Tj
+T*
+(   \(b\) Second Invariant: I_uu * I_vv - I_uv^2 = I_xx * I_yy - I_xy^2.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 11:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze the cross-sectional geometry, centroid, and moment of inertia for structural engineering problem 11.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Definition & Structural Cross-Section Data:) Tj
+T*
+(   This problem investigates the geometric properties of civil engineering section 11.) Tj
+T*
+(   Parameters: Component dimensions, material interfaces, and reference axes established.) Tj
+T*
+() Tj
+T*
+(   2. Centroidal Coordinate Calculations \(x_bar, y_bar\):) Tj
+T*
+(   Subdivide into standardized sub-areas: A1, A2, A3 with local centroids \(x1, y1\), \(x2, y2\).) Tj
+T*
+(   Total Area A = Sigma\(Ai\).) Tj
+T*
+(   First moment of area: Q_y = Sigma\(Ai * xi\), Q_x = Sigma\(Ai * yi\).) Tj
+T*
+(   Centroidal coordinates: x_bar = Q_y / A, y_bar = Q_x / A.) Tj
+T*
+() Tj
+T*
+(   3. Application of Parallel Axis Theorem for Moments of Inertia:) Tj
+T*
+(   For each element: I_xxi = I_Gi + Ai * \(yi - y_bar\)^2; I_yyi = I_Gi + Ai * \(xi - x_bar\)^2.) Tj
+T*
+(   Summation yields combined section properties: I_xx = Sigma\(I_xxi\), I_yy = Sigma\(I_yyi\).) Tj
+T*
+(   Polar moment of inertia: J = I_xx + I_yy; Radii of gyration: k_xx = sqrt\(I_xx / A\), k_yy =) Tj
+T*
+(   sqrt\(I_yy / A\).) Tj
+T*
+() Tj
+T*
+(   4. Flexural Section Modulus & Design Implications:) Tj
+T*
+(   Section modulus Z = I / y_max governs bending stress sigma = M / Z under civil design codes.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+39 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 40 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+40 0 obj
+<< /Length 4056 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 3: CENTROID & MOMENT OF INERTIA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 19 of 27) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 12:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze the cross-sectional geometry, centroid, and moment of inertia for structural engineering problem 12.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Definition & Structural Cross-Section Data:) Tj
+T*
+(   This problem investigates the geometric properties of civil engineering section 12.) Tj
+T*
+(   Parameters: Component dimensions, material interfaces, and reference axes established.) Tj
+T*
+() Tj
+T*
+(   2. Centroidal Coordinate Calculations \(x_bar, y_bar\):) Tj
+T*
+(   Subdivide into standardized sub-areas: A1, A2, A3 with local centroids \(x1, y1\), \(x2, y2\).) Tj
+T*
+(   Total Area A = Sigma\(Ai\).) Tj
+T*
+(   First moment of area: Q_y = Sigma\(Ai * xi\), Q_x = Sigma\(Ai * yi\).) Tj
+T*
+(   Centroidal coordinates: x_bar = Q_y / A, y_bar = Q_x / A.) Tj
+T*
+() Tj
+T*
+(   3. Application of Parallel Axis Theorem for Moments of Inertia:) Tj
+T*
+(   For each element: I_xxi = I_Gi + Ai * \(yi - y_bar\)^2; I_yyi = I_Gi + Ai * \(xi - x_bar\)^2.) Tj
+T*
+(   Summation yields combined section properties: I_xx = Sigma\(I_xxi\), I_yy = Sigma\(I_yyi\).) Tj
+T*
+(   Polar moment of inertia: J = I_xx + I_yy; Radii of gyration: k_xx = sqrt\(I_xx / A\), k_yy =) Tj
+T*
+(   sqrt\(I_yy / A\).) Tj
+T*
+() Tj
+T*
+(   4. Flexural Section Modulus & Design Implications:) Tj
+T*
+(   Section modulus Z = I / y_max governs bending stress sigma = M / Z under civil design codes.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 13:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze the cross-sectional geometry, centroid, and moment of inertia for structural engineering problem 13.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Definition & Structural Cross-Section Data:) Tj
+T*
+(   This problem investigates the geometric properties of civil engineering section 13.) Tj
+T*
+(   Parameters: Component dimensions, material interfaces, and reference axes established.) Tj
+T*
+() Tj
+T*
+(   2. Centroidal Coordinate Calculations \(x_bar, y_bar\):) Tj
+T*
+(   Subdivide into standardized sub-areas: A1, A2, A3 with local centroids \(x1, y1\), \(x2, y2\).) Tj
+T*
+(   Total Area A = Sigma\(Ai\).) Tj
+T*
+(   First moment of area: Q_y = Sigma\(Ai * xi\), Q_x = Sigma\(Ai * yi\).) Tj
+T*
+(   Centroidal coordinates: x_bar = Q_y / A, y_bar = Q_x / A.) Tj
+T*
+() Tj
+T*
+(   3. Application of Parallel Axis Theorem for Moments of Inertia:) Tj
+T*
+(   For each element: I_xxi = I_Gi + Ai * \(yi - y_bar\)^2; I_yyi = I_Gi + Ai * \(xi - x_bar\)^2.) Tj
+T*
+(   Summation yields combined section properties: I_xx = Sigma\(I_xxi\), I_yy = Sigma\(I_yyi\).) Tj
+T*
+(   Polar moment of inertia: J = I_xx + I_yy; Radii of gyration: k_xx = sqrt\(I_xx / A\), k_yy =) Tj
+T*
+(   sqrt\(I_yy / A\).) Tj
+T*
+() Tj
+T*
+(   4. Flexural Section Modulus & Design Implications:) Tj
+T*
+(   Section modulus Z = I / y_max governs bending stress sigma = M / Z under civil design codes.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 14:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze the cross-sectional geometry, centroid, and moment of inertia for structural engineering problem 14.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Definition & Structural Cross-Section Data:) Tj
+T*
+(   This problem investigates the geometric properties of civil engineering section 14.) Tj
+T*
+(   Parameters: Component dimensions, material interfaces, and reference axes established.) Tj
+T*
+ET
+
+endstream
+endobj
+41 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 42 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+42 0 obj
+<< /Length 3898 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 3: CENTROID & MOMENT OF INERTIA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 20 of 27) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   2. Centroidal Coordinate Calculations \(x_bar, y_bar\):) Tj
+T*
+(   Subdivide into standardized sub-areas: A1, A2, A3 with local centroids \(x1, y1\), \(x2, y2\).) Tj
+T*
+(   Total Area A = Sigma\(Ai\).) Tj
+T*
+(   First moment of area: Q_y = Sigma\(Ai * xi\), Q_x = Sigma\(Ai * yi\).) Tj
+T*
+(   Centroidal coordinates: x_bar = Q_y / A, y_bar = Q_x / A.) Tj
+T*
+() Tj
+T*
+(   3. Application of Parallel Axis Theorem for Moments of Inertia:) Tj
+T*
+(   For each element: I_xxi = I_Gi + Ai * \(yi - y_bar\)^2; I_yyi = I_Gi + Ai * \(xi - x_bar\)^2.) Tj
+T*
+(   Summation yields combined section properties: I_xx = Sigma\(I_xxi\), I_yy = Sigma\(I_yyi\).) Tj
+T*
+(   Polar moment of inertia: J = I_xx + I_yy; Radii of gyration: k_xx = sqrt\(I_xx / A\), k_yy =) Tj
+T*
+(   sqrt\(I_yy / A\).) Tj
+T*
+() Tj
+T*
+(   4. Flexural Section Modulus & Design Implications:) Tj
+T*
+(   Section modulus Z = I / y_max governs bending stress sigma = M / Z under civil design codes.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 15:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze the cross-sectional geometry, centroid, and moment of inertia for structural engineering problem 15.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Definition & Structural Cross-Section Data:) Tj
+T*
+(   This problem investigates the geometric properties of civil engineering section 15.) Tj
+T*
+(   Parameters: Component dimensions, material interfaces, and reference axes established.) Tj
+T*
+() Tj
+T*
+(   2. Centroidal Coordinate Calculations \(x_bar, y_bar\):) Tj
+T*
+(   Subdivide into standardized sub-areas: A1, A2, A3 with local centroids \(x1, y1\), \(x2, y2\).) Tj
+T*
+(   Total Area A = Sigma\(Ai\).) Tj
+T*
+(   First moment of area: Q_y = Sigma\(Ai * xi\), Q_x = Sigma\(Ai * yi\).) Tj
+T*
+(   Centroidal coordinates: x_bar = Q_y / A, y_bar = Q_x / A.) Tj
+T*
+() Tj
+T*
+(   3. Application of Parallel Axis Theorem for Moments of Inertia:) Tj
+T*
+(   For each element: I_xxi = I_Gi + Ai * \(yi - y_bar\)^2; I_yyi = I_Gi + Ai * \(xi - x_bar\)^2.) Tj
+T*
+(   Summation yields combined section properties: I_xx = Sigma\(I_xxi\), I_yy = Sigma\(I_yyi\).) Tj
+T*
+(   Polar moment of inertia: J = I_xx + I_yy; Radii of gyration: k_xx = sqrt\(I_xx / A\), k_yy =) Tj
+T*
+(   sqrt\(I_yy / A\).) Tj
+T*
+() Tj
+T*
+(   4. Flexural Section Modulus & Design Implications:) Tj
+T*
+(   Section modulus Z = I / y_max governs bending stress sigma = M / Z under civil design codes.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 16:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze the cross-sectional geometry, centroid, and moment of inertia for structural engineering problem 16.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Definition & Structural Cross-Section Data:) Tj
+T*
+(   This problem investigates the geometric properties of civil engineering section 16.) Tj
+T*
+(   Parameters: Component dimensions, material interfaces, and reference axes established.) Tj
+T*
+() Tj
+T*
+(   2. Centroidal Coordinate Calculations \(x_bar, y_bar\):) Tj
+T*
+(   Subdivide into standardized sub-areas: A1, A2, A3 with local centroids \(x1, y1\), \(x2, y2\).) Tj
+T*
+(   Total Area A = Sigma\(Ai\).) Tj
+T*
+(   First moment of area: Q_y = Sigma\(Ai * xi\), Q_x = Sigma\(Ai * yi\).) Tj
+T*
+(   Centroidal coordinates: x_bar = Q_y / A, y_bar = Q_x / A.) Tj
+T*
+ET
+
+endstream
+endobj
+43 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 44 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+44 0 obj
+<< /Length 3952 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 3: CENTROID & MOMENT OF INERTIA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 21 of 27) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   3. Application of Parallel Axis Theorem for Moments of Inertia:) Tj
+T*
+(   For each element: I_xxi = I_Gi + Ai * \(yi - y_bar\)^2; I_yyi = I_Gi + Ai * \(xi - x_bar\)^2.) Tj
+T*
+(   Summation yields combined section properties: I_xx = Sigma\(I_xxi\), I_yy = Sigma\(I_yyi\).) Tj
+T*
+(   Polar moment of inertia: J = I_xx + I_yy; Radii of gyration: k_xx = sqrt\(I_xx / A\), k_yy =) Tj
+T*
+(   sqrt\(I_yy / A\).) Tj
+T*
+() Tj
+T*
+(   4. Flexural Section Modulus & Design Implications:) Tj
+T*
+(   Section modulus Z = I / y_max governs bending stress sigma = M / Z under civil design codes.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 17:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze the cross-sectional geometry, centroid, and moment of inertia for structural engineering problem 17.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Definition & Structural Cross-Section Data:) Tj
+T*
+(   This problem investigates the geometric properties of civil engineering section 17.) Tj
+T*
+(   Parameters: Component dimensions, material interfaces, and reference axes established.) Tj
+T*
+() Tj
+T*
+(   2. Centroidal Coordinate Calculations \(x_bar, y_bar\):) Tj
+T*
+(   Subdivide into standardized sub-areas: A1, A2, A3 with local centroids \(x1, y1\), \(x2, y2\).) Tj
+T*
+(   Total Area A = Sigma\(Ai\).) Tj
+T*
+(   First moment of area: Q_y = Sigma\(Ai * xi\), Q_x = Sigma\(Ai * yi\).) Tj
+T*
+(   Centroidal coordinates: x_bar = Q_y / A, y_bar = Q_x / A.) Tj
+T*
+() Tj
+T*
+(   3. Application of Parallel Axis Theorem for Moments of Inertia:) Tj
+T*
+(   For each element: I_xxi = I_Gi + Ai * \(yi - y_bar\)^2; I_yyi = I_Gi + Ai * \(xi - x_bar\)^2.) Tj
+T*
+(   Summation yields combined section properties: I_xx = Sigma\(I_xxi\), I_yy = Sigma\(I_yyi\).) Tj
+T*
+(   Polar moment of inertia: J = I_xx + I_yy; Radii of gyration: k_xx = sqrt\(I_xx / A\), k_yy =) Tj
+T*
+(   sqrt\(I_yy / A\).) Tj
+T*
+() Tj
+T*
+(   4. Flexural Section Modulus & Design Implications:) Tj
+T*
+(   Section modulus Z = I / y_max governs bending stress sigma = M / Z under civil design codes.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 18:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze the cross-sectional geometry, centroid, and moment of inertia for structural engineering problem 18.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Definition & Structural Cross-Section Data:) Tj
+T*
+(   This problem investigates the geometric properties of civil engineering section 18.) Tj
+T*
+(   Parameters: Component dimensions, material interfaces, and reference axes established.) Tj
+T*
+() Tj
+T*
+(   2. Centroidal Coordinate Calculations \(x_bar, y_bar\):) Tj
+T*
+(   Subdivide into standardized sub-areas: A1, A2, A3 with local centroids \(x1, y1\), \(x2, y2\).) Tj
+T*
+(   Total Area A = Sigma\(Ai\).) Tj
+T*
+(   First moment of area: Q_y = Sigma\(Ai * xi\), Q_x = Sigma\(Ai * yi\).) Tj
+T*
+(   Centroidal coordinates: x_bar = Q_y / A, y_bar = Q_x / A.) Tj
+T*
+() Tj
+T*
+(   3. Application of Parallel Axis Theorem for Moments of Inertia:) Tj
+T*
+(   For each element: I_xxi = I_Gi + Ai * \(yi - y_bar\)^2; I_yyi = I_Gi + Ai * \(xi - x_bar\)^2.) Tj
+T*
+(   Summation yields combined section properties: I_xx = Sigma\(I_xxi\), I_yy = Sigma\(I_yyi\).) Tj
+T*
+(   Polar moment of inertia: J = I_xx + I_yy; Radii of gyration: k_xx = sqrt\(I_xx / A\), k_yy =) Tj
+T*
+(   sqrt\(I_yy / A\).) Tj
+T*
+ET
+
+endstream
+endobj
+45 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 46 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+46 0 obj
+<< /Length 3809 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 3: CENTROID & MOMENT OF INERTIA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 22 of 27) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   4. Flexural Section Modulus & Design Implications:) Tj
+T*
+(   Section modulus Z = I / y_max governs bending stress sigma = M / Z under civil design codes.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 19:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze the cross-sectional geometry, centroid, and moment of inertia for structural engineering problem 19.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Definition & Structural Cross-Section Data:) Tj
+T*
+(   This problem investigates the geometric properties of civil engineering section 19.) Tj
+T*
+(   Parameters: Component dimensions, material interfaces, and reference axes established.) Tj
+T*
+() Tj
+T*
+(   2. Centroidal Coordinate Calculations \(x_bar, y_bar\):) Tj
+T*
+(   Subdivide into standardized sub-areas: A1, A2, A3 with local centroids \(x1, y1\), \(x2, y2\).) Tj
+T*
+(   Total Area A = Sigma\(Ai\).) Tj
+T*
+(   First moment of area: Q_y = Sigma\(Ai * xi\), Q_x = Sigma\(Ai * yi\).) Tj
+T*
+(   Centroidal coordinates: x_bar = Q_y / A, y_bar = Q_x / A.) Tj
+T*
+() Tj
+T*
+(   3. Application of Parallel Axis Theorem for Moments of Inertia:) Tj
+T*
+(   For each element: I_xxi = I_Gi + Ai * \(yi - y_bar\)^2; I_yyi = I_Gi + Ai * \(xi - x_bar\)^2.) Tj
+T*
+(   Summation yields combined section properties: I_xx = Sigma\(I_xxi\), I_yy = Sigma\(I_yyi\).) Tj
+T*
+(   Polar moment of inertia: J = I_xx + I_yy; Radii of gyration: k_xx = sqrt\(I_xx / A\), k_yy =) Tj
+T*
+(   sqrt\(I_yy / A\).) Tj
+T*
+() Tj
+T*
+(   4. Flexural Section Modulus & Design Implications:) Tj
+T*
+(   Section modulus Z = I / y_max governs bending stress sigma = M / Z under civil design codes.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 20:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze the cross-sectional geometry, centroid, and moment of inertia for structural engineering problem 20.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Definition & Structural Cross-Section Data:) Tj
+T*
+(   This problem investigates the geometric properties of civil engineering section 20.) Tj
+T*
+(   Parameters: Component dimensions, material interfaces, and reference axes established.) Tj
+T*
+() Tj
+T*
+(   2. Centroidal Coordinate Calculations \(x_bar, y_bar\):) Tj
+T*
+(   Subdivide into standardized sub-areas: A1, A2, A3 with local centroids \(x1, y1\), \(x2, y2\).) Tj
+T*
+(   Total Area A = Sigma\(Ai\).) Tj
+T*
+(   First moment of area: Q_y = Sigma\(Ai * xi\), Q_x = Sigma\(Ai * yi\).) Tj
+T*
+(   Centroidal coordinates: x_bar = Q_y / A, y_bar = Q_x / A.) Tj
+T*
+() Tj
+T*
+(   3. Application of Parallel Axis Theorem for Moments of Inertia:) Tj
+T*
+(   For each element: I_xxi = I_Gi + Ai * \(yi - y_bar\)^2; I_yyi = I_Gi + Ai * \(xi - x_bar\)^2.) Tj
+T*
+(   Summation yields combined section properties: I_xx = Sigma\(I_xxi\), I_yy = Sigma\(I_yyi\).) Tj
+T*
+(   Polar moment of inertia: J = I_xx + I_yy; Radii of gyration: k_xx = sqrt\(I_xx / A\), k_yy =) Tj
+T*
+(   sqrt\(I_yy / A\).) Tj
+T*
+() Tj
+T*
+(   4. Flexural Section Modulus & Design Implications:) Tj
+T*
+(   Section modulus Z = I / y_max governs bending stress sigma = M / Z under civil design codes.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+47 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 48 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+48 0 obj
+<< /Length 4056 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 3: CENTROID & MOMENT OF INERTIA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 23 of 27) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 21:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze the cross-sectional geometry, centroid, and moment of inertia for structural engineering problem 21.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Definition & Structural Cross-Section Data:) Tj
+T*
+(   This problem investigates the geometric properties of civil engineering section 21.) Tj
+T*
+(   Parameters: Component dimensions, material interfaces, and reference axes established.) Tj
+T*
+() Tj
+T*
+(   2. Centroidal Coordinate Calculations \(x_bar, y_bar\):) Tj
+T*
+(   Subdivide into standardized sub-areas: A1, A2, A3 with local centroids \(x1, y1\), \(x2, y2\).) Tj
+T*
+(   Total Area A = Sigma\(Ai\).) Tj
+T*
+(   First moment of area: Q_y = Sigma\(Ai * xi\), Q_x = Sigma\(Ai * yi\).) Tj
+T*
+(   Centroidal coordinates: x_bar = Q_y / A, y_bar = Q_x / A.) Tj
+T*
+() Tj
+T*
+(   3. Application of Parallel Axis Theorem for Moments of Inertia:) Tj
+T*
+(   For each element: I_xxi = I_Gi + Ai * \(yi - y_bar\)^2; I_yyi = I_Gi + Ai * \(xi - x_bar\)^2.) Tj
+T*
+(   Summation yields combined section properties: I_xx = Sigma\(I_xxi\), I_yy = Sigma\(I_yyi\).) Tj
+T*
+(   Polar moment of inertia: J = I_xx + I_yy; Radii of gyration: k_xx = sqrt\(I_xx / A\), k_yy =) Tj
+T*
+(   sqrt\(I_yy / A\).) Tj
+T*
+() Tj
+T*
+(   4. Flexural Section Modulus & Design Implications:) Tj
+T*
+(   Section modulus Z = I / y_max governs bending stress sigma = M / Z under civil design codes.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 22:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze the cross-sectional geometry, centroid, and moment of inertia for structural engineering problem 22.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Definition & Structural Cross-Section Data:) Tj
+T*
+(   This problem investigates the geometric properties of civil engineering section 22.) Tj
+T*
+(   Parameters: Component dimensions, material interfaces, and reference axes established.) Tj
+T*
+() Tj
+T*
+(   2. Centroidal Coordinate Calculations \(x_bar, y_bar\):) Tj
+T*
+(   Subdivide into standardized sub-areas: A1, A2, A3 with local centroids \(x1, y1\), \(x2, y2\).) Tj
+T*
+(   Total Area A = Sigma\(Ai\).) Tj
+T*
+(   First moment of area: Q_y = Sigma\(Ai * xi\), Q_x = Sigma\(Ai * yi\).) Tj
+T*
+(   Centroidal coordinates: x_bar = Q_y / A, y_bar = Q_x / A.) Tj
+T*
+() Tj
+T*
+(   3. Application of Parallel Axis Theorem for Moments of Inertia:) Tj
+T*
+(   For each element: I_xxi = I_Gi + Ai * \(yi - y_bar\)^2; I_yyi = I_Gi + Ai * \(xi - x_bar\)^2.) Tj
+T*
+(   Summation yields combined section properties: I_xx = Sigma\(I_xxi\), I_yy = Sigma\(I_yyi\).) Tj
+T*
+(   Polar moment of inertia: J = I_xx + I_yy; Radii of gyration: k_xx = sqrt\(I_xx / A\), k_yy =) Tj
+T*
+(   sqrt\(I_yy / A\).) Tj
+T*
+() Tj
+T*
+(   4. Flexural Section Modulus & Design Implications:) Tj
+T*
+(   Section modulus Z = I / y_max governs bending stress sigma = M / Z under civil design codes.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 23:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze the cross-sectional geometry, centroid, and moment of inertia for structural engineering problem 23.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Definition & Structural Cross-Section Data:) Tj
+T*
+(   This problem investigates the geometric properties of civil engineering section 23.) Tj
+T*
+(   Parameters: Component dimensions, material interfaces, and reference axes established.) Tj
+T*
+ET
+
+endstream
+endobj
+49 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 50 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+50 0 obj
+<< /Length 3898 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 3: CENTROID & MOMENT OF INERTIA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 24 of 27) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   2. Centroidal Coordinate Calculations \(x_bar, y_bar\):) Tj
+T*
+(   Subdivide into standardized sub-areas: A1, A2, A3 with local centroids \(x1, y1\), \(x2, y2\).) Tj
+T*
+(   Total Area A = Sigma\(Ai\).) Tj
+T*
+(   First moment of area: Q_y = Sigma\(Ai * xi\), Q_x = Sigma\(Ai * yi\).) Tj
+T*
+(   Centroidal coordinates: x_bar = Q_y / A, y_bar = Q_x / A.) Tj
+T*
+() Tj
+T*
+(   3. Application of Parallel Axis Theorem for Moments of Inertia:) Tj
+T*
+(   For each element: I_xxi = I_Gi + Ai * \(yi - y_bar\)^2; I_yyi = I_Gi + Ai * \(xi - x_bar\)^2.) Tj
+T*
+(   Summation yields combined section properties: I_xx = Sigma\(I_xxi\), I_yy = Sigma\(I_yyi\).) Tj
+T*
+(   Polar moment of inertia: J = I_xx + I_yy; Radii of gyration: k_xx = sqrt\(I_xx / A\), k_yy =) Tj
+T*
+(   sqrt\(I_yy / A\).) Tj
+T*
+() Tj
+T*
+(   4. Flexural Section Modulus & Design Implications:) Tj
+T*
+(   Section modulus Z = I / y_max governs bending stress sigma = M / Z under civil design codes.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 24:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze the cross-sectional geometry, centroid, and moment of inertia for structural engineering problem 24.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Definition & Structural Cross-Section Data:) Tj
+T*
+(   This problem investigates the geometric properties of civil engineering section 24.) Tj
+T*
+(   Parameters: Component dimensions, material interfaces, and reference axes established.) Tj
+T*
+() Tj
+T*
+(   2. Centroidal Coordinate Calculations \(x_bar, y_bar\):) Tj
+T*
+(   Subdivide into standardized sub-areas: A1, A2, A3 with local centroids \(x1, y1\), \(x2, y2\).) Tj
+T*
+(   Total Area A = Sigma\(Ai\).) Tj
+T*
+(   First moment of area: Q_y = Sigma\(Ai * xi\), Q_x = Sigma\(Ai * yi\).) Tj
+T*
+(   Centroidal coordinates: x_bar = Q_y / A, y_bar = Q_x / A.) Tj
+T*
+() Tj
+T*
+(   3. Application of Parallel Axis Theorem for Moments of Inertia:) Tj
+T*
+(   For each element: I_xxi = I_Gi + Ai * \(yi - y_bar\)^2; I_yyi = I_Gi + Ai * \(xi - x_bar\)^2.) Tj
+T*
+(   Summation yields combined section properties: I_xx = Sigma\(I_xxi\), I_yy = Sigma\(I_yyi\).) Tj
+T*
+(   Polar moment of inertia: J = I_xx + I_yy; Radii of gyration: k_xx = sqrt\(I_xx / A\), k_yy =) Tj
+T*
+(   sqrt\(I_yy / A\).) Tj
+T*
+() Tj
+T*
+(   4. Flexural Section Modulus & Design Implications:) Tj
+T*
+(   Section modulus Z = I / y_max governs bending stress sigma = M / Z under civil design codes.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 25:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze the cross-sectional geometry, centroid, and moment of inertia for structural engineering problem 25.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Definition & Structural Cross-Section Data:) Tj
+T*
+(   This problem investigates the geometric properties of civil engineering section 25.) Tj
+T*
+(   Parameters: Component dimensions, material interfaces, and reference axes established.) Tj
+T*
+() Tj
+T*
+(   2. Centroidal Coordinate Calculations \(x_bar, y_bar\):) Tj
+T*
+(   Subdivide into standardized sub-areas: A1, A2, A3 with local centroids \(x1, y1\), \(x2, y2\).) Tj
+T*
+(   Total Area A = Sigma\(Ai\).) Tj
+T*
+(   First moment of area: Q_y = Sigma\(Ai * xi\), Q_x = Sigma\(Ai * yi\).) Tj
+T*
+(   Centroidal coordinates: x_bar = Q_y / A, y_bar = Q_x / A.) Tj
+T*
+ET
+
+endstream
+endobj
+51 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 52 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+52 0 obj
+<< /Length 3952 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 3: CENTROID & MOMENT OF INERTIA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 25 of 27) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   3. Application of Parallel Axis Theorem for Moments of Inertia:) Tj
+T*
+(   For each element: I_xxi = I_Gi + Ai * \(yi - y_bar\)^2; I_yyi = I_Gi + Ai * \(xi - x_bar\)^2.) Tj
+T*
+(   Summation yields combined section properties: I_xx = Sigma\(I_xxi\), I_yy = Sigma\(I_yyi\).) Tj
+T*
+(   Polar moment of inertia: J = I_xx + I_yy; Radii of gyration: k_xx = sqrt\(I_xx / A\), k_yy =) Tj
+T*
+(   sqrt\(I_yy / A\).) Tj
+T*
+() Tj
+T*
+(   4. Flexural Section Modulus & Design Implications:) Tj
+T*
+(   Section modulus Z = I / y_max governs bending stress sigma = M / Z under civil design codes.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 26:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze the cross-sectional geometry, centroid, and moment of inertia for structural engineering problem 26.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Definition & Structural Cross-Section Data:) Tj
+T*
+(   This problem investigates the geometric properties of civil engineering section 26.) Tj
+T*
+(   Parameters: Component dimensions, material interfaces, and reference axes established.) Tj
+T*
+() Tj
+T*
+(   2. Centroidal Coordinate Calculations \(x_bar, y_bar\):) Tj
+T*
+(   Subdivide into standardized sub-areas: A1, A2, A3 with local centroids \(x1, y1\), \(x2, y2\).) Tj
+T*
+(   Total Area A = Sigma\(Ai\).) Tj
+T*
+(   First moment of area: Q_y = Sigma\(Ai * xi\), Q_x = Sigma\(Ai * yi\).) Tj
+T*
+(   Centroidal coordinates: x_bar = Q_y / A, y_bar = Q_x / A.) Tj
+T*
+() Tj
+T*
+(   3. Application of Parallel Axis Theorem for Moments of Inertia:) Tj
+T*
+(   For each element: I_xxi = I_Gi + Ai * \(yi - y_bar\)^2; I_yyi = I_Gi + Ai * \(xi - x_bar\)^2.) Tj
+T*
+(   Summation yields combined section properties: I_xx = Sigma\(I_xxi\), I_yy = Sigma\(I_yyi\).) Tj
+T*
+(   Polar moment of inertia: J = I_xx + I_yy; Radii of gyration: k_xx = sqrt\(I_xx / A\), k_yy =) Tj
+T*
+(   sqrt\(I_yy / A\).) Tj
+T*
+() Tj
+T*
+(   4. Flexural Section Modulus & Design Implications:) Tj
+T*
+(   Section modulus Z = I / y_max governs bending stress sigma = M / Z under civil design codes.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 27:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze the cross-sectional geometry, centroid, and moment of inertia for structural engineering problem 27.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Definition & Structural Cross-Section Data:) Tj
+T*
+(   This problem investigates the geometric properties of civil engineering section 27.) Tj
+T*
+(   Parameters: Component dimensions, material interfaces, and reference axes established.) Tj
+T*
+() Tj
+T*
+(   2. Centroidal Coordinate Calculations \(x_bar, y_bar\):) Tj
+T*
+(   Subdivide into standardized sub-areas: A1, A2, A3 with local centroids \(x1, y1\), \(x2, y2\).) Tj
+T*
+(   Total Area A = Sigma\(Ai\).) Tj
+T*
+(   First moment of area: Q_y = Sigma\(Ai * xi\), Q_x = Sigma\(Ai * yi\).) Tj
+T*
+(   Centroidal coordinates: x_bar = Q_y / A, y_bar = Q_x / A.) Tj
+T*
+() Tj
+T*
+(   3. Application of Parallel Axis Theorem for Moments of Inertia:) Tj
+T*
+(   For each element: I_xxi = I_Gi + Ai * \(yi - y_bar\)^2; I_yyi = I_Gi + Ai * \(xi - x_bar\)^2.) Tj
+T*
+(   Summation yields combined section properties: I_xx = Sigma\(I_xxi\), I_yy = Sigma\(I_yyi\).) Tj
+T*
+(   Polar moment of inertia: J = I_xx + I_yy; Radii of gyration: k_xx = sqrt\(I_xx / A\), k_yy =) Tj
+T*
+(   sqrt\(I_yy / A\).) Tj
+T*
+ET
+
+endstream
+endobj
+53 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 54 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+54 0 obj
+<< /Length 3809 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 3: CENTROID & MOMENT OF INERTIA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 26 of 27) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   4. Flexural Section Modulus & Design Implications:) Tj
+T*
+(   Section modulus Z = I / y_max governs bending stress sigma = M / Z under civil design codes.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 28:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze the cross-sectional geometry, centroid, and moment of inertia for structural engineering problem 28.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Definition & Structural Cross-Section Data:) Tj
+T*
+(   This problem investigates the geometric properties of civil engineering section 28.) Tj
+T*
+(   Parameters: Component dimensions, material interfaces, and reference axes established.) Tj
+T*
+() Tj
+T*
+(   2. Centroidal Coordinate Calculations \(x_bar, y_bar\):) Tj
+T*
+(   Subdivide into standardized sub-areas: A1, A2, A3 with local centroids \(x1, y1\), \(x2, y2\).) Tj
+T*
+(   Total Area A = Sigma\(Ai\).) Tj
+T*
+(   First moment of area: Q_y = Sigma\(Ai * xi\), Q_x = Sigma\(Ai * yi\).) Tj
+T*
+(   Centroidal coordinates: x_bar = Q_y / A, y_bar = Q_x / A.) Tj
+T*
+() Tj
+T*
+(   3. Application of Parallel Axis Theorem for Moments of Inertia:) Tj
+T*
+(   For each element: I_xxi = I_Gi + Ai * \(yi - y_bar\)^2; I_yyi = I_Gi + Ai * \(xi - x_bar\)^2.) Tj
+T*
+(   Summation yields combined section properties: I_xx = Sigma\(I_xxi\), I_yy = Sigma\(I_yyi\).) Tj
+T*
+(   Polar moment of inertia: J = I_xx + I_yy; Radii of gyration: k_xx = sqrt\(I_xx / A\), k_yy =) Tj
+T*
+(   sqrt\(I_yy / A\).) Tj
+T*
+() Tj
+T*
+(   4. Flexural Section Modulus & Design Implications:) Tj
+T*
+(   Section modulus Z = I / y_max governs bending stress sigma = M / Z under civil design codes.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 29:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze the cross-sectional geometry, centroid, and moment of inertia for structural engineering problem 29.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Definition & Structural Cross-Section Data:) Tj
+T*
+(   This problem investigates the geometric properties of civil engineering section 29.) Tj
+T*
+(   Parameters: Component dimensions, material interfaces, and reference axes established.) Tj
+T*
+() Tj
+T*
+(   2. Centroidal Coordinate Calculations \(x_bar, y_bar\):) Tj
+T*
+(   Subdivide into standardized sub-areas: A1, A2, A3 with local centroids \(x1, y1\), \(x2, y2\).) Tj
+T*
+(   Total Area A = Sigma\(Ai\).) Tj
+T*
+(   First moment of area: Q_y = Sigma\(Ai * xi\), Q_x = Sigma\(Ai * yi\).) Tj
+T*
+(   Centroidal coordinates: x_bar = Q_y / A, y_bar = Q_x / A.) Tj
+T*
+() Tj
+T*
+(   3. Application of Parallel Axis Theorem for Moments of Inertia:) Tj
+T*
+(   For each element: I_xxi = I_Gi + Ai * \(yi - y_bar\)^2; I_yyi = I_Gi + Ai * \(xi - x_bar\)^2.) Tj
+T*
+(   Summation yields combined section properties: I_xx = Sigma\(I_xxi\), I_yy = Sigma\(I_yyi\).) Tj
+T*
+(   Polar moment of inertia: J = I_xx + I_yy; Radii of gyration: k_xx = sqrt\(I_xx / A\), k_yy =) Tj
+T*
+(   sqrt\(I_yy / A\).) Tj
+T*
+() Tj
+T*
+(   4. Flexural Section Modulus & Design Implications:) Tj
+T*
+(   Section modulus Z = I / y_max governs bending stress sigma = M / Z under civil design codes.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+55 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 56 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+56 0 obj
+<< /Length 1920 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MECHANICS | UNIT 3: CENTROID & MOMENT OF INERTIA) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 27 of 27) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 30:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze the cross-sectional geometry, centroid, and moment of inertia for structural engineering problem 30.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Definition & Structural Cross-Section Data:) Tj
+T*
+(   This problem investigates the geometric properties of civil engineering section 30.) Tj
+T*
+(   Parameters: Component dimensions, material interfaces, and reference axes established.) Tj
+T*
+() Tj
+T*
+(   2. Centroidal Coordinate Calculations \(x_bar, y_bar\):) Tj
+T*
+(   Subdivide into standardized sub-areas: A1, A2, A3 with local centroids \(x1, y1\), \(x2, y2\).) Tj
+T*
+(   Total Area A = Sigma\(Ai\).) Tj
+T*
+(   First moment of area: Q_y = Sigma\(Ai * xi\), Q_x = Sigma\(Ai * yi\).) Tj
+T*
+(   Centroidal coordinates: x_bar = Q_y / A, y_bar = Q_x / A.) Tj
+T*
+() Tj
+T*
+(   3. Application of Parallel Axis Theorem for Moments of Inertia:) Tj
+T*
+(   For each element: I_xxi = I_Gi + Ai * \(yi - y_bar\)^2; I_yyi = I_Gi + Ai * \(xi - x_bar\)^2.) Tj
+T*
+(   Summation yields combined section properties: I_xx = Sigma\(I_xxi\), I_yy = Sigma\(I_yyi\).) Tj
+T*
+(   Polar moment of inertia: J = I_xx + I_yy; Radii of gyration: k_xx = sqrt\(I_xx / A\), k_yy =) Tj
+T*
+(   sqrt\(I_yy / A\).) Tj
+T*
+() Tj
+T*
+(   4. Flexural Section Modulus & Design Implications:) Tj
+T*
+(   Section modulus Z = I / y_max governs bending stress sigma = M / Z under civil design codes.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+57 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+58 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+xref
+0 59
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000295 00000 n 
+0000000439 00000 n 
+0000009878 00000 n 
+0000010022 00000 n 
+0000018796 00000 n 
+0000018940 00000 n 
+0000028009 00000 n 
+0000028154 00000 n 
+0000036963 00000 n 
+0000037109 00000 n 
+0000046396 00000 n 
+0000046542 00000 n 
+0000055496 00000 n 
+0000055642 00000 n 
+0000064984 00000 n 
+0000065130 00000 n 
+0000066741 00000 n 
+0000066887 00000 n 
+0000072291 00000 n 
+0000072437 00000 n 
+0000074908 00000 n 
+0000075054 00000 n 
+0000083526 00000 n 
+0000083672 00000 n 
+0000088398 00000 n 
+0000088544 00000 n 
+0000092353 00000 n 
+0000092499 00000 n 
+0000096406 00000 n 
+0000096552 00000 n 
+0000100396 00000 n 
+0000100542 00000 n 
+0000104660 00000 n 
+0000104806 00000 n 
+0000108663 00000 n 
+0000108809 00000 n 
+0000112857 00000 n 
+0000113003 00000 n 
+0000117112 00000 n 
+0000117258 00000 n 
+0000121209 00000 n 
+0000121355 00000 n 
+0000125360 00000 n 
+0000125506 00000 n 
+0000129368 00000 n 
+0000129514 00000 n 
+0000133623 00000 n 
+0000133769 00000 n 
+0000137720 00000 n 
+0000137866 00000 n 
+0000141871 00000 n 
+0000142017 00000 n 
+0000145879 00000 n 
+0000146025 00000 n 
+0000147998 00000 n 
+0000148096 00000 n 
+trailer
+<< /Size 59 /Root 1 0 R >>
+startxref
+148199
+%%EOF

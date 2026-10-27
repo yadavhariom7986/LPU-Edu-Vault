@@ -1,0 +1,608 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 3110 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mathematics - I | Unit 4: Multivariate Calculus & Extrema) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 1 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(=== UNIT 4: MULTIVARIATE DIFFERENTIAL CALCULUS, JACOBIANS & EXTREMA ===) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.1 Partial Derivatives and Euler's Theorem on Homogeneous Functions) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Engineering systems typically involve multivariable response surfaces where functions) Tj
+T*
+(depend on several independent physical variables z = f\(x, y\).) Tj
+T*
+(* Partial Derivatives: The partial derivative dz/dx is evaluated by differentiating) Tj
+T*
+(with respect to x while treating y strictly as a constant. Higher-order mixed) Tj
+T*
+(partials satisfy Clairaut's / Schwarz's Theorem: d^2z / \(dx dy\) = d^2z / \(dy dx\) if) Tj
+T*
+(partial derivatives are continuous.) Tj
+T*
+(* Homogeneous Functions: A function f\(x, y\) is homogeneous of degree n if f\(t*x, t*y\)) Tj
+T*
+(= t^n * f\(x, y\) for all scalars t > 0.) Tj
+T*
+(* Euler's Theorem for Homogeneous Functions:) Tj
+T*
+(If u = f\(x, y\) is a homogeneous function of x and y of degree n having continuous) Tj
+T*
+(partial derivatives, then:) Tj
+T*
+(x * \(du/dx\) + y * \(du/dy\) = n * u.) Tj
+T*
+(* Second Order Extension of Euler's Theorem:) Tj
+T*
+(x^2 * \(d^2u / dx^2\) + 2*x*y * \(d^2u / \(dx dy\)\) + y^2 * \(d^2u / dy^2\) = n * \(n - 1\) * u.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.2 Total Differential and Chain Rule) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Total Differential \(dz\): For z = f\(x, y\), dz = \(dz/dx\) dx + \(dz/dy\) dy. Quantifies) Tj
+T*
+(the first-order linear approximation of change delta z due to small increments delta) Tj
+T*
+(x and delta y.) Tj
+T*
+(* Chain Rule for Composite Functions: If z = f\(u, v\) where u = phi\(x, y\) and v =) Tj
+T*
+(psi\(x, y\):) Tj
+T*
+(dz/dx = \(dz/du\)*\(du/dx\) + \(dz/dv\)*\(dv/dx\)) Tj
+T*
+(dz/dy = \(dz/du\)*\(du/dy\) + \(dz/dv\)*\(dv/dy\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.3 Jacobians and Functional Transformations) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Definition of Jacobian: If u = u\(x, y\) and v = v\(x, y\) are two differentiable) Tj
+T*
+(functions, the Jacobian of \(u, v\) with respect to \(x, y\), denoted J = d\(u, v\) / d\(x,) Tj
+T*
+(y\), is the determinant:) Tj
+T*
+(J = det\([ du/dx du/dy ; dv/dx dv/dy ]\) = \(du/dx\)*\(dv/dy\) - \(du/dy\)*\(dv/dx\).) Tj
+T*
+(* Fundamental Properties of Jacobians:) Tj
+T*
+(1. Reciprocal Property: J * J' = 1, where J = d\(u, v\)/d\(x, y\) and J' = d\(x, y\)/d\(u, v\).) Tj
+T*
+(2. Chain Rule Property: If u, v are functions of r, s, and r, s are functions of x, y,) Tj
+T*
+(then d\(u, v\)/d\(x, y\) = [ d\(u, v\)/d\(r, s\) ] * [ d\(r, s\)/d\(x, y\) ].) Tj
+T*
+(3. Functional Dependence Test: Two functions u\(x, y\) and v\(x, y\) are functionally) Tj
+T*
+(dependent \(i.e., there exists a relation F\(u, v\) = 0\) if and only if their Jacobian) Tj
+T*
+(identically vanishes: d\(u, v\) / d\(x, y\) = 0.) Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 3289 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mathematics - I | Unit 4: Multivariate Calculus & Extrema) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 2 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.4 Maxima and Minima of Functions of Two Variables) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Critical Points: Points \(a, b\) where both first partial derivatives vanish) Tj
+T*
+(simultaneously: fx\(a, b\) = 0 and fy\(a, b\) = 0.) Tj
+T*
+(* Second Derivative Test: Compute second partial derivatives at \(a, b\):) Tj
+T*
+(r = fxx = d^2f / dx^2, s = fxy = d^2f / \(dx dy\), t = fyy = d^2f / dy^2.) Tj
+T*
+(Discriminant: Delta = r * t - s^2.) Tj
+T*
+(1. Local Minimum: If Delta > 0 and r > 0.) Tj
+T*
+(2. Local Maximum: If Delta > 0 and r < 0.) Tj
+T*
+(3. Saddle Point \(Neither Max nor Min\): If Delta < 0.) Tj
+T*
+(4. Inconclusive Test: If Delta = 0 \(higher order investigations required\).) Tj
+T*
+(* Lagrange's Method of Undetermined Multipliers: To find extrema of f\(x, y, z\)) Tj
+T*
+(subject to constraint phi\(x, y, z\) = 0:) Tj
+T*
+(Construct auxiliary Lagrange function L\(x, y, z, lambda\) = f\(x, y, z\) + lambda * phi\(x,) Tj
+T*
+(y, z\).) Tj
+T*
+(Solve the system of 4 equations: dL/dx = 0, dL/dy = 0, dL/dz = 0, dL/d\(lambda\) = phi\(x,) Tj
+T*
+(y, z\) = 0.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([SOLVED PROBLEM 1: Application of Euler's Theorem to Non-Homogeneous Formulation]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: If u = arcsin\([ x + y ] / [ sqrt\(x\) + sqrt\(y\) ]\), prove that x*\(du/dx\) +) Tj
+T*
+(y*\(du/dy\) = \(1/2\) * tan\(u\).) Tj
+T*
+(Solution Step 1: Let z = sin\(u\) = [ x + y ] / [ sqrt\(x\) + sqrt\(y\) ].) Tj
+T*
+(Solution Step 2: Determine homogeneity and degree of z:) Tj
+T*
+(Numerator N\(x, y\) = x + y is homogeneous of degree 1.) Tj
+T*
+(Denominator D\(x, y\) = sqrt\(x\) + sqrt\(y\) is homogeneous of degree 1/2.) Tj
+T*
+(z\(tx, ty\) = [ tx + ty ] / [ sqrt\(tx\) + sqrt\(ty\) ] = [ t*\(x + y\) ] / [ t^{1/2}*\(sqrt\(x\) +) Tj
+T*
+(sqrt\(y\)\) ]) Tj
+T*
+(= t^{1 - 1/2} * z\(x, y\) = t^{1/2} * z\(x, y\).) Tj
+T*
+(Thus, z is a homogeneous function of x and y of degree n = 1/2.) Tj
+T*
+(Solution Step 3: Apply Euler's Theorem to z:) Tj
+T*
+(x * \(dz/dx\) + y * \(dz/dy\) = n * z = \(1/2\) * z.) Tj
+T*
+(Solution Step 4: Express derivatives in terms of u:) Tj
+T*
+(Since z = sin\(u\), dz/dx = cos\(u\) * \(du/dx\) and dz/dy = cos\(u\) * \(du/dy\).) Tj
+T*
+(Substitute: x * [ cos\(u\) * \(du/dx\) ] + y * [ cos\(u\) * \(du/dy\) ] = \(1/2\) * sin\(u\).) Tj
+T*
+(Factor cos\(u\): cos\(u\) * [ x*\(du/dx\) + y*\(du/dy\) ] = \(1/2\) * sin\(u\).) Tj
+T*
+(Divide by cos\(u\): x*\(du/dx\) + y*\(du/dy\) = \(1/2\) * [ sin\(u\) / cos\(u\) ] = \(1/2\) * tan\(u\).) Tj
+T*
+(\(Hence Proved\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([SOLVED PROBLEM 2: Jacobian Coordinate Transformation \(Polar Coordinates\)]) Tj
+T*
+/F1 9 Tf
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 3469 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mathematics - I | Unit 4: Multivariate Calculus & Extrema) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 3 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: For the Cartesian to polar transformation x = r*cos\(theta\), y = r*sin\(theta\),) Tj
+T*
+(calculate J = d\(x, y\)/d\(r, theta\) and J' = d\(r, theta\)/d\(x, y\), and verify J * J' = 1.) Tj
+T*
+(Solution Step 1: Compute partial derivatives for J:) Tj
+T*
+(dx/dr = cos\(theta\), dx/d\(theta\) = -r*sin\(theta\)) Tj
+T*
+(dy/dr = sin\(theta\), dy/d\(theta\) = r*cos\(theta\).) Tj
+T*
+(Solution Step 2: Evaluate determinant J:) Tj
+T*
+(J = det\([ cos\(theta\) -r*sin\(theta\) ; sin\(theta\) r*cos\(theta\) ]\)) Tj
+T*
+(J = cos\(theta\) * [ r*cos\(theta\) ] - [ -r*sin\(theta\) ] * sin\(theta\) = r*cos^2\(theta\) +) Tj
+T*
+(r*sin^2\(theta\) = r.) Tj
+T*
+(Solution Step 3: Compute inverse relations:) Tj
+T*
+(r = sqrt\(x^2 + y^2\), theta = arctan\(y / x\).) Tj
+T*
+(dr/dx = x / sqrt\(x^2 + y^2\) = x / r = cos\(theta\).) Tj
+T*
+(dr/dy = y / sqrt\(x^2 + y^2\) = y / r = sin\(theta\).) Tj
+T*
+(d\(theta\)/dx = [ 1 / \(1 + \(y/x\)^2\) ] * \(-y / x^2\) = -y / \(x^2 + y^2\) = -sin\(theta\) / r.) Tj
+T*
+(d\(theta\)/dy = [ 1 / \(1 + \(y/x\)^2\) ] * \(1 / x\) = x / \(x^2 + y^2\) = cos\(theta\) / r.) Tj
+T*
+(Solution Step 4: Evaluate determinant J':) Tj
+T*
+(J' = det\([ cos\(theta\) sin\(theta\) ; -sin\(theta\)/r cos\(theta\)/r ]\)) Tj
+T*
+(J' = [ cos\(theta\) * cos\(theta\)/r ] - [ sin\(theta\) * \(-sin\(theta\)/r\) ] = \(cos^2 + sin^2\)) Tj
+T*
+(/ r = 1 / r.) Tj
+T*
+(Solution Step 5: Verification of Reciprocal Property:) Tj
+T*
+(J * J' = r * \(1 / r\) = 1. \(Verified\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([SOLVED PROBLEM 3: Complete Classification of Multivariable Extrema]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: Find and classify all critical points of the function f\(x, y\) = x^3 + y^3 - 3*x) Tj
+T*
+(- 12*y + 20.) Tj
+T*
+(Solution Step 1: Compute first partial derivatives and set to zero:) Tj
+T*
+(fx = 3*x^2 - 3 = 0 => 3*\(x^2 - 1\) = 0 => x = +1 or x = -1.) Tj
+T*
+(fy = 3*y^2 - 12 = 0 => 3*\(y^2 - 4\) = 0 => y = +2 or y = -2.) Tj
+T*
+(There are 4 distinct critical points: P1\(1, 2\), P2\(1, -2\), P3\(-1, 2\), P4\(-1, -2\).) Tj
+T*
+(Solution Step 2: Compute second partial derivatives:) Tj
+T*
+(r = fxx = 6*x, s = fxy = 0, t = fyy = 6*y.) Tj
+T*
+(Discriminant: Delta = r*t - s^2 = \(6*x\)*\(6*y\) - 0 = 36*x*y.) Tj
+T*
+(Solution Step 3: Classify each point:) Tj
+T*
+(1. Point P1\(1, 2\): Delta = 36*\(1\)*\(2\) = +72 > 0. r = 6*\(1\) = +6 > 0. Conclusion: LOCAL) Tj
+T*
+(MINIMUM.) Tj
+T*
+(Minimum Value: f\(1, 2\) = 1 + 8 - 3 - 24 + 20 = 2.) Tj
+T*
+(2. Point P2\(1, -2\): Delta = 36*\(1\)*\(-2\) = -72 < 0. Conclusion: SADDLE POINT.) Tj
+T*
+(3. Point P3\(-1, 2\): Delta = 36*\(-1\)*\(2\) = -72 < 0. Conclusion: SADDLE POINT.) Tj
+T*
+(4. Point P4\(-1, -2\): Delta = 36*\(-1\)*\(-2\) = +72 > 0. r = 6*\(-1\) = -6 < 0. Conclusion:) Tj
+T*
+(LOCAL MAXIMUM.) Tj
+T*
+(Maximum Value: f\(-1, -2\) = -1 - 8 + 3 + 24 + 20 = 38.) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 3657 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mathematics - I | Unit 4: Multivariate Calculus & Extrema) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 4 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([SOLVED PROBLEM 4: Constrained Optimization via Lagrange Multipliers]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: A rectangular open-top water reservoir of volume V = 32 m^3 is to be) Tj
+T*
+(constructed. Determine the optimal dimensions \(length x, width y, depth z\) that minimize) Tj
+T*
+(the total surface area of material required.) Tj
+T*
+(Solution Step 1: Formulate objective function and constraint:) Tj
+T*
+(Surface Area to minimize \(open top\): S\(x, y, z\) = x*y + 2*x*z + 2*y*z \(base + 4 sides\).) Tj
+T*
+(Constraint: Volume phi\(x, y, z\) = x*y*z - 32 = 0.) Tj
+T*
+(Solution Step 2: Set up Lagrange function: L\(x, y, z, lambda\) = x*y + 2*x*z + 2*y*z +) Tj
+T*
+(lambda * \(x*y*z - 32\).) Tj
+T*
+(Solution Step 3: Compute partial derivatives:) Tj
+T*
+(dL/dx = y + 2*z + lambda*y*z = 0 => lambda = - \(y + 2*z\) / \(y*z\) = - 1/z - 2/y.) Tj
+T*
+(dL/dy = x + 2*z + lambda*x*z = 0 => lambda = - \(x + 2*z\) / \(x*z\) = - 1/z - 2/x.) Tj
+T*
+(dL/dz = 2*x + 2*y + lambda*x*y = 0 => lambda = - \(2*x + 2*y\) / \(x*y\) = - 2/y - 2/x.) Tj
+T*
+(Solution Step 4: Equate lambda expressions:) Tj
+T*
+(- 1/z - 2/y = - 1/z - 2/x => 2/y = 2/x => x = y.) Tj
+T*
+(Equate first and third: - 1/z - 2/x = - 2/x - 2/x => 1/z = 2/x => x = 2*z \(or z = x/2\).) Tj
+T*
+(Solution Step 5: Substitute into volume constraint:) Tj
+T*
+(x * y * z = x * x * \(x / 2\) = 32 => x^3 / 2 = 32 => x^3 = 64 => x = 4 m.) Tj
+T*
+(Then y = x = 4 m, and z = x / 2 = 2 m.) Tj
+T*
+(Optimal Dimensions: Length = 4 meters, Width = 4 meters, Depth = 2 meters.) Tj
+T*
+(Minimum Material Area: S = 4*4 + 2\(4\)\(2\) + 2\(4\)\(2\) = 16 + 16 + 16 = 48 m^2.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.5 University Review & Examination Questions) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Q1: State and prove Euler's Theorem for a homogeneous function u = f\(x, y\) of) Tj
+T*
+(degree n.) Tj
+T*
+(Answer: By definition of homogeneity, f\(t*x, t*y\) = t^n * f\(x, y\). Differentiating both) Tj
+T*
+(sides with respect to parameter t using the multivariable chain rule: [df/d\(t*x\)] *) Tj
+T*
+([d\(t*x\)/dt] + [df/d\(t*y\)] * [d\(t*y\)/dt] = n * t^{n-1} * f\(x, y\). Since d\(t*x\)/dt = x and) Tj
+T*
+(d\(t*y\)/dt = y, this gives x * fx\(t*x, t*y\) + y * fy\(t*x, t*y\) = n * t^{n-1} * f\(x, y\).) Tj
+T*
+(Setting t = 1 yields the standard theorem: x * fx\(x, y\) + y * fy\(x, y\) = n * f\(x, y\).) Tj
+T*
+(* Q2: Explain the necessary and sufficient conditions for a function of two variables) Tj
+T*
+(f\(x, y\) to have an extreme value at \(a, b\).) Tj
+T*
+(Answer: Necessary condition: The first partial derivatives must vanish: fx\(a, b\) = 0 and) Tj
+T*
+(fy\(a, b\) = 0. Sufficient condition: Let r = fxx\(a, b\), s = fxy\(a, b\), t = fyy\(a, b\), and) Tj
+T*
+(Delta = r*t - s^2. \(1\) If Delta > 0 and r > 0, f has a strict Local Minimum at \(a, b\).) Tj
+T*
+(\(2\) If Delta > 0 and r < 0, f has a strict Local Maximum at \(a, b\). \(3\) If Delta < 0,) Tj
+T*
+(\(a, b\) is a Saddle Point. \(4\) If Delta = 0, the second-derivative test fails and) Tj
+T*
+(higher-order terms must be investigated.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.6 Key Takeaways and Revision Points) Tj
+T*
+/F1 9 Tf
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 842 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mathematics - I | Unit 4: Multivariate Calculus & Extrema) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 5 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+() Tj
+T*
+(* Euler's theorem: x*\(du/dx\) + y*\(du/dy\) = n*u for homogeneous functions of degree n.) Tj
+T*
+(* Jacobians J = d\(u,v\)/d\(x,y\) measure local area stretching under coordinate) Tj
+T*
+(transformations.) Tj
+T*
+(* Extremum classification discriminant: Delta = r*t - s^2. Delta > 0 gives extrema) Tj
+T*
+(\(sign of r determines min/max\); Delta < 0 gives saddle.) Tj
+T*
+(* Lagrange multipliers solve constrained optimization problems by identifying) Tj
+T*
+(parallel gradient vectors \(grad f = -lambda * grad phi\).) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000171 00000 n 
+0000000241 00000 n 
+0000000316 00000 n 
+0000000428 00000 n 
+0000003590 00000 n 
+0000003702 00000 n 
+0000007043 00000 n 
+0000007156 00000 n 
+0000010678 00000 n 
+0000010792 00000 n 
+0000014502 00000 n 
+0000014616 00000 n 
+trailer
+<< /Size 15 /Root 1 0 R >>
+startxref
+15510
+%%EOF

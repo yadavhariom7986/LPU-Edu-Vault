@@ -1,0 +1,10769 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R 35 0 R 37 0 R 39 0 R 41 0 R 43 0 R 45 0 R 47 0 R 49 0 R 51 0 R 53 0 R 55 0 R 57 0 R 59 0 R 61 0 R] /Count 30 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 4 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 8943 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 1 of 30) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(1.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Which core Python scientific library provides) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(advanced signal processing, numerical) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(optimization, and integration submodules?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(NumPy) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.3 Td
+(SciPy) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.7 Td
+(SymPy) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.1 Td
+(Pandas) Tj
+ET
+BT
+/F2 8.0 Tf
+42 701.5001 Td
+(2.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(According to the Nyquist-Shannon sampling) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.3 Td
+(theorem, what is the minimum sampling frequency) Tj
+ET
+BT
+/F1 7.8 Tf
+58 683.1 Td
+($f_s$ required to avoid aliasing for a signal) Tj
+ET
+BT
+/F1 7.8 Tf
+58 673.9 Td
+(with maximum frequency $f_{max}$?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 662.2 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 662.2 Td
+($f_s \\ge f_{max}$) Tj
+ET
+BT
+/F2 7.4 Tf
+58 652.6 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 652.6 Td
+($f_s \\ge 2 f_{max}$) Tj
+ET
+BT
+/F2 7.4 Tf
+58 643.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 643.0001 Td
+($f_s \\ge 4 f_{max}$) Tj
+ET
+BT
+/F2 7.4 Tf
+58 633.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 633.4001 Td
+($f_s \\ge \\pi f_{max}$) Tj
+ET
+BT
+/F2 8.0 Tf
+42 609.8001 Td
+(3.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 609.8001 Td
+(What phenomenon occurs when a continuous signal) Tj
+ET
+BT
+/F1 7.8 Tf
+58 600.6001 Td
+(contains frequency components higher than half) Tj
+ET
+BT
+/F1 7.8 Tf
+58 591.4001 Td
+(the sampling rate \($f_s / 2$\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 579.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 579.7001 Td
+(Phase jitter) Tj
+ET
+BT
+/F2 7.4 Tf
+58 570.1001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 570.1001 Td
+(Aliasing distortion) Tj
+ET
+BT
+/F2 7.4 Tf
+58 560.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 560.5001 Td
+(Harmonic resonance) Tj
+ET
+BT
+/F2 7.4 Tf
+58 550.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 550.9001 Td
+(Thermal drift) Tj
+ET
+BT
+/F2 8.0 Tf
+42 527.3002 Td
+(4.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 527.3002 Td
+(What is the frequency $f_s / 2$ universally) Tj
+ET
+BT
+/F1 7.8 Tf
+58 518.1002 Td
+(called in digital signal processing?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 506.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 506.4001 Td
+(Resonant frequency) Tj
+ET
+BT
+/F2 7.4 Tf
+58 496.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 496.8001 Td
+(Nyquist frequency) Tj
+ET
+BT
+/F2 7.4 Tf
+58 487.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 487.2001 Td
+(Carrier frequency) Tj
+ET
+BT
+/F2 7.4 Tf
+58 477.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 477.6001 Td
+(Corner frequency) Tj
+ET
+BT
+/F2 8.0 Tf
+42 454.0001 Td
+(5.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 454.0001 Td
+(How is the Signal-to-Noise Ratio \(SNR\) in) Tj
+ET
+BT
+/F1 7.8 Tf
+58 444.8001 Td
+(decibels \(dB\) mathematically defined in terms of) Tj
+ET
+BT
+/F1 7.8 Tf
+58 435.6001 Td
+(signal power $P_s$ and noise power $P_n$?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 423.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 423.9001 Td
+($\\text{SNR} = 10 \\log_{10}\(P_s / P_n\)$) Tj
+ET
+BT
+/F2 7.4 Tf
+58 414.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 414.3001 Td
+($\\text{SNR} = 20 \\log_{10}\(P_s / P_n\)$) Tj
+ET
+BT
+/F2 7.4 Tf
+58 404.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 404.7001 Td
+($\\text{SNR} = P_s / P_n$) Tj
+ET
+BT
+/F2 7.4 Tf
+58 395.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 395.1001 Td
+($\\text{SNR} = \\log_e\(P_s - P_n\)$) Tj
+ET
+BT
+/F2 8.0 Tf
+42 371.5001 Td
+(6.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 371.5001 Td
+(Which module is the industry standard for serial) Tj
+ET
+BT
+/F1 7.8 Tf
+58 362.3 Td
+(port \(RS-232, UART, USB CDC\) communication in) Tj
+ET
+BT
+/F1 7.8 Tf
+58 353.1 Td
+(Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 341.4 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 341.4 Td
+(serialport) Tj
+ET
+BT
+/F2 7.4 Tf
+58 331.8 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 331.8 Td
+(pySerial \(serial\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 322.2 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 322.2 Td
+(pylink) Tj
+ET
+BT
+/F2 7.4 Tf
+58 312.6 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 312.6 Td
+(uartsys) Tj
+ET
+BT
+/F2 8.0 Tf
+42 289 Td
+(7.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 289 Td
+(What is a standard default baud rate for) Tj
+ET
+BT
+/F1 7.8 Tf
+58 279.8 Td
+(microcontroller UART serial debugging in) Tj
+ET
+BT
+/F1 7.8 Tf
+58 270.6 Td
+(engineering labs?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 258.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 258.9 Td
+(1200) Tj
+ET
+BT
+/F2 7.4 Tf
+58 249.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 249.3 Td
+(9600 or 115200) Tj
+ET
+BT
+/F2 7.4 Tf
+58 239.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 239.7 Td
+(1000000) Tj
+ET
+BT
+/F2 7.4 Tf
+58 230.0999 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 230.0999 Td
+(48000) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(8.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(How do you open a serial port on Windows at COM3) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(with baud rate 115200 in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(`ser = serial.Serial\('COM3', 115200\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(`ser = serial.open\('COM3', 115200\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(`ser = serial.Port\(3, 115200\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(`ser = serial.connect\('COM3'\)`) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(9.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(What parameter in `serial.Serial` specifies the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(maximum wait time for incoming bytes before) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(unblocking?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.6 Td
+(wait_ms) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.0001 Td
+(timeout) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.4001 Td
+(delay) Tj
+ET
+BT
+/F2 7.4 Tf
+322 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 651.8001 Td
+(block_time) Tj
+ET
+BT
+/F2 8.0 Tf
+306 628.2001 Td
+(10.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(Why must string commands sent over a serial port) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(be encoded via `.encode\('utf-8'\)`?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.3001 Td
+(Serial ports transmit raw binary bytes, not) Tj
+ET
+BT
+/F1 7.4 Tf
+336 598.7001 Td
+(Python unicode string objects) Tj
+ET
+BT
+/F2 7.4 Tf
+322 589.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 589.1002 Td
+(For data encryption) Tj
+ET
+BT
+/F2 7.4 Tf
+322 579.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 579.5002 Td
+(To compress commands) Tj
+ET
+BT
+/F2 7.4 Tf
+322 569.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 569.9002 Td
+(To set baud rate) Tj
+ET
+BT
+/F2 8.0 Tf
+306 546.3002 Td
+(11.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 546.3002 Td
+(Which built-in module provides low-level network) Tj
+ET
+BT
+/F1 7.8 Tf
+322 537.1002 Td
+(socket interface programming in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 525.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 525.4002 Td
+(network) Tj
+ET
+BT
+/F2 7.4 Tf
+322 515.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 515.8002 Td
+(socket) Tj
+ET
+BT
+/F2 7.4 Tf
+322 506.2002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 506.2002 Td
+(http) Tj
+ET
+BT
+/F2 7.4 Tf
+322 496.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 496.6002 Td
+(urllib) Tj
+ET
+BT
+/F2 8.0 Tf
+306 473.0002 Td
+(12.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 473.0002 Td
+(What address family constant represents standard) Tj
+ET
+BT
+/F1 7.8 Tf
+322 463.8002 Td
+(IPv4 network addressing in `socket.socket\(\)`?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 452.1002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 452.1002 Td
+(socket.AF_INET6) Tj
+ET
+BT
+/F2 7.4 Tf
+322 442.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 442.5002 Td
+(socket.AF_INET) Tj
+ET
+BT
+/F2 7.4 Tf
+322 432.9002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 432.9002 Td
+(socket.AF_UNIX) Tj
+ET
+BT
+/F2 7.4 Tf
+322 423.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 423.3002 Td
+(socket.AF_IP4) Tj
+ET
+BT
+/F2 8.0 Tf
+306 399.7002 Td
+(13.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 399.7002 Td
+(What socket type represents connection-oriented,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 390.5002 Td
+(reliable TCP byte streams?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 378.8001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 378.8001 Td
+(socket.SOCK_DGRAM) Tj
+ET
+BT
+/F2 7.4 Tf
+322 369.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 369.2001 Td
+(socket.SOCK_STREAM) Tj
+ET
+BT
+/F2 7.4 Tf
+322 359.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 359.6001 Td
+(socket.SOCK_RAW) Tj
+ET
+BT
+/F2 7.4 Tf
+322 350.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 350.0001 Td
+(socket.SOCK_RDM) Tj
+ET
+BT
+/F2 8.0 Tf
+306 326.4001 Td
+(14.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 326.4001 Td
+(What socket type represents connectionless,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 317.2001 Td
+(lightweight UDP datagrams?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 305.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 305.5001 Td
+(socket.SOCK_STREAM) Tj
+ET
+BT
+/F2 7.4 Tf
+322 295.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 295.9001 Td
+(socket.SOCK_DGRAM) Tj
+ET
+BT
+/F2 7.4 Tf
+322 286.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 286.3001 Td
+(socket.SOCK_SEQPACKET) Tj
+ET
+BT
+/F2 7.4 Tf
+322 276.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 276.7001 Td
+(socket.SOCK_RAW) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 6 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+6 0 obj
+<< /Length 9165 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 2 of 30) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(15.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Which method initiates a TCP connection from a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(client socket to a remote server host and port?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(sock.bind\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(sock.connect\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(sock.listen\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(sock.link\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(16.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(Which method associates a server socket with a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(specific network interface IP and port number?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(sock.attach\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(sock.bind\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(sock.assign\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(sock.host\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(17.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(Which method sets a TCP server socket into) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(passive listening mode to accept client) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.0001 Td
+(connections?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 607.3001 Td
+(sock.wait\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.7001 Td
+(sock.listen\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.1002 Td
+(sock.serve\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 578.5002 Td
+(sock.ready\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 554.9002 Td
+(18.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(What does `client_socket, address =) Tj
+ET
+BT
+/F1 7.8 Tf
+58 545.7002 Td
+(server_socket.accept\(\)` return?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 534.0002 Td
+(A new socket dedicated to communication with) Tj
+ET
+BT
+/F1 7.4 Tf
+72 525.4002 Td
+(the connected client, and client IP/port) Tj
+ET
+BT
+/F1 7.4 Tf
+72 516.8002 Td
+(address tuple) Tj
+ET
+BT
+/F2 7.4 Tf
+58 507.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 507.2002 Td
+(Boolean success flag) Tj
+ET
+BT
+/F2 7.4 Tf
+58 497.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 497.6002 Td
+(Raw byte stream) Tj
+ET
+BT
+/F2 7.4 Tf
+58 488.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 488.0002 Td
+(Port number) Tj
+ET
+BT
+/F2 8.0 Tf
+42 464.4002 Td
+(19.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 464.4002 Td
+(Which method receives incoming bytes from a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 455.2002 Td
+(connected TCP socket?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 443.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 443.5002 Td
+(sock.read\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 433.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 433.9002 Td
+(sock.recv\(buffer_size\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 424.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 424.3002 Td
+(sock.get_bytes\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 414.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 414.7002 Td
+(sock.fetch\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 391.1002 Td
+(20.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 391.1002 Td
+(What is the standard simulation time array for a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 381.9001 Td
+(1-second signal with 10 kHz sampling rate in) Tj
+ET
+BT
+/F1 7.8 Tf
+58 372.7001 Td
+(NumPy?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 361.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 361.0001 Td
+(`t = np.arange\(0, 1.0, 1/10000\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 351.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 351.4001 Td
+(`t = np.linspace\(0, 10000, 1\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 341.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 341.8001 Td
+(`t = range\(10000\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 332.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 332.2001 Td
+(`t = np.zeros\(1000\)`) Tj
+ET
+BT
+/F2 8.0 Tf
+42 308.6001 Td
+(21.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 308.6001 Td
+(Which mathematical function generates a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 299.4001 Td
+(continuous sine wave of frequency $f$ and phase) Tj
+ET
+BT
+/F1 7.8 Tf
+58 290.2001 Td
+($\\phi$?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 278.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 278.5001 Td
+(`A * np.sin\(2 * np.pi * f * t + phi\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 268.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 268.9001 Td
+(`A * np.sin\(f * t\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 259.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 259.3 Td
+(`np.cos\(2 * f * t\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 249.7 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 249.7 Td
+(`A * np.sin\(2 * f * t\)`) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(22.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Which function from `scipy.signal` generates a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(periodic square wave with a specified duty) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(cycle?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(scipy.signal.pulse\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.3 Td
+(scipy.signal.square\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.7 Td
+(scipy.signal.rect\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.1 Td
+(scipy.signal.step\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 701.5001 Td
+(23.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(Which function from `scipy.signal` generates a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(periodic sawtooth or triangle wave?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.6 Td
+(scipy.signal.triangle\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.0001 Td
+(scipy.signal.sawtooth\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.4001 Td
+(scipy.signal.ramp\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 651.8001 Td
+(scipy.signal.slope\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 628.2001 Td
+(24.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(Which function from `scipy.signal` generates a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(swept-frequency cosine \(chirp\) signal?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.3001 Td
+(scipy.signal.sweep\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.7001 Td
+(scipy.signal.chirp\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.1002 Td
+(scipy.signal.vco\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 578.5002 Td
+(scipy.signal.modulate\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 554.9002 Td
+(25.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(What is an impulse response $h[n]$ of a Linear) Tj
+ET
+BT
+/F1 7.8 Tf
+322 545.7002 Td
+(Time-Invariant \(LTI\) system?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 534.0002 Td
+(The system output when excited by a unit) Tj
+ET
+BT
+/F1 7.4 Tf
+336 525.4002 Td
+(Dirac delta impulse $\\delta[n]$) Tj
+ET
+BT
+/F2 7.4 Tf
+322 515.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 515.8002 Td
+(The step response derivative) Tj
+ET
+BT
+/F2 7.4 Tf
+322 506.2002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 506.2002 Td
+(The frequency spectrum) Tj
+ET
+BT
+/F2 7.4 Tf
+322 496.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 496.6002 Td
+(The transfer function poles) Tj
+ET
+BT
+/F2 8.0 Tf
+306 473.0002 Td
+(26.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 473.0002 Td
+(What mathematical operation relates LTI system) Tj
+ET
+BT
+/F1 7.8 Tf
+322 463.8002 Td
+(input $x[n]$, impulse response $h[n]$, and) Tj
+ET
+BT
+/F1 7.8 Tf
+322 454.6002 Td
+(output $y[n]$?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 442.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 442.9002 Td
+(Multiplication) Tj
+ET
+BT
+/F2 7.4 Tf
+322 433.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 433.3002 Td
+(Convolution $y[n] = x[n] * h[n]$) Tj
+ET
+BT
+/F2 7.4 Tf
+322 423.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 423.7002 Td
+(Correlation) Tj
+ET
+BT
+/F2 7.4 Tf
+322 414.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 414.1002 Td
+(Differentiation) Tj
+ET
+BT
+/F2 8.0 Tf
+306 390.5002 Td
+(27.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 390.5002 Td
+(Which function from `scipy.io.wavfile` reads) Tj
+ET
+BT
+/F1 7.8 Tf
+322 381.3001 Td
+(uncompressed audio WAV files into a sampling) Tj
+ET
+BT
+/F1 7.8 Tf
+322 372.1001 Td
+(rate and NumPy array?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 360.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 360.4001 Td
+(scipy.io.wavfile.load\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 350.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 350.8001 Td
+(scipy.io.wavfile.read\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 341.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 341.2001 Td
+(scipy.io.wavfile.open\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 331.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 331.6001 Td
+(scipy.io.wavfile.parse\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 308.0001 Td
+(28.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 308.0001 Td
+(Which function from `scipy.io.wavfile` saves a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 298.8001 Td
+(NumPy array as an audio WAV file on disk?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 287.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 287.1001 Td
+(scipy.io.wavfile.save\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 277.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 277.5001 Td
+(scipy.io.wavfile.write\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 267.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 267.9001 Td
+(scipy.io.wavfile.export\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 258.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 258.3 Td
+(scipy.io.wavfile.dump\(\)) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 8 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+8 0 obj
+<< /Length 9028 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 3 of 30) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(29.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What is the simplest numerical algorithm for) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(solving initial value ordinary differential) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(equations \(ODEs\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(Runge-Kutta 4th order) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.3 Td
+(Euler's Forward Method) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.7 Td
+(Adams-Bashforth) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.1 Td
+(Crank-Nicolson) Tj
+ET
+BT
+/F2 8.0 Tf
+42 701.5001 Td
+(30.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(In Euler's forward method, how is the state at) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.3 Td
+(time step $n+1$ updated from state $y_n$ and) Tj
+ET
+BT
+/F1 7.8 Tf
+58 683.1 Td
+(derivative $f\(t_n, y_n\)$?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.4 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.4 Td
+($y_{n+1} = y_n + \\Delta t \\cdot f\(t_n, y_n\)$) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.8 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.8 Td
+($y_{n+1} = y_n + \\frac{\\Delta t}{2} f\(t_n,) Tj
+ET
+BT
+/F1 7.4 Tf
+72 653.2001 Td
+(y_n\)$) Tj
+ET
+BT
+/F2 7.4 Tf
+58 643.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 643.6001 Td
+($y_{n+1} = y_n - \\Delta t \\cdot f\(t_n, y_n\)$) Tj
+ET
+BT
+/F2 7.4 Tf
+58 634.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 634.0001 Td
+($y_{n+1} = f\(t_n, y_n\) / \\Delta t$) Tj
+ET
+BT
+/F2 8.0 Tf
+42 610.4001 Td
+(31.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 610.4001 Td
+(What is the global truncation error order of) Tj
+ET
+BT
+/F1 7.8 Tf
+58 601.2001 Td
+(Euler's forward method?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 589.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 589.5001 Td
+($\\mathcal{O}\(\\Delta t^2\)$) Tj
+ET
+BT
+/F2 7.4 Tf
+58 579.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 579.9001 Td
+($\\mathcal{O}\(\\Delta t\)$) Tj
+ET
+BT
+/F2 7.4 Tf
+58 570.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 570.3002 Td
+($\\mathcal{O}\(\\Delta t^4\)$) Tj
+ET
+BT
+/F2 7.4 Tf
+58 560.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 560.7002 Td
+($\\mathcal{O}\(1\)$) Tj
+ET
+BT
+/F2 8.0 Tf
+42 537.1002 Td
+(32.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 537.1002 Td
+(Which modern SciPy function is the recommended) Tj
+ET
+BT
+/F1 7.8 Tf
+58 527.9002 Td
+(high-level solver for initial value ordinary) Tj
+ET
+BT
+/F1 7.8 Tf
+58 518.7002 Td
+(differential equations?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 507.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 507.0002 Td
+(scipy.integrate.odeint\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 497.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 497.4002 Td
+(scipy.integrate.solve_ivp\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 487.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 487.8002 Td
+(scipy.integrate.quad\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 478.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 478.2002 Td
+(scipy.integrate.ode\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 454.6002 Td
+(33.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 454.6002 Td
+(What is the default integration method employed) Tj
+ET
+BT
+/F1 7.8 Tf
+58 445.4001 Td
+(by `scipy.integrate.solve_ivp`?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 433.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 433.7001 Td
+('Euler') Tj
+ET
+BT
+/F2 7.4 Tf
+58 424.1001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 424.1001 Td
+('RK45' \(Explicit Runge-Kutta of order 5\(4\)\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 414.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 414.5001 Td
+('BDF') Tj
+ET
+BT
+/F2 7.4 Tf
+58 404.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 404.9001 Td
+('Radau') Tj
+ET
+BT
+/F2 8.0 Tf
+42 381.3001 Td
+(34.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 381.3001 Td
+(Which lightweight publish-subscribe messaging) Tj
+ET
+BT
+/F1 7.8 Tf
+58 372.1001 Td
+(protocol is ubiquitous in IoT sensor telemetry?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 360.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 360.4001 Td
+(HTTP/1.1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 350.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 350.8001 Td
+(MQTT \(Message Queuing Telemetry Transport\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 341.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 341.2001 Td
+(FTP) Tj
+ET
+BT
+/F2 7.4 Tf
+58 331.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 331.6001 Td
+(Telnet) Tj
+ET
+BT
+/F2 8.0 Tf
+42 308.0001 Td
+(35.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 308.0001 Td
+(Which popular Python client library implements) Tj
+ET
+BT
+/F1 7.8 Tf
+58 298.8 Td
+(the MQTT protocol?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 287.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 287.1 Td
+(pymqtt) Tj
+ET
+BT
+/F2 7.4 Tf
+58 277.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 277.5 Td
+(paho-mqtt) Tj
+ET
+BT
+/F2 7.4 Tf
+58 267.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 267.9 Td
+(iot-mqtt) Tj
+ET
+BT
+/F2 7.4 Tf
+58 258.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 258.3 Td
+(mqttclient) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(36.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(In MQTT terminology, what is the central message) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(broker server that routes telemetry packets?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(Gateway) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(Broker \(e.g. Mosquitto\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(Router) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(Relay) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(37.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(In MQTT, what are hierarchical strings \(e.g.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(`sensors/room1/temperature`\) used to filter) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(messages called?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.6 Td
+(URIs) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.0001 Td
+(Topics) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.4001 Td
+(Headers) Tj
+ET
+BT
+/F2 7.4 Tf
+322 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 651.8001 Td
+(Keys) Tj
+ET
+BT
+/F2 8.0 Tf
+306 628.2001 Td
+(38.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(Which standard library module provides a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(lightweight, zero-configuration disk-based) Tj
+ET
+BT
+/F1 7.8 Tf
+322 609.8001 Td
+(relational SQL database?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 598.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 598.1001 Td
+(psycopg2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.5001 Td
+(sqlite3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 578.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 578.9001 Td
+(mysqldb) Tj
+ET
+BT
+/F2 7.4 Tf
+322 569.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 569.3002 Td
+(sqlalchemy) Tj
+ET
+BT
+/F2 8.0 Tf
+306 545.7002 Td
+(39.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 545.7002 Td
+(How do you execute an SQL command in Python) Tj
+ET
+BT
+/F1 7.8 Tf
+322 536.5002 Td
+(using `sqlite3`?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.8002 Td
+(`cursor.run\(sql\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 515.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 515.2002 Td
+(`cursor.execute\(sql\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 505.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 505.6002 Td
+(`conn.query\(sql\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 496.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 496.0002 Td
+(`cursor.commit\(sql\)`) Tj
+ET
+BT
+/F2 8.0 Tf
+306 472.4002 Td
+(40.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 472.4002 Td
+(Why is `conn.commit\(\)` required after executing) Tj
+ET
+BT
+/F1 7.8 Tf
+322 463.2002 Td
+(INSERT or UPDATE statements in `sqlite3`?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 451.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 451.5002 Td
+(To compile SQL syntax) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.9001 Td
+(To flush pending database transactions to) Tj
+ET
+BT
+/F1 7.4 Tf
+336 433.3001 Td
+(physical disk storage) Tj
+ET
+BT
+/F2 7.4 Tf
+322 423.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 423.7001 Td
+(To close connection) Tj
+ET
+BT
+/F2 7.4 Tf
+322 414.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 414.1001 Td
+(To index tables) Tj
+ET
+BT
+/F2 8.0 Tf
+306 390.5001 Td
+(41.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 390.5001 Td
+(Which digital filter design function from) Tj
+ET
+BT
+/F1 7.8 Tf
+322 381.3001 Td
+(`scipy.signal` calculates Butterworth filter) Tj
+ET
+BT
+/F1 7.8 Tf
+322 372.1001 Td
+(transfer function poles and zeros?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 360.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 360.4001 Td
+(scipy.signal.cheby1\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 350.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 350.8001 Td
+(scipy.signal.butter\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 341.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 341.2001 Td
+(scipy.signal.ellip\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 331.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 331.6001 Td
+(scipy.signal.bessel\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 308.0001 Td
+(42.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 308.0001 Td
+(What is the key characteristic of a Butterworth) Tj
+ET
+BT
+/F1 7.8 Tf
+322 298.8 Td
+(filter frequency response in its passband?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 287.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 287.1 Td
+(Equiripple oscillations in passband) Tj
+ET
+BT
+/F2 7.4 Tf
+322 277.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 277.5 Td
+(Maximally flat magnitude response with zero) Tj
+ET
+BT
+/F1 7.4 Tf
+336 268.9 Td
+(ripple) Tj
+ET
+BT
+/F2 7.4 Tf
+322 259.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 259.3 Td
+(Steepest roll-off transition) Tj
+ET
+BT
+/F2 7.4 Tf
+322 249.7 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 249.7 Td
+(Linear phase response) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 10 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+10 0 obj
+<< /Length 9703 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 4 of 30) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(43.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Which filter type provides an equiripple) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(passband with faster transition roll-off than) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(Butterworth?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(Bessel) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.3 Td
+(Chebyshev Type I) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.7 Td
+(Gaussian) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.1 Td
+(Moving Average) Tj
+ET
+BT
+/F2 8.0 Tf
+42 701.5001 Td
+(44.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(Which filter type provides equiripple behavior) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.3 Td
+(in BOTH passband and stopband with the steepest) Tj
+ET
+BT
+/F1 7.8 Tf
+58 683.1 Td
+(possible transition band?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.4 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.4 Td
+(Chebyshev Type II) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.8 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.8 Td
+(Elliptic \(Cauer\) filter) Tj
+ET
+BT
+/F2 7.4 Tf
+58 652.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 652.2001 Td
+(Butterworth) Tj
+ET
+BT
+/F2 7.4 Tf
+58 642.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 642.6001 Td
+(FIR boxcar) Tj
+ET
+BT
+/F2 8.0 Tf
+42 619.0001 Td
+(45.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.0001 Td
+(Which digital filter implementation function) Tj
+ET
+BT
+/F1 7.8 Tf
+58 609.8001 Td
+(applies an IIR or FIR filter along a 1D signal) Tj
+ET
+BT
+/F1 7.8 Tf
+58 600.6001 Td
+(with causal delay?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.9001 Td
+(scipy.signal.convolve\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 579.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 579.3001 Td
+(scipy.signal.lfilter\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 569.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 569.7001 Td
+(scipy.signal.sosfilt\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 560.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 560.1002 Td
+(scipy.signal.filter\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 536.5002 Td
+(46.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 536.5002 Td
+(What is the primary advantage of) Tj
+ET
+BT
+/F1 7.8 Tf
+58 527.3002 Td
+(`scipy.signal.filtfilt\(\)` over) Tj
+ET
+BT
+/F1 7.8 Tf
+58 518.1002 Td
+(`scipy.signal.lfilter\(\)`?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 506.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 506.4001 Td
+(Runs twice as fast) Tj
+ET
+BT
+/F2 7.4 Tf
+58 496.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 496.8001 Td
+(Performs forward-backward filtering to) Tj
+ET
+BT
+/F1 7.4 Tf
+72 488.2001 Td
+(achieve exactly zero phase distortion) Tj
+ET
+BT
+/F1 7.4 Tf
+72 479.6001 Td
+(\($0^\\circ$ delay\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 470.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 470.0001 Td
+(Requires less RAM) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.4001 Td
+(Only works on FIR) Tj
+ET
+BT
+/F2 8.0 Tf
+42 436.8001 Td
+(47.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 436.8001 Td
+(Which function designs linear-phase FIR filters) Tj
+ET
+BT
+/F1 7.8 Tf
+58 427.6001 Td
+(using the windowed sinc method?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 415.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 415.9001 Td
+(scipy.signal.iirfilter\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 406.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 406.3001 Td
+(scipy.signal.firwin\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 396.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 396.7001 Td
+(scipy.signal.firls\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 387.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 387.1001 Td
+(scipy.signal.remez\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 363.5001 Td
+(48.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 363.5001 Td
+(Which function computes the complex frequency) Tj
+ET
+BT
+/F1 7.8 Tf
+58 354.3 Td
+(response $H\(e^{j\\omega}\)$ of a digital filter) Tj
+ET
+BT
+/F1 7.8 Tf
+58 345.1 Td
+(from numerator and denominator coefficients?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 333.4 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 333.4 Td
+(scipy.signal.step\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 323.8 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 323.8 Td
+(scipy.signal.freqz\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 314.2 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 314.2 Td
+(scipy.signal.bode\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.6 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.6 Td
+(scipy.signal.impulse\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 281 Td
+(49.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 281 Td
+(Why are Second-Order Sections \(SOS\) preferred) Tj
+ET
+BT
+/F1 7.8 Tf
+58 271.8 Td
+(over transfer function polynomial coefficients) Tj
+ET
+BT
+/F1 7.8 Tf
+58 262.6 Td
+($\(b, a\)$ for high-order IIR filters?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 250.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 250.9 Td
+(Avoids severe numerical coefficient) Tj
+ET
+BT
+/F1 7.4 Tf
+72 242.3 Td
+(quantization errors and pole instability) Tj
+ET
+BT
+/F1 7.4 Tf
+72 233.7 Td
+(caused by finite floating-point precision) Tj
+ET
+BT
+/F2 7.4 Tf
+58 224.1 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 224.1 Td
+(Uses fewer CPU registers) Tj
+ET
+BT
+/F2 7.4 Tf
+58 214.5 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 214.5 Td
+(Eliminates need for sampling rate) Tj
+ET
+BT
+/F2 7.4 Tf
+58 204.8999 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 204.8999 Td
+(Converts IIR to FIR) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(50.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Which function applies Second-Order Sections) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(filtering with zero phase distortion?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(scipy.signal.sosfilt\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(scipy.signal.sosfiltfilt\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(scipy.signal.lfilter\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(scipy.signal.cascade\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(51.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(In Amplitude Modulation \(AM\), how is a message) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(signal $m\(t\)$ modulated onto carrier $A_c) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(\\cos\(2\\pi f_c t\)$?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.6 Td
+($s\(t\) = [A_c + m\(t\)] \\cos\(2\\pi f_c t\)$) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.0001 Td
+($s\(t\) = A_c \\cos\(2\\pi [f_c + m\(t\)] t\)$) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.4001 Td
+($s\(t\) = m\(t\) \\cdot A_c$) Tj
+ET
+BT
+/F2 7.4 Tf
+322 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 651.8001 Td
+($s\(t\) = A_c \\cos\(2\\pi f_c t\) / m\(t\)$) Tj
+ET
+BT
+/F2 8.0 Tf
+306 628.2001 Td
+(52.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(What is the modulation index $\\mu$ in AM defined) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(as when $m\(t\) = A_m \\cos\(2\\pi f_m t\)$?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.3001 Td
+($\\mu = A_m / A_c$) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.7001 Td
+($\\mu = A_c / A_m$) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.1002 Td
+($\\mu = f_m / f_c$) Tj
+ET
+BT
+/F2 7.4 Tf
+322 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 578.5002 Td
+($\\mu = A_m \\cdot A_c$) Tj
+ET
+BT
+/F2 8.0 Tf
+306 554.9002 Td
+(53.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(What occurs in envelope detection of an AM) Tj
+ET
+BT
+/F1 7.8 Tf
+322 545.7002 Td
+(signal if modulation index $\\mu > 1$?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 534.0002 Td
+(Signal power doubles) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.4002 Td
+(Overmodulation envelope distortion \(carrier) Tj
+ET
+BT
+/F1 7.4 Tf
+336 515.8002 Td
+(phase reversal envelope inversion\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 506.2002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 506.2002 Td
+(Zero bandwidth) Tj
+ET
+BT
+/F2 7.4 Tf
+322 496.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 496.6002 Td
+(Carrier suppression) Tj
+ET
+BT
+/F2 8.0 Tf
+306 473.0002 Td
+(54.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 473.0002 Td
+(How is the instantaneous frequency of a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 463.8002 Td
+(Frequency Modulated \(FM\) signal mathematically) Tj
+ET
+BT
+/F1 7.8 Tf
+322 454.6002 Td
+(related to message $m\(t\)$?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 442.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 442.9002 Td
+($f_i\(t\) = f_c + k_f m\(t\)$) Tj
+ET
+BT
+/F2 7.4 Tf
+322 433.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 433.3002 Td
+($f_i\(t\) = f_c \\cdot m\(t\)$) Tj
+ET
+BT
+/F2 7.4 Tf
+322 423.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 423.7002 Td
+($f_i\(t\) = f_c / m\(t\)$) Tj
+ET
+BT
+/F2 7.4 Tf
+322 414.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 414.1002 Td
+($f_i\(t\) = f_c + k_f \\int m\(t\) dt$) Tj
+ET
+BT
+/F2 8.0 Tf
+306 390.5002 Td
+(55.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 390.5002 Td
+(According to Carson's rule, what is the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 381.3001 Td
+(transmission bandwidth $B_T$ of an FM signal?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 369.6001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 369.6001 Td
+($B_T = 2 \(\\Delta f + f_m\)$) Tj
+ET
+BT
+/F2 7.4 Tf
+322 360.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 360.0001 Td
+($B_T = 2 \\Delta f$) Tj
+ET
+BT
+/F2 7.4 Tf
+322 350.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 350.4001 Td
+($B_T = 2 f_m$) Tj
+ET
+BT
+/F2 7.4 Tf
+322 340.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 340.8001 Td
+($B_T = \\Delta f \\cdot f_m$) Tj
+ET
+BT
+/F2 8.0 Tf
+306 317.2001 Td
+(56.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 317.2001 Td
+(Which function from `scipy.signal` performs) Tj
+ET
+BT
+/F1 7.8 Tf
+322 308.0001 Td
+(Hilbert transform to extract the analytic signal) Tj
+ET
+BT
+/F1 7.8 Tf
+322 298.8001 Td
+(and instantaneous envelope?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 287.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 287.1001 Td
+(scipy.signal.envelope\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 277.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 277.5001 Td
+(scipy.signal.hilbert\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 267.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 267.9001 Td
+(scipy.signal.analytic\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 258.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 258.3 Td
+(scipy.signal.iq\(\)) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 12 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+12 0 obj
+<< /Length 10020 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 5 of 30) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(57.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(How do you extract the instantaneous amplitude) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(envelope $A\(t\)$ from analytic signal $z\(t\)$) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(returned by `scipy.signal.hilbert`?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(`A = np.abs\(z\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.3 Td
+(`A = np.real\(z\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.7 Td
+(`A = np.imag\(z\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.1 Td
+(`A = np.angle\(z\)`) Tj
+ET
+BT
+/F2 8.0 Tf
+42 701.5001 Td
+(58.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(How do you extract the instantaneous phase) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.3 Td
+($\\phi\(t\)$ from analytic signal $z\(t\)$?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.6 Td
+(`phi = np.abs\(z\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.0001 Td
+(`phi = np.angle\(z\)` or) Tj
+ET
+BT
+/F1 7.4 Tf
+72 662.4001 Td
+(`np.unwrap\(np.angle\(z\)\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 652.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 652.8001 Td
+(`phi = np.real\(z\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 643.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 643.2001 Td
+(`phi = np.imag\(z\)`) Tj
+ET
+BT
+/F2 8.0 Tf
+42 619.6002 Td
+(59.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.6002 Td
+(What does `np.unwrap\(phase\)` do to a phase angle) Tj
+ET
+BT
+/F1 7.8 Tf
+58 610.4001 Td
+(array?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 598.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 598.7001 Td
+(Wraps phase into $[-\\pi, \\pi]$) Tj
+ET
+BT
+/F2 7.4 Tf
+58 589.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 589.1002 Td
+(Unwraps phase by adding multiples of $\\pm) Tj
+ET
+BT
+/F1 7.4 Tf
+72 580.5002 Td
+(2\\pi$ to eliminate discontinuous phase jumps) Tj
+ET
+BT
+/F2 7.4 Tf
+58 570.9002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 570.9002 Td
+(Sets phase to zero) Tj
+ET
+BT
+/F2 7.4 Tf
+58 561.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 561.3002 Td
+(Computes phase derivative) Tj
+ET
+BT
+/F2 8.0 Tf
+42 537.7003 Td
+(60.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 537.7003 Td
+(Which function from `scipy.optimize` fits) Tj
+ET
+BT
+/F1 7.8 Tf
+58 528.5002 Td
+(non-linear parametric functions \(e.g. diode) Tj
+ET
+BT
+/F1 7.8 Tf
+58 519.3002 Td
+(Shockley equation\) to experimental data?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 507.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 507.6002 Td
+(scipy.optimize.minimize\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 498.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 498.0002 Td
+(scipy.optimize.curve_fit\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 488.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 488.4002 Td
+(scipy.optimize.root\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 478.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 478.8002 Td
+(scipy.optimize.linprog\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 455.2002 Td
+(61.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 455.2002 Td
+(What does `popt, pcov =) Tj
+ET
+BT
+/F1 7.8 Tf
+58 446.0002 Td
+(scipy.optimize.curve_fit\(f, xdata, ydata\)`) Tj
+ET
+BT
+/F1 7.8 Tf
+58 436.8002 Td
+(return?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 425.1002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 425.1002 Td
+(`popt` is optimal parameter values; `pcov`) Tj
+ET
+BT
+/F1 7.4 Tf
+72 416.5002 Td
+(is estimated covariance matrix of parameters) Tj
+ET
+BT
+/F2 7.4 Tf
+58 406.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 406.9001 Td
+(Fitted curve array) Tj
+ET
+BT
+/F2 7.4 Tf
+58 397.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 397.3001 Td
+(Error residuals only) Tj
+ET
+BT
+/F2 7.4 Tf
+58 387.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 387.7001 Td
+(R-squared value) Tj
+ET
+BT
+/F2 8.0 Tf
+42 364.1001 Td
+(62.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 364.1001 Td
+(How are standard errors of fitted parameters) Tj
+ET
+BT
+/F1 7.8 Tf
+58 354.9001 Td
+(calculated from the covariance matrix `pcov`?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 343.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 343.2001 Td
+(`perr = np.sqrt\(np.diag\(pcov\)\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 333.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 333.6001 Td
+(`perr = np.trace\(pcov\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 324.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 324.0001 Td
+(`perr = np.linalg.det\(pcov\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 314.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 314.4001 Td
+(`perr = np.sum\(pcov\)`) Tj
+ET
+BT
+/F2 8.0 Tf
+42 290.8001 Td
+(63.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 290.8001 Td
+(Which function from `scipy.optimize` finds local) Tj
+ET
+BT
+/F1 7.8 Tf
+58 281.6001 Td
+(minima of unconstrained multivariable scalar) Tj
+ET
+BT
+/F1 7.8 Tf
+58 272.4001 Td
+(functions?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 260.7 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 260.7 Td
+(scipy.optimize.minimize\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 251.1 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 251.1 Td
+(scipy.optimize.root\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 241.5 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 241.5 Td
+(scipy.optimize.fmin\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 231.9 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 231.9 Td
+(scipy.optimize.find_min\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(64.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What method in `scipy.integrate.solve_ivp`) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(should be specified when solving stiff) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(differential equations \(e.g. fast switching) Tj
+ET
+BT
+/F1 7.8 Tf
+322 756.4 Td
+(transients\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.7 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.7 Td
+('RK45') Tj
+ET
+BT
+/F2 7.4 Tf
+322 735.1 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 735.1 Td
+('Radau' or 'BDF') Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.5 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.5 Td
+('Euler') Tj
+ET
+BT
+/F2 7.4 Tf
+322 715.9 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 715.9 Td
+('RK23') Tj
+ET
+BT
+/F2 8.0 Tf
+306 692.3 Td
+(65.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(What is a 'stiff' system of differential) Tj
+ET
+BT
+/F1 7.8 Tf
+322 683.1 Td
+(equations in circuit simulation?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.4 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.4 Td
+(A system containing dynamic time constants) Tj
+ET
+BT
+/F1 7.4 Tf
+336 662.8 Td
+(spanning drastically different orders of) Tj
+ET
+BT
+/F1 7.4 Tf
+336 654.2001 Td
+(magnitude \(e.g. fast nanosecond gate) Tj
+ET
+BT
+/F1 7.4 Tf
+336 645.6001 Td
+(switching alongside millisecond thermal) Tj
+ET
+BT
+/F1 7.4 Tf
+336 637.0001 Td
+(decay\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 627.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 627.4001 Td
+(A system with zero resistance) Tj
+ET
+BT
+/F2 7.4 Tf
+322 617.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 617.8002 Td
+(An uninvertible matrix) Tj
+ET
+BT
+/F2 7.4 Tf
+322 608.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 608.2002 Td
+(A mechanical system) Tj
+ET
+BT
+/F2 8.0 Tf
+306 584.6002 Td
+(66.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 584.6002 Td
+(Which module provides threading capabilities in) Tj
+ET
+BT
+/F1 7.8 Tf
+322 575.4002 Td
+(Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 563.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 563.7002 Td
+(process) Tj
+ET
+BT
+/F2 7.4 Tf
+322 554.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 554.1002 Td
+(threading) Tj
+ET
+BT
+/F2 7.4 Tf
+322 544.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 544.5002 Td
+(multiprocessing) Tj
+ET
+BT
+/F2 7.4 Tf
+322 534.9003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 534.9003 Td
+(threadpool) Tj
+ET
+BT
+/F2 8.0 Tf
+306 511.3003 Td
+(67.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 511.3003 Td
+(What is the Global Interpreter Lock \(GIL\) in) Tj
+ET
+BT
+/F1 7.8 Tf
+322 502.1003 Td
+(CPython?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 490.4003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 490.4003 Td
+(A mutex that prevents multiple native OS) Tj
+ET
+BT
+/F1 7.4 Tf
+336 481.8003 Td
+(threads from executing Python bytecodes) Tj
+ET
+BT
+/F1 7.4 Tf
+336 473.2003 Td
+(simultaneously in a single process) Tj
+ET
+BT
+/F2 7.4 Tf
+322 463.6003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 463.6003 Td
+(A security firewall) Tj
+ET
+BT
+/F2 7.4 Tf
+322 454.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 454.0002 Td
+(A file lock) Tj
+ET
+BT
+/F2 7.4 Tf
+322 444.4002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 444.4002 Td
+(A hardware watchdog) Tj
+ET
+BT
+/F2 8.0 Tf
+306 420.8002 Td
+(68.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 420.8002 Td
+(Why does Python multithreading) Tj
+ET
+BT
+/F1 7.8 Tf
+322 411.6002 Td
+(\(`threading.Thread`\) excel at I/O-bound tasks) Tj
+ET
+BT
+/F1 7.8 Tf
+322 402.4002 Td
+(\(like serial logging and network sockets\)) Tj
+ET
+BT
+/F1 7.8 Tf
+322 393.2002 Td
+(despite the GIL?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 381.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 381.5002 Td
+(CPython releases the GIL during blocking) Tj
+ET
+BT
+/F1 7.4 Tf
+336 372.9002 Td
+(operating system system calls \(e.g. reading) Tj
+ET
+BT
+/F1 7.4 Tf
+336 364.3002 Td
+(from socket or COM port\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 354.7002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 354.7002 Td
+(It bypasses CPU completely) Tj
+ET
+BT
+/F2 7.4 Tf
+322 345.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 345.1002 Td
+(It converts Python to C) Tj
+ET
+BT
+/F2 7.4 Tf
+322 335.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 335.5002 Td
+(Threads don't use memory) Tj
+ET
+BT
+/F2 8.0 Tf
+306 311.9001 Td
+(69.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 311.9001 Td
+(Which module should be used instead of) Tj
+ET
+BT
+/F1 7.8 Tf
+322 302.7001 Td
+(`threading` to achieve true parallel multi-core) Tj
+ET
+BT
+/F1 7.8 Tf
+322 293.5001 Td
+(CPU execution for heavy numerical simulations?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 281.8001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 281.8001 Td
+(asyncio) Tj
+ET
+BT
+/F2 7.4 Tf
+322 272.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 272.2001 Td
+(multiprocessing) Tj
+ET
+BT
+/F2 7.4 Tf
+322 262.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 262.6001 Td
+(concurrent.futures.ThreadPoolExecutor) Tj
+ET
+BT
+/F2 7.4 Tf
+322 253.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 253.0001 Td
+(subprocess only) Tj
+ET
+BT
+/F2 8.0 Tf
+306 229.4001 Td
+(70.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 229.4001 Td
+(What thread-safe data structure from the `queue`) Tj
+ET
+BT
+/F1 7.8 Tf
+322 220.2001 Td
+(module is standard for passing telemetry data) Tj
+ET
+BT
+/F1 7.8 Tf
+322 211.0001 Td
+(between worker threads?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 199.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 199.3001 Td
+(queue.Queue) Tj
+ET
+BT
+/F2 7.4 Tf
+322 189.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 189.7001 Td
+(list) Tj
+ET
+BT
+/F2 7.4 Tf
+322 180.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 180.1001 Td
+(collections.deque without lock) Tj
+ET
+BT
+/F2 7.4 Tf
+322 170.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 170.5001 Td
+(dict) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 14 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+14 0 obj
+<< /Length 10697 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 6 of 30) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(71.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Which built-in module provides asynchronous) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(event-loop concurrency \(`async`/`await`\) for) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(high-scale network services?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(concurrency) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.3 Td
+(asyncio) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.7 Td
+(twisted) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.1 Td
+(coroutine) Tj
+ET
+BT
+/F2 8.0 Tf
+42 701.5001 Td
+(72.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(What does `await asyncio.sleep\(1.0\)` do in an) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.3 Td
+(async coroutine?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.6 Td
+(Freezes the entire operating system thread) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.0001 Td
+(Yields control back to the event loop to run) Tj
+ET
+BT
+/F1 7.4 Tf
+72 662.4001 Td
+(other scheduled coroutines while waiting 1) Tj
+ET
+BT
+/F1 7.4 Tf
+72 653.8001 Td
+(second) Tj
+ET
+BT
+/F2 7.4 Tf
+58 644.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 644.2001 Td
+(Terminates the program) Tj
+ET
+BT
+/F2 7.4 Tf
+58 634.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 634.6002 Td
+(Runs a background thread) Tj
+ET
+BT
+/F2 8.0 Tf
+42 611.0002 Td
+(73.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 611.0002 Td
+(Which function from `time` module provides) Tj
+ET
+BT
+/F1 7.8 Tf
+58 601.8002 Td
+(monotonic, high-precision timing for measuring) Tj
+ET
+BT
+/F1 7.8 Tf
+58 592.6002 Td
+(DSP algorithm execution intervals?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 580.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 580.9001 Td
+(time.time\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 571.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 571.3002 Td
+(time.perf_counter\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 561.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 561.7002 Td
+(time.process_time\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 552.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 552.1002 Td
+(time.clock\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 528.5002 Td
+(74.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 528.5002 Td
+(Why is `time.perf_counter\(\)` preferred over) Tj
+ET
+BT
+/F1 7.8 Tf
+58 519.3002 Td
+(`time.time\(\)` for benchmarking algorithms?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 507.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 507.6002 Td
+(`time.perf_counter\(\)` uses monotonic) Tj
+ET
+BT
+/F1 7.4 Tf
+72 499.0002 Td
+(hardware clocks that cannot be stepped) Tj
+ET
+BT
+/F1 7.4 Tf
+72 490.4002 Td
+(backward by system NTP clock) Tj
+ET
+BT
+/F1 7.4 Tf
+72 481.8002 Td
+(synchronizations) Tj
+ET
+BT
+/F2 7.4 Tf
+58 472.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 472.2002 Td
+(It returns integers) Tj
+ET
+BT
+/F2 7.4 Tf
+58 462.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 462.6002 Td
+(It measures GPU time) Tj
+ET
+BT
+/F2 7.4 Tf
+58 453.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 453.0002 Td
+(It runs faster) Tj
+ET
+BT
+/F2 8.0 Tf
+42 429.4002 Td
+(75.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 429.4002 Td
+(Which built-in module provides deterministic) Tj
+ET
+BT
+/F1 7.8 Tf
+58 420.2002 Td
+(profiling of Python programs to pinpoint) Tj
+ET
+BT
+/F1 7.8 Tf
+58 411.0002 Td
+(execution bottlenecks?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 399.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 399.3001 Td
+(timeit) Tj
+ET
+BT
+/F2 7.4 Tf
+58 389.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 389.7001 Td
+(cProfile) Tj
+ET
+BT
+/F2 7.4 Tf
+58 380.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 380.1001 Td
+(profiler) Tj
+ET
+BT
+/F2 7.4 Tf
+58 370.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 370.5001 Td
+(trace) Tj
+ET
+BT
+/F2 8.0 Tf
+42 346.9001 Td
+(76.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 346.9001 Td
+(How is a continuous-time linear state-space) Tj
+ET
+BT
+/F1 7.8 Tf
+58 337.7001 Td
+(model $\\dot{x} = A x + B u$ discretized into) Tj
+ET
+BT
+/F1 7.8 Tf
+58 328.5001 Td
+($x_{k+1} = A_d x_k + B_d u_k$ using Zero-Order) Tj
+ET
+BT
+/F1 7.8 Tf
+58 319.3001 Td
+(Hold \(ZOH\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 307.6001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 307.6001 Td
+($A_d = e^{A T_s}, \\quad B_d = \\left\() Tj
+ET
+BT
+/F1 7.4 Tf
+72 299.0001 Td
+(\\int_0^{T_s} e^{A \\tau} d\\tau \\right\) B$) Tj
+ET
+BT
+/F2 7.4 Tf
+58 289.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 289.4001 Td
+($A_d = I + A T_s, \\quad B_d = B T_s$) Tj
+ET
+BT
+/F2 7.4 Tf
+58 279.8 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 279.8 Td
+($A_d = \(I - A T_s\)^{-1}$) Tj
+ET
+BT
+/F2 7.4 Tf
+58 270.2 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 270.2 Td
+($A_d = A / T_s$) Tj
+ET
+BT
+/F2 8.0 Tf
+42 246.6 Td
+(77.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 246.6 Td
+(Which function from `scipy.signal` converts) Tj
+ET
+BT
+/F1 7.8 Tf
+58 237.4 Td
+(continuous-time LTI system state-space models to) Tj
+ET
+BT
+/F1 7.8 Tf
+58 228.2 Td
+(discrete-time models?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 216.5 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 216.5 Td
+(scipy.signal.cont2discrete\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 206.9 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 206.9 Td
+(scipy.signal.discretize\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 197.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 197.3 Td
+(scipy.signal.sample_system\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 187.7 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 187.7 Td
+(scipy.signal.zoh\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(78.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What transformation method does) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(`scipy.signal.cont2discrete\(...,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(method='bilinear'\)` employ?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(Euler forward difference) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.3 Td
+(Tustin bilinear conformal mapping \($s =) Tj
+ET
+BT
+/F1 7.4 Tf
+336 735.7 Td
+(\\frac{2}{T_s} \\frac{z - 1}{z + 1}$\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 726.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 726.1 Td
+(Runge-Kutta 4th order) Tj
+ET
+BT
+/F2 7.4 Tf
+322 716.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 716.5001 Td
+(Impulse invariance) Tj
+ET
+BT
+/F2 8.0 Tf
+306 692.9001 Td
+(79.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.9001 Td
+(In Software-Defined Radio \(SDR\), what do) Tj
+ET
+BT
+/F1 7.8 Tf
+322 683.7001 Td
+(In-phase \(I\) and Quadrature \(Q\) baseband) Tj
+ET
+BT
+/F1 7.8 Tf
+322 674.5001 Td
+(components represent?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 662.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 662.8 Td
+($I\(t\) = \\text{Re}\\{s_b\(t\)\\}$ and $Q\(t\) =) Tj
+ET
+BT
+/F1 7.4 Tf
+336 654.2001 Td
+(\\text{Im}\\{s_b\(t\)\\}$ representing Cartesian) Tj
+ET
+BT
+/F1 7.4 Tf
+336 645.6001 Td
+(decomposition of complex envelope $s_b\(t\) =) Tj
+ET
+BT
+/F1 7.4 Tf
+336 637.0001 Td
+(I\(t\) + j Q\(t\)$) Tj
+ET
+BT
+/F2 7.4 Tf
+322 627.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 627.4001 Td
+(Input and Output voltage) Tj
+ET
+BT
+/F2 7.4 Tf
+322 617.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 617.8002 Td
+(Integer and Quantitative data) Tj
+ET
+BT
+/F2 7.4 Tf
+322 608.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 608.2002 Td
+(Frequency and Period) Tj
+ET
+BT
+/F2 8.0 Tf
+306 584.6002 Td
+(80.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 584.6002 Td
+(How is complex baseband signal $s_b\(t\) = I\(t\) +) Tj
+ET
+BT
+/F1 7.8 Tf
+322 575.4002 Td
+(j Q\(t\)$ upconverted to RF passband carrier) Tj
+ET
+BT
+/F1 7.8 Tf
+322 566.2002 Td
+(frequency $f_c$?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 554.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 554.5002 Td
+($s_{RF}\(t\) = I\(t\) \\cos\(2\\pi f_c t\) - Q\(t\)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 545.9002 Td
+(\\sin\(2\\pi f_c t\)$) Tj
+ET
+BT
+/F2 7.4 Tf
+322 536.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 536.3002 Td
+($s_{RF}\(t\) = I\(t\) \\sin\(2\\pi f_c t\) + Q\(t\)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 527.7003 Td
+(\\cos\(2\\pi f_c t\)$) Tj
+ET
+BT
+/F2 7.4 Tf
+322 518.1003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 518.1003 Td
+($s_{RF}\(t\) = I\(t\) \\cdot Q\(t\) \\cos\(2\\pi f_c) Tj
+ET
+BT
+/F1 7.4 Tf
+336 509.5003 Td
+(t\)$) Tj
+ET
+BT
+/F2 7.4 Tf
+322 499.9003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 499.9003 Td
+($s_{RF}\(t\) = \(I + Q\) \\cos\(2\\pi f_c t\)$) Tj
+ET
+BT
+/F2 8.0 Tf
+306 476.3003 Td
+(81.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 476.3003 Td
+(In digital Binary Phase Shift Keying \(BPSK\),) Tj
+ET
+BT
+/F1 7.8 Tf
+322 467.1003 Td
+(what are the nominal constellation coordinates) Tj
+ET
+BT
+/F1 7.8 Tf
+322 457.9002 Td
+(in the complex I/Q plane?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 446.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 446.2002 Td
+($\\{+1 + j0, -1 + j0\\}$) Tj
+ET
+BT
+/F2 7.4 Tf
+322 436.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 436.6002 Td
+($\\{0 + j1, 0 - j1\\}$) Tj
+ET
+BT
+/F2 7.4 Tf
+322 427.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 427.0002 Td
+($\\{1 + j1, -1 - j1\\}$) Tj
+ET
+BT
+/F2 7.4 Tf
+322 417.4002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 417.4002 Td
+($\\{+1, 0\\}$) Tj
+ET
+BT
+/F2 8.0 Tf
+306 393.8002 Td
+(82.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 393.8002 Td
+(What is the theoretical Bit Error Rate \(BER\) of) Tj
+ET
+BT
+/F1 7.8 Tf
+322 384.6002 Td
+(coherent BPSK modulation over an Additive White) Tj
+ET
+BT
+/F1 7.8 Tf
+322 375.4002 Td
+(Gaussian Noise \(AWGN\) channel?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 363.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 363.7002 Td
+($P_b = Q\\left\( \\sqrt{\\frac{2 E_b}{N_0}}) Tj
+ET
+BT
+/F1 7.4 Tf
+336 355.1002 Td
+(\\right\) = \\frac{1}{2} \\text{erfc}\\left\() Tj
+ET
+BT
+/F1 7.4 Tf
+336 346.5002 Td
+(\\sqrt{\\frac{E_b}{N_0}} \\right\)$) Tj
+ET
+BT
+/F2 7.4 Tf
+322 336.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 336.9001 Td
+($P_b = e^{-E_b/N_0}$) Tj
+ET
+BT
+/F2 7.4 Tf
+322 327.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 327.3001 Td
+($P_b = \\frac{1}{2} \\left\( 1 -) Tj
+ET
+BT
+/F1 7.4 Tf
+336 318.7001 Td
+(\\frac{E_b}{N_0} \\right\)$) Tj
+ET
+BT
+/F2 7.4 Tf
+322 309.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 309.1001 Td
+($P_b = Q\\left\( \\frac{E_b}{N_0} \\right\)$) Tj
+ET
+BT
+/F2 8.0 Tf
+306 285.5001 Td
+(83.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 285.5001 Td
+(Which function from `scipy.special` computes the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 276.3001 Td
+(complementary error function $\\text{erfc}\(x\)$) Tj
+ET
+BT
+/F1 7.8 Tf
+322 267.1001 Td
+(for BER evaluation?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 255.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 255.4001 Td
+(scipy.special.erfc\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 245.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 245.8001 Td
+(scipy.special.error\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 236.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 236.2001 Td
+(scipy.special.q_func\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 226.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 226.6001 Td
+(scipy.special.ber\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 203.0001 Td
+(84.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 203.0001 Td
+(In Quadrature Amplitude Modulation \(16-QAM\), how) Tj
+ET
+BT
+/F1 7.8 Tf
+322 193.8001 Td
+(many bits are transmitted per modulation symbol?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 182.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 182.1001 Td
+(2 bits) Tj
+ET
+BT
+/F2 7.4 Tf
+322 172.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 172.5001 Td
+(4 bits \(since $2^4 = 16$\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 162.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 162.9001 Td
+(8 bits) Tj
+ET
+BT
+/F2 7.4 Tf
+322 153.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 153.3 Td
+(16 bits) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 16 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+16 0 obj
+<< /Length 10091 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 7 of 30) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(85.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What is a Matched Filter in digital receiver) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(design, and what fundamental metric does it) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(maximize at the sampling instant?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(It maximizes the output Signal-to-Noise) Tj
+ET
+BT
+/F1 7.4 Tf
+72 745.3 Td
+(Ratio \(SNR\) in the presence of stochastic) Tj
+ET
+BT
+/F1 7.4 Tf
+72 736.7 Td
+(AWGN noise) Tj
+ET
+BT
+/F2 7.4 Tf
+58 727.1 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 727.1 Td
+(It minimizes bandwidth) Tj
+ET
+BT
+/F2 7.4 Tf
+58 717.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 717.5001 Td
+(It maximizes carrier frequency) Tj
+ET
+BT
+/F2 7.4 Tf
+58 707.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 707.9001 Td
+(It eliminates harmonic distortion) Tj
+ET
+BT
+/F2 8.0 Tf
+42 684.3001 Td
+(86.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 684.3001 Td
+(In time-domain, how is the impulse response) Tj
+ET
+BT
+/F1 7.8 Tf
+58 675.1001 Td
+($h\(t\)$ of a matched filter related to the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 665.9001 Td
+(transmitted pulse shape $s\(t\)$?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 654.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 654.2001 Td
+($h\(t\) = s^*\(T - t\)$ \(time-reversed and) Tj
+ET
+BT
+/F1 7.4 Tf
+72 645.6001 Td
+(complex conjugated replica\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 636.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 636.0001 Td
+($h\(t\) = s\(t\)$) Tj
+ET
+BT
+/F2 7.4 Tf
+58 626.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 626.4001 Td
+($h\(t\) = 1 / s\(t\)$) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.8002 Td
+($h\(t\) = d s\(t\) / dt$) Tj
+ET
+BT
+/F2 8.0 Tf
+42 593.2002 Td
+(87.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 593.2002 Td
+(What standard pulse shaping filter is used in) Tj
+ET
+BT
+/F1 7.8 Tf
+58 584.0002 Td
+(wireless modems to achieve zero Intersymbol) Tj
+ET
+BT
+/F1 7.8 Tf
+58 574.8002 Td
+(Interference \(ISI\) while satisfying Nyquist) Tj
+ET
+BT
+/F1 7.8 Tf
+58 565.6002 Td
+(criterion?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 553.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 553.9001 Td
+(Root-Raised Cosine \(RRC\) filter) Tj
+ET
+BT
+/F2 7.4 Tf
+58 544.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 544.3002 Td
+(Butterworth filter) Tj
+ET
+BT
+/F2 7.4 Tf
+58 534.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 534.7002 Td
+(Rectangular boxcar filter) Tj
+ET
+BT
+/F2 7.4 Tf
+58 525.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 525.1002 Td
+(Chebyshev filter) Tj
+ET
+BT
+/F2 8.0 Tf
+42 501.5002 Td
+(88.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 501.5002 Td
+(What does the excess bandwidth parameter) Tj
+ET
+BT
+/F1 7.8 Tf
+58 492.3002 Td
+($\\alpha$ \(roll-off factor, $0 \\le \\alpha \\le 1$\)) Tj
+ET
+BT
+/F1 7.8 Tf
+58 483.1002 Td
+(control in a Raised Cosine filter?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 471.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 471.4002 Td
+(The trade-off between occupied frequency) Tj
+ET
+BT
+/F1 7.4 Tf
+72 462.8002 Td
+(bandwidth $B = \\frac{R_s}{2}\(1 + \\alpha\)$) Tj
+ET
+BT
+/F1 7.4 Tf
+72 454.2002 Td
+(and time-domain pulse ringing decay rate) Tj
+ET
+BT
+/F2 7.4 Tf
+58 444.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 444.6002 Td
+(The filter DC gain) Tj
+ET
+BT
+/F2 7.4 Tf
+58 435.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 435.0002 Td
+(The ADC bit depth) Tj
+ET
+BT
+/F2 7.4 Tf
+58 425.4002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 425.4002 Td
+(The carrier phase) Tj
+ET
+BT
+/F2 8.0 Tf
+42 401.8002 Td
+(89.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 401.8002 Td
+(Which standard instrument protocol defines) Tj
+ET
+BT
+/F1 7.8 Tf
+58 392.6002 Td
+(human-readable text commands \(e.g. `*IDN?`,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 383.4001 Td
+(`MEAS:VOLT:DC?`\) for programmable laboratory) Tj
+ET
+BT
+/F1 7.8 Tf
+58 374.2001 Td
+(equipment?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 362.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 362.5001 Td
+(SCPI \(Standard Commands for Programmable) Tj
+ET
+BT
+/F1 7.4 Tf
+72 353.9001 Td
+(Instruments\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 344.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 344.3001 Td
+(MODBUS) Tj
+ET
+BT
+/F2 7.4 Tf
+58 334.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 334.7001 Td
+(CANbus) Tj
+ET
+BT
+/F2 7.4 Tf
+58 325.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 325.1001 Td
+(I2C) Tj
+ET
+BT
+/F2 8.0 Tf
+42 301.5001 Td
+(90.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 301.5001 Td
+(Which Python library interfaces with VISA) Tj
+ET
+BT
+/F1 7.8 Tf
+58 292.3001 Td
+(\(Virtual Instrument Software Architecture\) test) Tj
+ET
+BT
+/F1 7.8 Tf
+58 283.1001 Td
+(equipment via GPIB, USB, and Ethernet?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 271.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 271.4001 Td
+(PyVISA) Tj
+ET
+BT
+/F2 7.4 Tf
+58 261.8 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 261.8 Td
+(pyserial) Tj
+ET
+BT
+/F2 7.4 Tf
+58 252.2 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 252.2 Td
+(scpi-py) Tj
+ET
+BT
+/F2 7.4 Tf
+58 242.6 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 242.6 Td
+(labview-python) Tj
+ET
+BT
+/F2 8.0 Tf
+42 219 Td
+(91.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 219 Td
+(How do you query an instrument identity string) Tj
+ET
+BT
+/F1 7.8 Tf
+58 209.8 Td
+(using PyVISA?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 198.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 198.1 Td
+(`inst.query\('*IDN?'\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 188.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 188.5 Td
+(`inst.ask\('ID'\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 178.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 178.9 Td
+(`inst.get_name\(\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 169.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 169.3 Td
+(`inst.read\('*IDN?'\)`) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(92.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What is the purpose of the CRC-16 or CRC-32) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(\(Cyclic Redundancy Check\) algorithm in serial) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(telemetry frames?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(Detecting single-bit, double-bit, and burst) Tj
+ET
+BT
+/F1 7.4 Tf
+336 745.3 Td
+(transmission errors caused by noise on) Tj
+ET
+BT
+/F1 7.4 Tf
+336 736.7 Td
+(communication links) Tj
+ET
+BT
+/F2 7.4 Tf
+322 727.1 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 727.1 Td
+(Data encryption) Tj
+ET
+BT
+/F2 7.4 Tf
+322 717.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 717.5001 Td
+(Data compression) Tj
+ET
+BT
+/F2 7.4 Tf
+322 707.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 707.9001 Td
+(Packet routing) Tj
+ET
+BT
+/F2 8.0 Tf
+306 684.3001 Td
+(93.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 684.3001 Td
+(Which built-in module computes CRC-32 checksums) Tj
+ET
+BT
+/F1 7.8 Tf
+322 675.1001 Td
+(in Python at high speeds?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 663.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 663.4001 Td
+(hashlib) Tj
+ET
+BT
+/F2 7.4 Tf
+322 653.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 653.8001 Td
+(binascii \(`binascii.crc32`\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 644.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 644.2001 Td
+(zlib \(`zlib.crc32`\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 634.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 634.6002 Td
+(Both binascii.crc32 and zlib.crc32) Tj
+ET
+BT
+/F2 8.0 Tf
+306 611.0002 Td
+(94.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 611.0002 Td
+(What does `struct.pack\('>HHf', 0xAA55, 100,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 601.8002 Td
+(3.14159\)` do in binary telemetry serialization?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 590.1002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 590.1002 Td
+(Packs integers and a float into big-endian) Tj
+ET
+BT
+/F1 7.4 Tf
+336 581.5002 Td
+(contiguous binary bytes according to the) Tj
+ET
+BT
+/F1 7.4 Tf
+336 572.9002 Td
+(format string) Tj
+ET
+BT
+/F2 7.4 Tf
+322 563.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 563.3002 Td
+(Parses JSON string) Tj
+ET
+BT
+/F2 7.4 Tf
+322 553.7003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 553.7003 Td
+(Compresses file) Tj
+ET
+BT
+/F2 7.4 Tf
+322 544.1003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 544.1003 Td
+(Encodes UTF-8 text) Tj
+ET
+BT
+/F2 8.0 Tf
+306 520.5003 Td
+(95.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 520.5003 Td
+(What format character in `struct` module) Tj
+ET
+BT
+/F1 7.8 Tf
+322 511.3003 Td
+(represents big-endian network byte ordering?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 499.6003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 499.6003 Td
+('>' or '!') Tj
+ET
+BT
+/F2 7.4 Tf
+322 490.0003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 490.0003 Td
+('<') Tj
+ET
+BT
+/F2 7.4 Tf
+322 480.4003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 480.4003 Td
+('=') Tj
+ET
+BT
+/F2 7.4 Tf
+322 470.8003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 470.8003 Td
+('@') Tj
+ET
+BT
+/F2 8.0 Tf
+306 447.2003 Td
+(96.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 447.2003 Td
+(What format character in `struct` represents a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 438.0002 Td
+(32-bit standard IEEE 754 floating-point number?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 426.3002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 426.3002 Td
+('f') Tj
+ET
+BT
+/F2 7.4 Tf
+322 416.7002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 416.7002 Td
+('d') Tj
+ET
+BT
+/F2 7.4 Tf
+322 407.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 407.1002 Td
+('i') Tj
+ET
+BT
+/F2 7.4 Tf
+322 397.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 397.5002 Td
+('q') Tj
+ET
+BT
+/F2 8.0 Tf
+306 373.9002 Td
+(97.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 373.9002 Td
+(Which Python library enables real-time) Tj
+ET
+BT
+/F1 7.8 Tf
+322 364.7002 Td
+(low-latency audio capture and playback through) Tj
+ET
+BT
+/F1 7.8 Tf
+322 355.5002 Td
+(PortAudio?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 343.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 343.8002 Td
+(wave) Tj
+ET
+BT
+/F2 7.4 Tf
+322 334.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 334.2002 Td
+(PyAudio) Tj
+ET
+BT
+/F2 7.4 Tf
+322 324.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 324.6002 Td
+(soundfile) Tj
+ET
+BT
+/F2 7.4 Tf
+322 315.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 315.0002 Td
+(audiolib) Tj
+ET
+BT
+/F2 8.0 Tf
+306 291.4001 Td
+(98.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 291.4001 Td
+(In real-time digital signal processing, what is) Tj
+ET
+BT
+/F1 7.8 Tf
+322 282.2001 Td
+('buffer underrun' or 'buffer overrun') Tj
+ET
+BT
+/F1 7.8 Tf
+322 273.0001 Td
+(\(dropouts\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 261.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 261.3001 Td
+(When the audio/DAC buffer runs out of) Tj
+ET
+BT
+/F1 7.4 Tf
+336 252.7001 Td
+(processed samples \(underrun\) or ADC fills) Tj
+ET
+BT
+/F1 7.4 Tf
+336 244.1001 Td
+(buffer before CPU reads it \(overrun\),) Tj
+ET
+BT
+/F1 7.4 Tf
+336 235.5001 Td
+(causing audible clicks/glitches) Tj
+ET
+BT
+/F2 7.4 Tf
+322 225.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 225.9001 Td
+(Hardware power failure) Tj
+ET
+BT
+/F2 7.4 Tf
+322 216.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 216.3001 Td
+(Memory leak) Tj
+ET
+BT
+/F2 7.4 Tf
+322 206.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 206.7001 Td
+(Floating-point overflow) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 18 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+18 0 obj
+<< /Length 1870 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 8 of 30) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(99.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What technique divides computational work among) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(a pool of worker processes to bypass the GIL for) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(parameter sweeps?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(`concurrent.futures.ProcessPoolExecutor` or) Tj
+ET
+BT
+/F1 7.4 Tf
+72 745.3 Td
+(`multiprocessing.Pool`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 735.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 735.7 Td
+(`threading.Thread`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 726.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 726.1 Td
+(`asyncio.gather`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 716.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 716.5001 Td
+(`generator`) Tj
+ET
+BT
+/F2 8.0 Tf
+42 682.9001 Td
+(100.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 682.9001 Td
+(What is Hardware-in-the-Loop \(HIL\) simulation in) Tj
+ET
+BT
+/F1 7.8 Tf
+58 673.7001 Td
+(embedded electronics engineering?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 662.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 662.0001 Td
+(A testing technique where physical) Tj
+ET
+BT
+/F1 7.4 Tf
+72 653.4001 Td
+(microcontroller hardware or electronic) Tj
+ET
+BT
+/F1 7.4 Tf
+72 644.8001 Td
+(control units \(ECUs\) are connected directly) Tj
+ET
+BT
+/F1 7.4 Tf
+72 636.2001 Td
+(to real-time software simulations of) Tj
+ET
+BT
+/F1 7.4 Tf
+72 627.6002 Td
+(plants/circuits) Tj
+ET
+BT
+/F2 7.4 Tf
+58 618.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 618.0002 Td
+(Running Python inside FPGA) Tj
+ET
+BT
+/F2 7.4 Tf
+58 608.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 608.4002 Td
+(Simulating CPU silicon gates) Tj
+ET
+BT
+/F2 7.4 Tf
+58 598.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 598.8002 Td
+(Compiling Python to C) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 20 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+20 0 obj
+<< /Length 4930 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 9 of 30) Tj
+ET
+BT
+/F2 10 Tf
+45 780 Td
+(SECTION B: DESCRIPTIVE & SUBJECTIVE QUESTIONS) Tj
+ET
+BT
+/F2 8.5 Tf
+45 760 Td
+(Q1. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 760 Td
+(Formulate the mathematical model of a series RLC resonant circuit and solve for its transient step) Tj
+ET
+BT
+/F1 8.5 Tf
+72 749.5 Td
+(response using `scipy.integrate.solve_ivp`.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 724.5 Td
+(Q2. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 724.5 Td
+(Design an active 4th-order low-pass Butterworth IIR filter in SciPy and evaluate its magnitude and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 714 Td
+(phase frequency response using `freqz`.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 689 Td
+(Q3. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 689 Td
+(Compare causal IIR filtering \(`lfilter`\) versus zero-phase non-causal forward-backward filtering) Tj
+ET
+BT
+/F1 8.5 Tf
+72 678.5 Td
+(\(`filtfilt`\) with mathematical derivations.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 653.5 Td
+(Q4. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 653.5 Td
+(Implement an Amplitude Modulation \(AM\) and Envelope Demodulation simulation in Python with) Tj
+ET
+BT
+/F1 8.5 Tf
+72 643 Td
+(Additive White Gaussian Noise \(AWGN\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 618 Td
+(Q5. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 618 Td
+(Write an end-to-end Python script using `pySerial` to configure an RF synthesizer instrument, send) Tj
+ET
+BT
+/F1 8.5 Tf
+72 607.5 Td
+(SCPI commands, and parse responses.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 582.5 Td
+(Q6. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 582.5 Td
+(Implement a robust multi-threaded TCP telemetry server in Python that accepts multiple wireless) Tj
+ET
+BT
+/F1 8.5 Tf
+72 572 Td
+(sensor clients and logs data.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 547 Td
+(Q7. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 547 Td
+(Formulate and implement the classical 4th-Order Runge-Kutta \(RK4\) numerical ODE solver from) Tj
+ET
+BT
+/F1 8.5 Tf
+72 536.5 Td
+(scratch in Python.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 511.5 Td
+(Q8. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 511.5 Td
+(Design a Monte Carlo simulation in Python to evaluate the Bit Error Rate \(BER\) of BPSK over an) Tj
+ET
+BT
+/F1 8.5 Tf
+72 501 Td
+(AWGN channel against theoretical $Q\(\\sqrt{2 E_b/N_0}\)$.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 476 Td
+(Q9. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 476 Td
+(Implement a real-time sensor telemetry logger using Python `sqlite3` with indexed timestamp schema) Tj
+ET
+BT
+/F1 8.5 Tf
+72 465.5 Td
+(and statistical aggregation queries.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 440.5 Td
+(Q10. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 440.5 Td
+(Demonstrate high-precision pitch and dominant frequency detection in audio signals using FFT with) Tj
+ET
+BT
+/F1 8.5 Tf
+72 430 Td
+(parabolic interpolation.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 405 Td
+(Q11. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 405 Td
+(Explain the implementation of an MQTT publisher and subscriber in Python using `paho-mqtt` for an) Tj
+ET
+BT
+/F1 8.5 Tf
+72 394.5 Td
+(environmental monitoring system.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 369.5 Td
+(Q12. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 369.5 Td
+(Detail the design and implementation of an asynchronous TCP sensor hub in Python using `asyncio`.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 334 Td
+(Q13. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 334 Td
+(Demonstrate diode I-V Shockley equation parameter extraction using non-linear least squares curve) Tj
+ET
+BT
+/F1 8.5 Tf
+72 323.5 Td
+(fitting with `scipy.optimize.curve_fit`.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 298.5 Td
+(Q14. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 298.5 Td
+(Implement a custom binary packet parser using Python's `struct` module for embedded CANbus or UART) Tj
+ET
+BT
+/F1 8.5 Tf
+72 288 Td
+(protocols with CRC checks.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 263 Td
+(Q15. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 263 Td
+(Explain the architecture of a Software-Defined Radio \(SDR\) Costas Loop for carrier phase) Tj
+ET
+BT
+/F1 8.5 Tf
+72 252.5 Td
+(synchronization in BPSK.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 227.5 Td
+(Q16. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 227.5 Td
+(Implement a vectorized Root-Raised Cosine \(RRC\) pulse shaping filter generator in NumPy for) Tj
+ET
+BT
+/F1 8.5 Tf
+72 217 Td
+(Nyquist signaling.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 192 Td
+(Q17. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 192 Td
+(Demonstrate continuous-time state-space simulation of a closed-loop PID DC motor angular speed) Tj
+ET
+BT
+/F1 8.5 Tf
+72 181.5 Td
+(controller.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 156.5 Td
+(Q18. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 156.5 Td
+(Explain the principles of Software-Defined Radio \(SDR\) Quadrature Amplitude Modulation \(16-QAM\)) Tj
+ET
+BT
+/F1 8.5 Tf
+72 146 Td
+(constellation mapping and demapping.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 121 Td
+(Q19. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 121 Td
+(Demonstrate microsecond algorithm execution profiling using `cProfile` and memory profiling in) Tj
+ET
+BT
+/F1 8.5 Tf
+72 110.5 Td
+(scientific Python pipelines.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 85.5 Td
+(Q20. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 85.5 Td
+(Implement an automated Hardware-in-the-Loop \(HIL\) test suite in Python executing automated test) Tj
+ET
+BT
+/F1 8.5 Tf
+72 75 Td
+(vectors and asserting tolerance bands.) Tj
+ET
+
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 22 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+22 0 obj
+<< /Length 2267 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 10 of 30) Tj
+ET
+BT
+/F2 8.5 Tf
+45 780 Td
+(Q21. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 780 Td
+(Implement an automated discrete Phase-Locked Loop \(PLL\) in Python for carrier frequency tracking.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 743.5 Td
+(Q22. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 743.5 Td
+(Write a Python script for automated multi-channel oscilloscope waveform acquisition via PyVISA and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 733 Td
+(USBTMC.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 707 Td
+(Q23. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 707 Td
+(Demonstrate circular buffer design using Python `multiprocessing.shared_memory` for multi-process) Tj
+ET
+BT
+/F1 8.5 Tf
+72 696.5 Td
+(IPC data streaming.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 670.5 Td
+(Q24. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 670.5 Td
+(Implement an adaptive Wiener filter in Python for optimal signal restoration in colored noise) Tj
+ET
+BT
+/F1 8.5 Tf
+72 660 Td
+(environments.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 634 Td
+(Q25. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 634 Td
+(Explain the implementation of a Discrete Wavelet Transform \(DWT\) multi-resolution decomposition) Tj
+ET
+BT
+/F1 8.5 Tf
+72 623.5 Td
+(using `PyWavelets`.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 597.5 Td
+(Q26. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 597.5 Td
+(Implement a custom PID speed controller simulation with anti-windup clamping in Python.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 561 Td
+(Q27. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 561 Td
+(Design an FIR Hilbert Transformer filter in Python for creating single-sideband \(SSB\) modulated) Tj
+ET
+BT
+/F1 8.5 Tf
+72 550.5 Td
+(communications signals.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 524.5 Td
+(Q28. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 524.5 Td
+(Implement an automated Peak-to-Average Power Ratio \(PAPR\) reduction simulation using Selected) Tj
+ET
+BT
+/F1 8.5 Tf
+72 514 Td
+(Mapping \(SLM\) for OFDM.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 488 Td
+(Q29. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 488 Td
+(Explain the architecture and design of an automated SCPI command parser and emulator in Python.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 451.5 Td
+(Q30. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 451.5 Td
+(Implement an automated test reporting framework combining DSP simulations, statistics, and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 441 Td
+(Matplotlib figure export.) Tj
+ET
+
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 24 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+24 0 obj
+<< /Length 8362 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 11 of 30) Tj
+ET
+BT
+/F2 11 Tf
+45 780 Td
+(SECTION C: ANSWER KEY - MULTIPLE CHOICE QUESTIONS) Tj
+ET
+0.5 w
+45 772 m 550 772 l S
+BT
+/F2 8.5 Tf
+45 750 Td
+(Q1: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 750 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 734 Td
+(Q2: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 734 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 718 Td
+(Q3: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 718 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 702 Td
+(Q4: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 702 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 686 Td
+(Q5: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 670 Td
+(Q6: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 670 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 654 Td
+(Q7: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 654 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 638 Td
+(Q8: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 622 Td
+(Q9: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 622 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 606 Td
+(Q10: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 590 Td
+(Q11: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 590 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 574 Td
+(Q12: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 574 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 558 Td
+(Q13: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 558 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 542 Td
+(Q14: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 542 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 526 Td
+(Q15: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 526 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 510 Td
+(Q16: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 510 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 494 Td
+(Q17: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 494 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 478 Td
+(Q18: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 462 Td
+(Q19: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 462 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 446 Td
+(Q20: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 446 Td
+([A]) Tj
+ET
+0.2 w
+135 755 m 135 425 l S
+BT
+/F2 8.5 Tf
+145 750 Td
+(Q21: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 734 Td
+(Q22: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 734 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 718 Td
+(Q23: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 718 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 702 Td
+(Q24: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 702 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 686 Td
+(Q25: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 670 Td
+(Q26: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 670 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 654 Td
+(Q27: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 654 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 638 Td
+(Q28: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 638 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 622 Td
+(Q29: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 622 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 606 Td
+(Q30: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 590 Td
+(Q31: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 590 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 574 Td
+(Q32: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 574 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 558 Td
+(Q33: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 558 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 542 Td
+(Q34: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 542 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 526 Td
+(Q35: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 526 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 510 Td
+(Q36: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 510 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 494 Td
+(Q37: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 494 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 478 Td
+(Q38: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 478 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 462 Td
+(Q39: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 462 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 446 Td
+(Q40: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 446 Td
+([B]) Tj
+ET
+0.2 w
+235 755 m 235 425 l S
+BT
+/F2 8.5 Tf
+245 750 Td
+(Q41: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 750 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 734 Td
+(Q42: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 734 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 718 Td
+(Q43: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 718 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 702 Td
+(Q44: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 702 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 686 Td
+(Q45: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 686 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 670 Td
+(Q46: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 670 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 654 Td
+(Q47: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 654 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 638 Td
+(Q48: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 638 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 622 Td
+(Q49: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 606 Td
+(Q50: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 606 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 590 Td
+(Q51: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 574 Td
+(Q52: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 558 Td
+(Q53: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 558 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 542 Td
+(Q54: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 526 Td
+(Q55: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 510 Td
+(Q56: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 510 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 494 Td
+(Q57: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 478 Td
+(Q58: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 478 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 462 Td
+(Q59: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 462 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 446 Td
+(Q60: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 446 Td
+([B]) Tj
+ET
+0.2 w
+335 755 m 335 425 l S
+BT
+/F2 8.5 Tf
+345 750 Td
+(Q61: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 734 Td
+(Q62: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 718 Td
+(Q63: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 702 Td
+(Q64: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 702 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 686 Td
+(Q65: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 670 Td
+(Q66: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 670 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 654 Td
+(Q67: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 638 Td
+(Q68: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 622 Td
+(Q69: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 622 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 606 Td
+(Q70: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 590 Td
+(Q71: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 590 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 574 Td
+(Q72: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 574 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 558 Td
+(Q73: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 558 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 542 Td
+(Q74: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 526 Td
+(Q75: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 526 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 510 Td
+(Q76: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 494 Td
+(Q77: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 478 Td
+(Q78: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 478 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 462 Td
+(Q79: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 446 Td
+(Q80: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 446 Td
+([A]) Tj
+ET
+0.2 w
+435 755 m 435 425 l S
+BT
+/F2 8.5 Tf
+445 750 Td
+(Q81: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 734 Td
+(Q82: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 718 Td
+(Q83: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 702 Td
+(Q84: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 702 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 686 Td
+(Q85: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 670 Td
+(Q86: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 654 Td
+(Q87: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 638 Td
+(Q88: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 622 Td
+(Q89: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 606 Td
+(Q90: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 590 Td
+(Q91: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 574 Td
+(Q92: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 558 Td
+(Q93: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 558 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 542 Td
+(Q94: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 526 Td
+(Q95: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 510 Td
+(Q96: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 494 Td
+(Q97: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 494 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 478 Td
+(Q98: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 462 Td
+(Q99: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 446 Td
+(Q100: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 446 Td
+([A]) Tj
+ET
+0.5 w
+45 400 m 550 400 l 550 340 l 45 340 l s
+BT
+/F2 9 Tf
+55 382 Td
+(MCQ Scoring Guide & Difficulty Distribution:) Tj
+ET
+BT
+/F1 8.5 Tf
+55 366 Td
+(Questions 1 to 40: Foundational & Conceptual [Easy] | Questions 41 to 75: Analytical & Applied [Moderate]) Tj
+ET
+BT
+/F1 8.5 Tf
+55 350 Td
+(Questions 76 to 100: Complex Numerical & Advanced Problem Solving [Difficult]) Tj
+ET
+
+endstream
+endobj
+25 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 26 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+26 0 obj
+<< /Length 3359 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 12 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(SECTION D: DETAILED SOLUTIONS FOR SUBJECTIVE QUESTIONS) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(================================================================================) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 1:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Formulate the mathematical model of a series RLC resonant circuit and solve for its transient step response using `scipy.integrate.solve_ivp`.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Series RLC Circuit Mathematical Formulation:) Tj
+T*
+() Tj
+T*
+(   Applying Kirchhoff's Voltage Law \(KVL\) around a series RLC loop excited by step voltage) Tj
+T*
+(   $V_{in}\(t\)$:) Tj
+T*
+(   $$L \\frac{di\(t\)}{dt} + R i\(t\) + v_C\(t\) = V_{in}\(t\)$$) Tj
+T*
+(   Since the current through the capacitor is $i\(t\) = C \\frac{dv_C\(t\)}{dt}$, we substitute to) Tj
+T*
+(   obtain the second-order ordinary differential equation:) Tj
+T*
+(   $$\\frac{d^2 v_C\(t\)}{dt^2} + \\frac{R}{L} \\frac{dv_C\(t\)}{dt} + \\frac{1}{L C} v_C\(t\) = \\frac{1}{L) Tj
+T*
+(   C} V_{in}\(t\)$$) Tj
+T*
+(   Damping ratio $\\zeta = \\frac{R}{2} \\sqrt{\\frac{C}{L}}$ and undamped natural frequency $\\omega_0) Tj
+T*
+(   = \\frac{1}{\\sqrt{L C}}$.) Tj
+T*
+() Tj
+T*
+(   State-Space First-Order System Transformation:) Tj
+T*
+(   Let state variables be $x_1 = v_C$ and $x_2 = \\frac{dv_C}{dt} = \\frac{i}{C}$:) Tj
+T*
+(   $$\\begin{bmatrix} \\dot{x}_1 \\\\ \\dot{x}_2 \\end{bmatrix} = \\begin{bmatrix} 0 & 1 \\\\ -\\frac{1}{LC}) Tj
+T*
+(   & -\\frac{R}{L} \\end{bmatrix} \\begin{bmatrix} x_1 \\\\ x_2 \\end{bmatrix} + \\begin{bmatrix} 0 \\\\) Tj
+T*
+(   \\frac{V_{in}}{LC} \\end{bmatrix}$$) Tj
+T*
+() Tj
+T*
+(   SciPy Implementation:) Tj
+T*
+(   ```python) Tj
+T*
+(   import numpy as np) Tj
+T*
+(   from scipy.integrate import solve_ivp) Tj
+T*
+() Tj
+T*
+(   R, L, C = 10.0, 1e-3, 10e-6 # R=10 Ohm, L=1 mH, C=10 uF) Tj
+T*
+(   Vin = 5.0 # 5V step) Tj
+T*
+() Tj
+T*
+(   def rlc_dynamics\(t, state\):) Tj
+T*
+(   vc, dvc = state) Tj
+T*
+(   d2vc = \(Vin - R * \(C * dvc\) - vc\) / \(L * C\)) Tj
+T*
+(   return [dvc, d2vc]) Tj
+T*
+() Tj
+T*
+(   t_span = \(0, 0.002\) # 2 ms simulation) Tj
+T*
+(   t_eval = np.linspace\(0, 0.002, 1000\)) Tj
+T*
+(   sol = solve_ivp\(rlc_dynamics, t_span, [0.0, 0.0], t_eval=t_eval, method='RK45'\)) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 2:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Design an active 4th-order low-pass Butterworth IIR filter in SciPy and evaluate its magnitude and phase frequency response using `freqz`.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Butterworth Filter Design Principles:) Tj
+T*
+() Tj
+T*
+(   A Butterworth filter is characterized by a maximally flat magnitude response in the passband) Tj
+T*
+(   with no ripple:) Tj
+T*
+(   $$|H\(j\\omega\)|^2 = \\frac{1}{1 + \(\\omega / \\omega_c\)^{2N}}$$) Tj
+T*
+(   where $N=4$ is the filter order and $\\omega_c = 2\\pi f_c$ is the -3 dB cutoff frequency.) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+27 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 28 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+28 0 obj
+<< /Length 3391 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 13 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   Python Implementation using Second-Order Sections \(SOS\):) Tj
+T*
+(   ```python) Tj
+T*
+(   import numpy as np) Tj
+T*
+(   from scipy import signal) Tj
+T*
+() Tj
+T*
+(   fs = 48000.0 # 48 kHz sampling rate) Tj
+T*
+(   fc = 4000.0 # 4 kHz cutoff frequency) Tj
+T*
+(   order = 4) Tj
+T*
+() Tj
+T*
+(   # Design filter returning Second-Order Sections \(SOS\)) Tj
+T*
+(   sos = signal.butter\(order, fc, btype='lowpass', fs=fs, output='sos'\)) Tj
+T*
+() Tj
+T*
+(   # Compute complex frequency response) Tj
+T*
+(   w, h = signal.sosfreqz\(sos, worN=2048, fs=fs\)) Tj
+T*
+(   mag_db = 20 * np.log10\(np.maximum\(np.abs\(h\), 1e-6\)\)) Tj
+T*
+(   phase_deg = np.unwrap\(np.angle\(h\)\) * \(180 / np.pi\)) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(   Evaluation: At $f = 4$ kHz, the gain is precisely -3.01 dB, and in the stopband \($f > 8$ kHz\),) Tj
+T*
+(   the attenuation rolls off at $-20 \\times N = -80$ dB/decade.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 3:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Compare causal IIR filtering \(`lfilter`\) versus zero-phase non-causal forward-backward filtering \(`filtfilt`\) with mathematical derivations.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Phase Distortion Analysis:) Tj
+T*
+() Tj
+T*
+(   1. Causal Filtering \(`lfilter`\):) Tj
+T*
+(   When an input signal $x[n]$ is passed through an IIR filter $H\(z\)$:) Tj
+T*
+(   $$y_{causal}[n] = \\sum_{k=0}^M b_k x[n-k] - \\sum_{k=1}^N a_k y_{causal}[n-k]$$) Tj
+T*
+(   Because IIR filters possess non-linear phase responses $\\theta\(\\omega\)$, different frequency) Tj
+T*
+(   components experience different group delays $\\tau_g\(\\omega\) =) Tj
+T*
+(   -\\frac{d\\theta\(\\omega\)}{d\\omega}$, distorting pulse waveforms, ECG complexes, and digital radar) Tj
+T*
+(   echoes.) Tj
+T*
+() Tj
+T*
+(   2. Zero-Phase Forward-Backward Filtering \(`filtfilt`\):) Tj
+T*
+(   - Step 1: Forward filter $x[n]$ through $H\(z\)$ to produce intermediate output $v[n]$.) Tj
+T*
+(   - Step 2: Time-reverse $v[n]$ to obtain $v[-n]$ and filter through $H\(z\)$ again.) Tj
+T*
+(   - Step 3: Time-reverse the result to yield final output $y[n]$.) Tj
+T*
+() Tj
+T*
+(   Effective System Transfer Function:) Tj
+T*
+(   $$H_{eff}\(e^{j\\omega}\) = H\(e^{j\\omega}\) \\cdot H^*\(e^{j\\omega}\) = |H\(e^{j\\omega}\)|^2$$) Tj
+T*
+(   Because $|H\(e^{j\\omega}\)|^2$ is purely real and positive, the overall phase response is) Tj
+T*
+(   IDENTICALLY ZERO $\\theta_{eff}\(\\omega\) \\equiv 0$. Group delay is exactly zero, completely) Tj
+T*
+(   preserving signal peak alignments in post-processing applications.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 4:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement an Amplitude Modulation \(AM\) and Envelope Demodulation simulation in Python with Additive White Gaussian Noise \(AWGN\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   AM Simulation Workflow:) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+29 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 30 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+30 0 obj
+<< /Length 2431 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 14 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   ```python) Tj
+T*
+(   import numpy as np) Tj
+T*
+(   from scipy import signal) Tj
+T*
+() Tj
+T*
+(   fs = 200000.0 # 200 kHz sampling rate) Tj
+T*
+(   t = np.linspace\(0, 0.01, int\(0.01 * fs\), endpoint=False\) # 10 ms) Tj
+T*
+() Tj
+T*
+(   # Message: 1 kHz tone; Carrier: 20 kHz tone) Tj
+T*
+(   fm, fc = 1000.0, 20000.0) Tj
+T*
+(   m_t = np.cos\(2 * np.pi * fm * t\)) Tj
+T*
+(   mu = 0.8 # Modulation index 80%) Tj
+T*
+(   Ac = 1.0) Tj
+T*
+() Tj
+T*
+(   # AM Double-Sideband with Carrier \(DSB-WC\)) Tj
+T*
+(   s_tx = Ac * \(1 + mu * m_t\) * np.cos\(2 * np.pi * fc * t\)) Tj
+T*
+() Tj
+T*
+(   # Channel AWGN: Add noise for 15 dB SNR) Tj
+T*
+(   p_sig = np.mean\(s_tx**2\)) Tj
+T*
+(   p_noise = p_sig / \(10**\(15.0 / 10.0\)\)) Tj
+T*
+(   noise = np.random.normal\(0, np.sqrt\(p_noise\), len\(t\)\)) Tj
+T*
+(   s_rx = s_tx + noise) Tj
+T*
+() Tj
+T*
+(   # Demodulation via Analytic Signal \(Hilbert Transform\)) Tj
+T*
+(   analytic_rx = signal.hilbert\(s_rx\)) Tj
+T*
+(   env_rx = np.abs\(analytic_rx\)) Tj
+T*
+() Tj
+T*
+(   # Remove DC carrier offset to reconstruct original message) Tj
+T*
+(   m_demod = \(env_rx - np.mean\(env_rx\)\) / \(Ac * mu\)) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 5:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an end-to-end Python script using `pySerial` to configure an RF synthesizer instrument, send SCPI commands, and parse responses.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Automated Instrument Control via `pySerial`:) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   import serial) Tj
+T*
+(   import time) Tj
+T*
+() Tj
+T*
+(   class InstrumentController:) Tj
+T*
+(   def __init__\(self, port='COM3', baudrate=115200, timeout=1.0\):) Tj
+T*
+(   self.ser = serial.Serial\() Tj
+T*
+(   port=port,) Tj
+T*
+(   baudrate=baudrate,) Tj
+T*
+(   bytesize=serial.EIGHTBITS,) Tj
+T*
+(   parity=serial.PARITY_NONE,) Tj
+T*
+(   stopbits=serial.STOPBITS_ONE,) Tj
+T*
+(   timeout=timeout) Tj
+T*
+(   \)) Tj
+T*
+(   time.sleep\(1.5\) # Allow DTR reset stabilization) Tj
+T*
+() Tj
+T*
+(   def query\(self, cmd: str\) -> str:) Tj
+T*
+ET
+
+endstream
+endobj
+31 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 32 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+32 0 obj
+<< /Length 2455 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 15 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   # Format command with standard carriage-return/newline) Tj
+T*
+(   full_cmd = \(cmd.strip\(\) + '\\r\\n'\).encode\('ascii'\)) Tj
+T*
+(   self.ser.write\(full_cmd\)) Tj
+T*
+(   # Read response line) Tj
+T*
+(   raw_resp = self.ser.readline\(\)) Tj
+T*
+(   return raw_resp.decode\('ascii'\).strip\(\)) Tj
+T*
+() Tj
+T*
+(   def set_rf_frequency\(self, freq_mhz: float\):) Tj
+T*
+(   resp = self.query\(f':FREQ:CW {freq_mhz} MHz'\)) Tj
+T*
+(   status = self.query\(':SYST:ERR?'\)) Tj
+T*
+(   return status) Tj
+T*
+() Tj
+T*
+(   def close\(self\):) Tj
+T*
+(   self.ser.close\(\)) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 6:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement a robust multi-threaded TCP telemetry server in Python that accepts multiple wireless sensor clients and logs data.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Multi-Threaded TCP Telemetry Server:) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   import socket) Tj
+T*
+(   import threading) Tj
+T*
+(   import json) Tj
+T*
+() Tj
+T*
+(   class TelemetryServer:) Tj
+T*
+(   def __init__\(self, host='0.0.0.0', port=9000\):) Tj
+T*
+(   self.server_sock = socket.socket\(socket.AF_INET, socket.SOCK_STREAM\)) Tj
+T*
+(   self.server_sock.setsockopt\(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1\)) Tj
+T*
+(   self.server_sock.bind\(\(host, port\)\)) Tj
+T*
+(   self.server_sock.listen\(5\)) Tj
+T*
+(   self.running = True) Tj
+T*
+() Tj
+T*
+(   def handle_client\(self, client_sock, client_addr\):) Tj
+T*
+(   print\(f'[+] Client connected: {client_addr}'\)) Tj
+T*
+(   with client_sock:) Tj
+T*
+(   buffer = '') Tj
+T*
+(   while self.running:) Tj
+T*
+(   data = client_sock.recv\(1024\).decode\('utf-8'\)) Tj
+T*
+(   if not data: break) Tj
+T*
+(   buffer += data) Tj
+T*
+(   while '\\n' in buffer:) Tj
+T*
+(   line, buffer = buffer.split\('\\n', 1\)) Tj
+T*
+(   try:) Tj
+T*
+(   packet = json.loads\(line\)) Tj
+T*
+(   print\(f'[{client_addr[0]}] V={packet["v"]}V, T={packet["t"]}C'\)) Tj
+T*
+(   except json.JSONDecodeError:) Tj
+T*
+(   pass) Tj
+T*
+() Tj
+T*
+(   def start\(self\):) Tj
+T*
+(   while self.running:) Tj
+T*
+ET
+
+endstream
+endobj
+33 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 34 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+34 0 obj
+<< /Length 2818 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 16 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   client, addr = self.server_sock.accept\(\)) Tj
+T*
+(   t = threading.Thread\(target=self.handle_client, args=\(client, addr\), daemon=True\)) Tj
+T*
+(   t.start\(\)) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 7:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Formulate and implement the classical 4th-Order Runge-Kutta \(RK4\) numerical ODE solver from scratch in Python.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Mathematical Derivation of Classical RK4:) Tj
+T*
+() Tj
+T*
+(   To solve the initial value problem $\\frac{dy}{dt} = f\(t, y\)$ with $y\(t_0\) = y_0$ and step size) Tj
+T*
+(   $h$:) Tj
+T*
+(   $$y_{n+1} = y_n + \\frac{h}{6} \(k_1 + 2 k_2 + 2 k_3 + k_4\)$$) Tj
+T*
+(   where the four trial slopes are evaluated as:) Tj
+T*
+(   - $k_1 = f\(t_n, y_n\)$) Tj
+T*
+(   - $k_2 = f\\left\( t_n + \\frac{h}{2}, y_n + \\frac{h}{2} k_1 \\right\)$) Tj
+T*
+(   - $k_3 = f\\left\( t_n + \\frac{h}{2}, y_n + \\frac{h}{2} k_2 \\right\)$) Tj
+T*
+(   - $k_4 = f\(t_n + h, y_n + h k_3\)$) Tj
+T*
+() Tj
+T*
+(   Global Truncation Error: $\\mathcal{O}\(h^4\)$, delivering fourth-order polynomial accuracy with) Tj
+T*
+(   exceptional stability margins.) Tj
+T*
+() Tj
+T*
+(   Python Implementation:) Tj
+T*
+(   ```python) Tj
+T*
+(   def rk4_integrator\(f, t0, y0, t_end, h\):) Tj
+T*
+(   t_values = [t0]) Tj
+T*
+(   y_values = [y0]) Tj
+T*
+(   t, y = t0, y0) Tj
+T*
+(   while t < t_end:) Tj
+T*
+(   k1 = f\(t, y\)) Tj
+T*
+(   k2 = f\(t + 0.5 * h, y + 0.5 * h * k1\)) Tj
+T*
+(   k3 = f\(t + 0.5 * h, y + 0.5 * h * k2\)) Tj
+T*
+(   k4 = f\(t + h, y + h * k3\)) Tj
+T*
+(   y = y + \(h / 6.0\) * \(k1 + 2*k2 + 2*k3 + k4\)) Tj
+T*
+(   t += h) Tj
+T*
+(   t_values.append\(t\)) Tj
+T*
+(   y_values.append\(y\)) Tj
+T*
+(   return np.array\(t_values\), np.array\(y_values\)) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 8:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Design a Monte Carlo simulation in Python to evaluate the Bit Error Rate \(BER\) of BPSK over an AWGN channel against theoretical $Q\(\\sqrt{2 E_b/N_0}\)$.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   BPSK Monte Carlo Simulation Architecture:) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   import numpy as np) Tj
+T*
+(   from scipy.special import erfc) Tj
+T*
+() Tj
+T*
+(   def simulate_bpsk_ber\(snr_db_range, num_bits=1000000\):) Tj
+T*
+ET
+
+endstream
+endobj
+35 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 36 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+36 0 obj
+<< /Length 2313 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 17 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   ber_sim = []) Tj
+T*
+(   ber_theory = []) Tj
+T*
+() Tj
+T*
+(   # 1. Generate random binary bits {0, 1}) Tj
+T*
+(   bits = np.random.randint\(0, 2, num_bits\)) Tj
+T*
+(   # 2. BPSK mapping: 0 -> +1 V, 1 -> -1 V) Tj
+T*
+(   s = 1.0 - 2.0 * bits) Tj
+T*
+() Tj
+T*
+(   for snr_db in snr_db_range:) Tj
+T*
+(   snr_linear = 10.0 ** \(snr_db / 10.0\)) Tj
+T*
+(   # Noise variance: sigma^2 = Eb / \(2 * SNR\)) Tj
+T*
+(   sigma = np.sqrt\(1.0 / \(2.0 * snr_linear\)\)) Tj
+T*
+(   noise = np.random.normal\(0, sigma, num_bits\)) Tj
+T*
+(   r = s + noise) Tj
+T*
+() Tj
+T*
+(   # Optimal threshold decision at 0V) Tj
+T*
+(   detected_bits = \(r < 0.0\).astype\(int\)) Tj
+T*
+(   errors = np.sum\(bits != detected_bits\)) Tj
+T*
+(   ber_sim.append\(errors / num_bits\)) Tj
+T*
+() Tj
+T*
+(   # Theoretical Q\(sqrt\(2 * Eb/N0\)\)) Tj
+T*
+(   theory = 0.5 * erfc\(np.sqrt\(snr_linear\)\)) Tj
+T*
+(   ber_theory.append\(theory\)) Tj
+T*
+() Tj
+T*
+(   return np.array\(ber_sim\), np.array\(ber_theory\)) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 9:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement a real-time sensor telemetry logger using Python `sqlite3` with indexed timestamp schema and statistical aggregation queries.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   SQLite Telemetry Logging Engine:) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   import sqlite3) Tj
+T*
+(   import time) Tj
+T*
+() Tj
+T*
+(   class TelemetryDB:) Tj
+T*
+(   def __init__\(self, db_path='telemetry.db'\):) Tj
+T*
+(   self.conn = sqlite3.connect\(db_path\)) Tj
+T*
+(   self.create_tables\(\)) Tj
+T*
+() Tj
+T*
+(   def create_tables\(self\):) Tj
+T*
+(   with self.conn:) Tj
+T*
+(   self.conn.execute\(''') Tj
+T*
+(   CREATE TABLE IF NOT EXISTS sensor_logs \() Tj
+T*
+(   id INTEGER PRIMARY KEY AUTOINCREMENT,) Tj
+T*
+(   timestamp REAL NOT NULL,) Tj
+T*
+(   node_id TEXT NOT NULL,) Tj
+T*
+(   voltage REAL,) Tj
+T*
+(   rssi_dbm INTEGER) Tj
+T*
+(   \)) Tj
+T*
+(   '''\)) Tj
+T*
+ET
+
+endstream
+endobj
+37 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 38 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+38 0 obj
+<< /Length 2575 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 18 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   # B-Tree index on timestamp for fast time-range queries) Tj
+T*
+(   self.conn.execute\('CREATE INDEX IF NOT EXISTS idx_time ON sensor_logs\(timestamp\)'\)) Tj
+T*
+() Tj
+T*
+(   def insert_batch\(self, records\):) Tj
+T*
+(   with self.conn:) Tj
+T*
+(   self.conn.executemany\() Tj
+T*
+(   'INSERT INTO sensor_logs \(timestamp, node_id, voltage, rssi_dbm\) VALUES \(?, ?, ?, ?\)',) Tj
+T*
+(   records) Tj
+T*
+(   \)) Tj
+T*
+() Tj
+T*
+(   def query_hourly_stats\(self, node_id\):) Tj
+T*
+(   cursor = self.conn.cursor\(\)) Tj
+T*
+(   cursor.execute\(''') Tj
+T*
+(   SELECT AVG\(voltage\), MIN\(voltage\), MAX\(voltage\), COUNT\(*\)) Tj
+T*
+(   FROM sensor_logs WHERE node_id = ? AND timestamp >= ?) Tj
+T*
+(   ''', \(node_id, time.time\(\) - 3600\)\)) Tj
+T*
+(   return cursor.fetchone\(\)) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 10:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Demonstrate high-precision pitch and dominant frequency detection in audio signals using FFT with parabolic interpolation.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   FFT Peak Detection with Parabolic Interpolation:) Tj
+T*
+() Tj
+T*
+(   Due to discrete FFT bin spacing $\\Delta f = f_s / N$, the true continuous peak frequency often) Tj
+T*
+(   lies between two discrete bins.) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   import numpy as np) Tj
+T*
+() Tj
+T*
+(   def estimate_exact_pitch\(signal_frame, fs\):) Tj
+T*
+(   N = len\(signal_frame\)) Tj
+T*
+(   # Apply Hanning window) Tj
+T*
+(   windowed = signal_frame * np.hanning\(N\)) Tj
+T*
+(   spectrum = np.abs\(np.fft.rfft\(windowed\)\)) Tj
+T*
+() Tj
+T*
+(   # Find maximum discrete bin) Tj
+T*
+(   k = np.argmax\(spectrum\)) Tj
+T*
+(   if k == 0 or k == len\(spectrum\) - 1:) Tj
+T*
+(   return k * \(fs / N\)) Tj
+T*
+() Tj
+T*
+(   # Parabolic interpolation on log-magnitude) Tj
+T*
+(   alpha = np.log\(spectrum[k - 1]\)) Tj
+T*
+(   beta = np.log\(spectrum[k]\)) Tj
+T*
+(   gamma = np.log\(spectrum[k + 1]\)) Tj
+T*
+() Tj
+T*
+(   # Fractional bin offset delta in range [-0.5, 0.5]) Tj
+T*
+(   delta = 0.5 * \(alpha - gamma\) / \(alpha - 2 * beta + gamma\)) Tj
+T*
+(   true_freq = \(k + delta\) * \(fs / N\)) Tj
+T*
+(   return true_freq) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+39 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 40 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+40 0 obj
+<< /Length 2864 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 19 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 11:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the implementation of an MQTT publisher and subscriber in Python using `paho-mqtt` for an environmental monitoring system.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   MQTT IoT Telemetry Architecture:) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   import paho.mqtt.client as mqtt) Tj
+T*
+(   import json, time) Tj
+T*
+() Tj
+T*
+(   # --- 1. Telemetry Subscriber \(Server/Dashboard\) ---) Tj
+T*
+(   def on_message\(client, userdata, msg\):) Tj
+T*
+(   payload = json.loads\(msg.payload.decode\('utf-8'\)\)) Tj
+T*
+(   print\(f'[MQTT {msg.topic}] Temp: {payload["temp"]} C, Humidity: {payload["hum"]}%'\)) Tj
+T*
+() Tj
+T*
+(   sub_client = mqtt.Client\(client_id='Dashboard_Sub'\)) Tj
+T*
+(   sub_client.on_message = on_message) Tj
+T*
+(   sub_client.connect\('broker.hivemq.com', 1883, 60\)) Tj
+T*
+(   sub_client.subscribe\('ece/iot/sensors/+/telemetry', qos=1\)) Tj
+T*
+(   sub_client.loop_start\(\)) Tj
+T*
+() Tj
+T*
+(   # --- 2. Sensor Node Publisher \(Embedded Node\) ---) Tj
+T*
+(   pub_client = mqtt.Client\(client_id='Node_01'\)) Tj
+T*
+(   pub_client.connect\('broker.hivemq.com', 1883, 60\)) Tj
+T*
+() Tj
+T*
+(   payload = json.dumps\({'node': 'Node_01', 'temp': 24.8, 'hum': 58.2}\)) Tj
+T*
+(   pub_client.publish\('ece/iot/sensors/Node_01/telemetry', payload, qos=1\)) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 12:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Detail the design and implementation of an asynchronous TCP sensor hub in Python using `asyncio`.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Asynchronous Event-Driven Network Hub:) Tj
+T*
+() Tj
+T*
+(   `asyncio` enables handling thousands of concurrent sensor socket connections on a single OS) Tj
+T*
+(   thread using non-blocking I/O multiplexing \(`select`/`epoll`\):) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   import asyncio) Tj
+T*
+() Tj
+T*
+(   async def handle_sensor_client\(reader, writer\):) Tj
+T*
+(   peer = writer.get_extra_info\('peername'\)) Tj
+T*
+(   print\(f'[+] Connected: {peer}'\)) Tj
+T*
+(   try:) Tj
+T*
+(   while True:) Tj
+T*
+(   line = await reader.readline\(\)) Tj
+T*
+(   if not line: break) Tj
+T*
+(   data = line.decode\('utf-8'\).strip\(\)) Tj
+T*
+(   # Non-blocking async response) Tj
+T*
+(   writer.write\(b'ACK\\n'\)) Tj
+T*
+(   await writer.drain\(\)) Tj
+T*
+ET
+
+endstream
+endobj
+41 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 42 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+42 0 obj
+<< /Length 2836 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 20 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   finally:) Tj
+T*
+(   writer.close\(\)) Tj
+T*
+(   await writer.wait_closed\(\)) Tj
+T*
+() Tj
+T*
+(   async def main\(\):) Tj
+T*
+(   server = await asyncio.start_server\(handle_sensor_client, '0.0.0.0', 8888\)) Tj
+T*
+(   async with server:) Tj
+T*
+(   await server.serve_forever\(\)) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 13:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Demonstrate diode I-V Shockley equation parameter extraction using non-linear least squares curve fitting with `scipy.optimize.curve_fit`.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Diode Characteristic Parameter Extraction:) Tj
+T*
+() Tj
+T*
+(   The Shockley ideal diode equation relates diode current $I_D$ to applied forward voltage $V_D$:) Tj
+T*
+(   $$I_D\(V_D\) = I_s \\left\( e^{\\frac{q V_D}{\\eta k_B T}} - 1 \\right\)$$) Tj
+T*
+(   Let thermal voltage $V_T = \\frac{k_B T}{q} \\approx 0.0259$ V at 300 K.) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   import numpy as np) Tj
+T*
+(   from scipy.optimize import curve_fit) Tj
+T*
+() Tj
+T*
+(   VT = 0.0259 # 25.9 mV thermal voltage) Tj
+T*
+(   def shockley_diode\(V, Is, eta\):) Tj
+T*
+(   return Is * \(np.exp\(V / \(eta * VT\)\) - 1.0\)) Tj
+T*
+() Tj
+T*
+(   # Experimental forward voltage and current data) Tj
+T*
+(   V_meas = np.array\([0.45, 0.50, 0.55, 0.60, 0.65, 0.70]\)) Tj
+T*
+(   I_meas = np.array\([1.2e-5, 8.5e-5, 5.8e-4, 3.9e-3, 2.6e-2, 1.7e-1]\)) Tj
+T*
+() Tj
+T*
+(   # Non-linear least squares fit with bounds) Tj
+T*
+(   popt, pcov = curve_fit\(shockley_diode, V_meas, I_meas, p0=[1e-12, 1.5], bounds=\(1e-15, [1e-6,) Tj
+T*
+(   3.0]\)\)) Tj
+T*
+(   Is_fit, eta_fit = popt) Tj
+T*
+(   print\(f'Extracted Is = {Is_fit:.3e} A, Ideality Factor eta = {eta_fit:.2f}'\)) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 14:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement a custom binary packet parser using Python's `struct` module for embedded CANbus or UART protocols with CRC checks.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Binary Packet Serialization and Deserialization:) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   import struct) Tj
+T*
+(   import zlib) Tj
+T*
+() Tj
+T*
+(   # Packet Format: [Header: 2B \(0xAA55\)] [MsgID: 1B] [Timestamp: 4B Uint32] [Payload: 2 Floats) Tj
+T*
+(   \(8B\)] [CRC32: 4B]) Tj
+T*
+(   PACKET_FMT = '>HBIffI') Tj
+T*
+ET
+
+endstream
+endobj
+43 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 44 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+44 0 obj
+<< /Length 3454 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 21 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   HEADER_MAGIC = 0xAA55) Tj
+T*
+() Tj
+T*
+(   def pack_telemetry\(msg_id: int, timestamp: int, v1: float, v2: float\) -> bytes:) Tj
+T*
+(   # Pack preliminary packet without CRC) Tj
+T*
+(   prelim = struct.pack\('>HB I f f', HEADER_MAGIC, msg_id, timestamp, v1, v2\)) Tj
+T*
+(   crc = zlib.crc32\(prelim\)) Tj
+T*
+(   return struct.pack\('>HB I f f I', HEADER_MAGIC, msg_id, timestamp, v1, v2, crc\)) Tj
+T*
+() Tj
+T*
+(   def unpack_telemetry\(raw_bytes: bytes\):) Tj
+T*
+(   if len\(raw_bytes\) != struct.calcsize\(PACKET_FMT\):) Tj
+T*
+(   raise ValueError\('Invalid packet length'\)) Tj
+T*
+(   magic, msg_id, t_stamp, v1, v2, rx_crc = struct.unpack\(PACKET_FMT, raw_bytes\)) Tj
+T*
+(   if magic != HEADER_MAGIC:) Tj
+T*
+(   raise ValueError\('Invalid magic byte header'\)) Tj
+T*
+(   # Verify CRC) Tj
+T*
+(   calc_crc = zlib.crc32\(raw_bytes[:-4]\)) Tj
+T*
+(   if rx_crc != calc_crc:) Tj
+T*
+(   raise ValueError\(f'CRC mismatch: expected {calc_crc}, got {rx_crc}'\)) Tj
+T*
+(   return {'id': msg_id, 'time': t_stamp, 'v1': v1, 'v2': v2}) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 15:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the architecture of a Software-Defined Radio \(SDR\) Costas Loop for carrier phase synchronization in BPSK.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Costas Loop Architecture for Suppressed Carrier Tracking:) Tj
+T*
+() Tj
+T*
+(   In BPSK, direct phase-locked loops fail because the carrier is suppressed by random $\\pm 1$) Tj
+T*
+(   symbol transitions.) Tj
+T*
+() Tj
+T*
+(   Costas Loop Components:) Tj
+T*
+(   1. In-phase \(I\) and Quadrature \(Q\) Mixers: Demodulate the received signal with local NCO) Tj
+T*
+(   orthogonal references $\\cos\(\\omega_c t + \\hat{\\theta}\)$ and $-\\sin\(\\omega_c t + \\hat{\\theta}\)$.) Tj
+T*
+(   2. Arm Low-Pass Filters: Eliminate high-frequency $2\\omega_c$ sum components, leaving baseband) Tj
+T*
+(   $I\(t\) \\approx A d\(t\) \\cos\(\\theta_e\)$ and $Q\(t\) \\approx A d\(t\) \\sin\(\\theta_e\)$ where $\\theta_e =) Tj
+T*
+(   \\theta - \\hat{\\theta}$.) Tj
+T*
+(   3. Phase Error Detector: Multiplies the two arms: $e\(t\) = I\(t\) \\cdot Q\(t\) \\approx \\frac{1}{2}) Tj
+T*
+(   A^2 d^2\(t\) \\sin\(2\\theta_e\) = \\frac{1}{2} A^2 \\sin\(2\\theta_e\)$.) Tj
+T*
+(   Because $d^2\(t\) = \(\\pm 1\)^2 = +1$, data modulation is completely stripped away! The error) Tj
+T*
+(   signal drives a loop filter that steers the NCO frequency to achieve lock.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 16:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement a vectorized Root-Raised Cosine \(RRC\) pulse shaping filter generator in NumPy for Nyquist signaling.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Root-Raised Cosine \(RRC\) Pulse Formula:) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   import numpy as np) Tj
+T*
+() Tj
+T*
+(   def rrc_filter\(num_taps, alpha, Ts, fs\):) Tj
+T*
+(   t = np.arange\(-num_taps // 2, num_taps // 2 + 1\) / fs) Tj
+T*
+ET
+
+endstream
+endobj
+45 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 46 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+46 0 obj
+<< /Length 2844 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 22 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   h = np.zeros\(len\(t\)\)) Tj
+T*
+() Tj
+T*
+(   for i, ti in enumerate\(t\):) Tj
+T*
+(   if ti == 0.0:) Tj
+T*
+(   h[i] = 1.0 - alpha + \(4 * alpha / np.pi\)) Tj
+T*
+(   elif abs\(ti\) == Ts / \(4 * alpha\):) Tj
+T*
+(   h[i] = \(alpha / np.sqrt\(2\)\) * \() Tj
+T*
+(   \(1 + 2 / np.pi\) * np.sin\(np.pi / \(4 * alpha\)\) +) Tj
+T*
+(   \(1 - 2 / np.pi\) * np.cos\(np.pi / \(4 * alpha\)\)) Tj
+T*
+(   \)) Tj
+T*
+(   else:) Tj
+T*
+(   num = np.sin\(np.pi * ti * \(1 - alpha\) / Ts\) + \\) Tj
+T*
+(   \(4 * alpha * ti / Ts\) * np.cos\(np.pi * ti * \(1 + alpha\) / Ts\)) Tj
+T*
+(   den = \(np.pi * ti / Ts\) * \(1 - \(4 * alpha * ti / Ts\)**2\)) Tj
+T*
+(   h[i] = num / den) Tj
+T*
+() Tj
+T*
+(   return h / np.sqrt\(np.sum\(h**2\)\) # Unit energy normalization) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 17:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Demonstrate continuous-time state-space simulation of a closed-loop PID DC motor angular speed controller.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   DC Motor Dynamic Model:) Tj
+T*
+() Tj
+T*
+(   Electromechanical state equations:) Tj
+T*
+(   $$L \\frac{di}{dt} + R i = V - K_e \\omega, \\quad J \\frac{d\\omega}{dt} + b \\omega = K_t i - T_L$$) Tj
+T*
+(   PID Control Law: $V\(t\) = K_p e\(t\) + K_i \\int e\(t\) dt + K_d \\frac{de\(t\)}{dt}$ where error $e\(t\)) Tj
+T*
+(   = \\omega_{target} - \\omega\(t\)$.) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   import numpy as np) Tj
+T*
+(   from scipy.integrate import solve_ivp) Tj
+T*
+() Tj
+T*
+(   R, L, Kt, Ke, J, b = 2.0, 0.5, 0.1, 0.1, 0.02, 0.01) Tj
+T*
+(   Kp, Ki, Kd = 15.0, 2.0, 0.5) Tj
+T*
+(   w_target = 100.0 # 100 rad/s) Tj
+T*
+() Tj
+T*
+(   def motor_system\(t, state\):) Tj
+T*
+(   i, w, e_integral = state) Tj
+T*
+(   e = w_target - w) Tj
+T*
+(   V_control = np.clip\(Kp * e + Ki * e_integral, 0.0, 24.0\) # Saturated 24V supply) Tj
+T*
+(   di = \(V_control - R * i - Ke * w\) / L) Tj
+T*
+(   dw = \(Kt * i - b * w\) / J) Tj
+T*
+(   return [di, dw, e]) Tj
+T*
+() Tj
+T*
+(   sol = solve_ivp\(motor_system, \(0, 2.0\), [0.0, 0.0, 0.0], t_eval=np.linspace\(0, 2.0, 500\)\)) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 18:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the principles of Software-Defined Radio \(SDR\) Quadrature Amplitude Modulation \(16-QAM\) constellation mapping and demapping.) Tj
+T*
+ET
+
+endstream
+endobj
+47 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 48 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+48 0 obj
+<< /Length 2441 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 23 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   16-QAM Modulator and Slicer Mechanics:) Tj
+T*
+() Tj
+T*
+(   16-QAM transmits 4 bits per symbol: 2 bits for In-phase \(I\) and 2 bits for Quadrature \(Q\).) Tj
+T*
+() Tj
+T*
+(   Gray Mapping:) Tj
+T*
+(   Constellation alphabet: $\\{-3d, -d, +d, +3d\\}$ along each axis.) Tj
+T*
+(   ```python) Tj
+T*
+(   import numpy as np) Tj
+T*
+() Tj
+T*
+(   def qam16_modulate\(bits\):) Tj
+T*
+(   # Reshape bits into \(N, 4\)) Tj
+T*
+(   symbols = bits.reshape\(-1, 4\)) Tj
+T*
+(   lut = { \(0,0\): -3, \(0,1\): -1, \(1,1\): +1, \(1,0\): +3 }) Tj
+T*
+(   I = np.array\([lut[\(b[0], b[1]\)] for b in symbols]\)) Tj
+T*
+(   Q = np.array\([lut[\(b[2], b[3]\)] for b in symbols]\)) Tj
+T*
+(   return I + 1j * Q) Tj
+T*
+() Tj
+T*
+(   def qam16_demap\(complex_symbols\):) Tj
+T*
+(   # Slicing at decision boundaries: -2, 0, +2) Tj
+T*
+(   def slice_axis\(val\):) Tj
+T*
+(   if val < -2: return \(0, 0\)) Tj
+T*
+(   elif val < 0: return \(0, 1\)) Tj
+T*
+(   elif val < 2: return \(1, 1\)) Tj
+T*
+(   else: return \(1, 0\)) Tj
+T*
+(   out_bits = []) Tj
+T*
+(   for s in complex_symbols:) Tj
+T*
+(   out_bits.extend\(slice_axis\(s.real\) + slice_axis\(s.imag\)\)) Tj
+T*
+(   return np.array\(out_bits\)) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 19:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Demonstrate microsecond algorithm execution profiling using `cProfile` and memory profiling in scientific Python pipelines.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Profiling Pipeline Performance Bottlenecks:) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   import cProfile) Tj
+T*
+(   import pstats) Tj
+T*
+(   import io) Tj
+T*
+() Tj
+T*
+(   def profile_dsp_pipeline\(func, *args\):) Tj
+T*
+(   pr = cProfile.Profile\(\)) Tj
+T*
+(   pr.enable\(\)) Tj
+T*
+() Tj
+T*
+(   result = func\(*args\)) Tj
+T*
+() Tj
+T*
+(   pr.disable\(\)) Tj
+T*
+(   s = io.StringIO\(\)) Tj
+T*
+(   ps = pstats.Stats\(pr, stream=s\).sort_stats\('cumulative'\)) Tj
+T*
+(   ps.print_stats\(15\) # Print top 15 time-consuming functions) Tj
+T*
+(   print\(s.getvalue\(\)\)) Tj
+T*
+ET
+
+endstream
+endobj
+49 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 50 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+50 0 obj
+<< /Length 2561 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 24 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   return result) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(   Analysis reveals whether time is consumed by C-level BLAS calls, unnecessary Python function) Tj
+T*
+(   loop wrappers, or memory reallocations, guiding targeted optimization.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 20:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement an automated Hardware-in-the-Loop \(HIL\) test suite in Python executing automated test vectors and asserting tolerance bands.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Automated Test Vector Execution Engine:) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   import numpy as np) Tj
+T*
+() Tj
+T*
+(   def run_hil_test\(device_interface, test_vectors, tolerance_pct=2.0\):) Tj
+T*
+(   pass_count = 0) Tj
+T*
+(   failures = []) Tj
+T*
+() Tj
+T*
+(   for test in test_vectors:) Tj
+T*
+(   v_in = test['input_voltage']) Tj
+T*
+(   exp_out = test['expected_current']) Tj
+T*
+() Tj
+T*
+(   # Apply voltage via physical DAC) Tj
+T*
+(   device_interface.set_voltage\(v_in\)) Tj
+T*
+(   meas_out = device_interface.read_current\(\)) Tj
+T*
+() Tj
+T*
+(   # Calculate relative error) Tj
+T*
+(   err = abs\(meas_out - exp_out\) / abs\(exp_out\) * 100.0) Tj
+T*
+(   if err <= tolerance_pct:) Tj
+T*
+(   pass_count += 1) Tj
+T*
+(   else:) Tj
+T*
+(   failures.append\({'input': v_in, 'meas': meas_out, 'exp': exp_out, 'err': err}\)) Tj
+T*
+() Tj
+T*
+(   print\(f'HIL Test Results: {pass_count}/{len\(test_vectors\)} PASSED'\)) Tj
+T*
+(   return failures) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 21:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement an automated discrete Phase-Locked Loop \(PLL\) in Python for carrier frequency tracking.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Digital Phase-Locked Loop \(DPLL\) Architecture:) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   import numpy as np) Tj
+T*
+() Tj
+T*
+(   def dpll_carrier_track\(rx_signal, fs, f_carrier, Kp=0.02, Ki=0.0005\):) Tj
+T*
+(   N = len\(rx_signal\)) Tj
+T*
+(   phase_est = np.zeros\(N\)) Tj
+T*
+(   phi_nco = 0.0) Tj
+T*
+(   integrator = 0.0) Tj
+T*
+ET
+
+endstream
+endobj
+51 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 52 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+52 0 obj
+<< /Length 2283 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 25 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   omega_c = 2 * np.pi * f_carrier / fs) Tj
+T*
+() Tj
+T*
+(   for n in range\(N\):) Tj
+T*
+(   # Quadrature mixer phase detector) Tj
+T*
+(   q_nco = -np.sin\(phi_nco\)) Tj
+T*
+(   phase_error = rx_signal[n] * q_nco) Tj
+T*
+() Tj
+T*
+(   # PI Loop Filter) Tj
+T*
+(   integrator += Ki * phase_error) Tj
+T*
+(   loop_out = Kp * phase_error + integrator) Tj
+T*
+() Tj
+T*
+(   # NCO phase accumulator) Tj
+T*
+(   phi_nco += omega_c + loop_out) Tj
+T*
+(   phase_est[n] = phi_nco) Tj
+T*
+() Tj
+T*
+(   return phase_est) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 22:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write a Python script for automated multi-channel oscilloscope waveform acquisition via PyVISA and USBTMC.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   USBTMC Oscilloscope Capture:) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   import pyvisa) Tj
+T*
+(   import numpy as np) Tj
+T*
+() Tj
+T*
+(   def capture_scope_waveform\(resource_str='USB0::0x1AB1::0x04CE::DS1ZA1234::INSTR'\):) Tj
+T*
+(   rm = pyvisa.ResourceManager\(\)) Tj
+T*
+(   scope = rm.open_resource\(resource_str\)) Tj
+T*
+(   scope.timeout = 5000) Tj
+T*
+() Tj
+T*
+(   # Configure channel and timebase) Tj
+T*
+(   scope.write\(':WAV:SOUR CHAN1'\)) Tj
+T*
+(   scope.write\(':WAV:MODE RAW'\)) Tj
+T*
+(   scope.write\(':WAV:FORM BYTE'\)) Tj
+T*
+() Tj
+T*
+(   # Acquire waveform preamble parameters) Tj
+T*
+(   preamble = scope.query\(':WAV:PRE?'\).split\(','\)) Tj
+T*
+(   x_inc = float\(preamble[4]\)) Tj
+T*
+(   y_inc = float\(preamble[7]\)) Tj
+T*
+(   y_orig = float\(preamble[8]\)) Tj
+T*
+() Tj
+T*
+(   # Transfer binary data bytes) Tj
+T*
+(   raw_bytes = scope.query_binary_values\(':WAV:DATA?', datatype='B'\)) Tj
+T*
+(   voltages = \(np.array\(raw_bytes\) - y_orig\) * y_inc) Tj
+T*
+(   time_axis = np.arange\(len\(voltages\)\) * x_inc) Tj
+T*
+() Tj
+T*
+(   scope.close\(\)) Tj
+T*
+(   return time_axis, voltages) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+53 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 54 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+54 0 obj
+<< /Length 3026 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 26 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 23:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Demonstrate circular buffer design using Python `multiprocessing.shared_memory` for multi-process IPC data streaming.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Zero-Copy Shared Memory Inter-Process Communication \(IPC\):) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   from multiprocessing import shared_memory) Tj
+T*
+(   import numpy as np) Tj
+T*
+() Tj
+T*
+(   def create_shared_sensor_buffer\(buffer_size=10000\):) Tj
+T*
+(   # Allocate shared RAM segment) Tj
+T*
+(   shm = shared_memory.SharedMemory\(create=True, size=buffer_size * 8, name='SensorSHM'\)) Tj
+T*
+(   arr = np.ndarray\(\(buffer_size,\), dtype=np.float64, buffer=shm.buf\)) Tj
+T*
+(   arr[:] = 0.0) Tj
+T*
+(   return shm, arr) Tj
+T*
+() Tj
+T*
+(   def attach_consumer\(\):) Tj
+T*
+(   # Attach from separate process) Tj
+T*
+(   existing_shm = shared_memory.SharedMemory\(name='SensorSHM'\)) Tj
+T*
+(   consumer_arr = np.ndarray\(\(10000,\), dtype=np.float64, buffer=existing_shm.buf\)) Tj
+T*
+(   latest_reading = consumer_arr[0]) Tj
+T*
+(   existing_shm.close\(\)) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 24:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement an adaptive Wiener filter in Python for optimal signal restoration in colored noise environments.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Wiener Deconvolution Formulation:) Tj
+T*
+() Tj
+T*
+(   Wiener filtering minimizes mean-square estimation error between desired clean signal $s\(t\)$ and) Tj
+T*
+(   noisy measurement $x\(t\) = \(s * h\)\(t\) + n\(t\)$:) Tj
+T*
+(   $$G\(f\) = \\frac{H^*\(f\) S_{ss}\(f\)}{|H\(f\)|^2 S_{ss}\(f\) + S_{nn}\(f\)}$$) Tj
+T*
+(   ```python) Tj
+T*
+(   import numpy as np) Tj
+T*
+() Tj
+T*
+(   def wiener_restore\(x, h_impulse, snr_linear\):) Tj
+T*
+(   N = len\(x\)) Tj
+T*
+(   H = np.fft.rfft\(h_impulse, n=N\)) Tj
+T*
+(   X = np.fft.rfft\(x, n=N\)) Tj
+T*
+(   # Frequency-domain Wiener transfer function) Tj
+T*
+(   G = np.conj\(H\) / \(np.abs\(H\)**2 + 1.0 / snr_linear\)) Tj
+T*
+(   s_est = np.fft.irfft\(X * G, n=N\)) Tj
+T*
+(   return s_est) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 25:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the implementation of a Discrete Wavelet Transform \(DWT\) multi-resolution decomposition using `PyWavelets`.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+ET
+
+endstream
+endobj
+55 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 56 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+56 0 obj
+<< /Length 2580 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 27 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   Discrete Wavelet Transform Multi-Resolution Analysis:) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   import pywt) Tj
+T*
+(   import numpy as np) Tj
+T*
+() Tj
+T*
+(   def wavelet_denoise\(signal_data, wavelet='db4', level=4, threshold=0.1\):) Tj
+T*
+(   # Multi-level DWT decomposition) Tj
+T*
+(   coeffs = pywt.wavedec\(signal_data, wavelet, level=level\)) Tj
+T*
+() Tj
+T*
+(   # Soft thresholding on high-frequency detail coefficients) Tj
+T*
+(   coeffs_thresh = [coeffs[0]] # Keep approximation coefficients) Tj
+T*
+(   for c in coeffs[1:]:) Tj
+T*
+(   c_t = pywt.threshold\(c, threshold, mode='soft'\)) Tj
+T*
+(   coeffs_thresh.append\(c_t\)) Tj
+T*
+() Tj
+T*
+(   # Inverse DWT reconstruction) Tj
+T*
+(   clean_signal = pywt.waverec\(coeffs_thresh, wavelet\)) Tj
+T*
+(   return clean_signal) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 26:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement a custom PID speed controller simulation with anti-windup clamping in Python.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Anti-Windup Integral Clamping Algorithm:) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   class RobustPID:) Tj
+T*
+(   def __init__\(self, Kp, Ki, Kd, dt, out_min, out_max\):) Tj
+T*
+(   self.Kp, self.Ki, self.Kd = Kp, Ki, Kd) Tj
+T*
+(   self.dt = dt) Tj
+T*
+(   self.out_min, self.out_max = out_min, out_max) Tj
+T*
+(   self.integral = 0.0) Tj
+T*
+(   self.prev_error = 0.0) Tj
+T*
+() Tj
+T*
+(   def compute\(self, setpoint, process_val\):) Tj
+T*
+(   error = setpoint - process_val) Tj
+T*
+(   derivative = \(error - self.prev_error\) / self.dt) Tj
+T*
+() Tj
+T*
+(   # Proposed output) Tj
+T*
+(   u_unsat = self.Kp * error + self.Ki * self.integral + self.Kd * derivative) Tj
+T*
+(   u_sat = max\(self.out_min, min\(self.out_max, u_unsat\)\)) Tj
+T*
+() Tj
+T*
+(   # Anti-windup: Integrate only if not saturated or error drives out of saturation) Tj
+T*
+(   if \(u_unsat == u_sat\) or \(u_unsat > u_sat and error < 0\) or \(u_unsat < u_sat and error > 0\):) Tj
+T*
+(   self.integral += error * self.dt) Tj
+T*
+() Tj
+T*
+(   self.prev_error = error) Tj
+T*
+(   return u_sat) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+ET
+
+endstream
+endobj
+57 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 58 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+58 0 obj
+<< /Length 2760 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 28 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 27:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Design an FIR Hilbert Transformer filter in Python for creating single-sideband \(SSB\) modulated communications signals.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Hilbert Transformer Filter Design:) Tj
+T*
+() Tj
+T*
+(   An ideal Hilbert transformer introduces a constant $90^\\circ$ phase shift \($-j$ for $\\omega >) Tj
+T*
+(   0$ and $+j$ for $\\omega < 0$\):) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   from scipy import signal) Tj
+T*
+(   import numpy as np) Tj
+T*
+() Tj
+T*
+(   def create_ssb_modulator\(message, fc, fs\):) Tj
+T*
+(   t = np.arange\(len\(message\)\) / fs) Tj
+T*
+(   # Design 65-tap Type III Hilbert FIR filter) Tj
+T*
+(   h_fir = signal.firwin\(65, [0.05, 0.95], pass_zero=False, fs=fs\)) Tj
+T*
+(   m_hilbert = signal.lfilter\(h_fir, 1.0, message\)) Tj
+T*
+() Tj
+T*
+(   # Compensate FIR group delay \(65 - 1\)/2 = 32 samples) Tj
+T*
+(   m_delayed = np.roll\(message, -32\)) Tj
+T*
+() Tj
+T*
+(   # Lower Single-Sideband \(LSSB\): m\(t\) cos\(w_c t\) + m_hat\(t\) sin\(w_c t\)) Tj
+T*
+(   carrier_cos = np.cos\(2 * np.pi * fc * t\)) Tj
+T*
+(   carrier_sin = np.sin\(2 * np.pi * fc * t\)) Tj
+T*
+(   s_lssb = m_delayed * carrier_cos + m_hilbert * carrier_sin) Tj
+T*
+(   return s_lssb) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 28:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement an automated Peak-to-Average Power Ratio \(PAPR\) reduction simulation using Selected Mapping \(SLM\) for OFDM.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   OFDM PAPR Reduction via Selected Mapping \(SLM\):) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   import numpy as np) Tj
+T*
+() Tj
+T*
+(   def ofdm_slm_papr\(qam_symbols, N_subcarriers=64, U_phase_sequences=8\):) Tj
+T*
+(   best_papr = float\('inf'\)) Tj
+T*
+(   best_waveform = None) Tj
+T*
+() Tj
+T*
+(   for u in range\(U_phase_sequences\):) Tj
+T*
+(   # Random orthogonal phase sequence in {+1, -1, +j, -j}) Tj
+T*
+(   phases = np.random.choice\([1, -1, 1j, -1j], size=N_subcarriers\)) Tj
+T*
+(   x_mod = qam_symbols * phases) Tj
+T*
+() Tj
+T*
+(   # IFFT modulation) Tj
+T*
+(   x_time = np.fft.ifft\(x_mod, n=N_subcarriers\)) Tj
+T*
+() Tj
+T*
+(   # Compute PAPR in dB) Tj
+T*
+(   power = np.abs\(x_time\)**2) Tj
+T*
+(   papr_db = 10 * np.log10\(np.max\(power\) / np.mean\(power\)\)) Tj
+T*
+ET
+
+endstream
+endobj
+59 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 60 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+60 0 obj
+<< /Length 2439 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 29 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   if papr_db < best_papr:) Tj
+T*
+(   best_papr = papr_db) Tj
+T*
+(   best_waveform = x_time) Tj
+T*
+() Tj
+T*
+(   return best_papr, best_waveform) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 29:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the architecture and design of an automated SCPI command parser and emulator in Python.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   SCPI Command Tree Parser Emulator:) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   class SCPIEmulator:) Tj
+T*
+(   def __init__\(self\):) Tj
+T*
+(   self.voltage = 0.0) Tj
+T*
+(   self.output_enabled = False) Tj
+T*
+() Tj
+T*
+(   def execute_command\(self, cmd_line: str\) -> str:) Tj
+T*
+(   cmd = cmd_line.strip\(\).upper\(\)) Tj
+T*
+(   if cmd == '*IDN?':) Tj
+T*
+(   return 'ECE-LABS,POWER-SUPPLY-4000,SN12345,V1.02') Tj
+T*
+(   elif cmd.startswith\(':VOLT '\):) Tj
+T*
+(   self.voltage = float\(cmd.split\(\)[1]\)) Tj
+T*
+(   return 'OK') Tj
+T*
+(   elif cmd == ':VOLT?':) Tj
+T*
+(   return f'{self.voltage:.3f}') Tj
+T*
+(   elif cmd == ':OUTP ON':) Tj
+T*
+(   self.output_enabled = True) Tj
+T*
+(   return 'OK') Tj
+T*
+(   elif cmd == ':OUTP?':) Tj
+T*
+(   return '1' if self.output_enabled else '0') Tj
+T*
+(   else:) Tj
+T*
+(   return 'ERR: UNKNOWN COMMAND') Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 30:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement an automated test reporting framework combining DSP simulations, statistics, and Matplotlib figure export.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Automated Engineering Test Report Compilation Pipeline:) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   import numpy as np) Tj
+T*
+(   import matplotlib.pyplot as plt) Tj
+T*
+(   import json) Tj
+T*
+() Tj
+T*
+(   def compile_rf_validation_report\(test_results: dict, output_img='validation_summary.png'\):) Tj
+T*
+(   freqs = test_results['frequencies']) Tj
+T*
+(   s11 = test_results['s11_db']) Tj
+T*
+ET
+
+endstream
+endobj
+61 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 62 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+62 0 obj
+<< /Length 1280 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 30 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   s21 = test_results['s21_db']) Tj
+T*
+() Tj
+T*
+(   fig, \(ax1, ax2\) = plt.subplots\(2, 1, figsize=\(9, 7\)\)) Tj
+T*
+(   ax1.plot\(freqs, s11, 'r-', linewidth=1.8, label='Return Loss \(S11\)'\)) Tj
+T*
+(   ax1.axhline\(-10, color='k', linestyle='--', label='-10 dB Spec'\)) Tj
+T*
+(   ax1.set_ylabel\('S11 \(dB\)'\)) Tj
+T*
+(   ax1.grid\(True\)) Tj
+T*
+(   ax1.legend\(\)) Tj
+T*
+() Tj
+T*
+(   ax2.plot\(freqs, s21, 'b-', linewidth=1.8, label='Insertion Gain \(S21\)'\)) Tj
+T*
+(   ax2.set_xlabel\('Frequency \(GHz\)'\)) Tj
+T*
+(   ax2.set_ylabel\('S21 \(dB\)'\)) Tj
+T*
+(   ax2.grid\(True\)) Tj
+T*
+(   ax2.legend\(\)) Tj
+T*
+() Tj
+T*
+(   plt.suptitle\('RF Front-End Automated Qualification Summary', fontsize=13, weight='bold'\)) Tj
+T*
+(   plt.tight_layout\(\)) Tj
+T*
+(   plt.savefig\(output_img, dpi=300\)) Tj
+T*
+(   plt.close\(\)) Tj
+T*
+(   print\(f'[+] Report generated and saved to {output_img}'\)) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+63 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+64 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+xref
+0 65
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000316 00000 n 
+0000000460 00000 n 
+0000009455 00000 n 
+0000009599 00000 n 
+0000018816 00000 n 
+0000018960 00000 n 
+0000028040 00000 n 
+0000028185 00000 n 
+0000037941 00000 n 
+0000038087 00000 n 
+0000048161 00000 n 
+0000048307 00000 n 
+0000059058 00000 n 
+0000059204 00000 n 
+0000069349 00000 n 
+0000069495 00000 n 
+0000071418 00000 n 
+0000071564 00000 n 
+0000076547 00000 n 
+0000076693 00000 n 
+0000079013 00000 n 
+0000079159 00000 n 
+0000087574 00000 n 
+0000087720 00000 n 
+0000091132 00000 n 
+0000091278 00000 n 
+0000094722 00000 n 
+0000094868 00000 n 
+0000097352 00000 n 
+0000097498 00000 n 
+0000100006 00000 n 
+0000100152 00000 n 
+0000103023 00000 n 
+0000103169 00000 n 
+0000105535 00000 n 
+0000105681 00000 n 
+0000108309 00000 n 
+0000108455 00000 n 
+0000111372 00000 n 
+0000111518 00000 n 
+0000114407 00000 n 
+0000114553 00000 n 
+0000118060 00000 n 
+0000118206 00000 n 
+0000121103 00000 n 
+0000121249 00000 n 
+0000123743 00000 n 
+0000123889 00000 n 
+0000126503 00000 n 
+0000126649 00000 n 
+0000128985 00000 n 
+0000129131 00000 n 
+0000132210 00000 n 
+0000132356 00000 n 
+0000134989 00000 n 
+0000135135 00000 n 
+0000137948 00000 n 
+0000138094 00000 n 
+0000140586 00000 n 
+0000140732 00000 n 
+0000142065 00000 n 
+0000142163 00000 n 
+trailer
+<< /Size 65 /Root 1 0 R >>
+startxref
+142266
+%%EOF

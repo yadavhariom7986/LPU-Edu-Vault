@@ -1,0 +1,284 @@
+/* ==========================================================================
+   EDU VAULT - STYLESHEET (style.css)
+   Created for: 1st Semester Web Development Project
+   Core Concepts: CSS Variables, Box Model, Flexbox, Grid, Transitions & Hover
+   ========================================================================== */
+
+/* 1. COLOR THEME & CSS VARIABLES */
+:root {
+    --primary: #2563eb;          /* Main blue for buttons & active elements */
+    --primary-hover: #1d4ed8;    /* Darker blue on mouse hover */
+    --primary-light: #eff6ff;    /* Soft blue tint for backgrounds & hovers */
+    --navy-header: #1e3a8a;      /* Deep navy for portal headings & tables */
+    --text-dark: #1e293b;        /* Charcoal text for titles & cards */
+    --text-body: #475569;        /* Slate text for readable paragraphs */
+    --bg-page: #f8fafc;          /* Light clean page background */
+    --bg-card: #ffffff;          /* Pure white card and table surface */
+    --border-color: #e2e8f0;     /* Subtle light grey border */
+    --radius-sm: 8px;            /* Small rounded corner for buttons */
+    --radius-md: 12px;           /* Medium rounded corner for cards */
+    --shadow-soft: 0 4px 6px -1px rgba(0, 0, 0, 0.06);
+    --shadow-hover: 0 10px 20px -3px rgba(37, 99, 235, 0.18);
+}
+
+/* 2. BASIC RESET & BODY LAYOUT */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;      /* Keeps padding inside total width */
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: var(--bg-page);
+    color: var(--text-body);
+    line-height: 1.6;
+    padding: 40px 20px 60px 20px;
+    max-width: 1100px;
+    margin: 0 auto;              /* Centers page content horizontally */
+}
+
+a {
+    color: var(--primary);
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+a:focus-visible {
+    outline: 2px solid var(--primary);
+    outline-offset: 3px;
+}
+
+/* 3. HERO / WELCOME HEADER */
+h1:first-of-type {
+    text-align: center;
+    color: var(--navy-header);
+    font-size: 2.3rem;
+    font-weight: 800;
+    letter-spacing: 1px;
+    margin-bottom: 6px;
+    text-transform: uppercase;
+}
+
+h3 {
+    text-align: center;
+    color: #64748b;
+    font-size: 1.15rem;
+    font-weight: 500;
+    margin-bottom: 25px;
+}
+
+/* "New in UNI ??" Notification Badge */
+h4 {
+    display: inline-block;
+    background-color: #dbeafe;
+    color: #1e40af;
+    padding: 5px 14px;
+    border-radius: 20px;
+    font-size: 0.95rem;
+    font-weight: 700;
+    margin-bottom: 10px;
+    border: 1px solid #bfdbfe;
+}
+
+p {
+    font-size: 1.05rem;
+    color: var(--text-body);
+    margin-bottom: 12px;
+}
+
+p:first-of-type {
+    font-weight: 600;
+    color: var(--text-dark);
+}
+
+/* Welcome Announcement Card */
+body > p:last-of-type {
+    background-color: var(--bg-card);
+    padding: 20px 24px;
+    border-radius: var(--radius-md);
+    border-left: 5px solid var(--primary);
+    box-shadow: var(--shadow-soft);
+    line-height: 1.7;
+    margin-bottom: 30px;
+}
+
+p u {
+    text-decoration: none;
+    color: var(--primary);
+    font-weight: 600;
+    background-color: var(--primary-light);
+    padding: 2px 6px;
+    border-radius: 4px;
+}
+
+/* 4. SECTION HEADINGS & DIVIDERS */
+h1 {
+    color: var(--text-dark);
+    font-size: 1.55rem;
+    font-weight: 700;
+    margin: 30px 0 18px 0;
+    display: inline-block;
+    padding-bottom: 6px;
+    border-bottom: 3px solid var(--primary);
+}
+
+h2 {
+    color: var(--text-dark);
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin: 25px 0 10px 0;
+}
+
+hr {
+    border: none;
+    height: 1px;
+    background-color: var(--border-color);
+    margin: 35px 0;
+}
+
+/* 5. RESOURCE CARDS (GRID LAYOUT & HOVER ANIMATION) */
+ul {
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 18px;
+    margin-bottom: 25px;
+}
+
+li {
+    background-color: var(--bg-card);
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-md);
+    padding: 18px 20px;
+    box-shadow: var(--shadow-soft);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
+    font-size: 0.95rem;
+    font-weight: 500;
+    color: var(--text-dark);
+}
+
+li:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-hover);
+    border-color: #93c5fd;
+}
+
+li h2 {
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--text-dark);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    gap: 14px;
+    margin: 0;
+}
+
+/* 6. INTERACTIVE ACTION BUTTONS */
+li a, td a, .btn {
+    display: inline-block;
+    padding: 8px 18px;
+    background-color: var(--primary);
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 0.88rem;
+    font-weight: 600;
+    border-radius: var(--radius-sm);
+    white-space: nowrap;
+    box-shadow: 0 2px 4px rgba(37, 99, 235, 0.2);
+    transition: background-color 0.2s ease, transform 0.15s ease, box-shadow 0.2s ease;
+}
+
+li a:hover, td a:hover, .btn:hover {
+    background-color: var(--primary-hover);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 14px rgba(37, 99, 235, 0.35);
+}
+
+li a:active, td a:active, .btn:active {
+    transform: translateY(0);
+    box-shadow: 0 2px 4px rgba(37, 99, 235, 0.2);
+}
+
+/* 7. TABLES STYLING (Notes, Books, MCQs & Units) */
+table, table[border] {
+    width: 100%;
+    max-width: 1050px;
+    margin: 25px auto;
+    border-collapse: collapse;
+    background-color: var(--bg-card);
+    border-radius: var(--radius-md);
+    overflow: hidden;
+    box-shadow: var(--shadow-soft);
+    border: 1px solid var(--border-color);
+}
+
+th, td,
+table[border] th,
+table[border] td {
+    padding: 14px 18px;
+    text-align: left;
+    border: none;
+    border-bottom: 1px solid var(--border-color);
+    font-size: 0.95rem;
+}
+
+th {
+    background-color: var(--navy-header);
+    color: #ffffff;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+}
+
+tr:nth-child(even) { background-color: #f8fafc; }
+tr:hover { background-color: var(--primary-light); transition: background-color 0.2s ease; }
+
+/* Big Button Grid in unit.html tables */
+td a[href*="syllabus.html"] {
+    display: block;
+    text-align: center;
+    padding: 16px;
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+/* 8. FOOTER (Minimal & Blended) */
+footer {
+    text-align: center;
+    margin-top: 40px;
+    padding-top: 20px;
+    color: #64748b;
+    font-size: 0.9rem;
+}
+
+footer p {
+    font-size: 0.9rem;
+    color: #64748b;
+    margin-bottom: 6px;
+    background: none;
+    padding: 0;
+    box-shadow: none;
+    border: none;
+}
+
+footer strong {
+    color: var(--text-dark);
+    font-weight: 600;
+}
+
+/* 9. RESPONSIVE DESIGN (Mobile & Tablets) */
+@media (max-width: 768px) {
+    body { padding: 20px 14px; }
+    h1:first-of-type { font-size: 1.8rem; }
+    ul { grid-template-columns: 1fr; }
+    li h2 { flex-direction: column; align-items: flex-start; gap: 12px; }
+    li a { align-self: flex-start; }
+    table { display: block; overflow-x: auto; }
+    th, td { padding: 12px 14px; font-size: 0.9rem; }
+}

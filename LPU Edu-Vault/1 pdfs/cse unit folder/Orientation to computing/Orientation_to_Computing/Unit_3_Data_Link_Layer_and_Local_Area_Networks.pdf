@@ -1,0 +1,10324 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R 35 0 R 37 0 R 39 0 R 41 0 R 43 0 R 45 0 R 47 0 R] /Count 23 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 4 0 R /Resources << /Font << /F1 49 0 R /F2 50 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 9845 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 1 of 23) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(1.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(The Data Link Layer is divided by IEEE 802 LAN) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(standards into which two distinct functional) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(sublayers?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(Logical Link Control \(LLC\) and Media Access) Tj
+ET
+BT
+/F1 7.4 Tf
+72 745.3 Td
+(Control \(MAC\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 735.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 735.7 Td
+(Physical Sublayer and Routing Sublayer) Tj
+ET
+BT
+/F2 7.4 Tf
+58 726.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 726.1 Td
+(Transport Sublayer and Network Sublayer) Tj
+ET
+BT
+/F2 7.4 Tf
+58 716.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 716.5001 Td
+(Session Sublayer and Presentation Sublayer) Tj
+ET
+BT
+/F2 8.0 Tf
+42 692.9001 Td
+(2.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.9001 Td
+(The process of encapsulating a network layer) Tj
+ET
+BT
+/F1 7.8 Tf
+58 683.7001 Td
+(packet into a discrete transmission unit with) Tj
+ET
+BT
+/F1 7.8 Tf
+58 674.5001 Td
+(headers and trailers is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 662.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 662.8 Td
+(Framing) Tj
+ET
+BT
+/F2 7.4 Tf
+58 653.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 653.2001 Td
+(Segmentation) Tj
+ET
+BT
+/F2 7.4 Tf
+58 643.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 643.6001 Td
+(Modulation) Tj
+ET
+BT
+/F2 7.4 Tf
+58 634.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 634.0001 Td
+(Paging) Tj
+ET
+BT
+/F2 8.0 Tf
+42 610.4001 Td
+(3.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 610.4001 Td
+(Which framing technique inserts special) Tj
+ET
+BT
+/F1 7.8 Tf
+58 601.2001 Td
+(predetermined flag byte sequences \(e.g.,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 592.0001 Td
+(01111110\) to mark frame boundaries?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 580.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 580.3001 Td
+(Byte-Oriented Framing with Byte \(Character\)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 571.7001 Td
+(Stuffing) Tj
+ET
+BT
+/F2 7.4 Tf
+58 562.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 562.1002 Td
+(Bit-pattern multiplexing) Tj
+ET
+BT
+/F2 7.4 Tf
+58 552.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 552.5002 Td
+(Clock drift locking) Tj
+ET
+BT
+/F2 7.4 Tf
+58 542.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 542.9002 Td
+(Manchester pulse padding) Tj
+ET
+BT
+/F2 8.0 Tf
+42 519.3002 Td
+(4.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 519.3002 Td
+(In Bit-Oriented Framing \(HDLC\), bit stuffing) Tj
+ET
+BT
+/F1 7.8 Tf
+58 510.1002 Td
+(prevents flag mimicry \(01111110\) by inserting a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 500.9002 Td
+(0 after every sequence of:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 489.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 489.2002 Td
+(Five consecutive 1s) Tj
+ET
+BT
+/F2 7.4 Tf
+58 479.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 479.6002 Td
+(Six consecutive 1s) Tj
+ET
+BT
+/F2 7.4 Tf
+58 470.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 470.0002 Td
+(Four consecutive 1s) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.4002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.4002 Td
+(Seven consecutive 1s) Tj
+ET
+BT
+/F2 8.0 Tf
+42 436.8002 Td
+(5.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 436.8002 Td
+(A 48-bit physical hardware address permanently) Tj
+ET
+BT
+/F1 7.8 Tf
+58 427.6002 Td
+(burned into a Network Interface Card \(NIC\) ROM) Tj
+ET
+BT
+/F1 7.8 Tf
+58 418.4001 Td
+(is the:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 406.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 406.7001 Td
+(Media Access Control \(MAC\) Address \(Ethernet) Tj
+ET
+BT
+/F1 7.4 Tf
+72 398.1001 Td
+(Address\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 388.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 388.5001 Td
+(IP Address) Tj
+ET
+BT
+/F2 7.4 Tf
+58 378.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 378.9001 Td
+(Port Number) Tj
+ET
+BT
+/F2 7.4 Tf
+58 369.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 369.3001 Td
+(URL) Tj
+ET
+BT
+/F2 8.0 Tf
+42 345.7001 Td
+(6.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 345.7001 Td
+(A standard 48-bit MAC address is conventionally) Tj
+ET
+BT
+/F1 7.8 Tf
+58 336.5001 Td
+(represented in human-readable format as:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 324.8001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 324.8001 Td
+(12 hexadecimal digits separated by colons or) Tj
+ET
+BT
+/F1 7.4 Tf
+72 316.2001 Td
+(hyphens \(e.g., 00:1A:2B:3C:4D:5E\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 306.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 306.6001 Td
+(4 decimal octets separated by dots) Tj
+ET
+BT
+/F2 7.4 Tf
+58 297.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 297.0001 Td
+(32 binary bits) Tj
+ET
+BT
+/F2 7.4 Tf
+58 287.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 287.4001 Td
+(8 ASCII characters) Tj
+ET
+BT
+/F2 8.0 Tf
+42 263.8 Td
+(7.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 263.8 Td
+(The first 24 bits \(3 bytes\) of an Ethernet MAC) Tj
+ET
+BT
+/F1 7.8 Tf
+58 254.6001 Td
+(address represent the:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 242.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 242.9001 Td
+(Organizationally Unique Identifier \(OUI\)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 234.3 Td
+(assigned to the hardware manufacturer) Tj
+ET
+BT
+/F2 7.4 Tf
+58 224.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 224.7 Td
+(Device serial number) Tj
+ET
+BT
+/F2 7.4 Tf
+58 215.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 215.1 Td
+(Network subnet identifier) Tj
+ET
+BT
+/F2 7.4 Tf
+58 205.5 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 205.5 Td
+(Broadcast domain flag) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(8.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(The special broadcast MAC address used to send) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(an Ethernet frame to ALL nodes on the local) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(physical LAN segment is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(FF:FF:FF:FF:FF:FF) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.3 Td
+(00:00:00:00:00:00) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.7 Td
+(255.255.255.255) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.1 Td
+(AA:BB:CC:DD:EE:FF) Tj
+ET
+BT
+/F2 8.0 Tf
+306 701.5001 Td
+(9.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(The simplest error detection scheme that appends) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(a single binary bit to ensure the total count of) Tj
+ET
+BT
+/F1 7.8 Tf
+322 683.1 Td
+(1s is even or odd is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.4 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.4 Td
+(Parity Check \(Even/Odd Parity\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.8 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.8 Td
+(Cyclic Redundancy Check \(CRC\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 652.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 652.2001 Td
+(Checksum) Tj
+ET
+BT
+/F2 7.4 Tf
+322 642.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 642.6001 Td
+(Hamming Code) Tj
+ET
+BT
+/F2 8.0 Tf
+306 619.0001 Td
+(10.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(A simple parity check bit can detect:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.3001 Td
+(Any odd number of single-bit transmission) Tj
+ET
+BT
+/F1 7.4 Tf
+336 598.7001 Td
+(errors, but completely fails on double-bit) Tj
+ET
+BT
+/F1 7.4 Tf
+336 590.1002 Td
+(errors) Tj
+ET
+BT
+/F2 7.4 Tf
+322 580.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 580.5002 Td
+(All two-bit burst errors) Tj
+ET
+BT
+/F2 7.4 Tf
+322 570.9002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 570.9002 Td
+(All error patterns without exception) Tj
+ET
+BT
+/F2 7.4 Tf
+322 561.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 561.3002 Td
+(Errors and automatically correct them) Tj
+ET
+BT
+/F2 8.0 Tf
+306 537.7003 Td
+(11.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 537.7003 Td
+(Which powerful mathematical error detection) Tj
+ET
+BT
+/F1 7.8 Tf
+322 528.5002 Td
+(polynomial code is universally implemented in) Tj
+ET
+BT
+/F1 7.8 Tf
+322 519.3002 Td
+(Ethernet and Wi-Fi frame trailers?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 507.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 507.6002 Td
+(Cyclic Redundancy Check \(CRC-32\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 498.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 498.0002 Td
+(One's complement checksum) Tj
+ET
+BT
+/F2 7.4 Tf
+322 488.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 488.4002 Td
+(Parity check matrix) Tj
+ET
+BT
+/F2 7.4 Tf
+322 478.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 478.8002 Td
+(Viterbi convolutional code) Tj
+ET
+BT
+/F2 8.0 Tf
+306 455.2002 Td
+(12.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 455.2002 Td
+(In CRC error detection, binary division of the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 446.0002 Td
+(data polynomial by a generator polynomial G\(x\)) Tj
+ET
+BT
+/F1 7.8 Tf
+322 436.8002 Td
+(is performed using:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 425.1002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 425.1002 Td
+(Modulo-2 Arithmetic \(XOR operations without) Tj
+ET
+BT
+/F1 7.4 Tf
+336 416.5002 Td
+(carry/borrow\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 406.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 406.9001 Td
+(Standard decimal arithmetic) Tj
+ET
+BT
+/F2 7.4 Tf
+322 397.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 397.3001 Td
+(Floating-point division) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.7001 Td
+(Binary 2's complement subtraction) Tj
+ET
+BT
+/F2 8.0 Tf
+306 364.1001 Td
+(13.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 364.1001 Td
+(In an \(n, k\) block error-correcting code, the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 354.9001 Td
+(minimum Hamming distance d_min required to) Tj
+ET
+BT
+/F1 7.8 Tf
+322 345.7001 Td
+(DETECT up to 't' bit errors is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 334.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 334.0001 Td
+(d_min >= t + 1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 324.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 324.4001 Td
+(d_min >= 2 * t + 1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 314.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 314.8001 Td
+(d_min >= t) Tj
+ET
+BT
+/F2 7.4 Tf
+322 305.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 305.2001 Td
+(d_min >= 2 * t) Tj
+ET
+BT
+/F2 8.0 Tf
+306 281.6001 Td
+(14.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 281.6001 Td
+(In an \(n, k\) block code, the minimum Hamming) Tj
+ET
+BT
+/F1 7.8 Tf
+322 272.4001 Td
+(distance d_min required to forward-CORRECT up to) Tj
+ET
+BT
+/F1 7.8 Tf
+322 263.2 Td
+('t' bit errors is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 251.5 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 251.5 Td
+(d_min >= 2 * t + 1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 241.9 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 241.9 Td
+(d_min >= t + 1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 232.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 232.3 Td
+(d_min >= t) Tj
+ET
+BT
+/F2 7.4 Tf
+322 222.7 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 222.7 Td
+(d_min >= 3 * t) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 6 0 R /Resources << /Font << /F1 49 0 R /F2 50 0 R >> >> >>
+endobj
+6 0 obj
+<< /Length 10432 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 2 of 23) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(15.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Hamming 7,4 Code is a linear error-correcting) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(block code that encodes 4 data bits into 7 code) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(bits, capable of:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(Single Error Correction and Double Error) Tj
+ET
+BT
+/F1 7.4 Tf
+72 745.3 Td
+(Detection \(SEC-DED\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 735.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 735.7 Td
+(Correcting 3 simultaneous errors) Tj
+ET
+BT
+/F2 7.4 Tf
+58 726.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 726.1 Td
+(Quad bit correction) Tj
+ET
+BT
+/F2 7.4 Tf
+58 716.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 716.5001 Td
+(Zero error detection) Tj
+ET
+BT
+/F2 8.0 Tf
+42 692.9001 Td
+(16.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.9001 Td
+(Flow Control at the Data Link Layer is essential) Tj
+ET
+BT
+/F1 7.8 Tf
+58 683.7001 Td
+(to prevent:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 672.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 672.0001 Td
+(A fast sender from overwhelming and) Tj
+ET
+BT
+/F1 7.4 Tf
+72 663.4001 Td
+(overflowing the memory buffer of a slow) Tj
+ET
+BT
+/F1 7.4 Tf
+72 654.8001 Td
+(receiver) Tj
+ET
+BT
+/F2 7.4 Tf
+58 645.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 645.2001 Td
+(Packet collisions on full-duplex lines) Tj
+ET
+BT
+/F2 7.4 Tf
+58 635.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 635.6002 Td
+(Routing loops) Tj
+ET
+BT
+/F2 7.4 Tf
+58 626.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 626.0002 Td
+(DNS spoofing) Tj
+ET
+BT
+/F2 8.0 Tf
+42 602.4002 Td
+(17.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 602.4002 Td
+(In the Stop-and-Wait flow control protocol, the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 593.2002 Td
+(sender transmits one frame and then:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 581.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 581.5002 Td
+(Must halt and wait for an acknowledgment) Tj
+ET
+BT
+/F1 7.4 Tf
+72 572.9002 Td
+(\(ACK\) from the receiver before transmitting) Tj
+ET
+BT
+/F1 7.4 Tf
+72 564.3002 Td
+(the next frame) Tj
+ET
+BT
+/F2 7.4 Tf
+58 554.7003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 554.7003 Td
+(Immediately sends 10 more frames) Tj
+ET
+BT
+/F2 7.4 Tf
+58 545.1003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 545.1003 Td
+(Closes the connection) Tj
+ET
+BT
+/F2 7.4 Tf
+58 535.5003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 535.5003 Td
+(Transmits continuously) Tj
+ET
+BT
+/F2 8.0 Tf
+42 511.9003 Td
+(18.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 511.9003 Td
+(In Sliding Window flow control protocols, the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 502.7003 Td
+(sender is permitted to transmit up to 'W' frames) Tj
+ET
+BT
+/F1 7.8 Tf
+58 493.5003 Td
+(without waiting for an ACK, where W is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 481.8003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 481.8003 Td
+(The Send Window Size) Tj
+ET
+BT
+/F2 7.4 Tf
+58 472.2003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 472.2003 Td
+(The Maximum Transmission Unit \(MTU\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 462.6003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 462.6003 Td
+(The Bandwidth-Delay Product) Tj
+ET
+BT
+/F2 7.4 Tf
+58 453.0003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 453.0003 Td
+(The Frame Check Sequence) Tj
+ET
+BT
+/F2 8.0 Tf
+42 429.4003 Td
+(19.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 429.4003 Td
+(In the Go-Back-N Automatic Repeat reQuest \(ARQ\)) Tj
+ET
+BT
+/F1 7.8 Tf
+58 420.2003 Td
+(protocol, if a frame is corrupted or lost, the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 411.0002 Td
+(sender must:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 399.3002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 399.3002 Td
+(Retransmit the lost frame AND all subsequent) Tj
+ET
+BT
+/F1 7.4 Tf
+72 390.7002 Td
+(frames that were sent in the current window) Tj
+ET
+BT
+/F2 7.4 Tf
+58 381.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 381.1002 Td
+(Retransmit only the single damaged frame) Tj
+ET
+BT
+/F2 7.4 Tf
+58 371.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 371.5002 Td
+(Discard the entire transmission file) Tj
+ET
+BT
+/F2 7.4 Tf
+58 361.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 361.9002 Td
+(Wait for receiver reset) Tj
+ET
+BT
+/F2 8.0 Tf
+42 338.3002 Td
+(20.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 338.3002 Td
+(In the Selective Repeat ARQ protocol, the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 329.1002 Td
+(receiver buffers out-of-order error-free frames,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 319.9002 Td
+(and the sender retransmits:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 308.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 308.2002 Td
+(ONLY the specific individual frame that was) Tj
+ET
+BT
+/F1 7.4 Tf
+72 299.6002 Td
+(damaged or timed out) Tj
+ET
+BT
+/F2 7.4 Tf
+58 290.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 290.0002 Td
+(All frames in the window) Tj
+ET
+BT
+/F2 7.4 Tf
+58 280.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 280.4001 Td
+(The entire file) Tj
+ET
+BT
+/F2 7.4 Tf
+58 270.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 270.8001 Td
+(Every alternate frame) Tj
+ET
+BT
+/F2 8.0 Tf
+42 247.2001 Td
+(21.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 247.2001 Td
+(The maximum window size W_s in Go-Back-N) Tj
+ET
+BT
+/F1 7.8 Tf
+58 238.0001 Td
+(protocol with m-bit sequence numbers \(modulo) Tj
+ET
+BT
+/F1 7.8 Tf
+58 228.8001 Td
+(2^m\) must satisfy:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 217.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 217.1001 Td
+(W_s <= 2^m - 1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 207.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 207.5001 Td
+(W_s <= 2^\(m - 1\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 197.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 197.9001 Td
+(W_s = 2^m) Tj
+ET
+BT
+/F2 7.4 Tf
+58 188.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 188.3001 Td
+(W_s = m) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(22.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(In Selective Repeat ARQ with m-bit sequence) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(numbers, the maximum window size W must satisfy:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(W <= 2^\(m - 1\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(W <= 2^m - 1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(W = 2^m) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(W = 2 * m) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(23.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(Carrier Sense Multiple Access \(CSMA\) protocols) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(operate on which common-sense physical principle) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(before transmitting?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.6 Td
+('Listen before Talk' \(Sense channel carrier;) Tj
+ET
+BT
+/F1 7.4 Tf
+336 672.0001 Td
+(transmit only if channel is sensed idle\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 662.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 662.4001 Td
+(Transmit at random intervals blindly) Tj
+ET
+BT
+/F2 7.4 Tf
+322 652.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 652.8001 Td
+(Wait for token arrival) Tj
+ET
+BT
+/F2 7.4 Tf
+322 643.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 643.2001 Td
+(Broadcast continuously) Tj
+ET
+BT
+/F2 8.0 Tf
+306 619.6002 Td
+(24.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.6002 Td
+(In 1-Persistent CSMA, when a station finds the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 610.4001 Td
+(transmission channel busy, it:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 598.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 598.7001 Td
+(Continues sensing continuously and transmits) Tj
+ET
+BT
+/F1 7.4 Tf
+336 590.1002 Td
+(immediately with probability p = 1 the) Tj
+ET
+BT
+/F1 7.4 Tf
+336 581.5002 Td
+(instant the channel becomes idle) Tj
+ET
+BT
+/F2 7.4 Tf
+322 571.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 571.9002 Td
+(Waits a fixed random backoff time) Tj
+ET
+BT
+/F2 7.4 Tf
+322 562.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 562.3002 Td
+(Aborts transmission permanently) Tj
+ET
+BT
+/F2 7.4 Tf
+322 552.7003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 552.7003 Td
+(Switches to another frequency) Tj
+ET
+BT
+/F2 8.0 Tf
+306 529.1003 Td
+(25.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 529.1003 Td
+(In Non-Persistent CSMA, when a station senses) Tj
+ET
+BT
+/F1 7.8 Tf
+322 519.9003 Td
+(the channel busy, it:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 508.2003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 508.2003 Td
+(Waits a random period of time before sensing) Tj
+ET
+BT
+/F1 7.4 Tf
+336 499.6003 Td
+(the channel again, reducing collision) Tj
+ET
+BT
+/F1 7.4 Tf
+336 491.0002 Td
+(probability) Tj
+ET
+BT
+/F2 7.4 Tf
+322 481.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 481.4002 Td
+(Senses continuously without pause) Tj
+ET
+BT
+/F2 7.4 Tf
+322 471.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 471.8002 Td
+(Transmits anyway) Tj
+ET
+BT
+/F2 7.4 Tf
+322 462.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 462.2002 Td
+(Sends a jam signal) Tj
+ET
+BT
+/F2 8.0 Tf
+306 438.6002 Td
+(26.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 438.6002 Td
+(In p-Persistent CSMA \(used in slotted channels\),) Tj
+ET
+BT
+/F1 7.8 Tf
+322 429.4002 Td
+(when an idle channel is detected, the station) Tj
+ET
+BT
+/F1 7.8 Tf
+322 420.2002 Td
+(transmits with probability 'p' and:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 408.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 408.5002 Td
+(Defers transmission to the next time slot) Tj
+ET
+BT
+/F1 7.4 Tf
+336 399.9002 Td
+(with probability \(1 - p\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 390.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 390.3002 Td
+(Aborts transmission) Tj
+ET
+BT
+/F2 7.4 Tf
+322 380.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 380.7002 Td
+(Transmits twice) Tj
+ET
+BT
+/F2 7.4 Tf
+322 371.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 371.1002 Td
+(Doubles power) Tj
+ET
+BT
+/F2 8.0 Tf
+306 347.5002 Td
+(27.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 347.5002 Td
+(CSMA/CD \(Carrier Sense Multiple Access with) Tj
+ET
+BT
+/F1 7.8 Tf
+322 338.3001 Td
+(Collision Detection\) is the classical MAC) Tj
+ET
+BT
+/F1 7.8 Tf
+322 329.1001 Td
+(protocol implemented in wired:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 317.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 317.4001 Td
+(Half-Duplex Ethernet \(IEEE 802.3\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 307.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 307.8001 Td
+(Wi-Fi \(IEEE 802.11\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 298.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 298.2001 Td
+(Bluetooth \(IEEE 802.15.1\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 288.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 288.6001 Td
+(Token Ring \(IEEE 802.5\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 265.0001 Td
+(28.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 265.0001 Td
+(In CSMA/CD, when two colliding stations detect) Tj
+ET
+BT
+/F1 7.8 Tf
+322 255.8001 Td
+(simultaneous transmission, they immediately) Tj
+ET
+BT
+/F1 7.8 Tf
+322 246.6001 Td
+(abort and broadcast a:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 234.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 234.9001 Td
+(32-bit Jam Signal to ensure all other) Tj
+ET
+BT
+/F1 7.4 Tf
+336 226.3001 Td
+(stations detect the collision) Tj
+ET
+BT
+/F2 7.4 Tf
+322 216.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 216.7001 Td
+(FIN packet) Tj
+ET
+BT
+/F2 7.4 Tf
+322 207.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 207.1001 Td
+(Reset token) Tj
+ET
+BT
+/F2 7.4 Tf
+322 197.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 197.5001 Td
+(SYN packet) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 8 0 R /Resources << /Font << /F1 49 0 R /F2 50 0 R >> >> >>
+endobj
+8 0 obj
+<< /Length 10323 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 3 of 23) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(29.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(After collision in CSMA/CD, stations calculate) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(their random backoff waiting delay using which) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(algorithm?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(Truncated Binary Exponential Backoff) Tj
+ET
+BT
+/F1 7.4 Tf
+72 745.3 Td
+(Algorithm) Tj
+ET
+BT
+/F2 7.4 Tf
+58 735.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 735.7 Td
+(Dijkstra's shortest path algorithm) Tj
+ET
+BT
+/F2 7.4 Tf
+58 726.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 726.1 Td
+(Bellman-Ford algorithm) Tj
+ET
+BT
+/F2 7.4 Tf
+58 716.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 716.5001 Td
+(Round Robin scheduling) Tj
+ET
+BT
+/F2 8.0 Tf
+42 692.9001 Td
+(30.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.9001 Td
+(In CSMA/CD, why does wireless Wi-Fi \(IEEE) Tj
+ET
+BT
+/F1 7.8 Tf
+58 683.7001 Td
+(802.11\) use CSMA/CA \(Collision Avoidance\) rather) Tj
+ET
+BT
+/F1 7.8 Tf
+58 674.5001 Td
+(than CSMA/CD?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 662.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 662.8 Td
+(Wireless transceivers cannot detect) Tj
+ET
+BT
+/F1 7.4 Tf
+72 654.2001 Td
+(collisions while transmitting because their) Tj
+ET
+BT
+/F1 7.4 Tf
+72 645.6001 Td
+(own transmitted RF power completely drowns) Tj
+ET
+BT
+/F1 7.4 Tf
+72 637.0001 Td
+(out weak received signals) Tj
+ET
+BT
+/F2 7.4 Tf
+58 627.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 627.4001 Td
+(Collision detection is illegal in wireless) Tj
+ET
+BT
+/F1 7.4 Tf
+72 618.8002 Td
+(bands) Tj
+ET
+BT
+/F2 7.4 Tf
+58 609.2002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 609.2002 Td
+(Wireless signals never collide) Tj
+ET
+BT
+/F2 7.4 Tf
+58 599.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 599.6002 Td
+(Wi-Fi operates only in simplex mode) Tj
+ET
+BT
+/F2 8.0 Tf
+42 576.0002 Td
+(31.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 576.0002 Td
+(The standard minimum frame length in classic 10) Tj
+ET
+BT
+/F1 7.8 Tf
+58 566.8002 Td
+(Mbps and 100 Mbps Ethernet is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 555.1002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 555.1002 Td
+(64 Bytes \(512 bits\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 545.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 545.5002 Td
+(128 Bytes) Tj
+ET
+BT
+/F2 7.4 Tf
+58 535.9003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 535.9003 Td
+(1500 Bytes) Tj
+ET
+BT
+/F2 7.4 Tf
+58 526.3003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 526.3003 Td
+(32 Bytes) Tj
+ET
+BT
+/F2 8.0 Tf
+42 502.7003 Td
+(32.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 502.7003 Td
+(The minimum frame size requirement of 64 bytes) Tj
+ET
+BT
+/F1 7.8 Tf
+58 493.5003 Td
+(in Ethernet CSMA/CD is mathematically required) Tj
+ET
+BT
+/F1 7.8 Tf
+58 484.3003 Td
+(to ensure that:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 472.6003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 472.6003 Td
+(Transmission duration T_tx exceeds twice the) Tj
+ET
+BT
+/F1 7.4 Tf
+72 464.0003 Td
+(round-trip propagation delay \(T_tx >= 2 *) Tj
+ET
+BT
+/F1 7.4 Tf
+72 455.4003 Td
+(T_prop\) so collisions are detected before) Tj
+ET
+BT
+/F1 7.4 Tf
+72 446.8003 Td
+(transmission completes) Tj
+ET
+BT
+/F2 7.4 Tf
+58 437.2003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 437.2003 Td
+(The frame fits in the switch buffer) Tj
+ET
+BT
+/F2 7.4 Tf
+58 427.6003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 427.6003 Td
+(CRC calculation is accurate) Tj
+ET
+BT
+/F2 7.4 Tf
+58 418.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 418.0002 Td
+(Preamble synchronization is maintained) Tj
+ET
+BT
+/F2 8.0 Tf
+42 394.4002 Td
+(33.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 394.4002 Td
+(The standard Maximum Transmission Unit \(MTU\)) Tj
+ET
+BT
+/F1 7.8 Tf
+58 385.2002 Td
+(payload size for standard Ethernet frames is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 373.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 373.5002 Td
+(1500 Bytes) Tj
+ET
+BT
+/F2 7.4 Tf
+58 363.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 363.9002 Td
+(64 Bytes) Tj
+ET
+BT
+/F2 7.4 Tf
+58 354.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 354.3002 Td
+(4096 Bytes) Tj
+ET
+BT
+/F2 7.4 Tf
+58 344.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 344.7002 Td
+(9000 Bytes) Tj
+ET
+BT
+/F2 8.0 Tf
+42 321.1002 Td
+(34.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 321.1002 Td
+(An Ethernet frame with payload size exceeding) Tj
+ET
+BT
+/F1 7.8 Tf
+58 311.9002 Td
+(the standard 1500 bytes \(typically up to 9000) Tj
+ET
+BT
+/F1 7.8 Tf
+58 302.7002 Td
+(bytes\) used in enterprise data centers is a:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 291.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 291.0002 Td
+(Jumbo Frame) Tj
+ET
+BT
+/F2 7.4 Tf
+58 281.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 281.4001 Td
+(Superframe) Tj
+ET
+BT
+/F2 7.4 Tf
+58 271.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 271.8001 Td
+(Runt frame) Tj
+ET
+BT
+/F2 7.4 Tf
+58 262.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 262.2001 Td
+(Baby giant frame) Tj
+ET
+BT
+/F2 8.0 Tf
+42 238.6001 Td
+(35.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 238.6001 Td
+(An Ethernet frame that is shorter than the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 229.4001 Td
+(minimum legal length of 64 bytes \(usually) Tj
+ET
+BT
+/F1 7.8 Tf
+58 220.2001 Td
+(resulting from an aborted collision\) is called) Tj
+ET
+BT
+/F1 7.8 Tf
+58 211.0001 Td
+(a:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 199.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 199.3001 Td
+(Runt Frame) Tj
+ET
+BT
+/F2 7.4 Tf
+58 189.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 189.7001 Td
+(Jumbo frame) Tj
+ET
+BT
+/F2 7.4 Tf
+58 180.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 180.1001 Td
+(Giant frame) Tj
+ET
+BT
+/F2 7.4 Tf
+58 170.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 170.5001 Td
+(Ghost packet) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(36.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(A Layer 2 Network Switch segments a local) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(network into multiple independent collision) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(domains by maintaining a:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(MAC Address Table \(Filtering Database / CAM) Tj
+ET
+BT
+/F1 7.4 Tf
+336 745.3 Td
+(Table\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 735.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 735.7 Td
+(Routing Table) Tj
+ET
+BT
+/F2 7.4 Tf
+322 726.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 726.1 Td
+(DNS Cache) Tj
+ET
+BT
+/F2 7.4 Tf
+322 716.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 716.5001 Td
+(ARP Cache) Tj
+ET
+BT
+/F2 8.0 Tf
+306 692.9001 Td
+(37.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.9001 Td
+(When a switch receives a frame destined for a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 683.7001 Td
+(MAC address that does not yet exist in its MAC) Tj
+ET
+BT
+/F1 7.8 Tf
+322 674.5001 Td
+(address table, it performs:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 662.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 662.8 Td
+(Flooding \(broadcasts the frame out of all) Tj
+ET
+BT
+/F1 7.4 Tf
+336 654.2001 Td
+(ports except the arrival port\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 644.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 644.6001 Td
+(Dropping the frame silently) Tj
+ET
+BT
+/F2 7.4 Tf
+322 635.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 635.0001 Td
+(Sending an ICMP error) Tj
+ET
+BT
+/F2 7.4 Tf
+322 625.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 625.4001 Td
+(Restarting the switch) Tj
+ET
+BT
+/F2 8.0 Tf
+306 601.8002 Td
+(38.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 601.8002 Td
+(Spanning Tree Protocol \(STP, IEEE 802.1D\) is) Tj
+ET
+BT
+/F1 7.8 Tf
+322 592.6002 Td
+(essential in redundant bridged switched networks) Tj
+ET
+BT
+/F1 7.8 Tf
+322 583.4001 Td
+(to prevent:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 571.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 571.7001 Td
+(Broadcast Storms and Layer 2 Switching Loops) Tj
+ET
+BT
+/F2 7.4 Tf
+322 562.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 562.1002 Td
+(IP address exhaustion) Tj
+ET
+BT
+/F2 7.4 Tf
+322 552.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 552.5002 Td
+(Buffer underruns) Tj
+ET
+BT
+/F2 7.4 Tf
+322 542.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 542.9002 Td
+(TCP timeout stalls) Tj
+ET
+BT
+/F2 8.0 Tf
+306 519.3002 Td
+(39.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 519.3002 Td
+(Virtual Local Area Networks \(VLANs, IEEE 802.1Q\)) Tj
+ET
+BT
+/F1 7.8 Tf
+322 510.1002 Td
+(partition a single physical switched) Tj
+ET
+BT
+/F1 7.8 Tf
+322 500.9002 Td
+(infrastructure into multiple isolated:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 489.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 489.2002 Td
+(Logical Broadcast Domains) Tj
+ET
+BT
+/F2 7.4 Tf
+322 479.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 479.6002 Td
+(Collision domains only) Tj
+ET
+BT
+/F2 7.4 Tf
+322 470.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 470.0002 Td
+(Subnets sharing one MAC table) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.4002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.4002 Td
+(Autonomous systems) Tj
+ET
+BT
+/F2 8.0 Tf
+306 436.8002 Td
+(40.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 436.8002 Td
+(The IEEE 802.1Q standard inserts a 4-byte VLAN) Tj
+ET
+BT
+/F1 7.8 Tf
+322 427.6002 Td
+(tag into standard Ethernet frames, containing a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 418.4001 Td
+(12-bit VLAN ID \(VID\) supporting up to:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 406.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 406.7001 Td
+(4094 distinct VLANs \(2^12 - 2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 397.1001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 397.1001 Td
+(256 VLANs) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.5001 Td
+(1024 VLANs) Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.9001 Td
+(65,536 VLANs) Tj
+ET
+BT
+/F2 8.0 Tf
+306 354.3001 Td
+(41.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 354.3001 Td
+(In IEEE 802.3 Ethernet framing, what is the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 345.1001 Td
+(purpose of the 7-byte Preamble followed by the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 335.9001 Td
+(1-byte Start Frame Delimiter \(SFD: 10101011\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 324.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 324.2001 Td
+(To synchronize receiver clock phase and) Tj
+ET
+BT
+/F1 7.4 Tf
+336 315.6001 Td
+(signal the start of the MAC destination) Tj
+ET
+BT
+/F1 7.4 Tf
+336 307.0001 Td
+(address) Tj
+ET
+BT
+/F2 7.4 Tf
+322 297.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 297.4001 Td
+(To hold source IP address) Tj
+ET
+BT
+/F2 7.4 Tf
+322 287.8 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 287.8 Td
+(To provide encryption key) Tj
+ET
+BT
+/F2 7.4 Tf
+322 278.2 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 278.2 Td
+(To specify QoS priority) Tj
+ET
+BT
+/F2 8.0 Tf
+306 254.6 Td
+(42.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 254.6 Td
+(What is the slot time in standard 10 Mbps) Tj
+ET
+BT
+/F1 7.8 Tf
+322 245.4 Td
+(Ethernet defined as?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 233.7 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 233.7 Td
+(51.2 microseconds \(the time to transmit 512) Tj
+ET
+BT
+/F1 7.4 Tf
+336 225.1 Td
+(bits / 64 bytes\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 215.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 215.5 Td
+(10.0 microseconds) Tj
+ET
+BT
+/F2 7.4 Tf
+322 205.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 205.9 Td
+(1.0 millisecond) Tj
+ET
+BT
+/F2 7.4 Tf
+322 196.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 196.3 Td
+(100.0 nanoseconds) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 10 0 R /Resources << /Font << /F1 49 0 R /F2 50 0 R >> >> >>
+endobj
+10 0 obj
+<< /Length 10441 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 4 of 23) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(43.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(In Binary Exponential Backoff, after the k-th) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(collision \(for k <= 10\), the station picks a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(random integer r from the range:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(0 <= r <= 2^k - 1, and waits r * Slot_Time) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.3 Td
+(0 <= r <= k) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.7 Td
+(0 <= r <= 2 * k) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.1 Td
+(r = 2^k exactly) Tj
+ET
+BT
+/F2 8.0 Tf
+42 701.5001 Td
+(44.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(In CSMA/CD, after how many consecutive) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.3 Td
+(collisions does a station permanently abort) Tj
+ET
+BT
+/F1 7.8 Tf
+58 683.1 Td
+(transmission and declare an error?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.4 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.4 Td
+(16 collisions) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.8 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.8 Td
+(10 collisions) Tj
+ET
+BT
+/F2 7.4 Tf
+58 652.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 652.2001 Td
+(8 collisions) Tj
+ET
+BT
+/F2 7.4 Tf
+58 642.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 642.6001 Td
+(32 collisions) Tj
+ET
+BT
+/F2 8.0 Tf
+42 619.0001 Td
+(45.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.0001 Td
+(A 1-km coaxial Ethernet cable has propagation) Tj
+ET
+BT
+/F1 7.8 Tf
+58 609.8001 Td
+(speed v = 2 * 10^8 m/s. The one-way propagation) Tj
+ET
+BT
+/F1 7.8 Tf
+58 600.6001 Td
+(delay T_prop is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.9001 Td
+(5 microseconds \(1000 m / 2*10^8 m/s\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 579.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 579.3001 Td
+(2 microseconds) Tj
+ET
+BT
+/F2 7.4 Tf
+58 569.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 569.7001 Td
+(10 microseconds) Tj
+ET
+BT
+/F2 7.4 Tf
+58 560.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 560.1002 Td
+(0.5 microseconds) Tj
+ET
+BT
+/F2 8.0 Tf
+42 536.5002 Td
+(46.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 536.5002 Td
+(For the cable in Q45, the round-trip propagation) Tj
+ET
+BT
+/F1 7.8 Tf
+58 527.3002 Td
+(time \(2 * T_prop\) is 10 microseconds. At 10) Tj
+ET
+BT
+/F1 7.8 Tf
+58 518.1002 Td
+(Mbps, how many bits are transmitted in 10) Tj
+ET
+BT
+/F1 7.8 Tf
+58 508.9001 Td
+(microseconds?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 497.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 497.2001 Td
+(100 bits \(10 * 10^6 bps * 10 * 10^-6 s\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 487.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 487.6001 Td
+(50 bits) Tj
+ET
+BT
+/F2 7.4 Tf
+58 478.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 478.0001 Td
+(512 bits) Tj
+ET
+BT
+/F2 7.4 Tf
+58 468.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 468.4001 Td
+(64 bits) Tj
+ET
+BT
+/F2 8.0 Tf
+42 444.8001 Td
+(47.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 444.8001 Td
+(Why is collision detection physically impossible) Tj
+ET
+BT
+/F1 7.8 Tf
+58 435.6001 Td
+(in full-duplex switched Ethernet?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 423.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 423.9001 Td
+(Full-duplex provides dedicated, independent) Tj
+ET
+BT
+/F1 7.4 Tf
+72 415.3001 Td
+(transmit \(Tx\) and receive \(Rx\) wire pairs,) Tj
+ET
+BT
+/F1 7.4 Tf
+72 406.7001 Td
+(so collisions never occur) Tj
+ET
+BT
+/F2 7.4 Tf
+58 397.1001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 397.1001 Td
+(Full duplex uses token passing) Tj
+ET
+BT
+/F2 7.4 Tf
+58 387.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 387.5001 Td
+(Carrier sense is disabled permanently) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.9001 Td
+(Switches buffer all packets) Tj
+ET
+BT
+/F2 8.0 Tf
+42 354.3 Td
+(48.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 354.3 Td
+(The 'Hidden Terminal Problem' in wireless) Tj
+ET
+BT
+/F1 7.8 Tf
+58 345.1 Td
+(networks \(IEEE 802.11\) occurs when:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 333.4 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 333.4 Td
+(Two stations out of radio range of each) Tj
+ET
+BT
+/F1 7.4 Tf
+72 324.8 Td
+(other transmit simultaneously to a common) Tj
+ET
+BT
+/F1 7.4 Tf
+72 316.2 Td
+(access point, causing collision) Tj
+ET
+BT
+/F2 7.4 Tf
+58 306.6 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 306.6 Td
+(A rogue station eavesdrops on frames) Tj
+ET
+BT
+/F2 7.4 Tf
+58 297 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 297 Td
+(Antennas are misaligned) Tj
+ET
+BT
+/F2 7.4 Tf
+58 287.4 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 287.4 Td
+(Frequency bands overlap) Tj
+ET
+BT
+/F2 8.0 Tf
+42 263.8 Td
+(49.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 263.8 Td
+(CSMA/CA resolves the hidden terminal problem in) Tj
+ET
+BT
+/F1 7.8 Tf
+58 254.6 Td
+(wireless LANs through which optional handshake) Tj
+ET
+BT
+/F1 7.8 Tf
+58 245.4 Td
+(mechanism?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 233.7 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 233.7 Td
+(RTS/CTS \(Request to Send / Clear to Send\)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 225.1 Td
+(exchange) Tj
+ET
+BT
+/F2 7.4 Tf
+58 215.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 215.5 Td
+(Collision detection jamming) Tj
+ET
+BT
+/F2 7.4 Tf
+58 205.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 205.9 Td
+(Token ring rotation) Tj
+ET
+BT
+/F2 7.4 Tf
+58 196.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 196.3 Td
+(Slotted ALOHA synchronization) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(50.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(In CSMA/CA, the Network Allocation Vector \(NAV\)) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(is a timer maintained by stations that acts as) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(a:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(Virtual carrier-sensing mechanism indicating) Tj
+ET
+BT
+/F1 7.4 Tf
+336 745.3 Td
+(how long the medium will remain busy) Tj
+ET
+BT
+/F2 7.4 Tf
+322 735.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 735.7 Td
+(Physical signal meter) Tj
+ET
+BT
+/F2 7.4 Tf
+322 726.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 726.1 Td
+(Collision backoff multiplier) Tj
+ET
+BT
+/F2 7.4 Tf
+322 716.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 716.5001 Td
+(IP routing hop counter) Tj
+ET
+BT
+/F2 8.0 Tf
+306 692.9001 Td
+(51.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.9001 Td
+(In IEEE 802.11 Wi-Fi, what is the Inter-Frame) Tj
+ET
+BT
+/F1 7.8 Tf
+322 683.7001 Td
+(Space hierarchy from shortest to longest) Tj
+ET
+BT
+/F1 7.8 Tf
+322 674.5001 Td
+(priority?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 662.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 662.8 Td
+(SIFS \(Shortest\), PIFS \(PCF\), DIFS \(DCF\),) Tj
+ET
+BT
+/F1 7.4 Tf
+336 654.2001 Td
+(EIFS \(Extended / Error\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 644.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 644.6001 Td
+(DIFS, SIFS, PIFS, EIFS) Tj
+ET
+BT
+/F2 7.4 Tf
+322 635.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 635.0001 Td
+(EIFS, DIFS, PIFS, SIFS) Tj
+ET
+BT
+/F2 7.4 Tf
+322 625.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 625.4001 Td
+(PIFS, SIFS, DIFS, EIFS) Tj
+ET
+BT
+/F2 8.0 Tf
+306 601.8002 Td
+(52.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 601.8002 Td
+(Short Inter-Frame Space \(SIFS\) in 802.11 is) Tj
+ET
+BT
+/F1 7.8 Tf
+322 592.6002 Td
+(reserved for highest-priority immediate) Tj
+ET
+BT
+/F1 7.8 Tf
+322 583.4001 Td
+(transmissions such as:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 571.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 571.7001 Td
+(ACK frames, CTS frames, and subsequent) Tj
+ET
+BT
+/F1 7.4 Tf
+336 563.1002 Td
+(fragments) Tj
+ET
+BT
+/F2 7.4 Tf
+322 553.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 553.5002 Td
+(Regular data frames) Tj
+ET
+BT
+/F2 7.4 Tf
+322 543.9002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 543.9002 Td
+(Beacon management frames) Tj
+ET
+BT
+/F2 7.4 Tf
+322 534.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 534.3002 Td
+(Association requests) Tj
+ET
+BT
+/F2 8.0 Tf
+306 510.7003 Td
+(53.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 510.7003 Td
+(The Data Link layer error-detection checksum) Tj
+ET
+BT
+/F1 7.8 Tf
+322 501.5002 Td
+(used in the Internet \(IP, TCP, UDP headers\) is) Tj
+ET
+BT
+/F1 7.8 Tf
+322 492.3002 Td
+(calculated by:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 480.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 480.6002 Td
+(Summing 16-bit words using 1's complement) Tj
+ET
+BT
+/F1 7.4 Tf
+336 472.0002 Td
+(arithmetic and taking the 1's complement of) Tj
+ET
+BT
+/F1 7.4 Tf
+336 463.4002 Td
+(the result) Tj
+ET
+BT
+/F2 7.4 Tf
+322 453.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 453.8002 Td
+(Modulo-2 CRC division) Tj
+ET
+BT
+/F2 7.4 Tf
+322 444.2002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 444.2002 Td
+(XORing all bytes sequentially) Tj
+ET
+BT
+/F2 7.4 Tf
+322 434.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 434.6002 Td
+(2's complement negation) Tj
+ET
+BT
+/F2 8.0 Tf
+306 411.0002 Td
+(54.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 411.0002 Td
+(If the generator polynomial for CRC is G\(x\) =) Tj
+ET
+BT
+/F1 7.8 Tf
+322 401.8002 Td
+(x^4 + x + 1, its binary divisor representation) Tj
+ET
+BT
+/F1 7.8 Tf
+322 392.6002 Td
+(is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 380.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 380.9001 Td
+(10011 \(coefficients of x^4, x^3, x^2, x^1,) Tj
+ET
+BT
+/F1 7.4 Tf
+336 372.3001 Td
+(x^0\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 362.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 362.7001 Td
+(11001) Tj
+ET
+BT
+/F2 7.4 Tf
+322 353.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 353.1001 Td
+(10101) Tj
+ET
+BT
+/F2 7.4 Tf
+322 343.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 343.5001 Td
+(11110) Tj
+ET
+BT
+/F2 8.0 Tf
+306 319.9001 Td
+(55.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 319.9001 Td
+(How many CRC check bits \(remainder bits\) are) Tj
+ET
+BT
+/F1 7.8 Tf
+322 310.7001 Td
+(appended to a message when dividing by generator) Tj
+ET
+BT
+/F1 7.8 Tf
+322 301.5001 Td
+(polynomial G\(x\) of degree r?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 289.8001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 289.8001 Td
+(Exactly r bits \(e.g., degree 4 appends 4) Tj
+ET
+BT
+/F1 7.4 Tf
+336 281.2001 Td
+(zeros, produces 4 check bits\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 271.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 271.6001 Td
+(r + 1 bits) Tj
+ET
+BT
+/F2 7.4 Tf
+322 262.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 262.0001 Td
+(r - 1 bits) Tj
+ET
+BT
+/F2 7.4 Tf
+322 252.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 252.4001 Td
+(2 * r bits) Tj
+ET
+BT
+/F2 8.0 Tf
+306 228.8 Td
+(56.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 228.8 Td
+(Point-to-Point Protocol \(PPP, RFC 1661\) is) Tj
+ET
+BT
+/F1 7.8 Tf
+322 219.6001 Td
+(widely used for direct links between two nodes,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 210.4001 Td
+(incorporating:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 198.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 198.7001 Td
+(Link Control Protocol \(LCP\) for link) Tj
+ET
+BT
+/F1 7.4 Tf
+336 190.1001 Td
+(establishment and Network Control Protocols) Tj
+ET
+BT
+/F1 7.4 Tf
+336 181.5 Td
+(\(NCP\) for network-layer multiplexing) Tj
+ET
+BT
+/F2 7.4 Tf
+322 171.9 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 171.9 Td
+(CSMA/CD collision control) Tj
+ET
+BT
+/F2 7.4 Tf
+322 162.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 162.3 Td
+(Token ring circulation) Tj
+ET
+BT
+/F2 7.4 Tf
+322 152.7 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 152.7 Td
+(Spanning tree routing) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 12 0 R /Resources << /Font << /F1 49 0 R /F2 50 0 R >> >> >>
+endobj
+12 0 obj
+<< /Length 11428 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 5 of 23) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(57.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(High-Level Data Link Control \(HDLC\) protocol) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(defines three station types: Primary, Secondary,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(and Combined, and operates in which three) Tj
+ET
+BT
+/F1 7.8 Tf
+58 756.4 Td
+(transfer modes?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.7 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.7 Td
+(Normal Response Mode \(NRM\), Asynchronous) Tj
+ET
+BT
+/F1 7.4 Tf
+72 736.1 Td
+(Response Mode \(ARM\), and Asynchronous) Tj
+ET
+BT
+/F1 7.4 Tf
+72 727.5 Td
+(Balanced Mode \(ABM\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 717.9 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 717.9 Td
+(Simplex, Half-Duplex, Full-Duplex) Tj
+ET
+BT
+/F2 7.4 Tf
+58 708.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 708.3 Td
+(Slotted, Unslotted, Hybrid) Tj
+ET
+BT
+/F2 7.4 Tf
+58 698.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 698.7001 Td
+(Active, Standby, Idle) Tj
+ET
+BT
+/F2 8.0 Tf
+42 675.1001 Td
+(58.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 675.1001 Td
+(In HDLC frames, what are the three distinct) Tj
+ET
+BT
+/F1 7.8 Tf
+58 665.9001 Td
+(frame formats defined by the control field?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 654.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 654.2001 Td
+(Information frames \(I-frames\), Supervisory) Tj
+ET
+BT
+/F1 7.4 Tf
+72 645.6001 Td
+(frames \(S-frames\), and Unnumbered frames) Tj
+ET
+BT
+/F1 7.4 Tf
+72 637.0001 Td
+(\(U-frames\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 627.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 627.4001 Td
+(Data, Voice, Video) Tj
+ET
+BT
+/F2 7.4 Tf
+58 617.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 617.8002 Td
+(Header, Body, Trailer) Tj
+ET
+BT
+/F2 7.4 Tf
+58 608.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 608.2002 Td
+(Request, Response, Acknowledgment) Tj
+ET
+BT
+/F2 8.0 Tf
+42 584.6002 Td
+(59.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 584.6002 Td
+(In HDLC, Supervisory frames \(S-frames\) are used) Tj
+ET
+BT
+/F1 7.8 Tf
+58 575.4002 Td
+(for:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 563.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 563.7002 Td
+(Flow and error control \(carrying Receive) Tj
+ET
+BT
+/F1 7.4 Tf
+72 555.1002 Td
+(Ready RR, Receive Not Ready RNR, Reject REJ\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 545.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 545.5002 Td
+(User data payload transport) Tj
+ET
+BT
+/F2 7.4 Tf
+58 535.9003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 535.9003 Td
+(Session teardown) Tj
+ET
+BT
+/F2 7.4 Tf
+58 526.3003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 526.3003 Td
+(Encryption keys) Tj
+ET
+BT
+/F2 8.0 Tf
+42 502.7003 Td
+(60.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 502.7003 Td
+(A bridge or switch learns station MAC addresses) Tj
+ET
+BT
+/F1 7.8 Tf
+58 493.5003 Td
+(dynamically by inspecting:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 481.8003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 481.8003 Td
+(The SOURCE MAC address of every arriving) Tj
+ET
+BT
+/F1 7.4 Tf
+72 473.2003 Td
+(frame and associating it with the arrival) Tj
+ET
+BT
+/F1 7.4 Tf
+72 464.6003 Td
+(port) Tj
+ET
+BT
+/F2 7.4 Tf
+58 455.0003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 455.0003 Td
+(The destination MAC address) Tj
+ET
+BT
+/F2 7.4 Tf
+58 445.4003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 445.4003 Td
+(The IP header) Tj
+ET
+BT
+/F2 7.4 Tf
+58 435.8003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 435.8003 Td
+(The CRC checksum) Tj
+ET
+BT
+/F2 8.0 Tf
+42 412.2003 Td
+(61.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 412.2003 Td
+(In Spanning Tree Protocol \(STP\), the root switch) Tj
+ET
+BT
+/F1 7.8 Tf
+58 403.0002 Td
+(of the broadcast tree is elected based on the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 393.8002 Td
+(lowest:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 382.1002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 382.1002 Td
+(Bridge ID \(BID = Priority + MAC Address\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 372.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 372.5002 Td
+(Port speed) Tj
+ET
+BT
+/F2 7.4 Tf
+58 362.9002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 362.9002 Td
+(IP address) Tj
+ET
+BT
+/F2 7.4 Tf
+58 353.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 353.3002 Td
+(VLAN tag) Tj
+ET
+BT
+/F2 8.0 Tf
+42 329.7002 Td
+(62.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 329.7002 Td
+(What are the five port states in legacy IEEE) Tj
+ET
+BT
+/F1 7.8 Tf
+58 320.5002 Td
+(802.1D Spanning Tree Protocol?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 308.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 308.8002 Td
+(Blocking, Listening, Learning, Forwarding,) Tj
+ET
+BT
+/F1 7.4 Tf
+72 300.2002 Td
+(and Disabled) Tj
+ET
+BT
+/F2 7.4 Tf
+58 290.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 290.6002 Td
+(Active, Passive, Up, Down, Idle) Tj
+ET
+BT
+/F2 7.4 Tf
+58 281.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 281.0002 Td
+(Open, Closed, Half-Open, Reset, Timeout) Tj
+ET
+BT
+/F2 7.4 Tf
+58 271.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 271.4001 Td
+(Connected, Disconnected, Error, Synced,) Tj
+ET
+BT
+/F1 7.4 Tf
+72 262.8001 Td
+(Master) Tj
+ET
+BT
+/F2 8.0 Tf
+42 239.2001 Td
+(63.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 239.2001 Td
+(Rapid Spanning Tree Protocol \(RSTP, IEEE 802.1w\)) Tj
+ET
+BT
+/F1 7.8 Tf
+58 230.0001 Td
+(achieves sub-second convergence primarily by) Tj
+ET
+BT
+/F1 7.8 Tf
+58 220.8001 Td
+(introducing:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 209.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 209.1001 Td
+(Proposal-agreement handshake on) Tj
+ET
+BT
+/F1 7.4 Tf
+72 200.5001 Td
+(point-to-point links and new port roles) Tj
+ET
+BT
+/F1 7.4 Tf
+72 191.9001 Td
+(\(Alternate and Backup\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 182.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 182.3001 Td
+(Increasing hello timers) Tj
+ET
+BT
+/F2 7.4 Tf
+58 172.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 172.7001 Td
+(Eliminating BPDUs) Tj
+ET
+BT
+/F2 7.4 Tf
+58 163.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 163.1001 Td
+(Using static routes) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(64.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Link Aggregation \(IEEE 802.3ad / 802.1AX - LACP\)) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(combines multiple physical Ethernet links) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(between two switches into a single logical) Tj
+ET
+BT
+/F1 7.8 Tf
+322 756.4 Td
+(channel to:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.7 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.7 Td
+(Increase aggregate link bandwidth and) Tj
+ET
+BT
+/F1 7.4 Tf
+336 736.1 Td
+(provide automatic link failover redundancy) Tj
+ET
+BT
+/F2 7.4 Tf
+322 726.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 726.5 Td
+(Reduce power consumption) Tj
+ET
+BT
+/F2 7.4 Tf
+322 716.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 716.9 Td
+(Convert copper to fiber) Tj
+ET
+BT
+/F2 7.4 Tf
+322 707.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 707.3 Td
+(Eliminate VLANs) Tj
+ET
+BT
+/F2 8.0 Tf
+306 683.7001 Td
+(65.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 683.7001 Td
+(The Address Resolution Protocol \(ARP\) translates) Tj
+ET
+BT
+/F1 7.8 Tf
+322 674.5001 Td
+(an IP address into a corresponding physical MAC) Tj
+ET
+BT
+/F1 7.8 Tf
+322 665.3 Td
+(address using:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 653.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 653.6 Td
+(An ARP Request broadcast \(FF:FF:FF:FF:FF:FF\)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 645.0001 Td
+(followed by a unicast ARP Reply from the) Tj
+ET
+BT
+/F1 7.4 Tf
+336 636.4001 Td
+(target host) Tj
+ET
+BT
+/F2 7.4 Tf
+322 626.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 626.8001 Td
+(A DNS server query) Tj
+ET
+BT
+/F2 7.4 Tf
+322 617.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 617.2001 Td
+(A DHCP discover broadcast) Tj
+ET
+BT
+/F2 7.4 Tf
+322 607.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.6002 Td
+(An ICMP ping) Tj
+ET
+BT
+/F2 8.0 Tf
+306 584.0002 Td
+(66.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 584.0002 Td
+(Gratuitous ARP is an ARP broadcast where a host) Tj
+ET
+BT
+/F1 7.8 Tf
+322 574.8002 Td
+(announces its own IP-MAC mapping, used for:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 563.1002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 563.1002 Td
+(Detecting duplicate IP addresses on the LAN) Tj
+ET
+BT
+/F1 7.4 Tf
+336 554.5002 Td
+(and updating neighboring switch/router ARP) Tj
+ET
+BT
+/F1 7.4 Tf
+336 545.9002 Td
+(caches upon hardware replacement) Tj
+ET
+BT
+/F2 7.4 Tf
+322 536.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 536.3002 Td
+(Requesting a DHCP lease) Tj
+ET
+BT
+/F2 7.4 Tf
+322 526.7003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 526.7003 Td
+(Discovering gateway routers) Tj
+ET
+BT
+/F2 7.4 Tf
+322 517.1003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 517.1003 Td
+(Testing internet connectivity) Tj
+ET
+BT
+/F2 8.0 Tf
+306 493.5003 Td
+(67.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 493.5003 Td
+(ARP Spoofing \(ARP Poisoning\) is a malicious) Tj
+ET
+BT
+/F1 7.8 Tf
+322 484.3003 Td
+(attack wherein an attacker on the local LAN:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 472.6003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 472.6003 Td
+(Sends falsified ARP responses to link the) Tj
+ET
+BT
+/F1 7.4 Tf
+336 464.0002 Td
+(attacker's MAC address with the legitimate) Tj
+ET
+BT
+/F1 7.4 Tf
+336 455.4002 Td
+(default gateway's IP address) Tj
+ET
+BT
+/F1 7.4 Tf
+336 446.8002 Td
+(\(Man-in-the-Middle\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 437.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 437.2002 Td
+(Floods the DNS root server) Tj
+ET
+BT
+/F2 7.4 Tf
+322 427.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 427.6002 Td
+(Disables physical network cables) Tj
+ET
+BT
+/F2 7.4 Tf
+322 418.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 418.0002 Td
+(Cracks Wi-Fi WPA3 passwords) Tj
+ET
+BT
+/F2 8.0 Tf
+306 394.4002 Td
+(68.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 394.4002 Td
+(Dynamic ARP Inspection \(DAI\) on enterprise) Tj
+ET
+BT
+/F1 7.8 Tf
+322 385.2002 Td
+(switches mitigates ARP spoofing by:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 373.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 373.5002 Td
+(Validating ARP packets against the DHCP) Tj
+ET
+BT
+/F1 7.4 Tf
+336 364.9002 Td
+(snooping binding database and dropping) Tj
+ET
+BT
+/F1 7.4 Tf
+336 356.3002 Td
+(invalid mappings) Tj
+ET
+BT
+/F2 7.4 Tf
+322 346.7002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 346.7002 Td
+(Encrypting all ARP traffic with RSA) Tj
+ET
+BT
+/F2 7.4 Tf
+322 337.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 337.1002 Td
+(Disabling ARP completely) Tj
+ET
+BT
+/F2 7.4 Tf
+322 327.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 327.5002 Td
+(Converting all LAN traffic to IPv6) Tj
+ET
+BT
+/F2 8.0 Tf
+306 303.9001 Td
+(69.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 303.9001 Td
+(In an Ethernet switch, what is the architectural) Tj
+ET
+BT
+/F1 7.8 Tf
+322 294.7001 Td
+(difference between Cut-Through switching and) Tj
+ET
+BT
+/F1 7.8 Tf
+322 285.5001 Td
+(Store-and-Forward switching?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 273.8001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 273.8001 Td
+(Cut-Through forwards the frame immediately) Tj
+ET
+BT
+/F1 7.4 Tf
+336 265.2001 Td
+(after reading the 6-byte destination MAC) Tj
+ET
+BT
+/F1 7.4 Tf
+336 256.6001 Td
+(address; Store-and-Forward buffers the) Tj
+ET
+BT
+/F1 7.4 Tf
+336 248.0001 Td
+(entire frame and verifies the CRC before) Tj
+ET
+BT
+/F1 7.4 Tf
+336 239.4001 Td
+(forwarding) Tj
+ET
+BT
+/F2 7.4 Tf
+322 229.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 229.8001 Td
+(Store-and-forward drops all frames with VLAN) Tj
+ET
+BT
+/F1 7.4 Tf
+336 221.2001 Td
+(tags) Tj
+ET
+BT
+/F2 7.4 Tf
+322 211.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 211.6001 Td
+(Cut-through is only supported on 10 Mbps) Tj
+ET
+BT
+/F1 7.4 Tf
+336 203.0001 Td
+(links) Tj
+ET
+BT
+/F2 7.4 Tf
+322 193.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 193.4001 Td
+(Store-and-forward cannot filter MAC) Tj
+ET
+BT
+/F1 7.4 Tf
+336 184.8 Td
+(addresses) Tj
+ET
+BT
+/F2 8.0 Tf
+306 161.2 Td
+(70.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 161.2 Td
+(Fragment-Free switching is a compromise hybrid) Tj
+ET
+BT
+/F1 7.8 Tf
+322 152 Td
+(switching mode that reads the first:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 140.3 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 140.3 Td
+(64 bytes of the frame to filter out) Tj
+ET
+BT
+/F1 7.4 Tf
+336 131.7 Td
+(collision fragments \(runts\) before) Tj
+ET
+BT
+/F1 7.4 Tf
+336 123.1 Td
+(forwarding) Tj
+ET
+BT
+/F2 7.4 Tf
+322 113.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 113.5 Td
+(1500 bytes) Tj
+ET
+BT
+/F2 7.4 Tf
+322 103.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 103.9 Td
+(12 bytes) Tj
+ET
+BT
+/F2 7.4 Tf
+322 94.30005 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 94.30005 Td
+(32 bytes) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 14 0 R /Resources << /Font << /F1 49 0 R /F2 50 0 R >> >> >>
+endobj
+14 0 obj
+<< /Length 11708 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 6 of 23) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(71.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(An Ethernet Hub operates strictly at Layer 1 as) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(a multiport repeater, meaning that:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(All connected devices share a single common) Tj
+ET
+BT
+/F1 7.4 Tf
+72 754.5 Td
+(collision domain and bandwidth is divided) Tj
+ET
+BT
+/F1 7.4 Tf
+72 745.9 Td
+(among all active stations) Tj
+ET
+BT
+/F2 7.4 Tf
+58 736.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 736.3 Td
+(Each port has its own collision domain) Tj
+ET
+BT
+/F2 7.4 Tf
+58 726.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 726.7001 Td
+(It inspects MAC addresses) Tj
+ET
+BT
+/F2 7.4 Tf
+58 717.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 717.1001 Td
+(It buffers frames in RAM) Tj
+ET
+BT
+/F2 8.0 Tf
+42 693.5001 Td
+(72.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 693.5001 Td
+(An Ethernet Switch operates at Layer 2, meaning) Tj
+ET
+BT
+/F1 7.8 Tf
+58 684.3001 Td
+(that:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 672.6001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 672.6001 Td
+(Each switch port represents an isolated) Tj
+ET
+BT
+/F1 7.4 Tf
+72 664.0001 Td
+(collision domain, enabling full-duplex) Tj
+ET
+BT
+/F1 7.4 Tf
+72 655.4001 Td
+(dedicated wire-speed bandwidth per port) Tj
+ET
+BT
+/F2 7.4 Tf
+58 645.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 645.8002 Td
+(All ports share one collision domain) Tj
+ET
+BT
+/F2 7.4 Tf
+58 636.2002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 636.2002 Td
+(It modifies IP packets) Tj
+ET
+BT
+/F2 7.4 Tf
+58 626.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 626.6002 Td
+(It cannot support VLANs) Tj
+ET
+BT
+/F2 8.0 Tf
+42 603.0002 Td
+(73.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 603.0002 Td
+(Broadcast domains in a computer network can be) Tj
+ET
+BT
+/F1 7.8 Tf
+58 593.8002 Td
+(separated and bounded by:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 582.1002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 582.1002 Td
+(Routers \(Layer 3\) and VLANs on Layer 2) Tj
+ET
+BT
+/F1 7.4 Tf
+72 573.5002 Td
+(switches) Tj
+ET
+BT
+/F2 7.4 Tf
+58 563.9003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 563.9003 Td
+(Layer 1 Hubs) Tj
+ET
+BT
+/F2 7.4 Tf
+58 554.3003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 554.3003 Td
+(Passive patch panels) Tj
+ET
+BT
+/F2 7.4 Tf
+58 544.7003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 544.7003 Td
+(Unmanaged repeaters) Tj
+ET
+BT
+/F2 8.0 Tf
+42 521.1003 Td
+(74.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 521.1003 Td
+(Broadcast Storms in looped switched networks) Tj
+ET
+BT
+/F1 7.8 Tf
+58 511.9003 Td
+(cause network paralysis because Layer 2 Ethernet) Tj
+ET
+BT
+/F1 7.8 Tf
+58 502.7003 Td
+(frames lack a:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 491.0003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 491.0003 Td
+(Time-to-Live \(TTL\) hop limit field, causing) Tj
+ET
+BT
+/F1 7.4 Tf
+72 482.4003 Td
+(broadcast frames to circulate and multiply) Tj
+ET
+BT
+/F1 7.4 Tf
+72 473.8003 Td
+(indefinitely) Tj
+ET
+BT
+/F2 7.4 Tf
+58 464.2003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 464.2003 Td
+(Destination MAC address) Tj
+ET
+BT
+/F2 7.4 Tf
+58 454.6003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 454.6003 Td
+(CRC error trailer) Tj
+ET
+BT
+/F2 7.4 Tf
+58 445.0003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 445.0003 Td
+(Preamble sequence) Tj
+ET
+BT
+/F2 8.0 Tf
+42 421.4003 Td
+(75.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 421.4003 Td
+(IEEE 802.1X is an enterprise network port-based) Tj
+ET
+BT
+/F1 7.8 Tf
+58 412.2003 Td
+(authentication framework that authenticates) Tj
+ET
+BT
+/F1 7.8 Tf
+58 403.0002 Td
+(client devices using:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 391.3002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 391.3002 Td
+(EAP \(Extensible Authentication Protocol\)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 382.7002 Td
+(over LAN \(EAPOL\) with a central RADIUS) Tj
+ET
+BT
+/F1 7.4 Tf
+72 374.1002 Td
+(authentication server) Tj
+ET
+BT
+/F2 7.4 Tf
+58 364.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 364.5002 Td
+(WPA2 Pre-Shared Keys) Tj
+ET
+BT
+/F2 7.4 Tf
+58 354.9002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 354.9002 Td
+(Static MAC filtering only) Tj
+ET
+BT
+/F2 7.4 Tf
+58 345.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 345.3002 Td
+(IP address whitelisting) Tj
+ET
+BT
+/F2 8.0 Tf
+42 321.7002 Td
+(76.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 321.7002 Td
+(A 100 Mbps Ethernet link operates with MTU =) Tj
+ET
+BT
+/F1 7.8 Tf
+58 312.5002 Td
+(1500 bytes over a distance with one-way) Tj
+ET
+BT
+/F1 7.8 Tf
+58 303.3002 Td
+(propagation delay T_prop = 1 ms. In) Tj
+ET
+BT
+/F1 7.8 Tf
+58 294.1002 Td
+(Stop-and-Wait protocol, the link utilization) Tj
+ET
+BT
+/F1 7.8 Tf
+58 284.9001 Td
+(efficiency is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 273.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 273.2001 Td
+(Approximately 5.6% \(T_tx = 120 us; Round) Tj
+ET
+BT
+/F1 7.4 Tf
+72 264.6001 Td
+(trip = 2000 us; Efficiency = 120 / 2120\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 255.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 255.0001 Td
+(50.0%) Tj
+ET
+BT
+/F2 7.4 Tf
+58 245.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 245.4001 Td
+(95.0%) Tj
+ET
+BT
+/F2 7.4 Tf
+58 235.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 235.8001 Td
+(1.2%) Tj
+ET
+BT
+/F2 8.0 Tf
+42 212.2001 Td
+(77.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 212.2001 Td
+(For the link in Q76 \(Bandwidth = 100 Mbps, RTT =) Tj
+ET
+BT
+/F1 7.8 Tf
+58 203.0001 Td
+(2 ms, BDP = 200,000 bits = 16.6 frames\), what is) Tj
+ET
+BT
+/F1 7.8 Tf
+58 193.8001 Td
+(the minimum sliding window size W required to) Tj
+ET
+BT
+/F1 7.8 Tf
+58 184.6001 Td
+(achieve 100% channel utilization?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 172.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 172.9001 Td
+(17 frames \(W >= 1 + 2 * a, where a = T_prop) Tj
+ET
+BT
+/F1 7.4 Tf
+72 164.3001 Td
+(/ T_tx = 1000 / 120 = 8.33 => 1 + 16.66 =) Tj
+ET
+BT
+/F1 7.4 Tf
+72 155.7001 Td
+(17.66\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 146.1001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 146.1001 Td
+(8 frames) Tj
+ET
+BT
+/F2 7.4 Tf
+58 136.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 136.5001 Td
+(32 frames) Tj
+ET
+BT
+/F2 7.4 Tf
+58 126.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 126.9001 Td
+(4 frames) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(78.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(A data bit stream 1101011011 is to be) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(transmitted using CRC with generator polynomial) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(G\(x\) = x^4 + x + 1 \(10011\). What is the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 756.4 Td
+(calculated 4-bit CRC remainder?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.7 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.7 Td
+(1110 \(obtained by modulo-2 polynomial) Tj
+ET
+BT
+/F1 7.4 Tf
+336 736.1 Td
+(division of 11010110110000 by 10011\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 726.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 726.5 Td
+(0110) Tj
+ET
+BT
+/F2 7.4 Tf
+322 716.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 716.9 Td
+(1001) Tj
+ET
+BT
+/F2 7.4 Tf
+322 707.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 707.3 Td
+(0011) Tj
+ET
+BT
+/F2 8.0 Tf
+306 683.7001 Td
+(79.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 683.7001 Td
+(A 12-bit Hamming code \(7 data bits + 4 parity) Tj
+ET
+BT
+/F1 7.8 Tf
+322 674.5001 Td
+(bits + 1 overall parity\) uses parity bits) Tj
+ET
+BT
+/F1 7.8 Tf
+322 665.3 Td
+(located at power-of-two bit positions \(1, 2, 4,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 656.1 Td
+(8\). If received word is 101011011010, the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 646.9 Td
+(syndrome calculation indicates an error at bit:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 635.2 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 635.2 Td
+(Bit position 6 \(Syndrome = P8 P4 P2 P1 =) Tj
+ET
+BT
+/F1 7.4 Tf
+336 626.6 Td
+(0110 in binary = 6 in decimal\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 617.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 617.0001 Td
+(Bit 4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 607.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.4001 Td
+(Bit 10) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.8001 Td
+(No error detected) Tj
+ET
+BT
+/F2 8.0 Tf
+306 574.2001 Td
+(80.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 574.2001 Td
+(In a slotted ALOHA channel with 200 active) Tj
+ET
+BT
+/F1 7.8 Tf
+322 565.0001 Td
+(terminals each generating 10 packets per minute,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 555.8001 Td
+(if slot duration is 25 ms, the total Poisson) Tj
+ET
+BT
+/F1 7.8 Tf
+322 546.6001 Td
+(channel traffic G is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 534.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 534.9001 Td
+(0.833 packets per slot \(200 * 10 / 60 =) Tj
+ET
+BT
+/F1 7.4 Tf
+336 526.3001 Td
+(33.33 pkts/s * 0.025 s/slot\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 516.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 516.7001 Td
+(1.50 pkts/slot) Tj
+ET
+BT
+/F2 7.4 Tf
+322 507.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 507.1001 Td
+(0.25 pkts/slot) Tj
+ET
+BT
+/F2 7.4 Tf
+322 497.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 497.5001 Td
+(2.00 pkts/slot) Tj
+ET
+BT
+/F2 8.0 Tf
+306 473.9001 Td
+(81.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 473.9001 Td
+(For the slotted ALOHA channel in Q80 with G =) Tj
+ET
+BT
+/F1 7.8 Tf
+322 464.7001 Td
+(0.833, the probability of successful) Tj
+ET
+BT
+/F1 7.8 Tf
+322 455.5001 Td
+(transmission without collision in a slot is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 443.8001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 443.8001 Td
+(S = G * exp\(- G\) = 0.833 * exp\(- 0.833\) =) Tj
+ET
+BT
+/F1 7.4 Tf
+336 435.2001 Td
+(0.833 * 0.4347 = 0.362 \(36.2%\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 425.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 425.6001 Td
+(0.500) Tj
+ET
+BT
+/F2 7.4 Tf
+322 416.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 416.0001 Td
+(0.184) Tj
+ET
+BT
+/F2 7.4 Tf
+322 406.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 406.4001 Td
+(0.750) Tj
+ET
+BT
+/F2 8.0 Tf
+306 382.8 Td
+(82.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 382.8 Td
+(A pure ALOHA network has a maximum theoretical) Tj
+ET
+BT
+/F1 7.8 Tf
+322 373.6 Td
+(throughput limit of S = 1 / \(2*e\) = 0.184. If) Tj
+ET
+BT
+/F1 7.8 Tf
+322 364.4 Td
+(channel transmission rate is 56 kbps, the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 355.2 Td
+(maximum effective delivered data throughput is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 343.5 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 343.5 Td
+(10.30 kbps \(0.184 * 56 kbps\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 333.9 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 333.9 Td
+(28.00 kbps) Tj
+ET
+BT
+/F2 7.4 Tf
+322 324.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 324.3 Td
+(5.60 kbps) Tj
+ET
+BT
+/F2 7.4 Tf
+322 314.7 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 314.7 Td
+(20.60 kbps) Tj
+ET
+BT
+/F2 8.0 Tf
+306 291.1 Td
+(83.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 291.1 Td
+(A 1 Gbps Gigabit Ethernet \(1000BASE-T\) link) Tj
+ET
+BT
+/F1 7.8 Tf
+322 281.9 Td
+(running half-duplex implements 'Carrier) Tj
+ET
+BT
+/F1 7.8 Tf
+322 272.7 Td
+(Extension' to extend the minimum slot time to) Tj
+ET
+BT
+/F1 7.8 Tf
+322 263.4999 Td
+(512 bytes \(4096 bits\) because:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 251.7999 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 251.7999 Td
+(At 1 Gbps, a 64-byte frame transmits in 512) Tj
+ET
+BT
+/F1 7.4 Tf
+336 243.1999 Td
+(ns, which would restrict the maximum) Tj
+ET
+BT
+/F1 7.4 Tf
+336 234.5999 Td
+(physical network cable diameter to an) Tj
+ET
+BT
+/F1 7.4 Tf
+336 225.9999 Td
+(impractical ~10 meters) Tj
+ET
+BT
+/F2 7.4 Tf
+322 216.3999 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 216.3999 Td
+(To increase payload size to 9000 bytes) Tj
+ET
+BT
+/F2 7.4 Tf
+322 206.7999 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 206.7999 Td
+(To accommodate IPv6 headers) Tj
+ET
+BT
+/F2 7.4 Tf
+322 197.1999 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 197.1999 Td
+(To allow wireless repeaters) Tj
+ET
+BT
+/F2 8.0 Tf
+306 173.5999 Td
+(84.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 173.5999 Td
+(To avoid wasting 448 bytes of extension padding) Tj
+ET
+BT
+/F1 7.8 Tf
+322 164.3999 Td
+(on every small frame in Gigabit Ethernet,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 155.1999 Td
+('Packet Bursting' allows a sender to:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 143.4999 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 143.4999 Td
+(Transmit a burst of multiple consecutive) Tj
+ET
+BT
+/F1 7.4 Tf
+336 134.8999 Td
+(frames without relinquishing carrier control) Tj
+ET
+BT
+/F1 7.4 Tf
+336 126.2999 Td
+(once the first extended frame successfully) Tj
+ET
+BT
+/F1 7.4 Tf
+336 117.6999 Td
+(contends for the channel) Tj
+ET
+BT
+/F2 7.4 Tf
+322 108.0999 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 108.0999 Td
+(Compress packets with LZW) Tj
+ET
+BT
+/F2 7.4 Tf
+322 98.49991 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 98.49991 Td
+(Switch to ATM cells) Tj
+ET
+BT
+/F2 7.4 Tf
+322 88.89991 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 88.89991 Td
+(Disable CRC calculation) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 16 0 R /Resources << /Font << /F1 49 0 R /F2 50 0 R >> >> >>
+endobj
+16 0 obj
+<< /Length 10982 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 7 of 23) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(85.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(In an 802.1Q tagged Ethernet frame, the 3-bit) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(Priority Code Point \(PCP\) field in the Tag) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(Control Information \(TCI\) defines:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(IEEE 802.1p Quality of Service \(QoS\) class) Tj
+ET
+BT
+/F1 7.4 Tf
+72 745.3 Td
+(of service mapping \(8 priority levels from 0) Tj
+ET
+BT
+/F1 7.4 Tf
+72 736.7 Td
+(to 7\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 727.1 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 727.1 Td
+(The VLAN identifier) Tj
+ET
+BT
+/F2 7.4 Tf
+58 717.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 717.5001 Td
+(The packet drop probability) Tj
+ET
+BT
+/F2 7.4 Tf
+58 707.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 707.9001 Td
+(The routing path) Tj
+ET
+BT
+/F2 8.0 Tf
+42 684.3001 Td
+(86.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 684.3001 Td
+(In STP \(IEEE 802.1D\), Bridge Protocol Data Units) Tj
+ET
+BT
+/F1 7.8 Tf
+58 675.1001 Td
+(\(BPDUs\) are transmitted periodically every:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 663.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 663.4001 Td
+(2 seconds \(Default Hello Time\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 653.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 653.8001 Td
+(10 seconds) Tj
+ET
+BT
+/F2 7.4 Tf
+58 644.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 644.2001 Td
+(30 seconds) Tj
+ET
+BT
+/F2 7.4 Tf
+58 634.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 634.6002 Td
+(100 milliseconds) Tj
+ET
+BT
+/F2 8.0 Tf
+42 611.0002 Td
+(87.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 611.0002 Td
+(In standard STP, the total convergence time) Tj
+ET
+BT
+/F1 7.8 Tf
+58 601.8002 Td
+(required for a blocked port to transition to) Tj
+ET
+BT
+/F1 7.8 Tf
+58 592.6002 Td
+(Forwarding upon link failure is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 580.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 580.9001 Td
+(30 to 50 seconds \(20s Max Age + 15s) Tj
+ET
+BT
+/F1 7.4 Tf
+72 572.3002 Td
+(Listening + 15s Learning\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 562.7002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 562.7002 Td
+(2 seconds) Tj
+ET
+BT
+/F2 7.4 Tf
+58 553.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 553.1002 Td
+(1 second) Tj
+ET
+BT
+/F2 7.4 Tf
+58 543.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 543.5002 Td
+(5 minutes) Tj
+ET
+BT
+/F2 8.0 Tf
+42 519.9003 Td
+(88.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 519.9003 Td
+(In Rapid Spanning Tree Protocol \(RSTP, 802.1w\),) Tj
+ET
+BT
+/F1 7.8 Tf
+58 510.7003 Td
+(the convergence time following a topology change) Tj
+ET
+BT
+/F1 7.8 Tf
+58 501.5002 Td
+(is reduced to:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 489.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 489.8002 Td
+(A few milliseconds to under 1 second) Tj
+ET
+BT
+/F2 7.4 Tf
+58 480.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 480.2002 Td
+(15 seconds) Tj
+ET
+BT
+/F2 7.4 Tf
+58 470.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 470.6002 Td
+(30 seconds) Tj
+ET
+BT
+/F2 7.4 Tf
+58 461.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 461.0002 Td
+(10 seconds) Tj
+ET
+BT
+/F2 8.0 Tf
+42 437.4002 Td
+(89.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 437.4002 Td
+(In an enterprise switch with a 48 Gbps) Tj
+ET
+BT
+/F1 7.8 Tf
+58 428.2002 Td
+(non-blocking backplane switching fabric, a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 419.0002 Td
+(24-port Gigabit Ethernet switch can achieve full) Tj
+ET
+BT
+/F1 7.8 Tf
+58 409.8002 Td
+(wire-speed because:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 398.1002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 398.1002 Td
+(24 ports * 1 Gbps * 2 \(full duplex\) = 48) Tj
+ET
+BT
+/F1 7.4 Tf
+72 389.5002 Td
+(Gbps total bidirectional throughput without) Tj
+ET
+BT
+/F1 7.4 Tf
+72 380.9001 Td
+(internal packet drops) Tj
+ET
+BT
+/F2 7.4 Tf
+58 371.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 371.3001 Td
+(It drops half the frames) Tj
+ET
+BT
+/F2 7.4 Tf
+58 361.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 361.7001 Td
+(It compresses all traffic) Tj
+ET
+BT
+/F2 7.4 Tf
+58 352.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 352.1001 Td
+(It uses half-duplex mode) Tj
+ET
+BT
+/F2 8.0 Tf
+42 328.5001 Td
+(90.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 328.5001 Td
+(In a token-passing ring network \(IEEE 802.5\)) Tj
+ET
+BT
+/F1 7.8 Tf
+58 319.3001 Td
+(with transmission speed R = 16 Mbps and ring) Tj
+ET
+BT
+/F1 7.8 Tf
+58 310.1001 Td
+(latency t_ring = 10 microseconds, the bit length) Tj
+ET
+BT
+/F1 7.8 Tf
+58 300.9001 Td
+(of the ring is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 289.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 289.2001 Td
+(160 bits \(16 * 10^6 bps * 10 * 10^-6 s\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 279.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 279.6001 Td
+(80 bits) Tj
+ET
+BT
+/F2 7.4 Tf
+58 270.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 270.0001 Td
+(1600 bits) Tj
+ET
+BT
+/F2 7.4 Tf
+58 260.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 260.4001 Td
+(32 bits) Tj
+ET
+BT
+/F2 8.0 Tf
+42 236.8 Td
+(91.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 236.8 Td
+(In IEEE 802.11 Wi-Fi, what is the theoretical) Tj
+ET
+BT
+/F1 7.8 Tf
+58 227.6001 Td
+(maximum data rate of single-stream 802.11n) Tj
+ET
+BT
+/F1 7.8 Tf
+58 218.4001 Td
+(\(Wi-Fi 4\) using 40 MHz channel bandwidth and) Tj
+ET
+BT
+/F1 7.8 Tf
+58 209.2001 Td
+(64-QAM \(5/6 coding\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 197.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 197.5001 Td
+(150 Mbps) Tj
+ET
+BT
+/F2 7.4 Tf
+58 187.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 187.9001 Td
+(54 Mbps) Tj
+ET
+BT
+/F2 7.4 Tf
+58 178.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 178.3 Td
+(300 Mbps) Tj
+ET
+BT
+/F2 7.4 Tf
+58 168.7 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 168.7 Td
+(433 Mbps) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(92.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(IEEE 802.11ac \(Wi-Fi 5\) operates exclusively in) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(which radio frequency spectrum band?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(5 GHz band \(utilizing 80 MHz and 160 MHz) Tj
+ET
+BT
+/F1 7.4 Tf
+336 754.5 Td
+(wide channels and 256-QAM\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.9 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.9 Td
+(2.4 GHz band exclusively) Tj
+ET
+BT
+/F2 7.4 Tf
+322 735.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 735.3 Td
+(60 GHz millimeter band) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.7001 Td
+(900 MHz ISM band) Tj
+ET
+BT
+/F2 8.0 Tf
+306 702.1001 Td
+(93.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 702.1001 Td
+(IEEE 802.11ax \(Wi-Fi 6\) improves multi-client) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.9001 Td
+(high-density spectral efficiency by introducing) Tj
+ET
+BT
+/F1 7.8 Tf
+322 683.7001 Td
+(cellular-grade:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 672.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 672.0001 Td
+(OFDMA \(Orthogonal Frequency Division) Tj
+ET
+BT
+/F1 7.4 Tf
+336 663.4001 Td
+(Multiple Access\) with 1024-QAM and Target) Tj
+ET
+BT
+/F1 7.4 Tf
+336 654.8001 Td
+(Wake Time \(TWT\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 645.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 645.2001 Td
+(Frequency Hopping) Tj
+ET
+BT
+/F2 7.4 Tf
+322 635.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 635.6002 Td
+(CDMA direct sequence) Tj
+ET
+BT
+/F2 7.4 Tf
+322 626.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 626.0002 Td
+(Analog AM modulation) Tj
+ET
+BT
+/F2 8.0 Tf
+306 602.4002 Td
+(94.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 602.4002 Td
+(Wi-Fi 6E and Wi-Fi 7 extend operation into which) Tj
+ET
+BT
+/F1 7.8 Tf
+322 593.2002 Td
+(pristine, uncrowded 1.2 GHz-wide radio spectrum) Tj
+ET
+BT
+/F1 7.8 Tf
+322 584.0002 Td
+(band?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 572.3002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 572.3002 Td
+(6 GHz band \(5.925 GHz to 7.125 GHz\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 562.7002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 562.7002 Td
+(10 GHz band) Tj
+ET
+BT
+/F2 7.4 Tf
+322 553.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 553.1002 Td
+(2.4 GHz band) Tj
+ET
+BT
+/F2 7.4 Tf
+322 543.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 543.5002 Td
+(700 MHz white space) Tj
+ET
+BT
+/F2 8.0 Tf
+306 519.9003 Td
+(95.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 519.9003 Td
+(In IEEE 802.11 security, WPA3 replaces the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 510.7003 Td
+(vulnerable pre-shared key four-way handshake of) Tj
+ET
+BT
+/F1 7.8 Tf
+322 501.5002 Td
+(WPA2 with:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 489.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 489.8002 Td
+(Simultaneous Authentication of Equals \(SAE,) Tj
+ET
+BT
+/F1 7.4 Tf
+336 481.2002 Td
+(Dragonfly handshake\), providing forward) Tj
+ET
+BT
+/F1 7.4 Tf
+336 472.6002 Td
+(secrecy and offline dictionary attack) Tj
+ET
+BT
+/F1 7.4 Tf
+336 464.0002 Td
+(immunity) Tj
+ET
+BT
+/F2 7.4 Tf
+322 454.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 454.4002 Td
+(WEP 64-bit RC4 keys) Tj
+ET
+BT
+/F2 7.4 Tf
+322 444.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 444.8002 Td
+(Plaintext password transmission) Tj
+ET
+BT
+/F2 7.4 Tf
+322 435.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 435.2002 Td
+(DES encryption) Tj
+ET
+BT
+/F2 8.0 Tf
+306 411.6002 Td
+(96.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 411.6002 Td
+(A network switch CAM table overflow attack \(MAC) Tj
+ET
+BT
+/F1 7.8 Tf
+322 402.4002 Td
+(flooding\) attempts to degrade switch security) Tj
+ET
+BT
+/F1 7.8 Tf
+322 393.2002 Td
+(by:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 381.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 381.5002 Td
+(Flooding the switch with thousands of bogus) Tj
+ET
+BT
+/F1 7.4 Tf
+336 372.9001 Td
+(source MAC addresses, exhausting CAM memory) Tj
+ET
+BT
+/F1 7.4 Tf
+336 364.3001 Td
+(and forcing the switch into fail-open hub) Tj
+ET
+BT
+/F1 7.4 Tf
+336 355.7001 Td
+(mode \(broadcasting all traffic\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 346.1001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 346.1001 Td
+(Disabling all power supplies) Tj
+ET
+BT
+/F2 7.4 Tf
+322 336.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 336.5001 Td
+(Overheating the CPU) Tj
+ET
+BT
+/F2 7.4 Tf
+322 326.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 326.9001 Td
+(Short-circuiting Ethernet ports) Tj
+ET
+BT
+/F2 8.0 Tf
+306 303.3001 Td
+(97.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 303.3001 Td
+(Port Security on managed Ethernet switches) Tj
+ET
+BT
+/F1 7.8 Tf
+322 294.1001 Td
+(mitigates MAC flooding attacks by:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 282.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 282.4001 Td
+(Limiting the maximum number of allowable MAC) Tj
+ET
+BT
+/F1 7.4 Tf
+336 273.8001 Td
+(addresses learned on a port and shutting) Tj
+ET
+BT
+/F1 7.4 Tf
+336 265.2001 Td
+(down the port upon unauthorized MAC) Tj
+ET
+BT
+/F1 7.4 Tf
+336 256.6001 Td
+(detection) Tj
+ET
+BT
+/F2 7.4 Tf
+322 247.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 247.0001 Td
+(Disabling full duplex) Tj
+ET
+BT
+/F2 7.4 Tf
+322 237.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 237.4001 Td
+(Filtering IP addresses only) Tj
+ET
+BT
+/F2 7.4 Tf
+322 227.8 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 227.8 Td
+(Requiring fiber cables) Tj
+ET
+BT
+/F2 8.0 Tf
+306 204.2 Td
+(98.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 204.2 Td
+(QinQ \(IEEE 802.1ad VLAN Stacking\) enables) Tj
+ET
+BT
+/F1 7.8 Tf
+322 195 Td
+(telecommunication service providers to transport) Tj
+ET
+BT
+/F1 7.8 Tf
+322 185.8 Td
+(customer VLANs across metropolitan networks by:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 174.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 174.1001 Td
+(Adding a second outer 802.1Q Service) Tj
+ET
+BT
+/F1 7.4 Tf
+336 165.5 Td
+(Provider VLAN tag \(S-Tag\) over the inner) Tj
+ET
+BT
+/F1 7.4 Tf
+336 156.9 Td
+(customer VLAN tag \(C-Tag\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 147.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 147.3 Td
+(Stripping all VLAN headers) Tj
+ET
+BT
+/F2 7.4 Tf
+322 137.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 137.7 Td
+(Converting Ethernet to ATM) Tj
+ET
+BT
+/F2 7.4 Tf
+322 128.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 128.1 Td
+(Encrypting the MAC address) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 18 0 R /Resources << /Font << /F1 49 0 R /F2 50 0 R >> >> >>
+endobj
+18 0 obj
+<< /Length 2016 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 8 of 23) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(99.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Ethernet Flow Control \(IEEE 802.3x\) allows a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(receiving station whose input buffers are) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(nearing capacity to send a:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(PAUSE Frame specifying a backoff time) Tj
+ET
+BT
+/F1 7.4 Tf
+72 745.3 Td
+(duration during which the transmitter must) Tj
+ET
+BT
+/F1 7.4 Tf
+72 736.7 Td
+(halt transmission) Tj
+ET
+BT
+/F2 7.4 Tf
+58 727.1 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 727.1 Td
+(RESET frame) Tj
+ET
+BT
+/F2 7.4 Tf
+58 717.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 717.5001 Td
+(FIN packet) Tj
+ET
+BT
+/F2 7.4 Tf
+58 707.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 707.9001 Td
+(ICMP Quench message) Tj
+ET
+BT
+/F2 8.0 Tf
+42 674.3001 Td
+(100.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 674.3001 Td
+(Priority-Based Flow Control \(PFC, IEEE 802.1Qbb\)) Tj
+ET
+BT
+/F1 7.8 Tf
+58 665.1001 Td
+(used in Data Center Bridging \(DCB\) for lossless) Tj
+ET
+BT
+/F1 7.8 Tf
+58 655.9001 Td
+(Ethernet \(RoCE / FCoE\) enhances 802.3x by:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 644.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 644.2001 Td
+(Applying pause flow control independently on) Tj
+ET
+BT
+/F1 7.4 Tf
+72 635.6001 Td
+(a per-VLAN priority class basis, preventing) Tj
+ET
+BT
+/F1 7.4 Tf
+72 627.0001 Td
+(packet loss without head-of-line blocking) Tj
+ET
+BT
+/F1 7.4 Tf
+72 618.4001 Td
+(for other traffic) Tj
+ET
+BT
+/F2 7.4 Tf
+58 608.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 608.8002 Td
+(Pausing all switch ports simultaneously) Tj
+ET
+BT
+/F2 7.4 Tf
+58 599.2002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 599.2002 Td
+(Dropping low priority frames unconditionally) Tj
+ET
+BT
+/F2 7.4 Tf
+58 589.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 589.6002 Td
+(Switching to InfiniBand hardware) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 20 0 R /Resources << /Font << /F1 49 0 R /F2 50 0 R >> >> >>
+endobj
+20 0 obj
+<< /Length 5901 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 9 of 23) Tj
+ET
+BT
+/F2 10 Tf
+45 780 Td
+(SECTION B: DESCRIPTIVE & SUBJECTIVE QUESTIONS) Tj
+ET
+BT
+/F2 8.5 Tf
+45 760 Td
+(Q1. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 760 Td
+(Explain the framing mechanisms used at the Data Link Layer. Detail Byte-Oriented Framing \(Byte) Tj
+ET
+BT
+/F1 8.5 Tf
+72 749.5 Td
+(Stuffing\) and Bit-Oriented Framing \(Bit Stuffing in HDLC\) with comprehensive illustrative) Tj
+ET
+BT
+/F1 8.5 Tf
+72 739 Td
+(examples.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 724.5 Td
+(Q2. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 724.5 Td
+(Formulate Cyclic Redundancy Check \(CRC\) error detection. Explain modulo-2 polynomial arithmetic. A) Tj
+ET
+BT
+/F1 8.5 Tf
+72 714 Td
+(message bit stream M = 1101011011 is to be transmitted using generator polynomial G\(x\) = x^4 + x +) Tj
+ET
+BT
+/F1 8.5 Tf
+72 703.5 Td
+(1. Calculate the transmitted frame and verify receiver error checking.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 689 Td
+(Q3. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 689 Td
+(Explain the operation of CSMA/CD in wired Ethernet. Detail carrier sensing, collision detection,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 678.5 Td
+(the 32-bit jam signal, and the Truncated Binary Exponential Backoff Algorithm.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 653.5 Td
+(Q4. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 653.5 Td
+(Derive the relationship between minimum frame size, channel transmission speed, and maximum) Tj
+ET
+BT
+/F1 8.5 Tf
+72 643 Td
+(network physical cable distance in Ethernet CSMA/CD. Calculate maximum cable distance for 10 Mbps) Tj
+ET
+BT
+/F1 8.5 Tf
+72 632.5 Td
+(Ethernet with 64-byte minimum frame size.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 618 Td
+(Q5. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 618 Td
+(Analyze Spanning Tree Protocol \(STP, IEEE 802.1D\). Explain why Layer 2 switching loops cause) Tj
+ET
+BT
+/F1 8.5 Tf
+72 607.5 Td
+(catastrophic broadcast storms, how the Root Bridge and port roles are elected, and the convergence) Tj
+ET
+BT
+/F1 8.5 Tf
+72 597 Td
+(state transitions.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 582.5 Td
+(Q6. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 582.5 Td
+(Analyze Data Link Layer and Local Area Network topic #6: Discuss Ethernet standards, Wi-Fi) Tj
+ET
+BT
+/F1 8.5 Tf
+72 572 Td
+(architectures, VLAN trunking, and switched network security.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 547 Td
+(Q7. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 547 Td
+(Analyze Data Link Layer and Local Area Network topic #7: Discuss Ethernet standards, Wi-Fi) Tj
+ET
+BT
+/F1 8.5 Tf
+72 536.5 Td
+(architectures, VLAN trunking, and switched network security.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 511.5 Td
+(Q8. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 511.5 Td
+(Analyze Data Link Layer and Local Area Network topic #8: Discuss Ethernet standards, Wi-Fi) Tj
+ET
+BT
+/F1 8.5 Tf
+72 501 Td
+(architectures, VLAN trunking, and switched network security.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 476 Td
+(Q9. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 476 Td
+(Analyze Data Link Layer and Local Area Network topic #9: Discuss Ethernet standards, Wi-Fi) Tj
+ET
+BT
+/F1 8.5 Tf
+72 465.5 Td
+(architectures, VLAN trunking, and switched network security.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 440.5 Td
+(Q10. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 440.5 Td
+(Analyze Data Link Layer and Local Area Network topic #10: Discuss Ethernet standards, Wi-Fi) Tj
+ET
+BT
+/F1 8.5 Tf
+72 430 Td
+(architectures, VLAN trunking, and switched network security.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 405 Td
+(Q11. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 405 Td
+(Analyze Data Link Layer and Local Area Network topic #11: Discuss Ethernet standards, Wi-Fi) Tj
+ET
+BT
+/F1 8.5 Tf
+72 394.5 Td
+(architectures, VLAN trunking, and switched network security.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 369.5 Td
+(Q12. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 369.5 Td
+(Analyze Data Link Layer and Local Area Network topic #12: Discuss Ethernet standards, Wi-Fi) Tj
+ET
+BT
+/F1 8.5 Tf
+72 359 Td
+(architectures, VLAN trunking, and switched network security.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 334 Td
+(Q13. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 334 Td
+(Analyze Data Link Layer and Local Area Network topic #13: Discuss Ethernet standards, Wi-Fi) Tj
+ET
+BT
+/F1 8.5 Tf
+72 323.5 Td
+(architectures, VLAN trunking, and switched network security.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 298.5 Td
+(Q14. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 298.5 Td
+(Analyze Data Link Layer and Local Area Network topic #14: Discuss Ethernet standards, Wi-Fi) Tj
+ET
+BT
+/F1 8.5 Tf
+72 288 Td
+(architectures, VLAN trunking, and switched network security.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 263 Td
+(Q15. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 263 Td
+(Analyze Data Link Layer and Local Area Network topic #15: Discuss Ethernet standards, Wi-Fi) Tj
+ET
+BT
+/F1 8.5 Tf
+72 252.5 Td
+(architectures, VLAN trunking, and switched network security.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 227.5 Td
+(Q16. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 227.5 Td
+(Analyze Data Link Layer and Local Area Network topic #16: Discuss Ethernet standards, Wi-Fi) Tj
+ET
+BT
+/F1 8.5 Tf
+72 217 Td
+(architectures, VLAN trunking, and switched network security.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 192 Td
+(Q17. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 192 Td
+(Analyze Data Link Layer and Local Area Network topic #17: Discuss Ethernet standards, Wi-Fi) Tj
+ET
+BT
+/F1 8.5 Tf
+72 181.5 Td
+(architectures, VLAN trunking, and switched network security.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 156.5 Td
+(Q18. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 156.5 Td
+(Analyze Data Link Layer and Local Area Network topic #18: Discuss Ethernet standards, Wi-Fi) Tj
+ET
+BT
+/F1 8.5 Tf
+72 146 Td
+(architectures, VLAN trunking, and switched network security.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 121 Td
+(Q19. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 121 Td
+(Analyze Data Link Layer and Local Area Network topic #19: Discuss Ethernet standards, Wi-Fi) Tj
+ET
+BT
+/F1 8.5 Tf
+72 110.5 Td
+(architectures, VLAN trunking, and switched network security.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 85.5 Td
+(Q20. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 85.5 Td
+(Analyze Data Link Layer and Local Area Network topic #20: Discuss Ethernet standards, Wi-Fi) Tj
+ET
+BT
+/F1 8.5 Tf
+72 75 Td
+(architectures, VLAN trunking, and switched network security.) Tj
+ET
+
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 22 0 R /Resources << /Font << /F1 49 0 R /F2 50 0 R >> >> >>
+endobj
+22 0 obj
+<< /Length 2801 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 10 of 23) Tj
+ET
+BT
+/F2 8.5 Tf
+45 780 Td
+(Q21. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 780 Td
+(Analyze Data Link Layer and Local Area Network topic #21: Discuss Ethernet standards, Wi-Fi) Tj
+ET
+BT
+/F1 8.5 Tf
+72 769.5 Td
+(architectures, VLAN trunking, and switched network security.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 743.5 Td
+(Q22. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 743.5 Td
+(Analyze Data Link Layer and Local Area Network topic #22: Discuss Ethernet standards, Wi-Fi) Tj
+ET
+BT
+/F1 8.5 Tf
+72 733 Td
+(architectures, VLAN trunking, and switched network security.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 707 Td
+(Q23. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 707 Td
+(Analyze Data Link Layer and Local Area Network topic #23: Discuss Ethernet standards, Wi-Fi) Tj
+ET
+BT
+/F1 8.5 Tf
+72 696.5 Td
+(architectures, VLAN trunking, and switched network security.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 670.5 Td
+(Q24. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 670.5 Td
+(Analyze Data Link Layer and Local Area Network topic #24: Discuss Ethernet standards, Wi-Fi) Tj
+ET
+BT
+/F1 8.5 Tf
+72 660 Td
+(architectures, VLAN trunking, and switched network security.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 634 Td
+(Q25. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 634 Td
+(Analyze Data Link Layer and Local Area Network topic #25: Discuss Ethernet standards, Wi-Fi) Tj
+ET
+BT
+/F1 8.5 Tf
+72 623.5 Td
+(architectures, VLAN trunking, and switched network security.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 597.5 Td
+(Q26. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 597.5 Td
+(Analyze Data Link Layer and Local Area Network topic #26: Discuss Ethernet standards, Wi-Fi) Tj
+ET
+BT
+/F1 8.5 Tf
+72 587 Td
+(architectures, VLAN trunking, and switched network security.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 561 Td
+(Q27. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 561 Td
+(Analyze Data Link Layer and Local Area Network topic #27: Discuss Ethernet standards, Wi-Fi) Tj
+ET
+BT
+/F1 8.5 Tf
+72 550.5 Td
+(architectures, VLAN trunking, and switched network security.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 524.5 Td
+(Q28. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 524.5 Td
+(Analyze Data Link Layer and Local Area Network topic #28: Discuss Ethernet standards, Wi-Fi) Tj
+ET
+BT
+/F1 8.5 Tf
+72 514 Td
+(architectures, VLAN trunking, and switched network security.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 488 Td
+(Q29. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 488 Td
+(Analyze Data Link Layer and Local Area Network topic #29: Discuss Ethernet standards, Wi-Fi) Tj
+ET
+BT
+/F1 8.5 Tf
+72 477.5 Td
+(architectures, VLAN trunking, and switched network security.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 451.5 Td
+(Q30. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 451.5 Td
+(Analyze Data Link Layer and Local Area Network topic #30: Discuss Ethernet standards, Wi-Fi) Tj
+ET
+BT
+/F1 8.5 Tf
+72 441 Td
+(architectures, VLAN trunking, and switched network security.) Tj
+ET
+
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 24 0 R /Resources << /Font << /F1 49 0 R /F2 50 0 R >> >> >>
+endobj
+24 0 obj
+<< /Length 8362 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 11 of 23) Tj
+ET
+BT
+/F2 11 Tf
+45 780 Td
+(SECTION C: ANSWER KEY - MULTIPLE CHOICE QUESTIONS) Tj
+ET
+0.5 w
+45 772 m 550 772 l S
+BT
+/F2 8.5 Tf
+45 750 Td
+(Q1: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 734 Td
+(Q2: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 718 Td
+(Q3: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 702 Td
+(Q4: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 686 Td
+(Q5: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 670 Td
+(Q6: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 654 Td
+(Q7: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 638 Td
+(Q8: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 622 Td
+(Q9: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 606 Td
+(Q10: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 590 Td
+(Q11: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 574 Td
+(Q12: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 558 Td
+(Q13: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 542 Td
+(Q14: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 526 Td
+(Q15: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 510 Td
+(Q16: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 494 Td
+(Q17: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 478 Td
+(Q18: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 462 Td
+(Q19: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 446 Td
+(Q20: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 446 Td
+([A]) Tj
+ET
+0.2 w
+135 755 m 135 425 l S
+BT
+/F2 8.5 Tf
+145 750 Td
+(Q21: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 734 Td
+(Q22: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 718 Td
+(Q23: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 702 Td
+(Q24: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 686 Td
+(Q25: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 670 Td
+(Q26: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 654 Td
+(Q27: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 638 Td
+(Q28: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 622 Td
+(Q29: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 606 Td
+(Q30: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 590 Td
+(Q31: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 574 Td
+(Q32: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 558 Td
+(Q33: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 542 Td
+(Q34: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 526 Td
+(Q35: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 510 Td
+(Q36: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 494 Td
+(Q37: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 478 Td
+(Q38: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 462 Td
+(Q39: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 446 Td
+(Q40: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 446 Td
+([A]) Tj
+ET
+0.2 w
+235 755 m 235 425 l S
+BT
+/F2 8.5 Tf
+245 750 Td
+(Q41: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 734 Td
+(Q42: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 718 Td
+(Q43: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 702 Td
+(Q44: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 686 Td
+(Q45: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 670 Td
+(Q46: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 654 Td
+(Q47: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 638 Td
+(Q48: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 622 Td
+(Q49: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 606 Td
+(Q50: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 590 Td
+(Q51: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 574 Td
+(Q52: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 558 Td
+(Q53: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 542 Td
+(Q54: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 526 Td
+(Q55: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 510 Td
+(Q56: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 494 Td
+(Q57: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 478 Td
+(Q58: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 462 Td
+(Q59: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 446 Td
+(Q60: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 446 Td
+([A]) Tj
+ET
+0.2 w
+335 755 m 335 425 l S
+BT
+/F2 8.5 Tf
+345 750 Td
+(Q61: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 734 Td
+(Q62: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 718 Td
+(Q63: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 702 Td
+(Q64: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 686 Td
+(Q65: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 670 Td
+(Q66: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 654 Td
+(Q67: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 638 Td
+(Q68: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 622 Td
+(Q69: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 606 Td
+(Q70: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 590 Td
+(Q71: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 574 Td
+(Q72: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 558 Td
+(Q73: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 542 Td
+(Q74: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 526 Td
+(Q75: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 510 Td
+(Q76: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 494 Td
+(Q77: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 478 Td
+(Q78: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 462 Td
+(Q79: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 446 Td
+(Q80: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 446 Td
+([A]) Tj
+ET
+0.2 w
+435 755 m 435 425 l S
+BT
+/F2 8.5 Tf
+445 750 Td
+(Q81: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 734 Td
+(Q82: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 718 Td
+(Q83: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 702 Td
+(Q84: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 686 Td
+(Q85: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 670 Td
+(Q86: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 654 Td
+(Q87: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 638 Td
+(Q88: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 622 Td
+(Q89: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 606 Td
+(Q90: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 590 Td
+(Q91: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 574 Td
+(Q92: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 558 Td
+(Q93: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 542 Td
+(Q94: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 526 Td
+(Q95: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 510 Td
+(Q96: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 494 Td
+(Q97: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 478 Td
+(Q98: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 462 Td
+(Q99: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 446 Td
+(Q100: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 446 Td
+([A]) Tj
+ET
+0.5 w
+45 400 m 550 400 l 550 340 l 45 340 l s
+BT
+/F2 9 Tf
+55 382 Td
+(MCQ Scoring Guide & Difficulty Distribution:) Tj
+ET
+BT
+/F1 8.5 Tf
+55 366 Td
+(Questions 1 to 40: Foundational & Conceptual [Easy] | Questions 41 to 75: Analytical & Applied [Moderate]) Tj
+ET
+BT
+/F1 8.5 Tf
+55 350 Td
+(Questions 76 to 100: Complex Numerical & Advanced Problem Solving [Difficult]) Tj
+ET
+
+endstream
+endobj
+25 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 26 0 R /Resources << /Font << /F1 49 0 R /F2 50 0 R >> >> >>
+endobj
+26 0 obj
+<< /Length 4379 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 12 of 23) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(SECTION D: DETAILED SOLUTIONS FOR SUBJECTIVE QUESTIONS) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(================================================================================) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 1:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the framing mechanisms used at the Data Link Layer. Detail Byte-Oriented Framing \(Byte Stuffing\) and Bit-Oriented Framing \(Bit Stuffing in HDLC\) with comprehensive illustrative examples.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Functional Necessity of Framing:) Tj
+T*
+(   The Physical layer transmits an uninterpreted, continuous stream of raw binary pulses over the) Tj
+T*
+(   communication channel.) Tj
+T*
+(   The Data Link Layer must delineate discrete frame boundaries so the receiver can recognize) Tj
+T*
+(   where each frame begins and terminates,) Tj
+T*
+(   extract protocol headers, compute error checksums, and forward data payloads to the Network) Tj
+T*
+(   layer.) Tj
+T*
+() Tj
+T*
+(   2. Byte-Oriented Framing and Byte Stuffing \(Character Stuffing\):) Tj
+T*
+(   - Mechanism: Frames are viewed as collections of bytes \(characters\). Special control characters) Tj
+T*
+(   designate frame boundaries:) Tj
+T*
+(   * DLE STX \(Data Link Escape - Start of Text\) marks frame beginning.) Tj
+T*
+(   * DLE ETX \(Data Link Escape - End of Text\) marks frame termination.) Tj
+T*
+(   - The Transparency Problem: If the arbitrary user binary payload naturally contains the byte) Tj
+T*
+(   pattern DLE ETX \(e.g., in a binary image or executable\),) Tj
+T*
+(   the receiver would prematurely truncate the frame and misinterpret subsequent data.) Tj
+T*
+(   - Byte Stuffing Solution: Whenever the transmitter encounters an accidental DLE character in) Tj
+T*
+(   the payload data, it automatically inserts an extra ESCAPE \(DLE\) byte immediately preceding it.) Tj
+T*
+(   - Receiver Behavior: The receiver scans the incoming byte stream. When it detects a double DLE) Tj
+T*
+(   \(DLE DLE\), it strips off the first stuffed DLE and passes the second DLE as authentic payload) Tj
+T*
+(   data.) Tj
+T*
+() Tj
+T*
+(   3. Bit-Oriented Framing and Bit Stuffing \(HDLC / SDLC\):) Tj
+T*
+(   - Mechanism: Frames are treated as arbitrary bit strings regardless of byte alignment. A) Tj
+T*
+(   universal 8-bit Flag Sequence \(01111110, or 0x7E in hex\) delimits both the start and end of) Tj
+T*
+(   every frame.) Tj
+T*
+(   - The Transparency Problem: If the payload data contains six consecutive 1s \(01111110\), the) Tj
+T*
+(   receiver would falsely register a premature end-of-frame flag.) Tj
+T*
+(   - Bit Stuffing Algorithm \(Transmitter Rule\):) Tj
+T*
+(   Whenever the transmitter detects FIVE consecutive 1s \(11111\) in the outgoing bit stream \(after) Tj
+T*
+(   the opening flag\), it AUTOMATICALLY STUFFS A '0' bit immediately after the fifth 1, regardless) Tj
+T*
+(   of the subsequent bit.) Tj
+T*
+(   - Receiver Destuffing Algorithm:) Tj
+T*
+(   The receiver continuously monitors the incoming bit sequence. When it encounters five) Tj
+T*
+(   consecutive 1s:) Tj
+T*
+(   * Case 1: If the 6th bit is a 0, it is a stuffed bit! The receiver automatically removes) Tj
+T*
+(   \(discards\) the 0 and preserves the original 11111 data stream.) Tj
+T*
+(   * Case 2: If the 6th bit is a 1 and the 7th bit is a 0 \(01111110\), it is the legitimate Frame) Tj
+T*
+(   Delimiter Flag!) Tj
+T*
+(   * Case 3: If seven or more consecutive 1s occur, an abort condition or transmission error is) Tj
+T*
+(   signaled.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 2:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Formulate Cyclic Redundancy Check \(CRC\) error detection. Explain modulo-2 polynomial arithmetic. A message bit stream M = 1101011011 is to be transmitted using generator polynomial G\(x\) = x^4 + x + 1. Calculate the transmitted frame and verify receiver error checking.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Mathematical Foundation of CRC:) Tj
+T*
+ET
+
+endstream
+endobj
+27 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 28 0 R /Resources << /Font << /F1 49 0 R /F2 50 0 R >> >> >>
+endobj
+28 0 obj
+<< /Length 3425 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 13 of 23) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   CRC treats binary data strings as polynomials with coefficients in Galois Field GF\(2\).) Tj
+T*
+(   Arithmetic is performed using Modulo-2 addition and subtraction,) Tj
+T*
+(   which is mathematically equivalent to the bitwise Exclusive-OR \(XOR\) logic operation without) Tj
+T*
+(   carries or borrows:) Tj
+T*
+(   0 + 0 = 0; 0 + 1 = 1; 1 + 0 = 1; 1 + 1 = 0.) Tj
+T*
+() Tj
+T*
+(   2. Step-by-Step Transmitter Algorithm:) Tj
+T*
+(   - Step 1: Define Generator Polynomial G\(x\) and its binary representation:) Tj
+T*
+(   G\(x\) = x^4 + x^1 + x^0 = 1*x^4 + 0*x^3 + 0*x^2 + 1*x^1 + 1*x^0 => Binary Divisor G = 10011.) Tj
+T*
+(   Degree of generator polynomial r = 4.) Tj
+T*
+(   - Step 2: Append r = 4 zeros to the message bit sequence M = 1101011011:) Tj
+T*
+(   Appended message M' = 1101011011 0000 \(representing M\(x\) * x^r\).) Tj
+T*
+(   - Step 3: Perform Modulo-2 Polynomial Division \(M' / G\):) Tj
+T*
+(   11010110110000 / 10011:) Tj
+T*
+(   11010110110000) Tj
+T*
+(   10011) Tj
+T*
+(   -----) Tj
+T*
+(   10011) Tj
+T*
+(   10011) Tj
+T*
+(   -----) Tj
+T*
+(   000010110000) Tj
+T*
+(   10011) Tj
+T*
+(   -----) Tj
+T*
+(   010100) Tj
+T*
+(   10011) Tj
+T*
+(   -----) Tj
+T*
+(   01110 -> 4-bit Remainder R = 1110.) Tj
+T*
+(   - Step 4: Construct Transmitted Frame T:) Tj
+T*
+(   T = M appended with Remainder R = 1101011011 1110.) Tj
+T*
+() Tj
+T*
+(   3. Receiver Verification:) Tj
+T*
+(   The receiver receives frame T and divides it by the identical generator G = 10011 using) Tj
+T*
+(   Modulo-2 division.) Tj
+T*
+(   Because T\(x\) = M\(x\)*x^r + R\(x\), the remainder of T / G is IDENTICALLY ZERO \(Remainder = 0000\).) Tj
+T*
+(   If remainder is zero, frame is accepted as completely error-free. Any non-zero remainder) Tj
+T*
+(   indicates transmission corruption.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 3:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the operation of CSMA/CD in wired Ethernet. Detail carrier sensing, collision detection, the 32-bit jam signal, and the Truncated Binary Exponential Backoff Algorithm.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. CSMA/CD Operational Workflow:) Tj
+T*
+(   - 1. Carrier Sensing: A station wishing to transmit continuously monitors the physical channel.) Tj
+T*
+(   If busy, it defers transmission.) Tj
+T*
+(   When the channel is sensed idle for at least the Inter-Packet Gap \(IPG = 96 bit times = 9.6 us) Tj
+T*
+(   at 10 Mbps\), the station begins transmitting.) Tj
+T*
+(   - 2. Collision Detection: While transmitting, the transceiver continuously measures physical) Tj
+T*
+(   signal voltage levels on the wire.) Tj
+T*
+(   If two stations transmit within the round-trip propagation window, their electrical signals) Tj
+T*
+(   superimpose, causing channel voltage to exceed normal threshold.) Tj
+T*
+(   - 3. Jam Signal Broadcast: The moment collision is detected, the transmitting station) Tj
+T*
+(   immediately stops transmitting frame data and emits a 32-bit Jam Signal.) Tj
+T*
+(   The jam signal ensures the collision pulse persists long enough for all other participating) Tj
+T*
+ET
+
+endstream
+endobj
+29 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 30 0 R /Resources << /Font << /F1 49 0 R /F2 50 0 R >> >> >>
+endobj
+30 0 obj
+<< /Length 3948 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 14 of 23) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   stations to recognize the collision.) Tj
+T*
+() Tj
+T*
+(   2. Truncated Binary Exponential Backoff Algorithm:) Tj
+T*
+(   To prevent immediate repeated collisions upon re-sensing, each colliding station executes) Tj
+T*
+(   exponential backoff:) Tj
+T*
+(   - Let k be the number of collisions experienced by the current frame \(attempt counter\).) Tj
+T*
+(   - Set exponent variable n = min\(k, 10\).) Tj
+T*
+(   - The station randomly picks an integer r uniformly from the discrete set: r in {0, 1, 2, ...,) Tj
+T*
+(   2^n - 1}.) Tj
+T*
+(   - The station waits backoff time T_backoff = r * Slot_Time \(where Slot Time = 512 bit times =) Tj
+T*
+(   51.2 us at 10 Mbps\).) Tj
+T*
+(   - Range Expansion with Collisions:) Tj
+T*
+(   * After 1st collision \(k=1\): r in {0, 1}.) Tj
+T*
+(   * After 2nd collision \(k=2\): r in {0, 1, 2, 3}.) Tj
+T*
+(   * After 3rd collision \(k=3\): r in {0, 1, ..., 7}.) Tj
+T*
+(   * After 10th collision \(k=10\): r in {0, 1, ..., 1023}.) Tj
+T*
+(   * Maximum cap: For k between 10 and 15, range remains fixed at 0 to 1023.) Tj
+T*
+(   * After 16 consecutive collisions: The station permanently aborts transmission and signals an) Tj
+T*
+(   excessive collision error to upper layers.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 4:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Derive the relationship between minimum frame size, channel transmission speed, and maximum network physical cable distance in Ethernet CSMA/CD. Calculate maximum cable distance for 10 Mbps Ethernet with 64-byte minimum frame size.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Mathematical Condition for Valid Collision Detection:) Tj
+T*
+(   A transmitting station MUST be able to detect a collision while it is STILL TRANSMITTING its) Tj
+T*
+(   frame.) Tj
+T*
+(   Consider the worst-case geometric scenario: Stations A and B are separated by maximum cable) Tj
+T*
+(   distance d with one-way propagation delay T_prop.) Tj
+T*
+(   - Station A begins transmitting frame of length L bits at speed R bps. Transmission time T_tx =) Tj
+T*
+(   L / R.) Tj
+T*
+(   - The signal propagates along the cable and arrives at Station B at time t = T_prop - epsilon.) Tj
+T*
+(   - Station B senses channel idle just before the signal arrives and starts transmitting.) Tj
+T*
+(   - A collision occurs immediately at B.) Tj
+T*
+(   - The collision wave must propagate all the way BACK to Station A, arriving at time t = 2 *) Tj
+T*
+(   T_prop.) Tj
+T*
+(   - For Station A to realize its own frame collided, Station A must still be actively) Tj
+T*
+(   transmitting when the collision wave returns:) Tj
+T*
+(   T_tx >= 2 * T_prop.) Tj
+T*
+(   \( L_min / R \) >= 2 * \( d_max / v \), where v is signal propagation velocity in the cable.) Tj
+T*
+(   - Fundamental Formula: L_min >= 2 * R * \( d_max / v \).) Tj
+T*
+() Tj
+T*
+(   2. Numerical Evaluation for Classic 10 Mbps Ethernet:) Tj
+T*
+(   - Given: R = 10 Mbps = 10 * 10^6 bps; Minimum frame size L_min = 64 bytes = 512 bits; Signal) Tj
+T*
+(   velocity v = 2 * 10^8 m/s \(approx 0.67c\).) Tj
+T*
+(   - Maximum Round-Trip Time allowed: 2 * T_prop <= L_min / R = 512 bits / \(10 * 10^6 bps\) = 51.2) Tj
+T*
+(   microseconds.) Tj
+T*
+(   - One-way propagation limit: T_prop <= 51.2 us / 2 = 25.6 microseconds.) Tj
+T*
+(   - Deducting repeater and transceiver hardware delays \(~ 20 us allocated for repeaters across 4) Tj
+T*
+(   hubs\):) Tj
+T*
+(   Leaves ~ 5.6 microseconds for pure cable transit.) Tj
+T*
+(   - Maximum pure physical cable distance: d_max = v * T_prop = \(2 * 10^8 m/s\) * \(25.6 * 10^-6 s\)) Tj
+T*
+(   = 5,120 meters.) Tj
+T*
+ET
+
+endstream
+endobj
+31 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 32 0 R /Resources << /Font << /F1 49 0 R /F2 50 0 R >> >> >>
+endobj
+32 0 obj
+<< /Length 4059 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 15 of 23) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - In practical IEEE 802.3 standards with repeater delays, maximum network diameter is) Tj
+T*
+(   standardized at 2,500 meters \(e.g., five 500m segments connected by 4 repeaters - the 5-4-3) Tj
+T*
+(   rule\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 5:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze Spanning Tree Protocol \(STP, IEEE 802.1D\). Explain why Layer 2 switching loops cause catastrophic broadcast storms, how the Root Bridge and port roles are elected, and the convergence state transitions.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Catastrophic Impact of Layer 2 Switching Loops:) Tj
+T*
+(   To prevent network downtime from single cable or switch failures, network engineers build) Tj
+T*
+(   redundant physical links between switches.) Tj
+T*
+(   However, Layer 2 Ethernet frames contain NO Time-to-Live \(TTL\) hop limit counter.) Tj
+T*
+(   When a host broadcasts a frame \(such as an ARP request\), redundant switches forward the) Tj
+T*
+(   broadcast frame out of all ports indefinitely,) Tj
+T*
+(   creating a exponentially multiplying 'Broadcast Storm'.) Tj
+T*
+(   Consequences: 100% CPU saturation on switches, total MAC table thrashing \(CAM table) Tj
+T*
+(   instability\), and complete network collapse within seconds.) Tj
+T*
+() Tj
+T*
+(   2. Spanning Tree Protocol Algorithm \(Radia Perlman\):) Tj
+T*
+(   STP logically breaks physical loops by selectively placing redundant switch ports into a) Tj
+T*
+(   'Blocking' state while keeping active paths loop-free.) Tj
+T*
+(   - Step 1: Elect the Root Bridge:) Tj
+T*
+(   Switches exchange Bridge Protocol Data Units \(BPDUs\). The switch with the lowest Bridge ID \(BID) Tj
+T*
+(   = Priority + MAC Address\) becomes the Root Bridge.) Tj
+T*
+(   - Step 2: Determine Root Ports \(RP\):) Tj
+T*
+(   On every non-root switch, exactly one port with the lowest cumulative path cost to the Root) Tj
+T*
+(   Bridge is elected as the Root Port.) Tj
+T*
+(   - Step 3: Determine Designated Ports \(DP\):) Tj
+T*
+(   On every physical network segment, the switch port providing the lowest path cost to the Root) Tj
+T*
+(   Bridge is designated as the Designated Port \(all ports on the Root Bridge are DPs\).) Tj
+T*
+(   - Step 4: Block Redundant Ports \(Non-Designated Ports\):) Tj
+T*
+(   All remaining ports that are neither Root Ports nor Designated Ports are placed into the) Tj
+T*
+(   'Alternate / Blocking' state, eliminating loops.) Tj
+T*
+() Tj
+T*
+(   3. Convergence Port States \(Legacy 802.1D\):) Tj
+T*
+(   - Blocking: Discards user frames; listens for BPDUs only \(prevents loops\).) Tj
+T*
+(   - Listening \(15s\): Prepares to forward; processes BPDUs to verify topology; does NOT learn MAC) Tj
+T*
+(   addresses.) Tj
+T*
+(   - Learning \(15s\): Populates MAC address table from incoming frames; does NOT yet forward) Tj
+T*
+(   frames.) Tj
+T*
+(   - Forwarding: Normal active operational state; forwards user frames and learns MAC addresses.) Tj
+T*
+(   - Disabled: Administratively shut down.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 6:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze Data Link Layer and Local Area Network topic #6: Discuss Ethernet standards, Wi-Fi architectures, VLAN trunking, and switched network security.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Protocol Foundations:) Tj
+T*
+(   In-depth technical analysis of data link protocol standard and media access control topic #6.) Tj
+T*
+() Tj
+T*
+(   2. Algorithmic and Mathematical Specifications:) Tj
+T*
+(   - Error detection efficiency and syndrome decoding.) Tj
+T*
+ET
+
+endstream
+endobj
+33 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 34 0 R /Resources << /Font << /F1 49 0 R /F2 50 0 R >> >> >>
+endobj
+34 0 obj
+<< /Length 3618 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 16 of 23) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - IEEE 802.1Q tagged frame encapsulation: TPID \(0x8100\) + TCI \(PCP, DEI, VID\).) Tj
+T*
+(   - CSMA/CA contention window backoff mechanics.) Tj
+T*
+() Tj
+T*
+(   3. Practical Enterprise Implementation:) Tj
+T*
+(   Deployment in enterprise multi-gigabit switched backbones, virtualized software-defined) Tj
+T*
+(   networking \(SDN\), and wireless mesh infrastructure.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 7:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze Data Link Layer and Local Area Network topic #7: Discuss Ethernet standards, Wi-Fi architectures, VLAN trunking, and switched network security.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Protocol Foundations:) Tj
+T*
+(   In-depth technical analysis of data link protocol standard and media access control topic #7.) Tj
+T*
+() Tj
+T*
+(   2. Algorithmic and Mathematical Specifications:) Tj
+T*
+(   - Error detection efficiency and syndrome decoding.) Tj
+T*
+(   - IEEE 802.1Q tagged frame encapsulation: TPID \(0x8100\) + TCI \(PCP, DEI, VID\).) Tj
+T*
+(   - CSMA/CA contention window backoff mechanics.) Tj
+T*
+() Tj
+T*
+(   3. Practical Enterprise Implementation:) Tj
+T*
+(   Deployment in enterprise multi-gigabit switched backbones, virtualized software-defined) Tj
+T*
+(   networking \(SDN\), and wireless mesh infrastructure.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 8:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze Data Link Layer and Local Area Network topic #8: Discuss Ethernet standards, Wi-Fi architectures, VLAN trunking, and switched network security.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Protocol Foundations:) Tj
+T*
+(   In-depth technical analysis of data link protocol standard and media access control topic #8.) Tj
+T*
+() Tj
+T*
+(   2. Algorithmic and Mathematical Specifications:) Tj
+T*
+(   - Error detection efficiency and syndrome decoding.) Tj
+T*
+(   - IEEE 802.1Q tagged frame encapsulation: TPID \(0x8100\) + TCI \(PCP, DEI, VID\).) Tj
+T*
+(   - CSMA/CA contention window backoff mechanics.) Tj
+T*
+() Tj
+T*
+(   3. Practical Enterprise Implementation:) Tj
+T*
+(   Deployment in enterprise multi-gigabit switched backbones, virtualized software-defined) Tj
+T*
+(   networking \(SDN\), and wireless mesh infrastructure.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 9:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze Data Link Layer and Local Area Network topic #9: Discuss Ethernet standards, Wi-Fi architectures, VLAN trunking, and switched network security.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Protocol Foundations:) Tj
+T*
+(   In-depth technical analysis of data link protocol standard and media access control topic #9.) Tj
+T*
+() Tj
+T*
+(   2. Algorithmic and Mathematical Specifications:) Tj
+T*
+(   - Error detection efficiency and syndrome decoding.) Tj
+T*
+(   - IEEE 802.1Q tagged frame encapsulation: TPID \(0x8100\) + TCI \(PCP, DEI, VID\).) Tj
+T*
+(   - CSMA/CA contention window backoff mechanics.) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+35 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 36 0 R /Resources << /Font << /F1 49 0 R /F2 50 0 R >> >> >>
+endobj
+36 0 obj
+<< /Length 3681 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 17 of 23) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   3. Practical Enterprise Implementation:) Tj
+T*
+(   Deployment in enterprise multi-gigabit switched backbones, virtualized software-defined) Tj
+T*
+(   networking \(SDN\), and wireless mesh infrastructure.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 10:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze Data Link Layer and Local Area Network topic #10: Discuss Ethernet standards, Wi-Fi architectures, VLAN trunking, and switched network security.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Protocol Foundations:) Tj
+T*
+(   In-depth technical analysis of data link protocol standard and media access control topic #10.) Tj
+T*
+() Tj
+T*
+(   2. Algorithmic and Mathematical Specifications:) Tj
+T*
+(   - Error detection efficiency and syndrome decoding.) Tj
+T*
+(   - IEEE 802.1Q tagged frame encapsulation: TPID \(0x8100\) + TCI \(PCP, DEI, VID\).) Tj
+T*
+(   - CSMA/CA contention window backoff mechanics.) Tj
+T*
+() Tj
+T*
+(   3. Practical Enterprise Implementation:) Tj
+T*
+(   Deployment in enterprise multi-gigabit switched backbones, virtualized software-defined) Tj
+T*
+(   networking \(SDN\), and wireless mesh infrastructure.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 11:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze Data Link Layer and Local Area Network topic #11: Discuss Ethernet standards, Wi-Fi architectures, VLAN trunking, and switched network security.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Protocol Foundations:) Tj
+T*
+(   In-depth technical analysis of data link protocol standard and media access control topic #11.) Tj
+T*
+() Tj
+T*
+(   2. Algorithmic and Mathematical Specifications:) Tj
+T*
+(   - Error detection efficiency and syndrome decoding.) Tj
+T*
+(   - IEEE 802.1Q tagged frame encapsulation: TPID \(0x8100\) + TCI \(PCP, DEI, VID\).) Tj
+T*
+(   - CSMA/CA contention window backoff mechanics.) Tj
+T*
+() Tj
+T*
+(   3. Practical Enterprise Implementation:) Tj
+T*
+(   Deployment in enterprise multi-gigabit switched backbones, virtualized software-defined) Tj
+T*
+(   networking \(SDN\), and wireless mesh infrastructure.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 12:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze Data Link Layer and Local Area Network topic #12: Discuss Ethernet standards, Wi-Fi architectures, VLAN trunking, and switched network security.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Protocol Foundations:) Tj
+T*
+(   In-depth technical analysis of data link protocol standard and media access control topic #12.) Tj
+T*
+() Tj
+T*
+(   2. Algorithmic and Mathematical Specifications:) Tj
+T*
+(   - Error detection efficiency and syndrome decoding.) Tj
+T*
+(   - IEEE 802.1Q tagged frame encapsulation: TPID \(0x8100\) + TCI \(PCP, DEI, VID\).) Tj
+T*
+(   - CSMA/CA contention window backoff mechanics.) Tj
+T*
+() Tj
+T*
+(   3. Practical Enterprise Implementation:) Tj
+T*
+(   Deployment in enterprise multi-gigabit switched backbones, virtualized software-defined) Tj
+T*
+(   networking \(SDN\), and wireless mesh infrastructure.) Tj
+T*
+ET
+
+endstream
+endobj
+37 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 38 0 R /Resources << /Font << /F1 49 0 R /F2 50 0 R >> >> >>
+endobj
+38 0 obj
+<< /Length 3573 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 18 of 23) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 13:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze Data Link Layer and Local Area Network topic #13: Discuss Ethernet standards, Wi-Fi architectures, VLAN trunking, and switched network security.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Protocol Foundations:) Tj
+T*
+(   In-depth technical analysis of data link protocol standard and media access control topic #13.) Tj
+T*
+() Tj
+T*
+(   2. Algorithmic and Mathematical Specifications:) Tj
+T*
+(   - Error detection efficiency and syndrome decoding.) Tj
+T*
+(   - IEEE 802.1Q tagged frame encapsulation: TPID \(0x8100\) + TCI \(PCP, DEI, VID\).) Tj
+T*
+(   - CSMA/CA contention window backoff mechanics.) Tj
+T*
+() Tj
+T*
+(   3. Practical Enterprise Implementation:) Tj
+T*
+(   Deployment in enterprise multi-gigabit switched backbones, virtualized software-defined) Tj
+T*
+(   networking \(SDN\), and wireless mesh infrastructure.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 14:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze Data Link Layer and Local Area Network topic #14: Discuss Ethernet standards, Wi-Fi architectures, VLAN trunking, and switched network security.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Protocol Foundations:) Tj
+T*
+(   In-depth technical analysis of data link protocol standard and media access control topic #14.) Tj
+T*
+() Tj
+T*
+(   2. Algorithmic and Mathematical Specifications:) Tj
+T*
+(   - Error detection efficiency and syndrome decoding.) Tj
+T*
+(   - IEEE 802.1Q tagged frame encapsulation: TPID \(0x8100\) + TCI \(PCP, DEI, VID\).) Tj
+T*
+(   - CSMA/CA contention window backoff mechanics.) Tj
+T*
+() Tj
+T*
+(   3. Practical Enterprise Implementation:) Tj
+T*
+(   Deployment in enterprise multi-gigabit switched backbones, virtualized software-defined) Tj
+T*
+(   networking \(SDN\), and wireless mesh infrastructure.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 15:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze Data Link Layer and Local Area Network topic #15: Discuss Ethernet standards, Wi-Fi architectures, VLAN trunking, and switched network security.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Protocol Foundations:) Tj
+T*
+(   In-depth technical analysis of data link protocol standard and media access control topic #15.) Tj
+T*
+() Tj
+T*
+(   2. Algorithmic and Mathematical Specifications:) Tj
+T*
+(   - Error detection efficiency and syndrome decoding.) Tj
+T*
+(   - IEEE 802.1Q tagged frame encapsulation: TPID \(0x8100\) + TCI \(PCP, DEI, VID\).) Tj
+T*
+(   - CSMA/CA contention window backoff mechanics.) Tj
+T*
+() Tj
+T*
+(   3. Practical Enterprise Implementation:) Tj
+T*
+(   Deployment in enterprise multi-gigabit switched backbones, virtualized software-defined) Tj
+T*
+(   networking \(SDN\), and wireless mesh infrastructure.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+39 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 40 0 R /Resources << /Font << /F1 49 0 R /F2 50 0 R >> >> >>
+endobj
+40 0 obj
+<< /Length 3780 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 19 of 23) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 16:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze Data Link Layer and Local Area Network topic #16: Discuss Ethernet standards, Wi-Fi architectures, VLAN trunking, and switched network security.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Protocol Foundations:) Tj
+T*
+(   In-depth technical analysis of data link protocol standard and media access control topic #16.) Tj
+T*
+() Tj
+T*
+(   2. Algorithmic and Mathematical Specifications:) Tj
+T*
+(   - Error detection efficiency and syndrome decoding.) Tj
+T*
+(   - IEEE 802.1Q tagged frame encapsulation: TPID \(0x8100\) + TCI \(PCP, DEI, VID\).) Tj
+T*
+(   - CSMA/CA contention window backoff mechanics.) Tj
+T*
+() Tj
+T*
+(   3. Practical Enterprise Implementation:) Tj
+T*
+(   Deployment in enterprise multi-gigabit switched backbones, virtualized software-defined) Tj
+T*
+(   networking \(SDN\), and wireless mesh infrastructure.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 17:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze Data Link Layer and Local Area Network topic #17: Discuss Ethernet standards, Wi-Fi architectures, VLAN trunking, and switched network security.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Protocol Foundations:) Tj
+T*
+(   In-depth technical analysis of data link protocol standard and media access control topic #17.) Tj
+T*
+() Tj
+T*
+(   2. Algorithmic and Mathematical Specifications:) Tj
+T*
+(   - Error detection efficiency and syndrome decoding.) Tj
+T*
+(   - IEEE 802.1Q tagged frame encapsulation: TPID \(0x8100\) + TCI \(PCP, DEI, VID\).) Tj
+T*
+(   - CSMA/CA contention window backoff mechanics.) Tj
+T*
+() Tj
+T*
+(   3. Practical Enterprise Implementation:) Tj
+T*
+(   Deployment in enterprise multi-gigabit switched backbones, virtualized software-defined) Tj
+T*
+(   networking \(SDN\), and wireless mesh infrastructure.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 18:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze Data Link Layer and Local Area Network topic #18: Discuss Ethernet standards, Wi-Fi architectures, VLAN trunking, and switched network security.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Protocol Foundations:) Tj
+T*
+(   In-depth technical analysis of data link protocol standard and media access control topic #18.) Tj
+T*
+() Tj
+T*
+(   2. Algorithmic and Mathematical Specifications:) Tj
+T*
+(   - Error detection efficiency and syndrome decoding.) Tj
+T*
+(   - IEEE 802.1Q tagged frame encapsulation: TPID \(0x8100\) + TCI \(PCP, DEI, VID\).) Tj
+T*
+(   - CSMA/CA contention window backoff mechanics.) Tj
+T*
+() Tj
+T*
+(   3. Practical Enterprise Implementation:) Tj
+T*
+(   Deployment in enterprise multi-gigabit switched backbones, virtualized software-defined) Tj
+T*
+(   networking \(SDN\), and wireless mesh infrastructure.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 19:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze Data Link Layer and Local Area Network topic #19: Discuss Ethernet standards, Wi-Fi architectures, VLAN trunking, and switched network security.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+ET
+
+endstream
+endobj
+41 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 42 0 R /Resources << /Font << /F1 49 0 R /F2 50 0 R >> >> >>
+endobj
+42 0 obj
+<< /Length 3617 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 20 of 23) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   1. Protocol Foundations:) Tj
+T*
+(   In-depth technical analysis of data link protocol standard and media access control topic #19.) Tj
+T*
+() Tj
+T*
+(   2. Algorithmic and Mathematical Specifications:) Tj
+T*
+(   - Error detection efficiency and syndrome decoding.) Tj
+T*
+(   - IEEE 802.1Q tagged frame encapsulation: TPID \(0x8100\) + TCI \(PCP, DEI, VID\).) Tj
+T*
+(   - CSMA/CA contention window backoff mechanics.) Tj
+T*
+() Tj
+T*
+(   3. Practical Enterprise Implementation:) Tj
+T*
+(   Deployment in enterprise multi-gigabit switched backbones, virtualized software-defined) Tj
+T*
+(   networking \(SDN\), and wireless mesh infrastructure.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 20:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze Data Link Layer and Local Area Network topic #20: Discuss Ethernet standards, Wi-Fi architectures, VLAN trunking, and switched network security.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Protocol Foundations:) Tj
+T*
+(   In-depth technical analysis of data link protocol standard and media access control topic #20.) Tj
+T*
+() Tj
+T*
+(   2. Algorithmic and Mathematical Specifications:) Tj
+T*
+(   - Error detection efficiency and syndrome decoding.) Tj
+T*
+(   - IEEE 802.1Q tagged frame encapsulation: TPID \(0x8100\) + TCI \(PCP, DEI, VID\).) Tj
+T*
+(   - CSMA/CA contention window backoff mechanics.) Tj
+T*
+() Tj
+T*
+(   3. Practical Enterprise Implementation:) Tj
+T*
+(   Deployment in enterprise multi-gigabit switched backbones, virtualized software-defined) Tj
+T*
+(   networking \(SDN\), and wireless mesh infrastructure.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 21:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze Data Link Layer and Local Area Network topic #21: Discuss Ethernet standards, Wi-Fi architectures, VLAN trunking, and switched network security.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Protocol Foundations:) Tj
+T*
+(   In-depth technical analysis of data link protocol standard and media access control topic #21.) Tj
+T*
+() Tj
+T*
+(   2. Algorithmic and Mathematical Specifications:) Tj
+T*
+(   - Error detection efficiency and syndrome decoding.) Tj
+T*
+(   - IEEE 802.1Q tagged frame encapsulation: TPID \(0x8100\) + TCI \(PCP, DEI, VID\).) Tj
+T*
+(   - CSMA/CA contention window backoff mechanics.) Tj
+T*
+() Tj
+T*
+(   3. Practical Enterprise Implementation:) Tj
+T*
+(   Deployment in enterprise multi-gigabit switched backbones, virtualized software-defined) Tj
+T*
+(   networking \(SDN\), and wireless mesh infrastructure.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 22:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze Data Link Layer and Local Area Network topic #22: Discuss Ethernet standards, Wi-Fi architectures, VLAN trunking, and switched network security.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Protocol Foundations:) Tj
+T*
+(   In-depth technical analysis of data link protocol standard and media access control topic #22.) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+43 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 44 0 R /Resources << /Font << /F1 49 0 R /F2 50 0 R >> >> >>
+endobj
+44 0 obj
+<< /Length 3682 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 21 of 23) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   2. Algorithmic and Mathematical Specifications:) Tj
+T*
+(   - Error detection efficiency and syndrome decoding.) Tj
+T*
+(   - IEEE 802.1Q tagged frame encapsulation: TPID \(0x8100\) + TCI \(PCP, DEI, VID\).) Tj
+T*
+(   - CSMA/CA contention window backoff mechanics.) Tj
+T*
+() Tj
+T*
+(   3. Practical Enterprise Implementation:) Tj
+T*
+(   Deployment in enterprise multi-gigabit switched backbones, virtualized software-defined) Tj
+T*
+(   networking \(SDN\), and wireless mesh infrastructure.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 23:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze Data Link Layer and Local Area Network topic #23: Discuss Ethernet standards, Wi-Fi architectures, VLAN trunking, and switched network security.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Protocol Foundations:) Tj
+T*
+(   In-depth technical analysis of data link protocol standard and media access control topic #23.) Tj
+T*
+() Tj
+T*
+(   2. Algorithmic and Mathematical Specifications:) Tj
+T*
+(   - Error detection efficiency and syndrome decoding.) Tj
+T*
+(   - IEEE 802.1Q tagged frame encapsulation: TPID \(0x8100\) + TCI \(PCP, DEI, VID\).) Tj
+T*
+(   - CSMA/CA contention window backoff mechanics.) Tj
+T*
+() Tj
+T*
+(   3. Practical Enterprise Implementation:) Tj
+T*
+(   Deployment in enterprise multi-gigabit switched backbones, virtualized software-defined) Tj
+T*
+(   networking \(SDN\), and wireless mesh infrastructure.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 24:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze Data Link Layer and Local Area Network topic #24: Discuss Ethernet standards, Wi-Fi architectures, VLAN trunking, and switched network security.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Protocol Foundations:) Tj
+T*
+(   In-depth technical analysis of data link protocol standard and media access control topic #24.) Tj
+T*
+() Tj
+T*
+(   2. Algorithmic and Mathematical Specifications:) Tj
+T*
+(   - Error detection efficiency and syndrome decoding.) Tj
+T*
+(   - IEEE 802.1Q tagged frame encapsulation: TPID \(0x8100\) + TCI \(PCP, DEI, VID\).) Tj
+T*
+(   - CSMA/CA contention window backoff mechanics.) Tj
+T*
+() Tj
+T*
+(   3. Practical Enterprise Implementation:) Tj
+T*
+(   Deployment in enterprise multi-gigabit switched backbones, virtualized software-defined) Tj
+T*
+(   networking \(SDN\), and wireless mesh infrastructure.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 25:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze Data Link Layer and Local Area Network topic #25: Discuss Ethernet standards, Wi-Fi architectures, VLAN trunking, and switched network security.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Protocol Foundations:) Tj
+T*
+(   In-depth technical analysis of data link protocol standard and media access control topic #25.) Tj
+T*
+() Tj
+T*
+(   2. Algorithmic and Mathematical Specifications:) Tj
+T*
+(   - Error detection efficiency and syndrome decoding.) Tj
+T*
+(   - IEEE 802.1Q tagged frame encapsulation: TPID \(0x8100\) + TCI \(PCP, DEI, VID\).) Tj
+T*
+ET
+
+endstream
+endobj
+45 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 46 0 R /Resources << /Font << /F1 49 0 R /F2 50 0 R >> >> >>
+endobj
+46 0 obj
+<< /Length 3584 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 22 of 23) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - CSMA/CA contention window backoff mechanics.) Tj
+T*
+() Tj
+T*
+(   3. Practical Enterprise Implementation:) Tj
+T*
+(   Deployment in enterprise multi-gigabit switched backbones, virtualized software-defined) Tj
+T*
+(   networking \(SDN\), and wireless mesh infrastructure.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 26:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze Data Link Layer and Local Area Network topic #26: Discuss Ethernet standards, Wi-Fi architectures, VLAN trunking, and switched network security.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Protocol Foundations:) Tj
+T*
+(   In-depth technical analysis of data link protocol standard and media access control topic #26.) Tj
+T*
+() Tj
+T*
+(   2. Algorithmic and Mathematical Specifications:) Tj
+T*
+(   - Error detection efficiency and syndrome decoding.) Tj
+T*
+(   - IEEE 802.1Q tagged frame encapsulation: TPID \(0x8100\) + TCI \(PCP, DEI, VID\).) Tj
+T*
+(   - CSMA/CA contention window backoff mechanics.) Tj
+T*
+() Tj
+T*
+(   3. Practical Enterprise Implementation:) Tj
+T*
+(   Deployment in enterprise multi-gigabit switched backbones, virtualized software-defined) Tj
+T*
+(   networking \(SDN\), and wireless mesh infrastructure.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 27:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze Data Link Layer and Local Area Network topic #27: Discuss Ethernet standards, Wi-Fi architectures, VLAN trunking, and switched network security.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Protocol Foundations:) Tj
+T*
+(   In-depth technical analysis of data link protocol standard and media access control topic #27.) Tj
+T*
+() Tj
+T*
+(   2. Algorithmic and Mathematical Specifications:) Tj
+T*
+(   - Error detection efficiency and syndrome decoding.) Tj
+T*
+(   - IEEE 802.1Q tagged frame encapsulation: TPID \(0x8100\) + TCI \(PCP, DEI, VID\).) Tj
+T*
+(   - CSMA/CA contention window backoff mechanics.) Tj
+T*
+() Tj
+T*
+(   3. Practical Enterprise Implementation:) Tj
+T*
+(   Deployment in enterprise multi-gigabit switched backbones, virtualized software-defined) Tj
+T*
+(   networking \(SDN\), and wireless mesh infrastructure.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 28:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze Data Link Layer and Local Area Network topic #28: Discuss Ethernet standards, Wi-Fi architectures, VLAN trunking, and switched network security.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Protocol Foundations:) Tj
+T*
+(   In-depth technical analysis of data link protocol standard and media access control topic #28.) Tj
+T*
+() Tj
+T*
+(   2. Algorithmic and Mathematical Specifications:) Tj
+T*
+(   - Error detection efficiency and syndrome decoding.) Tj
+T*
+(   - IEEE 802.1Q tagged frame encapsulation: TPID \(0x8100\) + TCI \(PCP, DEI, VID\).) Tj
+T*
+(   - CSMA/CA contention window backoff mechanics.) Tj
+T*
+() Tj
+T*
+(   3. Practical Enterprise Implementation:) Tj
+T*
+ET
+
+endstream
+endobj
+47 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 48 0 R /Resources << /Font << /F1 49 0 R /F2 50 0 R >> >> >>
+endobj
+48 0 obj
+<< /Length 2667 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 23 of 23) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   Deployment in enterprise multi-gigabit switched backbones, virtualized software-defined) Tj
+T*
+(   networking \(SDN\), and wireless mesh infrastructure.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 29:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze Data Link Layer and Local Area Network topic #29: Discuss Ethernet standards, Wi-Fi architectures, VLAN trunking, and switched network security.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Protocol Foundations:) Tj
+T*
+(   In-depth technical analysis of data link protocol standard and media access control topic #29.) Tj
+T*
+() Tj
+T*
+(   2. Algorithmic and Mathematical Specifications:) Tj
+T*
+(   - Error detection efficiency and syndrome decoding.) Tj
+T*
+(   - IEEE 802.1Q tagged frame encapsulation: TPID \(0x8100\) + TCI \(PCP, DEI, VID\).) Tj
+T*
+(   - CSMA/CA contention window backoff mechanics.) Tj
+T*
+() Tj
+T*
+(   3. Practical Enterprise Implementation:) Tj
+T*
+(   Deployment in enterprise multi-gigabit switched backbones, virtualized software-defined) Tj
+T*
+(   networking \(SDN\), and wireless mesh infrastructure.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 30:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze Data Link Layer and Local Area Network topic #30: Discuss Ethernet standards, Wi-Fi architectures, VLAN trunking, and switched network security.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Protocol Foundations:) Tj
+T*
+(   In-depth technical analysis of data link protocol standard and media access control topic #30.) Tj
+T*
+() Tj
+T*
+(   2. Algorithmic and Mathematical Specifications:) Tj
+T*
+(   - Error detection efficiency and syndrome decoding.) Tj
+T*
+(   - IEEE 802.1Q tagged frame encapsulation: TPID \(0x8100\) + TCI \(PCP, DEI, VID\).) Tj
+T*
+(   - CSMA/CA contention window backoff mechanics.) Tj
+T*
+() Tj
+T*
+(   3. Practical Enterprise Implementation:) Tj
+T*
+(   Deployment in enterprise multi-gigabit switched backbones, virtualized software-defined) Tj
+T*
+(   networking \(SDN\), and wireless mesh infrastructure.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+49 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+50 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+xref
+0 51
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000267 00000 n 
+0000000411 00000 n 
+0000010308 00000 n 
+0000010452 00000 n 
+0000020937 00000 n 
+0000021081 00000 n 
+0000031457 00000 n 
+0000031602 00000 n 
+0000042097 00000 n 
+0000042243 00000 n 
+0000053725 00000 n 
+0000053871 00000 n 
+0000065633 00000 n 
+0000065779 00000 n 
+0000076815 00000 n 
+0000076961 00000 n 
+0000079030 00000 n 
+0000079176 00000 n 
+0000085130 00000 n 
+0000085276 00000 n 
+0000088130 00000 n 
+0000088276 00000 n 
+0000096691 00000 n 
+0000096837 00000 n 
+0000101269 00000 n 
+0000101415 00000 n 
+0000104893 00000 n 
+0000105039 00000 n 
+0000109040 00000 n 
+0000109186 00000 n 
+0000113298 00000 n 
+0000113444 00000 n 
+0000117115 00000 n 
+0000117261 00000 n 
+0000120995 00000 n 
+0000121141 00000 n 
+0000124767 00000 n 
+0000124913 00000 n 
+0000128746 00000 n 
+0000128892 00000 n 
+0000132562 00000 n 
+0000132708 00000 n 
+0000136443 00000 n 
+0000136589 00000 n 
+0000140226 00000 n 
+0000140372 00000 n 
+0000143092 00000 n 
+0000143190 00000 n 
+trailer
+<< /Size 51 /Root 1 0 R >>
+startxref
+143293
+%%EOF

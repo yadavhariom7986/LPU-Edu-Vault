@@ -1,0 +1,600 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 3189 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Basic Electrical & Electronics | Unit 3: Transformers & Electrical Machines) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 1 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(=== UNIT 3: TRANSFORMERS, DC MOTORS & INDUCTION MACHINES ===) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.1 Single-Phase Transformers: Principle and EMF Equation) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(A transformer is a static electromagnetic device that transfers electrical energy) Tj
+T*
+(between two or more circuits via mutual induction without changing frequency.) Tj
+T*
+(* Working Principle: Alternating voltage V1 applied to primary winding of N1 turns) Tj
+T*
+(produces an alternating magnetic flux Phi\(t\) in the laminated ferromagnetic core.) Tj
+T*
+(This core flux links the secondary winding of N2 turns, inducing an alternating EMF) Tj
+T*
+(E2 according to Faraday's Law.) Tj
+T*
+(* Transformer EMF Equation: Let Phi\(t\) = Phi_m * sin\(omega * t\).) Tj
+T*
+(e1\(t\) = - N1 * d\(Phi\)/dt = - N1 * omega * Phi_m * cos\(omega * t\) = N1 * omega * Phi_m *) Tj
+T*
+(sin\(omega * t - pi/2\).) Tj
+T*
+(Peak induced EMF: E_{m1} = N1 * omega * Phi_m = 2 * pi * f * N1 * Phi_m.) Tj
+T*
+(RMS Induced EMF in Primary: E1 = E_{m1} / sqrt\(2\) = \(2 * pi / sqrt\(2\)\) * f * N1 * Phi_m) Tj
+T*
+(= 4.44 * f * N1 * Phi_m.) Tj
+T*
+(RMS Induced EMF in Secondary: E2 = 4.44 * f * N2 * Phi_m.) Tj
+T*
+(* Transformation Ratio \(K\): K = E2 / E1 = N2 / N1 = I1 / I2.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.2 Transformer Losses, Efficiency and Voltage Regulation) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Core \(Iron\) Losses \(P_i\): Constant losses occurring in the magnetic core,) Tj
+T*
+(independent of load current:) Tj
+T*
+(1. Hysteresis Loss \(P_h\): Energy dissipated per magnetization cycle: P_h = eta_Steinmetz) Tj
+T*
+(* \(B_m\)^{1.6} * f * Volume.) Tj
+T*
+(2. Eddy Current Loss \(P_e\): Circulating currents induced in core iron: P_e = K_e *) Tj
+T*
+(\(B_m\)^2 * f^2 * t^2 * Volume \(minimized by thin, varnished silicon-steel laminations of) Tj
+T*
+(thickness t ~ 0.35 mm\).) Tj
+T*
+(* Copper \(Ohmic\) Losses \(P_cu\): Variable I^2*R losses in windings: P_cu = I1^2 * R1 +) Tj
+T*
+(I2^2 * R2 = I2^2 * R_{02}.) Tj
+T*
+(* Condition for Maximum Efficiency: Maximum efficiency occurs when variable copper) Tj
+T*
+(losses equal constant iron losses: P_cu = P_i. Load current at maximum efficiency:) Tj
+T*
+(I_{2, max} = I_{2, rated} * sqrt\( P_i / P_{cu, rated} \).) Tj
+T*
+(* Voltage Regulation: Percentage change in secondary terminal voltage from no-load to) Tj
+T*
+(full-load: %VR = [ \(V_{2, no-load} - V_{2, full-load}\) / V_{2, rated} ] * 100 = [ \(I2) Tj
+T*
+(* R_{02} * cos\(phi\) +/- I2 * X_{02} * sin\(phi\)\) / V2 ] * 100 \(+ for lagging PF, - for) Tj
+T*
+(leading PF\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.3 Direct Current \(DC\) Machines: Motors and Generators) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* DC Motor Principle: Operates on Lorentz force: a current-carrying conductor placed) Tj
+T*
+(in a magnetic field experiences mechanical force F = B * I * L * sin\(theta\) directed) Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 3476 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Basic Electrical & Electronics | Unit 3: Transformers & Electrical Machines) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 2 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(according to Fleming's Left-Hand Rule.) Tj
+T*
+(* Back EMF \(E_b\): As the armature rotates, its conductors cut magnetic flux, inducing) Tj
+T*
+(a counter-EMF opposing supply voltage: E_b = \(P * Phi * Z * N\) / \(60 * A\), where P =) Tj
+T*
+(poles, Phi = flux/pole, Z = total armature conductors, N = RPM, A = parallel paths \(A) Tj
+T*
+(= 2 for wave winding, A = P for lap winding\).) Tj
+T*
+(* Armature Voltage Equation: V = E_b + I_a * R_a.) Tj
+T*
+(* Armature Torque Equation: Electromagnetic power converted = E_b * I_a = T_e *) Tj
+T*
+(omega_m = T_e * \(2*pi*N / 60\).) Tj
+T*
+(T_e = [ \(P * Z\) / \(2 * pi * A\) ] * Phi * I_a = 0.159 * \(P * Z / A\) * Phi * I_a \(Torque) Tj
+T*
+(is directly proportional to flux and armature current: T_e propto Phi * I_a\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.4 Three-Phase Induction Motors) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Rotating Magnetic Field \(RMF\): Balanced 3-phase currents flowing through spatially) Tj
+T*
+(displaced stator windings \(120 degrees apart\) produce a magnetic field of constant) Tj
+T*
+(magnitude \(1.5 * Phi_m\) rotating at Synchronous Speed N_s = 120 * f / P.) Tj
+T*
+(* Rotor Slip \(s\): Difference between synchronous stator speed and actual rotor speed) Tj
+T*
+(N_r: s = \(N_s - N_r\) / N_s.) Tj
+T*
+(* Rotor Current and Torque: Stator RMF cuts stationary rotor bars, inducing rotor) Tj
+T*
+(currents. Induced currents interact with RMF to produce torque pulling the rotor in) Tj
+T*
+(the direction of the rotating field. A motor can never run at synchronous speed \(if) Tj
+T*
+(N_r = N_s, slip = 0, no cutting of flux, torque collapses to zero\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([SOLVED PROBLEM 1: Transformer EMF, Turns and Flux Density]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: A single-phase 2,200 / 220 V, 50 Hz step-down transformer has a net core) Tj
+T*
+(cross-sectional area of 150 cm^2 \(0.015 m^2\). If the maximum flux density in the core is) Tj
+T*
+(B_m = 1.2 Tesla, calculate: \(1\) Maximum magnetic flux Phi_m, \(2\) Number of primary turns) Tj
+T*
+(N1, \(3\) Number of secondary turns N2, \(4\) Primary and secondary full-load currents for a) Tj
+T*
+(33 kVA rating.) Tj
+T*
+(Solution Step 1: Compute Maximum Core Flux Phi_m:) Tj
+T*
+(Phi_m = B_m * A = 1.2 T * 0.015 m^2 = 0.018 Webers \(18 mWb\).) Tj
+T*
+(Solution Step 2: Calculate Number of Primary Turns N1:) Tj
+T*
+(E1 = 4.44 * f * N1 * Phi_m => N1 = E1 / \(4.44 * f * Phi_m\)) Tj
+T*
+(N1 = 2200 / \(4.44 * 50 * 0.018\) = 2200 / 3.996 = 550.55 => 551 turns.) Tj
+T*
+(Solution Step 3: Calculate Number of Secondary Turns N2:) Tj
+T*
+(Transformation ratio K = E2 / E1 = 220 / 2200 = 0.10.) Tj
+T*
+(N2 = K * N1 = 0.10 * 551 = 55.1 => 55 turns.) Tj
+T*
+(Solution Step 4: Compute Full-Load Currents for 33 kVA Rating:) Tj
+T*
+(Rated Primary Current I1 = Rated kVA * 1000 / V1 = 33,000 / 2200 = 15.0 Amperes.) Tj
+T*
+(Rated Secondary Current I2 = Rated kVA * 1000 / V2 = 33,000 / 220 = 150.0 Amperes.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 3620 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Basic Electrical & Electronics | Unit 3: Transformers & Electrical Machines) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 3 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([SOLVED PROBLEM 2: Transformer Maximum Efficiency and Load Optimization]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: A 25 kVA single-phase transformer has a constant core iron loss of 250 W and a) Tj
+T*
+(full-load copper loss of 400 W. Calculate: \(1\) Efficiency at full load with 0.8 power) Tj
+T*
+(factor lagging, \(2\) The kVA load at which maximum efficiency occurs, \(3\) Value of) Tj
+T*
+(maximum efficiency at unity power factor.) Tj
+T*
+(Solution Step 1: Full-Load Efficiency at 0.8 PF Lagging:) Tj
+T*
+(Output Power = Rated kVA * PF = 25 * 0.8 = 20.0 kW = 20,000 W.) Tj
+T*
+(Total Losses = Iron Loss + Full-Load Copper Loss = 250 W + 400 W = 650 W.) Tj
+T*
+(Input Power = Output + Losses = 20,000 + 650 = 20,650 W.) Tj
+T*
+(Efficiency eta = \(Output / Input\) * 100 = \(20,000 / 20,650\) * 100 = 96.85%.) Tj
+T*
+(Solution Step 2: kVA Load for Maximum Efficiency:) Tj
+T*
+(Condition: Variable Copper Loss = Constant Iron Loss.) Tj
+T*
+(kVA_max = Rated kVA * sqrt\( P_iron / P_cu_FL \) = 25 * sqrt\( 250 / 400 \) = 25 * sqrt\() Tj
+T*
+(0.625 \)) Tj
+T*
+(kVA_max = 25 * 0.7906 = 19.76 kVA.) Tj
+T*
+(Solution Step 3: Maximum Efficiency at Unity Power Factor \(PF = 1.0\):) Tj
+T*
+(Output Power at max efficiency = 19.76 kVA * 1.0 = 19.76 kW = 19,760 W.) Tj
+T*
+(Total Losses at max efficiency = Iron Loss + Copper Loss = 250 W + 250 W = 500 W.) Tj
+T*
+(Input Power = 19,760 + 500 = 20,260 W.) Tj
+T*
+(eta_max = \(19,760 / 20,260\) * 100 = 97.53%.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([SOLVED PROBLEM 3: DC Shunt Motor Back EMF and Armature Torque]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: A 230V DC shunt motor has an armature resistance R_a = 0.5 Omega and field) Tj
+T*
+(resistance R_sh = 115 Omega. At full load, it draws a total line current of 22A and runs) Tj
+T*
+(at 1,200 RPM. Calculate: \(1\) Shunt field current I_sh, \(2\) Armature current I_a, \(3\)) Tj
+T*
+(Back EMF E_b, \(4\) Developed electromagnetic torque T_e.) Tj
+T*
+(Solution Step 1: Calculate Field Current I_sh:) Tj
+T*
+(I_sh = V / R_sh = 230 V / 115 Omega = 2.0 Amperes.) Tj
+T*
+(Solution Step 2: Calculate Armature Current I_a:) Tj
+T*
+(I_a = I_line - I_sh = 22.0 A - 2.0 A = 20.0 Amperes.) Tj
+T*
+(Solution Step 3: Compute Back EMF E_b:) Tj
+T*
+(E_b = V - I_a * R_a = 230 - \(20.0 * 0.5\) = 230 - 10.0 = 220.0 Volts.) Tj
+T*
+(Solution Step 4: Compute Electromagnetic Torque T_e:) Tj
+T*
+(Mechanical Power converted P_mech = E_b * I_a = 220 V * 20 A = 4,400 Watts.) Tj
+T*
+(Angular Velocity omega_m = 2 * pi * N / 60 = 2 * pi * 1200 / 60 = 40 * pi = 125.66) Tj
+T*
+(rad/sec.) Tj
+T*
+(Torque T_e = P_mech / omega_m = 4400 / 125.66 = 35.01 N*m \(Newton-meters\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([SOLVED PROBLEM 4: 3-Phase Induction Motor Slip and Rotor Parameters]) Tj
+T*
+/F1 9 Tf
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 3542 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Basic Electrical & Electronics | Unit 3: Transformers & Electrical Machines) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 4 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: A 4-pole, 50 Hz, 3-phase induction motor runs at a rotor speed of 1,440 RPM at) Tj
+T*
+(full load. Calculate: \(1\) Synchronous speed N_s, \(2\) Slip s, \(3\) Percentage slip %s, \(4\)) Tj
+T*
+(Frequency of rotor induced currents f_r.) Tj
+T*
+(Solution Step 1: Compute Synchronous Speed N_s:) Tj
+T*
+(N_s = 120 * f / P = \(120 * 50\) / 4 = 6,000 / 4 = 1,500 RPM.) Tj
+T*
+(Solution Step 2: Calculate Fractional Slip s:) Tj
+T*
+(s = \(N_s - N_r\) / N_s = \(1500 - 1440\) / 1500 = 60 / 1500 = 0.04 \(4.0%\).) Tj
+T*
+(Solution Step 3: Calculate Rotor Current Frequency f_r:) Tj
+T*
+(f_r = s * f = 0.04 * 50 Hz = 2.0 Hz.) Tj
+T*
+(Conclusion: Under operating conditions, rotor currents oscillate at only 2 Hz,) Tj
+T*
+(minimizing rotor iron core losses.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.5 University Review & Examination Questions) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Q1: Derive the condition for maximum efficiency of a transformer from first) Tj
+T*
+(principles.) Tj
+T*
+(Answer: Let transformer rating be S \(VA\), output power P_out = V2 * I2 * cos\(phi\). Total) Tj
+T*
+(losses are Iron Loss \(P_i, constant\) and Copper Loss \(P_cu = I2^2 * R_02, variable\).) Tj
+T*
+(Efficiency is eta = P_out / \(P_out + Losses\) = [ V2 * I2 * cos\(phi\) ] / [ V2 * I2 *) Tj
+T*
+(cos\(phi\) + P_i + I2^2 * R_02 ]. Divide numerator and denominator by I2: eta = [ V2 *) Tj
+T*
+(cos\(phi\) ] / [ V2 * cos\(phi\) + P_i / I2 + I2 * R_02 ]. For maximum efficiency with) Tj
+T*
+(respect to load current I2, the denominator must be minimized. Differentiating) Tj
+T*
+(denominator with respect to I2 and setting to zero: d/dI2 [ V2*cos\(phi\) + P_i / I2 + I2) Tj
+T*
+(* R_02 ] = - P_i / \(I2\)^2 + R_02 = 0 => P_i = \(I2\)^2 * R_02 = P_cu. Therefore, maximum) Tj
+T*
+(efficiency occurs when variable copper loss equals constant core iron loss.) Tj
+T*
+(* Q2: Explain why a 3-phase induction motor is self-starting whereas a single-phase) Tj
+T*
+(induction motor is not.) Tj
+T*
+(Answer: When 3-phase balanced currents flow through 3-phase stator windings spaced 120) Tj
+T*
+(degrees apart, they produce a true Rotating Magnetic Field \(RMF\) of constant magnitude) Tj
+T*
+(1.5*Phi_m that rotates at synchronous speed N_s. This RMF cuts stationary rotor) Tj
+T*
+(conductors, inducing currents that create a unidirectional starting torque. In contrast,) Tj
+T*
+(a single-phase stator winding produces a pulsating stationary magnetic field that) Tj
+T*
+(alternates along a single spatial axis without rotation. By Double Revolving Field) Tj
+T*
+(Theory, a pulsating field decomposes into two equal fields rotating in OPPOSITE) Tj
+T*
+(directions at speed N_s. At standstill \(N = 0\), both fields exert equal and opposite) Tj
+T*
+(torques; net starting torque is identically zero. Hence, single-phase motors require) Tj
+T*
+(auxiliary starting windings or split-phase capacitors.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.6 Key Takeaways and Revision Points) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Transformer EMF equation: E = 4.44 * f * N * Phi_m.) Tj
+T*
+(* Maximum transformer efficiency occurs when copper loss equals core iron loss \(P_cu) Tj
+T*
+(= P_i\).) Tj
+T*
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 525 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Basic Electrical & Electronics | Unit 3: Transformers & Electrical Machines) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 5 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(* DC motor back EMF: E_b = V - I_a * R_a; electromagnetic torque: T_e propto Phi *) Tj
+T*
+(I_a.) Tj
+T*
+(* 3-phase induction motor synchronous speed N_s = 120*f / P; rotor frequency f_r =) Tj
+T*
+(s*f.) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000171 00000 n 
+0000000241 00000 n 
+0000000316 00000 n 
+0000000428 00000 n 
+0000003669 00000 n 
+0000003781 00000 n 
+0000007309 00000 n 
+0000007422 00000 n 
+0000011095 00000 n 
+0000011209 00000 n 
+0000014804 00000 n 
+0000014918 00000 n 
+trailer
+<< /Size 15 /Root 1 0 R >>
+startxref
+15495
+%%EOF

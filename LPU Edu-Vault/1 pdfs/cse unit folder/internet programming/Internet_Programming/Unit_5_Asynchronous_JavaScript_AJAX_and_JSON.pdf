@@ -1,0 +1,10888 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R 35 0 R 37 0 R 39 0 R 41 0 R 43 0 R 45 0 R 47 0 R 49 0 R 51 0 R 53 0 R 55 0 R 57 0 R] /Count 28 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 4 0 R /Resources << /Font << /F1 59 0 R /F2 60 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 8910 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 1 of 28) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(1.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What does AJAX stand for in client-side web) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(development?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(Asynchronous JavaScript and XML) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(Advanced JavaScript and XHTML) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(Automated JSON and XML) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(Asynchronous Java and XHTML) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(2.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(The core advantage of using AJAX in web) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(applications is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(Updating portions of a webpage dynamically) Tj
+ET
+BT
+/F1 7.4 Tf
+72 681.2001 Td
+(with server data without requiring a full) Tj
+ET
+BT
+/F1 7.4 Tf
+72 672.6001 Td
+(page refresh) Tj
+ET
+BT
+/F2 7.4 Tf
+58 663.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 663.0001 Td
+(Executing code on multiple CPU cores) Tj
+ET
+BT
+/F2 7.4 Tf
+58 653.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 653.4001 Td
+(Compressing images automatically) Tj
+ET
+BT
+/F2 7.4 Tf
+58 643.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 643.8002 Td
+(Writing server backend logic in CSS) Tj
+ET
+BT
+/F2 8.0 Tf
+42 620.2002 Td
+(3.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 620.2002 Td
+(Which legacy browser object provided the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 611.0002 Td
+(original foundation for AJAX requests before the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 601.8002 Td
+(modern Fetch API?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 590.1002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 590.1002 Td
+(XMLHttpRequest \(XHR\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 580.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 580.5002 Td
+(WebClient) Tj
+ET
+BT
+/F2 7.4 Tf
+58 570.9002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 570.9002 Td
+(HttpRequest) Tj
+ET
+BT
+/F2 7.4 Tf
+58 561.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 561.3002 Td
+(SocketClient) Tj
+ET
+BT
+/F2 8.0 Tf
+42 537.7003 Td
+(4.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 537.7003 Td
+(What data interchange format has predominantly) Tj
+ET
+BT
+/F1 7.8 Tf
+58 528.5002 Td
+(replaced XML in modern AJAX web applications due) Tj
+ET
+BT
+/F1 7.8 Tf
+58 519.3002 Td
+(to its lightweight syntax?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 507.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 507.6002 Td
+(JSON \(JavaScript Object Notation\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 498.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 498.0002 Td
+(YAML) Tj
+ET
+BT
+/F2 7.4 Tf
+58 488.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 488.4002 Td
+(CSV) Tj
+ET
+BT
+/F2 7.4 Tf
+58 478.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 478.8002 Td
+(Binary ASN.1) Tj
+ET
+BT
+/F2 8.0 Tf
+42 455.2002 Td
+(5.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 455.2002 Td
+(In an XMLHttpRequest object, which method) Tj
+ET
+BT
+/F1 7.8 Tf
+58 446.0002 Td
+(initializes a request with HTTP method and URL?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 434.3002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 434.3002 Td
+(xhr.open\(method, url, async\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 424.7002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 424.7002 Td
+(xhr.send\(data\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 415.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 415.1002 Td
+(xhr.init\(url\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 405.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 405.5002 Td
+(xhr.connect\(url\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 381.9001 Td
+(6.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 381.9001 Td
+(Which method sends the HTTP request across the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 372.7001 Td
+(network to the server?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 361.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 361.0001 Td
+(xhr.send\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 351.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 351.4001 Td
+(xhr.open\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 341.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 341.8001 Td
+(xhr.dispatch\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 332.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 332.2001 Td
+(xhr.execute\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 308.6001 Td
+(7.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 308.6001 Td
+(Which XMLHttpRequest property holds the numeric) Tj
+ET
+BT
+/F1 7.8 Tf
+58 299.4001 Td
+(HTTP response status code \(e.g., 200, 404\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 287.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 287.7001 Td
+(xhr.status) Tj
+ET
+BT
+/F2 7.4 Tf
+58 278.1001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 278.1001 Td
+(xhr.code) Tj
+ET
+BT
+/F2 7.4 Tf
+58 268.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 268.5001 Td
+(xhr.statusCode) Tj
+ET
+BT
+/F2 7.4 Tf
+58 258.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 258.9001 Td
+(xhr.readyState) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(8.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Which property tracks the state of an) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(XMLHttpRequest from 0 \(UNSENT\) to 4 \(DONE\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(xhr.readyState) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(xhr.status) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(xhr.phase) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(xhr.state) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(9.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(What readyState value indicates that the request) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(operation is completely finished and response) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(data is ready?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.6 Td
+(4 \(DONE\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.0001 Td
+(3 \(LOADING\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.4001 Td
+(2 \(HEADERS_RECEIVED\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 651.8001 Td
+(1 \(OPENED\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 628.2001 Td
+(10.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(Which event handler on XMLHttpRequest is called) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(whenever the readyState property changes?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.3001 Td
+(xhr.onreadystatechange) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.7001 Td
+(xhr.onload) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.1002 Td
+(xhr.onfinish) Tj
+ET
+BT
+/F2 7.4 Tf
+322 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 578.5002 Td
+(xhr.oncomplete) Tj
+ET
+BT
+/F2 8.0 Tf
+306 554.9002 Td
+(11.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(Which modern browser native method returns a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 545.7002 Td
+(Promise that resolves to the Response to a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 536.5002 Td
+(network request?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.8002 Td
+(fetch\(url, options\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 515.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 515.2002 Td
+(http.get\(url\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 505.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 505.6002 Td
+(ajax.request\(url\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 496.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 496.0002 Td
+(window.request\(url\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 472.4002 Td
+(12.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 472.4002 Td
+(What does a JavaScript Promise represent?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.7002 Td
+(The eventual completion \(or failure\) of an) Tj
+ET
+BT
+/F1 7.4 Tf
+336 452.1002 Td
+(asynchronous operation and its resulting) Tj
+ET
+BT
+/F1 7.4 Tf
+336 443.5002 Td
+(value) Tj
+ET
+BT
+/F2 7.4 Tf
+322 433.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 433.9001 Td
+(A multi-threaded thread pool) Tj
+ET
+BT
+/F2 7.4 Tf
+322 424.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 424.3001 Td
+(An immutable database record) Tj
+ET
+BT
+/F2 7.4 Tf
+322 414.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 414.7001 Td
+(A compiler directive) Tj
+ET
+BT
+/F2 8.0 Tf
+306 391.1001 Td
+(13.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 391.1001 Td
+(What are the three mutually exclusive states a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 381.9001 Td
+(Promise can exist in?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 370.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 370.2001 Td
+(Pending, Fulfilled, Rejected) Tj
+ET
+BT
+/F2 7.4 Tf
+322 360.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 360.6001 Td
+(Starting, Running, Finished) Tj
+ET
+BT
+/F2 7.4 Tf
+322 351.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 351.0001 Td
+(Open, Loading, Closed) Tj
+ET
+BT
+/F2 7.4 Tf
+322 341.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 341.4001 Td
+(Active, Inactive, Broken) Tj
+ET
+BT
+/F2 8.0 Tf
+306 317.8001 Td
+(14.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 317.8001 Td
+(Which method on a Promise registers callbacks to) Tj
+ET
+BT
+/F1 7.8 Tf
+322 308.6001 Td
+(handle its fulfilled value or rejection reason?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 296.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 296.9001 Td
+(promise.then\(onFulfilled, onRejected\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 287.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 287.3 Td
+(promise.done\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 277.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 277.7 Td
+(promise.resolve\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 268.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 268.1 Td
+(promise.complete\(\)) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 6 0 R /Resources << /Font << /F1 59 0 R /F2 60 0 R >> >> >>
+endobj
+6 0 obj
+<< /Length 9372 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 2 of 28) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(15.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Which method on a Promise registers a callback) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(to handle errors and rejections exclusively?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(promise.catch\(onRejected\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(promise.error\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(promise.fail\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(promise.handle\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(16.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(Which method on a Promise registers a callback) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(that executes unconditionally when the Promise) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.3 Td
+(settles, regardless of success or failure?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.6 Td
+(promise.finally\(callback\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.0001 Td
+(promise.always\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.4001 Td
+(promise.end\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 651.8001 Td
+(promise.settle\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 628.2001 Td
+(17.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(What syntax introduced in ES2017 provides clean,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.0001 Td
+(synchronous-looking syntax for working with) Tj
+ET
+BT
+/F1 7.8 Tf
+58 609.8001 Td
+(Promises?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 598.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 598.1001 Td
+(async / await) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.5001 Td
+(try / catch) Tj
+ET
+BT
+/F2 7.4 Tf
+58 578.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 578.9001 Td
+(yield / next) Tj
+ET
+BT
+/F2 7.4 Tf
+58 569.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 569.3002 Td
+(defer / return) Tj
+ET
+BT
+/F2 8.0 Tf
+42 545.7002 Td
+(18.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 545.7002 Td
+(The 'await' keyword can strictly only be used) Tj
+ET
+BT
+/F1 7.8 Tf
+58 536.5002 Td
+(inside:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.8002 Td
+(Functions declared with the 'async' keyword) Tj
+ET
+BT
+/F1 7.4 Tf
+72 516.2002 Td
+(\(or top-level modules in modern JS\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 506.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 506.6002 Td
+(Any standard for loop) Tj
+ET
+BT
+/F2 7.4 Tf
+58 497.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 497.0002 Td
+(Arrow functions without async) Tj
+ET
+BT
+/F2 7.4 Tf
+58 487.4002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 487.4002 Td
+(Global scripts in HTML4) Tj
+ET
+BT
+/F2 8.0 Tf
+42 463.8002 Td
+(19.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 463.8002 Td
+(What does an 'async' function always return) Tj
+ET
+BT
+/F1 7.8 Tf
+58 454.6002 Td
+(automatically?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 442.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 442.9001 Td
+(A Promise \(wrapping the returned value\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 433.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 433.3001 Td
+(A Generator) Tj
+ET
+BT
+/F2 7.4 Tf
+58 423.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 423.7001 Td
+(An XMLHttpRequest object) Tj
+ET
+BT
+/F2 7.4 Tf
+58 414.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 414.1001 Td
+(Undefined) Tj
+ET
+BT
+/F2 8.0 Tf
+42 390.5001 Td
+(20.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 390.5001 Td
+(How are errors caught and handled when using) Tj
+ET
+BT
+/F1 7.8 Tf
+58 381.3001 Td
+(async/await syntax in JavaScript?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 369.6001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 369.6001 Td
+(Using standard try...catch blocks) Tj
+ET
+BT
+/F2 7.4 Tf
+58 360.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 360.0001 Td
+(Using .catch\(\) chaining only) Tj
+ET
+BT
+/F2 7.4 Tf
+58 350.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 350.4001 Td
+(Using onError listeners) Tj
+ET
+BT
+/F2 7.4 Tf
+58 340.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 340.8001 Td
+(Errors cannot be caught in async functions) Tj
+ET
+BT
+/F2 8.0 Tf
+42 317.2001 Td
+(21.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 317.2001 Td
+(When calling `fetch\(url\)`, does a 404 Not Found) Tj
+ET
+BT
+/F1 7.8 Tf
+58 308.0001 Td
+(or 500 Internal Server Error cause the returned) Tj
+ET
+BT
+/F1 7.8 Tf
+58 298.8 Td
+(Promise to reject?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 287.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 287.1 Td
+(No: the Promise resolves normally; it only) Tj
+ET
+BT
+/F1 7.4 Tf
+72 278.5 Td
+(rejects on network failures or CORS blocks) Tj
+ET
+BT
+/F1 7.4 Tf
+72 269.9 Td
+(\(check `response.ok`\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 260.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 260.3 Td
+(Yes: all 4xx and 5xx reject automatically) Tj
+ET
+BT
+/F2 7.4 Tf
+58 250.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 250.7 Td
+(Yes: only 500 rejects) Tj
+ET
+BT
+/F2 7.4 Tf
+58 241.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 241.1 Td
+(It throws a fatal SyntaxError) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(22.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Which property on the Fetch API `Response`) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(object is true if the HTTP status code is in the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(range 200?299?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(response.ok) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.3 Td
+(response.success) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.7 Td
+(response.valid) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.1 Td
+(response.isDone) Tj
+ET
+BT
+/F2 8.0 Tf
+306 701.5001 Td
+(23.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(Which asynchronous method on the Fetch) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(`Response` parses the response body as JSON,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 683.1 Td
+(returning a Promise?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.4 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.4 Td
+(response.json\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.8 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.8 Td
+(response.toJson\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 652.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 652.2001 Td
+(response.parse\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 642.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 642.6001 Td
+(JSON.parse\(response\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 619.0001 Td
+(24.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(Which method on the Fetch `Response` extracts) Tj
+ET
+BT
+/F1 7.8 Tf
+322 609.8001 Td
+(the response payload as a plain text string?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 598.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 598.1001 Td
+(response.text\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.5001 Td
+(response.toString\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 578.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 578.9001 Td
+(response.string\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 569.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 569.3002 Td
+(response.body\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 545.7002 Td
+(25.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 545.7002 Td
+(What is jQuery in client-side web development?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 534.0002 Td
+(A lightweight, cross-platform JavaScript) Tj
+ET
+BT
+/F1 7.4 Tf
+336 525.4002 Td
+(library designed to simplify HTML DOM tree) Tj
+ET
+BT
+/F1 7.4 Tf
+336 516.8002 Td
+(traversal, manipulation, event handling, and) Tj
+ET
+BT
+/F1 7.4 Tf
+336 508.2002 Td
+(AJAX) Tj
+ET
+BT
+/F2 7.4 Tf
+322 498.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 498.6002 Td
+(A server-side programming language) Tj
+ET
+BT
+/F2 7.4 Tf
+322 489.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 489.0002 Td
+(A replacement for CSS) Tj
+ET
+BT
+/F2 7.4 Tf
+322 479.4002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 479.4002 Td
+(A database engine) Tj
+ET
+BT
+/F2 8.0 Tf
+306 455.8002 Td
+(26.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 455.8002 Td
+(What is the global factory function / shortcut) Tj
+ET
+BT
+/F1 7.8 Tf
+322 446.6002 Td
+(identifier used to access jQuery?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 434.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 434.9002 Td
+($ \(dollar sign\) or jQuery) Tj
+ET
+BT
+/F2 7.4 Tf
+322 425.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 425.3002 Td
+(# \(hash\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 415.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 415.7002 Td
+(@ \(at\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 406.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 406.1002 Td
+(& \(ampersand\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 382.5002 Td
+(27.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 382.5002 Td
+(How do you select all `<p>` elements with the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 373.3001 Td
+(class 'intro' in jQuery?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 361.6001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 361.6001 Td
+($\('p.intro'\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 352.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 352.0001 Td
+($\('p #intro'\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 342.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 342.4001 Td
+($\('.intro p'\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 332.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 332.8001 Td
+(jQuery.select\('p.intro'\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 309.2001 Td
+(28.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 309.2001 Td
+(Which jQuery method is used to ensure code) Tj
+ET
+BT
+/F1 7.8 Tf
+322 300.0001 Td
+(executes only after the entire DOM is ready for) Tj
+ET
+BT
+/F1 7.8 Tf
+322 290.8001 Td
+(manipulation?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 279.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 279.1001 Td
+($\(document\).ready\(function\(\) { ... }\) or) Tj
+ET
+BT
+/F1 7.4 Tf
+336 270.5001 Td
+($\(function\(\) { ... }\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 260.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 260.9001 Td
+($\(window\).load\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 251.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 251.3 Td
+($\(document\).start\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 241.7 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 241.7 Td
+($\(body\).ready\(\)) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 8 0 R /Resources << /Font << /F1 59 0 R /F2 60 0 R >> >> >>
+endobj
+8 0 obj
+<< /Length 9627 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 3 of 28) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(29.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Which jQuery method is used to hide selected) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(elements by setting display: none?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+($\('selector'\).hide\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+($\('selector'\).vanish\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+($\('selector'\).remove\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+($\('selector'\).invisible\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(30.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(Which jQuery method is used to reveal hidden) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(elements by restoring their display property?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+($\('selector'\).show\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+($\('selector'\).display\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+($\('selector'\).visible\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+($\('selector'\).appear\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(31.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(Which jQuery method toggles the visibility of) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(selected elements \(hiding if shown, showing if) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.0001 Td
+(hidden\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 607.3001 Td
+($\('selector'\).toggle\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.7001 Td
+($\('selector'\).switch\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.1002 Td
+($\('selector'\).flip\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 578.5002 Td
+($\('selector'\).alter\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 554.9002 Td
+(32.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(Which jQuery animation method smoothly fades an) Tj
+ET
+BT
+/F1 7.8 Tf
+58 545.7002 Td
+(element in by increasing its opacity to 1?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 534.0002 Td
+($\('selector'\).fadeIn\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.4002 Td
+($\('selector'\).fadeUp\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.8002 Td
+($\('selector'\).fadeVisible\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 505.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 505.2002 Td
+($\('selector'\).appear\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 481.6002 Td
+(33.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6002 Td
+(Which jQuery animation method smoothly slides an) Tj
+ET
+BT
+/F1 7.8 Tf
+58 472.4002 Td
+(element down into view?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.7002 Td
+($\('selector'\).slideDown\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 451.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 451.1002 Td
+($\('selector'\).slideIn\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.5002 Td
+($\('selector'\).slideOpen\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 431.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 431.9002 Td
+($\('selector'\).scrollDown\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 408.3002 Td
+(34.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 408.3002 Td
+(Which jQuery method sets or gets the text) Tj
+ET
+BT
+/F1 7.8 Tf
+58 399.1002 Td
+(content of selected elements \(equivalent to) Tj
+ET
+BT
+/F1 7.8 Tf
+58 389.9001 Td
+(textContent\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 378.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 378.2001 Td
+($\('selector'\).text\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 368.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 368.6001 Td
+($\('selector'\).val\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 359.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 359.0001 Td
+($\('selector'\).html\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 349.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 349.4001 Td
+($\('selector'\).content\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 325.8001 Td
+(35.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 325.8001 Td
+(Which jQuery method sets or gets the HTML) Tj
+ET
+BT
+/F1 7.8 Tf
+58 316.6001 Td
+(content inside selected elements \(equivalent to) Tj
+ET
+BT
+/F1 7.8 Tf
+58 307.4001 Td
+(innerHTML\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 295.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 295.7001 Td
+($\('selector'\).html\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 286.1001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 286.1001 Td
+($\('selector'\).text\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 276.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 276.5001 Td
+($\('selector'\).inner\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 266.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 266.9001 Td
+($\('selector'\).markup\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(36.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Which jQuery method sets or gets the value of) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(form input fields \(e.g. textboxes, selects\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+($\('selector'\).val\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+($\('selector'\).value\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+($\('selector'\).text\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+($\('selector'\).input\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(37.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(Which low-level jQuery AJAX method performs an) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(asynchronous HTTP request with configurable) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(settings?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.6 Td
+($.ajax\(settings\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.0001 Td
+($.fetch\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.4001 Td
+($.http\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 651.8001 Td
+($.request\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 628.2001 Td
+(38.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(Which shorthand jQuery AJAX method executes an) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(HTTP GET request to load data from the server?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.3001 Td
+($.get\(url, data, successCallback\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.7001 Td
+($.post\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.1002 Td
+($.load\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 578.5002 Td
+($.fetch\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 554.9002 Td
+(39.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(Which shorthand jQuery AJAX method sends data to) Tj
+ET
+BT
+/F1 7.8 Tf
+322 545.7002 Td
+(the server using an HTTP POST request?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 534.0002 Td
+($.post\(url, data, successCallback\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.4002 Td
+($.get\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.8002 Td
+($.send\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 505.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 505.2002 Td
+($.submit\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 481.6002 Td
+(40.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6002 Td
+(Which shorthand jQuery method loads HTML content) Tj
+ET
+BT
+/F1 7.8 Tf
+322 472.4002 Td
+(from a remote server URL and inserts it directly) Tj
+ET
+BT
+/F1 7.8 Tf
+322 463.2002 Td
+(into the selected DOM element?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 451.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 451.5002 Td
+($\('selector'\).load\(url\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.9002 Td
+($\('selector'\).import\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 432.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 432.3002 Td
+($\('selector'\).fetch\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 422.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 422.7002 Td
+($\('selector'\).insert\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 399.1002 Td
+(41.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 399.1002 Td
+(What was the critical code architecture problem) Tj
+ET
+BT
+/F1 7.8 Tf
+322 389.9001 Td
+(colloquially known as 'Callback Hell' \(or the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 380.7001 Td
+(Pyramid of Doom\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 369.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 369.0001 Td
+(Nesting deeply recursive asynchronous) Tj
+ET
+BT
+/F1 7.4 Tf
+336 360.4001 Td
+(callbacks inside other callbacks, making) Tj
+ET
+BT
+/F1 7.4 Tf
+336 351.8001 Td
+(error handling, debugging, and sequential) Tj
+ET
+BT
+/F1 7.4 Tf
+336 343.2001 Td
+(flow unreadable) Tj
+ET
+BT
+/F2 7.4 Tf
+322 333.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 333.6001 Td
+(A stack overflow caused by infinite loops) Tj
+ET
+BT
+/F2 7.4 Tf
+322 324.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 324.0001 Td
+(A browser crash from memory exhaustion) Tj
+ET
+BT
+/F2 7.4 Tf
+322 314.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 314.4001 Td
+(Slow network connections) Tj
+ET
+BT
+/F2 8.0 Tf
+306 290.8001 Td
+(42.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 290.8001 Td
+(How do Promises resolve the Callback Hell) Tj
+ET
+BT
+/F1 7.8 Tf
+322 281.6001 Td
+(problem?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 269.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 269.9001 Td
+(By allowing asynchronous operations to be) Tj
+ET
+BT
+/F1 7.4 Tf
+336 261.3 Td
+(flattened into readable linear chains using) Tj
+ET
+BT
+/F1 7.4 Tf
+336 252.7 Td
+(.then\(\) and centralized error handling via) Tj
+ET
+BT
+/F1 7.4 Tf
+336 244.1 Td
+(.catch\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 234.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 234.5 Td
+(By converting JavaScript to C++) Tj
+ET
+BT
+/F2 7.4 Tf
+322 224.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 224.9 Td
+(By making code synchronous and blocking) Tj
+ET
+BT
+/F2 7.4 Tf
+322 215.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 215.3 Td
+(By executing callbacks on the GPU) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 10 0 R /Resources << /Font << /F1 59 0 R /F2 60 0 R >> >> >>
+endobj
+10 0 obj
+<< /Length 11108 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 4 of 28) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(43.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What does `Promise.all\([p1, p2, p3]\)` do when) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(passed an array of Promises?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(Fulfills when ALL input promises fulfill,) Tj
+ET
+BT
+/F1 7.4 Tf
+72 754.5 Td
+(returning an array of resolved values;) Tj
+ET
+BT
+/F1 7.4 Tf
+72 745.9 Td
+(rejects IMMEDIATELY if any single promise) Tj
+ET
+BT
+/F1 7.4 Tf
+72 737.3 Td
+(rejects \(all-or-nothing\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 727.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 727.7001 Td
+(Waits for the fastest promise only) Tj
+ET
+BT
+/F2 7.4 Tf
+58 718.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 718.1001 Td
+(Returns settled states for all promises) Tj
+ET
+BT
+/F2 7.4 Tf
+58 708.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 708.5001 Td
+(Executes promises sequentially) Tj
+ET
+BT
+/F2 8.0 Tf
+42 684.9001 Td
+(44.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 684.9001 Td
+(What does `Promise.allSettled\([p1, p2, p3]\)` do) Tj
+ET
+BT
+/F1 7.8 Tf
+58 675.7001 Td
+(compared to `Promise.all\(\)`?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 664.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 664.0001 Td
+(Waits for ALL input promises to settle) Tj
+ET
+BT
+/F1 7.4 Tf
+72 655.4001 Td
+(\(either fulfill or reject\), returning an) Tj
+ET
+BT
+/F1 7.4 Tf
+72 646.8002 Td
+(array of descriptor objects: `{ status:) Tj
+ET
+BT
+/F1 7.4 Tf
+72 638.2002 Td
+('fulfilled', value }` or `{ status:) Tj
+ET
+BT
+/F1 7.4 Tf
+72 629.6002 Td
+('rejected', reason }`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 620.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 620.0002 Td
+(Rejects on the first failure) Tj
+ET
+BT
+/F2 7.4 Tf
+58 610.4003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 610.4003 Td
+(Only returns fulfilled values) Tj
+ET
+BT
+/F2 7.4 Tf
+58 600.8003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 600.8003 Td
+(Cancels pending requests) Tj
+ET
+BT
+/F2 8.0 Tf
+42 577.2003 Td
+(45.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 577.2003 Td
+(What does `Promise.race\([p1, p2, p3]\)` do?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 565.5003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 565.5003 Td
+(Settles \(fulfills or rejects\) as soon as the) Tj
+ET
+BT
+/F1 7.4 Tf
+72 556.9003 Td
+(FIRST promise among the input promises) Tj
+ET
+BT
+/F1 7.4 Tf
+72 548.3004 Td
+(settles, adopting that promise's value or) Tj
+ET
+BT
+/F1 7.4 Tf
+72 539.7004 Td
+(reason) Tj
+ET
+BT
+/F2 7.4 Tf
+58 530.1004 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 530.1004 Td
+(Waits for all to fulfill) Tj
+ET
+BT
+/F2 7.4 Tf
+58 520.5004 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 520.5004 Td
+(Returns the slowest promise) Tj
+ET
+BT
+/F2 7.4 Tf
+58 510.9004 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 510.9004 Td
+(Runs promises in parallel threads) Tj
+ET
+BT
+/F2 8.0 Tf
+42 487.3004 Td
+(46.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 487.3004 Td
+(What does `Promise.any\([p1, p2, p3]\)` do?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 475.6004 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 475.6004 Td
+(Fulfills as soon as the FIRST input promise) Tj
+ET
+BT
+/F1 7.4 Tf
+72 467.0004 Td
+(FULFILLS successfully; if all reject, it) Tj
+ET
+BT
+/F1 7.4 Tf
+72 458.4004 Td
+(rejects with an AggregateError) Tj
+ET
+BT
+/F2 7.4 Tf
+58 448.8004 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 448.8004 Td
+(Rejects if any promise rejects) Tj
+ET
+BT
+/F2 7.4 Tf
+58 439.2004 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 439.2004 Td
+(Waits for all to finish) Tj
+ET
+BT
+/F2 7.4 Tf
+58 429.6004 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 429.6004 Td
+(Selects a random promise) Tj
+ET
+BT
+/F2 8.0 Tf
+42 406.0004 Td
+(47.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 406.0004 Td
+(What is the purpose of the Same-Origin Policy) Tj
+ET
+BT
+/F1 7.8 Tf
+58 396.8004 Td
+(\(SOP\) enforced by web browsers?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 385.1003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 385.1003 Td
+(A critical security mechanism restricting) Tj
+ET
+BT
+/F1 7.4 Tf
+72 376.5003 Td
+(scripts on one origin from accessing or) Tj
+ET
+BT
+/F1 7.4 Tf
+72 367.9003 Td
+(reading resources from a different origin) Tj
+ET
+BT
+/F1 7.4 Tf
+72 359.3003 Td
+(\(domain, protocol, port\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 349.7003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 349.7003 Td
+(Prevents users from visiting foreign) Tj
+ET
+BT
+/F1 7.4 Tf
+72 341.1003 Td
+(websites) Tj
+ET
+BT
+/F2 7.4 Tf
+58 331.5003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 331.5003 Td
+(Restricts CSS animations) Tj
+ET
+BT
+/F2 7.4 Tf
+58 321.9003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 321.9003 Td
+(Blocks all HTTP requests) Tj
+ET
+BT
+/F2 8.0 Tf
+42 298.3003 Td
+(48.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 298.3003 Td
+(Which three components define a web 'Origin') Tj
+ET
+BT
+/F1 7.8 Tf
+58 289.1003 Td
+(under the Same-Origin Policy?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 277.4003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 277.4003 Td
+(Protocol \(scheme, e.g. https\), Hostname) Tj
+ET
+BT
+/F1 7.4 Tf
+72 268.8003 Td
+(\(domain\), and Port number \(e.g. :443\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 259.2003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 259.2003 Td
+(Domain name and path only) Tj
+ET
+BT
+/F2 7.4 Tf
+58 249.6003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 249.6003 Td
+(IP address and MAC address) Tj
+ET
+BT
+/F2 7.4 Tf
+58 240.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 240.0002 Td
+(URL and query parameters) Tj
+ET
+BT
+/F2 8.0 Tf
+42 216.4002 Td
+(49.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 216.4002 Td
+(What mechanism allows a web server to explicitly) Tj
+ET
+BT
+/F1 7.8 Tf
+58 207.2002 Td
+(permit cross-origin requests from browsers?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 195.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 195.5002 Td
+(Cross-Origin Resource Sharing \(CORS\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 185.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 185.9002 Td
+(Content Security Policy \(CSP\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 176.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 176.3002 Td
+(Domain Name System \(DNS\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 166.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 166.7002 Td
+(SameSite Cookies) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(50.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Which HTTP response header sent by the server) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(specifies which external origins are permitted) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(to access the resource?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(Access-Control-Allow-Origin) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.3 Td
+(Access-Control-Allow-Methods) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.7 Td
+(Access-Control-Allow-Headers) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.1 Td
+(Cross-Origin-Permit) Tj
+ET
+BT
+/F2 8.0 Tf
+306 701.5001 Td
+(51.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(What is a CORS 'Preflight Request'?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(An automatic preliminary HTTP OPTIONS) Tj
+ET
+BT
+/F1 7.4 Tf
+336 681.2001 Td
+(request dispatched by the browser before the) Tj
+ET
+BT
+/F1 7.4 Tf
+336 672.6001 Td
+(actual request to verify that the server) Tj
+ET
+BT
+/F1 7.4 Tf
+336 664.0001 Td
+(permits the custom method or headers) Tj
+ET
+BT
+/F2 7.4 Tf
+322 654.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 654.4001 Td
+(A DNS lookup request) Tj
+ET
+BT
+/F2 7.4 Tf
+322 644.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 644.8002 Td
+(A ping test to measure latency) Tj
+ET
+BT
+/F2 7.4 Tf
+322 635.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 635.2002 Td
+(A WebSocket handshake) Tj
+ET
+BT
+/F2 8.0 Tf
+306 611.6002 Td
+(52.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 611.6002 Td
+(Under what conditions does a browser trigger a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 602.4002 Td
+(CORS Preflight OPTIONS request?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 590.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 590.7002 Td
+(When the request uses HTTP methods other) Tj
+ET
+BT
+/F1 7.4 Tf
+336 582.1002 Td
+(than GET, POST, or HEAD, or sets custom) Tj
+ET
+BT
+/F1 7.4 Tf
+336 573.5002 Td
+(headers \(like Authorization\), or uses) Tj
+ET
+BT
+/F1 7.4 Tf
+336 564.9003 Td
+(Content-Type other than urlencoded,) Tj
+ET
+BT
+/F1 7.4 Tf
+336 556.3003 Td
+(form-data, or text/plain) Tj
+ET
+BT
+/F2 7.4 Tf
+322 546.7003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 546.7003 Td
+(On every single GET request) Tj
+ET
+BT
+/F2 7.4 Tf
+322 537.1003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 537.1003 Td
+(Only when cookies are enabled) Tj
+ET
+BT
+/F2 7.4 Tf
+322 527.5004 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 527.5004 Td
+(Only over HTTPS) Tj
+ET
+BT
+/F2 8.0 Tf
+306 503.9004 Td
+(53.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 503.9004 Td
+(Which header must be included in a Fetch request) Tj
+ET
+BT
+/F1 7.8 Tf
+322 494.7004 Td
+(to transmit and include cross-origin) Tj
+ET
+BT
+/F1 7.8 Tf
+322 485.5004 Td
+(authentication cookies?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 473.8004 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 473.8004 Td
+(`credentials: 'include'`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 464.2003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 464.2003 Td
+(`credentials: 'same-origin'`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 454.6003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 454.6003 Td
+(`auth: true`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 445.0003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 445.0003 Td
+(`cookies: 'allow'`) Tj
+ET
+BT
+/F2 8.0 Tf
+306 421.4003 Td
+(54.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 421.4003 Td
+(How do you send a POST request with a JSON) Tj
+ET
+BT
+/F1 7.8 Tf
+322 412.2003 Td
+(payload using the modern Fetch API?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 400.5003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 400.5003 Td
+(`fetch\(url, { method: 'POST', headers: {) Tj
+ET
+BT
+/F1 7.4 Tf
+336 391.9003 Td
+('Content-Type': 'application/json' }, body:) Tj
+ET
+BT
+/F1 7.4 Tf
+336 383.3003 Td
+(JSON.stringify\(data\) }\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 373.7003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 373.7003 Td
+(`fetch\(url, 'POST', data\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 364.1003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 364.1003 Td
+(`fetch.post\(url, data\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 354.5003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 354.5003 Td
+(`fetch\(url, { data }\)`) Tj
+ET
+BT
+/F2 8.0 Tf
+306 330.9003 Td
+(55.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 330.9003 Td
+(What is the WebSocket API in HTML5 and) Tj
+ET
+BT
+/F1 7.8 Tf
+322 321.7003 Td
+(JavaScript?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 310.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 310.0002 Td
+(A protocol providing full-duplex,) Tj
+ET
+BT
+/F1 7.4 Tf
+336 301.4002 Td
+(bidirectional, persistent communication) Tj
+ET
+BT
+/F1 7.4 Tf
+336 292.8002 Td
+(channels over a single TCP socket connection) Tj
+ET
+BT
+/F1 7.4 Tf
+336 284.2002 Td
+(between client and server) Tj
+ET
+BT
+/F2 7.4 Tf
+322 274.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 274.6002 Td
+(A replacement for HTTP GET) Tj
+ET
+BT
+/F2 7.4 Tf
+322 265.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 265.0002 Td
+(A tool to download video streams) Tj
+ET
+BT
+/F2 7.4 Tf
+322 255.4002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 255.4002 Td
+(A local browser database) Tj
+ET
+BT
+/F2 8.0 Tf
+306 231.8002 Td
+(56.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 231.8002 Td
+(How is a persistent WebSocket connection) Tj
+ET
+BT
+/F1 7.8 Tf
+322 222.6002 Td
+(initiated in JavaScript?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 210.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 210.9002 Td
+(const socket = new) Tj
+ET
+BT
+/F1 7.4 Tf
+336 202.3002 Td
+(WebSocket\('wss://example.com/socket'\);) Tj
+ET
+BT
+/F2 7.4 Tf
+322 192.7002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 192.7002 Td
+(const socket = new Socket\('http://...'\);) Tj
+ET
+BT
+/F2 7.4 Tf
+322 183.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 183.1002 Td
+(const socket = WebSocket.connect\(\);) Tj
+ET
+BT
+/F2 7.4 Tf
+322 173.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 173.5002 Td
+(const socket = fetch.socket\(\);) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 12 0 R /Resources << /Font << /F1 59 0 R /F2 60 0 R >> >> >>
+endobj
+12 0 obj
+<< /Length 11570 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 5 of 28) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(57.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Which event handler on a WebSocket instance is) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(invoked when data arrives from the server?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(socket.onmessage = \(event\) => {) Tj
+ET
+BT
+/F1 7.4 Tf
+72 754.5 Td
+(console.log\(event.data\); };) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.9 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.9 Td
+(socket.ondata) Tj
+ET
+BT
+/F2 7.4 Tf
+58 735.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 735.3 Td
+(socket.onreceive) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.7001 Td
+(socket.onread) Tj
+ET
+BT
+/F2 8.0 Tf
+42 702.1001 Td
+(58.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 702.1001 Td
+(How do you transmit data to the server across an) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.9001 Td
+(open WebSocket connection?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 681.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 681.2001 Td
+(socket.send\(payload\);) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.6001 Td
+(socket.emit\(payload\);) Tj
+ET
+BT
+/F2 7.4 Tf
+58 662.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 662.0001 Td
+(socket.post\(payload\);) Tj
+ET
+BT
+/F2 7.4 Tf
+58 652.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 652.4001 Td
+(socket.write\(payload\);) Tj
+ET
+BT
+/F2 8.0 Tf
+42 628.8002 Td
+(59.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.8002 Td
+(How do WebSockets differ fundamentally from HTTP) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.6002 Td
+(polling or long-polling?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 607.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 607.9001 Td
+(WebSockets establish a permanent open TCP) Tj
+ET
+BT
+/F1 7.4 Tf
+72 599.3002 Td
+(channel with minimal 2-byte framing) Tj
+ET
+BT
+/F1 7.4 Tf
+72 590.7002 Td
+(overhead; polling repeatedly opens new HTTP) Tj
+ET
+BT
+/F1 7.4 Tf
+72 582.1002 Td
+(connections with bulky headers) Tj
+ET
+BT
+/F2 7.4 Tf
+58 572.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 572.5002 Td
+(WebSockets only send images) Tj
+ET
+BT
+/F2 7.4 Tf
+58 562.9003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 562.9003 Td
+(HTTP polling is faster) Tj
+ET
+BT
+/F2 7.4 Tf
+58 553.3003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 553.3003 Td
+(WebSockets are unidirectional) Tj
+ET
+BT
+/F2 8.0 Tf
+42 529.7003 Td
+(60.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 529.7003 Td
+(What is Server-Sent Events \(SSE\) using) Tj
+ET
+BT
+/F1 7.8 Tf
+58 520.5003 Td
+(EventSource, and how does it differ from) Tj
+ET
+BT
+/F1 7.8 Tf
+58 511.3003 Td
+(WebSockets?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 499.6003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 499.6003 Td
+(SSE provides lightweight, unidirectional) Tj
+ET
+BT
+/F1 7.4 Tf
+72 491.0003 Td
+(\(Server-to-Client\) real-time streaming over) Tj
+ET
+BT
+/F1 7.4 Tf
+72 482.4003 Td
+(standard HTTP; WebSockets provide full) Tj
+ET
+BT
+/F1 7.4 Tf
+72 473.8003 Td
+(bidirectional messaging) Tj
+ET
+BT
+/F2 7.4 Tf
+58 464.2003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 464.2003 Td
+(SSE is bidirectional; WebSockets are) Tj
+ET
+BT
+/F1 7.4 Tf
+72 455.6003 Td
+(unidirectional) Tj
+ET
+BT
+/F2 7.4 Tf
+58 446.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 446.0002 Td
+(SSE requires binary UDP protocols) Tj
+ET
+BT
+/F2 7.4 Tf
+58 436.4002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 436.4002 Td
+(SSE is deprecated) Tj
+ET
+BT
+/F2 8.0 Tf
+42 412.8002 Td
+(61.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 412.8002 Td
+(How does jQuery method chaining work \(e.g.,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 403.6002 Td
+(`$\('#box'\).fadeIn\(\).css\('color',) Tj
+ET
+BT
+/F1 7.8 Tf
+58 394.4002 Td
+('red'\).slideUp\(\);`\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 382.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 382.7002 Td
+(Most jQuery manipulation methods return the) Tj
+ET
+BT
+/F1 7.4 Tf
+72 374.1002 Td
+(jQuery object instance \(`this`\), allowing) Tj
+ET
+BT
+/F1 7.4 Tf
+72 365.5002 Td
+(subsequent methods to be called immediately) Tj
+ET
+BT
+/F1 7.4 Tf
+72 356.9002 Td
+(in sequence) Tj
+ET
+BT
+/F2 7.4 Tf
+58 347.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 347.3002 Td
+(By executing methods in parallel threads) Tj
+ET
+BT
+/F2 7.4 Tf
+58 337.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 337.7002 Td
+(Using Promise.all under the hood) Tj
+ET
+BT
+/F2 7.4 Tf
+58 328.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 328.1002 Td
+(Through JavaScript prototypes only) Tj
+ET
+BT
+/F2 8.0 Tf
+42 304.5002 Td
+(62.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 304.5002 Td
+(What does the jQuery method `$.param\(object\)`) Tj
+ET
+BT
+/F1 7.8 Tf
+58 295.3001 Td
+(do?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 283.6001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 283.6001 Td
+(Serializes an object or array into a) Tj
+ET
+BT
+/F1 7.4 Tf
+72 275.0001 Td
+(standard URL query string format suitable) Tj
+ET
+BT
+/F1 7.4 Tf
+72 266.4001 Td
+(for HTTP GET/POST parameters) Tj
+ET
+BT
+/F2 7.4 Tf
+58 256.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 256.8001 Td
+(Converts object to JSON) Tj
+ET
+BT
+/F2 7.4 Tf
+58 247.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 247.2001 Td
+(Calculates object memory size) Tj
+ET
+BT
+/F2 7.4 Tf
+58 237.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 237.6001 Td
+(Validates object keys) Tj
+ET
+BT
+/F2 8.0 Tf
+42 214.0001 Td
+(63.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 214.0001 Td
+(In jQuery, what does `event.preventDefault\(\)`) Tj
+ET
+BT
+/F1 7.8 Tf
+58 204.8001 Td
+(accomplish compared to `return false` inside an) Tj
+ET
+BT
+/F1 7.8 Tf
+58 195.6001 Td
+(event handler?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 183.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 183.9001 Td
+(`preventDefault\(\)` halts default browser) Tj
+ET
+BT
+/F1 7.4 Tf
+72 175.3001 Td
+(action; `return false` in jQuery halts) Tj
+ET
+BT
+/F1 7.4 Tf
+72 166.7001 Td
+(default action AND calls `stopPropagation\(\)`) Tj
+ET
+BT
+/F1 7.4 Tf
+72 158.1001 Td
+(simultaneously) Tj
+ET
+BT
+/F2 7.4 Tf
+58 148.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 148.5001 Td
+(They are identical in all JavaScript) Tj
+ET
+BT
+/F2 7.4 Tf
+58 138.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 138.9001 Td
+(`return false` only works in React) Tj
+ET
+BT
+/F2 7.4 Tf
+58 129.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 129.3001 Td
+(preventDefault throws an exception) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(64.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(How do you perform Event Delegation in jQuery?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 772.3 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 772.3 Td
+(`$\('#parent'\).on\('click', '.child-selector',) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.7 Td
+(handler\);`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 754.1 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 754.1 Td
+(`$\('.child-selector'\).delegate\('click',) Tj
+ET
+BT
+/F1 7.4 Tf
+336 745.5001 Td
+(handler\);`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 735.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 735.9001 Td
+(`$\('#parent'\).delegateClick\('.child',) Tj
+ET
+BT
+/F1 7.4 Tf
+336 727.3001 Td
+(handler\);`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 717.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 717.7001 Td
+(`$.delegate\('#parent', '.child', handler\);`) Tj
+ET
+BT
+/F2 8.0 Tf
+306 694.1002 Td
+(65.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 694.1002 Td
+(What does the method `Promise.resolve\(value\)`) Tj
+ET
+BT
+/F1 7.8 Tf
+322 684.9001 Td
+(do?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 673.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 673.2001 Td
+(Returns a Promise object that is already) Tj
+ET
+BT
+/F1 7.4 Tf
+336 664.6002 Td
+(fulfilled with the given value) Tj
+ET
+BT
+/F2 7.4 Tf
+322 655.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 655.0002 Td
+(Forces a promise to re-execute) Tj
+ET
+BT
+/F2 7.4 Tf
+322 645.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 645.4002 Td
+(Clears a promise queue) Tj
+ET
+BT
+/F2 7.4 Tf
+322 635.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 635.8002 Td
+(Converts a promise to a synchronous value) Tj
+ET
+BT
+/F2 8.0 Tf
+306 612.2003 Td
+(66.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 612.2003 Td
+(What does the method `Promise.reject\(reason\)`) Tj
+ET
+BT
+/F1 7.8 Tf
+322 603.0002 Td
+(do?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 591.3002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 591.3002 Td
+(Returns a Promise object that is rejected) Tj
+ET
+BT
+/F1 7.4 Tf
+336 582.7003 Td
+(with the given reason or error) Tj
+ET
+BT
+/F2 7.4 Tf
+322 573.1003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 573.1003 Td
+(Aborts all active network requests) Tj
+ET
+BT
+/F2 7.4 Tf
+322 563.5003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 563.5003 Td
+(Disables promise catching) Tj
+ET
+BT
+/F2 7.4 Tf
+322 553.9003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 553.9003 Td
+(Throws a fatal JavaScript error) Tj
+ET
+BT
+/F2 8.0 Tf
+306 530.3004 Td
+(67.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 530.3004 Td
+(In async/await, what happens if an awaited) Tj
+ET
+BT
+/F1 7.8 Tf
+322 521.1003 Td
+(Promise rejects and there is no surrounding) Tj
+ET
+BT
+/F1 7.8 Tf
+322 511.9003 Td
+(try...catch block?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 500.2003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 500.2003 Td
+(The unhandled rejection causes the async) Tj
+ET
+BT
+/F1 7.4 Tf
+336 491.6003 Td
+(function's returned Promise to reject,) Tj
+ET
+BT
+/F1 7.4 Tf
+336 483.0003 Td
+(triggering an 'UnhandledPromiseRejection') Tj
+ET
+BT
+/F1 7.4 Tf
+336 474.4003 Td
+(warning/error) Tj
+ET
+BT
+/F2 7.4 Tf
+322 464.8003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 464.8003 Td
+(The browser reloads the page) Tj
+ET
+BT
+/F2 7.4 Tf
+322 455.2003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 455.2003 Td
+(The program pauses indefinitely) Tj
+ET
+BT
+/F2 7.4 Tf
+322 445.6003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 445.6003 Td
+(It silently sets the variable to null) Tj
+ET
+BT
+/F2 8.0 Tf
+306 422.0003 Td
+(68.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 422.0003 Td
+(How can you implement a sleep/delay function in) Tj
+ET
+BT
+/F1 7.8 Tf
+322 412.8003 Td
+(modern JavaScript using Promises and) Tj
+ET
+BT
+/F1 7.8 Tf
+322 403.6003 Td
+(async/await?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 391.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 391.9002 Td
+(const sleep = ms => new Promise\(resolve =>) Tj
+ET
+BT
+/F1 7.4 Tf
+336 383.3002 Td
+(setTimeout\(resolve, ms\)\); await sleep\(2000\);) Tj
+ET
+BT
+/F2 7.4 Tf
+322 373.7002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 373.7002 Td
+(window.sleep\(2000\);) Tj
+ET
+BT
+/F2 7.4 Tf
+322 364.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 364.1002 Td
+(thread.sleep\(2000\);) Tj
+ET
+BT
+/F2 7.4 Tf
+322 354.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 354.5002 Td
+(await setTimeout\(2000\);) Tj
+ET
+BT
+/F2 8.0 Tf
+306 330.9002 Td
+(69.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 330.9002 Td
+(What is the difference between sequential) Tj
+ET
+BT
+/F1 7.8 Tf
+322 321.7002 Td
+(execution and parallel execution when using) Tj
+ET
+BT
+/F1 7.8 Tf
+322 312.5002 Td
+(async/await?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 300.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 300.8002 Td
+(Awaiting promises sequentially in a loop) Tj
+ET
+BT
+/F1 7.4 Tf
+336 292.2002 Td
+(pauses on each step; firing promises first) Tj
+ET
+BT
+/F1 7.4 Tf
+336 283.6002 Td
+(and awaiting with `Promise.all\(\)` executes) Tj
+ET
+BT
+/F1 7.4 Tf
+336 275.0002 Td
+(them concurrently) Tj
+ET
+BT
+/F2 7.4 Tf
+322 265.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 265.4001 Td
+(Parallel execution requires 4 CPU cores) Tj
+ET
+BT
+/F2 7.4 Tf
+322 255.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 255.8001 Td
+(Sequential execution is faster) Tj
+ET
+BT
+/F2 7.4 Tf
+322 246.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 246.2001 Td
+(Parallel execution cannot catch errors) Tj
+ET
+BT
+/F2 8.0 Tf
+306 222.6001 Td
+(70.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 222.6001 Td
+(What is JSONP \(JSON with Padding\), historically) Tj
+ET
+BT
+/F1 7.8 Tf
+322 213.4001 Td
+(used to bypass Same-Origin Policy before CORS?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 201.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 201.7001 Td
+(A legacy technique where a `<script>` tag) Tj
+ET
+BT
+/F1 7.4 Tf
+336 193.1001 Td
+(was dynamically inserted to request data) Tj
+ET
+BT
+/F1 7.4 Tf
+336 184.5001 Td
+(wrapped in a client-side callback function) Tj
+ET
+BT
+/F1 7.4 Tf
+336 175.9001 Td
+(execution) Tj
+ET
+BT
+/F2 7.4 Tf
+322 166.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 166.3001 Td
+(An encrypted JSON format) Tj
+ET
+BT
+/F2 7.4 Tf
+322 156.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 156.7001 Td
+(A compression tool for JSON) Tj
+ET
+BT
+/F2 7.4 Tf
+322 147.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 147.1001 Td
+(A protocol for binary sockets) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 14 0 R /Resources << /Font << /F1 59 0 R /F2 60 0 R >> >> >>
+endobj
+14 0 obj
+<< /Length 12526 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 6 of 28) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(71.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Why was JSONP vulnerable to severe security) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(risks?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(It executes arbitrary JavaScript received) Tj
+ET
+BT
+/F1 7.4 Tf
+72 754.5 Td
+(from a third-party server directly with full) Tj
+ET
+BT
+/F1 7.4 Tf
+72 745.9 Td
+(page privileges, exposing sites to remote) Tj
+ET
+BT
+/F1 7.4 Tf
+72 737.3 Td
+(script injection \(XSS\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 727.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 727.7001 Td
+(It drained device battery) Tj
+ET
+BT
+/F2 7.4 Tf
+58 718.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 718.1001 Td
+(It bypassed SSL certificates) Tj
+ET
+BT
+/F2 7.4 Tf
+58 708.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 708.5001 Td
+(It disabled HTML forms) Tj
+ET
+BT
+/F2 8.0 Tf
+42 684.9001 Td
+(72.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 684.9001 Td
+(What does the `AbortController` API allow you to) Tj
+ET
+BT
+/F1 7.8 Tf
+58 675.7001 Td
+(do with a Fetch API request?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 664.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 664.0001 Td
+(Cancel an ongoing in-flight HTTP request) Tj
+ET
+BT
+/F1 7.4 Tf
+72 655.4001 Td
+(programmatically via its `signal` property) Tj
+ET
+BT
+/F2 7.4 Tf
+58 645.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 645.8002 Td
+(Pause and resume a download midway) Tj
+ET
+BT
+/F2 7.4 Tf
+58 636.2002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 636.2002 Td
+(Speed up download bandwidth) Tj
+ET
+BT
+/F2 7.4 Tf
+58 626.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 626.6002 Td
+(Encrypt request payloads) Tj
+ET
+BT
+/F2 8.0 Tf
+42 603.0002 Td
+(73.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 603.0002 Td
+(Which modern browser API provides low-level) Tj
+ET
+BT
+/F1 7.8 Tf
+58 593.8002 Td
+(streaming access to fetch response bodies as) Tj
+ET
+BT
+/F1 7.8 Tf
+58 584.6002 Td
+(chunks arrive over the wire?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 572.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 572.9002 Td
+(Streams API \(ReadableStream via) Tj
+ET
+BT
+/F1 7.4 Tf
+72 564.3002 Td
+(`response.body.getReader\(\)`\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 554.7003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 554.7003 Td
+(WebSocket API) Tj
+ET
+BT
+/F2 7.4 Tf
+58 545.1003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 545.1003 Td
+(FileReader API) Tj
+ET
+BT
+/F2 7.4 Tf
+58 535.5003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 535.5003 Td
+(ChunkParser API) Tj
+ET
+BT
+/F2 8.0 Tf
+42 511.9003 Td
+(74.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 511.9003 Td
+(How do you upload a file with additional form) Tj
+ET
+BT
+/F1 7.8 Tf
+58 502.7003 Td
+(metadata using Fetch and FormData?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 491.0003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 491.0003 Td
+(const fd = new FormData\(\); fd.append\('file',) Tj
+ET
+BT
+/F1 7.4 Tf
+72 482.4003 Td
+(fileInput.files[0]\); fd.append\('user',) Tj
+ET
+BT
+/F1 7.4 Tf
+72 473.8003 Td
+('John'\); fetch\(url, { method: 'POST', body:) Tj
+ET
+BT
+/F1 7.4 Tf
+72 465.2003 Td
+(fd }\);) Tj
+ET
+BT
+/F2 7.4 Tf
+58 455.6003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 455.6003 Td
+(Send as JSON string) Tj
+ET
+BT
+/F2 7.4 Tf
+58 446.0003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 446.0003 Td
+(Encode file as hex string in URL) Tj
+ET
+BT
+/F2 7.4 Tf
+58 436.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 436.4003 Td
+(Use HTTP GET with file query param) Tj
+ET
+BT
+/F2 8.0 Tf
+42 412.8003 Td
+(75.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 412.8003 Td
+(Why should you NEVER manually set the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 403.6003 Td
+(`Content-Type: multipart/form-data` header when) Tj
+ET
+BT
+/F1 7.8 Tf
+58 394.4002 Td
+(sending FormData via Fetch?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 382.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 382.7002 Td
+(The browser must set it automatically along) Tj
+ET
+BT
+/F1 7.4 Tf
+72 374.1002 Td
+(with the required unique multipart boundary) Tj
+ET
+BT
+/F1 7.4 Tf
+72 365.5002 Td
+(string \(e.g.,) Tj
+ET
+BT
+/F1 7.4 Tf
+72 356.9002 Td
+(boundary=----WebKitFormBoundary...\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 347.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 347.3002 Td
+(Fetch does not support multipart) Tj
+ET
+BT
+/F2 7.4 Tf
+58 337.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 337.7002 Td
+(It throws a CORS error) Tj
+ET
+BT
+/F2 7.4 Tf
+58 328.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 328.1002 Td
+(It overwrites the request URL) Tj
+ET
+BT
+/F2 8.0 Tf
+42 304.5002 Td
+(76.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 304.5002 Td
+(What is the exact execution order of the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 295.3002 Td
+(following) Tj
+ET
+BT
+/F1 7.8 Tf
+58 286.1002 Td
+(snippet: `console.log\('1'\); setTimeout\(\(\) =>) Tj
+ET
+BT
+/F1 7.8 Tf
+58 276.9001 Td
+(console.log\('2'\), 0\); Promise.resolve\(\).then\(\(\)) Tj
+ET
+BT
+/F1 7.8 Tf
+58 267.7001 Td
+(=> console.log\('3'\)\).then\(\(\) =>) Tj
+ET
+BT
+/F1 7.8 Tf
+58 258.5001 Td
+(console.log\('4'\)\); console.log\('5'\);`?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 246.8001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 246.8001 Td
+('1', '5', '3', '4', '2') Tj
+ET
+BT
+/F2 7.4 Tf
+58 237.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 237.2001 Td
+('1', '2', '3', '4', '5') Tj
+ET
+BT
+/F2 7.4 Tf
+58 227.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 227.6001 Td
+('1', '5', '2', '3', '4') Tj
+ET
+BT
+/F2 7.4 Tf
+58 218.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 218.0001 Td
+('1', '3', '4', '5', '2') Tj
+ET
+BT
+/F2 8.0 Tf
+42 194.4001 Td
+(77.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 194.4001 Td
+(Why does Promise chaining execute microtasks '3') Tj
+ET
+BT
+/F1 7.8 Tf
+58 185.2001 Td
+(and '4' before the timer task '2' in Q76?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 173.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 173.5001 Td
+(Microtasks \(Promises\) have higher scheduling) Tj
+ET
+BT
+/F1 7.4 Tf
+72 164.9001 Td
+(priority than Macrotasks \(setTimeout\); the) Tj
+ET
+BT
+/F1 7.4 Tf
+72 156.3001 Td
+(event loop drains the entire microtask queue) Tj
+ET
+BT
+/F1 7.4 Tf
+72 147.7001 Td
+(before picking the next macrotask) Tj
+ET
+BT
+/F2 7.4 Tf
+58 138.1001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 138.1001 Td
+(setTimeout\(0\) has a mandatory 100ms delay) Tj
+ET
+BT
+/F2 7.4 Tf
+58 128.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 128.5001 Td
+(Promises compile into CPU hardware) Tj
+ET
+BT
+/F1 7.4 Tf
+72 119.9001 Td
+(interrupts) Tj
+ET
+BT
+/F2 7.4 Tf
+58 110.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 110.3001 Td
+(Macrotasks only run after page reload) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(78.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What is the result of the following async) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(code: `async function test\(\) { ) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(console.log\('A'\);  await null; ) Tj
+ET
+BT
+/F1 7.8 Tf
+322 756.4 Td
+(console.log\('B'\); } test\(\); console.log\('C'\);`?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.7 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.7 Td
+('A', 'C', 'B' \(A runs synchronously; 'await') Tj
+ET
+BT
+/F1 7.4 Tf
+336 736.1 Td
+(pauses function and queues microtask;) Tj
+ET
+BT
+/F1 7.4 Tf
+336 727.5 Td
+(synchronous code logs C; then microtask logs) Tj
+ET
+BT
+/F1 7.4 Tf
+336 718.9 Td
+(B\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 709.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 709.3 Td
+('A', 'B', 'C') Tj
+ET
+BT
+/F2 7.4 Tf
+322 699.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 699.7001 Td
+('C', 'A', 'B') Tj
+ET
+BT
+/F2 7.4 Tf
+322 690.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 690.1001 Td
+('B', 'A', 'C') Tj
+ET
+BT
+/F2 8.0 Tf
+306 668.0001 Td
+(79.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 668.0001 Td
+(How do you implement a robust retry mechanism) Tj
+ET
+BT
+/F1 7.8 Tf
+322 658.8001 Td
+(with exponential backoff for a failing Fetch) Tj
+ET
+BT
+/F1 7.8 Tf
+322 649.6001 Td
+(request?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 637.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 637.9001 Td
+(Catch failure, wait for `baseDelay * \(2 **) Tj
+ET
+BT
+/F1 7.4 Tf
+336 629.3001 Td
+(attempt\)` ms, and recursively retry until) Tj
+ET
+BT
+/F1 7.4 Tf
+336 620.7001 Td
+(reaching maxRetries) Tj
+ET
+BT
+/F2 7.4 Tf
+322 611.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 611.1002 Td
+(Use while\(true\) loop without delay) Tj
+ET
+BT
+/F2 7.4 Tf
+322 601.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 601.5002 Td
+(Call window.reload\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 591.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 591.9002 Td
+(Increase timeout to 60 seconds) Tj
+ET
+BT
+/F2 8.0 Tf
+306 569.8002 Td
+(80.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 569.8002 Td
+(What is an 'AggregateError' in JavaScript, and) Tj
+ET
+BT
+/F1 7.8 Tf
+322 560.6002 Td
+(when is it instantiated?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 548.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 548.9002 Td
+(A specialized Error subclass grouping) Tj
+ET
+BT
+/F1 7.4 Tf
+336 540.3002 Td
+(multiple independent errors together, thrown) Tj
+ET
+BT
+/F1 7.4 Tf
+336 531.7003 Td
+(by `Promise.any\(\)` when all input promises) Tj
+ET
+BT
+/F1 7.4 Tf
+336 523.1003 Td
+(reject) Tj
+ET
+BT
+/F2 7.4 Tf
+322 513.5003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 513.5003 Td
+(An error thrown when JSON parsing fails) Tj
+ET
+BT
+/F2 7.4 Tf
+322 503.9003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 503.9003 Td
+(A network timeout error) Tj
+ET
+BT
+/F2 7.4 Tf
+322 494.3003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 494.3003 Td
+(A database connection error) Tj
+ET
+BT
+/F2 8.0 Tf
+306 472.2003 Td
+(81.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 472.2003 Td
+(What is the difference between) Tj
+ET
+BT
+/F1 7.8 Tf
+322 463.0003 Td
+(`Promise.prototype.then\(success, fail\)` and) Tj
+ET
+BT
+/F1 7.8 Tf
+322 453.8003 Td
+(`Promise.prototype.then\(success\).catch\(fail\)`?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 442.1003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 442.1003 Td
+(The former cannot catch errors thrown inside) Tj
+ET
+BT
+/F1 7.4 Tf
+336 433.5002 Td
+(its OWN success callback; the chained) Tj
+ET
+BT
+/F1 7.4 Tf
+336 424.9002 Td
+(`.catch\(\)` catches errors thrown in both the) Tj
+ET
+BT
+/F1 7.4 Tf
+336 416.3002 Td
+(promise AND the preceding success handler) Tj
+ET
+BT
+/F2 7.4 Tf
+322 406.7002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 406.7002 Td
+(They are 100% functionally identical) Tj
+ET
+BT
+/F2 7.4 Tf
+322 397.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 397.1002 Td
+(The former is faster) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.5002 Td
+(The latter ignores network errors) Tj
+ET
+BT
+/F2 8.0 Tf
+306 365.4002 Td
+(82.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 365.4002 Td
+(What happens if a Promise executor function) Tj
+ET
+BT
+/F1 7.8 Tf
+322 356.2002 Td
+(contains both `resolve\('val'\)` and) Tj
+ET
+BT
+/F1 7.8 Tf
+322 347.0002 Td
+(`reject\('err'\)` sequentially?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 335.3002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 335.3002 Td
+(The first call wins \(`resolve\('val'\)`\);) Tj
+ET
+BT
+/F1 7.4 Tf
+336 326.7002 Td
+(subsequent state change calls are) Tj
+ET
+BT
+/F1 7.4 Tf
+336 318.1002 Td
+(permanently ignored because Promises settle) Tj
+ET
+BT
+/F1 7.4 Tf
+336 309.5002 Td
+(at most once) Tj
+ET
+BT
+/F2 7.4 Tf
+322 299.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 299.9001 Td
+(It throws a TypeError) Tj
+ET
+BT
+/F2 7.4 Tf
+322 290.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 290.3001 Td
+(It switches to rejected) Tj
+ET
+BT
+/F2 7.4 Tf
+322 280.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 280.7001 Td
+(Both callbacks fire) Tj
+ET
+BT
+/F2 8.0 Tf
+306 258.6001 Td
+(83.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 258.6001 Td
+(How does the browser handle CORS credentials) Tj
+ET
+BT
+/F1 7.8 Tf
+322 249.4001 Td
+(when `Access-Control-Allow-Origin: *` \(wildcard\)) Tj
+ET
+BT
+/F1 7.8 Tf
+322 240.2001 Td
+(is returned by the server?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 228.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 228.5001 Td
+(The browser strictly blocks the response and) Tj
+ET
+BT
+/F1 7.4 Tf
+336 219.9001 Td
+(throws a CORS error if `credentials:) Tj
+ET
+BT
+/F1 7.4 Tf
+336 211.3001 Td
+('include'` is set; credentials mandate an) Tj
+ET
+BT
+/F1 7.4 Tf
+336 202.7001 Td
+(explicit origin) Tj
+ET
+BT
+/F2 7.4 Tf
+322 193.1001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 193.1001 Td
+(The browser accepts cookies anyway) Tj
+ET
+BT
+/F2 7.4 Tf
+322 183.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 183.5001 Td
+(The browser caches the response) Tj
+ET
+BT
+/F2 7.4 Tf
+322 173.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 173.9001 Td
+(The browser encrypts the cookie) Tj
+ET
+BT
+/F2 8.0 Tf
+306 151.8001 Td
+(84.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 151.8001 Td
+(What is the purpose of the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 142.6001 Td
+(`Access-Control-Max-Age` response header in CORS) Tj
+ET
+BT
+/F1 7.8 Tf
+322 133.4001 Td
+(negotiations?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 121.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 121.7001 Td
+(Specifies how many seconds the browser is) Tj
+ET
+BT
+/F1 7.4 Tf
+336 113.1001 Td
+(permitted to cache the preflight OPTIONS) Tj
+ET
+BT
+/F1 7.4 Tf
+336 104.5001 Td
+(response, avoiding repeated preflights for) Tj
+ET
+BT
+/F1 7.4 Tf
+336 95.90009 Td
+(subsequent requests) Tj
+ET
+BT
+/F2 7.4 Tf
+322 86.30009 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 86.30009 Td
+(Sets session cookie lifetime) Tj
+ET
+BT
+/F2 7.4 Tf
+322 76.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 76.7001 Td
+(Limits file download duration) Tj
+ET
+BT
+/F2 7.4 Tf
+322 67.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 67.1001 Td
+(Sets WebSocket keepalive ping interval) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 16 0 R /Resources << /Font << /F1 59 0 R /F2 60 0 R >> >> >>
+endobj
+16 0 obj
+<< /Length 12030 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 7 of 28) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(85.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What is Request Deduplication in frontend data) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(fetching architectures?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(Caching in-flight HTTP requests so that) Tj
+ET
+BT
+/F1 7.4 Tf
+72 754.5 Td
+(multiple simultaneous components requesting) Tj
+ET
+BT
+/F1 7.4 Tf
+72 745.9 Td
+(identical URLs share a single network call) Tj
+ET
+BT
+/F1 7.4 Tf
+72 737.3 Td
+(rather than duplicating traffic) Tj
+ET
+BT
+/F2 7.4 Tf
+58 727.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 727.7001 Td
+(Compressing duplicate headers) Tj
+ET
+BT
+/F2 7.4 Tf
+58 718.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 718.1001 Td
+(Deleting duplicate cookies) Tj
+ET
+BT
+/F2 7.4 Tf
+58 708.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 708.5001 Td
+(Filtering out duplicate CSS files) Tj
+ET
+BT
+/F2 8.0 Tf
+42 684.9001 Td
+(86.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 684.9001 Td
+(How can you implement a request timeout with) Tj
+ET
+BT
+/F1 7.8 Tf
+58 675.7001 Td
+(`AbortController` in modern JavaScript Fetch?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 664.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 664.0001 Td
+(const c = new AbortController\(\);) Tj
+ET
+BT
+/F1 7.4 Tf
+72 655.4001 Td
+(setTimeout\(\(\) => c.abort\(\), 5000\);) Tj
+ET
+BT
+/F1 7.4 Tf
+72 646.8002 Td
+(fetch\(url, { signal: c.signal }\);) Tj
+ET
+BT
+/F2 7.4 Tf
+58 637.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 637.2002 Td
+(fetch\(url, { timeout: 5000 }\);) Tj
+ET
+BT
+/F2 7.4 Tf
+58 627.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 627.6002 Td
+(window.setTimeout\(fetch, 5000\);) Tj
+ET
+BT
+/F2 7.4 Tf
+58 618.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 618.0002 Td
+(fetch.abort\(5000\);) Tj
+ET
+BT
+/F2 8.0 Tf
+42 594.4003 Td
+(87.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 594.4003 Td
+(What is Long-Polling in web communications, and) Tj
+ET
+BT
+/F1 7.8 Tf
+58 585.2003 Td
+(how does it emulate real-time push?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 573.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 573.5002 Td
+(The client issues an HTTP request; the) Tj
+ET
+BT
+/F1 7.4 Tf
+72 564.9003 Td
+(server holds the connection open until new) Tj
+ET
+BT
+/F1 7.4 Tf
+72 556.3003 Td
+(data arrives, sends the response, and client) Tj
+ET
+BT
+/F1 7.4 Tf
+72 547.7003 Td
+(immediately opens a new request) Tj
+ET
+BT
+/F2 7.4 Tf
+58 538.1003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 538.1003 Td
+(The client polls server every 10) Tj
+ET
+BT
+/F1 7.4 Tf
+72 529.5004 Td
+(milliseconds) Tj
+ET
+BT
+/F2 7.4 Tf
+58 519.9004 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 519.9004 Td
+(The client keeps an open UDP socket) Tj
+ET
+BT
+/F2 7.4 Tf
+58 510.3004 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 510.3004 Td
+(The server pings the client via DNS) Tj
+ET
+BT
+/F2 8.0 Tf
+42 486.7004 Td
+(88.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 486.7004 Td
+(What does the WebSocket `socket.readyState`) Tj
+ET
+BT
+/F1 7.8 Tf
+58 477.5004 Td
+(value of 1 represent?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 465.8004 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 465.8004 Td
+(OPEN \(The connection is established,) Tj
+ET
+BT
+/F1 7.4 Tf
+72 457.2003 Td
+(handshake complete, and ready for) Tj
+ET
+BT
+/F1 7.4 Tf
+72 448.6003 Td
+(communication\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 439.0003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 439.0003 Td
+(CONNECTING) Tj
+ET
+BT
+/F2 7.4 Tf
+58 429.4003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 429.4003 Td
+(CLOSING) Tj
+ET
+BT
+/F2 7.4 Tf
+58 419.8003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 419.8003 Td
+(CLOSED) Tj
+ET
+BT
+/F2 8.0 Tf
+42 396.2003 Td
+(89.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 396.2003 Td
+(How do WebSockets handle network disconnects or) Tj
+ET
+BT
+/F1 7.8 Tf
+58 387.0003 Td
+(dropped connections automatically?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 375.3003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 375.3003 Td
+(They do not: developers must implement) Tj
+ET
+BT
+/F1 7.4 Tf
+72 366.7003 Td
+(custom heartbeat ping/pong mechanisms and) Tj
+ET
+BT
+/F1 7.4 Tf
+72 358.1003 Td
+(reconnection loops in JavaScript) Tj
+ET
+BT
+/F2 7.4 Tf
+58 348.5003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 348.5003 Td
+(WebSockets reconnect natively via TCP) Tj
+ET
+BT
+/F2 7.4 Tf
+58 338.9003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 338.9003 Td
+(The browser alerts the user) Tj
+ET
+BT
+/F2 7.4 Tf
+58 329.3003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 329.3003 Td
+(The OS reboots the network card) Tj
+ET
+BT
+/F2 8.0 Tf
+42 305.7003 Td
+(90.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 305.7003 Td
+(What is Stale-While-Revalidate \(SWR\) caching) Tj
+ET
+BT
+/F1 7.8 Tf
+58 296.5002 Td
+(strategy in frontend client-side data fetching?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 284.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 284.8002 Td
+(Returns cached \(stale\) data immediately to) Tj
+ET
+BT
+/F1 7.4 Tf
+72 276.2002 Td
+(render UI instantly, while asynchronously) Tj
+ET
+BT
+/F1 7.4 Tf
+72 267.6002 Td
+(fetching fresh data in the background to) Tj
+ET
+BT
+/F1 7.4 Tf
+72 259.0002 Td
+(update cache and re-render) Tj
+ET
+BT
+/F2 7.4 Tf
+58 249.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 249.4002 Td
+(Deletes cache every 5 minutes) Tj
+ET
+BT
+/F2 7.4 Tf
+58 239.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 239.8002 Td
+(Blocks UI until network responds) Tj
+ET
+BT
+/F2 7.4 Tf
+58 230.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 230.2002 Td
+(Refreshes page on window focus) Tj
+ET
+BT
+/F2 8.0 Tf
+42 206.6002 Td
+(91.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 206.6002 Td
+(In jQuery, what is the difference between) Tj
+ET
+BT
+/F1 7.8 Tf
+58 197.4002 Td
+(`$\(window\).on\('load'\)` and) Tj
+ET
+BT
+/F1 7.8 Tf
+58 188.2002 Td
+(`$\(document\).ready\(\)`?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 176.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 176.5002 Td
+(`ready\(\)` fires as soon as HTML DOM is) Tj
+ET
+BT
+/F1 7.4 Tf
+72 167.9002 Td
+(parsed; `load\(\)` waits until all external) Tj
+ET
+BT
+/F1 7.4 Tf
+72 159.3002 Td
+(assets \(images, stylesheets, frames\) have) Tj
+ET
+BT
+/F1 7.4 Tf
+72 150.7002 Td
+(finished downloading) Tj
+ET
+BT
+/F2 7.4 Tf
+58 141.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 141.1002 Td
+(`ready\(\)` waits for images; `load\(\)` does) Tj
+ET
+BT
+/F1 7.4 Tf
+72 132.5002 Td
+(not) Tj
+ET
+BT
+/F2 7.4 Tf
+58 122.9002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 122.9002 Td
+(`load\(\)` is deprecated in HTML5) Tj
+ET
+BT
+/F2 7.4 Tf
+58 113.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 113.3002 Td
+(They fire simultaneously) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(92.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(How do you prevent Cross-Site Scripting \(XSS\)) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(when inserting dynamic strings into jQuery DOM) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(selections?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(Use `$\(el\).text\(data\)` instead of) Tj
+ET
+BT
+/F1 7.4 Tf
+336 745.3 Td
+(`$\(el\).html\(data\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 735.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 735.7 Td
+(Use `$\(el\).append\(data\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 726.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 726.1 Td
+(Convert to uppercase) Tj
+ET
+BT
+/F2 7.4 Tf
+322 716.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 716.5001 Td
+(Use `$.ajax\(\)` with dataType: 'script') Tj
+ET
+BT
+/F2 8.0 Tf
+306 692.9001 Td
+(93.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.9001 Td
+(What does the jQuery method `$.noConflict\(\)`) Tj
+ET
+BT
+/F1 7.8 Tf
+322 683.7001 Td
+(achieve when included in a webpage?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 672.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 672.0001 Td
+(Relinquishes jQuery's control of the `$`) Tj
+ET
+BT
+/F1 7.4 Tf
+336 663.4001 Td
+(variable shortcut so other libraries \(like) Tj
+ET
+BT
+/F1 7.4 Tf
+336 654.8001 Td
+(Prototype or MooTools\) can use it without) Tj
+ET
+BT
+/F1 7.4 Tf
+336 646.2001 Td
+(conflicts) Tj
+ET
+BT
+/F2 7.4 Tf
+322 636.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 636.6002 Td
+(Disables all jQuery animations) Tj
+ET
+BT
+/F2 7.4 Tf
+322 627.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 627.0002 Td
+(Clears browser cache) Tj
+ET
+BT
+/F2 7.4 Tf
+322 617.4002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 617.4002 Td
+(Enforces strict mode) Tj
+ET
+BT
+/F2 8.0 Tf
+306 593.8002 Td
+(94.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 593.8002 Td
+(What is an Asynchronous Generator \(`async) Tj
+ET
+BT
+/F1 7.8 Tf
+322 584.6002 Td
+(function*`\) in ES2018?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 572.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 572.9002 Td
+(A generator function whose iterator `next\(\)`) Tj
+ET
+BT
+/F1 7.4 Tf
+336 564.3002 Td
+(returns a Promise resolving to `{ value,) Tj
+ET
+BT
+/F1 7.4 Tf
+336 555.7003 Td
+(done }`, consumed using `for await...of`) Tj
+ET
+BT
+/F1 7.4 Tf
+336 547.1003 Td
+(loops) Tj
+ET
+BT
+/F2 7.4 Tf
+322 537.5003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 537.5003 Td
+(A generator running in a Web Worker) Tj
+ET
+BT
+/F2 7.4 Tf
+322 527.9003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 527.9003 Td
+(A recursive Promise chain) Tj
+ET
+BT
+/F2 7.4 Tf
+322 518.3004 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 518.3004 Td
+(An XMLHttpRequest wrapper) Tj
+ET
+BT
+/F2 8.0 Tf
+306 494.7003 Td
+(95.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 494.7003 Td
+(How do you consume a stream of asynchronous data) Tj
+ET
+BT
+/F1 7.8 Tf
+322 485.5003 Td
+(using the modern `for await...of` loop?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 473.8003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 473.8003 Td
+(for await \(const chunk of asyncStream\) {) Tj
+ET
+BT
+/F1 7.4 Tf
+336 465.2003 Td
+(process\(chunk\); }) Tj
+ET
+BT
+/F2 7.4 Tf
+322 455.6003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 455.6003 Td
+(for \(const chunk in asyncStream\) { await) Tj
+ET
+BT
+/F1 7.4 Tf
+336 447.0003 Td
+(chunk; }) Tj
+ET
+BT
+/F2 7.4 Tf
+322 437.4003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 437.4003 Td
+(await asyncStream.forEach\(\);) Tj
+ET
+BT
+/F2 7.4 Tf
+322 427.8003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 427.8003 Td
+(while \(asyncStream\) { await next\(\); }) Tj
+ET
+BT
+/F2 8.0 Tf
+306 404.2003 Td
+(96.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 404.2003 Td
+(What does the `queueMicrotask\(fn\)` global) Tj
+ET
+BT
+/F1 7.8 Tf
+322 395.0003 Td
+(function do in modern JavaScript?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 383.3003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 383.3003 Td
+(Explicitly queues a microtask callback onto) Tj
+ET
+BT
+/F1 7.4 Tf
+336 374.7003 Td
+(the microtask queue, executing before the) Tj
+ET
+BT
+/F1 7.4 Tf
+336 366.1003 Td
+(event loop returns to the macrotask queue or) Tj
+ET
+BT
+/F1 7.4 Tf
+336 357.5002 Td
+(browser rendering) Tj
+ET
+BT
+/F2 7.4 Tf
+322 347.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 347.9002 Td
+(Creates a Web Worker thread) Tj
+ET
+BT
+/F2 7.4 Tf
+322 338.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 338.3002 Td
+(Executes fn after 1 second) Tj
+ET
+BT
+/F2 7.4 Tf
+322 328.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 328.7002 Td
+(Schedules a macro timer) Tj
+ET
+BT
+/F2 8.0 Tf
+306 305.1002 Td
+(97.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 305.1002 Td
+(What is the difference between) Tj
+ET
+BT
+/F1 7.8 Tf
+322 295.9002 Td
+(`structuredClone\(\)` and) Tj
+ET
+BT
+/F1 7.8 Tf
+322 286.7002 Td
+(`JSON.parse\(JSON.stringify\(\)\)` when passing data) Tj
+ET
+BT
+/F1 7.8 Tf
+322 277.5002 Td
+(across asynchronous workers?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 265.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 265.8002 Td
+(`structuredClone\(\)` accurately clones) Tj
+ET
+BT
+/F1 7.4 Tf
+336 257.2002 Td
+(circular references, ArrayBuffers, Maps,) Tj
+ET
+BT
+/F1 7.4 Tf
+336 248.6002 Td
+(Sets, and Dates; JSON methods strip/corrupt) Tj
+ET
+BT
+/F1 7.4 Tf
+336 240.0002 Td
+(non-primitive types and fail on cycles) Tj
+ET
+BT
+/F2 7.4 Tf
+322 230.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 230.4001 Td
+(structuredClone only works on strings) Tj
+ET
+BT
+/F2 7.4 Tf
+322 220.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 220.8001 Td
+(JSON methods are 100x faster) Tj
+ET
+BT
+/F2 7.4 Tf
+322 211.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 211.2001 Td
+(There is zero functional difference) Tj
+ET
+BT
+/F2 8.0 Tf
+306 187.6001 Td
+(98.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 187.6001 Td
+(In the Streams API, what does the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 178.4001 Td
+(`TransformStream` interface do?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 166.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 166.7001 Td
+(Represents a chaining stream that transforms) Tj
+ET
+BT
+/F1 7.4 Tf
+336 158.1001 Td
+(incoming byte chunks from a ReadableStream) Tj
+ET
+BT
+/F1 7.4 Tf
+336 149.5001 Td
+(before feeding them into a WritableStream) Tj
+ET
+BT
+/F2 7.4 Tf
+322 139.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 139.9001 Td
+(Encrypts TCP packets) Tj
+ET
+BT
+/F2 7.4 Tf
+322 130.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 130.3001 Td
+(Converts SVG into canvas) Tj
+ET
+BT
+/F2 7.4 Tf
+322 120.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 120.7001 Td
+(Formats dates) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 18 0 R /Resources << /Font << /F1 59 0 R /F2 60 0 R >> >> >>
+endobj
+18 0 obj
+<< /Length 2101 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 8 of 28) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(99.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What is Server-Sent Events \(SSE\)) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(auto-reconnection feature, and how does the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(server maintain sequence state?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(If the connection drops, EventSource) Tj
+ET
+BT
+/F1 7.4 Tf
+72 745.3 Td
+(automatically reconnects after a delay and) Tj
+ET
+BT
+/F1 7.4 Tf
+72 736.7 Td
+(transmits the `Last-Event-ID` HTTP header so) Tj
+ET
+BT
+/F1 7.4 Tf
+72 728.1 Td
+(server resumes from that event) Tj
+ET
+BT
+/F2 7.4 Tf
+58 718.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 718.5001 Td
+(It requires WebSocket fallback) Tj
+ET
+BT
+/F2 7.4 Tf
+58 708.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 708.9001 Td
+(It stores events in localStorage) Tj
+ET
+BT
+/F2 7.4 Tf
+58 699.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 699.3001 Td
+(It reboots the web server) Tj
+ET
+BT
+/F2 8.0 Tf
+42 665.7001 Td
+(100.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 665.7001 Td
+(Why is an unhandled Promise rejection considered) Tj
+ET
+BT
+/F1 7.8 Tf
+58 656.5001 Td
+(dangerous in modern Node.js and browser) Tj
+ET
+BT
+/F1 7.8 Tf
+58 647.3001 Td
+(environments?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 635.6001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 635.6001 Td
+(It indicates an unhandled error state that) Tj
+ET
+BT
+/F1 7.4 Tf
+72 627.0001 Td
+(can leave application memory corrupted, and) Tj
+ET
+BT
+/F1 7.4 Tf
+72 618.4001 Td
+(in modern environments triggers fatal) Tj
+ET
+BT
+/F1 7.4 Tf
+72 609.8002 Td
+(process termination or strict console alerts) Tj
+ET
+BT
+/F2 7.4 Tf
+58 600.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 600.2002 Td
+(It deletes database tables) Tj
+ET
+BT
+/F2 7.4 Tf
+58 590.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 590.6002 Td
+(It overflows CPU caches) Tj
+ET
+BT
+/F2 7.4 Tf
+58 581.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 581.0002 Td
+(It causes syntax compilation errors) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 20 0 R /Resources << /Font << /F1 59 0 R /F2 60 0 R >> >> >>
+endobj
+20 0 obj
+<< /Length 4692 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 9 of 28) Tj
+ET
+BT
+/F2 10 Tf
+45 780 Td
+(SECTION B: DESCRIPTIVE & SUBJECTIVE QUESTIONS) Tj
+ET
+BT
+/F2 8.5 Tf
+45 760 Td
+(Q1. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 760 Td
+(Explain Asynchronous Programming in JavaScript, detailing why non-blocking asynchronous execution) Tj
+ET
+BT
+/F1 8.5 Tf
+72 749.5 Td
+(is vital for single-threaded web browsers.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 724.5 Td
+(Q2. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 724.5 Td
+(Analyze the evolution of asynchronous JavaScript paradigms: Callbacks, Promises, and Async/Await.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 689 Td
+(Q3. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 689 Td
+(Explain the Promise lifecycle, internal states \(Pending, Fulfilled, Rejected\), and Promise) Tj
+ET
+BT
+/F1 8.5 Tf
+72 678.5 Td
+(chaining mechanics.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 653.5 Td
+(Q4. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 653.5 Td
+(Compare Promise concurrency methods: Promise.all\(\), Promise.allSettled\(\), Promise.race\(\), and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 643 Td
+(Promise.any\(\) with engineering use cases.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 618 Td
+(Q5. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 618 Td
+(Explain the Fetch API in comprehensive detail, including Request options, Response methods,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 607.5 Td
+(headers, and error handling.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 582.5 Td
+(Q6. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 582.5 Td
+(Explain the Same-Origin Policy \(SOP\) and Cross-Origin Resource Sharing \(CORS\) protocol, detailing) Tj
+ET
+BT
+/F1 8.5 Tf
+72 572 Td
+(Simple Requests and Preflights.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 547 Td
+(Q7. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 547 Td
+(Explain the WebSocket protocol and API architecture, contrasting it with HTTP Polling,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 536.5 Td
+(Long-Polling, and Server-Sent Events \(SSE\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 511.5 Td
+(Q8. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 511.5 Td
+(Describe the architecture of the jQuery library, explaining the jQuery Object wrapper, DOM) Tj
+ET
+BT
+/F1 8.5 Tf
+72 501 Td
+(selection, and method chaining.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 476 Td
+(Q9. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 476 Td
+(Explain jQuery AJAX capabilities: $.ajax\(\), $.get\(\), $.post\(\), $.getJSON\(\), and global AJAX event) Tj
+ET
+BT
+/F1 8.5 Tf
+72 465.5 Td
+(handlers.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 440.5 Td
+(Q10. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 440.5 Td
+(Explain Request Cancellation using AbortController with the Fetch API, demonstrating timeout) Tj
+ET
+BT
+/F1 8.5 Tf
+72 430 Td
+(implementations.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 405 Td
+(Q11. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 405 Td
+(Detail Server-Sent Events \(SSE\) using the EventSource API, explaining data framing, reconnection) Tj
+ET
+BT
+/F1 8.5 Tf
+72 394.5 Td
+(mechanisms, and event types.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 369.5 Td
+(Q12. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 369.5 Td
+(Compare XMLHttpRequest with the modern Fetch API, highlighting eleven architectural differences) Tj
+ET
+BT
+/F1 8.5 Tf
+72 359 Td
+(and migration advantages.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 334 Td
+(Q13. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 334 Td
+(Explain Asynchronous Iteration \(for await...of\) and Asynchronous Generators \(async function*\),) Tj
+ET
+BT
+/F1 8.5 Tf
+72 323.5 Td
+(writing a paginated API consumer.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 298.5 Td
+(Q14. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 298.5 Td
+(Describe the Streams API \(ReadableStream, WritableStream, TransformStream\) and demonstrate reading) Tj
+ET
+BT
+/F1 8.5 Tf
+72 288 Td
+(a streaming response chunk-by-chunk.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 263 Td
+(Q15. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 263 Td
+(Explain Web Workers concurrency model and demonstrate running CPU-heavy calculations without) Tj
+ET
+BT
+/F1 8.5 Tf
+72 252.5 Td
+(freezing the UI.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 227.5 Td
+(Q16. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 227.5 Td
+(Explain the Retry Pattern with Exponential Backoff and Jitter for resilient network communication.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 192 Td
+(Q17. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 192 Td
+(Discuss CORS Security Headers: Access-Control-Allow-Origin, Allow-Credentials, Allow-Methods,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 181.5 Td
+(Allow-Headers, and Max-Age.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 156.5 Td
+(Q18. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 156.5 Td
+(Detail JSON Web Tokens \(JWT\) handling in client-side applications, contrasting localStorage vs) Tj
+ET
+BT
+/F1 8.5 Tf
+72 146 Td
+(HttpOnly cookie storage.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 121 Td
+(Q19. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 121 Td
+(Explain Stale-While-Revalidate \(SWR\) caching architecture and write an in-memory client-side) Tj
+ET
+BT
+/F1 8.5 Tf
+72 110.5 Td
+(cache.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 85.5 Td
+(Q20. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 85.5 Td
+(Describe Service Workers and the Cache API for offline progressive web applications \(PWA\).) Tj
+ET
+
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 22 0 R /Resources << /Font << /F1 59 0 R /F2 60 0 R >> >> >>
+endobj
+22 0 obj
+<< /Length 2461 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 10 of 28) Tj
+ET
+BT
+/F2 8.5 Tf
+45 780 Td
+(Q21. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 780 Td
+(Write a complete JavaScript module to establish and maintain a resilient WebSocket connection with) Tj
+ET
+BT
+/F1 8.5 Tf
+72 769.5 Td
+(automatic heartbeats and exponential reconnection.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 743.5 Td
+(Q22. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 743.5 Td
+(Write a custom Promise polyfill implementation \(MyPromise\) in vanilla JavaScript supporting then,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 733 Td
+(catch, and state transitions.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 707 Td
+(Q23. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 707 Td
+(Implement an asynchronous Promise pool / concurrency throttle that limits parallel execution of) Tj
+ET
+BT
+/F1 8.5 Tf
+72 696.5 Td
+(tasks to at most N active promises.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 670.5 Td
+(Q24. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 670.5 Td
+(Write a complete AJAX file upload widget using Fetch API and FormData with an interactive progress) Tj
+ET
+BT
+/F1 8.5 Tf
+72 660 Td
+(indicator.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 634 Td
+(Q25. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 634 Td
+(Demonstrate how to implement an Autocomplete Search Input with debounce, cached queries, and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 623.5 Td
+(aborted in-flight requests.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 597.5 Td
+(Q26. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 597.5 Td
+(Explain how jQuery plugins are authored, writing a custom jQuery plugin `$.fn.tooltip\(\)` with) Tj
+ET
+BT
+/F1 8.5 Tf
+72 587 Td
+(configurable options.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 561 Td
+(Q27. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 561 Td
+(Explain the IndexedDB API and write a helper class to store and retrieve offline key-value records) Tj
+ET
+BT
+/F1 8.5 Tf
+72 550.5 Td
+(asynchronously.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 524.5 Td
+(Q28. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 524.5 Td
+(Analyze Security Vulnerabilities in AJAX applications: Cross-Origin Data Leakage, JSON Hijacking,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 514 Td
+(and CSRF attacks.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 488 Td
+(Q29. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 488 Td
+(Explain the Beacon API \(`navigator.sendBeacon\(\)`\) and contrast it with Fetch on page unload.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 451.5 Td
+(Q30. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 451.5 Td
+(Analyze Network Waterfall diagnostics in Browser Developer Tools: Queuing, DNS Lookup, Initial) Tj
+ET
+BT
+/F1 8.5 Tf
+72 441 Td
+(Connection, TTFB, and Content Download.) Tj
+ET
+
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 24 0 R /Resources << /Font << /F1 59 0 R /F2 60 0 R >> >> >>
+endobj
+24 0 obj
+<< /Length 8362 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 11 of 28) Tj
+ET
+BT
+/F2 11 Tf
+45 780 Td
+(SECTION C: ANSWER KEY - MULTIPLE CHOICE QUESTIONS) Tj
+ET
+0.5 w
+45 772 m 550 772 l S
+BT
+/F2 8.5 Tf
+45 750 Td
+(Q1: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 734 Td
+(Q2: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 718 Td
+(Q3: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 702 Td
+(Q4: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 686 Td
+(Q5: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 670 Td
+(Q6: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 654 Td
+(Q7: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 638 Td
+(Q8: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 622 Td
+(Q9: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 606 Td
+(Q10: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 590 Td
+(Q11: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 574 Td
+(Q12: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 558 Td
+(Q13: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 542 Td
+(Q14: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 526 Td
+(Q15: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 510 Td
+(Q16: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 494 Td
+(Q17: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 478 Td
+(Q18: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 462 Td
+(Q19: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 446 Td
+(Q20: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 446 Td
+([A]) Tj
+ET
+0.2 w
+135 755 m 135 425 l S
+BT
+/F2 8.5 Tf
+145 750 Td
+(Q21: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 734 Td
+(Q22: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 718 Td
+(Q23: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 702 Td
+(Q24: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 686 Td
+(Q25: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 670 Td
+(Q26: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 654 Td
+(Q27: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 638 Td
+(Q28: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 622 Td
+(Q29: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 606 Td
+(Q30: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 590 Td
+(Q31: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 574 Td
+(Q32: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 558 Td
+(Q33: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 542 Td
+(Q34: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 526 Td
+(Q35: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 510 Td
+(Q36: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 494 Td
+(Q37: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 478 Td
+(Q38: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 462 Td
+(Q39: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 446 Td
+(Q40: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 446 Td
+([A]) Tj
+ET
+0.2 w
+235 755 m 235 425 l S
+BT
+/F2 8.5 Tf
+245 750 Td
+(Q41: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 734 Td
+(Q42: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 718 Td
+(Q43: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 702 Td
+(Q44: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 686 Td
+(Q45: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 670 Td
+(Q46: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 654 Td
+(Q47: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 638 Td
+(Q48: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 622 Td
+(Q49: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 606 Td
+(Q50: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 590 Td
+(Q51: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 574 Td
+(Q52: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 558 Td
+(Q53: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 542 Td
+(Q54: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 526 Td
+(Q55: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 510 Td
+(Q56: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 494 Td
+(Q57: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 478 Td
+(Q58: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 462 Td
+(Q59: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 446 Td
+(Q60: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 446 Td
+([A]) Tj
+ET
+0.2 w
+335 755 m 335 425 l S
+BT
+/F2 8.5 Tf
+345 750 Td
+(Q61: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 734 Td
+(Q62: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 718 Td
+(Q63: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 702 Td
+(Q64: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 686 Td
+(Q65: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 670 Td
+(Q66: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 654 Td
+(Q67: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 638 Td
+(Q68: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 622 Td
+(Q69: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 606 Td
+(Q70: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 590 Td
+(Q71: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 574 Td
+(Q72: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 558 Td
+(Q73: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 542 Td
+(Q74: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 526 Td
+(Q75: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 510 Td
+(Q76: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 494 Td
+(Q77: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 478 Td
+(Q78: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 462 Td
+(Q79: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 446 Td
+(Q80: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 446 Td
+([A]) Tj
+ET
+0.2 w
+435 755 m 435 425 l S
+BT
+/F2 8.5 Tf
+445 750 Td
+(Q81: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 734 Td
+(Q82: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 718 Td
+(Q83: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 702 Td
+(Q84: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 686 Td
+(Q85: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 670 Td
+(Q86: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 654 Td
+(Q87: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 638 Td
+(Q88: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 622 Td
+(Q89: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 606 Td
+(Q90: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 590 Td
+(Q91: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 574 Td
+(Q92: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 558 Td
+(Q93: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 542 Td
+(Q94: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 526 Td
+(Q95: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 510 Td
+(Q96: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 494 Td
+(Q97: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 478 Td
+(Q98: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 462 Td
+(Q99: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 446 Td
+(Q100: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 446 Td
+([A]) Tj
+ET
+0.5 w
+45 400 m 550 400 l 550 340 l 45 340 l s
+BT
+/F2 9 Tf
+55 382 Td
+(MCQ Scoring Guide & Difficulty Distribution:) Tj
+ET
+BT
+/F1 8.5 Tf
+55 366 Td
+(Questions 1 to 40: Foundational & Conceptual [Easy] | Questions 41 to 75: Analytical & Applied [Moderate]) Tj
+ET
+BT
+/F1 8.5 Tf
+55 350 Td
+(Questions 76 to 100: Complex Numerical & Advanced Problem Solving [Difficult]) Tj
+ET
+
+endstream
+endobj
+25 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 26 0 R /Resources << /Font << /F1 59 0 R /F2 60 0 R >> >> >>
+endobj
+26 0 obj
+<< /Length 3939 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 12 of 28) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(SECTION D: DETAILED SOLUTIONS FOR SUBJECTIVE QUESTIONS) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(================================================================================) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 1:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Asynchronous Programming in JavaScript, detailing why non-blocking asynchronous execution is vital for single-threaded web browsers.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   JavaScript in the browser runs on a single execution thread sharing the Call Stack with the UI) Tj
+T*
+(   rendering engine:) Tj
+T*
+() Tj
+T*
+(   The Concurrency Problem:) Tj
+T*
+(   If a network request \(such as fetching a 10MB dataset\) were executed synchronously and) Tj
+T*
+(   blocking, the entire browser thread would halt for several seconds. During this freeze, the) Tj
+T*
+(   user cannot click buttons, scroll the page, or enter text, resulting in the dreaded 'Page) Tj
+T*
+(   Unresponsive' dialog.) Tj
+T*
+() Tj
+T*
+(   The Asynchronous Solution:) Tj
+T*
+(   Non-blocking asynchronous operations delegate time-consuming I/O tasks \(timers, network) Tj
+T*
+(   requests, disk operations\) to background browser C++ Web APIs. The single JavaScript thread) Tj
+T*
+(   continues executing surrounding synchronous code immediately without pausing. When the) Tj
+T*
+(   background I/O completes, the callback or Promise resolution is placed into the Event Loop) Tj
+T*
+(   queues \(Microtasks/Macrotasks\) to be executed as soon as the main Call Stack is clear.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 2:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze the evolution of asynchronous JavaScript paradigms: Callbacks, Promises, and Async/Await.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Asynchronous JavaScript has undergone three generational architectural transformations:) Tj
+T*
+() Tj
+T*
+(   1. Generation 1: Callbacks \(1995?2015\):) Tj
+T*
+(   - Asynchronous functions accepted a completion function pointer: `getData\(url, callback\)`.) Tj
+T*
+(   - Pitfalls: Resulted in 'Callback Hell' \(Pyramid of Doom\), fragmented error handling \(every) Tj
+T*
+(   callback required its own error parameter\), and inversion of control.) Tj
+T*
+() Tj
+T*
+(   2. Generation 2: Promises \(ES6 / 2015\):) Tj
+T*
+(   - Encapsulated asynchronous operations into standardized objects with three states \(Pending,) Tj
+T*
+(   Fulfilled, Rejected\).) Tj
+T*
+(   - Advantages: Flattened nested pyramids into linear `.then\(\)` chains, centralized error) Tj
+T*
+(   handling via `.catch\(\)`, and provided concurrency combinators \(`Promise.all`\).) Tj
+T*
+() Tj
+T*
+(   3. Generation 3: Async / Await \(ES2017 / ES8\):) Tj
+T*
+(   - Built on top of Promises as syntactic sugar.) Tj
+T*
+(   - Advantages: Allows asynchronous code to be authored and read like clean, sequential) Tj
+T*
+(   synchronous code with standard `try...catch` blocks and linear variable assignments,) Tj
+T*
+(   drastically improving code maintainability.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 3:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the Promise lifecycle, internal states \(Pending, Fulfilled, Rejected\), and Promise chaining mechanics.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   A Promise is a state machine representing an asynchronous value that may not be available) Tj
+T*
+(   immediately:) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+27 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 28 0 R /Resources << /Font << /F1 59 0 R /F2 60 0 R >> >> >>
+endobj
+28 0 obj
+<< /Length 3697 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 13 of 28) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   The Three Mutual Exclusive States:) Tj
+T*
+(   1. Pending: Initial state; operation is actively underway. Has neither resolved nor rejected.) Tj
+T*
+(   2. Fulfilled \(Resolved\): Operation completed successfully; holds a permanent resulting `value`.) Tj
+T*
+(   3. Rejected: Operation failed; holds an associated `reason` \(typically an Error object\).) Tj
+T*
+(   Once a Promise transitions from Pending to either Fulfilled or Rejected, it is 'Settled' and) Tj
+T*
+(   permanently locked \(immutable\).) Tj
+T*
+() Tj
+T*
+(   Promise Chaining Mechanics:) Tj
+T*
+(   - Every `.then\(\)` or `.catch\(\)` call returns a BRAND NEW Promise.) Tj
+T*
+(   - If a callback returns a value, the new Promise resolves with that value.) Tj
+T*
+(   - If a callback returns another Promise, the new Promise adopts the state and value of that) Tj
+T*
+(   returned Promise.) Tj
+T*
+(   - If a callback throws an exception, the returned Promise immediately transitions to Rejected.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 4:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Compare Promise concurrency methods: Promise.all\(\), Promise.allSettled\(\), Promise.race\(\), and Promise.any\(\) with engineering use cases.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   ES6 and subsequent specifications provide four distinct concurrency combinators for) Tj
+T*
+(   coordinating multiple asynchronous operations:) Tj
+T*
+() Tj
+T*
+(   1. `Promise.all\([p1, p2, p3]\)` \(All-or-Nothing\):) Tj
+T*
+(   - Resolves when ALL promises fulfill; rejects IMMEDIATELY if any single promise rejects.) Tj
+T*
+(   - Use Case: Loading dashboard widgets where all datasets are mandatory before rendering.) Tj
+T*
+() Tj
+T*
+(   2. `Promise.allSettled\([p1, p2, p3]\)` \(Tolerant Batching\):) Tj
+T*
+(   - Waits for all promises to settle \(either fulfill or reject\), returning an array of descriptor) Tj
+T*
+(   objects `{ status, value/reason }`.) Tj
+T*
+(   - Use Case: Bulk email dispatch where failure of one email should not halt the remaining) Tj
+T*
+(   dispatches.) Tj
+T*
+() Tj
+T*
+(   3. `Promise.race\([p1, p2, p3]\)` \(Fastest Settler\):) Tj
+T*
+(   - Settles as soon as the first promise settles \(fulfills OR rejects\).) Tj
+T*
+(   - Use Case: Implementing network request timeouts \(`Promise.race\([fetch\(url\),) Tj
+T*
+(   timeoutPromise]\)`\).) Tj
+T*
+() Tj
+T*
+(   4. `Promise.any\([p1, p2, p3]\)` \(Fastest Success\):) Tj
+T*
+(   - Fulfills as soon as the FIRST promise fulfills successfully; only rejects \(with) Tj
+T*
+(   AggregateError\) if EVERY single promise fails.) Tj
+T*
+(   - Use Case: Querying redundant CDN mirrors for an image asset.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 5:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the Fetch API in comprehensive detail, including Request options, Response methods, headers, and error handling.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   The Fetch API provides a modern, Promise-based native interface for making HTTP network) Tj
+T*
+(   requests in web browsers:) Tj
+T*
+() Tj
+T*
+(   Fetch Syntax & Request Configuration:) Tj
+T*
+(   ```javascript) Tj
+T*
+(   async function postUserData\(url, payload\) {) Tj
+T*
+(   const options = {) Tj
+T*
+ET
+
+endstream
+endobj
+29 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 30 0 R /Resources << /Font << /F1 59 0 R /F2 60 0 R >> >> >>
+endobj
+30 0 obj
+<< /Length 2942 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 14 of 28) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   method: 'POST',) Tj
+T*
+(   headers: {) Tj
+T*
+(   'Content-Type': 'application/json',) Tj
+T*
+(   'Authorization': 'Bearer ' + token) Tj
+T*
+(   },) Tj
+T*
+(   body: JSON.stringify\(payload\),) Tj
+T*
+(   mode: 'cors',) Tj
+T*
+(   credentials: 'include' // Transmit cookies cross-origin) Tj
+T*
+(   };) Tj
+T*
+() Tj
+T*
+(   try {) Tj
+T*
+(   const response = await fetch\(url, options\);) Tj
+T*
+(   // Critical: Fetch does NOT reject on 4xx/5xx HTTP errors!) Tj
+T*
+(   if \(!response.ok\) {) Tj
+T*
+(   throw new Error\(`HTTP error! Status: ${response.status} ${response.statusText}`\);) Tj
+T*
+(   }) Tj
+T*
+(   const data = await response.json\(\);) Tj
+T*
+(   return data;) Tj
+T*
+(   } catch \(err\) {) Tj
+T*
+(   console.error\('Network request failed:', err\);) Tj
+T*
+(   throw err;) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(   Response Body Extractors: `response.json\(\)` \(parses JSON\), `response.text\(\)` \(plain text\),) Tj
+T*
+(   `response.blob\(\)` \(binary images/media\), and `response.formData\(\)`.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 6:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the Same-Origin Policy \(SOP\) and Cross-Origin Resource Sharing \(CORS\) protocol, detailing Simple Requests and Preflights.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   The Same-Origin Policy \(SOP\) is a foundational browser security model that restricts) Tj
+T*
+(   client-side scripts from reading responses originating from a different Origin \(defined by) Tj
+T*
+(   Scheme + Host + Port\):) Tj
+T*
+() Tj
+T*
+(   Cross-Origin Resource Sharing \(CORS\):) Tj
+T*
+(   CORS is a W3C standard allowing servers to selectively relax SOP via HTTP response headers) Tj
+T*
+(   \(`Access-Control-Allow-Origin: https://app.example.com`\).) Tj
+T*
+() Tj
+T*
+(   Simple vs Preflighted Requests:) Tj
+T*
+(   1. Simple Requests:) Tj
+T*
+(   - Allowed methods: GET, HEAD, POST.) Tj
+T*
+(   - Permitted Content-Type: `application/x-www-form-urlencoded`, `multipart/form-data`,) Tj
+T*
+(   `text/plain`.) Tj
+T*
+(   - Dispatched directly without preliminary checks.) Tj
+T*
+() Tj
+T*
+(   2. Preflighted Requests \(OPTIONS\):) Tj
+T*
+(   - Triggered if request uses PUT, DELETE, PATCH, custom headers \(`Authorization`\), or) Tj
+T*
+(   `Content-Type: application/json`.) Tj
+T*
+(   - The browser automatically dispatches an preliminary HTTP `OPTIONS` request with) Tj
+T*
+(   `Access-Control-Request-Method` and `Access-Control-Request-Headers`.) Tj
+T*
+(   - The browser inspects the server's preflight response; if approved, it fires the actual) Tj
+T*
+ET
+
+endstream
+endobj
+31 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 32 0 R /Resources << /Font << /F1 59 0 R /F2 60 0 R >> >> >>
+endobj
+32 0 obj
+<< /Length 3762 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 15 of 28) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   request; otherwise, it throws a CORS error.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 7:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the WebSocket protocol and API architecture, contrasting it with HTTP Polling, Long-Polling, and Server-Sent Events \(SSE\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Modern real-time applications require instant bidirectional communication between client and) Tj
+T*
+(   server:) Tj
+T*
+() Tj
+T*
+(   Paradigm Comparison:) Tj
+T*
+(   1. Short Polling: Client sends repeated HTTP requests on a timer \(e.g. every 2 seconds\). High) Tj
+T*
+(   overhead: thousands of wasted HTTP headers.) Tj
+T*
+(   2. Long-Polling: Server holds request open until new data arrives, sends response, and client) Tj
+T*
+(   reconnects. Better latency, but high connection churn.) Tj
+T*
+(   3. Server-Sent Events \(SSE\): Unidirectional streaming \(Server -> Client\) over standard HTTP.) Tj
+T*
+(   Perfect for live stock tickers, but cannot send client data back.) Tj
+T*
+(   4. WebSockets \(ws:// and wss://\):) Tj
+T*
+(   - Full-Duplex Bidirectional Channel over a single persistent TCP connection.) Tj
+T*
+(   - Initiated via an HTTP Upgrade handshake, then switches to minimal 2-byte framing overhead.) Tj
+T*
+(   - Sub-millisecond latency ideal for multiplayer games, collaborative editors, and chat apps.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 8:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Describe the architecture of the jQuery library, explaining the jQuery Object wrapper, DOM selection, and method chaining.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   jQuery revolutionized web development by abstracting browser discrepancies into a uniform,) Tj
+T*
+(   cross-browser API:) Tj
+T*
+() Tj
+T*
+(   Core Architectural Principles:) Tj
+T*
+(   1. The jQuery Object Wrapper \(`$\(\)`\):) Tj
+T*
+(   - Calling `$\('div'\)` does not return raw DOM nodes; it returns a synthetic jQuery wrapper) Tj
+T*
+(   object containing matching nodes with wrapped helper methods.) Tj
+T*
+(   - Accessing raw node: `$\('div'\)[0]` or `$\('div'\).get\(0\)`.) Tj
+T*
+() Tj
+T*
+(   2. Method Chaining:) Tj
+T*
+(   - Almost all jQuery mutation methods return the calling jQuery object \(`return this;`\).) Tj
+T*
+(   - Allows chaining multiple animations, attribute modifications, and styling calls sequentially) Tj
+T*
+(   without re-querying the DOM:) Tj
+T*
+(   `$\('#alertBox'\).addClass\('highlight'\).slideDown\(400\).delay\(2000\).fadeOut\(400\);`) Tj
+T*
+() Tj
+T*
+(   3. Implicit Iteration:) Tj
+T*
+(   - Methods automatically execute across ALL matching elements in the set without writing) Tj
+T*
+(   explicit loops \(e.g., `$\('p'\).css\('color', 'blue'\);` colors every paragraph\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 9:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain jQuery AJAX capabilities: $.ajax\(\), $.get\(\), $.post\(\), $.getJSON\(\), and global AJAX event handlers.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   jQuery provides high-level and low-level abstractions over XMLHttpRequest:) Tj
+T*
+() Tj
+T*
+(   1. Low-Level `$.ajax\(settings\)`:) Tj
+T*
+ET
+
+endstream
+endobj
+33 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 34 0 R /Resources << /Font << /F1 59 0 R /F2 60 0 R >> >> >>
+endobj
+34 0 obj
+<< /Length 2792 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 16 of 28) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   ```javascript) Tj
+T*
+(   $.ajax\({) Tj
+T*
+(   url: '/api/items',) Tj
+T*
+(   type: 'POST',) Tj
+T*
+(   data: JSON.stringify\({ name: 'Widget', qty: 5 }\),) Tj
+T*
+(   contentType: 'application/json; charset=utf-8',) Tj
+T*
+(   dataType: 'json',) Tj
+T*
+(   timeout: 5000,) Tj
+T*
+(   success: function\(response\) { console.log\('Created item:', response\); },) Tj
+T*
+(   error: function\(xhr, status, error\) { console.error\('AJAX Error:', error\); }) Tj
+T*
+(   }\);) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(   2. Shorthand Methods:) Tj
+T*
+(   - `$.get\(url, params, callback\)`: Rapid GET queries.) Tj
+T*
+(   - `$.post\(url, data, callback\)`: Rapid POST submissions.) Tj
+T*
+(   - `$.getJSON\(url, callback\)`: Automatically parses incoming JSON payload.) Tj
+T*
+() Tj
+T*
+(   3. Global AJAX Event Handlers:) Tj
+T*
+(   `$\(document\).ajaxStart\(\(\) => $\('#spinner'\).show\(\)\);` and `$\(document\).ajaxStop\(\(\) =>) Tj
+T*
+(   $\('#spinner'\).hide\(\)\);` manage global loading spinners across all network calls.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 10:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Request Cancellation using AbortController with the Fetch API, demonstrating timeout implementations.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Unlike XMLHttpRequest which had an `abort\(\)` method, the Fetch API delegates cancellation to) Tj
+T*
+(   the standardized `AbortController` interface:) Tj
+T*
+() Tj
+T*
+(   Implementing an Auto-Timeout Fetch Wrapper:) Tj
+T*
+(   ```javascript) Tj
+T*
+(   async function fetchWithTimeout\(url, options = {}, timeoutMs = 5000\) {) Tj
+T*
+(   const controller = new AbortController\(\);) Tj
+T*
+(   const timeoutId = setTimeout\(\(\) => controller.abort\(\), timeoutMs\);) Tj
+T*
+() Tj
+T*
+(   try {) Tj
+T*
+(   const response = await fetch\(url, {) Tj
+T*
+(   ...options,) Tj
+T*
+(   signal: controller.signal // Link fetch to abort controller) Tj
+T*
+(   }\);) Tj
+T*
+(   clearTimeout\(timeoutId\);) Tj
+T*
+(   if \(!response.ok\) throw new Error\(`HTTP ${response.status}`\);) Tj
+T*
+(   return await response.json\(\);) Tj
+T*
+(   } catch \(error\) {) Tj
+T*
+(   if \(error.name === 'AbortError'\) {) Tj
+T*
+(   throw new Error\(`Request timed out after ${timeoutMs} ms`\);) Tj
+T*
+(   }) Tj
+T*
+(   throw error;) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+ET
+
+endstream
+endobj
+35 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 36 0 R /Resources << /Font << /F1 59 0 R /F2 60 0 R >> >> >>
+endobj
+36 0 obj
+<< /Length 3180 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 17 of 28) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 11:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Detail Server-Sent Events \(SSE\) using the EventSource API, explaining data framing, reconnection mechanisms, and event types.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Server-Sent Events \(SSE, standardized in HTML5\) provide a standardized push communication) Tj
+T*
+(   channel from server to browser over standard HTTP:) Tj
+T*
+() Tj
+T*
+(   Protocol Framing:) Tj
+T*
+(   The server keeps the HTTP connection open, returning `Content-Type: text/event-stream` and) Tj
+T*
+(   sending plaintext chunks structured as:) Tj
+T*
+(   ```text) Tj
+T*
+(   id: 101) Tj
+T*
+(   event: priceUpdate) Tj
+T*
+(   data: {"symbol": "AAPL", "price": 182.50}) Tj
+T*
+() Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(   Client Implementation:) Tj
+T*
+(   ```javascript) Tj
+T*
+(   const sse = new EventSource\('/api/stocks'\);) Tj
+T*
+() Tj
+T*
+(   // Listen for custom named event) Tj
+T*
+(   sse.addEventListener\('priceUpdate', \(e\) => {) Tj
+T*
+(   const quote = JSON.parse\(e.data\);) Tj
+T*
+(   updateDisplay\(quote\);) Tj
+T*
+(   }\);) Tj
+T*
+() Tj
+T*
+(   sse.onerror = \(err\) => console.error\('SSE connection lost, reconnecting...'\);) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(   Built-in Reliability:) Tj
+T*
+(   If network connectivity drops, the browser automatically attempts reconnection every 3 seconds,) Tj
+T*
+(   passing `Last-Event-ID: 101` in headers so the server can backfill missed messages.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 12:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Compare XMLHttpRequest with the modern Fetch API, highlighting eleven architectural differences and migration advantages.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Comparing legacy XHR with modern Fetch:) Tj
+T*
+() Tj
+T*
+(   1. Paradigm: XHR is event-driven \(`onreadystatechange`\); Fetch is Promise-based.) Tj
+T*
+(   2. Syntax: XHR requires verbose multi-line setup; Fetch is concise and composable.) Tj
+T*
+(   3. Streams: XHR buffers entire responses in memory; Fetch supports streaming response bodies) Tj
+T*
+(   via Streams API.) Tj
+T*
+(   4. HTTP Error Handling: XHR triggers `onerror` only on network drops; Fetch treats 404/500 as) Tj
+T*
+(   resolved \(`response.ok === false`\).) Tj
+T*
+(   5. Service Workers: Fetch integrates seamlessly with Service Workers and Cache API; XHR cannot) Tj
+T*
+(   intercept worker requests.) Tj
+T*
+(   6. Cookies: XHR sends cookies by default; Fetch requires `credentials: 'include'` for) Tj
+T*
+(   cross-origin credentials.) Tj
+T*
+(   7. Cancellation: XHR uses `xhr.abort\(\)`; Fetch uses `AbortController`.) Tj
+T*
+(   8. Upload Progress: XHR supports `xhr.upload.onprogress`; Fetch lacks native upload progress) Tj
+T*
+(   monitoring without Streams.) Tj
+T*
+ET
+
+endstream
+endobj
+37 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 38 0 R /Resources << /Font << /F1 59 0 R /F2 60 0 R >> >> >>
+endobj
+38 0 obj
+<< /Length 3018 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 18 of 28) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   9. CORS: Both support CORS, but Fetch enforces cleaner origin controls.) Tj
+T*
+(   10. Memory footprint: Fetch uses structured response objects that stream efficiently.) Tj
+T*
+(   11. Adoption: Fetch is standard across modern browsers and Node.js 18+.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 13:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Asynchronous Iteration \(for await...of\) and Asynchronous Generators \(async function*\), writing a paginated API consumer.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Asynchronous generators combine Generators with Promises to stream asynchronous sequences) Tj
+T*
+(   lazily:) Tj
+T*
+() Tj
+T*
+(   Paginated API Consumer Implementation:) Tj
+T*
+(   ```javascript) Tj
+T*
+(   async function* fetchAllUsers\(apiUrl\) {) Tj
+T*
+(   let nextUrl = apiUrl;) Tj
+T*
+(   while \(nextUrl\) {) Tj
+T*
+(   const response = await fetch\(nextUrl\);) Tj
+T*
+(   const { users, next } = await response.json\(\);) Tj
+T*
+(   for \(const user of users\) {) Tj
+T*
+(   yield user; // Yield each individual user asynchronously) Tj
+T*
+(   }) Tj
+T*
+(   nextUrl = next;) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   // Consuming the async generator using for await...of:) Tj
+T*
+(   async function processAll\(\) {) Tj
+T*
+(   for await \(const user of fetchAllUsers\('/api/users?page=1'\)\) {) Tj
+T*
+(   console.log\(`Processing: ${user.name}`\);) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+(   ```) Tj
+T*
+(   Advantage: Fetches subsequent API pages on-demand only as the consumer consumes items, avoiding) Tj
+T*
+(   loading massive datasets into RAM.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 14:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Describe the Streams API \(ReadableStream, WritableStream, TransformStream\) and demonstrate reading a streaming response chunk-by-chunk.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   The Streams API allows JavaScript to programmatically read, transform, and write data streams) Tj
+T*
+(   without buffering entire files in memory:) Tj
+T*
+() Tj
+T*
+(   Reading a Chunked Streaming Fetch Response:) Tj
+T*
+(   ```javascript) Tj
+T*
+(   async function readStream\(url\) {) Tj
+T*
+(   const response = await fetch\(url\);) Tj
+T*
+(   const reader = response.body.getReader\(\); // Returns ReadableStreamDefaultReader) Tj
+T*
+(   const decoder = new TextDecoder\('utf-8'\);) Tj
+T*
+(   let fullText = '';) Tj
+T*
+() Tj
+T*
+(   while \(true\) {) Tj
+T*
+(   const { done, value } = await reader.read\(\); // value is a Uint8Array) Tj
+T*
+ET
+
+endstream
+endobj
+39 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 40 0 R /Resources << /Font << /F1 59 0 R /F2 60 0 R >> >> >>
+endobj
+40 0 obj
+<< /Length 2759 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 19 of 28) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   if \(done\) break;) Tj
+T*
+(   const textChunk = decoder.decode\(value, { stream: true }\);) Tj
+T*
+(   fullText += textChunk;) Tj
+T*
+(   updateLiveTerminal\(textChunk\); // Render text incrementally as it arrives!) Tj
+T*
+(   }) Tj
+T*
+(   console.log\('Stream fully finished.'\);) Tj
+T*
+(   }) Tj
+T*
+(   ```) Tj
+T*
+(   Crucial for AI chat completions \(ChatGPT streaming\), large file processing, and video feeds.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 15:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Web Workers concurrency model and demonstrate running CPU-heavy calculations without freezing the UI.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   JavaScript's event loop executes on a single main thread. Heavy computations freeze UI) Tj
+T*
+(   rendering unless offloaded to Web Workers:) Tj
+T*
+() Tj
+T*
+(   Main Script:) Tj
+T*
+(   ```javascript) Tj
+T*
+(   const worker = new Worker\('computeWorker.js'\);) Tj
+T*
+(   worker.postMessage\({ array: largeMatrix }\);) Tj
+T*
+() Tj
+T*
+(   worker.onmessage = function\(e\) {) Tj
+T*
+(   console.log\('Heavy computation result:', e.data.result\);) Tj
+T*
+(   hideLoadingSpinner\(\);) Tj
+T*
+(   };) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(   Worker Script \(`computeWorker.js`\):) Tj
+T*
+(   ```javascript) Tj
+T*
+(   onmessage = function\(e\) {) Tj
+T*
+(   const data = e.data.array;) Tj
+T*
+(   // Heavy mathematical calculation executing on separate OS core) Tj
+T*
+(   let sum = 0;) Tj
+T*
+(   for \(let i = 0; i < data.length; i++\) {) Tj
+T*
+(   sum += Math.sqrt\(data[i]\) * Math.sin\(data[i]\);) Tj
+T*
+(   }) Tj
+T*
+(   postMessage\({ result: sum }\);) Tj
+T*
+(   };) Tj
+T*
+(   ```) Tj
+T*
+(   The browser UI remains responsive at 60 FPS while the computation executes on a background CPU) Tj
+T*
+(   thread.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 16:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the Retry Pattern with Exponential Backoff and Jitter for resilient network communication.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   In distributed web environments, temporary network hiccups or server throttling \(HTTP 429 /) Tj
+T*
+(   503\) cause transient failures:) Tj
+T*
+() Tj
+T*
+(   Exponential Backoff with Jitter Algorithm:) Tj
+T*
+(   ```javascript) Tj
+T*
+ET
+
+endstream
+endobj
+41 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 42 0 R /Resources << /Font << /F1 59 0 R /F2 60 0 R >> >> >>
+endobj
+42 0 obj
+<< /Length 3606 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 20 of 28) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   async function fetchWithRetry\(url, options = {}, retries = 3, baseDelay = 1000\) {) Tj
+T*
+(   for \(let attempt = 0; attempt <= retries; attempt++\) {) Tj
+T*
+(   try {) Tj
+T*
+(   const res = await fetch\(url, options\);) Tj
+T*
+(   if \(res.status === 429 || res.status >= 500\) {) Tj
+T*
+(   throw new Error\(`Transient server error: ${res.status}`\);) Tj
+T*
+(   }) Tj
+T*
+(   return await res.json\(\);) Tj
+T*
+(   } catch \(err\) {) Tj
+T*
+(   if \(attempt === retries\) throw err;) Tj
+T*
+(   // Exponential backoff: 2^attempt + random jitter \(0-200ms\)) Tj
+T*
+(   const jitter = Math.random\(\) * 200;) Tj
+T*
+(   const delay = \(baseDelay * \(2 ** attempt\)\) + jitter;) Tj
+T*
+(   console.warn\(`Attempt ${attempt + 1} failed. Retrying in ${Math.round\(delay\)}ms...`\);) Tj
+T*
+(   await new Promise\(r => setTimeout\(r, delay\)\);) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 17:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Discuss CORS Security Headers: Access-Control-Allow-Origin, Allow-Credentials, Allow-Methods, Allow-Headers, and Max-Age.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   CORS headers orchestrate cross-origin policy enforcement between browser and server:) Tj
+T*
+() Tj
+T*
+(   Core Response Headers:) Tj
+T*
+(   1. `Access-Control-Allow-Origin: https://client.example.com` - Explicitly permits origin) Tj
+T*
+(   \(wildcard `*` allows all, but disallows credentials\).) Tj
+T*
+(   2. `Access-Control-Allow-Credentials: true` - Informs browser that cross-origin cookies or) Tj
+T*
+(   authorization headers can be exposed to frontend scripts.) Tj
+T*
+(   3. `Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS` - Lists acceptable HTTP) Tj
+T*
+(   verbs.) Tj
+T*
+(   4. `Access-Control-Allow-Headers: Content-Type, Authorization, X-Requested-With` - Whitelists) Tj
+T*
+(   custom request headers.) Tj
+T*
+(   5. `Access-Control-Max-Age: 86400` - Caches preflight OPTIONS verification for 24 hours \(86,400) Tj
+T*
+(   seconds\), eliminating redundant preflight roundtrips.) Tj
+T*
+(   6. `Access-Control-Expose-Headers: X-Custom-Header` - Whitelists custom response headers that) Tj
+T*
+(   frontend scripts are permitted to read via `response.headers.get\(\)`.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 18:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Detail JSON Web Tokens \(JWT\) handling in client-side applications, contrasting localStorage vs HttpOnly cookie storage.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Managing client authentication tokens requires evaluating security tradeoffs between) Tj
+T*
+(   convenience and vulnerability to attacks:) Tj
+T*
+() Tj
+T*
+(   1. Storage in Web Storage \(`localStorage` / `sessionStorage`\):) Tj
+T*
+(   - Advantage: Highly convenient; easy to access via JavaScript and attach as `Authorization:) Tj
+T*
+(   Bearer <token>`.) Tj
+T*
+(   - Fatal Risk: Vulnerable to Cross-Site Scripting \(XSS\). If an attacker injects malicious) Tj
+T*
+(   JavaScript, they can immediately execute `localStorage.getItem\('token'\)` and steal the user's) Tj
+T*
+ET
+
+endstream
+endobj
+43 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 44 0 R /Resources << /Font << /F1 59 0 R /F2 60 0 R >> >> >>
+endobj
+44 0 obj
+<< /Length 2820 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 21 of 28) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   session token.) Tj
+T*
+() Tj
+T*
+(   2. Storage in `HttpOnly` Secure Cookies:) Tj
+T*
+(   - Advantage: The browser completely prevents JavaScript from accessing the cookie) Tj
+T*
+(   \(`document.cookie` cannot read it\), neutralizing XSS token theft.) Tj
+T*
+(   - Tradeoff: Vulnerable to Cross-Site Request Forgery \(CSRF\). Requires configuring) Tj
+T*
+(   `SameSite=Strict` \(or `Lax`\) cookie attributes and implementing Anti-CSRF synchronizer tokens.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 19:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Stale-While-Revalidate \(SWR\) caching architecture and write an in-memory client-side cache.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   SWR is an advanced caching strategy prioritizing perceived UI speed:) Tj
+T*
+() Tj
+T*
+(   Implementation Architecture:) Tj
+T*
+(   ```javascript) Tj
+T*
+(   class SWRClient {) Tj
+T*
+(   constructor\(\) {) Tj
+T*
+(   this.cache = new Map\(\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   async get\(url, onUpdate\) {) Tj
+T*
+(   // 1. If cached data exists, return STALE data immediately) Tj
+T*
+(   if \(this.cache.has\(url\)\) {) Tj
+T*
+(   onUpdate\(this.cache.get\(url\)\);) Tj
+T*
+(   }) Tj
+T*
+(   // 2. Asynchronously REVALIDATE fresh data in background) Tj
+T*
+(   try {) Tj
+T*
+(   const res = await fetch\(url\);) Tj
+T*
+(   const freshData = await res.json\(\);) Tj
+T*
+(   this.cache.set\(url, freshData\);) Tj
+T*
+(   onUpdate\(freshData\); // Update UI with fresh data) Tj
+T*
+(   } catch \(err\) {) Tj
+T*
+(   console.error\('Background revalidation failed:', err\);) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 20:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Describe Service Workers and the Cache API for offline progressive web applications \(PWA\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   A Service Worker is an event-driven programmable network proxy sitting between the browser, web) Tj
+T*
+(   application, and the network:) Tj
+T*
+() Tj
+T*
+(   PWA Architecture:) Tj
+T*
+(   1. Registration: `navigator.serviceWorker.register\('/sw.js'\);`) Tj
+T*
+(   2. Install Phase: Pre-caches critical static assets \(HTML, CSS, JS, logos\) into the `caches`) Tj
+T*
+(   storage.) Tj
+T*
+(   3. Fetch Event Interception:) Tj
+T*
+(   ```javascript) Tj
+T*
+ET
+
+endstream
+endobj
+45 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 46 0 R /Resources << /Font << /F1 59 0 R /F2 60 0 R >> >> >>
+endobj
+46 0 obj
+<< /Length 2318 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 22 of 28) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   // Inside sw.js:) Tj
+T*
+(   self.addEventListener\('fetch', \(event\) => {) Tj
+T*
+(   event.respondWith\() Tj
+T*
+(   caches.match\(event.request\).then\(\(cachedResponse\) => {) Tj
+T*
+(   // Return cached file if found; else fallback to network fetch) Tj
+T*
+(   return cachedResponse || fetch\(event.request\);) Tj
+T*
+(   }\)) Tj
+T*
+(   \);) Tj
+T*
+(   }\);) Tj
+T*
+(   ```) Tj
+T*
+(   Enables web applications to launch instantly and operate seamlessly with zero internet) Tj
+T*
+(   connectivity.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 21:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write a complete JavaScript module to establish and maintain a resilient WebSocket connection with automatic heartbeats and exponential reconnection.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Here is an enterprise-grade WebSocket client implementation:) Tj
+T*
+() Tj
+T*
+(   ```javascript) Tj
+T*
+(   class ResilientWebSocket {) Tj
+T*
+(   constructor\(url\) {) Tj
+T*
+(   this.url = url;) Tj
+T*
+(   this.reconnectAttempts = 0;) Tj
+T*
+(   this.connect\(\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   connect\(\) {) Tj
+T*
+(   this.ws = new WebSocket\(this.url\);) Tj
+T*
+() Tj
+T*
+(   this.ws.onopen = \(\) => {) Tj
+T*
+(   console.log\('WebSocket connected.'\);) Tj
+T*
+(   this.reconnectAttempts = 0;) Tj
+T*
+(   this.startHeartbeat\(\);) Tj
+T*
+(   };) Tj
+T*
+() Tj
+T*
+(   this.ws.onmessage = \(e\) => {) Tj
+T*
+(   if \(e.data === 'pong'\) return; // Heartbeat ack) Tj
+T*
+(   console.log\('Message received:', JSON.parse\(e.data\)\);) Tj
+T*
+(   };) Tj
+T*
+() Tj
+T*
+(   this.ws.onclose = \(\) => {) Tj
+T*
+(   clearInterval\(this.heartbeatInterval\);) Tj
+T*
+(   this.scheduleReconnect\(\);) Tj
+T*
+(   };) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   startHeartbeat\(\) {) Tj
+T*
+(   this.heartbeatInterval = setInterval\(\(\) => {) Tj
+T*
+(   if \(this.ws.readyState === WebSocket.OPEN\) this.ws.send\('ping'\);) Tj
+T*
+(   }, 30000\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+47 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 48 0 R /Resources << /Font << /F1 59 0 R /F2 60 0 R >> >> >>
+endobj
+48 0 obj
+<< /Length 2547 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 23 of 28) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   scheduleReconnect\(\) {) Tj
+T*
+(   const delay = Math.min\(1000 * \(2 ** this.reconnectAttempts\), 30000\);) Tj
+T*
+(   console.log\(`Reconnecting in ${delay}ms...`\);) Tj
+T*
+(   setTimeout\(\(\) => {) Tj
+T*
+(   this.reconnectAttempts++;) Tj
+T*
+(   this.connect\(\);) Tj
+T*
+(   }, delay\);) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 22:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write a custom Promise polyfill implementation \(MyPromise\) in vanilla JavaScript supporting then, catch, and state transitions.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Here is a spec-compliant mini Promise implementation:) Tj
+T*
+() Tj
+T*
+(   ```javascript) Tj
+T*
+(   class MyPromise {) Tj
+T*
+(   constructor\(executor\) {) Tj
+T*
+(   this.state = 'PENDING';) Tj
+T*
+(   this.value = undefined;) Tj
+T*
+(   this.handlers = [];) Tj
+T*
+() Tj
+T*
+(   const resolve = \(val\) => {) Tj
+T*
+(   if \(this.state !== 'PENDING'\) return;) Tj
+T*
+(   this.state = 'FULFILLED';) Tj
+T*
+(   this.value = val;) Tj
+T*
+(   this.handlers.forEach\(h => h.onFulfilled\(val\)\);) Tj
+T*
+(   };) Tj
+T*
+() Tj
+T*
+(   const reject = \(err\) => {) Tj
+T*
+(   if \(this.state !== 'PENDING'\) return;) Tj
+T*
+(   this.state = 'REJECTED';) Tj
+T*
+(   this.value = err;) Tj
+T*
+(   this.handlers.forEach\(h => h.onRejected\(err\)\);) Tj
+T*
+(   };) Tj
+T*
+() Tj
+T*
+(   try { executor\(resolve, reject\); } catch \(e\) { reject\(e\); }) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   then\(onFulfilled, onRejected\) {) Tj
+T*
+(   return new MyPromise\(\(res, rej\) => {) Tj
+T*
+(   const handle = \(\) => {) Tj
+T*
+(   if \(this.state === 'FULFILLED'\) {) Tj
+T*
+(   queueMicrotask\(\(\) => res\(onFulfilled ? onFulfilled\(this.value\) : this.value\)\);) Tj
+T*
+(   } else if \(this.state === 'REJECTED'\) {) Tj
+T*
+(   queueMicrotask\(\(\) => rej\(onRejected ? onRejected\(this.value\) : this.value\)\);) Tj
+T*
+(   } else {) Tj
+T*
+(   this.handlers.push\({) Tj
+T*
+(   onFulfilled: \(v\) => queueMicrotask\(\(\) => res\(onFulfilled ? onFulfilled\(v\) : v\)\),) Tj
+T*
+(   onRejected: \(r\) => queueMicrotask\(\(\) => rej\(onRejected ? onRejected\(r\) : r\)\)) Tj
+T*
+(   }\);) Tj
+T*
+ET
+
+endstream
+endobj
+49 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 50 0 R /Resources << /Font << /F1 59 0 R /F2 60 0 R >> >> >>
+endobj
+50 0 obj
+<< /Length 2501 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 24 of 28) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   }) Tj
+T*
+(   };) Tj
+T*
+(   handle\(\);) Tj
+T*
+(   }\);) Tj
+T*
+(   }) Tj
+T*
+(   catch\(onRejected\) { return this.then\(null, onRejected\); }) Tj
+T*
+(   }) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 23:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement an asynchronous Promise pool / concurrency throttle that limits parallel execution of tasks to at most N active promises.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Throttling parallel asynchronous tasks prevents overwhelming backend APIs:) Tj
+T*
+() Tj
+T*
+(   ```javascript) Tj
+T*
+(   async function promisePool\(tasks, limit = 3\) {) Tj
+T*
+(   const results = [];) Tj
+T*
+(   const executing = [];) Tj
+T*
+() Tj
+T*
+(   for \(const task of tasks\) {) Tj
+T*
+(   const p = Promise.resolve\(\).then\(\(\) => task\(\)\);) Tj
+T*
+(   results.push\(p\);) Tj
+T*
+() Tj
+T*
+(   if \(limit <= tasks.length\) {) Tj
+T*
+(   const e = p.then\(\(\) => executing.splice\(executing.indexOf\(e\), 1\)\);) Tj
+T*
+(   executing.push\(e\);) Tj
+T*
+(   if \(executing.length >= limit\) {) Tj
+T*
+(   await Promise.race\(executing\); // Wait until one active task frees up) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+(   return Promise.all\(results\);) Tj
+T*
+(   }) Tj
+T*
+(   // Executes 50 tasks with at most 3 running concurrently) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 24:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write a complete AJAX file upload widget using Fetch API and FormData with an interactive progress indicator.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Uploading files via Fetch and rendering progress:) Tj
+T*
+() Tj
+T*
+(   ```javascript) Tj
+T*
+(   async function uploadFile\(fileInput, progressBar\) {) Tj
+T*
+(   const file = fileInput.files[0];) Tj
+T*
+(   if \(!file\) return;) Tj
+T*
+() Tj
+T*
+(   const formData = new FormData\(\);) Tj
+T*
+(   formData.append\('document', file\);) Tj
+T*
+() Tj
+T*
+(   // Using XMLHttpRequest for accurate upload progress tracking) Tj
+T*
+ET
+
+endstream
+endobj
+51 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 52 0 R /Resources << /Font << /F1 59 0 R /F2 60 0 R >> >> >>
+endobj
+52 0 obj
+<< /Length 2540 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 25 of 28) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   return new Promise\(\(resolve, reject\) => {) Tj
+T*
+(   const xhr = new XMLHttpRequest\(\);) Tj
+T*
+(   xhr.open\('POST', '/api/upload'\);) Tj
+T*
+() Tj
+T*
+(   xhr.upload.onprogress = \(e\) => {) Tj
+T*
+(   if \(e.lengthComputable\) {) Tj
+T*
+(   const percent = Math.round\(\(e.loaded / e.total\) * 100\);) Tj
+T*
+(   progressBar.value = percent;) Tj
+T*
+(   progressBar.textContent = `${percent}%`;) Tj
+T*
+(   }) Tj
+T*
+(   };) Tj
+T*
+() Tj
+T*
+(   xhr.onload = \(\) => {) Tj
+T*
+(   if \(xhr.status >= 200 && xhr.status < 300\) resolve\(JSON.parse\(xhr.responseText\)\);) Tj
+T*
+(   else reject\(new Error\('Upload failed'\)\);) Tj
+T*
+(   };) Tj
+T*
+(   xhr.onerror = \(\) => reject\(new Error\('Network error during upload'\)\);) Tj
+T*
+(   xhr.send\(formData\);) Tj
+T*
+(   }\);) Tj
+T*
+(   }) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 25:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Demonstrate how to implement an Autocomplete Search Input with debounce, cached queries, and aborted in-flight requests.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Here is a complete autocomplete input controller:) Tj
+T*
+() Tj
+T*
+(   ```javascript) Tj
+T*
+(   const searchInput = document.getElementById\('search'\);) Tj
+T*
+(   const resultsList = document.getElementById\('results'\);) Tj
+T*
+(   const queryCache = new Map\(\);) Tj
+T*
+(   let abortController = null;) Tj
+T*
+() Tj
+T*
+(   searchInput.addEventListener\('input', debounce\(async \(e\) => {) Tj
+T*
+(   const query = e.target.value.trim\(\);) Tj
+T*
+(   if \(!query\) { resultsList.innerHTML = ''; return; }) Tj
+T*
+() Tj
+T*
+(   if \(queryCache.has\(query\)\) {) Tj
+T*
+(   renderResults\(queryCache.get\(query\)\);) Tj
+T*
+(   return;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   // Cancel previous pending search query) Tj
+T*
+(   if \(abortController\) abortController.abort\(\);) Tj
+T*
+(   abortController = new AbortController\(\);) Tj
+T*
+() Tj
+T*
+(   try {) Tj
+T*
+(   const res = await fetch\(`/api/search?q=${encodeURIComponent\(query\)}`, {) Tj
+T*
+(   signal: abortController.signal) Tj
+T*
+(   }\);) Tj
+T*
+(   const items = await res.json\(\);) Tj
+T*
+(   queryCache.set\(query, items\);) Tj
+T*
+ET
+
+endstream
+endobj
+53 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 54 0 R /Resources << /Font << /F1 59 0 R /F2 60 0 R >> >> >>
+endobj
+54 0 obj
+<< /Length 2570 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 26 of 28) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   renderResults\(items\);) Tj
+T*
+(   } catch \(err\) {) Tj
+T*
+(   if \(err.name !== 'AbortError'\) console.error\('Search error:', err\);) Tj
+T*
+(   }) Tj
+T*
+(   }, 300\)\);) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 26:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain how jQuery plugins are authored, writing a custom jQuery plugin `$.fn.tooltip\(\)` with configurable options.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   jQuery plugins extend `jQuery.fn` \(which is an alias for `jQuery.prototype`\):) Tj
+T*
+() Tj
+T*
+(   ```javascript) Tj
+T*
+(   \(function\($\) {) Tj
+T*
+(   $.fn.tooltip = function\(options\) {) Tj
+T*
+(   // Merge default options with user options) Tj
+T*
+(   const settings = $.extend\({) Tj
+T*
+(   background: '#333',) Tj
+T*
+(   color: '#fff',) Tj
+T*
+(   speed: 200) Tj
+T*
+(   }, options\);) Tj
+T*
+() Tj
+T*
+(   return this.each\(function\(\) {) Tj
+T*
+(   const $el = $\(this\);) Tj
+T*
+(   const titleText = $el.attr\('title'\);) Tj
+T*
+(   if \(!titleText\) return;) Tj
+T*
+() Tj
+T*
+(   $el.removeAttr\('title'\); // Prevent default browser tooltip) Tj
+T*
+(   const $tip = $\('<div class="custom-tooltip"></div>'\)) Tj
+T*
+(   .text\(titleText\)) Tj
+T*
+(   .css\({ background: settings.background, color: settings.color, position: 'absolute', display:) Tj
+T*
+(   'none' }\);) Tj
+T*
+(   $\('body'\).append\($tip\);) Tj
+T*
+() Tj
+T*
+(   $el.hover\() Tj
+T*
+(   \(\) => $tip.fadeIn\(settings.speed\),) Tj
+T*
+(   \(\) => $tip.fadeOut\(settings.speed\)) Tj
+T*
+(   \);) Tj
+T*
+(   }\);) Tj
+T*
+(   };) Tj
+T*
+(   }\)\(jQuery\);) Tj
+T*
+(   // Usage: $\('.tooltip-link'\).tooltip\({ background: '#0066cc' }\);) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 27:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the IndexedDB API and write a helper class to store and retrieve offline key-value records asynchronously.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   IndexedDB is an object-oriented, transactional database embedded natively in modern web) Tj
+T*
+(   browsers:) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+55 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 56 0 R /Resources << /Font << /F1 59 0 R /F2 60 0 R >> >> >>
+endobj
+56 0 obj
+<< /Length 3041 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 27 of 28) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   IndexedDB Helper Implementation:) Tj
+T*
+(   ```javascript) Tj
+T*
+(   class LocalDB {) Tj
+T*
+(   constructor\(dbName = 'AppDB', storeName = 'records'\) {) Tj
+T*
+(   this.dbName = dbName;) Tj
+T*
+(   this.storeName = storeName;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   async open\(\) {) Tj
+T*
+(   return new Promise\(\(resolve, reject\) => {) Tj
+T*
+(   const req = indexedDB.open\(this.dbName, 1\);) Tj
+T*
+(   req.onupgradeneeded = \(e\) => e.target.result.createObjectStore\(this.storeName, { keyPath: 'id') Tj
+T*
+(   }\);) Tj
+T*
+(   req.onsuccess = \(\) => resolve\(req.result\);) Tj
+T*
+(   req.onerror = \(\) => reject\(req.error\);) Tj
+T*
+(   }\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   async put\(record\) {) Tj
+T*
+(   const db = await this.open\(\);) Tj
+T*
+(   return new Promise\(\(resolve, reject\) => {) Tj
+T*
+(   const tx = db.transaction\(this.storeName, 'readwrite'\);) Tj
+T*
+(   const req = tx.objectStore\(this.storeName\).put\(record\);) Tj
+T*
+(   req.onsuccess = \(\) => resolve\(\);) Tj
+T*
+(   req.onerror = \(\) => reject\(req.error\);) Tj
+T*
+(   }\);) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 28:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze Security Vulnerabilities in AJAX applications: Cross-Origin Data Leakage, JSON Hijacking, and CSRF attacks.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   AJAX applications introduce unique attack surfaces requiring defense-in-depth:) Tj
+T*
+() Tj
+T*
+(   1. JSON Hijacking \(Historical Vulnerability\):) Tj
+T*
+(   Returning top-level JSON arrays \(`[{'secret': 'data'}]`\) allowed malicious sites to override) Tj
+T*
+(   the `Array` constructor and read data cross-origin via `<script src="/api/data">`. Mitigated by) Tj
+T*
+(   wrapping payloads in top-level JSON objects \(`{ 'data': [...] }`\) and prefixing with `\)]}',\\n`.) Tj
+T*
+() Tj
+T*
+(   2. Cross-Site Request Forgery \(CSRF\):) Tj
+T*
+(   Because browsers automatically attach session cookies to cross-origin requests, malicious sites) Tj
+T*
+(   could issue background POST requests. Defended using `SameSite=Strict` cookies, custom headers) Tj
+T*
+(   \(`X-Requested-With`\), and anti-CSRF synchronizer tokens.) Tj
+T*
+() Tj
+T*
+(   3. Cross-Origin Data Leakage via Misconfigured CORS:) Tj
+T*
+(   Reflecting incoming `Origin` headers into `Access-Control-Allow-Origin` without strict domain) Tj
+T*
+(   whitelisting allows unauthorized third-party sites to read sensitive user API responses.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 29:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+ET
+
+endstream
+endobj
+57 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 58 0 R /Resources << /Font << /F1 59 0 R /F2 60 0 R >> >> >>
+endobj
+58 0 obj
+<< /Length 2868 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 28 of 28) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   [Problem Statement]: Explain the Beacon API \(`navigator.sendBeacon\(\)`\) and contrast it with Fetch on page unload.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Transmitting telemetry data \(analytics, metrics\) when a user closes a browser tab was) Tj
+T*
+(   historically problematic:) Tj
+T*
+() Tj
+T*
+(   The Problem with Fetch/XHR on Unload:) Tj
+T*
+(   When an `unload` or `beforeunload` event fires, standard asynchronous `fetch\(\)` requests are) Tj
+T*
+(   often aborted immediately by the browser before headers transmit. Using synchronous XHR froze) Tj
+T*
+(   page closing, frustrating users.) Tj
+T*
+() Tj
+T*
+(   The Beacon API Solution:) Tj
+T*
+(   `navigator.sendBeacon\('/api/analytics', JSON.stringify\(metrics\)\);`) Tj
+T*
+() Tj
+T*
+(   Operational Advantages:) Tj
+T*
+(   - Asynchronous & Non-Blocking: Does not delay page teardown.) Tj
+T*
+(   - Browser-Managed Delivery: The browser guarantees transmission in the background even after) Tj
+T*
+(   the tab or process has terminated.) Tj
+T*
+(   - Uses HTTP POST automatically.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 30:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze Network Waterfall diagnostics in Browser Developer Tools: Queuing, DNS Lookup, Initial Connection, TTFB, and Content Download.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Profiling asynchronous web requests requires mastering the Network panel waterfall timing) Tj
+T*
+(   diagram:) Tj
+T*
+() Tj
+T*
+(   Waterfall Phases Breakdown:) Tj
+T*
+(   1. Queued / Stalled: Request was held in browser queue \(browsers cap simultaneous HTTP/1.1) Tj
+T*
+(   connections at 6 per domain\).) Tj
+T*
+(   2. DNS Lookup: Time spent resolving domain name to IP.) Tj
+T*
+(   3. Initial Connection \(TCP Handshake\): Time elapsed establishing TCP connection \(1 RTT\).) Tj
+T*
+(   4. SSL/TLS Negotiation: Time elapsed completing cryptographic TLS handshake.) Tj
+T*
+(   5. Request Sent: Time taken to push request bytes out across network interface.) Tj
+T*
+(   6. Time to First Byte \(TTFB\): Time waiting for server to process request and return first byte) Tj
+T*
+(   of response. High TTFB indicates slow backend server logic or database query bottlenecks.) Tj
+T*
+(   7. Content Download: Time taken to download the full response body payload. High download time) Tj
+T*
+(   indicates uncompressed assets or constrained bandwidth.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+59 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+60 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+xref
+0 61
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000302 00000 n 
+0000000446 00000 n 
+0000009408 00000 n 
+0000009552 00000 n 
+0000018976 00000 n 
+0000019120 00000 n 
+0000028799 00000 n 
+0000028944 00000 n 
+0000040106 00000 n 
+0000040252 00000 n 
+0000051876 00000 n 
+0000052022 00000 n 
+0000064602 00000 n 
+0000064748 00000 n 
+0000076832 00000 n 
+0000076978 00000 n 
+0000079132 00000 n 
+0000079278 00000 n 
+0000084023 00000 n 
+0000084169 00000 n 
+0000086683 00000 n 
+0000086829 00000 n 
+0000095244 00000 n 
+0000095390 00000 n 
+0000099382 00000 n 
+0000099528 00000 n 
+0000103278 00000 n 
+0000103424 00000 n 
+0000106419 00000 n 
+0000106565 00000 n 
+0000110380 00000 n 
+0000110526 00000 n 
+0000113371 00000 n 
+0000113517 00000 n 
+0000116750 00000 n 
+0000116896 00000 n 
+0000119967 00000 n 
+0000120113 00000 n 
+0000122925 00000 n 
+0000123071 00000 n 
+0000126730 00000 n 
+0000126876 00000 n 
+0000129749 00000 n 
+0000129895 00000 n 
+0000132266 00000 n 
+0000132412 00000 n 
+0000135012 00000 n 
+0000135158 00000 n 
+0000137712 00000 n 
+0000137858 00000 n 
+0000140451 00000 n 
+0000140597 00000 n 
+0000143220 00000 n 
+0000143366 00000 n 
+0000146460 00000 n 
+0000146606 00000 n 
+0000149527 00000 n 
+0000149625 00000 n 
+trailer
+<< /Size 61 /Root 1 0 R >>
+startxref
+149728
+%%EOF

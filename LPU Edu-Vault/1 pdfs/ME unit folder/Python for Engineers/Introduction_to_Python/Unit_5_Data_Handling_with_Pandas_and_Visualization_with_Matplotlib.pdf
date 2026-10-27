@@ -1,0 +1,10017 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R 35 0 R 37 0 R 39 0 R 41 0 R 43 0 R 45 0 R 47 0 R 49 0 R 51 0 R 53 0 R 55 0 R] /Count 27 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 4 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 7965 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 1 of 27) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(1.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What is the primary 1-dimensional labeled array) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(data structure in Pandas?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(DataFrame) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(Series) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(Panel) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(Array1D) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(2.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(What is the primary 2-dimensional tabular) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(labeled data structure in Pandas?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(Series) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(DataFrame) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(Matrix) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(Tensor) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(3.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(Which function is used to read data from a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(Comma-Separated Values file into a DataFrame?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.5001 Td
+(pd.read_table\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.9001 Td
+(pd.read_csv\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.3002 Td
+(pd.open_csv\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 587.7002 Td
+(pd.load_csv\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 564.1002 Td
+(4.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(Which method displays the first 5 rows of a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(DataFrame by default?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 543.2002 Td
+(df.top\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 533.6002 Td
+(df.head\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.0002 Td
+(df.first\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.4003 Td
+(df.preview\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 490.8003 Td
+(5.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 490.8003 Td
+(Which method displays the last 5 rows of a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6003 Td
+(DataFrame?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 469.9002 Td
+(df.bottom\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.3002 Td
+(df.tail\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 450.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 450.7002 Td
+(df.last\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.1002 Td
+(df.end\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 417.5002 Td
+(6.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 417.5002 Td
+(Which method provides a concise summary of) Tj
+ET
+BT
+/F1 7.8 Tf
+58 408.3002 Td
+(DataFrame info, memory usage, and column dtypes?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 396.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 396.6002 Td
+(df.summary\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 387.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 387.0002 Td
+(df.info\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.4002 Td
+(df.structure\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 367.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 367.8002 Td
+(df.glance\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 344.2002 Td
+(7.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 344.2002 Td
+(Which method generates descriptive statistics) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.0002 Td
+(including mean, std, min, and quartiles?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 323.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 323.3001 Td
+(df.stats\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 313.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 313.7001 Td
+(df.describe\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.1001 Td
+(df.metrics\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 294.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 294.5001 Td
+(df.values\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(8.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(How do you select a single column named) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+('voltage' from a DataFrame `df`?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(`df['voltage']` or `df.voltage`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(`df.col\('voltage'\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(`df.get_col\('voltage'\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(`df[['voltage']]` only) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(9.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(What indexer is used for purely label-based) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(selection in Pandas?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(.iloc) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(.loc) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(.ix) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(.at_pos) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(10.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(What indexer is used for purely) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(integer-position-based selection in Pandas?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.5001 Td
+(.loc) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.9001 Td
+(.iloc) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.3002 Td
+(.pos) Tj
+ET
+BT
+/F2 7.4 Tf
+322 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 587.7002 Td
+(.index) Tj
+ET
+BT
+/F2 8.0 Tf
+306 564.1002 Td
+(11.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.1002 Td
+(What does `df.iloc[0]` return?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 552.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 552.4002 Td
+(The first column) Tj
+ET
+BT
+/F2 7.4 Tf
+322 542.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 542.8002 Td
+(The first row as a Series) Tj
+ET
+BT
+/F2 7.4 Tf
+322 533.2003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 533.2003 Td
+(The column headers) Tj
+ET
+BT
+/F2 7.4 Tf
+322 523.6003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 523.6003 Td
+(The first element) Tj
+ET
+BT
+/F2 8.0 Tf
+306 500.0003 Td
+(12.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 500.0003 Td
+(What does `df.iloc[:, 0]` extract from a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 490.8003 Td
+(DataFrame?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 479.1003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 479.1003 Td
+(The first row) Tj
+ET
+BT
+/F2 7.4 Tf
+322 469.5003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 469.5003 Td
+(The first column as a Series) Tj
+ET
+BT
+/F2 7.4 Tf
+322 459.9003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 459.9003 Td
+(All rows and columns) Tj
+ET
+BT
+/F2 7.4 Tf
+322 450.3003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 450.3003 Td
+(The index labels) Tj
+ET
+BT
+/F2 8.0 Tf
+306 426.7003 Td
+(13.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 426.7003 Td
+(Which function checks for missing \(NaN or None\)) Tj
+ET
+BT
+/F1 7.8 Tf
+322 417.5002 Td
+(values across a DataFrame?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 405.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 405.8002 Td
+(df.is_empty\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 396.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 396.2002 Td
+(df.isna\(\) or df.isnull\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 386.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 386.6002 Td
+(df.check_null\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.0002 Td
+(df.missing\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 353.4002 Td
+(14.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 353.4002 Td
+(Which method drops rows containing missing) Tj
+ET
+BT
+/F1 7.8 Tf
+322 344.2002 Td
+(values from a DataFrame?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 332.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 332.5002 Td
+(df.drop_missing\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 322.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 322.9002 Td
+(df.dropna\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 313.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 313.3002 Td
+(df.remove_na\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 303.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 303.7002 Td
+(df.purge_na\(\)) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 6 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+6 0 obj
+<< /Length 8207 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 2 of 27) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(15.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Which method replaces missing NaN values with a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(specified value or strategy?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(df.replace_na\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(df.fillna\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(df.impute\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(df.set_default\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(16.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(What attribute returns the dimensions of a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(DataFrame as a \(rows, columns\) tuple?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(df.size) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(df.shape) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(df.dim) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(df.extent) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(17.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(What attribute returns the column names of a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(DataFrame?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.5001 Td
+(df.headers) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.9001 Td
+(df.columns) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.3002 Td
+(df.names) Tj
+ET
+BT
+/F2 7.4 Tf
+58 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 587.7002 Td
+(df.keys_list) Tj
+ET
+BT
+/F2 8.0 Tf
+42 564.1002 Td
+(18.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(How do you export a DataFrame to a CSV file) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(without saving the index column?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 543.2002 Td
+(df.to_csv\('out.csv', index=False\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 533.6002 Td
+(df.save_csv\('out.csv'\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.0002 Td
+(df.write_csv\('out.csv', no_index=True\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.4003 Td
+(df.export\('out.csv'\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 490.8003 Td
+(19.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 490.8003 Td
+(Which method deletes a specific column named) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6003 Td
+('temp' along axis 1?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 469.9002 Td
+(df.remove\('temp'\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.3002 Td
+(df.drop\('temp', axis=1\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 450.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 450.7002 Td
+(df.pop_col\('temp'\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.1002 Td
+(df.delete\('temp'\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 417.5002 Td
+(20.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 417.5002 Td
+(What does the parameter `inplace=True` do in) Tj
+ET
+BT
+/F1 7.8 Tf
+58 408.3002 Td
+(Pandas transformation methods?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 396.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 396.6002 Td
+(Creates a copy) Tj
+ET
+BT
+/F2 7.4 Tf
+58 387.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 387.0002 Td
+(Modifies the DataFrame directly in-place and) Tj
+ET
+BT
+/F1 7.4 Tf
+72 378.4002 Td
+(returns None) Tj
+ET
+BT
+/F2 7.4 Tf
+58 368.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 368.8002 Td
+(Writes to disk) Tj
+ET
+BT
+/F2 7.4 Tf
+58 359.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 359.2002 Td
+(Speeds up GPU) Tj
+ET
+BT
+/F2 8.0 Tf
+42 335.6002 Td
+(21.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.6002 Td
+(Which module from Matplotlib provides the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 326.4001 Td
+(standard state-machine plotting interface?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 314.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 314.7001 Td
+(matplotlib.plot) Tj
+ET
+BT
+/F2 7.4 Tf
+58 305.1001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 305.1001 Td
+(matplotlib.pyplot) Tj
+ET
+BT
+/F2 7.4 Tf
+58 295.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 295.5001 Td
+(matplotlib.pylab) Tj
+ET
+BT
+/F2 7.4 Tf
+58 285.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 285.9001 Td
+(matplotlib.draw) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(22.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Which command renders the generated plot figure) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(onto the screen display?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(plt.render\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(plt.show\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(plt.display\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(plt.draw_now\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(23.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(Which function sets the main title text of the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(current active plot?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(plt.heading\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(plt.title\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(plt.header\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(plt.main_text\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(24.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(Which functions label the horizontal and) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(vertical axes in Matplotlib?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.5001 Td
+(plt.x_axis\(\) and plt.y_axis\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.9001 Td
+(plt.xlabel\(\) and plt.ylabel\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.3002 Td
+(plt.set_x\(\) and plt.set_y\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 587.7002 Td
+(plt.labels\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 564.1002 Td
+(25.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.1002 Td
+(How do you enable gridlines on a plot?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 552.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 552.4002 Td
+(plt.enable_grid\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 542.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 542.8002 Td
+(plt.grid\(True\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 533.2003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 533.2003 Td
+(plt.lines\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 523.6003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 523.6003 Td
+(plt.show_grid\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 500.0003 Td
+(26.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 500.0003 Td
+(Which function adds a legend describing labeled) Tj
+ET
+BT
+/F1 7.8 Tf
+322 490.8003 Td
+(plot curves?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 479.1003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 479.1003 Td
+(plt.keys\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 469.5003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 469.5003 Td
+(plt.legend\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 459.9003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 459.9003 Td
+(plt.description\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 450.3003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 450.3003 Td
+(plt.labels\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 426.7003 Td
+(27.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 426.7003 Td
+(What shorthand color and linestyle code) Tj
+ET
+BT
+/F1 7.8 Tf
+322 417.5002 Td
+(represents a red dashed line in `plt.plot\(\)`?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 405.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 405.8002 Td
+('r--') Tj
+ET
+BT
+/F2 7.4 Tf
+322 396.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 396.2002 Td
+('red_dash') Tj
+ET
+BT
+/F2 7.4 Tf
+322 386.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 386.6002 Td
+('--r') Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.0002 Td
+('r-.') Tj
+ET
+BT
+/F2 8.0 Tf
+306 353.4002 Td
+(28.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 353.4002 Td
+(Which function creates a scatter plot of) Tj
+ET
+BT
+/F1 7.8 Tf
+322 344.2002 Td
+(individual coordinate markers?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 332.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 332.5002 Td
+(plt.points\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 322.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 322.9002 Td
+(plt.scatter\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 313.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 313.3002 Td
+(plt.dots\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 303.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 303.7002 Td
+(plt.markers\(\)) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 8 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+8 0 obj
+<< /Length 8400 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 3 of 27) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(29.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Which function generates a vertical bar chart?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 772.3 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 772.3 Td
+(plt.column\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 762.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 762.7 Td
+(plt.bar\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.1 Td
+(plt.histogram\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.5001 Td
+(plt.bars\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 719.9001 Td
+(30.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 719.9001 Td
+(Which function generates a horizontal bar chart?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 708.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 708.2001 Td
+(plt.hbar\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 698.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 698.6001 Td
+(plt.barh\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.0001 Td
+(plt.bar_horizontal\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 679.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 679.4001 Td
+(plt.side_bar\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 655.8002 Td
+(31.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 655.8002 Td
+(Which function plots a frequency distribution) Tj
+ET
+BT
+/F1 7.8 Tf
+58 646.6002 Td
+(histogram of numerical data?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 634.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 634.9001 Td
+(plt.freq\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 625.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 625.3002 Td
+(plt.hist\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 615.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 615.7002 Td
+(plt.dist\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.1002 Td
+(plt.bins\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 582.5002 Td
+(32.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 582.5002 Td
+(How do you specify the number of equal-width) Tj
+ET
+BT
+/F1 7.8 Tf
+58 573.3002 Td
+(bins in a histogram?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 561.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 561.6002 Td
+(`plt.hist\(data, bins=20\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 552.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 552.0002 Td
+(`plt.hist\(data, bars=20\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 542.4003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 542.4003 Td
+(`plt.hist\(data, slots=20\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 532.8003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 532.8003 Td
+(`plt.hist\(data, count=20\)`) Tj
+ET
+BT
+/F2 8.0 Tf
+42 509.2003 Td
+(33.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 509.2003 Td
+(Which function saves the active figure to an) Tj
+ET
+BT
+/F1 7.8 Tf
+58 500.0003 Td
+(image file \(e.g. PNG, PDF, SVG\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 488.3003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 488.3003 Td
+(plt.export\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 478.7003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 478.7003 Td
+(plt.savefig\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 469.1003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 469.1003 Td
+(plt.write_image\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 459.5003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 459.5003 Td
+(plt.dump\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 435.9003 Td
+(34.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 435.9003 Td
+(What parameter in `plt.savefig\(\)` controls the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 426.7003 Td
+(image resolution in dots per inch?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 415.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 415.0002 Td
+(resolution) Tj
+ET
+BT
+/F2 7.4 Tf
+58 405.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 405.4002 Td
+(dpi) Tj
+ET
+BT
+/F2 7.4 Tf
+58 395.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 395.8002 Td
+(scale) Tj
+ET
+BT
+/F2 7.4 Tf
+58 386.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 386.2002 Td
+(quality) Tj
+ET
+BT
+/F2 8.0 Tf
+42 362.6002 Td
+(35.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 362.6002 Td
+(What parameter in `plt.savefig\(\)` trims) Tj
+ET
+BT
+/F1 7.8 Tf
+58 353.4002 Td
+(redundant exterior whitespace margins?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 341.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 341.7002 Td
+(`bbox_inches='tight'`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 332.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 332.1002 Td
+(`trim=True`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 322.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 322.5002 Td
+(`margin='none'`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 312.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 312.9002 Td
+(`crop=True`) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(36.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Which function creates both a Figure and a grid) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(of Subplot Axes in a single call?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(plt.create_grid\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(plt.subplots\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(plt.multi_axes\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(plt.layout\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(37.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(What does `fig, \(ax1, ax2\) = plt.subplots\(2, 1\)`) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(create?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(2 side-by-side subplots) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(2 stacked subplots \(2 rows, 1 column\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(A 2x2 grid) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(Two separate figures) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(38.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(Which method on an Axes object sets the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(horizontal axis limits?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.5001 Td
+(ax.xlim\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.9001 Td
+(ax.set_xlim\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.3002 Td
+(ax.limit_x\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 587.7002 Td
+(ax.bounds_x\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 564.1002 Td
+(39.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.1002 Td
+(Which method on an Axes object sets the vertical) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(axis limits?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 543.2002 Td
+(ax.ylim\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 533.6002 Td
+(ax.set_ylim\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.0002 Td
+(ax.bounds_y\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.4003 Td
+(ax.range_y\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 490.8003 Td
+(40.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 490.8003 Td
+(What does `ax.set_yscale\('log'\)` do to a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6003 Td
+(Matplotlib plot?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 469.9002 Td
+(Applies natural log to data values) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.3002 Td
+(Changes the vertical axis scale to) Tj
+ET
+BT
+/F1 7.4 Tf
+336 451.7002 Td
+(logarithmic \(log10\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 442.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 442.1002 Td
+(Plots log error) Tj
+ET
+BT
+/F2 7.4 Tf
+322 432.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 432.5002 Td
+(Inverts axis) Tj
+ET
+BT
+/F2 8.0 Tf
+306 408.9002 Td
+(41.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 408.9002 Td
+(What does) Tj
+ET
+BT
+/F1 7.8 Tf
+322 399.7002 Td
+(`df.groupby\('sensor_id'\)['reading'].mean\(\)`) Tj
+ET
+BT
+/F1 7.8 Tf
+322 390.5002 Td
+(compute?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 378.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 378.8002 Td
+(Mean of reading across whole dataframe) Tj
+ET
+BT
+/F2 7.4 Tf
+322 369.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 369.2002 Td
+(Mean reading grouped separately for each) Tj
+ET
+BT
+/F1 7.4 Tf
+336 360.6002 Td
+(unique sensor_id) Tj
+ET
+BT
+/F2 7.4 Tf
+322 351.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 351.0002 Td
+(Sorts readings by sensor) Tj
+ET
+BT
+/F2 7.4 Tf
+322 341.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 341.4001 Td
+(Filters outliers) Tj
+ET
+BT
+/F2 8.0 Tf
+306 317.8001 Td
+(42.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 317.8001 Td
+(How do you compute both mean and standard) Tj
+ET
+BT
+/F1 7.8 Tf
+322 308.6001 Td
+(deviation simultaneously on grouped data?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 296.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 296.9001 Td
+(`df.groupby\('dev'\).agg\(['mean', 'std']\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 287.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 287.3001 Td
+(`df.groupby\('dev'\).calc\('mean', 'std'\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 277.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 277.7001 Td
+(`df.groupby\('dev'\).both\(\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 268.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 268.1001 Td
+(`df.groupby\('dev'\).describe\(\)` only) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 10 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+10 0 obj
+<< /Length 8403 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 4 of 27) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(43.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Which method sorts a DataFrame by the values of) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(one or more columns?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(df.order_by\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(df.sort_values\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(df.arrange\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(df.sort_by\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(44.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(Which function joins two DataFrames based on a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(shared database key column?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(pd.concat\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(pd.merge\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(pd.append\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(pd.glue\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(45.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(What is the default join type in `pd.merge\(df1,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(df2, on='id'\)`?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.5001 Td
+('outer') Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.9001 Td
+('inner') Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.3002 Td
+('left') Tj
+ET
+BT
+/F2 7.4 Tf
+58 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 587.7002 Td
+('right') Tj
+ET
+BT
+/F2 8.0 Tf
+42 564.1002 Td
+(46.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(What join type retains all rows from both) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(DataFrames, filling missing matches with NaN?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 543.2002 Td
+('inner') Tj
+ET
+BT
+/F2 7.4 Tf
+58 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 533.6002 Td
+('outer') Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.0002 Td
+('cross') Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.4003 Td
+('union') Tj
+ET
+BT
+/F2 8.0 Tf
+42 490.8003 Td
+(47.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 490.8003 Td
+(Which function stacks DataFrames along rows) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6003 Td
+(\(axis=0\) or columns \(axis=1\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 469.9002 Td
+(pd.merge\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.3002 Td
+(pd.concat\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 450.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 450.7002 Td
+(pd.join\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.1002 Td
+(pd.align\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 417.5002 Td
+(48.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 417.5002 Td
+(Which method transforms wide-format tabular data) Tj
+ET
+BT
+/F1 7.8 Tf
+58 408.3002 Td
+(into long-format tidy data?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 396.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 396.6002 Td
+(df.pivot\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 387.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 387.0002 Td
+(pd.melt\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.4002 Td
+(df.unstack\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 367.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 367.8002 Td
+(df.reshape\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 344.2002 Td
+(49.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 344.2002 Td
+(Which method creates a spreadsheet-style pivot) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.0002 Td
+(table with aggregation?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 323.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 323.3001 Td
+(df.crosstab\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 313.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 313.7001 Td
+(df.pivot_table\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.1001 Td
+(df.summarize\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 294.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 294.5001 Td
+(df.cross_pivot\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(50.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(How do you parse a column of date strings into) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(Pandas datetime format?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(`pd.to_datetime\(df['timestamp']\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(`df['timestamp'].as_date\(\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(`pd.parse_time\(\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(`pd.date_cast\(\)`) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(51.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(How do you extract the month integer from a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(datetime column `df['date']`?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(`df['date'].month`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(`df['date'].dt.month`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(`df['date'].to_month\(\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(`pd.get_month\(df['date']\)`) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(52.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(Which method downsamples or upsamples) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(time-series data at regular frequency intervals?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.5001 Td
+(df.sample\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.9001 Td
+(df.resample\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.3002 Td
+(df.interpolate\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 587.7002 Td
+(df.retime\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 564.1002 Td
+(53.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.1002 Td
+(What does `df.resample\('1h'\).mean\(\)` do to a 10) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(Hz telemetry dataset?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 543.2002 Td
+(Computes 1-hour hourly averages across all) Tj
+ET
+BT
+/F1 7.4 Tf
+336 534.6002 Td
+(timestamps) Tj
+ET
+BT
+/F2 7.4 Tf
+322 525.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 525.0002 Td
+(Filters out 1st hour) Tj
+ET
+BT
+/F2 7.4 Tf
+322 515.4003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 515.4003 Td
+(Samples 1 row per hour) Tj
+ET
+BT
+/F2 7.4 Tf
+322 505.8003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 505.8003 Td
+(Interpolates hourly) Tj
+ET
+BT
+/F2 8.0 Tf
+306 482.2003 Td
+(54.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 482.2003 Td
+(Which method computes the rolling moving average) Tj
+ET
+BT
+/F1 7.8 Tf
+322 473.0002 Td
+(over a window of 50 samples?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 461.3002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 461.3002 Td
+(df.moving\(50\).mean\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 451.7002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 451.7002 Td
+(df.rolling\(window=50\).mean\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 442.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 442.1002 Td
+(df.sliding\(50\).mean\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 432.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 432.5002 Td
+(df.window\(50\).avg\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 408.9002 Td
+(55.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 408.9002 Td
+(What does `df.ewm\(span=20\).mean\(\)` calculate?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 397.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 397.2002 Td
+(Exponential Moving Average \(EMA\) with span) Tj
+ET
+BT
+/F1 7.4 Tf
+336 388.6002 Td
+(20) Tj
+ET
+BT
+/F2 7.4 Tf
+322 379.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 379.0002 Td
+(Equal weight mean) Tj
+ET
+BT
+/F2 7.4 Tf
+322 369.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 369.4002 Td
+(Rolling median) Tj
+ET
+BT
+/F2 7.4 Tf
+322 359.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 359.8002 Td
+(Cumulative product) Tj
+ET
+BT
+/F2 8.0 Tf
+306 336.2002 Td
+(56.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 336.2002 Td
+(How do you perform vector string operations such) Tj
+ET
+BT
+/F1 7.8 Tf
+322 327.0002 Td
+(as finding substrings in a Series?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 315.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 315.3001 Td
+(`df['str_col'].str.contains\('pattern'\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 305.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 305.7001 Td
+(`df['str_col'].contains\('pattern'\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 296.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 296.1001 Td
+(`pattern in df['str_col']`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 286.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 286.5001 Td
+(`df['str_col'].find\('pattern'\)`) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 12 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+12 0 obj
+<< /Length 8866 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 5 of 27) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(57.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Which method changes column data types to) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(category for memory optimization?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(`df['band'].astype\('category'\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(`df['band'].to_cat\(\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(`df['band'].categorize\(\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(`pd.Categorical\(df\)`) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(58.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(What does `df.duplicated\(\)` return?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 699.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 699.0001 Td
+(A DataFrame of unique rows) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.4001 Td
+(A boolean Series indicating duplicated rows) Tj
+ET
+BT
+/F2 7.4 Tf
+58 679.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 679.8001 Td
+(Count of duplicates) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.2001 Td
+(Drops duplicates) Tj
+ET
+BT
+/F2 8.0 Tf
+42 646.6002 Td
+(59.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 646.6002 Td
+(Which method removes duplicate rows from a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(DataFrame?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 625.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 625.7001 Td
+(df.clean_duplicates\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.1002 Td
+(df.drop_duplicates\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.5002 Td
+(df.unique_rows\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 596.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 596.9002 Td
+(df.purge_dups\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 573.3002 Td
+(60.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 573.3002 Td
+(How do you filter a DataFrame where voltage >) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(3.0 AND current < 0.5?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 552.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 552.4002 Td
+(`df[\(df['voltage'] > 3.0\) and \(df['current']) Tj
+ET
+BT
+/F1 7.4 Tf
+72 543.8002 Td
+(< 0.5\)]`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 534.2003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 534.2003 Td
+(`df[\(df['voltage'] > 3.0\) & \(df['current'] <) Tj
+ET
+BT
+/F1 7.4 Tf
+72 525.6003 Td
+(0.5\)]`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 516.0003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 516.0003 Td
+(`df[df.voltage > 3.0 || df.current < 0.5]`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 506.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 506.4003 Td
+(`df.where\(v > 3.0, c < 0.5\)`) Tj
+ET
+BT
+/F2 8.0 Tf
+42 482.8003 Td
+(61.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 482.8003 Td
+(Why does using the Python keyword `and` fail for) Tj
+ET
+BT
+/F1 7.8 Tf
+58 473.6003 Td
+(element-wise boolean DataFrame filtering?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 461.9003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 461.9003 Td
+(Because `and` evaluates the truth value of) Tj
+ET
+BT
+/F1 7.4 Tf
+72 453.3003 Td
+(the entire Series container as a single) Tj
+ET
+BT
+/F1 7.4 Tf
+72 444.7003 Td
+(ambiguous truth, requiring bitwise `&`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 435.1003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 435.1003 Td
+(Pandas syntax error) Tj
+ET
+BT
+/F2 7.4 Tf
+58 425.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 425.5002 Td
+(Python bug) Tj
+ET
+BT
+/F2 7.4 Tf
+58 415.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 415.9002 Td
+(Keyword `and` is deprecated) Tj
+ET
+BT
+/F2 8.0 Tf
+42 392.3002 Td
+(62.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 392.3002 Td
+(Which method creates a secondary y-axis sharing) Tj
+ET
+BT
+/F1 7.8 Tf
+58 383.1002 Td
+(the same x-axis on a Matplotlib plot?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 371.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 371.4002 Td
+(ax.secondary_y\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 361.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 361.8002 Td
+(ax.twinx\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 352.2002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 352.2002 Td
+(ax.twiny\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 342.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 342.6002 Td
+(ax.dual_axis\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 319.0002 Td
+(63.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 319.0002 Td
+(What is the primary use case of `ax.twinx\(\)` in) Tj
+ET
+BT
+/F1 7.8 Tf
+58 309.8002 Td
+(electrical engineering plots?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 298.1002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 298.1002 Td
+(Plotting voltage and current on the same) Tj
+ET
+BT
+/F1 7.4 Tf
+72 289.5002 Td
+(time scale with different measurement units) Tj
+ET
+BT
+/F1 7.4 Tf
+72 280.9001 Td
+(and magnitudes) Tj
+ET
+BT
+/F2 7.4 Tf
+58 271.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 271.3001 Td
+(Displaying 3D surfaces) Tj
+ET
+BT
+/F2 7.4 Tf
+58 261.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 261.7001 Td
+(Comparing two frequencies) Tj
+ET
+BT
+/F2 7.4 Tf
+58 252.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 252.1001 Td
+(Mirroring curves) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(64.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Which function fills the area between two curves) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(on a plot?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(plt.fill\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(plt.fill_between\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(plt.shade\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(plt.color_area\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(65.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(What parameter in `plt.plot\(\)` or) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(`plt.scatter\(\)` controls the transparency of) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(points or lines?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.6 Td
+(transparency) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.0001 Td
+(alpha) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.4001 Td
+(opacity) Tj
+ET
+BT
+/F2 7.4 Tf
+322 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 651.8001 Td
+(blend) Tj
+ET
+BT
+/F2 8.0 Tf
+306 628.2001 Td
+(66.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(How do you plot error bars with standard) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(deviation bars on data points?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.3001 Td
+(plt.error\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.7001 Td
+(plt.errorbar\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.1002 Td
+(plt.std_plot\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 578.5002 Td
+(plt.bars\(with_error=True\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 554.9002 Td
+(67.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(Which function creates a 2D pseudocolor heat map) Tj
+ET
+BT
+/F1 7.8 Tf
+322 545.7002 Td
+(of a matrix on a rectangular grid?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 534.0002 Td
+(plt.heatmap\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.4002 Td
+(plt.pcolormesh\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.8002 Td
+(plt.color_grid\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 505.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 505.2002 Td
+(plt.raster\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 481.6002 Td
+(68.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6002 Td
+(Which function displays a 2D image or matrix) Tj
+ET
+BT
+/F1 7.8 Tf
+322 472.4002 Td
+(with pixel interpolation?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.7002 Td
+(plt.render_image\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 451.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 451.1002 Td
+(plt.imshow\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.5002 Td
+(plt.picture\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 431.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 431.9002 Td
+(plt.pixel_plot\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 408.3002 Td
+(69.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 408.3002 Td
+(Which function adds a color bar legend showing) Tj
+ET
+BT
+/F1 7.8 Tf
+322 399.1002 Td
+(the mapping of values to colors?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.4001 Td
+(plt.legend\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.8001 Td
+(plt.colorbar\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 368.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 368.2001 Td
+(plt.palette\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 358.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 358.6001 Td
+(plt.cmap_bar\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 335.0001 Td
+(70.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 335.0001 Td
+(How do you set a figure size to 10 inches wide) Tj
+ET
+BT
+/F1 7.8 Tf
+322 325.8001 Td
+(by 6 inches high?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 314.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 314.1001 Td
+(`plt.figure\(figsize=\(10, 6\)\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.5001 Td
+(`plt.size\(10, 6\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 294.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 294.9001 Td
+(`plt.dimensions\(10, 6\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 285.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 285.3001 Td
+(`plt.window\(10, 6\)`) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 14 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+14 0 obj
+<< /Length 10139 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 6 of 27) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(71.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Which function adjusts subplot spacing) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(parameters so labels and tick marks do not) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(overlap?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(plt.auto_space\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.3 Td
+(plt.tight_layout\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.7 Td
+(plt.clean_layout\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.1 Td
+(plt.fit_plot\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 701.5001 Td
+(72.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(What is the purpose of `plt.subplot2grid\(\)` or) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.3 Td
+(`GridSpec` in Matplotlib?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.6 Td
+(Enables complex multi-column and multi-row) Tj
+ET
+BT
+/F1 7.4 Tf
+72 672.0001 Td
+(subplot layouts of varying spans and sizes) Tj
+ET
+BT
+/F2 7.4 Tf
+58 662.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 662.4001 Td
+(Generates 3D CAD meshes) Tj
+ET
+BT
+/F2 7.4 Tf
+58 652.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 652.8001 Td
+(Draws resistor grids) Tj
+ET
+BT
+/F2 7.4 Tf
+58 643.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 643.2001 Td
+(Imports Excel sheets) Tj
+ET
+BT
+/F2 8.0 Tf
+42 619.6002 Td
+(73.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.6002 Td
+(Which function sets custom tick positions on the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 610.4001 Td
+(x-axis?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 598.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 598.7001 Td
+(plt.x_ticks\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 589.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 589.1002 Td
+(plt.xticks\(\) or ax.set_xticks\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 579.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 579.5002 Td
+(plt.set_xmarks\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 569.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 569.9002 Td
+(plt.axis_ticks\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 546.3002 Td
+(74.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 546.3002 Td
+(Which function sets custom text tick labels on) Tj
+ET
+BT
+/F1 7.8 Tf
+58 537.1002 Td
+(the x-axis?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 525.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 525.4002 Td
+(plt.xticklabels\(\) or ax.set_xticklabels\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 515.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 515.8002 Td
+(plt.x_names\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 506.2002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 506.2002 Td
+(plt.set_axis_labels\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 496.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 496.6002 Td
+(plt.xtext\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 473.0002 Td
+(75.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 473.0002 Td
+(What does `plt.axhline\(y=0, color='k',) Tj
+ET
+BT
+/F1 7.8 Tf
+58 463.8002 Td
+(linestyle='--'\)` draw?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 452.1002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 452.1002 Td
+(A vertical marker line) Tj
+ET
+BT
+/F2 7.4 Tf
+58 442.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 442.5002 Td
+(A horizontal dashed black reference line) Tj
+ET
+BT
+/F1 7.4 Tf
+72 433.9002 Td
+(across the entire plot at y=0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 424.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 424.3002 Td
+(A diagonal asymptote) Tj
+ET
+BT
+/F2 7.4 Tf
+58 414.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 414.7002 Td
+(A point marker) Tj
+ET
+BT
+/F2 8.0 Tf
+42 391.1002 Td
+(76.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 391.1002 Td
+(What causes the notorious) Tj
+ET
+BT
+/F1 7.8 Tf
+58 381.9001 Td
+(`SettingWithCopyWarning` in Pandas?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 370.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 370.2001 Td
+(Modifying a DataFrame slice created by) Tj
+ET
+BT
+/F1 7.4 Tf
+72 361.6001 Td
+(chained indexing \(`df[a][b] = val`\) where) Tj
+ET
+BT
+/F1 7.4 Tf
+72 353.0001 Td
+(Pandas cannot determine if slice is view or) Tj
+ET
+BT
+/F1 7.4 Tf
+72 344.4001 Td
+(copy) Tj
+ET
+BT
+/F2 7.4 Tf
+58 334.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 334.8001 Td
+(Using deprecated numpy versions) Tj
+ET
+BT
+/F2 7.4 Tf
+58 325.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 325.2001 Td
+(Writing to read-only disk) Tj
+ET
+BT
+/F2 7.4 Tf
+58 315.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 315.6001 Td
+(Type mismatch during assignment) Tj
+ET
+BT
+/F2 8.0 Tf
+42 292.0001 Td
+(77.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 292.0001 Td
+(How is `SettingWithCopyWarning` completely) Tj
+ET
+BT
+/F1 7.8 Tf
+58 282.8001 Td
+(avoided during assignment?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 271.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 271.1001 Td
+(Always use single `.loc[row_indexer,) Tj
+ET
+BT
+/F1 7.4 Tf
+72 262.5001 Td
+(col_indexer] = val` indexing) Tj
+ET
+BT
+/F2 7.4 Tf
+58 252.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 252.9001 Td
+(Disable warnings using filterwarnings) Tj
+ET
+BT
+/F2 7.4 Tf
+58 243.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 243.3 Td
+(Use Python for loops) Tj
+ET
+BT
+/F2 7.4 Tf
+58 233.7 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 233.7 Td
+(Cast to dict first) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(78.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What major architectural feature in Pandas 2.0+) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(eliminates `SettingWithCopyWarning` entirely?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(Copy-on-Write \(CoW\) mode) Tj
+ET
+BT
+/F1 7.4 Tf
+336 754.5 Td
+(\(`pd.options.mode.copy_on_write = True`\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.9 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.9 Td
+(Automatic multithreading) Tj
+ET
+BT
+/F2 7.4 Tf
+322 735.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 735.3 Td
+(Discarding NumPy backend) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.7001 Td
+(Disallowing slicing) Tj
+ET
+BT
+/F2 8.0 Tf
+306 702.1001 Td
+(79.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 702.1001 Td
+(What was the traditional internal memory manager) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.9001 Td
+(in Pandas called, and why did it fragment) Tj
+ET
+BT
+/F1 7.8 Tf
+322 683.7001 Td
+(memory?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 672.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 672.0001 Td
+(BlockManager, which grouped columns by dtype) Tj
+ET
+BT
+/F1 7.4 Tf
+336 663.4001 Td
+(into 2D numpy blocks, causing massive memory) Tj
+ET
+BT
+/F1 7.4 Tf
+336 654.8001 Td
+(duplication on single column modifications) Tj
+ET
+BT
+/F2 7.4 Tf
+322 645.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 645.2001 Td
+(HeapManager) Tj
+ET
+BT
+/F2 7.4 Tf
+322 635.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 635.6002 Td
+(PointerArray) Tj
+ET
+BT
+/F2 7.4 Tf
+322 626.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 626.0002 Td
+(ColumnStacker) Tj
+ET
+BT
+/F2 8.0 Tf
+306 602.4002 Td
+(80.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 602.4002 Td
+(What is the primary advantage of Apache Arrow) Tj
+ET
+BT
+/F1 7.8 Tf
+322 593.2002 Td
+(backend integration in Pandas 2.0) Tj
+ET
+BT
+/F1 7.8 Tf
+322 584.0002 Td
+(\(`dtype_backend='pyarrow'`\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 572.3002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 572.3002 Td
+(Zero-copy data sharing, native missing data) Tj
+ET
+BT
+/F1 7.4 Tf
+336 563.7002 Td
+(handling, and SIMD string performance) Tj
+ET
+BT
+/F1 7.4 Tf
+336 555.1002 Td
+(without Python object conversion) Tj
+ET
+BT
+/F2 7.4 Tf
+322 545.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 545.5002 Td
+(Direct GPU rendering) Tj
+ET
+BT
+/F2 7.4 Tf
+322 535.9003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 535.9003 Td
+(Automatic cloud sync) Tj
+ET
+BT
+/F2 7.4 Tf
+322 526.3003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 526.3003 Td
+(Smaller font rendering) Tj
+ET
+BT
+/F2 8.0 Tf
+306 502.7003 Td
+(81.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 502.7003 Td
+(What does `df.eval\(\)` and `df.query\(\)` use) Tj
+ET
+BT
+/F1 7.8 Tf
+322 493.5003 Td
+(internally to accelerate string-based DataFrame) Tj
+ET
+BT
+/F1 7.8 Tf
+322 484.3003 Td
+(operations?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 472.6003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 472.6003 Td
+(Numexpr engine, evaluating expressions in) Tj
+ET
+BT
+/F1 7.4 Tf
+336 464.0003 Td
+(chunks without allocating large intermediate) Tj
+ET
+BT
+/F1 7.4 Tf
+336 455.4003 Td
+(memory arrays) Tj
+ET
+BT
+/F2 7.4 Tf
+322 445.8003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 445.8003 Td
+(Regular expressions) Tj
+ET
+BT
+/F2 7.4 Tf
+322 436.2003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 436.2003 Td
+(Python eval\(\) function) Tj
+ET
+BT
+/F2 7.4 Tf
+322 426.6003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 426.6003 Td
+(Subprocess execution) Tj
+ET
+BT
+/F2 8.0 Tf
+306 403.0002 Td
+(82.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 403.0002 Td
+(Why does `df['category_col'].astype\('category'\)`) Tj
+ET
+BT
+/F1 7.8 Tf
+322 393.8002 Td
+(dramatically reduce RAM consumption for repeated) Tj
+ET
+BT
+/F1 7.8 Tf
+322 384.6002 Td
+(text?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 372.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 372.9002 Td
+(It replaces strings with small integer codes) Tj
+ET
+BT
+/F1 7.4 Tf
+336 364.3002 Td
+(\(int8/int16\) and maintains a single small) Tj
+ET
+BT
+/F1 7.4 Tf
+336 355.7002 Td
+(dictionary of unique category labels) Tj
+ET
+BT
+/F2 7.4 Tf
+322 346.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 346.1002 Td
+(It zips the strings) Tj
+ET
+BT
+/F2 7.4 Tf
+322 336.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 336.5002 Td
+(It drops duplicates) Tj
+ET
+BT
+/F2 7.4 Tf
+322 326.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 326.9002 Td
+(It encrypts strings) Tj
+ET
+BT
+/F2 8.0 Tf
+306 303.3002 Td
+(83.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 303.3002 Td
+(What does `pd.MultiIndex.from_tuples\(\)`) Tj
+ET
+BT
+/F1 7.8 Tf
+322 294.1002 Td
+(construct?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 282.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 282.4001 Td
+(A hierarchical multi-level index along rows) Tj
+ET
+BT
+/F1 7.4 Tf
+336 273.8001 Td
+(or columns) Tj
+ET
+BT
+/F2 7.4 Tf
+322 264.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 264.2001 Td
+(A binary search index) Tj
+ET
+BT
+/F2 7.4 Tf
+322 254.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 254.6001 Td
+(A primary database key) Tj
+ET
+BT
+/F2 7.4 Tf
+322 245.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 245.0001 Td
+(A spatial coordinate tree) Tj
+ET
+BT
+/F2 8.0 Tf
+306 221.4001 Td
+(84.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 221.4001 Td
+(How do you select data from an inner level of a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 212.2001 Td
+(MultiIndex without dropping outer levels?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 200.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 200.5001 Td
+(`df.xs\(key, level=1\)` or `IndexSlice`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 190.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 190.9001 Td
+(`df.inner_loc\(\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 181.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 181.3001 Td
+(`df.level_get\(\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 171.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 171.7001 Td
+(`df.slice_level\(\)`) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 16 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+16 0 obj
+<< /Length 10615 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 7 of 27) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(85.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What is the Artist hierarchy in Matplotlib's) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(object-oriented architecture?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(Figure -> Canvas -> Axes -> Axis, Tick,) Tj
+ET
+BT
+/F1 7.4 Tf
+72 754.5 Td
+(Line2D, Text, Collections) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.9 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.9 Td
+(Window -> Screen -> Pixels) Tj
+ET
+BT
+/F2 7.4 Tf
+58 735.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 735.3 Td
+(Widget -> Layout -> View) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.7001 Td
+(Chart -> Trace -> Marker) Tj
+ET
+BT
+/F2 8.0 Tf
+42 702.1001 Td
+(86.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 702.1001 Td
+(What is Matplotlib 'Blitting' used for in) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.9001 Td
+(real-time engineering instruments \(e.g. software) Tj
+ET
+BT
+/F1 7.8 Tf
+58 683.7001 Td
+(oscilloscopes\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 672.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 672.0001 Td
+(Redrawing only modified dynamic artists) Tj
+ET
+BT
+/F1 7.4 Tf
+72 663.4001 Td
+(\(lines\) without re-rendering static) Tj
+ET
+BT
+/F1 7.4 Tf
+72 654.8001 Td
+(backgrounds, achieving 60+ FPS animation) Tj
+ET
+BT
+/F2 7.4 Tf
+58 645.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 645.2001 Td
+(Color dithering) Tj
+ET
+BT
+/F2 7.4 Tf
+58 635.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 635.6002 Td
+(Anti-aliasing text) Tj
+ET
+BT
+/F2 7.4 Tf
+58 626.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 626.0002 Td
+(Hardware 3D rendering) Tj
+ET
+BT
+/F2 8.0 Tf
+42 602.4002 Td
+(87.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 602.4002 Td
+(Which class from `matplotlib.animation` handles) Tj
+ET
+BT
+/F1 7.8 Tf
+58 593.2002 Td
+(frame-based animated plotting?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 581.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 581.5002 Td
+(PlotAnimator) Tj
+ET
+BT
+/F2 7.4 Tf
+58 571.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 571.9002 Td
+(FuncAnimation) Tj
+ET
+BT
+/F2 7.4 Tf
+58 562.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 562.3002 Td
+(LiveFeed) Tj
+ET
+BT
+/F2 7.4 Tf
+58 552.7003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 552.7003 Td
+(DynamicPlotter) Tj
+ET
+BT
+/F2 8.0 Tf
+42 529.1003 Td
+(88.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 529.1003 Td
+(How do you plot a 2D Fourier Spectrogram with) Tj
+ET
+BT
+/F1 7.8 Tf
+58 519.9003 Td
+(time on x-axis and frequency on y-axis in) Tj
+ET
+BT
+/F1 7.8 Tf
+58 510.7003 Td
+(Matplotlib?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 499.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 499.0002 Td
+(`plt.specgram\(signal, Fs=fs, NFFT=256,) Tj
+ET
+BT
+/F1 7.4 Tf
+72 490.4002 Td
+(noverlap=128\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 480.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 480.8002 Td
+(`plt.spectrogram\(signal\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 471.2002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 471.2002 Td
+(`plt.fft2d\(signal\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 461.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 461.6002 Td
+(`plt.fourier_map\(signal\)`) Tj
+ET
+BT
+/F2 8.0 Tf
+42 438.0002 Td
+(89.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 438.0002 Td
+(Which function from `scipy.signal` calculates) Tj
+ET
+BT
+/F1 7.8 Tf
+58 428.8002 Td
+(Short-Time Fourier Transform spectrogram) Tj
+ET
+BT
+/F1 7.8 Tf
+58 419.6002 Td
+(matrices for Pandas DataFrames?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 407.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 407.9002 Td
+(`scipy.signal.spectrogram\(\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 398.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 398.3002 Td
+(`scipy.signal.fft_table\(\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 388.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 388.7002 Td
+(`scipy.signal.stft_grid\(\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 379.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 379.1002 Td
+(`scipy.signal.waterfall\(\)`) Tj
+ET
+BT
+/F2 8.0 Tf
+42 355.5002 Td
+(90.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 355.5002 Td
+(What is a Bode plot in frequency response) Tj
+ET
+BT
+/F1 7.8 Tf
+58 346.3001 Td
+(analysis, and how is it structured in) Tj
+ET
+BT
+/F1 7.8 Tf
+58 337.1001 Td
+(Matplotlib?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 325.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 325.4001 Td
+(Two vertically aligned subplots sharing) Tj
+ET
+BT
+/F1 7.4 Tf
+72 316.8001 Td
+(x-axis: top plot is Magnitude in dB vs Log) Tj
+ET
+BT
+/F1 7.4 Tf
+72 308.2001 Td
+(Frequency; bottom plot is Phase in degrees) Tj
+ET
+BT
+/F1 7.4 Tf
+72 299.6001 Td
+(vs Log Frequency) Tj
+ET
+BT
+/F2 7.4 Tf
+58 290.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 290.0001 Td
+(A 3D surface plot) Tj
+ET
+BT
+/F2 7.4 Tf
+58 280.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 280.4001 Td
+(A polar circle diagram) Tj
+ET
+BT
+/F2 7.4 Tf
+58 270.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 270.8001 Td
+(A time-domain envelope plot) Tj
+ET
+BT
+/F2 8.0 Tf
+42 247.2001 Td
+(91.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 247.2001 Td
+(Which command sets logarithmic spacing on the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 238.0001 Td
+(horizontal frequency axis in Matplotlib?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 226.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 226.3001 Td
+(`ax.set_xscale\('log'\)` or `plt.semilogx\(\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 216.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 216.7001 Td
+(`ax.log_axis\(0\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 207.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 207.1001 Td
+(`plt.x_log10\(\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 197.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 197.5001 Td
+(`ax.scale_x\('exponential'\)`) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(92.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(How do you plot eye diagrams in digital) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(communications to evaluate Intersymbol) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(Interference \(ISI\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(Folding periodic signal segments of 2 symbol) Tj
+ET
+BT
+/F1 7.4 Tf
+336 745.3 Td
+(intervals overlaid on top of each other) Tj
+ET
+BT
+/F1 7.4 Tf
+336 736.7 Td
+(using Matplotlib) Tj
+ET
+BT
+/F2 7.4 Tf
+322 727.1 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 727.1 Td
+(Computing FFT phase) Tj
+ET
+BT
+/F2 7.4 Tf
+322 717.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 717.5001 Td
+(Plotting constellation points) Tj
+ET
+BT
+/F2 7.4 Tf
+322 707.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 707.9001 Td
+(Using polar coordinates) Tj
+ET
+BT
+/F2 8.0 Tf
+306 684.3001 Td
+(93.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 684.3001 Td
+(Which function in Matplotlib generates a polar) Tj
+ET
+BT
+/F1 7.8 Tf
+322 675.1001 Td
+(coordinate plot \(e.g. for antenna radiation) Tj
+ET
+BT
+/F1 7.8 Tf
+322 665.9001 Td
+(patterns\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 654.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 654.2001 Td
+(`plt.subplot\(projection='polar'\)` or) Tj
+ET
+BT
+/F1 7.4 Tf
+336 645.6001 Td
+(`plt.polar\(\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 636.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 636.0001 Td
+(`plt.circle_plot\(\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 626.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 626.4001 Td
+(`plt.azimuth_plot\(\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.8002 Td
+(`plt.radial\(\)`) Tj
+ET
+BT
+/F2 8.0 Tf
+306 593.2002 Td
+(94.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 593.2002 Td
+(What does `df.memory_usage\(deep=True\)` reveal) Tj
+ET
+BT
+/F1 7.8 Tf
+322 584.0002 Td
+(compared to `df.memory_usage\(\)`?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 572.3002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 572.3002 Td
+(Includes the actual memory allocated by) Tj
+ET
+BT
+/F1 7.4 Tf
+336 563.7002 Td
+(Python string objects referenced by pointers) Tj
+ET
+BT
+/F1 7.4 Tf
+336 555.1002 Td
+(in object dtypes) Tj
+ET
+BT
+/F2 7.4 Tf
+322 545.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 545.5002 Td
+(Scans disk storage) Tj
+ET
+BT
+/F2 7.4 Tf
+322 535.9003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 535.9003 Td
+(Includes operating system cache) Tj
+ET
+BT
+/F2 7.4 Tf
+322 526.3003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 526.3003 Td
+(Shows virtual RAM) Tj
+ET
+BT
+/F2 8.0 Tf
+306 502.7003 Td
+(95.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 502.7003 Td
+(What is the difference between `df.apply\(\)` and) Tj
+ET
+BT
+/F1 7.8 Tf
+322 493.5003 Td
+(`df.map\(\)` / `df.applymap\(\)`?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 481.8003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 481.8003 Td
+(`apply\(\)` operates along DataFrame axes) Tj
+ET
+BT
+/F1 7.4 Tf
+336 473.2003 Td
+(\(rows or columns\); `map\(\)` operates) Tj
+ET
+BT
+/F1 7.4 Tf
+336 464.6003 Td
+(element-wise on a Series; `applymap\(\)` \(now) Tj
+ET
+BT
+/F1 7.4 Tf
+336 456.0003 Td
+(`map`\) operates element-wise on DataFrames) Tj
+ET
+BT
+/F2 7.4 Tf
+322 446.4003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 446.4003 Td
+(No difference) Tj
+ET
+BT
+/F2 7.4 Tf
+322 436.8003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 436.8003 Td
+(apply\(\) only works on numbers) Tj
+ET
+BT
+/F2 7.4 Tf
+322 427.2003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 427.2003 Td
+(map\(\) is for geographic data) Tj
+ET
+BT
+/F2 8.0 Tf
+306 403.6003 Td
+(96.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 403.6003 Td
+(Why is `df.apply\(\)` with a Python lambda) Tj
+ET
+BT
+/F1 7.8 Tf
+322 394.4002 Td
+(generally much slower than vectorized NumPy) Tj
+ET
+BT
+/F1 7.8 Tf
+322 385.2002 Td
+(operations?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 373.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 373.5002 Td
+(It executes an interpreted Python function) Tj
+ET
+BT
+/F1 7.4 Tf
+336 364.9002 Td
+(loop over every row, incurring CPython) Tj
+ET
+BT
+/F1 7.4 Tf
+336 356.3002 Td
+(function invocation overhead) Tj
+ET
+BT
+/F2 7.4 Tf
+322 346.7002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 346.7002 Td
+(It runs on a single thread) Tj
+ET
+BT
+/F2 7.4 Tf
+322 337.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 337.1002 Td
+(It converts floats to strings) Tj
+ET
+BT
+/F2 7.4 Tf
+322 327.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 327.5002 Td
+(It duplicates the DataFrame) Tj
+ET
+BT
+/F2 8.0 Tf
+306 303.9002 Td
+(97.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 303.9002 Td
+(Which method computes the cross-tabulation) Tj
+ET
+BT
+/F1 7.8 Tf
+322 294.7002 Td
+(frequency of two factors in Pandas?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 283.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 283.0002 Td
+(pd.cross_tab\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 273.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 273.4001 Td
+(pd.crosstab\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 263.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 263.8001 Td
+(pd.frequency_table\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 254.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 254.2001 Td
+(pd.contingency\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 230.6001 Td
+(98.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 230.6001 Td
+(How do you configure Matplotlib to use LaTeX) Tj
+ET
+BT
+/F1 7.8 Tf
+322 221.4001 Td
+(font rendering for publication-quality) Tj
+ET
+BT
+/F1 7.8 Tf
+322 212.2001 Td
+(engineering papers?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 200.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 200.5001 Td
+(`plt.rcParams.update\({'text.usetex': True,) Tj
+ET
+BT
+/F1 7.4 Tf
+336 191.9001 Td
+('font.family': 'serif'}\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 182.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 182.3001 Td
+(`plt.latex_mode\(True\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 172.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 172.7001 Td
+(`plt.enable_tex\(\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 163.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 163.1001 Td
+(`plt.font\('latex'\)`) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 18 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+18 0 obj
+<< /Length 1540 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 8 of 27) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(99.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What parameter in `pd.read_csv\(\)` allows reading) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(extremely large multi-gigabyte telemetry files) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(in chunks?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(`chunksize=N`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.3 Td
+(`batch_size=N`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.7 Td
+(`stream_rows=N`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.1 Td
+(`iter_chunk=N`) Tj
+ET
+BT
+/F2 8.0 Tf
+42 691.5001 Td
+(100.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 691.5001 Td
+(What does iterating over) Tj
+ET
+BT
+/F1 7.8 Tf
+58 682.3 Td
+(`pd.read_csv\('telemetry.csv', chunksize=10000\)`) Tj
+ET
+BT
+/F1 7.8 Tf
+58 673.1 Td
+(yield?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.4 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.4 Td
+(An iterator of DataFrames, each containing) Tj
+ET
+BT
+/F1 7.4 Tf
+72 652.8 Td
+(10,000 rows) Tj
+ET
+BT
+/F2 7.4 Tf
+58 643.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 643.2001 Td
+(A list of lists) Tj
+ET
+BT
+/F2 7.4 Tf
+58 633.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 633.6001 Td
+(A memory-mapped array) Tj
+ET
+BT
+/F2 7.4 Tf
+58 624.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 624.0001 Td
+(A dictionary of rows) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 20 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+20 0 obj
+<< /Length 4767 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 9 of 27) Tj
+ET
+BT
+/F2 10 Tf
+45 780 Td
+(SECTION B: DESCRIPTIVE & SUBJECTIVE QUESTIONS) Tj
+ET
+BT
+/F2 8.5 Tf
+45 760 Td
+(Q1. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 760 Td
+(Explain the core internal architecture of Pandas Series and DataFrames, detailing index alignment) Tj
+ET
+BT
+/F1 8.5 Tf
+72 749.5 Td
+(and columnar memory layout.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 724.5 Td
+(Q2. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 724.5 Td
+(Contrast label-based indexing `.loc` with integer-position-based indexing `.iloc` in Pandas with) Tj
+ET
+BT
+/F1 8.5 Tf
+72 714 Td
+(boundary condition examples.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 689 Td
+(Q3. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 689 Td
+(Analyze the `SettingWithCopyWarning` in Pandas: root causes, memory hazards, and the Copy-on-Write) Tj
+ET
+BT
+/F1 8.5 Tf
+72 678.5 Td
+(\(CoW\) solution in Pandas 2.0+.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 653.5 Td
+(Q4. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 653.5 Td
+(Explain data aggregation and transformation using `groupby\(\)`, `agg\(\)`, `transform\(\)`, and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 643 Td
+(`apply\(\)` in Pandas.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 618 Td
+(Q5. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 618 Td
+(Demonstrate handling missing telemetry data in Pandas: detection, deletion strategies, and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 607.5 Td
+(forward/backward/interpolation imputation.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 582.5 Td
+(Q6. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 582.5 Td
+(Explain merging, joining, and concatenation of DataFrames with relational database semantics) Tj
+ET
+BT
+/F1 8.5 Tf
+72 572 Td
+(\(Inner, Outer, Left, Right\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 547 Td
+(Q7. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 547 Td
+(Demonstrate reshaping operations in Pandas: `pivot\(\)`, `pivot_table\(\)`, `melt\(\)`, and multi-index) Tj
+ET
+BT
+/F1 8.5 Tf
+72 536.5 Td
+(stacking.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 511.5 Td
+(Q8. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 511.5 Td
+(Detail time-series analysis in Pandas: DatetimeIndex, frequency strings, shifting, rolling) Tj
+ET
+BT
+/F1 8.5 Tf
+72 501 Td
+(statistics, and resampling.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 476 Td
+(Q9. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 476 Td
+(Explain memory optimization strategies in Pandas: categorical data types, numeric downcasting, and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 465.5 Td
+(PyArrow backends.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 440.5 Td
+(Q10. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 440.5 Td
+(Describe the object-oriented architecture of Matplotlib: Figure, Axes, Axis, Tick, and Artist) Tj
+ET
+BT
+/F1 8.5 Tf
+72 430 Td
+(hierarchy.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 405 Td
+(Q11. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 405 Td
+(Demonstrate plotting twin axes \(`ax.twinx\(\)`\) for dual-parameter engineering plots with distinct) Tj
+ET
+BT
+/F1 8.5 Tf
+72 394.5 Td
+(units and scales.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 369.5 Td
+(Q12. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 369.5 Td
+(Explain how to construct a complete Bode Plot in Matplotlib showing Magnitude in dB and Phase in) Tj
+ET
+BT
+/F1 8.5 Tf
+72 359 Td
+(degrees.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 334 Td
+(Q13. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 334 Td
+(Demonstrate plotting a Short-Time Fourier Transform \(STFT\) Spectrogram using `plt.pcolormesh` and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 323.5 Td
+(custom colormaps.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 298.5 Td
+(Q14. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 298.5 Td
+(Explain Matplotlib animation via `FuncAnimation` and the concept of 'Blitting' for high-refresh) Tj
+ET
+BT
+/F1 8.5 Tf
+72 288 Td
+(oscilloscope displays.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 263 Td
+(Q15. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 263 Td
+(Demonstrate reading multi-gigabyte CSV telemetry files in chunks using `chunksize` and building an) Tj
+ET
+BT
+/F1 8.5 Tf
+72 252.5 Td
+(aggregated summary.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 227.5 Td
+(Q16. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 227.5 Td
+(Explain how to plot 3D surface and wireframe plots in Matplotlib using `mpl_toolkits.mplot3d` for) Tj
+ET
+BT
+/F1 8.5 Tf
+72 217 Td
+(antenna beam patterns.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 192 Td
+(Q17. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 192 Td
+(Demonstrate custom date formatting and locator configuration on Matplotlib time axes using) Tj
+ET
+BT
+/F1 8.5 Tf
+72 181.5 Td
+(`matplotlib.dates`.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 156.5 Td
+(Q18. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 156.5 Td
+(Explain the use of `GridSpec` in Matplotlib for creating complex dashboard layouts with asymmetric) Tj
+ET
+BT
+/F1 8.5 Tf
+72 146 Td
+(subplots.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 121 Td
+(Q19. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 121 Td
+(Detail string manipulation techniques in Pandas using `.str` accessor methods \(Regex extraction,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 110.5 Td
+(splitting, replacing\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 85.5 Td
+(Q20. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 85.5 Td
+(Explain hierarchical MultiIndex operations in Pandas: creation, slicing with `IndexSlice`, and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 75 Td
+(cross-sections \(`.xs`\).) Tj
+ET
+
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 22 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+22 0 obj
+<< /Length 2352 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 10 of 27) Tj
+ET
+BT
+/F2 8.5 Tf
+45 780 Td
+(Q21. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 780 Td
+(Implement an automated end-to-end data pipeline in Pandas to clean, calibrate, and filter IoT) Tj
+ET
+BT
+/F1 8.5 Tf
+72 769.5 Td
+(wireless sensor node packets.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 743.5 Td
+(Q22. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 743.5 Td
+(Write a Python script using Matplotlib to plot an Eye Diagram for evaluating Intersymbol) Tj
+ET
+BT
+/F1 8.5 Tf
+72 733 Td
+(Interference in PAM-4 signals.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 707 Td
+(Q23. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 707 Td
+(Implement a custom publication-grade Matplotlib style sheet programmatically using) Tj
+ET
+BT
+/F1 8.5 Tf
+72 696.5 Td
+(`matplotlib.rcParams`.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 670.5 Td
+(Q24. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 670.5 Td
+(Explain how to plot antenna radiation patterns on polar coordinates using) Tj
+ET
+BT
+/F1 8.5 Tf
+72 660 Td
+(`matplotlib.pyplot.polar`.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 634 Td
+(Q25. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 634 Td
+(Implement an automated anomaly detection system on streaming time-series in Pandas using) Tj
+ET
+BT
+/F1 8.5 Tf
+72 623.5 Td
+(Exponential Moving Averages.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 597.5 Td
+(Q26. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 597.5 Td
+(Write a Python script to plot a Smith Chart impedance visualization using Matplotlib.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 561 Td
+(Q27. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 561 Td
+(Explain how to export interactive web visualizations using Plotly and compare performance against) Tj
+ET
+BT
+/F1 8.5 Tf
+72 550.5 Td
+(static Matplotlib.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 524.5 Td
+(Q30. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 524.5 Td
+(Implement an automated PDF report generation pipeline using Matplotlib `PdfPages` combining) Tj
+ET
+BT
+/F1 8.5 Tf
+72 514 Td
+(multi-page test results.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 488 Td
+(Q28. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 488 Td
+(Demonstrate optimizing Pandas queries on 50-million-row DataFrames using Dask or Polars lazy) Tj
+ET
+BT
+/F1 8.5 Tf
+72 477.5 Td
+(evaluation.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 451.5 Td
+(Q29. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 451.5 Td
+(Explain custom colormap generation in Matplotlib for high-contrast thermal imaging and microwave) Tj
+ET
+BT
+/F1 8.5 Tf
+72 441 Td
+(field intensity maps.) Tj
+ET
+
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 24 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+24 0 obj
+<< /Length 8362 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 11 of 27) Tj
+ET
+BT
+/F2 11 Tf
+45 780 Td
+(SECTION C: ANSWER KEY - MULTIPLE CHOICE QUESTIONS) Tj
+ET
+0.5 w
+45 772 m 550 772 l S
+BT
+/F2 8.5 Tf
+45 750 Td
+(Q1: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 750 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 734 Td
+(Q2: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 734 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 718 Td
+(Q3: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 718 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 702 Td
+(Q4: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 702 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 686 Td
+(Q5: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 686 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 670 Td
+(Q6: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 670 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 654 Td
+(Q7: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 654 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 638 Td
+(Q8: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 622 Td
+(Q9: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 622 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 606 Td
+(Q10: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 606 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 590 Td
+(Q11: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 590 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 574 Td
+(Q12: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 574 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 558 Td
+(Q13: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 558 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 542 Td
+(Q14: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 542 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 526 Td
+(Q15: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 526 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 510 Td
+(Q16: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 510 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 494 Td
+(Q17: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 494 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 478 Td
+(Q18: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 462 Td
+(Q19: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 462 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 446 Td
+(Q20: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 446 Td
+([B]) Tj
+ET
+0.2 w
+135 755 m 135 425 l S
+BT
+/F2 8.5 Tf
+145 750 Td
+(Q21: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 750 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 734 Td
+(Q22: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 734 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 718 Td
+(Q23: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 718 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 702 Td
+(Q24: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 702 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 686 Td
+(Q25: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 686 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 670 Td
+(Q26: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 670 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 654 Td
+(Q27: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 638 Td
+(Q28: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 638 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 622 Td
+(Q29: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 622 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 606 Td
+(Q30: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 606 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 590 Td
+(Q31: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 590 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 574 Td
+(Q32: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 558 Td
+(Q33: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 558 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 542 Td
+(Q34: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 542 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 526 Td
+(Q35: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 510 Td
+(Q36: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 510 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 494 Td
+(Q37: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 494 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 478 Td
+(Q38: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 478 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 462 Td
+(Q39: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 462 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 446 Td
+(Q40: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 446 Td
+([B]) Tj
+ET
+0.2 w
+235 755 m 235 425 l S
+BT
+/F2 8.5 Tf
+245 750 Td
+(Q41: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 750 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 734 Td
+(Q42: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 718 Td
+(Q43: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 718 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 702 Td
+(Q44: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 702 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 686 Td
+(Q45: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 686 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 670 Td
+(Q46: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 670 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 654 Td
+(Q47: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 654 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 638 Td
+(Q48: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 638 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 622 Td
+(Q49: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 622 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 606 Td
+(Q50: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 590 Td
+(Q51: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 590 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 574 Td
+(Q52: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 574 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 558 Td
+(Q53: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 542 Td
+(Q54: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 542 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 526 Td
+(Q55: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 510 Td
+(Q56: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 494 Td
+(Q57: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 478 Td
+(Q58: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 478 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 462 Td
+(Q59: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 462 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 446 Td
+(Q60: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 446 Td
+([B]) Tj
+ET
+0.2 w
+335 755 m 335 425 l S
+BT
+/F2 8.5 Tf
+345 750 Td
+(Q61: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 734 Td
+(Q62: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 734 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 718 Td
+(Q63: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 702 Td
+(Q64: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 702 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 686 Td
+(Q65: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 686 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 670 Td
+(Q66: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 670 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 654 Td
+(Q67: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 654 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 638 Td
+(Q68: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 638 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 622 Td
+(Q69: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 622 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 606 Td
+(Q70: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 590 Td
+(Q71: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 590 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 574 Td
+(Q72: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 558 Td
+(Q73: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 558 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 542 Td
+(Q74: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 526 Td
+(Q75: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 526 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 510 Td
+(Q76: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 494 Td
+(Q77: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 478 Td
+(Q78: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 462 Td
+(Q79: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 446 Td
+(Q80: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 446 Td
+([A]) Tj
+ET
+0.2 w
+435 755 m 435 425 l S
+BT
+/F2 8.5 Tf
+445 750 Td
+(Q81: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 734 Td
+(Q82: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 718 Td
+(Q83: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 702 Td
+(Q84: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 686 Td
+(Q85: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 670 Td
+(Q86: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 654 Td
+(Q87: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 654 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 638 Td
+(Q88: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 622 Td
+(Q89: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 606 Td
+(Q90: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 590 Td
+(Q91: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 574 Td
+(Q92: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 558 Td
+(Q93: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 542 Td
+(Q94: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 526 Td
+(Q95: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 510 Td
+(Q96: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 494 Td
+(Q97: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 494 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 478 Td
+(Q98: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 462 Td
+(Q99: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 446 Td
+(Q100: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 446 Td
+([A]) Tj
+ET
+0.5 w
+45 400 m 550 400 l 550 340 l 45 340 l s
+BT
+/F2 9 Tf
+55 382 Td
+(MCQ Scoring Guide & Difficulty Distribution:) Tj
+ET
+BT
+/F1 8.5 Tf
+55 366 Td
+(Questions 1 to 40: Foundational & Conceptual [Easy] | Questions 41 to 75: Analytical & Applied [Moderate]) Tj
+ET
+BT
+/F1 8.5 Tf
+55 350 Td
+(Questions 76 to 100: Complex Numerical & Advanced Problem Solving [Difficult]) Tj
+ET
+
+endstream
+endobj
+25 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 26 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+26 0 obj
+<< /Length 3867 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 12 of 27) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(SECTION D: DETAILED SOLUTIONS FOR SUBJECTIVE QUESTIONS) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(================================================================================) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 1:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the core internal architecture of Pandas Series and DataFrames, detailing index alignment and columnar memory layout.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Architecture Overview:) Tj
+T*
+() Tj
+T*
+(   1. Pandas Series:) Tj
+T*
+(   A Series is a 1-dimensional labeled array composed of two primary synchronized arrays:) Tj
+T*
+(   - A NumPy `ndarray` \(or Arrow chunked array\) storing homogeneous data values.) Tj
+T*
+(   - An `Index` object storing immutable axis labels \(integers, strings, or timestamps\).) Tj
+T*
+() Tj
+T*
+(   2. Pandas DataFrame:) Tj
+T*
+(   A DataFrame is a 2-dimensional tabular data structure with heterogeneous column data types.) Tj
+T*
+(   Internally, columns are managed by a columnar block manager where columns of identical dtypes) Tj
+T*
+(   are grouped into contiguous 2D NumPy arrays.) Tj
+T*
+() Tj
+T*
+(   Automatic Index Alignment:) Tj
+T*
+(   The defining engineering feature of Pandas is automatic index alignment during operations. When) Tj
+T*
+(   performing arithmetic between two Series: `s1 + s2`, Pandas does not blindly add elements at) Tj
+T*
+(   identical physical integer offsets. Instead, it performs an outer union on their labels,) Tj
+T*
+(   matching identical keys and populating `NaN` for non-matching labels, preventing silent data) Tj
+T*
+(   misalignments in asynchronous telemetry feeds.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 2:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Contrast label-based indexing `.loc` with integer-position-based indexing `.iloc` in Pandas with boundary condition examples.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Indexing Comparison:) Tj
+T*
+() Tj
+T*
+(   1. `.loc` \(Label-Based Indexing\):) Tj
+T*
+(   - Selects rows and columns based on index and column names/labels.) Tj
+T*
+(   - Slicing is INCLUSIVE of both the start and the stop label:) Tj
+T*
+(   `df.loc['2026-01-01':'2026-01-05']` includes data from January 5th!) Tj
+T*
+(   - Supports boolean series masks: `df.loc[df['voltage'] > 3.3, ['ch1', 'ch2']]`.) Tj
+T*
+() Tj
+T*
+(   2. `.iloc` \(Integer-Position-Based Indexing\):) Tj
+T*
+(   - Selects rows and columns based on zero-based integer physical array offsets \(0 to N-1\).) Tj
+T*
+(   - Slicing follows standard Python semi-open interval semantics: EXCLUSIVE of the stop boundary:) Tj
+T*
+(   `df.iloc[0:5]` selects exactly rows 0, 1, 2, 3, 4 \(5 rows total\).) Tj
+T*
+(   - Rejects boolean series if their indices do not match integer positions.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 3:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze the `SettingWithCopyWarning` in Pandas: root causes, memory hazards, and the Copy-on-Write \(CoW\) solution in Pandas 2.0+.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Root Cause of `SettingWithCopyWarning`:) Tj
+T*
+() Tj
+T*
+(   This warning occurs when performing chained indexing assignment:) Tj
+T*
+(   `df[df['ch'] == 1]['voltage'] = 3.3`) Tj
+T*
+(   In this code, `df[df['ch'] == 1]` is evaluated first. Pandas may return either an in-memory) Tj
+T*
+ET
+
+endstream
+endobj
+27 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 28 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+28 0 obj
+<< /Length 3169 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 13 of 27) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   view or an independent copy. If it returns a copy, assigning `['voltage'] = 3.3` modifies that) Tj
+T*
+(   temporary copy which is immediately discarded, leaving the original `df` completely unmodified!) Tj
+T*
+() Tj
+T*
+(   Best Practice Solution:) Tj
+T*
+(   Use single-step `.loc` assignment:) Tj
+T*
+(   `df.loc[df['ch'] == 1, 'voltage'] = 3.3`) Tj
+T*
+() Tj
+T*
+(   Pandas 2.0+ Copy-on-Write \(CoW\) Paradigm:) Tj
+T*
+(   Under CoW \(`pd.options.mode.copy_on_write = True`\), any DataFrame slice created is guaranteed) Tj
+T*
+(   to be a shallow view until a write is attempted. When a write occurs, Pandas lazily allocates a) Tj
+T*
+(   copy of that specific column only, completely eradicating ambiguity and eliminating) Tj
+T*
+(   `SettingWithCopyWarning`.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 4:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain data aggregation and transformation using `groupby\(\)`, `agg\(\)`, `transform\(\)`, and `apply\(\)` in Pandas.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Split-Apply-Combine Workflow:) Tj
+T*
+() Tj
+T*
+(   1. `groupby\(key\)`: Partitions rows into groups sharing identical keys.) Tj
+T*
+() Tj
+T*
+(   2. `agg\(func_list\)` \(Aggregation\):) Tj
+T*
+(   Reduces each group into a single summary scalar \(e.g. mean, sum, std\):) Tj
+T*
+(   ```python) Tj
+T*
+(   summary = df.groupby\('module_id'\)['temp'].agg\(['mean', 'std', 'max']\)) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(   3. `transform\(func\)` \(Broadcasted Group Operations\):) Tj
+T*
+(   Applies a transformation to each group and returns an output of the EXACT same length as the) Tj
+T*
+(   original DataFrame, aligned with original indices:) Tj
+T*
+(   ```python) Tj
+T*
+(   # Calculate group-wise z-score normalization) Tj
+T*
+(   df['z_score'] = df.groupby\('sensor'\)['reading'].transform\() Tj
+T*
+(   lambda x: \(x - x.mean\(\)\) / x.std\(\)) Tj
+T*
+(   \)) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(   4. `apply\(custom_func\)`:) Tj
+T*
+(   Passes each group as an entire sub-DataFrame to a Python function, enabling flexible) Tj
+T*
+(   multi-column calculations.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 5:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Demonstrate handling missing telemetry data in Pandas: detection, deletion strategies, and forward/backward/interpolation imputation.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Handling Corrupted and Missing Telemetry Samples:) Tj
+T*
+() Tj
+T*
+(   In real-world data loggers, wireless packet drops produce missing intervals \(`np.nan`\).) Tj
+T*
+() Tj
+T*
+(   1. Detection: `df.isna\(\).sum\(\)` reveals missing counts per channel.) Tj
+T*
+() Tj
+T*
+(   2. Deletion Strategies:) Tj
+T*
+ET
+
+endstream
+endobj
+29 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 30 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+30 0 obj
+<< /Length 3365 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 14 of 27) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - `df.dropna\(how='any'\)`: Drops rows if any channel has missing data.) Tj
+T*
+(   - `df.dropna\(subset=['critical_channel']\)`: Drops only when key telemetry is lost.) Tj
+T*
+() Tj
+T*
+(   3. Imputation Techniques:) Tj
+T*
+(   - Constant Filling: `df.fillna\(0.0\)`) Tj
+T*
+(   - Forward Fill \(`ffill`\): Propagates the last valid measured reading forward in time, matching) Tj
+T*
+(   physical sample-and-hold circuit behavior: `df.ffill\(\)`.) Tj
+T*
+(   - Backward Fill \(`bfill`\): Propagates the next valid future sample backward: `df.bfill\(\)`.) Tj
+T*
+(   - Polynomial and Spline Interpolation:) Tj
+T*
+(   `df['voltage'].interpolate\(method='time'\)` fits smooth mathematical curves across missing) Tj
+T*
+(   timestamps.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 6:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain merging, joining, and concatenation of DataFrames with relational database semantics \(Inner, Outer, Left, Right\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Relational DataFrame Combination:) Tj
+T*
+() Tj
+T*
+(   1. `pd.merge\(left, right, on='key', how='inner|outer|left|right'\)`:) Tj
+T*
+(   - Inner Join: Retains only keys present in BOTH DataFrames.) Tj
+T*
+(   - Outer Join: Retains all keys from both; missing matches are filled with NaN.) Tj
+T*
+(   - Left Join: Retains all rows from left; adds columns from right where keys match.) Tj
+T*
+(   - Right Join: Retains all rows from right.) Tj
+T*
+() Tj
+T*
+(   2. `pd.concat\([df1, df2], axis=0\)`:) Tj
+T*
+(   Glues DataFrames vertically \(stacking logs sequentially in time\) or horizontally \(axis=1,) Tj
+T*
+(   joining synchronized sensor streams\).) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   # Merge sensor readings with calibration lookup table) Tj
+T*
+(   calibrated = pd.merge\(readings_df, calib_table, on='sensor_model', how='left'\)) Tj
+T*
+(   calibrated['corr_val'] = calibrated['raw'] * calibrated['gain'] + calibrated['offset']) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 7:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Demonstrate reshaping operations in Pandas: `pivot\(\)`, `pivot_table\(\)`, `melt\(\)`, and multi-index stacking.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Tabular Reshaping Workflows:) Tj
+T*
+() Tj
+T*
+(   1. Melting \(Wide to Long Tidy Format\):) Tj
+T*
+(   Converts multiple measurement columns into variable-value row pairs:) Tj
+T*
+(   ```python) Tj
+T*
+(   long_df = pd.melt\(wide_df, id_vars=['timestamp'], value_vars=['CH1', 'CH2', 'CH3'],) Tj
+T*
+(   var_name='channel', value_name='voltage'\)) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(   2. Pivoting \(Long to Wide Format\):) Tj
+T*
+(   Inverts melted data, turning unique channel names into individual column headers:) Tj
+T*
+(   ```python) Tj
+T*
+(   wide_df = long_df.pivot\(index='timestamp', columns='channel', values='voltage'\)) Tj
+T*
+(   ```) Tj
+T*
+ET
+
+endstream
+endobj
+31 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 32 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+32 0 obj
+<< /Length 3223 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 15 of 27) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   3. `pivot_table\(\)`:) Tj
+T*
+(   Handles duplicate index-column combinations by applying an aggregation function \(e.g.) Tj
+T*
+(   `aggfunc='mean'`\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 8:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Detail time-series analysis in Pandas: DatetimeIndex, frequency strings, shifting, rolling statistics, and resampling.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Time-Series Engineering Pipeline:) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   import pandas as pd) Tj
+T*
+() Tj
+T*
+(   # 1. Parse timestamps and establish DatetimeIndex) Tj
+T*
+(   df['time'] = pd.to_datetime\(df['time_str']\)) Tj
+T*
+(   df.set_index\('time', inplace=True\)) Tj
+T*
+() Tj
+T*
+(   # 2. Resampling \(Downsampling 1 kHz vibration data to 1-second RMS\)) Tj
+T*
+(   rms_1s = df['accel'].resample\('1s'\).apply\(lambda s: np.sqrt\(np.mean\(s**2\)\)\)) Tj
+T*
+() Tj
+T*
+(   # 3. Time Shifting \(Lag analysis for communication delay\)) Tj
+T*
+(   df['tx_delayed'] = df['tx_signal'].shift\(periods=5\) # 5 sample delay) Tj
+T*
+() Tj
+T*
+(   # 4. Rolling Statistics \(Moving Average Filter\)) Tj
+T*
+(   df['smooth_power'] = df['power_w'].rolling\(window='100ms'\).mean\(\)) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(   Having a DatetimeIndex enables intuitive date-range slicing: `df['2026-10-26 14:00':'2026-10-26) Tj
+T*
+(   15:00']`.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 9:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain memory optimization strategies in Pandas: categorical data types, numeric downcasting, and PyArrow backends.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Memory Reduction Techniques for High-Throughput Logs:) Tj
+T*
+() Tj
+T*
+(   1. Categorical Casting: String columns with repeated values \(e.g. state names, sensor IDs\)) Tj
+T*
+(   store an 8-byte pointer per row plus the string object \(~50 bytes\). Converting via `df['state']) Tj
+T*
+(   = df['state'].astype\('category'\)` replaces strings with 1-byte integer keys \(`int8`\), saving up) Tj
+T*
+(   to 90% RAM.) Tj
+T*
+() Tj
+T*
+(   2. Numeric Downcasting: Default integers are `int64` \(8 bytes\) and floats are `float64` \(8) Tj
+T*
+(   bytes\). For ADC data that fits within 12 bits, downcasting to `int16` \(`pd.to_numeric\(...,) Tj
+T*
+(   downcast='integer'\)`\) cuts memory consumption by 75%.) Tj
+T*
+() Tj
+T*
+(   3. PyArrow Backend \(`pd.read_csv\(..., engine='pyarrow', dtype_backend='pyarrow'\)`\):) Tj
+T*
+(   Stores data in contiguous Arrow buffers, eliminates Python string object wrappers, enables SIMD) Tj
+T*
+(   processing, and provides native bitmask null handling.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+33 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 34 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+34 0 obj
+<< /Length 3161 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 16 of 27) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 10:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Describe the object-oriented architecture of Matplotlib: Figure, Axes, Axis, Tick, and Artist hierarchy.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Matplotlib Object-Oriented Hierarchy:) Tj
+T*
+() Tj
+T*
+(   1. `Figure`:) Tj
+T*
+(   The top-level container that represents the entire window or page canvas. It manages subplots,) Tj
+T*
+(   global figure titles \(`suptitle`\), and overall dimensions \(`figsize`\).) Tj
+T*
+() Tj
+T*
+(   2. `Axes`:) Tj
+T*
+(   The actual plotting area or subplot coordinate system. An Axes object contains:) Tj
+T*
+(   - Two \(or three in 3D\) `Axis` objects that regulate coordinate limits, ticks, and tick labels.) Tj
+T*
+(   - Plot title, x/y labels, legends, and gridlines.) Tj
+T*
+(   - All drawn graphical `Artists` \(lines, bars, text, polygons\).) Tj
+T*
+() Tj
+T*
+(   3. `Artist` Base Class:) Tj
+T*
+(   Everything visible on the canvas is an `Artist` \(e.g. `Line2D`, `Rectangle`, `Circle`, `Text`\).) Tj
+T*
+(   Rendering proceeds by traversing the Artist tree and calling each artist's `draw\(renderer\)`) Tj
+T*
+(   method onto the backend canvas.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 11:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Demonstrate plotting twin axes \(`ax.twinx\(\)`\) for dual-parameter engineering plots with distinct units and scales.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Dual-Axis Plotting in Electrical Engineering:) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   import matplotlib.pyplot as plt) Tj
+T*
+(   import numpy as np) Tj
+T*
+() Tj
+T*
+(   t = np.linspace\(0, 0.02, 1000\) # 20 ms \(50 Hz cycle\)) Tj
+T*
+(   voltage = 230 * np.sqrt\(2\) * np.sin\(2 * np.pi * 50 * t\)) Tj
+T*
+(   current = 10 * np.sqrt\(2\) * np.sin\(2 * np.pi * 50 * t - np.pi/6\) # Lagging PF) Tj
+T*
+() Tj
+T*
+(   fig, ax1 = plt.subplots\(figsize=\(10, 5\)\)) Tj
+T*
+() Tj
+T*
+(   # Primary axis: Voltage \(Volts\)) Tj
+T*
+(   color = 'tab:blue') Tj
+T*
+(   ax1.set_xlabel\('Time \(seconds\)'\)) Tj
+T*
+(   ax1.set_ylabel\('Voltage \(V\)', color=color\)) Tj
+T*
+(   l1, = ax1.plot\(t, voltage, color=color, linewidth=2, label='Line Voltage'\)) Tj
+T*
+(   ax1.tick_params\(axis='y', labelcolor=color\)) Tj
+T*
+(   ax1.grid\(True, linestyle=':'\)) Tj
+T*
+() Tj
+T*
+(   # Secondary twin axis sharing x: Current \(Amperes\)) Tj
+T*
+(   ax2 = ax1.twinx\(\)) Tj
+T*
+(   color = 'tab:red') Tj
+T*
+(   ax2.set_ylabel\('Current \(A\)', color=color\)) Tj
+T*
+(   l2, = ax2.plot\(t, current, color=color, linewidth=2, linestyle='--', label='Load Current'\)) Tj
+T*
+(   ax2.tick_params\(axis='y', labelcolor=color\)) Tj
+T*
+() Tj
+T*
+(   # Combine legends from both axes) Tj
+T*
+(   fig.legend\(handles=[l1, l2], loc='upper right'\)) Tj
+T*
+ET
+
+endstream
+endobj
+35 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 36 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+36 0 obj
+<< /Length 2685 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 17 of 27) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 12:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain how to construct a complete Bode Plot in Matplotlib showing Magnitude in dB and Phase in degrees.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Bode Frequency Response Plot Construction:) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   import matplotlib.pyplot as plt) Tj
+T*
+(   import numpy as np) Tj
+T*
+() Tj
+T*
+(   # Transfer function H\(s\) = 1 / \(1 + s*RC\) for low-pass RC filter) Tj
+T*
+(   fc = 1000.0 # 1 kHz cutoff) Tj
+T*
+(   freq = np.logspace\(1, 6, 1000\) # 10 Hz to 1 MHz) Tj
+T*
+(   omega = 2 * np.pi * freq) Tj
+T*
+(   H = 1.0 / \(1.0 + 1j * \(freq / fc\)\)) Tj
+T*
+() Tj
+T*
+(   mag_db = 20 * np.log10\(np.abs\(H\)\)) Tj
+T*
+(   phase_deg = np.angle\(H, deg=True\)) Tj
+T*
+() Tj
+T*
+(   fig, \(ax_mag, ax_phase\) = plt.subplots\(2, 1, figsize=\(8, 7\), sharex=True\)) Tj
+T*
+() Tj
+T*
+(   # Magnitude response) Tj
+T*
+(   ax_mag.semilogx\(freq, mag_db, 'b', linewidth=2\)) Tj
+T*
+(   ax_mag.axhline\(-3, color='r', linestyle='--', label='-3 dB Cutoff'\)) Tj
+T*
+(   ax_mag.set_ylabel\('Magnitude \(dB\)'\)) Tj
+T*
+(   ax_mag.grid\(True, which='both', linestyle=':'\)) Tj
+T*
+(   ax_mag.legend\(\)) Tj
+T*
+() Tj
+T*
+(   # Phase response) Tj
+T*
+(   ax_phase.semilogx\(freq, phase_deg, 'g', linewidth=2\)) Tj
+T*
+(   ax_phase.axhline\(-45, color='r', linestyle='--', label='-45 deg at fc'\)) Tj
+T*
+(   ax_phase.set_xlabel\('Frequency \(Hz\)'\)) Tj
+T*
+(   ax_phase.set_ylabel\('Phase \(degrees\)'\)) Tj
+T*
+(   ax_phase.grid\(True, which='both', linestyle=':'\)) Tj
+T*
+(   ax_phase.legend\(\)) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 13:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Demonstrate plotting a Short-Time Fourier Transform \(STFT\) Spectrogram using `plt.pcolormesh` and custom colormaps.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Spectrogram Visualization Workflow:) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   import matplotlib.pyplot as plt) Tj
+T*
+(   import numpy as np) Tj
+T*
+(   from scipy import signal) Tj
+T*
+() Tj
+T*
+(   fs = 10000.0 # 10 kHz sampling rate) Tj
+T*
+(   t = np.linspace\(0, 2, int\(2 * fs\)\)) Tj
+T*
+ET
+
+endstream
+endobj
+37 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 38 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+38 0 obj
+<< /Length 3188 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 18 of 27) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   # Linear chirp from 500 Hz to 3000 Hz) Tj
+T*
+(   x = signal.chirp\(t, f0=500, t1=2, f1=3000, method='linear'\)) Tj
+T*
+() Tj
+T*
+(   # Compute STFT) Tj
+T*
+(   f, t_spec, Sxx = signal.spectrogram\(x, fs, nperseg=256, noverlap=128\)) Tj
+T*
+() Tj
+T*
+(   fig, ax = plt.subplots\(figsize=\(9, 5\)\)) Tj
+T*
+(   pcm = ax.pcolormesh\(t_spec, f, 10 * np.log10\(Sxx + 1e-12\), shading='gouraud', cmap='viridis'\)) Tj
+T*
+(   ax.set_title\('Linear Chirp Signal Spectrogram'\)) Tj
+T*
+(   ax.set_xlabel\('Time \(seconds\)'\)) Tj
+T*
+(   ax.set_ylabel\('Frequency \(Hz\)'\)) Tj
+T*
+(   cbar = fig.colorbar\(pcm, ax=ax\)) Tj
+T*
+(   cbar.set_label\('Power Spectral Density \(dB/Hz\)'\)) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 14:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Matplotlib animation via `FuncAnimation` and the concept of 'Blitting' for high-refresh oscilloscope displays.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Blitting Mechanics for Real-Time Oscilloscope Animation:) Tj
+T*
+() Tj
+T*
+(   In naive animation, calling `plt.draw\(\)` on each frame re-renders all static elements:) Tj
+T*
+(   background canvas, tick marks, text labels, and gridlines. This wastes CPU cycles and caps) Tj
+T*
+(   frame rates below 15 FPS.) Tj
+T*
+() Tj
+T*
+(   Blitting Optimization \(`blit=True`\):) Tj
+T*
+(   1. Initialization: The static background \(axes, ticks, labels\) is drawn once and its pixel) Tj
+T*
+(   bitmap is cached in a raster buffer.) Tj
+T*
+(   2. Frame Update: On every frame iteration, only the updated line artist coordinates are) Tj
+T*
+(   refreshed: `line.set_ydata\(new_y\)`.) Tj
+T*
+(   3. Raster Blit: The graphics subsystem restores the cached background bitmap and draws only the) Tj
+T*
+(   dirty pixel bounding box of the line artist onto the screen, routinely achieving 60+ FPS) Tj
+T*
+(   real-time rendering.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 15:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Demonstrate reading multi-gigabyte CSV telemetry files in chunks using `chunksize` and building an aggregated summary.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Chunked Processing of Giant Datasets:) Tj
+T*
+() Tj
+T*
+(   When processing 10 GB flight telemetry files that exceed available system RAM,) Tj
+T*
+(   `pd.read_csv\(..., chunksize=N\)` returns an iterator yielding successive DataFrames of size $N$:) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   import pandas as pd) Tj
+T*
+() Tj
+T*
+(   chunk_size = 50000) Tj
+T*
+(   total_records = 0) Tj
+T*
+(   sum_voltage = 0.0) Tj
+T*
+(   max_temperature = -float\('inf'\)) Tj
+T*
+() Tj
+T*
+(   for chunk in pd.read_csv\('giant_telemetry.csv', chunksize=chunk_size\):) Tj
+T*
+ET
+
+endstream
+endobj
+39 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 40 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+40 0 obj
+<< /Length 2691 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 19 of 27) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   # Filter corrupted packets in current chunk) Tj
+T*
+(   valid_chunk = chunk[chunk['crc_valid'] == True]) Tj
+T*
+() Tj
+T*
+(   # Accumulate running statistics) Tj
+T*
+(   total_records += len\(valid_chunk\)) Tj
+T*
+(   sum_voltage += valid_chunk['voltage_v'].sum\(\)) Tj
+T*
+(   max_temperature = max\(max_temperature, valid_chunk['temp_c'].max\(\)\)) Tj
+T*
+() Tj
+T*
+(   mean_voltage = sum_voltage / total_records) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 16:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain how to plot 3D surface and wireframe plots in Matplotlib using `mpl_toolkits.mplot3d` for antenna beam patterns.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   3D Surface Visualization:) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   import matplotlib.pyplot as plt) Tj
+T*
+(   from mpl_toolkits.mplot3d import Axes3D) Tj
+T*
+(   import numpy as np) Tj
+T*
+() Tj
+T*
+(   theta = np.linspace\(0, np.pi, 100\)) Tj
+T*
+(   phi = np.linspace\(0, 2 * np.pi, 100\)) Tj
+T*
+(   THETA, PHI = np.meshgrid\(theta, phi\)) Tj
+T*
+() Tj
+T*
+(   # Dipole antenna radiation pattern: r\(theta\) = sin^2\(theta\)) Tj
+T*
+(   R = np.sin\(THETA\)**2) Tj
+T*
+(   X = R * np.sin\(THETA\) * np.cos\(PHI\)) Tj
+T*
+(   Y = R * np.sin\(THETA\) * np.sin\(PHI\)) Tj
+T*
+(   Z = R * np.cos\(THETA\)) Tj
+T*
+() Tj
+T*
+(   fig = plt.figure\(figsize=\(8, 7\)\)) Tj
+T*
+(   ax = fig.add_subplot\(111, projection='3d'\)) Tj
+T*
+(   surf = ax.plot_surface\(X, Y, Z, cmap='plasma', edgecolor='none'\)) Tj
+T*
+(   ax.set_title\('Dipole Antenna 3D Radiation Pattern'\)) Tj
+T*
+(   fig.colorbar\(surf, ax=ax, shrink=0.5\)) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 17:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Demonstrate custom date formatting and locator configuration on Matplotlib time axes using `matplotlib.dates`.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Custom Time-Axis Formatting:) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   import matplotlib.pyplot as plt) Tj
+T*
+(   import matplotlib.dates as mdates) Tj
+T*
+(   import pandas as pd) Tj
+T*
+() Tj
+T*
+(   fig, ax = plt.subplots\(figsize=\(10, 4\)\)) Tj
+T*
+(   ax.plot\(df.index, df['battery_pct'], 'b-'\)) Tj
+T*
+ET
+
+endstream
+endobj
+41 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 42 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+42 0 obj
+<< /Length 2720 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 20 of 27) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   # Major ticks every 2 hours, minor ticks every 30 minutes) Tj
+T*
+(   ax.xaxis.set_major_locator\(mdates.HourLocator\(interval=2\)\)) Tj
+T*
+(   ax.xaxis.set_minor_locator\(mdates.MinuteLocator\(interval=30\)\)) Tj
+T*
+() Tj
+T*
+(   # Format major ticks as 'HH:MM AM/PM') Tj
+T*
+(   ax.xaxis.set_major_formatter\(mdates.DateFormatter\('%I:%M %p'\)\)) Tj
+T*
+() Tj
+T*
+(   # Rotate tick labels to prevent overlap) Tj
+T*
+(   fig.autofmt_xdate\(\)) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 18:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the use of `GridSpec` in Matplotlib for creating complex dashboard layouts with asymmetric subplots.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Asymmetric Subplot Layout with `GridSpec`:) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   import matplotlib.pyplot as plt) Tj
+T*
+(   from matplotlib.gridspec import GridSpec) Tj
+T*
+() Tj
+T*
+(   fig = plt.figure\(figsize=\(10, 6\)\)) Tj
+T*
+(   gs = GridSpec\(2, 2, width_ratios=[3, 1], height_ratios=[1, 2]\)) Tj
+T*
+() Tj
+T*
+(   # Large primary waveform window spanning both rows on the left) Tj
+T*
+(   ax_main = fig.add_subplot\(gs[:, 0]\)) Tj
+T*
+() Tj
+T*
+(   # Top right: FFT spectrum histogram) Tj
+T*
+(   ax_fft = fig.add_subplot\(gs[0, 1]\)) Tj
+T*
+() Tj
+T*
+(   # Bottom right: Constellation scatter plot) Tj
+T*
+(   ax_const = fig.add_subplot\(gs[1, 1]\)) Tj
+T*
+() Tj
+T*
+(   plt.tight_layout\(\)) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 19:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Detail string manipulation techniques in Pandas using `.str` accessor methods \(Regex extraction, splitting, replacing\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Pandas Vectorized String Processing:) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   import pandas as pd) Tj
+T*
+() Tj
+T*
+(   # Raw serial log entries: 'PORT=COM3;BAUD=115200;STAT=OK') Tj
+T*
+(   df = pd.DataFrame\({'log': ['PORT=COM3;BAUD=115200;STAT=OK', 'PORT=COM1;BAUD=9600;STAT=ERR']}\)) Tj
+T*
+() Tj
+T*
+(   # 1. Regular expression extraction into separate DataFrame columns) Tj
+T*
+(   parsed = df['log'].str.extract\(r'PORT=\(?P<port>\\w+\);BAUD=\(?P<baud>\\d+\);STAT=\(?P<status>\\w+\)'\)) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+43 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 44 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+44 0 obj
+<< /Length 2740 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 21 of 27) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   # 2. Case conversion and whitespace stripping) Tj
+T*
+(   df['status_clean'] = parsed['status'].str.strip\(\).str.upper\(\)) Tj
+T*
+() Tj
+T*
+(   # 3. String replacement) Tj
+T*
+(   df['port_num'] = parsed['port'].str.replace\('COM', ''\)) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 20:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain hierarchical MultiIndex operations in Pandas: creation, slicing with `IndexSlice`, and cross-sections \(`.xs`\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   MultiIndex Operations:) Tj
+T*
+() Tj
+T*
+(   A MultiIndex allows representing multi-dimensional data within standard 2D DataFrames:) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   import pandas as pd) Tj
+T*
+() Tj
+T*
+(   # Multi-level index: \(Station_ID, Sensor_ID\)) Tj
+T*
+(   index = pd.MultiIndex.from_tuples\([) Tj
+T*
+(   \('Station_A', 'Temp'\), \('Station_A', 'Humidity'\),) Tj
+T*
+(   \('Station_B', 'Temp'\), \('Station_B', 'Humidity'\)) Tj
+T*
+(   ], names=['Station', 'Sensor']\)) Tj
+T*
+() Tj
+T*
+(   df = pd.DataFrame\({'Reading': [24.5, 60.2, 22.1, 55.4]}, index=index\)) Tj
+T*
+() Tj
+T*
+(   # Cross-section extraction: extract all Temperature readings across all stations) Tj
+T*
+(   all_temps = df.xs\('Temp', level='Sensor'\)) Tj
+T*
+() Tj
+T*
+(   # Slicing with IndexSlice) Tj
+T*
+(   idx = pd.IndexSlice) Tj
+T*
+(   sub = df.loc[idx['Station_A', :], :]) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 21:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement an automated end-to-end data pipeline in Pandas to clean, calibrate, and filter IoT wireless sensor node packets.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   End-to-End IoT Sensor Ingestion Pipeline:) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   import pandas as pd) Tj
+T*
+(   import numpy as np) Tj
+T*
+() Tj
+T*
+(   def process_iot_telemetry\(raw_csv_path: str\) -> pd.DataFrame:) Tj
+T*
+(   # 1. Load CSV with typed columns) Tj
+T*
+(   df = pd.read_csv\(raw_csv_path, parse_dates=['timestamp']\)) Tj
+T*
+() Tj
+T*
+(   # 2. Filter duplicate timestamps and sort) Tj
+T*
+(   df = df.drop_duplicates\(subset=['timestamp', 'node_id']\).sort_values\('timestamp'\)) Tj
+T*
+(   df.set_index\('timestamp', inplace=True\)) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+45 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 46 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+46 0 obj
+<< /Length 2844 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 22 of 27) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   # 3. Handle outliers using IQR thresholding per node) Tj
+T*
+(   def remove_iqr_outliers\(group\):) Tj
+T*
+(   q25 = group['raw_val'].quantile\(0.25\)) Tj
+T*
+(   q75 = group['raw_val'].quantile\(0.75\)) Tj
+T*
+(   iqr = q75 - q25) Tj
+T*
+(   valid_mask = \(group['raw_val'] >= q25 - 1.5 * iqr\) & \(group['raw_val'] <= q75 + 1.5 * iqr\)) Tj
+T*
+(   group.loc[~valid_mask, 'raw_val'] = np.nan) Tj
+T*
+(   return group) Tj
+T*
+() Tj
+T*
+(   df = df.groupby\('node_id', group_keys=False\).apply\(remove_iqr_outliers\)) Tj
+T*
+() Tj
+T*
+(   # 4. Interpolate missing values) Tj
+T*
+(   df['calibrated_temp'] = df.groupby\('node_id'\)['raw_val'].transform\() Tj
+T*
+(   lambda s: s.interpolate\(method='time'\).ffill\(\).bfill\(\)) Tj
+T*
+(   \) * 0.01 - 50.0 # Linear calibration formula) Tj
+T*
+() Tj
+T*
+(   return df) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 22:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write a Python script using Matplotlib to plot an Eye Diagram for evaluating Intersymbol Interference in PAM-4 signals.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   PAM-4 Eye Diagram Generator:) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   import matplotlib.pyplot as plt) Tj
+T*
+(   import numpy as np) Tj
+T*
+() Tj
+T*
+(   def plot_eye_diagram\(signal_samples, samples_per_symbol=16, num_traces=200\):) Tj
+T*
+(   trace_len = 2 * samples_per_symbol # 2 symbol periods per trace) Tj
+T*
+(   t_eye = np.linspace\(-1, 1, trace_len\)) Tj
+T*
+() Tj
+T*
+(   fig, ax = plt.subplots\(figsize=\(8, 5\)\)) Tj
+T*
+(   for i in range\(num_traces\):) Tj
+T*
+(   start_idx = i * samples_per_symbol) Tj
+T*
+(   if start_idx + trace_len > len\(signal_samples\):) Tj
+T*
+(   break) Tj
+T*
+(   trace = signal_samples[start_idx:start_idx + trace_len]) Tj
+T*
+(   ax.plot\(t_eye, trace, color='blue', alpha=0.15, linewidth=1\)) Tj
+T*
+() Tj
+T*
+(   ax.set_title\('PAM-4 Eye Diagram \(2 Symbol UI Window\)'\)) Tj
+T*
+(   ax.set_xlabel\('Time \(Unit Intervals UI\)'\)) Tj
+T*
+(   ax.set_ylabel\('Amplitude \(V\)'\)) Tj
+T*
+(   ax.grid\(True, linestyle=':'\)) Tj
+T*
+(   plt.show\(\)) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 23:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement a custom publication-grade Matplotlib style sheet programmatically using `matplotlib.rcParams`.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+ET
+
+endstream
+endobj
+47 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 48 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+48 0 obj
+<< /Length 2513 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 23 of 27) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   IEEE / Nature Publication Style Sheet Configuration:) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   import matplotlib.pyplot as plt) Tj
+T*
+() Tj
+T*
+(   def apply_publication_theme\(\):) Tj
+T*
+(   params = {) Tj
+T*
+(   'font.family': 'sans-serif',) Tj
+T*
+(   'font.sans-serif': ['Helvetica', 'Arial', 'DejaVu Sans'],) Tj
+T*
+(   'font.size': 10,) Tj
+T*
+(   'axes.labelsize': 11,) Tj
+T*
+(   'axes.titlesize': 12,) Tj
+T*
+(   'xtick.labelsize': 9,) Tj
+T*
+(   'ytick.labelsize': 9,) Tj
+T*
+(   'legend.fontsize': 9,) Tj
+T*
+(   'figure.titlesize': 14,) Tj
+T*
+(   'lines.linewidth': 1.5,) Tj
+T*
+(   'lines.markersize': 5,) Tj
+T*
+(   'axes.linewidth': 1.0,) Tj
+T*
+(   'axes.grid': True,) Tj
+T*
+(   'grid.linestyle': '--',) Tj
+T*
+(   'grid.alpha': 0.6,) Tj
+T*
+(   'savefig.dpi': 300,) Tj
+T*
+(   'savefig.bbox': 'tight') Tj
+T*
+(   }) Tj
+T*
+(   plt.rcParams.update\(params\)) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 24:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain how to plot antenna radiation patterns on polar coordinates using `matplotlib.pyplot.polar`.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Polar Radiation Pattern Plotting:) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   import matplotlib.pyplot as plt) Tj
+T*
+(   import numpy as np) Tj
+T*
+() Tj
+T*
+(   theta = np.linspace\(0, 2 * np.pi, 360\)) Tj
+T*
+(   # Cardioid radiation pattern: E\(theta\) = 0.5 * \(1 + cos\(theta\)\)) Tj
+T*
+(   E_field = 0.5 * \(1 + np.cos\(theta\)\)) Tj
+T*
+(   gain_dbi = 10 * np.log10\(np.maximum\(E_field**2, 1e-3\)\) # Floor at -30 dB) Tj
+T*
+() Tj
+T*
+(   fig, ax = plt.subplots\(figsize=\(7, 7\), subplot_kw={'projection': 'polar'}\)) Tj
+T*
+(   ax.plot\(theta, gain_dbi, color='crimson', linewidth=2, label='E-Plane Gain'\)) Tj
+T*
+(   ax.set_theta_zero_location\('N'\) # Set 0 deg to top) Tj
+T*
+(   ax.set_theta_direction\(-1\) # Clockwise angle increase) Tj
+T*
+(   ax.set_rticks\([-30, -20, -10, 0]\) # Radial dBi limits) Tj
+T*
+(   ax.set_rlabel_position\(45\)) Tj
+T*
+(   ax.set_title\('Antenna Azimuth Radiation Pattern \(dBi\)', va='bottom'\)) Tj
+T*
+(   ax.legend\(loc='lower right'\)) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+49 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 50 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+50 0 obj
+<< /Length 2613 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 24 of 27) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 25:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement an automated anomaly detection system on streaming time-series in Pandas using Exponential Moving Averages.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Streaming Anomaly Detector with Bollinger-Style EMA Bands:) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   import pandas as pd) Tj
+T*
+(   import numpy as np) Tj
+T*
+() Tj
+T*
+(   def detect_telemetry_anomalies\(df: pd.DataFrame, col: str, span: int = 30, num_std: float =) Tj
+T*
+(   3.0\):) Tj
+T*
+(   # 1. Compute EMA and rolling standard deviation) Tj
+T*
+(   ema = df[col].ewm\(span=span\).mean\(\)) Tj
+T*
+(   roll_std = df[col].rolling\(window=span\).std\(\).bfill\(\)) Tj
+T*
+() Tj
+T*
+(   # 2. Dynamic threshold bands) Tj
+T*
+(   upper_band = ema + num_std * roll_std) Tj
+T*
+(   lower_band = ema - num_std * roll_std) Tj
+T*
+() Tj
+T*
+(   # 3. Identify anomaly timestamps) Tj
+T*
+(   anomalies = \(df[col] > upper_band\) | \(df[col] < lower_band\)) Tj
+T*
+() Tj
+T*
+(   df['ema'] = ema) Tj
+T*
+(   df['upper_band'] = upper_band) Tj
+T*
+(   df['lower_band'] = lower_band) Tj
+T*
+(   df['is_anomaly'] = anomalies) Tj
+T*
+(   return df) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 26:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write a Python script to plot a Smith Chart impedance visualization using Matplotlib.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Smith Chart Construction in Matplotlib:) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   import matplotlib.pyplot as plt) Tj
+T*
+(   import numpy as np) Tj
+T*
+() Tj
+T*
+(   def draw_smith_chart\(\):) Tj
+T*
+(   fig, ax = plt.subplots\(figsize=\(7, 7\)\)) Tj
+T*
+(   ax.set_xlim\(-1.1, 1.1\)) Tj
+T*
+(   ax.set_ylim\(-1.1, 1.1\)) Tj
+T*
+(   ax.set_aspect\('equal'\)) Tj
+T*
+() Tj
+T*
+(   # Outer boundary circle |Gamma| = 1) Tj
+T*
+(   theta = np.linspace\(0, 2*np.pi, 200\)) Tj
+T*
+(   ax.plot\(np.cos\(theta\), np.sin\(theta\), 'k-', linewidth=1.5\)) Tj
+T*
+() Tj
+T*
+(   # Constant resistance circles: center \(r/\(r+1\), 0\), radius 1/\(r+1\)) Tj
+T*
+(   for r in [0.2, 0.5, 1.0, 2.0, 5.0]:) Tj
+T*
+ET
+
+endstream
+endobj
+51 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 52 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+52 0 obj
+<< /Length 3112 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 25 of 27) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   center_x = r / \(r + 1.0\)) Tj
+T*
+(   radius = 1.0 / \(r + 1.0\)) Tj
+T*
+(   ax.plot\(center_x + radius * np.cos\(theta\), radius * np.sin\(theta\), 'b--', alpha=0.5\)) Tj
+T*
+() Tj
+T*
+(   ax.set_title\('Normalized Smith Chart \(Impedance\)'\)) Tj
+T*
+(   ax.grid\(True, linestyle=':'\)) Tj
+T*
+(   return fig, ax) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 27:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain how to export interactive web visualizations using Plotly and compare performance against static Matplotlib.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Plotly Interactive Figures vs. Static Matplotlib:) Tj
+T*
+() Tj
+T*
+(   1. Static Matplotlib:) Tj
+T*
+(   Compiles curves directly into bitmap pixels \(PNG\) or static vector paths \(PDF\). Zero) Tj
+T*
+(   interactivity on client web browsers, but rock-solid reproducibility for print publications.) Tj
+T*
+() Tj
+T*
+(   2. Plotly Interactive Engine:) Tj
+T*
+(   Serializes data arrays into JSON and renders them client-side in browsers using WebGL/SVG.) Tj
+T*
+(   - Enables zoom, pan, tooltip inspection of individual telemetry data points.) Tj
+T*
+(   - Capable of exporting standalone self-contained `.html` files) Tj
+T*
+(   \(`fig.write_html\('report.html'\)`\).) Tj
+T*
+(   - Performance limit: For > 100,000 samples, SVG rendering lags; requiring WebGL) Tj
+T*
+(   \(`go.Scattergl`\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 30:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement an automated PDF report generation pipeline using Matplotlib `PdfPages` combining multi-page test results.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Multi-Page Automated Engineering PDF Report Generator:) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   from matplotlib.backends.backend_pdf import PdfPages) Tj
+T*
+(   import matplotlib.pyplot as plt) Tj
+T*
+(   import numpy as np) Tj
+T*
+() Tj
+T*
+(   def generate_device_test_report\(pdf_filename: str, test_data: dict\):) Tj
+T*
+(   with PdfPages\(pdf_filename\) as pdf:) Tj
+T*
+(   # --- Page 1: Cover Page and Summary Table ---) Tj
+T*
+(   fig1, ax1 = plt.subplots\(figsize=\(8.5, 11\)\)) Tj
+T*
+(   ax1.axis\('off'\)) Tj
+T*
+(   ax1.text\(0.5, 0.85, 'RF TRANSCEIVER VALIDATION REPORT', ha='center', fontsize=18,) Tj
+T*
+(   weight='bold'\)) Tj
+T*
+(   ax1.text\(0.5, 0.78, f'Device Serial: {test_data.get\("serial", "SN-001"\)}', ha='center',) Tj
+T*
+(   fontsize=14\)) Tj
+T*
+(   pdf.savefig\(fig1\)) Tj
+T*
+(   plt.close\(fig1\)) Tj
+T*
+() Tj
+T*
+(   # --- Page 2: Frequency Response & S-Parameters ---) Tj
+T*
+(   fig2, ax2 = plt.subplots\(figsize=\(8.5, 6\)\)) Tj
+T*
+ET
+
+endstream
+endobj
+53 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 54 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+54 0 obj
+<< /Length 2879 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 26 of 27) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   ax2.plot\(test_data['freq'], test_data['s21'], 'b-', label='S21 Gain'\)) Tj
+T*
+(   ax2.set_title\('S21 Transmission Characteristic'\)) Tj
+T*
+(   ax2.set_xlabel\('Frequency \(GHz\)'\)) Tj
+T*
+(   ax2.set_ylabel\('Magnitude \(dB\)'\)) Tj
+T*
+(   ax2.grid\(True\)) Tj
+T*
+(   pdf.savefig\(fig2\)) Tj
+T*
+(   plt.close\(fig2\)) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 28:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Demonstrate optimizing Pandas queries on 50-million-row DataFrames using Dask or Polars lazy evaluation.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Lazy Execution and Query Optimization \(Polars / Dask\):) Tj
+T*
+() Tj
+T*
+(   When single-node Pandas runs out of memory on tens of millions of rows, Polars or Dask provide) Tj
+T*
+(   lazy computation graph optimization:) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   import polars as pl) Tj
+T*
+() Tj
+T*
+(   # Define lazy execution plan without loading data into RAM) Tj
+T*
+(   lazy_plan = \() Tj
+T*
+(   pl.scan_csv\('massive_sensor_logs.csv'\)) Tj
+T*
+(   .filter\(pl.col\('voltage'\) > 3.0\)) Tj
+T*
+(   .group_by\('device_id'\)) Tj
+T*
+(   .agg\([pl.col\('temperature'\).mean\(\).alias\('avg_temp'\)]\)) Tj
+T*
+(   \)) Tj
+T*
+() Tj
+T*
+(   # Execute with multi-core parallelism and predicate pushdown) Tj
+T*
+(   result_df = lazy_plan.collect\(\)) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(   Key Benefits: Predicate pushdown filters rows before reading into memory, and projection) Tj
+T*
+(   pushdown only parses necessary columns, bypassing 80% disk I/O.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 29:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain custom colormap generation in Matplotlib for high-contrast thermal imaging and microwave field intensity maps.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Custom Linear Segmented Colormap Creation:) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   import matplotlib.pyplot as plt) Tj
+T*
+(   from matplotlib.colors import LinearSegmentedColormap) Tj
+T*
+(   import numpy as np) Tj
+T*
+() Tj
+T*
+(   # Define thermal palette: Black -> Blue -> Cyan -> Yellow -> White) Tj
+T*
+(   thermal_colors = [\(0, 0, 0\), \(0, 0, 0.8\), \(0, 0.8, 0.8\), \(1, 1, 0\), \(1, 1, 1\)]) Tj
+T*
+(   thermal_cmap = LinearSegmentedColormap.from_list\('ThermalCam', thermal_colors, N=256\)) Tj
+T*
+() Tj
+T*
+(   # Apply colormap to 2D microwave field grid) Tj
+T*
+ET
+
+endstream
+endobj
+55 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 56 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+56 0 obj
+<< /Length 603 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 27 of 27) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   field_intensity = np.random.rand\(100, 100\)) Tj
+T*
+(   plt.imshow\(field_intensity, cmap=thermal_cmap\)) Tj
+T*
+(   plt.colorbar\(label='Field Power \(W/m^2\)'\)) Tj
+T*
+(   plt.title\('High-Contrast Thermal Map'\)) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+57 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+58 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+xref
+0 59
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000295 00000 n 
+0000000439 00000 n 
+0000008456 00000 n 
+0000008600 00000 n 
+0000016859 00000 n 
+0000017003 00000 n 
+0000025455 00000 n 
+0000025600 00000 n 
+0000034056 00000 n 
+0000034202 00000 n 
+0000043121 00000 n 
+0000043267 00000 n 
+0000053460 00000 n 
+0000053606 00000 n 
+0000064275 00000 n 
+0000064421 00000 n 
+0000066014 00000 n 
+0000066160 00000 n 
+0000070980 00000 n 
+0000071126 00000 n 
+0000073531 00000 n 
+0000073677 00000 n 
+0000082092 00000 n 
+0000082238 00000 n 
+0000086158 00000 n 
+0000086304 00000 n 
+0000089526 00000 n 
+0000089672 00000 n 
+0000093090 00000 n 
+0000093236 00000 n 
+0000096512 00000 n 
+0000096658 00000 n 
+0000099872 00000 n 
+0000100018 00000 n 
+0000102756 00000 n 
+0000102902 00000 n 
+0000106143 00000 n 
+0000106289 00000 n 
+0000109033 00000 n 
+0000109179 00000 n 
+0000111952 00000 n 
+0000112098 00000 n 
+0000114891 00000 n 
+0000115037 00000 n 
+0000117934 00000 n 
+0000118080 00000 n 
+0000120646 00000 n 
+0000120792 00000 n 
+0000123458 00000 n 
+0000123604 00000 n 
+0000126769 00000 n 
+0000126915 00000 n 
+0000129847 00000 n 
+0000129993 00000 n 
+0000130648 00000 n 
+0000130746 00000 n 
+trailer
+<< /Size 59 /Root 1 0 R >>
+startxref
+130849
+%%EOF

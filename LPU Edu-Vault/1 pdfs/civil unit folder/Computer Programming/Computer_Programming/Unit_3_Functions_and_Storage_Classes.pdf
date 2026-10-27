@@ -1,0 +1,11152 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R 35 0 R 37 0 R 39 0 R 41 0 R 43 0 R 45 0 R 47 0 R 49 0 R 51 0 R 53 0 R 55 0 R 57 0 R 59 0 R 61 0 R 63 0 R 65 0 R 67 0 R 69 0 R 71 0 R 73 0 R 75 0 R] /Count 37 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 4 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 8146 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 3: USER-DEFINED FUNCTIONS & STORAGE CLASSES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 1 of 37) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(1.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What is a named, independent block of code) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(designed to perform a specific task called?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(Function) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(Variable) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(Structure) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(Macro) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(2.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(Which statement in C informs the compiler about) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(a function's name, return type, and parameters?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(Function prototype) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(Function definition) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(Function call) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(Header file) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(3.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(What is the return type of a function that does) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(not return any value to the caller?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.5001 Td
+(void) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.9001 Td
+(null) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.3002 Td
+(empty) Tj
+ET
+BT
+/F2 7.4 Tf
+58 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 587.7002 Td
+(int) Tj
+ET
+BT
+/F2 8.0 Tf
+42 564.1002 Td
+(4.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(What are the arguments passed into a function) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(call called?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 543.2002 Td
+(Actual arguments) Tj
+ET
+BT
+/F2 7.4 Tf
+58 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 533.6002 Td
+(Formal parameters) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.0002 Td
+(Dummy parameters) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.4003 Td
+(Global arguments) Tj
+ET
+BT
+/F2 8.0 Tf
+42 490.8003 Td
+(5.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 490.8003 Td
+(What are the variables declared in the function) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6003 Td
+(definition header called?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 469.9002 Td
+(Formal parameters) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.3002 Td
+(Actual parameters) Tj
+ET
+BT
+/F2 7.4 Tf
+58 450.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 450.7002 Td
+(External variables) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.1002 Td
+(Register variables) Tj
+ET
+BT
+/F2 8.0 Tf
+42 417.5002 Td
+(6.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 417.5002 Td
+(In C, standard function parameter passing is) Tj
+ET
+BT
+/F1 7.8 Tf
+58 408.3002 Td
+(performed by default using:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 396.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 396.6002 Td
+(Call-by-value) Tj
+ET
+BT
+/F2 7.4 Tf
+58 387.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 387.0002 Td
+(Call-by-reference) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.4002 Td
+(Call-by-name) Tj
+ET
+BT
+/F2 7.4 Tf
+58 367.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 367.8002 Td
+(Call-by-result) Tj
+ET
+BT
+/F2 8.0 Tf
+42 344.2002 Td
+(7.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 344.2002 Td
+(What happens to the caller's variable when) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.0002 Td
+(passed into a function by value?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 323.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 323.3001 Td
+(Remains unmodified) Tj
+ET
+BT
+/F2 7.4 Tf
+58 313.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 313.7001 Td
+(Is permanently updated) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.1001 Td
+(Memory is freed) Tj
+ET
+BT
+/F2 7.4 Tf
+58 294.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 294.5001 Td
+(Throws error) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(8.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(How can call-by-reference semantics be achieved) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(in ANSI C?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(Passing pointers \(&x\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(Using reference & in C++) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(Using global arrays) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(Using register keyword) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(9.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(What is a function that calls itself directly or) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(indirectly called?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(Recursive function) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(Inline function) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(Nested function) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(Static function) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(10.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(Which mandatory condition in a recursive) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(function terminates the recursion?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.5001 Td
+(Base case) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.9001 Td
+(Recursive step) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.3002 Td
+(Infinite case) Tj
+ET
+BT
+/F2 7.4 Tf
+322 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 587.7002 Td
+(Default case) Tj
+ET
+BT
+/F2 8.0 Tf
+306 564.1002 Td
+(11.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.1002 Td
+(What runtime error occurs when recursion lacks a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(valid base case or recurses too deeply?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 543.2002 Td
+(Stack overflow) Tj
+ET
+BT
+/F2 7.4 Tf
+322 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 533.6002 Td
+(Heap exhaustion) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.0002 Td
+(Compilation error) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.4003 Td
+(Syntax fault) Tj
+ET
+BT
+/F2 8.0 Tf
+306 490.8003 Td
+(12.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 490.8003 Td
+(Where are local function variables and) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6003 Td
+(activation records stored at runtime?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 469.9002 Td
+(Call stack) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.3002 Td
+(Heap) Tj
+ET
+BT
+/F2 7.4 Tf
+322 450.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 450.7002 Td
+(BSS segment) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.1002 Td
+(Data segment) Tj
+ET
+BT
+/F2 8.0 Tf
+306 417.5002 Td
+(13.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 417.5002 Td
+(How many storage classes are formally supported) Tj
+ET
+BT
+/F1 7.8 Tf
+322 408.3002 Td
+(in the C programming language?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 396.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 396.6002 Td
+(4 \(auto, reg, stat, ext\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.0002 Td
+(2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.4002 Td
+(3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 367.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 367.8002 Td
+(5) Tj
+ET
+BT
+/F2 8.0 Tf
+306 344.2002 Td
+(14.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 344.2002 Td
+(Which storage class is the default for local) Tj
+ET
+BT
+/F1 7.8 Tf
+322 335.0002 Td
+(variables declared inside a function block?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 323.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 323.3001 Td
+(auto) Tj
+ET
+BT
+/F2 7.4 Tf
+322 313.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 313.7001 Td
+(static) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.1001 Td
+(extern) Tj
+ET
+BT
+/F2 7.4 Tf
+322 294.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 294.5001 Td
+(register) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 6 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+6 0 obj
+<< /Length 8049 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 3: USER-DEFINED FUNCTIONS & STORAGE CLASSES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 2 of 37) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(15.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What initial value does an uninitialized auto) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(local variable contain in C?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(Garbage / indeterminate) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(0 \(zero\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(NULL) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(16.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(Which storage class requests that a variable be) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(stored in a high-speed CPU register?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(register) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(auto) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(static) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(volatile) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(17.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(Which unary operator CANNOT be applied to a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(variable declared with register storage class?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.5001 Td
+(& \(Address-of\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.9001 Td
+(* \(Dereference\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.3002 Td
+(sizeof) Tj
+ET
+BT
+/F2 7.4 Tf
+58 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 587.7002 Td
+(++ \(Increment\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 564.1002 Td
+(18.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(Which storage class preserves variable value) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(across multiple function invocations?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 543.2002 Td
+(static) Tj
+ET
+BT
+/F2 7.4 Tf
+58 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 533.6002 Td
+(auto) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.0002 Td
+(register) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.4003 Td
+(volatile) Tj
+ET
+BT
+/F2 8.0 Tf
+42 490.8003 Td
+(19.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 490.8003 Td
+(To what value are uninitialized static and) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6003 Td
+(global variables automatically initialized?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 469.9002 Td
+(0 \(zero\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.3002 Td
+(Garbage) Tj
+ET
+BT
+/F2 7.4 Tf
+58 450.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 450.7002 Td
+(-1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.1002 Td
+(1) Tj
+ET
+BT
+/F2 8.0 Tf
+42 417.5002 Td
+(20.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 417.5002 Td
+(Where are static and global variables stored in) Tj
+ET
+BT
+/F1 7.8 Tf
+58 408.3002 Td
+(the program's runtime memory layout?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 396.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 396.6002 Td
+(Data / BSS segment) Tj
+ET
+BT
+/F2 7.4 Tf
+58 387.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 387.0002 Td
+(Call stack) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.4002 Td
+(Heap) Tj
+ET
+BT
+/F2 7.4 Tf
+58 367.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 367.8002 Td
+(Text segment) Tj
+ET
+BT
+/F2 8.0 Tf
+42 344.2002 Td
+(21.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 344.2002 Td
+(Which storage class declares a variable that is) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.0002 Td
+(defined in another source file or module?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 323.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 323.3001 Td
+(extern) Tj
+ET
+BT
+/F2 7.4 Tf
+58 313.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 313.7001 Td
+(auto) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.1001 Td
+(static) Tj
+ET
+BT
+/F2 7.4 Tf
+58 294.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 294.5001 Td
+(register) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(22.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What linkage does a global variable or function) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(marked with static have?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(Internal linkage) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(External linkage) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(No linkage) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(Dynamic linkage) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(23.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(Can functions be defined inside other functions) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(in standard ANSI C \(nested functions\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(No \(strictly forbidden\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(Yes \(fully supported\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(Only void functions) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(Yes \(since C99\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(24.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(What keyword introduced in C99 suggests that the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(compiler replace a function call with its body?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.5001 Td
+(inline) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.9001 Td
+(macro) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.3002 Td
+(static) Tj
+ET
+BT
+/F2 7.4 Tf
+322 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 587.7002 Td
+(extern) Tj
+ET
+BT
+/F2 8.0 Tf
+306 564.1002 Td
+(25.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.1002 Td
+(What header file must be included to implement) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(functions accepting variable argument lists?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 543.2002 Td
+(<stdarg.h>) Tj
+ET
+BT
+/F2 7.4 Tf
+322 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 533.6002 Td
+(<stdlib.h>) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.0002 Td
+(<stdio.h>) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.4003 Td
+(<varargs.h>) Tj
+ET
+BT
+/F2 8.0 Tf
+306 490.8003 Td
+(26.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 490.8003 Td
+(Which macro initializes a variable argument list) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6003 Td
+(\(va_list\) pointer in C?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 469.9002 Td
+(va_start) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.3002 Td
+(va_arg) Tj
+ET
+BT
+/F2 7.4 Tf
+322 450.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 450.7002 Td
+(va_end) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.1002 Td
+(va_copy) Tj
+ET
+BT
+/F2 8.0 Tf
+306 417.5002 Td
+(27.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 417.5002 Td
+(Which macro retrieves the next argument of a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 408.3002 Td
+(specified type from va_list?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 396.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 396.6002 Td
+(va_arg) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.0002 Td
+(va_start) Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.4002 Td
+(va_end) Tj
+ET
+BT
+/F2 7.4 Tf
+322 367.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 367.8002 Td
+(va_next) Tj
+ET
+BT
+/F2 8.0 Tf
+306 344.2002 Td
+(28.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 344.2002 Td
+(Which macro cleans up and finalizes the variable) Tj
+ET
+BT
+/F1 7.8 Tf
+322 335.0002 Td
+(argument list before return?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 323.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 323.3001 Td
+(va_end) Tj
+ET
+BT
+/F2 7.4 Tf
+322 313.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 313.7001 Td
+(va_start) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.1001 Td
+(va_arg) Tj
+ET
+BT
+/F2 7.4 Tf
+322 294.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 294.5001 Td
+(va_free) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 8 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+8 0 obj
+<< /Length 8180 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 3: USER-DEFINED FUNCTIONS & STORAGE CLASSES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 3 of 37) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(29.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What happens when an array name is passed as an) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(argument to a function?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(Decays to pointer to 1st) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(Entire array copied) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(Throws error) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(Passes array length) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(30.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(What is the scope of a variable declared inside) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(a block enclosed by { }?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(Block / Local scope) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(File scope) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(Function prototype scope) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(Global scope) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(31.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(What is the scope of a variable declared outside) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(of all functions?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.5001 Td
+(File / Global scope) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.9001 Td
+(Block scope) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.3002 Td
+(Register scope) Tj
+ET
+BT
+/F2 7.4 Tf
+58 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 587.7002 Td
+(Static scope) Tj
+ET
+BT
+/F2 8.0 Tf
+42 564.1002 Td
+(32.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(What is the lifetime of an automatic \(auto\)) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(local variable?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 543.2002 Td
+(Duration of block) Tj
+ET
+BT
+/F2 7.4 Tf
+58 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 533.6002 Td
+(Entire program run) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.0002 Td
+(Infinite) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.4003 Td
+(Until heap freed) Tj
+ET
+BT
+/F2 8.0 Tf
+42 490.8003 Td
+(33.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 490.8003 Td
+(What is the lifetime of a static local variable?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 479.1003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 479.1003 Td
+(Entire program run) Tj
+ET
+BT
+/F2 7.4 Tf
+58 469.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 469.5002 Td
+(Duration of block) Tj
+ET
+BT
+/F2 7.4 Tf
+58 459.9002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 459.9002 Td
+(Single function call) Tj
+ET
+BT
+/F2 7.4 Tf
+58 450.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 450.3002 Td
+(Until return) Tj
+ET
+BT
+/F2 8.0 Tf
+42 426.7002 Td
+(34.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 426.7002 Td
+(Can a local variable have the exact same) Tj
+ET
+BT
+/F1 7.8 Tf
+58 417.5002 Td
+(identifier name as a global variable in C?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 405.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 405.8002 Td
+(Yes \(shadows global\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 396.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 396.2002 Td
+(No \(compile error\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 386.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 386.6002 Td
+(Only if float) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.0002 Td
+(Only if static) Tj
+ET
+BT
+/F2 8.0 Tf
+42 353.4002 Td
+(35.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 353.4002 Td
+(What does the return statement without an) Tj
+ET
+BT
+/F1 7.8 Tf
+58 344.2002 Td
+(expression \(return;\) do?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 332.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 332.5002 Td
+(Exits void function) Tj
+ET
+BT
+/F2 7.4 Tf
+58 322.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 322.9001 Td
+(Returns 0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 313.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 313.3001 Td
+(Returns NULL) Tj
+ET
+BT
+/F2 7.4 Tf
+58 303.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 303.7001 Td
+(Throws error) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(36.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(In C, what is the default return type of a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(function if omitted in older C89?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(int) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(void) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(float) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(char) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(37.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(Which recursion type occurs when the recursive) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(call is the very last operation executed?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(Tail recursion) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(Head recursion) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(Tree recursion) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(Indirect recursion) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(38.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(Why is tail recursion favored by optimizing) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(compilers?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.5001 Td
+(Can be optimized to loop) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.9001 Td
+(Saves disk space) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.3002 Td
+(Prevents compilation) Tj
+ET
+BT
+/F2 7.4 Tf
+322 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 587.7002 Td
+(Eliminates variables) Tj
+ET
+BT
+/F2 8.0 Tf
+306 564.1002 Td
+(39.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.1002 Td
+(How many function activation records exist on) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(the stack for factorial\(5\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 543.2002 Td
+(6 \(from 5 down to 0\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 533.6002 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.0002 Td
+(5) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.4003 Td
+(120) Tj
+ET
+BT
+/F2 8.0 Tf
+306 490.8003 Td
+(40.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 490.8003 Td
+(Which recursive problem moves disks between rods) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6003 Td
+(without placing larger on smaller?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 469.9002 Td
+(Tower of Hanoi) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.3002 Td
+(Traveling Salesperson) Tj
+ET
+BT
+/F2 7.4 Tf
+322 450.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 450.7002 Td
+(Knapsack Problem) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.1002 Td
+(N-Queens) Tj
+ET
+BT
+/F2 8.0 Tf
+306 417.5002 Td
+(41.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 417.5002 Td
+(What is the output: void f\(\) { static int x = 0;) Tj
+ET
+BT
+/F1 7.8 Tf
+322 408.3002 Td
+(x++; printf\("%d ", x\); } main\(\) { f\(\); f\(\); f\(\);) Tj
+ET
+BT
+/F1 7.8 Tf
+322 399.1002 Td
+(}?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.4002 Td
+(1 2 3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.8002 Td
+(1 1 1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 368.2002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 368.2002 Td
+(0 1 2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 358.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 358.6002 Td
+(3 3 3) Tj
+ET
+BT
+/F2 8.0 Tf
+306 335.0002 Td
+(42.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 335.0002 Td
+(Why does static int x retain its value between) Tj
+ET
+BT
+/F1 7.8 Tf
+322 325.8001 Td
+(invocations of f\(\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 314.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 314.1001 Td
+(Stored in data segment) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.5001 Td
+(Stored on CPU stack) Tj
+ET
+BT
+/F2 7.4 Tf
+322 294.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 294.9001 Td
+(Reallocated on entry) Tj
+ET
+BT
+/F2 7.4 Tf
+322 285.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 285.3001 Td
+(Saved in registers) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 10 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+10 0 obj
+<< /Length 8492 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 3: USER-DEFINED FUNCTIONS & STORAGE CLASSES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 4 of 37) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(43.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What is the output: void f\(\) { int x = 0; x++;) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(printf\("%d ", x\); } main\(\) { f\(\); f\(\); f\(\); }?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(1 1 1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(1 2 3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(0 0 0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(Garbage) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(44.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(What is the result of applying sizeof to a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(formal array parameter: void f\(int arr[10]\) {) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.3 Td
+(sizeof\(arr\); }?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.6 Td
+(sizeof\(int*\) [4 or 8]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.0001 Td
+(sizeof\(int\)*10 [40]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.4001 Td
+(10) Tj
+ET
+BT
+/F2 7.4 Tf
+58 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 651.8001 Td
+(Undefined) Tj
+ET
+BT
+/F2 8.0 Tf
+42 628.2001 Td
+(45.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(Why does sizeof\(arr\) return pointer size inside) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.0001 Td
+(a function parameter list?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 607.3001 Td
+(Array decays to pointer) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.7001 Td
+(Compiler bug) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.1002 Td
+(Only first element read) Tj
+ET
+BT
+/F2 7.4 Tf
+58 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 578.5002 Td
+(Array is truncated) Tj
+ET
+BT
+/F2 8.0 Tf
+42 554.9002 Td
+(46.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(What is the output: void swap\(int a, int b\) {) Tj
+ET
+BT
+/F1 7.8 Tf
+58 545.7002 Td
+(int t = a; a = b; b = t; } main\(\) { int) Tj
+ET
+BT
+/F1 7.8 Tf
+58 536.5002 Td
+(x=5,y=10; swap\(x,y\); printf\("%d %d", x, y\); }?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.8002 Td
+(5 10 \(unswapped\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 515.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 515.2002 Td
+(10 5) Tj
+ET
+BT
+/F2 7.4 Tf
+58 505.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 505.6002 Td
+(0 0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 496.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 496.0002 Td
+(Compilation error) Tj
+ET
+BT
+/F2 8.0 Tf
+42 472.4002 Td
+(47.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 472.4002 Td
+(Why were x and y not swapped in the previous) Tj
+ET
+BT
+/F1 7.8 Tf
+58 463.2002 Td
+(program?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 451.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 451.5002 Td
+(Passed by value \(copies\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.9001 Td
+(Missing return statement) Tj
+ET
+BT
+/F2 7.4 Tf
+58 432.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 432.3001 Td
+(Integer overflow) Tj
+ET
+BT
+/F2 7.4 Tf
+58 422.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 422.7001 Td
+(Stack corrupted) Tj
+ET
+BT
+/F2 8.0 Tf
+42 399.1001 Td
+(48.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 399.1001 Td
+(What must the swap function signature be to) Tj
+ET
+BT
+/F1 7.8 Tf
+58 389.9001 Td
+(successfully swap variables in C?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 378.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 378.2001 Td
+(void swap\(int *a, int *b\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 368.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 368.6001 Td
+(void swap\(int &a, int &b\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 359.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 359.0001 Td
+(int swap\(int a, int b\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 349.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 349.4001 Td
+(void swap\(int a[], b[]\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 325.8001 Td
+(49.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 325.8001 Td
+(What happens if a function prototype is omitted) Tj
+ET
+BT
+/F1 7.8 Tf
+58 316.6001 Td
+(before its call in C99/C11?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.9001 Td
+(Compile error/warning) Tj
+ET
+BT
+/F2 7.4 Tf
+58 295.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 295.3 Td
+(Defaults to int return) Tj
+ET
+BT
+/F2 7.4 Tf
+58 285.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 285.7 Td
+(Generates assembly) Tj
+ET
+BT
+/F2 7.4 Tf
+58 276.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 276.1 Td
+(Permitted silently) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(50.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What is the linkage of a global function) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(declared without any storage class specifier?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(External linkage) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(Internal linkage) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(No linkage) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(Dynamic linkage) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(51.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(How does declaring static void helper\(\) affect) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(its visibility across multi-file projects?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(Restricted to this .c file) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(Visible to all .c files) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(Exported to DLL) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(Inlined everywhere) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(52.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(What linker error occurs if two separate .c) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(files declare int global_counter = 0;?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.5001 Td
+(Multiple definition error) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.9001 Td
+(Unresolved external) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.3002 Td
+(Stack overflow) Tj
+ET
+BT
+/F2 7.4 Tf
+322 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 587.7002 Td
+(Type mismatch) Tj
+ET
+BT
+/F2 8.0 Tf
+306 564.1002 Td
+(53.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.1002 Td
+(How should a shared global variable be declared) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(in a header file to prevent linker errors?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 543.2002 Td
+(extern int global_var;) Tj
+ET
+BT
+/F2 7.4 Tf
+322 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 533.6002 Td
+(int global_var = 0;) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.0002 Td
+(static int global_var;) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.4003 Td
+(auto int global_var;) Tj
+ET
+BT
+/F2 8.0 Tf
+306 490.8003 Td
+(54.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 490.8003 Td
+(What does the statement extern int buffer_count;) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6003 Td
+(do?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 469.9002 Td
+(Declares without defining) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.3002 Td
+(Allocates memory buffer) Tj
+ET
+BT
+/F2 7.4 Tf
+322 450.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 450.7002 Td
+(Initializes to zero) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.1002 Td
+(Creates local copy) Tj
+ET
+BT
+/F2 8.0 Tf
+306 417.5002 Td
+(55.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 417.5002 Td
+(What is the minimum number of moves required to) Tj
+ET
+BT
+/F1 7.8 Tf
+322 408.3002 Td
+(solve the Tower of Hanoi for N disks?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 396.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 396.6002 Td
+(2^N - 1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.0002 Td
+(2*N - 1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.4002 Td
+(N^2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 367.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 367.8002 Td
+(N!) Tj
+ET
+BT
+/F2 8.0 Tf
+306 344.2002 Td
+(56.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 344.2002 Td
+(How many total moves are required to solve Tower) Tj
+ET
+BT
+/F1 7.8 Tf
+322 335.0002 Td
+(of Hanoi for N = 4 disks?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 323.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 323.3001 Td
+(15 \(2^4 - 1\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 313.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 313.7001 Td
+(16) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.1001 Td
+(8) Tj
+ET
+BT
+/F2 7.4 Tf
+322 294.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 294.5001 Td
+(24) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 12 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+12 0 obj
+<< /Length 8276 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 3: USER-DEFINED FUNCTIONS & STORAGE CLASSES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 5 of 37) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(57.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What is the time complexity of the standard) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(recursive Tower of Hanoi algorithm?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(O\(2^N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(O\(N^2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(O\(N log N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(O\(N!\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(58.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(What is the time complexity of naive recursive) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(Fibonacci: fib\(n\) = fib\(n-1\) + fib\(n-2\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(O\(2^N\) [Golden ratio]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(O\(N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(O\(N^2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(O\(log N\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(59.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(What is the time complexity of recursive binary) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(search on a sorted array of size N?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.5001 Td
+(O\(log N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.9001 Td
+(O\(N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.3002 Td
+(O\(1\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 587.7002 Td
+(O\(N log N\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 564.1002 Td
+(60.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(What is the recurrence relation for Euclidean) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(GCD algorithm: gcd\(a, b\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 543.2002 Td
+(gcd\(b, a % b\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 533.6002 Td
+(gcd\(a - b, b\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.0002 Td
+(gcd\(a / b, b\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.4003 Td
+(gcd\(b, a\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 490.8003 Td
+(61.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 490.8003 Td
+(What is the time complexity of the Euclidean) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6003 Td
+(algorithm to find GCD of two numbers?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 469.9002 Td
+(O\(log\(min\(a, b\)\)\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.3002 Td
+(O\(a + b\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 450.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 450.7002 Td
+(O\(min\(a, b\)\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.1002 Td
+(O\(1\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 417.5002 Td
+(62.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 417.5002 Td
+(What is the advantage of using inline functions) Tj
+ET
+BT
+/F1 7.8 Tf
+58 408.3002 Td
+(over preprocessor #define macros?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 396.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 396.6002 Td
+(Full type safety checks) Tj
+ET
+BT
+/F2 7.4 Tf
+58 387.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 387.0002 Td
+(Faster disk storage) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.4002 Td
+(Zero binary code size) Tj
+ET
+BT
+/F2 7.4 Tf
+58 367.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 367.8002 Td
+(Dynamic dispatch) Tj
+ET
+BT
+/F2 8.0 Tf
+42 344.2002 Td
+(63.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 344.2002 Td
+(Why might a compiler ignore an inline function) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.0002 Td
+(specifier?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 323.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 323.3001 Td
+(Function is too complex) Tj
+ET
+BT
+/F2 7.4 Tf
+58 313.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 313.7001 Td
+(Missing semicolon) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.1001 Td
+(Invalid data types) Tj
+ET
+BT
+/F2 7.4 Tf
+58 294.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 294.5001 Td
+(Header conflict) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(64.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Which function in <stdlib.h> registers a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(function to be executed automatically upon exit?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(atexit\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(exit\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(abort\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(register_exit\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(65.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(What is the maximum number of functions that can) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(be registered with atexit\(\) in ANSI C?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(At least 32) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(Exactly 1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(Unlimited) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(16) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(66.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(In what order are functions registered with) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(atexit\(\) executed upon program termination?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.5001 Td
+(Reverse order \(LIFO\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.9001 Td
+(Registration order) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.3002 Td
+(Alphabetical order) Tj
+ET
+BT
+/F2 7.4 Tf
+322 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 587.7002 Td
+(Random order) Tj
+ET
+BT
+/F2 8.0 Tf
+306 564.1002 Td
+(67.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.1002 Td
+(In bioinformatics, what does the Hamming) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(distance between two equal-length DNA strands) Tj
+ET
+BT
+/F1 7.8 Tf
+322 545.7002 Td
+(measure?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 534.0002 Td
+(Number of mismatched bases) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.4002 Td
+(Length difference) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.8002 Td
+(Molecular weight) Tj
+ET
+BT
+/F2 7.4 Tf
+322 505.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 505.2002 Td
+(GC percentage) Tj
+ET
+BT
+/F2 8.0 Tf
+306 481.6002 Td
+(68.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6002 Td
+(What is the Hamming distance between DNA strands) Tj
+ET
+BT
+/F1 7.8 Tf
+322 472.4002 Td
+('GAGC' and 'GATC'?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.7002 Td
+(1 \(at position 3\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 451.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 451.1002 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.5002 Td
+(2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 431.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 431.9002 Td
+(4) Tj
+ET
+BT
+/F2 8.0 Tf
+306 408.3002 Td
+(69.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 408.3002 Td
+(In converting DNA to mRNA transcription, which) Tj
+ET
+BT
+/F1 7.8 Tf
+322 399.1002 Td
+(base replaces Thymine \(T\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.4001 Td
+(Uracil \(U\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.8001 Td
+(Cytosine \(C\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 368.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 368.2001 Td
+(Guanine \(G\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 358.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 358.6001 Td
+(Adenine \(A\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 335.0001 Td
+(70.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 335.0001 Td
+(What is an activation record / stack frame) Tj
+ET
+BT
+/F1 7.8 Tf
+322 325.8001 Td
+(composed of at runtime?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 314.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 314.1001 Td
+(Locals, params, ret-addr) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.5001 Td
+(Heap pointers only) Tj
+ET
+BT
+/F2 7.4 Tf
+322 294.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 294.9001 Td
+(Global symbol tables) Tj
+ET
+BT
+/F2 7.4 Tf
+322 285.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 285.3001 Td
+(Code instructions) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 14 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+14 0 obj
+<< /Length 8430 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 3: USER-DEFINED FUNCTIONS & STORAGE CLASSES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 6 of 37) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(71.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What happens to the stack pointer register) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(\(ESP/RSP\) when a function returns in machine) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(code?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(Restores caller frame) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.3 Td
+(Zeros out memory) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.7 Td
+(Increments by heap size) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.1 Td
+(Freezes instruction) Tj
+ET
+BT
+/F2 8.0 Tf
+42 701.5001 Td
+(72.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(Can a function return a pointer to its own) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.3 Td
+(automatic local variable?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.6 Td
+(No \(dangling pointer!\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.0001 Td
+(Yes \(valid ANSI C\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.4001 Td
+(Only if int*) Tj
+ET
+BT
+/F2 7.4 Tf
+58 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 651.8001 Td
+(Yes if const) Tj
+ET
+BT
+/F2 8.0 Tf
+42 628.2001 Td
+(73.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(Why is returning a pointer to an auto local) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.0001 Td
+(variable a critical bug?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 607.3001 Td
+(Stack frame is destroyed) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.7001 Td
+(Type mismatch) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.1002 Td
+(Pointer is zeroed) Tj
+ET
+BT
+/F2 7.4 Tf
+58 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 578.5002 Td
+(Linker error) Tj
+ET
+BT
+/F2 8.0 Tf
+42 554.9002 Td
+(74.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(How can a function safely return a pointer to) Tj
+ET
+BT
+/F1 7.8 Tf
+58 545.7002 Td
+(data created within it?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 534.0002 Td
+(Allocate on heap / static) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.4002 Td
+(Use auto local variable) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.8002 Td
+(Cast to void*) Tj
+ET
+BT
+/F2 7.4 Tf
+58 505.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 505.2002 Td
+(Use register storage) Tj
+ET
+BT
+/F2 8.0 Tf
+42 481.6002 Td
+(75.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6002 Td
+(What does declaring const int *arr in a function) Tj
+ET
+BT
+/F1 7.8 Tf
+58 472.4002 Td
+(prototype enforce?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.7002 Td
+(Array elements read-only) Tj
+ET
+BT
+/F2 7.4 Tf
+58 451.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 451.1002 Td
+(Array size is constant) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.5002 Td
+(Pointer is immutable) Tj
+ET
+BT
+/F2 7.4 Tf
+58 431.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 431.9002 Td
+(Array is in ROM) Tj
+ET
+BT
+/F2 8.0 Tf
+42 408.3002 Td
+(76.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 408.3002 Td
+(What compiler optimization replaces a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 399.1002 Td
+(tail-recursive call with an unconditional jump) Tj
+ET
+BT
+/F1 7.8 Tf
+58 389.9001 Td
+(loop?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 378.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 378.2001 Td
+(Tail Call Optimization) Tj
+ET
+BT
+/F2 7.4 Tf
+58 368.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 368.6001 Td
+(Loop unrolling) Tj
+ET
+BT
+/F2 7.4 Tf
+58 359.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 359.0001 Td
+(Dead code elimination) Tj
+ET
+BT
+/F2 7.4 Tf
+58 349.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 349.4001 Td
+(Constant folding) Tj
+ET
+BT
+/F2 8.0 Tf
+42 325.8001 Td
+(77.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 325.8001 Td
+(Which function signature illustrates a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 316.6001 Td
+(tail-recursive factorial helper?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.9001 Td
+(fact_tail\(n, acc * n\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 295.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 295.3001 Td
+(n * fact\(n - 1\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 285.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 285.7001 Td
+(fact\(fact\(n-1\)\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 276.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 276.1001 Td
+(1 + fact\(n - 1\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(78.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Why is standard fact\(n\) = n * fact\(n-1\) NOT) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(tail-recursive?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(Multiplication after call) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(n is decremented) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(Returns integer) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(Stack frame omitted) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(79.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(In <stdarg.h>, what is the second argument) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(required by va_start\(ap, last_arg\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(Last named parameter) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(First variadic arg) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(Argument count) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(Format string pointer) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(80.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(Why can float types not be retrieved directly) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(using va_arg\(ap, float\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.5001 Td
+(Promoted to double) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.9001 Td
+(Promoted to int) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.3002 Td
+(Undefined syntax) Tj
+ET
+BT
+/F2 7.4 Tf
+322 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 587.7002 Td
+(Float is truncated) Tj
+ET
+BT
+/F2 8.0 Tf
+306 564.1002 Td
+(81.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.1002 Td
+(Why can char types not be retrieved directly) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(using va_arg\(ap, char\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 543.2002 Td
+(Promoted to int) Tj
+ET
+BT
+/F2 7.4 Tf
+322 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 533.6002 Td
+(Promoted to double) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.0002 Td
+(Char is unsigned) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.4003 Td
+(Compiler crash) Tj
+ET
+BT
+/F2 8.0 Tf
+306 490.8003 Td
+(82.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 490.8003 Td
+(What is mutual / indirect recursion?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 479.1003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 479.1003 Td
+(A calls B, and B calls A) Tj
+ET
+BT
+/F2 7.4 Tf
+322 469.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 469.5002 Td
+(A calls itself 2 times) Tj
+ET
+BT
+/F2 7.4 Tf
+322 459.9002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 459.9002 Td
+(A calls main\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 450.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 450.3002 Td
+(A calls external DLL) Tj
+ET
+BT
+/F2 8.0 Tf
+306 426.7002 Td
+(83.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 426.7002 Td
+(How does the C compiler handle forward) Tj
+ET
+BT
+/F1 7.8 Tf
+322 417.5002 Td
+(references in mutual recursion?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 405.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 405.8002 Td
+(Use forward prototype) Tj
+ET
+BT
+/F2 7.4 Tf
+322 396.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 396.2002 Td
+(Rearrange source lines) Tj
+ET
+BT
+/F2 7.4 Tf
+322 386.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 386.6002 Td
+(Use extern storage) Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.0002 Td
+(Cannot be compiled) Tj
+ET
+BT
+/F2 8.0 Tf
+306 353.4002 Td
+(84.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 353.4002 Td
+(What is memoization in the context of recursive) Tj
+ET
+BT
+/F1 7.8 Tf
+322 344.2002 Td
+(algorithms?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 332.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 332.5002 Td
+(Caching computed results) Tj
+ET
+BT
+/F2 7.4 Tf
+322 322.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 322.9001 Td
+(Freeing stack frames) Tj
+ET
+BT
+/F2 7.4 Tf
+322 313.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 313.3001 Td
+(Converting to assembly) Tj
+ET
+BT
+/F2 7.4 Tf
+322 303.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 303.7001 Td
+(Allocating virtual RAM) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 16 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+16 0 obj
+<< /Length 8512 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 3: USER-DEFINED FUNCTIONS & STORAGE CLASSES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 7 of 37) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(85.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(By what factor does memoization reduce Fibonacci) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(time complexity from naive recursion?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(From O\(2^N\) to O\(N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(From O\(N^2\) to O\(log N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(From O\(N!\) to O\(N^2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(From O\(N\) to O\(1\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(86.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(In a re-entrant function, what type of variables) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(must be strictly avoided?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(Static and global variables) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(Local auto variables) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(Pointer parameters) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(Constant literals) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(87.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(What makes a function thread-safe in concurrent) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(C programming?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.5001 Td
+(No shared unsynced state) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.9001 Td
+(Written in assembly) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.3002 Td
+(Contains no loops) Tj
+ET
+BT
+/F2 7.4 Tf
+58 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 587.7002 Td
+(Returns void only) Tj
+ET
+BT
+/F2 8.0 Tf
+42 564.1002 Td
+(88.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(Which standard library function is an example of) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(a non-reentrant function due to internal static) Tj
+ET
+BT
+/F1 7.8 Tf
+58 545.7002 Td
+(state?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 534.0002 Td
+(strtok\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.4002 Td
+(strlen\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.8002 Td
+(strcpy\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 505.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 505.2002 Td
+(printf\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 481.6002 Td
+(89.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6002 Td
+(Which POSIX thread-safe alternative replaces) Tj
+ET
+BT
+/F1 7.8 Tf
+58 472.4002 Td
+(strtok\(\) by taking an explicit context pointer?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.7002 Td
+(strtok_r\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 451.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 451.1002 Td
+(strtok_s\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.5002 Td
+(strtok_safe\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 431.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 431.9002 Td
+(strtok_t\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 408.3002 Td
+(90.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 408.3002 Td
+(In C, can main\(\) be called recursively within) Tj
+ET
+BT
+/F1 7.8 Tf
+58 399.1002 Td
+(user code?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 387.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 387.4001 Td
+(Yes \(legal in C89/C99\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.8001 Td
+(No \(strictly forbidden\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 368.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 368.2001 Td
+(Only in C11) Tj
+ET
+BT
+/F2 7.4 Tf
+58 358.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 358.6001 Td
+(Triggers syntax error) Tj
+ET
+BT
+/F2 8.0 Tf
+42 335.0001 Td
+(91.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.0001 Td
+(Unlike C, why is calling main\(\) recursively) Tj
+ET
+BT
+/F1 7.8 Tf
+58 325.8001 Td
+(strictly illegal in ISO C++?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 314.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 314.1001 Td
+(C++ standard forbids it) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.5001 Td
+(C++ lacks call stack) Tj
+ET
+BT
+/F2 7.4 Tf
+58 294.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 294.9001 Td
+(Name mangling issues) Tj
+ET
+BT
+/F2 7.4 Tf
+58 285.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 285.3001 Td
+(Main has no return) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(92.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What is a function pointer in C?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 772.3 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 772.3 Td
+(Variable holding code addr) Tj
+ET
+BT
+/F2 7.4 Tf
+322 762.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 762.7 Td
+(Pointer to return value) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.1 Td
+(Dynamic function call) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.5001 Td
+(Macro replacement) Tj
+ET
+BT
+/F2 8.0 Tf
+306 719.9001 Td
+(93.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 719.9001 Td
+(What is the syntax to declare a pointer fp to a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(function taking two ints and returning double?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 699.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 699.0001 Td
+(double \(*fp\)\(int, int\);) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.4001 Td
+(double *fp\(int, int\);) Tj
+ET
+BT
+/F2 7.4 Tf
+322 679.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 679.8001 Td
+(double fp*\(int, int\);) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.2001 Td
+(\(*double\) fp\(int, int\);) Tj
+ET
+BT
+/F2 8.0 Tf
+306 646.6002 Td
+(94.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 646.6002 Td
+(What does double *fp\(int, int\); declare instead) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(due to operator precedence?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 625.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 625.7001 Td
+(Function returning double*) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.1002 Td
+(Function pointer) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.5002 Td
+(Array of doubles) Tj
+ET
+BT
+/F2 7.4 Tf
+322 596.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 596.9002 Td
+(Syntax error) Tj
+ET
+BT
+/F2 8.0 Tf
+306 573.3002 Td
+(95.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 573.3002 Td
+(Which standard library sorting function takes a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.1002 Td
+(function pointer comparator as a callback?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 552.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 552.4002 Td
+(qsort\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 542.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 542.8002 Td
+(sort\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 533.2003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 533.2003 Td
+(bsearch\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 523.6003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 523.6003 Td
+(mergesort\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 500.0003 Td
+(96.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 500.0003 Td
+(What return values must a qsort comparator) Tj
+ET
+BT
+/F1 7.8 Tf
+322 490.8003 Td
+(callback return for elements a and b?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 479.1003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 479.1003 Td
+(<0 \(a<b\), 0 \(=\), >0 \(a>b\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 469.5003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 469.5003 Td
+(Boolean true/false) Tj
+ET
+BT
+/F2 7.4 Tf
+322 459.9003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 459.9003 Td
+(Always 0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 450.3003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 450.3003 Td
+(Difference in bytes) Tj
+ET
+BT
+/F2 8.0 Tf
+306 426.7003 Td
+(97.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 426.7003 Td
+(In calculating Hamming distance recursively,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 417.5002 Td
+(what is the base case?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 405.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 405.8002 Td
+(End of string \('\\0'\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 396.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 396.2002 Td
+(First mismatch) Tj
+ET
+BT
+/F2 7.4 Tf
+322 386.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 386.6002 Td
+(String length == 10) Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.0002 Td
+(Null pointer only) Tj
+ET
+BT
+/F2 8.0 Tf
+306 353.4002 Td
+(98.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 353.4002 Td
+(What does the C99 restrict qualifier applied to) Tj
+ET
+BT
+/F1 7.8 Tf
+322 344.2002 Td
+(a pointer parameter inform the compiler?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 332.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 332.5002 Td
+(No other pointer aliases it) Tj
+ET
+BT
+/F2 7.4 Tf
+322 322.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 322.9002 Td
+(Pointer is read-only) Tj
+ET
+BT
+/F2 7.4 Tf
+322 313.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 313.3002 Td
+(Pointer is restricted to 0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 303.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 303.7002 Td
+(Pointer is stack-only) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 18 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+18 0 obj
+<< /Length 1495 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 3: USER-DEFINED FUNCTIONS & STORAGE CLASSES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 8 of 37) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(99.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What optimization can a compiler perform when) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(pointers are marked with restrict?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(Aggressive caching in reg) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(Disable all loops) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(Inlines automatically) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(Forces heap allocation) Tj
+ET
+BT
+/F2 8.0 Tf
+42 700.7001 Td
+(100.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 700.7001 Td
+(In multi-file builds, what happens if an inline) Tj
+ET
+BT
+/F1 7.8 Tf
+58 691.5001 Td
+(function is defined in a header without static?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 679.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 679.8 Td
+(Linker multiple definition) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.2001 Td
+(Compiles cleanly) Tj
+ET
+BT
+/F2 7.4 Tf
+58 660.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 660.6001 Td
+(Treated as extern auto) Tj
+ET
+BT
+/F2 7.4 Tf
+58 651.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 651.0001 Td
+(Ignored by linker) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 20 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+20 0 obj
+<< /Length 4906 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 3: USER-DEFINED FUNCTIONS & STORAGE CLASSES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 9 of 37) Tj
+ET
+BT
+/F2 10 Tf
+45 780 Td
+(SECTION B: DESCRIPTIVE & SUBJECTIVE QUESTIONS) Tj
+ET
+BT
+/F2 8.5 Tf
+45 760 Td
+(Q1. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 760 Td
+(Explain the principles of Modular Programming in C, detailing functional decomposition, interface) Tj
+ET
+BT
+/F1 8.5 Tf
+72 749.5 Td
+(abstraction, and code reusability.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 724.5 Td
+(Q2. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 724.5 Td
+(Detail the anatomy of a C function, explaining function prototypes, definitions, calling) Tj
+ET
+BT
+/F1 8.5 Tf
+72 714 Td
+(conventions, and return mechanics.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 689 Td
+(Q3. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 689 Td
+(Compare Call-by-Value with Call-by-Reference in C, illustrating stack frame isolation and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 678.5 Td
+(pointer-based parameter modification.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 653.5 Td
+(Q4. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 653.5 Td
+(Explain array parameter passing in C, detailing array decay to pointers and why array length) Tj
+ET
+BT
+/F1 8.5 Tf
+72 643 Td
+(cannot be determined via sizeof inside functions.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 618 Td
+(Q5. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 618 Td
+(Explain recursion in C, detailing base cases, recursive steps, call stack mechanics, and stack) Tj
+ET
+BT
+/F1 8.5 Tf
+72 607.5 Td
+(overflow conditions.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 582.5 Td
+(Q6. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 582.5 Td
+(Write an ANSI C program to solve the Tower of Hanoi problem recursively, detailing mathematical) Tj
+ET
+BT
+/F1 8.5 Tf
+72 572 Td
+(complexity and move proofs.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 547 Td
+(Q7. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 547 Td
+(Explain Tail Recursion vs Non-Tail Recursion in C, detailing Tail Call Optimization \(TCO\) and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 536.5 Td
+(stack frame recycling.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 511.5 Td
+(Q8. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 511.5 Td
+(Detail the four C Storage Classes \(auto, register, static, extern\), comparing storage duration,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 501 Td
+(scope, and memory segment allocation.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 476 Td
+(Q9. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 476 Td
+(Explain local static variables vs global static variables vs global static functions in multi-file) Tj
+ET
+BT
+/F1 8.5 Tf
+72 465.5 Td
+(C architecture.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 440.5 Td
+(Q10. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 440.5 Td
+(Detail external linkage using extern across multiple source files with an annotated multi-module C) Tj
+ET
+BT
+/F1 8.5 Tf
+72 430 Td
+(project layout.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 405 Td
+(Q11. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 405 Td
+(Explain inline functions in C99, comparing them with preprocessor macros and detailing compiler) Tj
+ET
+BT
+/F1 8.5 Tf
+72 394.5 Td
+(inlining heuristics.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 369.5 Td
+(Q12. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 369.5 Td
+(Detail variadic functions in C using <stdarg.h>, implementing a custom formatting print function) Tj
+ET
+BT
+/F1 8.5 Tf
+72 359 Td
+(my_printf\(\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 334 Td
+(Q13. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 334 Td
+(Write an ANSI C program to compute the Hamming Distance between two DNA oligonucleotides using an) Tj
+ET
+BT
+/F1 8.5 Tf
+72 323.5 Td
+(iterative function.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 298.5 Td
+(Q14. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 298.5 Td
+(Write an ANSI C program implementing a modular function to transcribe a DNA coding sequence into) Tj
+ET
+BT
+/F1 8.5 Tf
+72 288 Td
+(messenger RNA \(mRNA\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 263 Td
+(Q15. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 263 Td
+(Write an ANSI C program to compute the molecular weight of an oligopeptide from an amino acid) Tj
+ET
+BT
+/F1 8.5 Tf
+72 252.5 Td
+(single-letter sequence string.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 227.5 Td
+(Q16. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 227.5 Td
+(Write an ANSI C program to reverse a string in-place using a recursive function without auxiliary) Tj
+ET
+BT
+/F1 8.5 Tf
+72 217 Td
+(string buffers.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 192 Td
+(Q17. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 192 Td
+(Explain Function Pointers in C, detailing declaration syntax, typedef shortcuts, and callback) Tj
+ET
+BT
+/F1 8.5 Tf
+72 181.5 Td
+(dispatch tables.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 156.5 Td
+(Q18. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 156.5 Td
+(Write an ANSI C program demonstrating the standard library qsort\(\) with a custom comparator) Tj
+ET
+BT
+/F1 8.5 Tf
+72 146 Td
+(callback for floating-point gene scores.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 121 Td
+(Q19. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 121 Td
+(Write an ANSI C program to compute the N-th Fibonacci number using Memoization to achieve O\(N\)) Tj
+ET
+BT
+/F1 8.5 Tf
+72 110.5 Td
+(linear time complexity.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 85.5 Td
+(Q20. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 85.5 Td
+(Explain mutual recursion in C, demonstrating how forward function prototypes resolve circular) Tj
+ET
+BT
+/F1 8.5 Tf
+72 75 Td
+(dependencies between functions.) Tj
+ET
+
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 22 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+22 0 obj
+<< /Length 2501 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 3: USER-DEFINED FUNCTIONS & STORAGE CLASSES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 10 of 37) Tj
+ET
+BT
+/F2 8.5 Tf
+45 780 Td
+(Q21. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 780 Td
+(Explain reentrancy and thread-safety in C functions, detailing why internal static state renders) Tj
+ET
+BT
+/F1 8.5 Tf
+72 769.5 Td
+(functions non-reentrant.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 743.5 Td
+(Q22. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 743.5 Td
+(Write an ANSI C program to recursively compute the length of a phylogenetic tree branch from a) Tj
+ET
+BT
+/F1 8.5 Tf
+72 733 Td
+(nested parent array representation.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 707 Td
+(Q23. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 707 Td
+(Explain variable shadowing in C, detailing block scope nesting and potential masking bugs.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 670.5 Td
+(Q24. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 670.5 Td
+(Write an ANSI C program to calculate the greatest common divisor \(GCD\) using tail recursion and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 660 Td
+(compare with iterative execution.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 634 Td
+(Q25. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 634 Td
+(Detail the atexit\(\) function in C, explaining handler registration, execution order, and resource) Tj
+ET
+BT
+/F1 8.5 Tf
+72 623.5 Td
+(cleanup on exit.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 597.5 Td
+(Q26. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 597.5 Td
+(Write an ANSI C program to search a sorted integer array using Recursive Binary Search, analyzing) Tj
+ET
+BT
+/F1 8.5 Tf
+72 587 Td
+(worst-case logarithmic complexity.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 561 Td
+(Q27. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 561 Td
+(Explain the stack frame layout during nested and recursive function calls, detailing caller-saved) Tj
+ET
+BT
+/F1 8.5 Tf
+72 550.5 Td
+(vs callee-saved registers.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 524.5 Td
+(Q28. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 524.5 Td
+(Write an ANSI C program to demonstrate a recursive power function x^n using binary exponentiation) Tj
+ET
+BT
+/F1 8.5 Tf
+72 514 Td
+(in O\(log n\) time.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 488 Td
+(Q29. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 488 Td
+(Explain the dangers of returning pointers or references to local stack-allocated variables from C) Tj
+ET
+BT
+/F1 8.5 Tf
+72 477.5 Td
+(functions.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 451.5 Td
+(Q30. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 451.5 Td
+(Write an ANSI C program to implement a modular codon translation table converting RNA triplets) Tj
+ET
+BT
+/F1 8.5 Tf
+72 441 Td
+(into amino acid names.) Tj
+ET
+
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 24 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+24 0 obj
+<< /Length 8430 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 3: USER-DEFINED FUNCTIONS & STORAGE CLASSES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 11 of 37) Tj
+ET
+BT
+/F2 11 Tf
+45 780 Td
+(SECTION C: ANSWER KEY - MULTIPLE CHOICE QUESTIONS) Tj
+ET
+0.5 w
+45 772 m 550 772 l S
+BT
+/F2 8.5 Tf
+45 750 Td
+(Q1: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 734 Td
+(Q2: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 718 Td
+(Q3: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 702 Td
+(Q4: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 686 Td
+(Q5: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 670 Td
+(Q6: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 654 Td
+(Q7: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 638 Td
+(Q8: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 622 Td
+(Q9: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 606 Td
+(Q10: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 590 Td
+(Q11: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 574 Td
+(Q12: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 558 Td
+(Q13: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 542 Td
+(Q14: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 526 Td
+(Q15: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 510 Td
+(Q16: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 494 Td
+(Q17: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 478 Td
+(Q18: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 462 Td
+(Q19: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 446 Td
+(Q20: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 446 Td
+([A]) Tj
+ET
+0.2 w
+135 755 m 135 425 l S
+BT
+/F2 8.5 Tf
+145 750 Td
+(Q21: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 734 Td
+(Q22: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 718 Td
+(Q23: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 702 Td
+(Q24: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 686 Td
+(Q25: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 670 Td
+(Q26: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 654 Td
+(Q27: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 638 Td
+(Q28: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 622 Td
+(Q29: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 606 Td
+(Q30: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 590 Td
+(Q31: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 574 Td
+(Q32: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 558 Td
+(Q33: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 542 Td
+(Q34: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 526 Td
+(Q35: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 510 Td
+(Q36: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 494 Td
+(Q37: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 478 Td
+(Q38: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 462 Td
+(Q39: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 446 Td
+(Q40: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 446 Td
+([A]) Tj
+ET
+0.2 w
+235 755 m 235 425 l S
+BT
+/F2 8.5 Tf
+245 750 Td
+(Q41: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 734 Td
+(Q42: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 718 Td
+(Q43: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 702 Td
+(Q44: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 686 Td
+(Q45: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 670 Td
+(Q46: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 654 Td
+(Q47: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 638 Td
+(Q48: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 622 Td
+(Q49: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 606 Td
+(Q50: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 590 Td
+(Q51: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 574 Td
+(Q52: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 558 Td
+(Q53: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 542 Td
+(Q54: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 526 Td
+(Q55: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 510 Td
+(Q56: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 494 Td
+(Q57: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 478 Td
+(Q58: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 462 Td
+(Q59: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 446 Td
+(Q60: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 446 Td
+([A]) Tj
+ET
+0.2 w
+335 755 m 335 425 l S
+BT
+/F2 8.5 Tf
+345 750 Td
+(Q61: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 734 Td
+(Q62: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 718 Td
+(Q63: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 702 Td
+(Q64: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 686 Td
+(Q65: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 670 Td
+(Q66: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 654 Td
+(Q67: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 638 Td
+(Q68: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 622 Td
+(Q69: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 606 Td
+(Q70: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 590 Td
+(Q71: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 574 Td
+(Q72: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 558 Td
+(Q73: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 542 Td
+(Q74: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 526 Td
+(Q75: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 510 Td
+(Q76: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 494 Td
+(Q77: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 478 Td
+(Q78: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 462 Td
+(Q79: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 446 Td
+(Q80: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 446 Td
+([A]) Tj
+ET
+0.2 w
+435 755 m 435 425 l S
+BT
+/F2 8.5 Tf
+445 750 Td
+(Q81: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 734 Td
+(Q82: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 718 Td
+(Q83: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 702 Td
+(Q84: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 686 Td
+(Q85: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 670 Td
+(Q86: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 654 Td
+(Q87: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 638 Td
+(Q88: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 622 Td
+(Q89: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 606 Td
+(Q90: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 590 Td
+(Q91: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 574 Td
+(Q92: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 558 Td
+(Q93: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 542 Td
+(Q94: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 526 Td
+(Q95: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 510 Td
+(Q96: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 494 Td
+(Q97: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 478 Td
+(Q98: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 462 Td
+(Q99: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 446 Td
+(Q100: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 446 Td
+([A]) Tj
+ET
+0.5 w
+45 400 m 550 400 l 550 340 l 45 340 l s
+BT
+/F2 9 Tf
+55 382 Td
+(MCQ Scoring Guide & Difficulty Distribution:) Tj
+ET
+BT
+/F1 8.5 Tf
+55 366 Td
+(Questions 1 to 40: Foundational & Conceptual [Easy] | Questions 41 to 75: Analytical & Applied [Moderate]) Tj
+ET
+BT
+/F1 8.5 Tf
+55 350 Td
+(Questions 76 to 100: Complex Numerical & Advanced Problem Solving [Difficult]) Tj
+ET
+
+endstream
+endobj
+25 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 26 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+26 0 obj
+<< /Length 3462 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 3: USER-DEFINED FUNCTIONS & STORAGE CLASSES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 12 of 37) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(SECTION D: DETAILED SOLUTIONS FOR SUBJECTIVE QUESTIONS) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(================================================================================) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 1:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the principles of Modular Programming in C, detailing functional decomposition, interface abstraction, and code reusability.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Principles of Modular Programming in C:) Tj
+T*
+(   1. Core Concepts:) Tj
+T*
+(   - Modular programming decomposes complex software architectures into smaller, self-contained,) Tj
+T*
+(   independent functional modules.) Tj
+T*
+(   - Separation of Concerns: Each module addresses a single cohesive domain responsibility \(e.g.,) Tj
+T*
+(   DNA sequence parsing, thermodynamic calculation, file reporting\).) Tj
+T*
+(   - Abstraction and Encapsulation: The module header \(.h\) exposes the clean interface \(prototypes) Tj
+T*
+(   and types\), while the source \(.c\) hides implementation details.) Tj
+T*
+() Tj
+T*
+(   2. Benefits of Functional Decomposition:) Tj
+T*
+(   - Manageability: Reduces cognitive load; individual units can be developed and audited) Tj
+T*
+(   independently.) Tj
+T*
+(   - Reusability: Generic utility functions \(e.g., string trimming, mathematical solvers\) can be) Tj
+T*
+(   linked across multiple software projects.) Tj
+T*
+(   - Testability: Enables isolated unit testing \(mocking inputs and verifying outputs\).) Tj
+T*
+(   - Team Scalability: Multiple engineers can work simultaneously on separate modules without) Tj
+T*
+(   source conflict.) Tj
+T*
+() Tj
+T*
+(   3. Complete ANSI C Modular Architecture Example:) Tj
+T*
+(   Header Contract \(biomath.h\):) Tj
+T*
+(   #ifndef BIOMATH_H) Tj
+T*
+(   #define BIOMATH_H) Tj
+T*
+(   double calculate_molarity\(double mass_grams, double molecular_weight, double volume_liters\);) Tj
+T*
+(   #endif) Tj
+T*
+() Tj
+T*
+(   Implementation Module \(biomath.c\):) Tj
+T*
+(   #include "biomath.h") Tj
+T*
+(   double calculate_molarity\(double mass_grams, double molecular_weight, double volume_liters\) {) Tj
+T*
+(   if \(molecular_weight <= 0.0 || volume_liters <= 0.0\) return 0.0;) Tj
+T*
+(   double moles = mass_grams / molecular_weight;) Tj
+T*
+(   return moles / volume_liters;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   Client Program \(main.c\):) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include "biomath.h") Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   /* 58.44 g/mol NaCl, 5.844 grams in 0.5 Liters */) Tj
+T*
+(   double molarity = calculate_molarity\(5.844, 58.44, 0.5\);) Tj
+T*
+(   printf\("Calculated Buffer Concentration: %.3f M \(mol/L\)\\n", molarity\);) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 2:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Detail the anatomy of a C function, explaining function prototypes, definitions, calling conventions, and return mechanics.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+ET
+
+endstream
+endobj
+27 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 28 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+28 0 obj
+<< /Length 3133 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 3: USER-DEFINED FUNCTIONS & STORAGE CLASSES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 13 of 37) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   Anatomy of a C Function:) Tj
+T*
+(   A C function consists of three distinct grammatical stages:) Tj
+T*
+(   1. Function Prototype \(Forward Declaration\):) Tj
+T*
+(   - Syntax: return_type function_name\(parameter_type1 param1, parameter_type2 param2\);) Tj
+T*
+(   - Role: Informs compiler about the function's signature before its actual call site, allowing) Tj
+T*
+(   strict compile-time parameter type checking.) Tj
+T*
+(   - Header Placement: Prototypes are placed in .h header files or at the top of .c files.) Tj
+T*
+() Tj
+T*
+(   2. Function Definition:) Tj
+T*
+(   - Composed of the Function Header followed by the Function Body { ... }:) Tj
+T*
+(   return_type function_name\(param_list\) {) Tj
+T*
+(   /* Local variable declarations */) Tj
+T*
+(   /* Executable statements */) Tj
+T*
+(   return result_value;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   3. Function Call and Calling Conventions:) Tj
+T*
+(   - Syntax: result = function_name\(arg1, arg2\);) Tj
+T*
+(   - Calling Convention \(e.g., cdecl on x86, System V AMD64 ABI on x86-64\):) Tj
+T*
+(   a. Caller evaluates actual arguments right-to-left and pushes them onto the stack or passes) Tj
+T*
+(   them in designated CPU registers \(RDI, RSI, RDX, RCX, R8, R9\).) Tj
+T*
+(   b. Caller executes 'call' instruction, pushing the Return Address onto the stack.) Tj
+T*
+(   c. Callee executes its body and places return value in RAX/EAX register.) Tj
+T*
+(   d. Callee executes 'ret', popping return address back into instruction pointer \(RIP/EIP\).) Tj
+T*
+() Tj
+T*
+(   4. Annotated ANSI C Code Listing:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   /* 1. Function Prototype Declaration */) Tj
+T*
+(   double compute_kinetic_velocity\(double substrate_conc, double vmax, double km\);) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   double s = 2.5; /* Substrate concentration [S] in mM */) Tj
+T*
+(   double vmax = 100.0; /* Vmax in umol/min */) Tj
+T*
+(   double km = 1.2; /* Michaelis constant Km in mM */) Tj
+T*
+() Tj
+T*
+(   /* 2. Function Invocation */) Tj
+T*
+(   double v0 = compute_kinetic_velocity\(s, vmax, km\);) Tj
+T*
+(   printf\("Initial Reaction Velocity \(v0\): %.2f umol/min\\n", v0\);) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   /* 3. Function Definition \(Michaelis-Menten Enzyme Kinetics\) */) Tj
+T*
+(   double compute_kinetic_velocity\(double substrate_conc, double vmax, double km\) {) Tj
+T*
+(   if \(substrate_conc < 0.0 || \(km + substrate_conc\) <= 0.0\) {) Tj
+T*
+(   return 0.0;) Tj
+T*
+(   }) Tj
+T*
+(   /* v0 = \(Vmax * [S]\) / \(Km + [S]\) */) Tj
+T*
+(   double velocity = \(vmax * substrate_conc\) / \(km + substrate_conc\);) Tj
+T*
+(   return velocity; /* 4. Return statement yielding computed scalar */) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+29 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 30 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+30 0 obj
+<< /Length 2707 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 3: USER-DEFINED FUNCTIONS & STORAGE CLASSES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 14 of 37) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 3:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Compare Call-by-Value with Call-by-Reference in C, illustrating stack frame isolation and pointer-based parameter modification.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Call-by-Value vs Simulated Call-by-Reference in C:) Tj
+T*
+(   1. Fundamental Mechanism in C:) Tj
+T*
+(   Strict Rule: The C programming language supports ONLY Call-by-Value natively!) Tj
+T*
+(   - Every argument passed into a function is evaluated and copied into a fresh local variable on) Tj
+T*
+(   the callee's stack frame.) Tj
+T*
+(   - Changes made to formal parameters inside the function affect ONLY the local copies; the) Tj
+T*
+(   caller's variables remain untouched.) Tj
+T*
+() Tj
+T*
+(   2. Simulating Call-by-Reference via Pointers:) Tj
+T*
+(   To modify caller variables, programmers pass memory addresses \(&variable\) as values. The) Tj
+T*
+(   function receives a pointer and dereferences it \(*ptr\) to modify the caller's memory directly.) Tj
+T*
+() Tj
+T*
+(   3. Stack Frame Memory Walkthrough:) Tj
+T*
+(   - Call-by-Value:) Tj
+T*
+(   main frame: [x = 5]) Tj
+T*
+(   func frame: [a = 5] -> modified to 99 -> destroyed on return!) Tj
+T*
+(   main frame x remains 5.) Tj
+T*
+(   - Pointer Pass:) Tj
+T*
+(   main frame: [x = 5] at address 0x1000) Tj
+T*
+(   func frame: [ptr = 0x1000] -> writes 99 to address 0x1000!) Tj
+T*
+(   main frame x is now 99!) Tj
+T*
+() Tj
+T*
+(   4. Demonstrative ANSI C Program:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   /* Call-by-Value: Ineffective swap */) Tj
+T*
+(   void swap_by_value\(int a, int b\) {) Tj
+T*
+(   int temp = a;) Tj
+T*
+(   a = b;) Tj
+T*
+(   b = temp;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   /* Simulated Call-by-Reference: Effective swap using pointers */) Tj
+T*
+(   void swap_by_reference\(int *a, int *b\) {) Tj
+T*
+(   int temp = *a;) Tj
+T*
+(   *a = *b;) Tj
+T*
+(   *b = temp;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   int x = 10, y = 20;) Tj
+T*
+() Tj
+T*
+(   printf\("Initial: x = %d, y = %d\\n", x, y\);) Tj
+T*
+(   swap_by_value\(x, y\);) Tj
+T*
+(   printf\("After swap_by_value: x = %d, y = %d \(Unchanged!\)\\n", x, y\);) Tj
+T*
+() Tj
+T*
+(   swap_by_reference\(&x, &y\);) Tj
+T*
+(   printf\("After swap_by_reference: x = %d, y = %d \(Successfully Swapped!\)\\n", x, y\);) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+ET
+
+endstream
+endobj
+31 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 32 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+32 0 obj
+<< /Length 2996 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 3: USER-DEFINED FUNCTIONS & STORAGE CLASSES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 15 of 37) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 4:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain array parameter passing in C, detailing array decay to pointers and why array length cannot be determined via sizeof inside functions.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Array Parameter Passing and Decay to Pointers in C:) Tj
+T*
+(   1. Array Decay Principle:) Tj
+T*
+(   In C, an array identifier represents a contiguous block of memory. However, when an array is) Tj
+T*
+(   passed as an argument to a function, it AUTOMATICALLY DECAYS into a pointer to its first) Tj
+T*
+(   element:) Tj
+T*
+(   void process_array\(int arr[]\)) Tj
+T*
+(   is rewritten internally by the compiler as:) Tj
+T*
+(   void process_array\(int *arr\)) Tj
+T*
+(   Even if an explicit size is written: void process\(int arr[100]\), the compiler completely) Tj
+T*
+(   discards '100' and treats it as int *arr.) Tj
+T*
+() Tj
+T*
+(   2. The sizeof Pitfall Inside Functions:) Tj
+T*
+(   - In caller scope where array is defined:) Tj
+T*
+(   int data[50];) Tj
+T*
+(   sizeof\(data\) == 50 * sizeof\(int\) == 200 bytes.) Tj
+T*
+(   - Inside callee function:) Tj
+T*
+(   void func\(int data[]\) {) Tj
+T*
+(   sizeof\(data\) == sizeof\(int*\) == 8 bytes \(on 64-bit systems\)!) Tj
+T*
+(   }) Tj
+T*
+(   Dividing sizeof\(data\) / sizeof\(data[0]\) yields 8 / 4 = 2, REGARDLESS OF ACTUAL ARRAY SIZE!) Tj
+T*
+() Tj
+T*
+(   3. Architectural Consequence:) Tj
+T*
+(   Because C pointers carry no metadata regarding array bounds, THE CALLER MUST EXPLICITLY PASS) Tj
+T*
+(   THE ARRAY LENGTH as an auxiliary parameter!) Tj
+T*
+() Tj
+T*
+(   4. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   double compute_mean\(const double *arr, int length\) {) Tj
+T*
+(   if \(length <= 0\) return 0.0;) Tj
+T*
+(   double sum = 0.0;) Tj
+T*
+(   for \(int i = 0; i < length; i++\) {) Tj
+T*
+(   sum += arr[i];) Tj
+T*
+(   }) Tj
+T*
+(   return sum / \(double\)length;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   double absorbance_readings[] = {0.125, 0.250, 0.498, 0.742, 1.012};) Tj
+T*
+(   int n = sizeof\(absorbance_readings\) / sizeof\(absorbance_readings[0]\);) Tj
+T*
+() Tj
+T*
+(   printf\("Caller scope: array memory footprint = %zu bytes\\n", sizeof\(absorbance_readings\)\);) Tj
+T*
+(   printf\("Number of elements calculated in caller: %d\\n", n\);) Tj
+T*
+() Tj
+T*
+(   double mean_abs = compute_mean\(absorbance_readings, n\);) Tj
+T*
+(   printf\("Calculated Spectrophotometric Mean Absorbance: %.4f OD\\n", mean_abs\);) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+ET
+
+endstream
+endobj
+33 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 34 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+34 0 obj
+<< /Length 3258 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 3: USER-DEFINED FUNCTIONS & STORAGE CLASSES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 16 of 37) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 5:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain recursion in C, detailing base cases, recursive steps, call stack mechanics, and stack overflow conditions.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Recursion and Call Stack Mechanics in C:) Tj
+T*
+(   1. Conceptual Definition:) Tj
+T*
+(   Recursion is a programming technique where a function solves a problem by invoking smaller) Tj
+T*
+(   instances of itself until a trivial termination condition is satisfied.) Tj
+T*
+(   Every recursive function must contain two essential components:) Tj
+T*
+(   - Base Case: A terminating condition that returns a concrete result without making further) Tj
+T*
+(   recursive calls.) Tj
+T*
+(   - Recursive Step: A progressive step that breaks the problem into subproblems and invokes the) Tj
+T*
+(   function recursively, moving strictly closer to the base case.) Tj
+T*
+() Tj
+T*
+(   2. Call Stack Mechanics and Activation Records:) Tj
+T*
+(   Each function invocation creates a new Activation Record \(Stack Frame\) on the runtime call) Tj
+T*
+(   stack:) Tj
+T*
+(   - Stores parameters, local variables, frame pointer, and return address.) Tj
+T*
+(   - As recursive calls deepen, stack frames accumulate linearly \(Winding phase\).) Tj
+T*
+(   - When the base case is reached, frames return values and are popped off the stack \(Unwinding) Tj
+T*
+(   phase\).) Tj
+T*
+() Tj
+T*
+(   3. Stack Overflow Hazard:) Tj
+T*
+(   - If the base case is omitted, incorrect, or unreachable, infinite recursion occurs.) Tj
+T*
+(   - Since stack memory is finite \(typically 1 MB to 8 MB per thread\), runaway recursion exhausts) Tj
+T*
+(   stack memory, triggering an unrecoverable SIGSEGV segmentation fault.) Tj
+T*
+() Tj
+T*
+(   4. Factorial Trace Diagram for factorial\(3\):) Tj
+T*
+(   [call factorial\(3\)] -> pushes Frame 3, waits for factorial\(2\)) Tj
+T*
+(   [call factorial\(2\)] -> pushes Frame 2, waits for factorial\(1\)) Tj
+T*
+(   [call factorial\(1\)] -> pushes Frame 1, waits for factorial\(0\)) Tj
+T*
+(   [call factorial\(0\)] -> Base case reached! Returns 1!) Tj
+T*
+(   Frame 1 receives 1 -> computes 1 * 1 = 1 -> returns 1) Tj
+T*
+(   Frame 2 receives 1 -> computes 2 * 1 = 2 -> returns 2) Tj
+T*
+(   Frame 3 receives 2 -> computes 3 * 2 = 6 -> returns 6!) Tj
+T*
+() Tj
+T*
+(   5. Complete ANSI C Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   unsigned long long recursive_factorial\(unsigned int n\) {) Tj
+T*
+(   /* 1. Base Case: 0! = 1 */) Tj
+T*
+(   if \(n == 0\) return 1ULL;) Tj
+T*
+(   /* 2. Recursive Step */) Tj
+T*
+(   return \(unsigned long long\)n * recursive_factorial\(n - 1\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   printf\("5! = %llu\\n", recursive_factorial\(5\)\);) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+35 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 36 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+36 0 obj
+<< /Length 3249 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 3: USER-DEFINED FUNCTIONS & STORAGE CLASSES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 17 of 37) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 6:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to solve the Tower of Hanoi problem recursively, detailing mathematical complexity and move proofs.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Tower of Hanoi Problem: Recursive Solution and Complexity:) Tj
+T*
+(   1. Problem Formulation:) Tj
+T*
+(   Three pegs: Source \(A\), Destination \(C\), and Auxiliary \(B\).) Tj
+T*
+(   Objective: Transfer N disks from peg A to peg C under rules:) Tj
+T*
+(   - Rule 1: Only one disk can be moved at a time.) Tj
+T*
+(   - Rule 2: Each move consists of taking the upper disk from one peg and placing it atop another.) Tj
+T*
+(   - Rule 3: No disk may be placed on top of a smaller disk.) Tj
+T*
+() Tj
+T*
+(   2. Recursive Divide-and-Conquer Strategy:) Tj
+T*
+(   To move N disks from Source to Destination using Auxiliary:) Tj
+T*
+(   Step 1: Move top \(N - 1\) disks from Source to Auxiliary \(using Destination as temporary peg\).) Tj
+T*
+(   Step 2: Move the single largest disk N directly from Source to Destination.) Tj
+T*
+(   Step 3: Move the \(N - 1\) disks from Auxiliary to Destination \(using Source as temporary peg\).) Tj
+T*
+() Tj
+T*
+(   3. Mathematical Recurrence and Proof:) Tj
+T*
+(   T\(1\) = 1 move) Tj
+T*
+(   T\(N\) = 2 * T\(N - 1\) + 1) Tj
+T*
+(   Expansion:) Tj
+T*
+(   T\(N\) = 2*\(2*T\(N-2\) + 1\) + 1 = 4*T\(N-2\) + 2 + 1 = 2^\(N-1\) + ... + 2 + 1 = 2^N - 1.) Tj
+T*
+(   Total moves required: exactly \(2^N - 1\).) Tj
+T*
+(   Time Complexity: O\(2^N\) exponential time. Space Complexity: O\(N\) call stack depth.) Tj
+T*
+() Tj
+T*
+(   4. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   void solve_tower_of_hanoi\(int n, char source, char dest, char aux, int *move_counter\) {) Tj
+T*
+(   if \(n == 1\) {) Tj
+T*
+(   \(*move_counter\)++;) Tj
+T*
+(   printf\("Move %2d: Transfer Disk 1 from Peg %c -> Peg %c\\n", *move_counter, source, dest\);) Tj
+T*
+(   return;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   /* Step 1: Move n-1 disks from Source to Aux */) Tj
+T*
+(   solve_tower_of_hanoi\(n - 1, source, aux, dest, move_counter\);) Tj
+T*
+() Tj
+T*
+(   /* Step 2: Move n-th disk from Source to Dest */) Tj
+T*
+(   \(*move_counter\)++;) Tj
+T*
+(   printf\("Move %2d: Transfer Disk %d from Peg %c -> Peg %c\\n", *move_counter, n, source, dest\);) Tj
+T*
+() Tj
+T*
+(   /* Step 3: Move n-1 disks from Aux to Dest */) Tj
+T*
+(   solve_tower_of_hanoi\(n - 1, aux, dest, source, move_counter\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   int disks = 3;) Tj
+T*
+(   int moves = 0;) Tj
+T*
+(   printf\("=== Tower of Hanoi \(%d Disks\) ===\\n", disks\);) Tj
+T*
+(   solve_tower_of_hanoi\(disks, 'A', 'C', 'B', &moves\);) Tj
+T*
+(   printf\("Total moves executed: %d \(Expected: %d\)\\n", moves, \(1 << disks\) - 1\);) Tj
+T*
+ET
+
+endstream
+endobj
+37 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 38 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+38 0 obj
+<< /Length 3217 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 3: USER-DEFINED FUNCTIONS & STORAGE CLASSES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 18 of 37) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 7:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Tail Recursion vs Non-Tail Recursion in C, detailing Tail Call Optimization \(TCO\) and stack frame recycling.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Tail Recursion and Tail Call Optimization \(TCO\):) Tj
+T*
+(   1. Conceptual Distinction:) Tj
+T*
+(   - Non-Tail Recursion: The recursive call is NOT the final operation of the function. After the) Tj
+T*
+(   recursive call returns, additional computations \(e.g., multiplication, addition\) remain to be) Tj
+T*
+(   performed. The caller's stack frame MUST be preserved on the stack.) Tj
+T*
+(   Example: return n * fact\(n - 1\); /* Multiplication occurs AFTER call returns */) Tj
+T*
+(   - Tail Recursion: The recursive invocation is the ABSOLUTE FINAL expression executed in the) Tj
+T*
+(   function. The function immediately returns the value returned by the recursive call without) Tj
+T*
+(   further calculation.) Tj
+T*
+(   Example: return fact_tail\(n - 1, acc * n\);) Tj
+T*
+() Tj
+T*
+(   2. Tail Call Optimization \(TCO\):) Tj
+T*
+(   - When a function call is in tail position, there is no need to preserve the caller's stack) Tj
+T*
+(   frame because the caller has no further work to do!) Tj
+T*
+(   - An optimizing compiler \(GCC with -O2 or -O3\) REUSES / OVERWRITES the existing stack frame,) Tj
+T*
+(   resetting parameters and jumping to the top of the function via an assembly JMP instruction!) Tj
+T*
+(   - Transforms O\(N\) stack space complexity into O\(1\) constant stack space, completely eliminating) Tj
+T*
+(   the possibility of stack overflow!) Tj
+T*
+() Tj
+T*
+(   3. Code Comparison \(Converting Non-Tail to Tail Recursion\):) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   /* Non-Tail Recursive: O\(N\) stack frames */) Tj
+T*
+(   unsigned long long fact_non_tail\(unsigned int n\) {) Tj
+T*
+(   if \(n == 0\) return 1ULL;) Tj
+T*
+(   return n * fact_non_tail\(n - 1\); /* Non-tail! */) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   /* Tail Recursive Helper: O\(1\) stack frames with TCO */) Tj
+T*
+(   unsigned long long fact_tail_helper\(unsigned int n, unsigned long long accumulator\) {) Tj
+T*
+(   if \(n == 0\) return accumulator;) Tj
+T*
+(   return fact_tail_helper\(n - 1, accumulator * n\); /* Tail call! */) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   unsigned long long fact_tail\(unsigned int n\) {) Tj
+T*
+(   return fact_tail_helper\(n, 1ULL\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   printf\("Non-Tail 5! = %llu\\n", fact_non_tail\(5\)\);) Tj
+T*
+(   printf\("Tail-Opt 5! = %llu\\n", fact_tail\(5\)\);) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+39 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 40 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+40 0 obj
+<< /Length 3677 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 3: USER-DEFINED FUNCTIONS & STORAGE CLASSES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 19 of 37) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 8:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Detail the four C Storage Classes \(auto, register, static, extern\), comparing storage duration, scope, and memory segment allocation.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   The Four C Storage Classes: Detailed Comparison:) Tj
+T*
+(   Storage classes determine the scope \(visibility\), lifetime \(duration\), and physical memory) Tj
+T*
+(   location of variables in C.) Tj
+T*
+() Tj
+T*
+(   1. auto \(Automatic\):) Tj
+T*
+(   - Scope: Local block scope.) Tj
+T*
+(   - Lifetime: Block duration \(created on entry into block, destroyed upon exit\).) Tj
+T*
+(   - Storage Location: Call Stack.) Tj
+T*
+(   - Default: Default for all local variables declared inside functions.) Tj
+T*
+(   - Initialization: Contains uninitialized garbage values.) Tj
+T*
+() Tj
+T*
+(   2. register:) Tj
+T*
+(   - Scope: Local block scope.) Tj
+T*
+(   - Lifetime: Block duration.) Tj
+T*
+(   - Storage Location: Microprocessor CPU Registers \(if available; otherwise stack\).) Tj
+T*
+(   - Key Restriction: Address-of operator \(&\) CANNOT be applied \(registers have no RAM memory) Tj
+T*
+(   address\).) Tj
+T*
+(   - Usage: Performance optimization hint for frequently incremented loop counters.) Tj
+T*
+() Tj
+T*
+(   3. static:) Tj
+T*
+(   - Case A: Local Static Variable:) Tj
+T*
+(   - Scope: Local to enclosing block.) Tj
+T*
+(   - Lifetime: Entire program execution \(created at program startup, persists until exit\).) Tj
+T*
+(   - Storage Location: Data Segment \(.data if initialized, .bss if uninitialized\).) Tj
+T*
+(   - Retains value between consecutive function invocations. Initialized exactly ONCE.) Tj
+T*
+(   - Case B: Global Static Variable / Function:) Tj
+T*
+(   - Scope: File scope with INTERNAL LINKAGE. Visible only within the defining translation unit) Tj
+T*
+(   \(.c file\). Prevents global name clashes.) Tj
+T*
+() Tj
+T*
+(   4. extern \(External\):) Tj
+T*
+(   - Scope: Global / File scope with EXTERNAL LINKAGE.) Tj
+T*
+(   - Lifetime: Entire program execution.) Tj
+T*
+(   - Storage Location: Data / BSS Segment.) Tj
+T*
+(   - Purpose: Declares a variable or function that is physically defined and allocated in another) Tj
+T*
+(   source file. Informs linker to resolve symbol.) Tj
+T*
+() Tj
+T*
+(   Summary Table:) Tj
+T*
+(   Storage Class Keyword Storage Location Initial Value Scope Lifetime) Tj
+T*
+(   Automatic auto Stack Garbage Local Block Block execution) Tj
+T*
+(   Register register CPU Register Garbage Local Block Block execution) Tj
+T*
+(   Static \(Local\) static Data/BSS Segment Zero \(0\) Local Block Program duration) Tj
+T*
+(   Static \(Global\) static Data/BSS Segment Zero \(0\) File \(Internal\) Program duration) Tj
+T*
+(   External extern Data/BSS Segment Zero \(0\) Global \(External\) Program duration) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 9:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain local static variables vs global static variables vs global static functions in multi-file C architecture.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Static Variables and Functions in Multi-File Architecture:) Tj
+T*
+(   1. Local Static Variables \(Persistence inside functions\):) Tj
+T*
+ET
+
+endstream
+endobj
+41 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 42 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+42 0 obj
+<< /Length 3371 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 3: USER-DEFINED FUNCTIONS & STORAGE CLASSES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 20 of 37) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - Declared inside a function block with the 'static' keyword.) Tj
+T*
+(   - Initialized only ONCE at program startup.) Tj
+T*
+(   - Unlike auto variables which are wiped upon function exit, local static variables retain their) Tj
+T*
+(   values across multiple calls:) Tj
+T*
+() Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   int generate_sample_id\(void\) {) Tj
+T*
+(   static int current_id = 1000; /* Stored in data segment, initialized once */) Tj
+T*
+(   current_id++;) Tj
+T*
+(   return current_id;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   2. Global Static Variables \(Internal Linkage\):) Tj
+T*
+(   - Declared outside of all functions with 'static'.) Tj
+T*
+(   - Restricts symbol visibility STRICTLY TO THE CURRENT TRANSLATION UNIT \(.c file\).) Tj
+T*
+(   - If file1.c declares static int config_mode = 1; and file2.c also declares static int) Tj
+T*
+(   config_mode = 2;, NO LINKER COLLISION OCCURS. Each file has its own private, isolated variable.) Tj
+T*
+() Tj
+T*
+(   3. Global Static Functions \(Private Helper Functions\):) Tj
+T*
+(   - In C, functions have external linkage by default.) Tj
+T*
+(   - Marking a function static void parse_internal\(\) limits its accessibility strictly to callers) Tj
+T*
+(   within the same .c file.) Tj
+T*
+(   - Crucial Software Engineering Value:) Tj
+T*
+(   Enforces encapsulation and information hiding. Internal helper functions cannot be called) Tj
+T*
+(   improperly by external modules, preventing unintended state mutations.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 10:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Detail external linkage using extern across multiple source files with an annotated multi-module C project layout.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   External Linkage and the extern Keyword:) Tj
+T*
+(   1. Definition of Linkage:) Tj
+T*
+(   Linkage describes how names can be shared across multiple compilation units \(source files\).) Tj
+T*
+(   - External Linkage: Symbol can be referenced across multiple translation units by the linker.) Tj
+T*
+(   - Internal Linkage: Symbol is restricted to its own translation unit \(static\).) Tj
+T*
+(   - No Linkage: Symbol is local to a block \(auto/register\).) Tj
+T*
+() Tj
+T*
+(   2. Declaration vs Definition Rule \(One Definition Rule - ODR\):) Tj
+T*
+(   - Definition: Allocates storage memory for variable: int global_pcr_cycles = 30;) Tj
+T*
+(   MUST OCCUR IN EXACTLY ONE .c FILE!) Tj
+T*
+(   - Declaration: Informs compiler of type and name without allocating memory:) Tj
+T*
+(   extern int global_pcr_cycles;) Tj
+T*
+(   CAN OCCUR IN MULTIPLE .h OR .c FILES.) Tj
+T*
+() Tj
+T*
+(   3. Multi-File Project Structure:) Tj
+T*
+(   File 1: config.h \(Shared Header\)) Tj
+T*
+(   #ifndef CONFIG_H) Tj
+T*
+(   #define CONFIG_H) Tj
+T*
+(   extern int global_pcr_cycles; /* extern declaration */) Tj
+T*
+(   void initialize_pcr\(void\);) Tj
+T*
+(   #endif) Tj
+T*
+() Tj
+T*
+(   File 2: config.c \(Physical Definition\)) Tj
+T*
+ET
+
+endstream
+endobj
+43 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 44 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+44 0 obj
+<< /Length 3204 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 3: USER-DEFINED FUNCTIONS & STORAGE CLASSES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 21 of 37) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   #include "config.h") Tj
+T*
+(   int global_pcr_cycles = 35; /* Physical memory allocation */) Tj
+T*
+(   void initialize_pcr\(void\) {) Tj
+T*
+(   global_pcr_cycles = 40;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   File 3: main.c \(Client Module\)) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include "config.h") Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   printf\("Initial PCR cycles: %d\\n", global_pcr_cycles\);) Tj
+T*
+(   initialize_pcr\(\);) Tj
+T*
+(   printf\("Updated PCR cycles: %d\\n", global_pcr_cycles\);) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+(   Compilation Command: gcc config.c main.c -o pcr_sim.exe) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 11:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain inline functions in C99, comparing them with preprocessor macros and detailing compiler inlining heuristics.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Inline Functions in C99: Inline vs Preprocessor Macros:) Tj
+T*
+(   1. Architectural Purpose of Inlining:) Tj
+T*
+(   Every function call incurs microprocessor overhead: pushing parameters, branching, creating) Tj
+T*
+(   stack frame, saving registers, and popping on return.) Tj
+T*
+(   For tiny functions \(1-3 lines\), call overhead often exceeds actual computational time!) Tj
+T*
+(   The 'inline' keyword suggests that the compiler eliminate call overhead by pasting the function) Tj
+T*
+(   body directly into the call site.) Tj
+T*
+() Tj
+T*
+(   2. Comparison: inline Functions vs #define Macros:) Tj
+T*
+(   Feature inline Function #define Macro) Tj
+T*
+(   Evaluation Phase Compiler Semantic Phase Preprocessor Lexical Phase) Tj
+T*
+(   Type Safety Strict type checking No type safety \(text paste\)) Tj
+T*
+(   Side-Effect Bugs Safe: evaluates args once Dangerous: SQUARE\(x++\) bugs) Tj
+T*
+(   Debugging Symbolic debugger visible Invisible in debug stack) Tj
+T*
+(   Syntax Validation Full C grammar validation Raw textual substitution) Tj
+T*
+() Tj
+T*
+(   3. Macro Side-Effect Bug Demonstration:) Tj
+T*
+(   #define SQUARE_MACRO\(x\) \(\(x\) * \(x\)\)) Tj
+T*
+(   inline int square_inline\(int x\) { return x * x; }) Tj
+T*
+() Tj
+T*
+(   int val = 3;) Tj
+T*
+(   int r1 = SQUARE_MACRO\(val++\); /* Expands to \(\(val++\) * \(val++\)\) -> val incremented TWICE! */) Tj
+T*
+(   /* r1 = 3 * 4 = 12, val becomes 5! */) Tj
+T*
+() Tj
+T*
+(   val = 3;) Tj
+T*
+(   int r2 = square_inline\(val++\); /* Evaluates val++ once \(3\), passes 3 -> returns 9! val is 4. */) Tj
+T*
+() Tj
+T*
+(   4. Compiler Heuristics:) Tj
+T*
+(   The inline keyword is a RECOMMENDATION, not a mandate. The compiler may decline inlining if:) Tj
+T*
+(   - Function contains recursion.) Tj
+T*
+(   - Function contains loops, switch statements, or large blocks.) Tj
+T*
+(   - Address of the function is taken via function pointer.) Tj
+T*
+ET
+
+endstream
+endobj
+45 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 46 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+46 0 obj
+<< /Length 2620 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 3: USER-DEFINED FUNCTIONS & STORAGE CLASSES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 22 of 37) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 12:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Detail variadic functions in C using <stdarg.h>, implementing a custom formatting print function my_printf\(\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Variadic Functions and the <stdarg.h> Facility:) Tj
+T*
+(   1. Purpose:) Tj
+T*
+(   Variadic functions accept a variable number of arguments \(like printf or scanf\).) Tj
+T*
+(   Syntax requirement: Must have at least one mandatory named parameter before the ellipsis \(...\):) Tj
+T*
+(   void custom_logger\(int level, const char *format, ...\);) Tj
+T*
+() Tj
+T*
+(   2. The Four <stdarg.h> Macros:) Tj
+T*
+(   - va_list: Pointer type representing the variable argument list context.) Tj
+T*
+(   - va_start\(va_list ap, last_named_arg\): Initializes ap to point to the first variadic argument.) Tj
+T*
+(   - va_arg\(va_list ap, type\): Retrieves the next argument as 'type' and advances ap.) Tj
+T*
+(   \(Note: Default argument promotion applies: char/short -> int; float -> double\).) Tj
+T*
+(   - va_end\(va_list ap\): Finalizes and cleans up ap before return.) Tj
+T*
+() Tj
+T*
+(   3. Complete Custom Variadic Formatter Implementation:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <stdarg.h>) Tj
+T*
+() Tj
+T*
+(   void mini_print\(const char *fmt, ...\) {) Tj
+T*
+(   va_list args;) Tj
+T*
+(   va_start\(args, fmt\);) Tj
+T*
+() Tj
+T*
+(   for \(const char *p = fmt; *p != '\\0'; p++\) {) Tj
+T*
+(   if \(*p != '%'\) {) Tj
+T*
+(   putchar\(*p\);) Tj
+T*
+(   continue;) Tj
+T*
+(   }) Tj
+T*
+(   p++; /* Skip '%' */) Tj
+T*
+(   switch \(*p\) {) Tj
+T*
+(   case 'd': {) Tj
+T*
+(   int i = va_arg\(args, int\);) Tj
+T*
+(   printf\("%d", i\);) Tj
+T*
+(   break;) Tj
+T*
+(   }) Tj
+T*
+(   case 'f': {) Tj
+T*
+(   double d = va_arg\(args, double\); /* float promoted to double */) Tj
+T*
+(   printf\("%.2f", d\);) Tj
+T*
+(   break;) Tj
+T*
+(   }) Tj
+T*
+(   case 's': {) Tj
+T*
+(   char *s = va_arg\(args, char *\);) Tj
+T*
+(   fputs\(s ? s : "\(null\)", stdout\);) Tj
+T*
+(   break;) Tj
+T*
+(   }) Tj
+T*
+(   case 'c': {) Tj
+T*
+(   int c = va_arg\(args, int\); /* char promoted to int */) Tj
+T*
+(   putchar\(c\);) Tj
+T*
+(   break;) Tj
+T*
+(   }) Tj
+T*
+ET
+
+endstream
+endobj
+47 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 48 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+48 0 obj
+<< /Length 2319 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 3: USER-DEFINED FUNCTIONS & STORAGE CLASSES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 23 of 37) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   default:) Tj
+T*
+(   putchar\(*p\);) Tj
+T*
+(   break;) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   va_end\(args\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   mini_print\("Gene: %s | Exons: %d | GC: %f%% | Class: %c\\n", "BRCA2", 27, 41.5, 'A'\);) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 13:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to compute the Hamming Distance between two DNA oligonucleotides using an iterative function.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Hamming Distance Between Biological Sequences:) Tj
+T*
+(   1. Definition:) Tj
+T*
+(   The Hamming distance between two biological sequences of equal length is the number of) Tj
+T*
+(   positions at which the corresponding nucleotide bases differ.) Tj
+T*
+(   Quantifies point mutations \(single nucleotide polymorphisms - SNPs\) accumulated between) Tj
+T*
+(   homologous gene fragments.) Tj
+T*
+() Tj
+T*
+(   2. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <string.h>) Tj
+T*
+(   #include <ctype.h>) Tj
+T*
+() Tj
+T*
+(   int compute_hamming_distance\(const char *seq1, const char *seq2\) {) Tj
+T*
+(   int len1 = strlen\(seq1\);) Tj
+T*
+(   int len2 = strlen\(seq2\);) Tj
+T*
+() Tj
+T*
+(   if \(len1 != len2\) {) Tj
+T*
+(   return -1; /* Sequences must be of identical length */) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int distance = 0;) Tj
+T*
+(   for \(int i = 0; i < len1; i++\) {) Tj
+T*
+(   char b1 = toupper\(\(unsigned char\)seq1[i]\);) Tj
+T*
+(   char b2 = toupper\(\(unsigned char\)seq2[i]\);) Tj
+T*
+(   if \(b1 != b2\) {) Tj
+T*
+(   distance++;) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   return distance;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   const char *wildtype = "GAGCCTACTAACGGGAT";) Tj
+T*
+(   const char *mutant = "CATCGTAATGACGGCCT";) Tj
+T*
+ET
+
+endstream
+endobj
+49 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 50 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+50 0 obj
+<< /Length 2570 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 3: USER-DEFINED FUNCTIONS & STORAGE CLASSES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 24 of 37) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   int dist = compute_hamming_distance\(wildtype, mutant\);) Tj
+T*
+() Tj
+T*
+(   printf\("=== Molecular Mutation Profiling ===\\n"\);) Tj
+T*
+(   printf\("Wildtype: %s\\n", wildtype\);) Tj
+T*
+(   printf\("Mutant: %s\\n", mutant\);) Tj
+T*
+() Tj
+T*
+(   if \(dist >= 0\) {) Tj
+T*
+(   printf\("Calculated Hamming Distance: %d point mutations\\n", dist\);) Tj
+T*
+(   printf\("Homology Divergence: %.2f%%\\n", \(\(double\)dist / strlen\(wildtype\)\) * 100.0\);) Tj
+T*
+(   } else {) Tj
+T*
+(   printf\("Error: Sequences differ in length!\\n"\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 14:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program implementing a modular function to transcribe a DNA coding sequence into messenger RNA \(mRNA\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   DNA to mRNA Transcription Module:) Tj
+T*
+(   1. Biological Mechanism:) Tj
+T*
+(   - Transcription converts double-stranded DNA into single-stranded messenger RNA.) Tj
+T*
+(   - The coding strand of DNA matches mRNA, except every occurrence of Thymine \(T\) is replaced by) Tj
+T*
+(   Uracil \(U\).) Tj
+T*
+(   - Other bases \(Adenine A, Cytosine C, Guanine G\) remain unchanged.) Tj
+T*
+() Tj
+T*
+(   2. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <string.h>) Tj
+T*
+(   #include <ctype.h>) Tj
+T*
+() Tj
+T*
+(   void transcribe_dna_to_mrna\(const char *dna, char *mrna, int max_buffer\) {) Tj
+T*
+(   int i = 0;) Tj
+T*
+(   while \(dna[i] != '\\0' && i < max_buffer - 1\) {) Tj
+T*
+(   char base = toupper\(\(unsigned char\)dna[i]\);) Tj
+T*
+(   if \(base == 'T'\) {) Tj
+T*
+(   mrna[i] = 'U';) Tj
+T*
+(   } else {) Tj
+T*
+(   mrna[i] = base;) Tj
+T*
+(   }) Tj
+T*
+(   i++;) Tj
+T*
+(   }) Tj
+T*
+(   mrna[i] = '\\0'; /* Ensure proper null termination */) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   const char *dna_coding_strand = "ATGGCATTCGGTTAA";) Tj
+T*
+(   char mrna_transcript[64];) Tj
+T*
+() Tj
+T*
+(   transcribe_dna_to_mrna\(dna_coding_strand, mrna_transcript, sizeof\(mrna_transcript\)\);) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+51 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 52 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+52 0 obj
+<< /Length 2871 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 3: USER-DEFINED FUNCTIONS & STORAGE CLASSES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 25 of 37) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   printf\("=== In-Vitro Molecular Transcription ===\\n"\);) Tj
+T*
+(   printf\("DNA Coding Strand: %s\\n", dna_coding_strand\);) Tj
+T*
+(   printf\("mRNA Transcript: %s\\n", mrna_transcript\);) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 15:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to compute the molecular weight of an oligopeptide from an amino acid single-letter sequence string.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Oligopeptide Molecular Mass Computation:) Tj
+T*
+(   1. Biophysical Constants:) Tj
+T*
+(   Single-letter amino acid residue weights \(condensed in peptide chain\):) Tj
+T*
+(   A: 71.08, C: 103.14, D: 115.09, E: 129.12, F: 147.18, G: 57.05, H: 137.14,) Tj
+T*
+(   I: 113.16, K: 128.17, L: 113.16, M: 131.20, N: 114.10, P: 97.12, Q: 128.13,) Tj
+T*
+(   R: 156.19, S: 87.08, T: 101.11, V: 99.13, W: 186.21, Y: 163.18.) Tj
+T*
+(   Plus 18.015 g/mol \(terminal H- and -OH water molecule\).) Tj
+T*
+() Tj
+T*
+(   2. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <ctype.h>) Tj
+T*
+() Tj
+T*
+(   double get_amino_acid_mw\(char aa\) {) Tj
+T*
+(   switch \(toupper\(\(unsigned char\)aa\)\) {) Tj
+T*
+(   case 'A': return 71.08; case 'C': return 103.14; case 'D': return 115.09;) Tj
+T*
+(   case 'E': return 129.12; case 'F': return 147.18; case 'G': return 57.05;) Tj
+T*
+(   case 'H': return 137.14; case 'I': return 113.16; case 'K': return 128.17;) Tj
+T*
+(   case 'L': return 113.16; case 'M': return 131.20; case 'N': return 114.10;) Tj
+T*
+(   case 'P': return 97.12; case 'Q': return 128.13; case 'R': return 156.19;) Tj
+T*
+(   case 'S': return 87.08; case 'T': return 101.11; case 'V': return 99.13;) Tj
+T*
+(   case 'W': return 186.21; case 'Y': return 163.18;) Tj
+T*
+(   default: return 0.0;) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   double compute_peptide_mw\(const char *peptide\) {) Tj
+T*
+(   double total_weight = 0.0;) Tj
+T*
+(   int residue_count = 0;) Tj
+T*
+() Tj
+T*
+(   for \(int i = 0; peptide[i] != '\\0'; i++\) {) Tj
+T*
+(   double w = get_amino_acid_mw\(peptide[i]\);) Tj
+T*
+(   if \(w > 0.0\) {) Tj
+T*
+(   total_weight += w;) Tj
+T*
+(   residue_count++;) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   if \(residue_count == 0\) return 0.0;) Tj
+T*
+(   /* Add terminal water: H- \(1.008\) and -OH \(17.007\) */) Tj
+T*
+(   return total_weight + 18.015;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+53 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 54 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+54 0 obj
+<< /Length 2771 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 3: USER-DEFINED FUNCTIONS & STORAGE CLASSES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 26 of 37) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   int main\(void\) {) Tj
+T*
+(   const char *insulin_chain_a = "GIVEQCCTSICSLYQLENYCN";) Tj
+T*
+(   double mw = compute_peptide_mw\(insulin_chain_a\);) Tj
+T*
+() Tj
+T*
+(   printf\("=== Peptide Mass Spectrometry Estimation ===\\n"\);) Tj
+T*
+(   printf\("Sequence: %s\\n", insulin_chain_a\);) Tj
+T*
+(   printf\("Calculated Molecular Weight: %.2f Da \(g/mol\)\\n", mw\);) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 16:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to reverse a string in-place using a recursive function without auxiliary string buffers.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   In-Place Recursive String Reversal:) Tj
+T*
+(   1. Recursive Formulation:) Tj
+T*
+(   - Function takes string pointer and two boundary indices: left and right.) Tj
+T*
+(   - Base Case: When left >= right, recursion terminates.) Tj
+T*
+(   - Recursive Step: Swap characters str[left] and str[right], then invoke reverse_recursive\(str,) Tj
+T*
+(   left + 1, right - 1\).) Tj
+T*
+() Tj
+T*
+(   2. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <string.h>) Tj
+T*
+() Tj
+T*
+(   void reverse_string_recursive\(char *str, int left, int right\) {) Tj
+T*
+(   if \(left >= right\) return; /* Base case */) Tj
+T*
+() Tj
+T*
+(   /* Swap characters at left and right boundaries */) Tj
+T*
+(   char temp = str[left];) Tj
+T*
+(   str[left] = str[right];) Tj
+T*
+(   str[right] = temp;) Tj
+T*
+() Tj
+T*
+(   /* Recursive step moving boundaries inwards */) Tj
+T*
+(   reverse_string_recursive\(str, left + 1, right - 1\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   char sequence[] = "ACGT-BIOTECHNOLOGY-101";) Tj
+T*
+(   int len = strlen\(sequence\);) Tj
+T*
+() Tj
+T*
+(   printf\("Original Sequence: %s\\n", sequence\);) Tj
+T*
+(   reverse_string_recursive\(sequence, 0, len - 1\);) Tj
+T*
+(   printf\("Reversed Sequence: %s\\n", sequence\);) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 17:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Function Pointers in C, detailing declaration syntax, typedef shortcuts, and callback dispatch tables.) Tj
+T*
+ET
+
+endstream
+endobj
+55 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 56 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+56 0 obj
+<< /Length 2842 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 3: USER-DEFINED FUNCTIONS & STORAGE CLASSES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 27 of 37) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Function Pointers and Callback Architecture in C:) Tj
+T*
+(   1. Definition:) Tj
+T*
+(   A function pointer stores the memory address of executable machine instructions for a function,) Tj
+T*
+(   enabling dynamic dispatch and callback routines.) Tj
+T*
+() Tj
+T*
+(   2. Syntax Anatomy:) Tj
+T*
+(   - Direct Declaration:) Tj
+T*
+(   double \(*calc_fp\)\(double, double\);) Tj
+T*
+(   Reads: calc_fp is a pointer to a function taking two doubles and returning double.) Tj
+T*
+(   - Without Parentheses:) Tj
+T*
+(   double *calc_fp\(double, double\);) Tj
+T*
+(   Declares a function named calc_fp returning a pointer to double!) Tj
+T*
+() Tj
+T*
+(   3. Simplification via typedef:) Tj
+T*
+(   typedef double \(*MathOperation\)\(double, double\);) Tj
+T*
+(   MathOperation op_ptr = add_numbers;) Tj
+T*
+() Tj
+T*
+(   4. Callback Dispatch Table Code Example:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   double add\(double a, double b\) { return a + b; }) Tj
+T*
+(   double sub\(double a, double b\) { return a - b; }) Tj
+T*
+(   double mul\(double a, double b\) { return a * b; }) Tj
+T*
+() Tj
+T*
+(   typedef double \(*BinaryFunc\)\(double, double\);) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   /* Array of function pointers \(Dispatch Table\) */) Tj
+T*
+(   BinaryFunc dispatch_table[] = {add, sub, mul};) Tj
+T*
+(   const char *names[] = {"Addition", "Subtraction", "Multiplication"};) Tj
+T*
+() Tj
+T*
+(   double x = 20.0, y = 5.0;) Tj
+T*
+(   for \(int i = 0; i < 3; i++\) {) Tj
+T*
+(   double res = dispatch_table[i]\(x, y\);) Tj
+T*
+(   printf\("Operation %-14s on \(%.1f, %.1f\) = %.2f\\n", names[i], x, y, res\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 18:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program demonstrating the standard library qsort\(\) with a custom comparator callback for floating-point gene scores.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Custom Comparator Callbacks with qsort\(\):) Tj
+T*
+(   1. The qsort\(\) Standard Prototype:) Tj
+T*
+(   void qsort\(void *base, size_t num, size_t size, int \(*compar\)\(const void *, const void *\)\);) Tj
+T*
+(   - Callback Invariant:) Tj
+T*
+(   Returns negative int if *elem1 < *elem2.) Tj
+T*
+(   Returns zero if *elem1 == *elem2.) Tj
+T*
+(   Returns positive int if *elem1 > *elem2.) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+57 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 58 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+58 0 obj
+<< /Length 2757 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 3: USER-DEFINED FUNCTIONS & STORAGE CLASSES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 28 of 37) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   2. Floating-Point Subtraction Trap:) Tj
+T*
+(   Subtracting floats and casting to int \(\(int\)\(*f1 - *f2\)\) fails if difference is between 0.0 and) Tj
+T*
+(   1.0 \(truncates to 0\)! Must use explicit comparison.) Tj
+T*
+() Tj
+T*
+(   3. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <stdlib.h>) Tj
+T*
+() Tj
+T*
+(   typedef struct {) Tj
+T*
+(   char gene_id[16];) Tj
+T*
+(   double expression_score;) Tj
+T*
+(   } GeneRecord;) Tj
+T*
+() Tj
+T*
+(   /* Comparator for sorting descending by expression score */) Tj
+T*
+(   int compare_genes_descending\(const void *a, const void *b\) {) Tj
+T*
+(   const GeneRecord *g1 = \(const GeneRecord *\)a;) Tj
+T*
+(   const GeneRecord *g2 = \(const GeneRecord *\)b;) Tj
+T*
+() Tj
+T*
+(   if \(g2->expression_score > g1->expression_score\) return 1;) Tj
+T*
+(   if \(g2->expression_score < g1->expression_score\) return -1;) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   GeneRecord dataset[] = {) Tj
+T*
+(   {"BRCA1", 14.85},) Tj
+T*
+(   {"TP53", 92.10},) Tj
+T*
+(   {"MYC", 45.30},) Tj
+T*
+(   {"EGFR", 78.60}) Tj
+T*
+(   };) Tj
+T*
+(   int count = sizeof\(dataset\) / sizeof\(dataset[0]\);) Tj
+T*
+() Tj
+T*
+(   qsort\(dataset, count, sizeof\(GeneRecord\), compare_genes_descending\);) Tj
+T*
+() Tj
+T*
+(   printf\("=== Ranked Microarray Expression Profiles ===\\n"\);) Tj
+T*
+(   for \(int i = 0; i < count; i++\) {) Tj
+T*
+(   printf\("Rank %d: %-8s | Score: %6.2f FPKM\\n",) Tj
+T*
+(   i + 1, dataset[i].gene_id, dataset[i].expression_score\);) Tj
+T*
+(   }) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 19:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to compute the N-th Fibonacci number using Memoization to achieve O\(N\) linear time complexity.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Memoized Recursive Fibonacci \(Top-Down Dynamic Programming\):) Tj
+T*
+(   1. Algorithmic Optimization:) Tj
+T*
+(   Naive recursive Fibonacci recomputes identical subproblems exponentially.) Tj
+T*
+(   Memoization allocates a lookup cache. Before performing calculations, check if result is) Tj
+T*
+(   already cached:) Tj
+T*
+(   - If present: return cached result in O\(1\).) Tj
+T*
+(   - If absent: compute recursively, store in cache, then return.) Tj
+T*
+ET
+
+endstream
+endobj
+59 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 60 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+60 0 obj
+<< /Length 2570 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 3: USER-DEFINED FUNCTIONS & STORAGE CLASSES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 29 of 37) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   Time complexity drops from O\(2^N\) to O\(N\).) Tj
+T*
+() Tj
+T*
+(   2. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   #define MAX_FIB 90) Tj
+T*
+(   unsigned long long fib_cache[MAX_FIB + 1];) Tj
+T*
+() Tj
+T*
+(   unsigned long long fib_memo\(int n\) {) Tj
+T*
+(   if \(n <= 0\) return 0ULL;) Tj
+T*
+(   if \(n == 1\) return 1ULL;) Tj
+T*
+() Tj
+T*
+(   /* Check lookup cache */) Tj
+T*
+(   if \(fib_cache[n] != 0\) {) Tj
+T*
+(   return fib_cache[n];) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   /* Compute and store */) Tj
+T*
+(   fib_cache[n] = fib_memo\(n - 1\) + fib_memo\(n - 2\);) Tj
+T*
+(   return fib_cache[n];) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   printf\("=== Memoized Top-Down Dynamic Programming ===\\n"\);) Tj
+T*
+(   for \(int i = 1; i <= 50; i++\) {) Tj
+T*
+(   printf\("Fib\(%2d\) = %llu\\n", i, fib_memo\(i\)\);) Tj
+T*
+(   }) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 20:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain mutual recursion in C, demonstrating how forward function prototypes resolve circular dependencies between functions.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Mutual Recursion and Forward Prototypes in C:) Tj
+T*
+(   1. Definition:) Tj
+T*
+(   Mutual \(indirect\) recursion occurs when function A calls function B, and function B in turn) Tj
+T*
+(   calls function A.) Tj
+T*
+() Tj
+T*
+(   2. The Forward Prototype Mandate:) Tj
+T*
+(   C is a single-pass compiler that evaluates declarations linearly from top to bottom.) Tj
+T*
+(   If A calls B, B must be known before A. But B calls A, so A must be known before B!) Tj
+T*
+(   Resolution: Provide forward function prototypes at the top of the translation unit so the) Tj
+T*
+(   compiler recognizes both signatures before either definition is processed.) Tj
+T*
+() Tj
+T*
+(   3. Code Example \(Determining Parity of Non-Negative Integers\):) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <stdbool.h>) Tj
+T*
+() Tj
+T*
+(   /* Forward Prototypes */) Tj
+T*
+(   bool is_even\(unsigned int n\);) Tj
+T*
+(   bool is_odd\(unsigned int n\);) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+61 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 62 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+62 0 obj
+<< /Length 3338 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 3: USER-DEFINED FUNCTIONS & STORAGE CLASSES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 30 of 37) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   bool is_even\(unsigned int n\) {) Tj
+T*
+(   if \(n == 0\) return true; /* Base case: 0 is even */) Tj
+T*
+(   return is_odd\(n - 1\); /* Mutual call to is_odd */) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   bool is_odd\(unsigned int n\) {) Tj
+T*
+(   if \(n == 0\) return false; /* Base case: 0 is NOT odd */) Tj
+T*
+(   return is_even\(n - 1\); /* Mutual call to is_even */) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   unsigned int test_val = 14;) Tj
+T*
+(   printf\("Number %u is %s\\n", test_val, is_even\(test_val\) ? "EVEN" : "ODD"\);) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 21:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain reentrancy and thread-safety in C functions, detailing why internal static state renders functions non-reentrant.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Reentrancy vs Thread-Safety in C:) Tj
+T*
+(   1. Definition of Reentrancy:) Tj
+T*
+(   A function is reentrant if it can be interrupted in the middle of execution \(e.g., by a) Tj
+T*
+(   hardware interrupt, signal, or recursive call\), called again, and safely complete both) Tj
+T*
+(   executions without state corruption.) Tj
+T*
+() Tj
+T*
+(   2. The Hazard of Internal Static Variables:) Tj
+T*
+(   If a function relies on internal static or global variables to retain context across calls, it) Tj
+T*
+(   is NON-REENTRANT:) Tj
+T*
+(   char *non_reentrant_token\(char *str\) {) Tj
+T*
+(   static char *saved_ptr; /* SHARED STATE! */) Tj
+T*
+(   /* Interruption here overwrites saved_ptr, corrupting previous caller's state! */) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   3. Case Study: strtok\(\) vs strtok_r\(\):) Tj
+T*
+(   - strtok\(\) stores its internal string pointer in a hidden static buffer. If called concurrently) Tj
+T*
+(   by two threads or inside a signal handler, the pointer is overwritten, causing silent) Tj
+T*
+(   corruption or segmentation faults.) Tj
+T*
+(   - strtok_r\(\) \(POSIX Reentrant alternative\): Requires the caller to supply an external context) Tj
+T*
+(   pointer \(char **saveptr\), keeping all state strictly on the caller's stack!) Tj
+T*
+() Tj
+T*
+(   4. Rules for Designing Reentrant Functions:) Tj
+T*
+(   - Do NOT use static or global variables for state tracking.) Tj
+T*
+(   - Do NOT return pointers to internal static buffers.) Tj
+T*
+(   - Rely solely on caller-allocated memory and local automatic stack variables.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 22:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to recursively compute the length of a phylogenetic tree branch from a nested parent array representation.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Phylogenetic Tree Depth and Path Traversal:) Tj
+T*
+(   1. Biological Application:) Tj
+T*
+ET
+
+endstream
+endobj
+63 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 64 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+64 0 obj
+<< /Length 2983 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 3: USER-DEFINED FUNCTIONS & STORAGE CLASSES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 31 of 37) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   In computational evolutionary biology, phylogenetic trees represent genealogical ancestry.) Tj
+T*
+(   A tree can be encoded as a parent array where parent[i] gives the ancestor node of node i \(-1) Tj
+T*
+(   denotes root\).) Tj
+T*
+(   Calculating distance from a node to the root measures evolutionary branch length.) Tj
+T*
+() Tj
+T*
+(   2. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   int compute_branch_distance_recursive\(const int *parent, int node\) {) Tj
+T*
+(   if \(parent[node] == -1\) {) Tj
+T*
+(   return 0; /* Base case: Root node reached */) Tj
+T*
+(   }) Tj
+T*
+(   /* Recursive step: 1 + distance from parent to root */) Tj
+T*
+(   return 1 + compute_branch_distance_recursive\(parent, parent[node]\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   /* Tree structure: 0 \(Root\) -> 1, 2; 1 -> 3, 4; 4 -> 5 */) Tj
+T*
+(   int parent_map[] = {-1, 0, 0, 1, 1, 4};) Tj
+T*
+(   int total_nodes = sizeof\(parent_map\) / sizeof\(parent_map[0]\);) Tj
+T*
+() Tj
+T*
+(   printf\("=== Phylogenetic Branch Depth Analysis ===\\n"\);) Tj
+T*
+(   for \(int i = 0; i < total_nodes; i++\) {) Tj
+T*
+(   int dist = compute_branch_distance_recursive\(parent_map, i\);) Tj
+T*
+(   printf\("Node %d: Evolutionary Distance to Root = %d steps\\n", i, dist\);) Tj
+T*
+(   }) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 23:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain variable shadowing in C, detailing block scope nesting and potential masking bugs.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Variable Shadowing in Nested Scopes:) Tj
+T*
+(   1. Definition:) Tj
+T*
+(   Variable shadowing occurs when an identifier declared within an inner block shares the exact) Tj
+T*
+(   same name as an identifier in an outer scope.) Tj
+T*
+(   Inside the inner block, the outer variable is 'shadowed' \(hidden\); all references resolve) Tj
+T*
+(   strictly to the inner declaration.) Tj
+T*
+() Tj
+T*
+(   2. Demonstration Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   int threshold = 100; /* File scope / global variable */) Tj
+T*
+() Tj
+T*
+(   void inspect_shadowing\(void\) {) Tj
+T*
+(   int threshold = 50; /* Shadows global threshold within function */) Tj
+T*
+(   printf\("Level 1 \(Function\): threshold = %d\\n", threshold\); /* Prints 50 */) Tj
+T*
+() Tj
+T*
+(   {) Tj
+T*
+(   int threshold = 10; /* Shadows function-level threshold */) Tj
+T*
+(   printf\("Level 2 \(Inner Block\): threshold = %d\\n", threshold\); /* Prints 10 */) Tj
+T*
+(   }) Tj
+T*
+ET
+
+endstream
+endobj
+65 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 66 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+66 0 obj
+<< /Length 2700 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 3: USER-DEFINED FUNCTIONS & STORAGE CLASSES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 32 of 37) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   printf\("Level 1 \(Post-Block\): threshold = %d\\n", threshold\); /* Prints 50 */) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   printf\("Global Level: threshold = %d\\n", threshold\); /* Prints 100 */) Tj
+T*
+(   inspect_shadowing\(\);) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   3. Hazards and Compiler Diagnostic Flags:) Tj
+T*
+(   Shadowing often masks severe logical bugs where a developer accidentally re-declares a variable) Tj
+T*
+(   instead of modifying the outer variable.) Tj
+T*
+(   Modern compilers flag this with: gcc -Wshadow.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 24:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to calculate the greatest common divisor \(GCD\) using tail recursion and compare with iterative execution.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Tail-Recursive Greatest Common Divisor \(GCD\):) Tj
+T*
+(   1. Mathematical Equivalence:) Tj
+T*
+(   The Euclidean algorithm is naturally tail-recursive:) Tj
+T*
+(   gcd\(a, b\) = gcd\(b, a % b\), with base case gcd\(a, 0\) = a.) Tj
+T*
+(   Because the recursive invocation is in pure tail position, optimizing compilers emit code) Tj
+T*
+(   identical to an iterative while loop!) Tj
+T*
+() Tj
+T*
+(   2. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   /* Tail-Recursive Implementation */) Tj
+T*
+(   unsigned long long gcd_tail\(unsigned long long a, unsigned long long b\) {) Tj
+T*
+(   if \(b == 0\) return a;) Tj
+T*
+(   return gcd_tail\(b, a % b\); /* Tail call */) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   /* Iterative Reference */) Tj
+T*
+(   unsigned long long gcd_iterative\(unsigned long long a, unsigned long long b\) {) Tj
+T*
+(   while \(b != 0\) {) Tj
+T*
+(   unsigned long long temp = a % b;) Tj
+T*
+(   a = b;) Tj
+T*
+(   b = temp;) Tj
+T*
+(   }) Tj
+T*
+(   return a;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   unsigned long long x = 1234567890ULL, y = 98765432ULL;) Tj
+T*
+(   printf\("GCD Tail-Recursive: %llu\\n", gcd_tail\(x, y\)\);) Tj
+T*
+(   printf\("GCD Iterative: %llu\\n", gcd_iterative\(x, y\)\);) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+ET
+
+endstream
+endobj
+67 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 68 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+68 0 obj
+<< /Length 3170 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 3: USER-DEFINED FUNCTIONS & STORAGE CLASSES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 33 of 37) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 25:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Detail the atexit\(\) function in C, explaining handler registration, execution order, and resource cleanup on exit.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Process Termination Cleanup via atexit\(\):) Tj
+T*
+(   1. Architectural Purpose:) Tj
+T*
+(   Declared in <stdlib.h>, atexit\(\) registers callback functions to be invoked automatically when) Tj
+T*
+(   the process terminates normally \(via exit\(\) or returning from main\(\)\).) Tj
+T*
+(   Prototype: int atexit\(void \(*func\)\(void\)\);) Tj
+T*
+() Tj
+T*
+(   2. Execution Semantics:) Tj
+T*
+(   - Registration Limit: Guaranteed to support at least 32 registered functions.) Tj
+T*
+(   - Execution Order: Executed in STRICT REVERSE ORDER OF REGISTRATION \(LIFO - Last In, First) Tj
+T*
+(   Out\).) Tj
+T*
+(   - Limitations: Not executed if program terminates abnormally via abort\(\) or crashes due to) Tj
+T*
+(   segmentation fault.) Tj
+T*
+() Tj
+T*
+(   3. Complete ANSI C Demonstration Program:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <stdlib.h>) Tj
+T*
+() Tj
+T*
+(   void close_telemetry_logs\(void\) {) Tj
+T*
+(   printf\("Cleanup Callback 1: Closing sensor telemetry log files.\\n"\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   void flush_hardware_buffers\(void\) {) Tj
+T*
+(   printf\("Cleanup Callback 2: Flushing hardware DAC output buffers.\\n"\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   atexit\(close_telemetry_logs\);) Tj
+T*
+(   atexit\(flush_hardware_buffers\);) Tj
+T*
+() Tj
+T*
+(   printf\("Main: Laboratory instrumentation running...\\n"\);) Tj
+T*
+(   printf\("Main: Operation complete, invoking exit\(0\)...\\n"\);) Tj
+T*
+(   exit\(EXIT_SUCCESS\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 26:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to search a sorted integer array using Recursive Binary Search, analyzing worst-case logarithmic complexity.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Recursive Binary Search Implementation:) Tj
+T*
+(   1. Divide-and-Conquer Principle:) Tj
+T*
+(   Given sorted array arr[low...high]:) Tj
+T*
+(   Step 1: Compute midpoint: mid = low + \(high - low\) / 2 \(avoids integer overflow\).) Tj
+T*
+(   Step 2: If arr[mid] == target, element found.) Tj
+T*
+(   Step 3: If target < arr[mid], search left half: binary_search\(arr, low, mid - 1, target\).) Tj
+T*
+(   Step 4: If target > arr[mid], search right half: binary_search\(arr, mid + 1, high, target\).) Tj
+T*
+(   Base case: low > high indicates target is not present.) Tj
+T*
+(   Time complexity: O\(log N\).) Tj
+T*
+() Tj
+T*
+(   2. Complete ANSI C Source Code:) Tj
+T*
+ET
+
+endstream
+endobj
+69 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 70 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+70 0 obj
+<< /Length 3125 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 3: USER-DEFINED FUNCTIONS & STORAGE CLASSES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 34 of 37) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   int binary_search_recursive\(const int *arr, int low, int high, int target\) {) Tj
+T*
+(   if \(low > high\) return -1; /* Base case: Not found */) Tj
+T*
+() Tj
+T*
+(   int mid = low + \(high - low\) / 2;) Tj
+T*
+() Tj
+T*
+(   if \(arr[mid] == target\) {) Tj
+T*
+(   return mid; /* Found target at index mid */) Tj
+T*
+(   } else if \(target < arr[mid]\) {) Tj
+T*
+(   return binary_search_recursive\(arr, low, mid - 1, target\);) Tj
+T*
+(   } else {) Tj
+T*
+(   return binary_search_recursive\(arr, mid + 1, high, target\);) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   int sorted_gene_lengths[] = {120, 240, 380, 510, 720, 890, 1024, 2048};) Tj
+T*
+(   int n = sizeof\(sorted_gene_lengths\) / sizeof\(sorted_gene_lengths[0]\);) Tj
+T*
+(   int query = 720;) Tj
+T*
+() Tj
+T*
+(   int idx = binary_search_recursive\(sorted_gene_lengths, 0, n - 1, query\);) Tj
+T*
+(   if \(idx != -1\) {) Tj
+T*
+(   printf\("Gene length %d bp located at index: %d\\n", query, idx\);) Tj
+T*
+(   } else {) Tj
+T*
+(   printf\("Gene length %d bp not present in database.\\n", query\);) Tj
+T*
+(   }) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 27:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the stack frame layout during nested and recursive function calls, detailing caller-saved vs callee-saved registers.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Stack Frame Layout and Register Preservation Conventions:) Tj
+T*
+(   1. Standard Stack Frame Structure \(x86-64 Architecture\):) Tj
+T*
+(   When a function is called, the stack grows downwards towards lower memory addresses:) Tj
+T*
+(   [High Memory]) Tj
+T*
+(   | Actual Parameters 7+ \(passed on stack\) |) Tj
+T*
+(   | Return Address \(pushed by CALL instruction\) |) Tj
+T*
+(   | Saved Frame Pointer \(RBP of caller\) | <-- Current RBP points here) Tj
+T*
+(   | Callee-Saved Registers \(RBX, R12-R15\) |) Tj
+T*
+(   | Local Automatic Variables |) Tj
+T*
+(   | Temporary Spill Storage |) Tj
+T*
+(   [Low Memory] <-- Current RSP \(Stack Pointer\)) Tj
+T*
+() Tj
+T*
+(   2. Register Preservation ABI Standards:) Tj
+T*
+(   - Caller-Saved \(Scratch\) Registers \(RAX, RCX, RDX, RSI, RDI, R8-R11\):) Tj
+T*
+(   The caller must assume these registers will be overwritten by the callee. If the caller needs) Tj
+T*
+(   their values after the call, it must push them before calling.) Tj
+T*
+(   - Callee-Saved \(Non-Volatile\) Registers \(RBX, RBP, R12-R15\):) Tj
+T*
+(   The callee is obligated to preserve these registers. If the callee modifies them, it must push) Tj
+T*
+(   their initial values onto stack and restore them before returning!) Tj
+T*
+ET
+
+endstream
+endobj
+71 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 72 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+72 0 obj
+<< /Length 2743 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 3: USER-DEFINED FUNCTIONS & STORAGE CLASSES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 35 of 37) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 28:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to demonstrate a recursive power function x^n using binary exponentiation in O\(log n\) time.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Binary Exponentiation \(Fast Power Algorithm\):) Tj
+T*
+(   1. Mathematical Formulation:) Tj
+T*
+(   Naive multiplication x * x * ... * x takes O\(n\) steps.) Tj
+T*
+(   Fast Binary Exponentiation:) Tj
+T*
+(   - If n == 0: x^0 = 1.) Tj
+T*
+(   - If n is even: x^n = \(x^\(n/2\)\)^2.) Tj
+T*
+(   - If n is odd: x^n = x * \(x^\(n - 1\)\).) Tj
+T*
+(   Halves the exponent in each step, executing in O\(log n\) time complexity.) Tj
+T*
+() Tj
+T*
+(   2. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   double power_fast_recursive\(double x, long long n\) {) Tj
+T*
+(   if \(n == 0\) return 1.0;) Tj
+T*
+(   if \(n < 0\) return 1.0 / power_fast_recursive\(x, -n\);) Tj
+T*
+() Tj
+T*
+(   double half = power_fast_recursive\(x, n / 2\);) Tj
+T*
+(   if \(n % 2 == 0\) {) Tj
+T*
+(   return half * half;) Tj
+T*
+(   } else {) Tj
+T*
+(   return x * half * half;) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   double base = 2.0;) Tj
+T*
+(   long long exp = 10;) Tj
+T*
+(   printf\("%.2f^%lld = %.4f \(Expected: 1024.0\)\\n",) Tj
+T*
+(   base, exp, power_fast_recursive\(base, exp\)\);) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 29:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the dangers of returning pointers or references to local stack-allocated variables from C functions.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   The Dangling Pointer Bug: Returning Addresses of Local Variables:) Tj
+T*
+(   1. The Problem:) Tj
+T*
+(   Local automatic variables allocated inside a function reside in that function's activation) Tj
+T*
+(   record on the stack.) Tj
+T*
+(   When the function returns, ITS STACK FRAME IS DEALLOCATED AND MARKED FOR REUSE.) Tj
+T*
+() Tj
+T*
+(   2. Code Demonstrating the Fatal Bug:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   int *faulty_allocator\(void\) {) Tj
+T*
+(   int local_val = 42;) Tj
+T*
+ET
+
+endstream
+endobj
+73 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 74 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+74 0 obj
+<< /Length 3227 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 3: USER-DEFINED FUNCTIONS & STORAGE CLASSES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 36 of 37) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   return &local_val; /* COMPILER WARNING: Function returns address of local variable! */) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   void overwrite_stack\(void\) {) Tj
+T*
+(   int dummy[16] = {999, 999, 999};) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   int *ptr = faulty_allocator\(\); /* ptr now points to dead stack memory! */) Tj
+T*
+(   printf\("Dangling pointer accessed: %d\\n", *ptr\); /* May print 42 initially */) Tj
+T*
+(   overwrite_stack\(\); /* Stack memory overwritten */) Tj
+T*
+(   printf\("After stack reuse: %d \(CORRUPTED!\)\\n", *ptr\); /* Garbage output! */) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   3. Safe Solutions:) Tj
+T*
+(   - Solution 1: Allocate dynamically on the heap: int *p = malloc\(sizeof\(int\)\);) Tj
+T*
+(   - Solution 2: Have caller allocate memory and pass the pointer into the function.) Tj
+T*
+(   - Solution 3: Use static storage duration: static int val = 42;) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 30:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to implement a modular codon translation table converting RNA triplets into amino acid names.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Genetic Code Codon Translation Table in C:) Tj
+T*
+(   1. Biological Logic:) Tj
+T*
+(   Messenger RNA codons consist of nucleotide base triplets translated by ribosomes into) Tj
+T*
+(   corresponding amino acids.) Tj
+T*
+(   Start Codon: AUG -> Methionine.) Tj
+T*
+(   Stop Codons: UAA, UAG, UGA -> Stop.) Tj
+T*
+() Tj
+T*
+(   2. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <string.h>) Tj
+T*
+() Tj
+T*
+(   const char *translate_codon\(const char *triplet\) {) Tj
+T*
+(   if \(strcmp\(triplet, "AUG"\) == 0\) return "Methionine \(START\)";) Tj
+T*
+(   if \(strcmp\(triplet, "UUU"\) == 0 || strcmp\(triplet, "UUC"\) == 0\) return "Phenylalanine";) Tj
+T*
+(   if \(strcmp\(triplet, "UUA"\) == 0 || strcmp\(triplet, "UUG"\) == 0\) return "Leucine";) Tj
+T*
+(   if \(strcmp\(triplet, "UCU"\) == 0 || strcmp\(triplet, "UCC"\) == 0\) return "Serine";) Tj
+T*
+(   if \(strcmp\(triplet, "UAU"\) == 0 || strcmp\(triplet, "UAC"\) == 0\) return "Tyrosine";) Tj
+T*
+(   if \(strcmp\(triplet, "UGU"\) == 0 || strcmp\(triplet, "UGC"\) == 0\) return "Cysteine";) Tj
+T*
+(   if \(strcmp\(triplet, "UGG"\) == 0\) return "Tryptophan";) Tj
+T*
+(   if \(strcmp\(triplet, "UAA"\) == 0 || strcmp\(triplet, "UAG"\) == 0 || strcmp\(triplet, "UGA"\) == 0\)) Tj
+T*
+(   return "STOP CODON";) Tj
+T*
+(   return "Unknown/Unmapped";) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   const char *codons[] = {"AUG", "UUC", "UGG", "UAA"};) Tj
+T*
+(   int count = sizeof\(codons\) / sizeof\(codons[0]\);) Tj
+T*
+() Tj
+T*
+(   printf\("=== Ribosomal mRNA Translation Simulator ===\\n"\);) Tj
+T*
+ET
+
+endstream
+endobj
+75 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 76 0 R /Resources << /Font << /F1 77 0 R /F2 78 0 R >> >> >>
+endobj
+76 0 obj
+<< /Length 622 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 3: USER-DEFINED FUNCTIONS & STORAGE CLASSES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 37 of 37) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   for \(int i = 0; i < count; i++\) {) Tj
+T*
+(   printf\("Codon %-4s translates to: %s\\n", codons[i], translate_codon\(codons[i]\)\);) Tj
+T*
+(   }) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+77 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+78 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+xref
+0 79
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000365 00000 n 
+0000000509 00000 n 
+0000008707 00000 n 
+0000008851 00000 n 
+0000016952 00000 n 
+0000017096 00000 n 
+0000025328 00000 n 
+0000025473 00000 n 
+0000034018 00000 n 
+0000034164 00000 n 
+0000042493 00000 n 
+0000042639 00000 n 
+0000051122 00000 n 
+0000051268 00000 n 
+0000059833 00000 n 
+0000059979 00000 n 
+0000061527 00000 n 
+0000061673 00000 n 
+0000066632 00000 n 
+0000066778 00000 n 
+0000069332 00000 n 
+0000069478 00000 n 
+0000077961 00000 n 
+0000078107 00000 n 
+0000081622 00000 n 
+0000081768 00000 n 
+0000084954 00000 n 
+0000085100 00000 n 
+0000087860 00000 n 
+0000088006 00000 n 
+0000091055 00000 n 
+0000091201 00000 n 
+0000094512 00000 n 
+0000094658 00000 n 
+0000097960 00000 n 
+0000098106 00000 n 
+0000101376 00000 n 
+0000101522 00000 n 
+0000105252 00000 n 
+0000105398 00000 n 
+0000108822 00000 n 
+0000108968 00000 n 
+0000112225 00000 n 
+0000112371 00000 n 
+0000115044 00000 n 
+0000115190 00000 n 
+0000117562 00000 n 
+0000117708 00000 n 
+0000120331 00000 n 
+0000120477 00000 n 
+0000123401 00000 n 
+0000123547 00000 n 
+0000126371 00000 n 
+0000126517 00000 n 
+0000129412 00000 n 
+0000129558 00000 n 
+0000132368 00000 n 
+0000132514 00000 n 
+0000135137 00000 n 
+0000135283 00000 n 
+0000138674 00000 n 
+0000138820 00000 n 
+0000141856 00000 n 
+0000142002 00000 n 
+0000144755 00000 n 
+0000144901 00000 n 
+0000148124 00000 n 
+0000148270 00000 n 
+0000151448 00000 n 
+0000151594 00000 n 
+0000154390 00000 n 
+0000154536 00000 n 
+0000157816 00000 n 
+0000157962 00000 n 
+0000158636 00000 n 
+0000158734 00000 n 
+trailer
+<< /Size 79 /Root 1 0 R >>
+startxref
+158837
+%%EOF

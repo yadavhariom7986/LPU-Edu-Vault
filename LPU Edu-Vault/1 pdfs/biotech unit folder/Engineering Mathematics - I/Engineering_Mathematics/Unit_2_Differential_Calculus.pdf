@@ -1,0 +1,10604 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R 35 0 R 37 0 R 39 0 R 41 0 R 43 0 R 45 0 R 47 0 R 49 0 R 51 0 R 53 0 R 55 0 R 57 0 R 59 0 R 61 0 R 63 0 R 65 0 R] /Count 32 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 4 0 R /Resources << /Font << /F1 67 0 R /F2 68 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 8301 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 2: DIFFERENTIAL CALCULUS AND APPLICATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 1 of 32) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(1.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(The nth derivative of y = e^\(a*x\) with respect) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(to x is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(a * e^\(a*x\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(a^n * e^\(a*x\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(n * a * e^\(a*x\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(e^\(a*x\) / a^n) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(2.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(The nth derivative of y = \(a*x + b\)^m when m is) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(a positive integer and n > m is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(m! * a^m) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(m! / \(m-n\)!) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(a^n) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(3.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(The nth derivative of y = ln\(a*x + b\) is given) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(by:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.5001 Td
+(\(-1\)^n * \(n-1\)! * a^n / \(ax+b\)^n) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.9001 Td
+(\(-1\)^\(n-1\) * \(n-1\)! * a^n / \(ax+b\)^n) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.3002 Td
+(n! * a^n / \(ax+b\)^n) Tj
+ET
+BT
+/F2 7.4 Tf
+58 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 587.7002 Td
+(\(-1\)^n * n! * a^n / \(ax+b\)^n) Tj
+ET
+BT
+/F2 8.0 Tf
+42 564.1002 Td
+(4.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(The nth derivative of y = sin\(a*x + b\) is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 552.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 552.4002 Td
+(a^n * cos\(ax + b + n*pi/2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 542.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 542.8002 Td
+(a^n * sin\(ax + b + n*pi/2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 533.2003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 533.2003 Td
+(\(-1\)^n * a^n * sin\(ax + b\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 523.6003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 523.6003 Td
+(a^n * sin\(ax + b\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 500.0003 Td
+(5.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 500.0003 Td
+(The nth derivative of y = cos\(a*x + b\) is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 488.3003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 488.3003 Td
+(a^n * cos\(ax + b + n*pi/2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 478.7003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 478.7003 Td
+(a^n * sin\(ax + b + n*pi/2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 469.1003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 469.1003 Td
+(\(-a\)^n * cos\(ax + b\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 459.5003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 459.5003 Td
+(n * a * cos\(ax + b\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 435.9003 Td
+(6.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 435.9003 Td
+(Leibniz's theorem is used to compute the nth) Tj
+ET
+BT
+/F1 7.8 Tf
+58 426.7003 Td
+(derivative of the:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 415.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 415.0002 Td
+(Sum of two functions) Tj
+ET
+BT
+/F2 7.4 Tf
+58 405.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 405.4002 Td
+(Product of two functions) Tj
+ET
+BT
+/F2 7.4 Tf
+58 395.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 395.8002 Td
+(Quotient of two functions) Tj
+ET
+BT
+/F2 7.4 Tf
+58 386.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 386.2002 Td
+(Composite of two functions) Tj
+ET
+BT
+/F2 8.0 Tf
+42 362.6002 Td
+(7.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 362.6002 Td
+(In Leibniz's rule d^n\(u*v\)/dx^n = sum_{r=0}^n) Tj
+ET
+BT
+/F1 7.8 Tf
+58 353.4002 Td
+(C\(n,r\) * u_\(n-r\) * v_r, the coefficient C\(n,r\)) Tj
+ET
+BT
+/F1 7.8 Tf
+58 344.2002 Td
+(is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 332.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 332.5002 Td
+(n! / \(r! * \(n-r\)!\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 322.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 322.9002 Td
+(n! / r!) Tj
+ET
+BT
+/F2 7.4 Tf
+58 313.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 313.3002 Td
+(r! / n!) Tj
+ET
+BT
+/F2 7.4 Tf
+58 303.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 303.7002 Td
+(2^n) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(8.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Rolle's theorem requires f\(x\) to be continuous) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(on [a, b], differentiable on \(a, b\), and:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(f'\(a\) = f'\(b\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(f\(a\) = f\(b\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(f\(a\) = -f\(b\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(f\(a\) * f\(b\) < 0) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(9.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(Under the conditions of Rolle's theorem, there) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(exists at least one point c in \(a, b\) such that:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(f\(c\) = 0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(f'\(c\) = 0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(f''\(c\) = 0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(f'\(c\) = 1) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(10.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(Lagrange's Mean Value Theorem asserts that for) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(suitable f\(x\) on [a, b], there is c in \(a, b\)) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(with f'\(c\) equal to:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.3001 Td
+(\(f\(b\) + f\(a\)\) / \(b - a\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.7001 Td
+(\(f\(b\) - f\(a\)\) / \(b - a\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.1002 Td
+(\(f\(b\) - f\(a\)\) / \(b + a\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 578.5002 Td
+(f\(b\) * f\(a\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 554.9002 Td
+(11.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(Cauchy's Mean Value Theorem expresses [f\(b\) -) Tj
+ET
+BT
+/F1 7.8 Tf
+322 545.7002 Td
+(f\(a\)] / [g\(b\) - g\(a\)] as:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 534.0002 Td
+(f'\(c\) * g'\(c\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.4002 Td
+(f'\(c\) / g'\(c\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.8002 Td
+(g'\(c\) / f'\(c\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 505.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 505.2002 Td
+(f''\(c\) / g''\(c\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 481.6002 Td
+(12.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6002 Td
+(Maclaurin's series expansion of a function f\(x\)) Tj
+ET
+BT
+/F1 7.8 Tf
+322 472.4002 Td
+(is a Taylor series expansion centered at:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.7002 Td
+(x = 1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 451.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 451.1002 Td
+(x = 0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.5002 Td
+(x = infinity) Tj
+ET
+BT
+/F2 7.4 Tf
+322 431.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 431.9002 Td
+(x = -1) Tj
+ET
+BT
+/F2 8.0 Tf
+306 408.3002 Td
+(13.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 408.3002 Td
+(The Maclaurin series for e^x is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 396.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 396.6002 Td
+(sum x^n / n!) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.0002 Td
+(sum \(-1\)^n * x^n / n!) Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.4001 Td
+(sum x^\(2n\) / \(2n\)!) Tj
+ET
+BT
+/F2 7.4 Tf
+322 367.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 367.8001 Td
+(sum x^n) Tj
+ET
+BT
+/F2 8.0 Tf
+306 344.2001 Td
+(14.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 344.2001 Td
+(The Maclaurin series for sin\(x\) contains only:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 332.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 332.5001 Td
+(Even powers of x) Tj
+ET
+BT
+/F2 7.4 Tf
+322 322.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 322.9001 Td
+(Odd powers of x) Tj
+ET
+BT
+/F2 7.4 Tf
+322 313.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 313.3001 Td
+(Constant term) Tj
+ET
+BT
+/F2 7.4 Tf
+322 303.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 303.7001 Td
+(Negative powers of x) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 6 0 R /Resources << /Font << /F1 67 0 R /F2 68 0 R >> >> >>
+endobj
+6 0 obj
+<< /Length 8324 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 2: DIFFERENTIAL CALCULUS AND APPLICATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 2 of 32) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(15.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(The Maclaurin series for cos\(x\) contains only:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 772.3 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 772.3 Td
+(Odd powers of x) Tj
+ET
+BT
+/F2 7.4 Tf
+58 762.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 762.7 Td
+(Even powers of x) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.1 Td
+(Logarithmic terms) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.5001 Td
+(Exponential terms) Tj
+ET
+BT
+/F2 8.0 Tf
+42 719.9001 Td
+(16.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 719.9001 Td
+(Which of the following is an indeterminate form) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(suitable for direct application of L'Hopital's) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(rule?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(0 / infinity) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(0 / 0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(infinity / 0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(1 / 0) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(17.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(The indeterminate form 0 * infinity can be) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(converted into 0/0 or infinity/infinity by) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.0001 Td
+(writing f*g as:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 607.3001 Td
+(f + 1/g) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.7001 Td
+(f / \(1/g\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.1002 Td
+(f * \(1/g\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 578.5002 Td
+(ln\(f * g\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 554.9002 Td
+(18.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(The indeterminate form 1^infinity is typically) Tj
+ET
+BT
+/F1 7.8 Tf
+58 545.7002 Td
+(evaluated by taking the:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 534.0002 Td
+(Exponential of the derivative) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.4002 Td
+(Natural logarithm of the function) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.8002 Td
+(Reciprocal of the base) Tj
+ET
+BT
+/F2 7.4 Tf
+58 505.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 505.2002 Td
+(Square root) Tj
+ET
+BT
+/F2 8.0 Tf
+42 481.6002 Td
+(19.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6002 Td
+(Curvature kappa of a plane curve measures the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 472.4002 Td
+(rate of turning of the tangent with respect to:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.7002 Td
+(x-coordinate) Tj
+ET
+BT
+/F2 7.4 Tf
+58 451.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 451.1002 Td
+(Arc length s \(dpsi / ds\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.5002 Td
+(y-coordinate) Tj
+ET
+BT
+/F2 7.4 Tf
+58 431.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 431.9002 Td
+(Time t) Tj
+ET
+BT
+/F2 8.0 Tf
+42 408.3002 Td
+(20.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 408.3002 Td
+(The radius of curvature rho is related to) Tj
+ET
+BT
+/F1 7.8 Tf
+58 399.1002 Td
+(curvature kappa by the formula:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 387.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 387.4001 Td
+(rho = kappa^2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.8001 Td
+(rho = 1 / kappa) Tj
+ET
+BT
+/F2 7.4 Tf
+58 368.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 368.2001 Td
+(rho = 2 * pi * kappa) Tj
+ET
+BT
+/F2 7.4 Tf
+58 358.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 358.6001 Td
+(rho = sqrt\(kappa\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 335.0001 Td
+(21.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.0001 Td
+(The Cartesian formula for the radius of) Tj
+ET
+BT
+/F1 7.8 Tf
+58 325.8001 Td
+(curvature rho is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 314.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 314.1001 Td
+([1 + \(y'\)^2]^\(3/2\) / |y''|) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.5001 Td
+([1 + \(y'\)^2] / |y''|) Tj
+ET
+BT
+/F2 7.4 Tf
+58 294.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 294.9001 Td
+([1 + \(y'\)^3] / |y''|) Tj
+ET
+BT
+/F2 7.4 Tf
+58 285.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 285.3001 Td
+(|y''| / [1 + \(y'\)^2]^\(3/2\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(22.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(At a point of inflection on a smooth curve, the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(curvature kappa is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(Infinity) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(Zero) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(-1) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(23.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(For a straight line, the radius of curvature rho) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(Infinite) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(Undefined) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(24.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(For a circle of radius R, the radius of) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(curvature rho at any point is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.5001 Td
+(R / 2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.9001 Td
+(R) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.3002 Td
+(2 * R) Tj
+ET
+BT
+/F2 7.4 Tf
+322 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 587.7002 Td
+(1 / R) Tj
+ET
+BT
+/F2 8.0 Tf
+306 564.1002 Td
+(25.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.1002 Td
+(The locus of the centers of curvature of all) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(points on a given curve is called its:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 543.2002 Td
+(Involute) Tj
+ET
+BT
+/F2 7.4 Tf
+322 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 533.6002 Td
+(Evolute) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.0002 Td
+(Asymptote) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.4003 Td
+(Envelope) Tj
+ET
+BT
+/F2 8.0 Tf
+306 490.8003 Td
+(26.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 490.8003 Td
+(An asymptote to a curve is a straight line such) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6003 Td
+(that the distance between the curve and the line) Tj
+ET
+BT
+/F1 7.8 Tf
+322 472.4002 Td
+(approaches:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.7002 Td
+(Infinity) Tj
+ET
+BT
+/F2 7.4 Tf
+322 451.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 451.1002 Td
+(Zero as the point recedes to infinity) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.5002 Td
+(A constant non-zero value) Tj
+ET
+BT
+/F2 7.4 Tf
+322 431.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 431.9002 Td
+(Radius of curvature) Tj
+ET
+BT
+/F2 8.0 Tf
+306 408.3002 Td
+(27.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 408.3002 Td
+(Asymptotes parallel to the y-axis are found by) Tj
+ET
+BT
+/F1 7.8 Tf
+322 399.1002 Td
+(equating to zero the coefficient of the:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.4002 Td
+(Lowest power of y) Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.8002 Td
+(Highest power of y) Tj
+ET
+BT
+/F2 7.4 Tf
+322 368.2002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 368.2002 Td
+(Highest power of x) Tj
+ET
+BT
+/F2 7.4 Tf
+322 358.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 358.6002 Td
+(Lowest power of x) Tj
+ET
+BT
+/F2 8.0 Tf
+306 335.0002 Td
+(28.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 335.0002 Td
+(Asymptotes parallel to the x-axis are found by) Tj
+ET
+BT
+/F1 7.8 Tf
+322 325.8001 Td
+(equating to zero the coefficient of the:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 314.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 314.1001 Td
+(Highest power of x) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.5001 Td
+(Highest power of y) Tj
+ET
+BT
+/F2 7.4 Tf
+322 294.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 294.9001 Td
+(Constant term) Tj
+ET
+BT
+/F2 7.4 Tf
+322 285.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 285.3001 Td
+(Square root of x) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 8 0 R /Resources << /Font << /F1 67 0 R /F2 68 0 R >> >> >>
+endobj
+8 0 obj
+<< /Length 8370 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 2: DIFFERENTIAL CALCULUS AND APPLICATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 3 of 32) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(29.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(A curve is symmetric about the x-axis if) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(replacing y by -y leaves the equation:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(Reversed) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(Unchanged) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(Multiplied by -1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(Zero) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(30.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(A curve is symmetric about the y-axis if) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(replacing x by -x leaves the equation:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(Unchanged) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(Negative) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(Inverted) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(Undefined) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(31.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(A curve is symmetric in opposite quadrants) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(\(about the origin\) if replacing \(x, y\) by \(-x,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.0001 Td
+(-y\) leaves the equation:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 607.3001 Td
+(Inverted) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.7001 Td
+(Unchanged) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.1002 Td
+(Doubled) Tj
+ET
+BT
+/F2 7.4 Tf
+58 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 578.5002 Td
+(Zero) Tj
+ET
+BT
+/F2 8.0 Tf
+42 554.9002 Td
+(32.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(A curve passes through the origin \(0, 0\) if the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 545.7002 Td
+(equation has no:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 534.0002 Td
+(Linear term) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.4002 Td
+(Constant term) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.8002 Td
+(Quadratic term) Tj
+ET
+BT
+/F2 7.4 Tf
+58 505.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 505.2002 Td
+(Higher order term) Tj
+ET
+BT
+/F2 8.0 Tf
+42 481.6002 Td
+(33.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6002 Td
+(Tangents at the origin are obtained by equating) Tj
+ET
+BT
+/F1 7.8 Tf
+58 472.4002 Td
+(to zero the:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.7002 Td
+(Highest degree terms) Tj
+ET
+BT
+/F2 7.4 Tf
+58 451.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 451.1002 Td
+(Lowest degree terms) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.5002 Td
+(Linear terms only) Tj
+ET
+BT
+/F2 7.4 Tf
+58 431.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 431.9002 Td
+(Constant terms) Tj
+ET
+BT
+/F2 8.0 Tf
+42 408.3002 Td
+(34.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 408.3002 Td
+(A double point at which two real branches have) Tj
+ET
+BT
+/F1 7.8 Tf
+58 399.1002 Td
+(two distinct tangents is called a:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 387.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 387.4001 Td
+(Cusp) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.8001 Td
+(Node) Tj
+ET
+BT
+/F2 7.4 Tf
+58 368.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 368.2001 Td
+(Conjugate point) Tj
+ET
+BT
+/F2 7.4 Tf
+58 358.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 358.6001 Td
+(Point of inflection) Tj
+ET
+BT
+/F2 8.0 Tf
+42 335.0001 Td
+(35.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.0001 Td
+(A double point at which two real branches have) Tj
+ET
+BT
+/F1 7.8 Tf
+58 325.8001 Td
+(two coincident tangents is called a:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 314.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 314.1001 Td
+(Node) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.5001 Td
+(Cusp) Tj
+ET
+BT
+/F2 7.4 Tf
+58 294.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 294.9001 Td
+(Isolated point) Tj
+ET
+BT
+/F2 7.4 Tf
+58 285.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 285.3001 Td
+(Inflection point) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(36.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(In biotechnology, the Michaelis-Menten rate) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(equation v = Vmax * S / \(Km + S\) relates) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(reaction velocity to:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(Enzyme concentration) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.3 Td
+(Substrate concentration S) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.7 Td
+(Temperature) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.1 Td
+(Bioreactor volume) Tj
+ET
+BT
+/F2 8.0 Tf
+306 701.5001 Td
+(37.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(In the Michaelis-Menten model, when S << Km, the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(reaction rate behaves as:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.6 Td
+(Zero order) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.0001 Td
+(First order with respect to S) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.4001 Td
+(Second order) Tj
+ET
+BT
+/F2 7.4 Tf
+322 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 651.8001 Td
+(Independent of S) Tj
+ET
+BT
+/F2 8.0 Tf
+306 628.2001 Td
+(38.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(In the Michaelis-Menten model, when S >> Km, the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(reaction rate approaches:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.3001 Td
+(Zero) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.7001 Td
+(Vmax \(zero order kinetics\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.1002 Td
+(Infinity) Tj
+ET
+BT
+/F2 7.4 Tf
+322 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 578.5002 Td
+(Km / 2) Tj
+ET
+BT
+/F2 8.0 Tf
+306 554.9002 Td
+(39.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(The maximum specific growth rate mu_max in) Tj
+ET
+BT
+/F1 7.8 Tf
+322 545.7002 Td
+(microbial batch cultures occurs at the point of:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 534.0002 Td
+(Exponential growth \(constant d\(ln X\)/dt\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.4002 Td
+(Stationary phase) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.8002 Td
+(Death phase) Tj
+ET
+BT
+/F2 7.4 Tf
+322 505.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 505.2002 Td
+(Lag phase) Tj
+ET
+BT
+/F2 8.0 Tf
+306 481.6002 Td
+(40.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6002 Td
+(The inflection point on a sigmoidal cell biomass) Tj
+ET
+BT
+/F1 7.8 Tf
+322 472.4002 Td
+(growth curve X\(t\) corresponds to:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.7002 Td
+(Maximum biomass concentration) Tj
+ET
+BT
+/F2 7.4 Tf
+322 451.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 451.1002 Td
+(Maximum growth rate dX/dt) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.5002 Td
+(Zero growth rate) Tj
+ET
+BT
+/F2 7.4 Tf
+322 431.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 431.9002 Td
+(Cell death) Tj
+ET
+BT
+/F2 8.0 Tf
+306 408.3002 Td
+(41.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 408.3002 Td
+(The nth derivative of y = x * e^x using) Tj
+ET
+BT
+/F1 7.8 Tf
+322 399.1002 Td
+(Leibniz's rule is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.4001 Td
+(x * e^x) Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.8001 Td
+(\(x + n\) * e^x) Tj
+ET
+BT
+/F2 7.4 Tf
+322 368.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 368.2001 Td
+(n * x * e^x) Tj
+ET
+BT
+/F2 7.4 Tf
+322 358.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 358.6001 Td
+(\(x - n\) * e^x) Tj
+ET
+BT
+/F2 8.0 Tf
+306 335.0001 Td
+(42.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 335.0001 Td
+(The nth derivative of y = x^2 * e^\(a*x\) is given) Tj
+ET
+BT
+/F1 7.8 Tf
+322 325.8001 Td
+(by:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 314.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 314.1001 Td
+(a^n * e^\(ax\) * [x^2 + 2nx/a + n\(n-1\)/a^2]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.5001 Td
+(a^n * e^\(ax\) * [x^2 + nx + n]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 294.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 294.9001 Td
+(a^\(n-2\) * e^\(ax\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 285.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 285.3001 Td
+(x^2 * a^n * e^\(ax\)) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 10 0 R /Resources << /Font << /F1 67 0 R /F2 68 0 R >> >> >>
+endobj
+10 0 obj
+<< /Length 7699 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 2: DIFFERENTIAL CALCULUS AND APPLICATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 4 of 32) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(43.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(If y = sin\(m * arcsin\(x\)\), then \(1 - x^2\)*y2 -) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(x*y1 equals:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(-m^2 * y) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(m^2 * y) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(m * y) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(44.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(If y = \(x^2 - 1\)^n, then the nth derivative) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(y^\(n\) is proportional to which classical) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.3 Td
+(polynomial?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.6 Td
+(Hermite polynomial Hn\(x\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.0001 Td
+(Legendre polynomial Pn\(x\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.4001 Td
+(Laguerre polynomial Ln\(x\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 651.8001 Td
+(Chebyshev polynomial Tn\(x\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 628.2001 Td
+(45.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(Verify Rolle's theorem for f\(x\) = x^2 - 4x + 3) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.0001 Td
+(on [1, 3]. The point c is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 607.3001 Td
+(1.5) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.7001 Td
+(2.0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.1002 Td
+(2.5) Tj
+ET
+BT
+/F2 7.4 Tf
+58 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 578.5002 Td
+(0.0) Tj
+ET
+BT
+/F2 8.0 Tf
+42 554.9002 Td
+(46.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(For f\(x\) = x^3 on [0, 2], the point c guaranteed) Tj
+ET
+BT
+/F1 7.8 Tf
+58 545.7002 Td
+(by Lagrange's Mean Value Theorem is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 534.0002 Td
+(2 / sqrt\(3\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.4002 Td
+(sqrt\(2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.8002 Td
+(1.0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 505.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 505.2002 Td
+(4 / 3) Tj
+ET
+BT
+/F2 8.0 Tf
+42 481.6002 Td
+(47.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6002 Td
+(Evaluate the limit: lim_{x -> 0} \(sin x - x\) /) Tj
+ET
+BT
+/F1 7.8 Tf
+58 472.4002 Td
+(x^3:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.7002 Td
+(1/6) Tj
+ET
+BT
+/F2 7.4 Tf
+58 451.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 451.1002 Td
+(-1/6) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.5002 Td
+(1/3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 431.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 431.9002 Td
+(-1/3) Tj
+ET
+BT
+/F2 8.0 Tf
+42 408.3002 Td
+(48.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 408.3002 Td
+(Evaluate the limit: lim_{x -> 0} \(e^x - 1 - x\) /) Tj
+ET
+BT
+/F1 7.8 Tf
+58 399.1002 Td
+(x^2:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 387.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 387.4001 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.8001 Td
+(1/2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 368.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 368.2001 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 358.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 358.6001 Td
+(2) Tj
+ET
+BT
+/F2 8.0 Tf
+42 335.0001 Td
+(49.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.0001 Td
+(Evaluate the limit: lim_{x -> 0} \(tan x - x\) /) Tj
+ET
+BT
+/F1 7.8 Tf
+58 325.8001 Td
+(\(x - sin x\):) Tj
+ET
+BT
+/F2 7.4 Tf
+58 314.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 314.1001 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.5001 Td
+(2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 294.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 294.9001 Td
+(-1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 285.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 285.3001 Td
+(1/2) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(50.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Evaluate the limit: lim_{x -> 0} \(1/x - 1/sin) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(x\):) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(Infinity) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(-1) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(51.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(Evaluate the limit: lim_{x -> 0} \(cos x\)^\(1 /) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(x^2\):) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(e^\(-1/2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(e^\(1/2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(e^\(-1\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(52.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(Evaluate the limit: lim_{x -> 0} \(1 + 2x\)^\(1/x\):) Tj
+ET
+BT
+/F2 7.4 Tf
+322 625.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 625.7001 Td
+(e) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.1002 Td
+(e^2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.5002 Td
+(2*e) Tj
+ET
+BT
+/F2 7.4 Tf
+322 596.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 596.9002 Td
+(1) Tj
+ET
+BT
+/F2 8.0 Tf
+306 573.3002 Td
+(53.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 573.3002 Td
+(Evaluate the limit: lim_{x -> infinity} \(1 +) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.1002 Td
+(a/x\)^x:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 552.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 552.4002 Td
+(a) Tj
+ET
+BT
+/F2 7.4 Tf
+322 542.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 542.8002 Td
+(e^a) Tj
+ET
+BT
+/F2 7.4 Tf
+322 533.2003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 533.2003 Td
+(e^\(-a\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 523.6003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 523.6003 Td
+(ln\(a\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 500.0003 Td
+(54.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 500.0003 Td
+(The radius of curvature of the catenary y = c *) Tj
+ET
+BT
+/F1 7.8 Tf
+322 490.8003 Td
+(cosh\(x / c\) at any point is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 479.1003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 479.1003 Td
+(y^2 / c) Tj
+ET
+BT
+/F2 7.4 Tf
+322 469.5003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 469.5003 Td
+(c^2 / y) Tj
+ET
+BT
+/F2 7.4 Tf
+322 459.9003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 459.9003 Td
+(y) Tj
+ET
+BT
+/F2 7.4 Tf
+322 450.3003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 450.3003 Td
+(c) Tj
+ET
+BT
+/F2 8.0 Tf
+306 426.7003 Td
+(55.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 426.7003 Td
+(The radius of curvature of the cycloid x =) Tj
+ET
+BT
+/F1 7.8 Tf
+322 417.5002 Td
+(a\(theta - sin theta\), y = a\(1 - cos theta\) is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 405.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 405.8002 Td
+(2a * sin\(theta / 2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 396.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 396.2002 Td
+(4a * sin\(theta / 2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 386.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 386.6002 Td
+(4a * cos\(theta / 2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.0002 Td
+(a * sin\(theta\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 353.4002 Td
+(56.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 353.4002 Td
+(The radius of curvature of the parabola y^2 =) Tj
+ET
+BT
+/F1 7.8 Tf
+322 344.2002 Td
+(4ax at the vertex \(0, 0\) is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 332.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 332.5002 Td
+(a) Tj
+ET
+BT
+/F2 7.4 Tf
+322 322.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 322.9002 Td
+(2a) Tj
+ET
+BT
+/F2 7.4 Tf
+322 313.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 313.3002 Td
+(4a) Tj
+ET
+BT
+/F2 7.4 Tf
+322 303.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 303.7002 Td
+(a / 2) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 12 0 R /Resources << /Font << /F1 67 0 R /F2 68 0 R >> >> >>
+endobj
+12 0 obj
+<< /Length 8253 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 2: DIFFERENTIAL CALCULUS AND APPLICATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 5 of 32) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(57.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(The pedal equation for an ellipse is 1/p^2 =) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(1/a^2 + 1/b^2 - r^2/\(a^2*b^2\). The formula for) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(rho in pedal coordinates is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(r * \(dr / dp\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.3 Td
+(p * \(dp / dr\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.7 Td
+(r^2 * \(dr / dp\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.1 Td
+(dr / dp) Tj
+ET
+BT
+/F2 8.0 Tf
+42 701.5001 Td
+(58.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(For the curve r = a * \(1 + cos theta\)) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.3 Td
+(\(cardioid\), the radius of curvature rho is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.6 Td
+(\(4/3\) * a * cos\(theta / 2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.0001 Td
+(\(2/3\) * a * sqrt\(2*a*r\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.4001 Td
+(\(2/3\) * sqrt\(2*a*r\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 651.8001 Td
+(a * sin\(theta\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 628.2001 Td
+(59.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(The oblique asymptotes of the curve x^3 + y^3 =) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.0001 Td
+(3axy \(Folium of Descartes\) are given by:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 607.3001 Td
+(x + y = 0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.7001 Td
+(x + y + a = 0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.1002 Td
+(x - y + a = 0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 578.5002 Td
+(y = x) Tj
+ET
+BT
+/F2 8.0 Tf
+42 554.9002 Td
+(60.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(The vertical asymptotes of the rational function) Tj
+ET
+BT
+/F1 7.8 Tf
+58 545.7002 Td
+(f\(x\) = \(x^2 + 1\) / \(x^2 - 4\) are:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 534.0002 Td
+(x = 1, x = -1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.4002 Td
+(x = 2, x = -2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.8002 Td
+(y = 1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 505.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 505.2002 Td
+(y = 4) Tj
+ET
+BT
+/F2 8.0 Tf
+42 481.6002 Td
+(61.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6002 Td
+(The horizontal asymptote of the rational) Tj
+ET
+BT
+/F1 7.8 Tf
+58 472.4002 Td
+(function f\(x\) = \(3x^2 + 2\) / \(x^2 - 5\) is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.7002 Td
+(y = 0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 451.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 451.1002 Td
+(y = 3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.5002 Td
+(y = -5) Tj
+ET
+BT
+/F2 7.4 Tf
+58 431.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 431.9002 Td
+(x = 3) Tj
+ET
+BT
+/F2 8.0 Tf
+42 408.3002 Td
+(62.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 408.3002 Td
+(In curve tracing, the curve y^2 = x^2 * \(a + x\)) Tj
+ET
+BT
+/F1 7.8 Tf
+58 399.1002 Td
+(/ \(a - x\) has a loop in the region:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 387.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 387.4001 Td
+(-a <= x <= 0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.8001 Td
+(0 <= x < a) Tj
+ET
+BT
+/F2 7.4 Tf
+58 368.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 368.2001 Td
+(x >= a) Tj
+ET
+BT
+/F2 7.4 Tf
+58 358.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 358.6001 Td
+(x <= -a) Tj
+ET
+BT
+/F2 8.0 Tf
+42 335.0001 Td
+(63.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.0001 Td
+(The curve y^2 = x^3 \(semicubical parabola\) has) Tj
+ET
+BT
+/F1 7.8 Tf
+58 325.8001 Td
+(at the origin \(0, 0\) a:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 314.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 314.1001 Td
+(Node) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.5001 Td
+(Cusp of the first kind) Tj
+ET
+BT
+/F2 7.4 Tf
+58 294.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 294.9001 Td
+(Conjugate point) Tj
+ET
+BT
+/F2 7.4 Tf
+58 285.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 285.3001 Td
+(Point of inflection) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(64.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(The curve y^2 = x^2 * \(x + 1\) has at the origin) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(\(0, 0\) a:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(Cusp) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(Node \(two real distinct tangents y = +-x\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(Isolated point) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(Smooth minimum) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(65.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(Taylor's theorem with remainder states that) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(f\(a+h\) = f\(a\) + h*f'\(a\) + ... + \(h^n /) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(n!\)*f^\(n\)\(a + theta*h\), where theta lies in:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.6 Td
+(\(0, 1\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.0001 Td
+(\(1, 2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.4001 Td
+(\(-1, 1\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 651.8001 Td
+([a, b]) Tj
+ET
+BT
+/F2 8.0 Tf
+306 628.2001 Td
+(66.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(The coefficient of x^3 in the Maclaurin) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(expansion of tan\(x\) is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.3001 Td
+(1/3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.7001 Td
+(-1/3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.1002 Td
+(2/3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 578.5002 Td
+(1/6) Tj
+ET
+BT
+/F2 8.0 Tf
+306 554.9002 Td
+(67.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(The coefficient of x^4 in the Maclaurin) Tj
+ET
+BT
+/F1 7.8 Tf
+322 545.7002 Td
+(expansion of ln\(1 + x\) is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 534.0002 Td
+(1/4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.4002 Td
+(-1/4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.8002 Td
+(1/24) Tj
+ET
+BT
+/F2 7.4 Tf
+322 505.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 505.2002 Td
+(-1/12) Tj
+ET
+BT
+/F2 8.0 Tf
+306 481.6002 Td
+(68.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6002 Td
+(If an enzyme-catalyzed reaction has Vmax = 50) Tj
+ET
+BT
+/F1 7.8 Tf
+322 472.4002 Td
+(umol/\(L*min\) and Km = 2 mmol/L, what is the rate) Tj
+ET
+BT
+/F1 7.8 Tf
+322 463.2002 Td
+(v at substrate S = 2 mmol/L?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 451.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 451.5002 Td
+(50) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.9002 Td
+(25) Tj
+ET
+BT
+/F2 7.4 Tf
+322 432.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 432.3002 Td
+(12.5) Tj
+ET
+BT
+/F2 7.4 Tf
+322 422.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 422.7002 Td
+(100) Tj
+ET
+BT
+/F2 8.0 Tf
+306 399.1002 Td
+(69.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 399.1002 Td
+(In a Lineweaver-Burk double reciprocal plot \(1/v) Tj
+ET
+BT
+/F1 7.8 Tf
+322 389.9001 Td
+(vs 1/S\), the y-intercept represents:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 378.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 378.2001 Td
+(Km) Tj
+ET
+BT
+/F2 7.4 Tf
+322 368.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 368.6001 Td
+(1 / Vmax) Tj
+ET
+BT
+/F2 7.4 Tf
+322 359.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 359.0001 Td
+(-1 / Km) Tj
+ET
+BT
+/F2 7.4 Tf
+322 349.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 349.4001 Td
+(Vmax / Km) Tj
+ET
+BT
+/F2 8.0 Tf
+306 325.8001 Td
+(70.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 325.8001 Td
+(In a Lineweaver-Burk plot, the x-intercept is) Tj
+ET
+BT
+/F1 7.8 Tf
+322 316.6001 Td
+(equal to:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.9001 Td
+(-1 / Km) Tj
+ET
+BT
+/F2 7.4 Tf
+322 295.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 295.3001 Td
+(1 / Km) Tj
+ET
+BT
+/F2 7.4 Tf
+322 285.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 285.7001 Td
+(-Km) Tj
+ET
+BT
+/F2 7.4 Tf
+322 276.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 276.1001 Td
+(1 / Vmax) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 14 0 R /Resources << /Font << /F1 67 0 R /F2 68 0 R >> >> >>
+endobj
+14 0 obj
+<< /Length 8157 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 2: DIFFERENTIAL CALCULUS AND APPLICATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 6 of 32) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(71.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(The slope of the Lineweaver-Burk linear plot is) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(given by:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(Km / Vmax) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(Vmax / Km) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(1 / \(Km * Vmax\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(Km * Vmax) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(72.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(For logistic population growth N\(t\) = K / \(1 + A) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(* e^\(-r*t\)\), the population at the inflection) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.3 Td
+(point is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.6 Td
+(K) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.0001 Td
+(K / 2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.4001 Td
+(K / 4) Tj
+ET
+BT
+/F2 7.4 Tf
+58 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 651.8001 Td
+(K / 3) Tj
+ET
+BT
+/F2 8.0 Tf
+42 628.2001 Td
+(73.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(The radius of curvature of the curve y = ln\(sec) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.0001 Td
+(x\) at x = 0 is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 607.3001 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.7001 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.1002 Td
+(1/2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 578.5002 Td
+(Infinity) Tj
+ET
+BT
+/F2 8.0 Tf
+42 554.9002 Td
+(74.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(The coordinates \(x_bar, y_bar\) of the center of) Tj
+ET
+BT
+/F1 7.8 Tf
+58 545.7002 Td
+(curvature for curve y = f\(x\) are given by x_bar) Tj
+ET
+BT
+/F1 7.8 Tf
+58 536.5002 Td
+(= x - y1*\(1+y1^2\)/y2 and y_bar equal to:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.8002 Td
+(y + \(1 + y1^2\) / y2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 515.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 515.2002 Td
+(y - \(1 + y1^2\) / y2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 505.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 505.6002 Td
+(y + y2 / \(1 + y1^2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 496.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 496.0002 Td
+(y * y1 / y2) Tj
+ET
+BT
+/F2 8.0 Tf
+42 472.4002 Td
+(75.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 472.4002 Td
+(The evolute of the parabola y^2 = 4ax is the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 463.2002 Td
+(semicubical parabola:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 451.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 451.5002 Td
+(27ay^2 = 4\(x - 2a\)^3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.9001 Td
+(27ax^2 = 4\(y - 2a\)^3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 432.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 432.3001 Td
+(y^2 = 4a\(x - a\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 422.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 422.7001 Td
+(x^2 + y^2 = 4a^2) Tj
+ET
+BT
+/F2 8.0 Tf
+42 399.1001 Td
+(76.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 399.1001 Td
+(If y = \(x + sqrt\(1 + x^2\)\)^m, find the value of) Tj
+ET
+BT
+/F1 7.8 Tf
+58 389.9001 Td
+(\(1 + x^2\)*y_{n+2} + \(2n+1\)*x*y_{n+1} + \(n^2 -) Tj
+ET
+BT
+/F1 7.8 Tf
+58 380.7001 Td
+(m^2\)*y_n:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 369.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 369.0001 Td
+(m^2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 359.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 359.4001 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 349.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 349.8001 Td
+(-m^2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 340.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 340.2001 Td
+(n^2) Tj
+ET
+BT
+/F2 8.0 Tf
+42 316.6001 Td
+(77.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 316.6001 Td
+(If y = e^\(m * arcsin x\), what is the coefficient) Tj
+ET
+BT
+/F1 7.8 Tf
+58 307.4001 Td
+(of y_n in the expansion of \(1 - x^2\)*y_{n+2} -) Tj
+ET
+BT
+/F1 7.8 Tf
+58 298.2 Td
+(\(2n+1\)*x*y_{n+1}?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 286.5 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 286.5 Td
+(-\(n^2 + m^2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 276.9 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 276.9 Td
+(\(n^2 + m^2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 267.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 267.3 Td
+(m^2 - n^2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 257.7 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 257.7 Td
+(n^2 - m^2) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(78.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(If y = cos\(m * ln x\), evaluate x^2 * y_{n+2} +) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(\(2n+1\)*x * y_{n+1} + \(n^2 + m^2\)*y_n:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(-1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(m^2) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(79.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(Find the nth derivative of y = x / \(x^2 - a^2\)) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(at x = 0 when n is even:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(n! / a^\(n+1\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(\(-1\)^n * n!) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(n * a^n) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(80.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(Evaluate: lim_{x -> 0} \(sin x / x\)^\(1 / x^2\):) Tj
+ET
+BT
+/F2 7.4 Tf
+322 625.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 625.7001 Td
+(e^\(-1/6\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.1002 Td
+(e^\(1/6\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.5002 Td
+(e^\(-1/3\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 596.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 596.9002 Td
+(1) Tj
+ET
+BT
+/F2 8.0 Tf
+306 573.3002 Td
+(81.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 573.3002 Td
+(Evaluate: lim_{x -> 0} [ \(1/x^2\) - \(cot x\)^2 ]:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 561.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 561.6002 Td
+(1/3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 552.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 552.0002 Td
+(2/3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 542.4003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 542.4003 Td
+(1/2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 532.8003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 532.8003 Td
+(0) Tj
+ET
+BT
+/F2 8.0 Tf
+306 509.2003 Td
+(82.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 509.2003 Td
+(Evaluate: lim_{x -> 0} \(e^x * sin x - x * \(1 +) Tj
+ET
+BT
+/F1 7.8 Tf
+322 500.0003 Td
+(x\)\) / x^3:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 488.3003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 488.3003 Td
+(1/6) Tj
+ET
+BT
+/F2 7.4 Tf
+322 478.7003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 478.7003 Td
+(1/3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 469.1003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 469.1003 Td
+(-1/6) Tj
+ET
+BT
+/F2 7.4 Tf
+322 459.5003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 459.5003 Td
+(1/2) Tj
+ET
+BT
+/F2 8.0 Tf
+306 435.9003 Td
+(83.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 435.9003 Td
+(Find the radius of curvature of the astroid) Tj
+ET
+BT
+/F1 7.8 Tf
+322 426.7003 Td
+(x^\(2/3\) + y^\(2/3\) = a^\(2/3\) at any point:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 415.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 415.0002 Td
+(3 * \(a * x * y\)^\(1/3\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 405.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 405.4002 Td
+(3a * sin\(2*theta\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 395.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 395.8002 Td
+(3 * a^\(2/3\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 386.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 386.2002 Td
+(a / 3) Tj
+ET
+BT
+/F2 8.0 Tf
+306 362.6002 Td
+(84.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 362.6002 Td
+(The center of curvature of the parabola y^2 =) Tj
+ET
+BT
+/F1 7.8 Tf
+322 353.4002 Td
+(4ax at the point \(at^2, 2at\) has coordinates) Tj
+ET
+BT
+/F1 7.8 Tf
+322 344.2002 Td
+(\(x_bar, y_bar\):) Tj
+ET
+BT
+/F2 7.4 Tf
+322 332.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 332.5002 Td
+(\(2a + 3at^2, -2at^3\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 322.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 322.9002 Td
+(\(a + 2at^2, -at^3\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 313.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 313.3002 Td
+(\(3at^2, -at^3\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 303.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 303.7002 Td
+(\(2a, 0\)) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 16 0 R /Resources << /Font << /F1 67 0 R /F2 68 0 R >> >> >>
+endobj
+16 0 obj
+<< /Length 8434 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 2: DIFFERENTIAL CALCULUS AND APPLICATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 7 of 32) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(85.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Find all asymptotes of the cubic curve x^3 +) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(2x^2*y - x*y^2 - 2y^3 + 4x^2 - 4y^2 - 1 = 0:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(x + y = 0, x - y = 0, x + 2y = 0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(x - y + 2 = 0, x + y + 2 = 0, x + 2y = 0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(x + y = 1, x - y = 1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(y = 2x, y = -x) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(86.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(The radius of curvature of the curve r^n = a^n *) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(cos\(n * theta\) is given by:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(a^n / \(\(n+1\) * r^\(n-1\)\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(a^n / \(n * r^\(n-1\)\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(r^\(n+1\) / a^n) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(\(n+1\) * a^n / r) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(87.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(For the cardioid r = a*\(1 - cos theta\), the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(radius of curvature at theta = pi is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.5001 Td
+(4a / 3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.9001 Td
+(8a / 3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.3002 Td
+(2a / 3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 587.7002 Td
+(2a) Tj
+ET
+BT
+/F2 8.0 Tf
+42 564.1002 Td
+(88.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(Trace the lemniscate r^2 = a^2 * cos\(2*theta\).) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(The curve exists only in the angular intervals:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 543.2002 Td
+([-pi/4, pi/4] and [3pi/4, 5pi/4]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 533.6002 Td
+([0, pi/2]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.0002 Td
+([pi/4, 3pi/4]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.4003 Td
+([0, 2pi]) Tj
+ET
+BT
+/F2 8.0 Tf
+42 490.8003 Td
+(89.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 490.8003 Td
+(The maximum value of the function f\(x\) = x * \(1) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6003 Td
+(- x\)^2 on [0, 1] occurs at x equal to:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 469.9002 Td
+(1/2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.3002 Td
+(1/3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 450.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 450.7002 Td
+(2/3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.1002 Td
+(1/4) Tj
+ET
+BT
+/F2 8.0 Tf
+42 417.5002 Td
+(90.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 417.5002 Td
+(In a fed-batch bioreactor, cell growth follows) Tj
+ET
+BT
+/F1 7.8 Tf
+58 408.3002 Td
+(the Monod equation mu = mu_max * S / \(Ks + S\).) Tj
+ET
+BT
+/F1 7.8 Tf
+58 399.1002 Td
+(If mu_max = 0.8 h^-1 and Ks = 0.5 g/L, at what) Tj
+ET
+BT
+/F1 7.8 Tf
+58 389.9002 Td
+(substrate concentration S is mu = 0.6 h^-1?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 378.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 378.2002 Td
+(1.0 g/L) Tj
+ET
+BT
+/F2 7.4 Tf
+58 368.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 368.6002 Td
+(1.5 g/L) Tj
+ET
+BT
+/F2 7.4 Tf
+58 359.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 359.0002 Td
+(2.0 g/L) Tj
+ET
+BT
+/F2 7.4 Tf
+58 349.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 349.4001 Td
+(0.75 g/L) Tj
+ET
+BT
+/F2 8.0 Tf
+42 325.8001 Td
+(91.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 325.8001 Td
+(The expansion of e^\(x * sin x\) in ascending) Tj
+ET
+BT
+/F1 7.8 Tf
+58 316.6001 Td
+(powers of x up to x^4 is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.9001 Td
+(1 + x^2 - x^4/3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 295.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 295.3001 Td
+(1 + x^2 + x^4/3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 285.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 285.7001 Td
+(1 + x^2 + x^4/6) Tj
+ET
+BT
+/F2 7.4 Tf
+58 276.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 276.1001 Td
+(1 - x^2 + x^4/2) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(92.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Evaluate: lim_{x -> 0} \(arcsin x - x\) / \(x^3\):) Tj
+ET
+BT
+/F2 7.4 Tf
+322 772.3 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 772.3 Td
+(1/6) Tj
+ET
+BT
+/F2 7.4 Tf
+322 762.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 762.7 Td
+(-1/6) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.1 Td
+(1/3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.5001 Td
+(1/2) Tj
+ET
+BT
+/F2 8.0 Tf
+306 719.9001 Td
+(93.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 719.9001 Td
+(If f\(x\) = x*\(x-1\)*\(x-2\)*\(x-3\), how many real) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(roots does f'\(x\) have?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 699.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 699.0001 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.4001 Td
+(2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 679.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 679.8001 Td
+(3 \(all in \(0, 3\)\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.2001 Td
+(4) Tj
+ET
+BT
+/F2 8.0 Tf
+306 646.6002 Td
+(94.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 646.6002 Td
+(The envelope of the family of straight lines) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(x*cos\(alpha\) + y*sin\(alpha\) = p \(where p is) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(constant\) is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.5001 Td
+(A circle x^2 + y^2 = p^2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.9001 Td
+(A parabola y^2 = 4px) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.3002 Td
+(An ellipse) Tj
+ET
+BT
+/F2 7.4 Tf
+322 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 587.7002 Td
+(A hyperbola) Tj
+ET
+BT
+/F2 8.0 Tf
+306 564.1002 Td
+(95.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.1002 Td
+(The radius of curvature of the ellipse x^2/a^2 +) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(y^2/b^2 = 1 at the end of the major axis \(a, 0\)) Tj
+ET
+BT
+/F1 7.8 Tf
+322 545.7002 Td
+(is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 534.0002 Td
+(b^2 / a) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.4002 Td
+(a^2 / b) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.8002 Td
+(a * b) Tj
+ET
+BT
+/F2 7.4 Tf
+322 505.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 505.2002 Td
+(sqrt\(a * b\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 481.6002 Td
+(96.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6002 Td
+(The radius of curvature of the ellipse x^2/a^2 +) Tj
+ET
+BT
+/F1 7.8 Tf
+322 472.4002 Td
+(y^2/b^2 = 1 at the end of the minor axis \(0, b\)) Tj
+ET
+BT
+/F1 7.8 Tf
+322 463.2002 Td
+(is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 451.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 451.5002 Td
+(b^2 / a) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.9002 Td
+(a^2 / b) Tj
+ET
+BT
+/F2 7.4 Tf
+322 432.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 432.3002 Td
+(a / b) Tj
+ET
+BT
+/F2 7.4 Tf
+322 422.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 422.7002 Td
+(b / a) Tj
+ET
+BT
+/F2 8.0 Tf
+306 399.1002 Td
+(97.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 399.1002 Td
+(Evaluate the limit: lim_{x -> 0} \(1/x^2 - 1/\(tan) Tj
+ET
+BT
+/F1 7.8 Tf
+322 389.9001 Td
+(x\)^2\):) Tj
+ET
+BT
+/F2 7.4 Tf
+322 378.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 378.2001 Td
+(1/3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 368.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 368.6001 Td
+(2/3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 359.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 359.0001 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 349.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 349.4001 Td
+(0) Tj
+ET
+BT
+/F2 8.0 Tf
+306 325.8001 Td
+(98.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 325.8001 Td
+(In enzyme inhibition kinetics, competitive) Tj
+ET
+BT
+/F1 7.8 Tf
+322 316.6001 Td
+(inhibition increases the apparent Km while) Tj
+ET
+BT
+/F1 7.8 Tf
+322 307.4001 Td
+(leaving Vmax:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 295.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 295.7001 Td
+(Doubled) Tj
+ET
+BT
+/F2 7.4 Tf
+322 286.1001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 286.1001 Td
+(Halved) Tj
+ET
+BT
+/F2 7.4 Tf
+322 276.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 276.5001 Td
+(Unchanged) Tj
+ET
+BT
+/F2 7.4 Tf
+322 266.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 266.9001 Td
+(Zero) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 18 0 R /Resources << /Font << /F1 67 0 R /F2 68 0 R >> >> >>
+endobj
+18 0 obj
+<< /Length 1557 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 2: DIFFERENTIAL CALCULUS AND APPLICATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 8 of 32) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(99.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(In non-competitive enzyme inhibition, the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(inhibitor binds to both free enzyme and) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(enzyme-substrate complex, causing:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(Vmax to decrease while Km remains unchanged) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.3 Td
+(Km to increase while Vmax remains unchanged) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.7 Td
+(Both Vmax and Km to double) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.1 Td
+(Reaction to stop instantly) Tj
+ET
+BT
+/F2 8.0 Tf
+42 691.5001 Td
+(100.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 691.5001 Td
+(The chord of curvature through the origin for) Tj
+ET
+BT
+/F1 7.8 Tf
+58 682.3 Td
+(the cardioid r = a*\(1 + cos theta\) has length:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6 Td
+(4r / 3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(2r / 3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 651.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 651.4001 Td
+(r / 3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 641.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 641.8001 Td
+(2r) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 20 0 R /Resources << /Font << /F1 67 0 R /F2 68 0 R >> >> >>
+endobj
+20 0 obj
+<< /Length 5667 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 2: DIFFERENTIAL CALCULUS AND APPLICATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 9 of 32) Tj
+ET
+BT
+/F2 10 Tf
+45 780 Td
+(SECTION B: DESCRIPTIVE & SUBJECTIVE QUESTIONS) Tj
+ET
+BT
+/F2 8.5 Tf
+45 760 Td
+(Q1. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 760 Td
+(State Leibniz's Theorem for the nth derivative of the product of two functions and prove it) Tj
+ET
+BT
+/F1 8.5 Tf
+72 749.5 Td
+(rigorously by mathematical induction.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 724.5 Td
+(Q2. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 724.5 Td
+(If y = \(arcsin x\)^2, prove that: \(1 - x^2\) * y2 - x * y1 - 2 = 0. Hence, using Leibniz's theorem,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 714 Td
+(establish that: \(1 - x^2\) * y_{n+2} - \(2n + 1\) * x * y_{n+1} - n^2 * y_n = 0.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 689 Td
+(Q3. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 689 Td
+(Derive the general formula for the nth derivative of y = e^\(a*x\) * cos\(b*x + c\). Hence, compute) Tj
+ET
+BT
+/F1 8.5 Tf
+72 678.5 Td
+(the 5th derivative of y = e^\(2x\) * cos\(3x + 1\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 653.5 Td
+(Q4. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 653.5 Td
+(If y = arctan\(x\), prove that \(1 + x^2\) * y_{n+2} + 2\(n + 1\) * x * y_{n+1} + n\(n + 1\) * y_n = 0.) Tj
+ET
+BT
+/F1 8.5 Tf
+72 643 Td
+(Hence determine the value of y_n\(0\) for all positive integers n.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 618 Td
+(Q5. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 618 Td
+(State Rolle's Theorem, give its geometrical interpretation, and provide a rigorous proof based on) Tj
+ET
+BT
+/F1 8.5 Tf
+72 607.5 Td
+(the Extreme Value Theorem.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 582.5 Td
+(Q6. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 582.5 Td
+(State and prove Lagrange's Mean Value Theorem \(LMVT\). Use it to prove that for all x > 0: x / \(1 +) Tj
+ET
+BT
+/F1 8.5 Tf
+72 572 Td
+(x\) < ln\(1 + x\) < x.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 547 Td
+(Q7. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 547 Td
+(State and prove Cauchy's Mean Value Theorem \(CMVT\). Deduce Lagrange's Mean Value Theorem as a) Tj
+ET
+BT
+/F1 8.5 Tf
+72 536.5 Td
+(particular case.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 511.5 Td
+(Q8. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 511.5 Td
+(Derive Taylor's Theorem with Lagrange's and Cauchy's forms of remainder for a function of one) Tj
+ET
+BT
+/F1 8.5 Tf
+72 501 Td
+(variable.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 476 Td
+(Q9. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 476 Td
+(Expand ln\(1 + x\) and e^x in Maclaurin series with remainder, state their intervals of convergence,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 465.5 Td
+(and estimate the error when approximating e by its first 5 terms.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 440.5 Td
+(Q10. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 440.5 Td
+(Prove L'Hopital's Rule for the indeterminate form 0/0 using Cauchy's Mean Value Theorem. Evaluate:) Tj
+ET
+BT
+/F1 8.5 Tf
+72 430 Td
+(lim_{x -> 0} [ \(e^x - e^\(-x\) - 2x\) / \(x - sin x\) ].) Tj
+ET
+BT
+/F2 8.5 Tf
+45 405 Td
+(Q11. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 405 Td
+(Evaluate the following indeterminate limits: \(i\) lim_{x -> 0} [ \(tan x - x\) / x^3 ], \(ii\) lim_{x) Tj
+ET
+BT
+/F1 8.5 Tf
+72 394.5 Td
+(-> 0} [ \(1 / x^2\) - \(1 / sin^2 x\) ].) Tj
+ET
+BT
+/F2 8.5 Tf
+45 369.5 Td
+(Q12. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 369.5 Td
+(Evaluate the exponential indeterminate limits: \(i\) lim_{x -> 0} \(sin x / x\)^\(1 / x^2\) [Form) Tj
+ET
+BT
+/F1 8.5 Tf
+72 359 Td
+(1^infinity], \(ii\) lim_{x -> 0+} x^\(sin x\) [Form 0^0].) Tj
+ET
+BT
+/F2 8.5 Tf
+45 334 Td
+(Q13. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 334 Td
+(Define curvature kappa and radius of curvature rho. Starting from the intrinsic definition kappa =) Tj
+ET
+BT
+/F1 8.5 Tf
+72 323.5 Td
+(dpsi / ds, rigorously derive the Cartesian formula: rho = [ 1 + \(y'\)^2 ]^\(3/2\) / |y''|.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 298.5 Td
+(Q14. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 298.5 Td
+(Derive the formula for the radius of curvature in parametric form: rho = \(x'^2 + y'^2\)^\(3/2\) / |x') Tj
+ET
+BT
+/F1 8.5 Tf
+72 288 Td
+(* y'' - y' * x''|. Find the radius of curvature for the cycloid x = a\(theta - sin theta\), y = a\(1) Tj
+ET
+BT
+/F1 8.5 Tf
+72 277.5 Td
+(- cos theta\) at any point theta.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 263 Td
+(Q15. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 263 Td
+(Derive the polar coordinate formula for radius of curvature: rho = \(r^2 + r'^2\)^\(3/2\) / |r^2 +) Tj
+ET
+BT
+/F1 8.5 Tf
+72 252.5 Td
+(2*r'^2 - r * r''|. Find rho for the cardioid r = a*\(1 + cos theta\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 227.5 Td
+(Q16. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 227.5 Td
+(Derive the pedal formula for the radius of curvature: rho = r * \(dr / dp\). Apply this formula to) Tj
+ET
+BT
+/F1 8.5 Tf
+72 217 Td
+(find the radius of curvature of the equiangular spiral r = a * e^\(theta * cot alpha\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 192 Td
+(Q17. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 192 Td
+(Derive the coordinates \(x_bar, y_bar\) of the center of curvature for a curve y = f\(x\). Hence, find) Tj
+ET
+BT
+/F1 8.5 Tf
+72 181.5 Td
+(the equation of the circle of curvature at any point.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 156.5 Td
+(Q18. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 156.5 Td
+(Define the evolute of a curve. Derive the parametric coordinates of the center of curvature for) Tj
+ET
+BT
+/F1 8.5 Tf
+72 146 Td
+(the parabola y^2 = 4ax at point \(at^2, 2at\), and eliminate t to find the Cartesian equation of its) Tj
+ET
+BT
+/F1 8.5 Tf
+72 135.5 Td
+(evolute.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 121 Td
+(Q19. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 121 Td
+(Define an asymptote of an algebraic curve. Explain the systematic method for finding asymptotes) Tj
+ET
+BT
+/F1 8.5 Tf
+72 110.5 Td
+(parallel to coordinate axes and oblique asymptotes y = mx + c.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 85.5 Td
+(Q20. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 85.5 Td
+(Find all the asymptotes \(parallel and oblique\) of the cubic curve: x^3 + 3x^2*y - 4y^3 - x + y + 3) Tj
+ET
+BT
+/F1 8.5 Tf
+72 75 Td
+(= 0.) Tj
+ET
+
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 22 0 R /Resources << /Font << /F1 67 0 R /F2 68 0 R >> >> >>
+endobj
+22 0 obj
+<< /Length 3006 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 2: DIFFERENTIAL CALCULUS AND APPLICATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 10 of 32) Tj
+ET
+BT
+/F2 8.5 Tf
+45 780 Td
+(Q21. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 780 Td
+(Determine all asymptotes of the Folium of Descartes: x^3 + y^3 = 3axy. Explain how the curve) Tj
+ET
+BT
+/F1 8.5 Tf
+72 769.5 Td
+(approaches its asymptote.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 743.5 Td
+(Q22. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 743.5 Td
+(Classify double points \(singular points\) of algebraic curves. Derive the conditions for nodes,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 733 Td
+(cusps, and conjugate points, and examine the origin for the curve y^2 = x^2 * \(x + 1\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 707 Td
+(Q23. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 707 Td
+(Describe the systematic 6-step algorithm for tracing Cartesian curves: \(1\) Symmetry, \(2\) Origin) Tj
+ET
+BT
+/F1 8.5 Tf
+72 696.5 Td
+(and tangents, \(3\) Intercepts, \(4\) Asymptotes, \(5\) Regions of existence, \(6\) Sign of derivatives.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 670.5 Td
+(Q24. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 670.5 Td
+(Apply the curve tracing algorithm to thoroughly analyze and sketch the Cissoid of Diocles: y^2 *) Tj
+ET
+BT
+/F1 8.5 Tf
+72 660 Td
+(\(2a - x\) = x^3 \(where a > 0\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 634 Td
+(Q25. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 634 Td
+(Apply the curve tracing algorithm to analyze the Strophoid: y^2 * \(a - x\) = x^2 * \(a + x\) \(where a) Tj
+ET
+BT
+/F1 8.5 Tf
+72 623.5 Td
+(> 0\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 597.5 Td
+(Q26. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 597.5 Td
+(Trace the polar curve: Cardioid r = a * \(1 + cos theta\) \(where a > 0\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 561 Td
+(Q27. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 561 Td
+(Formulate the First and Second Derivative Tests for local extrema and points of inflection of a) Tj
+ET
+BT
+/F1 8.5 Tf
+72 550.5 Td
+(twice-differentiable function f\(x\). Prove the Second Derivative Test.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 524.5 Td
+(Q28. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 524.5 Td
+(Derive the Michaelis-Menten enzyme kinetics rate equation v = Vmax * S / \(Km + S\) using the) Tj
+ET
+BT
+/F1 8.5 Tf
+72 514 Td
+(Briggs-Haldane quasi-steady-state differential formulation.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 488 Td
+(Q29. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 488 Td
+(Model microbial cell growth using the logistic differential equation dX/dt = r * X * \(1 - X / K\).) Tj
+ET
+BT
+/F1 8.5 Tf
+72 477.5 Td
+(Solve this non-linear ODE by separation of variables, find the inflection point, and determine) Tj
+ET
+BT
+/F1 8.5 Tf
+72 467 Td
+(when growth velocity is maximized.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 451.5 Td
+(Q30. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 451.5 Td
+(Analyze substrate inhibition enzyme kinetics governed by the Haldane model: v = Vmax * S / \(Km + S) Tj
+ET
+BT
+/F1 8.5 Tf
+72 441 Td
+(+ S^2 / Ki\). Determine the optimal substrate concentration S_opt that maximizes reaction velocity) Tj
+ET
+BT
+/F1 8.5 Tf
+72 430.5 Td
+(and compute the maximum inhibited velocity v_opt.) Tj
+ET
+
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 24 0 R /Resources << /Font << /F1 67 0 R /F2 68 0 R >> >> >>
+endobj
+24 0 obj
+<< /Length 8435 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 2: DIFFERENTIAL CALCULUS AND APPLICATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 11 of 32) Tj
+ET
+BT
+/F2 11 Tf
+45 780 Td
+(SECTION C: ANSWER KEY - MULTIPLE CHOICE QUESTIONS) Tj
+ET
+0.5 w
+45 772 m 550 772 l S
+BT
+/F2 8.5 Tf
+45 750 Td
+(Q1: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 750 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 734 Td
+(Q2: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 734 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 718 Td
+(Q3: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 718 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 702 Td
+(Q4: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 702 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 686 Td
+(Q5: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 670 Td
+(Q6: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 670 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 654 Td
+(Q7: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 638 Td
+(Q8: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 638 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 622 Td
+(Q9: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 622 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 606 Td
+(Q10: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 606 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 590 Td
+(Q11: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 590 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 574 Td
+(Q12: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 574 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 558 Td
+(Q13: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 542 Td
+(Q14: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 542 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 526 Td
+(Q15: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 526 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 510 Td
+(Q16: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 510 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 494 Td
+(Q17: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 494 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 478 Td
+(Q18: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 478 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 462 Td
+(Q19: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 462 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 446 Td
+(Q20: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 446 Td
+([B]) Tj
+ET
+0.2 w
+135 755 m 135 425 l S
+BT
+/F2 8.5 Tf
+145 750 Td
+(Q21: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 734 Td
+(Q22: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 734 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 718 Td
+(Q23: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 718 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 702 Td
+(Q24: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 702 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 686 Td
+(Q25: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 686 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 670 Td
+(Q26: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 670 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 654 Td
+(Q27: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 654 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 638 Td
+(Q28: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 622 Td
+(Q29: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 622 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 606 Td
+(Q30: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 590 Td
+(Q31: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 590 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 574 Td
+(Q32: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 574 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 558 Td
+(Q33: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 558 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 542 Td
+(Q34: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 542 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 526 Td
+(Q35: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 526 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 510 Td
+(Q36: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 510 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 494 Td
+(Q37: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 494 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 478 Td
+(Q38: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 478 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 462 Td
+(Q39: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 446 Td
+(Q40: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 446 Td
+([B]) Tj
+ET
+0.2 w
+235 755 m 235 425 l S
+BT
+/F2 8.5 Tf
+245 750 Td
+(Q41: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 750 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 734 Td
+(Q42: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 718 Td
+(Q43: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 702 Td
+(Q44: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 702 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 686 Td
+(Q45: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 686 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 670 Td
+(Q46: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 654 Td
+(Q47: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 654 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 638 Td
+(Q48: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 638 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 622 Td
+(Q49: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 622 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 606 Td
+(Q50: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 590 Td
+(Q51: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 590 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 574 Td
+(Q52: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 574 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 558 Td
+(Q53: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 558 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 542 Td
+(Q54: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 526 Td
+(Q55: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 526 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 510 Td
+(Q56: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 510 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 494 Td
+(Q57: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 478 Td
+(Q58: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 478 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 462 Td
+(Q59: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 462 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 446 Td
+(Q60: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 446 Td
+([B]) Tj
+ET
+0.2 w
+335 755 m 335 425 l S
+BT
+/F2 8.5 Tf
+345 750 Td
+(Q61: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 750 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 734 Td
+(Q62: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 718 Td
+(Q63: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 718 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 702 Td
+(Q64: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 702 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 686 Td
+(Q65: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 670 Td
+(Q66: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 654 Td
+(Q67: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 654 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 638 Td
+(Q68: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 638 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 622 Td
+(Q69: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 622 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 606 Td
+(Q70: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 590 Td
+(Q71: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 574 Td
+(Q72: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 574 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 558 Td
+(Q73: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 558 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 542 Td
+(Q74: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 526 Td
+(Q75: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 510 Td
+(Q76: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 510 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 494 Td
+(Q77: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 478 Td
+(Q78: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 478 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 462 Td
+(Q79: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 446 Td
+(Q80: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 446 Td
+([A]) Tj
+ET
+0.2 w
+435 755 m 435 425 l S
+BT
+/F2 8.5 Tf
+445 750 Td
+(Q81: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 750 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 734 Td
+(Q82: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 734 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 718 Td
+(Q83: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 702 Td
+(Q84: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 686 Td
+(Q85: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 686 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 670 Td
+(Q86: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 654 Td
+(Q87: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 654 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 638 Td
+(Q88: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 622 Td
+(Q89: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 622 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 606 Td
+(Q90: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 606 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 590 Td
+(Q91: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 590 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 574 Td
+(Q92: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 558 Td
+(Q93: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 558 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 542 Td
+(Q94: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 526 Td
+(Q95: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 510 Td
+(Q96: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 510 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 494 Td
+(Q97: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 494 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 478 Td
+(Q98: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 478 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 462 Td
+(Q99: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 446 Td
+(Q100: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 446 Td
+([A]) Tj
+ET
+0.5 w
+45 400 m 550 400 l 550 340 l 45 340 l s
+BT
+/F2 9 Tf
+55 382 Td
+(MCQ Scoring Guide & Difficulty Distribution:) Tj
+ET
+BT
+/F1 8.5 Tf
+55 366 Td
+(Questions 1 to 40: Foundational & Conceptual [Easy] | Questions 41 to 75: Analytical & Applied [Moderate]) Tj
+ET
+BT
+/F1 8.5 Tf
+55 350 Td
+(Questions 76 to 100: Complex Numerical & Advanced Problem Solving [Difficult]) Tj
+ET
+
+endstream
+endobj
+25 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 26 0 R /Resources << /Font << /F1 67 0 R /F2 68 0 R >> >> >>
+endobj
+26 0 obj
+<< /Length 3917 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 2: DIFFERENTIAL CALCULUS AND APPLICATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 12 of 32) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(SECTION D: DETAILED SOLUTIONS FOR SUBJECTIVE QUESTIONS) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(================================================================================) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 1:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: State Leibniz's Theorem for the nth derivative of the product of two functions and prove it rigorously by mathematical induction.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Formal Statement of Leibniz's Theorem:) Tj
+T*
+(   Let u\(x\) and v\(x\) be two functions possessing continuous derivatives up to order n in an) Tj
+T*
+(   interval I.) Tj
+T*
+(   Then the nth derivative of their product y = u * v is given by:) Tj
+T*
+(   d^n\(u * v\) / dx^n = sum_{r=0}^n C\(n, r\) * u_{n-r} * v_r,) Tj
+T*
+(   where C\(n, r\) = n! / [r! * \(n - r\)!], u_k = d^k u / dx^k, and v_k = d^k v / dx^k \(with u_0 = u,) Tj
+T*
+(   v_0 = v\).) Tj
+T*
+(   2. Proof by Mathematical Induction:) Tj
+T*
+(   - Base Step \(n = 1\):) Tj
+T*
+(   d\(u * v\) / dx = u_1 * v + u * v_1 = C\(1, 0\) * u_1 * v_0 + C\(1, 1\) * u_0 * v_1.) Tj
+T*
+(   Since C\(1, 0\) = 1 and C\(1, 1\) = 1, the formula holds for n = 1.) Tj
+T*
+(   - Inductive Hypothesis:) Tj
+T*
+(   Assume the theorem holds for a positive integer m:) Tj
+T*
+(   \(u * v\)_m = sum_{r=0}^m C\(m, r\) * u_{m-r} * v_r.) Tj
+T*
+(   - Inductive Step:) Tj
+T*
+(   Differentiate both sides with respect to x to compute \(u * v\)_{m+1}:) Tj
+T*
+(   \(u * v\)_{m+1} = d / dx [ sum_{r=0}^m C\(m, r\) * u_{m-r} * v_r ]) Tj
+T*
+(   = sum_{r=0}^m C\(m, r\) * [ u_{m-r+1} * v_r + u_{m-r} * v_{r+1} ].) Tj
+T*
+(   Split into two separate summations:) Tj
+T*
+(   S1 = sum_{r=0}^m C\(m, r\) * u_{m+1-r} * v_r) Tj
+T*
+(   = C\(m, 0\) * u_{m+1} * v_0 + sum_{r=1}^m C\(m, r\) * u_{m+1-r} * v_r.) Tj
+T*
+(   S2 = sum_{r=0}^m C\(m, r\) * u_{m-r} * v_{r+1}.) Tj
+T*
+(   Shift index in S2 by setting k = r + 1:) Tj
+T*
+(   S2 = sum_{k=1}^{m+1} C\(m, k-1\) * u_{m-\(k-1\)} * v_k) Tj
+T*
+(   = sum_{r=1}^m C\(m, r-1\) * u_{m+1-r} * v_r + C\(m, m\) * u_0 * v_{m+1}.) Tj
+T*
+(   Combine terms with the same derivatives for r = 1, 2, ..., m:) Tj
+T*
+(   The coefficient of u_{m+1-r} * v_r is: C\(m, r\) + C\(m, r-1\).) Tj
+T*
+(   By Pascal's Identity: C\(m, r\) + C\(m, r-1\) = C\(m+1, r\).) Tj
+T*
+(   Also: C\(m, 0\) = 1 = C\(m+1, 0\) and C\(m, m\) = 1 = C\(m+1, m+1\).) Tj
+T*
+(   Therefore:) Tj
+T*
+(   \(u * v\)_{m+1} = C\(m+1, 0\)*u_{m+1}*v_0 + sum_{r=1}^m C\(m+1, r\)*u_{m+1-r}*v_r + C\(m+1,) Tj
+T*
+(   m+1\)*u_0*v_{m+1}) Tj
+T*
+(   = sum_{r=0}^{m+1} C\(m+1, r\) * u_{m+1-r} * v_r.) Tj
+T*
+(   - Conclusion:) Tj
+T*
+(   The result holds for n = m + 1. By the principle of mathematical induction, the theorem is true) Tj
+T*
+(   for all positive integers n.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 2:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: If y = \(arcsin x\)^2, prove that: \(1 - x^2\) * y2 - x * y1 - 2 = 0. Hence, using Leibniz's theorem, establish that: \(1 - x^2\) * y_{n+2} - \(2n + 1\) * x * y_{n+1} - n^2 * y_n = 0.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Step 1: Differentiate y = \(arcsin x\)^2 once with respect to x:) Tj
+T*
+(   y1 = 2 * \(arcsin x\) * [1 / sqrt\(1 - x^2\)].) Tj
+T*
+(   Multiply both sides by sqrt\(1 - x^2\):) Tj
+T*
+(   sqrt\(1 - x^2\) * y1 = 2 * arcsin x.) Tj
+T*
+(   Step 2: Square both sides to eliminate the radical:) Tj
+T*
+(   \(1 - x^2\) * \(y1\)^2 = 4 * \(arcsin x\)^2 = 4 * y.) Tj
+T*
+ET
+
+endstream
+endobj
+27 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 28 0 R /Resources << /Font << /F1 67 0 R /F2 68 0 R >> >> >>
+endobj
+28 0 obj
+<< /Length 3787 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 2: DIFFERENTIAL CALCULUS AND APPLICATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 13 of 32) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   Step 3: Differentiate implicitly with respect to x:) Tj
+T*
+(   d/dx [ \(1 - x^2\) * \(y1\)^2 ] = d/dx [ 4 * y ]) Tj
+T*
+(   => \(1 - x^2\) * [ 2 * y1 * y2 ] + \(-2x\) * \(y1\)^2 = 4 * y1.) Tj
+T*
+(   Divide the entire equation by 2 * y1 \(assuming y1 != 0\):) Tj
+T*
+(   \(1 - x^2\) * y2 - x * y1 = 2) Tj
+T*
+(   => \(1 - x^2\) * y2 - x * y1 - 2 = 0. \(First result established\).) Tj
+T*
+(   Step 4: Differentiate n times using Leibniz's Theorem:) Tj
+T*
+(   Apply d^n/dx^n to each term:) Tj
+T*
+(   Term 1: d^n / dx^n [ \(1 - x^2\) * y2 ]:) Tj
+T*
+(   Here u = y2, v = 1 - x^2 \(v' = -2x, v'' = -2, v''' = 0\).) Tj
+T*
+(   = C\(n, 0\) * y_{n+2} * \(1 - x^2\) + C\(n, 1\) * y_{n+1} * \(-2x\) + C\(n, 2\) * y_n * \(-2\)) Tj
+T*
+(   = \(1 - x^2\) * y_{n+2} + n * \(-2x\) * y_{n+1} + [n\(n - 1\) / 2] * \(-2\) * y_n) Tj
+T*
+(   = \(1 - x^2\) * y_{n+2} - 2n * x * y_{n+1} - n\(n - 1\) * y_n.) Tj
+T*
+(   Term 2: d^n / dx^n [ -x * y1 ]:) Tj
+T*
+(   Here u = y1, v = -x \(v' = -1, v'' = 0\).) Tj
+T*
+(   = - [ C\(n, 0\) * y_{n+1} * x + C\(n, 1\) * y_n * 1 ]) Tj
+T*
+(   = -x * y_{n+1} - n * y_n.) Tj
+T*
+(   Term 3: d^n / dx^n [ -2 ] = 0 \(constant\).) Tj
+T*
+(   Step 5: Combine all terms:) Tj
+T*
+(   [ \(1 - x^2\) * y_{n+2} - 2n * x * y_{n+1} - n\(n - 1\) * y_n ] - [ x * y_{n+1} + n * y_n ] = 0) Tj
+T*
+(   => \(1 - x^2\) * y_{n+2} - \(2n + 1\) * x * y_{n+1} - [ n\(n - 1\) + n ] * y_n = 0) Tj
+T*
+(   => \(1 - x^2\) * y_{n+2} - \(2n + 1\) * x * y_{n+1} - [ n^2 - n + n ] * y_n = 0) Tj
+T*
+(   => \(1 - x^2\) * y_{n+2} - \(2n + 1\) * x * y_{n+1} - n^2 * y_n = 0.) Tj
+T*
+(   Hence proved.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 3:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Derive the general formula for the nth derivative of y = e^\(a*x\) * cos\(b*x + c\). Hence, compute the 5th derivative of y = e^\(2x\) * cos\(3x + 1\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Theoretical Derivation:) Tj
+T*
+(   Let y = e^\(a*x\) * cos\(b*x + c\).) Tj
+T*
+(   First derivative:) Tj
+T*
+(   y1 = a * e^\(a*x\) * cos\(b*x + c\) - b * e^\(a*x\) * sin\(b*x + c\)) Tj
+T*
+(   = e^\(a*x\) * [ a * cos\(b*x + c\) - b * sin\(b*x + c\) ].) Tj
+T*
+(   Put a = r * cos\(phi\) and b = r * sin\(phi\), where:) Tj
+T*
+(   r = sqrt\(a^2 + b^2\) and phi = arctan\(b / a\).) Tj
+T*
+(   Then:) Tj
+T*
+(   y1 = e^\(a*x\) * [ r * cos\(phi\) * cos\(b*x + c\) - r * sin\(phi\) * sin\(b*x + c\) ]) Tj
+T*
+(   = r * e^\(a*x\) * cos\(b*x + c + phi\).) Tj
+T*
+(   Second derivative:) Tj
+T*
+(   y2 = r * [ a * e^\(a*x\) * cos\(b*x + c + phi\) - b * e^\(a*x\) * sin\(b*x + c + phi\) ]) Tj
+T*
+(   = r^2 * e^\(a*x\) * cos\(b*x + c + 2*phi\).) Tj
+T*
+(   By induction, the nth derivative is:) Tj
+T*
+(   y_n = r^n * e^\(a*x\) * cos\(b*x + c + n*phi\),) Tj
+T*
+(   where r = \(a^2 + b^2\)^\(1/2\) and phi = arctan\(b / a\).) Tj
+T*
+(   Alternatively:) Tj
+T*
+(   y_n = \(a^2 + b^2\)^\(n / 2\) * e^\(a*x\) * cos\(b*x + c + n * arctan\(b / a\)\).) Tj
+T*
+(   2. Computation for y = e^\(2x\) * cos\(3x + 1\) with n = 5:) Tj
+T*
+(   - Identify constants: a = 2, b = 3, c = 1, n = 5.) Tj
+T*
+(   - r = sqrt\(2^2 + 3^2\) = sqrt\(4 + 9\) = sqrt\(13\) = 13^\(1/2\).) Tj
+T*
+(   - r^5 = \(13^\(1/2\)\)^5 = 13^\(5/2\) = 169 * sqrt\(13\) ~ 609.33.) Tj
+T*
+(   - phi = arctan\(3 / 2\) = arctan\(1.5\) ~ 0.9828 radians \(56.31 degrees\).) Tj
+T*
+(   - n * phi = 5 * 0.9828 = 4.914 radians.) Tj
+T*
+ET
+
+endstream
+endobj
+29 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 30 0 R /Resources << /Font << /F1 67 0 R /F2 68 0 R >> >> >>
+endobj
+30 0 obj
+<< /Length 3546 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 2: DIFFERENTIAL CALCULUS AND APPLICATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 14 of 32) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - Expression for 5th derivative:) Tj
+T*
+(   y_5 = 13^\(5/2\) * e^\(2x\) * cos\(3x + 1 + 5 * arctan\(1.5\)\)) Tj
+T*
+(   = 169 * sqrt\(13\) * e^\(2x\) * cos\(3x + 1 + 5 * arctan\(1.5\)\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 4:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: If y = arctan\(x\), prove that \(1 + x^2\) * y_{n+2} + 2\(n + 1\) * x * y_{n+1} + n\(n + 1\) * y_n = 0. Hence determine the value of y_n\(0\) for all positive integers n.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Step 1: First and second derivatives:) Tj
+T*
+(   y = arctan\(x\) => y1 = 1 / \(1 + x^2\) => \(1 + x^2\) * y1 = 1.) Tj
+T*
+(   Differentiate once more:) Tj
+T*
+(   \(1 + x^2\) * y2 + 2x * y1 = 0.) Tj
+T*
+(   Step 2: Differentiate n times using Leibniz's Rule:) Tj
+T*
+(   Apply d^n/dx^n:) Tj
+T*
+(   Term 1: d^n / dx^n [ \(1 + x^2\) * y2 ]) Tj
+T*
+(   = C\(n, 0\) * y_{n+2} * \(1 + x^2\) + C\(n, 1\) * y_{n+1} * \(2x\) + C\(n, 2\) * y_n * \(2\)) Tj
+T*
+(   = \(1 + x^2\) * y_{n+2} + 2n * x * y_{n+1} + n\(n - 1\) * y_n.) Tj
+T*
+(   Term 2: d^n / dx^n [ 2x * y1 ]) Tj
+T*
+(   = 2 * [ C\(n, 0\) * y_{n+1} * x + C\(n, 1\) * y_n * 1 ]) Tj
+T*
+(   = 2x * y_{n+1} + 2n * y_n.) Tj
+T*
+(   Step 3: Combine terms:) Tj
+T*
+(   \(1 + x^2\) * y_{n+2} + \(2n + 2\) * x * y_{n+1} + [ n\(n - 1\) + 2n ] * y_n = 0) Tj
+T*
+(   => \(1 + x^2\) * y_{n+2} + 2\(n + 1\) * x * y_{n+1} + n\(n + 1\) * y_n = 0. \(Proved\).) Tj
+T*
+(   Step 4: Evaluate y_n\(0\):) Tj
+T*
+(   Set x = 0 in the recurrence relation:) Tj
+T*
+(   y_{n+2}\(0\) + 0 + n\(n + 1\) * y_n\(0\) = 0) Tj
+T*
+(   => y_{n+2}\(0\) = -n\(n + 1\) * y_n\(0\).) Tj
+T*
+(   Initial values at x = 0:) Tj
+T*
+(   y\(0\) = arctan\(0\) = 0.) Tj
+T*
+(   y1\(0\) = 1 / \(1 + 0\) = 1.) Tj
+T*
+(   y2\(0\) = -2\(0\)*y1\(0\) / 1 = 0.) Tj
+T*
+(   For Even n:) Tj
+T*
+(   Since y\(0\) = 0 and y2\(0\) = 0, by induction:) Tj
+T*
+(   y_n\(0\) = 0 for all even positive integers n = 2, 4, 6, ...) Tj
+T*
+(   For Odd n \(let n = 2k + 1\):) Tj
+T*
+(   y1\(0\) = 1 = 0!) Tj
+T*
+(   y3\(0\) = -1\(2\) * y1\(0\) = -2! = \(-1\)^1 * 2!) Tj
+T*
+(   y5\(0\) = -3\(4\) * y3\(0\) = -12 * \(-2\) = +24 = 4! = \(-1\)^2 * 4!) Tj
+T*
+(   y7\(0\) = -5\(6\) * y5\(0\) = -30 * 24 = -720 = -6! = \(-1\)^3 * 6!) Tj
+T*
+(   In general, for odd n:) Tj
+T*
+(   y_n\(0\) = \(-1\)^\(\(n - 1\)/2\) * \(n - 1\)!.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 5:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: State Rolle's Theorem, give its geometrical interpretation, and provide a rigorous proof based on the Extreme Value Theorem.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Formal Statement of Rolle's Theorem:) Tj
+T*
+(   Let f: [a, b] -> R be a function satisfying three conditions:) Tj
+T*
+(   \(a\) f\(x\) is continuous on the closed interval [a, b].) Tj
+T*
+(   \(b\) f\(x\) is differentiable on the open interval \(a, b\).) Tj
+T*
+(   \(c\) f\(a\) = f\(b\).) Tj
+T*
+(   Then there exists at least one point c in the open interval \(a, b\) such that f'\(c\) = 0.) Tj
+T*
+ET
+
+endstream
+endobj
+31 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 32 0 R /Resources << /Font << /F1 67 0 R /F2 68 0 R >> >> >>
+endobj
+32 0 obj
+<< /Length 4223 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 2: DIFFERENTIAL CALCULUS AND APPLICATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 15 of 32) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   2. Geometrical Interpretation:) Tj
+T*
+(   - The graph of y = f\(x\) connects points A\(a, f\(a\)\) and B\(b, f\(b\)\) where both endpoints have) Tj
+T*
+(   identical heights \(f\(a\) = f\(b\)\).) Tj
+T*
+(   - The theorem asserts that if the curve is smooth \(no sharp corners\) and unbroken, there must) Tj
+T*
+(   be at least one point \(c, f\(c\)\) between A and B where the tangent line is horizontal \(parallel) Tj
+T*
+(   to the x-axis\).) Tj
+T*
+(   3. Rigorous Analytical Proof:) Tj
+T*
+(   - Since f\(x\) is continuous on the closed bounded interval [a, b], by the Weierstrass Extreme) Tj
+T*
+(   Value Theorem, f attains its global maximum M and global minimum m on [a, b]:) Tj
+T*
+(   M = max_{x in [a, b]} f\(x\), m = min_{x in [a, b]} f\(x\).) Tj
+T*
+(   - Case 1: M = m.) Tj
+T*
+(   Then f\(x\) is a constant function: f\(x\) = M for all x in [a, b].) Tj
+T*
+(   The derivative of a constant function is zero everywhere: f'\(x\) = 0 for all x in \(a, b\).) Tj
+T*
+(   Thus any point c in \(a, b\) satisfies f'\(c\) = 0.) Tj
+T*
+(   - Case 2: M != m.) Tj
+T*
+(   Since f\(a\) = f\(b\), at least one of M or m must be attained at an interior point c in \(a, b\).) Tj
+T*
+(   Without loss of generality, assume the maximum M is attained at c in \(a, b\), so f\(c\) >= f\(x\)) Tj
+T*
+(   for all x in [a, b].) Tj
+T*
+(   Since f is differentiable on \(a, b\), f'\(c\) exists and equals both one-sided limits:) Tj
+T*
+(   * Left-hand derivative: For h < 0 \(sufficiently small\):) Tj
+T*
+(   f\(c + h\) - f\(c\) <= 0 => [f\(c + h\) - f\(c\)] / h >= 0 \(since h < 0\).) Tj
+T*
+(   Taking limit h -> 0-: f'\(c\) >= 0.) Tj
+T*
+(   * Right-hand derivative: For h > 0 \(sufficiently small\):) Tj
+T*
+(   f\(c + h\) - f\(c\) <= 0 => [f\(c + h\) - f\(c\)] / h <= 0 \(since h > 0\).) Tj
+T*
+(   Taking limit h -> 0+: f'\(c\) <= 0.) Tj
+T*
+(   Since f'\(c\) exists:) Tj
+T*
+(   0 <= f'\(c\) <= 0 => f'\(c\) = 0.) Tj
+T*
+(   - Therefore, there exists c in \(a, b\) such that f'\(c\) = 0. \(Hence proved\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 6:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: State and prove Lagrange's Mean Value Theorem \(LMVT\). Use it to prove that for all x > 0: x / \(1 + x\) < ln\(1 + x\) < x.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Statement of LMVT:) Tj
+T*
+(   If a real function f\(x\) is continuous on [a, b] and differentiable on \(a, b\), then there exists) Tj
+T*
+(   at least one point c in \(a, b\) such that:) Tj
+T*
+(   f'\(c\) = [ f\(b\) - f\(a\) ] / \(b - a\),) Tj
+T*
+(   or equivalently: f\(b\) = f\(a\) + \(b - a\) * f'\(c\).) Tj
+T*
+(   2. Proof using Auxiliary Function:) Tj
+T*
+(   - Construct the function phi\(x\) = f\(x\) - k * x, where constant k is chosen such that phi\(a\) =) Tj
+T*
+(   phi\(b\):) Tj
+T*
+(   f\(a\) - k * a = f\(b\) - k * b => k * \(b - a\) = f\(b\) - f\(a\) => k = [ f\(b\) - f\(a\) ] / \(b - a\).) Tj
+T*
+(   - Verify conditions of Rolle's theorem for phi\(x\) on [a, b]:) Tj
+T*
+(   \(a\) phi\(x\) is continuous on [a, b] \(sum of continuous functions\).) Tj
+T*
+(   \(b\) phi\(x\) is differentiable on \(a, b\) \(sum of differentiable functions\).) Tj
+T*
+(   \(c\) phi\(a\) = phi\(b\) by construction.) Tj
+T*
+(   - By Rolle's Theorem, there exists c in \(a, b\) such that phi'\(c\) = 0:) Tj
+T*
+(   phi'\(c\) = f'\(c\) - k = 0 => f'\(c\) = k = [ f\(b\) - f\(a\) ] / \(b - a\). \(Proved\).) Tj
+T*
+(   3. Application: Proving x / \(1 + x\) < ln\(1 + x\) < x for x > 0:) Tj
+T*
+(   - Consider f\(t\) = ln\(1 + t\) on the interval [0, x] where x > 0.) Tj
+T*
+(   - f\(t\) is continuous on [0, x] and differentiable on \(0, x\) with f'\(t\) = 1 / \(1 + t\).) Tj
+T*
+(   - By LMVT: [ f\(x\) - f\(0\) ] / \(x - 0\) = f'\(c\) for some c in \(0, x\):) Tj
+T*
+(   [ ln\(1 + x\) - ln\(1\) ] / x = 1 / \(1 + c\)) Tj
+T*
+ET
+
+endstream
+endobj
+33 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 34 0 R /Resources << /Font << /F1 67 0 R /F2 68 0 R >> >> >>
+endobj
+34 0 obj
+<< /Length 3409 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 2: DIFFERENTIAL CALCULUS AND APPLICATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 16 of 32) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   => ln\(1 + x\) / x = 1 / \(1 + c\).) Tj
+T*
+(   - Since 0 < c < x:) Tj
+T*
+(   1 < 1 + c < 1 + x.) Tj
+T*
+(   - Inverting the inequality \(all terms positive\):) Tj
+T*
+(   1 / \(1 + x\) < 1 / \(1 + c\) < 1.) Tj
+T*
+(   - Substitute 1 / \(1 + c\) = ln\(1 + x\) / x:) Tj
+T*
+(   1 / \(1 + x\) < ln\(1 + x\) / x < 1.) Tj
+T*
+(   - Multiply throughout by x > 0:) Tj
+T*
+(   x / \(1 + x\) < ln\(1 + x\) < x. \(Proved\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 7:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: State and prove Cauchy's Mean Value Theorem \(CMVT\). Deduce Lagrange's Mean Value Theorem as a particular case.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Statement of Cauchy's Mean Value Theorem:) Tj
+T*
+(   Let f\(x\) and g\(x\) be two functions such that:) Tj
+T*
+(   \(a\) f\(x\) and g\(x\) are continuous on the closed interval [a, b].) Tj
+T*
+(   \(b\) f\(x\) and g\(x\) are differentiable on the open interval \(a, b\).) Tj
+T*
+(   \(c\) g'\(x\) != 0 for all x in \(a, b\).) Tj
+T*
+(   Then there exists at least one point c in \(a, b\) such that:) Tj
+T*
+(   [ f\(b\) - f\(a\) ] / [ g\(b\) - g\(a\) ] = f'\(c\) / g'\(c\).) Tj
+T*
+(   2. Proof of CMVT:) Tj
+T*
+(   - First, note that g\(b\) - g\(a\) != 0.) Tj
+T*
+(   If g\(b\) = g\(a\), by Rolle's Theorem there would exist xi in \(a, b\) with g'\(xi\) = 0,) Tj
+T*
+(   contradicting condition \(c\).) Tj
+T*
+(   - Define an auxiliary function F\(x\) on [a, b]:) Tj
+T*
+(   F\(x\) = f\(x\) - A * g\(x\),) Tj
+T*
+(   where constant A is chosen such that F\(a\) = F\(b\):) Tj
+T*
+(   f\(a\) - A * g\(a\) = f\(b\) - A * g\(b\)) Tj
+T*
+(   => A * [ g\(b\) - g\(a\) ] = f\(b\) - f\(a\)) Tj
+T*
+(   => A = [ f\(b\) - f\(a\) ] / [ g\(b\) - g\(a\) ].) Tj
+T*
+(   - F\(x\) satisfies Rolle's theorem on [a, b]:) Tj
+T*
+(   \(a\) F\(x\) is continuous on [a, b].) Tj
+T*
+(   \(b\) F\(x\) is differentiable on \(a, b\).) Tj
+T*
+(   \(c\) F\(a\) = F\(b\).) Tj
+T*
+(   - Therefore, there exists c in \(a, b\) such that F'\(c\) = 0:) Tj
+T*
+(   F'\(c\) = f'\(c\) - A * g'\(c\) = 0) Tj
+T*
+(   => A * g'\(c\) = f'\(c\)) Tj
+T*
+(   => A = f'\(c\) / g'\(c\) \(since g'\(c\) != 0\).) Tj
+T*
+(   - Equating the two expressions for A:) Tj
+T*
+(   [ f\(b\) - f\(a\) ] / [ g\(b\) - g\(a\) ] = f'\(c\) / g'\(c\). \(Proved\).) Tj
+T*
+(   3. Deduction of Lagrange's Theorem:) Tj
+T*
+(   - Set g\(x\) = x.) Tj
+T*
+(   - Then g'\(x\) = 1 != 0 everywhere, and g\(b\) - g\(a\) = b - a.) Tj
+T*
+(   - Substituting into CMVT:) Tj
+T*
+(   [ f\(b\) - f\(a\) ] / \(b - a\) = f'\(c\) / 1 = f'\(c\).) Tj
+T*
+(   - This is precisely Lagrange's Mean Value Theorem.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 8:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Derive Taylor's Theorem with Lagrange's and Cauchy's forms of remainder for a function of one variable.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+ET
+
+endstream
+endobj
+35 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 36 0 R /Resources << /Font << /F1 67 0 R /F2 68 0 R >> >> >>
+endobj
+36 0 obj
+<< /Length 4153 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 2: DIFFERENTIAL CALCULUS AND APPLICATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 17 of 32) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   1. Statement of Taylor's Theorem:) Tj
+T*
+(   Let f: [a, a + h] -> R be such that f, f', f'', ..., f^\(n-1\) are continuous on [a, a + h] and) Tj
+T*
+(   f^\(n\) exists on \(a, a + h\).) Tj
+T*
+(   Then:) Tj
+T*
+(   f\(a + h\) = f\(a\) + h * f'\(a\) + \(h^2 / 2!\) * f''\(a\) + ... + [ h^\(n-1\) / \(n - 1\)! ] * f^\(n-1\)\(a\) +) Tj
+T*
+(   R_n,) Tj
+T*
+(   where R_n is the Remainder term after n terms.) Tj
+T*
+(   2. Derivation using Auxiliary Function:) Tj
+T*
+(   - For x in [a, a + h], define:) Tj
+T*
+(   phi\(x\) = f\(a + h\) - [ f\(x\) + \(a + h - x\)*f'\(x\) + \(\(a + h - x\)^2 / 2!\)*f''\(x\) + ... + \(\(a + h -) Tj
+T*
+(   x\)^\(n-1\) / \(n-1\)!\)*f^\(n-1\)\(x\) ].) Tj
+T*
+(   - Note that at x = a + h, all terms vanish except f\(a + h\) - f\(a + h\) = 0, so phi\(a + h\) = 0.) Tj
+T*
+(   - At x = a, phi\(a\) = R_n.) Tj
+T*
+(   - Differentiate phi\(x\) with respect to x \(terms telescope pairwise\):) Tj
+T*
+(   phi'\(x\) = -f'\(x\) - [ -f'\(x\) + \(a+h-x\)*f''\(x\) ] - [ -\(a+h-x\)*f''\(x\) + \(\(a+h-x\)^2/2!\)*f'''\(x\) ] -) Tj
+T*
+(   ...) Tj
+T*
+(   = - [ \(a + h - x\)^\(n-1\) / \(n - 1\)! ] * f^\(n\)\(x\).) Tj
+T*
+(   - Now choose another function psi\(x\) = \(a + h - x\)^p, where p >= 1 is an integer.) Tj
+T*
+(   Then psi\(a + h\) = 0, psi\(a\) = h^p, and psi'\(x\) = -p * \(a + h - x\)^\(p - 1\).) Tj
+T*
+(   - Apply Cauchy's Mean Value Theorem to phi\(x\) and psi\(x\) on [a, a + h]:) Tj
+T*
+(   [ phi\(a + h\) - phi\(a\) ] / [ psi\(a + h\) - psi\(a\) ] = phi'\(c\) / psi'\(c\) for some c in \(a, a + h\).) Tj
+T*
+(   [ 0 - R_n ] / [ 0 - h^p ] = R_n / h^p = [ - \(\(a + h - c\)^\(n-1\) / \(n - 1\)!\) * f^\(n\)\(c\) ] / [ -p) Tj
+T*
+(   * \(a + h - c\)^\(p - 1\) ]) Tj
+T*
+(   => R_n = [ h^p / \(p * \(n - 1\)!\) ] * \(a + h - c\)^\(n - p\) * f^\(n\)\(c\).) Tj
+T*
+(   - Write c = a + theta * h, where 0 < theta < 1. Then a + h - c = h * \(1 - theta\).) Tj
+T*
+(   General Schlomilch-Roche Remainder:) Tj
+T*
+(   R_n = [ h^n * \(1 - theta\)^\(n - p\) / \(p * \(n - 1\)!\) ] * f^\(n\)\(a + theta * h\).) Tj
+T*
+(   3. Deduction of Specific Remainder Forms:) Tj
+T*
+(   - Lagrange's Form of Remainder \(set p = n\):) Tj
+T*
+(   R_n = [ h^n / n! ] * f^\(n\)\(a + theta * h\), where 0 < theta < 1.) Tj
+T*
+(   - Cauchy's Form of Remainder \(set p = 1\):) Tj
+T*
+(   R_n = [ h^n * \(1 - theta\)^\(n - 1\) / \(n - 1\)! ] * f^\(n\)\(a + theta * h\), where 0 < theta < 1.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 9:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Expand ln\(1 + x\) and e^x in Maclaurin series with remainder, state their intervals of convergence, and estimate the error when approximating e by its first 5 terms.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Maclaurin Series for e^x:) Tj
+T*
+(   - f\(x\) = e^x => f^\(n\)\(x\) = e^x for all n >= 0.) Tj
+T*
+(   - f^\(n\)\(0\) = 1 for all n.) Tj
+T*
+(   - Maclaurin expansion:) Tj
+T*
+(   e^x = 1 + x + x^2/2! + x^3/3! + ... + x^n/n! + R_n\(x\),) Tj
+T*
+(   where Lagrange remainder R_n\(x\) = [ x^n / n! ] * e^\(theta * x\), with 0 < theta < 1.) Tj
+T*
+(   - Since lim_{n -> infinity} x^n / n! = 0 for any real x, the series converges for all x in) Tj
+T*
+(   \(-infinity, infinity\).) Tj
+T*
+(   2. Error Estimation for e = e^1 using first 5 terms \(n = 5\):) Tj
+T*
+(   - Approximating polynomial: P_4\(1\) = 1 + 1 + 1/2! + 1/3! + 1/4! = 1 + 1 + 0.5 + 0.16667 +) Tj
+T*
+(   0.04167 = 2.70833.) Tj
+T*
+(   - Remainder R_5\(1\) = [ 1^5 / 5! ] * e^theta = \(1 / 120\) * e^theta, where 0 < theta < 1.) Tj
+T*
+(   - Since e^theta < e^1 < 3:) Tj
+T*
+(   Error |R_5\(1\)| < 3 / 120 = 0.025.) Tj
+T*
+(   - Exact e = 2.71828; actual error is |2.71828 - 2.70833| = 0.00995 < 0.025.) Tj
+T*
+(   3. Maclaurin Series for ln\(1 + x\):) Tj
+T*
+ET
+
+endstream
+endobj
+37 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 38 0 R /Resources << /Font << /F1 67 0 R /F2 68 0 R >> >> >>
+endobj
+38 0 obj
+<< /Length 3849 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 2: DIFFERENTIAL CALCULUS AND APPLICATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 18 of 32) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - f\(x\) = ln\(1 + x\) => f\(0\) = 0.) Tj
+T*
+(   - f'\(x\) = \(1 + x\)^-1 => f'\(0\) = 1.) Tj
+T*
+(   - f''\(x\) = -\(1 + x\)^-2 => f''\(0\) = -1.) Tj
+T*
+(   - f'''\(x\) = 2!\(1 + x\)^-3 => f'''\(0\) = 2!.) Tj
+T*
+(   - In general: f^\(n\)\(0\) = \(-1\)^\(n - 1\) * \(n - 1\)!.) Tj
+T*
+(   - Maclaurin series:) Tj
+T*
+(   ln\(1 + x\) = x - x^2/2 + x^3/3 - x^4/4 + ... + \(-1\)^\(n - 1\) * \(x^n / n\) + ...) Tj
+T*
+(   - Interval of Convergence:) Tj
+T*
+(   Ratio test: lim |a_{n+1} / a_n| = |x| < 1.) Tj
+T*
+(   At x = 1: 1 - 1/2 + 1/3 - 1/4 + ... \(converges by alternating series test to ln 2\).) Tj
+T*
+(   At x = -1: -\(1 + 1/2 + 1/3 + ...\) \(diverges, harmonic series\).) Tj
+T*
+(   Interval of convergence is: -1 < x <= 1.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 10:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Prove L'Hopital's Rule for the indeterminate form 0/0 using Cauchy's Mean Value Theorem. Evaluate: lim_{x -> 0} [ \(e^x - e^\(-x\) - 2x\) / \(x - sin x\) ].) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Proof of L'Hopital's Rule \(0/0 form\):) Tj
+T*
+(   - Let f and g be functions differentiable on an open interval containing a \(except possibly at) Tj
+T*
+(   a\), such that:) Tj
+T*
+(   lim_{x -> a} f\(x\) = 0 and lim_{x -> a} g\(x\) = 0, with g'\(x\) != 0 for x != a.) Tj
+T*
+(   - Extend f and g to be continuous at x = a by defining f\(a\) = 0 and g\(a\) = 0.) Tj
+T*
+(   - For any x > a \(the case x < a is symmetric\), f and g are continuous on [a, x] and) Tj
+T*
+(   differentiable on \(a, x\).) Tj
+T*
+(   - By Cauchy's Mean Value Theorem, there exists c in \(a, x\) such that:) Tj
+T*
+(   [ f\(x\) - f\(a\) ] / [ g\(x\) - g\(a\) ] = f'\(c\) / g'\(c\).) Tj
+T*
+(   - Since f\(a\) = 0 and g\(a\) = 0:) Tj
+T*
+(   f\(x\) / g\(x\) = f'\(c\) / g'\(c\).) Tj
+T*
+(   - As x -> a+, since a < c < x, the squeeze theorem forces c -> a+.) Tj
+T*
+(   - If lim_{t -> a} f'\(t\) / g'\(t\) = L exists, then:) Tj
+T*
+(   lim_{x -> a} f\(x\) / g\(x\) = lim_{c -> a} f'\(c\) / g'\(c\) = L. \(Hence proved\).) Tj
+T*
+(   2. Step-by-Step Evaluation of lim_{x -> 0} [ \(e^x - e^\(-x\) - 2x\) / \(x - sin x\) ]:) Tj
+T*
+(   - At x = 0: Numerator = 1 - 1 - 0 = 0. Denominator = 0 - 0 = 0. \(Form 0/0\).) Tj
+T*
+(   - Apply L'Hopital's Rule \(Differentiate numerator and denominator\):) Tj
+T*
+(   L = lim_{x -> 0} [ \(e^x + e^\(-x\) - 2\) / \(1 - cos x\) ].) Tj
+T*
+(   At x = 0: Num = 1 + 1 - 2 = 0; Den = 1 - 1 = 0. \(Form 0/0\).) Tj
+T*
+(   - Apply L'Hopital's Rule second time:) Tj
+T*
+(   L = lim_{x -> 0} [ \(e^x - e^\(-x\)\) / \(sin x\) ].) Tj
+T*
+(   At x = 0: Num = 1 - 1 = 0; Den = 0. \(Form 0/0\).) Tj
+T*
+(   - Apply L'Hopital's Rule third time:) Tj
+T*
+(   L = lim_{x -> 0} [ \(e^x + e^\(-x\)\) / \(cos x\) ].) Tj
+T*
+(   - Now substitute x = 0:) Tj
+T*
+(   Num = e^0 + e^0 = 1 + 1 = 2.) Tj
+T*
+(   Den = cos\(0\) = 1.) Tj
+T*
+(   - Final Limit:) Tj
+T*
+(   L = 2 / 1 = 2.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 11:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Evaluate the following indeterminate limits: \(i\) lim_{x -> 0} [ \(tan x - x\) / x^3 ], \(ii\) lim_{x -> 0} [ \(1 / x^2\) - \(1 / sin^2 x\) ].) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Part \(i\): Evaluate L1 = lim_{x -> 0} [ \(tan x - x\) / x^3 ] \(Form 0/0\):) Tj
+T*
+ET
+
+endstream
+endobj
+39 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 40 0 R /Resources << /Font << /F1 67 0 R /F2 68 0 R >> >> >>
+endobj
+40 0 obj
+<< /Length 3632 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 2: DIFFERENTIAL CALCULUS AND APPLICATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 19 of 32) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - Method 1: Using Maclaurin series of tan x:) Tj
+T*
+(   tan x = x + x^3/3 + 2x^5/15 + O\(x^7\).) Tj
+T*
+(   tan x - x = x^3/3 + 2x^5/15 + ...) Tj
+T*
+(   Therefore:) Tj
+T*
+(   L1 = lim_{x -> 0} [ \(x^3/3 + 2x^5/15 + ...\) / x^3 ] = lim_{x -> 0} [ 1/3 + 2x^2/15 + ... ] =) Tj
+T*
+(   1/3.) Tj
+T*
+(   - Method 2: By L'Hopital's Rule:) Tj
+T*
+(   L1 = lim_{x -> 0} [ \(sec^2 x - 1\) / \(3x^2\) ] = lim_{x -> 0} [ tan^2 x / \(3x^2\) ]) Tj
+T*
+(   = \(1/3\) * [ lim_{x -> 0} \(tan x / x\) ]^2 = \(1/3\) * \(1\)^2 = 1/3.) Tj
+T*
+(   2. Part \(ii\): Evaluate L2 = lim_{x -> 0} [ \(1 / x^2\) - \(1 / sin^2 x\) ] \(Form infinity -) Tj
+T*
+(   infinity\):) Tj
+T*
+(   - Combine into a single fraction:) Tj
+T*
+(   L2 = lim_{x -> 0} [ \(sin^2 x - x^2\) / \(x^2 * sin^2 x\) ].) Tj
+T*
+(   - Factor the numerator as a difference of squares:) Tj
+T*
+(   sin^2 x - x^2 = \(sin x - x\) * \(sin x + x\).) Tj
+T*
+(   - Replace sin^2 x in denominator with x^2 using standard limit lim_{x -> 0} \(sin x / x\) = 1:) Tj
+T*
+(   x^2 * sin^2 x = x^4 * \(sin x / x\)^2 ~ x^4.) Tj
+T*
+(   - Rewrite limit:) Tj
+T*
+(   L2 = lim_{x -> 0} [ \(sin x - x\) / x^3 ] * [ \(sin x + x\) / x ].) Tj
+T*
+(   - Evaluate each factor:) Tj
+T*
+(   Factor 1: lim_{x -> 0} \(sin x - x\) / x^3:) Tj
+T*
+(   sin x = x - x^3/6 + x^5/120 - ... => \(sin x - x\)/x^3 = -1/6 + x^2/120 - ...) Tj
+T*
+(   lim = -1/6.) Tj
+T*
+(   Factor 2: lim_{x -> 0} \(sin x + x\) / x = lim \(sin x / x + 1\) = 1 + 1 = 2.) Tj
+T*
+(   - Multiply the two limits:) Tj
+T*
+(   L2 = \(-1/6\) * 2 = -2/6 = -1/3.) Tj
+T*
+(   Conclusion:) Tj
+T*
+(   \(i\) Limit = 1/3.) Tj
+T*
+(   \(ii\) Limit = -1/3.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 12:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Evaluate the exponential indeterminate limits: \(i\) lim_{x -> 0} \(sin x / x\)^\(1 / x^2\) [Form 1^infinity], \(ii\) lim_{x -> 0+} x^\(sin x\) [Form 0^0].) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Part \(i\): Evaluate L = lim_{x -> 0} \(sin x / x\)^\(1 / x^2\):) Tj
+T*
+(   - Since lim_{x -> 0} \(sin x / x\) = 1 and lim 1/x^2 = infinity, this is of indeterminate form) Tj
+T*
+(   1^infinity.) Tj
+T*
+(   - Take natural logarithm:) Tj
+T*
+(   ln L = lim_{x -> 0} ln [ \(sin x / x\)^\(1 / x^2\) ] = lim_{x -> 0} [ ln\(sin x / x\) / x^2 ] \(Form) Tj
+T*
+(   0/0\).) Tj
+T*
+(   - Use Taylor series expansion of sin x / x:) Tj
+T*
+(   sin x / x = [ x - x^3/6 + x^5/120 - ... ] / x = 1 - x^2/6 + x^4/120 - ...) Tj
+T*
+(   - Now use ln\(1 + u\) = u - u^2/2 + ... where u = -x^2/6 + x^4/120:) Tj
+T*
+(   ln\(sin x / x\) = \(-x^2/6 + x^4/120\) - \(1/2\)*\(-x^2/6\)^2 + ... = -x^2/6 + O\(x^4\).) Tj
+T*
+(   - Substitute into limit:) Tj
+T*
+(   ln L = lim_{x -> 0} [ \( -x^2/6 + O\(x^4\) \) / x^2 ] = lim_{x -> 0} [ -1/6 + O\(x^2\) ] = -1/6.) Tj
+T*
+(   - Exponentiate to obtain L:) Tj
+T*
+(   L = e^\(ln L\) = e^\(-1/6\) = 1 / e^\(1/6\).) Tj
+T*
+(   2. Part \(ii\): Evaluate L = lim_{x -> 0+} x^\(sin x\):) Tj
+T*
+(   - At x = 0+: base -> 0, exponent -> 0 \(Form 0^0\).) Tj
+T*
+(   - Take natural logarithm:) Tj
+T*
+(   ln L = lim_{x -> 0+} ln\(x^\(sin x\)\) = lim_{x -> 0+} [ sin x * ln x ] \(Form 0 * \(-infinity\)\).) Tj
+T*
+(   - Convert to 0/0 or infinity/infinity form:) Tj
+T*
+ET
+
+endstream
+endobj
+41 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 42 0 R /Resources << /Font << /F1 67 0 R /F2 68 0 R >> >> >>
+endobj
+42 0 obj
+<< /Length 3743 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 2: DIFFERENTIAL CALCULUS AND APPLICATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 20 of 32) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   ln L = lim_{x -> 0+} [ ln x / csc x ] \(Form -infinity / infinity\).) Tj
+T*
+(   - Apply L'Hopital's Rule:) Tj
+T*
+(   d/dx [ln x] = 1/x) Tj
+T*
+(   d/dx [csc x] = -csc x * cot x = -cos x / sin^2 x.) Tj
+T*
+(   ln L = lim_{x -> 0+} [ \(1/x\) / \(-cos x / sin^2 x\) ]) Tj
+T*
+(   = lim_{x -> 0+} [ - sin^2 x / \(x * cos x\) ]) Tj
+T*
+(   = - [ lim_{x -> 0+} \(sin x / x\) ] * [ lim_{x -> 0+} \(sin x / cos x\) ]) Tj
+T*
+(   = - \(1\) * \(0 / 1\) = 0.) Tj
+T*
+(   - Exponentiate:) Tj
+T*
+(   L = e^\(ln L\) = e^0 = 1.) Tj
+T*
+(   Conclusion:) Tj
+T*
+(   \(i\) Limit = e^\(-1/6\).) Tj
+T*
+(   \(ii\) Limit = 1.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 13:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Define curvature kappa and radius of curvature rho. Starting from the intrinsic definition kappa = dpsi / ds, rigorously derive the Cartesian formula: rho = [ 1 + \(y'\)^2 ]^\(3/2\) / |y''|.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Definitions:) Tj
+T*
+(   - Let C be a smooth plane curve y = f\(x\). Let P be a point on C with arc length s measured from) Tj
+T*
+(   a fixed reference point.) Tj
+T*
+(   - Let psi be the angle that the tangent line at P makes with the positive x-axis.) Tj
+T*
+(   - The Curvature kappa is defined as the instantaneous rate of change of tangent inclination) Tj
+T*
+(   angle psi with respect to arc length s:) Tj
+T*
+(   kappa = dpsi / ds.) Tj
+T*
+(   - The Radius of Curvature rho is defined as the reciprocal of curvature:) Tj
+T*
+(   rho = 1 / |kappa| = |ds / dpsi|.) Tj
+T*
+(   2. Step-by-Step Derivation of Cartesian Formula:) Tj
+T*
+(   - Step 1: Relation between tangent slope and psi:) Tj
+T*
+(   Slope y' = dy / dx = tan\(psi\).) Tj
+T*
+(   - Step 2: Differentiate both sides with respect to x:) Tj
+T*
+(   y'' = d^2 y / dx^2 = d/dx [ tan\(psi\) ] = sec^2\(psi\) * \(dpsi / dx\).) Tj
+T*
+(   - Step 3: By the chain rule, relate dpsi/dx to arc length s:) Tj
+T*
+(   dpsi / dx = \(dpsi / ds\) * \(ds / dx\).) Tj
+T*
+(   Substitute this into Step 2:) Tj
+T*
+(   y'' = sec^2\(psi\) * \(dpsi / ds\) * \(ds / dx\).) Tj
+T*
+(   - Step 4: Arc length differential:) Tj
+T*
+(   \(ds\)^2 = \(dx\)^2 + \(dy\)^2 => ds / dx = sqrt\(1 + \(dy/dx\)^2\) = sqrt\(1 + \(y'\)^2\).) Tj
+T*
+(   - Step 5: Express sec^2\(psi\) in terms of y':) Tj
+T*
+(   sec^2\(psi\) = 1 + tan^2\(psi\) = 1 + \(y'\)^2.) Tj
+T*
+(   - Step 6: Substitute sec^2\(psi\) and ds/dx into the equation for y'':) Tj
+T*
+(   y'' = [ 1 + \(y'\)^2 ] * \(dpsi / ds\) * sqrt\(1 + \(y'\)^2\)) Tj
+T*
+(   = [ 1 + \(y'\)^2 ]^\(3/2\) * \(dpsi / ds\).) Tj
+T*
+(   - Step 7: Solve for dpsi / ds = kappa:) Tj
+T*
+(   kappa = dpsi / ds = y'' / [ 1 + \(y'\)^2 ]^\(3/2\).) Tj
+T*
+(   - Step 8: Compute radius of curvature rho = |1 / kappa|:) Tj
+T*
+(   rho = [ 1 + \(y'\)^2 ]^\(3/2\) / |y''|. \(Hence proved\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 14:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Derive the formula for the radius of curvature in parametric form: rho = \(x'^2 + y'^2\)^\(3/2\) / |x' * y'' - y' * x''|. Find the radius of curvature for the cycloid x = a\(theta - sin theta\), y = a\(1 - cos theta\) at any point theta.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+ET
+
+endstream
+endobj
+43 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 44 0 R /Resources << /Font << /F1 67 0 R /F2 68 0 R >> >> >>
+endobj
+44 0 obj
+<< /Length 3775 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 2: DIFFERENTIAL CALCULUS AND APPLICATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 21 of 32) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   1. Derivation of Parametric Formula:) Tj
+T*
+(   - Let x = x\(t\), y = y\(t\). Denote derivatives with respect to t by dots or primes:) Tj
+T*
+(   y1 = dy / dx = \(dy/dt\) / \(dx/dt\) = y' / x'.) Tj
+T*
+(   - Compute second derivative y2 = d^2 y / dx^2:) Tj
+T*
+(   y2 = d/dx [ y' / x' ] = \(d/dt [ y' / x' ]\) / \(dx / dt\)) Tj
+T*
+(   = [ \(x' * y'' - y' * x''\) / \(x'\)^2 ] / x') Tj
+T*
+(   = \(x' * y'' - y' * x''\) / \(x'\)^3.) Tj
+T*
+(   - Substitute y1 and y2 into the Cartesian curvature formula rho = [ 1 + y1^2 ]^\(3/2\) / |y2|:) Tj
+T*
+(   1 + y1^2 = 1 + \(y'/x'\)^2 = [ \(x'\)^2 + \(y'\)^2 ] / \(x'\)^2.) Tj
+T*
+(   [ 1 + y1^2 ]^\(3/2\) = [ \(x'\)^2 + \(y'\)^2 ]^\(3/2\) / \(x'\)^3.) Tj
+T*
+(   - Divide by |y2|:) Tj
+T*
+(   rho = [ [ \(x'\)^2 + \(y'\)^2 ]^\(3/2\) / \(x'\)^3 ] / [ |x' * y'' - y' * x''| / \(x'\)^3 ]) Tj
+T*
+(   = [ \(x'\)^2 + \(y'\)^2 ]^\(3/2\) / |x' * y'' - y' * x''|. \(Proved\).) Tj
+T*
+(   2. Radius of Curvature of the Cycloid:) Tj
+T*
+(   x = a*\(theta - sin theta\), y = a*\(1 - cos theta\).) Tj
+T*
+(   - First derivatives with respect to theta:) Tj
+T*
+(   x' = a*\(1 - cos theta\) = 2a * sin^2\(theta / 2\).) Tj
+T*
+(   y' = a * sin\(theta\) = 2a * sin\(theta / 2\) * cos\(theta / 2\).) Tj
+T*
+(   - Second derivatives:) Tj
+T*
+(   x'' = a * sin\(theta\).) Tj
+T*
+(   y'' = a * cos\(theta\).) Tj
+T*
+(   - Compute \(x'\)^2 + \(y'\)^2:) Tj
+T*
+(   \(x'\)^2 + \(y'\)^2 = a^2 * [ \(1 - cos theta\)^2 + sin^2\(theta\) ]) Tj
+T*
+(   = a^2 * [ 1 - 2*cos theta + cos^2 theta + sin^2 theta ]) Tj
+T*
+(   = a^2 * [ 2 - 2*cos theta ] = 2*a^2 * \(1 - cos theta\)) Tj
+T*
+(   = 4*a^2 * sin^2\(theta / 2\).) Tj
+T*
+(   Therefore: [ \(x'\)^2 + \(y'\)^2 ]^\(3/2\) = [ 4*a^2 * sin^2\(theta / 2\) ]^\(3/2\) = 8*a^3 * sin^3\(theta) Tj
+T*
+(   / 2\).) Tj
+T*
+(   - Compute \(x' * y'' - y' * x''\):) Tj
+T*
+(   x' * y'' = a*\(1 - cos theta\) * a*cos theta = a^2 * \(cos theta - cos^2 theta\).) Tj
+T*
+(   y' * x'' = a*sin theta * a*sin theta = a^2 * sin^2 theta.) Tj
+T*
+(   x' * y'' - y' * x'' = a^2 * [ cos theta - \(cos^2 theta + sin^2 theta\) ] = a^2 * \(cos theta - 1\)) Tj
+T*
+(   = - a^2 * \(1 - cos theta\) = - 2*a^2 * sin^2\(theta / 2\).) Tj
+T*
+(   Magnitude = 2*a^2 * sin^2\(theta / 2\).) Tj
+T*
+(   - Calculate rho:) Tj
+T*
+(   rho = [ 8*a^3 * sin^3\(theta / 2\) ] / [ 2*a^2 * sin^2\(theta / 2\) ]) Tj
+T*
+(   = 4a * sin\(theta / 2\).) Tj
+T*
+(   Conclusion:) Tj
+T*
+(   For the cycloid, rho = 4a * sin\(theta / 2\) = 2 * sqrt\(2 * a * y\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 15:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Derive the polar coordinate formula for radius of curvature: rho = \(r^2 + r'^2\)^\(3/2\) / |r^2 + 2*r'^2 - r * r''|. Find rho for the cardioid r = a*\(1 + cos theta\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Derivation of Polar Formula:) Tj
+T*
+(   - Parametric representation in polar coordinates: x = r * cos theta, y = r * sin theta, where r) Tj
+T*
+(   = r\(theta\).) Tj
+T*
+(   - Derivatives with respect to theta \(denoted by primes\):) Tj
+T*
+(   x' = r' * cos theta - r * sin theta) Tj
+T*
+(   y' = r' * sin theta + r * cos theta.) Tj
+T*
+(   - Sum of squares:) Tj
+T*
+(   \(x'\)^2 + \(y'\)^2 = \(r' cos theta - r sin theta\)^2 + \(r' sin theta + r cos theta\)^2) Tj
+T*
+(   = \(r'\)^2 * \(cos^2 theta + sin^2 theta\) + r^2 * \(sin^2 theta + cos^2 theta\)) Tj
+T*
+ET
+
+endstream
+endobj
+45 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 46 0 R /Resources << /Font << /F1 67 0 R /F2 68 0 R >> >> >>
+endobj
+46 0 obj
+<< /Length 3840 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 2: DIFFERENTIAL CALCULUS AND APPLICATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 22 of 32) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   = r^2 + \(r'\)^2.) Tj
+T*
+(   Numerator = [ \(x'\)^2 + \(y'\)^2 ]^\(3/2\) = [ r^2 + \(r'\)^2 ]^\(3/2\).) Tj
+T*
+(   - Second derivatives:) Tj
+T*
+(   x'' = r'' cos theta - 2 r' sin theta - r cos theta) Tj
+T*
+(   y'' = r'' sin theta + 2 r' cos theta - r sin theta.) Tj
+T*
+(   - Denominator term x' * y'' - y' * x'':) Tj
+T*
+(   Multiplying and using trigonometric identities simplifies to:) Tj
+T*
+(   x' * y'' - y' * x'' = r^2 + 2*\(r'\)^2 - r * r''.) Tj
+T*
+(   - Hence: rho = [ r^2 + \(r'\)^2 ]^\(3/2\) / |r^2 + 2*\(r'\)^2 - r * r''|. \(Proved\).) Tj
+T*
+(   2. Radius of Curvature for Cardioid r = a*\(1 + cos theta\):) Tj
+T*
+(   - r = a*\(1 + cos theta\).) Tj
+T*
+(   - r' = -a * sin theta.) Tj
+T*
+(   - r'' = -a * cos theta.) Tj
+T*
+(   - Compute r^2 + \(r'\)^2:) Tj
+T*
+(   r^2 + \(r'\)^2 = a^2 * \(1 + cos theta\)^2 + a^2 * sin^2 theta) Tj
+T*
+(   = a^2 * [ 1 + 2*cos theta + cos^2 theta + sin^2 theta ]) Tj
+T*
+(   = a^2 * [ 2 + 2*cos theta ] = 2*a^2 * \(1 + cos theta\)) Tj
+T*
+(   = 4*a^2 * cos^2\(theta / 2\).) Tj
+T*
+(   Numerator = [ 4*a^2 * cos^2\(theta / 2\) ]^\(3/2\) = 8*a^3 * cos^3\(theta / 2\).) Tj
+T*
+(   - Compute Denominator: r^2 + 2*\(r'\)^2 - r * r'':) Tj
+T*
+(   r^2 = a^2 * \(1 + 2*cos theta + cos^2 theta\)) Tj
+T*
+(   2*\(r'\)^2 = 2*a^2 * sin^2 theta) Tj
+T*
+(   -r * r'' = - [ a*\(1 + cos theta\) ] * [ -a * cos theta ] = a^2 * \(cos theta + cos^2 theta\)) Tj
+T*
+(   Sum = a^2 * [ 1 + 2*cos theta + cos^2 theta + 2*sin^2 theta + cos theta + cos^2 theta ]) Tj
+T*
+(   = a^2 * [ 1 + 3*cos theta + 2*\(cos^2 theta + sin^2 theta\) ]) Tj
+T*
+(   = a^2 * [ 1 + 3*cos theta + 2 ] = 3*a^2 * \(1 + cos theta\)) Tj
+T*
+(   = 6*a^2 * cos^2\(theta / 2\).) Tj
+T*
+(   - Evaluate rho:) Tj
+T*
+(   rho = [ 8*a^3 * cos^3\(theta / 2\) ] / [ 6*a^2 * cos^2\(theta / 2\) ]) Tj
+T*
+(   = \(4/3\) * a * cos\(theta / 2\).) Tj
+T*
+(   - Express in terms of r:) Tj
+T*
+(   Since r = 2a * cos^2\(theta / 2\) => cos\(theta / 2\) = sqrt\(r / \(2a\)\):) Tj
+T*
+(   rho = \(4/3\) * a * sqrt\(r / \(2a\)\) = \(2/3\) * sqrt\(2 * a * r\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 16:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Derive the pedal formula for the radius of curvature: rho = r * \(dr / dp\). Apply this formula to find the radius of curvature of the equiangular spiral r = a * e^\(theta * cot alpha\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Derivation of Pedal Formula:) Tj
+T*
+(   - In polar coordinates, let P\(r, theta\) be a point on a curve, O be the pole, and p be the) Tj
+T*
+(   length of the perpendicular from the pole O to the tangent at P.) Tj
+T*
+(   - Let phi be the angle between the radius vector OP and the tangent at P:) Tj
+T*
+(   p = r * sin\(phi\).) Tj
+T*
+(   - Differentiate with respect to r:) Tj
+T*
+(   dp / dr = sin\(phi\) + r * cos\(phi\) * \(dphi / dr\).) Tj
+T*
+(   - We know from polar differential geometry:) Tj
+T*
+(   tan\(phi\) = r * \(dtheta / dr\) => sin\(phi\) = r * \(dtheta / ds\), cos\(phi\) = dr / ds.) Tj
+T*
+(   - Also, psi = theta + phi => dpsi / ds = dtheta / ds + dphi / ds.) Tj
+T*
+(   - Multiply dp/dr by dr/ds:) Tj
+T*
+(   \(dp / dr\) * \(dr / ds\) = [ sin\(phi\) + r * cos\(phi\) * \(dphi / dr\) ] * \(dr / ds\)) Tj
+T*
+(   dp / ds = sin\(phi\) * \(dr / ds\) + r * cos\(phi\) * \(dphi / ds\).) Tj
+T*
+(   Substitute standard relations:) Tj
+T*
+(   dp / ds = r * \(dtheta / ds\) * \(dr / ds\) + r * \(dr / ds\) * \(dphi / ds\)) Tj
+T*
+ET
+
+endstream
+endobj
+47 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 48 0 R /Resources << /Font << /F1 67 0 R /F2 68 0 R >> >> >>
+endobj
+48 0 obj
+<< /Length 3557 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 2: DIFFERENTIAL CALCULUS AND APPLICATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 23 of 32) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   = r * \(dr / ds\) * [ dtheta / ds + dphi / ds ]) Tj
+T*
+(   = r * \(dr / ds\) * \(dpsi / ds\)) Tj
+T*
+(   = \(r / rho\) * \(dr / ds\).) Tj
+T*
+(   Divide both sides by dr / ds:) Tj
+T*
+(   dp / dr = r / rho => rho = r * \(dr / dp\). \(Proved\).) Tj
+T*
+(   2. Application to Equiangular Spiral:) Tj
+T*
+(   r = a * e^\(theta * cot alpha\).) Tj
+T*
+(   - Take natural logarithm: ln r = ln a + theta * cot alpha.) Tj
+T*
+(   - Differentiate with respect to theta:) Tj
+T*
+(   \(1 / r\) * \(dr / dtheta\) = cot alpha => dr / dtheta = r * cot alpha.) Tj
+T*
+(   - Relate to angle phi:) Tj
+T*
+(   tan\(phi\) = r * \(dtheta / dr\) = r / \(r * cot alpha\) = tan alpha => phi = alpha \(constant\).) Tj
+T*
+(   - Pedal equation:) Tj
+T*
+(   p = r * sin\(phi\) = r * sin\(alpha\).) Tj
+T*
+(   - Differentiate p with respect to r:) Tj
+T*
+(   dp / dr = sin\(alpha\) => dr / dp = 1 / sin\(alpha\) = csc\(alpha\).) Tj
+T*
+(   - Radius of Curvature:) Tj
+T*
+(   rho = r * \(dr / dp\) = r * csc\(alpha\).) Tj
+T*
+(   Conclusion:) Tj
+T*
+(   The radius of curvature of the equiangular spiral is directly proportional to its distance r) Tj
+T*
+(   from the pole: rho = r * csc\(alpha\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 17:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Derive the coordinates \(x_bar, y_bar\) of the center of curvature for a curve y = f\(x\). Hence, find the equation of the circle of curvature at any point.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Derivation of Coordinates of Center of Curvature:) Tj
+T*
+(   - Let P\(x, y\) be a point on curve y = f\(x\). Let C\(x_bar, y_bar\) be the center of curvature at) Tj
+T*
+(   P.) Tj
+T*
+(   - The radius of curvature is rho, and C lies at distance rho along the inward normal to the) Tj
+T*
+(   curve at P.) Tj
+T*
+(   - Let psi be the inclination of the tangent at P to the x-axis: tan\(psi\) = y1 = dy/dx.) Tj
+T*
+(   - The inward normal makes an angle \(psi + pi/2\) with the x-axis:) Tj
+T*
+(   x_bar = x + rho * cos\(psi + pi/2\) = x - rho * sin\(psi\).) Tj
+T*
+(   y_bar = y + rho * sin\(psi + pi/2\) = y + rho * cos\(psi\).) Tj
+T*
+(   - From tan\(psi\) = y1:) Tj
+T*
+(   sin\(psi\) = y1 / sqrt\(1 + y1^2\), cos\(psi\) = 1 / sqrt\(1 + y1^2\).) Tj
+T*
+(   - Substitute rho = [ 1 + y1^2 ]^\(3/2\) / y2:) Tj
+T*
+(   x_bar = x - [ [ 1 + y1^2 ]^\(3/2\) / y2 ] * [ y1 / sqrt\(1 + y1^2\) ]) Tj
+T*
+(   = x - [ y1 * \(1 + y1^2\) ] / y2.) Tj
+T*
+(   y_bar = y + [ [ 1 + y1^2 ]^\(3/2\) / y2 ] * [ 1 / sqrt\(1 + y1^2\) ]) Tj
+T*
+(   = y + \(1 + y1^2\) / y2.) Tj
+T*
+(   - Therefore, the center of curvature is:) Tj
+T*
+(   x_bar = x - y1 * \(1 + y1^2\) / y2) Tj
+T*
+(   y_bar = y + \(1 + y1^2\) / y2. \(Proved\).) Tj
+T*
+(   2. Equation of the Circle of Curvature:) Tj
+T*
+(   - The circle of curvature \(osculating circle\) at point P has center C\(x_bar, y_bar\) and radius) Tj
+T*
+(   R = rho.) Tj
+T*
+(   - Its Cartesian equation is:) Tj
+T*
+(   \(X - x_bar\)^2 + \(Y - y_bar\)^2 = rho^2,) Tj
+T*
+(   where \(X, Y\) are running coordinates on the circle.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+ET
+
+endstream
+endobj
+49 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 50 0 R /Resources << /Font << /F1 67 0 R /F2 68 0 R >> >> >>
+endobj
+50 0 obj
+<< /Length 3603 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 2: DIFFERENTIAL CALCULUS AND APPLICATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 24 of 32) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 18:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Define the evolute of a curve. Derive the parametric coordinates of the center of curvature for the parabola y^2 = 4ax at point \(at^2, 2at\), and eliminate t to find the Cartesian equation of its evolute.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Definition:) Tj
+T*
+(   - The Evolute of a curve is the locus of all its centers of curvature.) Tj
+T*
+(   - Equivalently, it is the envelope of the family of normals to the curve.) Tj
+T*
+(   2. Derivatives at Parametric Point \(x = at^2, y = 2at\):) Tj
+T*
+(   - dx / dt = 2at, dy / dt = 2a.) Tj
+T*
+(   - y1 = dy / dx = \(2a\) / \(2at\) = 1 / t.) Tj
+T*
+(   - y2 = d/dx [ 1 / t ] = \(d/dt [ 1 / t ]\) / \(dx / dt\) = \(-1 / t^2\) / \(2at\) = -1 / \(2a * t^3\).) Tj
+T*
+(   3. Compute Center of Curvature \(x_bar, y_bar\):) Tj
+T*
+(   - 1 + y1^2 = 1 + 1/t^2 = \(t^2 + 1\) / t^2.) Tj
+T*
+(   - Compute x_bar:) Tj
+T*
+(   x_bar = x - y1 * \(1 + y1^2\) / y2) Tj
+T*
+(   = a*t^2 - \(1/t\) * [ \(t^2 + 1\) / t^2 ] / [ -1 / \(2a*t^3\) ]) Tj
+T*
+(   = a*t^2 + \(1/t\) * [ \(t^2 + 1\) / t^2 ] * \(2a*t^3\)) Tj
+T*
+(   = a*t^2 + 2a * \(t^2 + 1\) = a*t^2 + 2a*t^2 + 2a) Tj
+T*
+(   = 2a + 3a*t^2.) Tj
+T*
+(   - Compute y_bar:) Tj
+T*
+(   y_bar = y + \(1 + y1^2\) / y2) Tj
+T*
+(   = 2at + [ \(t^2 + 1\) / t^2 ] / [ -1 / \(2a*t^3\) ]) Tj
+T*
+(   = 2at - 2a*t^3 * [ \(t^2 + 1\) / t^2 ]) Tj
+T*
+(   = 2at - 2at * \(t^2 + 1\) = 2at - 2at^3 - 2at) Tj
+T*
+(   = -2a * t^3.) Tj
+T*
+(   4. Eliminate Parameter t to Obtain the Evolute:) Tj
+T*
+(   - From x_bar = 2a + 3a*t^2:) Tj
+T*
+(   3a * t^2 = x_bar - 2a => t^2 = \(x_bar - 2a\) / \(3a\).) Tj
+T*
+(   Raise to power 3: t^6 = \(x_bar - 2a\)^3 / \(27 * a^3\).) Tj
+T*
+(   - From y_bar = -2a * t^3:) Tj
+T*
+(   t^3 = - y_bar / \(2a\).) Tj
+T*
+(   Square both sides: t^6 = \(y_bar\)^2 / \(4 * a^2\).) Tj
+T*
+(   - Equate the two expressions for t^6:) Tj
+T*
+(   \(y_bar\)^2 / \(4 * a^2\) = \(x_bar - 2a\)^3 / \(27 * a^3\).) Tj
+T*
+(   - Multiply by 108 * a^3:) Tj
+T*
+(   27 * a * \(y_bar\)^2 = 4 * \(x_bar - 2a\)^3.) Tj
+T*
+(   Conclusion:) Tj
+T*
+(   Replacing \(x_bar, y_bar\) with running coordinates \(x, y\), the evolute of the parabola y^2 = 4ax) Tj
+T*
+(   is the semicubical parabola:) Tj
+T*
+(   27 a * y^2 = 4 * \(x - 2a\)^3.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 19:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Define an asymptote of an algebraic curve. Explain the systematic method for finding asymptotes parallel to coordinate axes and oblique asymptotes y = mx + c.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Formal Definition:) Tj
+T*
+(   - A straight line L is said to be an asymptote of an infinite branch of a curve C if the) Tj
+T*
+(   perpendicular distance delta\(P, L\) from a point P on the curve to the line L tends to zero as P) Tj
+T*
+(   recedes to infinity along that branch:) Tj
+T*
+(   lim_{P -> infinity} delta\(P, L\) = 0.) Tj
+T*
+(   2. Asymptotes Parallel to Coordinate Axes:) Tj
+T*
+(   Let the equation of the curve be f\(x, y\) = 0.) Tj
+T*
+(   - Asymptotes parallel to y-axis \(Vertical Asymptotes\):) Tj
+T*
+ET
+
+endstream
+endobj
+51 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 52 0 R /Resources << /Font << /F1 67 0 R /F2 68 0 R >> >> >>
+endobj
+52 0 obj
+<< /Length 3589 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 2: DIFFERENTIAL CALCULUS AND APPLICATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 25 of 32) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   Arrange f\(x, y\) in descending powers of y:) Tj
+T*
+(   y^n * phi_0\(x\) + y^\(n-1\) * phi_1\(x\) + ... = 0.) Tj
+T*
+(   The asymptotes parallel to the y-axis are obtained by equating to zero the coefficient of the) Tj
+T*
+(   highest power of y:) Tj
+T*
+(   phi_0\(x\) = 0 \(provided phi_0\(x\) is not a mere numerical constant\).) Tj
+T*
+(   - Asymptotes parallel to x-axis \(Horizontal Asymptotes\):) Tj
+T*
+(   Arrange f\(x, y\) in descending powers of x:) Tj
+T*
+(   x^n * psi_0\(y\) + x^\(n-1\) * psi_1\(y\) + ... = 0.) Tj
+T*
+(   Equate to zero the coefficient of the highest power of x:) Tj
+T*
+(   psi_0\(y\) = 0 \(provided psi_0\(y\) is not constant\).) Tj
+T*
+(   3. Oblique Asymptotes \(y = mx + c\):) Tj
+T*
+(   - For an algebraic curve of degree n:) Tj
+T*
+(   f\(x, y\) = x^n * phi_n\(y/x\) + x^\(n-1\) * phi_{n-1}\(y/x\) + x^\(n-2\) * phi_{n-2}\(y/x\) + ... = 0.) Tj
+T*
+(   - Put x = 1 and y = m in the terms of degree n:) Tj
+T*
+(   phi_n\(m\) = 0 gives the slopes m of the asymptotes.) Tj
+T*
+(   - For each non-repeated root m:) Tj
+T*
+(   c = - phi_{n-1}\(m\) / phi'_n\(m\) \(provided phi'_n\(m\) != 0\).) Tj
+T*
+(   - If m is a double root \(phi_n\(m\) = 0 and phi'_n\(m\) = 0\):) Tj
+T*
+(   \(c^2 / 2!\) * phi''_n\(m\) + c * phi'_{n-1}\(m\) + phi_{n-2}\(m\) = 0 gives two parallel asymptotes.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 20:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Find all the asymptotes \(parallel and oblique\) of the cubic curve: x^3 + 3x^2*y - 4y^3 - x + y + 3 = 0.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Step 1: Check for asymptotes parallel to axes:) Tj
+T*
+(   - Highest power of x is x^3; its coefficient is 1 \(constant\). No asymptote parallel to x-axis.) Tj
+T*
+(   - Highest power of y is y^3; its coefficient is -4 \(constant\). No asymptote parallel to y-axis.) Tj
+T*
+(   - Hence, all asymptotes are oblique.) Tj
+T*
+(   Step 2: Collect terms of degree 3 \(highest degree n = 3\):) Tj
+T*
+(   Terms of degree 3: x^3 + 3*x^2*y - 4*y^3.) Tj
+T*
+(   Put x = 1, y = m to get phi_3\(m\):) Tj
+T*
+(   phi_3\(m\) = 1 + 3m - 4m^3.) Tj
+T*
+(   Set phi_3\(m\) = 0:) Tj
+T*
+(   4m^3 - 3m - 1 = 0.) Tj
+T*
+(   Notice m = 1 is a root: 4\(1\) - 3\(1\) - 1 = 0.) Tj
+T*
+(   Factor out \(m - 1\):) Tj
+T*
+(   \(m - 1\) * \(4m^2 + 4m + 1\) = 0) Tj
+T*
+(   => \(m - 1\) * \(2m + 1\)^2 = 0.) Tj
+T*
+(   Roots: m1 = 1 \(single root\), m2 = m3 = -1/2 \(double root\).) Tj
+T*
+(   Step 3: Collect terms of degree 2:) Tj
+T*
+(   There are NO degree 2 terms in the equation.) Tj
+T*
+(   phi_2\(m\) = 0.) Tj
+T*
+(   Step 4: Collect terms of degree 1:) Tj
+T*
+(   Terms of degree 1: -x + y.) Tj
+T*
+(   phi_1\(m\) = -1 + m.) Tj
+T*
+(   Step 5: Compute c for single root m = 1:) Tj
+T*
+(   phi'_3\(m\) = d/dm [1 + 3m - 4m^3] = 3 - 12m^2.) Tj
+T*
+(   phi'_3\(1\) = 3 - 12 = -9.) Tj
+T*
+(   c = - phi_2\(1\) / phi'_3\(1\) = - 0 / \(-9\) = 0.) Tj
+T*
+(   Asymptote 1: y = 1*x + 0 => y - x = 0 \(or x - y = 0\).) Tj
+T*
+(   Step 6: Compute c for double root m = -1/2:) Tj
+T*
+(   Since m = -1/2 is repeated, use the quadratic equation for c:) Tj
+T*
+(   \(c^2 / 2!\) * phi''_3\(m\) + c * phi'_2\(m\) + phi_1\(m\) = 0.) Tj
+T*
+ET
+
+endstream
+endobj
+53 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 54 0 R /Resources << /Font << /F1 67 0 R /F2 68 0 R >> >> >>
+endobj
+54 0 obj
+<< /Length 3242 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 2: DIFFERENTIAL CALCULUS AND APPLICATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 26 of 32) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - phi''_3\(m\) = d/dm [3 - 12m^2] = -24m.) Tj
+T*
+(   phi''_3\(-1/2\) = -24*\(-1/2\) = 12.) Tj
+T*
+(   - phi_2\(m\) = 0 => phi'_2\(m\) = 0.) Tj
+T*
+(   - phi_1\(-1/2\) = -1 + \(-1/2\) = -3/2.) Tj
+T*
+(   Substitute into equation:) Tj
+T*
+(   \(c^2 / 2\) * 12 + c * 0 + \(-3/2\) = 0) Tj
+T*
+(   => 6 * c^2 - 3/2 = 0) Tj
+T*
+(   => 6 * c^2 = 3/2 => c^2 = 3 / 12 = 1/4 => c = +- 1/2.) Tj
+T*
+(   Asymptotes for m = -1/2:) Tj
+T*
+(   y = \(-1/2\)*x + 1/2 => 2y = -x + 1 => x + 2y - 1 = 0.) Tj
+T*
+(   y = \(-1/2\)*x - 1/2 => 2y = -x - 1 => x + 2y + 1 = 0.) Tj
+T*
+(   Conclusion:) Tj
+T*
+(   The three asymptotes are:) Tj
+T*
+(   1. x - y = 0) Tj
+T*
+(   2. x + 2y - 1 = 0) Tj
+T*
+(   3. x + 2y + 1 = 0.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 21:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Determine all asymptotes of the Folium of Descartes: x^3 + y^3 = 3axy. Explain how the curve approaches its asymptote.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Step 1: Check for asymptotes parallel to coordinate axes:) Tj
+T*
+(   - Equation: x^3 + y^3 - 3axy = 0.) Tj
+T*
+(   - Highest power of x is x^3 \(coefficient 1, non-zero constant\). No horizontal asymptote.) Tj
+T*
+(   - Highest power of y is y^3 \(coefficient 1, non-zero constant\). No vertical asymptote.) Tj
+T*
+(   Step 2: Collect degree 3 terms to find slopes m:) Tj
+T*
+(   phi_3\(m\) = 1 + m^3 = \(1 + m\) * \(m^2 - m + 1\) = 0.) Tj
+T*
+(   Real root: m = -1.) Tj
+T*
+(   \(The other two roots are complex conjugate: m = \(1 +- i*sqrt\(3\)\)/2\).) Tj
+T*
+(   Step 3: Collect degree 2 terms:) Tj
+T*
+(   Terms of degree 2: -3axy.) Tj
+T*
+(   Put x = 1, y = m:) Tj
+T*
+(   phi_2\(m\) = -3am.) Tj
+T*
+(   Step 4: Compute intercept c for m = -1:) Tj
+T*
+(   phi'_3\(m\) = d/dm [1 + m^3] = 3m^2.) Tj
+T*
+(   phi'_3\(-1\) = 3*\(-1\)^2 = 3.) Tj
+T*
+(   phi_2\(-1\) = -3a*\(-1\) = 3a.) Tj
+T*
+(   Formula for c:) Tj
+T*
+(   c = - phi_2\(-1\) / phi'_3\(-1\) = - \(3a\) / 3 = -a.) Tj
+T*
+(   Step 5: Equation of the Asymptote:) Tj
+T*
+(   y = m*x + c = -1*x - a) Tj
+T*
+(   => x + y + a = 0.) Tj
+T*
+(   Step 6: Analysis of Curve Approach to Asymptote:) Tj
+T*
+(   - Let d be the perpendicular distance from a point \(x, y\) on the curve to line x + y + a = 0:) Tj
+T*
+(   d = \(x + y + a\) / sqrt\(2\).) Tj
+T*
+(   - Express x^3 + y^3 - 3axy = 0:) Tj
+T*
+(   \(x + y\)\(x^2 - xy + y^2\) - 3axy = 0) Tj
+T*
+(   => x + y = 3axy / \(x^2 - xy + y^2\).) Tj
+T*
+(   - Substitute into distance formula:) Tj
+T*
+(   x + y + a = 3axy / \(x^2 - xy + y^2\) + a = a * [ 3xy + x^2 - xy + y^2 ] / \(x^2 - xy + y^2\)) Tj
+T*
+(   = a * \(x + y\)^2 / \(x^2 - xy + y^2\).) Tj
+T*
+(   - As x -> infinity \(or y -> -infinity\), x^2 - xy + y^2 > 0 and \(x+y\)^2 > 0:) Tj
+T*
+(   If a > 0, x + y + a > 0, meaning the curve approaches the asymptote from ABOVE in the fourth) Tj
+T*
+ET
+
+endstream
+endobj
+55 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 56 0 R /Resources << /Font << /F1 67 0 R /F2 68 0 R >> >> >>
+endobj
+56 0 obj
+<< /Length 3937 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 2: DIFFERENTIAL CALCULUS AND APPLICATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 27 of 32) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   quadrant and from the RIGHT in the second quadrant.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 22:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Classify double points \(singular points\) of algebraic curves. Derive the conditions for nodes, cusps, and conjugate points, and examine the origin for the curve y^2 = x^2 * \(x + 1\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Classification of Double Points:) Tj
+T*
+(   Let f\(x, y\) = 0 be an algebraic curve. A point \(x0, y0\) is a Double Point \(Singular Point\) if:) Tj
+T*
+(   f\(x0, y0\) = 0, fx = df/dx = 0, fy = df/dy = 0.) Tj
+T*
+(   At a double point, the Taylor expansion begins with quadratic terms:) Tj
+T*
+(   \(1/2\) * [ f_xx * \(x - x0\)^2 + 2 * f_xy * \(x - x0\)*\(y - y0\) + f_yy * \(y - y0\)^2 ] = 0.) Tj
+T*
+(   The tangents at the double point are determined by the discriminant:) Tj
+T*
+(   Delta = \(f_xy\)^2 - f_xx * f_yy.) Tj
+T*
+(   - Case 1: Delta > 0 \(Node\):) Tj
+T*
+(   The two tangents are real and distinct. Two distinct real branches of the curve pass through) Tj
+T*
+(   the point.) Tj
+T*
+(   - Case 2: Delta = 0 \(Cusp\):) Tj
+T*
+(   The two tangents are real and coincident. Two branches share a common tangent and terminate or) Tj
+T*
+(   reverse direction at the point.) Tj
+T*
+(   - Case 3: Delta < 0 \(Conjugate or Isolated Point\):) Tj
+T*
+(   The two tangents are complex conjugates. The coordinates satisfy f\(x, y\) = 0, but no other real) Tj
+T*
+(   points exist in an immediate neighborhood.) Tj
+T*
+(   2. Examination of the Origin for y^2 = x^2 * \(x + 1\):) Tj
+T*
+(   - Equation: f\(x, y\) = y^2 - x^3 - x^2 = 0.) Tj
+T*
+(   - At \(0, 0\): f\(0, 0\) = 0.) Tj
+T*
+(   - First partial derivatives:) Tj
+T*
+(   fx = -3x^2 - 2x => fx\(0, 0\) = 0.) Tj
+T*
+(   fy = 2y => fy\(0, 0\) = 0.) Tj
+T*
+(   Thus, the origin is a singular double point.) Tj
+T*
+(   - Tangents at the origin \(equate lowest degree terms to zero\):) Tj
+T*
+(   Lowest degree terms are of degree 2:) Tj
+T*
+(   y^2 - x^2 = 0 => \(y - x\)\(y + x\) = 0) Tj
+T*
+(   => y = x and y = -x.) Tj
+T*
+(   - Since the two tangents are real and distinct, the origin \(0, 0\) is a NODE.) Tj
+T*
+(   - The curve forms a closed loop between x = -1 and x = 0.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 23:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Describe the systematic 6-step algorithm for tracing Cartesian curves: \(1\) Symmetry, \(2\) Origin and tangents, \(3\) Intercepts, \(4\) Asymptotes, \(5\) Regions of existence, \(6\) Sign of derivatives.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Systematic Curve Tracing Algorithm:) Tj
+T*
+(   1. Symmetry:) Tj
+T*
+(   - About x-axis: If f\(x, -y\) = f\(x, y\) \(only even powers of y\).) Tj
+T*
+(   - About y-axis: If f\(-x, y\) = f\(x, y\) \(only even powers of x\).) Tj
+T*
+(   - About origin: If f\(-x, -y\) = f\(x, y\) \(opposite quadrants symmetric\).) Tj
+T*
+(   - About line y = x: If f\(y, x\) = f\(x, y\).) Tj
+T*
+(   2. Origin and Tangents at Origin:) Tj
+T*
+(   - Does the curve pass through \(0, 0\)? \(True if no constant term\).) Tj
+T*
+(   - If it passes through origin, find tangents by equating the lowest degree terms to zero.) Tj
+T*
+(   - Determine nature of origin \(smooth point, node, cusp, or isolated point\).) Tj
+T*
+(   3. Intercepts with Coordinate Axes:) Tj
+T*
+(   - x-intercepts: Set y = 0 and solve for x.) Tj
+T*
+ET
+
+endstream
+endobj
+57 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 58 0 R /Resources << /Font << /F1 67 0 R /F2 68 0 R >> >> >>
+endobj
+58 0 obj
+<< /Length 3484 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 2: DIFFERENTIAL CALCULUS AND APPLICATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 28 of 32) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - y-intercepts: Set x = 0 and solve for y.) Tj
+T*
+(   4. Asymptotes:) Tj
+T*
+(   - Vertical asymptotes: Equate coefficient of highest power of y to zero.) Tj
+T*
+(   - Horizontal asymptotes: Equate coefficient of highest power of x to zero.) Tj
+T*
+(   - Oblique asymptotes: Use y = mx + c with phi_n\(m\) = 0.) Tj
+T*
+(   5. Region of Existence:) Tj
+T*
+(   - Solve explicitly for y in terms of x: y = +- g\(x\).) Tj
+T*
+(   - Determine intervals of x where g\(x\) is real \(i.e., radicands >= 0\).) Tj
+T*
+(   - If g\(x\) becomes imaginary, no part of the curve exists in that region.) Tj
+T*
+(   6. Special Points and Sign of Derivatives:) Tj
+T*
+(   - Compute dy/dx:) Tj
+T*
+(   * dy/dx = 0 gives points where tangents are parallel to x-axis \(extrema\).) Tj
+T*
+(   * dy/dx -> infinity gives points where tangents are vertical.) Tj
+T*
+(   - Compute d^2y/dx^2 for concavity and points of inflection.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 24:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Apply the curve tracing algorithm to thoroughly analyze and sketch the Cissoid of Diocles: y^2 * \(2a - x\) = x^3 \(where a > 0\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Step 1: Symmetry:) Tj
+T*
+(   The equation contains y only to an even power \(y^2\).) Tj
+T*
+(   Therefore, replacing y by -y leaves the equation unchanged.) Tj
+T*
+(   The curve is strictly SYMMETRIC about the x-axis.) Tj
+T*
+(   Step 2: Origin and Tangents at Origin:) Tj
+T*
+(   f\(0, 0\) = 0, so the curve passes through the origin.) Tj
+T*
+(   Lowest degree terms: y^2 * 2a = 0 => y^2 = 0 => y = 0 \(double coincident tangent\).) Tj
+T*
+(   Since both tangents coincide with the x-axis, the origin is a CUSP of the first kind.) Tj
+T*
+(   Step 3: Intercepts:) Tj
+T*
+(   - Setting y = 0 gives x^3 = 0 => x = 0.) Tj
+T*
+(   - Setting x = 0 gives y = 0.) Tj
+T*
+(   The origin \(0, 0\) is the ONLY intercept on both axes.) Tj
+T*
+(   Step 4: Asymptotes:) Tj
+T*
+(   - Rearrange equation: y^2 * \(2a - x\) - x^3 = 0.) Tj
+T*
+(   - Highest power of y is y^2; its coefficient is \(2a - x\).) Tj
+T*
+(   - Equate coefficient to zero:) Tj
+T*
+(   2a - x = 0 => x = 2a.) Tj
+T*
+(   Thus, x = 2a is a VERTICAL ASYMPTOTE.) Tj
+T*
+(   - Highest power of x is x^3 \(coefficient -1, constant\). No horizontal asymptote.) Tj
+T*
+(   Step 5: Region of Existence:) Tj
+T*
+(   Solve for y:) Tj
+T*
+(   y = +- x * sqrt\(x / \(2a - x\)\).) Tj
+T*
+(   - For y to be real, x / \(2a - x\) must be >= 0:) Tj
+T*
+(   This requires 0 <= x < 2a.) Tj
+T*
+(   - If x < 0: x is negative and 2a - x > 0, so x/\(2a - x\) < 0 => y is imaginary.) Tj
+T*
+(   - If x >= 2a: 2a - x <= 0, so x/\(2a - x\) < 0 => y is imaginary.) Tj
+T*
+(   - Therefore, the ENTIRE curve lies confined in the vertical strip:) Tj
+T*
+(   0 <= x < 2a.) Tj
+T*
+(   Step 6: Behavior as x -> 2a:) Tj
+T*
+(   As x -> 2a-, y -> +- infinity.) Tj
+T*
+(   The two branches flare outward symmetrically, asymptotic to x = 2a.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+59 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 60 0 R /Resources << /Font << /F1 67 0 R /F2 68 0 R >> >> >>
+endobj
+60 0 obj
+<< /Length 3567 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 2: DIFFERENTIAL CALCULUS AND APPLICATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 29 of 32) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 25:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Apply the curve tracing algorithm to analyze the Strophoid: y^2 * \(a - x\) = x^2 * \(a + x\) \(where a > 0\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Step 1: Symmetry:) Tj
+T*
+(   Equation contains only y^2. Replacing y with -y leaves the equation unchanged.) Tj
+T*
+(   The curve is SYMMETRIC about the x-axis.) Tj
+T*
+(   Step 2: Origin and Tangents:) Tj
+T*
+(   f\(0, 0\) = 0; curve passes through the origin.) Tj
+T*
+(   Lowest degree terms: a * y^2 - a * x^2 = 0 => a * \(y^2 - x^2\) = 0) Tj
+T*
+(   => y^2 - x^2 = 0 => y = +- x.) Tj
+T*
+(   The two tangents at the origin are real, perpendicular, and distinct \(y = x and y = -x\).) Tj
+T*
+(   Therefore, the origin is a NODE \(loop cross point\).) Tj
+T*
+(   Step 3: Intercepts:) Tj
+T*
+(   - Set y = 0: x^2 * \(a + x\) = 0 => x = 0 \(double root\) and x = -a.) Tj
+T*
+(   - The curve crosses the x-axis at \(-a, 0\) and touches itself at \(0, 0\).) Tj
+T*
+(   Step 4: Asymptotes:) Tj
+T*
+(   - Highest power of y is y^2 with coefficient \(a - x\).) Tj
+T*
+(   - Equating to zero: a - x = 0 => x = a is a VERTICAL ASYMPTOTE.) Tj
+T*
+(   Step 5: Region of Existence:) Tj
+T*
+(   y = +- x * sqrt\(\(a + x\) / \(a - x\)\).) Tj
+T*
+(   - For y to be real: \(a + x\) / \(a - x\) >= 0.) Tj
+T*
+(   Numerator and denominator must have the same sign:) Tj
+T*
+(   -a <= x < a.) Tj
+T*
+(   - For x < -a: y is imaginary.) Tj
+T*
+(   - For x >= a: y is imaginary.) Tj
+T*
+(   - The curve is completely restricted to the domain: -a <= x < a.) Tj
+T*
+(   Step 6: Loop Analysis:) Tj
+T*
+(   - Between x = -a and x = 0, y is real and returns to 0 at both endpoints.) Tj
+T*
+(   - Hence, a CLOSED LOOP exists on the interval [-a, 0].) Tj
+T*
+(   - Between x = 0 and x < a, the branches extend to +- infinity as x -> a-.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 26:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Trace the polar curve: Cardioid r = a * \(1 + cos theta\) \(where a > 0\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Step 1: Symmetry:) Tj
+T*
+(   Replacing theta with -theta leaves cos\(-theta\) = cos\(theta\) unchanged.) Tj
+T*
+(   Therefore, the cardioid is SYMMETRIC about the initial line \(polar axis theta = 0\).) Tj
+T*
+(   Step 2: Pole \(Origin\):) Tj
+T*
+(   Set r = 0: a * \(1 + cos theta\) = 0 => cos theta = -1 => theta = pi.) Tj
+T*
+(   The curve passes through the pole, and the tangent at the pole is theta = pi.) Tj
+T*
+(   Step 3: Range of r:) Tj
+T*
+(   Since -1 <= cos theta <= 1:) Tj
+T*
+(   - Maximum r occurs at theta = 0: r_max = a*\(1 + 1\) = 2a.) Tj
+T*
+(   - Minimum r occurs at theta = pi: r_min = a*\(1 - 1\) = 0.) Tj
+T*
+(   For all theta, 0 <= r <= 2a; the curve is bounded within a circle of radius 2a.) Tj
+T*
+(   Step 4: Table of Values:) Tj
+T*
+(   theta = 0: r = 2a) Tj
+T*
+(   theta = pi/3: r = a*\(1 + 0.5\) = 1.5a) Tj
+T*
+(   theta = pi/2: r = a*\(1 + 0\) = a) Tj
+T*
+(   theta = 2pi/3: r = a*\(1 - 0.5\) = 0.5a) Tj
+T*
+(   theta = pi: r = 0.) Tj
+T*
+(   Step 5: Angle between Radius Vector and Tangent \(phi\):) Tj
+T*
+ET
+
+endstream
+endobj
+61 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 62 0 R /Resources << /Font << /F1 67 0 R /F2 68 0 R >> >> >>
+endobj
+62 0 obj
+<< /Length 3869 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 2: DIFFERENTIAL CALCULUS AND APPLICATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 30 of 32) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   tan\(phi\) = r / \(dr / dtheta\).) Tj
+T*
+(   dr / dtheta = -a * sin theta.) Tj
+T*
+(   tan\(phi\) = a * \(1 + cos theta\) / \(-a * sin theta\) = [ 2*cos^2\(theta/2\) ] / [) Tj
+T*
+(   -2*sin\(theta/2\)*cos\(theta/2\) ]) Tj
+T*
+(   = -cot\(theta / 2\) = tan\(pi/2 + theta/2\).) Tj
+T*
+(   Therefore: phi = pi/2 + theta/2.) Tj
+T*
+(   - At theta = 0: phi = pi/2 \(tangent is perpendicular to polar axis\).) Tj
+T*
+(   - At theta = pi: phi = pi \(tangent is tangent to initial line\).) Tj
+T*
+(   Conclusion:) Tj
+T*
+(   The curve is a smooth heart-shaped closed oval with a sharp inward cusp at the pole \(r = 0,) Tj
+T*
+(   theta = pi\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 27:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Formulate the First and Second Derivative Tests for local extrema and points of inflection of a twice-differentiable function f\(x\). Prove the Second Derivative Test.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Formulations:) Tj
+T*
+(   - Critical Point: A point c in domain\(f\) where f'\(c\) = 0 \(stationary point\) or f'\(c\) does not) Tj
+T*
+(   exist.) Tj
+T*
+(   - First Derivative Test:) Tj
+T*
+(   * If f'\(x\) changes sign from positive to negative as x increases through c: Local Maximum.) Tj
+T*
+(   * If f'\(x\) changes sign from negative to positive as x increases through c: Local Minimum.) Tj
+T*
+(   * If f'\(x\) does not change sign: Neither \(Point of Inflection / Saddle\).) Tj
+T*
+(   - Second Derivative Test:) Tj
+T*
+(   Let f'\(c\) = 0 and f''\(c\) exist:) Tj
+T*
+(   * If f''\(c\) < 0: f has a Local Maximum at c.) Tj
+T*
+(   * If f''\(c\) > 0: f has a Local Minimum at c.) Tj
+T*
+(   * If f''\(c\) = 0: Test is inconclusive.) Tj
+T*
+(   - Point of Inflection: A point where the concavity changes \(f''\(x\) changes sign\).) Tj
+T*
+(   2. Proof of Second Derivative Test:) Tj
+T*
+(   - Case \(a\): Suppose f'\(c\) = 0 and f''\(c\) > 0.) Tj
+T*
+(   By definition of second derivative:) Tj
+T*
+(   f''\(c\) = lim_{h -> 0} [ f'\(c + h\) - f'\(c\) ] / h = lim_{h -> 0} [ f'\(c + h\) / h ] > 0.) Tj
+T*
+(   By the sign preservation theorem for limits, there exists delta > 0 such that for 0 < |h| <) Tj
+T*
+(   delta:) Tj
+T*
+(   f'\(c + h\) / h > 0.) Tj
+T*
+(   * For -delta < h < 0 \(left of c\): h < 0 implies f'\(c + h\) < 0 \(f is strictly decreasing\).) Tj
+T*
+(   * For 0 < h < delta \(right of c\): h > 0 implies f'\(c + h\) > 0 \(f is strictly increasing\).) Tj
+T*
+(   Thus, f'\(x\) changes from negative to positive as x passes through c.) Tj
+T*
+(   By the First Derivative Test, f attains a strict LOCAL MINIMUM at c.) Tj
+T*
+(   - Case \(b\): Suppose f'\(c\) = 0 and f''\(c\) < 0.) Tj
+T*
+(   f'\(c + h\) / h < 0 for all 0 < |h| < delta.) Tj
+T*
+(   * For h < 0: f'\(c + h\) > 0 \(strictly increasing\).) Tj
+T*
+(   * For h > 0: f'\(c + h\) < 0 \(strictly decreasing\).) Tj
+T*
+(   f'\(x\) changes from positive to negative.) Tj
+T*
+(   Hence, f attains a strict LOCAL MAXIMUM at c. \(Hence proved\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 28:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Derive the Michaelis-Menten enzyme kinetics rate equation v = Vmax * S / \(Km + S\) using the Briggs-Haldane quasi-steady-state differential formulation.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Reaction Mechanism:) Tj
+T*
+ET
+
+endstream
+endobj
+63 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 64 0 R /Resources << /Font << /F1 67 0 R /F2 68 0 R >> >> >>
+endobj
+64 0 obj
+<< /Length 3548 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 2: DIFFERENTIAL CALCULUS AND APPLICATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 31 of 32) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   E + S <=k1 / k-1=> ES --k2--> E + P,) Tj
+T*
+(   where E = Free Enzyme, S = Substrate, ES = Enzyme-Substrate Complex, P = Product.) Tj
+T*
+(   2. Differential Rate Equations:) Tj
+T*
+(   - d[S] / dt = -k1 * [E] * [S] + k-1 * [ES].) Tj
+T*
+(   - d[ES] / dt = k1 * [E] * [S] - \(k-1 + k2\) * [ES].) Tj
+T*
+(   - d[P] / dt = k2 * [ES] = v \(reaction velocity\).) Tj
+T*
+(   3. Conservation of Total Enzyme:) Tj
+T*
+(   [E]t = [E] + [ES] => [E] = [E]t - [ES].) Tj
+T*
+(   4. Briggs-Haldane Quasi-Steady-State Assumption \(QSSA\):) Tj
+T*
+(   Because enzyme concentration is typically very small compared to substrate \([E]t << [S]\), the) Tj
+T*
+(   transient intermediate complex [ES] reaches a rapid balance where d[ES]/dt ~ 0:) Tj
+T*
+(   k1 * [E] * [S] - \(k-1 + k2\) * [ES] = 0.) Tj
+T*
+(   5. Solve for [ES]:) Tj
+T*
+(   Substitute [E] = [E]t - [ES]:) Tj
+T*
+(   k1 * \([E]t - [ES]\) * [S] = \(k-1 + k2\) * [ES]) Tj
+T*
+(   k1 * [E]t * [S] - k1 * [ES] * [S] = \(k-1 + k2\) * [ES]) Tj
+T*
+(   k1 * [E]t * [S] = [ k-1 + k2 + k1 * [S] ] * [ES].) Tj
+T*
+(   Divide numerator and denominator by k1:) Tj
+T*
+(   [ES] = [ [E]t * [S] ] / [ \(k-1 + k2\) / k1 + [S] ].) Tj
+T*
+(   6. Define Constants:) Tj
+T*
+(   - Michaelis constant: Km = \(k-1 + k2\) / k1.) Tj
+T*
+(   - Maximum velocity: Vmax = k2 * [E]t.) Tj
+T*
+(   7. Final Rate Equation:) Tj
+T*
+(   v = d[P] / dt = k2 * [ES] = [ k2 * [E]t * [S] ] / [ Km + [S] ]) Tj
+T*
+(   => v = \(Vmax * [S]\) / \(Km + [S]\). \(Proved\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 29:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Model microbial cell growth using the logistic differential equation dX/dt = r * X * \(1 - X / K\). Solve this non-linear ODE by separation of variables, find the inflection point, and determine when growth velocity is maximized.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Differential Equation Formulation:) Tj
+T*
+(   dX / dt = r * X * \(1 - X / K\),) Tj
+T*
+(   where X\(t\) is biomass concentration, r is intrinsic growth rate, and K is carrying capacity.) Tj
+T*
+(   2. Analytical Solution by Separation of Variables:) Tj
+T*
+(   dX / [ X * \(1 - X / K\) ] = r * dt) Tj
+T*
+(   => K * dX / [ X * \(K - X\) ] = r * dt.) Tj
+T*
+(   Partial fraction decomposition:) Tj
+T*
+(   [ 1/X + 1/\(K - X\) ] dX = r * dt.) Tj
+T*
+(   Integrate both sides:) Tj
+T*
+(   ln\(X\) - ln\(K - X\) = r * t + C) Tj
+T*
+(   ln [ X / \(K - X\) ] = r * t + C) Tj
+T*
+(   X / \(K - X\) = A * e^\(r*t\), where A = e^C.) Tj
+T*
+(   At t = 0, X\(0\) = X0:) Tj
+T*
+(   A = X0 / \(K - X0\).) Tj
+T*
+(   Solve for X\(t\):) Tj
+T*
+(   X = A * e^\(rt\) * \(K - X\) = A * K * e^\(rt\) - A * e^\(rt\) * X) Tj
+T*
+(   X * [ 1 + A * e^\(rt\) ] = K * A * e^\(rt\)) Tj
+T*
+(   X\(t\) = K / [ 1 + \(1/A\) * e^\(-rt\) ] = K / [ 1 + \(\(K - X0\) / X0\) * e^\(-rt\) ].) Tj
+T*
+(   3. Finding the Inflection Point \(Maximum Growth Rate\):) Tj
+T*
+(   - Growth velocity is: v\(X\) = dX / dt = r * X - \(r / K\) * X^2.) Tj
+T*
+(   - To maximize growth rate, differentiate v with respect to X:) Tj
+T*
+(   dv / dX = r - \(2r / K\) * X = 0) Tj
+T*
+(   => 2r * X / K = r => X = K / 2.) Tj
+T*
+ET
+
+endstream
+endobj
+65 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 66 0 R /Resources << /Font << /F1 67 0 R /F2 68 0 R >> >> >>
+endobj
+66 0 obj
+<< /Length 3563 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 2: DIFFERENTIAL CALCULUS AND APPLICATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 32 of 32) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - Second derivative: d^2v / dX^2 = -2r / K < 0 \(confirms global maximum\).) Tj
+T*
+(   - Thus, cell biomass growth rate is maximized precisely when biomass reaches HALF the carrying) Tj
+T*
+(   capacity: X = K / 2.) Tj
+T*
+(   - Maximum growth rate value:) Tj
+T*
+(   \(dX/dt\)_max = r * \(K / 2\) * \(1 - 1/2\) = r * K / 4.) Tj
+T*
+(   4. Time to Reach Inflection Point:) Tj
+T*
+(   Set X\(t_inf\) = K / 2:) Tj
+T*
+(   K / [ 1 + \(\(K - X0\) / X0\) * e^\(-r * t_inf\) ] = K / 2) Tj
+T*
+(   => 1 + \(\(K - X0\) / X0\) * e^\(-r * t_inf\) = 2) Tj
+T*
+(   => e^\(-r * t_inf\) = X0 / \(K - X0\) => t_inf = \(1 / r\) * ln\(\(K - X0\) / X0\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 30:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze substrate inhibition enzyme kinetics governed by the Haldane model: v = Vmax * S / \(Km + S + S^2 / Ki\). Determine the optimal substrate concentration S_opt that maximizes reaction velocity and compute the maximum inhibited velocity v_opt.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Haldane Substrate Inhibition Model:) Tj
+T*
+(   - At high substrate concentrations, a second substrate molecule binds to the active site to) Tj
+T*
+(   form an inactive ternary complex ESS, reducing reaction velocity:) Tj
+T*
+(   v\(S\) = \(Vmax * S\) / \(Km + S + S^2 / Ki\),) Tj
+T*
+(   where Ki is the substrate inhibition constant.) Tj
+T*
+(   2. Differentiation to Find Extrema:) Tj
+T*
+(   - Differentiate v\(S\) with respect to S using the quotient rule:) Tj
+T*
+(   dv / dS = Vmax * [ \(Km + S + S^2 / Ki\) * 1 - S * \(1 + 2S / Ki\) ] / \(Km + S + S^2 / Ki\)^2.) Tj
+T*
+(   - Simplify numerator:) Tj
+T*
+(   Km + S + S^2 / Ki - S - 2*S^2 / Ki = Km - S^2 / Ki.) Tj
+T*
+(   - Set dv / dS = 0:) Tj
+T*
+(   Km - S^2 / Ki = 0 => S^2 / Ki = Km => S^2 = Km * Ki.) Tj
+T*
+(   - Since substrate concentration must be positive:) Tj
+T*
+(   S_opt = sqrt\(Km * Ki\). \(Geometric mean of Km and Ki\).) Tj
+T*
+(   3. Second Derivative Verification:) Tj
+T*
+(   - Evaluating d^2v / dS^2 at S_opt:) Tj
+T*
+(   Numerator derivative = -2*S / Ki < 0, while denominator is positive.) Tj
+T*
+(   Thus d^2v / dS^2 < 0 at S = S_opt, confirming that S_opt yields a unique global MAXIMUM) Tj
+T*
+(   velocity.) Tj
+T*
+(   4. Maximum Reaction Velocity v_opt:) Tj
+T*
+(   - Substitute S_opt = sqrt\(Km * Ki\) into v\(S\):) Tj
+T*
+(   v_opt = [ Vmax * sqrt\(Km * Ki\) ] / [ Km + sqrt\(Km * Ki\) + \(Km * Ki\) / Ki ]) Tj
+T*
+(   = [ Vmax * sqrt\(Km * Ki\) ] / [ Km + sqrt\(Km * Ki\) + Km ]) Tj
+T*
+(   = [ Vmax * sqrt\(Km * Ki\) ] / [ 2*Km + sqrt\(Km * Ki\) ].) Tj
+T*
+(   - Divide numerator and denominator by sqrt\(Km * Ki\):) Tj
+T*
+(   v_opt = Vmax / [ 1 + 2 * sqrt\(Km / Ki\) ].) Tj
+T*
+(   5. Biochemical Significance:) Tj
+T*
+(   - If Ki >> Km \(weak inhibition\): 2*sqrt\(Km/Ki\) << 1, and v_opt approaches Vmax.) Tj
+T*
+(   - If Ki is small \(strong inhibition\): v_opt is substantially lower than Vmax, and operating) Tj
+T*
+(   bioreactors above S_opt drastically reduces production throughput.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+67 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+68 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+xref
+0 69
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000330 00000 n 
+0000000474 00000 n 
+0000008827 00000 n 
+0000008971 00000 n 
+0000017347 00000 n 
+0000017491 00000 n 
+0000025913 00000 n 
+0000026058 00000 n 
+0000033810 00000 n 
+0000033956 00000 n 
+0000042262 00000 n 
+0000042408 00000 n 
+0000050618 00000 n 
+0000050764 00000 n 
+0000059251 00000 n 
+0000059397 00000 n 
+0000061007 00000 n 
+0000061153 00000 n 
+0000066873 00000 n 
+0000067019 00000 n 
+0000070078 00000 n 
+0000070224 00000 n 
+0000078712 00000 n 
+0000078858 00000 n 
+0000082828 00000 n 
+0000082974 00000 n 
+0000086814 00000 n 
+0000086960 00000 n 
+0000090559 00000 n 
+0000090705 00000 n 
+0000094981 00000 n 
+0000095127 00000 n 
+0000098589 00000 n 
+0000098735 00000 n 
+0000102941 00000 n 
+0000103087 00000 n 
+0000106989 00000 n 
+0000107135 00000 n 
+0000110820 00000 n 
+0000110966 00000 n 
+0000114762 00000 n 
+0000114908 00000 n 
+0000118736 00000 n 
+0000118882 00000 n 
+0000122775 00000 n 
+0000122921 00000 n 
+0000126531 00000 n 
+0000126677 00000 n 
+0000130333 00000 n 
+0000130479 00000 n 
+0000134121 00000 n 
+0000134267 00000 n 
+0000137562 00000 n 
+0000137708 00000 n 
+0000141698 00000 n 
+0000141844 00000 n 
+0000145381 00000 n 
+0000145527 00000 n 
+0000149147 00000 n 
+0000149293 00000 n 
+0000153215 00000 n 
+0000153361 00000 n 
+0000156962 00000 n 
+0000157108 00000 n 
+0000160724 00000 n 
+0000160822 00000 n 
+trailer
+<< /Size 69 /Root 1 0 R >>
+startxref
+160925
+%%EOF

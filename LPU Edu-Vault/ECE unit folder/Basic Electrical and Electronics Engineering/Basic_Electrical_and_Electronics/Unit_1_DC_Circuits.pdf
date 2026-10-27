@@ -1,0 +1,548 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 3557 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Basic Electrical & Electronics | Unit 1: DC Circuit Analysis & Network Theorems) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 1 of 4) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(=== UNIT 1: DC CIRCUIT ANALYSIS & NETWORK THEOREMS ===) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 1.1 Fundamental Circuit Quantities and Basic Laws) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Direct Current \(DC\) circuits form the foundational basis for power supplies,) Tj
+T*
+(instrumentation, and bioelectrical measurement interfaces.) Tj
+T*
+(* Circuit Definitions: Node \(junction where 2 or more elements connect\), Essential) Tj
+T*
+(Node \(junction of 3 or more elements\), Branch \(path connecting two nodes containing) Tj
+T*
+(an element\), Mesh \(a loop containing no other loops inside it\).) Tj
+T*
+(* Ohm's Law: Current I through a linear conductor between two points is directly) Tj
+T*
+(proportional to voltage V: V = I * R, where R is resistance in Ohms \(Omega\).) Tj
+T*
+(Resistivity relation: R = rho * L / A.) Tj
+T*
+(* Kirchhoff's Current Law \(KCL\): The algebraic sum of currents entering any) Tj
+T*
+(electrical node is identically zero: sum I_entering = sum I_leaving. Grounded in the) Tj
+T*
+(Law of Conservation of Charge.) Tj
+T*
+(* Kirchhoff's Voltage Law \(KVL\): The algebraic sum of all potential differences) Tj
+T*
+(around any closed circuit loop is identically zero: sum V_drops = sum V_rises.) Tj
+T*
+(Grounded in the Law of Conservation of Energy.) Tj
+T*
+(* Mesh \(Loop\) Analysis: Based on KVL. Formulates a system of linear equations) Tj
+T*
+([R_mesh] * [I_mesh] = [V_mesh] where R_ii is the self-resistance of mesh i, and R_ij) Tj
+T*
+(is the mutual resistance shared between mesh i and mesh j.) Tj
+T*
+(* Nodal Analysis: Based on KCL. Formulates [G_node] * [V_node] = [I_node] where) Tj
+T*
+(diagonal elements are the sum of conductances attached to node i, and off-diagonal) Tj
+T*
+(elements are negative mutual conductances.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 1.2 Network Theorems for Linear Bilateral Circuits) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Superposition Theorem: In any linear network containing multiple independent) Tj
+T*
+(sources, the voltage across \(or current through\) any element is the algebraic sum of) Tj
+T*
+(the voltages \(or currents\) caused by each independent source acting alone, with all) Tj
+T*
+(other independent sources deactivated \(voltage sources replaced by short circuits,) Tj
+T*
+(current sources replaced by open circuits\). Dependent sources remain active.) Tj
+T*
+(* Thevenin's Theorem: Any linear, two-terminal bilateral network consisting of) Tj
+T*
+(sources and resistances can be completely replaced by an equivalent circuit) Tj
+T*
+(containing a single ideal voltage source \(V_th\) in series with an equivalent) Tj
+T*
+(resistance \(R_th\). V_th is the open-circuit voltage across terminals \(V_oc\); R_th is) Tj
+T*
+(the equivalent resistance seen looking into the terminals with all independent) Tj
+T*
+(sources deactivated.) Tj
+T*
+(* Norton's Theorem: Dual of Thevenin's theorem. Any two-terminal linear network can) Tj
+T*
+(be replaced by a single ideal current source \(I_N\) in parallel with an equivalent) Tj
+T*
+(resistance \(R_N\). I_N is the short-circuit current across terminals \(I_sc\); R_N =) Tj
+T*
+(R_th. Source transformation relation: V_th = I_N * R_th.) Tj
+T*
+(* Maximum Power Transfer Theorem: A linear DC network delivers maximum electrical) Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 3667 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Basic Electrical & Electronics | Unit 1: DC Circuit Analysis & Network Theorems) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 2 of 4) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(power to a variable load resistor R_L when the load resistance equals the Thevenin) Tj
+T*
+(equivalent resistance of the network: R_L = R_th. At maximum power transfer, the) Tj
+T*
+(efficiency is exactly 50%: P_max = \(V_th\)^2 / \(4 * R_th\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([SOLVED PROBLEM 1: Mesh Current Analysis of Two-Mesh DC Circuit]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: In a two-mesh circuit, Mesh 1 has a 20V battery in series with a 4 Omega) Tj
+T*
+(resistor, connected to a common branch containing a 6 Omega resistor. Mesh 2 connects) Tj
+T*
+(the 6 Omega common resistor to an 8 Omega resistor and a 12V battery. Determine the loop) Tj
+T*
+(currents I1, I2 and the current through the 6 Omega shared branch.) Tj
+T*
+(Solution Step 1: Set up KVL mesh equations:) Tj
+T*
+(Mesh 1 \(clockwise current I1\):) Tj
+T*
+(20 - 4*I1 - 6*\(I1 - I2\) = 0 => 10*I1 - 6*I2 = 20.) Tj
+T*
+(Mesh 2 \(clockwise current I2\):) Tj
+T*
+(- 6*\(I2 - I1\) - 8*I2 - 12 = 0 => - 6*I1 + 14*I2 = -12.) Tj
+T*
+(Solution Step 2: Solve the system using Cramer's rule:) Tj
+T*
+(Delta = det\([ 10 -6 ; -6 14 ]\) = \(10\)\(14\) - \(-6\)\(-6\) = 140 - 36 = 104.) Tj
+T*
+(Delta_1 = det\([ 20 -6 ; -12 14 ]\) = \(20\)\(14\) - \(-12\)\(-6\) = 280 - 72 = 208.) Tj
+T*
+(Delta_2 = det\([ 10 20 ; -6 -12 ]\) = \(10\)\(-12\) - \(-6\)\(20\) = -120 + 120 = 0.) Tj
+T*
+(Solution Step 3: Compute currents:) Tj
+T*
+(I1 = Delta_1 / Delta = 208 / 104 = 2.0 Amperes.) Tj
+T*
+(I2 = Delta_2 / Delta = 0 / 104 = 0.0 Amperes.) Tj
+T*
+(Solution Step 4: Branch current through 6 Omega resistor:) Tj
+T*
+(I_6Omega = I1 - I2 = 2.0 - 0.0 = 2.0 Amperes \(flowing downwards\).) Tj
+T*
+(Check: Voltage drop across 6 Omega = 2.0 A * 6 Omega = 12 V. In Mesh 2, this exactly) Tj
+T*
+(balances the 12V battery, confirming I2 = 0.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([SOLVED PROBLEM 2: Thevenin Equivalent and Maximum Power Transfer]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: For a bridge circuit where terminals A-B are connected across a variable load) Tj
+T*
+(R_L: A 24V source feeds a parallel divider of \(R1 = 6 Omega, R2 = 3 Omega\) on the left) Tj
+T*
+(and \(R3 = 4 Omega, R4 = 8 Omega\) on the right. Terminals A and B are between the) Tj
+T*
+(dividers. Find: \(1\) Thevenin voltage V_th, \(2\) Thevenin resistance R_th, \(3\) Value of) Tj
+T*
+(R_L for maximum power, \(4\) P_max.) Tj
+T*
+(Solution Step 1: Calculate Open-Circuit Voltage V_th \(V_A - V_B\):) Tj
+T*
+(V_A = 24 * [ R2 / \(R1 + R2\) ] = 24 * [ 3 / \(6 + 3\) ] = 24 * \(3 / 9\) = 8.0 V.) Tj
+T*
+(V_B = 24 * [ R4 / \(R3 + R4\) ] = 24 * [ 8 / \(4 + 8\) ] = 24 * \(8 / 12\) = 16.0 V.) Tj
+T*
+(V_th = | V_A - V_B | = | 8.0 - 16.0 | = 8.0 Volts \(Terminal B is positive relative to) Tj
+T*
+(A\).) Tj
+T*
+(Solution Step 2: Calculate Thevenin Resistance R_th \(deactivate 24V voltage source to) Tj
+T*
+(short circuit\):) Tj
+T*
+(Seen from terminals A-B, R1 is in parallel with R2, and R3 is in parallel with R4:) Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 3583 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Basic Electrical & Electronics | Unit 1: DC Circuit Analysis & Network Theorems) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 3 of 4) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(R_A = \(R1 * R2\) / \(R1 + R2\) = \(6 * 3\) / \(6 + 3\) = 18 / 9 = 2.0 Omega.) Tj
+T*
+(R_B = \(R3 * R4\) / \(R3 + R4\) = \(4 * 8\) / \(4 + 8\) = 32 / 12 = 2.67 Omega.) Tj
+T*
+(R_th = R_A + R_B = 2.0 + 2.67 = 4.67 Omega \(or 14/3 Omega\).) Tj
+T*
+(Solution Step 3: Optimal Load for Maximum Power:) Tj
+T*
+(By Maximum Power Transfer Theorem: R_L = R_th = 4.67 Omega.) Tj
+T*
+(Solution Step 4: Maximum Power Delivered P_max:) Tj
+T*
+(P_max = \(V_th\)^2 / \(4 * R_th\) = \(8.0\)^2 / \(4 * \(14/3\)\) = 64 / \(56 / 3\) = 192 / 56 = 3.43) Tj
+T*
+(Watts.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([SOLVED PROBLEM 3: Application of Superposition Theorem]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: In a linear circuit, a 12V voltage source and a 2A current source) Tj
+T*
+(simultaneously power a resistor network: The 12V source connects to R1 = 4 Omega in) Tj
+T*
+(series with R2 = 4 Omega. The 2A current source is connected in parallel across R2. Find) Tj
+T*
+(the total current through R2 using Superposition.) Tj
+T*
+(Case 1: 12V Voltage Source acting ALONE \(Current source open-circuited\):) Tj
+T*
+(Circuit is a simple series loop with R1 and R2:) Tj
+T*
+(R_total = R1 + R2 = 4 + 4 = 8 Omega.) Tj
+T*
+(I2' = V / R_total = 12 / 8 = 1.5 Amperes \(flowing downwards through R2\).) Tj
+T*
+(Case 2: 2A Current Source acting ALONE \(Voltage source short-circuited\):) Tj
+T*
+(The 12V source is replaced by a wire, placing R1 \(4 Omega\) in parallel with R2 \(4) Tj
+T*
+(Omega\):) Tj
+T*
+(Current from the 2A source splits equally between two equal 4 Omega branches:) Tj
+T*
+(I2'' = 2 * [ R1 / \(R1 + R2\) ] = 2 * [ 4 / \(4 + 4\) ] = 2 * \(1/2\) = 1.0 Ampere \(flowing) Tj
+T*
+(downwards\).) Tj
+T*
+(Total Current by Superposition:) Tj
+T*
+(I_total = I2' + I2'' = 1.5 A + 1.0 A = 2.5 Amperes.) Tj
+T*
+(Power in R2: P = \(I_total\)^2 * R2 = \(2.5\)^2 * 4 = 6.25 * 4 = 25.0 Watts.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([SOLVED PROBLEM 4: Norton Equivalent Circuit and Current Source Transformation]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: Derive the Norton Equivalent Circuit for a DC source of 30V having an internal) Tj
+T*
+(resistance of 5 Omega connected to a parallel branch of 10 Omega. Determine the current) Tj
+T*
+(delivered to a 15 Omega load resistor connected across the output terminals.) Tj
+T*
+(Solution Step 1: Calculate Norton Short-Circuit Current I_N:) Tj
+T*
+(Short-circuit the load terminals. The 10 Omega resistor is bypassed by the short) Tj
+T*
+(circuit.) Tj
+T*
+(The short-circuit current is limited only by the 5 Omega resistor:) Tj
+T*
+(I_sc = I_N = V / R_internal = 30 V / 5 Omega = 6.0 Amperes.) Tj
+T*
+(Solution Step 2: Calculate Norton Resistance R_N:) Tj
+T*
+(Deactivate 30V source to short circuit. Looking into output terminals:) Tj
+T*
+(R_N = 5 Omega in parallel with 10 Omega = \(5 * 10\) / \(5 + 10\) = 50 / 15 = 3.33 Omega) Tj
+T*
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 3187 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Basic Electrical & Electronics | Unit 1: DC Circuit Analysis & Network Theorems) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 4 of 4) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(\(10/3 Omega\).) Tj
+T*
+(Solution Step 3: Connect Load R_L = 15 Omega to Norton Equivalent:) Tj
+T*
+(Current divider rule determines load current I_L:) Tj
+T*
+(I_L = I_N * [ R_N / \(R_N + R_L\) ] = 6.0 * [ \(10/3\) / \(\(10/3\) + 15\) ] = 6.0 * [ \(10/3\) /) Tj
+T*
+(\(55/3\) ]) Tj
+T*
+(I_L = 6.0 * \(10 / 55\) = 60 / 55 = 1.09 Amperes.) Tj
+T*
+(Voltage Across Load: V_L = I_L * R_L = 1.091 A * 15 Omega = 16.36 Volts.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 1.3 University Review & Examination Questions) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Q1: State and prove the Maximum Power Transfer Theorem for DC networks.) Tj
+T*
+(Answer: Statement: A resistive network delivers maximum power to a variable load) Tj
+T*
+(resistance R_L when R_L is equal to the Thevenin equivalent resistance R_th of the) Tj
+T*
+(network. Proof: Replace the network by its Thevenin equivalent \(V_th in series with) Tj
+T*
+(R_th\). The load current is I_L = V_th / \(R_th + R_L\). The power delivered to the load is) Tj
+T*
+(P_L = \(I_L\)^2 * R_L = [ \(V_th\)^2 * R_L ] / \(R_th + R_L\)^2. To find the maximum power,) Tj
+T*
+(differentiate P_L with respect to R_L and set dP_L / dR_L = 0: dP_L / dR_L = \(V_th\)^2 *) Tj
+T*
+([ \(R_th + R_L\)^2 * \(1\) - R_L * 2*\(R_th + R_L\) ] / \(R_th + R_L\)^4 = 0. Simplifying) Tj
+T*
+(numerator: \(R_th + R_L\) - 2*R_L = 0 => R_th - R_L = 0 => R_L = R_th. Hence proved.) Tj
+T*
+(* Q2: Explain the step-by-step procedure to determine Thevenin's equivalent) Tj
+T*
+(resistance \(R_th\) when a circuit contains both independent and dependent sources.) Tj
+T*
+(Answer: When dependent sources are present, R_th cannot be found by simply deactivating) Tj
+T*
+(sources. Procedure: \(1\) Determine the open-circuit voltage V_oc across terminals A-B) Tj
+T*
+(using standard nodal or mesh analysis while keeping all sources active. \(2\) Connect an) Tj
+T*
+(ideal short circuit across A-B and compute the short-circuit current I_sc. \(3\) Thevenin) Tj
+T*
+(resistance is given by R_th = V_oc / I_sc. Alternatively: Deactivate only the) Tj
+T*
+(INDEPENDENT sources, connect an external test source \(either V_test = 1V or I_test = 1A\)) Tj
+T*
+(across terminals A-B, determine the resulting current I_test \(or voltage V_test\), and) Tj
+T*
+(calculate R_th = V_test / I_test.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 1.4 Key Takeaways and Revision Points) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* KCL represents charge conservation at nodes; KVL represents energy conservation) Tj
+T*
+(around loops.) Tj
+T*
+(* Thevenin equivalent consists of V_th in series with R_th; Norton equivalent) Tj
+T*
+(consists of I_N in parallel with R_N \(where V_th = I_N * R_th\).) Tj
+T*
+(* Maximum power transfer occurs at R_L = R_th with 50% efficiency \(P_max = V_th^2 /) Tj
+T*
+(4*R_th\).) Tj
+T*
+(* Superposition requires linear bilateral elements; deactivated voltage sources are) Tj
+T*
+(shorted, current sources opened.) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 13
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000164 00000 n 
+0000000234 00000 n 
+0000000309 00000 n 
+0000000421 00000 n 
+0000004030 00000 n 
+0000004142 00000 n 
+0000007861 00000 n 
+0000007974 00000 n 
+0000011610 00000 n 
+0000011724 00000 n 
+trailer
+<< /Size 13 /Root 1 0 R >>
+startxref
+14964
+%%EOF

@@ -1,0 +1,740 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 6 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2978 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mechanics | Unit 4: Plane Trusses & Sections) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 1 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(=== UNIT 4: ANALYSIS OF PLANE TRUSSES & STRUCTURES ===) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.1 Engineering Trusses and Determinacy Criteria) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(A truss is an engineering structure composed of slender structural members joined) Tj
+T*
+(together at their end terminals to form a rigid stationary framework capable of spanning) Tj
+T*
+(large distances \(roof trusses, railway bridges, crane booms\).) Tj
+T*
+(* Classification by Internal Determinacy: Let m = total number of members, j = total) Tj
+T*
+(number of pin joints:) Tj
+T*
+(- Perfect \(Statically Determinate\) Truss: m = 2*j - 3. The truss is rigid and all member) Tj
+T*
+(forces can be uniquely solved using static equilibrium equations alone.) Tj
+T*
+(- Deficient \(Hypostatic / Unstable\) Truss: m < 2*j - 3. Lacks sufficient members to) Tj
+T*
+(prevent collapse under general loading.) Tj
+T*
+(- Redundant \(Statically Indeterminate\) Truss: m > 2*j - 3. Possesses redundant members;) Tj
+T*
+(cannot be solved by statics alone without deformation compatibility.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.2 Fundamental Assumptions in Plane Truss Analysis) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(To facilitate analytical solution, ideal truss analysis makes four classical) Tj
+T*
+(idealizations:) Tj
+T*
+(* 1. All members are connected at their ends by frictionless smooth spherical pins or) Tj
+T*
+(cylindrical hinges.) Tj
+T*
+(* 2. External loads and support reactions are applied strictly at the joints \(nodes\)) Tj
+T*
+(only.) Tj
+T*
+(* 3. The centroidal longitudinal axes of all members meeting at a joint are) Tj
+T*
+(concurrent at the joint pin center.) Tj
+T*
+(* 4. Self-weights of members are either negligible or split equally as concentrated) Tj
+T*
+(half-weights applied at end joints.) Tj
+T*
+(* Consequence: Every member is a pure two-force member carrying either axial Tension) Tj
+T*
+(\(T, pulling away from joint\) or axial Compression \(C, pushing toward joint\). Bending) Tj
+T*
+(moments and shear forces are zero.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.3 Zero-Force Member Identification by Inspection) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Structural efficiency is greatly expedited by identifying zero-force members prior to) Tj
+T*
+(numerical computation:) Tj
+T*
+(* Rule 1 \(Two-Member Joint\): If only two non-collinear members meet at an unloaded) Tj
+T*
+(joint without support reactions, the internal force in BOTH members must be ZERO: F1) Tj
+T*
+(= 0 and F2 = 0.) Tj
+T*
+(* Rule 2 \(Three-Member Joint\): If three members meet at an unloaded joint where two) Tj
+T*
+(members are collinear, the third non-collinear member MUST carry ZERO force: F3 = 0,) Tj
+T*
+(and F1 = F2.) Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 2896 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mechanics | Unit 4: Plane Trusses & Sections) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 2 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(* Rule 3 \(Loaded Joint\): If two non-collinear members meet at a joint subjected to an) Tj
+T*
+(external load collinear with one member, the other non-collinear member carries ZERO) Tj
+T*
+(force.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.4 Method of Joints) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(The Method of Joints isolates individual pin joints as free body diagrams of concurrent) Tj
+T*
+(force systems:) Tj
+T*
+(* Step 1: Determine global external support reactions by treating the entire truss as) Tj
+T*
+(a rigid body: Sigma Fx = 0, Sigma Fy = 0, Sigma M = 0.) Tj
+T*
+(* Step 2: Select a joint having at least one known force and NOT MORE THAN TWO) Tj
+T*
+(unknown member forces.) Tj
+T*
+(* Step 3: Draw joint FBD, assuming unknown member forces are Tensile \(arrows pointing) Tj
+T*
+(away from the pin\).) Tj
+T*
+(* Step 4: Apply concurrent equilibrium: Sigma Fx = 0, Sigma Fy = 0. A positive) Tj
+T*
+(calculated value confirms tension \(+T\); a negative value denotes compression \(-C\).) Tj
+T*
+(* Step 5: Advance sequentially to adjacent joints until all member forces are) Tj
+T*
+(computed.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.5 Method of Sections) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(When internal forces in only a few specific internal members are desired \(e.g. central) Tj
+T*
+(chord or diagonal web members of a bridge\), the Method of Sections is far faster than) Tj
+T*
+(the Method of Joints:) Tj
+T*
+(* Step 1: Calculate global external support reactions.) Tj
+T*
+(* Step 2: Pass an imaginary cutting section through the truss, cutting the members) Tj
+T*
+(whose forces are required \(cutting through NOT MORE THAN THREE members whose forces) Tj
+T*
+(are non-concurrent\).) Tj
+T*
+(* Step 3: Isolate one side of the severed truss \(left or right\) as a non-concurrent) Tj
+T*
+(rigid body FBD.) Tj
+T*
+(* Step 4: Expose internal axial forces in cut members as external forces acting along) Tj
+T*
+(their member lines of action.) Tj
+T*
+(* Step 5: Apply non-concurrent planar equilibrium: Sigma M_joint = 0 \(taking moments) Tj
+T*
+(about the intersection of two unknown forces eliminates both simultaneously\), Sigma) Tj
+T*
+(Fx = 0, Sigma Fy = 0.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.6 Comparison of Trusses, Frames and Machines) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Truss: Structure comprised entirely of two-force members carrying only axial) Tj
+T*
+(tension or compression.) Tj
+T*
+(* Frame: Stationary structure containing at least one multi-force member \(member) Tj
+T*
+(subjected to 3 or more forces or transverse loads, carrying bending moments and shear) Tj
+T*
+(forces\) designed to support external loads.) Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 3499 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mechanics | Unit 4: Plane Trusses & Sections) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 3 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(* Machine: Structure designed to transmit and modify forces containing moving parts) Tj
+T*
+(and multi-force members.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([EXAMPLE 1: Method of Joints on Triangular Cantilever Truss]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: A cantilever truss consists of three joints: Wall supports A \(fixed) Tj
+T*
+(pin\) and B \(roller directly below A, vertical distance AB = 3.0 m\). Joint C is located) Tj
+T*
+(4.0 m to the right of joint B. A vertical downward load of P = 24 kN is applied at joint) Tj
+T*
+(C. Members are AC, BC, and vertical support line AB. Determine the forces in members AC) Tj
+T*
+(and BC.) Tj
+T*
+(Solution Step 1: Geometry of members at joint C:) Tj
+T*
+(In right triangle ABC: Horizontal base BC = 4.0 m, Vertical side AB = 3.0 m.) Tj
+T*
+(Inclined tie member AC length = sqrt\(4^2 + 3^2\) = 5.0 m.) Tj
+T*
+(Inclination angle theta of AC with horizontal BC: cos\(theta\) = 4/5 = 0.80, sin\(theta\) =) Tj
+T*
+(3/5 = 0.60.) Tj
+T*
+(Solution Step 2: Analyze Joint C using equilibrium:) Tj
+T*
+(Only two unknown member forces meet at joint C: F_AC \(pulling up and left at angle) Tj
+T*
+(theta\) and F_BC \(acting horizontally along BC\).) Tj
+T*
+(Assume F_AC is tensile \(pointing away from C\), F_BC is compressive \(pointing toward C,) Tj
+T*
+(or assume tensile to the left\):) Tj
+T*
+(Vertical Equilibrium \(Sigma Fy = 0 at C\):) Tj
+T*
+(+ F_AC * sin\(theta\) - P = 0 => F_AC * 0.60 = 24 kN => F_AC = 24 / 0.60 = + 40.0 kN) Tj
+T*
+(\(Tension\).) Tj
+T*
+(Horizontal Equilibrium \(Sigma Fx = 0 at C\):) Tj
+T*
+(- F_AC * cos\(theta\) - F_BC = 0 => F_BC = - F_AC * cos\(theta\) = - 40.0 * 0.80 = - 32.0 kN) Tj
+T*
+(\(Compression\).) Tj
+T*
+(Solution Step 3: Verify Wall Support Reactions at A and B:) Tj
+T*
+(At A \(pin\): Member AC pulls joint A down and right with 40 kN => H_A = -32 kN \(left\),) Tj
+T*
+(V_A = +24 kN \(up\).) Tj
+T*
+(At B \(roller\): Member BC pushes joint B left with 32 kN => Normal reaction H_B = +32 kN) Tj
+T*
+(\(right\).) Tj
+T*
+(Conclusion: Member AC = 40.0 kN \(Tension\), Member BC = 32.0 kN \(Compression\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([EXAMPLE 2: Method of Sections for a Pratt Bridge Truss]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: A simply supported Pratt bridge truss has a span of 16 m with four) Tj
+T*
+(equal panels of b = 4 m each and height h = 3 m. Vertical loads of 30 kN each act) Tj
+T*
+(downward at lower panel joints L1, L2, L3. Determine the forces in top chord U1U2,) Tj
+T*
+(diagonal U1L2, and bottom chord L1L2 by the Method of Sections.) Tj
+T*
+(Solution Step 1: Global Support Reactions at L0 and L4:) Tj
+T*
+(Total load = 30 + 30 + 30 = 90 kN. By symmetry: R_L0 = R_L4 = 90 / 2 = 45 kN \(upward\).) Tj
+T*
+(Solution Step 2: Pass cutting plane section 1-1:) Tj
+T*
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 3341 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mechanics | Unit 4: Plane Trusses & Sections) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 4 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(Cut vertically through panel 2, severing top chord U1U2, diagonal U1L2, and bottom chord) Tj
+T*
+(L1L2. Isolate the left part \(joints L0, U1, L1\).) Tj
+T*
+(Geometry of diagonal U1L2: horizontal run = 4 m, vertical rise = 3 m, length = 5 m.) Tj
+T*
+(sin\(theta\) = 3/5 = 0.60, cos\(theta\) = 4/5 = 0.80.) Tj
+T*
+(Solution Step 3: Determine Top Chord Force F_U1U2 using Moment Equilibrium about joint) Tj
+T*
+(L2:) Tj
+T*
+(Passing moments about L2 eliminates both F_L1L2 and F_U1L2 \(their lines pass through) Tj
+T*
+(L2\):) Tj
+T*
+(Sigma M_L2 = 0:) Tj
+T*
+(\(R_L0 * 8.0 m\) - \(Load at L1 * 4.0 m\) + \(F_U1U2 * 3.0 m\) = 0.) Tj
+T*
+(\(45 * 8.0\) - \(30 * 4.0\) + 3.0 * F_U1U2 = 0.) Tj
+T*
+(360 - 120 + 3.0 * F_U1U2 = 0 => 3.0 * F_U1U2 = - 240 => F_U1U2 = - 80.0 kN) Tj
+T*
+(\(Compression\).) Tj
+T*
+(Solution Step 4: Determine Diagonal Force F_U1L2 using Vertical Equilibrium \(Sigma Fy =) Tj
+T*
+(0\):) Tj
+T*
+(Sigma Fy = 0:) Tj
+T*
+(R_L0 - \(Load at L1\) - F_U1L2 * sin\(theta\) = 0.) Tj
+T*
+(45 - 30 - F_U1L2 * 0.60 = 0 => 0.60 * F_U1L2 = 15 => F_U1L2 = + 25.0 kN \(Tension\).) Tj
+T*
+(Solution Step 5: Determine Bottom Chord Force F_L1L2 using Moment Equilibrium about) Tj
+T*
+(joint U1:) Tj
+T*
+(Sigma M_U1 = 0 \(joint U1 is at x = 4.0 m, y = 3.0 m\):) Tj
+T*
+(\(R_L0 * 4.0 m\) - \(F_L1L2 * 3.0 m\) = 0.) Tj
+T*
+(\(45 * 4.0\) - 3.0 * F_L1L2 = 0 => 3.0 * F_L1L2 = 180 => F_L1L2 = + 60.0 kN \(Tension\).) Tj
+T*
+(Conclusion: F_U1U2 = 80.0 kN \(Compression\); F_U1L2 = 25.0 kN \(Tension\); F_L1L2 = 60.0 kN) Tj
+T*
+(\(Tension\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([EXAMPLE 3: Inspection and Identification of Zero-Force Members]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: In a roof truss, joint D connects horizontal chord CD, vertical web) Tj
+T*
+(member DF, and horizontal chord DE. Joint F has three members: vertical DF, and) Tj
+T*
+(diagonals CF and EF forming a symmetric V-shape. No external load acts at joint D.) Tj
+T*
+(Identify which member carries zero force and prove by joint equilibrium.) Tj
+T*
+(Solution Step 1: Examine Joint D:) Tj
+T*
+(Three members meet at joint D: CD and DE are collinear along the horizontal axis, and DF) Tj
+T*
+(is perpendicular \(non-collinear\). No external load or support reaction acts at D.) Tj
+T*
+(Applying Sigma Fy = 0 at joint D: DF is the ONLY member possessing a vertical component.) Tj
+T*
+(Sigma Fy = F_DF = 0. Hence, F_DF = 0 \(Zero-Force Member\).) Tj
+T*
+(Applying Sigma Fx = 0 at joint D: - F_CD + F_DE = 0 => F_CD = F_DE \(chord force is) Tj
+T*
+(continuously transmitted\).) Tj
+T*
+(Conclusion: Member DF is a zero-force member \(F_DF = 0\). It serves purely to provide) Tj
+T*
+(lateral buckling restraint to the compression chord CD-DE.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 3678 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mechanics | Unit 4: Plane Trusses & Sections) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 5 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+/F2 9.5 Tf
+([EXAMPLE 4: Analysis of a Howe Roof Truss Chord Forces]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: A symmetric Howe roof truss of span L = 12 m and height H = 4 m carries) Tj
+T*
+(a single ridge apex load P = 36 kN at joint C. Members are lower tie AB \(span 12 m with) Tj
+T*
+(central joint D\), rafters AC and BC \(length = sqrt\(6^2 + 4^2\) = 7.21 m\), and central) Tj
+T*
+(vertical tie CD = 4 m. Determine forces in all members.) Tj
+T*
+(Solution Step 1: Support reactions at A and B:) Tj
+T*
+(R_A = R_B = P / 2 = 36 / 2 = 18 kN \(upward\).) Tj
+T*
+(Solution Step 2: Joint D Analysis:) Tj
+T*
+(Members AD and DB are collinear horizontally. Member CD is vertical. Unloaded joint.) Tj
+T*
+(By Rule 2: Force in central vertical post F_CD = 0 \(Zero-force member!\).) Tj
+T*
+(F_AD = F_DB = F_tie.) Tj
+T*
+(Solution Step 3: Joint A Analysis:) Tj
+T*
+(cos\(theta_A\) = 6.0 / 7.21 = 0.8321, sin\(theta_A\) = 4.0 / 7.21 = 0.5547.) Tj
+T*
+(Vertical equilibrium: R_A + F_AC * sin\(theta_A\) = 0 => 18 + F_AC * 0.5547 = 0 => F_AC =) Tj
+T*
+(- 32.45 kN \(Compression\).) Tj
+T*
+(Horizontal equilibrium: F_tie + F_AC * cos\(theta_A\) = 0 => F_tie = - \(-32.45 * 0.8321\) =) Tj
+T*
+(+ 27.0 kN \(Tension\).) Tj
+T*
+(Conclusion: Rafters AC and BC = 32.45 kN \(Compression\); Bottom tie AB = 27.0 kN) Tj
+T*
+(\(Tension\); Vertical post CD = 0 kN.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.7 University Review & Examination Questions) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Q1: Differentiate comprehensively between the Method of Joints and the Method of) Tj
+T*
+(Sections, detailing when each is preferred.) Tj
+T*
+(Answer: The Method of Joints isolates individual joints as concurrent force systems and) Tj
+T*
+(solves unknown member forces sequentially using Sigma Fx = 0 and Sigma Fy = 0. It is) Tj
+T*
+(preferred when internal forces in ALL members of a truss must be cataloged for complete) Tj
+T*
+(structural fabrication. However, calculation errors at initial joints propagate to all) Tj
+T*
+(subsequent nodes. The Method of Sections passes a cutting plane severing not more than) Tj
+T*
+(three non-concurrent members, treating each isolated sub-structure as a rigid body and) Tj
+T*
+(applying Sigma Fx = 0, Sigma Fy = 0, and Sigma M = 0. It is highly preferred when only) Tj
+T*
+(specific internal chord or web members need verification, and errors do not propagate) Tj
+T*
+(since each member can be independently solved using moment equilibrium.) Tj
+T*
+(* Q2: What are zero-force members, and why are they incorporated into engineering) Tj
+T*
+(truss designs if they carry no force?) Tj
+T*
+(Answer: Zero-force members are structural elements in a truss that carry no axial) Tj
+T*
+(tensile or compressive force under a specific static loading condition. Despite carrying) Tj
+T*
+(zero force under normal primary loads, they are vital in real-world civil engineering) Tj
+T*
+(structures because: \(1\) They provide essential lateral bracing to prevent long slender) Tj
+T*
+(compression members from catastrophic elastic buckling. \(2\) They ensure stability and) Tj
+T*
+(prevent structural collapse when loading conditions change \(e.g. moving traffic loads,) Tj
+T*
+(wind gusts, seismic shaking\). \(3\) They maintain geometry during fabrication, lifting,) Tj
+T*
+(transport, and erection.) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 16 0 R >>
+endobj
+16 0 obj
+<< /Length 789 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mechanics | Unit 4: Plane Trusses & Sections) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 6 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.8 Key Takeaways and Revision Points) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Determinacy criterion for plane trusses: m = 2*j - 3.) Tj
+T*
+(* All truss members are idealized as two-force members carrying only axial tension or) Tj
+T*
+(compression.) Tj
+T*
+(* Method of Joints uses concurrent equilibrium \(Sigma Fx = 0, Sigma Fy = 0\) at each) Tj
+T*
+(node.) Tj
+T*
+(* Method of Sections uses non-concurrent equilibrium \(Sigma M = 0\) across an isolated) Tj
+T*
+(section.) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000178 00000 n 
+0000000248 00000 n 
+0000000323 00000 n 
+0000000435 00000 n 
+0000003465 00000 n 
+0000003577 00000 n 
+0000006525 00000 n 
+0000006638 00000 n 
+0000010190 00000 n 
+0000010304 00000 n 
+0000013698 00000 n 
+0000013812 00000 n 
+0000017543 00000 n 
+0000017657 00000 n 
+trailer
+<< /Size 17 /Root 1 0 R >>
+startxref
+18498
+%%EOF

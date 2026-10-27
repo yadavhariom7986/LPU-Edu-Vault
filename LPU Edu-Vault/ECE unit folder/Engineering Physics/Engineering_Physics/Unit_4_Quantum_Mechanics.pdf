@@ -1,0 +1,724 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 6 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 3187 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Physics | Unit 4: Quantum Mechanics & Dualism) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 1 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(=== UNIT 4: QUANTUM MECHANICS & WAVE-PARTICLE DUALITY ===) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.1 Inadequacy of Classical Physics and the Quantum Hypothesis) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Classical Newtonian mechanics and Maxwellian electrodynamics fail to explain microscopic) Tj
+T*
+(subatomic phenomena:) Tj
+T*
+(* Ultraviolet Catastrophe: Classical Rayleigh-Jeans blackbody law predicted radiation) Tj
+T*
+(intensity diverges to infinity at high frequencies \(u\(nu\) proportional to nu^2\).) Tj
+T*
+(Resolved by Max Planck \(1900\) by hypothesizing that energy exchange occurs in) Tj
+T*
+(discrete quantum packets: E = n * h * nu, where h = 6.626 * 10^-34 J-s.) Tj
+T*
+(* Photoelectric Effect: Emission of electrons from metals illuminated by light.) Tj
+T*
+(Heinrich Hertz / Albert Einstein \(1905\) demonstrated that: \(1\) Emission occurs) Tj
+T*
+(instantaneously without time lag, \(2\) Kinetic energy of photoelectrons depends) Tj
+T*
+(strictly on photon frequency, NOT light intensity: KE_max = h*nu - Phi_0 \(where Phi_0) Tj
+T*
+(is work function\), \(3\) Threshold frequency nu_0 below which no emission occurs) Tj
+T*
+(regardless of intensity.) Tj
+T*
+(* Compton Scattering: Inelastic scattering of X-ray photons by stationary electrons) Tj
+T*
+(resulting in wavelength shift: Delta lambda = lambda' - lambda = \(h / \(m_e * c\)\) * \(1) Tj
+T*
+(- cos\(theta\)\), proving that photons carry discrete relativistic momentum p = h /) Tj
+T*
+(lambda.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.2 De Broglie Hypothesis of Matter Waves) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(In 1924, Louis de Broglie hypothesized that if light exhibits wave-particle duality,) Tj
+T*
+(matter \(electrons, protons, atoms\) must likewise exhibit wave properties:) Tj
+T*
+(* De Broglie Wavelength: lambda = h / p = h / \(m * v\).) Tj
+T*
+(* Non-Relativistic Kinetic Energy Relation: p = sqrt\(2 * m * E\) => lambda = h /) Tj
+T*
+(sqrt\(2 * m * E\).) Tj
+T*
+(* For an electron accelerated from rest across potential difference V:) Tj
+T*
+(E = e * V => lambda = h / sqrt\(2 * m_e * e * V\) = 1.227 / sqrt\(V\) nanometers.) Tj
+T*
+(* Davisson-Germer Experiment \(1927\): Directed a collimated beam of 54 V electrons) Tj
+T*
+(onto a nickel target and observed intense constructive diffraction peaks at) Tj
+T*
+(scattering angle theta = 50 deg, exactly confirming Bragg's wave law and proving) Tj
+T*
+(matter waves experimentally.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.3 Heisenberg's Uncertainty Principle) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Werner Heisenberg \(1927\) proved that conjugate dynamical variables cannot be) Tj
+T*
+(simultaneously measured with arbitrary precision:) Tj
+T*
+(* Position-Momentum Uncertainty: Delta x * Delta p_x >= h_bar / 2, where h_bar = h /) Tj
+T*
+(\(2 * pi\) = 1.05457 * 10^-34 J-s.) Tj
+T*
+(* Energy-Time Uncertainty: Delta E * Delta t >= h_bar / 2. Explains natural spectral) Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 3211 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Physics | Unit 4: Quantum Mechanics & Dualism) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 2 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(line broadening of atomic transitions with finite lifetime.) Tj
+T*
+(* Proof that Electrons Cannot Reside in Atomic Nucleus: Nuclear radius R_n ~ 10^-14) Tj
+T*
+(m. If an electron were confined inside: Delta x ~ 10^-14 m => Delta p >= h_bar / \(2 *) Tj
+T*
+(Delta x\) ~ 5.3 * 10^-21 kg-m/s. Kinetic energy would exceed 20 MeV. However, beta) Tj
+T*
+(decay electrons have energies < 3 MeV, proving electrons cannot exist inside nuclei.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.4 The Wave Function and Born's Statistical Interpretation) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Wave Function Psi\(x,t\): A complex quantity containing all dynamical information) Tj
+T*
+(about a quantum system: Psi\(x,t\) = psi\(x\) * e^\(- i * E * t / h_bar\).) Tj
+T*
+(* Born's Probability Interpretation: Max Born \(1926\) interpreted |Psi\(x,t\)|^2 = Psi *) Tj
+T*
+(Psi^* as Probability Density: the probability dP of finding the particle in volume) Tj
+T*
+(element dx is dP = |Psi\(x,t\)|^2 dx.) Tj
+T*
+(* Physical Well-Behaved Conditions on Wave Function: \(1\) Must be continuous) Tj
+T*
+(everywhere, \(2\) First spatial derivative dPsi/dx must be continuous \(except at) Tj
+T*
+(infinite potential barriers\), \(3\) Single-valued everywhere, \(4\) Square-integrable) Tj
+T*
+(\(Normalizable\).) Tj
+T*
+(* Normalization Condition: Total probability of finding the particle across all space) Tj
+T*
+(must equal unity: Integral_-inf^+inf |Psi\(x,t\)|^2 dx = 1.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.5 Quantum Mechanical Operators and Schrodinger Equations) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(In quantum mechanics, physical observables are represented by linear Hermitian operators) Tj
+T*
+(acting on wave functions:) Tj
+T*
+(* Position Operator: x_hat = x.) Tj
+T*
+(* Linear Momentum Operator: p_hat = - i * h_bar * \(d/dx\). In 3D: p_hat = - i * h_bar) Tj
+T*
+(* Del.) Tj
+T*
+(* Kinetic Energy Operator: T_hat = p_hat^2 / \(2*m\) = - \(h_bar^2 / 2m\) * \(d^2/dx^2\).) Tj
+T*
+(* Total Energy \(Hamiltonian\) Operator: H_hat = T_hat + V_hat = - \(h_bar^2 / 2m\) *) Tj
+T*
+(\(d^2/dx^2\) + V\(x\).) Tj
+T*
+(* Time-Dependent Schrodinger Equation \(TDSE\): i * h_bar * \(dPsi/dt\) = H_hat * Psi = [) Tj
+T*
+(- \(h_bar^2 / 2m\) * Del^2 + V\(r\) ] * Psi.) Tj
+T*
+(* Time-Independent Schrodinger Equation \(TISE\): Separation of variables yields: [ -) Tj
+T*
+(\(h_bar^2 / 2m\) * \(d^2psi/dx^2\) + V\(x\) * psi\(x\) ] = E * psi\(x\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.6 Particle in a One-Dimensional Infinite Potential Box) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Consider a particle of mass m confined in an infinitely deep 1D potential well: V\(x\) = 0) Tj
+T*
+(for 0 < x < L, and V\(x\) = infinity for x <= 0 and x >= L:) Tj
+T*
+(* Boundary Conditions: psi\(0\) = 0, and psi\(L\) = 0 \(particle cannot penetrate infinite) Tj
+T*
+(walls\).) Tj
+T*
+(* Eigen Wave Functions: psi_n\(x\) = sqrt\(2 / L\) * sin\( n * pi * x / L \), where n = 1,) Tj
+T*
+(2, 3, ... \(Quantum Number\).) Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 3695 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Physics | Unit 4: Quantum Mechanics & Dualism) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 3 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(* Quantized Energy Eigenvalues: E_n = \(n^2 * pi^2 * h_bar^2\) / \(2 * m * L^2\) = \(n^2 *) Tj
+T*
+(h^2\) / \(8 * m * L^2\).) Tj
+T*
+(* Zero-Point Energy: Ground state \(n = 1\) energy E1 = h^2 / \(8 * m * L^2\) > 0. A) Tj
+T*
+(particle in a box can NEVER have zero kinetic energy \(consistent with Heisenberg) Tj
+T*
+(uncertainty principle: if E=0, p=0 exactly => Delta x = infinity, violating box) Tj
+T*
+(confinement\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([EXAMPLE 1: De Broglie Wavelength: Electron vs Macroscopic Object]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Compare the wave properties of two entities: \(1\) An electron) Tj
+T*
+(accelerated through potential difference V = 100 Volts \(mass m_e = 9.109 * 10^-31 kg\),) Tj
+T*
+(\(2\) A macroscopic golf ball of mass m = 46 g \(0.046 kg\) flying at velocity v = 30 m/s.) Tj
+T*
+(Explain why wave mechanics governs the electron while classical mechanics suffices for) Tj
+T*
+(the golf ball.) Tj
+T*
+(Solution Step 1: De Broglie wavelength of accelerated electron:) Tj
+T*
+(lambda_e = 1.227 / sqrt\(V\) nm = 1.227 / sqrt\(100\) = 1.227 / 10 = 0.1227 nm = 1.227 *) Tj
+T*
+(10^-10 m \(1.227 Angstroms\).) Tj
+T*
+(Physical significance: 0.123 nm is of the exact same order of magnitude as atomic) Tj
+T*
+(interplanar spacings in solids \(d ~ 0.1 to 0.3 nm\), resulting in measurable wave) Tj
+T*
+(diffraction.) Tj
+T*
+(Solution Step 2: De Broglie wavelength of macroscopic ball:) Tj
+T*
+(Momentum p = m * v = 0.046 kg * 30 m/s = 1.38 kg-m/s.) Tj
+T*
+(lambda_ball = h / p = \(6.626 * 10^-34 J-s\) / 1.38 kg-m/s = 4.80 * 10^-34 m.) Tj
+T*
+(Physical significance: 10^-34 m is 10^20 times smaller than the diameter of a proton) Tj
+T*
+(\(~10^-15 m\)! No physical aperture or crystal lattice can diffract such wavelengths.) Tj
+T*
+(Conclusion: Electron wavelength \(0.123 nm\) produces noticeable quantum wave phenomena,) Tj
+T*
+(whereas macroscopic wavelength \(10^-34 m\) is completely imperceptible.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([EXAMPLE 2: Proof that Electron Cannot Exist in Atomic Nucleus]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: The typical radius of an atomic nucleus is R = 1.5 * 10^-15 m \(1.5) Tj
+T*
+(femtometers\). Assuming an electron were confined inside, use Heisenberg's Uncertainty) Tj
+T*
+(Principle to compute: \(1\) Minimum uncertainty in momentum, \(2\) Minimum kinetic energy,) Tj
+T*
+(\(3\) Compare with observed beta-particle energies.) Tj
+T*
+(Solution Step 1: Position Uncertainty Delta x:) Tj
+T*
+(Maximum diameter of confinement: Delta x = 2 * R = 3.0 * 10^-15 m.) Tj
+T*
+(Solution Step 2: Momentum Uncertainty Delta p:) Tj
+T*
+(Delta x * Delta p >= h_bar / 2 => Delta p >= h_bar / \(2 * Delta x\).) Tj
+T*
+(Delta p >= \(1.05457 * 10^-34 J-s\) / \(2 * 3.0 * 10^-15 m\) = 1.05457 * 10^-34 / 6.0 *) Tj
+T*
+(10^-15 = 1.758 * 10^-20 kg-m/s.) Tj
+T*
+(Hence minimum momentum magnitude p ~= Delta p = 1.758 * 10^-20 kg-m/s.) Tj
+T*
+(Solution Step 3: Relativistic Kinetic Energy:) Tj
+T*
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 3640 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Physics | Unit 4: Quantum Mechanics & Dualism) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 4 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(Since p * c = \(1.758 * 10^-20\) * \(3.0 * 10^8\) = 5.274 * 10^-12 J >> m_e * c^2 \(8.19 *) Tj
+T*
+(10^-14 J\), motion is ultra-relativistic:) Tj
+T*
+(E_total ~= p * c = 5.274 * 10^-12 J / \(1.602 * 10^-13 J/MeV\) = 32.92 MeV.) Tj
+T*
+(Minimum KE ~= E_total - m_e*c^2 ~= 32.92 - 0.511 = 32.41 MeV.) Tj
+T*
+(Solution Step 4: Physical Deduction:) Tj
+T*
+(Experimental beta decay emissions from radioactive nuclei yield electrons with kinetic) Tj
+T*
+(energies of at most 2 to 3 MeV, NEVER 32 MeV.) Tj
+T*
+(Conclusion: An electron cannot reside as an intrinsic structural constituent inside an) Tj
+T*
+(atomic nucleus; beta decay electrons are synthesized at the instant of decay via) Tj
+T*
+(neutron-proton conversion.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([EXAMPLE 3: Particle in 1D Well: Normalization & Finding Probability]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: A quantum particle of mass m is trapped in an infinite potential box of) Tj
+T*
+(width L \(0 <= x <= L\) in its first excited state \(n = 2\), described by wave function) Tj
+T*
+(psi_2\(x\) = A * sin\(2*pi*x / L\). \(1\) Find normalization constant A, \(2\) Calculate) Tj
+T*
+(probability of finding particle in central region between x = L/4 and x = 3*L/4.) Tj
+T*
+(Solution Step 1: Normalization Integral:) Tj
+T*
+(Integral_0^L |psi_2\(x\)|^2 dx = 1 => A^2 * Integral_0^L sin^2\(2*pi*x / L\) dx = 1.) Tj
+T*
+(Using identity sin^2\(theta\) = \(1 - cos\(2*theta\)\) / 2:) Tj
+T*
+(A^2 * Integral_0^L [ 0.5 - 0.5 * cos\(4*pi*x / L\) ] dx = A^2 * [ 0.5*x - \(L /) Tj
+T*
+(8*pi\)*sin\(4*pi*x / L\) ]_0^L.) Tj
+T*
+(A^2 * [ 0.5*L - 0 ] = 1 => A^2 * \(L / 2\) = 1 => A = sqrt\(2 / L\).) Tj
+T*
+(Solution Step 2: Probability in Central Half \(L/4 <= x <= 3*L/4\):) Tj
+T*
+(P = Integral_{L/4}^{3L/4} \(2 / L\) * sin^2\(2*pi*x / L\) dx = \(2 / L\) * [ x/2 - \(L /) Tj
+T*
+(8*pi\)*sin\(4*pi*x / L\) ]_{L/4}^{3L/4}.) Tj
+T*
+(Evaluate at 3*L/4: sin\(4*pi*\(3L/4\)/L\) = sin\(3*pi\) = 0.) Tj
+T*
+(Evaluate at L/4: sin\(4*pi*\(L/4\)/L\) = sin\(pi\) = 0.) Tj
+T*
+(P = \(2 / L\) * [ \(3*L/8 - 0\) - \(L/8 - 0\) ] = \(2 / L\) * \(2*L / 8\) = \(2 / L\) * \(L / 4\) = 2) Tj
+T*
+(/ 4 = 0.50 \(50.0%\).) Tj
+T*
+(Conclusion: Normalization constant A = sqrt\(2/L\); Probability of finding particle in) Tj
+T*
+(central region is exactly 50%.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([EXAMPLE 4: Energy Levels of Electron in a 1 nm Quantum Well]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: An electron \(m_e = 9.109 * 10^-31 kg\) is confined in a 1D semiconductor) Tj
+T*
+(quantum well of width L = 1.0 nm \(1.0 * 10^-9 m\). Calculate: \(1\) Ground-state energy E1) Tj
+T*
+(in eV, \(2\) Energies of states n = 2 and n = 3, \(3\) Wavelength of photon emitted during) Tj
+T*
+(transition from n = 3 to n = 1.) Tj
+T*
+(Solution Step 1: Ground-State Energy E1:) Tj
+T*
+(E1 = h^2 / \(8 * m_e * L^2\) = \(6.626 * 10^-34\)^2 / [ 8 * 9.109 * 10^-31 * \(1.0 * 10^-9\)^2) Tj
+T*
+(].) Tj
+T*
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 3651 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Physics | Unit 4: Quantum Mechanics & Dualism) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 5 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(E1 = \(4.3904 * 10^-67\) / [ 7.2872 * 10^-48 ] = 6.0248 * 10^-20 Joules.) Tj
+T*
+(In eV: E1 = 6.0248 * 10^-20 J / \(1.6022 * 10^-19 J/eV\) = 0.3760 eV.) Tj
+T*
+(Solution Step 2: Energy of Excited States E2 and E3 \(En = n^2 * E1\):) Tj
+T*
+(E2 = 2^2 * E1 = 4 * 0.3760 eV = 1.504 eV.) Tj
+T*
+(E3 = 3^2 * E1 = 9 * 0.3760 eV = 3.384 eV.) Tj
+T*
+(Solution Step 3: Transition Wavelength lambda \(n = 3 to n = 1\):) Tj
+T*
+(Delta E = E3 - E1 = 3.384 - 0.376 = 3.008 eV = 4.819 * 10^-19 Joules.) Tj
+T*
+(lambda = \(h * c\) / Delta E = \(6.626 * 10^-34 * 3.0 * 10^8\) / \(4.819 * 10^-19\) = \(1.9878) Tj
+T*
+(* 10^-25\) / 4.819 * 10^-19 = 4.125 * 10^-7 m = 412.5 nm \(violet light\).) Tj
+T*
+(Conclusion: E1 = 0.376 eV; E2 = 1.504 eV; E3 = 3.384 eV; Emitted photon wavelength =) Tj
+T*
+(412.5 nm.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.7 University Review & Examination Questions) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Q1: State the fundamental postulates of quantum mechanics and derive the) Tj
+T*
+(time-independent Schrodinger wave equation.) Tj
+T*
+(Answer: Postulates: \(1\) State of a quantum particle is completely specified by wave) Tj
+T*
+(function Psi\(r,t\). \(2\) Physical observables correspond to linear Hermitian operators.) Tj
+T*
+(\(3\) The only possible measured values of observable A are eigenvalues a_n of equation) Tj
+T*
+(A_hat*psi_n = a_n*psi_n. \(4\) Probability density is |Psi|^2. Derivation of TISE: Total) Tj
+T*
+(energy equation is E = T + V = p^2/\(2m\) + V. Replace dynamical variables with operators:) Tj
+T*
+(E -> i*h_bar*\(d/dt\), p -> -i*h_bar*\(d/dx\). Operating on Psi\(x,t\): i*h_bar*\(dPsi/dt\) = -) Tj
+T*
+(\(h_bar^2 / 2m\) * \(d^2Psi/dx^2\) + V\(x\)*Psi. For stationary states, separate variables:) Tj
+T*
+(Psi\(x,t\) = psi\(x\) * e^\(- i*E*t / h_bar\). Substituting and dividing by e^\(- i*E*t /) Tj
+T*
+(h_bar\) yields: - \(h_bar^2 / 2m\) * \(d^2psi/dx^2\) + V\(x\)*psi\(x\) = E*psi\(x\).) Tj
+T*
+(* Q2: Solve the Schrodinger equation for a particle in a 1D infinitely deep potential) Tj
+T*
+(well and discuss the physical meaning of zero-point energy.) Tj
+T*
+(Answer: Inside the well \(0 < x < L\), V = 0, so d^2psi/dx^2 + k^2*psi = 0, where k =) Tj
+T*
+(sqrt\(2mE\)/h_bar. General solution is psi\(x\) = A*sin\(kx\) + B*cos\(kx\). Boundary condition) Tj
+T*
+(psi\(0\) = 0 requires B = 0. Boundary condition psi\(L\) = 0 requires A*sin\(kL\) = 0 => kL =) Tj
+T*
+(n*pi \(n = 1,2,3...\). Hence k = n*pi/L. Energy eigenvalues are E_n = \(h_bar^2*k^2\)/\(2m\) =) Tj
+T*
+(\(n^2*pi^2*h_bar^2\)/\(2mL^2\) = \(n^2*h^2\)/\(8mL^2\). Normalization gives A = sqrt\(2/L\), so) Tj
+T*
+(psi_n\(x\) = sqrt\(2/L\)*sin\(n*pi*x/L\). Zero-Point Energy: The lowest state n = 1 has energy) Tj
+T*
+(E1 = h^2/\(8mL^2\) > 0. A particle in a box cannot have zero energy because by) Tj
+T*
+(Heisenberg's principle, if E=0, p=0 \(Delta p = 0\), implying infinite position) Tj
+T*
+(uncertainty Delta x = infinity, which contradicts spatial confinement within width L.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.8 Key Takeaways and Revision Points) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* De Broglie wavelength lambda = h/p connects wave and particle domains.) Tj
+T*
+(* Heisenberg principle Delta x * Delta p >= h_bar/2 forbids simultaneous exact) Tj
+T*
+(measurement.) Tj
+T*
+(* Born interpretation: |Psi|^2 dx represents the probability of finding the particle) Tj
+T*
+(in interval dx.) Tj
+T*
+ET
+
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 16 0 R >>
+endobj
+16 0 obj
+<< /Length 420 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Physics | Unit 4: Quantum Mechanics & Dualism) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 6 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(* Particle in a box has quantized energies E_n proportional to n^2 and non-zero) Tj
+T*
+(ground state energy.) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000178 00000 n 
+0000000248 00000 n 
+0000000323 00000 n 
+0000000435 00000 n 
+0000003674 00000 n 
+0000003786 00000 n 
+0000007049 00000 n 
+0000007162 00000 n 
+0000010910 00000 n 
+0000011024 00000 n 
+0000014717 00000 n 
+0000014831 00000 n 
+0000018535 00000 n 
+0000018649 00000 n 
+trailer
+<< /Size 17 /Root 1 0 R >>
+startxref
+19121
+%%EOF

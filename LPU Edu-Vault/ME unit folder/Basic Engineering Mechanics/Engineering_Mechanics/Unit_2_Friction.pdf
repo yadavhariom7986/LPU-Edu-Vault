@@ -1,0 +1,674 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 3416 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mechanics | Unit 2: Friction & Wedges) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 1 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(=== UNIT 2: THEORY AND ENGINEERING APPLICATIONS OF FRICTION ===) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.1 Coulomb's Laws of Dry Friction) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Friction is the tangential retarding force developed at the interface of two contacting) Tj
+T*
+(bodies that resists impending or actual relative sliding motion. In civil engineering,) Tj
+T*
+(friction is indispensable in foundation stability, retaining wall design, slope) Tj
+T*
+(mechanics, and structural bolting.) Tj
+T*
+(* Static vs Kinetic Friction: \(1\) Static Friction \(F_s\): Tangential force resisting) Tj
+T*
+(relative motion when bodies are at rest; it is self-adjusting from zero up to a) Tj
+T*
+(maximum threshold known as Limiting Friction \(F_lim\). \(2\) Kinetic Friction \(F_k\):) Tj
+T*
+(Resisting force during actual relative sliding, which is strictly less than limiting) Tj
+T*
+(friction and independent of sliding velocity over moderate ranges.) Tj
+T*
+(* Coulomb's Laws of Friction: \(1\) Limiting frictional force F_lim is directly) Tj
+T*
+(proportional to the normal reaction N: F_lim = mu_s * N. \(2\) Kinetic friction F_k is) Tj
+T*
+(directly proportional to normal reaction: F_k = mu_k * N, with mu_k < mu_s. \(3\)) Tj
+T*
+(Frictional force is independent of the nominal apparent macroscopic contact area. \(4\)) Tj
+T*
+(Frictional force depends fundamentally on the nature and roughness of contacting) Tj
+T*
+(surface materials.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.2 Angle of Friction, Angle of Repose, and Cone of Friction) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Angle of Friction \(phi\): The angle between the resultant contact reaction R \(vector) Tj
+T*
+(sum of normal reaction N and limiting friction F_lim\) and the normal to the contact) Tj
+T*
+(plane: tan\(phi\) = F_lim / N = \(mu_s * N\) / N = mu_s. Thus: phi = atan\(mu_s\).) Tj
+T*
+(* Angle of Repose \(alpha\): The maximum inclination angle of a rough inclined plane) Tj
+T*
+(with the horizontal at which a loose body placed on it will remain in static) Tj
+T*
+(equilibrium without sliding down under its self-weight alone.) Tj
+T*
+(Proof that Angle of Repose equals Angle of Friction: For impending sliding down an) Tj
+T*
+(incline of angle alpha: Resolving along incline: W * sin\(alpha\) = F_lim. Resolving) Tj
+T*
+(perpendicular to incline: W * cos\(alpha\) = N. Dividing: tan\(alpha\) = F_lim / N = mu_s =) Tj
+T*
+(tan\(phi\) => alpha = phi.) Tj
+T*
+(* Cone of Friction: If the resultant contact force R is revolved 360 degrees about) Tj
+T*
+(the normal axis at the contact point, it sweeps out a right circular cone of apex) Tj
+T*
+(angle 2*phi known as the Cone of Friction. If an applied force resultant falls within) Tj
+T*
+(this cone, motion cannot occur regardless of force magnitude.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.3 Motion of Bodies on Rough Inclined Planes) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Let a body of weight W rest on a plane inclined at angle theta to the horizontal,) Tj
+T*
+(subjected to an external force P acting at angle beta to the incline:) Tj
+T*
+(* Case 1: Impending motion UP the plane: Friction force F acts DOWN the plane.) Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 2957 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mechanics | Unit 2: Friction & Wedges) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 2 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(Sigma F_parallel = 0: P*cos\(beta\) - W*sin\(theta\) - mu*N = 0.) Tj
+T*
+(Sigma F_perp = 0: N + P*sin\(beta\) - W*cos\(theta\) = 0.) Tj
+T*
+(* Case 2: Impending motion DOWN the plane: Friction force F acts UP the plane.) Tj
+T*
+(Sigma F_parallel = 0: P*cos\(beta\) - W*sin\(theta\) + mu*N = 0.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.4 Ladder Friction and Tip-Slip Mechanics) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(A ladder leaning against a wall represents a classic structural equilibrium system under) Tj
+T*
+(distributed and point live loads:) Tj
+T*
+(* Contact points: Floor A \(reaction N_A upward, friction F_A inward toward wall\) and) Tj
+T*
+(Wall B \(reaction N_B horizontal away from wall, friction F_B upward if wall is) Tj
+T*
+(rough\).) Tj
+T*
+(* Governing Equations: Sigma Fx = 0 => F_A = N_B; Sigma Fy = 0 => N_A + F_B =) Tj
+T*
+(W_ladder + W_climber; Sigma M_A = 0 determines the limiting position of climber) Tj
+T*
+(before slipping.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.5 Wedge Friction and Power Screws) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Wedge Mechanics: Wedges are inclined planes used to lift heavy structural equipment) Tj
+T*
+(or split timber by converting horizontal thrust into large vertical uplifting forces.) Tj
+T*
+(FBD of each block and wedge must incorporate normal reactions and limiting friction) Tj
+T*
+(forces opposed to impending relative movement.) Tj
+T*
+(* Screw Friction: Square-threaded and V-threaded power screws convert rotational) Tj
+T*
+(torque into linear thrust.) Tj
+T*
+(Torque to raise load: T = W * r_mean * tan\(alpha + phi\), where alpha is screw helix) Tj
+T*
+(angle: tan\(alpha\) = Lead / \(pi * d_mean\).) Tj
+T*
+(Torque to lower load: T = W * r_mean * tan\(alpha - phi\).) Tj
+T*
+(Self-Locking Condition: A screw will not back-drive under load if friction angle exceeds) Tj
+T*
+(helix angle: phi >= alpha. Mechanical efficiency of self-locking screws is strictly) Tj
+T*
+(below 50%.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.6 Belt and Rope Friction) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Flat Belt Transmission: Relates tight side tension T1 to slack side tension T2 over) Tj
+T*
+(a curved pulley or capstan drum with wrap angle theta \(in radians\):) Tj
+T*
+(Formula: T1 / T2 = e^\(mu * theta\), where e = 2.71828...) Tj
+T*
+(* V-Belt Transmission: Account for groove wedge angle 2*beta: T1 / T2 = e^\(mu * theta) Tj
+T*
+(/ sin\(beta\)\).) Tj
+T*
+(* Power Transmitted by Belt: P = \(T1 - T2\) * v, where v = pi * D * N / 60 m/s.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([EXAMPLE 1: Block on Incline with Horizontal Force]) Tj
+T*
+/F1 9 Tf
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 3626 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mechanics | Unit 2: Friction & Wedges) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 3 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: A concrete cube of weight W = 500 N rests on a rough ramp inclined at) Tj
+T*
+(theta = 30 deg to the horizontal. Coefficient of static friction is mu_s = 0.35.) Tj
+T*
+(Determine the range of horizontal force P applied to the block such that it remains in) Tj
+T*
+(static equilibrium \(neither slides down nor slips up\).) Tj
+T*
+(Solution Step 1: Case A - Impending motion DOWN the incline \(minimum force P_min\):) Tj
+T*
+(Friction acts UP the incline: F = mu_s * N.) Tj
+T*
+(Normal Reaction: N = W*cos\(30\) + P*sin\(30\) = 500*0.8660 + P*0.5 = 433.01 + 0.5*P.) Tj
+T*
+(Equilibrium along incline: P*cos\(30\) + mu_s * N - W*sin\(30\) = 0.) Tj
+T*
+(P*0.8660 + 0.35 * \(433.01 + 0.5*P\) - 500*0.50 = 0.) Tj
+T*
+(0.8660*P + 151.55 + 0.1750*P - 250 = 0 => 1.0410*P = 98.45 => P_min = 94.57 N.) Tj
+T*
+(Solution Step 2: Case B - Impending motion UP the incline \(maximum force P_max\):) Tj
+T*
+(Friction acts DOWN the incline: F = mu_s * N.) Tj
+T*
+(Normal Reaction: N = 433.01 + 0.5*P.) Tj
+T*
+(Equilibrium along incline: P*cos\(30\) - mu_s * N - W*sin\(30\) = 0.) Tj
+T*
+(P*0.8660 - 0.35 * \(433.01 + 0.5*P\) - 250 = 0.) Tj
+T*
+(0.8660*P - 151.55 - 0.1750*P - 250 = 0 => 0.6910*P = 401.55 => P_max = 581.11 N.) Tj
+T*
+(Conclusion: For static equilibrium, the horizontal force P must satisfy: 94.57 N <= P <=) Tj
+T*
+(581.11 N.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([EXAMPLE 2: Ladder Friction Analysis]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: A uniform ladder of length L = 6.0 m and weight W_L = 300 N rests) Tj
+T*
+(against a smooth vertical wall at an inclination angle of theta = 60 deg with the rough) Tj
+T*
+(horizontal ground \(mu_floor = 0.30\). A structural inspector of weight W_p = 750 N climbs) Tj
+T*
+(up the ladder. Calculate how far up along the ladder \(distance x from the base\) the) Tj
+T*
+(inspector can safely climb before the ladder begins to slip.) Tj
+T*
+(Solution Step 1: Support reactions at base A and wall B:) Tj
+T*
+(At smooth wall B: Normal reaction N_B is perpendicular to wall \(horizontal\); friction) Tj
+T*
+(F_B = 0.) Tj
+T*
+(At rough floor A: Vertical reaction N_A; horizontal friction F_A directed toward the) Tj
+T*
+(wall.) Tj
+T*
+(Solution Step 2: Global Equilibrium equations:) Tj
+T*
+(Sigma Fy = 0 => N_A - W_L - W_p = 0 => N_A = 300 + 750 = 1050 N.) Tj
+T*
+(At impending slipping at base A: F_A = F_lim = mu_floor * N_A = 0.30 * 1050 = 315 N.) Tj
+T*
+(Sigma Fx = 0 => N_B - F_A = 0 => N_B = 315 N.) Tj
+T*
+(Solution Step 3: Moment Equilibrium about base point A \(Sigma M_A = 0\):) Tj
+T*
+(Clockwise moments from weights = Counterclockwise moment from wall reaction N_B:) Tj
+T*
+([ W_L * \(L/2\) * cos\(60\) ] + [ W_p * x * cos\(60\) ] - [ N_B * L * sin\(60\) ] = 0.) Tj
+T*
+([ 300 * 3.0 * 0.50 ] + [ 750 * x * 0.50 ] - [ 315 * 6.0 * 0.8660 ] = 0.) Tj
+T*
+(450 + 375 * x - 1636.74 = 0 => 375 * x = 1186.74 => x = 3.16 m.) Tj
+T*
+(Conclusion: The inspector can safely climb up to distance x = 3.16 m along the ladder) Tj
+T*
+(before slip occurs.) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 3727 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mechanics | Unit 2: Friction & Wedges) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 4 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([EXAMPLE 3: Wedge Friction to Elevate Heavy Foundation Pier]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: A 15-degree wedge is driven horizontally under a machine foundation) Tj
+T*
+(pier of weight W = 25 kN. The coefficient of friction between all contacting surfaces) Tj
+T*
+(\(wedge/ground, wedge/block, block/vertical guide\) is mu = 0.25. Calculate the horizontal) Tj
+T*
+(force P required to drive the wedge inward and raise the pier.) Tj
+T*
+(Solution Step 1: Determine friction angle phi:) Tj
+T*
+(phi = atan\(mu\) = atan\(0.25\) = 14.04 deg.) Tj
+T*
+(Wedge angle alpha = 15.0 deg.) Tj
+T*
+(Solution Step 2: Equilibrium of the vertical block \(pier\):) Tj
+T*
+(Forces on block: Weight W = 25 kN downward; vertical guide reaction R1 inclined at phi =) Tj
+T*
+(14.04 deg to normal; interface reaction R2 from wedge inclined at phi = 14.04 deg to) Tj
+T*
+(normal of wedge face \(total angle from vertical = alpha + phi = 15 + 14.04 = 29.04 deg\).) Tj
+T*
+(Using Lami's or force polygon on block: R2 * cos\(alpha + phi + phi\) or vertical) Tj
+T*
+(equilibrium:) Tj
+T*
+(Sigma Fx = 0 => R1*cos\(phi\) - R2*sin\(alpha + phi\) = 0 => R1 = R2 * sin\(29.04\) /) Tj
+T*
+(cos\(14.04\) = 0.5003 * R2.) Tj
+T*
+(Sigma Fy = 0 => R2*cos\(alpha + phi\) - R1*sin\(phi\) - W = 0.) Tj
+T*
+(R2*cos\(29.04\) - \(0.5003*R2\)*sin\(14.04\) = 25 kN.) Tj
+T*
+(R2 * [ 0.8743 - 0.5003*0.2426 ] = 25 => R2 * [ 0.7529 ] = 25 => R2 = 33.20 kN.) Tj
+T*
+(Solution Step 3: Equilibrium of the horizontal wedge:) Tj
+T*
+(Forces on wedge: Horizontal force P; interface reaction R2 from block; floor reaction R3) Tj
+T*
+(inclined at phi = 14.04 deg to vertical normal.) Tj
+T*
+(Sigma Fx = 0 => P - R3*sin\(phi\) - R2*sin\(alpha + phi\) = 0 => P = R3*sin\(14.04\) +) Tj
+T*
+(33.20*sin\(29.04\).) Tj
+T*
+(Sigma Fy = 0 => R3*cos\(phi\) - R2*cos\(alpha + phi\) = 0 => R3 = 33.20 * cos\(29.04\) /) Tj
+T*
+(cos\(14.04\) = 33.20 * \(0.8743 / 0.9701\) = 29.92 kN.) Tj
+T*
+(Now compute P: P = 29.92 * sin\(14.04\) + 33.20 * sin\(29.04\) = 29.92 * 0.2426 + 33.20 *) Tj
+T*
+(0.4854 = 7.26 + 16.11 = 23.37 kN.) Tj
+T*
+(Conclusion: A horizontal force P = 23.37 kN is required to drive the wedge and lift the) Tj
+T*
+(foundation pier.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([EXAMPLE 4: Flat Belt Transmission and Power Delivery]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: A flat leather belt connects an electric motor pulley \(diameter D = 300) Tj
+T*
+(mm, rotating at N = 1200 RPM\) to an exhaust fan in a civil ventilation system. The) Tj
+T*
+(contact angle is theta = 165 deg \(2.8798 radians\) and coefficient of friction is mu =) Tj
+T*
+(0.30. If maximum allowable belt tension is T1 = 1500 N, calculate: \(1\) Slack side) Tj
+T*
+(tension T2, \(2\) Linear belt speed v, \(3\) Maximum power in kW transmitted without slip.) Tj
+T*
+(Solution Step 1: Belt Tension Ratio using Capstan Equation:) Tj
+T*
+(T1 / T2 = e^\(mu * theta\) = e^\(0.30 * 2.8798\) = e^\(0.8639\) = 2.3725.) Tj
+T*
+(T2 = T1 / 2.3725 = 1500 / 2.3725 = 632.24 N.) Tj
+T*
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 2886 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mechanics | Unit 2: Friction & Wedges) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 5 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(Solution Step 2: Linear Belt Velocity v:) Tj
+T*
+(v = \(pi * D * N\) / 60 = \(pi * 0.30 m * 1200\) / 60 = 18.85 m/s.) Tj
+T*
+(Solution Step 3: Maximum Power Transmitted:) Tj
+T*
+(Effective driving tension = T1 - T2 = 1500 - 632.24 = 867.76 N.) Tj
+T*
+(Power P = \(T1 - T2\) * v = 867.76 N * 18.85 m/s = 16357.28 W = 16.36 kW.) Tj
+T*
+(Conclusion: Slack side tension T2 = 632.24 N; belt speed v = 18.85 m/s; maximum power) Tj
+T*
+(transmitted is 16.36 kW.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.7 University Review & Examination Questions) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Q1: Deduce the relationship between coefficient of friction, angle of friction, and) Tj
+T*
+(angle of repose.) Tj
+T*
+(Answer: Consider a body resting on an inclined plane whose angle of inclination alpha is) Tj
+T*
+(gradually increased until the body just begins to slide under self-weight alone.) Tj
+T*
+(Resolving forces parallel to the plane: W*sin\(alpha\) = F_lim. Resolving perpendicular to) Tj
+T*
+(plane: W*cos\(alpha\) = N. Dividing gives tan\(alpha\) = F_lim / N. By Coulomb's law, F_lim) Tj
+T*
+(/ N = mu_s. By definition of angle of friction phi, tan\(phi\) = F_lim / N = mu_s.) Tj
+T*
+(Therefore, tan\(alpha\) = tan\(phi\) = mu_s, proving that Angle of Repose equals Angle of) Tj
+T*
+(Friction \(alpha = phi\).) Tj
+T*
+(* Q2: Explain the self-locking condition of a power screw and derive the expression) Tj
+T*
+(for mechanical efficiency.) Tj
+T*
+(Answer: A power screw is self-locking if it maintains its load without unwinding when) Tj
+T*
+(the turning torque is removed. The torque to lower a load is T = W * r_mean * tan\(alpha) Tj
+T*
+(- phi\). If helix angle alpha <= friction angle phi, the required lowering torque is zero) Tj
+T*
+(or positive, meaning the screw cannot unwind spontaneously. Mechanical efficiency is) Tj
+T*
+(defined as work output over work input: eta = tan\(alpha\) / tan\(alpha + phi\). For) Tj
+T*
+(self-locking \(alpha <= phi\), maximum efficiency occurs as alpha approaches phi, where) Tj
+T*
+(eta < tan\(phi\) / tan\(2*phi\) = \(1 - tan^2\(phi\)\) / 2 < 50%. Hence, self-locking power) Tj
+T*
+(screws always operate below 50% efficiency.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.8 Key Takeaways and Revision Points) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Friction is self-adjusting in the static regime up to limiting friction F_lim =) Tj
+T*
+(mu_s * N.) Tj
+T*
+(* Angle of repose equals angle of friction \(alpha = phi = atan\(mu\)\).) Tj
+T*
+(* Ladder slip is governed by moment equilibrium about the contact base.) Tj
+T*
+(* Belt drive tension ratio follows the exponential law: T1/T2 = e^\(mu*theta\).) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000171 00000 n 
+0000000241 00000 n 
+0000000316 00000 n 
+0000000428 00000 n 
+0000003896 00000 n 
+0000004008 00000 n 
+0000007017 00000 n 
+0000007130 00000 n 
+0000010809 00000 n 
+0000010923 00000 n 
+0000014703 00000 n 
+0000014817 00000 n 
+trailer
+<< /Size 15 /Root 1 0 R >>
+startxref
+17756
+%%EOF

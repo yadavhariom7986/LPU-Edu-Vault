@@ -1,0 +1,784 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 6 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 3450 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(ELECTRICAL ENGINEERING | UNIT 2: MODERN CAREER TRACKS IN ELECTRICAL ENGG) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Electrical Engineering) Tj
+340 0 Td
+(Page 1 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(ELECTRICAL ENGINEERING) Tj
+T*
+(UNIT 2: MODERN CAREER TRACKS FOR ELECTRICAL ENGINEERS) Tj
+T*
+(Curriculum: Lovely Professional University | Department of Electrical Engineering) Tj
+T*
+(Reference: IEEE Spectrum Career Guide / Power Electronics Handbook by M. H. Rashid) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.1 Core Power Sector & Public Sector Undertakings \(PSUs\)) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(The foundation of electrical engineering lies in national infrastructure:) Tj
+T*
+(- Power Generation: Thermal, nuclear, and hydro power stations \(NTPC, NHPC, NPCIL, State) Tj
+T*
+(Gencos\). Focus areas include generator synchronization, exciter tuning, turbine) Tj
+T*
+(governors, and thermodynamic heat-rate optimization.) Tj
+T*
+(- Power Transmission: High-voltage bulk transmission networks \(Power Grid Corporation of) Tj
+T*
+(India - PGCIL\). Key disciplines: Substation automation \(IEC 61850\), synchrophasor PMUs,) Tj
+T*
+(FACTS devices, and transmission line protection relays.) Tj
+T*
+(- Power Distribution: Discoms \(Tata Power, Adani Electricity, BSES, State Discoms\).) Tj
+T*
+(Modernization tracks: Automated Metering Infrastructure \(AMI\), GIS mapping, distribution) Tj
+T*
+(transformer health monitoring, and theft prevention.) Tj
+T*
+(- PSU Recruitment Pathways: GATE \(Graduate Aptitude Test in Engineering\) serves as the) Tj
+T*
+(primary entrance gateway for Maharatna and Navratna enterprises \(ONGC, IOCL, BHEL, GAIL,) Tj
+T*
+(SAIL, PGCIL, BARC, ISRO\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.2 Power Electronics, Electric Vehicles \(EV\) & Motor Drives) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(The automotive revolution has created unprecedented demand for electrical engineers:) Tj
+T*
+(- EV Powertrain Architecture: On-Board Chargers \(OBC\), High-Voltage Traction Inverters,) Tj
+T*
+(DC-DC Converters \(400V/800V down to 12V auxiliary bus\).) Tj
+T*
+(- Semiconductor Advancements: Transition from silicon IGBTs to Wide Bandgap \(WBG\)) Tj
+T*
+(semiconductors \(Silicon Carbide - SiC MOSFETs and Gallium Nitride - GaN HEMTs\) achieving) Tj
+T*
+(> 98.5% efficiency and switching frequencies > 150 kHz.) Tj
+T*
+(- Traction Motor Technologies: Permanent Magnet Synchronous Motors \(PMSM\) for high power) Tj
+T*
+(density, Interior Permanent Magnet \(IPM\) for high-speed field weakening, and Brushless) Tj
+T*
+(DC \(BLDC\) motors for light electric vehicles.) Tj
+T*
+(- Battery Management Systems \(BMS\): State of Charge \(SoC\) estimation using Extended) Tj
+T*
+(Kalman Filters \(EKF\), State of Health \(SoH\), active and passive cell balancing, and) Tj
+T*
+(thermal runaway prevention.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.3 Renewable Energy Engineering & Microgrids) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Decarbonization is transforming the power generation architecture:) Tj
+T*
+(- Solar Photovoltaic Systems: Utility-scale solar farms and commercial rooftop plants.) Tj
+T*
+(String inverters, central inverters, and Maximum Power Point Tracking \(MPPT\) algorithms.) Tj
+T*
+(- Wind Energy Systems: Doubly-Fed Induction Generators \(DFIG\) with partial-scale power) Tj
+T*
+(converters, and Permanent Magnet Synchronous Generators \(PMSG\) with full-scale) Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 3118 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(ELECTRICAL ENGINEERING | UNIT 2: MODERN CAREER TRACKS IN ELECTRICAL ENGG) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Electrical Engineering) Tj
+340 0 Td
+(Page 2 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(back-to-back converters.) Tj
+T*
+(- Microgrid Controllers: Islanding detection \(loss-of-mains protection\), black-start) Tj
+T*
+(sequencing, frequency and voltage droop control, and Battery Energy Storage Systems) Tj
+T*
+(\(BESS\) integration.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.4 Industrial Automation, PLC, SCADA & Robotics) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Industry 4.0 integrates electrical power actuation with digital controls:) Tj
+T*
+(- Programmable Logic Controllers \(PLC\): Structured programming based on IEC 61131-3) Tj
+T*
+(standard \(Ladder Diagram, Function Block Diagram, Structured Text\). Manufacturers:) Tj
+T*
+(Siemens \(TIA Portal / S7-1500\), Rockwell Automation \(Allen-Bradley ControlLogix\),) Tj
+T*
+(Schneider Electric.) Tj
+T*
+(- Supervisory Control and Data Acquisition \(SCADA\): Distributed process monitoring,) Tj
+T*
+(alarming, historical data logging, and OPC-UA communication.) Tj
+T*
+(- Variable Frequency Drives \(VFD\): Flux Vector Control \(FVC\) and Direct Torque Control) Tj
+T*
+(\(DTC\) for energy-efficient motor speed control across pumps, fans, conveyors, and) Tj
+T*
+(compressors.) Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(--------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(DETAILED WORKED EXAMPLES & ENGINEERING COMPUTATIONS) Tj
+T*
+/F2 9.5 Tf
+(--------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> Example 2.1: EV Traction Motor Power and Battery Pack Sizing) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Statement: An engineering design team is sizing the electric powertrain for an electric) Tj
+T*
+(passenger vehicle with the following vehicle dynamics parameters:) Tj
+T*
+(- Curb mass including passengers: M = 1,600 kg) Tj
+T*
+(- Frontal area: A = 2.2 m^2) Tj
+T*
+(- Aerodynamic drag coefficient: C_d = 0.28) Tj
+T*
+(- Air density at 25 deg C: rho = 1.20 kg/m^3) Tj
+T*
+(- Coefficient of rolling resistance: C_rr = 0.012) Tj
+T*
+(- Acceleration due to gravity: g = 9.81 m/s^2) Tj
+T*
+(\(a\) Calculate the steady-state mechanical power \(kW\) required at the wheels to cruise at) Tj
+T*
+(a highway speed of v = 108 km/h \(30 m/s\) on a flat road.) Tj
+T*
+(\(b\) Calculate the peak acceleration power \(kW\) required to accelerate from 0 to 100 km/h) Tj
+T*
+(\(0 to 27.78 m/s\) in t_acc = 7.5 seconds on level ground \(assuming average speed = 13.89) Tj
+T*
+(m/s\).) Tj
+T*
+(\(c\) Determine the minimum usable battery pack capacity \(kWh\) to achieve a driving range) Tj
+T*
+(of 350 km at 108 km/h, assuming powertrain efficiency eta_drive = 88% and Depth of) Tj
+T*
+(Discharge DoD = 85%.) Tj
+T*
+() Tj
+T*
+(Step-by-Step Solution:) Tj
+T*
+(1. Calculation of Highway Cruising Power \(at v = 30 m/s\):) Tj
+T*
+(- Rolling resistance force: F_rr = C_rr * M * g = 0.012 * 1,600 * 9.81 = 188.35 N) Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 3091 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(ELECTRICAL ENGINEERING | UNIT 2: MODERN CAREER TRACKS IN ELECTRICAL ENGG) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Electrical Engineering) Tj
+340 0 Td
+(Page 3 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(- Aerodynamic drag force: F_aero = 0.5 * rho * C_d * A * v^2) Tj
+T*
+(F_aero = 0.5 * 1.20 * 0.28 * 2.2 * \(30\)^2 = 0.3696 * 900 = 332.64 N) Tj
+T*
+(- Total tractive force: F_total = F_rr + F_aero = 188.35 + 332.64 = 520.99 N) Tj
+T*
+(- Wheel tractive power: P_wheel = F_total * v = 520.99 * 30 = 15,629.7 W = 15.63 kW) Tj
+T*
+() Tj
+T*
+(2. Calculation of Peak Acceleration Power \(0 to 100 km/h in 7.5 s\):) Tj
+T*
+(- Kinetic energy imparted: Delta_E_k = 0.5 * M * \(v_final\)^2 = 0.5 * 1,600 * \(27.78\)^2 =) Tj
+T*
+(800 * 771.73 = 617,384 J) Tj
+T*
+(- Inertial acceleration power: P_acc = Delta_E_k / t_acc = 617,384 / 7.5 = 82,318 W =) Tj
+T*
+(82.32 kW) Tj
+T*
+(- Average resistance power during acceleration \(at v_avg = 13.89 m/s\):) Tj
+T*
+(F_rr_avg = 188.35 N) Tj
+T*
+(F_aero_avg = 0.3696 * \(13.89\)^2 = 71.31 N) Tj
+T*
+(P_res_avg = \(188.35 + 71.31\) * 13.89 = 3,606 W = 3.61 kW) Tj
+T*
+(- Peak required motor output power: P_peak = P_acc + P_res_avg = 82.32 + 3.61 = 85.93 kW) Tj
+T*
+(\(approx. 115 HP\).) Tj
+T*
+() Tj
+T*
+(3. Battery Pack Capacity Sizing for 350 km Highway Range:) Tj
+T*
+(- Time required to travel 350 km at 108 km/h: T_drive = 350 / 108 = 3.241 hours.) Tj
+T*
+(- Total mechanical energy needed at wheels: E_wheel = P_wheel * T_drive = 15.63 kW *) Tj
+T*
+(3.241 h = 50.66 kWh) Tj
+T*
+(- Electrical energy drawn from battery: E_batt_usable = E_wheel / eta_drive = 50.66 /) Tj
+T*
+(0.88 = 57.57 kWh) Tj
+T*
+(- Total nominal battery capacity required \(accounting for DoD = 85%\):) Tj
+T*
+(E_nominal = E_batt_usable / DoD = 57.57 / 0.85 = 67.73 kWh.) Tj
+T*
+(- Specification: A standard 70 kWh Lithium-ion \(NMC 811\) pack perfectly satisfies the) Tj
+T*
+(design requirement.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> Example 2.2: Commercial Rooftop Solar PV System Design & MPPT Sizing) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Statement: Design a 250 kWp grid-connected commercial rooftop solar PV plant for an) Tj
+T*
+(engineering institute with the following technical specifications:) Tj
+T*
+(- Selected PV Module: Monocrystalline PERC 540 Wp) Tj
+T*
+(- Rated Power \(P_mp\) = 540 W) Tj
+T*
+(- Voltage at Max Power \(V_mp\) = 41.8 V) Tj
+T*
+(- Current at Max Power \(I_mp\) = 12.92 A) Tj
+T*
+(- Open-Circuit Voltage \(V_oc\) = 49.8 V \(at 25 deg C\)) Tj
+T*
+(- Temperature coefficient of V_oc = -0.28% / deg C) Tj
+T*
+(- Minimum winter cell temperature = 0 deg C; Maximum summer cell temperature = 65 deg C) Tj
+T*
+(- Selected Central Solar Inverter: 200 kW AC) Tj
+T*
+(- MPPT voltage operating range: 480 V to 850 V) Tj
+T*
+(- Maximum DC input voltage rating: 1,100 V) Tj
+T*
+(\(a\) Determine the minimum and maximum allowable modules per series string to stay within) Tj
+T*
+(the inverter MPPT window.) Tj
+T*
+(\(b\) Determine the number of parallel strings and total DC peak capacity installed.) Tj
+T*
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 3136 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(ELECTRICAL ENGINEERING | UNIT 2: MODERN CAREER TRACKS IN ELECTRICAL ENGG) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Electrical Engineering) Tj
+340 0 Td
+(Page 4 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(\(c\) Calculate the DC-to-AC overloading ratio and verify system compliance.) Tj
+T*
+() Tj
+T*
+(Step-by-Step Solution:) Tj
+T*
+(1. Temperature Corrected Module Voltages:) Tj
+T*
+(- Max Open-Circuit Voltage at 0 deg C \(coldest winter day\):) Tj
+T*
+(Delta_T_cold = 0 - 25 = -25 deg C) Tj
+T*
+(V_oc_cold = 49.8 * [1 + \(-0.0028 * -25\)] = 49.8 * [1 + 0.07] = 49.8 * 1.07 = 53.29 V) Tj
+T*
+(- Min Max-Power Voltage at 65 deg C \(hottest summer day\):) Tj
+T*
+(Delta_T_hot = 65 - 25 = +40 deg C) Tj
+T*
+(V_mp_hot = 41.8 * [1 + \(-0.0035 * 40\)] = 41.8 * [1 - 0.14] = 41.8 * 0.86 = 35.95 V) Tj
+T*
+() Tj
+T*
+(2. String Sizing Limits per Inverter MPPT Channel:) Tj
+T*
+(- Max modules per string \(based on 1,100 V limit\): N_max = floor\(1,100 / V_oc_cold\) =) Tj
+T*
+(floor\(1,100 / 53.29\) = floor\(20.64\) = 20 modules.) Tj
+T*
+(- Max modules per string \(to stay under 850 V MPPT max at 25 C\): N_mppt_max = floor\(850) Tj
+T*
+(/ 41.8\) = floor\(20.33\) = 20 modules.) Tj
+T*
+(- Min modules per string \(to stay above 480 V MPPT min at 65 C\): N_min = ceil\(480 /) Tj
+T*
+(V_mp_hot\) = ceil\(480 / 35.95\) = ceil\(13.35\) = 14 modules.) Tj
+T*
+(- Optimal engineering selection: 18 modules in series per string.) Tj
+T*
+(- Verification: String V_oc_cold = 18 * 53.29 = 959.2 V < 1,100 V \(Safe!\).) Tj
+T*
+(- Verification: String V_mp_hot = 18 * 35.95 = 647.1 V in [480 V, 850 V] \(Optimal) Tj
+T*
+(MPPT!\).) Tj
+T*
+() Tj
+T*
+(3. String and Array Sizing:) Tj
+T*
+(- Target array capacity = 250 kWp = 250,000 Wp) Tj
+T*
+(- Total modules needed = ceil\(250,000 / 540\) = ceil\(462.96\) = 468 modules.) Tj
+T*
+(- Number of parallel strings = 468 / 18 = 26 parallel strings.) Tj
+T*
+(- Total installed DC capacity: P_DC_total = 468 * 540 W = 252,720 W = 252.72 kWp.) Tj
+T*
+() Tj
+T*
+(4. DC-to-AC Overloading Ratio:) Tj
+T*
+(- Ratio = P_DC / P_AC_inverter = 252.72 kW / 200 kW = 1.2636 \(126.4%\).) Tj
+T*
+(- Engineering Evaluation: A DC/AC ratio of 1.25 - 1.30 is the industry gold standard,) Tj
+T*
+(maximizing inverter capacity utilization in morning and late afternoon hours without) Tj
+T*
+(excessive inverter clipping during midday peak.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> Example 2.3: Industrial Variable Frequency Drive \(VFD\) Energy Savings) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Statement: A manufacturing plant operates a 90 kW, 415 V, 50 Hz, 3-phase induction motor) Tj
+T*
+(driving a large industrial centrifugal chilled-water pump continuously for 8,000 hours) Tj
+T*
+(per year.) Tj
+T*
+(Due to seasonal production variations, the process requires only 70% of rated fluid flow) Tj
+T*
+(\(Q = 0.70 * Q_rated\) for 60% of operating hours \(4,800 hours\), and 100% flow for the) Tj
+T*
+(remaining 3,200 hours.) Tj
+T*
+(Compare the two flow modulation methods:) Tj
+T*
+(- Method A: Traditional mechanical throttle valve control \(Power consumed at 70% flow is) Tj
+T*
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 2979 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(ELECTRICAL ENGINEERING | UNIT 2: MODERN CAREER TRACKS IN ELECTRICAL ENGG) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Electrical Engineering) Tj
+340 0 Td
+(Page 5 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(86% of rated motor power\).) Tj
+T*
+(- Method B: Electronic VFD speed control obeying Centrifugal Pump Affinity Laws \(P) Tj
+T*
+(proportional to N^3\).) Tj
+T*
+(Assuming industrial electricity tariff of Rs. 8.50 per kWh, motor/drive efficiency of) Tj
+T*
+(92%, calculate:) Tj
+T*
+(\(a\) Annual energy consumption \(kWh\) under Method A.) Tj
+T*
+(\(b\) Annual energy consumption \(kWh\) under Method B.) Tj
+T*
+(\(c\) Net annual monetary savings and payback period for a VFD installation costing Rs.) Tj
+T*
+(5,20,000.) Tj
+T*
+() Tj
+T*
+(Step-by-Step Solution:) Tj
+T*
+(1. Power Consumption Calculations:) Tj
+T*
+(- Motor electrical input power at 100% load: P_100 = 90 kW / 0.92 = 97.83 kW.) Tj
+T*
+() Tj
+T*
+(2. Method A \(Mechanical Throttling\):) Tj
+T*
+(- At 100% flow \(3,200 h\): E_100 = 97.83 kW * 3,200 h = 313,056 kWh.) Tj
+T*
+(- At 70% flow throttled \(4,800 h\): Power is 86% of full load = 0.86 * 97.83 = 84.13 kW.) Tj
+T*
+(- Energy at 70% flow: E_70_A = 84.13 kW * 4,800 h = 403,824 kWh.) Tj
+T*
+(- Total Annual Energy \(Method A\): E_total_A = 313,056 + 403,824 = 716,880 kWh.) Tj
+T*
+() Tj
+T*
+(3. Method B \(VFD Speed Control via Affinity Laws\):) Tj
+T*
+(- Centrifugal Pump Affinity Laws state: Flow Q proportional to N; Power P proportional) Tj
+T*
+(to N^3.) Tj
+T*
+(- Therefore, at 70% flow, motor mechanical power required: P_70_mech = P_rated *) Tj
+T*
+(\(0.70\)^3 = 90 kW * 0.343 = 30.87 kW.) Tj
+T*
+(- Electrical input power via VFD \(accounting for 96% VFD and 90% partial load motor) Tj
+T*
+(efficiency = 86.4% total\):) Tj
+T*
+(P_70_VFD = 30.87 kW / 0.864 = 35.73 kW.) Tj
+T*
+(- Energy at 70% flow: E_70_B = 35.73 kW * 4,800 h = 171,504 kWh.) Tj
+T*
+(- At 100% flow \(3,200 h\): Motor input with VFD \(95% VFD eff\): P_100_VFD = 90 / \(0.92 *) Tj
+T*
+(0.98\) = 99.82 kW.) Tj
+T*
+(- Energy at 100% flow: E_100_B = 99.82 kW * 3,200 h = 319,424 kWh.) Tj
+T*
+(- Total Annual Energy \(Method B\): E_total_B = 319,424 + 171,504 = 490,928 kWh.) Tj
+T*
+() Tj
+T*
+(4. Energy and Monetary Savings Analysis:) Tj
+T*
+(- Annual Energy Saved: Delta_E = 716,880 - 490,928 = 225,952 kWh/year.) Tj
+T*
+(- Annual Electricity Cost Savings: Savings = 225,952 kWh * Rs. 8.50 = Rs. 1,920,592 per) Tj
+T*
+(year \(Rs. 19.2 Lakhs/year!\).) Tj
+T*
+(- Simple Payback Period = Capital Cost / Annual Savings = 5,20,000 / 1,920,592 = 0.27) Tj
+T*
+(years \(approx. 3.25 months!\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> Example 2.4: Power Quality Harmonics Analysis and Shunt Passive Filter Design) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Statement: A 415 V, 50 Hz 3-phase industrial distribution panel feeds a bank of 6-pulse) Tj
+T*
+(thyristor bridge rectifiers. A power quality analyzer records the fundamental and) Tj
+T*
+ET
+
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 16 0 R >>
+endobj
+16 0 obj
+<< /Length 2908 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(ELECTRICAL ENGINEERING | UNIT 2: MODERN CAREER TRACKS IN ELECTRICAL ENGG) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Electrical Engineering) Tj
+340 0 Td
+(Page 6 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(harmonic currents as follows:) Tj
+T*
+(- Fundamental \(50 Hz\): I_1 = 300 A) Tj
+T*
+(- 5th Harmonic \(250 Hz\): I_5 = 60 A) Tj
+T*
+(- 7th Harmonic \(350 Hz\): I_7 = 42 A) Tj
+T*
+(- 11th Harmonic \(550 Hz\): I_11 = 25 A) Tj
+T*
+(- 13th Harmonic \(650 Hz\): I_13 = 18 A) Tj
+T*
+(\(a\) Calculate the Total Harmonic Distortion of current \(THD_i\) and the true RMS current) Tj
+T*
+(drawn from the transformer.) Tj
+T*
+(\(b\) If IEEE 519 standard mandates THD_i < 8.0%, evaluate if the system violates) Tj
+T*
+(compliance.) Tj
+T*
+(\(c\) Design a single-tuned LC passive harmonic filter tuned to the 5th harmonic \(f_tune =) Tj
+T*
+(250 Hz\) that supplies 75 kVAR of fundamental reactive power to correct the displacement) Tj
+T*
+(power factor.) Tj
+T*
+() Tj
+T*
+(Step-by-Step Solution:) Tj
+T*
+(1. Calculation of Total Harmonic Current and True RMS Current:) Tj
+T*
+(- Harmonic sum of squares: I_harm^2 = I_5^2 + I_7^2 + I_11^2 + I_13^2) Tj
+T*
+(I_harm^2 = 60^2 + 42^2 + 25^2 + 18^2 = 3600 + 1764 + 625 + 324 = 6,313 A^2) Tj
+T*
+(I_harm = sqrt\(6,313\) = 79.45 A) Tj
+T*
+(- Total Harmonic Distortion: THD_i = \(I_harm / I_1\) * 100 = \(79.45 / 300\) * 100 = 26.48%) Tj
+T*
+(- True RMS Current: I_rms = sqrt\(I_1^2 + I_harm^2\) = sqrt\(300^2 + 79.45^2\) = sqrt\(90,000) Tj
+T*
+(+ 6,313\) = 310.34 A.) Tj
+T*
+(- Compliance Evaluation: Measured THD_i = 26.48% severely violates IEEE 519 limit of) Tj
+T*
+(8.0%. Active or passive filtering is legally required.) Tj
+T*
+() Tj
+T*
+(2. Design of Single-Tuned 5th Harmonic Filter Branch:) Tj
+T*
+(- Tuning order: n = f_tune / f_1 = 250 / 50 = 5.0 \(often tuned to n = 4.8 to avoid) Tj
+T*
+(anti-resonance tolerances\).) Tj
+T*
+(- Three-phase filter capacitive reactive power: Q_f = 75 kVAR = 75,000 VAR.) Tj
+T*
+(- Phase voltage: V_ph = 415 / sqrt\(3\) = 239.6 V.) Tj
+T*
+(- Fundamental capacitive reactance per phase \(delta or wye\):) Tj
+T*
+(In wye connection: X_C - X_L = V_ph^2 / \(Q_f / 3\) = \(239.6\)^2 / 25,000 = 57,408 / 25,000) Tj
+T*
+(= 2.296 Ohms.) Tj
+T*
+(- At tuning frequency omega_n = 5 * omega_1: X_Ln = X_Cn => 5 * X_L1 = X_C1 / 5 => X_L1) Tj
+T*
+(= X_C1 / 25.) Tj
+T*
+(- Net net fundamental reactance: X_net1 = X_C1 - X_L1 = X_C1 * \(1 - 1/25\) = \(24/25\) *) Tj
+T*
+(X_C1 = 2.296 Ohms.) Tj
+T*
+(- Capacitive Reactance: X_C1 = 2.296 * \(25 / 24\) = 2.392 Ohms.) Tj
+T*
+(- Capacitance: C = 1 / \(2 * pi * 50 * 2.392\) = 1 / 751.47 = 1,330.7 microFarads per) Tj
+T*
+(phase.) Tj
+T*
+(- Inductive Reactance: X_L1 = X_C1 / 25 = 2.392 / 25 = 0.0957 Ohms.) Tj
+T*
+(- Tuning Inductance: L = X_L1 / \(2 * pi * 50\) = 0.0957 / 314.16 = 0.3046 milliHenries) Tj
+T*
+(\(304.6 microH\).) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000178 00000 n 
+0000000248 00000 n 
+0000000323 00000 n 
+0000000435 00000 n 
+0000003937 00000 n 
+0000004049 00000 n 
+0000007219 00000 n 
+0000007332 00000 n 
+0000010476 00000 n 
+0000010590 00000 n 
+0000013779 00000 n 
+0000013893 00000 n 
+0000016925 00000 n 
+0000017039 00000 n 
+trailer
+<< /Size 17 /Root 1 0 R >>
+startxref
+20000
+%%EOF

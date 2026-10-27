@@ -1,0 +1,676 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 3130 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mechanics | Unit 6: Rigid Body Dynamics & ICR) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 1 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(=== UNIT 6: KINEMATICS AND KINETICS OF RIGID BODIES ===) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.1 Planar Kinematics: Translation, Fixed Rotation, and General Motion) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(A rigid body in planar motion experiences three distinct kinematic modes:) Tj
+T*
+(* 1. Pure Translation: Every straight line in the body remains strictly parallel to) Tj
+T*
+(its original direction. All points possess identical velocity and acceleration) Tj
+T*
+(vectors at any instant: v_A = v_B, and a_A = a_B.) Tj
+T*
+(* 2. Fixed-Axis Rotation: All particles move in concentric circular paths about a) Tj
+T*
+(stationary fixed axis perpendicular to the plane of motion. The kinematics are) Tj
+T*
+(defined by angular displacement theta\(t\), angular velocity omega = dtheta/dt, and) Tj
+T*
+(angular acceleration alpha = domega/dt.) Tj
+T*
+(- Linear Velocity: v = r * omega \(directed tangentially\).) Tj
+T*
+(- Tangential Acceleration: a_t = r * alpha.) Tj
+T*
+(- Normal \(Centripetal\) Acceleration: a_n = r * omega^2 = v^2 / r.) Tj
+T*
+(- Total Linear Acceleration: a = sqrt\( a_t^2 + a_n^2 \) = r * sqrt\( alpha^2 + omega^4 \).) Tj
+T*
+(* 3. General Plane Motion: A simultaneous combination of translation and rotation:) Tj
+T*
+(v_B = v_A + v_B/A, where v_B/A = omega x r_B/A.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.2 Instantaneous Centre of Zero Velocity \(ICR / ICZ\)) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(At any given instant, the general planar motion of a rigid body can be conceptualized as) Tj
+T*
+(a pure rotation about a single point in the plane having ZERO linear velocity, termed) Tj
+T*
+(the Instantaneous Centre of Rotation \(ICR\):) Tj
+T*
+(* Locating the ICR:) Tj
+T*
+(- Case 1: If velocities v_A and v_B at two distinct points A and B are known in) Tj
+T*
+(direction \(non-parallel\), the ICR is the geometric intersection of perpendicular lines) Tj
+T*
+(drawn to v_A and v_B.) Tj
+T*
+(- Case 2: For a cylinder or wheel rolling WITHOUT SLIPPING on a stationary surface, the) Tj
+T*
+(contact point is instantaneously at rest. Hence, the contact point is the ICR.) Tj
+T*
+(* Velocity Distribution from ICR: Once ICR is found, the velocity of ANY point P on) Tj
+T*
+(the body is: v_P = omega * r_P/ICR, directed perpendicular to line P-ICR.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.3 Kinetics of Rigid Bodies: Equations of Motion) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(For a rigid body of mass m with centre of mass G subjected to general coplanar force) Tj
+T*
+(systems:) Tj
+T*
+(* Translational Equations of Motion: Sigma Fx = m * a_Gx, and Sigma Fy = m * a_Gy.) Tj
+T*
+(* Rotational Equation of Motion: Sigma M_G = I_G * alpha, where I_G is the mass) Tj
+T*
+(moment of inertia about the centroidal z-axis.) Tj
+T*
+(* Alternative Moment Equation about arbitrary point P: Sigma M_P = I_G * alpha + \(m *) Tj
+T*
+(a_G\) * d.) Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 3179 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mechanics | Unit 6: Rigid Body Dynamics & ICR) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 2 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(* Fixed-Axis Rotation about fixed hinge pin O: Sigma M_O = I_O * alpha, where I_O =) Tj
+T*
+(I_G + m*d^2 \(by parallel axis theorem\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.4 Work-Energy Principle for Rigid Bodies in Planar Motion) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Kinetic Energy of a Planar Rigid Body: KE = 0.5 * m * \(v_G\)^2 + 0.5 * I_G *) Tj
+T*
+(\(omega\)^2.) Tj
+T*
+(- Pure Translation \(omega = 0\): KE = 0.5 * m * v_G^2.) Tj
+T*
+(- Pure Rotation about fixed pin O \(v_O = 0\): KE = 0.5 * I_O * omega^2.) Tj
+T*
+(- Rolling Without Slipping \(v_G = R*omega\): KE = 0.5 * m * \(R*omega\)^2 + 0.5 * I_G *) Tj
+T*
+(omega^2 = 0.5 * I_ICR * omega^2.) Tj
+T*
+(* Work-Energy Theorem: Sigma U_1-2 = KE_2 - KE_1.) Tj
+T*
+(Work of a Couple/Torque: U = Integral\( M dtheta \) = M * Delta theta \(for constant torque) Tj
+T*
+(M\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.5 Angular Momentum and Impulse-Momentum for Rigid Bodies) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Angular Momentum about G: H_G = I_G * omega.) Tj
+T*
+(* Angular Momentum about fixed pin O: H_O = I_O * omega.) Tj
+T*
+(* Principle of Angular Impulse and Momentum: Integral_t1^t2\( Sigma M_G dt \) = I_G *) Tj
+T*
+(omega_2 - I_G * omega_1.) Tj
+T*
+(* Conservation of Angular Momentum: If the resultant external moment about an axis is) Tj
+T*
+(zero \(Sigma M_ext = 0\), total angular momentum about that axis is conserved: I_1 *) Tj
+T*
+(omega_1 = I_2 * omega_2.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([EXAMPLE 1: Velocity Analysis of Crank Mechanism via ICR]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: A reciprocating slider-crank mechanism has a crank OA of length r = 150) Tj
+T*
+(mm rotating counterclockwise at constant speed N = 300 RPM \(omega = 31.42 rad/s\).) Tj
+T*
+(Connecting rod AB has length L = 500 mm. At the instant when crank OA makes theta = 60) Tj
+T*
+(deg with the horizontal line of slider stroke, calculate: \(1\) Linear velocity of crank) Tj
+T*
+(pin A, \(2\) Angular velocity omega_AB of the connecting rod, \(3\) Linear velocity of) Tj
+T*
+(slider B.) Tj
+T*
+(Solution Step 1: Linear Velocity of Crank Pin A:) Tj
+T*
+(v_A = r * omega = 0.150 m * 31.42 rad/s = 4.71 m/s.) Tj
+T*
+(Direction of v_A: Perpendicular to crank OA \(at angle 60 + 90 = 150 deg\).) Tj
+T*
+(Solution Step 2: Establish Geometry and Locate ICR of Rod AB:) Tj
+T*
+(Slider B is constrained to move horizontally along the stroke axis => velocity v_B is) Tj
+T*
+(strictly horizontal.) Tj
+T*
+(- Draw perpendicular to v_A at A \(which is line OA extended\).) Tj
+T*
+(- Draw perpendicular to v_B at B \(which is a vertical line through B\).) Tj
+T*
+(- Intersection of line OA extended and vertical line through B defines the ICR.) Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 3677 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mechanics | Unit 6: Rigid Body Dynamics & ICR) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 3 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(In triangle O-B-ICR:) Tj
+T*
+(Angle of rod AB with horizontal: In triangle OAB, by sine rule: 0.150 / sin\(beta\) =) Tj
+T*
+(0.500 / sin\(60\) => sin\(beta\) = 0.150 * 0.8660 / 0.500 = 0.2598 => beta = 15.06 deg.) Tj
+T*
+(Distance from ICR to A: r_A/ICR = 0.500 * [ cos\(15.06\) / sin\(60\) ] = 0.500 * \(0.9657 /) Tj
+T*
+(0.8660\) = 0.5576 m.) Tj
+T*
+(Distance from ICR to B: r_B/ICR = 0.150 * [ sin\(60 + 15.06\) / sin\(60\) ] + ... = 0.4430) Tj
+T*
+(m.) Tj
+T*
+(Solution Step 3: Compute Angular Velocity omega_AB and Slider Velocity v_B:) Tj
+T*
+(omega_AB = v_A / r_A/ICR = 4.71 m/s / 0.5576 m = 8.45 rad/s \(clockwise\).) Tj
+T*
+(v_B = omega_AB * r_B/ICR = 8.45 rad/s * 0.4430 m = 3.74 m/s.) Tj
+T*
+(Conclusion: Crank pin velocity v_A = 4.71 m/s; connecting rod omega_AB = 8.45 rad/s;) Tj
+T*
+(slider velocity v_B = 3.74 m/s.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([EXAMPLE 2: Cylinder Rolling Without Slipping Down an Incline]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: A solid uniform civil drainage concrete pipe section of mass m = 200 kg) Tj
+T*
+(and outer radius R = 0.40 m \(centroidal MOI I_G = 0.5 * m * R^2\) is released from rest) Tj
+T*
+(on an incline of theta = 30 deg. Assuming it rolls without slipping, calculate: \(1\)) Tj
+T*
+(Linear acceleration a_G of its center of mass, \(2\) Minimum coefficient of static) Tj
+T*
+(friction mu_s required to prevent slipping.) Tj
+T*
+(Solution Step 1: Establish Equations of Motion for Rolling Body:) Tj
+T*
+(Forces acting: Gravity component down incline m*g*sin\(30\); Normal reaction N =) Tj
+T*
+(m*g*cos\(30\); Friction force F_s acting up the incline at contact point.) Tj
+T*
+(Translational equilibrium down incline: m * g * sin\(30\) - F_s = m * a_G. \(Equation 1\)) Tj
+T*
+(Rotational equilibrium about center G: F_s * R = I_G * alpha. \(Equation 2\)) Tj
+T*
+(Kinematic rolling condition \(no slip\): a_G = R * alpha => alpha = a_G / R.) Tj
+T*
+(Solution Step 2: Substitute rolling condition into rotational equation:) Tj
+T*
+(F_s * R = \(0.5 * m * R^2\) * \(a_G / R\) = 0.5 * m * R * a_G => F_s = 0.5 * m * a_G.) Tj
+T*
+(Solution Step 3: Solve for Linear Acceleration a_G:) Tj
+T*
+(Substitute F_s into Equation 1: m * g * sin\(30\) - 0.5 * m * a_G = m * a_G.) Tj
+T*
+(1.5 * m * a_G = m * g * sin\(30\) => a_G = \(2/3\) * g * sin\(30\).) Tj
+T*
+(a_G = \(2/3\) * 9.81 * 0.50 = 3.27 m/s^2.) Tj
+T*
+(Solution Step 4: Calculate Friction Force and Minimum Friction Coefficient:) Tj
+T*
+(F_s = 0.5 * 200 * 3.27 = 327.0 N.) Tj
+T*
+(Normal Reaction: N = m * g * cos\(30\) = 200 * 9.81 * 0.8660 = 1699.1 N.) Tj
+T*
+(Condition for no slip: F_s <= mu_s * N => mu_s >= F_s / N.) Tj
+T*
+(mu_s >= 327.0 / 1699.1 = 0.1925 \(or mu_s >= tan\(30\) / 3 = 0.5774 / 3 = 0.1925\).) Tj
+T*
+(Conclusion: Acceleration a_G = 3.27 m/s^2; Minimum coefficient of static friction mu_s =) Tj
+T*
+(0.193.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([EXAMPLE 3: Flywheel Braking Torque and Deceleration]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 3585 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mechanics | Unit 6: Rigid Body Dynamics & ICR) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 4 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(Problem Context: A heavy cast-iron flywheel of mass m = 500 kg and radius of gyration k) Tj
+T*
+(= 0.60 m rotates at N1 = 600 RPM. A mechanical friction brake is applied, exerting a) Tj
+T*
+(constant retarding braking torque of T_brake = 180 N-m. Determine: \(1\) Initial kinetic) Tj
+T*
+(energy of the flywheel, \(2\) Angular deceleration alpha, \(3\) Time t required to bring the) Tj
+T*
+(flywheel to rest, \(4\) Total revolutions N_rev turned during braking.) Tj
+T*
+(Solution Step 1: Mass Moment of Inertia I_G and Initial Angular Velocity omega_1:) Tj
+T*
+(I_G = m * k^2 = 500 * \(0.60\)^2 = 500 * 0.36 = 180.0 kg-m^2.) Tj
+T*
+(omega_1 = \(2 * pi * N1\) / 60 = \(2 * pi * 600\) / 60 = 20 * pi = 62.83 rad/s.) Tj
+T*
+(Solution Step 2: Initial Kinetic Energy KE_1:) Tj
+T*
+(KE_1 = 0.5 * I_G * \(omega_1\)^2 = 0.5 * 180.0 * \(62.83\)^2 = 90.0 * 3947.84 = 355,305.6 J) Tj
+T*
+(= 355.31 kJ.) Tj
+T*
+(Solution Step 3: Angular Deceleration alpha:) Tj
+T*
+(T_brake = I_G * alpha => alpha = T_brake / I_G = 180 N-m / 180 kg-m^2 = 1.0 rad/s^2) Tj
+T*
+(\(retarding\).) Tj
+T*
+(Solution Step 4: Stopping Time t and Revolutions N_rev:) Tj
+T*
+(omega_2 = omega_1 - alpha * t => 0 = 62.83 - 1.0 * t => t = 62.83 s \(approx 1 minute 3) Tj
+T*
+(seconds\).) Tj
+T*
+(Total angular displacement: Delta theta = \(omega_1\)^2 / \(2 * alpha\) = \(62.83\)^2 / \(2 *) Tj
+T*
+(1.0\) = 1973.92 radians.) Tj
+T*
+(Number of revolutions: N_rev = Delta theta / \(2 * pi\) = 1973.92 / 6.2832 = 314.16) Tj
+T*
+(revolutions.) Tj
+T*
+(Conclusion: KE_initial = 355.31 kJ; stopping time t = 62.83 s; revolutions turned =) Tj
+T*
+(314.16 rev.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([EXAMPLE 4: Swinging Slender Structural Rod Released from Rest]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: A uniform slender steel member AB of mass m = 24 kg and length L = 2.0) Tj
+T*
+(m is hinged at end A and held horizontally. It is released from rest. At the instant it) Tj
+T*
+(swings through the vertical position, calculate: \(1\) Angular velocity omega, \(2\) Angular) Tj
+T*
+(acceleration alpha, \(3\) Total hinge reaction force at A.) Tj
+T*
+(Solution Step 1: Conservation of Energy between horizontal \(1\) and vertical \(2\):) Tj
+T*
+(Hinge MOI for slender rod: I_A = \(1/3\) * m * L^2 = \(1/3\) * 24 * \(2.0\)^2 = 32.0 kg-m^2.) Tj
+T*
+(Vertical drop of center of mass G: Delta h = L / 2 = 2.0 / 2 = 1.0 m.) Tj
+T*
+(Potential energy loss = m * g * Delta h = 24 * 9.81 * 1.0 = 235.44 J.) Tj
+T*
+(Kinetic energy in vertical position = 0.5 * I_A * omega^2 = 0.5 * 32.0 * omega^2 = 16.0) Tj
+T*
+(* omega^2.) Tj
+T*
+(Equating: 16.0 * omega^2 = 235.44 => omega^2 = 14.715 => omega = sqrt\(14.715\) = 3.84) Tj
+T*
+(rad/s.) Tj
+T*
+(Solution Step 2: Angular Acceleration alpha in vertical position:) Tj
+T*
+(In vertical position, line of gravity force passes directly through hinge pin A =>) Tj
+T*
+(Moment arm d = 0.) Tj
+T*
+(Sigma M_A = m * g * 0 = 0 => alpha = 0 rad/s^2.) Tj
+T*
+(Solution Step 3: Reaction Force at Hinge A in vertical position:) Tj
+T*
+(Center of mass G experiences centripetal acceleration upward toward hinge A:) Tj
+T*
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 3212 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mechanics | Unit 6: Rigid Body Dynamics & ICR) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 5 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(a_Gn = \(L / 2\) * omega^2 = 1.0 m * 14.715 = 14.715 m/s^2.) Tj
+T*
+(Dynamic equilibrium vertically \(taking upward as positive\): R_A - m*g = m * a_Gn.) Tj
+T*
+(R_A = m * \(g + a_Gn\) = 24 * \(9.81 + 14.715\) = 24 * \(24.525\) = 588.60 N.) Tj
+T*
+(\(Notice R_A = 2.5 * m*g = 2.5 * 235.44 = 588.60 N\).) Tj
+T*
+(Conclusion: At the vertical position: omega = 3.84 rad/s; alpha = 0; vertical hinge) Tj
+T*
+(reaction R_A = 588.60 N \(upward\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.6 University Review & Examination Questions) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Q1: Define the Instantaneous Centre of Rotation \(ICR\) and explain how it is used to) Tj
+T*
+(determine velocity distribution in a planar mechanism.) Tj
+T*
+(Answer: The Instantaneous Centre of Rotation is a unique point in the plane of a rigid) Tj
+T*
+(body experiencing general planar motion that instantaneously possesses zero linear) Tj
+T*
+(velocity. Since its velocity is zero at that particular instant, the complex plane) Tj
+T*
+(motion \(translation + rotation\) of the body reduces to pure rotation about this ICR. To) Tj
+T*
+(locate the ICR: if the direction of velocity vectors at two distinct points A and B are) Tj
+T*
+(known, perpendicular lines drawn to these velocity vectors intersect at the ICR. The) Tj
+T*
+(magnitude of velocity of any arbitrary point P on the body is then simply v_P = omega *) Tj
+T*
+(r_P/ICR, and its direction is perpendicular to the radial vector connecting ICR to P.) Tj
+T*
+(* Q2: Derive the general kinetic energy expression for a rigid body undergoing) Tj
+T*
+(general planar motion.) Tj
+T*
+(Answer: Consider a rigid body composed of particles of mass m_i with position vector r_i) Tj
+T*
+(relative to center of mass G. Let G have translational velocity v_G and the body rotate) Tj
+T*
+(with angular velocity omega. The velocity of particle i is v_i = v_G + \(omega x r_i\).) Tj
+T*
+(Kinetic energy is: KE = 0.5 * Sigma\(m_i * |v_i|^2\) = 0.5 * Sigma\( m_i * [ v_G^2 +) Tj
+T*
+(2*v_G*\(omega x r_i\) + |omega x r_i|^2 ] \). Since Integral r_i dm = 0 \(by definition of) Tj
+T*
+(center of mass\), the cross term vanishes identically. The term Sigma\(m_i * |omega x) Tj
+T*
+(r_i|^2\) equals I_G * omega^2. Therefore: KE = 0.5 * m * v_G^2 + 0.5 * I_G * omega^2. The) Tj
+T*
+(total kinetic energy separates neatly into translational energy of the center of mass) Tj
+T*
+(and rotational energy about the center of mass.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.7 Key Takeaways and Revision Points) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* General planar motion decomposes into translation of center of mass G plus rotation) Tj
+T*
+(about G.) Tj
+T*
+(* At the ICR, velocity is zero; v_P = omega * r_P/ICR for every point on the body.) Tj
+T*
+(* Rolling without slipping has ICR at the instantaneous point of ground contact.) Tj
+T*
+(* Kinetic energy of rolling body combines translation and rotation: KE = 0.5*m*v_G^2) Tj
+T*
+(+ 0.5*I_G*omega^2.) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000171 00000 n 
+0000000241 00000 n 
+0000000316 00000 n 
+0000000428 00000 n 
+0000003610 00000 n 
+0000003722 00000 n 
+0000006953 00000 n 
+0000007066 00000 n 
+0000010796 00000 n 
+0000010910 00000 n 
+0000014548 00000 n 
+0000014662 00000 n 
+trailer
+<< /Size 15 /Root 1 0 R >>
+startxref
+17927
+%%EOF

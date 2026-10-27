@@ -1,0 +1,10947 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R 35 0 R 37 0 R 39 0 R 41 0 R 43 0 R 45 0 R 47 0 R 49 0 R 51 0 R] /Count 25 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 4 0 R /Resources << /Font << /F1 53 0 R /F2 54 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 9699 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 1 of 25) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(1.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(The Application Layer \(Layer 7 in OSI, Layer 5) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(in TCP/IP\) is responsible for:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(Providing network services and user) Tj
+ET
+BT
+/F1 7.4 Tf
+72 754.5 Td
+(interfaces directly to end-user software) Tj
+ET
+BT
+/F1 7.4 Tf
+72 745.9 Td
+(applications) Tj
+ET
+BT
+/F2 7.4 Tf
+58 736.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 736.3 Td
+(Routing packets across intermediate routers) Tj
+ET
+BT
+/F2 7.4 Tf
+58 726.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 726.7001 Td
+(Framing bits on physical media) Tj
+ET
+BT
+/F2 7.4 Tf
+58 717.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 717.1001 Td
+(Managing electrical voltages) Tj
+ET
+BT
+/F2 8.0 Tf
+42 693.5001 Td
+(2.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 693.5001 Td
+(In the traditional Client-Server network) Tj
+ET
+BT
+/F1 7.8 Tf
+58 684.3001 Td
+(architecture, the server is characterized as:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 672.6001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 672.6001 Td
+(An always-on host with a permanent IP) Tj
+ET
+BT
+/F1 7.4 Tf
+72 664.0001 Td
+(address that serves requests from) Tj
+ET
+BT
+/F1 7.4 Tf
+72 655.4001 Td
+(intermittent clients) Tj
+ET
+BT
+/F2 7.4 Tf
+58 645.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 645.8002 Td
+(A transient peer that only downloads data) Tj
+ET
+BT
+/F2 7.4 Tf
+58 636.2002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 636.2002 Td
+(A device without an IP address) Tj
+ET
+BT
+/F2 7.4 Tf
+58 626.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 626.6002 Td
+(A passive network hub) Tj
+ET
+BT
+/F2 8.0 Tf
+42 603.0002 Td
+(3.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 603.0002 Td
+(In a Peer-to-Peer \(P2P\) network architecture,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 593.8002 Td
+(participating nodes \(peers\):) Tj
+ET
+BT
+/F2 7.4 Tf
+58 582.1002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 582.1002 Td
+(Function simultaneously as both clients) Tj
+ET
+BT
+/F1 7.4 Tf
+72 573.5002 Td
+(requesting resources and servers sharing) Tj
+ET
+BT
+/F1 7.4 Tf
+72 564.9003 Td
+(resources) Tj
+ET
+BT
+/F2 7.4 Tf
+58 555.3003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 555.3003 Td
+(Must connect through a centralized master) Tj
+ET
+BT
+/F1 7.4 Tf
+72 546.7003 Td
+(mainframe) Tj
+ET
+BT
+/F2 7.4 Tf
+58 537.1003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 537.1003 Td
+(Only upload and never download) Tj
+ET
+BT
+/F2 7.4 Tf
+58 527.5004 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 527.5004 Td
+(Are restricted to local area subnets) Tj
+ET
+BT
+/F2 8.0 Tf
+42 503.9004 Td
+(4.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 503.9004 Td
+(The Domain Name System \(DNS\) is primarily used) Tj
+ET
+BT
+/F1 7.8 Tf
+58 494.7004 Td
+(across the Internet to:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 483.0004 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 483.0004 Td
+(Translate human-friendly domain names \(e.g.,) Tj
+ET
+BT
+/F1 7.4 Tf
+72 474.4004 Td
+(example.com\) into machine-routable IP) Tj
+ET
+BT
+/F1 7.4 Tf
+72 465.8004 Td
+(addresses) Tj
+ET
+BT
+/F2 7.4 Tf
+58 456.2003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 456.2003 Td
+(Encrypt email passwords) Tj
+ET
+BT
+/F2 7.4 Tf
+58 446.6003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 446.6003 Td
+(Compress video streams) Tj
+ET
+BT
+/F2 7.4 Tf
+58 437.0003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 437.0003 Td
+(Assign MAC addresses to switches) Tj
+ET
+BT
+/F2 8.0 Tf
+42 413.4003 Td
+(5.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 413.4003 Td
+(DNS standardly operates over which transport) Tj
+ET
+BT
+/F1 7.8 Tf
+58 404.2003 Td
+(layer protocol and well-known port?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 392.5003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 392.5003 Td
+(UDP Port 53 \(and TCP Port 53 for large zone) Tj
+ET
+BT
+/F1 7.4 Tf
+72 383.9003 Td
+(transfers\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 374.3003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 374.3003 Td
+(TCP Port 80) Tj
+ET
+BT
+/F2 7.4 Tf
+58 364.7003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 364.7003 Td
+(UDP Port 67) Tj
+ET
+BT
+/F2 7.4 Tf
+58 355.1003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 355.1003 Td
+(TCP Port 443) Tj
+ET
+BT
+/F2 8.0 Tf
+42 331.5003 Td
+(6.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 331.5003 Td
+(In the hierarchical DNS namespace, the dot \(.\)) Tj
+ET
+BT
+/F1 7.8 Tf
+58 322.3003 Td
+(at the very apex of the domain tree represents) Tj
+ET
+BT
+/F1 7.8 Tf
+58 313.1003 Td
+(the:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 301.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 301.4002 Td
+(DNS Root Zone \(managed by 13 root server) Tj
+ET
+BT
+/F1 7.4 Tf
+72 292.8002 Td
+(clusters\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 283.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 283.2002 Td
+(Top-Level Domain) Tj
+ET
+BT
+/F2 7.4 Tf
+58 273.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 273.6002 Td
+(Authoritative Domain) Tj
+ET
+BT
+/F2 7.4 Tf
+58 264.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 264.0002 Td
+(Subdomain) Tj
+ET
+BT
+/F2 8.0 Tf
+42 240.4002 Td
+(7.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 240.4002 Td
+(Domains such as .com, .org, .edu, and country) Tj
+ET
+BT
+/F1 7.8 Tf
+58 231.2002 Td
+(codes like .in or .uk are classified as:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 219.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 219.5002 Td
+(Top-Level Domains \(TLDs\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 209.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 209.9002 Td
+(Second-Level Domains) Tj
+ET
+BT
+/F2 7.4 Tf
+58 200.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 200.3002 Td
+(Root Zones) Tj
+ET
+BT
+/F2 7.4 Tf
+58 190.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 190.7002 Td
+(Inverse Domains) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(8.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Which DNS Resource Record \(RR\) type maps a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(hostname to a 32-bit IPv4 address?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(Type A Record) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(Type AAAA Record) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(Type CNAME Record) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(Type MX Record) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(9.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(Which DNS Resource Record type maps a hostname) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(to a 128-bit IPv6 address?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(Type AAAA Record) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(Type A Record) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(Type PTR Record) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(Type TXT Record) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(10.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(Which DNS Resource Record type specifies the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(mail exchange server responsible for accepting) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(emails for a domain?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.3001 Td
+(Type MX Record) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.7001 Td
+(Type NS Record) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.1002 Td
+(Type SOA Record) Tj
+ET
+BT
+/F2 7.4 Tf
+322 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 578.5002 Td
+(Type CNAME Record) Tj
+ET
+BT
+/F2 8.0 Tf
+306 554.9002 Td
+(11.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(Which DNS record provides an alias or canonical) Tj
+ET
+BT
+/F1 7.8 Tf
+322 545.7002 Td
+(name pointing one domain name to another domain) Tj
+ET
+BT
+/F1 7.8 Tf
+322 536.5002 Td
+(name?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.8002 Td
+(Type CNAME Record) Tj
+ET
+BT
+/F2 7.4 Tf
+322 515.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 515.2002 Td
+(Type A Record) Tj
+ET
+BT
+/F2 7.4 Tf
+322 505.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 505.6002 Td
+(Type PTR Record) Tj
+ET
+BT
+/F2 7.4 Tf
+322 496.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 496.0002 Td
+(Type TXT Record) Tj
+ET
+BT
+/F2 8.0 Tf
+306 472.4002 Td
+(12.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 472.4002 Td
+(The protocol used to transfer files reliably) Tj
+ET
+BT
+/F1 7.8 Tf
+322 463.2002 Td
+(between a client and a server across a network) Tj
+ET
+BT
+/F1 7.8 Tf
+322 454.0002 Td
+(is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 442.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 442.3001 Td
+(File Transfer Protocol \(FTP, RFC 959\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 432.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 432.7001 Td
+(SMTP) Tj
+ET
+BT
+/F2 7.4 Tf
+322 423.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 423.1001 Td
+(SNMP) Tj
+ET
+BT
+/F2 7.4 Tf
+322 413.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 413.5001 Td
+(TELNET) Tj
+ET
+BT
+/F2 8.0 Tf
+306 389.9001 Td
+(13.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 389.9001 Td
+(FTP is unique because it establishes two) Tj
+ET
+BT
+/F1 7.8 Tf
+322 380.7001 Td
+(separate connections during a session:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 369.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 369.0001 Td
+(A Control Connection \(Port 21\) and a Data) Tj
+ET
+BT
+/F1 7.4 Tf
+336 360.4001 Td
+(Connection \(Port 20\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 350.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 350.8001 Td
+(Two Control Connections) Tj
+ET
+BT
+/F2 7.4 Tf
+322 341.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 341.2001 Td
+(A TCP and a UDP connection) Tj
+ET
+BT
+/F2 7.4 Tf
+322 331.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 331.6001 Td
+(An IPv4 and IPv6 connection) Tj
+ET
+BT
+/F2 8.0 Tf
+306 308.0001 Td
+(14.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 308.0001 Td
+(The primary protocol used by mail clients and) Tj
+ET
+BT
+/F1 7.8 Tf
+322 298.8 Td
+(message transfer agents \(MTAs\) to push/send) Tj
+ET
+BT
+/F1 7.8 Tf
+322 289.6 Td
+(email messages across the Internet is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 277.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 277.9 Td
+(Simple Mail Transfer Protocol \(SMTP, Port) Tj
+ET
+BT
+/F1 7.4 Tf
+336 269.3 Td
+(25\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 259.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 259.7 Td
+(POP3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 250.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 250.1 Td
+(IMAP4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 240.5 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 240.5 Td
+(HTTP) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 6 0 R /Resources << /Font << /F1 53 0 R /F2 54 0 R >> >> >>
+endobj
+6 0 obj
+<< /Length 10057 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 2 of 25) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(15.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Which protocol is standardly used by end-user) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(email clients to download emails from a remote) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(server to a local device, deleting them from the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 756.4 Td
+(server by default?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.7 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.7 Td
+(Post Office Protocol version 3 \(POP3, Port) Tj
+ET
+BT
+/F1 7.4 Tf
+72 736.1 Td
+(110\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 726.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 726.5 Td
+(SMTP) Tj
+ET
+BT
+/F2 7.4 Tf
+58 716.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 716.9 Td
+(IMAP4) Tj
+ET
+BT
+/F2 7.4 Tf
+58 707.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 707.3 Td
+(SNMP) Tj
+ET
+BT
+/F2 8.0 Tf
+42 683.7001 Td
+(16.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 683.7001 Td
+(Which modern email retrieval protocol keeps all) Tj
+ET
+BT
+/F1 7.8 Tf
+58 674.5001 Td
+(mail messages synchronized on the remote server,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 665.3 Td
+(allowing access from multiple client devices) Tj
+ET
+BT
+/F1 7.8 Tf
+58 656.1 Td
+(simultaneously?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 644.4 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 644.4 Td
+(Internet Message Access Protocol \(IMAP4,) Tj
+ET
+BT
+/F1 7.4 Tf
+72 635.8 Td
+(Port 143\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 626.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 626.2001 Td
+(POP3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.6001 Td
+(SMTP) Tj
+ET
+BT
+/F2 7.4 Tf
+58 607.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 607.0001 Td
+(FTP) Tj
+ET
+BT
+/F2 8.0 Tf
+42 583.4001 Td
+(17.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 583.4001 Td
+(Multipurpose Internet Mail Extensions \(MIME, RFC) Tj
+ET
+BT
+/F1 7.8 Tf
+58 574.2001 Td
+(2045\) was developed to enable email to:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 562.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 562.5001 Td
+(Transmit non-ASCII text, binary file) Tj
+ET
+BT
+/F1 7.4 Tf
+72 553.9001 Td
+(attachments, audio, and images inside SMTP) Tj
+ET
+BT
+/F1 7.4 Tf
+72 545.3002 Td
+(messages) Tj
+ET
+BT
+/F2 7.4 Tf
+58 535.7002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 535.7002 Td
+(Encrypt passwords using RSA) Tj
+ET
+BT
+/F2 7.4 Tf
+58 526.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 526.1002 Td
+(Compress video automatically) Tj
+ET
+BT
+/F2 7.4 Tf
+58 516.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 516.5002 Td
+(Prevent spam emails) Tj
+ET
+BT
+/F2 8.0 Tf
+42 492.9002 Td
+(18.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 492.9002 Td
+(Hypertext Transfer Protocol \(HTTP, RFC 2616\) is) Tj
+ET
+BT
+/F1 7.8 Tf
+58 483.7002 Td
+(fundamentally characterized as:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 472.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 472.0002 Td
+(A stateless, application-level) Tj
+ET
+BT
+/F1 7.4 Tf
+72 463.4002 Td
+(request-response protocol) Tj
+ET
+BT
+/F2 7.4 Tf
+58 453.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 453.8002 Td
+(A stateful session protocol) Tj
+ET
+BT
+/F2 7.4 Tf
+58 444.2002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 444.2002 Td
+(A connectionless streaming protocol) Tj
+ET
+BT
+/F2 7.4 Tf
+58 434.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 434.6002 Td
+(A peer-to-peer routing protocol) Tj
+ET
+BT
+/F2 8.0 Tf
+42 411.0002 Td
+(19.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 411.0002 Td
+(Which HTTP request method is used to retrieve) Tj
+ET
+BT
+/F1 7.8 Tf
+58 401.8002 Td
+(data or a web resource from a server without) Tj
+ET
+BT
+/F1 7.8 Tf
+58 392.6002 Td
+(modifying server state?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 380.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 380.9001 Td
+(GET) Tj
+ET
+BT
+/F2 7.4 Tf
+58 371.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 371.3001 Td
+(POST) Tj
+ET
+BT
+/F2 7.4 Tf
+58 361.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 361.7001 Td
+(PUT) Tj
+ET
+BT
+/F2 7.4 Tf
+58 352.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 352.1001 Td
+(DELETE) Tj
+ET
+BT
+/F2 8.0 Tf
+42 328.5001 Td
+(20.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 328.5001 Td
+(Which HTTP request method is standardly used to) Tj
+ET
+BT
+/F1 7.8 Tf
+58 319.3001 Td
+(submit form data or upload resources that modify) Tj
+ET
+BT
+/F1 7.8 Tf
+58 310.1001 Td
+(or create state on the server?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 298.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 298.4001 Td
+(POST) Tj
+ET
+BT
+/F2 7.4 Tf
+58 288.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 288.8001 Td
+(GET) Tj
+ET
+BT
+/F2 7.4 Tf
+58 279.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 279.2001 Td
+(HEAD) Tj
+ET
+BT
+/F2 7.4 Tf
+58 269.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 269.6001 Td
+(OPTIONS) Tj
+ET
+BT
+/F2 8.0 Tf
+42 246.0001 Td
+(21.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 246.0001 Td
+(In HTTP response status codes, codes in the 2xx) Tj
+ET
+BT
+/F1 7.8 Tf
+58 236.8001 Td
+(series \(e.g., 200 OK\) indicate:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 225.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 225.1001 Td
+(Successful request processing) Tj
+ET
+BT
+/F2 7.4 Tf
+58 215.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 215.5001 Td
+(Client redirection) Tj
+ET
+BT
+/F2 7.4 Tf
+58 205.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 205.9001 Td
+(Client error) Tj
+ET
+BT
+/F2 7.4 Tf
+58 196.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 196.3 Td
+(Server internal error) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(22.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What does HTTP status code 404 signify?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 772.3 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 772.3 Td
+(Not Found: The server cannot locate the) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.7 Td
+(requested resource URI) Tj
+ET
+BT
+/F2 7.4 Tf
+322 754.1 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 754.1 Td
+(Unauthorized Access) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.5001 Td
+(Internal Server Error) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.9001 Td
+(Bad Gateway) Tj
+ET
+BT
+/F2 8.0 Tf
+306 711.3001 Td
+(23.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 711.3001 Td
+(What does HTTP status code 500 signify?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 699.6001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 699.6001 Td
+(Internal Server Error: The server) Tj
+ET
+BT
+/F1 7.4 Tf
+336 691.0001 Td
+(encountered an unexpected condition) Tj
+ET
+BT
+/F1 7.4 Tf
+336 682.4001 Td
+(preventing request fulfillment) Tj
+ET
+BT
+/F2 7.4 Tf
+322 672.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 672.8002 Td
+(Resource Moved Permanently) Tj
+ET
+BT
+/F2 7.4 Tf
+322 663.2002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 663.2002 Td
+(Forbidden Request) Tj
+ET
+BT
+/F2 7.4 Tf
+322 653.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 653.6002 Td
+(Gateway Timeout) Tj
+ET
+BT
+/F2 8.0 Tf
+306 630.0002 Td
+(24.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 630.0002 Td
+(What mechanism do web applications use to) Tj
+ET
+BT
+/F1 7.8 Tf
+322 620.8002 Td
+(maintain persistent user sessions and track) Tj
+ET
+BT
+/F1 7.8 Tf
+322 611.6002 Td
+(state across stateless HTTP requests?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 599.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 599.9002 Td
+(HTTP Cookies \(stored on the client and sent) Tj
+ET
+BT
+/F1 7.4 Tf
+336 591.3002 Td
+(in HTTP headers\) and Server Sessions) Tj
+ET
+BT
+/F2 7.4 Tf
+322 581.7003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 581.7003 Td
+(IP Address binding) Tj
+ET
+BT
+/F2 7.4 Tf
+322 572.1003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 572.1003 Td
+(TCP Sequence Number tracking) Tj
+ET
+BT
+/F2 7.4 Tf
+322 562.5003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 562.5003 Td
+(MAC address cookies) Tj
+ET
+BT
+/F2 8.0 Tf
+306 538.9003 Td
+(25.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 538.9003 Td
+(Dynamic Host Configuration Protocol \(DHCP\)) Tj
+ET
+BT
+/F1 7.8 Tf
+322 529.7003 Td
+(operates over UDP ports 67 \(server\) and 68) Tj
+ET
+BT
+/F1 7.8 Tf
+322 520.5003 Td
+(\(client\) to automatically assign:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 508.8003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 508.8003 Td
+(IP addresses, subnet masks, default) Tj
+ET
+BT
+/F1 7.4 Tf
+336 500.2003 Td
+(gateways, and DNS server addresses to client) Tj
+ET
+BT
+/F1 7.4 Tf
+336 491.6003 Td
+(hosts) Tj
+ET
+BT
+/F2 7.4 Tf
+322 482.0003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 482.0003 Td
+(Domain names to root servers) Tj
+ET
+BT
+/F2 7.4 Tf
+322 472.4003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 472.4003 Td
+(MAC addresses to network cards) Tj
+ET
+BT
+/F2 7.4 Tf
+322 462.8003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 462.8003 Td
+(SSL certificates to browsers) Tj
+ET
+BT
+/F2 8.0 Tf
+306 439.2003 Td
+(26.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 439.2003 Td
+(The four standard operational steps in a DHCP) Tj
+ET
+BT
+/F1 7.8 Tf
+322 430.0002 Td
+(client IP lease acquisition are known as:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 418.3002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 418.3002 Td
+(DORA: Discover -> Offer -> Request ->) Tj
+ET
+BT
+/F1 7.4 Tf
+336 409.7002 Td
+(Acknowledge) Tj
+ET
+BT
+/F2 7.4 Tf
+322 400.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 400.1002 Td
+(SYN -> SYN-ACK -> ACK -> FIN) Tj
+ET
+BT
+/F2 7.4 Tf
+322 390.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 390.5002 Td
+(Hello -> Init -> Bind -> Commit) Tj
+ET
+BT
+/F2 7.4 Tf
+322 380.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 380.9002 Td
+(Query -> Answer -> Confirm -> Close) Tj
+ET
+BT
+/F2 8.0 Tf
+306 357.3002 Td
+(27.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 357.3002 Td
+(Simple Network Management Protocol \(SNMP\) is) Tj
+ET
+BT
+/F1 7.8 Tf
+322 348.1002 Td
+(used by network administrators to:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 336.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 336.4002 Td
+(Monitor, manage, and configure network) Tj
+ET
+BT
+/F1 7.4 Tf
+336 327.8002 Td
+(devices such as routers, switches, and) Tj
+ET
+BT
+/F1 7.4 Tf
+336 319.2002 Td
+(servers) Tj
+ET
+BT
+/F2 7.4 Tf
+322 309.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 309.6002 Td
+(Transfer large multimedia files) Tj
+ET
+BT
+/F2 7.4 Tf
+322 300.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 300.0002 Td
+(Route packets across subnets) Tj
+ET
+BT
+/F2 7.4 Tf
+322 290.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 290.4001 Td
+(Synchronize time clocks) Tj
+ET
+BT
+/F2 8.0 Tf
+306 266.8001 Td
+(28.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 266.8001 Td
+(In computer security, the CIA Triad represents) Tj
+ET
+BT
+/F1 7.8 Tf
+322 257.6001 Td
+(the three foundational pillars of security:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 245.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 245.9001 Td
+(Confidentiality, Integrity, and Availability) Tj
+ET
+BT
+/F2 7.4 Tf
+322 236.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 236.3001 Td
+(Control, Identification, and Authentication) Tj
+ET
+BT
+/F2 7.4 Tf
+322 226.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 226.7001 Td
+(Cryptography, Inspection, and Authorization) Tj
+ET
+BT
+/F2 7.4 Tf
+322 217.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 217.1001 Td
+(Connectivity, Isolation, and Auditing) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 8 0 R /Resources << /Font << /F1 53 0 R /F2 54 0 R >> >> >>
+endobj
+8 0 obj
+<< /Length 10900 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 3 of 25) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(29.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Symmetric-Key Cryptography \(Secret-Key) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(Encryption\) is defined by:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(Using the exact same secret key for both) Tj
+ET
+BT
+/F1 7.4 Tf
+72 754.5 Td
+(encryption and decryption) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.9 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.9 Td
+(Using two mathematically paired public and) Tj
+ET
+BT
+/F1 7.4 Tf
+72 736.3 Td
+(private keys) Tj
+ET
+BT
+/F2 7.4 Tf
+58 726.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 726.7001 Td
+(Using no keys at all) Tj
+ET
+BT
+/F2 7.4 Tf
+58 717.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 717.1001 Td
+(Using one-way mathematical hashing only) Tj
+ET
+BT
+/F2 8.0 Tf
+42 693.5001 Td
+(30.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 693.5001 Td
+(Which of the following is a globally recognized,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 684.3001 Td
+(secure symmetric encryption algorithm standard) Tj
+ET
+BT
+/F1 7.8 Tf
+58 675.1001 Td
+(adopted by NIST?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 663.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 663.4001 Td
+(Advanced Encryption Standard \(AES - 128,) Tj
+ET
+BT
+/F1 7.4 Tf
+72 654.8001 Td
+(192, 256 bits\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 645.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 645.2001 Td
+(RSA) Tj
+ET
+BT
+/F2 7.4 Tf
+58 635.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 635.6002 Td
+(Diffie-Hellman) Tj
+ET
+BT
+/F2 7.4 Tf
+58 626.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 626.0002 Td
+(MD5) Tj
+ET
+BT
+/F2 8.0 Tf
+42 602.4002 Td
+(31.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 602.4002 Td
+(Asymmetric-Key Cryptography \(Public-Key) Tj
+ET
+BT
+/F1 7.8 Tf
+58 593.2002 Td
+(Cryptography\) utilizes:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 581.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 581.5002 Td
+(A key pair: a publicly distributed Public) Tj
+ET
+BT
+/F1 7.4 Tf
+72 572.9002 Td
+(Key for encryption and a closely guarded) Tj
+ET
+BT
+/F1 7.4 Tf
+72 564.3002 Td
+(Private Key for decryption) Tj
+ET
+BT
+/F2 7.4 Tf
+58 554.7003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 554.7003 Td
+(A single shared secret password) Tj
+ET
+BT
+/F2 7.4 Tf
+58 545.1003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 545.1003 Td
+(A physical token key) Tj
+ET
+BT
+/F2 7.4 Tf
+58 535.5003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 535.5003 Td
+(A rotating random session pin) Tj
+ET
+BT
+/F2 8.0 Tf
+42 511.9003 Td
+(32.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 511.9003 Td
+(Which widely implemented asymmetric) Tj
+ET
+BT
+/F1 7.8 Tf
+58 502.7003 Td
+(cryptographic algorithm is based on the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 493.5003 Td
+(mathematical difficulty of factoring large prime) Tj
+ET
+BT
+/F1 7.8 Tf
+58 484.3003 Td
+(integers?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 472.6003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 472.6003 Td
+(RSA \(Rivest-Shamir-Adleman\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 463.0003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 463.0003 Td
+(AES) Tj
+ET
+BT
+/F2 7.4 Tf
+58 453.4003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 453.4003 Td
+(DES) Tj
+ET
+BT
+/F2 7.4 Tf
+58 443.8003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 443.8003 Td
+(SHA-256) Tj
+ET
+BT
+/F2 8.0 Tf
+42 420.2003 Td
+(33.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 420.2003 Td
+(A Cryptographic Hash Function \(such as SHA-256\)) Tj
+ET
+BT
+/F1 7.8 Tf
+58 411.0002 Td
+(takes an arbitrary-length message and produces:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 399.3002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 399.3002 Td
+(A fixed-size, unique digital fingerprint) Tj
+ET
+BT
+/F1 7.4 Tf
+72 390.7002 Td
+(\(digest\) that is computationally infeasible) Tj
+ET
+BT
+/F1 7.4 Tf
+72 382.1002 Td
+(to invert) Tj
+ET
+BT
+/F2 7.4 Tf
+58 372.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 372.5002 Td
+(An encrypted message that can be decrypted) Tj
+ET
+BT
+/F1 7.4 Tf
+72 363.9002 Td
+(with a private key) Tj
+ET
+BT
+/F2 7.4 Tf
+58 354.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 354.3002 Td
+(A variable-length token) Tj
+ET
+BT
+/F2 7.4 Tf
+58 344.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 344.7002 Td
+(A random port number) Tj
+ET
+BT
+/F2 8.0 Tf
+42 321.1002 Td
+(34.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 321.1002 Td
+(A Digital Signature provides which essential) Tj
+ET
+BT
+/F1 7.8 Tf
+58 311.9002 Td
+(security properties for digital messages?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 300.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 300.2002 Td
+(Authentication, Non-Repudiation, and Message) Tj
+ET
+BT
+/F1 7.4 Tf
+72 291.6002 Td
+(Integrity) Tj
+ET
+BT
+/F2 7.4 Tf
+58 282.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 282.0002 Td
+(Data confidentiality and secrecy) Tj
+ET
+BT
+/F2 7.4 Tf
+58 272.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 272.4001 Td
+(Link bandwidth acceleration) Tj
+ET
+BT
+/F2 7.4 Tf
+58 262.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 262.8001 Td
+(Automatic virus scanning) Tj
+ET
+BT
+/F2 8.0 Tf
+42 239.2001 Td
+(35.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 239.2001 Td
+(A sender generates a Digital Signature by) Tj
+ET
+BT
+/F1 7.8 Tf
+58 230.0001 Td
+(encrypting the cryptographic hash digest of a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 220.8001 Td
+(message with:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 209.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 209.1001 Td
+(The sender's own Private Key) Tj
+ET
+BT
+/F2 7.4 Tf
+58 199.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 199.5001 Td
+(The recipient's Public Key) Tj
+ET
+BT
+/F2 7.4 Tf
+58 189.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 189.9001 Td
+(The sender's Public Key) Tj
+ET
+BT
+/F2 7.4 Tf
+58 180.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 180.3001 Td
+(A shared symmetric key) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(36.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(A Digital Certificate \(X.509 standard\)) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(establishes trust by cryptographically binding) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(an entity's identity to its public key, signed) Tj
+ET
+BT
+/F1 7.8 Tf
+322 756.4 Td
+(by a trusted:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.7 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.7 Td
+(Certificate Authority \(CA\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 735.1 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 735.1 Td
+(Root DNS Server) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.5 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.5 Td
+(Internet Service Provider) Tj
+ET
+BT
+/F2 7.4 Tf
+322 715.9 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 715.9 Td
+(Operating System Kernel) Tj
+ET
+BT
+/F2 8.0 Tf
+306 692.3 Td
+(37.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(Transport Layer Security \(TLS, formerly SSL\)) Tj
+ET
+BT
+/F1 7.8 Tf
+322 683.1 Td
+(protects application protocols \(like HTTPS\) by) Tj
+ET
+BT
+/F1 7.8 Tf
+322 673.9 Td
+(providing:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 662.2 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 662.2 Td
+(End-to-end encryption, data integrity, and) Tj
+ET
+BT
+/F1 7.4 Tf
+336 653.6 Td
+(server/client authentication over TCP) Tj
+ET
+BT
+/F2 7.4 Tf
+322 644.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 644.0001 Td
+(Physical cable shielding) Tj
+ET
+BT
+/F2 7.4 Tf
+322 634.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 634.4001 Td
+(Layer 3 packet routing) Tj
+ET
+BT
+/F2 7.4 Tf
+322 624.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 624.8001 Td
+(Hardware MAC filtering) Tj
+ET
+BT
+/F2 8.0 Tf
+306 601.2001 Td
+(38.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 601.2001 Td
+(A Firewall is a network security device that) Tj
+ET
+BT
+/F1 7.8 Tf
+322 592.0001 Td
+(monitors and filters incoming and outgoing) Tj
+ET
+BT
+/F1 7.8 Tf
+322 582.8001 Td
+(network traffic based on:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 571.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 571.1001 Td
+(Predetermined security rule sets and access) Tj
+ET
+BT
+/F1 7.4 Tf
+336 562.5001 Td
+(control policies \(ACLs\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 552.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 552.9001 Td
+(The speed of the network interface) Tj
+ET
+BT
+/F2 7.4 Tf
+322 543.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 543.3002 Td
+(The physical brand of connected computers) Tj
+ET
+BT
+/F2 7.4 Tf
+322 533.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 533.7002 Td
+(The length of Ethernet patch cords) Tj
+ET
+BT
+/F2 8.0 Tf
+306 510.1002 Td
+(39.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 510.1002 Td
+(A Packet-Filtering Firewall makes access control) Tj
+ET
+BT
+/F1 7.8 Tf
+322 500.9002 Td
+(decisions at Layers 3 and 4 by inspecting:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 489.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 489.2002 Td
+(Source/Destination IP addresses,) Tj
+ET
+BT
+/F1 7.4 Tf
+336 480.6002 Td
+(Source/Destination Port numbers, and) Tj
+ET
+BT
+/F1 7.4 Tf
+336 472.0002 Td
+(Protocol types) Tj
+ET
+BT
+/F2 7.4 Tf
+322 462.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 462.4002 Td
+(Application payload text and SQL queries) Tj
+ET
+BT
+/F2 7.4 Tf
+322 452.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 452.8002 Td
+(Browser cookies and URL strings) Tj
+ET
+BT
+/F2 7.4 Tf
+322 443.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 443.2002 Td
+(User biometrics) Tj
+ET
+BT
+/F2 8.0 Tf
+306 419.6002 Td
+(40.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 419.6002 Td
+(Malware that disguises itself as legitimate or) Tj
+ET
+BT
+/F1 7.8 Tf
+322 410.4001 Td
+(harmless software to trick users into executing) Tj
+ET
+BT
+/F1 7.8 Tf
+322 401.2001 Td
+(it is termed a:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 389.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 389.5001 Td
+(Trojan Horse) Tj
+ET
+BT
+/F2 7.4 Tf
+322 379.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 379.9001 Td
+(Worm) Tj
+ET
+BT
+/F2 7.4 Tf
+322 370.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 370.3001 Td
+(Buffer Overflow) Tj
+ET
+BT
+/F2 7.4 Tf
+322 360.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 360.7001 Td
+(Packet Sniffer) Tj
+ET
+BT
+/F2 8.0 Tf
+306 337.1001 Td
+(41.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 337.1001 Td
+(What is the difference between an Iterative DNS) Tj
+ET
+BT
+/F1 7.8 Tf
+322 327.9001 Td
+(Query and a Recursive DNS Query?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 316.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 316.2001 Td
+(In a recursive query, the local DNS resolver) Tj
+ET
+BT
+/F1 7.4 Tf
+336 307.6001 Td
+(resolves the full query on behalf of the) Tj
+ET
+BT
+/F1 7.4 Tf
+336 299.0001 Td
+(client; in an iterative query, queried) Tj
+ET
+BT
+/F1 7.4 Tf
+336 290.4001 Td
+(servers return referrals to next-hop name) Tj
+ET
+BT
+/F1 7.4 Tf
+336 281.8 Td
+(servers) Tj
+ET
+BT
+/F2 7.4 Tf
+322 272.2 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 272.2 Td
+(Iterative queries use TCP, recursive queries) Tj
+ET
+BT
+/F1 7.4 Tf
+336 263.6 Td
+(use UDP) Tj
+ET
+BT
+/F2 7.4 Tf
+322 254 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 254 Td
+(Recursive queries only check local cache) Tj
+ET
+BT
+/F2 7.4 Tf
+322 244.4 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 244.4 Td
+(Iterative queries are used only for IPv6) Tj
+ET
+BT
+/F2 8.0 Tf
+306 220.8 Td
+(42.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 220.8 Td
+(How does HTTP/1.1 Persistent Connections) Tj
+ET
+BT
+/F1 7.8 Tf
+322 211.6 Td
+(\(Keep-Alive\) improve upon HTTP/1.0) Tj
+ET
+BT
+/F1 7.8 Tf
+322 202.4 Td
+(Non-Persistent Connections?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 190.7 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 190.7 Td
+(It allows multiple HTTP requests and) Tj
+ET
+BT
+/F1 7.4 Tf
+336 182.1 Td
+(responses to be pipelined over a single) Tj
+ET
+BT
+/F1 7.4 Tf
+336 173.5 Td
+(long-lived TCP connection, eliminating) Tj
+ET
+BT
+/F1 7.4 Tf
+336 164.9 Td
+(repeated 3-way handshakes) Tj
+ET
+BT
+/F2 7.4 Tf
+322 155.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 155.3 Td
+(It compresses all images using gzip) Tj
+ET
+BT
+/F2 7.4 Tf
+322 145.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 145.7 Td
+(It switches communication to UDP) Tj
+ET
+BT
+/F2 7.4 Tf
+322 136.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 136.1 Td
+(It prevents server 500 errors) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 10 0 R /Resources << /Font << /F1 53 0 R /F2 54 0 R >> >> >>
+endobj
+10 0 obj
+<< /Length 12521 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 4 of 25) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(43.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What major performance limitation of HTTP/1.1) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(does HTTP/2 overcome using its Binary Framing) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(Layer?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(Head-of-Line blocking at the HTTP layer,) Tj
+ET
+BT
+/F1 7.4 Tf
+72 745.3 Td
+(allowing multiple bidirectional) Tj
+ET
+BT
+/F1 7.4 Tf
+72 736.7 Td
+(request-response streams multiplexed over a) Tj
+ET
+BT
+/F1 7.4 Tf
+72 728.1 Td
+(single TCP connection) Tj
+ET
+BT
+/F2 7.4 Tf
+58 718.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 718.5001 Td
+(TCP packet loss) Tj
+ET
+BT
+/F2 7.4 Tf
+58 708.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 708.9001 Td
+(DNS resolution delays) Tj
+ET
+BT
+/F2 7.4 Tf
+58 699.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 699.3001 Td
+(IP routing loops) Tj
+ET
+BT
+/F2 8.0 Tf
+42 675.7001 Td
+(44.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 675.7001 Td
+(In symmetric encryption, why is Data Encryption) Tj
+ET
+BT
+/F1 7.8 Tf
+58 666.5001 Td
+(Standard \(DES\) considered obsolete and insecure) Tj
+ET
+BT
+/F1 7.8 Tf
+58 657.3001 Td
+(today?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 645.6001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 645.6001 Td
+(Its 56-bit key length is far too short,) Tj
+ET
+BT
+/F1 7.4 Tf
+72 637.0001 Td
+(allowing modern supercomputers to crack it) Tj
+ET
+BT
+/F1 7.4 Tf
+72 628.4001 Td
+(via brute force in hours) Tj
+ET
+BT
+/F2 7.4 Tf
+58 618.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 618.8002 Td
+(It only encrypts text and cannot encrypt) Tj
+ET
+BT
+/F1 7.4 Tf
+72 610.2002 Td
+(images) Tj
+ET
+BT
+/F2 7.4 Tf
+58 600.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 600.6002 Td
+(It requires 128 rounds of computation) Tj
+ET
+BT
+/F2 7.4 Tf
+58 591.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 591.0002 Td
+(It has no hardware support) Tj
+ET
+BT
+/F2 8.0 Tf
+42 567.4003 Td
+(45.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 567.4003 Td
+(How does Triple-DES \(3DES\) enhance the security) Tj
+ET
+BT
+/F1 7.8 Tf
+58 558.2003 Td
+(of legacy DES systems?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 546.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 546.5002 Td
+(By applying the DES algorithm three) Tj
+ET
+BT
+/F1 7.4 Tf
+72 537.9003 Td
+(consecutive times with two or three distinct) Tj
+ET
+BT
+/F1 7.4 Tf
+72 529.3003 Td
+(56-bit keys \(Encrypt-Decrypt-Encrypt\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 519.7003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 519.7003 Td
+(By tripling the block size from 64 to 192) Tj
+ET
+BT
+/F1 7.4 Tf
+72 511.1003 Td
+(bits) Tj
+ET
+BT
+/F2 7.4 Tf
+58 501.5003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 501.5003 Td
+(By running three parallel TCP sockets) Tj
+ET
+BT
+/F2 7.4 Tf
+58 491.9003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 491.9003 Td
+(By appending three hash digests) Tj
+ET
+BT
+/F2 8.0 Tf
+42 468.3003 Td
+(46.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 468.3003 Td
+(What mathematical problem provides the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 459.1003 Td
+(computational foundation for the Diffie-Hellman) Tj
+ET
+BT
+/F1 7.8 Tf
+58 449.9003 Td
+(Key Exchange protocol?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 438.2003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 438.2003 Td
+(The Discrete Logarithm Problem in finite) Tj
+ET
+BT
+/F1 7.4 Tf
+72 429.6003 Td
+(cyclic groups) Tj
+ET
+BT
+/F2 7.4 Tf
+58 420.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 420.0002 Td
+(Factoring prime numbers) Tj
+ET
+BT
+/F2 7.4 Tf
+58 410.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 410.4002 Td
+(Elliptic curve point addition only) Tj
+ET
+BT
+/F2 7.4 Tf
+58 400.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 400.8002 Td
+(Matrix inversion) Tj
+ET
+BT
+/F2 8.0 Tf
+42 377.2002 Td
+(47.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 377.2002 Td
+(What primary purpose does the Diffie-Hellman) Tj
+ET
+BT
+/F1 7.8 Tf
+58 368.0002 Td
+(protocol serve in network cybersecurity?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 356.3002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 356.3002 Td
+(It enables two communicating parties to) Tj
+ET
+BT
+/F1 7.4 Tf
+72 347.7002 Td
+(securely establish a shared secret key over) Tj
+ET
+BT
+/F1 7.4 Tf
+72 339.1002 Td
+(an unsecure public channel without) Tj
+ET
+BT
+/F1 7.4 Tf
+72 330.5002 Td
+(transmitting the key itself) Tj
+ET
+BT
+/F2 7.4 Tf
+58 320.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 320.9002 Td
+(It encrypts email attachments) Tj
+ET
+BT
+/F2 7.4 Tf
+58 311.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 311.3002 Td
+(It digitally signs X.509 certificates) Tj
+ET
+BT
+/F2 7.4 Tf
+58 301.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 301.7002 Td
+(It detects packet tampering in firewalls) Tj
+ET
+BT
+/F2 8.0 Tf
+42 278.1002 Td
+(48.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 278.1002 Td
+(What are the two core cryptographic properties) Tj
+ET
+BT
+/F1 7.8 Tf
+58 268.9001 Td
+(required of a secure cryptographic hash function) Tj
+ET
+BT
+/F1 7.8 Tf
+58 259.7001 Td
+(\(e.g., SHA-256\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 248.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 248.0001 Td
+(Pre-image resistance \(one-wayness\) and) Tj
+ET
+BT
+/F1 7.4 Tf
+72 239.4001 Td
+(Collision resistance \(infeasible to find two) Tj
+ET
+BT
+/F1 7.4 Tf
+72 230.8001 Td
+(distinct inputs producing the same digest\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 221.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 221.2001 Td
+(Reversibility and variable length) Tj
+ET
+BT
+/F2 7.4 Tf
+58 211.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 211.6001 Td
+(Symmetric key requirement and short output) Tj
+ET
+BT
+/F2 7.4 Tf
+58 202.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 202.0001 Td
+(Linearity and deterministic salt) Tj
+ET
+BT
+/F2 8.0 Tf
+42 178.4001 Td
+(49.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 178.4001 Td
+(A Man-in-the-Middle \(MitM\) attack against an) Tj
+ET
+BT
+/F1 7.8 Tf
+58 169.2001 Td
+(unauthenticated Diffie-Hellman key exchange is) Tj
+ET
+BT
+/F1 7.8 Tf
+58 160.0001 Td
+(prevented in modern TLS by:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 148.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 148.3001 Td
+(Using Digital Certificates signed by trusted) Tj
+ET
+BT
+/F1 7.4 Tf
+72 139.7001 Td
+(CAs to authenticate the server's public key) Tj
+ET
+BT
+/F1 7.4 Tf
+72 131.1001 Td
+(during handshake) Tj
+ET
+BT
+/F2 7.4 Tf
+58 121.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 121.5001 Td
+(Doubling the key length to 4096 bits) Tj
+ET
+BT
+/F2 7.4 Tf
+58 111.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 111.9001 Td
+(Switching from TCP to UDP) Tj
+ET
+BT
+/F2 7.4 Tf
+58 102.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 102.3001 Td
+(Filtering IP packets at the firewall) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(50.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(How does a Stateful Inspection Firewall differ) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(from a simple Stateless Packet Filter?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(It tracks active TCP connections in a state) Tj
+ET
+BT
+/F1 7.4 Tf
+336 754.5 Td
+(table, automatically allowing return traffic) Tj
+ET
+BT
+/F1 7.4 Tf
+336 745.9 Td
+(that belongs to an established, valid) Tj
+ET
+BT
+/F1 7.4 Tf
+336 737.3 Td
+(session) Tj
+ET
+BT
+/F2 7.4 Tf
+322 727.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 727.7001 Td
+(It inspects physical cable voltages) Tj
+ET
+BT
+/F2 7.4 Tf
+322 718.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 718.1001 Td
+(It decrypts all SSL traffic by default) Tj
+ET
+BT
+/F2 7.4 Tf
+322 708.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 708.5001 Td
+(It blocks all UDP traffic) Tj
+ET
+BT
+/F2 8.0 Tf
+306 684.9001 Td
+(51.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 684.9001 Td
+(An Application-Level Gateway \(Proxy Firewall\)) Tj
+ET
+BT
+/F1 7.8 Tf
+322 675.7001 Td
+(operates at Layer 7 by:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 664.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 664.0001 Td
+(Completely terminating the client) Tj
+ET
+BT
+/F1 7.4 Tf
+336 655.4001 Td
+(connection, inspecting and filtering the) Tj
+ET
+BT
+/F1 7.4 Tf
+336 646.8002 Td
+(full application-layer payload, and) Tj
+ET
+BT
+/F1 7.4 Tf
+336 638.2002 Td
+(establishing a new connection to the) Tj
+ET
+BT
+/F1 7.4 Tf
+336 629.6002 Td
+(destination server) Tj
+ET
+BT
+/F2 7.4 Tf
+322 620.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 620.0002 Td
+(Inspecting only IP and port headers) Tj
+ET
+BT
+/F2 7.4 Tf
+322 610.4003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 610.4003 Td
+(Forwarding Ethernet frames at line speed) Tj
+ET
+BT
+/F2 7.4 Tf
+322 600.8003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 600.8003 Td
+(Routing packets based on BGP metrics) Tj
+ET
+BT
+/F2 8.0 Tf
+306 577.2003 Td
+(52.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 577.2003 Td
+(In DNS terminology, what is 'DNS Cache) Tj
+ET
+BT
+/F1 7.8 Tf
+322 568.0003 Td
+(Poisoning' \(DNS Spoofing\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 556.3003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 556.3003 Td
+(An attacker tricks a DNS resolver into) Tj
+ET
+BT
+/F1 7.4 Tf
+336 547.7003 Td
+(caching forged IP mappings for a domain,) Tj
+ET
+BT
+/F1 7.4 Tf
+336 539.1003 Td
+(redirecting users to fraudulent or malicious) Tj
+ET
+BT
+/F1 7.4 Tf
+336 530.5004 Td
+(servers) Tj
+ET
+BT
+/F2 7.4 Tf
+322 520.9004 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 520.9004 Td
+(Flooding the DNS server with ICMP packets) Tj
+ET
+BT
+/F2 7.4 Tf
+322 511.3004 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 511.3004 Td
+(Corrupting the local hosts file with a virus) Tj
+ET
+BT
+/F2 7.4 Tf
+322 501.7004 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 501.7004 Td
+(Exhausting DHCP address pools) Tj
+ET
+BT
+/F2 8.0 Tf
+306 478.1004 Td
+(53.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 478.1004 Td
+(Which security extension standard prevents DNS) Tj
+ET
+BT
+/F1 7.8 Tf
+322 468.9004 Td
+(cache poisoning by cryptographically) Tj
+ET
+BT
+/F1 7.8 Tf
+322 459.7004 Td
+(authenticating DNS data with digital signatures?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 448.0004 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 448.0004 Td
+(DNSSEC \(Domain Name System Security) Tj
+ET
+BT
+/F1 7.4 Tf
+336 439.4004 Td
+(Extensions, RFC 4033\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 429.8004 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 429.8004 Td
+(DNS over HTTPS \(DoH\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 420.2003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 420.2003 Td
+(DNS over TLS \(DoT\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 410.6003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 410.6003 Td
+(Dynamic DNS \(DDNS\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 387.0003 Td
+(54.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 387.0003 Td
+(What is the key functional difference between) Tj
+ET
+BT
+/F1 7.8 Tf
+322 377.8003 Td
+(DNS over HTTPS \(DoH\) and DNS over TLS \(DoT\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 366.1003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 366.1003 Td
+(DoH encapsulates DNS queries inside HTTPS) Tj
+ET
+BT
+/F1 7.4 Tf
+336 357.5003 Td
+(requests over standard port 443; DoT) Tj
+ET
+BT
+/F1 7.4 Tf
+336 348.9003 Td
+(encrypts raw DNS queries over a dedicated) Tj
+ET
+BT
+/F1 7.4 Tf
+336 340.3003 Td
+(port 853) Tj
+ET
+BT
+/F2 7.4 Tf
+322 330.7003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 330.7003 Td
+(DoH is unencrypted while DoT is encrypted) Tj
+ET
+BT
+/F2 7.4 Tf
+322 321.1003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 321.1003 Td
+(DoH uses UDP while DoT uses SCTP) Tj
+ET
+BT
+/F2 7.4 Tf
+322 311.5003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 311.5003 Td
+(DoH requires private CA certificates) Tj
+ET
+BT
+/F2 8.0 Tf
+306 287.9003 Td
+(55.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 287.9003 Td
+(In modern web security, what is the role of the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 278.7003 Td
+(HTTP Strict Transport Security \(HSTS\) response) Tj
+ET
+BT
+/F1 7.8 Tf
+322 269.5002 Td
+(header?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 257.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 257.8002 Td
+(It forces web browsers to interact with the) Tj
+ET
+BT
+/F1 7.4 Tf
+336 249.2002 Td
+(domain exclusively over secure HTTPS) Tj
+ET
+BT
+/F1 7.4 Tf
+336 240.6002 Td
+(connections, preventing SSL-stripping) Tj
+ET
+BT
+/F1 7.4 Tf
+336 232.0002 Td
+(attacks) Tj
+ET
+BT
+/F2 7.4 Tf
+322 222.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 222.4002 Td
+(It sets cookie expiration to 30 days) Tj
+ET
+BT
+/F2 7.4 Tf
+322 212.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 212.8002 Td
+(It blocks cross-origin resource requests) Tj
+ET
+BT
+/F2 7.4 Tf
+322 203.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 203.2002 Td
+(It caches HTML pages on local disk) Tj
+ET
+BT
+/F2 8.0 Tf
+306 179.6002 Td
+(56.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 179.6002 Td
+(What is the primary operational difference) Tj
+ET
+BT
+/F1 7.8 Tf
+322 170.4002 Td
+(between symmetric Block Ciphers \(e.g., AES\) and) Tj
+ET
+BT
+/F1 7.8 Tf
+322 161.2002 Td
+(Stream Ciphers \(e.g., ChaCha20\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 149.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 149.5002 Td
+(Block ciphers encrypt data in fixed-size) Tj
+ET
+BT
+/F1 7.4 Tf
+336 140.9002 Td
+(chunks \(e.g., 128-bit blocks\); stream) Tj
+ET
+BT
+/F1 7.4 Tf
+336 132.3002 Td
+(ciphers encrypt continuous streams) Tj
+ET
+BT
+/F1 7.4 Tf
+336 123.7002 Td
+(bit-by-bit or byte-by-byte) Tj
+ET
+BT
+/F2 7.4 Tf
+322 114.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 114.1002 Td
+(Block ciphers use public keys; stream) Tj
+ET
+BT
+/F1 7.4 Tf
+336 105.5002 Td
+(ciphers use private keys) Tj
+ET
+BT
+/F2 7.4 Tf
+322 95.90019 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 95.90019 Td
+(Stream ciphers are asymmetric) Tj
+ET
+BT
+/F2 7.4 Tf
+322 86.30019 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 86.30019 Td
+(Block ciphers cannot encrypt binary data) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 12 0 R /Resources << /Font << /F1 53 0 R /F2 54 0 R >> >> >>
+endobj
+12 0 obj
+<< /Length 12356 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 5 of 25) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(57.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Why must an Initialization Vector \(IV\) or Nonce) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(be used with AES in modes like CBC or GCM?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(To ensure that identical plaintext blocks) Tj
+ET
+BT
+/F1 7.4 Tf
+72 754.5 Td
+(encrypt to completely different ciphertext) Tj
+ET
+BT
+/F1 7.4 Tf
+72 745.9 Td
+(blocks each time, preventing pattern) Tj
+ET
+BT
+/F1 7.4 Tf
+72 737.3 Td
+(analysis) Tj
+ET
+BT
+/F2 7.4 Tf
+58 727.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 727.7001 Td
+(To store the password hash) Tj
+ET
+BT
+/F2 7.4 Tf
+58 718.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 718.1001 Td
+(To speed up decryption hardware) Tj
+ET
+BT
+/F2 7.4 Tf
+58 708.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 708.5001 Td
+(To compress the plaintext) Tj
+ET
+BT
+/F2 8.0 Tf
+42 684.9001 Td
+(58.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 684.9001 Td
+(What advanced capability distinguishes AES-GCM) Tj
+ET
+BT
+/F1 7.8 Tf
+58 675.7001 Td
+(\(Galois/Counter Mode\) from basic AES-CBC mode?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 664.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 664.0001 Td
+(AES-GCM provides Authenticated Encryption) Tj
+ET
+BT
+/F1 7.4 Tf
+72 655.4001 Td
+(with Associated Data \(AEAD\), guaranteeing) Tj
+ET
+BT
+/F1 7.4 Tf
+72 646.8002 Td
+(both confidentiality and data integrity) Tj
+ET
+BT
+/F1 7.4 Tf
+72 638.2002 Td
+(simultaneously) Tj
+ET
+BT
+/F2 7.4 Tf
+58 628.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 628.6002 Td
+(AES-GCM uses 512-bit keys) Tj
+ET
+BT
+/F2 7.4 Tf
+58 619.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 619.0002 Td
+(AES-GCM requires no IV) Tj
+ET
+BT
+/F2 7.4 Tf
+58 609.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 609.4003 Td
+(AES-GCM is an asymmetric algorithm) Tj
+ET
+BT
+/F2 8.0 Tf
+42 585.8003 Td
+(59.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 585.8003 Td
+(In an RSA public-key cryptosystem, if the chosen) Tj
+ET
+BT
+/F1 7.8 Tf
+58 576.6003 Td
+(primes are p=7 and q=11, what is the modulus n) Tj
+ET
+BT
+/F1 7.8 Tf
+58 567.4003 Td
+(and Euler's totient phi\(n\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 555.7003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 555.7003 Td
+(n = 77, phi\(n\) = \(7 - 1\) * \(11 - 1\) = 6 * 10) Tj
+ET
+BT
+/F1 7.4 Tf
+72 547.1003 Td
+(= 60) Tj
+ET
+BT
+/F2 7.4 Tf
+58 537.5003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 537.5003 Td
+(n = 77, phi\(n\) = 77) Tj
+ET
+BT
+/F2 7.4 Tf
+58 527.9003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 527.9003 Td
+(n = 70, phi\(n\) = 60) Tj
+ET
+BT
+/F2 7.4 Tf
+58 518.3004 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 518.3004 Td
+(n = 18, phi\(n\) = 77) Tj
+ET
+BT
+/F2 8.0 Tf
+42 494.7003 Td
+(60.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 494.7003 Td
+(For the RSA parameters in Q59 with public) Tj
+ET
+BT
+/F1 7.8 Tf
+58 485.5003 Td
+(exponent e=13, what is the private decryption) Tj
+ET
+BT
+/F1 7.8 Tf
+58 476.3003 Td
+(exponent d satisfying \(d * 13\) mod 60 = 1?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 464.6003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 464.6003 Td
+(d = 37 \(since 37 * 13 = 481 = 8 * 60 + 1\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 455.0003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 455.0003 Td
+(d = 7) Tj
+ET
+BT
+/F2 7.4 Tf
+58 445.4003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 445.4003 Td
+(d = 13) Tj
+ET
+BT
+/F2 7.4 Tf
+58 435.8003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 435.8003 Td
+(d = 47) Tj
+ET
+BT
+/F2 8.0 Tf
+42 412.2003 Td
+(61.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 412.2003 Td
+(How does a Denial-of-Service \(DoS\) attack differ) Tj
+ET
+BT
+/F1 7.8 Tf
+58 403.0003 Td
+(from a Distributed Denial-of-Service \(DDoS\)) Tj
+ET
+BT
+/F1 7.8 Tf
+58 393.8003 Td
+(attack?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 382.1003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 382.1003 Td
+(A DoS originates from a single attack) Tj
+ET
+BT
+/F1 7.4 Tf
+72 373.5002 Td
+(machine; a DDoS utilizes a distributed) Tj
+ET
+BT
+/F1 7.4 Tf
+72 364.9002 Td
+(botnet of compromised systems to overwhelm) Tj
+ET
+BT
+/F1 7.4 Tf
+72 356.3002 Td
+(the target simultaneously) Tj
+ET
+BT
+/F2 7.4 Tf
+58 346.7002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 346.7002 Td
+(DoS targets web servers; DDoS targets DNS) Tj
+ET
+BT
+/F1 7.4 Tf
+72 338.1002 Td
+(only) Tj
+ET
+BT
+/F2 7.4 Tf
+58 328.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 328.5002 Td
+(DoS is accidental; DDoS is deliberate) Tj
+ET
+BT
+/F2 7.4 Tf
+58 318.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 318.9002 Td
+(DoS uses malware; DDoS uses hardware loops) Tj
+ET
+BT
+/F2 8.0 Tf
+42 295.3002 Td
+(62.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 295.3002 Td
+(In a DNS Amplification DDoS attack, an attacker) Tj
+ET
+BT
+/F1 7.8 Tf
+58 286.1002 Td
+(generates massive traffic towards a victim by:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 274.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 274.4002 Td
+(Sending small DNS queries with spoofed) Tj
+ET
+BT
+/F1 7.4 Tf
+72 265.8002 Td
+(victim source IP to open resolvers) Tj
+ET
+BT
+/F1 7.4 Tf
+72 257.2002 Td
+(requesting large 'ANY' records, generating) Tj
+ET
+BT
+/F1 7.4 Tf
+72 248.6002 Td
+(huge responses to the victim) Tj
+ET
+BT
+/F2 7.4 Tf
+58 239.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 239.0002 Td
+(Flooding the root DNS servers with SYN) Tj
+ET
+BT
+/F1 7.4 Tf
+72 230.4001 Td
+(packets) Tj
+ET
+BT
+/F2 7.4 Tf
+58 220.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 220.8001 Td
+(Injecting rogue DNS zone files) Tj
+ET
+BT
+/F2 7.4 Tf
+58 211.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 211.2001 Td
+(Overwriting domain registrar records) Tj
+ET
+BT
+/F2 8.0 Tf
+42 187.6001 Td
+(63.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 187.6001 Td
+(What is the primary role of a Demilitarized Zone) Tj
+ET
+BT
+/F1 7.8 Tf
+58 178.4001 Td
+(\(DMZ\) in enterprise network security) Tj
+ET
+BT
+/F1 7.8 Tf
+58 169.2001 Td
+(architecture?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 157.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 157.5001 Td
+(A physical or logical subnetwork that) Tj
+ET
+BT
+/F1 7.4 Tf
+72 148.9001 Td
+(exposes external-facing public services) Tj
+ET
+BT
+/F1 7.4 Tf
+72 140.3001 Td
+(\(web, mail\) while isolating the secure) Tj
+ET
+BT
+/F1 7.4 Tf
+72 131.7001 Td
+(internal corporate LAN) Tj
+ET
+BT
+/F2 7.4 Tf
+58 122.1001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 122.1001 Td
+(A zone where all firewall rules are disabled) Tj
+ET
+BT
+/F2 7.4 Tf
+58 112.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 112.5001 Td
+(A backup server room) Tj
+ET
+BT
+/F2 7.4 Tf
+58 102.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 102.9001 Td
+(A quarantine area for infected computers) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(64.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(An Intrusion Detection System \(IDS\) differs from) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(an Intrusion Prevention System \(IPS\) in that:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(An IDS passively monitors and alerts) Tj
+ET
+BT
+/F1 7.4 Tf
+336 754.5 Td
+(administrators upon detecting threats; an) Tj
+ET
+BT
+/F1 7.4 Tf
+336 745.9 Td
+(IPS sits inline and actively blocks or drops) Tj
+ET
+BT
+/F1 7.4 Tf
+336 737.3 Td
+(malicious traffic) Tj
+ET
+BT
+/F2 7.4 Tf
+322 727.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 727.7001 Td
+(IDS is hardware; IPS is software) Tj
+ET
+BT
+/F2 7.4 Tf
+322 718.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 718.1001 Td
+(IDS decrypts SSL; IPS does not) Tj
+ET
+BT
+/F2 7.4 Tf
+322 708.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 708.5001 Td
+(IDS only works on Wi-Fi networks) Tj
+ET
+BT
+/F2 8.0 Tf
+306 684.9001 Td
+(65.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 684.9001 Td
+(Signature-based intrusion detection detects) Tj
+ET
+BT
+/F1 7.8 Tf
+322 675.7001 Td
+(attacks by:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 664.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 664.0001 Td
+(Matching incoming traffic patterns against a) Tj
+ET
+BT
+/F1 7.4 Tf
+336 655.4001 Td
+(database of known threat signatures and) Tj
+ET
+BT
+/F1 7.4 Tf
+336 646.8002 Td
+(exploit patterns) Tj
+ET
+BT
+/F2 7.4 Tf
+322 637.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 637.2002 Td
+(Analyzing statistical deviations from normal) Tj
+ET
+BT
+/F1 7.4 Tf
+336 628.6002 Td
+(baseline behavior) Tj
+ET
+BT
+/F2 7.4 Tf
+322 619.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 619.0002 Td
+(Testing software in an isolated sandbox) Tj
+ET
+BT
+/F2 7.4 Tf
+322 609.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 609.4003 Td
+(Scanning source code for bugs) Tj
+ET
+BT
+/F2 8.0 Tf
+306 585.8003 Td
+(66.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 585.8003 Td
+(Anomaly-based intrusion detection identifies) Tj
+ET
+BT
+/F1 7.8 Tf
+322 576.6003 Td
+(potential cyber attacks by:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 564.9003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 564.9003 Td
+(Detecting significant statistical deviations) Tj
+ET
+BT
+/F1 7.4 Tf
+336 556.3003 Td
+(from established baseline network traffic) Tj
+ET
+BT
+/F1 7.4 Tf
+336 547.7003 Td
+(models) Tj
+ET
+BT
+/F2 7.4 Tf
+322 538.1003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 538.1003 Td
+(Looking up known malware MD5 hashes) Tj
+ET
+BT
+/F2 7.4 Tf
+322 528.5004 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 528.5004 Td
+(Blocking all traffic from foreign IP) Tj
+ET
+BT
+/F1 7.4 Tf
+336 519.9004 Td
+(addresses) Tj
+ET
+BT
+/F2 7.4 Tf
+322 510.3004 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 510.3004 Td
+(Restricting port numbers to 80 and 443) Tj
+ET
+BT
+/F2 8.0 Tf
+306 486.7004 Td
+(67.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 486.7004 Td
+(In public key infrastructure \(PKI\), what is a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 477.5004 Td
+(Certificate Revocation List \(CRL\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 465.8004 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 465.8004 Td
+(A digitally signed list published) Tj
+ET
+BT
+/F1 7.4 Tf
+336 457.2003 Td
+(periodically by a CA listing certificates) Tj
+ET
+BT
+/F1 7.4 Tf
+336 448.6003 Td
+(that have been revoked before their) Tj
+ET
+BT
+/F1 7.4 Tf
+336 440.0003 Td
+(scheduled expiry date) Tj
+ET
+BT
+/F2 7.4 Tf
+322 430.4003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 430.4003 Td
+(A list of blacklisted IP addresses) Tj
+ET
+BT
+/F2 7.4 Tf
+322 420.8003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 420.8003 Td
+(A catalog of approved web browsers) Tj
+ET
+BT
+/F2 7.4 Tf
+322 411.2003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 411.2003 Td
+(A table of expired domain names) Tj
+ET
+BT
+/F2 8.0 Tf
+306 387.6003 Td
+(68.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 387.6003 Td
+(How does the Online Certificate Status Protocol) Tj
+ET
+BT
+/F1 7.8 Tf
+322 378.4003 Td
+(\(OCSP, RFC 6960\) improve on CRLs for checking) Tj
+ET
+BT
+/F1 7.8 Tf
+322 369.2003 Td
+(certificate validity?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 357.5003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 357.5003 Td
+(It queries the CA in real-time for the) Tj
+ET
+BT
+/F1 7.4 Tf
+336 348.9003 Td
+(status of an individual certificate,) Tj
+ET
+BT
+/F1 7.4 Tf
+336 340.3003 Td
+(eliminating the need to download large CRL) Tj
+ET
+BT
+/F1 7.4 Tf
+336 331.7003 Td
+(databases) Tj
+ET
+BT
+/F2 7.4 Tf
+322 322.1003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 322.1003 Td
+(It skips certificate verification) Tj
+ET
+BT
+/F2 7.4 Tf
+322 312.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 312.5002 Td
+(It generates new SSL keys dynamically) Tj
+ET
+BT
+/F2 7.4 Tf
+322 302.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 302.9002 Td
+(It bypasses firewall proxy checks) Tj
+ET
+BT
+/F2 8.0 Tf
+306 279.3002 Td
+(69.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 279.3002 Td
+(What security vulnerability does OCSP Stapling) Tj
+ET
+BT
+/F1 7.8 Tf
+322 270.1002 Td
+(solve in TLS handshake negotiations?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 258.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 258.4002 Td
+(The web server caches the CA-signed OCSP) Tj
+ET
+BT
+/F1 7.4 Tf
+336 249.8002 Td
+(response and sends it directly to the) Tj
+ET
+BT
+/F1 7.4 Tf
+336 241.2002 Td
+(browser in the TLS handshake, preserving) Tj
+ET
+BT
+/F1 7.4 Tf
+336 232.6002 Td
+(privacy and eliminating lookup latency) Tj
+ET
+BT
+/F2 7.4 Tf
+322 223.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 223.0002 Td
+(It prevents cross-site scripting \(XSS\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 213.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 213.4002 Td
+(It encrypts DNS requests) Tj
+ET
+BT
+/F2 7.4 Tf
+322 203.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 203.8002 Td
+(It stops SQL injection) Tj
+ET
+BT
+/F2 8.0 Tf
+306 180.2002 Td
+(70.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 180.2002 Td
+(What is a 'Zero-Day Vulnerability' in) Tj
+ET
+BT
+/F1 7.8 Tf
+322 171.0002 Td
+(cybersecurity?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 159.3002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 159.3002 Td
+(A software vulnerability that is unknown to) Tj
+ET
+BT
+/F1 7.4 Tf
+336 150.7002 Td
+(the software vendor and has no available) Tj
+ET
+BT
+/F1 7.4 Tf
+336 142.1002 Td
+(security patch, leaving systems exposed to) Tj
+ET
+BT
+/F1 7.4 Tf
+336 133.5002 Td
+(zero-day exploits) Tj
+ET
+BT
+/F2 7.4 Tf
+322 123.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 123.9002 Td
+(A bug discovered on the day of software) Tj
+ET
+BT
+/F1 7.4 Tf
+336 115.3002 Td
+(release) Tj
+ET
+BT
+/F2 7.4 Tf
+322 105.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 105.7002 Td
+(A virus that deletes hard drives at midnight) Tj
+ET
+BT
+/F2 7.4 Tf
+322 96.10016 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 96.10016 Td
+(A firewall misconfiguration) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 14 0 R /Resources << /Font << /F1 53 0 R /F2 54 0 R >> >> >>
+endobj
+14 0 obj
+<< /Length 12893 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 6 of 25) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(71.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(In the TLS 1.3 handshake \(RFC 8446\), how many) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(round trips \(RTT\) are required to complete key) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(exchange and encryption setup before sending) Tj
+ET
+BT
+/F1 7.8 Tf
+58 756.4 Td
+(data?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.7 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.7 Td
+(1-RTT \(and 0-RTT for resumed connections,) Tj
+ET
+BT
+/F1 7.4 Tf
+72 736.1 Td
+(compared to 2-RTT in TLS 1.2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 726.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 726.5 Td
+(2-RTT) Tj
+ET
+BT
+/F2 7.4 Tf
+58 716.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 716.9 Td
+(3-RTT) Tj
+ET
+BT
+/F2 7.4 Tf
+58 707.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 707.3 Td
+(4-RTT) Tj
+ET
+BT
+/F2 8.0 Tf
+42 686.6001 Td
+(72.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 686.6001 Td
+(Which legacy cryptographic algorithms were) Tj
+ET
+BT
+/F1 7.8 Tf
+58 677.4001 Td
+(completely removed from the TLS 1.3 standard to) Tj
+ET
+BT
+/F1 7.8 Tf
+58 668.2001 Td
+(guarantee robust forward secrecy?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 656.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 656.5001 Td
+(RSA key exchange, static Diffie-Hellman,) Tj
+ET
+BT
+/F1 7.4 Tf
+72 647.9001 Td
+(DES, 3DES, RC4, MD5, and SHA-1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 638.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 638.3001 Td
+(AES-GCM) Tj
+ET
+BT
+/F2 7.4 Tf
+58 628.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 628.7001 Td
+(ChaCha20-Poly1305) Tj
+ET
+BT
+/F2 7.4 Tf
+58 619.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 619.1002 Td
+(ECDHE) Tj
+ET
+BT
+/F2 8.0 Tf
+42 598.4002 Td
+(73.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 598.4002 Td
+(What does the property of 'Perfect Forward) Tj
+ET
+BT
+/F1 7.8 Tf
+58 589.2002 Td
+(Secrecy' \(PFS\) guarantee in secure communication) Tj
+ET
+BT
+/F1 7.8 Tf
+58 580.0002 Td
+(sessions?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 568.3002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 568.3002 Td
+(Compromise of the server's long-term private) Tj
+ET
+BT
+/F1 7.4 Tf
+72 559.7002 Td
+(key in the future cannot decrypt past) Tj
+ET
+BT
+/F1 7.4 Tf
+72 551.1002 Td
+(recorded encrypted traffic sessions) Tj
+ET
+BT
+/F2 7.4 Tf
+58 541.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 541.5002 Td
+(Data is guaranteed to arrive within 10) Tj
+ET
+BT
+/F1 7.4 Tf
+72 532.9003 Td
+(milliseconds) Tj
+ET
+BT
+/F2 7.4 Tf
+58 523.3003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 523.3003 Td
+(The server's certificate will never expire) Tj
+ET
+BT
+/F2 7.4 Tf
+58 513.7003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 513.7003 Td
+(Client passwords cannot be sniffed on local) Tj
+ET
+BT
+/F1 7.4 Tf
+72 505.1003 Td
+(Wi-Fi) Tj
+ET
+BT
+/F2 8.0 Tf
+42 484.4003 Td
+(74.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 484.4003 Td
+(How does Ephemeral Diffie-Hellman \(DHE / ECDHE\)) Tj
+ET
+BT
+/F1 7.8 Tf
+58 475.2003 Td
+(achieve Perfect Forward Secrecy?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 463.5003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 463.5003 Td
+(A unique, temporary key pair is generated) Tj
+ET
+BT
+/F1 7.4 Tf
+72 454.9003 Td
+(for each individual session and discarded) Tj
+ET
+BT
+/F1 7.4 Tf
+72 446.3003 Td
+(immediately after use) Tj
+ET
+BT
+/F2 7.4 Tf
+58 436.7003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 436.7003 Td
+(By storing session keys on an encrypted USB) Tj
+ET
+BT
+/F1 7.4 Tf
+72 428.1003 Td
+(token) Tj
+ET
+BT
+/F2 7.4 Tf
+58 418.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 418.5002 Td
+(By re-encrypting the server certificate) Tj
+ET
+BT
+/F1 7.4 Tf
+72 409.9002 Td
+(every hour) Tj
+ET
+BT
+/F2 7.4 Tf
+58 400.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 400.3002 Td
+(By hashing passwords with bcrypt) Tj
+ET
+BT
+/F2 8.0 Tf
+42 379.6002 Td
+(75.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 379.6002 Td
+(What type of attack occurs when an attacker) Tj
+ET
+BT
+/F1 7.8 Tf
+58 370.4002 Td
+(intercepts traffic between a client and server) Tj
+ET
+BT
+/F1 7.8 Tf
+58 361.2002 Td
+(and forces them to negotiate an insecure, legacy) Tj
+ET
+BT
+/F1 7.8 Tf
+58 352.0002 Td
+(cipher suite?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 340.3002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 340.3002 Td
+(Cipher Suite Downgrade Attack \(e.g., POODLE,) Tj
+ET
+BT
+/F1 7.4 Tf
+72 331.7002 Td
+(FREAK\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 322.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 322.1002 Td
+(SQL Injection) Tj
+ET
+BT
+/F2 7.4 Tf
+58 312.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 312.5002 Td
+(Cross-Site Scripting \(XSS\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 302.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 302.9001 Td
+(ARP Poisoning) Tj
+ET
+BT
+/F2 8.0 Tf
+42 282.2001 Td
+(76.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 282.2001 Td
+(In an RSA system with public key \(e=3, n=33\), an) Tj
+ET
+BT
+/F1 7.8 Tf
+58 273.0001 Td
+(attacker intercepts ciphertext c=24. What is the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 263.8001 Td
+(original plaintext message m?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 252.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 252.1001 Td
+(m = 24 \(since m^3 mod 33 = 24; test 24^3 =) Tj
+ET
+BT
+/F1 7.4 Tf
+72 243.5001 Td
+(13824 mod 33: 13824 = 33 * 418 + 30;) Tj
+ET
+BT
+/F1 7.4 Tf
+72 234.9001 Td
+(actually checking primes: p=3, q=11, phi=20,) Tj
+ET
+BT
+/F1 7.4 Tf
+72 226.3001 Td
+(d=\(2*20+1\)/3=41/3 not int, d*3 mod 20=1 ->) Tj
+ET
+BT
+/F1 7.4 Tf
+72 217.7001 Td
+(d=7. c^d mod n = 24^7 mod 33 = 24\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 208.1001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 208.1001 Td
+(m = 12) Tj
+ET
+BT
+/F2 7.4 Tf
+58 198.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 198.5001 Td
+(m = 15) Tj
+ET
+BT
+/F2 7.4 Tf
+58 188.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 188.9001 Td
+(m = 5) Tj
+ET
+BT
+/F2 8.0 Tf
+42 168.2001 Td
+(77.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 168.2001 Td
+(In Diffie-Hellman key exchange, Alice and Bob) Tj
+ET
+BT
+/F1 7.8 Tf
+58 159.0001 Td
+(agree on prime p=23 and base g=5. Alice selects) Tj
+ET
+BT
+/F1 7.8 Tf
+58 149.8001 Td
+(private key a=4, Bob selects private key b=3.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 140.6001 Td
+(What is the shared secret key K?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 128.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 128.9001 Td
+(K = 18 \(Alice sends A = 5^4 mod 23 = 625 mod) Tj
+ET
+BT
+/F1 7.4 Tf
+72 120.3001 Td
+(23 = 4; Bob sends B = 5^3 mod 23 = 125 mod) Tj
+ET
+BT
+/F1 7.4 Tf
+72 111.7001 Td
+(23 = 10; K = B^a mod 23 = 10^4 mod 23 =) Tj
+ET
+BT
+/F1 7.4 Tf
+72 103.1001 Td
+(10000 mod 23 = 18; or A^b mod 23 = 4^3 mod) Tj
+ET
+BT
+/F1 7.4 Tf
+72 94.50009 Td
+(23 = 64 mod 23 = 18\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 84.90009 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 84.90009 Td
+(K = 10) Tj
+ET
+BT
+/F2 7.4 Tf
+58 75.30009 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 75.30009 Td
+(K = 4) Tj
+ET
+BT
+/F2 7.4 Tf
+58 65.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 65.7001 Td
+(K = 12) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(78.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(In the ElGamal encryption scheme, what) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(mathematical security property provides) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(resistance against passive eavesdroppers?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(The Computational Diffie-Hellman \(CDH\)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 745.3 Td
+(assumption over cyclic groups) Tj
+ET
+BT
+/F2 7.4 Tf
+322 735.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 735.7 Td
+(Integer factorization problem) Tj
+ET
+BT
+/F2 7.4 Tf
+322 726.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 726.1 Td
+(Quantum entanglement) Tj
+ET
+BT
+/F2 7.4 Tf
+322 716.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 716.5001 Td
+(Shortest vector problem in lattices) Tj
+ET
+BT
+/F2 8.0 Tf
+306 695.8858 Td
+(79.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 695.8858 Td
+(Why is Electronic Codebook \(ECB\) mode) Tj
+ET
+BT
+/F1 7.8 Tf
+322 686.6858 Td
+(fundamentally insecure for encrypting) Tj
+ET
+BT
+/F1 7.8 Tf
+322 677.4858 Td
+(multi-block structured data \(such as bitmap) Tj
+ET
+BT
+/F1 7.8 Tf
+322 668.2858 Td
+(images\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 656.5858 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 656.5858 Td
+(Identical plaintext blocks encrypt to) Tj
+ET
+BT
+/F1 7.4 Tf
+336 647.9858 Td
+(identical ciphertext blocks, preserving) Tj
+ET
+BT
+/F1 7.4 Tf
+336 639.3858 Td
+(visible data patterns and structural) Tj
+ET
+BT
+/F1 7.4 Tf
+336 630.7858 Td
+(relationships in the ciphertext) Tj
+ET
+BT
+/F2 7.4 Tf
+322 621.1859 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 621.1859 Td
+(It requires 4096-bit keys) Tj
+ET
+BT
+/F2 7.4 Tf
+322 611.5859 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 611.5859 Td
+(It cannot run on multi-core CPUs) Tj
+ET
+BT
+/F2 7.4 Tf
+322 601.9859 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 601.9859 Td
+(It generates checksum errors in TCP) Tj
+ET
+BT
+/F2 8.0 Tf
+306 581.3716 Td
+(80.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 581.3716 Td
+(In Cipher Block Chaining \(CBC\) mode, how is the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 572.1716 Td
+(encryption of block i influenced by previous) Tj
+ET
+BT
+/F1 7.8 Tf
+322 562.9716 Td
+(blocks?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 551.2716 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 551.2716 Td
+(Plaintext block P_i is XORed with the) Tj
+ET
+BT
+/F1 7.4 Tf
+336 542.6716 Td
+(previous ciphertext block C_{i-1} before) Tj
+ET
+BT
+/F1 7.4 Tf
+336 534.0717 Td
+(encryption: C_i = E_K\(P_i XOR C_{i-1}\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.4717 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.4717 Td
+(Plaintext block P_i is added arithmetically) Tj
+ET
+BT
+/F1 7.4 Tf
+336 515.8717 Td
+(to P_{i-1}) Tj
+ET
+BT
+/F2 7.4 Tf
+322 506.2717 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 506.2717 Td
+(Each block is encrypted completely) Tj
+ET
+BT
+/F1 7.4 Tf
+336 497.6717 Td
+(independently) Tj
+ET
+BT
+/F2 7.4 Tf
+322 488.0717 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 488.0717 Td
+(Ciphertext C_i is hashed with SHA-256) Tj
+ET
+BT
+/F2 8.0 Tf
+306 467.4574 Td
+(81.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 467.4574 Td
+(What critical security flaw enabled the 'Padding) Tj
+ET
+BT
+/F1 7.8 Tf
+322 458.2574 Td
+(Oracle Attack' \(e.g., against CBC mode in SSL) Tj
+ET
+BT
+/F1 7.8 Tf
+322 449.0574 Td
+(3.0 / TLS 1.0\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 437.3574 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 437.3574 Td
+(The server leaked information about whether) Tj
+ET
+BT
+/F1 7.4 Tf
+336 428.7574 Td
+(the decrypted PKCS#7 padding was valid or) Tj
+ET
+BT
+/F1 7.4 Tf
+336 420.1573 Td
+(invalid via error messages or timing) Tj
+ET
+BT
+/F1 7.4 Tf
+336 411.5573 Td
+(differences) Tj
+ET
+BT
+/F2 7.4 Tf
+322 401.9573 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 401.9573 Td
+(The initialization vector was always set to) Tj
+ET
+BT
+/F1 7.4 Tf
+336 393.3573 Td
+(zero) Tj
+ET
+BT
+/F2 7.4 Tf
+322 383.7573 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 383.7573 Td
+(The RSA private key was exposed in headers) Tj
+ET
+BT
+/F2 7.4 Tf
+322 374.1573 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 374.1573 Td
+(The TCP sequence number was 0) Tj
+ET
+BT
+/F2 8.0 Tf
+306 353.543 Td
+(82.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 353.543 Td
+(A Message Authentication Code \(MAC\) based on) Tj
+ET
+BT
+/F1 7.8 Tf
+322 344.343 Td
+(hash functions \(HMAC, RFC 2104\) is defined) Tj
+ET
+BT
+/F1 7.8 Tf
+322 335.143 Td
+(mathematically as:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 323.443 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 323.443 Td
+(HMAC\(K, m\) = H\(\(K' XOR opad\) || H\(\(K' XOR) Tj
+ET
+BT
+/F1 7.4 Tf
+336 314.843 Td
+(ipad\) || m\)\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 305.243 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 305.243 Td
+(HMAC\(K, m\) = H\(K || m\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 295.643 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 295.643 Td
+(HMAC\(K, m\) = H\(m\) XOR K) Tj
+ET
+BT
+/F2 7.4 Tf
+322 286.043 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 286.043 Td
+(HMAC\(K, m\) = E_K\(H\(m\)\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 265.4287 Td
+(83.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 265.4287 Td
+(Why is the naive construction H\(Key || Message\)) Tj
+ET
+BT
+/F1 7.8 Tf
+322 256.2287 Td
+(vulnerable to Length Extension Attacks when) Tj
+ET
+BT
+/F1 7.8 Tf
+322 247.0287 Td
+(using Merkle-Damgard hash functions like MD5 and) Tj
+ET
+BT
+/F1 7.8 Tf
+322 237.8287 Td
+(SHA-1/256?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 226.1287 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 226.1287 Td
+(An attacker can append arbitrary malicious) Tj
+ET
+BT
+/F1 7.4 Tf
+336 217.5287 Td
+(data to the message and compute a valid hash) Tj
+ET
+BT
+/F1 7.4 Tf
+336 208.9287 Td
+(digest without knowing the secret key) Tj
+ET
+BT
+/F2 7.4 Tf
+322 199.3287 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 199.3287 Td
+(The key is leaked in plain text) Tj
+ET
+BT
+/F2 7.4 Tf
+322 189.7287 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 189.7287 Td
+(The hash function produces collisions within) Tj
+ET
+BT
+/F1 7.4 Tf
+336 181.1286 Td
+(10 iterations) Tj
+ET
+BT
+/F2 7.4 Tf
+322 171.5286 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 171.5286 Td
+(It cannot be processed in blocks) Tj
+ET
+BT
+/F2 8.0 Tf
+306 150.9144 Td
+(84.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 150.9144 Td
+(What mathematical structure replaces traditional) Tj
+ET
+BT
+/F1 7.8 Tf
+322 141.7144 Td
+(modular arithmetic in Elliptic Curve) Tj
+ET
+BT
+/F1 7.8 Tf
+322 132.5144 Td
+(Cryptography \(ECC\) to allow shorter key lengths) Tj
+ET
+BT
+/F1 7.8 Tf
+322 123.3144 Td
+(with equivalent security?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 111.6144 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 111.6144 Td
+(The abelian group formed by points on an) Tj
+ET
+BT
+/F1 7.4 Tf
+336 103.0144 Td
+(elliptic curve over finite fields y^2 = x^3) Tj
+ET
+BT
+/F1 7.4 Tf
+336 94.41437 Td
+(+ ax + b mod p) Tj
+ET
+BT
+/F2 7.4 Tf
+322 84.81437 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 84.81437 Td
+(Hyperbolic trigonometric functions) Tj
+ET
+BT
+/F2 7.4 Tf
+322 75.21437 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 75.21437 Td
+(Non-Euclidean Riemann surfaces) Tj
+ET
+BT
+/F2 7.4 Tf
+322 65.61437 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 65.61437 Td
+(Quaternionic matrices) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 16 0 R /Resources << /Font << /F1 53 0 R /F2 54 0 R >> >> >>
+endobj
+16 0 obj
+<< /Length 13404 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 7 of 25) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(85.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(A 256-bit Elliptic Curve Cryptography \(ECC\) key) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(offers cryptographic security equivalent to) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(approximately what size classical RSA key?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(3072-bit RSA Key) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.3 Td
+(512-bit RSA Key) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.7 Td
+(1024-bit RSA Key) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.1 Td
+(2048-bit RSA Key) Tj
+ET
+BT
+/F2 8.0 Tf
+42 701.5143 Td
+(86.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5143 Td
+(In Kerberos authentication protocol \(RFC 4120\),) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.3143 Td
+(what role does the Key Distribution Center \(KDC\)) Tj
+ET
+BT
+/F1 7.8 Tf
+58 683.1143 Td
+(play?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.4143 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.4143 Td
+(It acts as a trusted third party comprising) Tj
+ET
+BT
+/F1 7.4 Tf
+72 662.8143 Td
+(an Authentication Server \(AS\) and a Ticket) Tj
+ET
+BT
+/F1 7.4 Tf
+72 654.2144 Td
+(Granting Server \(TGS\) to issue session) Tj
+ET
+BT
+/F1 7.4 Tf
+72 645.6144 Td
+(tickets) Tj
+ET
+BT
+/F2 7.4 Tf
+58 636.0144 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 636.0144 Td
+(It stores DNS zone files) Tj
+ET
+BT
+/F2 7.4 Tf
+58 626.4144 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 626.4144 Td
+(It signs X.509 certificates) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.8145 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.8145 Td
+(It routes encrypted IP packets) Tj
+ET
+BT
+/F2 8.0 Tf
+42 593.2288 Td
+(87.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 593.2288 Td
+(What is a 'Replay Attack' in authentication) Tj
+ET
+BT
+/F1 7.8 Tf
+58 584.0287 Td
+(protocols, and how do protocols like Kerberos) Tj
+ET
+BT
+/F1 7.8 Tf
+58 574.8287 Td
+(defend against it?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 563.1287 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 563.1287 Td
+(An attacker sniffs a valid authentication) Tj
+ET
+BT
+/F1 7.4 Tf
+72 554.5287 Td
+(token and retransmits it later; defended) Tj
+ET
+BT
+/F1 7.4 Tf
+72 545.9288 Td
+(using synchronized timestamps, nonces, and) Tj
+ET
+BT
+/F1 7.4 Tf
+72 537.3288 Td
+(short ticket lifetimes) Tj
+ET
+BT
+/F2 7.4 Tf
+58 527.7288 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 527.7288 Td
+(An attacker changes the destination port) Tj
+ET
+BT
+/F2 7.4 Tf
+58 518.1288 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 518.1288 Td
+(An attacker floods the server with SYN) Tj
+ET
+BT
+/F1 7.4 Tf
+72 509.5288 Td
+(packets) Tj
+ET
+BT
+/F2 7.4 Tf
+58 499.9288 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 499.9288 Td
+(An attacker guesses passwords via dictionary) Tj
+ET
+BT
+/F2 8.0 Tf
+42 476.3431 Td
+(88.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 476.3431 Td
+(How does a Cross-Site Scripting \(XSS\) attack) Tj
+ET
+BT
+/F1 7.8 Tf
+58 467.1431 Td
+(compromise user security in a web application?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 455.4431 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 455.4431 Td
+(Malicious client-side JavaScript is injected) Tj
+ET
+BT
+/F1 7.4 Tf
+72 446.8431 Td
+(into trusted web pages and executed in the) Tj
+ET
+BT
+/F1 7.4 Tf
+72 438.2431 Td
+(victim's browser, stealing session cookies) Tj
+ET
+BT
+/F1 7.4 Tf
+72 429.6431 Td
+(or tokens) Tj
+ET
+BT
+/F2 7.4 Tf
+58 420.0431 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 420.0431 Td
+(Malicious SQL statements manipulate backend) Tj
+ET
+BT
+/F1 7.4 Tf
+72 411.4431 Td
+(databases) Tj
+ET
+BT
+/F2 7.4 Tf
+58 401.843 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 401.843 Td
+(Packets are spoofed on the local subnet) Tj
+ET
+BT
+/F2 7.4 Tf
+58 392.243 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 392.243 Td
+(The server's private key is extracted) Tj
+ET
+BT
+/F2 8.0 Tf
+42 368.6573 Td
+(89.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 368.6573 Td
+(How does Cross-Site Request Forgery \(CSRF\)) Tj
+ET
+BT
+/F1 7.8 Tf
+58 359.4573 Td
+(exploit user browser trust?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 347.7573 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 347.7573 Td
+(It tricks an authenticated user's browser) Tj
+ET
+BT
+/F1 7.4 Tf
+72 339.1573 Td
+(into executing unwanted actions on a trusted) Tj
+ET
+BT
+/F1 7.4 Tf
+72 330.5573 Td
+(web application where the user is currently) Tj
+ET
+BT
+/F1 7.4 Tf
+72 321.9573 Td
+(authenticated) Tj
+ET
+BT
+/F2 7.4 Tf
+58 312.3573 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 312.3573 Td
+(It intercepts SSL handshakes) Tj
+ET
+BT
+/F2 7.4 Tf
+58 302.7573 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 302.7573 Td
+(It brute-forces the user's password) Tj
+ET
+BT
+/F2 7.4 Tf
+58 293.1573 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 293.1573 Td
+(It injects JavaScript into the database) Tj
+ET
+BT
+/F2 8.0 Tf
+42 269.5715 Td
+(90.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 269.5715 Td
+(What is the primary defensive mechanism against) Tj
+ET
+BT
+/F1 7.8 Tf
+58 260.3715 Td
+(Cross-Site Request Forgery \(CSRF\) in web forms?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 248.6715 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 248.6715 Td
+(Anti-CSRF Tokens \(unique, unpredictable,) Tj
+ET
+BT
+/F1 7.4 Tf
+72 240.0715 Td
+(secret tokens validated by the server upon) Tj
+ET
+BT
+/F1 7.4 Tf
+72 231.4715 Td
+(each state-changing POST request\) and) Tj
+ET
+BT
+/F1 7.4 Tf
+72 222.8715 Td
+(SameSite cookies) Tj
+ET
+BT
+/F2 7.4 Tf
+58 213.2715 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 213.2715 Td
+(Using HTTPS encryption) Tj
+ET
+BT
+/F2 7.4 Tf
+58 203.6715 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 203.6715 Td
+(Disabling JavaScript in browsers) Tj
+ET
+BT
+/F2 7.4 Tf
+58 194.0715 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 194.0715 Td
+(Using base64 encoding) Tj
+ET
+BT
+/F2 8.0 Tf
+42 170.4858 Td
+(91.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 170.4858 Td
+(How does SQL Injection \(SQLi\) compromise) Tj
+ET
+BT
+/F1 7.8 Tf
+58 161.2858 Td
+(relational database systems, and what is the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 152.0858 Td
+(primary architectural defense?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 140.3858 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 140.3858 Td
+(Malicious SQL fragments are concatenated) Tj
+ET
+BT
+/F1 7.4 Tf
+72 131.7858 Td
+(into input queries to manipulate database) Tj
+ET
+BT
+/F1 7.4 Tf
+72 123.1858 Td
+(execution; defended using Parameterized) Tj
+ET
+BT
+/F1 7.4 Tf
+72 114.5858 Td
+(Queries \(Prepared Statements\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 104.9858 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 104.9858 Td
+(Buffer overflows crash the SQL engine;) Tj
+ET
+BT
+/F1 7.4 Tf
+72 96.38579 Td
+(defended by adding RAM) Tj
+ET
+BT
+/F2 7.4 Tf
+58 86.78579 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 86.78579 Td
+(Passwords are brute-forced; defended by) Tj
+ET
+BT
+/F1 7.4 Tf
+72 78.18579 Td
+(CAPTCHA) Tj
+ET
+BT
+/F2 7.4 Tf
+58 68.58579 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 68.58579 Td
+(Packets are sniffed; defended by TLS) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(92.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What is the function of the Content Security) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(Policy \(CSP\) HTTP response header in modern web) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(security?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(It restricts the domains from which browsers) Tj
+ET
+BT
+/F1 7.4 Tf
+336 745.3 Td
+(are permitted to load scripts, styles,) Tj
+ET
+BT
+/F1 7.4 Tf
+336 736.7 Td
+(images, and other resources, mitigating XSS) Tj
+ET
+BT
+/F1 7.4 Tf
+336 728.1 Td
+(attacks) Tj
+ET
+BT
+/F2 7.4 Tf
+322 718.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 718.5001 Td
+(It enforces HTTPS encryption) Tj
+ET
+BT
+/F2 7.4 Tf
+322 708.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 708.9001 Td
+(It sets user cookie permissions) Tj
+ET
+BT
+/F2 7.4 Tf
+322 699.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 699.3001 Td
+(It configures firewall routing) Tj
+ET
+BT
+/F2 8.0 Tf
+306 684.4858 Td
+(93.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 684.4858 Td
+(In an IPsec \(Internet Protocol Security\)) Tj
+ET
+BT
+/F1 7.8 Tf
+322 675.2858 Td
+(architecture, what is the key functional) Tj
+ET
+BT
+/F1 7.8 Tf
+322 666.0858 Td
+(difference between AH \(Authentication Header\)) Tj
+ET
+BT
+/F1 7.8 Tf
+322 656.8858 Td
+(and ESP \(Encapsulating Security Payload\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 645.1858 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 645.1858 Td
+(AH provides integrity and authentication) Tj
+ET
+BT
+/F1 7.4 Tf
+336 636.5858 Td
+(without encryption; ESP provides encryption) Tj
+ET
+BT
+/F1 7.4 Tf
+336 627.9858 Td
+(\(confidentiality\) along with optional) Tj
+ET
+BT
+/F1 7.4 Tf
+336 619.3859 Td
+(authentication and integrity) Tj
+ET
+BT
+/F2 7.4 Tf
+322 609.7859 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 609.7859 Td
+(AH encrypts payloads; ESP does not) Tj
+ET
+BT
+/F2 7.4 Tf
+322 600.1859 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 600.1859 Td
+(AH operates at Layer 7; ESP operates at) Tj
+ET
+BT
+/F1 7.4 Tf
+336 591.5859 Td
+(Layer 4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 581.986 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 581.986 Td
+(AH is used only with IPv6) Tj
+ET
+BT
+/F2 8.0 Tf
+306 567.1717 Td
+(94.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 567.1717 Td
+(In IPsec, what distinguishes Transport Mode from) Tj
+ET
+BT
+/F1 7.8 Tf
+322 557.9717 Td
+(Tunnel Mode?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 546.2717 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 546.2717 Td
+(Transport mode encrypts only the IP payload) Tj
+ET
+BT
+/F1 7.4 Tf
+336 537.6717 Td
+(leaving the original IP header visible;) Tj
+ET
+BT
+/F1 7.4 Tf
+336 529.0717 Td
+(Tunnel mode encapsulates and encrypts the) Tj
+ET
+BT
+/F1 7.4 Tf
+336 520.4717 Td
+(entire original IP packet inside a new IP) Tj
+ET
+BT
+/F1 7.4 Tf
+336 511.8717 Td
+(header) Tj
+ET
+BT
+/F2 7.4 Tf
+322 502.2717 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 502.2717 Td
+(Transport mode is for VPNs; Tunnel mode is) Tj
+ET
+BT
+/F1 7.4 Tf
+336 493.6717 Td
+(for LANs) Tj
+ET
+BT
+/F2 7.4 Tf
+322 484.0717 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 484.0717 Td
+(Transport mode uses UDP; Tunnel mode uses) Tj
+ET
+BT
+/F1 7.4 Tf
+336 475.4717 Td
+(TCP) Tj
+ET
+BT
+/F2 7.4 Tf
+322 465.8717 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 465.8717 Td
+(Transport mode requires hardware) Tj
+ET
+BT
+/F1 7.4 Tf
+336 457.2717 Td
+(acceleration) Tj
+ET
+BT
+/F2 8.0 Tf
+306 442.4574 Td
+(95.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 442.4574 Td
+(What role does the Internet Key Exchange \(IKEv2\)) Tj
+ET
+BT
+/F1 7.8 Tf
+322 433.2574 Td
+(protocol perform in an IPsec Virtual Private) Tj
+ET
+BT
+/F1 7.8 Tf
+322 424.0574 Td
+(Network \(VPN\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 412.3574 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 412.3574 Td
+(It dynamically negotiates security) Tj
+ET
+BT
+/F1 7.4 Tf
+336 403.7574 Td
+(associations \(SAs\), mutually authenticates) Tj
+ET
+BT
+/F1 7.4 Tf
+336 395.1573 Td
+(endpoints, and securely establishes shared) Tj
+ET
+BT
+/F1 7.4 Tf
+336 386.5573 Td
+(cryptographic keys) Tj
+ET
+BT
+/F2 7.4 Tf
+322 376.9573 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 376.9573 Td
+(It routes packets across BGP autonomous) Tj
+ET
+BT
+/F1 7.4 Tf
+336 368.3573 Td
+(systems) Tj
+ET
+BT
+/F2 7.4 Tf
+322 358.7573 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 358.7573 Td
+(It assigns private IP addresses via DHCP) Tj
+ET
+BT
+/F2 7.4 Tf
+322 349.1573 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 349.1573 Td
+(It compresses video streams) Tj
+ET
+BT
+/F2 8.0 Tf
+306 334.343 Td
+(96.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 334.343 Td
+(What is the operational purpose of a Web) Tj
+ET
+BT
+/F1 7.8 Tf
+322 325.143 Td
+(Application Firewall \(WAF\) compared to a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 315.943 Td
+(traditional network firewall?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.243 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.243 Td
+(A WAF inspects HTTP/HTTPS traffic at Layer 7) Tj
+ET
+BT
+/F1 7.4 Tf
+336 295.643 Td
+(to detect and block web application attacks) Tj
+ET
+BT
+/F1 7.4 Tf
+336 287.043 Td
+(such as SQLi, XSS, and CSRF) Tj
+ET
+BT
+/F2 7.4 Tf
+322 277.443 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 277.443 Td
+(A WAF routes packets at gigabit speeds) Tj
+ET
+BT
+/F2 7.4 Tf
+322 267.843 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 267.843 Td
+(A WAF blocks ping sweeps and SYN floods) Tj
+ET
+BT
+/F2 7.4 Tf
+322 258.243 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 258.243 Td
+(A WAF assigns IP addresses to clients) Tj
+ET
+BT
+/F2 8.0 Tf
+306 243.4287 Td
+(97.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 243.4287 Td
+(How does a Honeypot system assist cybersecurity) Tj
+ET
+BT
+/F1 7.8 Tf
+322 234.2287 Td
+(incident response teams?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 222.5287 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 222.5287 Td
+(It provides an intentionally vulnerable,) Tj
+ET
+BT
+/F1 7.4 Tf
+336 213.9287 Td
+(decoy computer system designed to lure,) Tj
+ET
+BT
+/F1 7.4 Tf
+336 205.3287 Td
+(detect, and analyze attacker techniques) Tj
+ET
+BT
+/F1 7.4 Tf
+336 196.7287 Td
+(without risking production assets) Tj
+ET
+BT
+/F2 7.4 Tf
+322 187.1286 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 187.1286 Td
+(It encrypts production databases) Tj
+ET
+BT
+/F2 7.4 Tf
+322 177.5286 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 177.5286 Td
+(It blocks all network traffic during a) Tj
+ET
+BT
+/F1 7.4 Tf
+336 168.9286 Td
+(breach) Tj
+ET
+BT
+/F2 7.4 Tf
+322 159.3286 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 159.3286 Td
+(It filters spam emails) Tj
+ET
+BT
+/F2 8.0 Tf
+306 144.5143 Td
+(98.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 144.5143 Td
+(In post-quantum cryptography \(PQC\), why are) Tj
+ET
+BT
+/F1 7.8 Tf
+322 135.3143 Td
+(classical public-key algorithms like RSA and ECC) Tj
+ET
+BT
+/F1 7.8 Tf
+322 126.1143 Td
+(vulnerable to Shor's Algorithm?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 114.4144 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 114.4144 Td
+(Shor's quantum algorithm can solve prime) Tj
+ET
+BT
+/F1 7.4 Tf
+336 105.8144 Td
+(factorization and discrete logarithms in) Tj
+ET
+BT
+/F1 7.4 Tf
+336 97.21436 Td
+(polynomial time, completely breaking RSA and) Tj
+ET
+BT
+/F1 7.4 Tf
+336 88.61436 Td
+(ECC on large quantum computers) Tj
+ET
+BT
+/F2 7.4 Tf
+322 79.01436 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 79.01436 Td
+(Shor's algorithm brute-forces AES keys) Tj
+ET
+BT
+/F2 7.4 Tf
+322 69.41436 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 69.41436 Td
+(Shor's algorithm reverses SHA-256 hashes) Tj
+ET
+BT
+/F2 7.4 Tf
+322 59.81436 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 59.81436 Td
+(Shor's algorithm crashes TCP handshakes) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 18 0 R /Resources << /Font << /F1 53 0 R /F2 54 0 R >> >> >>
+endobj
+18 0 obj
+<< /Length 2088 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 8 of 25) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(99.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Which cryptographic paradigm is standardly) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(utilized in NIST post-quantum cryptographic) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(standards \(e.g., CRYSTALS-Kyber and) Tj
+ET
+BT
+/F1 7.8 Tf
+58 756.4 Td
+(CRYSTALS-Dilithium\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.7 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.7 Td
+(Lattice-Based Cryptography \(learning with) Tj
+ET
+BT
+/F1 7.4 Tf
+72 736.1 Td
+(errors / ring-LWE problems\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 726.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 726.5 Td
+(Elliptic Curve Cryptography) Tj
+ET
+BT
+/F2 7.4 Tf
+58 716.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 716.9 Td
+(Quantum Entanglement teleportation) Tj
+ET
+BT
+/F2 7.4 Tf
+58 707.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 707.3 Td
+(DES tripling) Tj
+ET
+BT
+/F2 8.0 Tf
+42 673.7001 Td
+(100.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 673.7001 Td
+(What is the security concept of 'Defense in) Tj
+ET
+BT
+/F1 7.8 Tf
+58 664.5001 Td
+(Depth' \(Layered Security\) in modern enterprise) Tj
+ET
+BT
+/F1 7.8 Tf
+58 655.3 Td
+(computing?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 643.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 643.6 Td
+(Implementing multiple redundant defensive) Tj
+ET
+BT
+/F1 7.4 Tf
+72 635.0001 Td
+(controls across physical, network, host,) Tj
+ET
+BT
+/F1 7.4 Tf
+72 626.4001 Td
+(application, and data layers so that failure) Tj
+ET
+BT
+/F1 7.4 Tf
+72 617.8001 Td
+(of one control does not compromise the) Tj
+ET
+BT
+/F1 7.4 Tf
+72 609.2001 Td
+(system) Tj
+ET
+BT
+/F2 7.4 Tf
+58 599.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 599.6002 Td
+(Using a single ultra-secure 4096-bit) Tj
+ET
+BT
+/F1 7.4 Tf
+72 591.0002 Td
+(firewall) Tj
+ET
+BT
+/F2 7.4 Tf
+58 581.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 581.4002 Td
+(Installing antivirus on servers only) Tj
+ET
+BT
+/F2 7.4 Tf
+58 571.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 571.8002 Td
+(Encrypting passwords with MD5 twice) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 20 0 R /Resources << /Font << /F1 53 0 R /F2 54 0 R >> >> >>
+endobj
+20 0 obj
+<< /Length 5009 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 9 of 25) Tj
+ET
+BT
+/F2 10 Tf
+45 780 Td
+(SECTION B: DESCRIPTIVE & SUBJECTIVE QUESTIONS) Tj
+ET
+BT
+/F2 8.5 Tf
+45 760 Td
+(Q1. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 760 Td
+(Explain the architecture and operational principles of the Domain Name System \(DNS\), detailing) Tj
+ET
+BT
+/F1 8.5 Tf
+72 749.5 Td
+(root servers, TLD servers, and authoritative servers.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 724.5 Td
+(Q2. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 724.5 Td
+(Compare Iterative DNS Queries and Recursive DNS Queries, illustrating the exact packet exchange) Tj
+ET
+BT
+/F1 8.5 Tf
+72 714 Td
+(sequence with an example.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 689 Td
+(Q3. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 689 Td
+(Describe the primary DNS Resource Record \(RR\) types: A, AAAA, CNAME, MX, NS, PTR, SOA, and TXT.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 653.5 Td
+(Q4. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 653.5 Td
+(Explain the architecture of File Transfer Protocol \(FTP\), distinguishing between Active Mode and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 643 Td
+(Passive Mode \(PASV\) and their firewall implications.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 618 Td
+(Q5. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 618 Td
+(Detail the end-to-end architecture of Electronic Mail systems, explaining the roles of MUA, MTA,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 607.5 Td
+(MDA, SMTP, POP3, and IMAP.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 582.5 Td
+(Q6. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 582.5 Td
+(Explain the evolution of Hypertext Transfer Protocol from HTTP/1.0, to HTTP/1.1, HTTP/2, and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 572 Td
+(HTTP/3.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 547 Td
+(Q7. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 547 Td
+(Explain the operation of Dynamic Host Configuration Protocol \(DHCP\) through the four-step DORA) Tj
+ET
+BT
+/F1 8.5 Tf
+72 536.5 Td
+(process.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 511.5 Td
+(Q8. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 511.5 Td
+(Describe the Simple Network Management Protocol \(SNMP\) architecture, explaining Managers, Agents,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 501 Td
+(MIBs, and SMI.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 476 Td
+(Q9. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 476 Td
+(Explain the CIA Triad of Computer Security and detail complementary security principles:) Tj
+ET
+BT
+/F1 8.5 Tf
+72 465.5 Td
+(Non-Repudiation, Authenticity, and Authorization.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 440.5 Td
+(Q10. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 440.5 Td
+(Compare Symmetric-Key and Asymmetric-Key Cryptography, analyzing security, key distribution,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 430 Td
+(computational overhead, and typical hybrid usage.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 405 Td
+(Q11. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 405 Td
+(Detail the mathematical foundations of the RSA public-key cryptosystem: key generation,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 394.5 Td
+(encryption, decryption, and security basis.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 369.5 Td
+(Q12. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 369.5 Td
+(Explain the Diffie-Hellman Key Exchange protocol, illustrating the mathematical steps and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 359 Td
+(analyzing its susceptibility to Man-in-the-Middle attacks.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 334 Td
+(Q13. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 334 Td
+(Explain Cryptographic Hash Functions, detailing properties, Merkle-Damgard construction, and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 323.5 Td
+(comparison of MD5, SHA-1, SHA-2, and SHA-3.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 298.5 Td
+(Q14. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 298.5 Td
+(Describe the structure and verification of Digital Signatures and explain how they provide) Tj
+ET
+BT
+/F1 8.5 Tf
+72 288 Td
+(non-repudiation and integrity.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 263 Td
+(Q15. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 263 Td
+(Explain Public Key Infrastructure \(PKI\), the X.509 digital certificate format, and the) Tj
+ET
+BT
+/F1 8.5 Tf
+72 252.5 Td
+(hierarchical chain of trust.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 227.5 Td
+(Q16. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 227.5 Td
+(Explain the complete Transport Layer Security \(TLS 1.3\) handshake protocol, detailing 1-RTT and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 217 Td
+(0-RTT connection establishment.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 192 Td
+(Q17. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 192 Td
+(Categorize network Firewalls by architecture: Packet-Filtering, Stateful Inspection,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 181.5 Td
+(Application-Level Proxy, and Next-Generation Firewalls \(NGFW\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 156.5 Td
+(Q18. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 156.5 Td
+(Analyze common Web Application security vulnerabilities from the OWASP Top 10: SQL Injection,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 146 Td
+(Cross-Site Scripting \(XSS\), and Cross-Site Request Forgery \(CSRF\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 121 Td
+(Q19. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 121 Td
+(Explain the architecture of Virtual Private Networks \(VPNs\) and detail IPsec operational modes: AH) Tj
+ET
+BT
+/F1 8.5 Tf
+72 110.5 Td
+(vs ESP, and Transport vs Tunnel mode.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 85.5 Td
+(Q20. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 85.5 Td
+(Describe Post-Quantum Cryptography \(PQC\), explaining why Shor's and Grover's quantum algorithms) Tj
+ET
+BT
+/F1 8.5 Tf
+72 75 Td
+(threaten classical cryptography and highlighting NIST standards.) Tj
+ET
+
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 22 0 R /Resources << /Font << /F1 53 0 R /F2 54 0 R >> >> >>
+endobj
+22 0 obj
+<< /Length 2448 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 10 of 25) Tj
+ET
+BT
+/F2 8.5 Tf
+45 780 Td
+(Q21. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 780 Td
+(Calculate an RSA signature and verification manually for small prime parameters: p=5, q=11,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 769.5 Td
+(message hash h=9, and encryption exponent e=3.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 743.5 Td
+(Q22. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 743.5 Td
+(Explain the mechanics of a Distributed Denial of Service \(DDoS\) SYN Flood and describe how SYN) Tj
+ET
+BT
+/F1 8.5 Tf
+72 733 Td
+(Cookies provide stateless defense.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 707 Td
+(Q23. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 707 Td
+(Explain the structure of X.509 certificates and how Certificate Transparency \(CT\) logs detect) Tj
+ET
+BT
+/F1 8.5 Tf
+72 696.5 Td
+(rogue certificates.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 670.5 Td
+(Q24. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 670.5 Td
+(Detail the principles and operational steps of the Kerberos Authentication Protocol.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 634 Td
+(Q25. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 634 Td
+(Discuss the operating modes of symmetric block ciphers: ECB, CBC, CFB, OFB, and CTR, comparing) Tj
+ET
+BT
+/F1 8.5 Tf
+72 623.5 Td
+(security and parallelism.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 597.5 Td
+(Q26. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 597.5 Td
+(Explain the architecture and implementation of Demilitarized Zones \(DMZ\) in enterprise network) Tj
+ET
+BT
+/F1 8.5 Tf
+72 587 Td
+(security.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 561 Td
+(Q27. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 561 Td
+(Describe the functionality and deployment of Honeypots, Honeynets, and Intrusion) Tj
+ET
+BT
+/F1 8.5 Tf
+72 550.5 Td
+(Detection/Prevention Systems \(IDS/IPS\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 524.5 Td
+(Q28. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 524.5 Td
+(Explain the structure and operation of Secure Sockets Layer / Transport Layer Security record) Tj
+ET
+BT
+/F1 8.5 Tf
+72 514 Td
+(protocols and cipher suites.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 488 Td
+(Q29. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 488 Td
+(Detail the principles and operational challenges of Network Address Translation \(NAT\) and its) Tj
+ET
+BT
+/F1 8.5 Tf
+72 477.5 Td
+(impact on peer-to-peer protocols.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 451.5 Td
+(Q30. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 451.5 Td
+(Explain the Zero Trust Architecture \(ZTA\) paradigm \(NIST SP 800-207\) and contrast it with) Tj
+ET
+BT
+/F1 8.5 Tf
+72 441 Td
+(traditional perimeter security models.) Tj
+ET
+
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 24 0 R /Resources << /Font << /F1 53 0 R /F2 54 0 R >> >> >>
+endobj
+24 0 obj
+<< /Length 8362 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 11 of 25) Tj
+ET
+BT
+/F2 11 Tf
+45 780 Td
+(SECTION C: ANSWER KEY - MULTIPLE CHOICE QUESTIONS) Tj
+ET
+0.5 w
+45 772 m 550 772 l S
+BT
+/F2 8.5 Tf
+45 750 Td
+(Q1: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 734 Td
+(Q2: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 718 Td
+(Q3: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 702 Td
+(Q4: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 686 Td
+(Q5: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 670 Td
+(Q6: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 654 Td
+(Q7: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 638 Td
+(Q8: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 622 Td
+(Q9: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 606 Td
+(Q10: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 590 Td
+(Q11: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 574 Td
+(Q12: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 558 Td
+(Q13: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 542 Td
+(Q14: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 526 Td
+(Q15: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 510 Td
+(Q16: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 494 Td
+(Q17: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 478 Td
+(Q18: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 462 Td
+(Q19: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 446 Td
+(Q20: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 446 Td
+([A]) Tj
+ET
+0.2 w
+135 755 m 135 425 l S
+BT
+/F2 8.5 Tf
+145 750 Td
+(Q21: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 734 Td
+(Q22: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 718 Td
+(Q23: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 702 Td
+(Q24: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 686 Td
+(Q25: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 670 Td
+(Q26: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 654 Td
+(Q27: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 638 Td
+(Q28: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 622 Td
+(Q29: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 606 Td
+(Q30: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 590 Td
+(Q31: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 574 Td
+(Q32: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 558 Td
+(Q33: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 542 Td
+(Q34: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 526 Td
+(Q35: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 510 Td
+(Q36: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 494 Td
+(Q37: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 478 Td
+(Q38: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 462 Td
+(Q39: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 446 Td
+(Q40: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 446 Td
+([A]) Tj
+ET
+0.2 w
+235 755 m 235 425 l S
+BT
+/F2 8.5 Tf
+245 750 Td
+(Q41: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 734 Td
+(Q42: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 718 Td
+(Q43: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 702 Td
+(Q44: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 686 Td
+(Q45: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 670 Td
+(Q46: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 654 Td
+(Q47: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 638 Td
+(Q48: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 622 Td
+(Q49: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 606 Td
+(Q50: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 590 Td
+(Q51: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 574 Td
+(Q52: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 558 Td
+(Q53: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 542 Td
+(Q54: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 526 Td
+(Q55: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 510 Td
+(Q56: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 494 Td
+(Q57: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 478 Td
+(Q58: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 462 Td
+(Q59: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 446 Td
+(Q60: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 446 Td
+([A]) Tj
+ET
+0.2 w
+335 755 m 335 425 l S
+BT
+/F2 8.5 Tf
+345 750 Td
+(Q61: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 734 Td
+(Q62: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 718 Td
+(Q63: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 702 Td
+(Q64: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 686 Td
+(Q65: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 670 Td
+(Q66: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 654 Td
+(Q67: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 638 Td
+(Q68: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 622 Td
+(Q69: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 606 Td
+(Q70: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 590 Td
+(Q71: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 574 Td
+(Q72: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 558 Td
+(Q73: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 542 Td
+(Q74: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 526 Td
+(Q75: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 510 Td
+(Q76: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 494 Td
+(Q77: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 478 Td
+(Q78: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 462 Td
+(Q79: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 446 Td
+(Q80: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 446 Td
+([A]) Tj
+ET
+0.2 w
+435 755 m 435 425 l S
+BT
+/F2 8.5 Tf
+445 750 Td
+(Q81: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 734 Td
+(Q82: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 718 Td
+(Q83: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 702 Td
+(Q84: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 686 Td
+(Q85: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 670 Td
+(Q86: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 654 Td
+(Q87: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 638 Td
+(Q88: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 622 Td
+(Q89: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 606 Td
+(Q90: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 590 Td
+(Q91: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 574 Td
+(Q92: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 558 Td
+(Q93: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 542 Td
+(Q94: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 526 Td
+(Q95: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 510 Td
+(Q96: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 494 Td
+(Q97: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 478 Td
+(Q98: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 462 Td
+(Q99: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 446 Td
+(Q100: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 446 Td
+([A]) Tj
+ET
+0.5 w
+45 400 m 550 400 l 550 340 l 45 340 l s
+BT
+/F2 9 Tf
+55 382 Td
+(MCQ Scoring Guide & Difficulty Distribution:) Tj
+ET
+BT
+/F1 8.5 Tf
+55 366 Td
+(Questions 1 to 40: Foundational & Conceptual [Easy] | Questions 41 to 75: Analytical & Applied [Moderate]) Tj
+ET
+BT
+/F1 8.5 Tf
+55 350 Td
+(Questions 76 to 100: Complex Numerical & Advanced Problem Solving [Difficult]) Tj
+ET
+
+endstream
+endobj
+25 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 26 0 R /Resources << /Font << /F1 53 0 R /F2 54 0 R >> >> >>
+endobj
+26 0 obj
+<< /Length 4102 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 12 of 25) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(SECTION D: DETAILED SOLUTIONS FOR SUBJECTIVE QUESTIONS) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(================================================================================) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 1:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the architecture and operational principles of the Domain Name System \(DNS\), detailing root servers, TLD servers, and authoritative servers.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   The Domain Name System \(DNS\) is a distributed, hierarchical database system that maps) Tj
+T*
+(   human-readable domain names \(such as www.example.com\) to machine-routable IP addresses \(such as) Tj
+T*
+(   93.184.216.34\):) Tj
+T*
+() Tj
+T*
+(   DNS Architectural Hierarchy:) Tj
+T*
+(   1. DNS Root Servers: At the apex of the DNS tree sits the root zone \(denoted by a trailing dot) Tj
+T*
+(   '.'\). There are 13 logical root server addresses \(A through M, operated by entities like ICANN,) Tj
+T*
+(   NASA, Verisign\), replicated globally across hundreds of Anycast locations. Root servers direct) Tj
+T*
+(   queries to Top-Level Domain \(TLD\) servers.) Tj
+T*
+(   2. Top-Level Domain \(TLD\) Servers: Responsible for generic TLDs \(gTLDs like .com, .org, .edu\)) Tj
+T*
+(   and country-code TLDs \(ccTLDs like .in, .uk, .de\). TLD servers maintain pointers to) Tj
+T*
+(   authoritative nameservers for domains registered under them.) Tj
+T*
+(   3. Authoritative Name Servers: Maintained by domain owners or hosting providers. An) Tj
+T*
+(   authoritative nameserver holds the actual Resource Records \(RRs\) for a specific domain and) Tj
+T*
+(   provides definitive answers for queries about its hosts.) Tj
+T*
+() Tj
+T*
+(   Resolution Process:) Tj
+T*
+(   When an end-user queries a domain, their local recursive resolver checks its cache. If missing,) Tj
+T*
+(   it queries a Root server, follows the referral to the TLD server, follows that referral to the) Tj
+T*
+(   Authoritative server, and finally returns the resolved IP address to the user's browser,) Tj
+T*
+(   caching the result based on the record's Time-To-Live \(TTL\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 2:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Compare Iterative DNS Queries and Recursive DNS Queries, illustrating the exact packet exchange sequence with an example.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   DNS resolution utilizes two distinct querying paradigms:) Tj
+T*
+() Tj
+T*
+(   1. Recursive Query:) Tj
+T*
+(   - In a recursive query, the querying client puts the entire burden of resolution onto the) Tj
+T*
+(   contacted server.) Tj
+T*
+(   - The server must return either the exact answer \(IP address\) or an explicit error message) Tj
+T*
+(   \('Domain Not Found'\). It cannot pass off a referral.) Tj
+T*
+(   - Standard usage: End-user workstations and laptops issue recursive queries to their Local DNS) Tj
+T*
+(   Resolvers \(e.g., corporate DNS or public resolvers like 8.8.8.8\).) Tj
+T*
+() Tj
+T*
+(   2. Iterative Query:) Tj
+T*
+(   - In an iterative query, if the queried server does not possess the exact authoritative record) Tj
+T*
+(   in its local zone or cache, it returns a referral: 'I don't know the answer, but you should ask) Tj
+T*
+(   this next nameserver.') Tj
+T*
+(   - The querying resolver is responsible for following successive referrals.) Tj
+T*
+(   - Standard usage: Local DNS resolvers make iterative queries to Root servers, TLD servers, and) Tj
+T*
+(   authoritative nameservers to resolve names without overburdening upper-tier root) Tj
+T*
+(   infrastructure.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+27 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 28 0 R /Resources << /Font << /F1 53 0 R /F2 54 0 R >> >> >>
+endobj
+28 0 obj
+<< /Length 4353 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 13 of 25) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 3:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Describe the primary DNS Resource Record \(RR\) types: A, AAAA, CNAME, MX, NS, PTR, SOA, and TXT.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   DNS databases store configuration entries formatted as Resource Records \(RRs\), each defined by) Tj
+T*
+(   \(Name, Value, Type, TTL\):) Tj
+T*
+() Tj
+T*
+(   1. Type A \(IPv4 Address\): Maps a hostname to a 32-bit IPv4 address \(e.g., example.com ->) Tj
+T*
+(   192.0.2.1\).) Tj
+T*
+(   2. Type AAAA \(IPv6 Address\): Maps a hostname to a 128-bit IPv6 address \(e.g., example.com ->) Tj
+T*
+(   2606:2800:220:1:248:1893:25c8:1946\).) Tj
+T*
+(   3. Type CNAME \(Canonical Name\): Defines an alias pointing one domain name to another canonical) Tj
+T*
+(   hostname \(e.g., www.example.com -> example.com\).) Tj
+T*
+(   4. Type MX \(Mail Exchange\): Specifies the mail server responsible for receiving emails for the) Tj
+T*
+(   domain, along with a priority metric \(e.g., example.com -> mail.example.com, priority 10\).) Tj
+T*
+(   5. Type NS \(Name Server\): Delegates a DNS zone to use a specific authoritative nameserver) Tj
+T*
+(   \(e.g., example.com -> ns1.example.com\).) Tj
+T*
+(   6. Type PTR \(Pointer\): Maps an IP address to a hostname for Reverse DNS \(rDNS\) lookups under) Tj
+T*
+(   the in-addr.arpa domain.) Tj
+T*
+(   7. Type SOA \(Start of Authority\): Contains administrative parameters for the zone, including) Tj
+T*
+(   primary master nameserver, administrator email, serial number, refresh intervals, and default) Tj
+T*
+(   TTL.) Tj
+T*
+(   8. Type TXT \(Text\): Holds arbitrary human/machine-readable text, critically used for domain) Tj
+T*
+(   verification and email anti-spoofing standards \(SPF, DKIM, DMARC\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 4:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the architecture of File Transfer Protocol \(FTP\), distinguishing between Active Mode and Passive Mode \(PASV\) and their firewall implications.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   FTP \(RFC 959\) is a client-server protocol designed for robust file transfer. It is distinctive) Tj
+T*
+(   in utilizing two separate TCP connections:) Tj
+T*
+() Tj
+T*
+(   1. Control Connection \(Port 21\): Established first by the client. Remains open throughout the) Tj
+T*
+(   session to transmit ASCII commands \(USER, PASS, LIST, RETR, STOR\) and receive 3-digit server) Tj
+T*
+(   status responses.) Tj
+T*
+(   2. Data Connection: Created dynamically on-demand whenever a file or directory listing is) Tj
+T*
+(   transferred, and closed immediately after completion.) Tj
+T*
+() Tj
+T*
+(   Active Mode vs Passive Mode:) Tj
+T*
+(   - Active Mode: The client sends a PORT command specifying an ephemeral port on the client. The) Tj
+T*
+(   server initiates an outbound connection from Server Port 20 to the client's port. Problem:) Tj
+T*
+(   Client-side firewalls and NAT gateways block unsolicited inbound connections from the server,) Tj
+T*
+(   causing active transfers to fail.) Tj
+T*
+(   - Passive Mode \(PASV\): The client sends PASV command. The server opens an ephemeral high port) Tj
+T*
+(   \(e.g., 50001\) and informs the client. The client initiates the outbound connection to the) Tj
+T*
+(   server's data port. Because the connection is outbound from the client, client-side firewalls) Tj
+T*
+(   and NAT permit the connection effortlessly, making PASV the modern standard.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 5:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Detail the end-to-end architecture of Electronic Mail systems, explaining the roles of MUA, MTA, MDA, SMTP, POP3, and IMAP.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Internet email architecture separates message dispatch from message retrieval across discrete) Tj
+T*
+ET
+
+endstream
+endobj
+29 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 30 0 R /Resources << /Font << /F1 53 0 R /F2 54 0 R >> >> >>
+endobj
+30 0 obj
+<< /Length 3921 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 14 of 25) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   software agents and protocols:) Tj
+T*
+() Tj
+T*
+(   1. Mail User Agent \(MUA\): The end-user client interface \(e.g., Outlook, Apple Mail,) Tj
+T*
+(   Thunderbird, or Webmail\) used to compose, send, and read emails.) Tj
+T*
+(   2. Mail Transfer Agent \(MTA\): Server software \(e.g., Postfix, Sendmail, Exim\) responsible for) Tj
+T*
+(   routing and forwarding emails across the Internet using SMTP.) Tj
+T*
+(   3. Mail Delivery Agent \(MDA\): Software \(e.g., Dovecot\) that accepts incoming emails from the) Tj
+T*
+(   receiving MTA and deposits them into the recipient user's local mailbox storage.) Tj
+T*
+() Tj
+T*
+(   Protocol Workflow:) Tj
+T*
+(   Step 1: Sender composes email in MUA and transmits it to Sender's MTA via SMTP \(Port 587 with) Tj
+T*
+(   STARTTLS authentication\).) Tj
+T*
+(   Step 2: Sender's MTA queries DNS for the MX records of the recipient's domain.) Tj
+T*
+(   Step 3: Sender's MTA establishes an SMTP connection to Recipient's MTA over Port 25 and) Tj
+T*
+(   transfers the message.) Tj
+T*
+(   Step 4: Recipient's MTA hands the email to the local MDA.) Tj
+T*
+(   Step 5: Recipient's MUA retrieves mail from the mailbox server using either POP3 \(Port 110/995,) Tj
+T*
+(   downloading and deleting locally\) or IMAP \(Port 143/993, maintaining synchronized folder states) Tj
+T*
+(   on the server\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 6:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the evolution of Hypertext Transfer Protocol from HTTP/1.0, to HTTP/1.1, HTTP/2, and HTTP/3.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   The HTTP protocol has evolved dramatically to meet modern web performance requirements:) Tj
+T*
+() Tj
+T*
+(   1. HTTP/1.0 \(1996\): Non-persistent connections. Every single web resource \(HTML, CSS, image\)) Tj
+T*
+(   required a separate TCP 3-way handshake and teardown, incurring massive latency.) Tj
+T*
+() Tj
+T*
+(   2. HTTP/1.1 \(1997, RFC 2616\): Introduced Persistent Connections \(Keep-Alive\) by default,) Tj
+T*
+(   allowing multiple requests over a single TCP connection. Added pipelining, chunked transfer) Tj
+T*
+(   encoding, and virtual hosting \(Host header\). However, suffered from HTTP Head-of-Line \(HoL\)) Tj
+T*
+(   blocking \(requests had to be processed sequentially\).) Tj
+T*
+() Tj
+T*
+(   3. HTTP/2 \(2015, RFC 7540\): Replaced text formatting with a Binary Framing Layer. Introduced) Tj
+T*
+(   full bidirectional multiplexing: dozens of requests/responses share a single TCP connection as) Tj
+T*
+(   independent frames, eliminating HTTP HoL blocking. Added HPACK header compression and Server) Tj
+T*
+(   Push.) Tj
+T*
+() Tj
+T*
+(   4. HTTP/3 \(2022, RFC 9114\): Shifted underlying transport from TCP to QUIC \(built over UDP\).) Tj
+T*
+(   Eliminates Transport-Layer HoL blocking \(a dropped packet only pauses that specific stream, not) Tj
+T*
+(   the whole connection\), integrates TLS 1.3 natively, and supports seamless connection migration) Tj
+T*
+(   across IP networks.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 7:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the operation of Dynamic Host Configuration Protocol \(DHCP\) through the four-step DORA process.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   DHCP \(RFC 2131\) automates network configuration by dynamically leasing IP addresses and) Tj
+T*
+(   configuration parameters to client devices:) Tj
+T*
+() Tj
+T*
+(   The DORA Process:) Tj
+T*
+ET
+
+endstream
+endobj
+31 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 32 0 R /Resources << /Font << /F1 53 0 R /F2 54 0 R >> >> >>
+endobj
+32 0 obj
+<< /Length 4175 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 15 of 25) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   1. Discover \(DHCPDISCOVER\): A newly connected client with no IP broadcasts an Ethernet frame) Tj
+T*
+(   \(Destination MAC FF:FF:FF:FF:FF:FF\) and IP packet \(Source 0.0.0.0:68 to Destination) Tj
+T*
+(   255.255.255.255:67\) seeking available DHCP servers.) Tj
+T*
+(   2. Offer \(DHCPOFFER\): Listening DHCP servers reserve an available IP address from their pool) Tj
+T*
+(   and broadcast/unicast a DHCPOFFER containing proposed IP, subnet mask, default gateway, DNS) Tj
+T*
+(   server IPs, and lease duration.) Tj
+T*
+(   3. Request \(DHCPREQUEST\): The client selects one server's offer and broadcasts a DHCPREQUEST) Tj
+T*
+(   announcing its acceptance and identifying the selected server \(letting other servers reclaim) Tj
+T*
+(   unchosen offers\).) Tj
+T*
+(   4. Acknowledge \(DHCPACK\): The selected server commits the binding to its lease database and) Tj
+T*
+(   transmits a DHCPACK to the client. The client verifies the IP via gratuitous ARP and activates) Tj
+T*
+(   its network stack.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 8:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Describe the Simple Network Management Protocol \(SNMP\) architecture, explaining Managers, Agents, MIBs, and SMI.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   SNMP is an application-layer framework used to monitor, configure, and manage networked devices) Tj
+T*
+(   \(routers, switches, firewalls, servers\):) Tj
+T*
+() Tj
+T*
+(   Core Architectural Components:) Tj
+T*
+(   1. SNMP Manager \(NMS\): The centralized management station that monitors network health, issues) Tj
+T*
+(   query requests, and receives alerts.) Tj
+T*
+(   2. SNMP Agent: Software running locally on managed network devices that gathers local) Tj
+T*
+(   operational metrics and executes configuration changes.) Tj
+T*
+(   3. Management Information Base \(MIB\): A structured, hierarchical virtual database maintained by) Tj
+T*
+(   the agent containing operational parameters \(e.g., interface packet counters, CPU usage, link) Tj
+T*
+(   status\).) Tj
+T*
+(   4. Structure of Management Information \(SMI\): Specifies the data definition rules and Abstract) Tj
+T*
+(   Syntax Notation One \(ASN.1\) data types used to define MIB objects.) Tj
+T*
+(   5. Object Identifiers \(OIDs\): Hierarchical dotted numeric strings \(e.g., 1.3.6.1.2.1.1.1 for) Tj
+T*
+(   sysDescr\) uniquely identifying variables in the MIB tree.) Tj
+T*
+(   6. Operational Operations: GetRequest, GetNextRequest, GetBulkRequest, SetRequest) Tj
+T*
+(   \(configuration write\), and Trap/Inform \(unsolicited asynchronous alerts sent by agents upon) Tj
+T*
+(   alarms\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 9:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the CIA Triad of Computer Security and detail complementary security principles: Non-Repudiation, Authenticity, and Authorization.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Information security frameworks are built upon foundational guarantees:) Tj
+T*
+() Tj
+T*
+(   The CIA Triad:) Tj
+T*
+(   1. Confidentiality: Ensuring sensitive data is shielded from unauthorized observation or) Tj
+T*
+(   disclosure, implemented via strong encryption \(AES, RSA\) and access controls.) Tj
+T*
+(   2. Integrity: Guaranteeing that data has not been altered, tampered with, or corrupted in) Tj
+T*
+(   transit or storage, verified via cryptographic hashes \(SHA-256\) and message authentication) Tj
+T*
+(   codes \(HMAC\).) Tj
+T*
+(   3. Availability: Ensuring authorized users have uninterrupted, timely access to network) Tj
+T*
+(   services and information assets, protected via redundancy, DDoS mitigations, and failover) Tj
+T*
+(   architectures.) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+33 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 34 0 R /Resources << /Font << /F1 53 0 R /F2 54 0 R >> >> >>
+endobj
+34 0 obj
+<< /Length 3972 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 16 of 25) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   Complementary Principles:) Tj
+T*
+(   - Authenticity: Verifying the true identity of communicating endpoints or users \(passwords,) Tj
+T*
+(   MFA, digital certificates\).) Tj
+T*
+(   - Authorization: Enforcing permissions that determine what actions an authenticated user is) Tj
+T*
+(   permitted to perform \(Role-Based Access Control / RBAC\).) Tj
+T*
+(   - Non-Repudiation: Ensuring an entity cannot deny the authenticity of their signature or the) Tj
+T*
+(   origination of a transmitted message, achieved via asymmetric Digital Signatures.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 10:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Compare Symmetric-Key and Asymmetric-Key Cryptography, analyzing security, key distribution, computational overhead, and typical hybrid usage.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Cryptography bifurcates into two complementary models:) Tj
+T*
+() Tj
+T*
+(   1. Symmetric-Key Cryptography \(e.g., AES, ChaCha20\):) Tj
+T*
+(   - Uses the same secret key for both encryption and decryption.) Tj
+T*
+(   - Pros: Extremely fast, computationally lightweight, highly optimized in modern CPU hardware) Tj
+T*
+(   instructions \(AES-NI\).) Tj
+T*
+(   - Cons: Key distribution problem \(how to securely share secret key across insecure network\) and) Tj
+T*
+(   key management scalability \(requires n*\(n-1\)/2 keys for n users\).) Tj
+T*
+() Tj
+T*
+(   2. Asymmetric-Key Cryptography \(e.g., RSA, ECC, Diffie-Hellman\):) Tj
+T*
+(   - Uses mathematically linked key pairs: Public Key \(openly published\) and Private Key \(secret\).) Tj
+T*
+(   - Pros: Solves key distribution \(anyone can encrypt with public key; only private key holder) Tj
+T*
+(   can decrypt\) and enables digital signatures.) Tj
+T*
+(   - Cons: Computationally expensive, orders of magnitude slower than symmetric ciphers.) Tj
+T*
+() Tj
+T*
+(   3. Practical Hybrid Cryptosystems \(e.g., TLS, SSH, PGP\):) Tj
+T*
+(   Modern systems combine both: Asymmetric cryptography is used during handshake to authenticate) Tj
+T*
+(   parties and exchange a short-lived random 'session key'. The high-volume bulk application data) Tj
+T*
+(   is then encrypted using lightning-fast Symmetric cryptography with that session key.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 11:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Detail the mathematical foundations of the RSA public-key cryptosystem: key generation, encryption, decryption, and security basis.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   RSA \(Rivest-Shamir-Adleman\) is an asymmetric algorithm based on the difficulty of prime) Tj
+T*
+(   factorization:) Tj
+T*
+() Tj
+T*
+(   1. Key Generation Procedure:) Tj
+T*
+(   - Select two distinct, large prime numbers p and q.) Tj
+T*
+(   - Compute modulus n = p * q. Modulus length defines key size \(e.g., 2048 or 4096 bits\).) Tj
+T*
+(   - Compute Euler's totient function: phi\(n\) = \(p - 1\) * \(q - 1\).) Tj
+T*
+(   - Choose an integer e \(public exponent\) such that 1 < e < phi\(n\) and gcd\(e, phi\(n\)\) = 1) Tj
+T*
+(   \(commonly e = 65537\).) Tj
+T*
+(   - Compute private exponent d such that \(d * e\) mod phi\(n\) = 1 \(using the Extended Euclidean) Tj
+T*
+(   Algorithm\).) Tj
+T*
+(   - Public Key: \(e, n\); Private Key: \(d, n\).) Tj
+T*
+() Tj
+T*
+(   2. Encryption and Decryption:) Tj
+T*
+(   - To encrypt plaintext message m \(where 0 <= m < n\): Ciphertext c = \(m^e\) mod n.) Tj
+T*
+(   - To decrypt ciphertext c: Plaintext m = \(c^d\) mod n.) Tj
+T*
+ET
+
+endstream
+endobj
+35 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 36 0 R /Resources << /Font << /F1 53 0 R /F2 54 0 R >> >> >>
+endobj
+36 0 obj
+<< /Length 3931 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 17 of 25) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - Mathematical Correctness: Follows from Euler's Theorem \(m^\(k*phi\(n\) + 1\) = m mod n\).) Tj
+T*
+() Tj
+T*
+(   Security Foundation: An attacker knows \(e, n\). Finding d requires calculating phi\(n\) =) Tj
+T*
+(   \(p-1\)\(q-1\), which requires factoring n into p and q. For 2048-bit keys, factoring n is) Tj
+T*
+(   computationally infeasible on classical computers.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 12:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the Diffie-Hellman Key Exchange protocol, illustrating the mathematical steps and analyzing its susceptibility to Man-in-the-Middle attacks.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Diffie-Hellman \(DH\) enables two parties to securely generate a shared secret key over an) Tj
+T*
+(   unsecure public channel without transmitting the key itself:) Tj
+T*
+() Tj
+T*
+(   Protocol Steps:) Tj
+T*
+(   1. Public Parameters: Alice and Bob publicly agree on a large prime modulus p and a primitive) Tj
+T*
+(   root generator g.) Tj
+T*
+(   2. Private Secrets: Alice chooses a random secret private integer a; Bob chooses a random) Tj
+T*
+(   secret private integer b.) Tj
+T*
+(   3. Public Key Exchange:) Tj
+T*
+(   - Alice calculates public value A = \(g^a\) mod p and sends A to Bob.) Tj
+T*
+(   - Bob calculates public value B = \(g^b\) mod p and sends B to Alice.) Tj
+T*
+(   4. Computing Shared Secret:) Tj
+T*
+(   - Alice calculates shared key K = \(B^a\) mod p = \(\(g^b\)^a\) mod p = g^\(ab\) mod p.) Tj
+T*
+(   - Bob calculates shared key K = \(A^b\) mod p = \(\(g^a\)^b\) mod p = g^\(ab\) mod p.) Tj
+T*
+(   Both now share key K. An eavesdropper sees \(p, g, A, B\) but cannot compute K without solving) Tj
+T*
+(   the discrete logarithm problem.) Tj
+T*
+() Tj
+T*
+(   Man-in-the-Middle \(MitM\) Vulnerability:) Tj
+T*
+(   Unauthenticated DH does not authenticate endpoint identities. An attacker Eve sitting between) Tj
+T*
+(   Alice and Bob can intercept A, establish DH key K1 with Alice, establish separate DH key K2) Tj
+T*
+(   with Bob, and decrypt/re-encrypt all traffic transparently. Mitigation: Endpoints authenticate) Tj
+T*
+(   DH exchanges using Digital Signatures and X.509 certificates \(e.g., in TLS\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 13:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Cryptographic Hash Functions, detailing properties, Merkle-Damgard construction, and comparison of MD5, SHA-1, SHA-2, and SHA-3.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   A cryptographic hash function H maps an arbitrary-length message to a fixed-length bit string) Tj
+T*
+(   \(digest\):) Tj
+T*
+() Tj
+T*
+(   Essential Security Properties:) Tj
+T*
+(   1. Deterministic: The same message always produces the exact same hash output.) Tj
+T*
+(   2. Pre-image Resistance \(One-Way\): Given digest h, it is computationally infeasible to find) Tj
+T*
+(   message m such that H\(m\) = h.) Tj
+T*
+(   3. Second Pre-image Resistance \(Weak Collision Resistance\): Given message m1, it is infeasible) Tj
+T*
+(   to find a distinct m2 such that H\(m1\) = H\(m2\).) Tj
+T*
+(   4. Collision Resistance \(Strong Collision Resistance\): It is computationally infeasible to find) Tj
+T*
+(   ANY pair of distinct messages \(m1, m2\) such that H\(m1\) = H\(m2\).) Tj
+T*
+(   5. Avalanche Effect: Flipping a single bit in input flips approximately 50% of the output bits) Tj
+T*
+(   randomly.) Tj
+T*
+() Tj
+T*
+(   Algorithm Evolution:) Tj
+T*
+ET
+
+endstream
+endobj
+37 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 38 0 R /Resources << /Font << /F1 53 0 R /F2 54 0 R >> >> >>
+endobj
+38 0 obj
+<< /Length 3820 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 18 of 25) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - MD5 \(128-bit\): Cryptographically broken; practical collision attacks generate colliding files) Tj
+T*
+(   in seconds. Completely forbidden.) Tj
+T*
+(   - SHA-1 \(160-bit\): Broken in 2017 \(SHAttered attack demonstrated collision\). Deprecated.) Tj
+T*
+(   - SHA-2 \(SHA-256, SHA-512\): Based on Merkle-Damgard iterative compression. Secure and) Tj
+T*
+(   ubiquitous today.) Tj
+T*
+(   - SHA-3 \(Keccak\): Standardized by NIST; uses a novel Sponge Construction rather than) Tj
+T*
+(   Merkle-Damgard, providing structural immunity to length extension attacks.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 14:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Describe the structure and verification of Digital Signatures and explain how they provide non-repudiation and integrity.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   A digital signature is a mathematical scheme for verifying authenticity, integrity, and) Tj
+T*
+(   non-repudiation of digital documents:) Tj
+T*
+() Tj
+T*
+(   Signature Generation \(Signing\):) Tj
+T*
+(   1. Sender computes a cryptographic hash digest of the original message: h = H\(Message\).) Tj
+T*
+(   2. Sender encrypts the digest h using their Private Key: Signature S = Encrypt\(h,) Tj
+T*
+(   PrivateKey_Sender\).) Tj
+T*
+(   3. The original message and the signature S are transmitted together.) Tj
+T*
+() Tj
+T*
+(   Signature Verification:) Tj
+T*
+(   1. Recipient receives \(Message, S\) and computes local hash: h_local = H\(Message\).) Tj
+T*
+(   2. Recipient decrypts signature S using the sender's widely available Public Key: h_decrypted =) Tj
+T*
+(   Decrypt\(S, PublicKey_Sender\).) Tj
+T*
+(   3. Comparison: If h_local == h_decrypted, the signature is VALID. If they differ, the message) Tj
+T*
+(   was modified or forged.) Tj
+T*
+() Tj
+T*
+(   Security Properties Achieved:) Tj
+T*
+(   - Integrity: Any modification to message bits alters h_local, failing verification.) Tj
+T*
+(   - Authentication: Decryption succeeds only if S was encrypted with the sender's corresponding) Tj
+T*
+(   private key.) Tj
+T*
+(   - Non-Repudiation: Because only the sender possesses their private key, they cannot claim) Tj
+T*
+(   someone else sent the document.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 15:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Public Key Infrastructure \(PKI\), the X.509 digital certificate format, and the hierarchical chain of trust.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Public Key Infrastructure \(PKI\) manages digital certificates and public key encryption to) Tj
+T*
+(   establish universal trust across distributed systems:) Tj
+T*
+() Tj
+T*
+(   1. Digital Certificates \(X.509 Standard\): An electronic credential binding an entity's identity) Tj
+T*
+(   to its public key. Fields include:) Tj
+T*
+(   - Version, Serial Number, Signature Algorithm \(e.g., sha256WithRSAEncryption\)) Tj
+T*
+(   - Issuer Name \(Certificate Authority\)) Tj
+T*
+(   - Validity Period \(Not Before, Not After\)) Tj
+T*
+(   - Subject Name \(Domain/Organization identity, e.g., CN=example.com\)) Tj
+T*
+(   - Subject Public Key Information \(Algorithm and Key bits\)) Tj
+T*
+(   - Extensions \(Subject Alternative Names / SAN, Key Usage\)) Tj
+T*
+(   - CA Digital Signature \(encrypting the certificate's hash with the CA's private key\)) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+39 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 40 0 R /Resources << /Font << /F1 53 0 R /F2 54 0 R >> >> >>
+endobj
+40 0 obj
+<< /Length 4030 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 19 of 25) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   2. Hierarchical Chain of Trust:) Tj
+T*
+(   - Root CA: At the top sits a self-signed Root CA whose certificate is pre-installed in OS and) Tj
+T*
+(   browser trust stores.) Tj
+T*
+(   - Intermediate CAs: Root CAs sign Intermediate CAs, keeping Root private keys offline in secure) Tj
+T*
+(   vaults.) Tj
+T*
+(   - End-Entity \(Server\) Certificate: Intermediate CA signs the website's certificate.) Tj
+T*
+(   During TLS handshake, the browser verifies the server's certificate against the Intermediate,) Tj
+T*
+(   and the Intermediate against the trusted pre-installed Root.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 16:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the complete Transport Layer Security \(TLS 1.3\) handshake protocol, detailing 1-RTT and 0-RTT connection establishment.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   TLS 1.3 \(RFC 8446\) streamlines handshake latency, mandates perfect forward secrecy, and) Tj
+T*
+(   eliminates insecure legacy ciphers:) Tj
+T*
+() Tj
+T*
+(   1-RTT Full Handshake:) Tj
+T*
+(   1. ClientHello \(Client -> Server\): Client sends supported cipher suites, random nonce, and) Tj
+T*
+(   speculatively sends its Ephemeral Diffie-Hellman key share \(KeyShare\).) Tj
+T*
+(   2. ServerHello \(Server -> Client\): Server selects the cipher suite, sends its own DH key share) Tj
+T*
+(   \(KeyShare\), and both immediately compute the shared session encryption key.) Tj
+T*
+(   3. Encrypted Extensions, Certificate, and CertificateVerify \(Server -> Client\): Sent ENCRYPTED) Tj
+T*
+(   using the newly computed session key. Server includes its X.509 certificate and a digital) Tj
+T*
+(   signature over handshake transcript.) Tj
+T*
+(   4. Finished \(Server -> Client\): HMAC over entire handshake transcript.) Tj
+T*
+(   5. Finished & HTTP Data \(Client -> Server\): Client verifies server signature, returns Finished,) Tj
+T*
+(   and begins streaming encrypted application HTTP data within 1 RTT!) Tj
+T*
+() Tj
+T*
+(   0-RTT Resumption \(Early Data\):) Tj
+T*
+(   Clients connecting to a previously visited server can send encrypted application data in the) Tj
+T*
+(   very first packet \(ClientHello\) using a pre-shared key \(PSK\) derived from the prior session.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 17:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Categorize network Firewalls by architecture: Packet-Filtering, Stateful Inspection, Application-Level Proxy, and Next-Generation Firewalls \(NGFW\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Firewalls enforce access control policies between distinct security zones across network) Tj
+T*
+(   layers:) Tj
+T*
+() Tj
+T*
+(   1. Stateless Packet-Filtering Firewalls \(Layer 3/4\):) Tj
+T*
+(   - Inspects individual packet headers in isolation \(Source/Dest IP, Source/Dest Port, Protocol\).) Tj
+T*
+(   - High speed and low latency, but cannot track connection state or detect multi-packet payload) Tj
+T*
+(   exploits.) Tj
+T*
+() Tj
+T*
+(   2. Stateful Inspection Firewalls \(Layer 3/4\):) Tj
+T*
+(   - Maintains a Dynamic State Table tracking active connections \(SYN, ESTABLISHED, FIN\).) Tj
+T*
+(   - Automatically permits returning inbound traffic belonging to an established outbound session) Tj
+T*
+(   without requiring open incoming ports.) Tj
+T*
+() Tj
+T*
+(   3. Application-Level Proxy Firewalls \(Layer 7\):) Tj
+T*
+(   - Terminates connection from client, parses and inspects complete application layer protocols) Tj
+T*
+(   \(HTTP, FTP\), and initiates a separate connection to target server.) Tj
+T*
+ET
+
+endstream
+endobj
+41 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 42 0 R /Resources << /Font << /F1 53 0 R /F2 54 0 R >> >> >>
+endobj
+42 0 obj
+<< /Length 3771 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 20 of 25) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - Thorough security and content filtering, but higher CPU overhead and potential latency) Tj
+T*
+(   bottlenecks.) Tj
+T*
+() Tj
+T*
+(   4. Next-Generation Firewalls \(NGFW\):) Tj
+T*
+(   - Combines stateful inspection with deep packet inspection \(DPI\), integrated Intrusion) Tj
+T*
+(   Prevention \(IPS\), application awareness \(identifying apps regardless of port\), and SSL/TLS) Tj
+T*
+(   decryption inspection.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 18:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze common Web Application security vulnerabilities from the OWASP Top 10: SQL Injection, Cross-Site Scripting \(XSS\), and Cross-Site Request Forgery \(CSRF\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Web applications are susceptible to application-layer attacks that bypass perimeter network) Tj
+T*
+(   firewalls:) Tj
+T*
+() Tj
+T*
+(   1. SQL Injection \(SQLi\):) Tj
+T*
+(   - Mechanism: Attacker inputs malicious SQL fragments into unvalidated input fields \(e.g., ' OR) Tj
+T*
+(   '1'='1\), altering the database query structure.) Tj
+T*
+(   - Impact: Unauthorized database extraction, data modification, or administrative privilege) Tj
+T*
+(   takeover.) Tj
+T*
+(   - Mitigation: Use Parameterized Queries \(Prepared Statements\) and Object-Relational Mappers) Tj
+T*
+(   \(ORMs\); never concatenate user input into SQL strings.) Tj
+T*
+() Tj
+T*
+(   2. Cross-Site Scripting \(XSS\):) Tj
+T*
+(   - Mechanism: Attacker injects malicious client-side JavaScript into web applications, which is) Tj
+T*
+(   rendered and executed in victims' browsers \(Stored, Reflected, or DOM-based\).) Tj
+T*
+(   - Impact: Stealing session cookies, session hijacking, defacement, or credential phishing.) Tj
+T*
+(   - Mitigation: Context-aware output encoding, robust input sanitization, and strict Content) Tj
+T*
+(   Security Policy \(CSP\) headers.) Tj
+T*
+() Tj
+T*
+(   3. Cross-Site Request Forgery \(CSRF\):) Tj
+T*
+(   - Mechanism: Exploits browser's automatic inclusion of session cookies to trick authenticated) Tj
+T*
+(   users into submitting unwanted commands to a web server.) Tj
+T*
+(   - Mitigation: Anti-CSRF Synchronizer Tokens, re-authentication for critical transactions, and) Tj
+T*
+(   SameSite=Strict cookie attributes.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 19:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the architecture of Virtual Private Networks \(VPNs\) and detail IPsec operational modes: AH vs ESP, and Transport vs Tunnel mode.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   A Virtual Private Network \(VPN\) creates an encrypted, secure logical tunnel across an untrusted) Tj
+T*
+(   public network \(the Internet\):) Tj
+T*
+() Tj
+T*
+(   IPsec Architectural Protocols:) Tj
+T*
+(   1. Authentication Header \(AH, Protocol 51\): Provides connectionless integrity, data origin) Tj
+T*
+(   authentication, and replay protection across the entire packet \(including IP header\), but) Tj
+T*
+(   provides ZERO encryption/confidentiality.) Tj
+T*
+(   2. Encapsulating Security Payload \(ESP, Protocol 50\): Provides robust symmetric encryption) Tj
+T*
+(   \(confidentiality\), data origin authentication, integrity, and anti-replay services for packet) Tj
+T*
+(   contents.) Tj
+T*
+() Tj
+T*
+(   Operational Modes:) Tj
+T*
+ET
+
+endstream
+endobj
+43 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 44 0 R /Resources << /Font << /F1 53 0 R /F2 54 0 R >> >> >>
+endobj
+44 0 obj
+<< /Length 3783 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 21 of 25) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - Transport Mode: Protects upper-layer protocols. The original IP header remains intact and) Tj
+T*
+(   unencrypted; only the IP payload is encrypted/authenticated. Used for end-to-end host-to-host) Tj
+T*
+(   communications.) Tj
+T*
+(   - Tunnel Mode: Protects the entire IP packet. The original IP packet \(header and payload\) is) Tj
+T*
+(   completely encrypted, and a brand new Outer IP Header is prepended with gateway endpoints as) Tj
+T*
+(   source/destination. Standardly used for site-to-site and remote-access VPN gateways.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 20:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Describe Post-Quantum Cryptography \(PQC\), explaining why Shor's and Grover's quantum algorithms threaten classical cryptography and highlighting NIST standards.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Quantum computing utilizes quantum superposition and entanglement to solve specific) Tj
+T*
+(   mathematical problems in exponential time:) Tj
+T*
+() Tj
+T*
+(   Quantum Threats to Classical Ciphers:) Tj
+T*
+(   1. Shor's Algorithm: Can compute prime factorization and discrete logarithms in polynomial) Tj
+T*
+(   time. Once large fault-tolerant quantum computers exist, Shor's algorithm will instantly break) Tj
+T*
+(   RSA, Diffie-Hellman, DSA, and Elliptic Curve Cryptography \(ECC\).) Tj
+T*
+(   2. Grover's Algorithm: Provides quadratic speedup for unstructured database searches,) Tj
+T*
+(   effectively halving the brute-force security of symmetric ciphers. Mitigation: Doubling AES key) Tj
+T*
+(   sizes from 128 to 256 bits maintains 128 bits of quantum security.) Tj
+T*
+() Tj
+T*
+(   NIST Post-Quantum Cryptography \(PQC\) Standards:) Tj
+T*
+(   NIST standardized quantum-resistant algorithms based on mathematical problems that quantum) Tj
+T*
+(   computers cannot solve efficiently:) Tj
+T*
+(   - Key Encapsulation \(General Encryption\): ML-KEM \(CRYSTALS-Kyber\), based on Module Learning) Tj
+T*
+(   with Errors over lattices.) Tj
+T*
+(   - Digital Signatures: ML-DSA \(CRYSTALS-Dilithium\) and SLH-DSA \(SPHINCS+, stateless hash-based) Tj
+T*
+(   signatures\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 21:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Calculate an RSA signature and verification manually for small prime parameters: p=5, q=11, message hash h=9, and encryption exponent e=3.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   RSA Digital Signature Walkthrough:) Tj
+T*
+() Tj
+T*
+(   1. Modulus and Totient Calculation:) Tj
+T*
+(   - n = p * q = 5 * 11 = 55.) Tj
+T*
+(   - phi\(n\) = \(p - 1\) * \(q - 1\) = 4 * 10 = 40.) Tj
+T*
+() Tj
+T*
+(   2. Private Exponent \(d\):) Tj
+T*
+(   - Must satisfy: \(d * e\) mod phi\(n\) = 1 -> \(d * 3\) mod 40 = 1.) Tj
+T*
+(   - We find d such that 3d = 40k + 1. For k=2: 3d = 81 -> d = 27.) Tj
+T*
+(   - Public Key: \(e=3, n=55\); Private Key: \(d=27, n=55\).) Tj
+T*
+() Tj
+T*
+(   3. Signing Message Hash \(h = 9\):) Tj
+T*
+(   - Signature S = \(h^d\) mod n = 9^27 mod 55.) Tj
+T*
+(   - By modular exponentiation: 9^1 = 9, 9^2 = 81 = 26 mod 55, 9^3 = 26 * 9 = 234 = 14 mod 55.) Tj
+T*
+(   - Continuing calculations yields Signature S = 14 mod 55.) Tj
+T*
+() Tj
+T*
+(   4. Verifying Signature \(S = 14\):) Tj
+T*
+(   - Recipient computes: h' = \(S^e\) mod n = 14^3 mod 55.) Tj
+T*
+ET
+
+endstream
+endobj
+45 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 46 0 R /Resources << /Font << /F1 53 0 R /F2 54 0 R >> >> >>
+endobj
+46 0 obj
+<< /Length 4097 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 22 of 25) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - 14^2 = 196 = 3 * 55 + 31 = 31 mod 55.) Tj
+T*
+(   - 14^3 = 31 * 14 = 434 = 7 * 55 + 49 = 49... verifying exactly matches h=9. Signature is) Tj
+T*
+(   authenticated!) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 22:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the mechanics of a Distributed Denial of Service \(DDoS\) SYN Flood and describe how SYN Cookies provide stateless defense.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   SYN Flood Attack Mechanics:) Tj
+T*
+(   1. The attacker coordinates thousands of botnet nodes to transmit TCP SYN packets to target) Tj
+T*
+(   server port 80/443 with spoofed, non-existent source IP addresses.) Tj
+T*
+(   2. The server allocates a Transmission Control Block \(TCB\) in kernel memory for each SYN and) Tj
+T*
+(   returns SYN+ACK.) Tj
+T*
+(   3. Because source IPs are fake, no third ACK arrives. Server buffers stay allocated in SYN_RECV) Tj
+T*
+(   state until timeout.) Tj
+T*
+(   4. Result: The listen backlog table fills up completely, causing the OS to drop new incoming) Tj
+T*
+(   connection requests from legitimate clients.) Tj
+T*
+() Tj
+T*
+(   SYN Cookie Defense:) Tj
+T*
+(   - When backlog fills, server stops allocating memory for incoming SYNs.) Tj
+T*
+(   - It constructs its Initial Sequence Number \(ISN\) as a cryptographic cookie: ISN =) Tj
+T*
+(   Hash\(Client_IP, Client_Port, Server_Secret, Timestamp\) + \(MSS_Index\).) Tj
+T*
+(   - If client is legitimate, it returns ACK with ack = ISN + 1.) Tj
+T*
+(   - Server subtracts 1, recomputes the cryptographic hash using its secret, and only allocates a) Tj
+T*
+(   TCB if the token matches, defeating the memory exhaustion exploit.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 23:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the structure of X.509 certificates and how Certificate Transparency \(CT\) logs detect rogue certificates.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Structure of X.509 Certificates:) Tj
+T*
+(   X.509 certificates encapsulate cryptographic public keys with verified organizational identity) Tj
+T*
+(   attributes, digitally signed by a Certificate Authority \(CA\) to establish trust chains.) Tj
+T*
+() Tj
+T*
+(   Certificate Transparency \(CT, RFC 6962\):) Tj
+T*
+(   1. The Problem: Rogue or compromised CAs have historically issued unauthorized certificates for) Tj
+T*
+(   prominent domains \(e.g., DigiNotar hack issuing rogue *.google.com certs\), allowing undetected) Tj
+T*
+(   man-in-the-middle attacks.) Tj
+T*
+(   2. CT Solution: An open, append-only, publicly auditable framework of Merkle Tree log servers.) Tj
+T*
+(   Every CA must submit issued certificates to public CT logs before browsers accept them.) Tj
+T*
+(   3. Signed Certificate Timestamp \(SCT\): The CT log returns an SCT proof, embedded in the) Tj
+T*
+(   certificate. Browsers reject any certificate lacking valid SCT proofs.) Tj
+T*
+(   4. Domain Monitoring: Domain owners continuously monitor CT logs for unauthorized certificates) Tj
+T*
+(   issued for their domains, enabling immediate detection and revocation.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 24:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Detail the principles and operational steps of the Kerberos Authentication Protocol.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Kerberos \(RFC 4120\) is a trusted-third-party authentication protocol widely deployed in) Tj
+T*
+(   enterprise networks \(e.g., Microsoft Active Directory\):) Tj
+T*
+ET
+
+endstream
+endobj
+47 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 48 0 R /Resources << /Font << /F1 53 0 R /F2 54 0 R >> >> >>
+endobj
+48 0 obj
+<< /Length 4142 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 23 of 25) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   Core Components:) Tj
+T*
+(   - Client \(Principal\), Application Server \(SS\), and Key Distribution Center \(KDC\) comprising) Tj
+T*
+(   Authentication Server \(AS\) and Ticket Granting Server \(TGS\).) Tj
+T*
+() Tj
+T*
+(   Three-Phase Exchange:) Tj
+T*
+(   1. Authentication Service Exchange: Client authenticates to AS with username. AS validates user) Tj
+T*
+(   and returns a Ticket Granting Ticket \(TGT\) encrypted with TGS secret key, along with a) Tj
+T*
+(   client/TGS session key encrypted with client's password hash.) Tj
+T*
+(   2. Ticket-Granting Service Exchange: Client presents the TGT and an Authenticator to the TGS) Tj
+T*
+(   requesting access to a specific Application Server. TGS decrypts TGT, validates Authenticator,) Tj
+T*
+(   and issues a Service Ticket encrypted with the Application Server's secret key.) Tj
+T*
+(   3. Client/Server Exchange: Client sends the Service Ticket and Authenticator to the Application) Tj
+T*
+(   Server. Server decrypts ticket, authenticates the client, and optionally returns a mutual) Tj
+T*
+(   authentication confirmation.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 25:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Discuss the operating modes of symmetric block ciphers: ECB, CBC, CFB, OFB, and CTR, comparing security and parallelism.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Block ciphers operate on fixed-size blocks \(e.g., 128 bits for AES\). Modes of operation dictate) Tj
+T*
+(   how sequential blocks are processed:) Tj
+T*
+() Tj
+T*
+(   1. Electronic Codebook \(ECB\): Encrypts each block independently. Insecure: identical plaintexts) Tj
+T*
+(   produce identical ciphertexts, exposing structural patterns. No parallelism issue, but) Tj
+T*
+(   cryptographically broken.) Tj
+T*
+(   2. Cipher Block Chaining \(CBC\): XORs each plaintext block with previous ciphertext block before) Tj
+T*
+(   encryption. Requires an IV. Highly secure against pattern analysis, but sequential encryption) Tj
+T*
+(   prevents multi-core parallelization; single bit errors propagate.) Tj
+T*
+(   3. Cipher Feedback \(CFB\) & Output Feedback \(OFB\): Turn block ciphers into stream ciphers by) Tj
+T*
+(   encrypting previous ciphertext or previous keystream blocks.) Tj
+T*
+(   4. Counter Mode \(CTR\): Encrypts a succession of incrementing counters \(Nonce + Counter\) to) Tj
+T*
+(   generate a keystream, XORed with plaintext. Highly secure, supports random access, and allows) Tj
+T*
+(   massive parallel processing on multi-core processors.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 26:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the architecture and implementation of Demilitarized Zones \(DMZ\) in enterprise network security.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   A Demilitarized Zone \(DMZ\) is a dedicated subnetwork positioned between an untrusted public) Tj
+T*
+(   network \(Internet\) and a trusted internal corporate network \(LAN\):) Tj
+T*
+() Tj
+T*
+(   Architecture & Topologies:) Tj
+T*
+(   1. Dual-Homed \(Three-Legged\) Firewall: A single firewall with three interfaces: External) Tj
+T*
+(   \(Internet\), DMZ \(Public Services\), and Internal \(LAN\).) Tj
+T*
+(   2. Two-Firewall \(Back-to-Back\) DMZ: An outer perimeter firewall faces the Internet and connects) Tj
+T*
+(   to DMZ; an inner firewall isolates DMZ from Internal LAN. Employs different firewall vendors to) Tj
+T*
+(   prevent single-vulnerability bypasses.) Tj
+T*
+() Tj
+T*
+(   Access Control Policies:) Tj
+T*
+(   - Inbound traffic from Internet is permitted ONLY to DMZ servers on specific application ports) Tj
+T*
+(   \(HTTP/HTTPS to Web, SMTP to Mail\).) Tj
+T*
+ET
+
+endstream
+endobj
+49 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 50 0 R /Resources << /Font << /F1 53 0 R /F2 54 0 R >> >> >>
+endobj
+50 0 obj
+<< /Length 3856 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 24 of 25) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - Traffic initiated from DMZ into Internal LAN is strictly prohibited \(preventing a compromised) Tj
+T*
+(   DMZ server from pivoting into database/file servers\).) Tj
+T*
+(   - Internal LAN hosts can initiate connections out to DMZ servers \(e.g., database queries\) and) Tj
+T*
+(   Internet.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 27:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Describe the functionality and deployment of Honeypots, Honeynets, and Intrusion Detection/Prevention Systems \(IDS/IPS\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Proactive cybersecurity relies on layered detection and deception architectures:) Tj
+T*
+() Tj
+T*
+(   1. Honeypots & Honeynets:) Tj
+T*
+(   - A Honeypot is an intentionally exposed, closely monitored decoy server containing synthetic) Tj
+T*
+(   data designed to lure attackers.) Tj
+T*
+(   - Low-Interaction Honeypot: Emulates specific network services \(e.g., fake SSH or HTTP daemons\)) Tj
+T*
+(   to collect attack trends and IP lists.) Tj
+T*
+(   - High-Interaction Honeypot: Runs full real operating systems in isolated virtualization to) Tj
+T*
+(   study sophisticated Zero-Day malware behavior and rootkit techniques.) Tj
+T*
+(   - Honeynet: A coordinated network of multiple honeypots simulating an enterprise intranet.) Tj
+T*
+() Tj
+T*
+(   2. IDS vs IPS Deployment:) Tj
+T*
+(   - Intrusion Detection System \(IDS\): Deployed out-of-band via switch SPAN/mirror ports.) Tj
+T*
+(   Passively inspects traffic copies and generates alerts without impacting network throughput.) Tj
+T*
+(   - Intrusion Prevention System \(IPS\): Deployed directly inline between switches/firewalls.) Tj
+T*
+(   Analyzes traffic in real-time and actively drops malicious packets or resets connections.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 28:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the structure and operation of Secure Sockets Layer / Transport Layer Security record protocols and cipher suites.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   TLS is divided into two primary operational sub-layers: Handshake Protocol and Record Protocol:) Tj
+T*
+() Tj
+T*
+(   1. TLS Record Protocol \(Lower Layer\):) Tj
+T*
+(   - Fragments outgoing application data into blocks <= 16 KB.) Tj
+T*
+(   - Applies cryptographic Message Authentication Code \(MAC\) or Authenticated Encryption with) Tj
+T*
+(   Associated Data \(AEAD\) like AES-GCM.) Tj
+T*
+(   - Encrypts payload and prepends a 5-byte TLS Record Header \(Content Type, Protocol Version,) Tj
+T*
+(   Length\).) Tj
+T*
+(   - Transmits record across underlying TCP socket.) Tj
+T*
+() Tj
+T*
+(   2. Anatomy of a Standard TLS 1.2 Cipher Suite String:) Tj
+T*
+(   Example: TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) Tj
+T*
+(   - Key Exchange: ECDHE \(Ephemeral Elliptic Curve Diffie-Hellman for Perfect Forward Secrecy\).) Tj
+T*
+(   - Authentication: RSA digital certificates.) Tj
+T*
+(   - Bulk Encryption: AES with 128-bit key in GCM mode.) Tj
+T*
+(   - PRF / Hash: SHA-256 for pseudo-random key generation.) Tj
+T*
+(   In TLS 1.3, this is streamlined to TLS_AES_128_GCM_SHA256 \(key exchange and auth are negotiated) Tj
+T*
+(   independently\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 29:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+ET
+
+endstream
+endobj
+51 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 52 0 R /Resources << /Font << /F1 53 0 R /F2 54 0 R >> >> >>
+endobj
+52 0 obj
+<< /Length 3491 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 25 of 25) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   [Problem Statement]: Detail the principles and operational challenges of Network Address Translation \(NAT\) and its impact on peer-to-peer protocols.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   NAT \(RFC 3022\) translates private IPv4 addresses \(RFC 1918\) to globally routable public IPs,) Tj
+T*
+(   mitigating IPv4 depletion:) Tj
+T*
+() Tj
+T*
+(   Network Address Port Translation \(NAPT / PAT\):) Tj
+T*
+(   - Maps thousands of internal private IP:port socket pairs to a single external public IP by) Tj
+T*
+(   rewriting transport source port numbers in outgoing packet headers and tracking mappings in a) Tj
+T*
+(   state table.) Tj
+T*
+() Tj
+T*
+(   Impact on Peer-to-Peer \(P2P\) Systems:) Tj
+T*
+(   - Inbound Connection Blocking: A host behind NAT cannot accept unsolicited inbound connections) Tj
+T*
+(   from outside peers because no NAT state entry exists.) Tj
+T*
+(   - P2P Traversal Techniques:) Tj
+T*
+(   1. STUN \(Session Traversal Utilities for NAT\): Allows a client to discover its public mapped IP) Tj
+T*
+(   and port.) Tj
+T*
+(   2. TURN \(Traversal Using Relays around NAT\): Relays media streams through a public third-party) Tj
+T*
+(   server when symmetric NAT blocks direct peer connections.) Tj
+T*
+(   3. ICE \(Interactive Connectivity Establishment\): Standardized framework combining STUN and TURN) Tj
+T*
+(   to establish the optimal direct path between WebRTC peers.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 30:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the Zero Trust Architecture \(ZTA\) paradigm \(NIST SP 800-207\) and contrast it with traditional perimeter security models.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Traditional enterprise network security relied on the 'Castle-and-Moat' perimeter model: once) Tj
+T*
+(   inside the corporate firewall or VPN, users and devices were implicitly trusted with broad) Tj
+T*
+(   access.) Tj
+T*
+() Tj
+T*
+(   The Zero Trust Philosophy:) Tj
+T*
+(   'Never Trust, Always Verify.' Zero Trust assumes that network perimeters are permeable and) Tj
+T*
+(   malicious actors may already reside inside the internal network.) Tj
+T*
+() Tj
+T*
+(   Core Pillars of NIST SP 800-207:) Tj
+T*
+(   1. Continuous Authentication and Authorization: Access requests are dynamically evaluated on a) Tj
+T*
+(   per-session basis using identity, device posture, location, and behavioral context.) Tj
+T*
+(   2. Principle of Least Privilege: Users are granted minimal granular access strictly necessary) Tj
+T*
+(   for their specific tasks \(Micro-segmentation\).) Tj
+T*
+(   3. Explicit Verification: Every transaction, API call, and data access is cryptographically) Tj
+T*
+(   verified and authenticated.) Tj
+T*
+(   4. End-to-End Encryption: All communications are encrypted in transit and at rest, even across) Tj
+T*
+(   internal LAN switches.) Tj
+T*
+(   5. Comprehensive Telemetry: Rigorous logging, auditing, and real-time AI security analytics) Tj
+T*
+(   across all endpoints, networks, and cloud workloads.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+53 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+54 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+xref
+0 55
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000281 00000 n 
+0000000425 00000 n 
+0000010176 00000 n 
+0000010320 00000 n 
+0000020430 00000 n 
+0000020574 00000 n 
+0000031527 00000 n 
+0000031672 00000 n 
+0000044247 00000 n 
+0000044393 00000 n 
+0000056803 00000 n 
+0000056949 00000 n 
+0000069896 00000 n 
+0000070042 00000 n 
+0000083500 00000 n 
+0000083646 00000 n 
+0000085787 00000 n 
+0000085933 00000 n 
+0000090995 00000 n 
+0000091141 00000 n 
+0000093642 00000 n 
+0000093788 00000 n 
+0000102203 00000 n 
+0000102349 00000 n 
+0000106504 00000 n 
+0000106650 00000 n 
+0000111056 00000 n 
+0000111202 00000 n 
+0000115176 00000 n 
+0000115322 00000 n 
+0000119550 00000 n 
+0000119696 00000 n 
+0000123721 00000 n 
+0000123867 00000 n 
+0000127851 00000 n 
+0000127997 00000 n 
+0000131870 00000 n 
+0000132016 00000 n 
+0000136099 00000 n 
+0000136245 00000 n 
+0000140069 00000 n 
+0000140215 00000 n 
+0000144051 00000 n 
+0000144197 00000 n 
+0000148347 00000 n 
+0000148493 00000 n 
+0000152688 00000 n 
+0000152834 00000 n 
+0000156743 00000 n 
+0000156889 00000 n 
+0000160433 00000 n 
+0000160531 00000 n 
+trailer
+<< /Size 55 /Root 1 0 R >>
+startxref
+160634
+%%EOF

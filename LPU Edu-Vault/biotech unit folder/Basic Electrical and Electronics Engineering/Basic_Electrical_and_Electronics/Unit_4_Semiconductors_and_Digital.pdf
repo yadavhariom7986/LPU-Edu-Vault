@@ -1,0 +1,554 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 3370 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Basic Electrical & Electronics | Unit 4: Semiconductor Devices & Digital Logic) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 1 of 4) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(=== UNIT 4: SEMICONDUCTOR DIODES, TRANSISTORS & DIGITAL LOGIC ===) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.1 P-N Junction Diodes and Zener Voltage Regulators) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Semiconductor physics enables active electronic amplification and digital computation.) Tj
+T*
+(* P-N Junction Diode: Formed by joining p-type \(acceptor-doped, majority holes\) and) Tj
+T*
+(n-type \(donor-doped, majority electrons\) semiconductor regions. Majority carriers) Tj
+T*
+(diffuse across the metallurgical junction, leaving uncompensated ionized dopants) Tj
+T*
+(forming a space-charge Depletion Region. This creates a built-in barrier potential) Tj
+T*
+(V_bi \(0.7V for Silicon, 0.3V for Germanium\).) Tj
+T*
+(* Biasing: Forward bias \(positive terminal to p-type\) narrows depletion width,) Tj
+T*
+(enabling exponential diffusion current: I = I_0 * [ e^{V / \(eta * V_T\)} - 1 ].) Tj
+T*
+(Reverse bias widens depletion width, reducing current to tiny reverse saturation) Tj
+T*
+(current I_0.) Tj
+T*
+(* Zener Diode: Heavily doped diode exhibiting sharp reverse breakdown. Breakdown) Tj
+T*
+(mechanisms: \(1\) Zener breakdown \(dominant < 5V: high electric field rips covalent) Tj
+T*
+(bonds\), \(2\) Avalanche breakdown \(dominant > 6V: minority carriers accelerate,) Tj
+T*
+(impact-ionizing lattice atoms\). Used in reverse bias as a precision shunt voltage) Tj
+T*
+(regulator maintaining constant terminal voltage V_z despite variations in supply) Tj
+T*
+(voltage or load current.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.2 Bipolar Junction Transistors \(BJT\)) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Structure and Doping: Three regions: Emitter \(heavily doped to inject carriers\),) Tj
+T*
+(Base \(ultra-thin and lightly doped to minimize recombination\), and Collector) Tj
+T*
+(\(moderately doped, largest physical area for heat dissipation\).) Tj
+T*
+(* Active Mode Biasing: Emitter-Base Junction \(EBJ\) is forward-biased; Collector-Base) Tj
+T*
+(Junction \(CBJ\) is reverse-biased. Current relation: I_E = I_B + I_C.) Tj
+T*
+(* Common-Emitter \(CE\) Configuration: Most widely used amplifier configuration) Tj
+T*
+(offering high voltage gain and high current gain:) Tj
+T*
+(- Current Gain Beta \(h_fe\): Beta = I_C / I_B. Relation to alpha \(CB gain\): Beta =) Tj
+T*
+(alpha / \(1 - alpha\); alpha = Beta / \(Beta + 1\). Typical Beta = 50 - 300.) Tj
+T*
+(- Operating Regions: Active \(EBJ forward, CBJ reverse: linear amplifier\),) Tj
+T*
+(Saturation \(both forward: closed switch, V_CE,sat ~ 0.2V\), Cut-off \(both reverse:) Tj
+T*
+(open switch, I_C ~ 0\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.3 Digital Electronics and Boolean Logic Gates) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Logic Gates: AND \(Y = A . B\), OR \(Y = A + B\), NOT \(Y = A'\), NAND \(Y = \(A . B\)'\),) Tj
+T*
+(NOR \(Y = \(A + B\)'\), XOR \(Y = A \(+\) B = A'B + AB'\), XNOR \(Y = AB + A'B'\).) Tj
+T*
+(* Universal Gates: NAND and NOR are universal gates because any combinational Boolean) Tj
+T*
+(circuit \(AND, OR, NOT, XOR\) can be constructed exclusively using only NAND or only) Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 3640 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Basic Electrical & Electronics | Unit 4: Semiconductor Devices & Digital Logic) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 2 of 4) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(NOR gates.) Tj
+T*
+(* De Morgan's Theorems: \(1\) \(A + B\)' = A' . B'; \(2\) \(A . B\)' = A' + B'.) Tj
+T*
+(* Half Adder: Adds 2 bits: Sum S = A \(+\) B; Carry C = A . B.) Tj
+T*
+(* Full Adder: Adds 3 bits \(A, B, C_in\): Sum S = A \(+\) B \(+\) C_in; Carry C_out = A.B +) Tj
+T*
+(B.C_in + A.C_in = A.B + C_in.\(A \(+\) B\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([SOLVED PROBLEM 1: Zener Diode Shunt Voltage Regulator Design]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: A 10V Zener diode is used in a shunt regulator circuit with unregulated DC) Tj
+T*
+(input voltage V_in varying between 15V and 20V. Load resistor R_L varies from 500 Omega) Tj
+T*
+(to 1,000 Omega. The minimum Zener knee current is I_z,min = 5 mA. Calculate: \(1\) Value) Tj
+T*
+(of series current-limiting resistor R_s, \(2\) Maximum power dissipated in the Zener) Tj
+T*
+(diode.) Tj
+T*
+(Solution Step 1: Determine Load Currents:) Tj
+T*
+(Regulated output voltage V_out = V_z = 10 V.) Tj
+T*
+(Minimum load current: I_{L, min} = V_z / R_{L, max} = 10 V / 1000 Omega = 10 mA.) Tj
+T*
+(Maximum load current: I_{L, max} = V_z / R_{L, min} = 10 V / 500 Omega = 20 mA.) Tj
+T*
+(Solution Step 2: Calculate Series Resistor R_s:) Tj
+T*
+(Worst-case condition for maintaining regulation occurs when V_in is at its minimum \(15V\)) Tj
+T*
+(and load current is at its maximum \(20 mA\), requiring Zener to maintain minimum knee) Tj
+T*
+(current \(5 mA\):) Tj
+T*
+(Total supply current I_{s, min} = I_{L, max} + I_{z, min} = 20 mA + 5 mA = 25 mA = 0.025) Tj
+T*
+(A.) Tj
+T*
+(R_s = \(V_{in, min} - V_z\) / I_{s, min} = \(15 - 10\) / 0.025 = 5 / 0.025 = 200 Omega.) Tj
+T*
+(Solution Step 3: Maximum Zener Dissipation:) Tj
+T*
+(Occurs when V_in is maximum \(20V\) and load current is minimum \(10 mA\):) Tj
+T*
+(I_{s, max} = \(V_{in, max} - V_z\) / R_s = \(20 - 10\) / 200 = 10 / 200 = 50 mA = 0.050 A.) Tj
+T*
+(Maximum Zener Current: I_{z, max} = I_{s, max} - I_{L, min} = 50 mA - 10 mA = 40 mA.) Tj
+T*
+(Maximum Zener Power: P_{z, max} = V_z * I_{z, max} = 10 V * 0.040 A = 0.40 Watts = 400) Tj
+T*
+(mW.) Tj
+T*
+(Safety check: A standard 0.5W \(500 mW\) Zener diode is safely rated for this design.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([SOLVED PROBLEM 2: BJT Common-Emitter DC Operating Point \(Q-Point\)]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: In a fixed-bias BJT circuit, V_CC = 12 V, R_B = 470 kOmega, R_C = 2.2 kOmega,) Tj
+T*
+(and Beta = 100. Assuming a silicon transistor with V_BE = 0.7 V, calculate: \(1\) Base) Tj
+T*
+(current I_B, \(2\) Collector current I_C, \(3\) Collector-Emitter voltage V_CE, \(4\) Identify) Tj
+T*
+(whether the transistor operates in Active or Saturation region.) Tj
+T*
+(Solution Step 1: Calculate Base Current I_B:) Tj
+T*
+(KVL around base-emitter loop: V_CC - I_B * R_B - V_BE = 0.) Tj
+T*
+(I_B = \(V_CC - V_BE\) / R_B = \(12 - 0.7\) / \(470 * 10^3\) = 11.3 / 470,000 = 2.404 * 10^-5 A) Tj
+T*
+(= 24.04 microA.) Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 3546 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Basic Electrical & Electronics | Unit 4: Semiconductor Devices & Digital Logic) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 3 of 4) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(Solution Step 2: Calculate Collector Current I_C:) Tj
+T*
+(Assuming active mode: I_C = Beta * I_B = 100 * 24.04 microA = 2.404 mA.) Tj
+T*
+(Solution Step 3: Calculate Collector-Emitter Voltage V_CE:) Tj
+T*
+(KVL around collector-emitter loop: V_CC - I_C * R_C - V_CE = 0.) Tj
+T*
+(V_CE = V_CC - I_C * R_C = 12 - \(2.404 * 10^-3 * 2.2 * 10^3\) = 12 - 5.289 = 6.711 Volts.) Tj
+T*
+(Solution Step 4: Region Evaluation:) Tj
+T*
+(Since V_CE = 6.71 V > V_CE,sat \(0.2 V\) and CBJ is reverse-biased \(V_CB = V_CE - V_BE =) Tj
+T*
+(6.71 - 0.7 = 6.01 V > 0\), the transistor is operating strictly in the ACTIVE REGION.) Tj
+T*
+(Q-Point: \(V_CE, I_C\) = \(6.71 V, 2.40 mA\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([SOLVED PROBLEM 3: Boolean Function Minimization and NAND Implementation]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: Simplify the Boolean expression F\(A, B, C\) = sum m\(1, 3, 5, 7\) + d\(2\) using) Tj
+T*
+(Karnaugh Map \(K-Map\) and implement the minimal expression using only 2-input NAND gates.) Tj
+T*
+(Solution Step 1: Plot 3-variable K-Map \(Variables A on rows, BC on columns\):) Tj
+T*
+(BC=00 BC=01 BC=11 BC=10) Tj
+T*
+(A = 0 0 1\(m1\) 1\(m3\) X\(d2\)) Tj
+T*
+(A = 1 0 1\(m5\) 1\(m7\) 0) Tj
+T*
+(Solution Step 2: Group adjacent 1s and don't-cares:) Tj
+T*
+(Minterms m1, m3, m5, m7 form a single 4-cell quad covering column BC = 01 and BC = 11.) Tj
+T*
+(In this quad: A changes \(0 to 1, eliminated\); B changes \(0 to 1, eliminated\); C remains) Tj
+T*
+(constant at 1.) Tj
+T*
+(Minimal Expression: F\(A, B, C\) = C.) Tj
+T*
+(Alternative Expression with m1, m2, m3, m5: F = A'B + C.) Tj
+T*
+(For F = A'B + C: Apply double negation for NAND implementation:) Tj
+T*
+(F = \( \(A'B + C\)' \)' = \( \(A'B\)' . C' \)'.) Tj
+T*
+(Implementation requires 3 NAND gates: \(1\) Invert A to A', \(2\) NAND\(A', B\), \(3\) Invert C) Tj
+T*
+(to C', and \(4\) NAND the results.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([SOLVED PROBLEM 4: Half Adder Implementation via Universal NOR Gates]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: Design a Half Adder \(Sum S = A \(+\) B, Carry C = A . B\) exclusively using only) Tj
+T*
+(2-input NOR gates. Determine the minimum gate count required.) Tj
+T*
+(Solution Step 1: Express Carry C = A . B in NOR form:) Tj
+T*
+(Apply De Morgan's theorem: A . B = \( \(A . B\)' \)' = \( A' + B' \)'.) Tj
+T*
+(NOR Formulation of Carry: Invert A and B using NOR gates \(A' = A NOR A, B' = B NOR B\),) Tj
+T*
+(then NOR the inverted inputs: C = \(A' NOR B'\) = \(A' + B'\)' = A . B.) Tj
+T*
+(Solution Step 2: Express Sum S = A'B + AB' in NOR form:) Tj
+T*
+(S = \(A + B\) . \(A . B\)' = \(A + B\) . \(A' + B'\).) Tj
+T*
+(Using standard 5-NOR gate universal XOR topology:) Tj
+T*
+(Gate 1: N1 = \(A NOR B\) = \(A + B\)'.) Tj
+T*
+(Gate 2: N2 = \(A NOR N1\) = \(A + \(A + B\)'\)' = A' . \(A + B\) = A'B.) Tj
+T*
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 3407 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Basic Electrical & Electronics | Unit 4: Semiconductor Devices & Digital Logic) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 4 of 4) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(Gate 3: N3 = \(B NOR N1\) = \(B + \(A + B\)'\)' = B' . \(A + B\) = AB'.) Tj
+T*
+(Gate 4: Sum S = \(N2 NOR N3\) = \(A'B + AB'\)' ... invert to get S = A \(+\) B.) Tj
+T*
+(Total Count: A complete half-adder can be implemented with exactly 5 universal NOR) Tj
+T*
+(gates.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.4 University Review & Examination Questions) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Q1: Contrast the V-I characteristics and underlying breakdown mechanisms of Zener) Tj
+T*
+(Breakdown vs. Avalanche Breakdown.) Tj
+T*
+(Answer: Zener breakdown occurs in heavily doped p-n junctions with very narrow depletion) Tj
+T*
+(regions \(<10 nm\). At low reverse voltages \(<5V\), the intense electric field \(>10^6 V/m\)) Tj
+T*
+(directly ruptures covalent bonds, pulling electrons from the valence band to the) Tj
+T*
+(conduction band \(quantum mechanical tunneling\). It exhibits a negative temperature) Tj
+T*
+(coefficient \(breakdown voltage decreases as temperature increases\). Avalanche breakdown) Tj
+T*
+(occurs in lightly doped junctions with wide depletion regions at higher reverse voltages) Tj
+T*
+(\(>6V\). Thermally generated minority carriers accelerate across the depletion field,) Tj
+T*
+(colliding with crystal lattice atoms and knocking out valence electrons \(impact) Tj
+T*
+(ionization\), triggering an exponential carrier avalanche. It exhibits a positive) Tj
+T*
+(temperature coefficient \(breakdown voltage increases with temperature due to increased) Tj
+T*
+(lattice vibrations scattering carriers\).) Tj
+T*
+(* Q2: Explain the input and output characteristics of a BJT in Common-Emitter \(CE\)) Tj
+T*
+(configuration, defining the Early Effect.) Tj
+T*
+(Answer: Input characteristics plot I_B vs. V_BE at constant V_CE, resembling a) Tj
+T*
+(forward-biased diode with cut-in voltage ~0.7V for silicon. Output characteristics plot) Tj
+T*
+(I_C vs. V_CE at constant I_B, showing three regions: Saturation \(V_CE < 0.2V, current) Tj
+T*
+(rises steeply\), Active \(nearly horizontal curves where I_C = Beta*I_B\), and Cut-off \(I_B) Tj
+T*
+(= 0, tiny leakage current\). The Early Effect \(Base-Width Modulation\) refers to the) Tj
+T*
+(narrowing of the effective metallurgical base width as reverse-bias collector voltage) Tj
+T*
+(V_CE increases. A narrower base reduces recombination, causing a slight upward tilt in) Tj
+T*
+(the active-region output characteristics. When extrapolated backward, all output) Tj
+T*
+(characteristic curves intersect at a single negative voltage on the V_CE axis termed the) Tj
+T*
+(Early Voltage \(V_A ~ 50-100V\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.5 Key Takeaways and Revision Points) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* P-N diode forward current is exponential; Zener diodes operate in reverse breakdown) Tj
+T*
+(for voltage regulation.) Tj
+T*
+(* BJT CE configuration provides high current gain Beta = I_C / I_B and active) Tj
+T*
+(operating point \(V_CE, I_C\).) Tj
+T*
+(* NAND and NOR are universal gates; De Morgan's laws: \(A+B\)' = A'B' and \(AB\)' =) Tj
+T*
+(A'+B'.) Tj
+T*
+(* Full adder computes Sum = A \(+\) B \(+\) C_in and Carry = AB + C_in\(A \(+\) B\).) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 13
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000164 00000 n 
+0000000234 00000 n 
+0000000309 00000 n 
+0000000421 00000 n 
+0000003843 00000 n 
+0000003955 00000 n 
+0000007647 00000 n 
+0000007760 00000 n 
+0000011359 00000 n 
+0000011473 00000 n 
+trailer
+<< /Size 13 /Root 1 0 R >>
+startxref
+14933
+%%EOF

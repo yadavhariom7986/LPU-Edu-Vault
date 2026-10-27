@@ -1,0 +1,11911 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R 35 0 R 37 0 R 39 0 R 41 0 R 43 0 R 45 0 R 47 0 R 49 0 R 51 0 R 53 0 R 55 0 R 57 0 R 59 0 R 61 0 R 63 0 R 65 0 R 67 0 R 69 0 R 71 0 R 73 0 R 75 0 R 77 0 R 79 0 R 81 0 R 83 0 R 85 0 R] /Count 42 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 4 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 8164 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 4: ARRAYS IN C) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 1 of 42) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(1.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What is an array in C?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 772.3 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 772.3 Td
+(Homogeneous contiguous data) Tj
+ET
+BT
+/F2 7.4 Tf
+58 762.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 762.7 Td
+(Heterogeneous linked list) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.1 Td
+(Dynamic tree node) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.5001 Td
+(Primitive scalar type) Tj
+ET
+BT
+/F2 8.0 Tf
+42 719.9001 Td
+(2.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 719.9001 Td
+(What is the index of the first element in any) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(standard C array?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 699.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 699.0001 Td
+(0 \(zero-indexed\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.4001 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 679.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 679.8001 Td
+(-1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.2001 Td
+(Depends on declaration) Tj
+ET
+BT
+/F2 8.0 Tf
+42 646.6002 Td
+(3.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 646.6002 Td
+(For an array declared as int data[10]; what is) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(the valid index range?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 625.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 625.7001 Td
+(0 to 9) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.1002 Td
+(1 to 10) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.5002 Td
+(0 to 10) Tj
+ET
+BT
+/F2 7.4 Tf
+58 596.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 596.9002 Td
+(-1 to 9) Tj
+ET
+BT
+/F2 8.0 Tf
+42 573.3002 Td
+(4.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 573.3002 Td
+(How are array elements laid out in physical) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(computer RAM?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 552.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 552.4002 Td
+(Contiguous linear blocks) Tj
+ET
+BT
+/F2 7.4 Tf
+58 542.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 542.8002 Td
+(Scattered in heap) Tj
+ET
+BT
+/F2 7.4 Tf
+58 533.2003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 533.2003 Td
+(Random hash buckets) Tj
+ET
+BT
+/F2 7.4 Tf
+58 523.6003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 523.6003 Td
+(Non-linear nodes) Tj
+ET
+BT
+/F2 8.0 Tf
+42 500.0003 Td
+(5.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 500.0003 Td
+(What is the memory address formula for element) Tj
+ET
+BT
+/F1 7.8 Tf
+58 490.8003 Td
+(arr[i] of type T?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 479.1003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 479.1003 Td
+(Base + i * sizeof\(T\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 469.5003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 469.5003 Td
+(Base + i) Tj
+ET
+BT
+/F2 7.4 Tf
+58 459.9003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 459.9003 Td
+(Base + sizeof\(T\) / i) Tj
+ET
+BT
+/F2 7.4 Tf
+58 450.3003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 450.3003 Td
+(Base * i) Tj
+ET
+BT
+/F2 8.0 Tf
+42 426.7003 Td
+(6.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 426.7003 Td
+(If base address of int arr[10] is 2000 and int) Tj
+ET
+BT
+/F1 7.8 Tf
+58 417.5002 Td
+(is 4 bytes, what is address of arr[3]?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 405.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 405.8002 Td
+(2012 \(2000 + 3*4\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 396.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 396.2002 Td
+(2003) Tj
+ET
+BT
+/F2 7.4 Tf
+58 386.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 386.6002 Td
+(2016) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.0002 Td
+(2008) Tj
+ET
+BT
+/F2 8.0 Tf
+42 353.4002 Td
+(7.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 353.4002 Td
+(What value do unspecified trailing elements) Tj
+ET
+BT
+/F1 7.8 Tf
+58 344.2002 Td
+(receive in partial array initialization: int) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.0002 Td
+(a[5] = {1, 2};?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 323.3002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 323.3002 Td
+(0 \(zero\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 313.7002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 313.7002 Td
+(Garbage values) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.1002 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 294.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 294.5002 Td
+(-1) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(8.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What does the declaration int arr[5] = {0};) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(accomplish?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(Initializes all 5 to 0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(Initializes only arr[0]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(Syntax compilation error) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(Allocates empty array) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(9.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(What happens if an uninitialized local array is) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(read without assigning values?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(Contains garbage values) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(Contains all zeros) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(Compiler runtime fault) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(Automatically NULL) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(10.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(Does the standard C compiler perform runtime) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(array bounds checking?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.5001 Td
+(No bounds checking) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.9001 Td
+(Yes \(throws exception\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.3002 Td
+(Only in debug mode) Tj
+ET
+BT
+/F2 7.4 Tf
+322 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 587.7002 Td
+(Only for floats) Tj
+ET
+BT
+/F2 8.0 Tf
+306 564.1002 Td
+(11.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.1002 Td
+(What type of behavior occurs when accessing an) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(array beyond its declared size?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 543.2002 Td
+(Undefined behavior) Tj
+ET
+BT
+/F2 7.4 Tf
+322 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 533.6002 Td
+(Compilation error) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.0002 Td
+(Array auto-resizes) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.4003 Td
+(Index wraps modulo N) Tj
+ET
+BT
+/F2 8.0 Tf
+306 490.8003 Td
+(12.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 490.8003 Td
+(In C, how are multi-dimensional arrays laid out) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6003 Td
+(in memory?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 469.9002 Td
+(Row-major order) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.3002 Td
+(Column-major order) Tj
+ET
+BT
+/F2 7.4 Tf
+322 450.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 450.7002 Td
+(Diagonal-major order) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.1002 Td
+(Z-order curve) Tj
+ET
+BT
+/F2 8.0 Tf
+306 417.5002 Td
+(13.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 417.5002 Td
+(In a 2D array matrix[R][C], what does R) Tj
+ET
+BT
+/F1 7.8 Tf
+322 408.3002 Td
+(represent?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 396.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 396.6002 Td
+(Total rows) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.0002 Td
+(Total columns) Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.4002 Td
+(Bytes per row) Tj
+ET
+BT
+/F2 7.4 Tf
+322 367.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 367.8002 Td
+(Matrix determinant) Tj
+ET
+BT
+/F2 8.0 Tf
+306 344.2002 Td
+(14.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 344.2002 Td
+(In row-major 2D array arr[ROWS][COLS], what is) Tj
+ET
+BT
+/F1 7.8 Tf
+322 335.0002 Td
+(the address formula for arr[i][j]?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 323.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 323.3001 Td
+(Base + \(i*COLS + j\)*size) Tj
+ET
+BT
+/F2 7.4 Tf
+322 313.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 313.7001 Td
+(Base + \(j*ROWS + i\)*size) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.1001 Td
+(Base + \(i + j\)*size) Tj
+ET
+BT
+/F2 7.4 Tf
+322 294.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 294.5001 Td
+(Base + \(i*j\)*size) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 6 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+6 0 obj
+<< /Length 8226 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 4: ARRAYS IN C) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 2 of 42) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(15.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(How many elements are allocated by the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(declaration: double matrix[4][5];?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(20 elements) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(9 elements) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(40 elements) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(16 elements) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(16.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(What is the memory footprint in bytes of int) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(table[3][4] on a 32-bit/64-bit int system?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(48 bytes \(3*4*4\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(12 bytes) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(24 bytes) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(96 bytes) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(17.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(What is the term for searching an element) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(sequentially from the first to the last item?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.5001 Td
+(Linear Search) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.9001 Td
+(Binary Search) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.3002 Td
+(Hash Search) Tj
+ET
+BT
+/F2 7.4 Tf
+58 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 587.7002 Td
+(Interpolation Search) Tj
+ET
+BT
+/F2 8.0 Tf
+42 564.1002 Td
+(18.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(What is the worst-case time complexity of Linear) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(Search on an array of size N?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 543.2002 Td
+(O\(N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 533.6002 Td
+(O\(log N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.0002 Td
+(O\(1\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.4003 Td
+(O\(N^2\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 490.8003 Td
+(19.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 490.8003 Td
+(What is the best-case time complexity of Linear) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6003 Td
+(Search?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 469.9002 Td
+(O\(1\) [First element]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.3002 Td
+(O\(N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 450.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 450.7002 Td
+(O\(log N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.1002 Td
+(O\(N/2\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 417.5002 Td
+(20.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 417.5002 Td
+(What prerequisite condition MUST be satisfied) Tj
+ET
+BT
+/F1 7.8 Tf
+58 408.3002 Td
+(before performing Binary Search?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 396.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 396.6002 Td
+(Array must be sorted) Tj
+ET
+BT
+/F2 7.4 Tf
+58 387.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 387.0002 Td
+(Array must have no zeros) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.4002 Td
+(Array size power of 2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 367.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 367.8002 Td
+(Array must be float) Tj
+ET
+BT
+/F2 8.0 Tf
+42 344.2002 Td
+(21.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 344.2002 Td
+(What is the worst-case time complexity of Binary) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.0002 Td
+(Search on a sorted array of size N?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 323.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 323.3001 Td
+(O\(log N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 313.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 313.7001 Td
+(O\(N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.1001 Td
+(O\(N log N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 294.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 294.5001 Td
+(O\(1\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(22.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Which simple sorting algorithm repeatedly) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(compares adjacent elements and swaps them if out) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(of order?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(Bubble Sort) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.3 Td
+(Selection Sort) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.7 Td
+(Insertion Sort) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.1 Td
+(Merge Sort) Tj
+ET
+BT
+/F2 8.0 Tf
+306 701.5001 Td
+(23.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(What is the worst-case time complexity of) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(standard Bubble Sort?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.6 Td
+(O\(N^2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.0001 Td
+(O\(N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.4001 Td
+(O\(N log N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 651.8001 Td
+(O\(log N\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 628.2001 Td
+(24.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(Which sorting algorithm repeatedly finds the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(minimum element and moves it to the sorted) Tj
+ET
+BT
+/F1 7.8 Tf
+322 609.8001 Td
+(boundary?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 598.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 598.1001 Td
+(Selection Sort) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.5001 Td
+(Bubble Sort) Tj
+ET
+BT
+/F2 7.4 Tf
+322 578.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 578.9001 Td
+(Insertion Sort) Tj
+ET
+BT
+/F2 7.4 Tf
+322 569.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 569.3002 Td
+(Quick Sort) Tj
+ET
+BT
+/F2 8.0 Tf
+306 545.7002 Td
+(25.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 545.7002 Td
+(What is the time complexity of Selection Sort in) Tj
+ET
+BT
+/F1 7.8 Tf
+322 536.5002 Td
+(both best and worst cases?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.8002 Td
+(O\(N^2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 515.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 515.2002 Td
+(O\(N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 505.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 505.6002 Td
+(O\(N log N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 496.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 496.0002 Td
+(O\(1\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 472.4002 Td
+(26.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 472.4002 Td
+(Which sorting algorithm builds the sorted array) Tj
+ET
+BT
+/F1 7.8 Tf
+322 463.2002 Td
+(one item at a time, efficient for nearly sorted) Tj
+ET
+BT
+/F1 7.8 Tf
+322 454.0002 Td
+(data?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 442.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 442.3001 Td
+(Insertion Sort) Tj
+ET
+BT
+/F2 7.4 Tf
+322 432.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 432.7001 Td
+(Selection Sort) Tj
+ET
+BT
+/F2 7.4 Tf
+322 423.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 423.1001 Td
+(Bubble Sort) Tj
+ET
+BT
+/F2 7.4 Tf
+322 413.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 413.5001 Td
+(Heap Sort) Tj
+ET
+BT
+/F2 8.0 Tf
+306 389.9001 Td
+(27.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 389.9001 Td
+(What is the best-case time complexity of) Tj
+ET
+BT
+/F1 7.8 Tf
+322 380.7001 Td
+(Insertion Sort on an already sorted array?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 369.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 369.0001 Td
+(O\(N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 359.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 359.4001 Td
+(O\(N^2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 349.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 349.8001 Td
+(O\(log N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 340.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 340.2001 Td
+(O\(1\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 316.6001 Td
+(28.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 316.6001 Td
+(When passing a 1D array to a function, what does) Tj
+ET
+BT
+/F1 7.8 Tf
+322 307.4001 Td
+(the array identifier decay into?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 295.7 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 295.7 Td
+(Pointer to first element) Tj
+ET
+BT
+/F2 7.4 Tf
+322 286.1 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 286.1 Td
+(Entire array copy) Tj
+ET
+BT
+/F2 7.4 Tf
+322 276.5 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 276.5 Td
+(Array structure copy) Tj
+ET
+BT
+/F2 7.4 Tf
+322 266.9 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 266.9 Td
+(Memory descriptor) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 8 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+8 0 obj
+<< /Length 8450 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 4: ARRAYS IN C) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 3 of 42) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(29.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(When declaring a 2D array parameter in a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(function, which dimension MAY be omitted?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(First dimension \(rows\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(Second dimension \(cols\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(Both dimensions) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(Neither dimension) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(30.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(Which function prototype correctly accepts a 2D) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(array with 10 columns?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(void f\(int arr[][10]\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(void f\(int arr[10][]\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(void f\(int arr[][]\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(void f\(int *arr[10]\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(31.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(What feature introduced in C99 allows array) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(dimensions to be determined at runtime?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.5001 Td
+(Variable-Length Arrays) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.9001 Td
+(Dynamic Arrays \(malloc\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.3002 Td
+(Flexible Struct Member) Tj
+ET
+BT
+/F2 7.4 Tf
+58 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 587.7002 Td
+(Template Arrays) Tj
+ET
+BT
+/F2 8.0 Tf
+42 564.1002 Td
+(32.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(Where are C99 Variable-Length Arrays \(VLAs\)) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(allocated at runtime?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 543.2002 Td
+(Call stack) Tj
+ET
+BT
+/F2 7.4 Tf
+58 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 533.6002 Td
+(Heap segment) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.0002 Td
+(Data segment) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.4003 Td
+(BSS segment) Tj
+ET
+BT
+/F2 8.0 Tf
+42 490.8003 Td
+(33.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 490.8003 Td
+(Can a C99 Variable-Length Array \(VLA\) have) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6003 Td
+(static storage duration?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 469.9002 Td
+(No \(stack-only\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.3002 Td
+(Yes) Tj
+ET
+BT
+/F2 7.4 Tf
+58 450.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 450.7002 Td
+(Only in C11) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.1002 Td
+(Implementation-defined) Tj
+ET
+BT
+/F2 8.0 Tf
+42 417.5002 Td
+(34.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 417.5002 Td
+(What C99 feature allows initializing specific) Tj
+ET
+BT
+/F1 7.8 Tf
+58 408.3002 Td
+(indices like: int a[10] = {[3] = 42, [7] = 99};?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 396.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 396.6002 Td
+(Designated initializers) Tj
+ET
+BT
+/F2 7.4 Tf
+58 387.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 387.0002 Td
+(Index mapping) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.4002 Td
+(Compound literals) Tj
+ET
+BT
+/F2 7.4 Tf
+58 367.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 367.8002 Td
+(Static slicing) Tj
+ET
+BT
+/F2 8.0 Tf
+42 344.2002 Td
+(35.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 344.2002 Td
+(What does expression sizeof\(arr\) /) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.0002 Td
+(sizeof\(arr[0]\) compute for a statically declared) Tj
+ET
+BT
+/F1 7.8 Tf
+58 325.8001 Td
+(array?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 314.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 314.1001 Td
+(Number of elements) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.5001 Td
+(Total bytes of array) Tj
+ET
+BT
+/F2 7.4 Tf
+58 294.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 294.9001 Td
+(Size of one element) Tj
+ET
+BT
+/F2 7.4 Tf
+58 285.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 285.3001 Td
+(Pointer offset) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(36.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Why does sizeof\(arr\) / sizeof\(arr[0]\) fail) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(inside a function receiving the array as a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(parameter?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(Array decayed to pointer) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.3 Td
+(sizeof invalid on param) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.7 Td
+(Divides by zero) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.1 Td
+(Array is truncated) Tj
+ET
+BT
+/F2 8.0 Tf
+306 701.5001 Td
+(37.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(What is a matrix with identical numbers of rows) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(and columns called?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.6 Td
+(Square matrix) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.0001 Td
+(Rectangular matrix) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.4001 Td
+(Scalar matrix) Tj
+ET
+BT
+/F2 7.4 Tf
+322 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 651.8001 Td
+(Diagonal vector) Tj
+ET
+BT
+/F2 8.0 Tf
+306 628.2001 Td
+(38.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(In a square matrix M of dimension N x N, which) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(elements satisfy i == j?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.3001 Td
+(Main diagonal elements) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.7001 Td
+(Anti-diagonal elements) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.1002 Td
+(Upper triangle elements) Tj
+ET
+BT
+/F2 7.4 Tf
+322 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 578.5002 Td
+(Lower triangle elements) Tj
+ET
+BT
+/F2 8.0 Tf
+306 554.9002 Td
+(39.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(What matrix operation swaps rows and columns) Tj
+ET
+BT
+/F1 7.8 Tf
+322 545.7002 Td
+(such that A_T[i][j] = A[j][i]?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 534.0002 Td
+(Matrix Transpose) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.4002 Td
+(Matrix Inversion) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.8002 Td
+(Matrix Determinant) Tj
+ET
+BT
+/F2 7.4 Tf
+322 505.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 505.2002 Td
+(Matrix Trace) Tj
+ET
+BT
+/F2 8.0 Tf
+306 481.6002 Td
+(40.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6002 Td
+(What is the condition for two matrices of) Tj
+ET
+BT
+/F1 7.8 Tf
+322 472.4002 Td
+(dimensions \(M x K\) and \(P x N\) to be) Tj
+ET
+BT
+/F1 7.8 Tf
+322 463.2002 Td
+(multiplicable?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 451.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 451.5002 Td
+(K == P) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.9002 Td
+(M == N) Tj
+ET
+BT
+/F2 7.4 Tf
+322 432.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 432.3002 Td
+(M == K) Tj
+ET
+BT
+/F2 7.4 Tf
+322 422.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 422.7002 Td
+(K == N) Tj
+ET
+BT
+/F2 8.0 Tf
+306 399.1002 Td
+(41.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 399.1002 Td
+(What is the dimension of the product matrix) Tj
+ET
+BT
+/F1 7.8 Tf
+322 389.9001 Td
+(resulting from \(4 x 3\) multiplied by \(3 x 5\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 378.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 378.2001 Td
+(4 x 5) Tj
+ET
+BT
+/F2 7.4 Tf
+322 368.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 368.6001 Td
+(3 x 3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 359.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 359.0001 Td
+(5 x 4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 349.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 349.4001 Td
+(12 x 15) Tj
+ET
+BT
+/F2 8.0 Tf
+306 325.8001 Td
+(42.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 325.8001 Td
+(How many scalar multiplications are performed) Tj
+ET
+BT
+/F1 7.8 Tf
+322 316.6001 Td
+(when multiplying two N x N matrices naively?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.9001 Td
+(N^3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 295.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 295.3001 Td
+(N^2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 285.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 285.7001 Td
+(N * log N) Tj
+ET
+BT
+/F2 7.4 Tf
+322 276.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 276.1001 Td
+(2 * N^2) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 10 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+10 0 obj
+<< /Length 8078 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 4: ARRAYS IN C) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 4 of 42) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(43.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What is the time complexity of naive matrix) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(multiplication algorithm?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(O\(N^3\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(O\(N^2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(O\(N log N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(O\(2^N\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(44.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(What is the sum of main diagonal elements of a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(square matrix termed in linear algebra?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(Trace of matrix) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(Determinant) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(Rank) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(Eigenvalue) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(45.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(A square matrix where A[i][j] == A[j][i] for all) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(i, j is defined as:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.5001 Td
+(Symmetric matrix) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.9001 Td
+(Skew-symmetric matrix) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.3002 Td
+(Orthogonal matrix) Tj
+ET
+BT
+/F2 7.4 Tf
+58 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 587.7002 Td
+(Singular matrix) Tj
+ET
+BT
+/F2 8.0 Tf
+42 564.1002 Td
+(46.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(A square matrix where A[i][j] == -A[j][i] and) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(main diagonal elements are zero is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 543.2002 Td
+(Skew-symmetric matrix) Tj
+ET
+BT
+/F2 7.4 Tf
+58 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 533.6002 Td
+(Symmetric matrix) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.0002 Td
+(Identity matrix) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.4003 Td
+(Hermitian matrix) Tj
+ET
+BT
+/F2 8.0 Tf
+42 490.8003 Td
+(47.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 490.8003 Td
+(What is an identity matrix?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 479.1003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 479.1003 Td
+(1s on diagonal, 0s elsewhere) Tj
+ET
+BT
+/F2 7.4 Tf
+58 469.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 469.5002 Td
+(All elements 1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 459.9002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 459.9002 Td
+(All elements 0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 450.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 450.3002 Td
+(Alternating 0 and 1) Tj
+ET
+BT
+/F2 8.0 Tf
+42 426.7002 Td
+(48.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 426.7002 Td
+(In Binary Search, what formula avoids integer) Tj
+ET
+BT
+/F1 7.8 Tf
+58 417.5002 Td
+(overflow when computing the midpoint?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 405.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 405.8002 Td
+(low + \(high - low\) / 2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 396.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 396.2002 Td
+(\(low + high\) / 2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 386.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 386.6002 Td
+(low + high / 2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.0002 Td
+(high - low / 2) Tj
+ET
+BT
+/F2 8.0 Tf
+42 353.4002 Td
+(49.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 353.4002 Td
+(Why does \(low + high\) / 2 risk overflow in large) Tj
+ET
+BT
+/F1 7.8 Tf
+58 344.2002 Td
+(arrays in C?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 332.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 332.5002 Td
+(Sum exceeds INT_MAX) Tj
+ET
+BT
+/F2 7.4 Tf
+58 322.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 322.9001 Td
+(Division by zero) Tj
+ET
+BT
+/F2 7.4 Tf
+58 313.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 313.3001 Td
+(Negative rounding) Tj
+ET
+BT
+/F2 7.4 Tf
+58 303.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 303.7001 Td
+(Floating conversion) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(50.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What optimization allows Bubble Sort to) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(terminate in O\(N\) time on already sorted arrays?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(Swapped boolean flag) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(Binary search midpoint) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(Recursive partitioning) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(Bitwise masking) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(51.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(Is standard Selection Sort a stable sorting) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(algorithm?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(No \(unstable\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(Yes \(strictly stable\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(Depends on pivot) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(Only for integers) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(52.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(What does it mean for a sorting algorithm to be) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+('stable'?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.5001 Td
+(Preserves order of equals) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.9001 Td
+(Uses O\(1\) memory) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.3002 Td
+(Runs in O\(N log N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 587.7002 Td
+(Never crashes) Tj
+ET
+BT
+/F2 8.0 Tf
+306 564.1002 Td
+(53.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.1002 Td
+(Which of the elementary O\(N^2\) sorting) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(algorithms is stable by default?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 543.2002 Td
+(Insertion Sort & Bubble) Tj
+ET
+BT
+/F2 7.4 Tf
+322 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 533.6002 Td
+(Selection Sort only) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.0002 Td
+(Quick Sort) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.4003 Td
+(Heap Sort) Tj
+ET
+BT
+/F2 8.0 Tf
+306 490.8003 Td
+(54.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 490.8003 Td
+(What is the maximum number of comparisons in) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6003 Td
+(worst-case Binary Search for N = 1024 elements?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 469.9002 Td
+(11 \(log2\(1024\) + 1\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.3002 Td
+(1024) Tj
+ET
+BT
+/F2 7.4 Tf
+322 450.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 450.7002 Td
+(512) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.1002 Td
+(100) Tj
+ET
+BT
+/F2 8.0 Tf
+306 417.5002 Td
+(55.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 417.5002 Td
+(How many comparisons does Linear Search make in) Tj
+ET
+BT
+/F1 7.8 Tf
+322 408.3002 Td
+(the worst case for N = 1000?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 396.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 396.6002 Td
+(1000) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.0002 Td
+(10) Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.4002 Td
+(500) Tj
+ET
+BT
+/F2 7.4 Tf
+322 367.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 367.8002 Td
+(1) Tj
+ET
+BT
+/F2 8.0 Tf
+306 344.2002 Td
+(56.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 344.2002 Td
+(What is the result of expression: int arr[5] =) Tj
+ET
+BT
+/F1 7.8 Tf
+322 335.0002 Td
+({10, 20, 30}; *\(arr + 2\);?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 323.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 323.3001 Td
+(30) Tj
+ET
+BT
+/F2 7.4 Tf
+322 313.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 313.7001 Td
+(20) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.1001 Td
+(10) Tj
+ET
+BT
+/F2 7.4 Tf
+322 294.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 294.5001 Td
+(Address of arr) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 12 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+12 0 obj
+<< /Length 8415 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 4: ARRAYS IN C) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 5 of 42) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(57.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(In C, which relationship between array indexing) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(and pointer arithmetic is universally true?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(arr[i] == *\(arr + i\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(arr[i] == &arr + i) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(arr[i] == *arr + i) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(arr[i] == arr + *i) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(58.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(Is the expression 2[arr] syntactically legal and) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(identical to arr[2] in ANSI C?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(Yes: *\(2 + arr\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(No \(syntax error\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(Only in C++) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(Deprecated in C99) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(59.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(Why does 2[arr] work identically to arr[2] in C?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 625.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 625.7001 Td
+(Addition is commutative) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.1002 Td
+(Compiler special case) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.5002 Td
+(Array indexing macro) Tj
+ET
+BT
+/F2 7.4 Tf
+58 596.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 596.9002 Td
+(Undefined behavior) Tj
+ET
+BT
+/F2 8.0 Tf
+42 573.3002 Td
+(60.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 573.3002 Td
+(What does the expression &arr represent for int) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(arr[10]?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 552.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 552.4002 Td
+(Pointer to array of 10 ints) Tj
+ET
+BT
+/F2 7.4 Tf
+58 542.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 542.8002 Td
+(Pointer to first int) Tj
+ET
+BT
+/F2 7.4 Tf
+58 533.2003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 533.2003 Td
+(Value of first int) Tj
+ET
+BT
+/F2 7.4 Tf
+58 523.6003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 523.6003 Td
+(Array size in bytes) Tj
+ET
+BT
+/F2 8.0 Tf
+42 500.0003 Td
+(61.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 500.0003 Td
+(What is the difference in pointer arithmetic) Tj
+ET
+BT
+/F1 7.8 Tf
+58 490.8003 Td
+(between arr + 1 and &arr + 1?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 479.1003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 479.1003 Td
+(&arr+1 skips ENTIRE array) Tj
+ET
+BT
+/F2 7.4 Tf
+58 469.5003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 469.5003 Td
+(Identical offset) Tj
+ET
+BT
+/F2 7.4 Tf
+58 459.9003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 459.9003 Td
+(arr+1 skips 10 ints) Tj
+ET
+BT
+/F2 7.4 Tf
+58 450.3003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 450.3003 Td
+(Causes syntax error) Tj
+ET
+BT
+/F2 8.0 Tf
+42 426.7003 Td
+(62.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 426.7003 Td
+(If int arr[10] starts at address 1000, what is) Tj
+ET
+BT
+/F1 7.8 Tf
+58 417.5002 Td
+(address evaluated by &arr + 1 \(int=4 bytes\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 405.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 405.8002 Td
+(1040 \(skips 10 * 4 bytes\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 396.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 396.2002 Td
+(1004) Tj
+ET
+BT
+/F2 7.4 Tf
+58 386.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 386.6002 Td
+(1010) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.0002 Td
+(1000) Tj
+ET
+BT
+/F2 8.0 Tf
+42 353.4002 Td
+(63.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 353.4002 Td
+(In bioinformatics, what does a 2D Dot Plot) Tj
+ET
+BT
+/F1 7.8 Tf
+58 344.2002 Td
+(comparison matrix between two sequences) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.0002 Td
+(visualize?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 323.3002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 323.3002 Td
+(Sequence homology & repeats) Tj
+ET
+BT
+/F2 7.4 Tf
+58 313.7002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 313.7002 Td
+(Molecular weights) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.1002 Td
+(GC percentage curves) Tj
+ET
+BT
+/F2 7.4 Tf
+58 294.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 294.5002 Td
+(Hydrogen bond counts) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(64.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(In DNA Dot Plot matrix M[i][j], what value is) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(assigned if seq1[i] == seq2[j]?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(1 \(or dot symbol\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(-1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(Index offset) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(65.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(What graphical pattern on a Dot Plot indicates) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(an exact matching sequence alignment?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(Diagonal line segment) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(Vertical column) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(Horizontal bar) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(Random checkerboard) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(66.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(What pattern on a Dot Plot indicates an inverted) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(repeat \(palindromic sequence\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.5001 Td
+(Anti-diagonal line) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.9001 Td
+(Vertical line) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.3002 Td
+(Horizontal gap) Tj
+ET
+BT
+/F2 7.4 Tf
+322 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 587.7002 Td
+(Scattered noise) Tj
+ET
+BT
+/F2 8.0 Tf
+306 564.1002 Td
+(67.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.1002 Td
+(In a gene expression matrix, rows represent) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(genes and columns represent experimental) Tj
+ET
+BT
+/F1 7.8 Tf
+322 545.7002 Td
+(samples:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 534.0002 Td
+(Microarray Data Matrix) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.4002 Td
+(Phylogenetic Cladogram) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.8002 Td
+(Codon Dictionary) Tj
+ET
+BT
+/F2 7.4 Tf
+322 505.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 505.2002 Td
+(Restriction Map) Tj
+ET
+BT
+/F2 8.0 Tf
+306 481.6002 Td
+(68.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6002 Td
+(What algorithm removes duplicates from a sorted) Tj
+ET
+BT
+/F1 7.8 Tf
+322 472.4002 Td
+(array in O\(N\) time?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.7002 Td
+(Two-pointer technique) Tj
+ET
+BT
+/F2 7.4 Tf
+322 451.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 451.1002 Td
+(Triple nested loops) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.5002 Td
+(Binary search insertion) Tj
+ET
+BT
+/F2 7.4 Tf
+322 431.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 431.9002 Td
+(Hash table recreation) Tj
+ET
+BT
+/F2 8.0 Tf
+306 408.3002 Td
+(69.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 408.3002 Td
+(How many element comparisons does standard) Tj
+ET
+BT
+/F1 7.8 Tf
+322 399.1002 Td
+(Selection Sort make on an array of size N?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.4001 Td
+(N * \(N - 1\) / 2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.8001 Td
+(N) Tj
+ET
+BT
+/F2 7.4 Tf
+322 368.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 368.2001 Td
+(N * log N) Tj
+ET
+BT
+/F2 7.4 Tf
+322 358.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 358.6001 Td
+(N^2 - 1) Tj
+ET
+BT
+/F2 8.0 Tf
+306 335.0001 Td
+(70.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 335.0001 Td
+(What is the auxiliary space complexity of) Tj
+ET
+BT
+/F1 7.8 Tf
+322 325.8001 Td
+(In-Place Bubble, Selection, and Insertion sorts?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 314.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 314.1001 Td
+(O\(1\) constant space) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.5001 Td
+(O\(N\) linear space) Tj
+ET
+BT
+/F2 7.4 Tf
+322 294.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 294.9001 Td
+(O\(log N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 285.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 285.3001 Td
+(O\(N^2\)) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 14 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+14 0 obj
+<< /Length 8832 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 4: ARRAYS IN C) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 6 of 42) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(71.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What is a major performance drawback of) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(Insertion Sort on large reverse-sorted arrays?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(O\(N^2\) shifts and moves) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(High recursion overhead) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(Large memory allocation) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(Cache misses only) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(72.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(Can an array dimension in C89 be declared using) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(a const variable: const int n = 5; int a[n];?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(No \(const var not const expr\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(Yes \(valid in C89\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(Only if global) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(Only if static) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(73.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(Why was const int n = 5; int a[n]; illegal in) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(ANSI C89?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.5001 Td
+(const is read-only variable) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.9001 Td
+(C89 had no const keyword) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.3002 Td
+(Arrays must be dynamic) Tj
+ET
+BT
+/F2 7.4 Tf
+58 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 587.7002 Td
+(n had no memory address) Tj
+ET
+BT
+/F2 8.0 Tf
+42 564.1002 Td
+(74.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(How did C99 resolve dynamic stack array sizing?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 552.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 552.4002 Td
+(Introduced VLAs) Tj
+ET
+BT
+/F2 7.4 Tf
+58 542.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 542.8002 Td
+(Removed static arrays) Tj
+ET
+BT
+/F2 7.4 Tf
+58 533.2003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 533.2003 Td
+(Changed const semantics) Tj
+ET
+BT
+/F2 7.4 Tf
+58 523.6003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 523.6003 Td
+(Added new malloc syntax) Tj
+ET
+BT
+/F2 8.0 Tf
+42 500.0003 Td
+(75.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 500.0003 Td
+(In C11, what change was made regarding) Tj
+ET
+BT
+/F1 7.8 Tf
+58 490.8003 Td
+(Variable-Length Arrays \(VLAs\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 479.1003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 479.1003 Td
+(Made optional feature) Tj
+ET
+BT
+/F2 7.4 Tf
+58 469.5003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 469.5003 Td
+(Removed from standard) Tj
+ET
+BT
+/F2 7.4 Tf
+58 459.9003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 459.9003 Td
+(Made mandatory everywhere) Tj
+ET
+BT
+/F2 7.4 Tf
+58 450.3003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 450.3003 Td
+(Restricted to char arrays) Tj
+ET
+BT
+/F2 8.0 Tf
+42 426.7003 Td
+(76.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 426.7003 Td
+(What is the optimal algorithm to rotate an N x N) Tj
+ET
+BT
+/F1 7.8 Tf
+58 417.5002 Td
+(matrix by 90 degrees clockwise in-place?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 405.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 405.8002 Td
+(Transpose then reverse rows) Tj
+ET
+BT
+/F2 7.4 Tf
+58 396.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 396.2002 Td
+(Reverse rows then transpose) Tj
+ET
+BT
+/F2 7.4 Tf
+58 386.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 386.6002 Td
+(Rotate four corners iteratively) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.0002 Td
+(Both A and C are valid) Tj
+ET
+BT
+/F2 8.0 Tf
+42 353.4002 Td
+(77.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 353.4002 Td
+(In rotating a matrix 90 degrees clockwise:) Tj
+ET
+BT
+/F1 7.8 Tf
+58 344.2002 Td
+(Transpose matrix, then reverse each row. What is) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.0002 Td
+(complexity?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 323.3002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 323.3002 Td
+(O\(N^2\) time, O\(1\) space) Tj
+ET
+BT
+/F2 7.4 Tf
+58 313.7002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 313.7002 Td
+(O\(N^3\) time) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.1002 Td
+(O\(N^2\) space) Tj
+ET
+BT
+/F2 7.4 Tf
+58 294.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 294.5002 Td
+(O\(N\) time) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(78.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What is the optimal in-place algorithm to rotate) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(an array of size N by K positions to the right?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(Triple reverse algorithm) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(Shift elements one-by-one) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(Allocate secondary array) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(Bubble sort rotation) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(79.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(In the Triple Reverse algorithm to rotate array) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(right by K: what are the 3 steps?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(Reverse all, rev 0..K-1, rev K..N-1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(Rev 0..K, rev K+1..N, rev all) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(Shift K times) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(Swap pairs) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(80.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(What is the time and auxiliary space complexity) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(of the Triple Reverse array rotation?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.5001 Td
+(O\(N\) time, O\(1\) space) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.9001 Td
+(O\(N*K\) time, O\(1\) space) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.3002 Td
+(O\(N\) space) Tj
+ET
+BT
+/F2 7.4 Tf
+322 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 587.7002 Td
+(O\(log N\) time) Tj
+ET
+BT
+/F2 8.0 Tf
+306 564.1002 Td
+(81.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.1002 Td
+(What algorithm finds the contiguous subarray) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(within a 1D array having the largest sum in) Tj
+ET
+BT
+/F1 7.8 Tf
+322 545.7002 Td
+(O\(N\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 534.0002 Td
+(Kadane's Algorithm) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.4002 Td
+(Dijkstra's Algorithm) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.8002 Td
+(Boyer-Moore Voting) Tj
+ET
+BT
+/F2 7.4 Tf
+322 505.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 505.2002 Td
+(Floyd's Cycle Algorithm) Tj
+ET
+BT
+/F2 8.0 Tf
+306 481.6002 Td
+(82.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6002 Td
+(In Kadane's algorithm: max_ending_here =) Tj
+ET
+BT
+/F1 7.8 Tf
+322 472.4002 Td
+(max\(arr[i], max_ending_here + arr[i]\), what is) Tj
+ET
+BT
+/F1 7.8 Tf
+322 463.2002 Td
+(time complexity?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 451.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 451.5002 Td
+(O\(N\) linear time) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.9002 Td
+(O\(N^2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 432.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 432.3002 Td
+(O\(N log N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 422.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 422.7002 Td
+(O\(1\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 399.1002 Td
+(83.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 399.1002 Td
+(What algorithm finds the majority element) Tj
+ET
+BT
+/F1 7.8 Tf
+322 389.9001 Td
+(\(occurring > N/2 times\) in an array in O\(N\) time) Tj
+ET
+BT
+/F1 7.8 Tf
+322 380.7001 Td
+(and O\(1\) space?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 369.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 369.0001 Td
+(Boyer-Moore Voting Algorithm) Tj
+ET
+BT
+/F2 7.4 Tf
+322 359.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 359.4001 Td
+(Binary Search) Tj
+ET
+BT
+/F2 7.4 Tf
+322 349.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 349.8001 Td
+(Quickselect) Tj
+ET
+BT
+/F2 7.4 Tf
+322 340.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 340.2001 Td
+(Counting Sort) Tj
+ET
+BT
+/F2 8.0 Tf
+306 316.6001 Td
+(84.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 316.6001 Td
+(In matrix multiplication C[i][j] += A[i][k] *) Tj
+ET
+BT
+/F1 7.8 Tf
+322 307.4001 Td
+(B[k][j], which loop ordering optimizes CPU cache) Tj
+ET
+BT
+/F1 7.8 Tf
+322 298.2001 Td
+(locality?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 286.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 286.5001 Td
+(i-k-j loop ordering) Tj
+ET
+BT
+/F2 7.4 Tf
+322 276.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 276.9001 Td
+(i-j-k standard ordering) Tj
+ET
+BT
+/F2 7.4 Tf
+322 267.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 267.3 Td
+(j-i-k ordering) Tj
+ET
+BT
+/F2 7.4 Tf
+322 257.7 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 257.7 Td
+(k-j-i ordering) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 16 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+16 0 obj
+<< /Length 8699 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 4: ARRAYS IN C) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 7 of 42) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(85.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Why is i-k-j loop ordering faster than standard) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(i-j-k for large matrix multiplication in C?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(B is accessed row-wise in stride-1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(Eliminates inner loop) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(Uses less RAM) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(Inlines automatically) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(86.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(In bioinformatics, what dynamic programming) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(scoring matrix algorithm performs global DNA) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.3 Td
+(sequence alignment?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.6 Td
+(Needleman-Wunsch Algorithm) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.0001 Td
+(Smith-Waterman Algorithm) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.4001 Td
+(BLAST Algorithm) Tj
+ET
+BT
+/F2 7.4 Tf
+58 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 651.8001 Td
+(Viterbi Algorithm) Tj
+ET
+BT
+/F2 8.0 Tf
+42 628.2001 Td
+(87.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(What dynamic programming algorithm performs) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.0001 Td
+(local sequence alignment in bioinformatics?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 607.3001 Td
+(Smith-Waterman Algorithm) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.7001 Td
+(Needleman-Wunsch Algorithm) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.1002 Td
+(KMP Algorithm) Tj
+ET
+BT
+/F2 7.4 Tf
+58 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 578.5002 Td
+(Aho-Corasick) Tj
+ET
+BT
+/F2 8.0 Tf
+42 554.9002 Td
+(88.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(What are the dimensions of the Needleman-Wunsch) Tj
+ET
+BT
+/F1 7.8 Tf
+58 545.7002 Td
+(DP alignment matrix for sequences of length M) Tj
+ET
+BT
+/F1 7.8 Tf
+58 536.5002 Td
+(and N?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.8002 Td
+(\(M + 1\) x \(N + 1\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 515.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 515.2002 Td
+(M x N) Tj
+ET
+BT
+/F2 7.4 Tf
+58 505.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 505.6002 Td
+(\(M - 1\) x \(N - 1\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 496.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 496.0002 Td
+(2 x \(M + N\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 472.4002 Td
+(89.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 472.4002 Td
+(In Needleman-Wunsch matrix filling, cell F\(i, j\)) Tj
+ET
+BT
+/F1 7.8 Tf
+58 463.2002 Td
+(takes the maximum of how many possible) Tj
+ET
+BT
+/F1 7.8 Tf
+58 454.0002 Td
+(transitions?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 442.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 442.3001 Td
+(3 \(Match/Mismatch, Del, Ins\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 432.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 432.7001 Td
+(2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 423.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 423.1001 Td
+(4) Tj
+ET
+BT
+/F2 7.4 Tf
+58 413.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 413.5001 Td
+(1) Tj
+ET
+BT
+/F2 8.0 Tf
+42 389.9001 Td
+(90.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 389.9001 Td
+(What is the time and space complexity of) Tj
+ET
+BT
+/F1 7.8 Tf
+58 380.7001 Td
+(standard Needleman-Wunsch alignment for) Tj
+ET
+BT
+/F1 7.8 Tf
+58 371.5001 Td
+(sequences of length N?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 359.8001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 359.8001 Td
+(O\(N^2\) time and space) Tj
+ET
+BT
+/F2 7.4 Tf
+58 350.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 350.2001 Td
+(O\(N\) time) Tj
+ET
+BT
+/F2 7.4 Tf
+58 340.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 340.6001 Td
+(O\(N log N\) time) Tj
+ET
+BT
+/F2 7.4 Tf
+58 331.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 331.0001 Td
+(O\(2^N\) time) Tj
+ET
+BT
+/F2 8.0 Tf
+42 307.4001 Td
+(91.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 307.4001 Td
+(How does Hirschberg's algorithm optimize) Tj
+ET
+BT
+/F1 7.8 Tf
+58 298.2 Td
+(Needleman-Wunsch global alignment space) Tj
+ET
+BT
+/F1 7.8 Tf
+58 289 Td
+(complexity?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 277.3 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 277.3 Td
+(Reduces space to O\(N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 267.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 267.7 Td
+(Reduces time to O\(N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 258.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 258.1 Td
+(Eliminates gap penalties) Tj
+ET
+BT
+/F2 7.4 Tf
+58 248.5 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 248.5 Td
+(Sorts sequences first) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(92.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(In an array representing a binary min-heap, for) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(a node at index i \(0-based\), what is the left) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(child index?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(2*i + 1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.3 Td
+(2*i) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.7 Td
+(2*i + 2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.1 Td
+(i / 2) Tj
+ET
+BT
+/F2 8.0 Tf
+306 701.5001 Td
+(93.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(For a node at index i in a 0-based binary heap,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(what is the right child index?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.6 Td
+(2*i + 2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.0001 Td
+(2*i + 1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.4001 Td
+(2*i) Tj
+ET
+BT
+/F2 7.4 Tf
+322 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 651.8001 Td
+(\(i - 1\) / 2) Tj
+ET
+BT
+/F2 8.0 Tf
+306 628.2001 Td
+(94.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(For a node at index i in a 0-based binary heap,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(what is the parent node index?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.3001 Td
+(\(i - 1\) / 2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.7001 Td
+(i / 2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.1002 Td
+(\(i + 1\) / 2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 578.5002 Td
+(2 * i) Tj
+ET
+BT
+/F2 8.0 Tf
+306 554.9002 Td
+(95.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(What algorithm sorts an array of integers with) Tj
+ET
+BT
+/F1 7.8 Tf
+322 545.7002 Td
+(small key range [0..K] in O\(N + K\) linear time?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 534.0002 Td
+(Counting Sort) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.4002 Td
+(Bubble Sort) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.8002 Td
+(Merge Sort) Tj
+ET
+BT
+/F2 7.4 Tf
+322 505.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 505.2002 Td
+(Quick Sort) Tj
+ET
+BT
+/F2 8.0 Tf
+306 481.6002 Td
+(96.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6002 Td
+(Is Counting Sort a comparison-based sorting) Tj
+ET
+BT
+/F1 7.8 Tf
+322 472.4002 Td
+(algorithm?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.7002 Td
+(No \(non-comparison based\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 451.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 451.1002 Td
+(Yes \(compares pairs\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.5002 Td
+(Only for floats) Tj
+ET
+BT
+/F2 7.4 Tf
+322 431.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 431.9002 Td
+(Implementation defined) Tj
+ET
+BT
+/F2 8.0 Tf
+306 408.3002 Td
+(97.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 408.3002 Td
+(What is the theoretical lower bound on time) Tj
+ET
+BT
+/F1 7.8 Tf
+322 399.1002 Td
+(complexity for any comparison-based sorting) Tj
+ET
+BT
+/F1 7.8 Tf
+322 389.9001 Td
+(algorithm?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 378.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 378.2001 Td
+(Omega\(N log N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 368.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 368.6001 Td
+(Omega\(N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 359.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 359.0001 Td
+(Omega\(N^2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 349.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 349.4001 Td
+(Omega\(1\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 325.8001 Td
+(98.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 325.8001 Td
+(Why cannot any comparison-based sorting) Tj
+ET
+BT
+/F1 7.8 Tf
+322 316.6001 Td
+(algorithm beat O\(N log N\) in the worst case?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.9001 Td
+(Decision tree height log2\(N!\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 295.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 295.3001 Td
+(Memory bandwidth limits) Tj
+ET
+BT
+/F2 7.4 Tf
+322 285.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 285.7001 Td
+(Register spill latency) Tj
+ET
+BT
+/F2 7.4 Tf
+322 276.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 276.1001 Td
+(Cache line boundaries) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 18 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+18 0 obj
+<< /Length 1437 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 4: ARRAYS IN C) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 8 of 42) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(99.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What happens when an expression attempts to read) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(arr[-1] in standard ANSI C?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(Undefined behavior \(illegal read\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(Returns 0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(Returns last element) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(Compilation error) Tj
+ET
+BT
+/F2 8.0 Tf
+42 700.7001 Td
+(100.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 700.7001 Td
+(Can a pointer be offset such that ptr[-1] is) Tj
+ET
+BT
+/F1 7.8 Tf
+58 691.5001 Td
+(valid legal code in C?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 679.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 679.8 Td
+(Yes: if ptr = arr + 1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.2001 Td
+(No \(strictly forbidden\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 660.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 660.6001 Td
+(Only in GCC extensions) Tj
+ET
+BT
+/F2 7.4 Tf
+58 651.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 651.0001 Td
+(Only for char arrays) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 20 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+20 0 obj
+<< /Length 4829 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 4: ARRAYS IN C) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 9 of 42) Tj
+ET
+BT
+/F2 10 Tf
+45 780 Td
+(SECTION B: DESCRIPTIVE & SUBJECTIVE QUESTIONS) Tj
+ET
+BT
+/F2 8.5 Tf
+45 760 Td
+(Q1. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 760 Td
+(Explain Array Fundamentals in C, detailing contiguous memory allocation, zero-based indexing, and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 749.5 Td
+(address calculation formulas.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 724.5 Td
+(Q2. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 724.5 Td
+(Detail array initialization techniques in ANSI C, contrasting full initialization, partial) Tj
+ET
+BT
+/F1 8.5 Tf
+72 714 Td
+(initialization, and C99 designated initializers.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 689 Td
+(Q3. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 689 Td
+(Analyze the absence of Array Bounds Checking in C, explaining buffer overflow vulnerabilities and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 678.5 Td
+(defensive bounds validation.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 653.5 Td
+(Q4. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 653.5 Td
+(Explain Multi-Dimensional Arrays in C, detailing 2D row-major layout, memory offset formulas, and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 643 Td
+(matrix transformations.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 618 Td
+(Q5. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 618 Td
+(Write an ANSI C program to perform Matrix Multiplication C = A x B, explaining dimensional) Tj
+ET
+BT
+/F1 8.5 Tf
+72 607.5 Td
+(constraints and cache locality.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 582.5 Td
+(Q6. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 582.5 Td
+(Write an ANSI C program to compute the Transpose of an N x N square matrix in-place without) Tj
+ET
+BT
+/F1 8.5 Tf
+72 572 Td
+(allocating auxiliary memory.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 547 Td
+(Q7. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 547 Td
+(Write an ANSI C program to implement Linear Search and Binary Search on an array, analyzing) Tj
+ET
+BT
+/F1 8.5 Tf
+72 536.5 Td
+(comparative search benchmarks.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 511.5 Td
+(Q8. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 511.5 Td
+(Write an ANSI C program to implement Bubble Sort with an early-termination swap flag optimization,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 501 Td
+(analyzing best and worst cases.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 476 Td
+(Q9. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 476 Td
+(Write an ANSI C program to implement Selection Sort, explaining why it performs exactly N\(N-1\)/2) Tj
+ET
+BT
+/F1 8.5 Tf
+72 465.5 Td
+(comparisons and its instability.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 440.5 Td
+(Q10. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 440.5 Td
+(Write an ANSI C program to implement Insertion Sort, explaining its adaptive nature on nearly) Tj
+ET
+BT
+/F1 8.5 Tf
+72 430 Td
+(sorted arrays and stability.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 405 Td
+(Q11. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 405 Td
+(Write an ANSI C program to calculate mean, variance, and standard deviation of a floating-point) Tj
+ET
+BT
+/F1 8.5 Tf
+72 394.5 Td
+(experimental dataset array.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 369.5 Td
+(Q12. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 369.5 Td
+(Write an ANSI C program to construct a DNA Sequence Dot Plot comparison matrix between two) Tj
+ET
+BT
+/F1 8.5 Tf
+72 359 Td
+(biological sequences.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 334 Td
+(Q13. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 334 Td
+(Write an ANSI C program to remove duplicate elements from an array in-place, comparing unsorted vs) Tj
+ET
+BT
+/F1 8.5 Tf
+72 323.5 Td
+(sorted approaches.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 298.5 Td
+(Q14. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 298.5 Td
+(Write an ANSI C program to verify whether a square matrix is Symmetric, Skew-Symmetric, or) Tj
+ET
+BT
+/F1 8.5 Tf
+72 288 Td
+(Asymmetric.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 263 Td
+(Q15. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 263 Td
+(Explain Kadane's Algorithm for finding the maximum contiguous subarray sum in O\(N\) time with code) Tj
+ET
+BT
+/F1 8.5 Tf
+72 252.5 Td
+(and tracing.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 227.5 Td
+(Q16. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 227.5 Td
+(Write an ANSI C program to rotate an array of size N by K positions to the right using the Triple) Tj
+ET
+BT
+/F1 8.5 Tf
+72 217 Td
+(Reverse Algorithm in O\(N\) time and O\(1\) space.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 192 Td
+(Q17. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 192 Td
+(Explain the Boyer-Moore Majority Voting Algorithm in C, demonstrating O\(N\) time and O\(1\) space) Tj
+ET
+BT
+/F1 8.5 Tf
+72 181.5 Td
+(majority detection.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 156.5 Td
+(Q18. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 156.5 Td
+(Write an ANSI C program to implement Counting Sort on an array of integers within a fixed range,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 146 Td
+(analyzing linear time complexity.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 121 Td
+(Q19. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 121 Td
+(Explain the Needleman-Wunsch algorithm for global DNA sequence alignment using a 2D dynamic) Tj
+ET
+BT
+/F1 8.5 Tf
+72 110.5 Td
+(programming array.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 85.5 Td
+(Q20. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 85.5 Td
+(Write an ANSI C program to compute the Spiral Order Traversal of an M x N 2D matrix.) Tj
+ET
+
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 22 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+22 0 obj
+<< /Length 2250 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 4: ARRAYS IN C) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 10 of 42) Tj
+ET
+BT
+/F2 8.5 Tf
+45 780 Td
+(Q21. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 780 Td
+(Explain Variable-Length Arrays \(VLAs\) in C99, detailing stack allocation, sizeof evaluation, and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 769.5 Td
+(security hazards.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 743.5 Td
+(Q22. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 743.5 Td
+(Write an ANSI C program to rotate an N x N square matrix 90 degrees clockwise in-place.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 707 Td
+(Q23. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 707 Td
+(Write an ANSI C program to merge two pre-sorted integer arrays into a single sorted array in O\(N +) Tj
+ET
+BT
+/F1 8.5 Tf
+72 696.5 Td
+(M\) time.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 670.5 Td
+(Q24. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 670.5 Td
+(Explain passing multidimensional arrays to functions with variable dimensions using C99) Tj
+ET
+BT
+/F1 8.5 Tf
+72 660 Td
+(Variable-Length Array parameters.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 634 Td
+(Q25. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 634 Td
+(Write an ANSI C program to find the second largest element in an array in a single traversal pass) Tj
+ET
+BT
+/F1 8.5 Tf
+72 623.5 Td
+(in O\(N\) time.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 597.5 Td
+(Q26. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 597.5 Td
+(Write an ANSI C program to check whether a given square matrix is an Identity Matrix.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 561 Td
+(Q27. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 561 Td
+(Explain the two-pointer approach for finding a pair of elements in a sorted array that sum to a) Tj
+ET
+BT
+/F1 8.5 Tf
+72 550.5 Td
+(target value S.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 524.5 Td
+(Q28. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 524.5 Td
+(Write an ANSI C program to compute the trace \(sum of main diagonal elements\) of a square matrix.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 488 Td
+(Q29. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 488 Td
+(Explain cache miss penalties during row-major vs column-major array traversals in C with concrete) Tj
+ET
+BT
+/F1 8.5 Tf
+72 477.5 Td
+(timing considerations.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 451.5 Td
+(Q30. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 451.5 Td
+(Write an ANSI C program to sort biological DNA fragments by molecular length using Insertion Sort.) Tj
+ET
+
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 24 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+24 0 obj
+<< /Length 8401 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 4: ARRAYS IN C) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 11 of 42) Tj
+ET
+BT
+/F2 11 Tf
+45 780 Td
+(SECTION C: ANSWER KEY - MULTIPLE CHOICE QUESTIONS) Tj
+ET
+0.5 w
+45 772 m 550 772 l S
+BT
+/F2 8.5 Tf
+45 750 Td
+(Q1: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 734 Td
+(Q2: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 718 Td
+(Q3: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 702 Td
+(Q4: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 686 Td
+(Q5: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 670 Td
+(Q6: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 654 Td
+(Q7: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 638 Td
+(Q8: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 622 Td
+(Q9: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 606 Td
+(Q10: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 590 Td
+(Q11: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 574 Td
+(Q12: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 558 Td
+(Q13: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 542 Td
+(Q14: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 526 Td
+(Q15: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 510 Td
+(Q16: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 494 Td
+(Q17: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 478 Td
+(Q18: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 462 Td
+(Q19: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 446 Td
+(Q20: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 446 Td
+([A]) Tj
+ET
+0.2 w
+135 755 m 135 425 l S
+BT
+/F2 8.5 Tf
+145 750 Td
+(Q21: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 734 Td
+(Q22: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 718 Td
+(Q23: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 702 Td
+(Q24: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 686 Td
+(Q25: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 670 Td
+(Q26: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 654 Td
+(Q27: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 638 Td
+(Q28: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 622 Td
+(Q29: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 606 Td
+(Q30: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 590 Td
+(Q31: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 574 Td
+(Q32: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 558 Td
+(Q33: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 542 Td
+(Q34: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 526 Td
+(Q35: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 510 Td
+(Q36: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 494 Td
+(Q37: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 478 Td
+(Q38: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 462 Td
+(Q39: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 446 Td
+(Q40: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 446 Td
+([A]) Tj
+ET
+0.2 w
+235 755 m 235 425 l S
+BT
+/F2 8.5 Tf
+245 750 Td
+(Q41: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 734 Td
+(Q42: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 718 Td
+(Q43: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 702 Td
+(Q44: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 686 Td
+(Q45: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 670 Td
+(Q46: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 654 Td
+(Q47: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 638 Td
+(Q48: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 622 Td
+(Q49: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 606 Td
+(Q50: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 590 Td
+(Q51: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 574 Td
+(Q52: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 558 Td
+(Q53: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 542 Td
+(Q54: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 526 Td
+(Q55: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 510 Td
+(Q56: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 494 Td
+(Q57: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 478 Td
+(Q58: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 462 Td
+(Q59: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 446 Td
+(Q60: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 446 Td
+([A]) Tj
+ET
+0.2 w
+335 755 m 335 425 l S
+BT
+/F2 8.5 Tf
+345 750 Td
+(Q61: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 734 Td
+(Q62: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 718 Td
+(Q63: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 702 Td
+(Q64: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 686 Td
+(Q65: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 670 Td
+(Q66: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 654 Td
+(Q67: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 638 Td
+(Q68: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 622 Td
+(Q69: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 606 Td
+(Q70: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 590 Td
+(Q71: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 574 Td
+(Q72: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 558 Td
+(Q73: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 542 Td
+(Q74: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 526 Td
+(Q75: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 510 Td
+(Q76: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 510 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 494 Td
+(Q77: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 478 Td
+(Q78: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 462 Td
+(Q79: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 446 Td
+(Q80: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 446 Td
+([A]) Tj
+ET
+0.2 w
+435 755 m 435 425 l S
+BT
+/F2 8.5 Tf
+445 750 Td
+(Q81: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 734 Td
+(Q82: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 718 Td
+(Q83: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 702 Td
+(Q84: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 686 Td
+(Q85: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 670 Td
+(Q86: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 654 Td
+(Q87: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 638 Td
+(Q88: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 622 Td
+(Q89: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 606 Td
+(Q90: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 590 Td
+(Q91: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 574 Td
+(Q92: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 558 Td
+(Q93: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 542 Td
+(Q94: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 526 Td
+(Q95: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 510 Td
+(Q96: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 494 Td
+(Q97: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 478 Td
+(Q98: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 462 Td
+(Q99: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 446 Td
+(Q100: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 446 Td
+([A]) Tj
+ET
+0.5 w
+45 400 m 550 400 l 550 340 l 45 340 l s
+BT
+/F2 9 Tf
+55 382 Td
+(MCQ Scoring Guide & Difficulty Distribution:) Tj
+ET
+BT
+/F1 8.5 Tf
+55 366 Td
+(Questions 1 to 40: Foundational & Conceptual [Easy] | Questions 41 to 75: Analytical & Applied [Moderate]) Tj
+ET
+BT
+/F1 8.5 Tf
+55 350 Td
+(Questions 76 to 100: Complex Numerical & Advanced Problem Solving [Difficult]) Tj
+ET
+
+endstream
+endobj
+25 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 26 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+26 0 obj
+<< /Length 3386 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 4: ARRAYS IN C) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 12 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(SECTION D: DETAILED SOLUTIONS FOR SUBJECTIVE QUESTIONS) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(================================================================================) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 1:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Array Fundamentals in C, detailing contiguous memory allocation, zero-based indexing, and address calculation formulas.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Array Fundamentals and Memory Architecture in C:) Tj
+T*
+(   1. Definition and Physical Properties:) Tj
+T*
+(   - An array is a collection of homogeneous data elements stored in contiguous \(adjacent\)) Tj
+T*
+(   physical memory addresses in RAM.) Tj
+T*
+(   - Homogeneity: Every element has the exact same data type and byte footprint \(e.g., all 4-byte) Tj
+T*
+(   integers or all 8-byte doubles\).) Tj
+T*
+(   - Fixed Size: The array capacity is fixed at declaration time \(except for dynamic heap arrays\).) Tj
+T*
+() Tj
+T*
+(   2. Zero-Based Indexing Mechanics:) Tj
+T*
+(   - In C, arrays are strictly 0-indexed \(indices range from 0 to N-1 for an array of size N\).) Tj
+T*
+(   - Architectural Origin: The array identifier represents the Base Memory Address of the entire) Tj
+T*
+(   structure.) Tj
+T*
+(   - The index 'i' represents the physical displacement \(offset\) from the base address in element) Tj
+T*
+(   units.) Tj
+T*
+(   - Index 0 represents zero displacement: element 0 resides directly at the base address!) Tj
+T*
+() Tj
+T*
+(   3. Memory Address Calculation Formula:) Tj
+T*
+(   Address\(arr[i]\) = BaseAddress + \(i * sizeof\(DataType\)\)) Tj
+T*
+(   - Example Calculation:) Tj
+T*
+(   Given: double gene_scores[100];) Tj
+T*
+(   Let BaseAddress = 0x2000; sizeof\(double\) = 8 bytes.) Tj
+T*
+(   Address of gene_scores[5] = 0x2000 + \(5 * 8\) = 0x2000 + 40 = 0x2028.) Tj
+T*
+(   Constant-Time Access: Because the address is computed via a single multiply-add machine) Tj
+T*
+(   instruction, accessing any arbitrary index arr[i] executes in O\(1\) time!) Tj
+T*
+() Tj
+T*
+(   4. Demonstrative ANSI C Program:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   int dataset[5] = {10, 20, 30, 40, 50};) Tj
+T*
+(   uintptr_t base = \(uintptr_t\)dataset;) Tj
+T*
+() Tj
+T*
+(   printf\("=== Contiguous Memory Layout Inspection ===\\n"\);) Tj
+T*
+(   printf\("Base Address: %p\\n", \(void *\)dataset\);) Tj
+T*
+() Tj
+T*
+(   for \(int i = 0; i < 5; i++\) {) Tj
+T*
+(   uintptr_t actual_addr = \(uintptr_t\)&dataset[i];) Tj
+T*
+(   uintptr_t calculated_addr = base + \(i * sizeof\(int\)\);) Tj
+T*
+(   printf\("Index [%d] -> Val: %2d | Addr: %p | Calculated: 0x%lx | Match: %s\\n",) Tj
+T*
+(   i, dataset[i], \(void *\)&dataset[i], \(unsigned long\)calculated_addr,) Tj
+T*
+(   \(actual_addr == calculated_addr\) ? "YES" : "NO"\);) Tj
+T*
+(   }) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 2:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+ET
+
+endstream
+endobj
+27 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 28 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+28 0 obj
+<< /Length 3251 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 4: ARRAYS IN C) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 13 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   [Problem Statement]: Detail array initialization techniques in ANSI C, contrasting full initialization, partial initialization, and C99 designated initializers.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Array Initialization Techniques in ANSI C:) Tj
+T*
+(   1. Full Static Initialization:) Tj
+T*
+(   - Elements are enclosed within curly braces separated by commas:) Tj
+T*
+(   int prime_factors[5] = {2, 3, 5, 7, 11};) Tj
+T*
+(   - Array Size Inference: If size dimension is omitted, compiler computes size from initializer) Tj
+T*
+(   count:) Tj
+T*
+(   int primes[] = {2, 3, 5, 7, 11}; /* Automatically sized to 5 elements */) Tj
+T*
+() Tj
+T*
+(   2. Partial Initialization and Zero-Fill Guarantee:) Tj
+T*
+(   - If fewer initializers are supplied than the declared capacity:) Tj
+T*
+(   int buffer[10] = {1, 2, 3};) Tj
+T*
+(   - ISO C Guarantee: The remaining unspecified elements are AUTOMATICALLY INITIALIZED TO ZERO!) Tj
+T*
+(   - Idiomatic Zero-Clear:) Tj
+T*
+(   int zero_array[100] = {0}; /* Guaranteed all 100 elements are zeroed */) Tj
+T*
+() Tj
+T*
+(   3. Uninitialized Automatic Arrays Trap:) Tj
+T*
+(   - Declaring int data[50]; inside a function without an initializer leaves memory uninitialized.) Tj
+T*
+(   - Reading data[i] retrieves indeterminate garbage bits leftover from previous stack frames,) Tj
+T*
+(   causing non-deterministic application bugs.) Tj
+T*
+() Tj
+T*
+(   4. C99 Designated Initializers:) Tj
+T*
+(   - Allows explicit initialization of designated array indices in any arbitrary order:) Tj
+T*
+(   int lookup_table[10] = { [2] = 200, [7] = 700, [4] = 400 };) Tj
+T*
+(   - Any indices not explicitly designated are automatically zeroed.) Tj
+T*
+() Tj
+T*
+(   5. Demonstrative ANSI C Program:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   /* 1. Partial initialization with zero-fill */) Tj
+T*
+(   int partial_arr[6] = {10, 20};) Tj
+T*
+(   printf\("Partial array: "\);) Tj
+T*
+(   for \(int i = 0; i < 6; i++\) printf\("%d ", partial_arr[i]\);) Tj
+T*
+(   printf\("\\n"\);) Tj
+T*
+() Tj
+T*
+(   /* 2. C99 Designated initializer */) Tj
+T*
+(   int codon_weights[8] = {[0] = 15, [4] = 95, [7] = 120};) Tj
+T*
+(   printf\("Designated array: "\);) Tj
+T*
+(   for \(int i = 0; i < 8; i++\) printf\("[%d]:%d ", i, codon_weights[i]\);) Tj
+T*
+(   printf\("\\n"\);) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 3:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze the absence of Array Bounds Checking in C, explaining buffer overflow vulnerabilities and defensive bounds validation.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Absence of Array Bounds Checking and Buffer Overflows in C:) Tj
+T*
+(   1. The Architectural Reality:) Tj
+T*
+(   - In languages like Java or Python, accessing an invalid array index throws an) Tj
+T*
+ET
+
+endstream
+endobj
+29 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 30 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+30 0 obj
+<< /Length 3200 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 4: ARRAYS IN C) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 14 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   ArrayIndexOutOfBoundsException.) Tj
+T*
+(   - In ANSI C, THERE IS ZERO RUNTIME ARRAY BOUNDS CHECKING!) Tj
+T*
+(   - Philosophy: C prioritizes maximum hardware execution velocity. Adding runtime boundary checks) Tj
+T*
+(   on every pointer arithmetic instruction incurs heavy CPU branch overhead.) Tj
+T*
+() Tj
+T*
+(   2. Out-of-Bounds Memory Corruption:) Tj
+T*
+(   - When code accesses arr[15] on an array of size 10:) Tj
+T*
+(   Calculated address: Base + 15 * sizeof\(int\).) Tj
+T*
+(   The CPU reads or writes directly to whatever memory resides at that offset!) Tj
+T*
+(   - Stack Buffer Overflow: Overwriting stack memory corrupts adjacent local variables, stack) Tj
+T*
+(   canaries, saved frame pointers \(EBP/RBP\), and the function's Return Address.) Tj
+T*
+(   - Exploitation: Attackers supply oversized inputs that overwrite the return address with the) Tj
+T*
+(   address of malicious shellcode, hijacking control of the process.) Tj
+T*
+() Tj
+T*
+(   3. Complete Demonstration Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   void vulnerable_function\(void\) {) Tj
+T*
+(   int target_variable = 0;) Tj
+T*
+(   int array_buffer[4] = {10, 20, 30, 40};) Tj
+T*
+() Tj
+T*
+(   printf\("Target variable BEFORE overflow: %d\\n", target_variable\);) Tj
+T*
+() Tj
+T*
+(   /* Out-of-bounds write: Writing beyond index 3 */) Tj
+T*
+(   /* On typical stack layouts, index 4 or 5 aliases target_variable! */) Tj
+T*
+(   array_buffer[4] = 9999; /* UNDEFINED BEHAVIOR! */) Tj
+T*
+() Tj
+T*
+(   printf\("Target variable AFTER overflow: %d \(CORRUPTED!\)\\n", target_variable\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   vulnerable_function\(\);) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   4. Defensive Standards:) Tj
+T*
+(   - Always validate indices: if \(index >= 0 && index < ARRAY_SIZE\).) Tj
+T*
+(   - Use compile-time warnings: gcc -Wall -Wextra -Warray-bounds -fsanitize=address.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 4:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Multi-Dimensional Arrays in C, detailing 2D row-major layout, memory offset formulas, and matrix transformations.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Multi-Dimensional Arrays and 2D Row-Major Layout:) Tj
+T*
+(   1. Definition and Conceptualization:) Tj
+T*
+(   - A multi-dimensional array is an 'array of arrays'.) Tj
+T*
+(   - A 2D array int M[ROWS][COLS] represents ROWS individual 1D arrays, each containing COLS) Tj
+T*
+(   elements.) Tj
+T*
+() Tj
+T*
+(   2. Row-Major Ordering in Memory:) Tj
+T*
+(   - Physical computer RAM is strictly 1-dimensional \(linear address space\).) Tj
+T*
+(   - C lays out multidimensional arrays in Row-Major Order:) Tj
+T*
+(   All elements of Row 0 are stored contiguously, followed immediately by all elements of Row 1,) Tj
+T*
+ET
+
+endstream
+endobj
+31 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 32 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+32 0 obj
+<< /Length 2864 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 4: ARRAYS IN C) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 15 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   followed by Row 2, etc.) Tj
+T*
+(   - Contrast with Fortran and MATLAB, which use Column-Major Order.) Tj
+T*
+() Tj
+T*
+(   3. 2D Memory Address Formula:) Tj
+T*
+(   Address\(M[i][j]\) = BaseAddress + \(i * COLS + j\) * sizeof\(ElementType\)) Tj
+T*
+(   - i * COLS: Skips 'i' complete rows of width COLS.) Tj
+T*
+(   - + j: Offsets to the j-th element in the target row.) Tj
+T*
+(   - Notice: The address calculation depends ONLY on the number of COLUMNS, not on the total) Tj
+T*
+(   number of rows! This is why function declarations MUST include the column dimension!) Tj
+T*
+() Tj
+T*
+(   4. Demonstrative ANSI C Program:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   #define ROWS 3) Tj
+T*
+(   #define COLS 4) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   int matrix[ROWS][COLS] = {) Tj
+T*
+(   {11, 12, 13, 14},) Tj
+T*
+(   {21, 22, 23, 24},) Tj
+T*
+(   {31, 32, 33, 34}) Tj
+T*
+(   };) Tj
+T*
+() Tj
+T*
+(   printf\("=== 2D Row-Major Memory Mapping ===\\n"\);) Tj
+T*
+(   for \(int i = 0; i < ROWS; i++\) {) Tj
+T*
+(   for \(int j = 0; j < COLS; j++\) {) Tj
+T*
+(   printf\("M[%d][%d] = %2d at %p\\n", i, j, matrix[i][j], \(void *\)&matrix[i][j]\);) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   /* Demonstrate linear equivalence via single pointer */) Tj
+T*
+(   int *linear_ptr = &matrix[0][0];) Tj
+T*
+(   printf\("\\nAccessing M[2][1] linearly \(offset 2*4 + 1 = 9\): %d\\n", linear_ptr[2 * COLS + 1]\);) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 5:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to perform Matrix Multiplication C = A x B, explaining dimensional constraints and cache locality.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Matrix Multiplication Algorithm and Cache Optimization:) Tj
+T*
+(   1. Mathematical Constraints:) Tj
+T*
+(   - Matrix A has dimension \(M x K\); Matrix B has dimension \(K x N\).) Tj
+T*
+(   - Inner dimensions MUST match \(columns of A == rows of B == K\).) Tj
+T*
+(   - Result matrix C has dimension \(M x N\).) Tj
+T*
+(   - Dot Product Recurrence: C[i][j] = Sum_{k=0}^{K-1} \(A[i][k] * B[k][j]\).) Tj
+T*
+() Tj
+T*
+(   2. Computational Complexity:) Tj
+T*
+(   - Three nested loops: Outer loop i \(M iterations\), middle loop j \(N iterations\), inner loop k) Tj
+T*
+(   \(K iterations\).) Tj
+T*
+(   - Total operations: M * N * K multiplications and additions. For N x N square matrices: O\(N^3\)) Tj
+T*
+(   time complexity.) Tj
+T*
+ET
+
+endstream
+endobj
+33 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 34 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+34 0 obj
+<< /Length 2307 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 4: ARRAYS IN C) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 16 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   3. Cache Locality Consideration:) Tj
+T*
+(   In the standard loop order \(i, j, k\), elements of B[k][j] are accessed with a stride of COLS_B) Tj
+T*
+(   \(column-wise\), causing frequent CPU cache line misses. Reordering loops to \(i, k, j\) accesses) Tj
+T*
+(   both A and B with stride-1 \(row-wise\), accelerating execution by 3x-5x on modern CPUs!) Tj
+T*
+() Tj
+T*
+(   4. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   #define M 2) Tj
+T*
+(   #define K 3) Tj
+T*
+(   #define N 2) Tj
+T*
+() Tj
+T*
+(   void multiply_matrices\(const int A[M][K], const int B[K][N], int C[M][N]\) {) Tj
+T*
+(   /* Initialize product matrix C to zero */) Tj
+T*
+(   for \(int i = 0; i < M; i++\) {) Tj
+T*
+(   for \(int j = 0; j < N; j++\) {) Tj
+T*
+(   C[i][j] = 0;) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   /* Cache-friendly i-k-j loop ordering */) Tj
+T*
+(   for \(int i = 0; i < M; i++\) {) Tj
+T*
+(   for \(int k = 0; k < K; k++\) {) Tj
+T*
+(   int r = A[i][k];) Tj
+T*
+(   for \(int j = 0; j < N; j++\) {) Tj
+T*
+(   C[i][j] += r * B[k][j];) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   int A[M][K] = {{1, 2, 3}, {4, 5, 6}};) Tj
+T*
+(   int B[K][N] = {{7, 8}, {9, 1}, {2, 3}};) Tj
+T*
+(   int C[M][N];) Tj
+T*
+() Tj
+T*
+(   multiply_matrices\(A, B, C\);) Tj
+T*
+() Tj
+T*
+(   printf\("=== Resulting Product Matrix \(2x2\) ===\\n"\);) Tj
+T*
+(   for \(int i = 0; i < M; i++\) {) Tj
+T*
+(   for \(int j = 0; j < N; j++\) {) Tj
+T*
+(   printf\("%6d ", C[i][j]\);) Tj
+T*
+(   }) Tj
+T*
+(   printf\("\\n"\);) Tj
+T*
+(   }) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 6:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to compute the Transpose of an N x N square matrix in-place without allocating auxiliary memory.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+ET
+
+endstream
+endobj
+35 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 36 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+36 0 obj
+<< /Length 2257 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 4: ARRAYS IN C) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 17 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   In-Place Matrix Transposition:) Tj
+T*
+(   1. Mathematical Definition:) Tj
+T*
+(   The transpose of matrix A, denoted A^T, swaps rows and columns:) Tj
+T*
+(   A^T[i][j] = A[j][i].) Tj
+T*
+(   - Main diagonal elements \(where i == j\) remain completely unchanged.) Tj
+T*
+(   - Non-diagonal elements are symmetric reflections across the main diagonal.) Tj
+T*
+() Tj
+T*
+(   2. In-Place Swapping Strategy:) Tj
+T*
+(   - For an N x N square matrix, swapping can be performed in-place using O\(1\) auxiliary space.) Tj
+T*
+(   - Traversal Boundary: Loop 'i' from 0 to N-1, and loop 'j' strictly from \(i + 1\) to N-1) Tj
+T*
+(   \(strictly upper triangle\).) Tj
+T*
+(   - Swap A[i][j] with A[j][i].) Tj
+T*
+(   - Caution: If 'j' loops from 0 to N-1, elements are swapped twice, returning the matrix to its) Tj
+T*
+(   original state!) Tj
+T*
+() Tj
+T*
+(   3. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   #define N 4) Tj
+T*
+() Tj
+T*
+(   void transpose_inplace\(int matrix[N][N]\) {) Tj
+T*
+(   for \(int i = 0; i < N; i++\) {) Tj
+T*
+(   for \(int j = i + 1; j < N; j++\) {) Tj
+T*
+(   /* Swap element across main diagonal */) Tj
+T*
+(   int temp = matrix[i][j];) Tj
+T*
+(   matrix[i][j] = matrix[j][i];) Tj
+T*
+(   matrix[j][i] = temp;) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   void print_square_matrix\(const int matrix[N][N]\) {) Tj
+T*
+(   for \(int i = 0; i < N; i++\) {) Tj
+T*
+(   for \(int j = 0; j < N; j++\) {) Tj
+T*
+(   printf\("%4d ", matrix[i][j]\);) Tj
+T*
+(   }) Tj
+T*
+(   printf\("\\n"\);) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   int M[N][N] = {) Tj
+T*
+(   { 1, 2, 3, 4},) Tj
+T*
+(   { 5, 6, 7, 8},) Tj
+T*
+(   { 9, 10, 11, 12},) Tj
+T*
+(   {13, 14, 15, 16}) Tj
+T*
+(   };) Tj
+T*
+() Tj
+T*
+(   printf\("Original 4x4 Matrix:\\n"\);) Tj
+T*
+(   print_square_matrix\(M\);) Tj
+T*
+() Tj
+T*
+(   transpose_inplace\(M\);) Tj
+T*
+() Tj
+T*
+(   printf\("\\nTransposed Matrix \(In-Place\):\\n"\);) Tj
+T*
+ET
+
+endstream
+endobj
+37 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 38 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+38 0 obj
+<< /Length 2439 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 4: ARRAYS IN C) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 18 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   print_square_matrix\(M\);) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 7:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to implement Linear Search and Binary Search on an array, analyzing comparative search benchmarks.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Linear Search vs Binary Search Implementation and Analysis:) Tj
+T*
+(   1. Linear Search:) Tj
+T*
+(   - Iterates sequentially through each element from index 0 to N-1.) Tj
+T*
+(   - Works on both unsorted and sorted datasets.) Tj
+T*
+(   - Time Complexity: O\(1\) best case, O\(N\) average and worst case.) Tj
+T*
+() Tj
+T*
+(   2. Binary Search:) Tj
+T*
+(   - Operates on pre-sorted arrays via divide-and-conquer.) Tj
+T*
+(   - Compares query target with midpoint element. Halves search space each iteration.) Tj
+T*
+(   - Time Complexity: O\(1\) best case, O\(log N\) worst case.) Tj
+T*
+(   - For N = 1,000,000 items: Linear search takes up to 1,000,000 comparisons; Binary search takes) Tj
+T*
+(   at most 20 comparisons!) Tj
+T*
+() Tj
+T*
+(   3. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   int linear_search\(const int *arr, int size, int target, int *comparisons\) {) Tj
+T*
+(   *comparisons = 0;) Tj
+T*
+(   for \(int i = 0; i < size; i++\) {) Tj
+T*
+(   \(*comparisons\)++;) Tj
+T*
+(   if \(arr[i] == target\) return i;) Tj
+T*
+(   }) Tj
+T*
+(   return -1;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int binary_search\(const int *arr, int size, int target, int *comparisons\) {) Tj
+T*
+(   *comparisons = 0;) Tj
+T*
+(   int low = 0, high = size - 1;) Tj
+T*
+() Tj
+T*
+(   while \(low <= high\) {) Tj
+T*
+(   \(*comparisons\)++;) Tj
+T*
+(   int mid = low + \(high - low\) / 2;) Tj
+T*
+(   if \(arr[mid] == target\) {) Tj
+T*
+(   return mid;) Tj
+T*
+(   } else if \(target < arr[mid]\) {) Tj
+T*
+(   high = mid - 1;) Tj
+T*
+(   } else {) Tj
+T*
+(   low = mid + 1;) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+(   return -1;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+ET
+
+endstream
+endobj
+39 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 40 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+40 0 obj
+<< /Length 2959 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 4: ARRAYS IN C) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 19 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   int dataset[] = {12, 25, 38, 47, 59, 63, 71, 88, 92, 105, 140, 200};) Tj
+T*
+(   int n = sizeof\(dataset\) / sizeof\(dataset[0]\);) Tj
+T*
+(   int query = 92;) Tj
+T*
+(   int comp_lin = 0, comp_bin = 0;) Tj
+T*
+() Tj
+T*
+(   int idx_lin = linear_search\(dataset, n, query, &comp_lin\);) Tj
+T*
+(   int idx_bin = binary_search\(dataset, n, query, &comp_bin\);) Tj
+T*
+() Tj
+T*
+(   printf\("=== Search Algorithm Benchmark for Target %d ===\\n", query\);) Tj
+T*
+(   printf\("Linear Search: Index = %2d | Comparisons Made: %2d\\n", idx_lin, comp_lin\);) Tj
+T*
+(   printf\("Binary Search: Index = %2d | Comparisons Made: %2d\\n", idx_bin, comp_bin\);) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 8:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to implement Bubble Sort with an early-termination swap flag optimization, analyzing best and worst cases.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Bubble Sort with Early-Termination Flag Optimization:) Tj
+T*
+(   1. Algorithmic Principle:) Tj
+T*
+(   - Passes through the array repeatedly, comparing adjacent pairs \(arr[j], arr[j+1]\).) Tj
+T*
+(   - If arr[j] > arr[j+1], they are swapped.) Tj
+T*
+(   - After pass 'i', the largest remaining unsorted element 'bubbles up' to its correct position) Tj
+T*
+(   \(N - 1 - i\).) Tj
+T*
+() Tj
+T*
+(   2. Early Termination Flag Optimization:) Tj
+T*
+(   - Problem: Standard bubble sort continues executing all N*\(N-1\)/2 comparisons even if the array) Tj
+T*
+(   becomes fully sorted early!) Tj
+T*
+(   - Solution: Introduce a boolean flag 'swapped'. Set swapped = false before each pass.) Tj
+T*
+(   - If any swap occurs, set swapped = true.) Tj
+T*
+(   - If a complete pass finishes without a single swap, THE ARRAY IS PROVABLY SORTED! Break out of) Tj
+T*
+(   loop immediately!) Tj
+T*
+(   - Best-Case Time Complexity: Reduces from O\(N^2\) to O\(N\) linear time on already sorted data.) Tj
+T*
+() Tj
+T*
+(   3. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <stdbool.h>) Tj
+T*
+() Tj
+T*
+(   void bubble_sort_optimized\(int *arr, int n, int *total_passes\) {) Tj
+T*
+(   *total_passes = 0;) Tj
+T*
+(   for \(int i = 0; i < n - 1; i++\) {) Tj
+T*
+(   bool swapped = false;) Tj
+T*
+(   \(*total_passes\)++;) Tj
+T*
+() Tj
+T*
+(   for \(int j = 0; j < n - 1 - i; j++\) {) Tj
+T*
+(   if \(arr[j] > arr[j + 1]\) {) Tj
+T*
+(   int temp = arr[j];) Tj
+T*
+(   arr[j] = arr[j + 1];) Tj
+T*
+(   arr[j + 1] = temp;) Tj
+T*
+(   swapped = true;) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+ET
+
+endstream
+endobj
+41 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 42 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+42 0 obj
+<< /Length 2792 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 4: ARRAYS IN C) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 20 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   /* If no swaps occurred, terminate early */) Tj
+T*
+(   if \(!swapped\) break;) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   void print_arr\(const int *arr, int n\) {) Tj
+T*
+(   for \(int i = 0; i < n; i++\) printf\("%d ", arr[i]\);) Tj
+T*
+(   printf\("\\n"\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   int data[] = {64, 34, 25, 12, 22, 11, 90};) Tj
+T*
+(   int n = sizeof\(data\) / sizeof\(data[0]\);) Tj
+T*
+(   int passes = 0;) Tj
+T*
+() Tj
+T*
+(   printf\("Unsorted Array: "\);) Tj
+T*
+(   print_arr\(data, n\);) Tj
+T*
+() Tj
+T*
+(   bubble_sort_optimized\(data, n, &passes\);) Tj
+T*
+() Tj
+T*
+(   printf\("Sorted Array: "\);) Tj
+T*
+(   print_arr\(data, n\);) Tj
+T*
+(   printf\("Total Passes Required: %d of %d maximum\\n", passes, n - 1\);) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 9:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to implement Selection Sort, explaining why it performs exactly N\(N-1\)/2 comparisons and its instability.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Selection Sort: Mechanics, Complexity, and Instability:) Tj
+T*
+(   1. Algorithmic Principle:) Tj
+T*
+(   - Divides array into two subarrays: sorted prefix \(left\) and unsorted suffix \(right\).) Tj
+T*
+(   - In each pass 'i', find the minimum element in unsorted suffix arr[i...N-1].) Tj
+T*
+(   - Swap this minimum element with arr[i], expanding the sorted prefix by one element.) Tj
+T*
+() Tj
+T*
+(   2. Fixed Number of Comparisons:) Tj
+T*
+(   - Pass 1: \(N - 1\) comparisons.) Tj
+T*
+(   - Pass 2: \(N - 2\) comparisons.) Tj
+T*
+(   - Pass N-1: 1 comparison.) Tj
+T*
+(   - Total Comparisons: \(N - 1\) + \(N - 2\) + ... + 1 = N * \(N - 1\) / 2.) Tj
+T*
+(   - Regardless of whether the input is sorted, reverse-sorted, or random, Selection Sort ALWAYS) Tj
+T*
+(   performs exactly N\(N-1\)/2 comparisons \(O\(N^2\) in all cases\).) Tj
+T*
+(   - Advantage: Makes at most \(N - 1\) memory swaps \(minimal write operations, valuable for flash) Tj
+T*
+(   memory\).) Tj
+T*
+() Tj
+T*
+(   3. Cause of Instability:) Tj
+T*
+(   - Consider sorting pairs [4a, 4b, 2]:) Tj
+T*
+(   Minimum is 2 at index 2. Swapping 2 with arr[0] \(4a\) yields: [2, 4b, 4a].) Tj
+T*
+(   Notice 4b now precedes 4a! The relative order of equal elements was corrupted, making Selection) Tj
+T*
+(   Sort UNSTABLE!) Tj
+T*
+ET
+
+endstream
+endobj
+43 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 44 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+44 0 obj
+<< /Length 2700 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 4: ARRAYS IN C) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 21 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   4. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   void selection_sort\(int *arr, int n\) {) Tj
+T*
+(   for \(int i = 0; i < n - 1; i++\) {) Tj
+T*
+(   int min_idx = i;) Tj
+T*
+(   for \(int j = i + 1; j < n; j++\) {) Tj
+T*
+(   if \(arr[j] < arr[min_idx]\) {) Tj
+T*
+(   min_idx = j;) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+(   if \(min_idx != i\) {) Tj
+T*
+(   int temp = arr[i];) Tj
+T*
+(   arr[i] = arr[min_idx];) Tj
+T*
+(   arr[min_idx] = temp;) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   int gene_sizes[] = {540, 120, 890, 320, 210, 750};) Tj
+T*
+(   int n = sizeof\(gene_sizes\) / sizeof\(gene_sizes[0]\);) Tj
+T*
+() Tj
+T*
+(   selection_sort\(gene_sizes, n\);) Tj
+T*
+() Tj
+T*
+(   printf\("Sorted Gene Sizes \(bp\): "\);) Tj
+T*
+(   for \(int i = 0; i < n; i++\) printf\("%d ", gene_sizes[i]\);) Tj
+T*
+(   printf\("\\n"\);) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 10:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to implement Insertion Sort, explaining its adaptive nature on nearly sorted arrays and stability.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Insertion Sort: Adaptive Sorting and Stability:) Tj
+T*
+(   1. Algorithmic Principle:) Tj
+T*
+(   - Operates identically to sorting playing cards in hand.) Tj
+T*
+(   - Array is divided into sorted partition arr[0...i-1] and unsorted partition arr[i...N-1].) Tj
+T*
+(   - Element 'key = arr[i]' is extracted and compared backward with elements in the sorted) Tj
+T*
+(   partition.) Tj
+T*
+(   - Elements greater than 'key' are shifted one position to the right.) Tj
+T*
+(   - 'key' is inserted into its proper vacated position.) Tj
+T*
+() Tj
+T*
+(   2. Adaptive Nature and Stability:) Tj
+T*
+(   - Adaptive: If the array is already sorted, the inner while loop terminates on the very first) Tj
+T*
+(   comparison \(arr[j] > key is false\).) Tj
+T*
+(   Best-case time complexity is O\(N\) linear time!) Tj
+T*
+(   Highly efficient for nearly-sorted datasets or appending small elements to sorted arrays.) Tj
+T*
+(   - Strictly Stable: Since elements are shifted only when strictly greater \(arr[j] > key\), equal) Tj
+T*
+(   elements maintain their relative positions.) Tj
+T*
+ET
+
+endstream
+endobj
+45 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 46 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+46 0 obj
+<< /Length 2605 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 4: ARRAYS IN C) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 22 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   3. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   void insertion_sort\(int *arr, int n\) {) Tj
+T*
+(   for \(int i = 1; i < n; i++\) {) Tj
+T*
+(   int key = arr[i];) Tj
+T*
+(   int j = i - 1;) Tj
+T*
+() Tj
+T*
+(   /* Shift elements greater than key to the right */) Tj
+T*
+(   while \(j >= 0 && arr[j] > key\) {) Tj
+T*
+(   arr[j + 1] = arr[j];) Tj
+T*
+(   j--;) Tj
+T*
+(   }) Tj
+T*
+(   arr[j + 1] = key; /* Place key into insertion slot */) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   int fragment_lengths[] = {45, 12, 85, 32, 89, 39, 69, 22};) Tj
+T*
+(   int n = sizeof\(fragment_lengths\) / sizeof\(fragment_lengths[0]\);) Tj
+T*
+() Tj
+T*
+(   insertion_sort\(fragment_lengths, n\);) Tj
+T*
+() Tj
+T*
+(   printf\("Sorted Fragment Lengths: "\);) Tj
+T*
+(   for \(int i = 0; i < n; i++\) printf\("%d ", fragment_lengths[i]\);) Tj
+T*
+(   printf\("\\n"\);) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 11:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to calculate mean, variance, and standard deviation of a floating-point experimental dataset array.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Statistical Analysis of Biological Experimental Datasets:) Tj
+T*
+(   1. Mathematical Formulations:) Tj
+T*
+(   Given N observations x[0], x[1], ..., x[N-1]:) Tj
+T*
+(   - Mean \(mu\): \(1 / N\) * Sum_{i=0}^{N-1} x[i]) Tj
+T*
+(   - Sample Variance \(s^2\): \(1 / \(N - 1\)\) * Sum_{i=0}^{N-1} \(x[i] - mu\)^2 [Bessel's correction]) Tj
+T*
+(   - Standard Deviation \(s\): sqrt\(Sample Variance\)) Tj
+T*
+() Tj
+T*
+(   2. Two-Pass Numerical Stability:) Tj
+T*
+(   A single-pass naive formula \(Sum\(x^2\) - \(Sum\(x\)^2\)/N\) suffers from catastrophic cancellation in) Tj
+T*
+(   floating-point arithmetic. A two-pass approach computing mean first is numerically stable.) Tj
+T*
+() Tj
+T*
+(   3. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <math.h>) Tj
+T*
+() Tj
+T*
+(   void compute_dataset_statistics\(const double *data, int n, double *mean, double *variance,) Tj
+T*
+(   double *std_dev\) {) Tj
+T*
+(   if \(n <= 1\) {) Tj
+T*
+ET
+
+endstream
+endobj
+47 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 48 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+48 0 obj
+<< /Length 2745 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 4: ARRAYS IN C) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 23 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   *mean = \(n == 1\) ? data[0] : 0.0;) Tj
+T*
+(   *variance = 0.0;) Tj
+T*
+(   *std_dev = 0.0;) Tj
+T*
+(   return;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   /* Pass 1: Compute Arithmetic Mean */) Tj
+T*
+(   double sum = 0.0;) Tj
+T*
+(   for \(int i = 0; i < n; i++\) {) Tj
+T*
+(   sum += data[i];) Tj
+T*
+(   }) Tj
+T*
+(   *mean = sum / \(double\)n;) Tj
+T*
+() Tj
+T*
+(   /* Pass 2: Compute Sum of Squared Differences */) Tj
+T*
+(   double sum_sq_diff = 0.0;) Tj
+T*
+(   for \(int i = 0; i < n; i++\) {) Tj
+T*
+(   double diff = data[i] - *mean;) Tj
+T*
+(   sum_sq_diff += \(diff * diff\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   *variance = sum_sq_diff / \(double\)\(n - 1\); /* Bessel's correction */) Tj
+T*
+(   *std_dev = sqrt\(*variance\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   double protein_concentrations[] = {12.4, 14.2, 11.8, 13.5, 12.9, 15.1, 13.8};) Tj
+T*
+(   int n = sizeof\(protein_concentrations\) / sizeof\(protein_concentrations[0]\);) Tj
+T*
+() Tj
+T*
+(   double m, v, s;) Tj
+T*
+(   compute_dataset_statistics\(protein_concentrations, n, &m, &v, &s\);) Tj
+T*
+() Tj
+T*
+(   printf\("=== Experimental Protein Assay Statistics ===\\n"\);) Tj
+T*
+(   printf\("Sample Size \(N\): %d\\n", n\);) Tj
+T*
+(   printf\("Arithmetic Mean: %8.4f ug/mL\\n", m\);) Tj
+T*
+(   printf\("Sample Variance: %8.4f\\n", v\);) Tj
+T*
+(   printf\("Standard Deviation \(s\): %8.4f ug/mL\\n", s\);) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 12:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to construct a DNA Sequence Dot Plot comparison matrix between two biological sequences.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   DNA Dot Plot Comparison Matrix Generator:) Tj
+T*
+(   1. Biological Application:) Tj
+T*
+(   A Dot Plot is a graphical bioinformatics tool used to visualize sequence homology, insertions,) Tj
+T*
+(   deletions, and repetitive regions between two genetic sequences.) Tj
+T*
+(   - Sequence 1 is aligned along the rows \(vertical axis\).) Tj
+T*
+(   - Sequence 2 is aligned along the columns \(horizontal axis\).) Tj
+T*
+(   - If nucleotide seq1[i] matches seq2[j], the cell \(i, j\) is marked with a dot \('*'\); otherwise) Tj
+T*
+(   a blank space \(' '\).) Tj
+T*
+(   - Continuous diagonal lines represent contiguous matching alignments.) Tj
+T*
+ET
+
+endstream
+endobj
+49 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 50 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+50 0 obj
+<< /Length 2291 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 4: ARRAYS IN C) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 24 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   2. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <string.h>) Tj
+T*
+(   #include <ctype.h>) Tj
+T*
+() Tj
+T*
+(   #define MAX_SEQ 20) Tj
+T*
+() Tj
+T*
+(   void generate_dot_plot\(const char *seq1, const char *seq2\) {) Tj
+T*
+(   int len1 = strlen\(seq1\);) Tj
+T*
+(   int len2 = strlen\(seq2\);) Tj
+T*
+() Tj
+T*
+(   printf\("=== 2D DNA Sequence Alignment Dot Plot ===\\n\\n "\);) Tj
+T*
+(   /* Print horizontal header */) Tj
+T*
+(   for \(int j = 0; j < len2; j++\) {) Tj
+T*
+(   printf\(" %c", seq2[j]\);) Tj
+T*
+(   }) Tj
+T*
+(   printf\("\\n +"\);) Tj
+T*
+(   for \(int j = 0; j < len2; j++\) printf\("--"\);) Tj
+T*
+(   printf\("\\n"\);) Tj
+T*
+() Tj
+T*
+(   /* Matrix row iteration */) Tj
+T*
+(   for \(int i = 0; i < len1; i++\) {) Tj
+T*
+(   printf\(" %c |", seq1[i]\);) Tj
+T*
+(   for \(int j = 0; j < len2; j++\) {) Tj
+T*
+(   if \(toupper\(\(unsigned char\)seq1[i]\) == toupper\(\(unsigned char\)seq2[j]\)\) {) Tj
+T*
+(   printf\(" *"\);) Tj
+T*
+(   } else {) Tj
+T*
+(   printf\(" ."\);) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+(   printf\("\\n"\);) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   const char *geneA = "ATGCGATCG";) Tj
+T*
+(   const char *geneB = "ATCCGATCG";) Tj
+T*
+() Tj
+T*
+(   generate_dot_plot\(geneA, geneB\);) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 13:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to remove duplicate elements from an array in-place, comparing unsorted vs sorted approaches.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   In-Place Duplicate Removal from Arrays:) Tj
+T*
+(   1. Unsorted Array Approach:) Tj
+T*
+(   - Requires nested loops: for each element, scan all subsequent elements and shift left upon) Tj
+T*
+(   finding duplicates.) Tj
+T*
+(   - Time Complexity: O\(N^2\) quadratic time.) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+51 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 52 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+52 0 obj
+<< /Length 2766 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 4: ARRAYS IN C) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 25 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   2. Sorted Array Two-Pointer Approach:) Tj
+T*
+(   - Sort array first \(or assume sorted input\).) Tj
+T*
+(   - Two Pointers: 'write_idx' tracks the boundary of unique elements; 'read_idx' traverses the) Tj
+T*
+(   array.) Tj
+T*
+(   - Since identical elements are grouped together, simply check if arr[read_idx] !=) Tj
+T*
+(   arr[write_idx]:) Tj
+T*
+(   If true: increment write_idx and copy arr[read_idx] to arr[write_idx].) Tj
+T*
+(   - Time Complexity: O\(N\) linear time; O\(1\) auxiliary space!) Tj
+T*
+() Tj
+T*
+(   3. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   int remove_duplicates_sorted\(int *arr, int n\) {) Tj
+T*
+(   if \(n <= 1\) return n;) Tj
+T*
+() Tj
+T*
+(   int write_idx = 0;) Tj
+T*
+(   for \(int read_idx = 1; read_idx < n; read_idx++\) {) Tj
+T*
+(   if \(arr[read_idx] != arr[write_idx]\) {) Tj
+T*
+(   write_idx++;) Tj
+T*
+(   arr[write_idx] = arr[read_idx];) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+(   return write_idx + 1; /* Return length of unique prefix */) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   int sorted_codons[] = {10, 10, 20, 30, 30, 30, 40, 50, 50, 60};) Tj
+T*
+(   int n = sizeof\(sorted_codons\) / sizeof\(sorted_codons[0]\);) Tj
+T*
+() Tj
+T*
+(   printf\("Original Sorted Array \(%d elements\):\\n", n\);) Tj
+T*
+(   for \(int i = 0; i < n; i++\) printf\("%d ", sorted_codons[i]\);) Tj
+T*
+(   printf\("\\n"\);) Tj
+T*
+() Tj
+T*
+(   int unique_count = remove_duplicates_sorted\(sorted_codons, n\);) Tj
+T*
+() Tj
+T*
+(   printf\("Array after in-place deduplication \(%d unique elements\):\\n", unique_count\);) Tj
+T*
+(   for \(int i = 0; i < unique_count; i++\) printf\("%d ", sorted_codons[i]\);) Tj
+T*
+(   printf\("\\n"\);) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 14:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to verify whether a square matrix is Symmetric, Skew-Symmetric, or Asymmetric.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Matrix Symmetry Classification in C:) Tj
+T*
+(   1. Definitions:) Tj
+T*
+(   For square matrix M of dimension N x N:) Tj
+T*
+(   - Symmetric: M[i][j] == M[j][i] for all i, j.) Tj
+T*
+(   - Skew-Symmetric: M[i][j] == -M[j][i] for all i, j, AND all main diagonal elements M[i][i] ==) Tj
+T*
+(   0.) Tj
+T*
+(   - Asymmetric: Satisfies neither condition.) Tj
+T*
+ET
+
+endstream
+endobj
+53 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 54 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+54 0 obj
+<< /Length 1999 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 4: ARRAYS IN C) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 26 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   2. Algorithmic Optimization:) Tj
+T*
+(   Only need to inspect elements where j > i \(strictly upper triangle\) and verify main diagonal) Tj
+T*
+(   zeros for skew-symmetry.) Tj
+T*
+() Tj
+T*
+(   3. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <stdbool.h>) Tj
+T*
+() Tj
+T*
+(   #define N 3) Tj
+T*
+() Tj
+T*
+(   void classify_matrix_symmetry\(const int M[N][N]\) {) Tj
+T*
+(   bool is_sym = true;) Tj
+T*
+(   bool is_skew = true;) Tj
+T*
+() Tj
+T*
+(   /* Check main diagonal zeros for skew symmetry */) Tj
+T*
+(   for \(int i = 0; i < N; i++\) {) Tj
+T*
+(   if \(M[i][i] != 0\) {) Tj
+T*
+(   is_skew = false;) Tj
+T*
+(   break;) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   /* Check non-diagonal reflections */) Tj
+T*
+(   for \(int i = 0; i < N; i++\) {) Tj
+T*
+(   for \(int j = i + 1; j < N; j++\) {) Tj
+T*
+(   if \(M[i][j] != M[j][i]\) {) Tj
+T*
+(   is_sym = false;) Tj
+T*
+(   }) Tj
+T*
+(   if \(M[i][j] != -M[j][i]\) {) Tj
+T*
+(   is_skew = false;) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   if \(is_sym\) {) Tj
+T*
+(   printf\("Matrix is SYMMETRIC \(M = M^T\)\\n"\);) Tj
+T*
+(   } else if \(is_skew\) {) Tj
+T*
+(   printf\("Matrix is SKEW-SYMMETRIC \(M = -M^T\)\\n"\);) Tj
+T*
+(   } else {) Tj
+T*
+(   printf\("Matrix is ASYMMETRIC\\n"\);) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   int sym_mat[N][N] = {{1, 7, 3}, {7, 4, -5}, {3, -5, 6}};) Tj
+T*
+(   int skew_mat[N][N] = {{0, 2, -5}, {-2, 0, 4}, {5, -4, 0}};) Tj
+T*
+() Tj
+T*
+(   printf\("Testing Matrix 1:\\n"\);) Tj
+T*
+(   classify_matrix_symmetry\(sym_mat\);) Tj
+T*
+() Tj
+T*
+(   printf\("Testing Matrix 2:\\n"\);) Tj
+T*
+(   classify_matrix_symmetry\(skew_mat\);) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+55 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 56 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+56 0 obj
+<< /Length 2523 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 4: ARRAYS IN C) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 27 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 15:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Kadane's Algorithm for finding the maximum contiguous subarray sum in O\(N\) time with code and tracing.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Kadane's Algorithm for Maximum Subarray Sum:) Tj
+T*
+(   1. Problem Statement:) Tj
+T*
+(   Given an array of integers containing positive and negative values, find the contiguous) Tj
+T*
+(   subarray having the maximum possible sum.) Tj
+T*
+(   Brute-force approach tests all O\(N^2\) subarrays.) Tj
+T*
+(   Kadane's algorithm solves it in a single pass: O\(N\) time and O\(1\) space!) Tj
+T*
+() Tj
+T*
+(   2. Dynamic Programming Logic:) Tj
+T*
+(   At each index 'i', we decide whether to:) Tj
+T*
+(   a. Extend the existing contiguous subarray: max_ending_here + arr[i]) Tj
+T*
+(   b. Start a brand new subarray beginning at arr[i]: arr[i]) Tj
+T*
+(   Recurrence:) Tj
+T*
+(   max_ending_here = max\(arr[i], max_ending_here + arr[i]\)) Tj
+T*
+(   max_so_far = max\(max_so_far, max_ending_here\)) Tj
+T*
+() Tj
+T*
+(   3. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   int kadane_max_subarray\(const int *arr, int n, int *start_idx, int *end_idx\) {) Tj
+T*
+(   int max_so_far = arr[0];) Tj
+T*
+(   int max_ending_here = arr[0];) Tj
+T*
+(   int s = 0;) Tj
+T*
+(   *start_idx = 0;) Tj
+T*
+(   *end_idx = 0;) Tj
+T*
+() Tj
+T*
+(   for \(int i = 1; i < n; i++\) {) Tj
+T*
+(   if \(arr[i] > max_ending_here + arr[i]\) {) Tj
+T*
+(   max_ending_here = arr[i];) Tj
+T*
+(   s = i; /* Reset start index */) Tj
+T*
+(   } else {) Tj
+T*
+(   max_ending_here += arr[i];) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   if \(max_ending_here > max_so_far\) {) Tj
+T*
+(   max_so_far = max_ending_here;) Tj
+T*
+(   *start_idx = s;) Tj
+T*
+(   *end_idx = i;) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+(   return max_so_far;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   int hydro_scores[] = {-2, 1, -3, 4, -1, 2, 1, -5, 4};) Tj
+T*
+(   int n = sizeof\(hydro_scores\) / sizeof\(hydro_scores[0]\);) Tj
+T*
+(   int start = 0, end = 0;) Tj
+T*
+ET
+
+endstream
+endobj
+57 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 58 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+58 0 obj
+<< /Length 2618 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 4: ARRAYS IN C) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 28 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   int max_sum = kadane_max_subarray\(hydro_scores, n, &start, &end\);) Tj
+T*
+() Tj
+T*
+(   printf\("=== Maximum Subarray \(Hydrophobicity Cluster\) ===\\n"\);) Tj
+T*
+(   printf\("Maximum Contiguous Sum: %d\\n", max_sum\);) Tj
+T*
+(   printf\("Subarray Range: indices [%d to %d]\\n", start, end\);) Tj
+T*
+(   printf\("Elements: "\);) Tj
+T*
+(   for \(int i = start; i <= end; i++\) printf\("%d ", hydro_scores[i]\);) Tj
+T*
+(   printf\("\\n"\);) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 16:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to rotate an array of size N by K positions to the right using the Triple Reverse Algorithm in O\(N\) time and O\(1\) space.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Array Rotation via the Triple Reverse Algorithm:) Tj
+T*
+(   1. Problem:) Tj
+T*
+(   Rotate an array of N elements to the right by K positions.) Tj
+T*
+(   Example: [1, 2, 3, 4, 5, 6, 7] rotated right by K=3 becomes [5, 6, 7, 1, 2, 3, 4].) Tj
+T*
+() Tj
+T*
+(   2. The Triple Reverse Invariant:) Tj
+T*
+(   First normalize K: K = K % N.) Tj
+T*
+(   Step 1: Reverse the entire array [0...N-1].) Tj
+T*
+(   [1, 2, 3, 4, 5, 6, 7] -> [7, 6, 5, 4, 3, 2, 1]) Tj
+T*
+(   Step 2: Reverse the first K elements [0...K-1].) Tj
+T*
+(   [7, 6, 5] -> [5, 6, 7]) Tj
+T*
+(   Step 3: Reverse the remaining \(N - K\) elements [K...N-1].) Tj
+T*
+(   [4, 3, 2, 1] -> [1, 2, 3, 4]) Tj
+T*
+(   Result: [5, 6, 7, 1, 2, 3, 4]!) Tj
+T*
+(   Time Complexity: Exactly O\(N\) comparisons and swaps. Auxiliary Space: O\(1\) constant.) Tj
+T*
+() Tj
+T*
+(   3. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   void reverse_subarr\(int *arr, int start, int end\) {) Tj
+T*
+(   while \(start < end\) {) Tj
+T*
+(   int temp = arr[start];) Tj
+T*
+(   arr[start] = arr[end];) Tj
+T*
+(   arr[end] = temp;) Tj
+T*
+(   start++;) Tj
+T*
+(   end--;) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   void rotate_array_right\(int *arr, int n, int k\) {) Tj
+T*
+(   if \(n <= 1\) return;) Tj
+T*
+(   k = k % n;) Tj
+T*
+(   if \(k == 0\) return;) Tj
+T*
+() Tj
+T*
+(   /* 1. Reverse entire array */) Tj
+T*
+(   reverse_subarr\(arr, 0, n - 1\);) Tj
+T*
+ET
+
+endstream
+endobj
+59 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 60 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+60 0 obj
+<< /Length 2601 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 4: ARRAYS IN C) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 29 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   /* 2. Reverse first k elements */) Tj
+T*
+(   reverse_subarr\(arr, 0, k - 1\);) Tj
+T*
+(   /* 3. Reverse remaining n-k elements */) Tj
+T*
+(   reverse_subarr\(arr, k, n - 1\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   int arr[] = {1, 2, 3, 4, 5, 6, 7};) Tj
+T*
+(   int n = sizeof\(arr\) / sizeof\(arr[0]\);) Tj
+T*
+(   int k = 3;) Tj
+T*
+() Tj
+T*
+(   rotate_array_right\(arr, n, k\);) Tj
+T*
+() Tj
+T*
+(   printf\("Rotated Array \(right by %d\): ", k\);) Tj
+T*
+(   for \(int i = 0; i < n; i++\) printf\("%d ", arr[i]\);) Tj
+T*
+(   printf\("\\n"\);) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 17:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the Boyer-Moore Majority Voting Algorithm in C, demonstrating O\(N\) time and O\(1\) space majority detection.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Boyer-Moore Majority Voting Algorithm:) Tj
+T*
+(   1. Definition:) Tj
+T*
+(   A majority element in an array of size N is an element that appears strictly more than N/2) Tj
+T*
+(   times.) Tj
+T*
+() Tj
+T*
+(   2. Algorithmic Principle:) Tj
+T*
+(   - Maintains a 'candidate' element and a 'counter'.) Tj
+T*
+(   - If counter == 0, pick current element as candidate and set counter = 1.) Tj
+T*
+(   - If current element matches candidate, increment counter \(counter++\).) Tj
+T*
+(   - If current element differs from candidate, decrement counter \(counter--\).) Tj
+T*
+(   - Core Intuition: Different elements cancel each other out. If a majority element exists \(>) Tj
+T*
+(   N/2\), its instances will outlast all other elements combined!) Tj
+T*
+(   - Verification Pass: Make a second pass to confirm candidate count > N/2.) Tj
+T*
+() Tj
+T*
+(   3. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   int find_majority_element\(const int *arr, int n\) {) Tj
+T*
+(   /* Pass 1: Find candidate */) Tj
+T*
+(   int candidate = arr[0];) Tj
+T*
+(   int count = 1;) Tj
+T*
+() Tj
+T*
+(   for \(int i = 1; i < n; i++\) {) Tj
+T*
+(   if \(count == 0\) {) Tj
+T*
+(   candidate = arr[i];) Tj
+T*
+(   count = 1;) Tj
+T*
+(   } else if \(arr[i] == candidate\) {) Tj
+T*
+(   count++;) Tj
+T*
+(   } else {) Tj
+T*
+ET
+
+endstream
+endobj
+61 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 62 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+62 0 obj
+<< /Length 2676 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 4: ARRAYS IN C) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 30 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   count--;) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   /* Pass 2: Verify candidate */) Tj
+T*
+(   int occurrences = 0;) Tj
+T*
+(   for \(int i = 0; i < n; i++\) {) Tj
+T*
+(   if \(arr[i] == candidate\) occurrences++;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   if \(occurrences > n / 2\) return candidate;) Tj
+T*
+(   return -1; /* No majority element exists */) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   int sample_cluster[] = {2, 2, 1, 1, 2, 2, 2};) Tj
+T*
+(   int n = sizeof\(sample_cluster\) / sizeof\(sample_cluster[0]\);) Tj
+T*
+() Tj
+T*
+(   int maj = find_majority_element\(sample_cluster, n\);) Tj
+T*
+(   if \(maj != -1\) {) Tj
+T*
+(   printf\("Dominant Genetic Cluster: %d \(verified > %d elements\)\\n", maj, n / 2\);) Tj
+T*
+(   } else {) Tj
+T*
+(   printf\("No majority cluster detected.\\n"\);) Tj
+T*
+(   }) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 18:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to implement Counting Sort on an array of integers within a fixed range, analyzing linear time complexity.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Counting Sort Algorithm:) Tj
+T*
+(   1. Operational Mechanism:) Tj
+T*
+(   Counting Sort is a non-comparison based sorting algorithm:) Tj
+T*
+(   - Counts the occurrences of each distinct element in a frequency array \(count[]\).) Tj
+T*
+(   - Computes prefix sums \(running cumulative totals\) in count[] to determine final output) Tj
+T*
+(   indices.) Tj
+T*
+(   - Places elements into output array in reverse order to ensure STABILITY.) Tj
+T*
+(   - Time Complexity: O\(N + K\), where N is array size and K is the range of values.) Tj
+T*
+(   - Ideal for sorting small integer keys \(e.g. ASCII characters, phred quality scores\).) Tj
+T*
+() Tj
+T*
+(   2. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <stdlib.h>) Tj
+T*
+(   #include <string.h>) Tj
+T*
+() Tj
+T*
+(   void counting_sort\(int *arr, int n, int max_val\) {) Tj
+T*
+(   int *count = \(int *\)calloc\(max_val + 1, sizeof\(int\)\);) Tj
+T*
+(   int *output = \(int *\)malloc\(n * sizeof\(int\)\);) Tj
+T*
+() Tj
+T*
+(   /* 1. Store counts of each element */) Tj
+T*
+(   for \(int i = 0; i < n; i++\) {) Tj
+T*
+(   count[arr[i]]++;) Tj
+T*
+ET
+
+endstream
+endobj
+63 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 64 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+64 0 obj
+<< /Length 2612 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 4: ARRAYS IN C) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 31 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   }) Tj
+T*
+() Tj
+T*
+(   /* 2. Cumulative prefix sums */) Tj
+T*
+(   for \(int i = 1; i <= max_val; i++\) {) Tj
+T*
+(   count[i] += count[i - 1];) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   /* 3. Build output array stably \(backwards\) */) Tj
+T*
+(   for \(int i = n - 1; i >= 0; i--\) {) Tj
+T*
+(   output[count[arr[i]] - 1] = arr[i];) Tj
+T*
+(   count[arr[i]]--;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   /* 4. Copy back to original array */) Tj
+T*
+(   memcpy\(arr, output, n * sizeof\(int\)\);) Tj
+T*
+() Tj
+T*
+(   free\(output\);) Tj
+T*
+(   free\(count\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   int phred_quality_scores[] = {34, 12, 38, 25, 34, 12, 40, 28, 30};) Tj
+T*
+(   int n = sizeof\(phred_quality_scores\) / sizeof\(phred_quality_scores[0]\);) Tj
+T*
+() Tj
+T*
+(   counting_sort\(phred_quality_scores, n, 42\);) Tj
+T*
+() Tj
+T*
+(   printf\("Sorted Phred Quality Scores: "\);) Tj
+T*
+(   for \(int i = 0; i < n; i++\) printf\("%d ", phred_quality_scores[i]\);) Tj
+T*
+(   printf\("\\n"\);) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 19:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the Needleman-Wunsch algorithm for global DNA sequence alignment using a 2D dynamic programming array.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Needleman-Wunsch Global Alignment Algorithm:) Tj
+T*
+(   1. Bioinformatics Background:) Tj
+T*
+(   Published in 1970 by Saul Needleman and Christian Wunsch.) Tj
+T*
+(   Computes the optimal global alignment between two biological sequences across their entire) Tj
+T*
+(   lengths using Dynamic Programming.) Tj
+T*
+() Tj
+T*
+(   2. Matrix Initialization and Recurrence:) Tj
+T*
+(   Given sequence A of length M, sequence B of length N:) Tj
+T*
+(   Allocate 2D DP matrix F of dimension \(M + 1\) x \(N + 1\):) Tj
+T*
+(   - F[0][0] = 0) Tj
+T*
+(   - F[i][0] = i * GapPenalty \(gap along sequence B\)) Tj
+T*
+(   - F[0][j] = j * GapPenalty \(gap along sequence A\)) Tj
+T*
+(   Recurrence Relation for cell F[i][j]:) Tj
+T*
+(   F[i][j] = MAX\() Tj
+T*
+(   F[i - 1][j - 1] + S\(A[i-1], B[j-1]\), /* Diagonal: Match or Mismatch */) Tj
+T*
+(   F[i - 1][j] + GapPenalty, /* Up: Deletion in B \(Gap in B\) */) Tj
+T*
+ET
+
+endstream
+endobj
+65 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 66 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+66 0 obj
+<< /Length 2424 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 4: ARRAYS IN C) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 32 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   F[i][j - 1] + GapPenalty /* Left: Insertion in B \(Gap in A\) */) Tj
+T*
+(   \)) Tj
+T*
+() Tj
+T*
+(   3. Traceback Phase:) Tj
+T*
+(   Begins at cell F[M][N] \(bottom-right\) and traces backward to F[0][0], reconstructing aligned) Tj
+T*
+(   sequences and gaps \('-'\).) Tj
+T*
+(   Complexity: O\(M * N\) time and space.) Tj
+T*
+() Tj
+T*
+(   4. Core ANSI C Implementation Listing:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   #define MATCH_SCORE 1) Tj
+T*
+(   #define MISMATCH_SCORE -1) Tj
+T*
+(   #define GAP_PENALTY -2) Tj
+T*
+() Tj
+T*
+(   int max3\(int a, int b, int c\) {) Tj
+T*
+(   int m = a;) Tj
+T*
+(   if \(b > m\) m = b;) Tj
+T*
+(   if \(c > m\) m = c;) Tj
+T*
+(   return m;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   void needleman_wunsch_score\(const char *s1, int len1, const char *s2, int len2\) {) Tj
+T*
+(   int dp[10][10];) Tj
+T*
+() Tj
+T*
+(   /* Initialize boundaries */) Tj
+T*
+(   for \(int i = 0; i <= len1; i++\) dp[i][0] = i * GAP_PENALTY;) Tj
+T*
+(   for \(int j = 0; j <= len2; j++\) dp[0][j] = j * GAP_PENALTY;) Tj
+T*
+() Tj
+T*
+(   /* Fill DP matrix */) Tj
+T*
+(   for \(int i = 1; i <= len1; i++\) {) Tj
+T*
+(   for \(int j = 1; j <= len2; j++\) {) Tj
+T*
+(   int score_diag = dp[i-1][j-1] + \(\(s1[i-1] == s2[j-1]\) ? MATCH_SCORE : MISMATCH_SCORE\);) Tj
+T*
+(   int score_up = dp[i-1][j] + GAP_PENALTY;) Tj
+T*
+(   int score_left = dp[i][j-1] + GAP_PENALTY;) Tj
+T*
+(   dp[i][j] = max3\(score_diag, score_up, score_left\);) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   printf\("Optimal Global Alignment Score: %d\\n", dp[len1][len2]\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   needleman_wunsch_score\("GATT", 4, "GCAT", 4\);) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 20:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to compute the Spiral Order Traversal of an M x N 2D matrix.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Spiral Order Traversal of a 2D Matrix:) Tj
+T*
+(   1. Algorithmic Principle:) Tj
+T*
+ET
+
+endstream
+endobj
+67 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 68 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+68 0 obj
+<< /Length 2349 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 4: ARRAYS IN C) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 33 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   Given an M x N matrix, traverse all elements in clockwise spiral order:) Tj
+T*
+(   Maintain four boundaries: top = 0, bottom = M - 1, left = 0, right = N - 1.) Tj
+T*
+(   Loop while \(top <= bottom && left <= right\):) Tj
+T*
+(   - Direction 1: Traverse from left to right along row 'top', then top++.) Tj
+T*
+(   - Direction 2: Traverse from top to bottom along col 'right', then right--.) Tj
+T*
+(   - Direction 3: If top <= bottom: Traverse right to left along row 'bottom', then bottom--.) Tj
+T*
+(   - Direction 4: If left <= right: Traverse bottom to top along col 'left', then left++.) Tj
+T*
+() Tj
+T*
+(   2. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   #define ROWS 3) Tj
+T*
+(   #define COLS 4) Tj
+T*
+() Tj
+T*
+(   void print_spiral\(const int mat[ROWS][COLS], int m, int n\) {) Tj
+T*
+(   int top = 0, bottom = m - 1;) Tj
+T*
+(   int left = 0, right = n - 1;) Tj
+T*
+() Tj
+T*
+(   printf\("Spiral Traversal: "\);) Tj
+T*
+(   while \(top <= bottom && left <= right\) {) Tj
+T*
+(   /* Traverse right */) Tj
+T*
+(   for \(int j = left; j <= right; j++\) printf\("%d ", mat[top][j]\);) Tj
+T*
+(   top++;) Tj
+T*
+() Tj
+T*
+(   /* Traverse down */) Tj
+T*
+(   for \(int i = top; i <= bottom; i++\) printf\("%d ", mat[i][right]\);) Tj
+T*
+(   right--;) Tj
+T*
+() Tj
+T*
+(   /* Traverse left */) Tj
+T*
+(   if \(top <= bottom\) {) Tj
+T*
+(   for \(int j = right; j >= left; j--\) printf\("%d ", mat[bottom][j]\);) Tj
+T*
+(   bottom--;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   /* Traverse up */) Tj
+T*
+(   if \(left <= right\) {) Tj
+T*
+(   for \(int i = bottom; i >= top; i--\) printf\("%d ", mat[i][left]\);) Tj
+T*
+(   left++;) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+(   printf\("\\n"\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   int grid[ROWS][COLS] = {) Tj
+T*
+(   { 1, 2, 3, 4},) Tj
+T*
+(   { 5, 6, 7, 8},) Tj
+T*
+(   { 9, 10, 11, 12}) Tj
+T*
+(   };) Tj
+T*
+(   print_spiral\(grid, ROWS, COLS\);) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+ET
+
+endstream
+endobj
+69 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 70 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+70 0 obj
+<< /Length 3283 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 4: ARRAYS IN C) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 34 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 21:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Variable-Length Arrays \(VLAs\) in C99, detailing stack allocation, sizeof evaluation, and security hazards.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Variable-Length Arrays \(VLAs\) in C99:) Tj
+T*
+(   1. Language Specification:) Tj
+T*
+(   - Introduced in ISO C99 to allow runtime dimensioning of local stack arrays:) Tj
+T*
+(   void process_data\(int n\) {) Tj
+T*
+(   double buffer[n]; /* Array size 'n' evaluated at runtime */) Tj
+T*
+(   }) Tj
+T*
+(   - Stack Allocation: VLAs are allocated dynamically on the call stack by adjusting the stack) Tj
+T*
+(   pointer \(RSP/ESP\) at runtime \(similar to alloca\(\)\).) Tj
+T*
+() Tj
+T*
+(   2. Dynamic sizeof Evaluation:) Tj
+T*
+(   - For standard arrays, sizeof is evaluated entirely at compile-time.) Tj
+T*
+(   - For VLAs, sizeof is evaluated AT RUNTIME:) Tj
+T*
+(   size_t bytes = sizeof\(buffer\); /* Computes n * sizeof\(double\) at runtime */) Tj
+T*
+() Tj
+T*
+(   3. Security and Reliability Hazards:) Tj
+T*
+(   - Lack of Out-of-Memory Detection: Unlike malloc\(\), which returns NULL when memory is) Tj
+T*
+(   exhausted, allocating an oversized VLA \(e.g. n = 10,000,000\) causes an immediate, catastrophic) Tj
+T*
+(   STACK OVERFLOW and program crash!) Tj
+T*
+(   - Denial of Service \(DoS\): If 'n' is controlled by user input without bounds checking,) Tj
+T*
+(   attackers crash the process easily.) Tj
+T*
+(   - C11 Standardization Change: Due to safety concerns, C11 made VLAs OPTIONAL \(__STDC_NO_VLA__\).) Tj
+T*
+(   Production systems \(Linux kernel, Google C\) strictly ban VLAs in favor of explicit malloc/free.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 22:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to rotate an N x N square matrix 90 degrees clockwise in-place.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   In-Place 90-Degree Clockwise Matrix Rotation:) Tj
+T*
+(   1. Two-Step Transformation:) Tj
+T*
+(   Rotating an N x N matrix 90 degrees clockwise can be decomposed into two fundamental geometric) Tj
+T*
+(   transformations:) Tj
+T*
+(   Step 1: Transpose the matrix: Swap M[i][j] with M[j][i] for all j > i.) Tj
+T*
+(   Step 2: Reverse each individual row horizontally: Swap M[i][j] with M[i][N - 1 - j].) Tj
+T*
+(   Time Complexity: O\(N^2\) total operations. Auxiliary Space: O\(1\) in-place!) Tj
+T*
+() Tj
+T*
+(   2. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   #define N 3) Tj
+T*
+() Tj
+T*
+(   void rotate_90_clockwise\(int mat[N][N]\) {) Tj
+T*
+(   /* Step 1: Transpose */) Tj
+T*
+(   for \(int i = 0; i < N; i++\) {) Tj
+T*
+(   for \(int j = i + 1; j < N; j++\) {) Tj
+T*
+(   int temp = mat[i][j];) Tj
+T*
+(   mat[i][j] = mat[j][i];) Tj
+T*
+(   mat[j][i] = temp;) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+ET
+
+endstream
+endobj
+71 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 72 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+72 0 obj
+<< /Length 2383 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 4: ARRAYS IN C) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 35 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   /* Step 2: Reverse each row */) Tj
+T*
+(   for \(int i = 0; i < N; i++\) {) Tj
+T*
+(   for \(int j = 0; j < N / 2; j++\) {) Tj
+T*
+(   int temp = mat[i][j];) Tj
+T*
+(   mat[i][j] = mat[i][N - 1 - j];) Tj
+T*
+(   mat[i][N - 1 - j] = temp;) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   void print_matrix\(const int mat[N][N]\) {) Tj
+T*
+(   for \(int i = 0; i < N; i++\) {) Tj
+T*
+(   for \(int j = 0; j < N; j++\) printf\("%3d ", mat[i][j]\);) Tj
+T*
+(   printf\("\\n"\);) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   int mat[N][N] = {) Tj
+T*
+(   {1, 2, 3},) Tj
+T*
+(   {4, 5, 6},) Tj
+T*
+(   {7, 8, 9}) Tj
+T*
+(   };) Tj
+T*
+() Tj
+T*
+(   printf\("Original 3x3 Matrix:\\n"\);) Tj
+T*
+(   print_matrix\(mat\);) Tj
+T*
+() Tj
+T*
+(   rotate_90_clockwise\(mat\);) Tj
+T*
+() Tj
+T*
+(   printf\("After 90-Deg Clockwise Rotation:\\n"\);) Tj
+T*
+(   print_matrix\(mat\);) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 23:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to merge two pre-sorted integer arrays into a single sorted array in O\(N + M\) time.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Two-Way Merge of Sorted Arrays:) Tj
+T*
+(   1. Algorithmic Principle:) Tj
+T*
+(   - Input: Array A of size N \(sorted\) and Array B of size M \(sorted\).) Tj
+T*
+(   - Use two pointers 'i' and 'j' tracking current positions in A and B.) Tj
+T*
+(   - At each step, compare A[i] and B[j], copy the smaller element into destination array C, and) Tj
+T*
+(   advance the corresponding pointer.) Tj
+T*
+(   - When one array is exhausted, copy all remaining elements from the other array.) Tj
+T*
+(   - Time Complexity: O\(N + M\) linear time. Fundamental subroutine of Merge Sort.) Tj
+T*
+() Tj
+T*
+(   2. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   void merge_sorted_arrays\(const int *A, int n, const int *B, int m, int *C\) {) Tj
+T*
+ET
+
+endstream
+endobj
+73 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 74 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+74 0 obj
+<< /Length 2664 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 4: ARRAYS IN C) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 36 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   int i = 0, j = 0, k = 0;) Tj
+T*
+() Tj
+T*
+(   while \(i < n && j < m\) {) Tj
+T*
+(   if \(A[i] <= B[j]\) {) Tj
+T*
+(   C[k++] = A[i++];) Tj
+T*
+(   } else {) Tj
+T*
+(   C[k++] = B[j++];) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   /* Copy remaining elements */) Tj
+T*
+(   while \(i < n\) C[k++] = A[i++];) Tj
+T*
+(   while \(j < m\) C[k++] = B[j++];) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   int cohort1[] = {105, 210, 315, 420};) Tj
+T*
+(   int cohort2[] = {150, 250, 320, 500, 600};) Tj
+T*
+(   int merged[9];) Tj
+T*
+() Tj
+T*
+(   merge_sorted_arrays\(cohort1, 4, cohort2, 5, merged\);) Tj
+T*
+() Tj
+T*
+(   printf\("Merged Sorted Gene Identifiers: "\);) Tj
+T*
+(   for \(int i = 0; i < 9; i++\) printf\("%d ", merged[i]\);) Tj
+T*
+(   printf\("\\n"\);) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 24:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain passing multidimensional arrays to functions with variable dimensions using C99 Variable-Length Array parameters.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Passing Variable-Dimension Multidimensional Arrays in C99:) Tj
+T*
+(   1. The C89 Limitation:) Tj
+T*
+(   In ANSI C89, passing 2D arrays required hardcoding column dimensions in function prototypes:) Tj
+T*
+(   void process\(int arr[][10], int rows\);) Tj
+T*
+(   This prevented writing generic matrix processing functions that handle matrices of arbitrary) Tj
+T*
+(   runtime dimensions!) Tj
+T*
+() Tj
+T*
+(   2. The C99 VLA Parameter Solution:) Tj
+T*
+(   C99 allows declaring dimension parameters BEFORE the array parameter in the function signature:) Tj
+T*
+(   void process_generic_matrix\(int rows, int cols, int mat[rows][cols]\);) Tj
+T*
+(   - The compiler dynamically uses 'cols' to evaluate the memory stride formula: Base + \(i * cols) Tj
+T*
+(   + j\) * sizeof\(int\).) Tj
+T*
+(   - Enables writing universal matrix libraries in pure C without manual 1D indexing!) Tj
+T*
+() Tj
+T*
+(   3. Complete ANSI C99 Demonstration Program:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   void print_generic_matrix\(int r, int c, const int mat[r][c]\) {) Tj
+T*
+(   printf\("Displaying \(%d x %d\) Matrix:\\n", r, c\);) Tj
+T*
+(   for \(int i = 0; i < r; i++\) {) Tj
+T*
+ET
+
+endstream
+endobj
+75 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 76 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+76 0 obj
+<< /Length 2447 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 4: ARRAYS IN C) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 37 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   for \(int j = 0; j < c; j++\) {) Tj
+T*
+(   printf\("%4d ", mat[i][j]\);) Tj
+T*
+(   }) Tj
+T*
+(   printf\("\\n"\);) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   int grid3x2[3][2] = {{1, 2}, {3, 4}, {5, 6}};) Tj
+T*
+(   int grid2x4[2][4] = {{10, 20, 30, 40}, {50, 60, 70, 80}};) Tj
+T*
+() Tj
+T*
+(   print_generic_matrix\(3, 2, grid3x2\);) Tj
+T*
+(   print_generic_matrix\(2, 4, grid2x4\);) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 25:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to find the second largest element in an array in a single traversal pass in O\(N\) time.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Single-Pass Second Largest Element Finder:) Tj
+T*
+(   1. Problem Statement:) Tj
+T*
+(   Find the second distinct largest element in an unsorted integer array in a single traversal) Tj
+T*
+(   pass \(O\(N\) time and O\(1\) space\).) Tj
+T*
+(   Sorting requires O\(N log N\) time; naive two-pass requires scanning the array twice.) Tj
+T*
+() Tj
+T*
+(   2. Algorithmic Logic:) Tj
+T*
+(   Maintain two registers: 'largest' and 'second_largest'.) Tj
+T*
+(   Traverse array:) Tj
+T*
+(   - If arr[i] > largest: update second_largest = largest, then largest = arr[i].) Tj
+T*
+(   - Else if arr[i] > second_largest and arr[i] != largest: update second_largest = arr[i].) Tj
+T*
+() Tj
+T*
+(   3. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <limits.h>) Tj
+T*
+() Tj
+T*
+(   int find_second_largest\(const int *arr, int n\) {) Tj
+T*
+(   if \(n < 2\) return INT_MIN;) Tj
+T*
+() Tj
+T*
+(   int largest = INT_MIN;) Tj
+T*
+(   int second_largest = INT_MIN;) Tj
+T*
+() Tj
+T*
+(   for \(int i = 0; i < n; i++\) {) Tj
+T*
+(   if \(arr[i] > largest\) {) Tj
+T*
+(   second_largest = largest;) Tj
+T*
+(   largest = arr[i];) Tj
+T*
+(   } else if \(arr[i] > second_largest && arr[i] != largest\) {) Tj
+T*
+(   second_largest = arr[i];) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   return second_largest;) Tj
+T*
+ET
+
+endstream
+endobj
+77 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 78 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+78 0 obj
+<< /Length 2159 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 4: ARRAYS IN C) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 38 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   int test_data[] = {45, 12, 89, 70, 89, 23, 67};) Tj
+T*
+(   int n = sizeof\(test_data\) / sizeof\(test_data[0]\);) Tj
+T*
+() Tj
+T*
+(   int sec = find_second_largest\(test_data, n\);) Tj
+T*
+(   printf\("Array: "\);) Tj
+T*
+(   for \(int i = 0; i < n; i++\) printf\("%d ", test_data[i]\);) Tj
+T*
+(   printf\("\\nSecond Largest Element: %d\\n", sec\);) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 26:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to check whether a given square matrix is an Identity Matrix.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Identity Matrix Verification in C:) Tj
+T*
+(   1. Definition:) Tj
+T*
+(   An Identity Matrix I of size N x N is a square matrix where:) Tj
+T*
+(   - All main diagonal entries are equal to 1: M[i][i] == 1 for all i.) Tj
+T*
+(   - All off-diagonal entries are equal to 0: M[i][j] == 0 for all i != j.) Tj
+T*
+() Tj
+T*
+(   2. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <stdbool.h>) Tj
+T*
+() Tj
+T*
+(   #define N 3) Tj
+T*
+() Tj
+T*
+(   bool is_identity_matrix\(const int M[N][N]\) {) Tj
+T*
+(   for \(int i = 0; i < N; i++\) {) Tj
+T*
+(   for \(int j = 0; j < N; j++\) {) Tj
+T*
+(   if \(i == j\) {) Tj
+T*
+(   if \(M[i][j] != 1\) return false;) Tj
+T*
+(   } else {) Tj
+T*
+(   if \(M[i][j] != 0\) return false;) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+(   return true;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   int I[N][N] = {) Tj
+T*
+(   {1, 0, 0},) Tj
+T*
+(   {0, 1, 0},) Tj
+T*
+(   {0, 0, 1}) Tj
+T*
+(   };) Tj
+T*
+(   int NonI[N][N] = {) Tj
+T*
+(   {1, 0, 0},) Tj
+T*
+(   {0, 2, 0},) Tj
+T*
+(   {0, 0, 1}) Tj
+T*
+ET
+
+endstream
+endobj
+79 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 80 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+80 0 obj
+<< /Length 2577 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 4: ARRAYS IN C) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 39 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   };) Tj
+T*
+() Tj
+T*
+(   printf\("Matrix I is identity: %s\\n", is_identity_matrix\(I\) ? "TRUE" : "FALSE"\);) Tj
+T*
+(   printf\("Matrix NonI is identity: %s\\n", is_identity_matrix\(NonI\) ? "TRUE" : "FALSE"\);) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 27:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the two-pointer approach for finding a pair of elements in a sorted array that sum to a target value S.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Two-Pointer Sum Search in Sorted Arrays:) Tj
+T*
+(   1. Problem:) Tj
+T*
+(   Given sorted array arr[0...N-1] and target sum S, find if two elements satisfy arr[i] + arr[j]) Tj
+T*
+(   == S.) Tj
+T*
+(   Brute-force testing all pairs takes O\(N^2\) time.) Tj
+T*
+(   The Two-Pointer approach solves it in O\(N\) linear time and O\(1\) space!) Tj
+T*
+() Tj
+T*
+(   2. Operational Mechanics:) Tj
+T*
+(   Initialize two pointers: left = 0 \(smallest\), right = N - 1 \(largest\).) Tj
+T*
+(   Loop while \(left < right\):) Tj
+T*
+(   - Current sum = arr[left] + arr[right].) Tj
+T*
+(   - If current sum == S: Pair found!) Tj
+T*
+(   - If current sum < S: We need a larger sum, so increment left \(left++\).) Tj
+T*
+(   - If current sum > S: We need a smaller sum, so decrement right \(right--\).) Tj
+T*
+() Tj
+T*
+(   3. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <stdbool.h>) Tj
+T*
+() Tj
+T*
+(   bool find_pair_sum\(const int *arr, int n, int target, int *val1, int *val2\) {) Tj
+T*
+(   int left = 0, right = n - 1;) Tj
+T*
+(   while \(left < right\) {) Tj
+T*
+(   int sum = arr[left] + arr[right];) Tj
+T*
+(   if \(sum == target\) {) Tj
+T*
+(   *val1 = arr[left];) Tj
+T*
+(   *val2 = arr[right];) Tj
+T*
+(   return true;) Tj
+T*
+(   } else if \(sum < target\) {) Tj
+T*
+(   left++;) Tj
+T*
+(   } else {) Tj
+T*
+(   right--;) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+(   return false;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   int sorted_mw[] = {120, 180, 240, 310, 450, 520, 680};) Tj
+T*
+(   int n = sizeof\(sorted_mw\) / sizeof\(sorted_mw[0]\);) Tj
+T*
+(   int target_mw = 690;) Tj
+T*
+(   int v1 = 0, v2 = 0;) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+81 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 82 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+82 0 obj
+<< /Length 2634 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 4: ARRAYS IN C) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 40 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   if \(find_pair_sum\(sorted_mw, n, target_mw, &v1, &v2\)\) {) Tj
+T*
+(   printf\("Found Molecular Weight Pair: %d + %d = %d Da\\n", v1, v2, target_mw\);) Tj
+T*
+(   } else {) Tj
+T*
+(   printf\("No matching pair found.\\n"\);) Tj
+T*
+(   }) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 28:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to compute the trace \(sum of main diagonal elements\) of a square matrix.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Trace of a Square Matrix in C:) Tj
+T*
+(   1. Mathematical Definition:) Tj
+T*
+(   The trace of an N x N square matrix A, denoted tr\(A\), is the sum of the elements along its main) Tj
+T*
+(   diagonal:) Tj
+T*
+(   tr\(A\) = Sum_{i=0}^{N-1} A[i][i] = A[0][0] + A[1][1] + ... + A[N-1][N-1].) Tj
+T*
+(   Properties: tr\(A + B\) = tr\(A\) + tr\(B\); tr\(c * A\) = c * tr\(A\); tr\(A * B\) = tr\(B * A\).) Tj
+T*
+() Tj
+T*
+(   2. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   #define N 4) Tj
+T*
+() Tj
+T*
+(   long long compute_matrix_trace\(const int matrix[N][N]\) {) Tj
+T*
+(   long long trace_sum = 0;) Tj
+T*
+(   /* Single loop iterating along main diagonal \(O\(N\) time\) */) Tj
+T*
+(   for \(int i = 0; i < N; i++\) {) Tj
+T*
+(   trace_sum += matrix[i][i];) Tj
+T*
+(   }) Tj
+T*
+(   return trace_sum;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   int M[N][N] = {) Tj
+T*
+(   { 5, 2, -1, 4},) Tj
+T*
+(   { 1, 10, 8, 0},) Tj
+T*
+(   { 3, -4, 15, 6},) Tj
+T*
+(   { 7, 9, 2, 20}) Tj
+T*
+(   };) Tj
+T*
+() Tj
+T*
+(   long long tr = compute_matrix_trace\(M\);) Tj
+T*
+(   printf\("Matrix Trace \(5 + 10 + 15 + 20\): %lld\\n", tr\);) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 29:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain cache miss penalties during row-major vs column-major array traversals in C with concrete timing considerations.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Cache Memory Hierarchy and Strided Array Traversal:) Tj
+T*
+(   1. CPU Cache Architecture:) Tj
+T*
+ET
+
+endstream
+endobj
+83 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 84 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+84 0 obj
+<< /Length 2912 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 4: ARRAYS IN C) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 41 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - Modern CPUs load memory from RAM into L1/L2/L3 caches in discrete 64-byte blocks called Cache) Tj
+T*
+(   Lines.) Tj
+T*
+(   - Spatial Locality: Accessing address X automatically loads X+1, X+2, ..., X+15 into high-speed) Tj
+T*
+(   cache.) Tj
+T*
+() Tj
+T*
+(   2. Row-Major Traversal \(Stride-1, High Spatial Locality\):) Tj
+T*
+(   for \(int i = 0; i < ROWS; i++\)) Tj
+T*
+(   for \(int j = 0; j < COLS; j++\)) Tj
+T*
+(   sum += M[i][j];) Tj
+T*
+(   - Successive memory accesses are adjacent in RAM.) Tj
+T*
+(   - Accessing M[i][0] fetches M[i][0] through M[i][15] into L1 cache. The next 15 loop iterations) Tj
+T*
+(   hit the L1 cache in ~1 nanosecond!) Tj
+T*
+() Tj
+T*
+(   3. Column-Major Traversal \(Strided, Cache Trashing\):) Tj
+T*
+(   for \(int j = 0; j < COLS; j++\)) Tj
+T*
+(   for \(int i = 0; i < ROWS; i++\)) Tj
+T*
+(   sum += M[i][j];) Tj
+T*
+(   - Successive accesses jump across entire rows \(offset of COLS * 4 bytes\).) Tj
+T*
+(   - If COLS is large \(e.g. 4096 ints = 16 KB\), every single access hits a different cache line,) Tj
+T*
+(   incurring an L3 cache miss or RAM access penalty \(~50-100 nanoseconds\)!) Tj
+T*
+(   - Row-major traversal is often 10x to 20x faster than column-major traversal in C!) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 30:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to sort biological DNA fragments by molecular length using Insertion Sort.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Sorting DNA Fragments by Molecular Length:) Tj
+T*
+(   1. Problem Statement:) Tj
+T*
+(   Given an array of DNA fragment sizes \(in base pairs - bp\) obtained from agarose gel) Tj
+T*
+(   electrophoresis, sort them in ascending order using Insertion Sort, documenting each movement) Tj
+T*
+(   step.) Tj
+T*
+() Tj
+T*
+(   2. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   void sort_dna_fragments\(int *fragments, int count\) {) Tj
+T*
+(   printf\("=== Agarose Gel Electrophoresis Migration Sorter ===\\n"\);) Tj
+T*
+(   for \(int i = 1; i < count; i++\) {) Tj
+T*
+(   int key = fragments[i];) Tj
+T*
+(   int j = i - 1;) Tj
+T*
+() Tj
+T*
+(   while \(j >= 0 && fragments[j] > key\) {) Tj
+T*
+(   fragments[j + 1] = fragments[j];) Tj
+T*
+(   j--;) Tj
+T*
+(   }) Tj
+T*
+(   fragments[j + 1] = key;) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   int gel_bands[] = {1500, 250, 1000, 500, 750, 2000, 100};) Tj
+T*
+(   int n = sizeof\(gel_bands\) / sizeof\(gel_bands[0]\);) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+85 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 86 0 R /Resources << /Font << /F1 87 0 R /F2 88 0 R >> >> >>
+endobj
+86 0 obj
+<< /Length 816 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 4: ARRAYS IN C) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 42 of 42) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   printf\("Unsorted Band Sizes \(bp\): "\);) Tj
+T*
+(   for \(int i = 0; i < n; i++\) printf\("%d ", gel_bands[i]\);) Tj
+T*
+(   printf\("\\n"\);) Tj
+T*
+() Tj
+T*
+(   sort_dna_fragments\(gel_bands, n\);) Tj
+T*
+() Tj
+T*
+(   printf\("Sorted Ladder Sizes \(bp\): "\);) Tj
+T*
+(   for \(int i = 0; i < n; i++\) printf\("%d ", gel_bands[i]\);) Tj
+T*
+(   printf\("\\n"\);) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+87 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+88 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+xref
+0 89
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000400 00000 n 
+0000000544 00000 n 
+0000008760 00000 n 
+0000008904 00000 n 
+0000017182 00000 n 
+0000017326 00000 n 
+0000025828 00000 n 
+0000025973 00000 n 
+0000034104 00000 n 
+0000034250 00000 n 
+0000042718 00000 n 
+0000042864 00000 n 
+0000051749 00000 n 
+0000051895 00000 n 
+0000060647 00000 n 
+0000060793 00000 n 
+0000062283 00000 n 
+0000062429 00000 n 
+0000067311 00000 n 
+0000067457 00000 n 
+0000069760 00000 n 
+0000069906 00000 n 
+0000078360 00000 n 
+0000078506 00000 n 
+0000081945 00000 n 
+0000082091 00000 n 
+0000085395 00000 n 
+0000085541 00000 n 
+0000088794 00000 n 
+0000088940 00000 n 
+0000091857 00000 n 
+0000092003 00000 n 
+0000094363 00000 n 
+0000094509 00000 n 
+0000096819 00000 n 
+0000096965 00000 n 
+0000099457 00000 n 
+0000099603 00000 n 
+0000102615 00000 n 
+0000102761 00000 n 
+0000105606 00000 n 
+0000105752 00000 n 
+0000108505 00000 n 
+0000108651 00000 n 
+0000111309 00000 n 
+0000111455 00000 n 
+0000114253 00000 n 
+0000114399 00000 n 
+0000116743 00000 n 
+0000116889 00000 n 
+0000119708 00000 n 
+0000119854 00000 n 
+0000121906 00000 n 
+0000122052 00000 n 
+0000124628 00000 n 
+0000124774 00000 n 
+0000127445 00000 n 
+0000127591 00000 n 
+0000130245 00000 n 
+0000130391 00000 n 
+0000133120 00000 n 
+0000133266 00000 n 
+0000135931 00000 n 
+0000136077 00000 n 
+0000138554 00000 n 
+0000138700 00000 n 
+0000141102 00000 n 
+0000141248 00000 n 
+0000144584 00000 n 
+0000144730 00000 n 
+0000147166 00000 n 
+0000147312 00000 n 
+0000150029 00000 n 
+0000150175 00000 n 
+0000152675 00000 n 
+0000152821 00000 n 
+0000155033 00000 n 
+0000155179 00000 n 
+0000157809 00000 n 
+0000157955 00000 n 
+0000160642 00000 n 
+0000160788 00000 n 
+0000163753 00000 n 
+0000163899 00000 n 
+0000164767 00000 n 
+0000164865 00000 n 
+trailer
+<< /Size 89 /Root 1 0 R >>
+startxref
+164968
+%%EOF

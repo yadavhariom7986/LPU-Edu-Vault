@@ -1,0 +1,612 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2799 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Orientation to Computing | Unit 5: TCP/IP & IP Subnetting) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 1 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(ORIENTATION TO COMPUTING) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 10.5 Tf
+(UNIT 5: IP ADDRESSING, SUBNETTING, ROUTING & CORE INTERNET PROTOCOLS) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Curriculum: Lovely Professional University | School of Computer Science & Engineering) Tj
+T*
+(Reference: Data Communications and Networking with TCP/IP Protocol Suite by Behrouz A.) Tj
+T*
+(Forouzan) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.1 IPv4 Addressing Architecture and Classful Allocation) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(An Internet Protocol \(IP\) address is a 32-bit unique numerical identifier assigned to) Tj
+T*
+(every network interface card \(NIC\) connected to an IP network:) Tj
+T*
+(* Dotted-Decimal Notation: 32 bits divided into four 8-bit octets separated by) Tj
+T*
+(periods \(e.g., 192.168.1.1\). Range of each octet: 0 to 255.) Tj
+T*
+(* Original Classful Addressing Scheme \(RFC 791\):) Tj
+T*
+(- Class A: First bit 0 \(Range: 1.0.0.0 to 126.255.255.255\). 8 network bits, 24 host) Tj
+T*
+(bits. 126 networks, 16.7 million hosts each. Default mask: 255.0.0.0 \(/8\).) Tj
+T*
+(- Class B: First bits 10 \(Range: 128.0.0.0 to 191.255.255.255\). 16 network bits, 16 host) Tj
+T*
+(bits. 16,384 networks, 65,534 hosts each. Default mask: 255.255.0.0 \(/16\).) Tj
+T*
+(- Class C: First bits 110 \(Range: 192.0.0.0 to 223.255.255.255\). 24 network bits, 8 host) Tj
+T*
+(bits. 2 million networks, 254 hosts each. Default mask: 255.255.255.0 \(/24\).) Tj
+T*
+(- Class D: First bits 1110 \(Range: 224.0.0.0 to 239.255.255.255\). Reserved for Multicast) Tj
+T*
+(group addressing.) Tj
+T*
+(- Class E: First bits 1111 \(Range: 240.0.0.0 to 255.255.255.255\). Reserved for) Tj
+T*
+(experimental research.) Tj
+T*
+(* Loopback Address: 127.0.0.1 \(localhost\) used for internal software diagnostics.) Tj
+T*
+(* Private IP Ranges \(RFC 1918 - non-routable on public Internet\):) Tj
+T*
+(- Class A: 10.0.0.0 to 10.255.255.255 \(10.0.0.0/8\)) Tj
+T*
+(- Class B: 172.16.0.0 to 172.31.255.255 \(172.16.0.0/12\)) Tj
+T*
+(- Class C: 192.168.0.0 to 192.168.255.255 \(192.168.0.0/16\)) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.2 Subnetting, CIDR and Variable Length Subnet Masking \(VLSM\)) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Subnetting: Borrowing host bits to create smaller, manageable subnetworks to reduce) Tj
+T*
+(broadcast traffic and enhance routing security.) Tj
+T*
+(* Classless Inter-Domain Routing \(CIDR\): Suffix notation \(/N\) indicating number of) Tj
+T*
+(contiguous masked network bits.) Tj
+T*
+(* Formulae for Subnet Calculations:) Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 2926 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Orientation to Computing | Unit 5: TCP/IP & IP Subnetting) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 2 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(- Number of Subnets created = 2^b \(where b = borrowed bits from host field\).) Tj
+T*
+(- Total IP addresses per subnet = 2^h \(where h = remaining host bits\).) Tj
+T*
+(- Usable host addresses per subnet = 2^h - 2 \(subtracting Network ID where all host bits) Tj
+T*
+(= 0, and Directed Broadcast ID where all host bits = 1\).) Tj
+T*
+(* Variable Length Subnet Masking \(VLSM\): Allocating subnets with differing prefix) Tj
+T*
+(lengths tailored to exact departmental host requirements, completely eliminating IP) Tj
+T*
+(address waste.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.3 IPv6 Protocol Architecture) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Motivation: Complete exhaustion of IPv4 32-bit address space \(4.3 billion) Tj
+T*
+(addresses\).) Tj
+T*
+(* Specifications: 128-bit address length written as eight 16-bit hexadecimal blocks) Tj
+T*
+(separated by colons \(e.g., 2001:0db8:85a3:0000:0000:8a2e:0370:7334\).) Tj
+T*
+(* Total IPv6 Address Space: 2^128 approx 3.4 x 10^38 addresses \(virtually) Tj
+T*
+(inexhaustible\).) Tj
+T*
+(* Zero Compression Rules: Leading zeros in a block can be dropped \(e.g., 0000 becomes) Tj
+T*
+(0\); consecutive blocks of zeros can be replaced ONCE by a double colon \(::\).) Tj
+T*
+(* Architectural Enhancements: Simplified 40-byte fixed header, elimination of) Tj
+T*
+(broadcast \(replaced by multicast/anycast\), mandatory IPSec security, Stateless) Tj
+T*
+(Address Autoconfiguration \(SLAAC\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.4 Transport Layer Protocols: TCP vs UDP) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Transmission Control Protocol \(TCP\): Connection-oriented, highly reliable,) Tj
+T*
+(guaranteed ordered byte-stream delivery. Features: 3-way handshake \(SYN, SYN-ACK,) Tj
+T*
+(ACK\), cumulative acknowledgments, sequence numbers, flow control \(sliding window\),) Tj
+T*
+(congestion control \(Slow Start, Congestion Avoidance, Fast Retransmit\).) Tj
+T*
+(* User Datagram Protocol \(UDP\): Connectionless, lightweight, unreliable, low-overhead) Tj
+T*
+(datagram service. No handshakes, no acknowledgments, no ordering. Used for real-time) Tj
+T*
+(applications: VoIP, live video streaming, DNS lookups, online multiplayer gaming.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.5 Core Application and Support Protocols) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* DNS \(Domain Name System - UDP/TCP Port 53\): Distributed hierarchical database) Tj
+T*
+(translating human-friendly domain names \(e.g., lpu.in\) into machine routable IP) Tj
+T*
+(addresses.) Tj
+T*
+(* DHCP \(Dynamic Host Configuration Protocol - UDP Ports 67/68\): Automatically assigns) Tj
+T*
+(IP, subnet mask, default gateway, and DNS servers via the 4-step DORA process) Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 3209 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Orientation to Computing | Unit 5: TCP/IP & IP Subnetting) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 3 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(\(Discover, Offer, Request, Acknowledge\).) Tj
+T*
+(* ARP \(Address Resolution Protocol\): Resolves an unknown Layer 2 physical MAC address) Tj
+T*
+(corresponding to a known Layer 3 logical IP address on a local broadcast domain.) Tj
+T*
+(* HTTP / HTTPS \(Ports 80 / 443\): Hypertext Transfer Protocol. HTTPS encapsulates HTTP) Tj
+T*
+(within an encrypted SSL/TLS tunnel.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROBLEM 1: Subnetting a Class C Network into 4 Subnets]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Statement: An academic department is assigned the Class C network address) Tj
+T*
+(192.168.10.0/24. Subnet this network into 4 equal subnets. For each subnet, determine:) Tj
+T*
+(\(1\) Subnet Mask in dotted-decimal and CIDR notation, \(2\) Subnet Network ID, \(3\) Usable) Tj
+T*
+(Host IP Range, and \(4\) Directed Broadcast Address.) Tj
+T*
+(Step-by-Step Mathematical Derivation:) Tj
+T*
+(* 1. Determine Borrowed Bits \(b\):) Tj
+T*
+(- Number of required subnets = 4 -> 2^b >= 4 -> b = 2 bits.) Tj
+T*
+(* 2. Calculate New Subnet Mask:) Tj
+T*
+(- Original mask = /24 \(24 bits\). New mask = 24 + 2 = /26 bits.) Tj
+T*
+(- 4th octet binary = 11000000_2 = 128 + 64 = 192.) Tj
+T*
+(- Subnet Mask = 255.255.255.192 \(/26\).) Tj
+T*
+(* 3. Calculate Block Size \(Delta\):) Tj
+T*
+(- Remaining host bits h = 8 - 2 = 6 bits. Block size = 2^6 = 64 \(or 256 - 192 = 64\).) Tj
+T*
+(* 4. Detailed Subnet Allocation Table:) Tj
+T*
+(- Subnet 1: Network ID = 192.168.10.0/26 | Usable Range: 192.168.10.1 to 192.168.10.62 |) Tj
+T*
+(Broadcast: 192.168.10.63.) Tj
+T*
+(- Subnet 2: Network ID = 192.168.10.64/26 | Usable Range: 192.168.10.65 to) Tj
+T*
+(192.168.10.126 | Broadcast: 192.168.10.127.) Tj
+T*
+(- Subnet 3: Network ID = 192.168.10.128/26 | Usable Range: 192.168.10.129 to) Tj
+T*
+(192.168.10.190 | Broadcast: 192.168.10.191.) Tj
+T*
+(- Subnet 4: Network ID = 192.168.10.192/26 | Usable Range: 192.168.10.193 to) Tj
+T*
+(192.168.10.254 | Broadcast: 192.168.10.255.) Tj
+T*
+(* 5. Verification: Total usable hosts = 4 x 62 = 248 hosts.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROBLEM 2: Variable Length Subnet Masking \(VLSM\) Enterprise Design]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Statement: Design an optimal VLSM address plan for network 172.16.0.0/22 for) Tj
+T*
+(four departments with the following host requirements: Engineering \(400 hosts\), Sales) Tj
+T*
+(\(120 hosts\), Admin \(50 hosts\), and WAN Point-to-Point Link \(2 hosts\).) Tj
+T*
+(Step-by-Step VLSM Allocation Protocol \(Highest to Lowest\):) Tj
+T*
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 3111 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Orientation to Computing | Unit 5: TCP/IP & IP Subnetting) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 4 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(* 1. Engineering \(400 hosts\):) Tj
+T*
+(- 2^h - 2 >= 400 -> h = 9 \(2^9 - 2 = 510 hosts\). Mask = 32 - 9 = /23 \(255.255.254.0\).) Tj
+T*
+(- Allocate: 172.16.0.0/23 \(Range: 172.16.0.1 - 172.16.1.254; Broadcast: 172.16.1.255\).) Tj
+T*
+(Next available = 172.16.2.0.) Tj
+T*
+(* 2. Sales \(120 hosts\):) Tj
+T*
+(- 2^h - 2 >= 120 -> h = 7 \(2^7 - 2 = 126 hosts\). Mask = 32 - 7 = /25 \(255.255.255.128\).) Tj
+T*
+(- Allocate: 172.16.2.0/25 \(Range: 172.16.2.1 - 172.16.2.126; Broadcast: 172.16.2.127\).) Tj
+T*
+(Next available = 172.16.2.128.) Tj
+T*
+(* 3. Admin \(50 hosts\):) Tj
+T*
+(- 2^h - 2 >= 50 -> h = 6 \(2^6 - 2 = 62 hosts\). Mask = 32 - 6 = /26 \(255.255.255.192\).) Tj
+T*
+(- Allocate: 172.16.2.128/26 \(Range: 172.16.2.129 - 172.16.2.190; Broadcast:) Tj
+T*
+(172.16.2.191\). Next available = 172.16.2.192.) Tj
+T*
+(* 4. WAN Link \(2 hosts\):) Tj
+T*
+(- 2^h - 2 >= 2 -> h = 2 \(2^2 - 2 = 2 hosts\). Mask = 32 - 2 = /30 \(255.255.255.252\).) Tj
+T*
+(- Allocate: 172.16.2.192/30 \(Range: 172.16.2.193 - 172.16.2.194; Broadcast:) Tj
+T*
+(172.16.2.195\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROBLEM 3: TCP 3-Way Handshake Connection Sequence Analysis]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Statement: Trace the sequence numbers, acknowledgment numbers, and TCP control) Tj
+T*
+(flags during the establishment and termination of a reliable connection between Client C) Tj
+T*
+(and Web Server S.) Tj
+T*
+(Step-by-Step TCP Protocol Sequence:) Tj
+T*
+(* 1. Handshake Step 1 \(SYN from Client\):) Tj
+T*
+(- Client sends SYN packet to Server with an Initial Sequence Number \(ISN_c = 5000\).) Tj
+T*
+(Control flag: SYN = 1, ACK = 0.) Tj
+T*
+(* 2. Handshake Step 2 \(SYN-ACK from Server\):) Tj
+T*
+(- Server receives SYN, allocates buffer resources, and replies with SYN-ACK. Server) Tj
+T*
+(selects its own Initial Sequence Number \(ISN_s = 8000\). Acknowledgment Number = ISN_c +) Tj
+T*
+(1 = 5001. Control flags: SYN = 1, ACK = 1.) Tj
+T*
+(* 3. Handshake Step 3 \(ACK from Client\):) Tj
+T*
+(- Client replies with ACK packet. Sequence Number = 5001. Acknowledgment Number = ISN_s) Tj
+T*
+(+ 1 = 8001. Control flags: SYN = 0, ACK = 1.) Tj
+T*
+(- Connection state transitions to ESTABLISHED on both endpoints. Data transfer) Tj
+T*
+(commences.) Tj
+T*
+(* 4. Connection Teardown \(4-Way Handshake\):) Tj
+T*
+(- Client sends FIN \(FIN=1, ACK=1\). Server replies with ACK. \(Half-closed: server can) Tj
+T*
+(still send remaining data\).) Tj
+T*
+(- Server completes transmission and sends FIN. Client replies with final ACK and enters) Tj
+T*
+(TIME_WAIT state \(2 x MSL = 120 s\) to ensure ACK reaches server safely before closing) Tj
+T*
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 1980 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Orientation to Computing | Unit 5: TCP/IP & IP Subnetting) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 5 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(socket.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROBLEM 4: Walkthrough of DHCP DORA and DNS Iterative Resolution]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Statement: Trace the exact sequence of network protocol packets when an) Tj
+T*
+(unconfigured laptop connects to an enterprise campus Wi-Fi network and requests webpage) Tj
+T*
+("www.lpu.in".) Tj
+T*
+(End-to-End Network Protocol Flow:) Tj
+T*
+(* 1. DHCP Discover: Laptop broadcasts UDP packet from 0.0.0.0:68 to) Tj
+T*
+(255.255.255.255:67 with its MAC address.) Tj
+T*
+(* 2. DHCP Offer: Campus DHCP server reserves IP 10.20.30.45 and offers it to client) Tj
+T*
+(along with subnet mask 255.255.255.0, default gateway 10.20.30.1, and DNS server) Tj
+T*
+(10.20.1.10.) Tj
+T*
+(* 3. DHCP Request: Laptop broadcasts formal request to lease offered IP 10.20.30.45.) Tj
+T*
+(* 4. DHCP ACK: Server confirms lease in binding database; laptop configures network) Tj
+T*
+(adapter.) Tj
+T*
+(* 5. ARP Resolution: Laptop checks if default gateway MAC is cached; sends ARP) Tj
+T*
+(request for 10.20.30.1 to obtain gateway MAC.) Tj
+T*
+(* 6. DNS Resolution: Laptop sends UDP query to DNS server \(10.20.1.10\) for) Tj
+T*
+("www.lpu.in".) Tj
+T*
+(* 7. Iterative DNS Query Hierarchy: Local DNS queries Root Server \(.\) -> TLD Server) Tj
+T*
+(\(.in\) -> Authoritative Nameserver \(lpu.in\) -> Returns IP 14.139.242.10 to laptop.) Tj
+T*
+(* 8. TCP Connection: Laptop initiates TCP 3-Way Handshake with 14.139.242.10 on port) Tj
+T*
+(443 \(HTTPS\).) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000171 00000 n 
+0000000241 00000 n 
+0000000316 00000 n 
+0000000428 00000 n 
+0000003279 00000 n 
+0000003391 00000 n 
+0000006369 00000 n 
+0000006482 00000 n 
+0000009744 00000 n 
+0000009858 00000 n 
+0000013022 00000 n 
+0000013136 00000 n 
+trailer
+<< /Size 15 /Root 1 0 R >>
+startxref
+15169
+%%EOF

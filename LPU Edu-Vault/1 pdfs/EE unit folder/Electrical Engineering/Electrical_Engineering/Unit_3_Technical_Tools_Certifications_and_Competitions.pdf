@@ -1,0 +1,10269 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R 35 0 R 37 0 R 39 0 R 41 0 R 43 0 R 45 0 R] /Count 22 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 4 0 R /Resources << /Font << /F1 47 0 R /F2 48 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 9259 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 1 of 22) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(1.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Which mathematical computing and block diagram) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(environment by MathWorks is universally used in) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(electrical engineering education?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(MATLAB and Simulink) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.3 Td
+(AutoCAD) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.7 Td
+(Blender) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.1 Td
+(Adobe Illustrator) Tj
+ET
+BT
+/F2 8.0 Tf
+42 701.5001 Td
+(2.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(Which specialized Simulink library provides) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.3 Td
+(physical modeling blocks for power systems,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 683.1 Td
+(electrical machines, and power electronics?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.4 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.4 Td
+(Simscape Electrical \(formerly) Tj
+ET
+BT
+/F1 7.4 Tf
+72 662.8 Td
+(SimPowerSystems\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 653.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 653.2001 Td
+(SimEvents) Tj
+ET
+BT
+/F2 7.4 Tf
+58 643.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 643.6001 Td
+(Stateflow only) Tj
+ET
+BT
+/F2 7.4 Tf
+58 634.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 634.0001 Td
+(Simulink Coder) Tj
+ET
+BT
+/F2 8.0 Tf
+42 610.4001 Td
+(3.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 610.4001 Td
+(What crucial block must be included in any) Tj
+ET
+BT
+/F1 7.8 Tf
+58 601.2001 Td
+(Simscape Electrical Simulink diagram to) Tj
+ET
+BT
+/F1 7.8 Tf
+58 592.0001 Td
+(configure simulation solver methods \(Continuous,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 582.8001 Td
+(Discrete, or Phasor\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 571.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 571.1001 Td
+(powergui block) Tj
+ET
+BT
+/F2 7.4 Tf
+58 561.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 561.5001 Td
+(Scope block) Tj
+ET
+BT
+/F2 7.4 Tf
+58 551.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 551.9001 Td
+(Ground block) Tj
+ET
+BT
+/F2 7.4 Tf
+58 542.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 542.3002 Td
+(Display block) Tj
+ET
+BT
+/F2 8.0 Tf
+42 518.7002 Td
+(4.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 518.7002 Td
+(Which simulation software suite is the global) Tj
+ET
+BT
+/F1 7.8 Tf
+58 509.5002 Td
+(standard for detailed Electromagnetic Transient) Tj
+ET
+BT
+/F1 7.8 Tf
+58 500.3002 Td
+(\(EMT\) analysis in power grids?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 488.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 488.6002 Td
+(PSCAD / EMTDC) Tj
+ET
+BT
+/F2 7.4 Tf
+58 479.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 479.0002 Td
+(Microsoft Excel) Tj
+ET
+BT
+/F2 7.4 Tf
+58 469.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 469.4001 Td
+(SolidWorks) Tj
+ET
+BT
+/F2 7.4 Tf
+58 459.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 459.8001 Td
+(ANSYS Fluent) Tj
+ET
+BT
+/F2 8.0 Tf
+42 436.2001 Td
+(5.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 436.2001 Td
+(Which enterprise software suite is widely used) Tj
+ET
+BT
+/F1 7.8 Tf
+58 427.0001 Td
+(in power utilities for load flow, short-circuit,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 417.8001 Td
+(protection coordination, and arc flash analysis?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 406.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 406.1001 Td
+(ETAP \(Electrical Transient Analyzer Program\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 396.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 396.5001 Td
+(Eclipse IDE) Tj
+ET
+BT
+/F2 7.4 Tf
+58 386.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 386.9001 Td
+(Unity Engine) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.3001 Td
+(MATLAB Compiler) Tj
+ET
+BT
+/F2 8.0 Tf
+42 353.7001 Td
+(6.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 353.7001 Td
+(Which electromagnetic finite element analysis) Tj
+ET
+BT
+/F1 7.8 Tf
+58 344.5001 Td
+(\(FEA\) software by ANSYS is used to design) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.3 Td
+(electric motors, transformers, and actuators?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 323.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 323.6 Td
+(ANSYS Maxwell) Tj
+ET
+BT
+/F2 7.4 Tf
+58 314 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 314 Td
+(ANSYS Mechanical) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.4 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.4 Td
+(ANSYS Fluent) Tj
+ET
+BT
+/F2 7.4 Tf
+58 294.8 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 294.8 Td
+(ANSYS SpaceClaim) Tj
+ET
+BT
+/F2 8.0 Tf
+42 271.2 Td
+(7.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 271.2 Td
+(Which high-speed simulation software specialized) Tj
+ET
+BT
+/F1 7.8 Tf
+58 262 Td
+(for power electronic circuits uses piecewise) Tj
+ET
+BT
+/F1 7.8 Tf
+58 252.8 Td
+(linear state-space models?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 241.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 241.1 Td
+(PLECS) Tj
+ET
+BT
+/F2 7.4 Tf
+58 231.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 231.5 Td
+(LabVIEW) Tj
+ET
+BT
+/F2 7.4 Tf
+58 221.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 221.9 Td
+(CorelDRAW) Tj
+ET
+BT
+/F2 7.4 Tf
+58 212.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 212.3 Td
+(Photoshop) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(8.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Which free, highly popular SPICE simulation) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(software developed by Linear Technology \(Analog) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(Devices\) is standard in analog circuit design?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(LTspice) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.3 Td
+(AutoCAD Electrical) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.7 Td
+(Altium Viewer) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.1 Td
+(Proteus Free) Tj
+ET
+BT
+/F2 8.0 Tf
+306 701.5001 Td
+(9.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(What professional electronic design automation) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(\(EDA\) software suite is widely used for) Tj
+ET
+BT
+/F1 7.8 Tf
+322 683.1 Td
+(industrial PCB schematic and multi-layer layout?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.4 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.4 Td
+(Altium Designer) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.8 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.8 Td
+(Microsoft Paint) Tj
+ET
+BT
+/F2 7.4 Tf
+322 652.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 652.2001 Td
+(LibreOffice Draw) Tj
+ET
+BT
+/F2 7.4 Tf
+322 642.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 642.6001 Td
+(Notepad++) Tj
+ET
+BT
+/F2 8.0 Tf
+306 619.0001 Td
+(10.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(Which open-source, community-driven) Tj
+ET
+BT
+/F1 7.8 Tf
+322 609.8001 Td
+(cross-platform EDA software suite is widely) Tj
+ET
+BT
+/F1 7.8 Tf
+322 600.6001 Td
+(adopted for PCB design in university labs?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.9001 Td
+(KiCad) Tj
+ET
+BT
+/F2 7.4 Tf
+322 579.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 579.3001 Td
+(Eagle Freeware) Tj
+ET
+BT
+/F2 7.4 Tf
+322 569.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 569.7001 Td
+(Tinkercad) Tj
+ET
+BT
+/F2 7.4 Tf
+322 560.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 560.1002 Td
+(Fritzing) Tj
+ET
+BT
+/F2 8.0 Tf
+306 536.5002 Td
+(11.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 536.5002 Td
+(What does PCB stand for in electronics hardware) Tj
+ET
+BT
+/F1 7.8 Tf
+322 527.3002 Td
+(engineering?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 515.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 515.6002 Td
+(Printed Circuit Board) Tj
+ET
+BT
+/F2 7.4 Tf
+322 506.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 506.0002 Td
+(Primary Current Busbar) Tj
+ET
+BT
+/F2 7.4 Tf
+322 496.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 496.4001 Td
+(Power Capacitor Bank) Tj
+ET
+BT
+/F2 7.4 Tf
+322 486.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 486.8001 Td
+(Phase Control Board) Tj
+ET
+BT
+/F2 8.0 Tf
+306 463.2001 Td
+(12.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 463.2001 Td
+(What standard file format is exported from PCB) Tj
+ET
+BT
+/F1 7.8 Tf
+322 454.0001 Td
+(CAD tools and submitted to fabrication houses) Tj
+ET
+BT
+/F1 7.8 Tf
+322 444.8001 Td
+(for board manufacturing?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 433.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 433.1001 Td
+(Gerber Files \(RS-274X\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 423.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 423.5001 Td
+(JPEG Image) Tj
+ET
+BT
+/F2 7.4 Tf
+322 413.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 413.9001 Td
+(MP3 Audio) Tj
+ET
+BT
+/F2 7.4 Tf
+322 404.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 404.3001 Td
+(DOCX Document) Tj
+ET
+BT
+/F2 8.0 Tf
+306 380.7001 Td
+(13.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 380.7001 Td
+(What parameter in power PCB design defines the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 371.5001 Td
+(shortest path between two conductive parts) Tj
+ET
+BT
+/F1 7.8 Tf
+322 362.3 Td
+(measured along the surface of the insulation?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 350.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 350.6 Td
+(Creepage Distance) Tj
+ET
+BT
+/F2 7.4 Tf
+322 341 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 341 Td
+(Clearance Distance) Tj
+ET
+BT
+/F2 7.4 Tf
+322 331.4 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 331.4 Td
+(Trace Width) Tj
+ET
+BT
+/F2 7.4 Tf
+322 321.8 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 321.8 Td
+(Via Aspect Ratio) Tj
+ET
+BT
+/F2 8.0 Tf
+306 298.2 Td
+(14.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 298.2 Td
+(What parameter defines the shortest distance) Tj
+ET
+BT
+/F1 7.8 Tf
+322 289 Td
+(through air between two conductive parts on a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 279.8 Td
+(circuit board?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 268.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 268.1 Td
+(Clearance Distance) Tj
+ET
+BT
+/F2 7.4 Tf
+322 258.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 258.5 Td
+(Creepage Distance) Tj
+ET
+BT
+/F2 7.4 Tf
+322 248.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 248.9 Td
+(Drill Hole Diameter) Tj
+ET
+BT
+/F2 7.4 Tf
+322 239.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 239.3 Td
+(Copper Weight) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 6 0 R /Resources << /Font << /F1 47 0 R /F2 48 0 R >> >> >>
+endobj
+6 0 obj
+<< /Length 9551 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 2 of 22) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(15.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What international safety standard governs) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(insulation coordination and clearance/creepage) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(distances in low-voltage equipment?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(IEC 60664) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.3 Td
+(ISO 9001) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.7 Td
+(IEEE 802.3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.1 Td
+(IP67) Tj
+ET
+BT
+/F2 8.0 Tf
+42 701.5001 Td
+(16.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(What test instrument measures electrical) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.3 Td
+(voltage, current, and resistance in a single) Tj
+ET
+BT
+/F1 7.8 Tf
+58 683.1 Td
+(handheld unit?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.4 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.4 Td
+(Digital Multimeter \(DMM\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.8 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.8 Td
+(Signal Generator) Tj
+ET
+BT
+/F2 7.4 Tf
+58 652.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 652.2001 Td
+(Spectrum Analyzer) Tj
+ET
+BT
+/F2 7.4 Tf
+58 642.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 642.6001 Td
+(Logic Analyzer) Tj
+ET
+BT
+/F2 8.0 Tf
+42 619.0001 Td
+(17.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.0001 Td
+(What primary test bench instrument displays) Tj
+ET
+BT
+/F1 7.8 Tf
+58 609.8001 Td
+(voltage waveforms as a function of time?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 598.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 598.1001 Td
+(Digital Storage Oscilloscope \(DSO\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.5001 Td
+(Frequency Counter) Tj
+ET
+BT
+/F2 7.4 Tf
+58 578.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 578.9001 Td
+(Function Generator) Tj
+ET
+BT
+/F2 7.4 Tf
+58 569.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 569.3002 Td
+(Megohmmeter) Tj
+ET
+BT
+/F2 8.0 Tf
+42 545.7002 Td
+(18.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 545.7002 Td
+(What specialized probe is required on an) Tj
+ET
+BT
+/F1 7.8 Tf
+58 536.5002 Td
+(oscilloscope to safely measure voltages floating) Tj
+ET
+BT
+/F1 7.8 Tf
+58 527.3002 Td
+(above ground potential in a power electronic) Tj
+ET
+BT
+/F1 7.8 Tf
+58 518.1002 Td
+(converter?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 506.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 506.4001 Td
+(High-Voltage Differential Probe) Tj
+ET
+BT
+/F2 7.4 Tf
+58 496.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 496.8001 Td
+(Standard 1X Passive Probe) Tj
+ET
+BT
+/F2 7.4 Tf
+58 487.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 487.2001 Td
+(BNC Coaxial Cable) Tj
+ET
+BT
+/F2 7.4 Tf
+58 477.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 477.6001 Td
+(Grounding Alligator Clip) Tj
+ET
+BT
+/F2 8.0 Tf
+42 454.0001 Td
+(19.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 454.0001 Td
+(What instrument measures the high insulation) Tj
+ET
+BT
+/F1 7.8 Tf
+58 444.8001 Td
+(resistance \(Megaohms/Gigaohms\) of motor windings) Tj
+ET
+BT
+/F1 7.8 Tf
+58 435.6001 Td
+(and power cables?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 423.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 423.9001 Td
+(Megger \(Megohmmeter / Insulation Tester\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 414.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 414.3001 Td
+(Digital Multimeter on ohms range) Tj
+ET
+BT
+/F2 7.4 Tf
+58 404.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 404.7001 Td
+(Galvanometer) Tj
+ET
+BT
+/F2 7.4 Tf
+58 395.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 395.1001 Td
+(LCR Meter) Tj
+ET
+BT
+/F2 8.0 Tf
+42 371.5001 Td
+(20.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 371.5001 Td
+(What instrument measures the loop impedance and) Tj
+ET
+BT
+/F1 7.8 Tf
+58 362.3 Td
+(resistance of a substation earthing grid?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 350.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 350.6 Td
+(Earth Resistance Tester \(Earth Ground) Tj
+ET
+BT
+/F1 7.4 Tf
+72 342 Td
+(Clamp/Tester\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 332.4 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 332.4 Td
+(Voltmeter) Tj
+ET
+BT
+/F2 7.4 Tf
+58 322.8 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 322.8 Td
+(Ammeter) Tj
+ET
+BT
+/F2 7.4 Tf
+58 313.2 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 313.2 Td
+(Oscilloscope) Tj
+ET
+BT
+/F2 8.0 Tf
+42 289.6 Td
+(21.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 289.6 Td
+(What does GATE stand for in Indian engineering) Tj
+ET
+BT
+/F1 7.8 Tf
+58 280.4 Td
+(qualifications?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 268.7 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 268.7 Td
+(Graduate Aptitude Test in Engineering) Tj
+ET
+BT
+/F2 7.4 Tf
+58 259.1 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 259.1 Td
+(General Assessment of Technical Education) Tj
+ET
+BT
+/F2 7.4 Tf
+58 249.5 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 249.5 Td
+(Graduate Admission Test for Engineers) Tj
+ET
+BT
+/F2 7.4 Tf
+58 239.9 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 239.9 Td
+(Global Assessment of Technology and) Tj
+ET
+BT
+/F1 7.4 Tf
+72 231.3 Td
+(Engineering) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(22.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Which national test score is used by Indian PSUs) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(\(BHEL, NTPC, PGCIL, IOCL\) for direct recruitment) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(of graduate engineers?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(GATE Score) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.3 Td
+(CAT Score) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.7 Td
+(GRE Score) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.1 Td
+(GMAT Score) Tj
+ET
+BT
+/F2 8.0 Tf
+306 701.5001 Td
+(23.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(What Indian premier engineering institutes offer) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(M.Tech and Ph.D. admissions based on GATE) Tj
+ET
+BT
+/F1 7.8 Tf
+322 683.1 Td
+(percentiles?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.4 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.4 Td
+(IITs \(Indian Institutes of Technology\) and) Tj
+ET
+BT
+/F1 7.4 Tf
+336 662.8 Td
+(IISc Bangalore) Tj
+ET
+BT
+/F2 7.4 Tf
+322 653.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 653.2001 Td
+(State Open Universities) Tj
+ET
+BT
+/F2 7.4 Tf
+322 643.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 643.6001 Td
+(Primary Schools) Tj
+ET
+BT
+/F2 7.4 Tf
+322 634.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 634.0001 Td
+(ITI Centers) Tj
+ET
+BT
+/F2 8.0 Tf
+306 610.4001 Td
+(24.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 610.4001 Td
+(What professional certification is granted by) Tj
+ET
+BT
+/F1 7.8 Tf
+322 601.2001 Td
+(the Bureau of Energy Efficiency \(BEE\) under the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 592.0001 Td
+(Ministry of Power, India?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 580.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 580.3001 Td
+(Certified Energy Manager \(CEM\) and Certified) Tj
+ET
+BT
+/F1 7.4 Tf
+336 571.7001 Td
+(Energy Auditor \(CEA\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 562.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 562.1002 Td
+(Chartered Accountant) Tj
+ET
+BT
+/F2 7.4 Tf
+322 552.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 552.5002 Td
+(Licensed Electrician Grade 3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 542.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 542.9002 Td
+(Safety Supervisor) Tj
+ET
+BT
+/F2 8.0 Tf
+306 519.3002 Td
+(25.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 519.3002 Td
+(What globally recognized project management) Tj
+ET
+BT
+/F1 7.8 Tf
+322 510.1002 Td
+(credential is administered by the Project) Tj
+ET
+BT
+/F1 7.8 Tf
+322 500.9002 Td
+(Management Institute \(PMI\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 489.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 489.2002 Td
+(Project Management Professional \(PMP\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 479.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 479.6002 Td
+(Six Sigma White Belt) Tj
+ET
+BT
+/F2 7.4 Tf
+322 470.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 470.0002 Td
+(Scrum Master Beginner) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.4002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.4002 Td
+(ITIL Foundation) Tj
+ET
+BT
+/F2 8.0 Tf
+306 436.8002 Td
+(26.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 436.8002 Td
+(What premier North American certification board) Tj
+ET
+BT
+/F1 7.8 Tf
+322 427.6002 Td
+(certifies solar photovoltaic installation) Tj
+ET
+BT
+/F1 7.8 Tf
+322 418.4001 Td
+(professionals?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 406.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 406.7001 Td
+(NABCEP \(North American Board of Certified) Tj
+ET
+BT
+/F1 7.4 Tf
+336 398.1001 Td
+(Energy Practitioners\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 388.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 388.5001 Td
+(IEEE Standards Board) Tj
+ET
+BT
+/F2 7.4 Tf
+322 378.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 378.9001 Td
+(UL Listed) Tj
+ET
+BT
+/F2 7.4 Tf
+322 369.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 369.3001 Td
+(ANSI Council) Tj
+ET
+BT
+/F2 8.0 Tf
+306 345.7001 Td
+(27.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 345.7001 Td
+(Which global student engineering competition) Tj
+ET
+BT
+/F1 7.8 Tf
+322 336.5001 Td
+(challenges universities to design, build, and) Tj
+ET
+BT
+/F1 7.8 Tf
+322 327.3001 Td
+(race a formula-style electric racecar?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 315.6001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 315.6001 Td
+(Formula Student Electric / Formula Bharat EV) Tj
+ET
+BT
+/F2 7.4 Tf
+322 306.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 306.0001 Td
+(World Solar Challenge) Tj
+ET
+BT
+/F2 7.4 Tf
+322 296.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 296.4001 Td
+(Shell Eco-marathon) Tj
+ET
+BT
+/F2 7.4 Tf
+322 286.8 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 286.8 Td
+(BAJA SAE Gas) Tj
+ET
+BT
+/F2 8.0 Tf
+306 263.2 Td
+(28.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 263.2 Td
+(In Formula Student Electric, what is the maximum) Tj
+ET
+BT
+/F1 7.8 Tf
+322 254 Td
+(allowable DC tractive system voltage under SAE) Tj
+ET
+BT
+/F1 7.8 Tf
+322 244.8 Td
+(rules?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 233.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 233.1001 Td
+(600 V DC) Tj
+ET
+BT
+/F2 7.4 Tf
+322 223.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 223.5 Td
+(12 V DC) Tj
+ET
+BT
+/F2 7.4 Tf
+322 213.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 213.9 Td
+(1000 V DC) Tj
+ET
+BT
+/F2 7.4 Tf
+322 204.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 204.3 Td
+(48 V DC) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 8 0 R /Resources << /Font << /F1 47 0 R /F2 48 0 R >> >> >>
+endobj
+8 0 obj
+<< /Length 10265 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 3 of 22) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(29.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(In electric racecar design, what safety circuit) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(immediately shuts down the high-voltage battery) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(contactors upon fault detection?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(Tractive System Active Light \(TSAL\) and) Tj
+ET
+BT
+/F1 7.4 Tf
+72 745.3 Td
+(Safety Interlock Loop / Shutdown Circuit) Tj
+ET
+BT
+/F2 7.4 Tf
+58 735.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 735.7 Td
+(Headlight Switch) Tj
+ET
+BT
+/F2 7.4 Tf
+58 726.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 726.1 Td
+(Stereo Volume Knob) Tj
+ET
+BT
+/F2 7.4 Tf
+58 716.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 716.5001 Td
+(Air Conditioner Clutch) Tj
+ET
+BT
+/F2 8.0 Tf
+42 692.9001 Td
+(30.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.9001 Td
+(What international student competition sponsored) Tj
+ET
+BT
+/F1 7.8 Tf
+58 683.7001 Td
+(by the U.S. Department of Energy challenges) Tj
+ET
+BT
+/F1 7.8 Tf
+58 674.5001 Td
+(teams to design zero-energy solar homes?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 662.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 662.8 Td
+(Solar Decathlon) Tj
+ET
+BT
+/F2 7.4 Tf
+58 653.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 653.2001 Td
+(Solar Grand Prix) Tj
+ET
+BT
+/F2 7.4 Tf
+58 643.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 643.6001 Td
+(Formula E) Tj
+ET
+BT
+/F2 7.4 Tf
+58 634.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 634.0001 Td
+(NASA Rover Challenge) Tj
+ET
+BT
+/F2 8.0 Tf
+42 610.4001 Td
+(31.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 610.4001 Td
+(What is India's premier nationwide innovation) Tj
+ET
+BT
+/F1 7.8 Tf
+58 601.2001 Td
+(competition organized by the Ministry of) Tj
+ET
+BT
+/F1 7.8 Tf
+58 592.0001 Td
+(Education for solving real-world government) Tj
+ET
+BT
+/F1 7.8 Tf
+58 582.8001 Td
+(problems?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 571.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 571.1001 Td
+(Smart India Hackathon \(SIH\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 561.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 561.5001 Td
+(Techfest) Tj
+ET
+BT
+/F2 7.4 Tf
+58 551.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 551.9001 Td
+(National Science Olympiad) Tj
+ET
+BT
+/F2 7.4 Tf
+58 542.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 542.3002 Td
+(Codeforces) Tj
+ET
+BT
+/F2 8.0 Tf
+42 518.7002 Td
+(32.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 518.7002 Td
+(Which global student competition challenges) Tj
+ET
+BT
+/F1 7.8 Tf
+58 509.5002 Td
+(teams to achieve the ultimate energy efficiency) Tj
+ET
+BT
+/F1 7.8 Tf
+58 500.3002 Td
+(\(highest distance traveled per kWh or liter of) Tj
+ET
+BT
+/F1 7.8 Tf
+58 491.1002 Td
+(fuel\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 479.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 479.4001 Td
+(Shell Eco-marathon) Tj
+ET
+BT
+/F2 7.4 Tf
+58 469.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 469.8001 Td
+(Formula 1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.2001 Td
+(Indy 500) Tj
+ET
+BT
+/F2 7.4 Tf
+58 450.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 450.6001 Td
+(Baja 1000) Tj
+ET
+BT
+/F2 8.0 Tf
+42 427.0001 Td
+(33.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 427.0001 Td
+(Which student design challenge organized by the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 417.8001 Td
+(IEEE Power & Energy Society rewards innovative) Tj
+ET
+BT
+/F1 7.8 Tf
+58 408.6001 Td
+(microgrid and renewable energy designs?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 396.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 396.9001 Td
+(IEEE PES Student Design Contest) Tj
+ET
+BT
+/F2 7.4 Tf
+58 387.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 387.3001 Td
+(ACM ICPC) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.7001 Td
+(Google Summer of Code) Tj
+ET
+BT
+/F2 7.4 Tf
+58 368.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 368.1001 Td
+(Kaggle Grandmaster Challenge) Tj
+ET
+BT
+/F2 8.0 Tf
+42 344.5001 Td
+(34.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 344.5001 Td
+(What is the primary function of a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.3 Td
+(Hardware-in-the-Loop \(HIL\) simulator like) Tj
+ET
+BT
+/F1 7.8 Tf
+58 326.1 Td
+(Typhoon HIL or OPAL-RT in power electronics R&D?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 314.4 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 314.4 Td
+(Emulates physical converters and power grids) Tj
+ET
+BT
+/F1 7.4 Tf
+72 305.8 Td
+(in real-time on FPGAs to test physical) Tj
+ET
+BT
+/F1 7.4 Tf
+72 297.2 Td
+(embedded controllers safely without) Tj
+ET
+BT
+/F1 7.4 Tf
+72 288.6 Td
+(high-voltage hazards) Tj
+ET
+BT
+/F2 7.4 Tf
+58 279 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 279 Td
+(Compiles C++ code to PDF) Tj
+ET
+BT
+/F2 7.4 Tf
+58 269.4 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 269.4 Td
+(Draws circuit schematics) Tj
+ET
+BT
+/F2 7.4 Tf
+58 259.8 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 259.8 Td
+(Prints 3D plastic enclosures) Tj
+ET
+BT
+/F2 8.0 Tf
+42 236.2 Td
+(35.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 236.2 Td
+(What standard communication bus is used in) Tj
+ET
+BT
+/F1 7.8 Tf
+58 227 Td
+(laboratory bench test instruments to connect to) Tj
+ET
+BT
+/F1 7.8 Tf
+58 217.8 Td
+(a PC via GPIB, USB, or Ethernet?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 206.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 206.1 Td
+(VISA \(Virtual Instrument Software) Tj
+ET
+BT
+/F1 7.4 Tf
+72 197.5 Td
+(Architecture\) / SCPI) Tj
+ET
+BT
+/F2 7.4 Tf
+58 187.9 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 187.9 Td
+(Bluetooth LE) Tj
+ET
+BT
+/F2 7.4 Tf
+58 178.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 178.3 Td
+(Zigbee) Tj
+ET
+BT
+/F2 7.4 Tf
+58 168.7 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 168.7 Td
+(MIDI) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(36.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What Python library provides complete) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(instrumentation control over VISA test) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(equipment?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(PyVISA) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.3 Td
+(NumPy) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.7 Td
+(Pandas) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.1 Td
+(Matplotlib) Tj
+ET
+BT
+/F2 8.0 Tf
+306 701.5001 Td
+(37.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(What standard human-readable command string) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(queries the instrument identity of any) Tj
+ET
+BT
+/F1 7.8 Tf
+322 683.1 Td
+(SCPI-compliant multimeter or oscilloscope?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.4 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.4 Td
+(`*IDN?`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.8 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.8 Td
+(`WHO_ARE_YOU?`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 652.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 652.2001 Td
+(`PING`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 642.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 642.6001 Td
+(`GET_MODEL`) Tj
+ET
+BT
+/F2 8.0 Tf
+306 619.0001 Td
+(38.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(What does ANSI stand for in electrical) Tj
+ET
+BT
+/F1 7.8 Tf
+322 609.8001 Td
+(engineering standards?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 598.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 598.1001 Td
+(American National Standards Institute) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.5001 Td
+(All National Standards Institute) Tj
+ET
+BT
+/F2 7.4 Tf
+322 578.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 578.9001 Td
+(Associated Network Safety Institute) Tj
+ET
+BT
+/F2 7.4 Tf
+322 569.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 569.3002 Td
+(Advanced Numerical System Index) Tj
+ET
+BT
+/F2 8.0 Tf
+306 545.7002 Td
+(39.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 545.7002 Td
+(What does IEC stand for in international) Tj
+ET
+BT
+/F1 7.8 Tf
+322 536.5002 Td
+(electrical standards?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.8002 Td
+(International Electrotechnical Commission) Tj
+ET
+BT
+/F2 7.4 Tf
+322 515.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 515.2002 Td
+(Indian Electrical Council) Tj
+ET
+BT
+/F2 7.4 Tf
+322 505.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 505.6002 Td
+(Interstate Energy Corporation) Tj
+ET
+BT
+/F2 7.4 Tf
+322 496.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 496.0002 Td
+(Institute of Electronic Controls) Tj
+ET
+BT
+/F2 8.0 Tf
+306 472.4002 Td
+(40.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 472.4002 Td
+(What Indian national standards body formulates) Tj
+ET
+BT
+/F1 7.8 Tf
+322 463.2002 Td
+(Indian Standards \(IS\) for electrical equipment) Tj
+ET
+BT
+/F1 7.8 Tf
+322 454.0002 Td
+(and installations?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 442.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 442.3001 Td
+(BIS \(Bureau of Indian Standards\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 432.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 432.7001 Td
+(BEE) Tj
+ET
+BT
+/F2 7.4 Tf
+322 423.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 423.1001 Td
+(CEA) Tj
+ET
+BT
+/F2 7.4 Tf
+322 413.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 413.5001 Td
+(CERC) Tj
+ET
+BT
+/F2 8.0 Tf
+306 389.9001 Td
+(41.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 389.9001 Td
+(In MATLAB/Simulink Simscape Electrical, what is) Tj
+ET
+BT
+/F1 7.8 Tf
+322 380.7001 Td
+(the fundamental difference between 'Continuous') Tj
+ET
+BT
+/F1 7.8 Tf
+322 371.5001 Td
+(and 'Discrete' solver modes in the powergui) Tj
+ET
+BT
+/F1 7.8 Tf
+322 362.3001 Td
+(block?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 350.6001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 350.6001 Td
+(Continuous mode solves differential) Tj
+ET
+BT
+/F1 7.4 Tf
+336 342.0001 Td
+(equations with variable time steps; Discrete) Tj
+ET
+BT
+/F1 7.4 Tf
+336 333.4001 Td
+(mode executes fixed-step Tustin/Euler) Tj
+ET
+BT
+/F1 7.4 Tf
+336 324.8 Td
+(integration for fast, deterministic) Tj
+ET
+BT
+/F1 7.4 Tf
+336 316.2 Td
+(simulation) Tj
+ET
+BT
+/F2 7.4 Tf
+322 306.6 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 306.6 Td
+(Continuous mode is for DC only) Tj
+ET
+BT
+/F2 7.4 Tf
+322 297 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 297 Td
+(Discrete mode cannot model switches) Tj
+ET
+BT
+/F2 7.4 Tf
+322 287.4 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 287.4 Td
+(There is no difference) Tj
+ET
+BT
+/F2 8.0 Tf
+306 263.8 Td
+(42.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 263.8 Td
+(What is the 'Phasor' simulation mode in Simscape) Tj
+ET
+BT
+/F1 7.8 Tf
+322 254.6 Td
+(Electrical powergui designed for?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 242.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 242.9 Td
+(Simulating electromechanical transient) Tj
+ET
+BT
+/F1 7.4 Tf
+336 234.3 Td
+(stability and power flow in large) Tj
+ET
+BT
+/F1 7.4 Tf
+336 225.7 Td
+(multi-machine grids without calculating) Tj
+ET
+BT
+/F1 7.4 Tf
+336 217.1 Td
+(microsecond switching details) Tj
+ET
+BT
+/F2 7.4 Tf
+322 207.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 207.5 Td
+(High-frequency RF antenna radiation) Tj
+ET
+BT
+/F2 7.4 Tf
+322 197.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 197.9 Td
+(Thermal heat dissipation) Tj
+ET
+BT
+/F2 7.4 Tf
+322 188.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 188.3 Td
+(Single-cell battery chemistry) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 10 0 R /Resources << /Font << /F1 47 0 R /F2 48 0 R >> >> >>
+endobj
+10 0 obj
+<< /Length 12029 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 4 of 22) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(43.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(In PSCAD/EMTDC simulation, how are transmission) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(lines and cables modeled to capture) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(frequency-dependent wave propagation accurately?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(Frequency-Dependent Phase Model \(Bergeron) Tj
+ET
+BT
+/F1 7.4 Tf
+72 745.3 Td
+(and J.Marti models\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 735.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 735.7 Td
+(Simple lump resistor) Tj
+ET
+BT
+/F2 7.4 Tf
+58 726.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 726.1 Td
+(Pure ideal capacitor) Tj
+ET
+BT
+/F2 7.4 Tf
+58 716.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 716.5001 Td
+(Constant inductors) Tj
+ET
+BT
+/F2 8.0 Tf
+42 692.9001 Td
+(44.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.9001 Td
+(What numerical integration method does EMTDC use) Tj
+ET
+BT
+/F1 7.8 Tf
+58 683.7001 Td
+(to solve differential equations of) Tj
+ET
+BT
+/F1 7.8 Tf
+58 674.5001 Td
+(electromagnetic networks?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 662.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 662.8 Td
+(Dommel's method using the Trapezoidal Rule) Tj
+ET
+BT
+/F1 7.4 Tf
+72 654.2001 Td
+(to convert R, L, C elements into algebraic) Tj
+ET
+BT
+/F1 7.4 Tf
+72 645.6001 Td
+(companion circuits) Tj
+ET
+BT
+/F2 7.4 Tf
+58 636.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 636.0001 Td
+(Forward Euler only) Tj
+ET
+BT
+/F2 7.4 Tf
+58 626.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 626.4001 Td
+(Runge-Kutta 2nd order) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.8002 Td
+(Monte Carlo sampling) Tj
+ET
+BT
+/F2 8.0 Tf
+42 593.2002 Td
+(45.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 593.2002 Td
+(In ETAP, what does an 'Arc Flash Analysis') Tj
+ET
+BT
+/F1 7.8 Tf
+58 584.0002 Td
+(determine for electrical distribution) Tj
+ET
+BT
+/F1 7.8 Tf
+58 574.8002 Td
+(switchgear?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 563.1002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 563.1002 Td
+(Incident energy levels \($\\text{cal/cm}^2$\),) Tj
+ET
+BT
+/F1 7.4 Tf
+72 554.5002 Td
+(arc flash boundaries, and required Personal) Tj
+ET
+BT
+/F1 7.4 Tf
+72 545.9002 Td
+(Protective Equipment \(PPE\) categories) Tj
+ET
+BT
+/F1 7.4 Tf
+72 537.3002 Td
+(according to IEEE 1584) Tj
+ET
+BT
+/F2 7.4 Tf
+58 527.7003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 527.7003 Td
+(Switchgear paint thickness) Tj
+ET
+BT
+/F2 7.4 Tf
+58 518.1003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 518.1003 Td
+(Power factor penalties) Tj
+ET
+BT
+/F2 7.4 Tf
+58 508.5003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 508.5003 Td
+(Cable scrap value) Tj
+ET
+BT
+/F2 8.0 Tf
+42 484.9003 Td
+(46.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 484.9003 Td
+(What is a 'Star Coordination Plot' in ETAP) Tj
+ET
+BT
+/F1 7.8 Tf
+58 475.7003 Td
+(protection engineering?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 464.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 464.0002 Td
+(A Time-Current Characteristic \(TCC\) curve) Tj
+ET
+BT
+/F1 7.4 Tf
+72 455.4002 Td
+(plotting relay trip curves, fuse curves, and) Tj
+ET
+BT
+/F1 7.4 Tf
+72 446.8002 Td
+(cable thermal damage curves to verify) Tj
+ET
+BT
+/F1 7.4 Tf
+72 438.2002 Td
+(selectivity) Tj
+ET
+BT
+/F2 7.4 Tf
+58 428.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 428.6002 Td
+(A stellar astronomical chart) Tj
+ET
+BT
+/F2 7.4 Tf
+58 419.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 419.0002 Td
+(A radar diagram) Tj
+ET
+BT
+/F2 7.4 Tf
+58 409.4002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 409.4002 Td
+(A 3D motor model) Tj
+ET
+BT
+/F2 8.0 Tf
+42 385.8002 Td
+(47.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 385.8002 Td
+(In finite element analysis of an electric motor) Tj
+ET
+BT
+/F1 7.8 Tf
+58 376.6002 Td
+(with ANSYS Maxwell, what does the non-linear B-H) Tj
+ET
+BT
+/F1 7.8 Tf
+58 367.4002 Td
+(curve represent?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 355.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 355.7002 Td
+(Magnetic saturation characteristics of the) Tj
+ET
+BT
+/F1 7.4 Tf
+72 347.1002 Td
+(stator and rotor electrical steel) Tj
+ET
+BT
+/F1 7.4 Tf
+72 338.5002 Td
+(laminations) Tj
+ET
+BT
+/F2 7.4 Tf
+58 328.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 328.9001 Td
+(Thermal conductivity of copper) Tj
+ET
+BT
+/F2 7.4 Tf
+58 319.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 319.3001 Td
+(Mechanical tensile strength) Tj
+ET
+BT
+/F2 7.4 Tf
+58 309.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 309.7001 Td
+(Dielectric breakdown of varnish) Tj
+ET
+BT
+/F2 8.0 Tf
+42 286.1001 Td
+(48.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 286.1001 Td
+(What are 'Core Losses' calculated by ANSYS) Tj
+ET
+BT
+/F1 7.8 Tf
+58 276.9001 Td
+(Maxwell in electromagnetic machines composed of?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 265.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 265.2001 Td
+(Hysteresis loss and Eddy current loss) Tj
+ET
+BT
+/F1 7.4 Tf
+72 256.6001 Td
+(\(including excess losses\) in the iron core) Tj
+ET
+BT
+/F2 7.4 Tf
+58 247.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 247.0001 Td
+(Friction and windage losses) Tj
+ET
+BT
+/F2 7.4 Tf
+58 237.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 237.4001 Td
+(Ohmic copper loss) Tj
+ET
+BT
+/F2 7.4 Tf
+58 227.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 227.8001 Td
+(Contact resistance) Tj
+ET
+BT
+/F2 8.0 Tf
+42 204.2001 Td
+(49.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 204.2001 Td
+(Why are laminated electrical steel sheets used) Tj
+ET
+BT
+/F1 7.8 Tf
+58 195.0001 Td
+(in transformer cores and motor stators instead) Tj
+ET
+BT
+/F1 7.8 Tf
+58 185.8001 Td
+(of solid steel blocks?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 174.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 174.1001 Td
+(To break up conductive paths, dramatically) Tj
+ET
+BT
+/F1 7.4 Tf
+72 165.5001 Td
+(reducing circulating eddy currents and core) Tj
+ET
+BT
+/F1 7.4 Tf
+72 156.9001 Td
+(heating losses) Tj
+ET
+BT
+/F2 7.4 Tf
+58 147.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 147.3001 Td
+(To reduce mechanical strength) Tj
+ET
+BT
+/F2 7.4 Tf
+58 137.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 137.7001 Td
+(To increase weight) Tj
+ET
+BT
+/F2 7.4 Tf
+58 128.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 128.1001 Td
+(To make manufacturing difficult) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(50.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(In high-frequency power electronics PCB design,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(what is the critical design rule regarding the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(power loop area \(e.g. switch, diode, and DC link) Tj
+ET
+BT
+/F1 7.8 Tf
+322 756.4 Td
+(capacitor\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.7 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.7 Td
+(Minimize loop area to reduce parasitic loop) Tj
+ET
+BT
+/F1 7.4 Tf
+336 736.1 Td
+(inductance \($L_{loop}$\), preventing) Tj
+ET
+BT
+/F1 7.4 Tf
+336 727.5 Td
+(high-voltage turn-off ringing \($V = L) Tj
+ET
+BT
+/F1 7.4 Tf
+336 718.9 Td
+(\\frac{di}{dt}$\) and EMI emissions) Tj
+ET
+BT
+/F2 7.4 Tf
+322 709.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 709.3 Td
+(Maximize loop area for cooling) Tj
+ET
+BT
+/F2 7.4 Tf
+322 699.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 699.7001 Td
+(Loop area does not matter) Tj
+ET
+BT
+/F2 7.4 Tf
+322 690.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 690.1001 Td
+(Run loop traces through ground pins) Tj
+ET
+BT
+/F2 8.0 Tf
+306 666.5001 Td
+(51.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 666.5001 Td
+(What is the purpose of 'Thermal Vias' placed) Tj
+ET
+BT
+/F1 7.8 Tf
+322 657.3001 Td
+(under a surface-mount power MOSFET or voltage) Tj
+ET
+BT
+/F1 7.8 Tf
+322 648.1001 Td
+(regulator IC on a PCB?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 636.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 636.4001 Td
+(Conducts heat away from the semiconductor) Tj
+ET
+BT
+/F1 7.4 Tf
+336 627.8001 Td
+(die through copper-plated holes to an) Tj
+ET
+BT
+/F1 7.4 Tf
+336 619.2001 Td
+(internal or bottom ground copper pour plane) Tj
+ET
+BT
+/F2 7.4 Tf
+322 609.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 609.6002 Td
+(Vents hot air bubbles) Tj
+ET
+BT
+/F2 7.4 Tf
+322 600.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 600.0002 Td
+(Improves electrical insulation) Tj
+ET
+BT
+/F2 7.4 Tf
+322 590.4002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 590.4002 Td
+(Reduces solder usage) Tj
+ET
+BT
+/F2 8.0 Tf
+306 566.8002 Td
+(52.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 566.8002 Td
+(What is the standard copper thickness designated) Tj
+ET
+BT
+/F1 7.8 Tf
+322 557.6002 Td
+(as '1 oz copper' on a PCB layer?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 545.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 545.9002 Td
+(35 micrometers \($\\mu\\text{m}$\) or 1.37 mils) Tj
+ET
+BT
+/F2 7.4 Tf
+322 536.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 536.3002 Td
+(70 micrometers) Tj
+ET
+BT
+/F2 7.4 Tf
+322 526.7003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 526.7003 Td
+(1 millimeter) Tj
+ET
+BT
+/F2 7.4 Tf
+322 517.1003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 517.1003 Td
+(10 micrometers) Tj
+ET
+BT
+/F2 8.0 Tf
+306 493.5003 Td
+(53.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 493.5003 Td
+(What design precaution must be taken when) Tj
+ET
+BT
+/F1 7.8 Tf
+322 484.3003 Td
+(routing high-speed differential signal pairs) Tj
+ET
+BT
+/F1 7.8 Tf
+322 475.1003 Td
+(\(such as CANbus or USB\) on a multi-layer PCB?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 463.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 463.4002 Td
+(Maintain tightly matched trace lengths) Tj
+ET
+BT
+/F1 7.4 Tf
+336 454.8002 Td
+(\(within millimeters\) and constant) Tj
+ET
+BT
+/F1 7.4 Tf
+336 446.2002 Td
+(differential characteristic impedance \(e.g.) Tj
+ET
+BT
+/F1 7.4 Tf
+336 437.6002 Td
+($120\\,\\Omega$ for CAN, $90\\,\\Omega$ for USB\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 428.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 428.0002 Td
+(Route traces on opposite sides of board) Tj
+ET
+BT
+/F2 7.4 Tf
+322 418.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 418.4002 Td
+(Add random spiral loops) Tj
+ET
+BT
+/F2 7.4 Tf
+322 408.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 408.8002 Td
+(Cross traces perpendicular to each other) Tj
+ET
+BT
+/F2 8.0 Tf
+306 385.2002 Td
+(54.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 385.2002 Td
+(Why is an unbroken reference ground plane) Tj
+ET
+BT
+/F1 7.8 Tf
+322 376.0002 Td
+(essential underneath high-speed digital and) Tj
+ET
+BT
+/F1 7.8 Tf
+322 366.8002 Td
+(switching power traces on a 4-layer PCB?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 355.1002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 355.1002 Td
+(Provides a continuous, low-impedance return) Tj
+ET
+BT
+/F1 7.4 Tf
+336 346.5002 Td
+(current path directly beneath the signal) Tj
+ET
+BT
+/F1 7.4 Tf
+336 337.9001 Td
+(trace, minimizing loop inductance and) Tj
+ET
+BT
+/F1 7.4 Tf
+336 329.3001 Td
+(radiated emissions) Tj
+ET
+BT
+/F2 7.4 Tf
+322 319.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 319.7001 Td
+(Ground planes absorb moisture) Tj
+ET
+BT
+/F2 7.4 Tf
+322 310.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 310.1001 Td
+(Ground planes add structural stiffness only) Tj
+ET
+BT
+/F2 7.4 Tf
+322 300.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 300.5001 Td
+(Ground planes increase circuit resistance) Tj
+ET
+BT
+/F2 8.0 Tf
+306 276.9001 Td
+(55.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 276.9001 Td
+(What is the difference between an oscilloscope's) Tj
+ET
+BT
+/F1 7.8 Tf
+322 267.7001 Td
+('Bandwidth' and its 'Sampling Rate'?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 256.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 256.0001 Td
+(Bandwidth is the analog frequency at which) Tj
+ET
+BT
+/F1 7.4 Tf
+336 247.4001 Td
+(input signal amplitude is attenuated by -3) Tj
+ET
+BT
+/F1 7.4 Tf
+336 238.8001 Td
+(dB; Sampling rate is the number of ADC) Tj
+ET
+BT
+/F1 7.4 Tf
+336 230.2001 Td
+(samples acquired per second \(Samples/sec\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 220.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 220.6001 Td
+(Bandwidth is for DC; Sampling rate is for AC) Tj
+ET
+BT
+/F2 7.4 Tf
+322 211.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 211.0001 Td
+(They are identical metrics) Tj
+ET
+BT
+/F2 7.4 Tf
+322 201.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 201.4001 Td
+(Sampling rate controls screen brightness) Tj
+ET
+BT
+/F2 8.0 Tf
+306 177.8 Td
+(56.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 177.8 Td
+(According to the Nyquist-Shannon criterion, what) Tj
+ET
+BT
+/F1 7.8 Tf
+322 168.6001 Td
+(minimum real-time sampling rate is recommended) Tj
+ET
+BT
+/F1 7.8 Tf
+322 159.4001 Td
+(relative to an oscilloscope's analog bandwidth) Tj
+ET
+BT
+/F1 7.8 Tf
+322 150.2001 Td
+(to reconstruct waveforms accurately?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 138.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 138.5001 Td
+(At least 4 to 5 times the analog bandwidth) Tj
+ET
+BT
+/F2 7.4 Tf
+322 128.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 128.9001 Td
+(Exactly 0.5 times bandwidth) Tj
+ET
+BT
+/F2 7.4 Tf
+322 119.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 119.3001 Td
+(Equal to bandwidth) Tj
+ET
+BT
+/F2 7.4 Tf
+322 109.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 109.7001 Td
+(100 times bandwidth) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 12 0 R /Resources << /Font << /F1 47 0 R /F2 48 0 R >> >> >>
+endobj
+12 0 obj
+<< /Length 10870 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 5 of 22) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(57.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What does an oscilloscope probe's '10X) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(attenuation' setting achieve compared to '1X'?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(Increases input impedance to $10\\text{) Tj
+ET
+BT
+/F1 7.4 Tf
+72 754.5 Td
+(M}\\Omega$ and slashes capacitive loading \(to) Tj
+ET
+BT
+/F1 7.4 Tf
+72 745.9 Td
+(~10 pF\), allowing measurement of) Tj
+ET
+BT
+/F1 7.4 Tf
+72 737.3 Td
+(high-voltage and high-frequency signals) Tj
+ET
+BT
+/F2 7.4 Tf
+58 727.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 727.7001 Td
+(Amplifies signal by 10x) Tj
+ET
+BT
+/F2 7.4 Tf
+58 718.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 718.1001 Td
+(Causes signal distortion) Tj
+ET
+BT
+/F2 7.4 Tf
+58 708.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 708.5001 Td
+(Limits bandwidth to 1 kHz) Tj
+ET
+BT
+/F2 8.0 Tf
+42 684.9001 Td
+(58.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 684.9001 Td
+(What is an FFT \(Fast Fourier Transform\) math) Tj
+ET
+BT
+/F1 7.8 Tf
+58 675.7001 Td
+(function on a modern oscilloscope used for?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 664.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 664.0001 Td
+(Displays the frequency spectrum \(magnitude) Tj
+ET
+BT
+/F1 7.4 Tf
+72 655.4001 Td
+(in dB vs frequency\) of the measured) Tj
+ET
+BT
+/F1 7.4 Tf
+72 646.8002 Td
+(time-domain waveform to analyze harmonic) Tj
+ET
+BT
+/F1 7.4 Tf
+72 638.2002 Td
+(distortion and EMI) Tj
+ET
+BT
+/F2 7.4 Tf
+58 628.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 628.6002 Td
+(Integrates voltage to find charge) Tj
+ET
+BT
+/F2 7.4 Tf
+58 619.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 619.0002 Td
+(Measures DC current) Tj
+ET
+BT
+/F2 7.4 Tf
+58 609.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 609.4003 Td
+(Saves screenshots) Tj
+ET
+BT
+/F2 8.0 Tf
+42 585.8003 Td
+(59.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 585.8003 Td
+(What test instrument generates customizable) Tj
+ET
+BT
+/F1 7.8 Tf
+58 576.6003 Td
+(waveforms \(sine, square, arbitrary, pulse, ramp\)) Tj
+ET
+BT
+/F1 7.8 Tf
+58 567.4003 Td
+(with calibrated frequency and amplitude?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 555.7003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 555.7003 Td
+(Arbitrary Function / Waveform Generator \(AFG) Tj
+ET
+BT
+/F1 7.4 Tf
+72 547.1003 Td
+(/ AWG\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 537.5003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 537.5003 Td
+(Spectrum Analyzer) Tj
+ET
+BT
+/F2 7.4 Tf
+58 527.9003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 527.9003 Td
+(Frequency Counter) Tj
+ET
+BT
+/F2 7.4 Tf
+58 518.3004 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 518.3004 Td
+(Oscilloscope) Tj
+ET
+BT
+/F2 8.0 Tf
+42 494.7003 Td
+(60.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 494.7003 Td
+(What test instrument measures the power) Tj
+ET
+BT
+/F1 7.8 Tf
+58 485.5003 Td
+(distribution of an electrical signal across a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 476.3003 Td
+(wide range of radio frequencies?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 464.6003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 464.6003 Td
+(RF Spectrum Analyzer) Tj
+ET
+BT
+/F2 7.4 Tf
+58 455.0003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 455.0003 Td
+(Voltmeter) Tj
+ET
+BT
+/F2 7.4 Tf
+58 445.4003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 445.4003 Td
+(Megger) Tj
+ET
+BT
+/F2 7.4 Tf
+58 435.8003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 435.8003 Td
+(LCR Meter) Tj
+ET
+BT
+/F2 8.0 Tf
+42 412.2003 Td
+(61.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 412.2003 Td
+(What instrument measures the precise inductance) Tj
+ET
+BT
+/F1 7.8 Tf
+58 403.0003 Td
+(\(L\), capacitance \(C\), and resistance \(R\) of) Tj
+ET
+BT
+/F1 7.8 Tf
+58 393.8003 Td
+(electrical components at varying test) Tj
+ET
+BT
+/F1 7.8 Tf
+58 384.6003 Td
+(frequencies?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 372.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 372.9002 Td
+(Precision LCR Meter) Tj
+ET
+BT
+/F2 7.4 Tf
+58 363.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 363.3002 Td
+(Ohmmeter) Tj
+ET
+BT
+/F2 7.4 Tf
+58 353.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 353.7002 Td
+(Megohmmeter) Tj
+ET
+BT
+/F2 7.4 Tf
+58 344.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 344.1002 Td
+(Multimeter only) Tj
+ET
+BT
+/F2 8.0 Tf
+42 320.5002 Td
+(62.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 320.5002 Td
+(In a three-phase power quality analyzer, what) Tj
+ET
+BT
+/F1 7.8 Tf
+58 311.3002 Td
+(standard IEC 61000-4-30 Class A compliance) Tj
+ET
+BT
+/F1 7.8 Tf
+58 302.1002 Td
+(ensures?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 290.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 290.4002 Td
+(Highest precision measurement and) Tj
+ET
+BT
+/F1 7.4 Tf
+72 281.8002 Td
+(standardized aggregation intervals \(10) Tj
+ET
+BT
+/F1 7.4 Tf
+72 273.2002 Td
+(cycles / 2 hours\) ensuring legally binding) Tj
+ET
+BT
+/F1 7.4 Tf
+72 264.6002 Td
+(power quality reports) Tj
+ET
+BT
+/F2 7.4 Tf
+58 255.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 255.0002 Td
+(Basic consumer safety) Tj
+ET
+BT
+/F2 7.4 Tf
+58 245.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 245.4001 Td
+(Plastic flame retardancy) Tj
+ET
+BT
+/F2 7.4 Tf
+58 235.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 235.8001 Td
+(Battery life index) Tj
+ET
+BT
+/F2 8.0 Tf
+42 212.2001 Td
+(63.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 212.2001 Td
+(What electrical power quality parameter measures) Tj
+ET
+BT
+/F1 7.8 Tf
+58 203.0001 Td
+(brief reductions in RMS voltage \(typically 10%) Tj
+ET
+BT
+/F1 7.8 Tf
+58 193.8001 Td
+(to 90% dip for 0.5 cycles to 1 minute\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 182.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 182.1001 Td
+(Voltage Sag \(Dip\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 172.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 172.5001 Td
+(Voltage Swell) Tj
+ET
+BT
+/F2 7.4 Tf
+58 162.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 162.9001 Td
+(Transient Surge) Tj
+ET
+BT
+/F2 7.4 Tf
+58 153.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 153.3001 Td
+(Harmonic Intermodulation) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(64.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What power quality parameter measures a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(temporary increase in RMS voltage above 110% of) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(nominal?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(Voltage Swell) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.3 Td
+(Voltage Sag) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.7 Td
+(Flicker) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.1 Td
+(Phase Unbalance) Tj
+ET
+BT
+/F2 8.0 Tf
+306 701.5001 Td
+(65.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(What causes 'Voltage Flicker' in industrial) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(distribution networks, and how is it quantified?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.6 Td
+(Rapid, repetitive voltage fluctuations) Tj
+ET
+BT
+/F1 7.4 Tf
+336 672.0001 Td
+(caused by heavy dynamic loads like electric) Tj
+ET
+BT
+/F1 7.4 Tf
+336 663.4001 Td
+(arc furnaces; quantified by Short-Term) Tj
+ET
+BT
+/F1 7.4 Tf
+336 654.8001 Td
+(Flicker Severity \($P_{st}$\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 645.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 645.2001 Td
+(Loose light bulbs) Tj
+ET
+BT
+/F2 7.4 Tf
+322 635.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 635.6002 Td
+(Low battery charge) Tj
+ET
+BT
+/F2 7.4 Tf
+322 626.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 626.0002 Td
+(Direct current leakage) Tj
+ET
+BT
+/F2 8.0 Tf
+306 602.4002 Td
+(66.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 602.4002 Td
+(What safety classification on multimeters \(CAT) Tj
+ET
+BT
+/F1 7.8 Tf
+322 593.2002 Td
+(I, CAT II, CAT III, CAT IV under IEC 61010\)) Tj
+ET
+BT
+/F1 7.8 Tf
+322 584.0002 Td
+(designates tools rated for outdoor service) Tj
+ET
+BT
+/F1 7.8 Tf
+322 574.8002 Td
+(entrance and main utility meters?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 563.1002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 563.1002 Td
+(CAT IV \(highest transient impulse withstand) Tj
+ET
+BT
+/F1 7.4 Tf
+336 554.5002 Td
+(capability, up to 8 kV\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 544.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 544.9002 Td
+(CAT I) Tj
+ET
+BT
+/F2 7.4 Tf
+322 535.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 535.3002 Td
+(CAT II) Tj
+ET
+BT
+/F2 7.4 Tf
+322 525.7003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 525.7003 Td
+(CAT III) Tj
+ET
+BT
+/F2 8.0 Tf
+306 502.1003 Td
+(67.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 502.1003 Td
+(In industrial motor testing, what is the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 492.9003 Td
+('Blocked Rotor Test' of an induction motor) Tj
+ET
+BT
+/F1 7.8 Tf
+322 483.7003 Td
+(equivalent to in transformer testing?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 472.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 472.0002 Td
+(Short-Circuit Test, determining equivalent) Tj
+ET
+BT
+/F1 7.4 Tf
+336 463.4002 Td
+(leakage impedance and full-load copper) Tj
+ET
+BT
+/F1 7.4 Tf
+336 454.8002 Td
+(losses) Tj
+ET
+BT
+/F2 7.4 Tf
+322 445.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 445.2002 Td
+(Open-Circuit Test) Tj
+ET
+BT
+/F2 7.4 Tf
+322 435.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 435.6002 Td
+(Temperature rise test) Tj
+ET
+BT
+/F2 7.4 Tf
+322 426.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 426.0002 Td
+(Insulation flashover test) Tj
+ET
+BT
+/F2 8.0 Tf
+306 402.4002 Td
+(68.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 402.4002 Td
+(What does the 'No-Load Test' of an induction) Tj
+ET
+BT
+/F1 7.8 Tf
+322 393.2002 Td
+(motor determine?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 381.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 381.5002 Td
+(Core iron loss and friction & windage) Tj
+ET
+BT
+/F1 7.4 Tf
+336 372.9002 Td
+(mechanical losses) Tj
+ET
+BT
+/F2 7.4 Tf
+322 363.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 363.3002 Td
+(Full-load rotor copper loss) Tj
+ET
+BT
+/F2 7.4 Tf
+322 353.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 353.7002 Td
+(Starting torque) Tj
+ET
+BT
+/F2 7.4 Tf
+322 344.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 344.1002 Td
+(Rotor resistance) Tj
+ET
+BT
+/F2 8.0 Tf
+306 320.5002 Td
+(69.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 320.5002 Td
+(In high-voltage power transformer testing, what) Tj
+ET
+BT
+/F1 7.8 Tf
+322 311.3001 Td
+(is the 'Tan Delta' \(Dissipation Factor\) test) Tj
+ET
+BT
+/F1 7.8 Tf
+322 302.1001 Td
+(used for?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 290.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 290.4001 Td
+(Measures dielectric power loss factor) Tj
+ET
+BT
+/F1 7.4 Tf
+336 281.8001 Td
+(\($\\tan\\delta$\) of the insulation system to) Tj
+ET
+BT
+/F1 7.4 Tf
+336 273.2001 Td
+(evaluate moisture contamination and) Tj
+ET
+BT
+/F1 7.4 Tf
+336 264.6001 Td
+(degradation aging) Tj
+ET
+BT
+/F2 7.4 Tf
+322 255.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 255.0001 Td
+(Measures winding turns ratio) Tj
+ET
+BT
+/F2 7.4 Tf
+322 245.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 245.4001 Td
+(Checks oil volume) Tj
+ET
+BT
+/F2 7.4 Tf
+322 235.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 235.8001 Td
+(Measures acoustic noise) Tj
+ET
+BT
+/F2 8.0 Tf
+306 212.2001 Td
+(70.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 212.2001 Td
+(What test verifies the turns ratio and polarity) Tj
+ET
+BT
+/F1 7.8 Tf
+322 203.0001 Td
+(of high-voltage potential transformers and power) Tj
+ET
+BT
+/F1 7.8 Tf
+322 193.8001 Td
+(transformers?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 182.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 182.1001 Td
+(Turns Ratio Test \(TTR\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 172.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 172.5001 Td
+(Hi-Pot DC test) Tj
+ET
+BT
+/F2 7.4 Tf
+322 162.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 162.9001 Td
+(Megger test) Tj
+ET
+BT
+/F2 7.4 Tf
+322 153.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 153.3001 Td
+(Dielectric breakdown test) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 14 0 R /Resources << /Font << /F1 47 0 R /F2 48 0 R >> >> >>
+endobj
+14 0 obj
+<< /Length 12172 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 6 of 22) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(71.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What does 'Hi-Pot' \(High Potential\) testing) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(determine for newly fabricated electrical) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(machinery and cables?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(Verifies that the insulation can withstand) Tj
+ET
+BT
+/F1 7.4 Tf
+72 745.3 Td
+(severe overvoltages without dielectric) Tj
+ET
+BT
+/F1 7.4 Tf
+72 736.7 Td
+(puncture breakdown) Tj
+ET
+BT
+/F2 7.4 Tf
+58 727.1 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 727.1 Td
+(Measures motor efficiency) Tj
+ET
+BT
+/F2 7.4 Tf
+58 717.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 717.5001 Td
+(Tests cooling fans) Tj
+ET
+BT
+/F2 7.4 Tf
+58 707.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 707.9001 Td
+(Checks bolt torque) Tj
+ET
+BT
+/F2 8.0 Tf
+42 684.3001 Td
+(72.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 684.3001 Td
+(In embedded motor drives, what hardware) Tj
+ET
+BT
+/F1 7.8 Tf
+58 675.1001 Td
+(peripheral converts optical incremental encoder) Tj
+ET
+BT
+/F1 7.8 Tf
+58 665.9001 Td
+(pulses into rotor position angles without CPU) Tj
+ET
+BT
+/F1 7.8 Tf
+58 656.7001 Td
+(overhead?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 645.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 645.0001 Td
+(Quadrature Encoder Interface \(QEI\) /) Tj
+ET
+BT
+/F1 7.4 Tf
+72 636.4001 Td
+(Enhanced QEP \(eQEP\) module) Tj
+ET
+BT
+/F2 7.4 Tf
+58 626.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 626.8001 Td
+(General Purpose Timer in capture mode) Tj
+ET
+BT
+/F2 7.4 Tf
+58 617.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 617.2001 Td
+(UART receiver) Tj
+ET
+BT
+/F2 7.4 Tf
+58 607.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 607.6002 Td
+(ADC converter) Tj
+ET
+BT
+/F2 8.0 Tf
+42 584.0002 Td
+(73.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 584.0002 Td
+(What communication protocol is the global) Tj
+ET
+BT
+/F1 7.8 Tf
+58 574.8002 Td
+(standard for industrial battery energy storage) Tj
+ET
+BT
+/F1 7.8 Tf
+58 565.6002 Td
+(systems \(BESS\) and inverter control in) Tj
+ET
+BT
+/F1 7.8 Tf
+58 556.4001 Td
+(microgrids?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 544.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 544.7001 Td
+(Modbus TCP / SunSpec Modbus) Tj
+ET
+BT
+/F2 7.4 Tf
+58 535.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 535.1002 Td
+(HTTP/2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 525.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 525.5002 Td
+(Telnet) Tj
+ET
+BT
+/F2 7.4 Tf
+58 515.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 515.9002 Td
+(Apple AirDrop) Tj
+ET
+BT
+/F2 8.0 Tf
+42 492.3002 Td
+(74.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 492.3002 Td
+(In hardware development, what is 'Smoke) Tj
+ET
+BT
+/F1 7.8 Tf
+58 483.1002 Td
+(Testing'?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 471.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 471.4002 Td
+(Initial power-up of a newly assembled PCB) Tj
+ET
+BT
+/F1 7.4 Tf
+72 462.8002 Td
+(with a current-limited bench power supply to) Tj
+ET
+BT
+/F1 7.4 Tf
+72 454.2002 Td
+(verify there are no dead shorts or) Tj
+ET
+BT
+/F1 7.4 Tf
+72 445.6002 Td
+(catastrophic component fires) Tj
+ET
+BT
+/F2 7.4 Tf
+58 436.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 436.0002 Td
+(Burning plastic cables) Tj
+ET
+BT
+/F2 7.4 Tf
+58 426.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 426.4001 Td
+(Testing fire alarms) Tj
+ET
+BT
+/F2 7.4 Tf
+58 416.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 416.8001 Td
+(Testing exhaust fans) Tj
+ET
+BT
+/F2 8.0 Tf
+42 393.2001 Td
+(75.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 393.2001 Td
+(What bench equipment provides adjustable,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 384.0001 Td
+(current-limited, low-noise DC voltages for) Tj
+ET
+BT
+/F1 7.8 Tf
+58 374.8001 Td
+(prototyping electronic circuits?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 363.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 363.1001 Td
+(Regulated DC Bench Power Supply) Tj
+ET
+BT
+/F2 7.4 Tf
+58 353.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 353.5001 Td
+(Car Battery) Tj
+ET
+BT
+/F2 7.4 Tf
+58 343.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 343.9001 Td
+(Wall outlet adapter) Tj
+ET
+BT
+/F2 7.4 Tf
+58 334.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 334.3001 Td
+(Piezo igniter) Tj
+ET
+BT
+/F2 8.0 Tf
+42 310.7001 Td
+(76.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 310.7001 Td
+(In finite element electromagnetic analysis) Tj
+ET
+BT
+/F1 7.8 Tf
+58 301.5001 Td
+(\(FEA\), how does the 'Transient with Motion') Tj
+ET
+BT
+/F1 7.8 Tf
+58 292.3 Td
+(solver in ANSYS Maxwell couple physical physics?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 280.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 280.6 Td
+(Solves Maxwell's non-linear field equations) Tj
+ET
+BT
+/F1 7.4 Tf
+72 272 Td
+(coupled with mechanical rotor equations of) Tj
+ET
+BT
+/F1 7.4 Tf
+72 263.4 Td
+(motion \($J \\ddot{\\theta} + b \\dot{\\theta} =) Tj
+ET
+BT
+/F1 7.4 Tf
+72 254.8 Td
+(T_e - T_L$\) and circuit equations at every) Tj
+ET
+BT
+/F1 7.4 Tf
+72 246.2 Td
+(time step) Tj
+ET
+BT
+/F2 7.4 Tf
+58 236.6 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 236.6 Td
+(Solves heat transfer only) Tj
+ET
+BT
+/F2 7.4 Tf
+58 227 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 227 Td
+(Solves static DC fields only) Tj
+ET
+BT
+/F2 7.4 Tf
+58 217.4 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 217.4 Td
+(Calculates CAD drawings) Tj
+ET
+BT
+/F2 8.0 Tf
+42 193.8 Td
+(77.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 193.8 Td
+(In high-frequency transformer and inductor) Tj
+ET
+BT
+/F1 7.8 Tf
+58 184.6 Td
+(design, what mathematical effect causes AC) Tj
+ET
+BT
+/F1 7.8 Tf
+58 175.4 Td
+(current in one conductor to be constricted by) Tj
+ET
+BT
+/F1 7.8 Tf
+58 166.2 Td
+(magnetic fields from neighboring conductors?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 154.5 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 154.5 Td
+(Proximity Effect, which exponentially) Tj
+ET
+BT
+/F1 7.4 Tf
+72 145.9 Td
+(increases AC winding resistance beyond) Tj
+ET
+BT
+/F1 7.4 Tf
+72 137.3 Td
+(standard skin effect predictions) Tj
+ET
+BT
+/F2 7.4 Tf
+58 127.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 127.7 Td
+(Hall effect) Tj
+ET
+BT
+/F2 7.4 Tf
+58 118.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 118.1 Td
+(Edison effect) Tj
+ET
+BT
+/F2 7.4 Tf
+58 108.5 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 108.5 Td
+(Meissner effect) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(78.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What specialized wire made of multiple) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(independently insulated strands woven together) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(is mandatory for high-frequency transformers to) Tj
+ET
+BT
+/F1 7.8 Tf
+322 756.4 Td
+(defeat skin and proximity effects?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.7 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.7 Td
+(Litz Wire) Tj
+ET
+BT
+/F2 7.4 Tf
+322 735.1 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 735.1 Td
+(Solid Copper Rod) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.5 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.5 Td
+(Steel Rebar) Tj
+ET
+BT
+/F2 7.4 Tf
+322 715.9 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 715.9 Td
+(Iron Wire) Tj
+ET
+BT
+/F2 8.0 Tf
+306 693.9715 Td
+(79.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 693.9715 Td
+(In Formula Bharat / Formula Student EV design,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 684.7715 Td
+(how is the Accumulator Management System \(AMS\)) Tj
+ET
+BT
+/F1 7.8 Tf
+322 675.5715 Td
+(mandated to isolate the tractive system during) Tj
+ET
+BT
+/F1 7.8 Tf
+322 666.3715 Td
+(an insulation fault?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 654.6714 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 654.6714 Td
+(An Insulation Monitoring Device \(IMD, e.g.) Tj
+ET
+BT
+/F1 7.4 Tf
+336 646.0715 Td
+(Bender A-ISOMETER\) continuously measures) Tj
+ET
+BT
+/F1 7.4 Tf
+336 637.4715 Td
+(chassis isolation resistance; if resistance) Tj
+ET
+BT
+/F1 7.4 Tf
+336 628.8715 Td
+(falls below $500\\,\\Omega/\\text{V}$, it opens) Tj
+ET
+BT
+/F1 7.4 Tf
+336 620.2715 Td
+(the safety shutdown loop) Tj
+ET
+BT
+/F2 7.4 Tf
+322 610.6716 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 610.6716 Td
+(It sounds a horn) Tj
+ET
+BT
+/F2 7.4 Tf
+322 601.0716 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 601.0716 Td
+(It flashes a screen) Tj
+ET
+BT
+/F2 7.4 Tf
+322 591.4716 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 591.4716 Td
+(It dials emergency services) Tj
+ET
+BT
+/F2 8.0 Tf
+306 569.5431 Td
+(80.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 569.5431 Td
+(What is the primary role of a Pre-Charge Circuit) Tj
+ET
+BT
+/F1 7.8 Tf
+322 560.3431 Td
+(in an electric vehicle high-voltage DC bus?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 548.6431 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 548.6431 Td
+(Slowly charges the large inverter DC bus) Tj
+ET
+BT
+/F1 7.4 Tf
+336 540.0431 Td
+(capacitors through a current-limiting) Tj
+ET
+BT
+/F1 7.4 Tf
+336 531.4431 Td
+(resistor before closing main contactors,) Tj
+ET
+BT
+/F1 7.4 Tf
+336 522.8431 Td
+(preventing destructive contactor welding) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.2432 Td
+(currents) Tj
+ET
+BT
+/F2 7.4 Tf
+322 504.6432 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 504.6432 Td
+(Charges 12V auxiliary battery) Tj
+ET
+BT
+/F2 7.4 Tf
+322 495.0432 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 495.0432 Td
+(Preheats tires) Tj
+ET
+BT
+/F2 7.4 Tf
+322 485.4431 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 485.4431 Td
+(Heats motor windings) Tj
+ET
+BT
+/F2 8.0 Tf
+306 463.5146 Td
+(81.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 463.5146 Td
+(What circuit element dissipates high-voltage DC) Tj
+ET
+BT
+/F1 7.8 Tf
+322 454.3145 Td
+(bus energy in an electric vehicle within 5) Tj
+ET
+BT
+/F1 7.8 Tf
+322 445.1145 Td
+(seconds when the shutdown loop trips?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 433.4145 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 433.4145 Td
+(Active / Passive Discharge Circuit) Tj
+ET
+BT
+/F2 7.4 Tf
+322 423.8145 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 423.8145 Td
+(Brake calipers) Tj
+ET
+BT
+/F2 7.4 Tf
+322 414.2145 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 414.2145 Td
+(Fuse box) Tj
+ET
+BT
+/F2 7.4 Tf
+322 404.6145 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 404.6145 Td
+(Radiator) Tj
+ET
+BT
+/F2 8.0 Tf
+306 382.6859 Td
+(82.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 382.6859 Td
+(In real-time Hardware-in-the-Loop \(HIL\)) Tj
+ET
+BT
+/F1 7.8 Tf
+322 373.4859 Td
+(simulators, what is the typical execution time) Tj
+ET
+BT
+/F1 7.8 Tf
+322 364.2859 Td
+(step required to simulate 100 kHz SiC MOSFET) Tj
+ET
+BT
+/F1 7.8 Tf
+322 355.0859 Td
+(converter switching accurately?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 343.3859 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 343.3859 Td
+(Sub-microsecond time steps \(typically 100 to) Tj
+ET
+BT
+/F1 7.4 Tf
+336 334.7859 Td
+(500 nanoseconds executed on dedicated Xilinx) Tj
+ET
+BT
+/F1 7.4 Tf
+336 326.1859 Td
+(FPGAs\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 316.5858 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 316.5858 Td
+(1 millisecond on CPU) Tj
+ET
+BT
+/F2 7.4 Tf
+322 306.9858 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 306.9858 Td
+(10 seconds) Tj
+ET
+BT
+/F2 7.4 Tf
+322 297.3858 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 297.3858 Td
+(1 minute) Tj
+ET
+BT
+/F2 8.0 Tf
+306 275.4572 Td
+(83.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 275.4572 Td
+(What is 'Control Hardware-in-the-Loop' \(C-HIL\)) Tj
+ET
+BT
+/F1 7.8 Tf
+322 266.2572 Td
+(versus 'Power Hardware-in-the-Loop' \(P-HIL\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 254.5572 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 254.5572 Td
+(C-HIL interfaces simulated low-voltage) Tj
+ET
+BT
+/F1 7.4 Tf
+336 245.9572 Td
+(signals with physical embedded controllers;) Tj
+ET
+BT
+/F1 7.4 Tf
+336 237.3572 Td
+(P-HIL couples a simulated grid with physical) Tj
+ET
+BT
+/F1 7.4 Tf
+336 228.7572 Td
+(power equipment \(e.g. 500 kW real inverter\)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 220.1572 Td
+(via high-power 4-quadrant amplifiers) Tj
+ET
+BT
+/F2 7.4 Tf
+322 210.5572 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 210.5572 Td
+(C-HIL is for computers; P-HIL is for phones) Tj
+ET
+BT
+/F2 7.4 Tf
+322 200.9572 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 200.9572 Td
+(There is no difference) Tj
+ET
+BT
+/F2 7.4 Tf
+322 191.3572 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 191.3572 Td
+(P-HIL is purely software) Tj
+ET
+BT
+/F2 8.0 Tf
+306 169.4286 Td
+(84.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 169.4286 Td
+(In ETAP load flow analysis, why does the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 160.2286 Td
+(Newton-Raphson method fail to converge on) Tj
+ET
+BT
+/F1 7.8 Tf
+322 151.0286 Td
+(ill-conditioned distribution networks with high) Tj
+ET
+BT
+/F1 7.8 Tf
+322 141.8286 Td
+(R/X ratios?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 130.1286 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 130.1286 Td
+(The standard decoupling assumptions break) Tj
+ET
+BT
+/F1 7.4 Tf
+336 121.5286 Td
+(down and the Jacobian matrix becomes) Tj
+ET
+BT
+/F1 7.4 Tf
+336 112.9286 Td
+(near-singular; requiring specialized) Tj
+ET
+BT
+/F1 7.4 Tf
+336 104.3286 Td
+(Newton-Raphson with damping or) Tj
+ET
+BT
+/F1 7.4 Tf
+336 95.72861 Td
+(Forward-Backward Sweep algorithms) Tj
+ET
+BT
+/F2 7.4 Tf
+322 86.12861 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 86.12861 Td
+(ETAP has bugs) Tj
+ET
+BT
+/F2 7.4 Tf
+322 76.52861 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 76.52861 Td
+(R/X ratio is always zero) Tj
+ET
+BT
+/F2 7.4 Tf
+322 66.92861 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 66.92861 Td
+(Power flow is impossible) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 16 0 R /Resources << /Font << /F1 47 0 R /F2 48 0 R >> >> >>
+endobj
+16 0 obj
+<< /Length 12535 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 7 of 22) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(85.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(In PSCAD/EMTDC, what is the 'Multiple Run') Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(optimization feature used for in transmission) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(engineering?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(Executes automated parameter sweeps \(e.g.) Tj
+ET
+BT
+/F1 7.4 Tf
+72 745.3 Td
+(hundreds of fault angles, breaker closing) Tj
+ET
+BT
+/F1 7.4 Tf
+72 736.7 Td
+(times\) to determine statistical overvoltage) Tj
+ET
+BT
+/F1 7.4 Tf
+72 728.1 Td
+(distributions and surge arrester energy) Tj
+ET
+BT
+/F1 7.4 Tf
+72 719.5001 Td
+(ratings) Tj
+ET
+BT
+/F2 7.4 Tf
+58 709.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 709.9001 Td
+(Runs multiple copies on printer) Tj
+ET
+BT
+/F2 7.4 Tf
+58 700.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 700.3001 Td
+(Installs updates) Tj
+ET
+BT
+/F2 7.4 Tf
+58 690.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 690.7001 Td
+(Backs up files) Tj
+ET
+BT
+/F2 8.0 Tf
+42 667.543 Td
+(86.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 667.543 Td
+(In high-power PCB design for SiC power modules,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 658.343 Td
+(what is 'Kelvin Source' connection, and why is) Tj
+ET
+BT
+/F1 7.8 Tf
+58 649.143 Td
+(it critical?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 637.443 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 637.443 Td
+(A dedicated secondary terminal connected) Tj
+ET
+BT
+/F1 7.4 Tf
+72 628.843 Td
+(directly to the MOSFET source die,) Tj
+ET
+BT
+/F1 7.4 Tf
+72 620.243 Td
+(separating gate drive return current from) Tj
+ET
+BT
+/F1 7.4 Tf
+72 611.6431 Td
+(high-power drain-source switching current to) Tj
+ET
+BT
+/F1 7.4 Tf
+72 603.0431 Td
+(eliminate source inductance feedback) Tj
+ET
+BT
+/F2 7.4 Tf
+58 593.4431 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 593.4431 Td
+(A ground wire) Tj
+ET
+BT
+/F2 7.4 Tf
+58 583.8431 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 583.8431 Td
+(A temperature sensor) Tj
+ET
+BT
+/F2 7.4 Tf
+58 574.2432 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 574.2432 Td
+(A mounting screw) Tj
+ET
+BT
+/F2 8.0 Tf
+42 551.0861 Td
+(87.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 551.0861 Td
+(What mathematical metric evaluates the severity) Tj
+ET
+BT
+/F1 7.8 Tf
+58 541.886 Td
+(of Electromagnetic Interference \(EMI\) emissions) Tj
+ET
+BT
+/F1 7.8 Tf
+58 532.686 Td
+(in a conducted emissions test \(150 kHz to 30) Tj
+ET
+BT
+/F1 7.8 Tf
+58 523.486 Td
+(MHz\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 511.786 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 511.786 Td
+(Quasi-Peak and Average detector measurements) Tj
+ET
+BT
+/F1 7.4 Tf
+72 503.186 Td
+(in $\\text{dB}\\mu\\text{V}$ using a Line) Tj
+ET
+BT
+/F1 7.4 Tf
+72 494.586 Td
+(Impedance Stabilization Network \(LISN\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 484.986 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 484.986 Td
+(Total Harmonic Distortion) Tj
+ET
+BT
+/F2 7.4 Tf
+58 475.386 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 475.386 Td
+(Power factor) Tj
+ET
+BT
+/F2 7.4 Tf
+58 465.786 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 465.786 Td
+(RMS voltage) Tj
+ET
+BT
+/F2 8.0 Tf
+42 442.6288 Td
+(88.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 442.6288 Td
+(What is the function of a Line Impedance) Tj
+ET
+BT
+/F1 7.8 Tf
+58 433.4288 Td
+(Stabilization Network \(LISN\) in automotive and) Tj
+ET
+BT
+/F1 7.8 Tf
+58 424.2288 Td
+(industrial EMC qualification testing?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 412.5288 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 412.5288 Td
+(Provides a standardized $50\\,\\Omega$ RF) Tj
+ET
+BT
+/F1 7.4 Tf
+72 403.9288 Td
+(impedance across the DUT power terminals and) Tj
+ET
+BT
+/F1 7.4 Tf
+72 395.3288 Td
+(isolates utility power noise from the) Tj
+ET
+BT
+/F1 7.4 Tf
+72 386.7288 Td
+(spectrum analyzer) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.1288 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.1288 Td
+(Filters out DC voltage) Tj
+ET
+BT
+/F2 7.4 Tf
+58 367.5288 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 367.5288 Td
+(Converts AC to 12V) Tj
+ET
+BT
+/F2 7.4 Tf
+58 357.9288 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 357.9288 Td
+(Grounds the operator) Tj
+ET
+BT
+/F2 8.0 Tf
+42 334.7716 Td
+(89.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 334.7716 Td
+(In an industrial SCADA system, what is the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 325.5716 Td
+('Historian' database engine designed for?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 313.8716 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 313.8716 Td
+(Time-series database optimized for) Tj
+ET
+BT
+/F1 7.4 Tf
+72 305.2716 Td
+(high-speed continuous logging, lossless) Tj
+ET
+BT
+/F1 7.4 Tf
+72 296.6716 Td
+(compression, and retrieval of millions of) Tj
+ET
+BT
+/F1 7.4 Tf
+72 288.0716 Td
+(sensor telemetry points per second) Tj
+ET
+BT
+/F2 7.4 Tf
+58 278.4716 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 278.4716 Td
+(Stores employee payroll) Tj
+ET
+BT
+/F2 7.4 Tf
+58 268.8716 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 268.8716 Td
+(Draws user interfaces) Tj
+ET
+BT
+/F2 7.4 Tf
+58 259.2716 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 259.2716 Td
+(Sends email alerts) Tj
+ET
+BT
+/F2 8.0 Tf
+42 236.1144 Td
+(90.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 236.1144 Td
+(What open communication standard under OPC) Tj
+ET
+BT
+/F1 7.8 Tf
+58 226.9144 Td
+(Foundation enables secure, vendor-neutral data) Tj
+ET
+BT
+/F1 7.8 Tf
+58 217.7144 Td
+(exchange from factory floor PLCs to cloud) Tj
+ET
+BT
+/F1 7.8 Tf
+58 208.5144 Td
+(enterprise systems?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 196.8144 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 196.8144 Td
+(OPC UA \(Open Platform Communications Unified) Tj
+ET
+BT
+/F1 7.4 Tf
+72 188.2144 Td
+(Architecture\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 178.6144 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 178.6144 Td
+(Modbus RTU) Tj
+ET
+BT
+/F2 7.4 Tf
+58 169.0144 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 169.0144 Td
+(DNP3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 159.4144 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 159.4144 Td
+(RS-232) Tj
+ET
+BT
+/F2 8.0 Tf
+42 136.2573 Td
+(91.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 136.2573 Td
+(In building energy modeling for the Solar) Tj
+ET
+BT
+/F1 7.8 Tf
+58 127.0573 Td
+(Decathlon, what simulation engine by the U.S.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 117.8573 Td
+(DOE models whole-building energy consumption,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 108.6573 Td
+(HVAC dynamics, and solar gain?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 96.95728 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 96.95728 Td
+(EnergyPlus / OpenStudio) Tj
+ET
+BT
+/F2 7.4 Tf
+58 87.35728 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 87.35728 Td
+(AutoCAD) Tj
+ET
+BT
+/F2 7.4 Tf
+58 77.75728 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 77.75728 Td
+(SolidWorks) Tj
+ET
+BT
+/F2 7.4 Tf
+58 68.15728 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 68.15728 Td
+(MATLAB Compiler) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(92.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What is a 'Net Zero Energy Building' \(NZEB\)) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(certified in student green architectural) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(competitions?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(A high-performance building where the total) Tj
+ET
+BT
+/F1 7.4 Tf
+336 745.3 Td
+(annual on-site renewable energy generated) Tj
+ET
+BT
+/F1 7.4 Tf
+336 736.7 Td
+(equals or exceeds the total annual energy) Tj
+ET
+BT
+/F1 7.4 Tf
+336 728.1 Td
+(consumed by the building) Tj
+ET
+BT
+/F2 7.4 Tf
+322 718.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 718.5001 Td
+(A building without electricity) Tj
+ET
+BT
+/F2 7.4 Tf
+322 708.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 708.9001 Td
+(A house with zero windows) Tj
+ET
+BT
+/F2 7.4 Tf
+322 699.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 699.3001 Td
+(A building disconnected from sewer lines) Tj
+ET
+BT
+/F2 8.0 Tf
+306 675.7001 Td
+(93.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 675.7001 Td
+(What is the role of an In-Circuit) Tj
+ET
+BT
+/F1 7.8 Tf
+322 666.5001 Td
+(Programmer/Debugger \(such as ST-LINK V3 or) Tj
+ET
+BT
+/F1 7.8 Tf
+322 657.3001 Td
+(J-Link\) in embedded firmware development?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 645.6001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 645.6001 Td
+(Flashes compiled binary firmware into) Tj
+ET
+BT
+/F1 7.4 Tf
+336 637.0001 Td
+(microcontroller flash memory and supports) Tj
+ET
+BT
+/F1 7.4 Tf
+336 628.4001 Td
+(hardware breakpoints and register inspection) Tj
+ET
+BT
+/F1 7.4 Tf
+336 619.8002 Td
+(via SWD/JTAG interfaces) Tj
+ET
+BT
+/F2 7.4 Tf
+322 610.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 610.2002 Td
+(Measures battery voltage) Tj
+ET
+BT
+/F2 7.4 Tf
+322 600.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 600.6002 Td
+(Programs PLC ladder logic) Tj
+ET
+BT
+/F2 7.4 Tf
+322 591.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 591.0002 Td
+(Controls motor speed directly) Tj
+ET
+BT
+/F2 8.0 Tf
+306 567.4003 Td
+(94.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 567.4003 Td
+(In embedded firmware design, what is 'Static) Tj
+ET
+BT
+/F1 7.8 Tf
+322 558.2003 Td
+(Analysis' using tools like MISRA C compliance) Tj
+ET
+BT
+/F1 7.8 Tf
+322 549.0002 Td
+(checkers?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 537.3002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 537.3002 Td
+(Analyzing source code without executing it) Tj
+ET
+BT
+/F1 7.4 Tf
+336 528.7003 Td
+(to detect undefined behavior, buffer) Tj
+ET
+BT
+/F1 7.4 Tf
+336 520.1003 Td
+(overflows, and violations of safety-critical) Tj
+ET
+BT
+/F1 7.4 Tf
+336 511.5003 Td
+(embedded coding standards) Tj
+ET
+BT
+/F2 7.4 Tf
+322 501.9003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 501.9003 Td
+(Testing hardware with a meter) Tj
+ET
+BT
+/F2 7.4 Tf
+322 492.3003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 492.3003 Td
+(Compiling code on Linux) Tj
+ET
+BT
+/F2 7.4 Tf
+322 482.7003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 482.7003 Td
+(Measuring execution speed) Tj
+ET
+BT
+/F2 8.0 Tf
+306 459.1003 Td
+(95.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 459.1003 Td
+(What is 'Code Coverage' \(e.g. Statement, Branch,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 449.9002 Td
+(MC/DC\) in safety-critical avionics \(DO-178C\) and) Tj
+ET
+BT
+/F1 7.8 Tf
+322 440.7002 Td
+(automotive \(ISO 26262\) software verification?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 429.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 429.0002 Td
+(The percentage of source code structures) Tj
+ET
+BT
+/F1 7.4 Tf
+336 420.4002 Td
+(executed by the automated test suite;) Tj
+ET
+BT
+/F1 7.4 Tf
+336 411.8002 Td
+(Modified Condition/Decision Coverage \(MC/DC\)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 403.2002 Td
+(is mandatory for ASIL-D automotive safety) Tj
+ET
+BT
+/F2 7.4 Tf
+322 393.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 393.6002 Td
+(The length of code comments) Tj
+ET
+BT
+/F2 7.4 Tf
+322 384.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 384.0002 Td
+(The number of functions) Tj
+ET
+BT
+/F2 7.4 Tf
+322 374.4002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 374.4002 Td
+(The size of binary hex file) Tj
+ET
+BT
+/F2 8.0 Tf
+306 350.8002 Td
+(96.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 350.8002 Td
+(What is the functional safety standard governing) Tj
+ET
+BT
+/F1 7.8 Tf
+322 341.6002 Td
+(electrical, electronic, and programmable) Tj
+ET
+BT
+/F1 7.8 Tf
+322 332.4001 Td
+(electronic safety-related systems in road) Tj
+ET
+BT
+/F1 7.8 Tf
+322 323.2001 Td
+(vehicles?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 311.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 311.5001 Td
+(ISO 26262 \(Automotive Functional Safety\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 301.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 301.9001 Td
+(ISO 9001) Tj
+ET
+BT
+/F2 7.4 Tf
+322 292.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 292.3001 Td
+(IEEE 802.11) Tj
+ET
+BT
+/F2 7.4 Tf
+322 282.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 282.7001 Td
+(IEC 61850) Tj
+ET
+BT
+/F2 8.0 Tf
+306 259.1001 Td
+(97.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 259.1001 Td
+(In ISO 26262, what is an ASIL rating \(ASIL A, B,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 249.9001 Td
+(C, D\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 238.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 238.2001 Td
+(Automotive Safety Integrity Level, where) Tj
+ET
+BT
+/F1 7.4 Tf
+336 229.6001 Td
+(ASIL D represents the highest degree of) Tj
+ET
+BT
+/F1 7.4 Tf
+336 221.0001 Td
+(automotive hazard requiring the most) Tj
+ET
+BT
+/F1 7.4 Tf
+336 212.4001 Td
+(stringent safety design margins) Tj
+ET
+BT
+/F2 7.4 Tf
+322 202.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 202.8001 Td
+(Car engine horsepower class) Tj
+ET
+BT
+/F2 7.4 Tf
+322 193.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 193.2001 Td
+(Battery capacity grade) Tj
+ET
+BT
+/F2 7.4 Tf
+322 183.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 183.6001 Td
+(Emission sticker) Tj
+ET
+BT
+/F2 8.0 Tf
+306 160.0001 Td
+(98.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 160.0001 Td
+(What does the 'BEE Star Labeling' program) Tj
+ET
+BT
+/F1 7.8 Tf
+322 150.8001 Td
+(signify on Indian industrial electric motors and) Tj
+ET
+BT
+/F1 7.8 Tf
+322 141.6001 Td
+(distribution transformers?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 129.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 129.9001 Td
+(Energy efficiency rating from 1-Star to) Tj
+ET
+BT
+/F1 7.4 Tf
+336 121.3001 Td
+(5-Star, where 5-Star represents the lowest) Tj
+ET
+BT
+/F1 7.4 Tf
+336 112.7001 Td
+(energy loss and highest operating efficiency) Tj
+ET
+BT
+/F1 7.4 Tf
+336 104.1001 Td
+(\(IE3/IE4 class\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 94.50008 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 94.50008 Td
+(Durability against rain) Tj
+ET
+BT
+/F2 7.4 Tf
+322 84.90008 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 84.90008 Td
+(Number of warranty years) Tj
+ET
+BT
+/F2 7.4 Tf
+322 75.30008 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 75.30008 Td
+(Noise level rating) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 18 0 R /Resources << /Font << /F1 47 0 R /F2 48 0 R >> >> >>
+endobj
+18 0 obj
+<< /Length 2313 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 8 of 22) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(99.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(In an industrial substation commissioning) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(project, what is the difference between 'Cold) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(Commissioning' and 'Hot Commissioning'?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(Cold commissioning tests de-energized) Tj
+ET
+BT
+/F1 7.4 Tf
+72 745.3 Td
+(equipment \(insulation, wiring continuity,) Tj
+ET
+BT
+/F1 7.4 Tf
+72 736.7 Td
+(interlocks, relay secondary injection\); Hot) Tj
+ET
+BT
+/F1 7.4 Tf
+72 728.1 Td
+(commissioning energizes equipment at full) Tj
+ET
+BT
+/F1 7.4 Tf
+72 719.5001 Td
+(system voltage and load) Tj
+ET
+BT
+/F2 7.4 Tf
+58 709.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 709.9001 Td
+(Testing in winter vs summer) Tj
+ET
+BT
+/F2 7.4 Tf
+58 700.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 700.3001 Td
+(Testing with heated oil) Tj
+ET
+BT
+/F2 7.4 Tf
+58 690.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 690.7001 Td
+(Air conditioning tests) Tj
+ET
+BT
+/F2 8.0 Tf
+42 657.1002 Td
+(100.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 657.1002 Td
+(What technical philosophy underpins modern) Tj
+ET
+BT
+/F1 7.8 Tf
+58 647.9001 Td
+(engineering project management in high-stakes) Tj
+ET
+BT
+/F1 7.8 Tf
+58 638.7001 Td
+(competitions and real-world industrial) Tj
+ET
+BT
+/F1 7.8 Tf
+58 629.5001 Td
+(deployments?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 617.8001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 617.8001 Td
+(Systems Engineering: Decomposing complex) Tj
+ET
+BT
+/F1 7.4 Tf
+72 609.2001 Td
+(multidisciplinary requirements into) Tj
+ET
+BT
+/F1 7.4 Tf
+72 600.6002 Td
+(verifiable subsystems with rigorous) Tj
+ET
+BT
+/F1 7.4 Tf
+72 592.0002 Td
+(interface control, simulation validation,) Tj
+ET
+BT
+/F1 7.4 Tf
+72 583.4002 Td
+(and safety verification) Tj
+ET
+BT
+/F2 7.4 Tf
+58 573.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 573.8002 Td
+(Rushing directly to hardware soldering) Tj
+ET
+BT
+/F2 7.4 Tf
+58 564.2003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 564.2003 Td
+(Skipping computer simulations) Tj
+ET
+BT
+/F2 7.4 Tf
+58 554.6003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 554.6003 Td
+(Operating without safety circuits) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 20 0 R /Resources << /Font << /F1 47 0 R /F2 48 0 R >> >> >>
+endobj
+20 0 obj
+<< /Length 4812 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 9 of 22) Tj
+ET
+BT
+/F2 10 Tf
+45 780 Td
+(SECTION B: DESCRIPTIVE & SUBJECTIVE QUESTIONS) Tj
+ET
+BT
+/F2 8.5 Tf
+45 760 Td
+(Q1. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 760 Td
+(Explain the architecture, simulation solver modes \(Continuous, Discrete, Phasor\), and use cases of) Tj
+ET
+BT
+/F1 8.5 Tf
+72 749.5 Td
+(MATLAB/Simulink Simscape Electrical.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 724.5 Td
+(Q2. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 724.5 Td
+(Detail the principles, mathematical modeling, and operational applications of PSCAD/EMTDC in) Tj
+ET
+BT
+/F1 8.5 Tf
+72 714 Td
+(transmission system transients.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 689 Td
+(Q3. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 689 Td
+(Explain the capabilities and engineering methodology of ETAP for Load Flow, Short-Circuit, and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 678.5 Td
+(Protection Coordination.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 653.5 Td
+(Q4. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 653.5 Td
+(Analyze finite element electromagnetic analysis \(FEA\) using ANSYS Maxwell for electrical machine) Tj
+ET
+BT
+/F1 8.5 Tf
+72 643 Td
+(design.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 618 Td
+(Q5. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 618 Td
+(Detail high-power PCB layout design rules for SiC/GaN power electronic converters: parasitics,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 607.5 Td
+(creepage, and thermal dissipation.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 582.5 Td
+(Q6. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 582.5 Td
+(Explain the Graduate Aptitude Test in Engineering \(GATE\): Examination structure, syllabus scope,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 572 Td
+(and PSU recruitment dynamics.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 547 Td
+(Q7. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 547 Td
+(Detail the Bureau of Energy Efficiency \(BEE\) Certified Energy Auditor \(CEA\) qualification:) Tj
+ET
+BT
+/F1 8.5 Tf
+72 536.5 Td
+(Curriculum, industrial impact, and methodologies.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 511.5 Td
+(Q8. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 511.5 Td
+(Describe the engineering design challenge of Formula Student Electric / Formula Bharat EV,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 501 Td
+(focusing on the High-Voltage Accumulator.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 476 Td
+(Q9. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 476 Td
+(Explain the architecture of Hardware-in-the-Loop \(HIL\) test benches for testing digital power) Tj
+ET
+BT
+/F1 8.5 Tf
+72 465.5 Td
+(electronic controllers.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 440.5 Td
+(Q10. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 440.5 Td
+(Discuss student competitions like Solar Decathlon and Smart India Hackathon \(SIH\) and their role) Tj
+ET
+BT
+/F1 8.5 Tf
+72 430 Td
+(in developing professional engineering skills.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 405 Td
+(Q11. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 405 Td
+(Explain the measurement principles of Digital Storage Oscilloscopes \(DSOs\): Acquisition memory) Tj
+ET
+BT
+/F1 8.5 Tf
+72 394.5 Td
+(depth, trigger modes, and aliasing.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 369.5 Td
+(Q12. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 369.5 Td
+(Describe the working principles and calibration of a High-Voltage Differential Probe for power) Tj
+ET
+BT
+/F1 8.5 Tf
+72 359 Td
+(electronics measurements.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 334 Td
+(Q13. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 334 Td
+(Explain the design of high-current power busbars and trace sizing on multi-layer PCBs using) Tj
+ET
+BT
+/F1 8.5 Tf
+72 323.5 Td
+(IPC-2152 standards.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 298.5 Td
+(Q14. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 298.5 Td
+(Detail the principles of automated instrument control using Python PyVISA and standard SCPI) Tj
+ET
+BT
+/F1 8.5 Tf
+72 288 Td
+(commands.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 263 Td
+(Q15. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 263 Td
+(Explain the methodology of insulation coordination and impulse withstand voltage testing for) Tj
+ET
+BT
+/F1 8.5 Tf
+72 252.5 Td
+(electrical equipment.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 227.5 Td
+(Q16. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 227.5 Td
+(Detail the safety protocols and equipment required for electrical arc flash protection under NFPA) Tj
+ET
+BT
+/F1 8.5 Tf
+72 217 Td
+(70E.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 192 Td
+(Q17. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 192 Td
+(Describe the operation and calibration of power quality analyzers for harmonic measurement) Tj
+ET
+BT
+/F1 8.5 Tf
+72 181.5 Td
+(according to IEC 61000-4-7.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 156.5 Td
+(Q18. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 156.5 Td
+(Explain the principles of motor current signature analysis \(MCSA\) for non-invasive induction motor) Tj
+ET
+BT
+/F1 8.5 Tf
+72 146 Td
+(fault detection.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 121 Td
+(Q19. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 121 Td
+(Describe the function, layout, and operation of a Low-Voltage Switchgear Motor Control Center) Tj
+ET
+BT
+/F1 8.5 Tf
+72 110.5 Td
+(\(MCC\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 85.5 Td
+(Q20. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 85.5 Td
+(Explain the design and operation of an Insulation Monitoring Device \(IMD\) in ungrounded IT power) Tj
+ET
+BT
+/F1 8.5 Tf
+72 75 Td
+(systems.) Tj
+ET
+
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 22 0 R /Resources << /Font << /F1 47 0 R /F2 48 0 R >> >> >>
+endobj
+22 0 obj
+<< /Length 2185 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 10 of 22) Tj
+ET
+BT
+/F2 8.5 Tf
+45 780 Td
+(Q21. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 780 Td
+(Discuss the role of technical documentation, engineering drawings, and single-line diagrams \(SLDs\)) Tj
+ET
+BT
+/F1 8.5 Tf
+72 769.5 Td
+(in power projects.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 743.5 Td
+(Q22. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 743.5 Td
+(Detail the principles of grounding grid resistance measurement using the Fall-of-Potential method.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 707 Td
+(Q23. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 707 Td
+(Explain the working and applications of Variable Autotransformers \(Variacs\) in electrical) Tj
+ET
+BT
+/F1 8.5 Tf
+72 696.5 Td
+(laboratories.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 670.5 Td
+(Q24. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 670.5 Td
+(Explain the architecture of a real-time battery cell emulator for BMS verification.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 634 Td
+(Q25. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 634 Td
+(Describe the IEEE Std 1547.1 compliance testing procedures for grid-interactive distributed energy) Tj
+ET
+BT
+/F1 8.5 Tf
+72 623.5 Td
+(resource inverters.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 597.5 Td
+(Q26. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 597.5 Td
+(Detail the principles of design-for-testability \(DFT\) in embedded electrical hardware.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 561 Td
+(Q27. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 561 Td
+(Explain the methodology of partial discharge \(PD\) testing in high-voltage cables and gas-insulated) Tj
+ET
+BT
+/F1 8.5 Tf
+72 550.5 Td
+(switchgear.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 524.5 Td
+(Q28. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 524.5 Td
+(Explain the engineering design of a regenerative DC electronic load for testing power supplies and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 514 Td
+(batteries.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 488 Td
+(Q29. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 488 Td
+(Describe the function and calibration of secondary injection test sets for protective relays.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 451.5 Td
+(Q30. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 451.5 Td
+(Discuss the role of multidisciplinary engineering teamwork in large-scale electrical) Tj
+ET
+BT
+/F1 8.5 Tf
+72 441 Td
+(infrastructure projects.) Tj
+ET
+
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 24 0 R /Resources << /Font << /F1 47 0 R /F2 48 0 R >> >> >>
+endobj
+24 0 obj
+<< /Length 8362 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 11 of 22) Tj
+ET
+BT
+/F2 11 Tf
+45 780 Td
+(SECTION C: ANSWER KEY - MULTIPLE CHOICE QUESTIONS) Tj
+ET
+0.5 w
+45 772 m 550 772 l S
+BT
+/F2 8.5 Tf
+45 750 Td
+(Q1: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 734 Td
+(Q2: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 718 Td
+(Q3: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 702 Td
+(Q4: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 686 Td
+(Q5: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 670 Td
+(Q6: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 654 Td
+(Q7: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 638 Td
+(Q8: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 622 Td
+(Q9: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 606 Td
+(Q10: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 590 Td
+(Q11: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 574 Td
+(Q12: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 558 Td
+(Q13: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 542 Td
+(Q14: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 526 Td
+(Q15: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 510 Td
+(Q16: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 494 Td
+(Q17: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 478 Td
+(Q18: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 462 Td
+(Q19: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 446 Td
+(Q20: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 446 Td
+([A]) Tj
+ET
+0.2 w
+135 755 m 135 425 l S
+BT
+/F2 8.5 Tf
+145 750 Td
+(Q21: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 734 Td
+(Q22: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 718 Td
+(Q23: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 702 Td
+(Q24: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 686 Td
+(Q25: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 670 Td
+(Q26: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 654 Td
+(Q27: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 638 Td
+(Q28: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 622 Td
+(Q29: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 606 Td
+(Q30: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 590 Td
+(Q31: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 574 Td
+(Q32: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 558 Td
+(Q33: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 542 Td
+(Q34: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 526 Td
+(Q35: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 510 Td
+(Q36: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 494 Td
+(Q37: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 478 Td
+(Q38: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 462 Td
+(Q39: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 446 Td
+(Q40: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 446 Td
+([A]) Tj
+ET
+0.2 w
+235 755 m 235 425 l S
+BT
+/F2 8.5 Tf
+245 750 Td
+(Q41: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 734 Td
+(Q42: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 718 Td
+(Q43: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 702 Td
+(Q44: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 686 Td
+(Q45: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 670 Td
+(Q46: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 654 Td
+(Q47: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 638 Td
+(Q48: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 622 Td
+(Q49: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 606 Td
+(Q50: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 590 Td
+(Q51: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 574 Td
+(Q52: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 558 Td
+(Q53: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 542 Td
+(Q54: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 526 Td
+(Q55: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 510 Td
+(Q56: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 494 Td
+(Q57: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 478 Td
+(Q58: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 462 Td
+(Q59: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 446 Td
+(Q60: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 446 Td
+([A]) Tj
+ET
+0.2 w
+335 755 m 335 425 l S
+BT
+/F2 8.5 Tf
+345 750 Td
+(Q61: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 734 Td
+(Q62: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 718 Td
+(Q63: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 702 Td
+(Q64: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 686 Td
+(Q65: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 670 Td
+(Q66: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 654 Td
+(Q67: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 638 Td
+(Q68: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 622 Td
+(Q69: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 606 Td
+(Q70: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 590 Td
+(Q71: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 574 Td
+(Q72: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 558 Td
+(Q73: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 542 Td
+(Q74: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 526 Td
+(Q75: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 510 Td
+(Q76: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 494 Td
+(Q77: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 478 Td
+(Q78: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 462 Td
+(Q79: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 446 Td
+(Q80: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 446 Td
+([A]) Tj
+ET
+0.2 w
+435 755 m 435 425 l S
+BT
+/F2 8.5 Tf
+445 750 Td
+(Q81: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 734 Td
+(Q82: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 718 Td
+(Q83: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 702 Td
+(Q84: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 686 Td
+(Q85: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 670 Td
+(Q86: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 654 Td
+(Q87: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 638 Td
+(Q88: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 622 Td
+(Q89: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 606 Td
+(Q90: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 590 Td
+(Q91: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 574 Td
+(Q92: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 558 Td
+(Q93: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 542 Td
+(Q94: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 526 Td
+(Q95: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 510 Td
+(Q96: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 494 Td
+(Q97: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 478 Td
+(Q98: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 462 Td
+(Q99: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 446 Td
+(Q100: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 446 Td
+([A]) Tj
+ET
+0.5 w
+45 400 m 550 400 l 550 340 l 45 340 l s
+BT
+/F2 9 Tf
+55 382 Td
+(MCQ Scoring Guide & Difficulty Distribution:) Tj
+ET
+BT
+/F1 8.5 Tf
+55 366 Td
+(Questions 1 to 40: Foundational & Conceptual [Easy] | Questions 41 to 75: Analytical & Applied [Moderate]) Tj
+ET
+BT
+/F1 8.5 Tf
+55 350 Td
+(Questions 76 to 100: Complex Numerical & Advanced Problem Solving [Difficult]) Tj
+ET
+
+endstream
+endobj
+25 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 26 0 R /Resources << /Font << /F1 47 0 R /F2 48 0 R >> >> >>
+endobj
+26 0 obj
+<< /Length 4347 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 12 of 22) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(SECTION D: DETAILED SOLUTIONS FOR SUBJECTIVE QUESTIONS) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(================================================================================) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 1:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the architecture, simulation solver modes \(Continuous, Discrete, Phasor\), and use cases of MATLAB/Simulink Simscape Electrical.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Simscape Electrical in MATLAB/Simulink:) Tj
+T*
+() Tj
+T*
+(   1. Architectural Overview:) Tj
+T*
+(   Simscape Electrical \(incorporating legacy SimPowerSystems\) models physical multi-domain) Tj
+T*
+(   electrical networks using physical conserving ports \(voltage-current Kirchhoff connections\)) Tj
+T*
+(   seamlessly integrated with Simulink mathematical signal flow.) Tj
+T*
+() Tj
+T*
+(   2. The Powergui Block & Solver Modes:) Tj
+T*
+(   - Continuous Solver: Employs variable-step numerical integration algorithms \(ode45, ode23t,) Tj
+T*
+(   ode15s\). Ideal for high-precision simulation of non-linear analog transients and RLC networks.) Tj
+T*
+(   However, simulation speed drops drastically when modeling fast-switching PWM power converters) Tj
+T*
+(   due to zero-crossing events.) Tj
+T*
+(   - Discrete Solver: Discretizes the entire state-space system with a fixed sample time $T_s$) Tj
+T*
+(   \(typically 1 to 50 microseconds\) using Tustin \(bilinear\) or Backward Euler approximations.) Tj
+T*
+(   Converts dynamic differential equations into linear algebraic matrices solved in fixed) Tj
+T*
+(   execution intervals, providing 10x-50x faster execution and enabling real-time code generation) Tj
+T*
+(   for hardware controllers.) Tj
+T*
+(   - Phasor Solver: Replaces instantaneous sinusoidal differential equations with AC phasor) Tj
+T*
+(   algebraic equations at nominal frequency \(50/60 Hz\). Models macroscopic grid electromechanical) Tj
+T*
+(   oscillations, generator swing dynamics, and load flow without calculating microsecond sub-cycle) Tj
+T*
+(   waveforms, permitting high-speed simulation of national multi-machine power grids.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 2:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Detail the principles, mathematical modeling, and operational applications of PSCAD/EMTDC in transmission system transients.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   PSCAD / EMTDC Simulation Suite:) Tj
+T*
+() Tj
+T*
+(   1. Theoretical Foundation \(H. W. Dommel's Algorithm\):) Tj
+T*
+(   EMTDC solves electromagnetic transients by applying the trapezoidal rule to discretize reactive) Tj
+T*
+(   transmission components into equivalent resistive companion circuits with parallel historical) Tj
+T*
+(   current sources:) Tj
+T*
+(   - Inductor \($v = L \\frac{di}{dt}$\): Approximated as equivalent resistance $R_{eq} =) Tj
+T*
+(   \\frac{2L}{\\Delta t}$ in parallel with history current source $I_h\(t - \\Delta t\) = i\(t - \\Delta) Tj
+T*
+(   t\) + \\frac{\\Delta t}{2L} v\(t - \\Delta t\)$.) Tj
+T*
+(   - Capacitor \($i = C \\frac{dv}{dt}$\): Approximated as $R_{eq} = \\frac{\\Delta t}{2C}$ in parallel) Tj
+T*
+(   with $I_h\(t - \\Delta t\) = -i\(t - \\Delta t\) - \\frac{2C}{\\Delta t} v\(t - \\Delta t\)$.) Tj
+T*
+(   This transforms the complex system of non-linear differential equations into an algebraic) Tj
+T*
+(   matrix equation $\\mathbf{G} \\mathbf{V}\(t\) = \\mathbf{I}\(t\) - \\mathbf{I}_h$, solved with fixed) Tj
+T*
+(   microsecond time steps \(typically 10-50 microseconds\).) Tj
+T*
+() Tj
+T*
+(   2. Transmission Line Wave Models:) Tj
+T*
+(   PSCAD implements frequency-dependent phase models \(J.Marti and Frequency-Dependent Phase) Tj
+T*
+(   Models\) that account for frequency-dependent conductor skin effect and ground return impedance,) Tj
+T*
+(   accurately simulating lightning strike surges, breaker restrikes, and high-voltage DC converter) Tj
+T*
+(   switching transients.) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+27 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 28 0 R /Resources << /Font << /F1 47 0 R /F2 48 0 R >> >> >>
+endobj
+28 0 obj
+<< /Length 3921 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 13 of 22) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 3:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the capabilities and engineering methodology of ETAP for Load Flow, Short-Circuit, and Protection Coordination.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   ETAP \(Electrical Transient Analyzer Program\) in Power Engineering:) Tj
+T*
+() Tj
+T*
+(   1. Load Flow Analysis:) Tj
+T*
+(   Solves complex multi-bus power grids using Newton-Raphson, Fast Decoupled, or Accelerated) Tj
+T*
+(   Gauss-Seidel algorithms. Computes bus voltage profiles, branch active/reactive power flows,) Tj
+T*
+(   line loadings, and transformer tap settings, highlighting overloaded equipment and low-voltage) Tj
+T*
+(   buses in real-time single-line diagrams.) Tj
+T*
+() Tj
+T*
+(   2. Short-Circuit Calculation \(ANSI / IEEE C37 and IEC 60909\):) Tj
+T*
+(   Calculates prospective symmetrical and asymmetrical fault currents \(three-phase,) Tj
+T*
+(   line-to-ground, line-to-line, double-line-to-ground\). Determines maximum momentary peak) Tj
+T*
+(   currents and interrupting duties, verifying that circuit breaker breaking and making capacities) Tj
+T*
+(   are sufficient.) Tj
+T*
+() Tj
+T*
+(   3. Protection Coordination & Sequence of Operation:) Tj
+T*
+(   Plots Time-Current Characteristic \(TCC\) curves on logarithmic axes for overcurrent relays,) Tj
+T*
+(   digital distance relays, fuses, and thermal overload units. Evaluates selective tripping) Tj
+T*
+(   margins \(typically 200-300 ms coordination time interval - CTI\) to ensure that the breaker) Tj
+T*
+(   closest to the fault trips first without cascading outages.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 4:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze finite element electromagnetic analysis \(FEA\) using ANSYS Maxwell for electrical machine design.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   ANSYS Maxwell Finite Element Analysis \(FEA\):) Tj
+T*
+() Tj
+T*
+(   1. Maxwell's Field Formulation:) Tj
+T*
+(   ANSYS Maxwell discretizes 2D and 3D electromagnetic domains into finite triangular or) Tj
+T*
+(   tetrahedral meshes, solving Maxwell's curl equations:) Tj
+T*
+(   $$\\nabla \\times \\left\( \\frac{1}{\\mu} \\nabla \\times \\mathbf{A} \\right\) = \\mathbf{J}_{ext} -) Tj
+T*
+(   \\sigma \\frac{\\partial \\mathbf{A}}{\\partial t}$$) Tj
+T*
+(   where $\\mathbf{A}$ is the magnetic vector potential and $\\mathbf{J}_{ext}$ is external current) Tj
+T*
+(   density.) Tj
+T*
+() Tj
+T*
+(   2. Non-Linear Material Modeling:) Tj
+T*
+(   Incorporates non-linear B-H saturation curves and anisotropic core loss coefficients \(Steinmetz) Tj
+T*
+(   equations for hysteresis, eddy, and excess losses\) to optimize motor lamination geometry,) Tj
+T*
+(   minimize tooth saturation, and eliminate cogging torque in PMSM traction motors.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 5:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Detail high-power PCB layout design rules for SiC/GaN power electronic converters: parasitics, creepage, and thermal dissipation.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   High-Power PCB Design for Wide-Bandgap \(SiC/GaN\) Electronics:) Tj
+T*
+() Tj
+T*
+(   1. Minimizing Parasitic Loop Inductance:) Tj
+T*
+(   SiC MOSFETs switch hundreds of volts within 5-15 nanoseconds, producing extreme rates of) Tj
+T*
+ET
+
+endstream
+endobj
+29 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 30 0 R /Resources << /Font << /F1 47 0 R /F2 48 0 R >> >> >>
+endobj
+30 0 obj
+<< /Length 4103 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 14 of 22) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   current rise: $\\frac{di}{dt} > 5\\text{ kA/}\\mu\\text{s}$. Any parasitic inductance in the power) Tj
+T*
+(   loop \($L_{loop}$\) induces massive voltage overshoots: $V_{overshoot} = L_{loop} \\frac{di}{dt}$.) Tj
+T*
+(   Layout designers must place high-frequency ceramic decoupling capacitors immediately adjacent) Tj
+T*
+(   to switch terminals, routing forward and return traces on overlapping adjacent layers to) Tj
+T*
+(   achieve magnetic field cancellation and keep $L_{loop} < 5\\text{ nH}$.) Tj
+T*
+() Tj
+T*
+(   2. Creepage and Clearance Coordination \(IEC 60664-1\):) Tj
+T*
+(   High-voltage rails \(400V/800V DC\) require strict physical separation along board surfaces) Tj
+T*
+(   \(creepage\) and through air \(clearance\) based on pollution degree and Comparative Tracking Index) Tj
+T*
+(   \(CTI\). Designers mill isolation slots into the PCB beneath optocouplers and transformers.) Tj
+T*
+() Tj
+T*
+(   3. Thermal Dissipation Management:) Tj
+T*
+(   Surface-mount power devices dissipate heat into the PCB. Dense arrays of thermal vias \(0.3 mm) Tj
+T*
+(   drill diameter, spaced 1 mm apart\) conduct heat from top copper pads to internal 2 oz ground) Tj
+T*
+(   planes and aluminum baseplates.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 6:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the Graduate Aptitude Test in Engineering \(GATE\): Examination structure, syllabus scope, and PSU recruitment dynamics.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   The GATE Examination in Electrical Engineering:) Tj
+T*
+() Tj
+T*
+(   1. Examination Structure:) Tj
+T*
+(   Administered annually on a rotational basis by the Indian Institutes of Technology \(IITs\) and) Tj
+T*
+(   the Indian Institute of Science \(IISc\). A 3-hour computer-based test consisting of 65 questions) Tj
+T*
+(   \(100 total marks\) comprising Multiple Choice Questions \(MCQ\), Multiple Select Questions \(MSQ\),) Tj
+T*
+(   and Numerical Answer Type \(NAT\) questions.) Tj
+T*
+() Tj
+T*
+(   2. Core Syllabus Breakdown:) Tj
+T*
+(   - Engineering Mathematics \(13 marks\): Linear algebra, calculus, differential equations, complex) Tj
+T*
+(   variables, probability, and numerical methods.) Tj
+T*
+(   - General Aptitude \(15 marks\): Verbal ability and numerical reasoning.) Tj
+T*
+(   - Electrical Engineering Core \(72 marks\): Electric Circuits, Electromagnetic Fields, Signals) Tj
+T*
+(   and Systems, Electrical Machines, Power Systems, Control Systems, Electrical & Electronic) Tj
+T*
+(   Measurements, Analog & Digital Electronics, and Power Electronics.) Tj
+T*
+() Tj
+T*
+(   3. Career Gateways:) Tj
+T*
+(   - Direct PSU Recruitment: Maharatna utilities \(NTPC, PGCIL, BHEL, ONGC, IOCL, GAIL\) shortlist) Tj
+T*
+(   candidates directly from top GATE percentiles \(typically ranks 1 to 300\) for Group-A Executive) Tj
+T*
+(   Trainee posts.) Tj
+T*
+(   - Postgraduate Higher Education: GATE scores govern direct M.Tech/MS/Ph.D. admissions with MHRD) Tj
+T*
+(   research fellowships at IITs, IISc, and prestigious international universities \(NUS, NTU) Tj
+T*
+(   Singapore, TU Munich\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 7:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Detail the Bureau of Energy Efficiency \(BEE\) Certified Energy Auditor \(CEA\) qualification: Curriculum, industrial impact, and methodologies.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   BEE Certified Energy Auditor \(CEA\) Examination & Industrial Practice:) Tj
+T*
+() Tj
+T*
+(   1. Statutory Context:) Tj
+T*
+(   Established under India's Energy Conservation Act 2001, the Bureau of Energy Efficiency \(BEE\)) Tj
+T*
+ET
+
+endstream
+endobj
+31 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 32 0 R /Resources << /Font << /F1 47 0 R /F2 48 0 R >> >> >>
+endobj
+32 0 obj
+<< /Length 3973 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 15 of 22) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   mandates periodic, comprehensive energy audits for all 'Designated Consumers' \(heavy) Tj
+T*
+(   energy-intensive industries: thermal plants, cement, fertilizers, steel, railways\).) Tj
+T*
+() Tj
+T*
+(   2. Four-Paper Examination Curriculum:) Tj
+T*
+(   - Paper 1: General Energy Management: Global energy scenarios, energy conservation act,) Tj
+T*
+(   financing, energy economics \(NPV, IRR, Payback Period\), and project management.) Tj
+T*
+(   - Paper 2: Energy Efficiency in Thermal Utilities: Boiler combustion efficiency, heat) Tj
+T*
+(   exchangers, steam traps, furnaces, cogeneration, and waste heat recovery.) Tj
+T*
+(   - Paper 3: Energy Efficiency in Electrical Utilities: Electric motors \(IE3/IE4 standards\), VFD) Tj
+T*
+(   applications, transformers, compressed air systems, cooling towers, and commercial) Tj
+T*
+(   HVAC/lighting.) Tj
+T*
+(   - Paper 4: Energy Performance Assessment \(Practical Case Studies\): Open-book numerical exam) Tj
+T*
+(   requiring full industrial energy audit balance calculations.) Tj
+T*
+() Tj
+T*
+(   3. Industrial Audit Methodology:) Tj
+T*
+(   Certified auditors measure electrical power profiles using portable power analyzers, identify) Tj
+T*
+(   thermodynamic and electrical losses, calculate specific energy consumption \(SEC\), and formulate) Tj
+T*
+(   cost-effective Energy Conservation Measures \(ECMs\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 8:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Describe the engineering design challenge of Formula Student Electric / Formula Bharat EV, focusing on the High-Voltage Accumulator.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Formula Student Electric \(FSE\) Powertrain Engineering:) Tj
+T*
+() Tj
+T*
+(   1. Competition Framework:) Tj
+T*
+(   Collegiate design competition where students design, build, and test a single-seat) Tj
+T*
+(   formula-style electric racecar evaluated across static \(Engineering Design, Cost, Business) Tj
+T*
+(   Plan\) and dynamic events \(Acceleration, Skidpad, Autocross, Endurance\).) Tj
+T*
+() Tj
+T*
+(   2. High-Voltage Accumulator Pack Architecture:) Tj
+T*
+(   - Voltage Constraint: Tractive system voltage is capped at $600\\text{ V DC}$ nominal under) Tj
+T*
+(   Formula Student rules.) Tj
+T*
+(   - Cell Selection: High-discharge Lithium-ion cells \(typically pouch or cylindrical 21700 cells\)) Tj
+T*
+(   configured in series-parallel \(e.g. 144S2P delivering ~530V and 7-10 kWh\).) Tj
+T*
+(   - Safety Rules & Accumulator Management System \(AMS\):) Tj
+T*
+(   The AMS must monitor every individual cell voltage and cell temperature. If any cell voltage) Tj
+T*
+(   drops below 2.5V or exceeds 4.2V, or if temperature exceeds $60^\\circ\\text{C}$, the AMS must) Tj
+T*
+(   instantly open the Shutdown Circuit within 500 ms.) Tj
+T*
+() Tj
+T*
+(   3. Safety Circuitry:) Tj
+T*
+(   Includes two normally open High Voltage Contactors, a Pre-Charge relay and resistor, an Inertia) Tj
+T*
+(   Switch, Emergency Stop switches, an Insulation Monitoring Device \(Bender IMD\), and a Tractive) Tj
+T*
+(   System Active Light \(TSAL\) providing visual safety indication.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 9:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the architecture of Hardware-in-the-Loop \(HIL\) test benches for testing digital power electronic controllers.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Hardware-in-the-Loop \(HIL\) Simulation Architecture:) Tj
+T*
+() Tj
+T*
+(   1. Motivation:) Tj
+T*
+ET
+
+endstream
+endobj
+33 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 34 0 R /Resources << /Font << /F1 47 0 R /F2 48 0 R >> >> >>
+endobj
+34 0 obj
+<< /Length 4175 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 16 of 22) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   Testing high-power converter controllers directly on physical 500 kW hardware risks) Tj
+T*
+(   catastrophic equipment explosion, component destruction, and personnel injury during firmware) Tj
+T*
+(   debugging.) Tj
+T*
+() Tj
+T*
+(   2. Closed-Loop HIL Test Bench Structure:) Tj
+T*
+(   - Physical Device Under Test \(DUT\): The real physical microcontroller, DSP \(e.g. TI C2000\), or) Tj
+T*
+(   FPGA running production C firmware.) Tj
+T*
+(   - Real-Time HIL Simulator \(e.g. Typhoon HIL, OPAL-RT\): An ultra-fast multi-core FPGA simulator) Tj
+T*
+(   that executes physical circuit equations \(converter switches, filters, electric motor, and) Tj
+T*
+(   utility grid\) in real-time with sub-microsecond latency \($< 1\\,\\mu\\text{s}$\).) Tj
+T*
+(   - I/O Interface: The physical controller outputs actual digital PWM gate pulses to the HIL) Tj
+T*
+(   simulator. The simulator reads the PWM signals, simulates converter states, and outputs analog) Tj
+T*
+(   signals \(simulated voltages, phase currents, resolver angles\) back to the controller's ADC pins) Tj
+T*
+(   in real-time, completing a fully closed hardware feedback loop.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 10:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Discuss student competitions like Solar Decathlon and Smart India Hackathon \(SIH\) and their role in developing professional engineering skills.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Student Engineering Competitions & Experiential Learning:) Tj
+T*
+() Tj
+T*
+(   1. Solar Decathlon \(U.S. DOE & Solar Decathlon India\):) Tj
+T*
+(   Challenges collegiate teams to design and build full-scale, zero-net-energy buildings powered) Tj
+T*
+(   exclusively by solar energy. Electrical engineering students design rooftop solar PV systems,) Tj
+T*
+(   battery storage, energy-efficient building automation, EV charging integration, and microgrid) Tj
+T*
+(   controls, bridging technical engineering with real estate economics and architectural) Tj
+T*
+(   sustainability.) Tj
+T*
+() Tj
+T*
+(   2. Smart India Hackathon \(SIH\):) Tj
+T*
+(   A national non-stop 36-hour innovation competition organized by the Government of India.) Tj
+T*
+(   Ministries and public utilities \(such as the Ministry of Power, NHPC, and state DISCOMs\) submit) Tj
+T*
+(   real-world industrial problem statements: smart metering theft detection, automated fault) Tj
+T*
+(   locators, AI-driven renewable forecasting, and IoT sensor hubs. Participating students develop) Tj
+T*
+(   rapid working prototypes, cultivating teamwork, agile problem-solving, rapid prototyping, and) Tj
+T*
+(   high-impact communication skills.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 11:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the measurement principles of Digital Storage Oscilloscopes \(DSOs\): Acquisition memory depth, trigger modes, and aliasing.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Digital Storage Oscilloscope \(DSO\) Operation:) Tj
+T*
+() Tj
+T*
+(   1. Acquisition Architecture:) Tj
+T*
+(   Input signals pass through calibrated analog attenuators and wideband preamplifiers before) Tj
+T*
+(   conversion by high-speed flash ADCs \(typically 1 to 5 GSample/sec\). Digital samples are) Tj
+T*
+(   continuously clocked into high-speed Acquisition Memory buffers.) Tj
+T*
+() Tj
+T*
+(   2. Memory Depth Relationship:) Tj
+T*
+(   $$\\text{Sampling Rate} = \\frac{\\text{Memory Depth}}{\\text{Time Window}}$$) Tj
+T*
+(   A deep memory buffer allows maintaining high real-time sampling rates even at slow timebase) Tj
+T*
+(   settings, preventing waveform aliasing and permitting zoomed inspection of high-frequency) Tj
+T*
+(   switching glitches.) Tj
+T*
+ET
+
+endstream
+endobj
+35 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 36 0 R /Resources << /Font << /F1 47 0 R /F2 48 0 R >> >> >>
+endobj
+36 0 obj
+<< /Length 3553 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 17 of 22) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   3. Trigger Modes \(Auto, Normal, Single\):) Tj
+T*
+(   - Edge, pulse-width, and runt triggering synchronize the horizontal sweep with specific) Tj
+T*
+(   waveform events, capturing intermittent circuit anomalies.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 12:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Describe the working principles and calibration of a High-Voltage Differential Probe for power electronics measurements.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   High-Voltage Differential Probes:) Tj
+T*
+() Tj
+T*
+(   1. The Grounding Hazard:) Tj
+T*
+(   Standard oscilloscope BNC probe ground clips are connected directly to mains earth ground.) Tj
+T*
+(   Connecting a standard probe clip to an upper MOSFET source terminal in a half-bridge inverter) Tj
+T*
+(   creates a dead short circuit, destroying the oscilloscope and inverter.) Tj
+T*
+() Tj
+T*
+(   2. Differential Operation:) Tj
+T*
+(   A differential probe uses two balanced high-impedance attenuator inputs \($+$ and $-$\) connected) Tj
+T*
+(   to an internal precision instrumentation amplifier that subtracts the two signals \($V_{diff} =) Tj
+T*
+(   V_+ - V_-$\) while rejecting common-mode voltages up to thousands of volts \($> 1000\\text{ V}$\).) Tj
+T*
+(   The output is a safe, ground-referenced low-voltage signal fed to the oscilloscope.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 13:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the design of high-current power busbars and trace sizing on multi-layer PCBs using IPC-2152 standards.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   PCB Trace Current Capacity \(IPC-2152 Standard\):) Tj
+T*
+() Tj
+T*
+(   Trace temperature rise is governed by $I^2 R$ Joule heating balanced against thermal convection) Tj
+T*
+(   and radiation:) Tj
+T*
+(   $$I = k \\cdot \\Delta T^b \\cdot A^c$$) Tj
+T*
+(   where $A$ is trace cross-sectional area, $\\Delta T$ is allowable temperature rise \(typically) Tj
+T*
+(   $10^\\circ\\text{C}$ to $30^\\circ\\text{C}$\), and $k, b, c$ are empirical curve-fitting constants.) Tj
+T*
+() Tj
+T*
+(   Design Rules: Internal layers require double the width of external layers due to lower thermal) Tj
+T*
+(   dissipation. High-current power electronic tracks \($> 30\\text{ A}$\) use heavy 2 oz or 3 oz) Tj
+T*
+(   copper foils, parallel copper busbars, or exposed solder-coated copper traces.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 14:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Detail the principles of automated instrument control using Python PyVISA and standard SCPI commands.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Automated Instrument Control via PyVISA:) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   import pyvisa) Tj
+T*
+() Tj
+T*
+(   # 1. Initialize VISA Resource Manager) Tj
+T*
+(   rm = pyvisa.ResourceManager\(\)) Tj
+T*
+(   dmm = rm.open_resource\('USB0::0x2A8D::0x0101::MY57500123::INSTR'\)) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+37 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 38 0 R /Resources << /Font << /F1 47 0 R /F2 48 0 R >> >> >>
+endobj
+38 0 obj
+<< /Length 3513 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 18 of 22) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   # 2. Configure Digital Multimeter via SCPI commands) Tj
+T*
+(   dmm.write\('*RST'\) # Reset instrument to factory defaults) Tj
+T*
+(   dmm.write\(':CONF:VOLT:DC 10, 0.0001'\) # 10V range, 0.1mV resolution) Tj
+T*
+() Tj
+T*
+(   # 3. Execute measurement query) Tj
+T*
+(   voltage_str = dmm.query\(':READ?'\)) Tj
+T*
+(   voltage = float\(voltage_str\)) Tj
+T*
+(   print\(f'Measured Voltage: {voltage:.4f} V'\)) Tj
+T*
+(   dmm.close\(\)) Tj
+T*
+(   ```) Tj
+T*
+(   PyVISA wraps operating system VISA libraries, providing vendor-agnostic control over GPIB,) Tj
+T*
+(   USBTMC, and Ethernet test equipment.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 15:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the methodology of insulation coordination and impulse withstand voltage testing for electrical equipment.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Insulation Coordination \(IEC 60071\):) Tj
+T*
+() Tj
+T*
+(   Insulation coordination selects equipment insulation strength based on expected network) Tj
+T*
+(   overvoltages:) Tj
+T*
+(   1. Standard Lightning Impulse Test: Standard $1.2 / 50\\,\\mu\\text{s}$ wave shape \(rises to peak) Tj
+T*
+(   in $1.2\\,\\mu\\text{s}$, decays to half in $50\\,\\mu\\text{s}$\) simulating atmospheric lightning) Tj
+T*
+(   strikes.) Tj
+T*
+(   2. Switching Impulse Test: Standard $250 / 2500\\,\\mu\\text{s}$ wave shape simulating circuit) Tj
+T*
+(   breaker operations in EHV networks.) Tj
+T*
+(   3. Power-Frequency Withstand Test: 50 Hz AC voltage applied for 60 seconds to verify basic) Tj
+T*
+(   dielectric integrity.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 16:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Detail the safety protocols and equipment required for electrical arc flash protection under NFPA 70E.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   NFPA 70E Electrical Safety in the Workplace:) Tj
+T*
+() Tj
+T*
+(   1. Electrically Safe Work Condition \(ESWC\):) Tj
+T*
+(   De-energize, disconnect, verify zero voltage with an approved tester, apply Lockout/Tagout) Tj
+T*
+(   \(LOTO\), and install temporary safety grounding clamps.) Tj
+T*
+() Tj
+T*
+(   2. PPE Categories Based on Incident Energy:) Tj
+T*
+(   - Category 1 \($4\\text{ cal/cm}^2$\): Arc-rated shirt and pants, face shield.) Tj
+T*
+(   - Category 2 \($8\\text{ cal/cm}^2$\): Arc-rated face shield with balaclava, heavy jacket.) Tj
+T*
+(   - Category 4 \($40\\text{ cal/cm}^2$\): Multi-layer arc flash flash suit \('bomb suit'\), hood with) Tj
+T*
+(   dual-lens shield, and insulating gloves with leather protectors.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 17:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Describe the operation and calibration of power quality analyzers for harmonic measurement according to IEC 61000-4-7.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   IEC 61000-4-7 Harmonic Measurement Methodology:) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+39 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 40 0 R /Resources << /Font << /F1 47 0 R /F2 48 0 R >> >> >>
+endobj
+40 0 obj
+<< /Length 4001 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 19 of 22) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   1. Windowing & FFT Synchronization: Power quality meters synchronize sample windows precisely) Tj
+T*
+(   with fundamental power frequency using a phase-locked loop over a standardized 10-cycle \(for 50) Tj
+T*
+(   Hz\) or 12-cycle \(for 60 Hz\) window \($pprox 200\\text{ ms}$\).) Tj
+T*
+(   2. Harmonic Grouping: Groups discrete DFT frequency bins into harmonic subgroups to include) Tj
+T*
+(   interharmonics without spectral leakage errors, calculating Total Harmonic Distortion \(THD\) and) Tj
+T*
+(   individual harmonic orders up to the 50th harmonic.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 18:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the principles of motor current signature analysis \(MCSA\) for non-invasive induction motor fault detection.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Motor Current Signature Analysis \(MCSA\):) Tj
+T*
+() Tj
+T*
+(   1. Principle: Faults in an induction motor \(broken rotor bars, airgap eccentricity, bearing) Tj
+T*
+(   degradation\) modulate the motor airgap magnetic flux, inducing sideband frequency components in) Tj
+T*
+(   the stator line current.) Tj
+T*
+(   2. Broken Rotor Bar Signature: Broken bars produce characteristic sideband peaks around) Tj
+T*
+(   fundamental supply frequency $f_0$:) Tj
+T*
+(   $$f_{sb} = f_0 \(1 \\pm 2s\)$$) Tj
+T*
+(   where $s$ is motor slip. MCSA detects these sidebands using high-resolution FFT spectra of) Tj
+T*
+(   stator current without stopping the motor.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 19:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Describe the function, layout, and operation of a Low-Voltage Switchgear Motor Control Center \(MCC\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Motor Control Centers \(MCC\):) Tj
+T*
+() Tj
+T*
+(   1. Enclosure Structure: Floor-mounted metal modular enclosures housing multiple standardized) Tj
+T*
+(   drawout motor starter buckets.) Tj
+T*
+(   2. Bucket Components: Molded Case Circuit Breaker \(MCCB\), contactor, electronic overload relay,) Tj
+T*
+(   control power transformer, and pushbuttons/indicator lamps.) Tj
+T*
+(   3. Drawout Functionality: Permits individual motor starters to be racked out for maintenance) Tj
+T*
+(   while the main busbars remain energized, maximizing industrial plant uptime.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 20:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the design and operation of an Insulation Monitoring Device \(IMD\) in ungrounded IT power systems.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Insulation Monitoring Devices \(IMDs, IEC 61557-8\):) Tj
+T*
+() Tj
+T*
+(   1. IT System Context: In ungrounded IT networks \(used in hospital operating rooms, offshore) Tj
+T*
+(   platforms, and EV tractive systems\), a first ground fault does NOT cause trip circuit breakers) Tj
+T*
+(   because there is no closed return path.) Tj
+T*
+(   2. Superimposed Measurement Signal: The IMD superimposes an active low-frequency AC or pulsed) Tj
+T*
+(   DC measurement voltage between the live conductors and earth ground, continuously calculating) Tj
+T*
+(   insulation resistance \($R_F$\). If $R_F$ drops below safety thresholds \(e.g.) Tj
+T*
+(   $100\\,\\Omega/\\text{V}$\), it triggers an immediate warning alarm.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+41 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 42 0 R /Resources << /Font << /F1 47 0 R /F2 48 0 R >> >> >>
+endobj
+42 0 obj
+<< /Length 4011 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 20 of 22) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 21:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Discuss the role of technical documentation, engineering drawings, and single-line diagrams \(SLDs\) in power projects.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Single-Line Diagrams \(SLD\) & Engineering Schematics:) Tj
+T*
+() Tj
+T*
+(   1. Single-Line Diagram \(SLD\): The primary architectural roadmap of an electrical installation,) Tj
+T*
+(   showing 3-phase power flow using single lines and standard electrical symbols \(IEEE Std 315 /) Tj
+T*
+(   IEC 60617\).) Tj
+T*
+(   2. Schematic Wiring Diagrams: Shows every individual terminal number, wire tag, relay contact,) Tj
+T*
+(   and control coil for wiring installation and troubleshooting.) Tj
+T*
+(   3. Cable Schedules: Tables listing cable tag, source, destination, length, conductor) Tj
+T*
+(   cross-section, insulation type, and routing raceways.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 22:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Detail the principles of grounding grid resistance measurement using the Fall-of-Potential method.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Fall-of-Potential Method \(IEEE Std 81\):) Tj
+T*
+() Tj
+T*
+(   1. Measurement Setup: Consists of the ground electrode under test \($E$\), a remote current probe) Tj
+T*
+(   \($C$\) placed at distance $D$, and a potential probe \($P$\) placed between $E$ and $C$.) Tj
+T*
+(   2. The 61.8% Rule: A known AC current is injected between $E$ and $C$. The true resistance is) Tj
+T*
+(   measured when potential probe $P$ is placed at exactly 61.8% of the distance $D$ from $E$,) Tj
+T*
+(   where potential curves flatten out into the zero-resistance plateau between earth resistance) Tj
+T*
+(   spheres.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 23:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the working and applications of Variable Autotransformers \(Variacs\) in electrical laboratories.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Variable Autotransformers \(Variac\):) Tj
+T*
+() Tj
+T*
+(   1. Construction: Single continuous toroidal copper winding wound around a circular magnetic) Tj
+T*
+(   core, with an exposed polished carbon brush rotating along the winding surface.) Tj
+T*
+(   2. Functionality: Delivers smoothly adjustable, continuously variable AC output voltage from 0V) Tj
+T*
+(   to ~110% of input voltage without interrupting load current.) Tj
+T*
+(   3. Limitation: Lacks galvanic isolation between input and output, requiring isolation) Tj
+T*
+(   transformers during sensitive test procedures.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 24:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the architecture of a real-time battery cell emulator for BMS verification.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Battery Cell Emulators in BMS Testing:) Tj
+T*
+() Tj
+T*
+(   1. Hardware Stage: Multiple independent, isolated multi-channel power supplies capable of) Tj
+T*
+(   sourcing and sinking current with millivolt accuracy.) Tj
+T*
+(   2. Emulation Capability: Emulates individual cell voltages \(0 to 5V\), individual cell) Tj
+T*
+(   temperatures, and faults \(open-circuit cell, shorted cell, over-temperature\) in real-time,) Tj
+T*
+(   verifying that the physical BMS executes cell balancing and safety disconnects accurately.) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+43 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 44 0 R /Resources << /Font << /F1 47 0 R /F2 48 0 R >> >> >>
+endobj
+44 0 obj
+<< /Length 3849 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 21 of 22) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 25:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Describe the IEEE Std 1547.1 compliance testing procedures for grid-interactive distributed energy resource inverters.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   IEEE 1547.1 Conformance Testing:) Tj
+T*
+() Tj
+T*
+(   Inverters undergo testing using programmable AC grid simulators and DC solar emulators:) Tj
+T*
+(   - Over/Under Voltage and Frequency Trip Testing.) Tj
+T*
+(   - Anti-Islanding Test using resonant RLC load banks adjusted to match inverter active and) Tj
+T*
+(   reactive power output.) Tj
+T*
+(   - Harmonics and Interharmonics Verification at 10%, 20%, 50%, and 100% rated power.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 26:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Detail the principles of design-for-testability \(DFT\) in embedded electrical hardware.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Design for Testability \(DFT\) in Hardware Engineering:) Tj
+T*
+() Tj
+T*
+(   Incorporating dedicated test structures into PCB layouts:) Tj
+T*
+(   - Test Points: SMT pads for oscilloscope probes and automated bed-of-nails test fixtures.) Tj
+T*
+(   - Boundary Scan \(JTAG IEEE 1149.1\): Hardware shift registers inside digital ICs that verify) Tj
+T*
+(   pin-to-pin soldering continuity without mechanical probe access.) Tj
+T*
+(   - Built-In Self-Test \(BIST\): Microcontroller firmware routines that test RAM, flash CRC, and) Tj
+T*
+(   peripheral clocks upon bootup.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 27:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the methodology of partial discharge \(PD\) testing in high-voltage cables and gas-insulated switchgear.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Partial Discharge \(PD\) Testing \(IEC 60270\):) Tj
+T*
+() Tj
+T*
+(   1. Mechanism: Localized dielectric breakdowns occurring within air voids or defects in) Tj
+T*
+(   high-voltage insulation that do not completely bridge the conductors.) Tj
+T*
+(   2. Detection: High-frequency current transformers \(HFCT\), capacitive coupling sensors, and) Tj
+T*
+(   ultra-high-frequency \(UHF\) antennas measure transient nanosecond electromagnetic pulses) Tj
+T*
+(   generated by discharge sparks, detecting insulation deterioration years before complete) Tj
+T*
+(   dielectric failure.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 28:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the engineering design of a regenerative DC electronic load for testing power supplies and batteries.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Regenerative Electronic Loads:) Tj
+T*
+() Tj
+T*
+(   Traditional electronic loads dissipate power as heat into massive resistor banks and cooling) Tj
+T*
+(   fans.) Tj
+T*
+(   Regenerative Load Architecture: Uses an active bidirectional PWM inverter to sink DC power from) Tj
+T*
+(   the device under test, boost voltage, and invert the energy back into the facility's 415V AC) Tj
+T*
+(   mains grid with $> 92\\%$ efficiency, slashing electricity costs and cooling loads in test labs.) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+45 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 46 0 R /Resources << /Font << /F1 47 0 R /F2 48 0 R >> >> >>
+endobj
+46 0 obj
+<< /Length 2488 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 22 of 22) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 29:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Describe the function and calibration of secondary injection test sets for protective relays.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Secondary Injection Test Sets \(e.g. Omicron CMC 356\):) Tj
+T*
+() Tj
+T*
+(   1. Operation: Microprocessor-controlled multi-phase AC voltage and current generators capable) Tj
+T*
+(   of injecting simulated fault currents \(up to 32 A, 300 V\) directly into protection relay) Tj
+T*
+(   secondary terminals.) Tj
+T*
+(   2. Automated Verification: Executes automated test routines verifying relay pickup thresholds,) Tj
+T*
+(   operating time curves, directionality, and distance reach boundaries without energizing) Tj
+T*
+(   high-voltage primary equipment.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 30:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Discuss the role of multidisciplinary engineering teamwork in large-scale electrical infrastructure projects.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Multidisciplinary Systems Engineering Integration:) Tj
+T*
+() Tj
+T*
+(   Major infrastructure projects \(metro rail systems, offshore wind farms, hyperscale data) Tj
+T*
+(   centers\) require close coordination among multiple engineering branches:) Tj
+T*
+(   - Civil & Structural Engineers: Substation foundation civil works, tower wind loading, and) Tj
+T*
+(   seismic design.) Tj
+T*
+(   - Mechanical Engineers: Turbine thermal thermodynamics, transformer oil heat exchangers, and) Tj
+T*
+(   cooling ducts.) Tj
+T*
+(   - Environmental & Legal Specialists: Environmental impact assessments, right-of-way land) Tj
+T*
+(   acquisition, and grid code regulatory compliance.) Tj
+T*
+(   Successful electrical engineers cultivate cross-disciplinary fluency, agile communication, and) Tj
+T*
+(   comprehensive systems-level thinking.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+47 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+48 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+xref
+0 49
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000260 00000 n 
+0000000404 00000 n 
+0000009715 00000 n 
+0000009859 00000 n 
+0000019462 00000 n 
+0000019606 00000 n 
+0000029924 00000 n 
+0000030069 00000 n 
+0000042152 00000 n 
+0000042298 00000 n 
+0000053222 00000 n 
+0000053368 00000 n 
+0000065594 00000 n 
+0000065740 00000 n 
+0000078329 00000 n 
+0000078475 00000 n 
+0000080841 00000 n 
+0000080987 00000 n 
+0000085852 00000 n 
+0000085998 00000 n 
+0000088236 00000 n 
+0000088382 00000 n 
+0000096797 00000 n 
+0000096943 00000 n 
+0000101343 00000 n 
+0000101489 00000 n 
+0000105463 00000 n 
+0000105609 00000 n 
+0000109765 00000 n 
+0000109911 00000 n 
+0000113937 00000 n 
+0000114083 00000 n 
+0000118311 00000 n 
+0000118457 00000 n 
+0000122063 00000 n 
+0000122209 00000 n 
+0000125775 00000 n 
+0000125921 00000 n 
+0000129975 00000 n 
+0000130121 00000 n 
+0000134185 00000 n 
+0000134331 00000 n 
+0000138233 00000 n 
+0000138379 00000 n 
+0000140920 00000 n 
+0000141018 00000 n 
+trailer
+<< /Size 49 /Root 1 0 R >>
+startxref
+141121
+%%EOF

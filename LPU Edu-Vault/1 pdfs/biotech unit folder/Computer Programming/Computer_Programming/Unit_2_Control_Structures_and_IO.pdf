@@ -1,0 +1,11630 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R 35 0 R 37 0 R 39 0 R 41 0 R 43 0 R 45 0 R 47 0 R 49 0 R 51 0 R 53 0 R 55 0 R 57 0 R 59 0 R 61 0 R 63 0 R 65 0 R 67 0 R 69 0 R 71 0 R 73 0 R 75 0 R 77 0 R 79 0 R 81 0 R] /Count 40 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 4 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 7997 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 2: CONTROL STRUCTURES & I/O FUNCTIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 1 of 40) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(1.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Which control structure executes code) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(conditionally based on a boolean expression?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(if statement) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(goto) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(typedef) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(struct) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(2.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(In C, which loop tests the termination condition) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(before executing the loop body?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(while loop) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(do-while loop) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(repeat-until) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(post-test loop) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(3.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(Which loop guarantees that the body executes at) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(least once regardless of condition?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.5001 Td
+(do-while loop) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.9001 Td
+(while loop) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.3002 Td
+(for loop) Tj
+ET
+BT
+/F2 7.4 Tf
+58 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 587.7002 Td
+(nested loop) Tj
+ET
+BT
+/F2 8.0 Tf
+42 564.1002 Td
+(4.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(Which keyword immediately exits from the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(innermost enclosing loop or switch block?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 543.2002 Td
+(break) Tj
+ET
+BT
+/F2 7.4 Tf
+58 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 533.6002 Td
+(continue) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.0002 Td
+(return) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.4003 Td
+(goto) Tj
+ET
+BT
+/F2 8.0 Tf
+42 490.8003 Td
+(5.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 490.8003 Td
+(Which keyword skips the remaining statements in) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6003 Td
+(the current loop iteration and advances?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 469.9002 Td
+(continue) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.3002 Td
+(break) Tj
+ET
+BT
+/F2 7.4 Tf
+58 450.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 450.7002 Td
+(exit) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.1002 Td
+(skip) Tj
+ET
+BT
+/F2 8.0 Tf
+42 417.5002 Td
+(6.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 417.5002 Td
+(Which statement allows multi-way branching based) Tj
+ET
+BT
+/F1 7.8 Tf
+58 408.3002 Td
+(on an integral expression in C?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 396.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 396.6002 Td
+(switch) Tj
+ET
+BT
+/F2 7.4 Tf
+58 387.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 387.0002 Td
+(select) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.4002 Td
+(choose) Tj
+ET
+BT
+/F2 7.4 Tf
+58 367.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 367.8002 Td
+(branch) Tj
+ET
+BT
+/F2 8.0 Tf
+42 344.2002 Td
+(7.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 344.2002 Td
+(What happens if a break statement is omitted at) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.0002 Td
+(the end of a switch case?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 323.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 323.3001 Td
+(Fall-through execution) Tj
+ET
+BT
+/F2 7.4 Tf
+58 313.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 313.7001 Td
+(Compilation error) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.1001 Td
+(Program terminates) Tj
+ET
+BT
+/F2 7.4 Tf
+58 294.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 294.5001 Td
+(Case repeats) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(8.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Which optional case in a switch block executes) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(when no other case labels match?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(default) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(else) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(otherwise) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(catch) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(9.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(Which data type is NOT permitted as the switch) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(expression in ANSI C?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(float / double) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(int) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(char) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(short) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(10.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(In a for loop: for \(init; cond; incr\), which) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(expression is executed only once?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.5001 Td
+(init \(initialization\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.9001 Td
+(cond \(condition\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.3002 Td
+(incr \(increment\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 587.7002 Td
+(body) Tj
+ET
+BT
+/F2 8.0 Tf
+306 564.1002 Td
+(11.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.1002 Td
+(Which symbol is required at the end of a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(do-while loop statement?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 543.2002 Td
+(Semicolon \(;\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 533.6002 Td
+(Colon \(:\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.0002 Td
+(Closing brace only) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.4003 Td
+(Period \(.\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 490.8003 Td
+(12.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 490.8003 Td
+(What is the result of writing: for \(;;\) { ... }) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6003 Td
+(in a C program?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 469.9002 Td
+(Infinite loop) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.3002 Td
+(Syntax error) Tj
+ET
+BT
+/F2 7.4 Tf
+322 450.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 450.7002 Td
+(Executes zero times) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.1002 Td
+(Executes once) Tj
+ET
+BT
+/F2 8.0 Tf
+306 417.5002 Td
+(13.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 417.5002 Td
+(Which statement performs an unconditional jump) Tj
+ET
+BT
+/F1 7.8 Tf
+322 408.3002 Td
+(to a labeled statement in the same function?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 396.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 396.6002 Td
+(goto) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.0002 Td
+(jump) Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.4002 Td
+(branch) Tj
+ET
+BT
+/F2 7.4 Tf
+322 367.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 367.8002 Td
+(throw) Tj
+ET
+BT
+/F2 8.0 Tf
+306 344.2002 Td
+(14.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 344.2002 Td
+(Which standard library function reads a single) Tj
+ET
+BT
+/F1 7.8 Tf
+322 335.0002 Td
+(character from the standard input?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 323.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 323.3001 Td
+(getchar\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 313.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 313.7001 Td
+(putchar\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.1001 Td
+(getch\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 294.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 294.5001 Td
+(printf\(\)) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 6 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+6 0 obj
+<< /Length 8189 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 2: CONTROL STRUCTURES & I/O FUNCTIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 2 of 40) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(15.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Which standard library function writes a single) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(character to standard output?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(putchar\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(getchar\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(putc\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(scanf\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(16.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(What special constant integer value does) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(getchar\(\) return when reaching the end of input?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(EOF \(-1\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(NULL \('\\0'\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(255) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(17.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(Why should the variable receiving getchar\(\)) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(return value be declared as int, not char?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.5001 Td
+(To properly hold EOF \(-1\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.9001 Td
+(For faster memory access) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.3002 Td
+(To avoid truncation) Tj
+ET
+BT
+/F2 7.4 Tf
+58 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 587.7002 Td
+(char is unsigned) Tj
+ET
+BT
+/F2 8.0 Tf
+42 564.1002 Td
+(18.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(Which function was completely removed from C11) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(due to inherent buffer overflow vulnerability?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 543.2002 Td
+(gets\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 533.6002 Td
+(puts\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.0002 Td
+(fgets\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.4003 Td
+(getchar\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 490.8003 Td
+(19.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 490.8003 Td
+(Which safe string input function specifies the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6003 Td
+(maximum buffer size and input stream?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 469.9002 Td
+(fgets\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.3002 Td
+(gets\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 450.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 450.7002 Td
+(scanf\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.1002 Td
+(getstr\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 417.5002 Td
+(20.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 417.5002 Td
+(What does puts\(\) automatically append to) Tj
+ET
+BT
+/F1 7.8 Tf
+58 408.3002 Td
+(standard output after printing the string?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 396.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 396.6002 Td
+(Newline character \('\\n'\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 387.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 387.0002 Td
+(Space \(' '\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.4002 Td
+(Null terminator) Tj
+ET
+BT
+/F2 7.4 Tf
+58 367.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 367.8002 Td
+(Carriage return) Tj
+ET
+BT
+/F2 8.0 Tf
+42 344.2002 Td
+(21.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 344.2002 Td
+(Which printf flag left-justifies text within the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.0002 Td
+(specified field width?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 323.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 323.3001 Td
+(- \(Minus flag\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 313.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 313.7001 Td
+(+ \(Plus flag\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.1001 Td
+(0 \(Zero flag\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 294.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 294.5001 Td
+(# \(Hash flag\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(22.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What does the format specifier %10.4f indicate) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(for a floating-point number?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(Min width 10, 4 decimals) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(10 decimals, 4 width) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(Multiply by 10.4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(Precision 10 digits) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(23.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(What does the expression while\(1\) create in a C) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(control flow construct?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(Infinite loop) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(One-time execution) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(Zero iterations) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(Syntax error) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(24.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(What does the expression while\(0\) do when placed) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(as the header of a loop?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.5001 Td
+(Never executes body) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.9001 Td
+(Infinite loop) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.3002 Td
+(Executes once) Tj
+ET
+BT
+/F2 7.4 Tf
+322 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 587.7002 Td
+(Throws exception) Tj
+ET
+BT
+/F2 8.0 Tf
+306 564.1002 Td
+(25.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.1002 Td
+(In an if-else construct, to which if statement) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(does an ambiguous else associate?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 543.2002 Td
+(Nearest preceding if) Tj
+ET
+BT
+/F2 7.4 Tf
+322 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 533.6002 Td
+(First outermost if) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.0002 Td
+(Any random if) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.4003 Td
+(Throws syntax error) Tj
+ET
+BT
+/F2 8.0 Tf
+306 490.8003 Td
+(26.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 490.8003 Td
+(How can the dangling-else ambiguity be) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6003 Td
+(explicitly resolved by the programmer?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 469.9002 Td
+(Enclosing with braces {}) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.3002 Td
+(Adding semicolons) Tj
+ET
+BT
+/F2 7.4 Tf
+322 450.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 450.7002 Td
+(Indenting correctly) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.1002 Td
+(Using comments) Tj
+ET
+BT
+/F2 8.0 Tf
+306 417.5002 Td
+(27.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 417.5002 Td
+(Which format specifier reads a sequence of) Tj
+ET
+BT
+/F1 7.8 Tf
+322 408.3002 Td
+(characters until whitespace is encountered?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 396.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 396.6002 Td
+(%s) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.0002 Td
+(%c) Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.4002 Td
+(%d) Tj
+ET
+BT
+/F2 7.4 Tf
+322 367.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 367.8002 Td
+(%[^ ]) Tj
+ET
+BT
+/F2 8.0 Tf
+306 344.2002 Td
+(28.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 344.2002 Td
+(What is the return value of printf\(\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 332.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 332.5002 Td
+(Characters printed) Tj
+ET
+BT
+/F2 7.4 Tf
+322 322.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 322.9001 Td
+(Number of arguments) Tj
+ET
+BT
+/F2 7.4 Tf
+322 313.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 313.3001 Td
+(Always 0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 303.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 303.7001 Td
+(Boolean status) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 8 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+8 0 obj
+<< /Length 8143 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 2: CONTROL STRUCTURES & I/O FUNCTIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 3 of 40) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(29.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What is the return value of scanf\(\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 772.3 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 772.3 Td
+(Items matched/assigned) Tj
+ET
+BT
+/F2 7.4 Tf
+58 762.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 762.7 Td
+(Total bytes read) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.1 Td
+(Characters printed) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.5001 Td
+(Always 0) Tj
+ET
+BT
+/F2 8.0 Tf
+42 719.9001 Td
+(30.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 719.9001 Td
+(What does scanf\("%d", &x\) return if the user) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(enters non-numeric text like 'hello'?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 699.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 699.0001 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.4001 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 679.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 679.8001 Td
+(-1 \(EOF\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.2001 Td
+(Undefined) Tj
+ET
+BT
+/F2 8.0 Tf
+42 646.6002 Td
+(31.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 646.6002 Td
+(Which header file is required to use exit\(\) and) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(EXIT_SUCCESS in C?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 625.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 625.7001 Td
+(<stdlib.h>) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.1002 Td
+(<stdio.h>) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.5002 Td
+(<string.h>) Tj
+ET
+BT
+/F2 7.4 Tf
+58 596.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 596.9002 Td
+(<conio.h>) Tj
+ET
+BT
+/F2 8.0 Tf
+42 573.3002 Td
+(32.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 573.3002 Td
+(In a for loop, multiple loop control variables) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(can be initialized using which operator?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 552.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 552.4002 Td
+(Comma operator \(,\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 542.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 542.8002 Td
+(Semicolon \(;\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 533.2003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 533.2003 Td
+(Colon \(:\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 523.6003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 523.6003 Td
+(Ampersand \(&\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 500.0003 Td
+(33.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 500.0003 Td
+(Which loop structure is preferred when the exact) Tj
+ET
+BT
+/F1 7.8 Tf
+58 490.8003 Td
+(number of iterations is known beforehand?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 479.1003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 479.1003 Td
+(for loop) Tj
+ET
+BT
+/F2 7.4 Tf
+58 469.5003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 469.5003 Td
+(while loop) Tj
+ET
+BT
+/F2 7.4 Tf
+58 459.9003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 459.9003 Td
+(do-while loop) Tj
+ET
+BT
+/F2 7.4 Tf
+58 450.3003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 450.3003 Td
+(goto loop) Tj
+ET
+BT
+/F2 8.0 Tf
+42 426.7003 Td
+(34.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 426.7003 Td
+(Which loop structure is preferred when iterating) Tj
+ET
+BT
+/F1 7.8 Tf
+58 417.5002 Td
+(based on a sentinel value or external condition?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 405.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 405.8002 Td
+(while loop) Tj
+ET
+BT
+/F2 7.4 Tf
+58 396.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 396.2002 Td
+(for loop) Tj
+ET
+BT
+/F2 7.4 Tf
+58 386.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 386.6002 Td
+(switch statement) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.0002 Td
+(do-while loop) Tj
+ET
+BT
+/F2 8.0 Tf
+42 353.4002 Td
+(35.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 353.4002 Td
+(What will happen if a semicolon is placed) Tj
+ET
+BT
+/F1 7.8 Tf
+58 344.2002 Td
+(immediately after an if condition: if \(x > 0\);?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 332.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 332.5002 Td
+(Empty statement executed) Tj
+ET
+BT
+/F2 7.4 Tf
+58 322.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 322.9002 Td
+(Syntax compile error) Tj
+ET
+BT
+/F2 7.4 Tf
+58 313.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 313.3002 Td
+(Condition inverted) Tj
+ET
+BT
+/F2 7.4 Tf
+58 303.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 303.7002 Td
+(Block skipped) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(36.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What will happen if a semicolon is placed) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(immediately after a while condition: while\(x <) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(5\);?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(Infinite loop if x < 5) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.3 Td
+(Syntax compile error) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.7 Td
+(Loop executes once) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.1 Td
+(Terminates gracefully) Tj
+ET
+BT
+/F2 8.0 Tf
+306 701.5001 Td
+(37.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(Can case labels in a switch statement contain) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(variable expressions like case x:?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.6 Td
+(No \(must be constant\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.0001 Td
+(Yes \(in modern C\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.4001 Td
+(Yes \(if int\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 651.8001 Td
+(Implementation-defined) Tj
+ET
+BT
+/F2 8.0 Tf
+306 628.2001 Td
+(38.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(Can two case labels have identical constant) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(values in the same switch block?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.3001 Td
+(No \(duplicate error\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.7001 Td
+(Yes \(allowed\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.1002 Td
+(Yes \(with warning\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 578.5002 Td
+(Only if separated) Tj
+ET
+BT
+/F2 8.0 Tf
+306 554.9002 Td
+(39.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(Can a switch statement be nested inside another) Tj
+ET
+BT
+/F1 7.8 Tf
+322 545.7002 Td
+(switch statement in C?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 534.0002 Td
+(Yes) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.4002 Td
+(No) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.8002 Td
+(Only 2 levels) Tj
+ET
+BT
+/F2 7.4 Tf
+322 505.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 505.2002 Td
+(Deprecated) Tj
+ET
+BT
+/F2 8.0 Tf
+306 481.6002 Td
+(40.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6002 Td
+(Which escape sequence represents the carriage) Tj
+ET
+BT
+/F1 7.8 Tf
+322 472.4002 Td
+(return character in C?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.7002 Td
+(\\r) Tj
+ET
+BT
+/F2 7.4 Tf
+322 451.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 451.1002 Td
+(\\n) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.5002 Td
+(\\b) Tj
+ET
+BT
+/F2 7.4 Tf
+322 431.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 431.9002 Td
+(\\t) Tj
+ET
+BT
+/F2 8.0 Tf
+306 408.3002 Td
+(41.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 408.3002 Td
+(What is the output of: int x = 0; if \(x = 5\)) Tj
+ET
+BT
+/F1 7.8 Tf
+322 399.1002 Td
+(printf\("T"\); else printf\("F"\);?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.4001 Td
+(T \(x is assigned 5\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.8001 Td
+(F) Tj
+ET
+BT
+/F2 7.4 Tf
+322 368.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 368.2001 Td
+(Compilation error) Tj
+ET
+BT
+/F2 7.4 Tf
+322 358.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 358.6001 Td
+(Nothing) Tj
+ET
+BT
+/F2 8.0 Tf
+306 335.0001 Td
+(42.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 335.0001 Td
+(Why does if \(x = 5\) evaluate to true in C?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 323.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 323.3001 Td
+(Assignment yields 5) Tj
+ET
+BT
+/F2 7.4 Tf
+322 313.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 313.7001 Td
+(Equality is assumed) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.1001 Td
+(x is initialized to 0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 294.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 294.5001 Td
+(Compiler bug) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 10 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+10 0 obj
+<< /Length 7868 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 2: CONTROL STRUCTURES & I/O FUNCTIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 4 of 40) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(43.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What will be printed: int i = 1; switch\(i\) {) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(case 1: printf\("A"\); case 2: printf\("B"\);) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(default: printf\("C"\); }?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(ABC \(fall-through\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.3 Td
+(A) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.7 Td
+(AB) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.1 Td
+(C) Tj
+ET
+BT
+/F2 8.0 Tf
+42 701.5001 Td
+(44.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(What is the purpose of intentionally omitting a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.3 Td
+(break statement in switch cases?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.6 Td
+(Share common logic) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.0001 Td
+(Reduce file size) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.4001 Td
+(Speed up execution) Tj
+ET
+BT
+/F2 7.4 Tf
+58 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 651.8001 Td
+(Avoid stack overflow) Tj
+ET
+BT
+/F2 8.0 Tf
+42 628.2001 Td
+(45.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(How does continue behave inside a for loop) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.0001 Td
+(compared to inside a while loop?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 607.3001 Td
+(Advances update expr) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.7001 Td
+(Skips update expr) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.1002 Td
+(Terminates loop) Tj
+ET
+BT
+/F2 7.4 Tf
+58 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 578.5002 Td
+(Restarts loop init) Tj
+ET
+BT
+/F2 8.0 Tf
+42 554.9002 Td
+(46.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(What is the output: for \(int i = 0; i < 5; i++\)) Tj
+ET
+BT
+/F1 7.8 Tf
+58 545.7002 Td
+({ if \(i == 2\) continue; printf\("%d ", i\); }?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 534.0002 Td
+(0 1 3 4) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.4002 Td
+(0 1 2 3 4) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.8002 Td
+(0 1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 505.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 505.2002 Td
+(3 4) Tj
+ET
+BT
+/F2 8.0 Tf
+42 481.6002 Td
+(47.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6002 Td
+(What is the output: for \(int i = 0; i < 5; i++\)) Tj
+ET
+BT
+/F1 7.8 Tf
+58 472.4002 Td
+({ if \(i == 2\) break; printf\("%d ", i\); }?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.7002 Td
+(0 1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 451.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 451.1002 Td
+(0 1 2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.5002 Td
+(0 1 3 4) Tj
+ET
+BT
+/F2 7.4 Tf
+58 431.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 431.9002 Td
+(2 3 4) Tj
+ET
+BT
+/F2 8.0 Tf
+42 408.3002 Td
+(48.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 408.3002 Td
+(What does scanf\("%[^\\n]", str\) do when reading) Tj
+ET
+BT
+/F1 7.8 Tf
+58 399.1002 Td
+(user input?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 387.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 387.4001 Td
+(Reads until newline) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.8001 Td
+(Reads single word) Tj
+ET
+BT
+/F2 7.4 Tf
+58 368.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 368.2001 Td
+(Reads everything) Tj
+ET
+BT
+/F2 7.4 Tf
+58 358.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 358.6001 Td
+(Skips newline) Tj
+ET
+BT
+/F2 8.0 Tf
+42 335.0001 Td
+(49.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.0001 Td
+(What does the asterisk \(*\) in scanf\("%*d %d",) Tj
+ET
+BT
+/F1 7.8 Tf
+58 325.8001 Td
+(&val\) indicate?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 314.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 314.1001 Td
+(Suppresses assignment) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.5001 Td
+(Pointer dereference) Tj
+ET
+BT
+/F2 7.4 Tf
+58 294.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 294.9001 Td
+(Multiplies input) Tj
+ET
+BT
+/F2 7.4 Tf
+58 285.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 285.3001 Td
+(Matches wildcard) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(50.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What is the output: int a = 5; do { printf\("%d) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(", a\); a++; } while \(a < 5\);?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(5 \(executes once\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(5 6) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(Nothing) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(Infinite 5) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(51.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(What does printf\("%+d", 42\); display?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 699.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 699.0001 Td
+(+42) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.4001 Td
+(42) Tj
+ET
+BT
+/F2 7.4 Tf
+322 679.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 679.8001 Td
+(42) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.2001 Td
+(Error) Tj
+ET
+BT
+/F2 8.0 Tf
+306 646.6002 Td
+(52.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 646.6002 Td
+(What does printf\("%+d", -42\); display?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 634.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 634.9001 Td
+(-42) Tj
+ET
+BT
+/F2 7.4 Tf
+322 625.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 625.3002 Td
+(+-42) Tj
+ET
+BT
+/F2 7.4 Tf
+322 615.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 615.7002 Td
+(42) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.1002 Td
+(Error) Tj
+ET
+BT
+/F2 8.0 Tf
+306 582.5002 Td
+(53.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 582.5002 Td
+(What is the result of: int c = 10; while \(c -->) Tj
+ET
+BT
+/F1 7.8 Tf
+322 573.3002 Td
+(0\) { } printf\("%d", c\);?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 561.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 561.6002 Td
+(-1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 552.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 552.0002 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 542.4003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 542.4003 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 532.8003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 532.8003 Td
+(10) Tj
+ET
+BT
+/F2 8.0 Tf
+306 509.2003 Td
+(54.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 509.2003 Td
+(How is the 'goes-to' operator \(-->\) parsed by) Tj
+ET
+BT
+/F1 7.8 Tf
+322 500.0003 Td
+(the C lexer?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 488.3003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 488.3003 Td
+(c-- > 0 \(postfix dec\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 478.7003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 478.7003 Td
+(c - - > 0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 469.1003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 469.1003 Td
+(Special pointer) Tj
+ET
+BT
+/F2 7.4 Tf
+322 459.5003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 459.5003 Td
+(Syntax error) Tj
+ET
+BT
+/F2 8.0 Tf
+306 435.9003 Td
+(55.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 435.9003 Td
+(Which scanset in scanf reads ONLY uppercase) Tj
+ET
+BT
+/F1 7.8 Tf
+322 426.7003 Td
+(alphabetic characters?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 415.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 415.0002 Td
+(%[A-Z]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 405.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 405.4002 Td
+(%[a-z]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 395.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 395.8002 Td
+(%[0-9]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 386.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 386.2002 Td
+(%[^A-Z]) Tj
+ET
+BT
+/F2 8.0 Tf
+306 362.6002 Td
+(56.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 362.6002 Td
+(Which scanset reads until the first semicolon is) Tj
+ET
+BT
+/F1 7.8 Tf
+322 353.4002 Td
+(encountered in the stream?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 341.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 341.7002 Td
+(%[^;]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 332.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 332.1002 Td
+(%[;]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 322.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 322.5002 Td
+(%s) Tj
+ET
+BT
+/F2 7.4 Tf
+322 312.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 312.9002 Td
+(%c) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 12 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+12 0 obj
+<< /Length 8435 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 2: CONTROL STRUCTURES & I/O FUNCTIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 5 of 40) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(57.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What happens when fgets\(\) reads a newline) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(character \('\\n'\) before hitting buffer limit?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(Stores '\\n' in buffer) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(Discards '\\n') Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(Replaces with '\\0') Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(Returns EOF) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(58.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(How can a trailing newline stored by fgets\(buf,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(sizeof\(buf\), stdin\) be cleanly stripped?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(buf[strcspn\(buf,"\\n"\)]=0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(buf[strlen\(buf\)]=0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(buf - 1 = '\\0') Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(strip\(buf\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(59.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(What is the output: int x = 3; switch\(x\) {) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(default: printf\("D"\); case 1: printf\("1"\);) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.0001 Td
+(break; }?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 607.3001 Td
+(D1 \(fall-through\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.7001 Td
+(D) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.1002 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 578.5002 Td
+(Compilation error) Tj
+ET
+BT
+/F2 8.0 Tf
+42 554.9002 Td
+(60.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(Can the default case be positioned before case) Tj
+ET
+BT
+/F1 7.8 Tf
+58 545.7002 Td
+(labels in a switch statement in C?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 534.0002 Td
+(Yes \(syntactically legal\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.4002 Td
+(No \(must be at end\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.8002 Td
+(Only if break present) Tj
+ET
+BT
+/F2 7.4 Tf
+58 505.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 505.2002 Td
+(Throws warning) Tj
+ET
+BT
+/F2 8.0 Tf
+42 481.6002 Td
+(61.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6002 Td
+(In nested loops, what does a break statement) Tj
+ET
+BT
+/F1 7.8 Tf
+58 472.4002 Td
+(exit from?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.7002 Td
+(Innermost loop only) Tj
+ET
+BT
+/F2 7.4 Tf
+58 451.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 451.1002 Td
+(All nested loops) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.5002 Td
+(Outermost loop) Tj
+ET
+BT
+/F2 7.4 Tf
+58 431.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 431.9002 Td
+(Current iteration only) Tj
+ET
+BT
+/F2 8.0 Tf
+42 408.3002 Td
+(62.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 408.3002 Td
+(How can a programmer cleanly break out of) Tj
+ET
+BT
+/F1 7.8 Tf
+58 399.1002 Td
+(multiple nested loops simultaneously in C?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 387.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 387.4001 Td
+(Use goto to outer label) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.8001 Td
+(Use double break) Tj
+ET
+BT
+/F2 7.4 Tf
+58 368.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 368.2001 Td
+(Use return only) Tj
+ET
+BT
+/F2 7.4 Tf
+58 358.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 358.6001 Td
+(Impossible in C) Tj
+ET
+BT
+/F2 8.0 Tf
+42 335.0001 Td
+(63.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.0001 Td
+(Which standard library function terminates the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 325.8001 Td
+(entire calling process immediately?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 314.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 314.1001 Td
+(exit\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.5001 Td
+(break) Tj
+ET
+BT
+/F2 7.4 Tf
+58 294.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 294.9001 Td
+(return) Tj
+ET
+BT
+/F2 7.4 Tf
+58 285.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 285.3001 Td
+(abort\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(64.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What is the difference between exit\(0\) and) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(abort\(\) in C?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(abort skips cleanups) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(exit abnormal term) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(abort is normal exit) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(Identical behavior) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(65.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(What is the value of x after: int x = 0; for) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(\(int i = 0; i < 3; i++\) for \(int j = 0; j < 2;) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(j++\) x++;?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.6 Td
+(6) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.0001 Td
+(5) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.4001 Td
+(9) Tj
+ET
+BT
+/F2 7.4 Tf
+322 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 651.8001 Td
+(3) Tj
+ET
+BT
+/F2 8.0 Tf
+306 628.2001 Td
+(66.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(What is the mathematical time complexity of) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(nested loops of size N and M: O\(N * M\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.3001 Td
+(O\(N * M\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.7001 Td
+(O\(N + M\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.1002 Td
+(O\(N^2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 578.5002 Td
+(O\(log\(N*M\)\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 554.9002 Td
+(67.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(Which I/O function reads unbuffered, non-echoed) Tj
+ET
+BT
+/F1 7.8 Tf
+322 545.7002 Td
+(keystrokes in Windows conio.h?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 534.0002 Td
+(_getch\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.4002 Td
+(getchar\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.8002 Td
+(scanf\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 505.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 505.2002 Td
+(fgetc\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 481.6002 Td
+(68.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6002 Td
+(Why is conio.h \(<getch>\) non-standard and) Tj
+ET
+BT
+/F1 7.8 Tf
+322 472.4002 Td
+(avoided in portable POSIX C programming?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.7002 Td
+(Not part of ANSI/ISO C) Tj
+ET
+BT
+/F2 7.4 Tf
+322 451.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 451.1002 Td
+(Security violation) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.5002 Td
+(Slow performance) Tj
+ET
+BT
+/F2 7.4 Tf
+322 431.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 431.9002 Td
+(Requires C++) Tj
+ET
+BT
+/F2 8.0 Tf
+306 408.3002 Td
+(69.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 408.3002 Td
+(In Euclidean algorithm for GCD, which loop) Tj
+ET
+BT
+/F1 7.8 Tf
+322 399.1002 Td
+(condition determines the termination?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.4001 Td
+(b != 0 \(while b != 0\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.8001 Td
+(a == b) Tj
+ET
+BT
+/F2 7.4 Tf
+322 368.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 368.2001 Td
+(a == 0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 358.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 358.6001 Td
+(b == 1) Tj
+ET
+BT
+/F2 8.0 Tf
+306 335.0001 Td
+(70.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 335.0001 Td
+(What is the formula to compute Least Common) Tj
+ET
+BT
+/F1 7.8 Tf
+322 325.8001 Td
+(Multiple \(LCM\) from GCD of two positive integers) Tj
+ET
+BT
+/F1 7.8 Tf
+322 316.6001 Td
+(a, b?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.9001 Td
+(\(a * b\) / GCD\(a, b\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 295.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 295.3001 Td
+(a + b - GCD\(a, b\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 285.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 285.7001 Td
+(GCD\(a, b\) / \(a * b\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 276.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 276.1001 Td
+(a * GCD\(a, b\)) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 14 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+14 0 obj
+<< /Length 8492 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 2: CONTROL STRUCTURES & I/O FUNCTIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 6 of 40) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(71.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Which control structure is ideal for) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(categorizing biological DNA nucleotides \(A, C,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(G, T\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(switch\(base\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.3 Td
+(nested while) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.7 Td
+(goto ladder) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.1 Td
+(ternary operator) Tj
+ET
+BT
+/F2 8.0 Tf
+42 701.5001 Td
+(72.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(What does the format specifier %02X produce when) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.3 Td
+(printing the byte value 10?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.6 Td
+("0A") Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.0001 Td
+("10") Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.4001 Td
+("A") Tj
+ET
+BT
+/F2 7.4 Tf
+58 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 651.8001 Td
+("0010") Tj
+ET
+BT
+/F2 8.0 Tf
+42 628.2001 Td
+(73.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(What does printf\("%*d", width, val\); allow the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.0001 Td
+(programmer to do dynamically?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 607.3001 Td
+(Specify width via arg) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.7001 Td
+(Print wildcard char) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.1002 Td
+(Dereference pointer) Tj
+ET
+BT
+/F2 7.4 Tf
+58 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 578.5002 Td
+(Format binary) Tj
+ET
+BT
+/F2 8.0 Tf
+42 554.9002 Td
+(74.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(What does printf\("%.*f", precision, val\); allow) Tj
+ET
+BT
+/F1 7.8 Tf
+58 545.7002 Td
+(the programmer to do?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 534.0002 Td
+(Specify precision via arg) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.4002 Td
+(Print raw pointer) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.8002 Td
+(Round to nearest int) Tj
+ET
+BT
+/F2 7.4 Tf
+58 505.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 505.2002 Td
+(Scientific format) Tj
+ET
+BT
+/F2 8.0 Tf
+42 481.6002 Td
+(75.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6002 Td
+(What is the danger of writing while\(count < 10\);) Tj
+ET
+BT
+/F1 7.8 Tf
+58 472.4002 Td
+(count++; with an accidental semicolon?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.7002 Td
+(Infinite loop \(count unupdated\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 451.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 451.1002 Td
+(count increments to 10) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.5002 Td
+(Compilation error) Tj
+ET
+BT
+/F2 7.4 Tf
+58 431.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 431.9002 Td
+(count skips loop) Tj
+ET
+BT
+/F2 8.0 Tf
+42 408.3002 Td
+(76.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 408.3002 Td
+(What is the mathematical output of Armstrong) Tj
+ET
+BT
+/F1 7.8 Tf
+58 399.1002 Td
+(number algorithm for 371?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 387.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 387.4001 Td
+(3^3 + 7^3 + 1^3 == 371) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.8001 Td
+(3*7*1 == 21) Tj
+ET
+BT
+/F2 7.4 Tf
+58 368.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 368.2001 Td
+(Prime number) Tj
+ET
+BT
+/F2 7.4 Tf
+58 358.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 358.6001 Td
+(Fibonacci term) Tj
+ET
+BT
+/F2 8.0 Tf
+42 335.0001 Td
+(77.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.0001 Td
+(In verifying whether integer N is prime, what is) Tj
+ET
+BT
+/F1 7.8 Tf
+58 325.8001 Td
+(the optimal upper limit for trial division?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 314.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 314.1001 Td
+(sqrt\(N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.5001 Td
+(N / 2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 294.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 294.9001 Td
+(N - 1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 285.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 285.3001 Td
+(log2\(N\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(78.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Why does trial division up to sqrt\(N\) suffice to) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(prove primality of N?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(Factors occur in pairs) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(Odd numbers only) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(Fermat's little theorem) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(Euler's totient) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(79.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(In an iterative Fibonacci generator: t = a + b;) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(a = b; b = t; what are the initial terms?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(a = 0, b = 1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(a = 1, b = 1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(a = 0, b = 0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(a = 2, b = 3) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(80.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(What is the 10th Fibonacci number in the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(standard sequence \(0, 1, 1, 2, 3, 5, 8, 13, 21,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(34, 55\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.3001 Td
+(55 \(if 0-indexed: 34\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.7001 Td
+(34) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.1002 Td
+(89) Tj
+ET
+BT
+/F2 7.4 Tf
+322 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 578.5002 Td
+(21) Tj
+ET
+BT
+/F2 8.0 Tf
+306 554.9002 Td
+(81.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(In computing Taylor series for e^x: sum += term;) Tj
+ET
+BT
+/F1 7.8 Tf
+322 545.7002 Td
+(term *= x / i; what guarantees termination?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 534.0002 Td
+(term < EPSILON \(tolerance\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.4002 Td
+(i == 1000) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.8002 Td
+(term == 0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 505.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 505.2002 Td
+(sum overflows) Tj
+ET
+BT
+/F2 8.0 Tf
+306 481.6002 Td
+(82.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6002 Td
+(What causes catastrophic cancellation in) Tj
+ET
+BT
+/F1 7.8 Tf
+322 472.4002 Td
+(quadratic root formula \(-b + sqrt\(D\)\) / \(2a\)) Tj
+ET
+BT
+/F1 7.8 Tf
+322 463.2002 Td
+(when b^2 >> 4ac?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 451.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 451.5002 Td
+(Subtracting nearly equal nos) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.9002 Td
+(Division by zero) Tj
+ET
+BT
+/F2 7.4 Tf
+322 432.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 432.3002 Td
+(Underflow in ac) Tj
+ET
+BT
+/F2 7.4 Tf
+322 422.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 422.7002 Td
+(Integer truncation) Tj
+ET
+BT
+/F2 8.0 Tf
+306 399.1002 Td
+(83.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 399.1002 Td
+(How does the alternative numerically stable) Tj
+ET
+BT
+/F1 7.8 Tf
+322 389.9001 Td
+(quadratic formula compute the first root x1?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 378.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 378.2001 Td
+(\(-b - sgn\(b\)*sqrt\(D\)\)/2a) Tj
+ET
+BT
+/F2 7.4 Tf
+322 368.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 368.6001 Td
+(2c / \(-b - sqrt\(D\)\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 359.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 359.0001 Td
+(-b / 2a) Tj
+ET
+BT
+/F2 7.4 Tf
+322 349.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 349.4001 Td
+(sqrt\(D\) / 2a) Tj
+ET
+BT
+/F2 8.0 Tf
+306 325.8001 Td
+(84.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 325.8001 Td
+(What does Duff's Device exploit in ANSI C) Tj
+ET
+BT
+/F1 7.8 Tf
+322 316.6001 Td
+(grammar to achieve loop unrolling?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.9001 Td
+(Interleaving switch & while) Tj
+ET
+BT
+/F2 7.4 Tf
+322 295.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 295.3001 Td
+(Recursive macros) Tj
+ET
+BT
+/F2 7.4 Tf
+322 285.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 285.7001 Td
+(Inline assembly) Tj
+ET
+BT
+/F2 7.4 Tf
+322 276.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 276.1001 Td
+(Goto tables) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 16 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+16 0 obj
+<< /Length 8805 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 2: CONTROL STRUCTURES & I/O FUNCTIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 7 of 40) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(85.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(In Duff's Device: switch\(count % 8\) { case 0: do) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+({ *to = *from++; case 7: ... } while\(--n > 0\); }) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(is this legal?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(Yes \(valid ANSI C\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.3 Td
+(No \(switch inside loop\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.7 Td
+(Syntax error) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.1 Td
+(Compiler dependent) Tj
+ET
+BT
+/F2 8.0 Tf
+42 701.5001 Td
+(86.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(In bioinformatics, which nucleotide triplet) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.3 Td
+(represents the universal eukaryotic Start Codon?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.6 Td
+(ATG \(Methionine\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.0001 Td
+(TGA) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.4001 Td
+(TAA) Tj
+ET
+BT
+/F2 7.4 Tf
+58 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 651.8001 Td
+(TAG) Tj
+ET
+BT
+/F2 8.0 Tf
+42 628.2001 Td
+(87.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(Which triplet combinations represent translation) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.0001 Td
+(Stop Codons in DNA reading frames?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 607.3001 Td
+(TAA, TAG, TGA) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.7001 Td
+(ATG, ACG, AGG) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.1002 Td
+(CAA, CAG, CGA) Tj
+ET
+BT
+/F2 7.4 Tf
+58 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 578.5002 Td
+(TAT, TAC, TAA) Tj
+ET
+BT
+/F2 8.0 Tf
+42 554.9002 Td
+(88.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(How many reading frames must be checked when) Tj
+ET
+BT
+/F1 7.8 Tf
+58 545.7002 Td
+(translating double-stranded DNA into protein?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 534.0002 Td
+(6 reading frames) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.4002 Td
+(3 reading frames) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.8002 Td
+(1 reading frame) Tj
+ET
+BT
+/F2 7.4 Tf
+58 505.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 505.2002 Td
+(2 reading frames) Tj
+ET
+BT
+/F2 8.0 Tf
+42 481.6002 Td
+(89.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6002 Td
+(In calculating oligonucleotide melting) Tj
+ET
+BT
+/F1 7.8 Tf
+58 472.4002 Td
+(temperature \(Wallace rule\): Tm = 2*\(A+T\) +) Tj
+ET
+BT
+/F1 7.8 Tf
+58 463.2002 Td
+(4*\(G+C\), what is Tm for 5'-ATGCG-3'?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 451.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 451.5002 Td
+(16 deg C \(2*2 + 4*3\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.9002 Td
+(14 deg C) Tj
+ET
+BT
+/F2 7.4 Tf
+58 432.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 432.3002 Td
+(18 deg C) Tj
+ET
+BT
+/F2 7.4 Tf
+58 422.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 422.7002 Td
+(20 deg C) Tj
+ET
+BT
+/F2 8.0 Tf
+42 399.1002 Td
+(90.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 399.1002 Td
+(Why is Wallace's rule \(2*\(A+T\) + 4*\(G+C\)\) only) Tj
+ET
+BT
+/F1 7.8 Tf
+58 389.9001 Td
+(valid for short primers \(14-20 nt\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 378.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 378.2001 Td
+(Neglects nearest-neighbor) Tj
+ET
+BT
+/F2 7.4 Tf
+58 368.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 368.6001 Td
+(Overestimates GC bonds) Tj
+ET
+BT
+/F2 7.4 Tf
+58 359.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 359.0001 Td
+(Assumes RNA duplexes) Tj
+ET
+BT
+/F2 7.4 Tf
+58 349.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 349.4001 Td
+(Ignores magnesium ions) Tj
+ET
+BT
+/F2 8.0 Tf
+42 325.8001 Td
+(91.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 325.8001 Td
+(What security vulnerability arises from calling) Tj
+ET
+BT
+/F1 7.8 Tf
+58 316.6001 Td
+(printf\(user_buffer\) without format specifier?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.9001 Td
+(Format string attack) Tj
+ET
+BT
+/F2 7.4 Tf
+58 295.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 295.3001 Td
+(Heap corruption) Tj
+ET
+BT
+/F2 7.4 Tf
+58 285.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 285.7001 Td
+(Integer overflow) Tj
+ET
+BT
+/F2 7.4 Tf
+58 276.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 276.1001 Td
+(Infinite recursion) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(92.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(How can a format string vulnerability be) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(completely neutralized in C?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(printf\("%s", user_buffer\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(puts\(user_buffer\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(Both A and B are secure) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(printf\(user_buffer, ""\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(93.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(What does scanf\("%20s", buffer\) prevent compared) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(to scanf\("%s", buffer\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(Buffer overflow vulnerability) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(Reading whitespace) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(Reading numbers) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(Slow file I/O) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(94.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(When reading FASTA file header lines starting) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(with '>', which control logic identifies) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(headers?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.3001 Td
+(if \(line[0] == '>'\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.7001 Td
+(if \(strstr\(line, "DNA"\)\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.1002 Td
+(switch\(strlen\(line\)\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 578.5002 Td
+(while\(line != EOF\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 554.9002 Td
+(95.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(In C, what is the result of evaluating: int x =) Tj
+ET
+BT
+/F1 7.8 Tf
+322 545.7002 Td
+(1; switch\(x\) { case 1: { int y = 20;) Tj
+ET
+BT
+/F1 7.8 Tf
+322 536.5002 Td
+(printf\("%d", y\); } break; }?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.8002 Td
+(Prints 20 \(block scope\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 515.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 515.2002 Td
+(Compilation error) Tj
+ET
+BT
+/F2 7.4 Tf
+322 505.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 505.6002 Td
+(y is invisible) Tj
+ET
+BT
+/F2 7.4 Tf
+322 496.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 496.0002 Td
+(Undefined behavior) Tj
+ET
+BT
+/F2 8.0 Tf
+306 472.4002 Td
+(96.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 472.4002 Td
+(Why must variable declarations directly inside) Tj
+ET
+BT
+/F1 7.8 Tf
+322 463.2002 Td
+(switch case labels be enclosed in braces {}?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 451.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 451.5002 Td
+(Prevents jumping over init) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.9001 Td
+(ANSI C forbids local vars) Tj
+ET
+BT
+/F2 7.4 Tf
+322 432.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 432.3001 Td
+(Saves stack memory) Tj
+ET
+BT
+/F2 7.4 Tf
+322 422.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 422.7001 Td
+(Enforces static storage) Tj
+ET
+BT
+/F2 8.0 Tf
+306 399.1001 Td
+(97.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 399.1001 Td
+(What is the return value of feof\(FILE *stream\)) Tj
+ET
+BT
+/F1 7.8 Tf
+322 389.9001 Td
+(when the end of stream has NOT yet been reached?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 378.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 378.2001 Td
+(0 \(zero\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 368.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 368.6001 Td
+(Non-zero \(true\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 359.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 359.0001 Td
+(-1 \(EOF\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 349.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 349.4001 Td
+(NULL) Tj
+ET
+BT
+/F2 8.0 Tf
+306 325.8001 Td
+(98.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 325.8001 Td
+(Why is while \(!feof\(fp\)\) considered a dangerous) Tj
+ET
+BT
+/F1 7.8 Tf
+322 316.6001 Td
+(anti-pattern in C file and stream processing?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.9001 Td
+(feof true only AFTER read fails) Tj
+ET
+BT
+/F2 7.4 Tf
+322 295.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 295.3 Td
+(feof skips first byte) Tj
+ET
+BT
+/F2 7.4 Tf
+322 285.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 285.7 Td
+(feof closes stream) Tj
+ET
+BT
+/F2 7.4 Tf
+322 276.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 276.1 Td
+(feof triggers EOF trap) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 18 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+18 0 obj
+<< /Length 1513 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 2: CONTROL STRUCTURES & I/O FUNCTIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 8 of 40) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(99.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What is the correct robust pattern for reading) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(lines from a stream until end-of-file?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(while \(fgets\(...\) != NULL\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(while \(!feof\(stdin\)\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(while \(feof == 0\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(while \(read\(\) > 0\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 700.7001 Td
+(100.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 700.7001 Td
+(What does fflush\(stdout\) accomplish after a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 691.5001 Td
+(series of unformatted printf calls?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 679.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 679.8 Td
+(Forces buffer write to screen) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.2001 Td
+(Clears input stream buffer) Tj
+ET
+BT
+/F2 7.4 Tf
+58 660.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 660.6001 Td
+(Resets file pointer to 0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 651.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 651.0001 Td
+(Deallocates stdout buffer) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 20 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+20 0 obj
+<< /Length 4901 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 2: CONTROL STRUCTURES & I/O FUNCTIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 9 of 40) Tj
+ET
+BT
+/F2 10 Tf
+45 780 Td
+(SECTION B: DESCRIPTIVE & SUBJECTIVE QUESTIONS) Tj
+ET
+BT
+/F2 8.5 Tf
+45 760 Td
+(Q1. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 760 Td
+(Explain conditional branching constructs in C: if, if-else, nested if, and else-if ladders with) Tj
+ET
+BT
+/F1 8.5 Tf
+72 749.5 Td
+(execution flowcharts.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 724.5 Td
+(Q2. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 724.5 Td
+(Analyze the Dangling-Else Problem in C, detailing compiler resolution rules and defensive coding) Tj
+ET
+BT
+/F1 8.5 Tf
+72 714 Td
+(standards.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 689 Td
+(Q3. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 689 Td
+(Detail the switch-case statement, explaining integral expression constraints, fall-through) Tj
+ET
+BT
+/F1 8.5 Tf
+72 678.5 Td
+(mechanics, and jump tables.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 653.5 Td
+(Q4. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 653.5 Td
+(Compare while, do-while, and for loops in C, contrasting entry-controlled vs exit-controlled) Tj
+ET
+BT
+/F1 8.5 Tf
+72 643 Td
+(evaluation with practical use-cases.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 618 Td
+(Q5. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 618 Td
+(Explain Jump Statements in C \(break, continue, goto, return\), detailing execution semantics and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 607.5 Td
+(structured programming principles.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 582.5 Td
+(Q6. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 582.5 Td
+(Detail formatted console output using printf\(\), explaining field width, precision modifiers,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 572 Td
+(alignment flags, and return values.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 547 Td
+(Q7. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 547 Td
+(Detail formatted console input using scanf\(\), explaining address-of operator, whitespace skipping,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 536.5 Td
+(scansets, and return values.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 511.5 Td
+(Q8. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 511.5 Td
+(Compare character-level I/O functions: getchar\(\), putchar\(\), getch\(\), and getche\(\), explaining) Tj
+ET
+BT
+/F1 8.5 Tf
+72 501 Td
+(terminal buffering modes.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 476 Td
+(Q9. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 476 Td
+(Analyze why gets\(\) is dangerously vulnerable to Buffer Overflow and explain fgets\(\) and puts\(\)) Tj
+ET
+BT
+/F1 8.5 Tf
+72 465.5 Td
+(safe alternatives.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 440.5 Td
+(Q10. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 440.5 Td
+(Write a complete ANSI C program to test whether a given positive integer is prime using optimized) Tj
+ET
+BT
+/F1 8.5 Tf
+72 430 Td
+(trial division up to sqrt\(N\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 405 Td
+(Q11. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 405 Td
+(Write an ANSI C program to generate the Fibonacci sequence up to N terms, discussing iterative) Tj
+ET
+BT
+/F1 8.5 Tf
+72 394.5 Td
+(space-time complexity.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 369.5 Td
+(Q12. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 369.5 Td
+(Write an ANSI C program to compute the Greatest Common Divisor \(GCD\) using the Euclidean Algorithm) Tj
+ET
+BT
+/F1 8.5 Tf
+72 359 Td
+(and find the LCM.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 334 Td
+(Q13. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 334 Td
+(Write an ANSI C program to check whether a given integer is a Palindrome Number by reversing its) Tj
+ET
+BT
+/F1 8.5 Tf
+72 323.5 Td
+(digits.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 298.5 Td
+(Q14. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 298.5 Td
+(Write an ANSI C program to verify whether a given positive integer is an Armstrong Number) Tj
+ET
+BT
+/F1 8.5 Tf
+72 288 Td
+(\(Narcissistic Number\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 263 Td
+(Q15. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 263 Td
+(Write an ANSI C program to compute the Taylor series expansion of e^x to a specified convergence) Tj
+ET
+BT
+/F1 8.5 Tf
+72 252.5 Td
+(tolerance epsilon.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 227.5 Td
+(Q16. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 227.5 Td
+(Write an ANSI C program to compute the roots of a quadratic equation ax^2 + bx + c = 0, handling) Tj
+ET
+BT
+/F1 8.5 Tf
+72 217 Td
+(real, equal, and complex roots.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 192 Td
+(Q17. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 192 Td
+(Write an ANSI C program using switch-case to count nucleotide frequencies \(A, C, G, T\) and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 181.5 Td
+(calculate GC content percentage.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 156.5 Td
+(Q18. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 156.5 Td
+(Write an ANSI C program to search a DNA sequence for Start Codon \(ATG\) and identify corresponding) Tj
+ET
+BT
+/F1 8.5 Tf
+72 146 Td
+(Stop Codons in the open reading frame.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 121 Td
+(Q19. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 121 Td
+(Explain the mechanics and application of the comma operator inside a for loop header for multiple) Tj
+ET
+BT
+/F1 8.5 Tf
+72 110.5 Td
+(initializations and updates.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 85.5 Td
+(Q20. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 85.5 Td
+(Write an ANSI C program to print Pascal's Triangle up to N rows using nested for loops and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 75 Td
+(combinatorial logic.) Tj
+ET
+
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 22 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+22 0 obj
+<< /Length 2564 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 2: CONTROL STRUCTURES & I/O FUNCTIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 10 of 40) Tj
+ET
+BT
+/F2 8.5 Tf
+45 780 Td
+(Q21. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 780 Td
+(Detail the concept of an infinite loop in C, explaining intentional daemon loops, termination) Tj
+ET
+BT
+/F1 8.5 Tf
+72 769.5 Td
+(conditions, and accidental causes.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 743.5 Td
+(Q22. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 743.5 Td
+(Write an ANSI C program to calculate the sum of digits of a positive integer until a single digit) Tj
+ET
+BT
+/F1 8.5 Tf
+72 733 Td
+(root is obtained \(digital root\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 707 Td
+(Q23. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 707 Td
+(Write an ANSI C program to convert a decimal integer to binary, octal, and hexadecimal bases using) Tj
+ET
+BT
+/F1 8.5 Tf
+72 696.5 Td
+(iteration and bitwise operators.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 670.5 Td
+(Q24. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 670.5 Td
+(Explain the format string vulnerability in C, showing how user-controlled format strings cause) Tj
+ET
+BT
+/F1 8.5 Tf
+72 660 Td
+(arbitrary memory disclosure and writes.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 634 Td
+(Q25. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 634 Td
+(Write an ANSI C program to calculate the melting temperature \(Tm\) of a DNA primer using the) Tj
+ET
+BT
+/F1 8.5 Tf
+72 623.5 Td
+(Wallace Rule and Salt-Adjusted Formula.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 597.5 Td
+(Q26. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 597.5 Td
+(Explain Duff's Device in C, detailing how interleaved switch and loop statements optimize memory) Tj
+ET
+BT
+/F1 8.5 Tf
+72 587 Td
+(block copies.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 561 Td
+(Q27. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 561 Td
+(Write an ANSI C program to reverse an integer array using a while loop and pointers without) Tj
+ET
+BT
+/F1 8.5 Tf
+72 550.5 Td
+(auxiliary arrays.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 524.5 Td
+(Q28. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 524.5 Td
+(Write an ANSI C program to compute the factorial of an integer iteratively and analyze integer) Tj
+ET
+BT
+/F1 8.5 Tf
+72 514 Td
+(overflow boundaries.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 488 Td
+(Q29. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 488 Td
+(Explain the dangling-pointer and memory leak traps that occur when managing dynamic loops and jump) Tj
+ET
+BT
+/F1 8.5 Tf
+72 477.5 Td
+(statements.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 451.5 Td
+(Q30. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 451.5 Td
+(Write an ANSI C program to simulate a bioreactor pH and temperature feedback control loop with) Tj
+ET
+BT
+/F1 8.5 Tf
+72 441 Td
+(safety alarm thresholds.) Tj
+ET
+
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 24 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+24 0 obj
+<< /Length 8424 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 2: CONTROL STRUCTURES & I/O FUNCTIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 11 of 40) Tj
+ET
+BT
+/F2 11 Tf
+45 780 Td
+(SECTION C: ANSWER KEY - MULTIPLE CHOICE QUESTIONS) Tj
+ET
+0.5 w
+45 772 m 550 772 l S
+BT
+/F2 8.5 Tf
+45 750 Td
+(Q1: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 734 Td
+(Q2: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 718 Td
+(Q3: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 702 Td
+(Q4: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 686 Td
+(Q5: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 670 Td
+(Q6: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 654 Td
+(Q7: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 638 Td
+(Q8: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 622 Td
+(Q9: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 606 Td
+(Q10: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 590 Td
+(Q11: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 574 Td
+(Q12: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 558 Td
+(Q13: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 542 Td
+(Q14: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 526 Td
+(Q15: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 510 Td
+(Q16: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 494 Td
+(Q17: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 478 Td
+(Q18: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 462 Td
+(Q19: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 446 Td
+(Q20: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 446 Td
+([A]) Tj
+ET
+0.2 w
+135 755 m 135 425 l S
+BT
+/F2 8.5 Tf
+145 750 Td
+(Q21: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 734 Td
+(Q22: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 718 Td
+(Q23: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 702 Td
+(Q24: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 686 Td
+(Q25: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 670 Td
+(Q26: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 654 Td
+(Q27: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 638 Td
+(Q28: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 622 Td
+(Q29: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 606 Td
+(Q30: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 590 Td
+(Q31: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 574 Td
+(Q32: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 558 Td
+(Q33: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 542 Td
+(Q34: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 526 Td
+(Q35: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 510 Td
+(Q36: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 494 Td
+(Q37: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 478 Td
+(Q38: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 462 Td
+(Q39: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 446 Td
+(Q40: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 446 Td
+([A]) Tj
+ET
+0.2 w
+235 755 m 235 425 l S
+BT
+/F2 8.5 Tf
+245 750 Td
+(Q41: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 734 Td
+(Q42: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 718 Td
+(Q43: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 702 Td
+(Q44: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 686 Td
+(Q45: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 670 Td
+(Q46: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 654 Td
+(Q47: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 638 Td
+(Q48: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 622 Td
+(Q49: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 606 Td
+(Q50: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 590 Td
+(Q51: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 574 Td
+(Q52: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 558 Td
+(Q53: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 542 Td
+(Q54: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 526 Td
+(Q55: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 510 Td
+(Q56: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 494 Td
+(Q57: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 478 Td
+(Q58: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 462 Td
+(Q59: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 446 Td
+(Q60: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 446 Td
+([A]) Tj
+ET
+0.2 w
+335 755 m 335 425 l S
+BT
+/F2 8.5 Tf
+345 750 Td
+(Q61: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 734 Td
+(Q62: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 718 Td
+(Q63: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 702 Td
+(Q64: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 686 Td
+(Q65: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 670 Td
+(Q66: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 654 Td
+(Q67: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 638 Td
+(Q68: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 622 Td
+(Q69: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 606 Td
+(Q70: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 590 Td
+(Q71: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 574 Td
+(Q72: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 558 Td
+(Q73: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 542 Td
+(Q74: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 526 Td
+(Q75: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 510 Td
+(Q76: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 494 Td
+(Q77: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 478 Td
+(Q78: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 462 Td
+(Q79: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 446 Td
+(Q80: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 446 Td
+([A]) Tj
+ET
+0.2 w
+435 755 m 435 425 l S
+BT
+/F2 8.5 Tf
+445 750 Td
+(Q81: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 734 Td
+(Q82: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 718 Td
+(Q83: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 702 Td
+(Q84: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 686 Td
+(Q85: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 670 Td
+(Q86: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 654 Td
+(Q87: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 638 Td
+(Q88: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 622 Td
+(Q89: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 606 Td
+(Q90: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 590 Td
+(Q91: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 574 Td
+(Q92: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 574 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 558 Td
+(Q93: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 542 Td
+(Q94: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 526 Td
+(Q95: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 510 Td
+(Q96: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 494 Td
+(Q97: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 478 Td
+(Q98: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 462 Td
+(Q99: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 446 Td
+(Q100: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 446 Td
+([A]) Tj
+ET
+0.5 w
+45 400 m 550 400 l 550 340 l 45 340 l s
+BT
+/F2 9 Tf
+55 382 Td
+(MCQ Scoring Guide & Difficulty Distribution:) Tj
+ET
+BT
+/F1 8.5 Tf
+55 366 Td
+(Questions 1 to 40: Foundational & Conceptual [Easy] | Questions 41 to 75: Analytical & Applied [Moderate]) Tj
+ET
+BT
+/F1 8.5 Tf
+55 350 Td
+(Questions 76 to 100: Complex Numerical & Advanced Problem Solving [Difficult]) Tj
+ET
+
+endstream
+endobj
+25 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 26 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+26 0 obj
+<< /Length 3040 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 2: CONTROL STRUCTURES & I/O FUNCTIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 12 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(SECTION D: DETAILED SOLUTIONS FOR SUBJECTIVE QUESTIONS) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(================================================================================) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 1:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain conditional branching constructs in C: if, if-else, nested if, and else-if ladders with execution flowcharts.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Conditional Branching Constructs in C:) Tj
+T*
+(   1. Architectural Purpose:) Tj
+T*
+(   Conditional control structures direct the instruction pointer along alternate execution paths) Tj
+T*
+(   based on runtime truth-value evaluation \(0 = false, non-zero = true\).) Tj
+T*
+() Tj
+T*
+(   2. Branching Constructs Hierarchy:) Tj
+T*
+(   a. Simple if Statement:) Tj
+T*
+(   Syntax: if \(condition\) { statement; }) Tj
+T*
+(   Execution: Evaluates condition. If non-zero, executes block; otherwise bypasses block.) Tj
+T*
+(   b. if-else Statement:) Tj
+T*
+(   Syntax: if \(condition\) { stmt1; } else { stmt2; }) Tj
+T*
+(   Execution: Mutually exclusive binary fork. Exactly one path executes.) Tj
+T*
+(   c. Nested if-else Statements:) Tj
+T*
+(   Placing if-else blocks within parent if or else bodies to model hierarchical decision trees.) Tj
+T*
+(   d. else-if Ladder:) Tj
+T*
+(   Multi-path linear progression evaluated sequentially until the first true condition matches;) Tj
+T*
+(   subsequent branches are ignored.) Tj
+T*
+() Tj
+T*
+(   3. Flowchart Logic Representation:) Tj
+T*
+(   [Start] -> [Evaluate Cond 1]) Tj
+T*
+(   |-- \(True\) --> [Execute Action 1] -------------------> [End Branch]) Tj
+T*
+(   |-- \(False\) --> [Evaluate Cond 2]) Tj
+T*
+(   |-- \(True\) --> [Execute Action 2] -> [End Branch]) Tj
+T*
+(   |-- \(False\) --> [Execute Default] -> [End Branch]) Tj
+T*
+() Tj
+T*
+(   4. Demonstrative ANSI C Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   void classify_ph\(double ph\) {) Tj
+T*
+(   if \(ph < 0.0 || ph > 14.0\) {) Tj
+T*
+(   printf\("Invalid pH range: %.2f\\n", ph\);) Tj
+T*
+(   } else if \(ph < 3.0\) {) Tj
+T*
+(   printf\("Strongly Acidic \(pH: %.2f\)\\n", ph\);) Tj
+T*
+(   } else if \(ph < 6.5\) {) Tj
+T*
+(   printf\("Weakly Acidic \(pH: %.2f\)\\n", ph\);) Tj
+T*
+(   } else if \(ph <= 7.5\) {) Tj
+T*
+(   printf\("Neutral Buffer Solution \(pH: %.2f\)\\n", ph\);) Tj
+T*
+(   } else if \(ph < 11.5\) {) Tj
+T*
+(   printf\("Weakly Alkaline \(pH: %.2f\)\\n", ph\);) Tj
+T*
+(   } else {) Tj
+T*
+(   printf\("Strongly Basic / Alkaline \(pH: %.2f\)\\n", ph\);) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   classify_ph\(2.1\);) Tj
+T*
+(   classify_ph\(7.35\);) Tj
+T*
+(   classify_ph\(12.8\);) Tj
+T*
+ET
+
+endstream
+endobj
+27 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 28 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+28 0 obj
+<< /Length 2629 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 2: CONTROL STRUCTURES & I/O FUNCTIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 13 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 2:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze the Dangling-Else Problem in C, detailing compiler resolution rules and defensive coding standards.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   The Dangling-Else Problem and Resolution Rules:) Tj
+T*
+(   1. Definition of the Ambiguity:) Tj
+T*
+(   The dangling-else ambiguity arises in nested conditional statements lacking explicit block) Tj
+T*
+(   braces when the number of 'if' keywords exceeds the number of 'else' keywords:) Tj
+T*
+(   if \(condition1\)) Tj
+T*
+(   if \(condition2\)) Tj
+T*
+(   action1\(\);) Tj
+T*
+(   else) Tj
+T*
+(   action2\(\); /* To which 'if' does this 'else' belong? */) Tj
+T*
+() Tj
+T*
+(   2. ANSI C Standard Resolution Rule:) Tj
+T*
+(   In ANSI / ISO C grammar, the ambiguous 'else' is ASSOCIATED WITH THE CLOSEST PRECEDING 'if') Tj
+T*
+(   THAT LACKS AN 'else' CLAUSE!) Tj
+T*
+(   Therefore, the compiler interprets the snippet as:) Tj
+T*
+(   if \(condition1\) {) Tj
+T*
+(   if \(condition2\) {) Tj
+T*
+(   action1\(\);) Tj
+T*
+(   } else {) Tj
+T*
+(   action2\(\); /* Belongs to condition2, NOT condition1! */) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+(   If the programmer intended action2\(\) to execute when condition1 is false, a severe logic bug) Tj
+T*
+(   occurs: action2\(\) will NEVER execute if condition1 is false!) Tj
+T*
+() Tj
+T*
+(   3. Defensive Coding Standard \(Mandatory Bracing\):) Tj
+T*
+(   Modern coding standards \(MISRA C, CERT C, Google C Style\) strictly forbid unbraced conditional) Tj
+T*
+(   statements.) Tj
+T*
+(   Correct Defensive Pattern:) Tj
+T*
+(   if \(condition1\) {) Tj
+T*
+(   if \(condition2\) {) Tj
+T*
+(   action1\(\);) Tj
+T*
+(   }) Tj
+T*
+(   } else {) Tj
+T*
+(   action2\(\); /* Unambiguously bound to condition1 */) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   4. Code Example Demonstrating Logic Failure:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   int enzyme_active = 0;) Tj
+T*
+(   int substrate_present = 1;) Tj
+T*
+() Tj
+T*
+(   /* Flawed unbraced logic */) Tj
+T*
+(   if \(enzyme_active\)) Tj
+T*
+(   if \(substrate_present\)) Tj
+T*
+(   printf\("Reaction progressing.\\n"\);) Tj
+T*
+ET
+
+endstream
+endobj
+29 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 30 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+30 0 obj
+<< /Length 3125 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 2: CONTROL STRUCTURES & I/O FUNCTIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 14 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   else) Tj
+T*
+(   printf\("Error: Enzyme inactive!\\n"\); /* NEVER PRINTS! */) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 3:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Detail the switch-case statement, explaining integral expression constraints, fall-through mechanics, and jump tables.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   The switch-case Statement and Jump-Table Mechanics:) Tj
+T*
+(   1. Syntactical Structure and Constraints:) Tj
+T*
+(   - Evaluates an expression against multiple discrete constant values.) Tj
+T*
+(   - Expression Constraint: MUST evaluate to an integer type \(char, short, int, long, enum\).) Tj
+T*
+(   Floating-point \(float/double\) and strings are strictly prohibited!) Tj
+T*
+(   - Case Label Constraint: Must be a compile-time constant expression. Variables \(case x:\) are) Tj
+T*
+(   illegal.) Tj
+T*
+(   - Duplicate Labels: Two case labels cannot have identical values in the same switch scope.) Tj
+T*
+() Tj
+T*
+(   2. Fall-Through Execution:) Tj
+T*
+(   - When a matching case label is reached, execution begins and continues through all subsequent) Tj
+T*
+(   cases until a 'break' statement or the closing brace is reached.) Tj
+T*
+(   - Intentional Fall-Through: Used to group multiple cases requiring identical handling:) Tj
+T*
+(   case 'a':) Tj
+T*
+(   case 'A':) Tj
+T*
+(   handle_adenine\(\);) Tj
+T*
+(   break;) Tj
+T*
+() Tj
+T*
+(   3. Compiler Optimization: Jump Tables \(Branch Tables\):) Tj
+T*
+(   - When case values are densely clustered \(e.g. 1, 2, 3, 4, 5\), optimizing compilers do not) Tj
+T*
+(   generate a slow chain of sequential comparisons \(like an else-if ladder\).) Tj
+T*
+(   - Instead, the compiler generates a Jump Table \(array of code addresses\).) Tj
+T*
+(   - The expression serves as an index directly into the jump table: execution jumps to the target) Tj
+T*
+(   address in constant time O\(1\), regardless of the number of cases!) Tj
+T*
+() Tj
+T*
+(   4. Demonstrative ANSI C Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   void process_nucleotide\(char base\) {) Tj
+T*
+(   switch \(base\) {) Tj
+T*
+(   case 'A': case 'a':) Tj
+T*
+(   printf\("Adenine \(Purine\): Pairs with Thymine \(2 H-bonds\)\\n"\);) Tj
+T*
+(   break;) Tj
+T*
+(   case 'G': case 'g':) Tj
+T*
+(   printf\("Guanine \(Purine\): Pairs with Cytosine \(3 H-bonds\)\\n"\);) Tj
+T*
+(   break;) Tj
+T*
+(   case 'C': case 'c':) Tj
+T*
+(   printf\("Cytosine \(Pyrimidine\): Pairs with Guanine \(3 H-bonds\)\\n"\);) Tj
+T*
+(   break;) Tj
+T*
+(   case 'T': case 't':) Tj
+T*
+(   printf\("Thymine \(Pyrimidine\): Pairs with Adenine \(2 H-bonds\)\\n"\);) Tj
+T*
+(   break;) Tj
+T*
+(   case 'U': case 'u':) Tj
+T*
+ET
+
+endstream
+endobj
+31 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 32 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+32 0 obj
+<< /Length 2734 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 2: CONTROL STRUCTURES & I/O FUNCTIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 15 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   printf\("Uracil \(Pyrimidine\): RNA transcript pair\\n"\);) Tj
+T*
+(   break;) Tj
+T*
+(   default:) Tj
+T*
+(   printf\("Unknown or degenerate nucleotide code: %c\\n", base\);) Tj
+T*
+(   break;) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   process_nucleotide\('G'\);) Tj
+T*
+(   process_nucleotide\('t'\);) Tj
+T*
+(   process_nucleotide\('X'\);) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 4:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Compare while, do-while, and for loops in C, contrasting entry-controlled vs exit-controlled evaluation with practical use-cases.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Loop Structures in C: while vs do-while vs for:) Tj
+T*
+(   1. Operational Classification:) Tj
+T*
+(   - Entry-Controlled Loops \(while, for\):) Tj
+T*
+(   The loop continuation condition is tested BEFORE executing the loop body. If the condition is) Tj
+T*
+(   false initially, the loop body executes ZERO times.) Tj
+T*
+(   - Exit-Controlled Loops \(do-while\):) Tj
+T*
+(   The condition is tested AFTER executing the loop body. The body is GUARANTEED to execute AT) Tj
+T*
+(   LEAST ONCE, regardless of initial condition state.) Tj
+T*
+() Tj
+T*
+(   2. Comparative Matrix:) Tj
+T*
+(   Feature while Loop do-while Loop for Loop) Tj
+T*
+(   Test Position Entry \(Top\) Exit \(Bottom\) Entry \(Top\)) Tj
+T*
+(   Minimum Executions 0 1 0) Tj
+T*
+(   Trailing Semicolon No YES: while\(cond\); No) Tj
+T*
+(   Best Used For Unknown iterations, User menu prompts, Known iteration count,) Tj
+T*
+(   sentinel streaming validation loops array indexing) Tj
+T*
+() Tj
+T*
+(   3. Syntactical Structures:) Tj
+T*
+(   - while \(condition\) { statements; }) Tj
+T*
+(   - do { statements; } while \(condition\);) Tj
+T*
+(   - for \(init; condition; update\) { statements; }) Tj
+T*
+() Tj
+T*
+(   4. Equivalence Between for and while:) Tj
+T*
+(   The for loop:) Tj
+T*
+(   for \(init_expr; test_expr; update_expr\) { body; }) Tj
+T*
+(   is semantically identical to:) Tj
+T*
+(   init_expr;) Tj
+T*
+(   while \(test_expr\) {) Tj
+T*
+(   body;) Tj
+T*
+(   update_expr;) Tj
+T*
+(   }) Tj
+T*
+(   \(Exception: A 'continue' statement in while skips update_expr, whereas in for it executes) Tj
+T*
+(   update_expr before the next test\).) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+33 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 34 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+34 0 obj
+<< /Length 3003 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 2: CONTROL STRUCTURES & I/O FUNCTIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 16 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   5. Demonstrative Code \(Menu Prompt using do-while\):) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   int option;) Tj
+T*
+(   do {) Tj
+T*
+(   printf\("\\n=== Bioreactor Controller ===\\n"\);) Tj
+T*
+(   printf\("1. Read Dissolved O2\\n"\);) Tj
+T*
+(   printf\("2. Read Impeller RPM\\n"\);) Tj
+T*
+(   printf\("3. Terminate Simulation\\n"\);) Tj
+T*
+(   printf\("Enter choice \(1-3\): "\);) Tj
+T*
+(   if \(scanf\("%d", &option\) != 1\) {) Tj
+T*
+(   int c; while \(\(c = getchar\(\)\) != '\\n' && c != EOF\);) Tj
+T*
+(   option = 0;) Tj
+T*
+(   continue;) Tj
+T*
+(   }) Tj
+T*
+(   } while \(option < 1 || option > 3\);) Tj
+T*
+() Tj
+T*
+(   printf\("Selected option: %d\\n", option\);) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 5:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Jump Statements in C \(break, continue, goto, return\), detailing execution semantics and structured programming principles.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Jump Statements in C: break, continue, goto, and return:) Tj
+T*
+(   Jump statements perform unconditional branching, immediately redirecting program control to) Tj
+T*
+(   another point.) Tj
+T*
+() Tj
+T*
+(   1. The break Statement:) Tj
+T*
+(   - Terminates execution of the immediate innermost enclosing loop \(for, while, do-while\) or) Tj
+T*
+(   switch statement.) Tj
+T*
+(   - Control passes to the statement directly following the terminated construct.) Tj
+T*
+(   - Does NOT break out of nested outer loops.) Tj
+T*
+() Tj
+T*
+(   2. The continue Statement:) Tj
+T*
+(   - Bypasses remaining statements in the current iteration of a loop and triggers the next) Tj
+T*
+(   iteration.) Tj
+T*
+(   - In while and do-while: Immediately jumps to condition evaluation.) Tj
+T*
+(   - In for: Immediately jumps to the update/increment expression, then tests condition.) Tj
+T*
+() Tj
+T*
+(   3. The return Statement:) Tj
+T*
+(   - Terminates execution of the current function and returns control \(and optional value\) to) Tj
+T*
+(   caller.) Tj
+T*
+(   - In main\(\), returning an integer code notifies the operating system of process termination) Tj
+T*
+(   status.) Tj
+T*
+() Tj
+T*
+(   4. The goto Statement and Structured Programming:) Tj
+T*
+(   - Syntax: goto label_name; ... label_name: statement;) Tj
+T*
+(   - Unconditional jump within the scope of the current function.) Tj
+T*
+(   - Dijkstra's Critique: Overusing goto leads to 'spaghetti code', destroying control-flow) Tj
+T*
+(   readability and making formal code verification impossible.) Tj
+T*
+ET
+
+endstream
+endobj
+35 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 36 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+36 0 obj
+<< /Length 2478 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 2: CONTROL STRUCTURES & I/O FUNCTIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 17 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - Legitimate Professional Use-Case in Systems C \(Linux Kernel Style\):) Tj
+T*
+(   Centralized multi-resource error cleanup in functions to avoid heavily indented nested if) Tj
+T*
+(   statements:) Tj
+T*
+() Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <stdlib.h>) Tj
+T*
+() Tj
+T*
+(   int initialize_system\(int fail_step\) {) Tj
+T*
+(   int *resA = NULL, *resB = NULL;) Tj
+T*
+() Tj
+T*
+(   resA = \(int *\)malloc\(100 * sizeof\(int\)\);) Tj
+T*
+(   if \(!resA\) goto fail_alloc_a;) Tj
+T*
+() Tj
+T*
+(   if \(fail_step == 1\) goto fail_stage_1;) Tj
+T*
+() Tj
+T*
+(   resB = \(int *\)malloc\(200 * sizeof\(int\)\);) Tj
+T*
+(   if \(!resB\) goto fail_alloc_b;) Tj
+T*
+() Tj
+T*
+(   printf\("All resources acquired successfully.\\n"\);) Tj
+T*
+(   free\(resB\);) Tj
+T*
+(   free\(resA\);) Tj
+T*
+(   return 0;) Tj
+T*
+() Tj
+T*
+(   fail_alloc_b:) Tj
+T*
+(   fail_stage_1:) Tj
+T*
+(   printf\("Rolling back: freeing Resource A...\\n"\);) Tj
+T*
+(   free\(resA\);) Tj
+T*
+(   fail_alloc_a:) Tj
+T*
+(   printf\("Initialization failed.\\n"\);) Tj
+T*
+(   return -1;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   initialize_system\(1\);) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 6:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Detail formatted console output using printf\(\), explaining field width, precision modifiers, alignment flags, and return values.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Formatted Console Output with printf\(\):) Tj
+T*
+(   1. Fundamental Prototype:) Tj
+T*
+(   int printf\(const char *format, ...\);) Tj
+T*
+(   - Return Value: Total number of characters printed to stdout, or negative integer on output) Tj
+T*
+(   failure.) Tj
+T*
+() Tj
+T*
+(   2. Format Specifier Specification:) Tj
+T*
+(   %[flags][width][.precision][length]specifier) Tj
+T*
+() Tj
+T*
+(   3. Flags Behavior:) Tj
+T*
+(   - '-' : Left-justify output within the field width \(default is right-justify\).) Tj
+T*
+(   - '+' : Forces display of sign \(+ for positive, - for negative numbers\).) Tj
+T*
+ET
+
+endstream
+endobj
+37 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 38 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+38 0 obj
+<< /Length 3146 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 2: CONTROL STRUCTURES & I/O FUNCTIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 18 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - ' ' \(space\) : Inserts a space before positive numbers to align with negative signs.) Tj
+T*
+(   - '0' : Pads the field with leading zeros instead of spaces.) Tj
+T*
+(   - '#' : Alternate format: 0x for %x, 0 for %o, forces decimal point for %f.) Tj
+T*
+() Tj
+T*
+(   4. Dynamic Field Width and Precision \(* modifier\):) Tj
+T*
+(   Instead of hardcoding width/precision, pass them as integer arguments via '*':) Tj
+T*
+(   int w = 12, p = 3;) Tj
+T*
+(   double val = 45.6789;) Tj
+T*
+(   printf\("%*.*f\\n", w, p, val\); /* Reserves 12 columns with 3 decimals */) Tj
+T*
+() Tj
+T*
+(   5. Comprehensive Demonstration Program:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   int id = 42;) Tj
+T*
+(   double concentration = 0.008456;) Tj
+T*
+(   const char *gene = "BRCA1";) Tj
+T*
+() Tj
+T*
+(   printf\("=== Precision Laboratory Assay Table ===\\n"\);) Tj
+T*
+(   /* Column headers: Left aligned text, right aligned numbers */) Tj
+T*
+(   printf\("%-10s | %8s | %14s\\n", "Gene Target", "Sample ID", "Concentration \(M\)"\);) Tj
+T*
+(   printf\("--------------------------------------------\\n"\);) Tj
+T*
+() Tj
+T*
+(   /* Formatted data rows */) Tj
+T*
+(   printf\("%-10s | %08d | %14.6f\\n", gene, id, concentration\);) Tj
+T*
+(   printf\("%-10s | %08d | %14.3e\\n", "TP53", 105, 0.00000123\);) Tj
+T*
+(   printf\("%-10s | %+8d | %14.2f\\n", "EGFR", -14, 125.4\);) Tj
+T*
+() Tj
+T*
+(   /* Character count return verification */) Tj
+T*
+(   int chars_written = printf\("Formatted log line written.\\n"\);) Tj
+T*
+(   printf\("Prior line character count: %d\\n", chars_written\);) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 7:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Detail formatted console input using scanf\(\), explaining address-of operator, whitespace skipping, scansets, and return values.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Formatted Console Input with scanf\(\):) Tj
+T*
+(   1. Prototype and Functionality:) Tj
+T*
+(   int scanf\(const char *format, ...\);) Tj
+T*
+(   - Scans formatted input from standard input \(stdin\).) Tj
+T*
+(   - Returns number of successfully matched and assigned items, or EOF on input stream) Tj
+T*
+(   termination.) Tj
+T*
+() Tj
+T*
+(   2. The Address-Of Operator \(&\):) Tj
+T*
+(   Because C passes function arguments by value, caller must pass memory addresses \(&variable\) to) Tj
+T*
+(   allow scanf\(\) to store converted inputs. Passing bare variable names results in memory) Tj
+T*
+(   corruption or segmentation faults.) Tj
+T*
+() Tj
+T*
+(   3. Whitespace Skipping Mechanics:) Tj
+T*
+(   - Format specifiers %d, %f, %s automatically discard leading whitespace \(spaces, tabs,) Tj
+T*
+ET
+
+endstream
+endobj
+39 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 40 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+40 0 obj
+<< /Length 2980 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 2: CONTROL STRUCTURES & I/O FUNCTIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 19 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   newlines\).) Tj
+T*
+(   - Exception: %c and %[] \(scansets\) DO NOT skip leading whitespace! They read the immediate next) Tj
+T*
+(   character, which is frequently the leftover newline \('\\n'\) from previous input.) Tj
+T*
+(   - Fix: Use a leading space in format string: scanf\(" %c", &ch\);) Tj
+T*
+() Tj
+T*
+(   4. Advanced Scansets \(%[...] and %[^...]\):) Tj
+T*
+(   - Positive Scanset: %[A-Za-z] reads only matching alphabetic characters.) Tj
+T*
+(   - Negated Scanset: %[^\\n] reads everything up to the next newline \(reads entire lines including) Tj
+T*
+(   spaces\).) Tj
+T*
+(   - Assignment Suppression \(*\): %*d reads and discards an integer without assigning to a) Tj
+T*
+(   variable.) Tj
+T*
+() Tj
+T*
+(   5. Demonstration Program:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   char header[64];) Tj
+T*
+(   char dna[128];) Tj
+T*
+(   int read_length;) Tj
+T*
+() Tj
+T*
+(   printf\("Enter FASTA header \(e.g. >Seq1_Human\): "\);) Tj
+T*
+(   /* Read header including spaces until newline */) Tj
+T*
+(   if \(scanf\(" %[^\\n]", header\) != 1\) return 1;) Tj
+T*
+() Tj
+T*
+(   printf\("Enter DNA sequence bases \(A, C, G, T only\): "\);) Tj
+T*
+(   /* Scanset: read only valid nucleotide characters */) Tj
+T*
+(   if \(scanf\(" %[ACGTacgt]", dna\) != 1\) {) Tj
+T*
+(   printf\("Error: Non-nucleotide character detected!\\n"\);) Tj
+T*
+(   return 1;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   printf\("Enter read length: "\);) Tj
+T*
+(   if \(scanf\("%d", &read_length\) != 1\) {) Tj
+T*
+(   printf\("Error: Numeric read length expected!\\n"\);) Tj
+T*
+(   return 1;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   printf\("\\n--- Successfully Parsed Record ---\\n"\);) Tj
+T*
+(   printf\("Header: %s\\nSequence: %s\\nLength: %d bp\\n", header, dna, read_length\);) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 8:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Compare character-level I/O functions: getchar\(\), putchar\(\), getch\(\), and getche\(\), explaining terminal buffering modes.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Character-Level I/O Functions and Terminal Buffering:) Tj
+T*
+(   1. Terminal Buffering Modes:) Tj
+T*
+(   - Line-Buffered \(Canonical Mode\): Characters entered via keyboard are stored in an operating) Tj
+T*
+(   system terminal buffer until the user presses Enter \('\\n'\). Backspace editing is handled by OS.) Tj
+T*
+(   - Non-Buffered \(Raw Mode\): Keystrokes are transmitted immediately to the program without) Tj
+T*
+(   waiting for Enter.) Tj
+T*
+ET
+
+endstream
+endobj
+41 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 42 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+42 0 obj
+<< /Length 2967 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 2: CONTROL STRUCTURES & I/O FUNCTIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 20 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - Echo vs Non-Echo: Whether entered keystrokes are printed automatically onto the terminal) Tj
+T*
+(   screen.) Tj
+T*
+() Tj
+T*
+(   2. Comparison of Standard and Conio Functions:) Tj
+T*
+(   Function Standard Buffering Screen Echo Header File) Tj
+T*
+(   getchar\(\) ANSI / ISO C Line-Buffered Echoed <stdio.h>) Tj
+T*
+(   putchar\(\) ANSI / ISO C Line-Buffered Outputs char <stdio.h>) Tj
+T*
+(   getch\(\) Non-Standard Unbuffered \(Raw\) NO Echo <conio.h> \(DOS/Win\)) Tj
+T*
+(   getche\(\) Non-Standard Unbuffered \(Raw\) Echoed <conio.h> \(DOS/Win\)) Tj
+T*
+() Tj
+T*
+(   3. Detailed Analysis of getchar\(\):) Tj
+T*
+(   - Prototype: int getchar\(void\);) Tj
+T*
+(   - Return Value: Returns character as unsigned char cast to int, or EOF \(-1\) upon reaching) Tj
+T*
+(   end-of-file.) Tj
+T*
+(   - Crucial Rule: Always declare receiving variable as int:) Tj
+T*
+(   int ch; /* NOT char ch! */) Tj
+T*
+(   while \(\(ch = getchar\(\)\) != EOF\) { ... }) Tj
+T*
+(   If char is signed 8-bit, reading byte 0xFF would accidentally match EOF \(-1\)!) Tj
+T*
+() Tj
+T*
+(   4. Complete Filtering Program:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <ctype.h>) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   int ch;) Tj
+T*
+(   int base_count = 0;) Tj
+T*
+() Tj
+T*
+(   printf\("Enter raw sequence stream \(press Ctrl+Z on Windows / Ctrl+D on Linux to end\):\\n"\);) Tj
+T*
+() Tj
+T*
+(   while \(\(ch = getchar\(\)\) != EOF\) {) Tj
+T*
+(   /* Filter and clean DNA sequence stream */) Tj
+T*
+(   char upper = \(char\)toupper\(ch\);) Tj
+T*
+(   if \(upper == 'A' || upper == 'C' || upper == 'G' || upper == 'T'\) {) Tj
+T*
+(   putchar\(upper\);) Tj
+T*
+(   base_count++;) Tj
+T*
+(   if \(base_count % 50 == 0\) putchar\('\\n'\); /* Format 50 bp per line */) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+(   putchar\('\\n'\);) Tj
+T*
+(   printf\("Total valid bases processed: %d\\n", base_count\);) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 9:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze why gets\(\) is dangerously vulnerable to Buffer Overflow and explain fgets\(\) and puts\(\) safe alternatives.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Security Vulnerability of gets\(\) and the fgets\(\) Standard:) Tj
+T*
+(   1. The Fatal Vulnerability of gets\(\):) Tj
+T*
+(   - Prototype: char *gets\(char *str\);) Tj
+T*
+(   - Flaw: gets\(\) has NO parameter specifying buffer capacity! It continues copying user input) Tj
+T*
+(   bytes into memory until encountering a newline \('\\n'\) or EOF.) Tj
+T*
+ET
+
+endstream
+endobj
+43 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 44 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+44 0 obj
+<< /Length 3202 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 2: CONTROL STRUCTURES & I/O FUNCTIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 21 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - Exploitation \(Buffer Overflow\): If user inputs 500 bytes into a 64-byte stack buffer, input) Tj
+T*
+(   overruns the buffer boundaries, corrupting adjacent stack variables, frame pointers, and the) Tj
+T*
+(   function's Return Address!) Tj
+T*
+(   - Attack Vector: Attackers inject malicious machine shellcode and hijack instruction pointer) Tj
+T*
+(   \(EIP/RIP\), gaining root/arbitrary execution.) Tj
+T*
+(   - Historical Standard Deprecation: Deprecated in ISO C99; COMPLETELY REMOVED from the ISO C11) Tj
+T*
+(   standard.) Tj
+T*
+() Tj
+T*
+(   2. The Safe Alternative: fgets\(\):) Tj
+T*
+(   - Prototype: char *fgets\(char *str, int num, FILE *stream\);) Tj
+T*
+(   - Safety: Takes explicit buffer size 'num'. Reads at most \(num - 1\) characters, appending) Tj
+T*
+(   terminating null byte '\\0'.) Tj
+T*
+(   - Buffer Handling: If room exists, fgets\(\) stores the trailing '\\n'.) Tj
+T*
+(   - Removing Trailing Newline:) Tj
+T*
+(   str[strcspn\(str, "\\n"\)] = '\\0';) Tj
+T*
+() Tj
+T*
+(   3. Safe Demonstration Program:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <string.h>) Tj
+T*
+() Tj
+T*
+(   #define MAX_BUFFER 64) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   char sample_name[MAX_BUFFER];) Tj
+T*
+() Tj
+T*
+(   printf\("Enter clinical sample identifier \(safe fgets\): "\);) Tj
+T*
+(   if \(fgets\(sample_name, sizeof\(sample_name\), stdin\) != NULL\) {) Tj
+T*
+(   /* Strip trailing newline character */) Tj
+T*
+(   sample_name[strcspn\(sample_name, "\\r\\n"\)] = '\\0';) Tj
+T*
+() Tj
+T*
+(   printf\("Successfully captured: \\"%s\\" \(Length: %zu chars\)\\n",) Tj
+T*
+(   sample_name, strlen\(sample_name\)\);) Tj
+T*
+(   puts\("Record saved securely without buffer overflow risk."\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 10:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write a complete ANSI C program to test whether a given positive integer is prime using optimized trial division up to sqrt\(N\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Optimized Prime Number Testing Program:) Tj
+T*
+(   1. Mathematical Rationale:) Tj
+T*
+(   - A prime number is an integer greater than 1 with no positive divisors other than 1 and) Tj
+T*
+(   itself.) Tj
+T*
+(   - Optimization: If integer N is composite, it can be factored as N = a * b. If both a and b) Tj
+T*
+(   were strictly greater than sqrt\(N\), their product would exceed N. Hence, at least one factor) Tj
+T*
+(   must be <= sqrt\(N\).) Tj
+T*
+(   - Even Number Elimination: Check divisibility by 2. If N is even and > 2, it is composite. All) Tj
+T*
+(   subsequent trial divisors can skip even numbers \(step by 2: 3, 5, 7, 9, ...\).) Tj
+T*
+(   - Time Complexity: O\(sqrt\(N\)\) versus O\(N\) brute force.) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+45 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 46 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+46 0 obj
+<< /Length 2672 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 2: CONTROL STRUCTURES & I/O FUNCTIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 22 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   2. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <stdbool.h>) Tj
+T*
+(   #include <math.h>) Tj
+T*
+() Tj
+T*
+(   bool is_prime\(long long n\) {) Tj
+T*
+(   if \(n <= 1\) return false;) Tj
+T*
+(   if \(n == 2 || n == 3\) return true;) Tj
+T*
+(   if \(n % 2 == 0 || n % 3 == 0\) return false;) Tj
+T*
+() Tj
+T*
+(   /* 6k +/- 1 optimization up to sqrt\(n\) */) Tj
+T*
+(   long long limit = \(long long\)sqrt\(\(double\)n\);) Tj
+T*
+(   for \(long long i = 5; i <= limit; i += 6\) {) Tj
+T*
+(   if \(n % i == 0 || n % \(i + 2\) == 0\) {) Tj
+T*
+(   return false;) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+(   return true;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   long long test_cases[] = {1, 2, 17, 49, 97, 1000000007LL, 1000000009LL};) Tj
+T*
+(   int count = sizeof\(test_cases\) / sizeof\(test_cases[0]\);) Tj
+T*
+() Tj
+T*
+(   printf\("=== High Performance Primality Verification ===\\n"\);) Tj
+T*
+(   for \(int i = 0; i < count; i++\) {) Tj
+T*
+(   long long val = test_cases[i];) Tj
+T*
+(   printf\("Number %12lld is %s\\n", val, is_prime\(val\) ? "PRIME" : "COMPOSITE"\);) Tj
+T*
+(   }) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 11:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to generate the Fibonacci sequence up to N terms, discussing iterative space-time complexity.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Fibonacci Sequence Generation \(Iterative Method\):) Tj
+T*
+(   1. Mathematical Recurrence:) Tj
+T*
+(   F\(0\) = 0, F\(1\) = 1) Tj
+T*
+(   F\(n\) = F\(n-1\) + F\(n-2\) for n >= 2.) Tj
+T*
+(   Sequence: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144...) Tj
+T*
+() Tj
+T*
+(   2. Computational Complexity Comparison:) Tj
+T*
+(   - Naive Recursion: O\(2^N\) exponential time complexity \(call tree branches wildly with repeated) Tj
+T*
+(   subproblems\), O\(N\) stack space.) Tj
+T*
+(   - Iterative Approach: Uses two rolling scalar registers \(a, b\) to compute the next term in a) Tj
+T*
+(   single for-loop.) Tj
+T*
+(   Time Complexity: O\(N\) linear time.) Tj
+T*
+(   Space Complexity: O\(1\) constant auxiliary space.) Tj
+T*
+() Tj
+T*
+(   3. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+47 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 48 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+48 0 obj
+<< /Length 2338 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 2: CONTROL STRUCTURES & I/O FUNCTIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 23 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   void generate_fibonacci\(int n\) {) Tj
+T*
+(   if \(n <= 0\) {) Tj
+T*
+(   printf\("Sequence length must be positive.\\n"\);) Tj
+T*
+(   return;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   unsigned long long a = 0, b = 1;) Tj
+T*
+() Tj
+T*
+(   printf\("Fibonacci Sequence \(%d terms\):\\n", n\);) Tj
+T*
+(   for \(int i = 0; i < n; i++\) {) Tj
+T*
+(   if \(i == 0\) {) Tj
+T*
+(   printf\("Term 1: %llu\\n", a\);) Tj
+T*
+(   } else if \(i == 1\) {) Tj
+T*
+(   printf\("Term 2: %llu\\n", b\);) Tj
+T*
+(   } else {) Tj
+T*
+(   unsigned long long next = a + b;) Tj
+T*
+(   printf\("Term %d: %llu\\n", i + 1, next\);) Tj
+T*
+(   a = b;) Tj
+T*
+(   b = next;) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   int terms = 15;) Tj
+T*
+(   generate_fibonacci\(terms\);) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 12:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to compute the Greatest Common Divisor \(GCD\) using the Euclidean Algorithm and find the LCM.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Euclidean Algorithm for GCD and LCM Computation:) Tj
+T*
+(   1. Mathematical Foundation:) Tj
+T*
+(   - Theorem: For any two non-negative integers a and b \(where a >= b\):) Tj
+T*
+(   GCD\(a, b\) = GCD\(b, a % b\)) Tj
+T*
+(   Base case: GCD\(a, 0\) = a.) Tj
+T*
+(   - LCM Identity: The product of two numbers equals the product of their GCD and LCM:) Tj
+T*
+(   LCM\(a, b\) = \(a * b\) / GCD\(a, b\)) Tj
+T*
+(   To avoid integer overflow in \(a * b\), divide first: LCM = \(a / GCD\(a, b\)\) * b.) Tj
+T*
+() Tj
+T*
+(   2. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   long long compute_gcd\(long long a, long long b\) {) Tj
+T*
+(   while \(b != 0\) {) Tj
+T*
+(   long long remainder = a % b;) Tj
+T*
+(   a = b;) Tj
+T*
+(   b = remainder;) Tj
+T*
+(   }) Tj
+T*
+(   return a;) Tj
+T*
+(   }) Tj
+T*
+ET
+
+endstream
+endobj
+49 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 50 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+50 0 obj
+<< /Length 2688 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 2: CONTROL STRUCTURES & I/O FUNCTIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 24 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   long long compute_lcm\(long long a, long long b\) {) Tj
+T*
+(   if \(a == 0 || b == 0\) return 0;) Tj
+T*
+(   long long gcd = compute_gcd\(a, b\);) Tj
+T*
+(   return \(a / gcd\) * b; /* Prevents overflow prior to division */) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   long long x = 144, y = 60;) Tj
+T*
+(   long long gcd = compute_gcd\(x, y\);) Tj
+T*
+(   long long lcm = compute_lcm\(x, y\);) Tj
+T*
+() Tj
+T*
+(   printf\("=== Euclidean Number Theory Solver ===\\n"\);) Tj
+T*
+(   printf\("Inputs: %lld, %lld\\n", x, y\);) Tj
+T*
+(   printf\("Greatest Common Divisor \(GCD\): %lld\\n", gcd\);) Tj
+T*
+(   printf\("Least Common Multiple \(LCM\): %lld\\n", lcm\);) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 13:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to check whether a given integer is a Palindrome Number by reversing its digits.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Palindrome Number Verification Program:) Tj
+T*
+(   1. Algorithmic Logic:) Tj
+T*
+(   An integer is a palindrome if it reads identically forwards and backwards \(e.g., 12321\).) Tj
+T*
+(   - Negative numbers are not palindromes due to the leading minus sign.) Tj
+T*
+(   - Algorithm: Extract rightmost digits sequentially using modulo 10 \(n % 10\), append them to a) Tj
+T*
+(   reversed accumulator variable \(reversed = reversed * 10 + digit\), and divide n by 10 \(n /= 10\)) Tj
+T*
+(   until n becomes 0.) Tj
+T*
+(   - Compare reversed accumulator with preserved original number.) Tj
+T*
+() Tj
+T*
+(   2. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <stdbool.h>) Tj
+T*
+() Tj
+T*
+(   bool is_palindrome_number\(int num\) {) Tj
+T*
+(   if \(num < 0\) return false; /* Negative numbers cannot be palindrome */) Tj
+T*
+(   if \(num >= 0 && num < 10\) return true; /* Single digits are trivial palindromes */) Tj
+T*
+() Tj
+T*
+(   int original = num;) Tj
+T*
+(   long long reversed = 0;) Tj
+T*
+() Tj
+T*
+(   while \(num > 0\) {) Tj
+T*
+(   int digit = num % 10;) Tj
+T*
+(   reversed = \(reversed * 10\) + digit;) Tj
+T*
+(   num /= 10;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   return \(reversed == \(long long\)original\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+51 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 52 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+52 0 obj
+<< /Length 2531 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 2: CONTROL STRUCTURES & I/O FUNCTIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 25 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   int main\(void\) {) Tj
+T*
+(   int test_vals[] = {12321, 12345, 1001, 7, -121, 8888};) Tj
+T*
+(   int count = sizeof\(test_vals\) / sizeof\(test_vals[0]\);) Tj
+T*
+() Tj
+T*
+(   printf\("=== Palindromic Integer Verification ===\\n"\);) Tj
+T*
+(   for \(int i = 0; i < count; i++\) {) Tj
+T*
+(   int v = test_vals[i];) Tj
+T*
+(   printf\("Number %8d is %s\\n", v,) Tj
+T*
+(   is_palindrome_number\(v\) ? "PALINDROME" : "NOT Palindrome"\);) Tj
+T*
+(   }) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 14:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to verify whether a given positive integer is an Armstrong Number \(Narcissistic Number\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Armstrong Number \(Narcissistic Number\) Verification:) Tj
+T*
+(   1. Definition:) Tj
+T*
+(   An n-digit number is an Armstrong number if the sum of its digits, each raised to the n-th) Tj
+T*
+(   power, equals the number itself:) Tj
+T*
+(   For 3 digits: 153 = 1^3 + 5^3 + 3^3 = 1 + 125 + 27 = 153.) Tj
+T*
+(   For 371: 3^3 + 7^3 + 1^3 = 27 + 343 + 1 = 371.) Tj
+T*
+(   For 4 digits: 1634 = 1^4 + 6^4 + 3^4 + 4^4 = 1 + 1296 + 81 + 256 = 1634.) Tj
+T*
+() Tj
+T*
+(   2. Algorithmic Steps:) Tj
+T*
+(   Step 1: Count total number of digits \(n\) by repeatedly dividing by 10.) Tj
+T*
+(   Step 2: Traverse digits again, computing digit^n using an accumulator.) Tj
+T*
+(   Step 3: Compare sum with original value.) Tj
+T*
+() Tj
+T*
+(   3. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <stdbool.h>) Tj
+T*
+() Tj
+T*
+(   long long integer_power\(int base, int exp\) {) Tj
+T*
+(   long long result = 1;) Tj
+T*
+(   for \(int i = 0; i < exp; i++\) {) Tj
+T*
+(   result *= base;) Tj
+T*
+(   }) Tj
+T*
+(   return result;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   bool is_armstrong\(int num\) {) Tj
+T*
+(   if \(num < 0\) return false;) Tj
+T*
+() Tj
+T*
+(   /* 1. Count number of digits */) Tj
+T*
+(   int temp = num;) Tj
+T*
+(   int digits = 0;) Tj
+T*
+(   while \(temp > 0\) {) Tj
+T*
+(   digits++;) Tj
+T*
+(   temp /= 10;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+53 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 54 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+54 0 obj
+<< /Length 2537 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 2: CONTROL STRUCTURES & I/O FUNCTIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 26 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   /* 2. Compute sum of digits raised to power of digits */) Tj
+T*
+(   temp = num;) Tj
+T*
+(   long long sum = 0;) Tj
+T*
+(   while \(temp > 0\) {) Tj
+T*
+(   int d = temp % 10;) Tj
+T*
+(   sum += integer_power\(d, digits\);) Tj
+T*
+(   temp /= 10;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   return \(sum == \(long long\)num\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   int test_set[] = {153, 370, 371, 407, 1634, 54748, 123};) Tj
+T*
+(   int count = sizeof\(test_set\) / sizeof\(test_set[0]\);) Tj
+T*
+() Tj
+T*
+(   printf\("=== Armstrong / Narcissistic Number Verification ===\\n"\);) Tj
+T*
+(   for \(int i = 0; i < count; i++\) {) Tj
+T*
+(   int v = test_set[i];) Tj
+T*
+(   printf\("Number %7d: %s\\n", v, is_armstrong\(v\) ? "ARMSTRONG" : "Regular Integer"\);) Tj
+T*
+(   }) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 15:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to compute the Taylor series expansion of e^x to a specified convergence tolerance epsilon.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Taylor Series Approximation of Exponential Function \(e^x\):) Tj
+T*
+(   1. Mathematical Derivation:) Tj
+T*
+(   The infinite Maclaurin series for e^x is:) Tj
+T*
+(   e^x = 1 + x/1! + x^2/2! + x^3/3! + ... = Sum_{n=0}^{infinity} \(x^n / n!\)) Tj
+T*
+(   Recursive Term Relationship:) Tj
+T*
+(   Term\(0\) = 1.0) Tj
+T*
+(   Term\(n\) = Term\(n - 1\) * \(x / n\)) Tj
+T*
+(   This recurrence allows computing each successive term in O\(1\) time without computing factorials) Tj
+T*
+(   or powers directly!) Tj
+T*
+() Tj
+T*
+(   2. Convergence Criterion:) Tj
+T*
+(   Iterate until the absolute value of the newly added term falls below a defined tolerance:) Tj
+T*
+(   |Term\(n\)| < EPSILON.) Tj
+T*
+() Tj
+T*
+(   3. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <math.h>) Tj
+T*
+() Tj
+T*
+(   #define EPSILON 1e-9) Tj
+T*
+() Tj
+T*
+(   double compute_exp_taylor\(double x, int *terms_used\) {) Tj
+T*
+(   double sum = 1.0;) Tj
+T*
+(   double current_term = 1.0;) Tj
+T*
+(   int n = 1;) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+55 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 56 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+56 0 obj
+<< /Length 2701 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 2: CONTROL STRUCTURES & I/O FUNCTIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 27 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   while \(fabs\(current_term\) > EPSILON\) {) Tj
+T*
+(   current_term *= \(x / \(double\)n\);) Tj
+T*
+(   sum += current_term;) Tj
+T*
+(   n++;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   *terms_used = n;) Tj
+T*
+(   return sum;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   double x_vals[] = {0.5, 1.0, 2.0, -1.0};) Tj
+T*
+(   int count = sizeof\(x_vals\) / sizeof\(x_vals[0]\);) Tj
+T*
+() Tj
+T*
+(   printf\("=== Maclaurin Series Approximation for e^x ===\\n"\);) Tj
+T*
+(   for \(int i = 0; i < count; i++\) {) Tj
+T*
+(   int terms = 0;) Tj
+T*
+(   double approx = compute_exp_taylor\(x_vals[i], &terms\);) Tj
+T*
+(   double library_exp = exp\(x_vals[i]\);) Tj
+T*
+(   printf\("x = %+5.2f | Approx: %14.10f | math.h: %14.10f | Terms: %2d\\n",) Tj
+T*
+(   x_vals[i], approx, library_exp, terms\);) Tj
+T*
+(   }) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 16:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to compute the roots of a quadratic equation ax^2 + bx + c = 0, handling real, equal, and complex roots.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Quadratic Equation Solver with Complex Root Support:) Tj
+T*
+(   1. Mathematical Formulation:) Tj
+T*
+(   Equation: a * x^2 + b * x + c = 0, where a != 0.) Tj
+T*
+(   Discriminant \(D\) = b^2 - 4 * a * c:) Tj
+T*
+(   - Case 1 \(D > 0\): Two distinct real roots: x1, x2 = \(-b +/- sqrt\(D\)\) / \(2a\).) Tj
+T*
+(   - Case 2 \(D == 0\): Two equal real roots: x1 = x2 = -b / \(2a\).) Tj
+T*
+(   - Case 3 \(D < 0\): Two conjugate complex roots: Real part = -b / \(2a\), Imaginary part = +/-) Tj
+T*
+(   sqrt\(-D\) / \(2a\).) Tj
+T*
+() Tj
+T*
+(   2. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <math.h>) Tj
+T*
+() Tj
+T*
+(   void solve_quadratic\(double a, double b, double c\) {) Tj
+T*
+(   if \(fabs\(a\) < 1e-9\) {) Tj
+T*
+(   printf\("Error: Coefficient 'a' cannot be zero \(linear equation\).\\n"\);) Tj
+T*
+(   return;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   double discriminant = \(b * b\) - \(4.0 * a * c\);) Tj
+T*
+(   printf\("Equation: \(%.2f\)x^2 + \(%.2f\)x + \(%.2f\) = 0\\n", a, b, c\);) Tj
+T*
+() Tj
+T*
+(   if \(discriminant > 1e-9\) {) Tj
+T*
+(   double r1 = \(-b + sqrt\(discriminant\)\) / \(2.0 * a\);) Tj
+T*
+ET
+
+endstream
+endobj
+57 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 58 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+58 0 obj
+<< /Length 2726 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 2: CONTROL STRUCTURES & I/O FUNCTIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 28 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   double r2 = \(-b - sqrt\(discriminant\)\) / \(2.0 * a\);) Tj
+T*
+(   printf\("Distinct Real Roots: Root1 = %.4f, Root2 = %.4f\\n", r1, r2\);) Tj
+T*
+(   } else if \(fabs\(discriminant\) <= 1e-9\) {) Tj
+T*
+(   double r = -b / \(2.0 * a\);) Tj
+T*
+(   printf\("Single Repeated Real Root: Root = %.4f\\n", r\);) Tj
+T*
+(   } else {) Tj
+T*
+(   double real_part = -b / \(2.0 * a\);) Tj
+T*
+(   double imag_part = sqrt\(-discriminant\) / \(2.0 * a\);) Tj
+T*
+(   printf\("Conjugate Complex Roots: %.4f +/- %.4fi\\n", real_part, imag_part\);) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   solve_quadratic\(1.0, -5.0, 6.0\); /* D > 0: Real distinct */) Tj
+T*
+(   solve_quadratic\(1.0, -4.0, 4.0\); /* D = 0: Repeated */) Tj
+T*
+(   solve_quadratic\(1.0, 2.0, 5.0\); /* D < 0: Complex roots */) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 17:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program using switch-case to count nucleotide frequencies \(A, C, G, T\) and calculate GC content percentage.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Nucleotide Frequency and GC-Content Analyzer:) Tj
+T*
+(   1. Problem Statement:) Tj
+T*
+(   Given a biological DNA sequence string, count the individual occurrences of Adenine \(A\),) Tj
+T*
+(   Cytosine \(C\), Guanine \(G\), and Thymine \(T\) using a switch-case control structure, ignoring) Tj
+T*
+(   whitespace, and compute the total GC-content percentage.) Tj
+T*
+() Tj
+T*
+(   2. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <ctype.h>) Tj
+T*
+() Tj
+T*
+(   void analyze_dna_sequence\(const char *seq\) {) Tj
+T*
+(   int count_A = 0, count_C = 0, count_G = 0, count_T = 0, invalid = 0;) Tj
+T*
+(   int i = 0;) Tj
+T*
+() Tj
+T*
+(   while \(seq[i] != '\\0'\) {) Tj
+T*
+(   char base = toupper\(\(unsigned char\)seq[i]\);) Tj
+T*
+(   switch \(base\) {) Tj
+T*
+(   case 'A': count_A++; break;) Tj
+T*
+(   case 'C': count_C++; break;) Tj
+T*
+(   case 'G': count_G++; break;) Tj
+T*
+(   case 'T': count_T++; break;) Tj
+T*
+(   case ' ': case '\\t': case '\\n': case '\\r':) Tj
+T*
+(   /* Skip formatting whitespace */) Tj
+T*
+(   break;) Tj
+T*
+(   default:) Tj
+T*
+(   invalid++;) Tj
+T*
+(   break;) Tj
+T*
+(   }) Tj
+T*
+(   i++;) Tj
+T*
+(   }) Tj
+T*
+ET
+
+endstream
+endobj
+59 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 60 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+60 0 obj
+<< /Length 3028 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 2: CONTROL STRUCTURES & I/O FUNCTIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 29 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   int total_valid = count_A + count_C + count_G + count_T;) Tj
+T*
+(   double gc_pct = 0.0;) Tj
+T*
+(   if \(total_valid > 0\) {) Tj
+T*
+(   gc_pct = \(\(double\)\(count_G + count_C\) / total_valid\) * 100.0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   printf\("=== Genomic Nucleotide Profiler ===\\n"\);) Tj
+T*
+(   printf\("Adenine \(A\): %5d \(%5.2f%%\)\\n", count_A, total_valid ? \(count_A*100.0/total_valid\) :) Tj
+T*
+(   0.0\);) Tj
+T*
+(   printf\("Cytosine \(C\): %5d \(%5.2f%%\)\\n", count_C, total_valid ? \(count_C*100.0/total_valid\) :) Tj
+T*
+(   0.0\);) Tj
+T*
+(   printf\("Guanine \(G\): %5d \(%5.2f%%\)\\n", count_G, total_valid ? \(count_G*100.0/total_valid\) :) Tj
+T*
+(   0.0\);) Tj
+T*
+(   printf\("Thymine \(T\): %5d \(%5.2f%%\)\\n", count_T, total_valid ? \(count_T*100.0/total_valid\) :) Tj
+T*
+(   0.0\);) Tj
+T*
+(   printf\("Total Bases: %5d | Invalid Chars: %d\\n", total_valid, invalid\);) Tj
+T*
+(   printf\("Overall GC-Content: %.2f%%\\n", gc_pct\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   const char *gene_fragment = "ATGCGATCGATCGATCGATCGATCGATCGCGCATATCGATCAGCT";) Tj
+T*
+(   analyze_dna_sequence\(gene_fragment\);) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 18:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to search a DNA sequence for Start Codon \(ATG\) and identify corresponding Stop Codons in the open reading frame.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Open Reading Frame \(ORF\) Scanner in C:) Tj
+T*
+(   1. Biological Logic:) Tj
+T*
+(   - Protein translation initiates at the Start Codon: ATG.) Tj
+T*
+(   - Translation continues in triplets \(reading frame of 3 nucleotides\) until encountering a Stop) Tj
+T*
+(   Codon: TAA, TAG, or TGA.) Tj
+T*
+(   - Any triplets encountered must maintain a step of 3 relative to the start codon to remain in) Tj
+T*
+(   the same reading frame!) Tj
+T*
+() Tj
+T*
+(   2. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <string.h>) Tj
+T*
+() Tj
+T*
+(   void scan_orfs\(const char *dna\) {) Tj
+T*
+(   int len = strlen\(dna\);) Tj
+T*
+(   printf\("Scanning sequence \(%d bp\) for open reading frames...\\n", len\);) Tj
+T*
+() Tj
+T*
+(   for \(int i = 0; i <= len - 3; i++\) {) Tj
+T*
+(   /* Check for Start Codon: ATG */) Tj
+T*
+(   if \(dna[i] == 'A' && dna[i+1] == 'T' && dna[i+2] == 'G'\) {) Tj
+T*
+(   printf\("\\n>> Found START codon \(ATG\) at nucleotide position: %d\\n", i + 1\);) Tj
+T*
+() Tj
+T*
+(   /* Scan downstream in steps of 3 \(in-frame triplets\) */) Tj
+T*
+(   int found_stop = 0;) Tj
+T*
+ET
+
+endstream
+endobj
+61 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 62 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+62 0 obj
+<< /Length 2840 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 2: CONTROL STRUCTURES & I/O FUNCTIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 30 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   for \(int j = i + 3; j <= len - 3; j += 3\) {) Tj
+T*
+(   if \(\(dna[j] == 'T' && dna[j+1] == 'A' && dna[j+2] == 'A'\) ||) Tj
+T*
+(   \(dna[j] == 'T' && dna[j+1] == 'A' && dna[j+2] == 'G'\) ||) Tj
+T*
+(   \(dna[j] == 'T' && dna[j+1] == 'G' && dna[j+2] == 'A'\)\) {) Tj
+T*
+() Tj
+T*
+(   printf\(" -> In-frame STOP codon \(%.3s\) at position: %d \(Length: %d codons\)\\n",) Tj
+T*
+(   &dna[j], j + 1, \(j - i\) / 3\);) Tj
+T*
+(   found_stop = 1;) Tj
+T*
+(   break; /* Terminate this ORF */) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+(   if \(!found_stop\) {) Tj
+T*
+(   printf\(" -> No in-frame stop codon found before sequence termination.\\n"\);) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   const char *genome_seq = "CCGATGAAACCCGGGTTTTAACCGATGTTTTAGCC";) Tj
+T*
+(   scan_orfs\(genome_seq\);) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 19:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the mechanics and application of the comma operator inside a for loop header for multiple initializations and updates.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   The Comma Operator in Multi-Variable for Loops:) Tj
+T*
+(   1. The Problem:) Tj
+T*
+(   A for loop header permits only three expressions separated by semicolons:) Tj
+T*
+(   for \(expression1; expression2; expression3\)) Tj
+T*
+(   If an algorithm requires manipulating two or more loop index counters simultaneously \(e.g.,) Tj
+T*
+(   reversing an array, matrix diagonal traversal\), standard syntax allows only one expression per) Tj
+T*
+(   slot.) Tj
+T*
+() Tj
+T*
+(   2. The Comma Operator Solution:) Tj
+T*
+(   The comma operator \(,\) allows combining multiple distinct expressions into a single expression.) Tj
+T*
+(   - Evaluates left expression, then right expression.) Tj
+T*
+(   - Creates a sequence point between evaluations.) Tj
+T*
+(   - Enables multiple variable initializations in expression1 and multiple variable modifications) Tj
+T*
+(   in expression3.) Tj
+T*
+() Tj
+T*
+(   3. Demonstrative Code \(Two-Pointer In-Place Array Reversal\):) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   void print_array\(const int *arr, int n\) {) Tj
+T*
+(   for \(int i = 0; i < n; i++\) printf\("%d ", arr[i]\);) Tj
+T*
+(   printf\("\\n"\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   int arr[] = {10, 20, 30, 40, 50, 60, 70, 80};) Tj
+T*
+ET
+
+endstream
+endobj
+63 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 64 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+64 0 obj
+<< /Length 2537 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 2: CONTROL STRUCTURES & I/O FUNCTIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 31 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   int n = sizeof\(arr\) / sizeof\(arr[0]\);) Tj
+T*
+() Tj
+T*
+(   printf\("Original Array: "\);) Tj
+T*
+(   print_array\(arr, n\);) Tj
+T*
+() Tj
+T*
+(   /* Loop header utilizes comma operator for dual pointer tracking */) Tj
+T*
+(   for \(int low = 0, high = n - 1; low < high; low++, high--\) {) Tj
+T*
+(   int temp = arr[low];) Tj
+T*
+(   arr[low] = arr[high];) Tj
+T*
+(   arr[high] = temp;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   printf\("Reversed Array: "\);) Tj
+T*
+(   print_array\(arr, n\);) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 20:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to print Pascal's Triangle up to N rows using nested for loops and combinatorial logic.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Pascal's Triangle Generation with Nested Loops:) Tj
+T*
+(   1. Mathematical Properties:) Tj
+T*
+(   - Each row n corresponds to binomial coefficients: C\(n, k\) = n! / \(k! * \(n - k\)!\).) Tj
+T*
+(   - Invariant: First and last element of each row is 1.) Tj
+T*
+(   - Recurrence relation between consecutive terms in row n:) Tj
+T*
+(   C\(n, k\) = C\(n, k - 1\) * \(n - k + 1\) / k.) Tj
+T*
+(   - This allows computing row elements in O\(1\) time without computing large factorials!) Tj
+T*
+() Tj
+T*
+(   2. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   void print_pascals_triangle\(int rows\) {) Tj
+T*
+(   for \(int i = 0; i < rows; i++\) {) Tj
+T*
+(   /* Print leading spaces for triangular formatting */) Tj
+T*
+(   for \(int space = 0; space < rows - i - 1; space++\) {) Tj
+T*
+(   printf\(" "\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   long long val = 1;) Tj
+T*
+(   for \(int j = 0; j <= i; j++\) {) Tj
+T*
+(   printf\("%6lld", val\);) Tj
+T*
+(   val = val * \(i - j\) / \(j + 1\); /* Direct recurrence */) Tj
+T*
+(   }) Tj
+T*
+(   printf\("\\n"\);) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   int total_rows = 7;) Tj
+T*
+(   printf\("=== Pascal's Triangle \(Combinatorial Coefficients\) ===\\n"\);) Tj
+T*
+(   print_pascals_triangle\(total_rows\);) Tj
+T*
+ET
+
+endstream
+endobj
+65 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 66 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+66 0 obj
+<< /Length 3455 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 2: CONTROL STRUCTURES & I/O FUNCTIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 32 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 21:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Detail the concept of an infinite loop in C, explaining intentional daemon loops, termination conditions, and accidental causes.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Infinite Loops in C: Design, Applications, and Bugs:) Tj
+T*
+(   1. Definition:) Tj
+T*
+(   A loop construct whose termination condition never evaluates to false \(0\), executing) Tj
+T*
+(   indefinitely unless interrupted by a break, return, exit\(\), or external OS signal.) Tj
+T*
+() Tj
+T*
+(   2. Standard Syntactical Forms:) Tj
+T*
+(   - Form 1: while \(1\) { ... }) Tj
+T*
+(   - Form 2: for \(;;\) { ... } [Canonical C idiom: empty condition defaults to true]) Tj
+T*
+(   - Form 3: do { ... } while \(1\);) Tj
+T*
+() Tj
+T*
+(   3. Intentional Legitimate Use-Cases:) Tj
+T*
+(   - Operating System Kernels: The idle process or main scheduling loop.) Tj
+T*
+(   - Embedded Systems / Microcontrollers: The main firmware superloop:) Tj
+T*
+(   void main\(\) { setup\(\); while\(1\) { loop\(\); } }) Tj
+T*
+(   - Event-Driven Server Daemons: Listening indefinitely for incoming TCP socket connections.) Tj
+T*
+(   - Graceful Exit via Break: Infinite loop containing internal conditional checks.) Tj
+T*
+() Tj
+T*
+(   4. Accidental Causes \(Bugs\):) Tj
+T*
+(   - Unintentional Semicolon: while \(i < 10\); { i++; } -> Empty statement loops forever!) Tj
+T*
+(   - Missing Increment: while \(i < 10\) { printf\("%d\\n", i\); } -> i never advances.) Tj
+T*
+(   - Overflow Wraparound: for \(unsigned char i = 0; i <= 255; i++\) -> 255 + 1 wraps to 0, never) Tj
+T*
+(   exceeding 255!) Tj
+T*
+(   - Floating-Point Imprecision: for \(float f = 0.0f; f != 1.0f; f += 0.1f\) -> f never exactly) Tj
+T*
+(   equals 1.0f due to binary rounding!) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 22:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to calculate the sum of digits of a positive integer until a single digit root is obtained \(digital root\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Digital Root \(Repeated Sum of Digits\) in C:) Tj
+T*
+(   1. Algorithmic Logic:) Tj
+T*
+(   Given positive integer N, iteratively sum its decimal digits. If the resulting sum has two or) Tj
+T*
+(   more digits, repeat the process until a single digit \(0-9\) remains.) Tj
+T*
+(   Example: 9875 -> 9+8+7+5 = 29 -> 2+9 = 11 -> 1+1 = 2. Digital root = 2.) Tj
+T*
+(   Number Theory Shortcut: The digital root is congruent to N modulo 9:) Tj
+T*
+(   Digital Root = 1 + \(\(N - 1\) % 9\) for N > 0.) Tj
+T*
+() Tj
+T*
+(   2. Complete ANSI C Source Code \(Iterative & Modular\):) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   int compute_digital_root_iterative\(int n\) {) Tj
+T*
+(   while \(n >= 10\) {) Tj
+T*
+(   int sum = 0;) Tj
+T*
+(   while \(n > 0\) {) Tj
+T*
+(   sum += \(n % 10\);) Tj
+T*
+ET
+
+endstream
+endobj
+67 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 68 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+68 0 obj
+<< /Length 2532 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 2: CONTROL STRUCTURES & I/O FUNCTIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 33 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   n /= 10;) Tj
+T*
+(   }) Tj
+T*
+(   n = sum;) Tj
+T*
+(   }) Tj
+T*
+(   return n;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int compute_digital_root_formula\(int n\) {) Tj
+T*
+(   if \(n == 0\) return 0;) Tj
+T*
+(   return 1 + \(\(n - 1\) % 9\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   int test_nums[] = {0, 5, 42, 153, 9875, 65536};) Tj
+T*
+(   int count = sizeof\(test_nums\) / sizeof\(test_nums[0]\);) Tj
+T*
+() Tj
+T*
+(   printf\("=== Digital Root Calculation Benchmark ===\\n"\);) Tj
+T*
+(   for \(int i = 0; i < count; i++\) {) Tj
+T*
+(   int val = test_nums[i];) Tj
+T*
+(   int r_iter = compute_digital_root_iterative\(val\);) Tj
+T*
+(   int r_form = compute_digital_root_formula\(val\);) Tj
+T*
+(   printf\("Value: %6d -> Iterative Root: %d | O\(1\) Formula Root: %d\\n",) Tj
+T*
+(   val, r_iter, r_form\);) Tj
+T*
+(   }) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 23:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to convert a decimal integer to binary, octal, and hexadecimal bases using iteration and bitwise operators.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Multi-Base Decimal Representation Converter:) Tj
+T*
+(   1. Conversion Mechanisms:) Tj
+T*
+(   - Decimal to Binary: Bitwise shift and mask: test each bit position \(1 << k\) from MSB \(31\) down) Tj
+T*
+(   to 0.) Tj
+T*
+(   - Decimal to Octal: Successive division by 8 or masking lower 3 bits \(& 7\).) Tj
+T*
+(   - Decimal to Hexadecimal: Successive division by 16 or masking lower 4 bits \(& 0xF\).) Tj
+T*
+() Tj
+T*
+(   2. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   void print_binary_32bit\(unsigned int n\) {) Tj
+T*
+(   printf\("Binary: 0b"\);) Tj
+T*
+(   for \(int i = 31; i >= 0; i--\) {) Tj
+T*
+(   int bit = \(n >> i\) & 1;) Tj
+T*
+(   printf\("%d", bit\);) Tj
+T*
+(   if \(i % 4 == 0 && i != 0\) printf\("_"\); /* Formatting separator */) Tj
+T*
+(   }) Tj
+T*
+(   printf\("\\n"\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   void print_octal_and_hex\(unsigned int n\) {) Tj
+T*
+(   printf\("Octal: 0%o\\n", n\);) Tj
+T*
+ET
+
+endstream
+endobj
+69 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 70 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+70 0 obj
+<< /Length 3488 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 2: CONTROL STRUCTURES & I/O FUNCTIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 34 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   printf\("Hexadecimal: 0x%08X\\n", n\);) Tj
+T*
+(   printf\("Decimal: %u\\n", n\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   unsigned int val = 305419896; /* 0x12345678 */) Tj
+T*
+(   printf\("=== Multi-Base Representation of Value ===\\n"\);) Tj
+T*
+(   print_octal_and_hex\(val\);) Tj
+T*
+(   print_binary_32bit\(val\);) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 24:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the format string vulnerability in C, showing how user-controlled format strings cause arbitrary memory disclosure and writes.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Format String Vulnerability: Mechanics and Prevention:) Tj
+T*
+(   1. The Root Cause:) Tj
+T*
+(   Functions in the printf\(\) family expect the format string argument to dictate the number, type,) Tj
+T*
+(   and stack offsets of trailing arguments:) Tj
+T*
+(   int printf\(const char *format, ...\);) Tj
+T*
+(   If an application passes untrusted user input directly as the format argument:) Tj
+T*
+(   char user_buf[100];) Tj
+T*
+(   fgets\(user_buf, sizeof\(user_buf\), stdin\);) Tj
+T*
+(   printf\(user_buf\); /* FATAL SECURITY VULNERABILITY! */) Tj
+T*
+() Tj
+T*
+(   2. Exploitation Vectors:) Tj
+T*
+(   - Memory Disclosure \(Information Leak\):) Tj
+T*
+(   If user inputs "%x %x %x %x", printf pops values off the stack corresponding to missing) Tj
+T*
+(   arguments, printing secret cryptographic keys, return addresses, and stack canaries!) Tj
+T*
+(   - Arbitrary Memory Read:) Tj
+T*
+(   Supplying "%s" causes printf to treat values on stack as memory addresses and dereference them,) Tj
+T*
+(   printing contents of arbitrary memory or causing SIGSEGV.) Tj
+T*
+(   - Arbitrary Memory Overwrite \(%n specifier\):) Tj
+T*
+(   The %n specifier writes the number of characters printed so far into a target integer pointer.) Tj
+T*
+(   Attackers craft format strings to overwrite function pointers and hijack execution!) Tj
+T*
+() Tj
+T*
+(   3. Secure Defensive Coding Rules:) Tj
+T*
+(   - NEVER pass raw user strings as the format string.) Tj
+T*
+(   - ALWAYS provide an explicit format specifier:) Tj
+T*
+(   printf\("%s", user_buf\); /* Immune to format string attacks */) Tj
+T*
+(   fputs\(user_buf, stdout\); /* Even faster and fully secure */) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 25:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to calculate the melting temperature \(Tm\) of a DNA primer using the Wallace Rule and Salt-Adjusted Formula.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   DNA Primer Melting Temperature \(Tm\) Calculator:) Tj
+T*
+(   1. Biophysical Formulas:) Tj
+T*
+(   - Wallace Rule \(Simple rule of thumb for primers 14-20 bp\):) Tj
+T*
+(   Tm = 2 * \(Count_A + Count_T\) + 4 * \(Count_G + Count_C\)) Tj
+T*
+(   Physical Basis: AT pairs share 2 hydrogen bonds \(~2 deg C contribution\); GC pairs share 3) Tj
+T*
+ET
+
+endstream
+endobj
+71 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 72 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+72 0 obj
+<< /Length 2823 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 2: CONTROL STRUCTURES & I/O FUNCTIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 35 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   hydrogen bonds \(~4 deg C contribution\).) Tj
+T*
+(   - Salt-Adjusted Formula \(For longer oligonucleotides > 20 bp\):) Tj
+T*
+(   Tm = 81.5 + 16.6 * log10\([Na+]\) + 0.41 * \(%GC\) - \(675.0 / Length\)) Tj
+T*
+() Tj
+T*
+(   2. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <string.h>) Tj
+T*
+(   #include <ctype.h>) Tj
+T*
+(   #include <math.h>) Tj
+T*
+() Tj
+T*
+(   void compute_primer_tm\(const char *seq, double na_conc_molar\) {) Tj
+T*
+(   int a = 0, c = 0, g = 0, t = 0;) Tj
+T*
+(   int len = strlen\(seq\);) Tj
+T*
+() Tj
+T*
+(   for \(int i = 0; i < len; i++\) {) Tj
+T*
+(   char base = toupper\(\(unsigned char\)seq[i]\);) Tj
+T*
+(   if \(base == 'A'\) a++;) Tj
+T*
+(   else if \(base == 'C'\) c++;) Tj
+T*
+(   else if \(base == 'G'\) g++;) Tj
+T*
+(   else if \(base == 'T'\) t++;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int total_bp = a + c + g + t;) Tj
+T*
+(   if \(total_bp == 0\) return;) Tj
+T*
+() Tj
+T*
+(   /* 1. Wallace Rule */) Tj
+T*
+(   double tm_wallace = \(2.0 * \(a + t\)\) + \(4.0 * \(g + c\)\);) Tj
+T*
+() Tj
+T*
+(   /* 2. Salt-Adjusted Formula */) Tj
+T*
+(   double gc_pct = \(\(double\)\(g + c\) / total_bp\) * 100.0;) Tj
+T*
+(   double tm_salt = 81.5 + \(16.6 * log10\(na_conc_molar\)\) + \(0.41 * gc_pct\) - \(675.0 / total_bp\);) Tj
+T*
+() Tj
+T*
+(   printf\("=== Primer Melting Temperature \(Tm\) Report ===\\n"\);) Tj
+T*
+(   printf\("Sequence: %s \(%d nt\)\\n", seq, total_bp\);) Tj
+T*
+(   printf\("Composition: A=%d, C=%d, G=%d, T=%d | GC-Content: %.2f%%\\n", a, c, g, t, gc_pct\);) Tj
+T*
+(   printf\("Wallace Rule Estimated Tm: %.2f deg C\\n", tm_wallace\);) Tj
+T*
+(   printf\("Salt-Adjusted Tm \([Na+]=%.2f M\): %.2f deg C\\n", na_conc_molar, tm_salt\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   compute_primer_tm\("ATGCGATCGATCGATCGC", 0.05\); /* 18-mer primer, 50mM Na+ */) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 26:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Duff's Device in C, detailing how interleaved switch and loop statements optimize memory block copies.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Duff's Device: Loop Unrolling via Interleaved switch-case:) Tj
+T*
+(   1. Historical Background:) Tj
+T*
+(   Invented in 1983 by Tom Duff at Lucasfilm to accelerate memory block copies to memory-mapped) Tj
+T*
+(   graphics registers.) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+73 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 74 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+74 0 obj
+<< /Length 3156 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 2: CONTROL STRUCTURES & I/O FUNCTIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 36 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   2. Loop Unrolling Rationale:) Tj
+T*
+(   Standard byte copying:) Tj
+T*
+(   do { *to = *from++; } while \(--count > 0\);) Tj
+T*
+(   Every single byte copied incurs branch instruction overhead and loop condition decrementing.) Tj
+T*
+(   Unrolling the loop 8 times reduces loop branch overhead by 87.5%!) Tj
+T*
+(   Challenge: What if the total count is not an exact multiple of 8?) Tj
+T*
+() Tj
+T*
+(   3. The Revolutionary Syntactical Insight:) Tj
+T*
+(   In ANSI C, case labels inside a switch block are legal anywhere inside enclosed compound) Tj
+T*
+(   statements, EVEN INSIDE A WHILE LOOP!) Tj
+T*
+(   Tom Duff nested a do-while loop directly across switch case labels!) Tj
+T*
+() Tj
+T*
+(   4. Annotated Code Listing:) Tj
+T*
+(   void send_data\(register short *to, register short *from, register int count\) {) Tj
+T*
+(   register int n = \(count + 7\) / 8;) Tj
+T*
+(   switch \(count % 8\) {) Tj
+T*
+(   case 0: do { *to = *from++;) Tj
+T*
+(   case 7: *to = *from++;) Tj
+T*
+(   case 6: *to = *from++;) Tj
+T*
+(   case 5: *to = *from++;) Tj
+T*
+(   case 4: *to = *from++;) Tj
+T*
+(   case 3: *to = *from++;) Tj
+T*
+(   case 2: *to = *from++;) Tj
+T*
+(   case 1: *to = *from++;) Tj
+T*
+(   } while \(--n > 0\);) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   5. Execution Flow:) Tj
+T*
+(   - switch \(count % 8\) calculates remainder \(0-7\) and jumps directly to the appropriate case) Tj
+T*
+(   label to copy initial leftover elements.) Tj
+T*
+(   - Execution falls through to case 1, where the while \(--n > 0\) is encountered.) Tj
+T*
+(   - If n > 0, the loop wraps back to the 'do' before case 0, subsequently executing all 8 copy) Tj
+T*
+(   operations in full rounds!) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 27:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to reverse an integer array using a while loop and pointers without auxiliary arrays.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   In-Place Array Reversal Using Pointers and while Loop:) Tj
+T*
+(   1. Two-Pointer In-Place Technique:) Tj
+T*
+(   - Establish two pointer variables: 'left' pointing to the first element \(arr[0]\), and 'right') Tj
+T*
+(   pointing to the last element \(arr[n - 1]\).) Tj
+T*
+(   - Execute while \(left < right\):) Tj
+T*
+(   Swap values pointed to by left and right using a temporary scalar variable.) Tj
+T*
+(   Increment left \(left++ advances pointer forward by sizeof\(int\)\).) Tj
+T*
+(   Decrement right \(right-- retreats pointer backward\).) Tj
+T*
+(   - Space Complexity: O\(1\) auxiliary space \(no secondary array allocated\).) Tj
+T*
+(   - Time Complexity: O\(N\) comparisons and N/2 swaps.) Tj
+T*
+() Tj
+T*
+(   2. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+75 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 76 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+76 0 obj
+<< /Length 2392 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 2: CONTROL STRUCTURES & I/O FUNCTIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 37 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   void reverse_array_inplace\(int *arr, int size\) {) Tj
+T*
+(   if \(size <= 1\) return;) Tj
+T*
+() Tj
+T*
+(   int *left = arr;) Tj
+T*
+(   int *right = arr + \(size - 1\);) Tj
+T*
+() Tj
+T*
+(   while \(left < right\) {) Tj
+T*
+(   int temp = *left;) Tj
+T*
+(   *left = *right;) Tj
+T*
+(   *right = temp;) Tj
+T*
+() Tj
+T*
+(   left++;) Tj
+T*
+(   right--;) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   void print_int_array\(const int *arr, int size\) {) Tj
+T*
+(   for \(int i = 0; i < size; i++\) {) Tj
+T*
+(   printf\("%d ", arr[i]\);) Tj
+T*
+(   }) Tj
+T*
+(   printf\("\\n"\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   int data[] = {12, 45, 78, 23, 56, 89, 90};) Tj
+T*
+(   int n = sizeof\(data\) / sizeof\(data[0]\);) Tj
+T*
+() Tj
+T*
+(   printf\("Array before in-place reversal: "\);) Tj
+T*
+(   print_int_array\(data, n\);) Tj
+T*
+() Tj
+T*
+(   reverse_array_inplace\(data, n\);) Tj
+T*
+() Tj
+T*
+(   printf\("Array after in-place reversal: "\);) Tj
+T*
+(   print_int_array\(data, n\);) Tj
+T*
+() Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 28:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to compute the factorial of an integer iteratively and analyze integer overflow boundaries.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Iterative Factorial Computation and Integer Overflow:) Tj
+T*
+(   1. Mathematical Definition:) Tj
+T*
+(   n! = n * \(n - 1\) * ... * 2 * 1, with 0! = 1.) Tj
+T*
+(   Factorial growth is combinatorial \(superexponential\), exceeding machine integer capacities) Tj
+T*
+(   rapidly:) Tj
+T*
+(   - Standard 32-bit signed int \(max ~2.14e9\): Overflows at 13! \(13! = 6,227,020,800\).) Tj
+T*
+(   - Standard 64-bit unsigned long long \(max ~1.84e19\): Overflows at 21! \(21! = 5.109e19\).) Tj
+T*
+() Tj
+T*
+(   2. Defensive Programming Strategy:) Tj
+T*
+(   Check bounds prior to multiplication to prevent silent wraparound undefined behavior.) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+77 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 78 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+78 0 obj
+<< /Length 2689 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 2: CONTROL STRUCTURES & I/O FUNCTIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 38 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   3. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+() Tj
+T*
+(   int compute_factorial_checked\(int n, unsigned long long *result\) {) Tj
+T*
+(   if \(n < 0 || n > 20\) {) Tj
+T*
+(   return -1; /* Out of representable bounds for 64-bit integers */) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   unsigned long long fact = 1;) Tj
+T*
+(   for \(int i = 1; i <= n; i++\) {) Tj
+T*
+(   fact *= \(unsigned long long\)i;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   *result = fact;) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   printf\("=== Combinatorial Factorial Table ===\\n"\);) Tj
+T*
+(   for \(int i = 0; i <= 22; i++\) {) Tj
+T*
+(   unsigned long long res;) Tj
+T*
+(   if \(compute_factorial_checked\(i, &res\) == 0\) {) Tj
+T*
+(   printf\("%2d! = %20llu\\n", i, res\);) Tj
+T*
+(   } else {) Tj
+T*
+(   printf\("%2d! = [OVERFLOW] Exceeds 64-bit unsigned integer capacity!\\n", i\);) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 29:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the dangling-pointer and memory leak traps that occur when managing dynamic loops and jump statements.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Memory Leaks and Jump Statement Traps in C:) Tj
+T*
+(   1. The Loop Allocation Memory Leak Trap:) Tj
+T*
+(   When memory is dynamically allocated inside a loop, each iteration obtains a new heap address:) Tj
+T*
+(   void faulty_loop\(\) {) Tj
+T*
+(   for \(int i = 0; i < 1000; i++\) {) Tj
+T*
+(   char *buf = \(char *\)malloc\(1024\);) Tj
+T*
+(   /* If free\(buf\) is missing, pointer 'buf' is overwritten in the next iteration! */) Tj
+T*
+(   /* The previously allocated 1024 bytes become orphaned in the heap! */) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+(   Orphaned heap blocks cannot be reclaimed because their references are permanently lost, causing) Tj
+T*
+(   severe memory exhaustion.) Tj
+T*
+() Tj
+T*
+(   2. Jump Statements Bypassing free\(\):) Tj
+T*
+(   Using break, continue, or return inside a loop before releasing allocated memory leaks memory:) Tj
+T*
+(   void process_items\(\) {) Tj
+T*
+(   while \(has_data\(\)\) {) Tj
+T*
+(   int *data = malloc\(sizeof\(int\) * 50\);) Tj
+T*
+(   if \(error_condition\(\)\) {) Tj
+T*
+ET
+
+endstream
+endobj
+79 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 80 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+80 0 obj
+<< /Length 2853 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 2: CONTROL STRUCTURES & I/O FUNCTIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 39 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   continue; /* FATAL: Skips free\(data\)! Memory is permanently leaked! */) Tj
+T*
+(   }) Tj
+T*
+(   /* ... */) Tj
+T*
+(   free\(data\);) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   3. Defensive Resolution Patterns:) Tj
+T*
+(   - Pattern 1: Allocate outside the loop if buffer size is constant, reusing the single buffer) Tj
+T*
+(   across iterations.) Tj
+T*
+(   - Pattern 2: Ensure cleanup blocks execute prior to jump statements, or utilize a central) Tj
+T*
+(   cleanup label with goto.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 30:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write an ANSI C program to simulate a bioreactor pH and temperature feedback control loop with safety alarm thresholds.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Bioreactor Process Control Loop Simulation:) Tj
+T*
+(   1. Industrial Biotechnology Context:) Tj
+T*
+(   Bioprocess fermenters require tight environmental control \(pH: 6.8 - 7.4, Temp: 36.5 - 37.5 deg) Tj
+T*
+(   C\).) Tj
+T*
+(   A control loop monitors sensor inputs and triggers corrective acid/base dosing pumps or cooling) Tj
+T*
+(   jackets when boundaries are breached.) Tj
+T*
+() Tj
+T*
+(   2. Complete ANSI C Source Code:) Tj
+T*
+(   #include <stdio.h>) Tj
+T*
+(   #include <stdbool.h>) Tj
+T*
+() Tj
+T*
+(   #define PH_MIN 6.80) Tj
+T*
+(   #define PH_MAX 7.40) Tj
+T*
+(   #define TEMP_MIN 36.50) Tj
+T*
+(   #define TEMP_MAX 37.50) Tj
+T*
+(   #define TEMP_CRITICAL 42.00) Tj
+T*
+() Tj
+T*
+(   int main\(void\) {) Tj
+T*
+(   /* Simulated sensor telemetry stream: 5 inspection cycles */) Tj
+T*
+(   double ph_readings[] = {7.10, 6.70, 7.55, 7.20, 6.95};) Tj
+T*
+(   double temp_readings[] = {37.0, 36.8, 38.2, 42.5, 37.1};) Tj
+T*
+(   int cycles = sizeof\(ph_readings\) / sizeof\(ph_readings[0]\);) Tj
+T*
+() Tj
+T*
+(   printf\("=== Automated Bioreactor Environmental Controller ===\\n"\);) Tj
+T*
+() Tj
+T*
+(   for \(int cycle = 0; cycle < cycles; cycle++\) {) Tj
+T*
+(   double current_ph = ph_readings[cycle];) Tj
+T*
+(   double current_temp = temp_readings[cycle];) Tj
+T*
+() Tj
+T*
+(   printf\("\\n[Cycle %d] Telemetry -> pH: %.2f | Temp: %.2f deg C\\n",) Tj
+T*
+(   cycle + 1, current_ph, current_temp\);) Tj
+T*
+() Tj
+T*
+(   /* Emergency Critical Temperature Alarm */) Tj
+T*
+(   if \(current_temp >= TEMP_CRITICAL\) {) Tj
+T*
+(   printf\("CRITICAL ALARM: Thermal runaway detected! Halting fermentation!\\n"\);) Tj
+T*
+(   break; /* Emergency loop termination */) Tj
+T*
+ET
+
+endstream
+endobj
+81 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 82 0 R /Resources << /Font << /F1 83 0 R /F2 84 0 R >> >> >>
+endobj
+82 0 obj
+<< /Length 1439 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(COMPUTER PROGRAMMING | UNIT 2: CONTROL STRUCTURES & I/O FUNCTIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 40 of 40) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   }) Tj
+T*
+() Tj
+T*
+(   /* pH Control Loop */) Tj
+T*
+(   if \(current_ph < PH_MIN\) {) Tj
+T*
+(   printf\(" -> Corrective Action: Dispensing NaOH alkali buffer \(+0.1 M\).\\n"\);) Tj
+T*
+(   } else if \(current_ph > PH_MAX\) {) Tj
+T*
+(   printf\(" -> Corrective Action: Dispensing HCl acid buffer \(-0.1 M\).\\n"\);) Tj
+T*
+(   } else {) Tj
+T*
+(   printf\(" -> pH Status: Optimal physiological equilibrium.\\n"\);) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   /* Temperature Control Loop */) Tj
+T*
+(   if \(current_temp > TEMP_MAX\) {) Tj
+T*
+(   printf\(" -> Corrective Action: Activating chilled water cooling jacket.\\n"\);) Tj
+T*
+(   } else if \(current_temp < TEMP_MIN\) {) Tj
+T*
+(   printf\(" -> Corrective Action: Engaging auxiliary electrical heating element.\\n"\);) Tj
+T*
+(   } else {) Tj
+T*
+(   printf\(" -> Temperature Status: Nominal setpoint maintained.\\n"\);) Tj
+T*
+(   }) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   printf\("\\nBioreactor monitoring cycle sequence concluded.\\n"\);) Tj
+T*
+(   return 0;) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+83 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+84 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+xref
+0 85
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000386 00000 n 
+0000000530 00000 n 
+0000008579 00000 n 
+0000008723 00000 n 
+0000016964 00000 n 
+0000017108 00000 n 
+0000025303 00000 n 
+0000025448 00000 n 
+0000033369 00000 n 
+0000033515 00000 n 
+0000042003 00000 n 
+0000042149 00000 n 
+0000050694 00000 n 
+0000050840 00000 n 
+0000059698 00000 n 
+0000059844 00000 n 
+0000061410 00000 n 
+0000061556 00000 n 
+0000066510 00000 n 
+0000066656 00000 n 
+0000069273 00000 n 
+0000069419 00000 n 
+0000077896 00000 n 
+0000078042 00000 n 
+0000081135 00000 n 
+0000081281 00000 n 
+0000083963 00000 n 
+0000084109 00000 n 
+0000087287 00000 n 
+0000087433 00000 n 
+0000090220 00000 n 
+0000090366 00000 n 
+0000093422 00000 n 
+0000093568 00000 n 
+0000096099 00000 n 
+0000096245 00000 n 
+0000099444 00000 n 
+0000099590 00000 n 
+0000102623 00000 n 
+0000102769 00000 n 
+0000105789 00000 n 
+0000105935 00000 n 
+0000109190 00000 n 
+0000109336 00000 n 
+0000112061 00000 n 
+0000112207 00000 n 
+0000114598 00000 n 
+0000114744 00000 n 
+0000117485 00000 n 
+0000117631 00000 n 
+0000120215 00000 n 
+0000120361 00000 n 
+0000122951 00000 n 
+0000123097 00000 n 
+0000125851 00000 n 
+0000125997 00000 n 
+0000128776 00000 n 
+0000128922 00000 n 
+0000132003 00000 n 
+0000132149 00000 n 
+0000135042 00000 n 
+0000135188 00000 n 
+0000137778 00000 n 
+0000137924 00000 n 
+0000141432 00000 n 
+0000141578 00000 n 
+0000144163 00000 n 
+0000144309 00000 n 
+0000147850 00000 n 
+0000147996 00000 n 
+0000150872 00000 n 
+0000151018 00000 n 
+0000154227 00000 n 
+0000154373 00000 n 
+0000156818 00000 n 
+0000156964 00000 n 
+0000159706 00000 n 
+0000159852 00000 n 
+0000162758 00000 n 
+0000162904 00000 n 
+0000164396 00000 n 
+0000164494 00000 n 
+trailer
+<< /Size 85 /Root 1 0 R >>
+startxref
+164597
+%%EOF

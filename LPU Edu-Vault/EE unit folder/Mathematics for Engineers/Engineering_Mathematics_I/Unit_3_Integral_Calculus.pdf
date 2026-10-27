@@ -1,0 +1,598 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2956 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mathematics - I | Unit 3: Integral Calculus & Special Functions) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 1 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(=== UNIT 3: INTEGRAL CALCULUS, REDUCTION FORMULAE & BETA-GAMMA FUNCTIONS ===) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.1 Definite Integrals and Reduction Formulae) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Integral calculus underpins the computation of continuous mass balances, cumulative) Tj
+T*
+(reaction kinetics, and electromagnetic potentials.) Tj
+T*
+(* Reduction Formula for sin^n\(x\): Derived using integration by parts \(u =) Tj
+T*
+(sin^{n-1}\(x\), dv = sin\(x\) dx\):) Tj
+T*
+(I_n = int sin^n\(x\) dx = - [ sin^{n-1}\(x\)*cos\(x\) / n ] + [ \(n - 1\) / n ] * I_{n-2}.) Tj
+T*
+(* Reduction Formula for cos^n\(x\):) Tj
+T*
+(I_n = int cos^n\(x\) dx = [ cos^{n-1}\(x\)*sin\(x\) / n ] + [ \(n - 1\) / n ] * I_{n-2}.) Tj
+T*
+(* Walli's Formula for Definite Integrals over [0, pi/2]:) Tj
+T*
+(int_0^{pi/2} sin^n\(x\) dx = int_0^{pi/2} cos^n\(x\) dx = [ \(n-1\)*\(n-3\)*...*\(1 or 2\) ] / [) Tj
+T*
+(n*\(n-2\)*...*\(2 or 1\) ] * K,) Tj
+T*
+(where K = pi/2 if n is an EVEN positive integer, and K = 1 if n is an ODD positive) Tj
+T*
+(integer.) Tj
+T*
+(* Walli's Product Formula for int_0^{pi/2} sin^p\(x\) * cos^q\(x\) dx:) Tj
+T*
+(= [ \(p-1\)*\(p-3\)... * \(q-1\)*\(q-3\)... ] / [ \(p+q\)*\(p+q-2\)*\(p+q-4\)... ] * K,) Tj
+T*
+(where K = pi/2 if BOTH p and q are even integers, and K = 1 otherwise.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.2 Special Functions: Beta and Gamma Functions) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* The Gamma Function \(Euler's Integral of Second Kind\): Defined for all real x > 0) Tj
+T*
+(by:) Tj
+T*
+(Gamma\(n\) = int_0^inf e^{-t} * t^{n - 1} dt.) Tj
+T*
+(- Fundamental Recurrence Relation: Gamma\(n + 1\) = n * Gamma\(n\).) Tj
+T*
+(- Factorial Representation: For positive integer n, Gamma\(n + 1\) = n! and Gamma\(n\)) Tj
+T*
+(= \(n - 1\)!.) Tj
+T*
+(- Important Exact Value: Gamma\(1/2\) = sqrt\(pi\).) Tj
+T*
+(- Negative Non-integers: Evaluated via Gamma\(n\) = Gamma\(n + 1\) / n.) Tj
+T*
+(* The Beta Function \(Euler's Integral of First Kind\): Defined for m > 0, n > 0 by:) Tj
+T*
+(Beta\(m, n\) = int_0^1 x^{m - 1} * \(1 - x\)^{n - 1} dx.) Tj
+T*
+(- Trigonometric Form: Beta\(m, n\) = 2 * int_0^{pi/2} sin^{2m - 1}\(theta\) * cos^{2n) Tj
+T*
+(- 1}\(theta\) d\(theta\).) Tj
+T*
+(- Symmetry Property: Beta\(m, n\) = Beta\(n, m\).) Tj
+T*
+(- Algebraic Transformation: Beta\(m, n\) = int_0^inf [ y^{m - 1} / \(1 + y\)^{m + n} ]) Tj
+T*
+(dy.) Tj
+T*
+(* Fundamental Relation Between Beta and Gamma Functions:) Tj
+T*
+(Beta\(m, n\) = [ Gamma\(m\) * Gamma\(n\) ] / Gamma\(m + n\).) Tj
+T*
+(- Duplication Formula \(Legendre\): Gamma\(m\) * Gamma\(m + 1/2\) = [ sqrt\(pi\) / 2^{2m -) Tj
+T*
+(1} ] * Gamma\(2m\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 3227 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mathematics - I | Unit 3: Integral Calculus & Special Functions) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 2 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+/F2 9.5 Tf
+(>> 3.3 Rectification and Area Computation of Plane Curves) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Arc Length \(Rectification\) in Cartesian Coordinates: s = int_a^b sqrt\( 1 +) Tj
+T*
+(\(dy/dx\)^2 \) dx.) Tj
+T*
+(* Arc Length in Parametric Coordinates: s = int_{t1}^{t2} sqrt\( \(dx/dt\)^2 + \(dy/dt\)^2) Tj
+T*
+(\) dt.) Tj
+T*
+(* Arc Length in Polar Coordinates: s = int_{theta1}^{theta2} sqrt\( r^2 +) Tj
+T*
+(\(dr/d\(theta\)\)^2 \) d\(theta\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([SOLVED PROBLEM 1: Application of Walli's Definite Integral Formula]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: Evaluate the definite integral I = int_0^{pi/2} sin^6\(x\) * cos^4\(x\) dx.) Tj
+T*
+(Solution Step 1: Identify indices p and q:) Tj
+T*
+(p = 6 \(even positive integer\), q = 4 \(even positive integer\).) Tj
+T*
+(Since BOTH p and q are even, the multiplier factor K = pi/2.) Tj
+T*
+(Solution Step 2: Apply Walli's formula:) Tj
+T*
+(Numerator terms: \(p - 1\)*\(p - 3\)*\(p - 5\) * \(q - 1\)*\(q - 3\) = \(5 * 3 * 1\) * \(3 * 1\) = 15) Tj
+T*
+(* 3 = 45.) Tj
+T*
+(Denominator terms: \(p + q\)*\(p + q - 2\)*\(p + q - 4\)... down to 2:) Tj
+T*
+(p + q = 10.) Tj
+T*
+(Denominator = 10 * 8 * 6 * 4 * 2 = 3,840.) Tj
+T*
+(Solution Step 3: Multiply by K = pi/2:) Tj
+T*
+(I = [ 45 / 3840 ] * \(pi / 2\) = [ 3 / 256 ] * \(pi / 2\) = 3*pi / 512.) Tj
+T*
+(Alternative Solution via Beta-Gamma Relation:) Tj
+T*
+(int_0^{pi/2} sin^6\(x\) * cos^4\(x\) dx = \(1/2\) * Beta\(\(6+1\)/2, \(4+1\)/2\) = \(1/2\) * Beta\(7/2,) Tj
+T*
+(5/2\)) Tj
+T*
+(= \(1/2\) * [ Gamma\(7/2\) * Gamma\(5/2\) ] / Gamma\(6\).) Tj
+T*
+(Gamma\(7/2\) = \(5/2\)*\(3/2\)*\(1/2\)*sqrt\(pi\) = \(15/8\)*sqrt\(pi\).) Tj
+T*
+(Gamma\(5/2\) = \(3/2\)*\(1/2\)*sqrt\(pi\) = \(3/4\)*sqrt\(pi\).) Tj
+T*
+(Gamma\(6\) = 5! = 120.) Tj
+T*
+(I = \(1/2\) * [ \(15/8 * 3/4 * pi\) / 120 ] = \(1/2\) * [ \(45/32 * pi\) / 120 ] = \(1/2\) * \(3*pi) Tj
+T*
+(/ 256\) = 3*pi / 512. \(Confirmed\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([SOLVED PROBLEM 2: Evaluation of Non-Elementary Gaussian Integral via Gamma]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: Evaluate the definite integral J = int_0^inf x^4 * e^{-2x^2} dx using the Gamma) Tj
+T*
+(function.) Tj
+T*
+(Solution Step 1: Variable substitution to match standard Gamma integral int_0^inf) Tj
+T*
+(t^{n-1} e^{-t} dt:) Tj
+T*
+(Let t = 2*x^2 => x^2 = t / 2 => x = \(t / 2\)^{1/2}.) Tj
+T*
+(Differentiating: dt = 4*x dx => dx = dt / \(4*x\) = dt / \(4 * \(t/2\)^{1/2}\) = \(1 /) Tj
+T*
+(\(2*sqrt\(2\)\)\) * t^{-1/2} dt.) Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 3358 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mathematics - I | Unit 3: Integral Calculus & Special Functions) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 3 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(Solution Step 2: Transform limits:) Tj
+T*
+(When x = 0, t = 0; when x -> inf, t -> inf.) Tj
+T*
+(Solution Step 3: Substitute into integral:) Tj
+T*
+(x^4 = \(x^2\)^2 = \(t / 2\)^2 = t^2 / 4.) Tj
+T*
+(J = int_0^inf [ t^2 / 4 ] * e^{-t} * [ \(1 / \(2*sqrt\(2\)\)\) * t^{-1/2} dt ]) Tj
+T*
+(J = [ 1 / \(8*sqrt\(2\)\) ] * int_0^inf t^{2 - 1/2} * e^{-t} dt) Tj
+T*
+(J = [ 1 / \(8*sqrt\(2\)\) ] * int_0^inf t^{3/2} * e^{-t} dt.) Tj
+T*
+(Solution Step 4: Recognize Gamma integral with n - 1 = 3/2 => n = 5/2:) Tj
+T*
+(int_0^inf t^{3/2} * e^{-t} dt = Gamma\(5/2\).) Tj
+T*
+(Gamma\(5/2\) = \(3/2\) * \(1/2\) * Gamma\(1/2\) = \(3/4\) * sqrt\(pi\).) Tj
+T*
+(Solution Step 5: Final computation:) Tj
+T*
+(J = [ 1 / \(8*sqrt\(2\)\) ] * [ \(3/4\) * sqrt\(pi\) ] = 3 * sqrt\(pi\) / \(32 * sqrt\(2\)\) = [ 3 *) Tj
+T*
+(sqrt\(2*pi\) ] / 64.) Tj
+T*
+(Final Numerical Value: J ~ 3 * 2.5066 / 64 = 0.1175.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([SOLVED PROBLEM 3: Proof of Beta-Gamma Relation Beta\(m,n\) = Gamma\(m\)*Gamma\(n\)/Gamma\(m+n\)]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: Rigorously prove the identity Beta\(m, n\) = [ Gamma\(m\) * Gamma\(n\) ] / Gamma\(m +) Tj
+T*
+(n\).) Tj
+T*
+(Proof Step 1: Express Gamma functions using substitute variables:) Tj
+T*
+(Gamma\(m\) = int_0^inf e^{-x^2} * \(x^2\)^{m - 1} * \(2x dx\) = 2 * int_0^inf e^{-x^2} * x^{2m) Tj
+T*
+(- 1} dx.) Tj
+T*
+(Gamma\(n\) = 2 * int_0^inf e^{-y^2} * y^{2n - 1} dy.) Tj
+T*
+(Proof Step 2: Multiply the two integrals as a double integral over the first quadrant \(x) Tj
+T*
+(>= 0, y >= 0\):) Tj
+T*
+(Gamma\(m\) * Gamma\(n\) = 4 * int_0^inf int_0^inf e^{-\(x^2 + y^2\)} * x^{2m - 1} * y^{2n - 1}) Tj
+T*
+(dx dy.) Tj
+T*
+(Proof Step 3: Transform to polar coordinates \(x = r*cos\(theta\), y = r*sin\(theta\), dx dy) Tj
+T*
+(= r dr d\(theta\)\):) Tj
+T*
+(Limits: r runs from 0 to inf; theta runs from 0 to pi/2.) Tj
+T*
+(x^2 + y^2 = r^2; x^{2m - 1} = r^{2m - 1} * cos^{2m - 1}\(theta\); y^{2n - 1} = r^{2n - 1}) Tj
+T*
+(* sin^{2n - 1}\(theta\).) Tj
+T*
+(Gamma\(m\)*Gamma\(n\) = 4 * int_0^{pi/2} sin^{2n-1}\(theta\)*cos^{2m-1}\(theta\) d\(theta\) *) Tj
+T*
+(int_0^inf e^{-r^2} * r^{2m+2n-2} * r dr.) Tj
+T*
+(Proof Step 4: Recognize separated integral components:) Tj
+T*
+(First integral: 2 * int_0^{pi/2} sin^{2n-1}\(theta\) * cos^{2m-1}\(theta\) d\(theta\) =) Tj
+T*
+(Beta\(n, m\) = Beta\(m, n\).) Tj
+T*
+(Second integral: 2 * int_0^inf e^{-r^2} * r^{2\(m+n\) - 1} dr = Gamma\(m + n\).) Tj
+T*
+(Therefore: Gamma\(m\) * Gamma\(n\) = Beta\(m, n\) * Gamma\(m + n\).) Tj
+T*
+(Dividing by Gamma\(m + n\): Beta\(m, n\) = [ Gamma\(m\) * Gamma\(n\) ] / Gamma\(m + n\). \(Q.E.D.\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([SOLVED PROBLEM 4: Arc Length \(Rectification\) of Cardioid]) Tj
+T*
+/F1 9 Tf
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 3524 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mathematics - I | Unit 3: Integral Calculus & Special Functions) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 4 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: Find the total perimeter \(arc length\) of the complete cardioid curve r = a * \(1) Tj
+T*
+(+ cos\(theta\)\).) Tj
+T*
+(Solution Step 1: Utilize symmetry: Cardioid is symmetric about the initial polar axis) Tj
+T*
+(\(theta = 0\).) Tj
+T*
+(Total length S = 2 * int_0^pi sqrt\( r^2 + \(dr/d\(theta\)\)^2 \) d\(theta\).) Tj
+T*
+(Solution Step 2: Calculate derivative and differential element:) Tj
+T*
+(dr/d\(theta\) = -a * sin\(theta\).) Tj
+T*
+(r^2 + \(dr/d\(theta\)\)^2 = a^2 * \(1 + cos\(theta\)\)^2 + a^2 * sin^2\(theta\)) Tj
+T*
+(= a^2 * [ 1 + 2*cos\(theta\) + cos^2\(theta\) + sin^2\(theta\) ] = a^2 * [ 2 + 2*cos\(theta\) ]) Tj
+T*
+(= 2*a^2 * [ 1 + cos\(theta\) ] = 2*a^2 * [ 2 * cos^2\(theta / 2\) ] = 4*a^2 * cos^2\(theta /) Tj
+T*
+(2\).) Tj
+T*
+(Solution Step 3: Take square root \(for 0 <= theta <= pi, cos\(theta/2\) >= 0\):) Tj
+T*
+(sqrt\( r^2 + \(dr/d\(theta\)\)^2 \) = 2*a * cos\(theta / 2\).) Tj
+T*
+(Solution Step 4: Integrate from 0 to pi:) Tj
+T*
+(S = 2 * int_0^pi [ 2*a * cos\(theta / 2\) ] d\(theta\) = 4*a * [ 2 * sin\(theta / 2\) ]_0^pi) Tj
+T*
+(S = 8*a * [ sin\(pi / 2\) - sin\(0\) ] = 8*a * \(1 - 0\) = 8*a.) Tj
+T*
+(Final Answer: The total perimeter of the cardioid is 8a.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.4 University Review & Examination Questions) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Q1: Evaluate int_0^1 [ x^2 / sqrt\(1 - x^4\) ] dx using Beta and Gamma functions.) Tj
+T*
+(Answer: Put x^2 = sin\(theta\) => 2x dx = cos\(theta\) d\(theta\) => dx = cos\(theta\) d\(theta\)) Tj
+T*
+(/ \(2*sqrt\(sin\(theta\)\)\). As x: 0->1, theta: 0->pi/2. The integral becomes int_0^{pi/2} [) Tj
+T*
+(sin\(theta\) / cos\(theta\) ] * [ cos\(theta\) / \(2*sqrt\(sin\(theta\)\)\) ] d\(theta\) = \(1/2\) *) Tj
+T*
+(int_0^{pi/2} sin^{1/2}\(theta\) * cos^0\(theta\) d\(theta\). Using the Beta relation: = \(1/4\)) Tj
+T*
+(* Beta\(\(1/2 + 1\)/2, \(0 + 1\)/2\) = \(1/4\) * Beta\(3/4, 1/2\) = \(1/4\) * [ Gamma\(3/4\) *) Tj
+T*
+(Gamma\(1/2\) ] / Gamma\(5/4\). Since Gamma\(5/4\) = \(1/4\)*Gamma\(1/4\), this simplifies to [) Tj
+T*
+(Gamma\(3/4\) * sqrt\(pi\) ] / Gamma\(1/4\).) Tj
+T*
+(* Q2: Derive the reduction formula for int tan^n\(x\) dx and hence evaluate) Tj
+T*
+(int_0^{pi/4} tan^5\(x\) dx.) Tj
+T*
+(Answer: Write tan^n\(x\) = tan^{n-2}\(x\) * tan^2\(x\) = tan^{n-2}\(x\) * \(sec^2\(x\) - 1\) =) Tj
+T*
+(tan^{n-2}\(x\)*sec^2\(x\) - tan^{n-2}\(x\). Integrating: I_n = [ tan^{n-1}\(x\) / \(n - 1\) ] -) Tj
+T*
+(I_{n-2}. For limits 0 to pi/4, tan\(pi/4\) = 1 and tan\(0\) = 0, so I_n = 1/\(n-1\) - I_{n-2}.) Tj
+T*
+(For I_5: I_5 = 1/4 - I_3; I_3 = 1/2 - I_1; I_1 = int_0^{pi/4} tan\(x\) dx =) Tj
+T*
+([ln\(sec\(x\)\)]_0^{pi/4} = ln\(sqrt\(2\)\) = \(1/2\)*ln\(2\). Thus I_3 = 1/2 - \(1/2\)*ln\(2\), and I_5) Tj
+T*
+(= 1/4 - [ 1/2 - \(1/2\)*ln\(2\) ] = \(1/2\)*ln\(2\) - 1/4.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.5 Key Takeaways and Revision Points) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Walli's formula directly evaluates int_0^{pi/2} sin^p\(x\)*cos^q\(x\) dx using parity) Tj
+T*
+(of indices.) Tj
+T*
+(* Gamma function generalizes factorial: Gamma\(n+1\) = n*Gamma\(n\); Gamma\(1/2\) =) Tj
+T*
+(sqrt\(pi\).) Tj
+T*
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 597 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mathematics - I | Unit 3: Integral Calculus & Special Functions) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 5 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(* Beta-Gamma identity Beta\(m,n\) = Gamma\(m\)*Gamma\(n\) / Gamma\(m+n\) converts complex) Tj
+T*
+(non-elementary integrals into products of Gamma functions.) Tj
+T*
+(* Rectification computes exact arc lengths using differential metric ds = sqrt\(1 +) Tj
+T*
+(\(y'\)^2\) dx.) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000171 00000 n 
+0000000241 00000 n 
+0000000316 00000 n 
+0000000428 00000 n 
+0000003436 00000 n 
+0000003548 00000 n 
+0000006827 00000 n 
+0000006940 00000 n 
+0000010351 00000 n 
+0000010465 00000 n 
+0000014042 00000 n 
+0000014156 00000 n 
+trailer
+<< /Size 15 /Root 1 0 R >>
+startxref
+14805
+%%EOF

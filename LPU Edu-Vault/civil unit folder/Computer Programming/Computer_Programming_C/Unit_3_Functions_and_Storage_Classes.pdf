@@ -1,0 +1,656 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 3280 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Computer Programming in C | Unit 3: Functions, Recursion & Storage Classes) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 1 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(=== UNIT 3: MODULAR PROGRAMMING: FUNCTIONS, RECURSION & STORAGE CLASSES ===) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.1 Function Architecture, Prototypes and Parameter Passing) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Modular programming decomposes complex engineering algorithms into reusable, testable) Tj
+T*
+(subroutines.) Tj
+T*
+(* Anatomy of a Function: Return type, function identifier, formal parameter list,) Tj
+T*
+(local variable declarations, and function body.) Tj
+T*
+(* Function Prototype \(Declaration\): Informs compiler about function signature \(return) Tj
+T*
+(type, parameter types, count\) before actual definition: int calculateArea\(int width,) Tj
+T*
+(int height\);. Enables type checking and implicit conversions.) Tj
+T*
+(* Call-by-Value vs. Call-by-Reference:) Tj
+T*
+(- Call-by-Value: Default in C. Actual arguments are evaluated and values copied) Tj
+T*
+(into separate formal parameter memory locations. Modifications made inside) Tj
+T*
+(function do NOT affect caller's actual arguments.) Tj
+T*
+(- Call-by-Reference \(Simulated via Pointers\): Caller passes memory addresses) Tj
+T*
+(\(&var\). Formal parameters are declared as pointers \(*ptr\). Function dereferences) Tj
+T*
+(pointers to directly mutate caller's original memory.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.2 Recursion and Call Stack Mechanics) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Recursive Function: A function that calls itself either directly or indirectly.) Tj
+T*
+(Requires two components: \(1\) Base Case \(terminating condition returning without) Tj
+T*
+(recursion\), \(2\) Recursive Step \(reduces problem instance closer to base case\).) Tj
+T*
+(* Execution Stack Trace: Each function call allocates an Activation Record \(Stack) Tj
+T*
+(Frame\) on call stack containing parameters, local variables, and return address. Once) Tj
+T*
+(base case is reached, stack frames unwind in Last-In-First-Out \(LIFO\) order.) Tj
+T*
+(* Tail Recursion: Recursive call is tail-recursive if it is the very last operation) Tj
+T*
+(executed, allowing compiler optimization \(Tail Call Optimization TCO\) to reuse stack) Tj
+T*
+(frames and avoid stack overflow.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.3 Storage Classes and Variable Scope) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* auto: Default for local variables declared inside blocks. Stored on Stack. Scope) Tj
+T*
+(local to block; lifetime ends upon block exit. Default value is garbage.) Tj
+T*
+(* register: Requests compiler to store variable in high-speed CPU core register.) Tj
+T*
+(Cannot use address-of operator \(&\) on register variables.) Tj
+T*
+(* static: Local static variables retain values between successive function calls.) Tj
+T*
+(Initialized only ONCE at program startup. Stored in Data Segment \(BSS if) Tj
+T*
+(uninitialized\). Global static functions/variables have internal linkage \(restricted) Tj
+T*
+(strictly to declaring file\).) Tj
+T*
+(* extern: Declares a global variable or function defined in another source file.) Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 2637 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Computer Programming in C | Unit 3: Functions, Recursion & Storage Classes) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 2 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(Possesses external linkage, informing linker to resolve symbol across object files) Tj
+T*
+(without allocating duplicate memory.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 1: Call-by-Value vs. Call-by-Reference Demonstration \(Swap Function\)]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: Write two swap functions in C to rigorously contrast Call-by-Value and) Tj
+T*
+(Call-by-Reference \(via pointers\), inspecting memory addresses before, during, and after) Tj
+T*
+(execution.) Tj
+T*
+(Source Code:) Tj
+T*
+(#include <stdio.h>) Tj
+T*
+(void swapByValue\(int x, int y\) {) Tj
+T*
+(int temp = x;) Tj
+T*
+(x = y;) Tj
+T*
+(y = temp;) Tj
+T*
+(printf\(" Inside swapByValue: x = %d, y = %d \(Formal parameters altered\)\\n", x, y\);) Tj
+T*
+(}) Tj
+T*
+(void swapByReference\(int *x, int *y\) {) Tj
+T*
+(int temp = *x;) Tj
+T*
+(*x = *y;) Tj
+T*
+(*y = temp;) Tj
+T*
+(printf\(" Inside swapByReference: *x = %d, *y = %d \(Original memory modified\)\\n", *x,) Tj
+T*
+(*y\);) Tj
+T*
+(}) Tj
+T*
+(int main\(\) {) Tj
+T*
+(int a = 10, b = 20;) Tj
+T*
+(printf\("Initial: a = %d, b = %d\\n", a, b\);) Tj
+T*
+(swapByValue\(a, b\);) Tj
+T*
+(printf\("After swapByValue: a = %d, b = %d \(UNALTERED\)\\n", a, b\);) Tj
+T*
+(swapByReference\(&a, &b\);) Tj
+T*
+(printf\("After swapByReference: a = %d, b = %d \(SUCCESSFULLY SWAPPED\)\\n", a, b\);) Tj
+T*
+(return 0;) Tj
+T*
+(}) Tj
+T*
+(Output:) Tj
+T*
+(Initial: a = 10, b = 20) Tj
+T*
+(Inside swapByValue: x = 20, y = 10 \(Formal parameters altered\)) Tj
+T*
+(After swapByValue: a = 10, b = 20 \(UNALTERED\)) Tj
+T*
+(Inside swapByReference: *x = 20, *y = 10 \(Original memory modified\)) Tj
+T*
+(After swapByReference: a = 20, b = 10 \(SUCCESSFULLY SWAPPED\)) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 2: Recursion vs. Iteration - Factorial & Stack Depth Analysis]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: Implement factorial computation using: \(1\) Standard recursion, \(2\)) Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 2487 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Computer Programming in C | Unit 3: Functions, Recursion & Storage Classes) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 3 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(Tail-recursive optimization, and analyze stack memory overhead.) Tj
+T*
+(Source Code:) Tj
+T*
+(#include <stdio.h>) Tj
+T*
+(long long factorialStandard\(int n\) {) Tj
+T*
+(if \(n <= 1\) return 1;) Tj
+T*
+(return n * factorialStandard\(n - 1\);) Tj
+T*
+(}) Tj
+T*
+(long long factorialTail\(int n, long long accumulator\) {) Tj
+T*
+(if \(n <= 1\) return accumulator;) Tj
+T*
+(return factorialTail\(n - 1, n * accumulator\);) Tj
+T*
+(}) Tj
+T*
+(int main\(\) {) Tj
+T*
+(int val = 6;) Tj
+T*
+(printf\("Standard Factorial\(%d\): %lld\\n", val, factorialStandard\(val\)\);) Tj
+T*
+(printf\("Tail Recursive Factorial\(%d\): %lld\\n", val, factorialTail\(val, 1\)\);) Tj
+T*
+(return 0;) Tj
+T*
+(}) Tj
+T*
+(Stack Trace for factorialStandard\(4\):) Tj
+T*
+(Call 1: fact\(4\) -> waits for 4 * fact\(3\)) Tj
+T*
+(Call 2: fact\(3\) -> waits for 3 * fact\(2\)) Tj
+T*
+(Call 3: fact\(2\) -> waits for 2 * fact\(1\)) Tj
+T*
+(Call 4: fact\(1\) -> returns 1 \(Base Case reached\).) Tj
+T*
+(Unwind 3: returns 2 * 1 = 2.) Tj
+T*
+(Unwind 2: returns 3 * 2 = 6.) Tj
+T*
+(Unwind 1: returns 4 * 6 = 24. Result = 24.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 3: Tower of Hanoi Recursive Solver]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: Solve the Tower of Hanoi puzzle for N disks moving from source rod A to) Tj
+T*
+(destination rod C using auxiliary rod B. Calculate total moves: 2^N - 1.) Tj
+T*
+(Source Code:) Tj
+T*
+(#include <stdio.h>) Tj
+T*
+(void towerOfHanoi\(int n, char from_rod, char to_rod, char aux_rod, int *moveCount\) {) Tj
+T*
+(if \(n == 1\) {) Tj
+T*
+(\(*moveCount\)++;) Tj
+T*
+(printf\("Move %2d: Move disk 1 from rod %c to rod %c\\n", *moveCount, from_rod, to_rod\);) Tj
+T*
+(return;) Tj
+T*
+(}) Tj
+T*
+(towerOfHanoi\(n - 1, from_rod, aux_rod, to_rod, moveCount\);) Tj
+T*
+(\(*moveCount\)++;) Tj
+T*
+(printf\("Move %2d: Move disk %d from rod %c to rod %c\\n", *moveCount, n, from_rod,) Tj
+T*
+(to_rod\);) Tj
+T*
+(towerOfHanoi\(n - 1, aux_rod, to_rod, from_rod, moveCount\);) Tj
+T*
+(}) Tj
+T*
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 2354 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Computer Programming in C | Unit 3: Functions, Recursion & Storage Classes) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 4 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(int main\(\) {) Tj
+T*
+(int n = 3, count = 0;) Tj
+T*
+(printf\("Tower of Hanoi Solution for %d disks \(Total moves = %d\):\\n", n, \(1 << n\) - 1\);) Tj
+T*
+(towerOfHanoi\(n, 'A', 'C', 'B', &count\);) Tj
+T*
+(return 0;) Tj
+T*
+(}) Tj
+T*
+(Output Sequence \(7 moves\):) Tj
+T*
+(Move 1: Move disk 1 from rod A to rod C) Tj
+T*
+(Move 2: Move disk 2 from rod A to rod B) Tj
+T*
+(Move 3: Move disk 1 from rod C to rod B) Tj
+T*
+(Move 4: Move disk 3 from rod A to rod C) Tj
+T*
+(Move 5: Move disk 1 from rod B to rod A) Tj
+T*
+(Move 6: Move disk 2 from rod B to rod C) Tj
+T*
+(Move 7: Move disk 1 from rod A to rod C) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 4: Static Local Variable Behavior Across Repeated Invocations]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: Write a program demonstrating how static local variables maintain state across) Tj
+T*
+(multiple independent function calls, contrasting with standard automatic variables.) Tj
+T*
+(Source Code:) Tj
+T*
+(#include <stdio.h>) Tj
+T*
+(void transactionLogger\(\) {) Tj
+T*
+(auto int autoCounter = 0;) Tj
+T*
+(static int staticCounter = 0;) Tj
+T*
+(autoCounter++;) Tj
+T*
+(staticCounter++;) Tj
+T*
+(printf\("Call Output: autoCounter = %d | staticCounter = %d\\n", autoCounter,) Tj
+T*
+(staticCounter\);) Tj
+T*
+(}) Tj
+T*
+(int main\(\) {) Tj
+T*
+(printf\("Invoking transactionLogger\(\) 4 times:\\n"\);) Tj
+T*
+(for \(int i = 0; i < 4; i++\) {) Tj
+T*
+(transactionLogger\(\);) Tj
+T*
+(}) Tj
+T*
+(return 0;) Tj
+T*
+(}) Tj
+T*
+(Output:) Tj
+T*
+(Call 1: autoCounter = 1 | staticCounter = 1) Tj
+T*
+(Call 2: autoCounter = 1 | staticCounter = 2) Tj
+T*
+(Call 3: autoCounter = 1 | staticCounter = 3) Tj
+T*
+(Call 4: autoCounter = 1 | staticCounter = 4) Tj
+T*
+(Conclusion: Static variables persist in Data Segment across entire program lifetime) Tj
+T*
+(while retaining local block scope.) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 2753 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Computer Programming in C | Unit 3: Functions, Recursion & Storage Classes) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 5 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.4 University Review & Examination Questions) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Q1: Contrast all four C storage classes \(auto, register, static, extern\) across) Tj
+T*
+(storage location, default initial value, scope, and lifetime.) Tj
+T*
+(Answer: \(1\) auto: Storage: RAM \(Stack\); Default Value: Garbage; Scope: Local to) Tj
+T*
+(declaring block; Lifetime: Duration of block execution. \(2\) register: Storage: CPU core) Tj
+T*
+(register; Default Value: Garbage; Scope: Local to block; Lifetime: Duration of block) Tj
+T*
+(execution; Cannot take address \(&\). \(3\) static: Storage: RAM \(Data/BSS segment\); Default) Tj
+T*
+(Value: Zero \(0\); Scope: Local to block \(or file scope if global\); Lifetime: Entire) Tj
+T*
+(program execution lifetime; retains values between function invocations. \(4\) extern:) Tj
+T*
+(Storage: RAM \(Data/BSS segment\); Default Value: Zero \(0\); Scope: Global \(accessible) Tj
+T*
+(across multiple project files\); Lifetime: Entire program execution lifetime.) Tj
+T*
+(* Q2: Explain the mechanism of recursive function execution using the activation) Tj
+T*
+(record and call stack concept.) Tj
+T*
+(Answer: When a function is called, the runtime environment allocates an Activation) Tj
+T*
+(Record \(Stack Frame\) on top of the program's call stack. The frame contains: \(1\) Return) Tj
+T*
+(address, \(2\) Storage for actual arguments, \(3\) Storage for local variables, \(4\) Saved) Tj
+T*
+(machine registers. In recursion, each recursive invocation pushes a NEW, independent) Tj
+T*
+(stack frame onto the call stack. These frames accumulate during the winding phase. If) Tj
+T*
+(base case is absent or incorrect, stack memory exhausts, causing fatal Stack Overflow.) Tj
+T*
+(When base case is reached, function completes and returns value; its stack frame is) Tj
+T*
+(popped off, and control transfers back to caller frame. Unwinding phase continues until) Tj
+T*
+(initial caller receives final accumulated result.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.5 Key Takeaways and Revision Points) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* C uses call-by-value by default; call-by-reference is simulated by passing pointer) Tj
+T*
+(addresses.) Tj
+T*
+(* Recursion requires a strictly reachable base case to prevent stack overflow.) Tj
+T*
+(* static variables retain their values across function calls; stored in data segment.) Tj
+T*
+(* extern enables sharing global variables across multiple compilation units.) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000171 00000 n 
+0000000241 00000 n 
+0000000316 00000 n 
+0000000428 00000 n 
+0000003760 00000 n 
+0000003872 00000 n 
+0000006561 00000 n 
+0000006674 00000 n 
+0000009214 00000 n 
+0000009328 00000 n 
+0000011735 00000 n 
+0000011849 00000 n 
+trailer
+<< /Size 15 /Root 1 0 R >>
+startxref
+14655
+%%EOF

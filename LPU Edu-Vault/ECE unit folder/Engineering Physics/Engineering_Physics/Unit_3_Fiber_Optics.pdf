@@ -1,0 +1,764 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 6 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 3330 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Physics | Unit 3: Fiber Optics & Waveguides) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 1 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(=== UNIT 3: FIBER OPTICS & STRUCTURAL PHOTONIC SENSING ===) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.1 Total Internal Reflection and Optical Waveguiding) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(An optical fiber is a cylindrical dielectric waveguide made of high-purity silica glass) Tj
+T*
+(\(SiO2\) that transmits optical signals via repeated Total Internal Reflection \(TIR\). In) Tj
+T*
+(civil engineering, optical fibers form telecommunication networks and serve as) Tj
+T*
+(distributed sensors embedded in concrete dams, bridge cables, and tunnels for Structural) Tj
+T*
+(Health Monitoring \(SHM\).) Tj
+T*
+(* Anatomy of an Optical Fiber: \(1\) Core: Central dielectric cylinder of high) Tj
+T*
+(refractive index n1. \(2\) Cladding: Surrounding coaxial dielectric sheath of slightly) Tj
+T*
+(lower refractive index n2 \(n1 > n2\). \(3\) Primary Buffer Jacket: Protective polymeric) Tj
+T*
+(acrylate coating that absorbs mechanical abrasion and moisture.) Tj
+T*
+(* Critical Angle \(theta_c\): By Snell's Law at core-cladding boundary: n1 *) Tj
+T*
+(sin\(theta_c\) = n2 * sin\(90\) => sin\(theta_c\) = n2 / n1.) Tj
+T*
+(Total internal reflection occurs only when internal ray angle of incidence phi exceeds) Tj
+T*
+(theta_c: phi > theta_c.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.2 Acceptance Angle, Numerical Aperture, and Index Contrast) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Acceptance Angle \(theta_a\): The maximum half-angle of the external acceptance cone) Tj
+T*
+(at the fiber launch face within which launched rays undergo TIR down the core:) Tj
+T*
+(Applying Snell's law at air-core entry interface: n_0 * sin\(theta_a\) = n1 * sin\(90 -) Tj
+T*
+(theta_c\) = n1 * cos\(theta_c\) = n1 * sqrt\(1 - sin^2\(theta_c\)\) = n1 * sqrt\(1 - \(n2/n1\)^2\)) Tj
+T*
+(= sqrt\(n1^2 - n2^2\).) Tj
+T*
+(Assuming launch in air \(n_0 = 1.0\): sin\(theta_a\) = sqrt\( n1^2 - n2^2 \). Acceptance) Tj
+T*
+(angle: theta_a = asin\( sqrt\( n1^2 - n2^2 \) \).) Tj
+T*
+(* Numerical Aperture \(NA\): A dimensionless figure of merit quantifying the) Tj
+T*
+(light-gathering capacity of the fiber:) Tj
+T*
+(Formula: NA = sin\(theta_a\) = sqrt\( n1^2 - n2^2 \).) Tj
+T*
+(* Fractional Refractive Index Contrast \(Delta\): Relative refractive index difference:) Tj
+T*
+(Delta = \(n1 - n2\) / n1 ~= \(n1^2 - n2^2\) / \(2 * n1^2\).) Tj
+T*
+(Approximation for weakly guiding fibers \(Delta << 1\): NA = n1 * sqrt\( 2 * Delta \).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.3 Classification of Optical Fibers) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* 1. Step-Index Single-Mode Fiber \(SMF\): Extremely narrow core diameter \(2*a ~ 8 to) Tj
+T*
+(10 micrometers\) with uniform index n1 and sudden drop to n2. Only the fundamental) Tj
+T*
+(spatial mode \(HE11\) propagates. Exhibits zero intermodal dispersion, enabling) Tj
+T*
+(ultra-long-haul telecommunications \(terabit/s over 100+ km\).) Tj
+T*
+(* 2. Step-Index Multi-Mode Fiber \(MMF\): Large core diameter \(50 to 100 micrometers\).) Tj
+T*
+(Supports hundreds of spatial modes. Susceptible to significant intermodal dispersion,) Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 3207 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Physics | Unit 3: Fiber Optics & Waveguides) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 2 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(limiting reach to local networks \(< 2 km\).) Tj
+T*
+(* 3. Graded-Index Multi-Mode Fiber \(GRIN\): Core refractive index decreases) Tj
+T*
+(continuously as a parabolic profile from center n1 to cladding boundary n2: n\(r\) = n1) Tj
+T*
+(* sqrt\( 1 - 2*Delta*\(r/a\)^alpha \). Off-axis rays travel through lower-index outer) Tj
+T*
+(regions at higher phase velocity, equalizing propagation transit times across modes) Tj
+T*
+(and dramatically reducing modal dispersion.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.4 Normalized Frequency \(V-Number\) and Mode Count) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* V-Number \(Normalized Frequency\): Dimensionless parameter determining optical) Tj
+T*
+(propagation characteristics:) Tj
+T*
+(Formula: V = \(2 * pi * a / lambda\) * NA = \(2 * pi * a / lambda\) * sqrt\( n1^2 - n2^2 \),) Tj
+T*
+(where a is core radius.) Tj
+T*
+(* Single-Mode Cutoff Condition: A step-index fiber operates strictly in single mode) Tj
+T*
+(if: V <= 2.4048 \(the first root of Bessel function J0\). Cutoff wavelength: lambda_c =) Tj
+T*
+(\(2 * pi * a * NA\) / 2.4048.) Tj
+T*
+(* Total Bound Modes in Multimode Fibers:) Tj
+T*
+(- Step-Index MMF: N_modes ~= V^2 / 2.) Tj
+T*
+(- Graded-Index MMF \(parabolic alpha = 2\): N_modes ~= V^2 / 4.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.5 Attenuation Mechanisms in Optical Fibers) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Signal loss \(attenuation\) in dB/km is defined by: alpha_dB = \(10 / L\) * log10\( P_in /) Tj
+T*
+(P_out \):) Tj
+T*
+(* 1. Material Absorption: \(a\) Intrinsic absorption from electronic band transitions) Tj
+T*
+(in UV and molecular vibrations of Si-O bonds in far-IR. \(b\) Extrinsic absorption from) Tj
+T*
+(trace transition metal ions and hydroxyl \(OH-\) radical impurity overtones \(causing) Tj
+T*
+(absorption water peaks at 950 nm, 1240 nm, and 1380 nm\).) Tj
+T*
+(* 2. Rayleigh Scattering Loss: Microscopic density and refractive index fluctuations) Tj
+T*
+(frozen into the glass during cooling. Strongly wavelength-dependent: alpha_Rayleigh) Tj
+T*
+(proportional to 1 / lambda^4. Dominates at short wavelengths, dictating the selection) Tj
+T*
+(of infrared transmission windows \(1310 nm and 1550 nm\).) Tj
+T*
+(* 3. Bending Losses: \(a\) Macrobending: Loss occurring when fiber bend radius falls) Tj
+T*
+(below critical curvature \(~few cm\), causing core rays to strike cladding at angles) Tj
+T*
+(less than critical angle theta_c. \(b\) Microbending: Microscopic axial random) Tj
+T*
+(deflections caused by irregular mechanical pressure or buffer jacket thermal) Tj
+T*
+(shrinkage.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.6 Pulse Dispersion and Bandwidth Limitations) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Dispersion: Temporal pulse spreading as optical pulses propagate along fiber) Tj
+T*
+(length, causing inter-symbol interference \(ISI\) and limiting maximum bit rate B:) Tj
+T*
+(* Intermodal Dispersion \(Modal\): Occurs only in multimode fibers because higher-order) Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 3393 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Physics | Unit 3: Fiber Optics & Waveguides) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 3 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(zigzag modes travel longer physical optical path lengths than axial modes: Delta) Tj
+T*
+(t_modal = \(L * n1 / c\) * Delta.) Tj
+T*
+(* Intramodal \(Chromatic\) Dispersion: Occurs in all fibers due to finite spectral) Tj
+T*
+(width of light source:) Tj
+T*
+(- Material Dispersion: Phase velocity varies with wavelength because refractive index) Tj
+T*
+(n\(lambda\) is wavelength-dependent.) Tj
+T*
+(- Waveguide Dispersion: Distribution of optical power between core and cladding varies) Tj
+T*
+(with wavelength.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.7 Fiber Bragg Grating \(FBG\) Sensors in Civil Engineering) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(A Fiber Bragg Grating is a periodic modulation of core refractive index formed by UV) Tj
+T*
+(interference lithography:) Tj
+T*
+(* Bragg Reflection Condition: Reflects a narrow wavelength band centered at Bragg) Tj
+T*
+(wavelength lambda_B: lambda_B = 2 * n_eff * Lambda, where Lambda is grating pitch.) Tj
+T*
+(* Sensing Principle: External axial mechanical strain \(epsilon\) and thermal changes) Tj
+T*
+(\(Delta T\) physically alter grating period Lambda and effective index n_eff: Delta) Tj
+T*
+(lambda_B / lambda_B = \(1 - p_e\) * epsilon + \(alpha_th + xi\) * Delta T.) Tj
+T*
+(* Applications: Embedding arrays of multiplexed FBGs inside prestressed concrete) Tj
+T*
+(girders, suspension bridge stay-cables, and tunnel linings to record real-time) Tj
+T*
+(internal micro-strain, temperature variations, and crack inception without) Tj
+T*
+(electromagnetic interference.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([EXAMPLE 1: Acceptance Angle and Numerical Aperture of Silica Fiber]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: A step-index silica optical fiber has a core refractive index n1 =) Tj
+T*
+(1.480 and a cladding refractive index n2 = 1.455. The fiber launch takes place in air) Tj
+T*
+(\(n_0 = 1.000\). Calculate: \(1\) Critical angle theta_c at core-cladding interface, \(2\)) Tj
+T*
+(Numerical Aperture NA, \(3\) Acceptance angle theta_a in air, \(4\) Fractional index) Tj
+T*
+(difference Delta.) Tj
+T*
+(Solution Step 1: Compute Critical Angle theta_c:) Tj
+T*
+(sin\(theta_c\) = n2 / n1 = 1.455 / 1.480 = 0.98311.) Tj
+T*
+(theta_c = asin\(0.98311\) = 79.45 deg.) Tj
+T*
+(Solution Step 2: Compute Numerical Aperture NA:) Tj
+T*
+(NA = sqrt\( n1^2 - n2^2 \) = sqrt\( \(1.480\)^2 - \(1.455\)^2 \) = sqrt\( 2.1904 - 2.117025 \) =) Tj
+T*
+(sqrt\(0.073375\) = 0.2709.) Tj
+T*
+(Solution Step 3: Compute Acceptance Angle theta_a in air:) Tj
+T*
+(sin\(theta_a\) = NA = 0.2709 => theta_a = asin\(0.2709\) = 15.72 deg.) Tj
+T*
+(Total acceptance cone angle = 2 * theta_a = 31.44 deg.) Tj
+T*
+(Solution Step 4: Compute Fractional Index Difference Delta:) Tj
+T*
+(Delta = \(n1 - n2\) / n1 = \(1.480 - 1.455\) / 1.480 = 0.025 / 1.480 = 0.01689 \(1.69%\).) Tj
+T*
+(Conclusion: theta_c = 79.45 deg; NA = 0.2709; theta_a = 15.72 deg; Delta = 1.69%.) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 3804 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Physics | Unit 3: Fiber Optics & Waveguides) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 4 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([EXAMPLE 2: Single-Mode Core Radius Design for Telecom Window]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: An optical telecom link operates at laser wavelength lambda = 1.31) Tj
+T*
+(micrometers \(1310 nm\). The core index is n1 = 1.465 and cladding index is n2 = 1.460.) Tj
+T*
+(Determine: \(1\) Maximum allowable core radius a_max for single-mode operation, \(2\) If) Tj
+T*
+(core diameter is fabricated at 2*a = 8.0 micrometers, verify single-mode propagation and) Tj
+T*
+(calculate cutoff wavelength lambda_c.) Tj
+T*
+(Solution Step 1: Compute NA:) Tj
+T*
+(NA = sqrt\( 1.465^2 - 1.460^2 \) = sqrt\( 2.146225 - 2.1316 \) = sqrt\(0.014625\) = 0.1209.) Tj
+T*
+(Solution Step 2: Single-Mode Condition \(V <= 2.4048\):) Tj
+T*
+(V = \(2 * pi * a / lambda\) * NA <= 2.4048.) Tj
+T*
+(a_max = \(2.4048 * lambda\) / \(2 * pi * NA\) = \(2.4048 * 1.31 * 10^-6\) / \(2 * pi * 0.1209\)) Tj
+T*
+(= \(3.1503 * 10^-6\) / 0.7596 = 4.147 * 10^-6 m = 4.15 micrometers.) Tj
+T*
+(Maximum core diameter = 2 * a_max = 8.30 micrometers.) Tj
+T*
+(Solution Step 3: Verify operation for 2*a = 8.0 micrometers \(a = 4.0 micrometers\):) Tj
+T*
+(V = \(2 * pi * 4.0 * 10^-6 / 1.31 * 10^-6\) * 0.1209 = \(19.185\) * 0.1209 = 2.320 < 2.4048) Tj
+T*
+(\(Single mode confirmed!\).) Tj
+T*
+(Cutoff wavelength: lambda_c = \(2 * pi * a * NA\) / 2.4048 = \(2 * pi * 4.0 * 10^-6 *) Tj
+T*
+(0.1209\) / 2.4048 = 1.264 micrometers \(1264 nm\).) Tj
+T*
+(Conclusion: Maximum core radius a_max = 4.15 micrometers; At 2*a = 8 micrometers, V =) Tj
+T*
+(2.320 and cutoff wavelength lambda_c = 1264 nm.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([EXAMPLE 3: Optical Link Attenuation and Repeater Spacing]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: A civil engineering fiber optic backbone connecting sensor telemetry) Tj
+T*
+(along a 40 km highway corridor uses single-mode fiber with attenuation coefficient alpha) Tj
+T*
+(= 0.22 dB/km at lambda = 1550 nm. The link has 8 fusion splices \(loss = 0.10 dB per) Tj
+T*
+(splice\) and two connector pairs at endpoints \(loss = 0.75 dB per connector pair\). Input) Tj
+T*
+(optical power is P_in = 5.0 mW \(+7 dBm\). Receiver sensitivity requires minimum P_min =) Tj
+T*
+(0.05 microwatts \(-43 dBm\). Determine: \(1\) Total link loss in dB, \(2\) Output power P_out,) Tj
+T*
+(\(3\) System safety margin.) Tj
+T*
+(Solution Step 1: Calculate Total Link Attenuation Loss:) Tj
+T*
+(Fiber cable loss = alpha * L = 0.22 dB/km * 40 km = 8.80 dB.) Tj
+T*
+(Splice losses = 8 * 0.10 dB = 0.80 dB.) Tj
+T*
+(Connector losses = 2 * 0.75 dB = 1.50 dB.) Tj
+T*
+(Total Link Loss alpha_total = 8.80 + 0.80 + 1.50 = 11.10 dB.) Tj
+T*
+(Solution Step 2: Compute Output Power P_out:) Tj
+T*
+(Total loss in dB = 10 * log10\( P_in / P_out \) => 11.10 = 10 * log10\( 5.0 mW / P_out \).) Tj
+T*
+(log10\( 5.0 mW / P_out \) = 1.110 => 5.0 mW / P_out = 10^\(1.110\) = 12.8825.) Tj
+T*
+(P_out = 5.0 mW / 12.8825 = 0.3881 mW = 388.1 microwatts.) Tj
+T*
+(Solution Step 3: Compute Power Margin above Receiver Sensitivity:) Tj
+T*
+(In dBm: P_out\(dBm\) = 10 * log10\(0.3881 mW / 1 mW\) = - 4.11 dBm.) Tj
+T*
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 3576 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Physics | Unit 3: Fiber Optics & Waveguides) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 5 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(Receiver sensitivity P_min = - 43.0 dBm.) Tj
+T*
+(Safety Margin = P_out\(dBm\) - P_min\(dBm\) = - 4.11 - \(- 43.0\) = 38.89 dB.) Tj
+T*
+(Conclusion: Total link loss = 11.10 dB; Received power = 388.1 microwatts; Generous) Tj
+T*
+(safety margin of 38.89 dB.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([EXAMPLE 4: Intermodal Dispersion and Maximum Transmission Bit Rate]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: An industrial step-index multimode fiber has core index n1 = 1.500,) Tj
+T*
+(length L = 3.0 km, and fractional index contrast Delta = 0.010 \(1.0%\). Calculate: \(1\)) Tj
+T*
+(Minimum and maximum transit times of light rays through the fiber, \(2\) Total intermodal) Tj
+T*
+(pulse broadening Delta t_modal, \(3\) Maximum theoretical bit rate B_max without) Tj
+T*
+(inter-symbol interference.) Tj
+T*
+(Solution Step 1: Transit Times for Axial and Highest-Order Rays:) Tj
+T*
+(Speed of light in core: v = c / n1 = \(3.0 * 10^8 m/s\) / 1.500 = 2.0 * 10^8 m/s.) Tj
+T*
+(Minimum transit time \(axial direct ray\): t_min = L / v = \(L * n1\) / c = \(3000 m * 1.50\)) Tj
+T*
+(/ \(3.0 * 10^8 m/s\) = 1.50 * 10^-5 s = 15.0 microseconds.) Tj
+T*
+(Maximum transit time \(steepest zigzag ray at critical angle theta_c\): t_max = \(L * n1^2\)) Tj
+T*
+(/ \(c * n2\) ~= t_min / \(1 - Delta\).) Tj
+T*
+(t_max = 1.50 * 10^-5 / \(1 - 0.010\) = 1.50 * 10^-5 / 0.99 = 1.51515 * 10^-5 s = 15.1515) Tj
+T*
+(microseconds.) Tj
+T*
+(Solution Step 2: Pulse Broadening Delta t_modal:) Tj
+T*
+(Delta t_modal = t_max - t_min = \(L * n1 / c\) * Delta = \(1.50 * 10^-5 s\) * 0.010 = 1.50 *) Tj
+T*
+(10^-7 s = 150 nanoseconds.) Tj
+T*
+(Solution Step 3: Maximum Bit Rate B_max:) Tj
+T*
+(To prevent pulses from overlapping, bit duration T_bit >= 2 * Delta t_modal:) Tj
+T*
+(B_max ~= 1 / \(2 * Delta t_modal\) = 1 / \(2 * 150 * 10^-9 s\) = 1 / \(3.0 * 10^-7 s\) = 3.33) Tj
+T*
+(* 10^6 bits/s = 3.33 Mbps.) Tj
+T*
+(Conclusion: Intermodal delay spread Delta t = 150 ns; Maximum data rate is limited to) Tj
+T*
+(3.33 Mbps over 3 km.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.8 University Review & Examination Questions) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Q1: Derive expressions for Numerical Aperture and Acceptance Angle of a step-index) Tj
+T*
+(optical fiber.) Tj
+T*
+(Answer: Consider a cylindrical fiber with core index n1 and cladding n2 \(n1 > n2\) in an) Tj
+T*
+(ambient medium of index n0. A ray enters the core face at angle theta_0 and refracts at) Tj
+T*
+(angle r. At the core-cladding interface, the angle of incidence is phi = 90 - r. For) Tj
+T*
+(total internal reflection to occur, phi >= theta_c, where sin\(theta_c\) = n2 / n1. At the) Tj
+T*
+(critical limit phi = theta_c, cos\(r\) = sin\(phi\) = n2 / n1. By Snell's law at entrance:) Tj
+T*
+(n0 * sin\(theta_a\) = n1 * sin\(r\) = n1 * sqrt\(1 - cos^2\(r\)\) = n1 * sqrt\(1 - \(n2/n1\)^2\) =) Tj
+T*
+(sqrt\(n1^2 - n2^2\). For air launch \(n0 = 1.0\): sin\(theta_a\) = sqrt\(n1^2 - n2^2\).) Tj
+T*
+(Numerical Aperture is defined as NA = sin\(theta_a\) = sqrt\(n1^2 - n2^2\). The acceptance) Tj
+T*
+(angle is theta_a = asin\(sqrt\(n1^2 - n2^2\)\).) Tj
+T*
+ET
+
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 16 0 R >>
+endobj
+16 0 obj
+<< /Length 1866 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Physics | Unit 3: Fiber Optics & Waveguides) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 6 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(* Q2: Explain the working principle of Fiber Bragg Grating \(FBG\) sensors and their) Tj
+T*
+(direct engineering utility in Civil Structural Health Monitoring.) Tj
+T*
+(Answer: An FBG sensor is created by exposing the germanium-doped silica core of a) Tj
+T*
+(single-mode fiber to a periodic ultraviolet laser interference pattern, inducing a) Tj
+T*
+(permanent periodic modulation of refractive index of spatial pitch Lambda. When) Tj
+T*
+(broadband light travels down the fiber, a narrow spectral peak is reflected at the Bragg) Tj
+T*
+(wavelength: lambda_B = 2 * n_eff * Lambda. When the host civil structure undergoes) Tj
+T*
+(mechanical strain or temperature fluctuations, the physical pitch Lambda stretches or) Tj
+T*
+(compresses, shifting the reflected Bragg wavelength by Delta lambda_B. In civil) Tj
+T*
+(infrastructure \(bridges, dams, wind turbine blades\), multiplexed FBG arrays are cast) Tj
+T*
+(directly into reinforced concrete to monitor strain distribution, crack opening, and) Tj
+T*
+(thermal gradients continuously over decades without electrical noise or corrosion.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.9 Key Takeaways and Revision Points) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Total internal reflection requires n1 > n2 and angle of incidence phi > theta_c.) Tj
+T*
+(* Numerical Aperture NA = sqrt\(n1^2 - n2^2\) measures light-gathering capability.) Tj
+T*
+(* Single-mode fiber cutoff requires normalized frequency V <= 2.4048.) Tj
+T*
+(* Intermodal dispersion is eliminated in single-mode fibers; FBG sensors measure) Tj
+T*
+(strain via lambda_B shift.) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000178 00000 n 
+0000000248 00000 n 
+0000000323 00000 n 
+0000000435 00000 n 
+0000003817 00000 n 
+0000003929 00000 n 
+0000007188 00000 n 
+0000007301 00000 n 
+0000010747 00000 n 
+0000010861 00000 n 
+0000014718 00000 n 
+0000014832 00000 n 
+0000018461 00000 n 
+0000018575 00000 n 
+trailer
+<< /Size 17 /Root 1 0 R >>
+startxref
+20494
+%%EOF

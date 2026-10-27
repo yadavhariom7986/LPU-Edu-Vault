@@ -1,0 +1,600 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2977 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Orientation to Computing | Unit 1: Computing Systems & Hardware Architecture) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 1 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(ORIENTATION TO COMPUTING) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(UNIT 1: FUNDAMENTALS OF COMPUTING, COMPUTER ORGANIZATION & ARCHITECTURE) Tj
+T*
+(Curriculum: Lovely Professional University | School of Computer Science & Engineering) Tj
+T*
+(Reference: Data Communications and Networking by Behrouz A. Forouzan & Computer) Tj
+T*
+(Organization by Carl Hamacher) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 1.1 Historical Evolution and Generations of Computing) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(A computer is a programmable electronic device that accepts raw data, processes it) Tj
+T*
+(according to stored instructions, and produces meaningful information:) Tj
+T*
+(* 1st Generation \(1940-1956\): Vacuum Tubes. Magnetic drums for memory; programmed in) Tj
+T*
+(raw Machine Language; massive heat dissipation \(e.g., ENIAC, UNIVAC\).) Tj
+T*
+(* 2nd Generation \(1956-1963\): Transistors. Invented at Bell Labs; smaller, faster,) Tj
+T*
+(energy-efficient; magnetic core memory; introduction of Assembly & early high-level) Tj
+T*
+(languages \(FORTRAN, COBOL\).) Tj
+T*
+(* 3rd Generation \(1964-1971\): Integrated Circuits \(ICs\). Semiconductor chips packing) Tj
+T*
+(dozens of transistors; keyboards and monitors replaced punched cards; Operating) Tj
+T*
+(Systems emerged \(IBM System/360\).) Tj
+T*
+(* 4th Generation \(1971-Present\): Very Large Scale Integration \(VLSI\) & Ultra Large) Tj
+T*
+(Scale Integration \(ULSI\). Complete CPU integrated onto a single microchip \(Intel 4004) Tj
+T*
+(in 1971\); personal computers \(PC\), laptops, smartphones.) Tj
+T*
+(* 5th Generation \(Present and Beyond\): Artificial Intelligence, quantum computing,) Tj
+T*
+(parallel processing, and neuromorphic computing architectures.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 1.2 Functional Hardware Subsystems of a Digital Computer) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Every digital computer is composed of five interconnected functional units:) Tj
+T*
+(* 1. Input Unit: Transduces human-readable or physical real-world data into binary) Tj
+T*
+(electrical signals \(Keyboards, mouse, optical scanners, sensors, ADCs\).) Tj
+T*
+(* 2. Central Processing Unit \(CPU\) - The Brain:) Tj
+T*
+(- Arithmetic Logic Unit \(ALU\): Executes arithmetic operations \(addition, subtraction,) Tj
+T*
+(multiplication\) and logical operations \(AND, OR, NOT, comparisons\).) Tj
+T*
+(- Control Unit \(CU\): The supervisor of the CPU. Fetches instructions sequentially from) Tj
+T*
+(memory, decodes opcodes, and emits precision micro-electrical timing and control) Tj
+T*
+(signals.) Tj
+T*
+(- Register Array: Ultra-high-speed internal CPU storage locations operating at processor) Tj
+T*
+(clock speed.) Tj
+T*
+(* 3. Memory Subsystem:) Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 2987 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Orientation to Computing | Unit 1: Computing Systems & Hardware Architecture) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 2 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(- Primary Memory: Directly accessible by CPU. RAM \(Random Access Memory - volatile) Tj
+T*
+(read/write\) and ROM \(Read Only Memory - non-volatile firmware/BIOS/UEFI\).) Tj
+T*
+(- Cache Memory: Static RAM \(SRAM\) operating near CPU core frequency to bridge the) Tj
+T*
+(processor-memory speed gap \(L1 Cache: fastest, private to core; L2 Cache; L3 Cache:) Tj
+T*
+(large, shared across cores\).) Tj
+T*
+(- Secondary Memory: Magnetic hard disk drives \(HDD\), Solid State Drives \(NVMe/SATA SSD\),) Tj
+T*
+(optical discs; non-volatile persistent mass storage.) Tj
+T*
+(* 4. Output Unit: Translates processed binary data back into human-perceptible form) Tj
+T*
+(\(Displays, printers, audio synthesizers, motor actuators\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 1.3 Computer Architecture Models: Von Neumann vs Harvard) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Von Neumann Architecture \(1945\):) Tj
+T*
+(- Core Paradigm: Stored-Program Concept. Both machine instructions \(code\) and program) Tj
+T*
+(data share a single unified memory space and unified system bus.) Tj
+T*
+(- The Von Neumann Bottleneck: Because code and data share the same physical bus, the CPU) Tj
+T*
+(cannot fetch an instruction and read/write operand data simultaneously. Throughput is) Tj
+T*
+(strictly bounded by memory bus throughput.) Tj
+T*
+(* Harvard Architecture:) Tj
+T*
+(- Core Paradigm: Physically separated memory banks and dedicated independent buses for) Tj
+T*
+(instructions and data.) Tj
+T*
+(- Advantage: Simultaneous instruction fetching and operand memory access, yielding) Tj
+T*
+(higher execution throughput. Widely implemented in Digital Signal Processors \(DSPs\) and) Tj
+T*
+(modern CPU L1 caches \(split L1-Instruction and L1-Data caches\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 1.4 Internal CPU Registers and Machine Instruction Cycle) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Dedicated CPU Registers:) Tj
+T*
+(- Program Counter \(PC\): Holds the memory address of the next instruction to be fetched.) Tj
+T*
+(- Memory Address Register \(MAR\): Holds the physical memory address currently being read) Tj
+T*
+(from or written to.) Tj
+T*
+(- Memory Data Register \(MDR\) / Memory Buffer Register \(MBR\): Holds the actual) Tj
+T*
+(data/instruction read from or written to memory.) Tj
+T*
+(- Instruction Register \(IR\): Holds the fetched instruction word while it is being) Tj
+T*
+(decoded by the Control Unit.) Tj
+T*
+(- Accumulator \(ACC\) & General Purpose Registers \(R0-R15\): Hold intermediate mathematical) Tj
+T*
+(operands and computation results.) Tj
+T*
+(* The 4-Phase Instruction Execution Cycle:) Tj
+T*
+(- Phase 1: Fetch \(PC -> MAR -> Address Bus -> Memory -> Data Bus -> MDR -> IR; PC) Tj
+T*
+(incremented\).) Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 3068 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Orientation to Computing | Unit 1: Computing Systems & Hardware Architecture) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 3 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(- Phase 2: Decode \(Control Unit decodes opcode in IR, determines required operands and) Tj
+T*
+(addressing modes\).) Tj
+T*
+(- Phase 3: Execute \(ALU performs specified mathematical or logical operation on) Tj
+T*
+(operands\).) Tj
+T*
+(- Phase 4: Store / Writeback \(Result stored back into destination register or written to) Tj
+T*
+(memory via MDR/MAR\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 1.5 System Bus Interconnections and Bandwidth Theory) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Data Bus: Bidirectional bus carrying raw data values between CPU, memory, and) Tj
+T*
+(peripherals. Width determines word size \(32-bit, 64-bit\).) Tj
+T*
+(* Address Bus: Unidirectional bus driven by CPU carrying physical memory addresses.) Tj
+T*
+(Width N determines maximum addressable memory capacity = 2^N bytes.) Tj
+T*
+(* Control Bus: Carrying synchronization signals \(Memory Read, Memory Write, I/O Read,) Tj
+T*
+(I/O Write, Bus Request, Bus Grant, Interrupt Request, Clock\).) Tj
+T*
+(* Bus Bandwidth Formula: Bandwidth \(Bytes/sec\) = Bus Width \(Bytes\) x Bus Frequency) Tj
+T*
+(\(Hz\) x Transfers per Clock.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROBLEM 1: Register-Level Trace of Instruction Fetch-Execute Cycle]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Statement: Trace the step-by-step register states during the execution of an) Tj
+T*
+(assembly instruction "ADD [0x0500]" \(Opcode: Add content of memory location 0x0500 to) Tj
+T*
+(Accumulator\). Initial conditions: PC = 0x0200, Accumulator \(ACC\) = 0x002A \(Decimal 42\).) Tj
+T*
+(Memory location 0x0200 holds instruction opcode 0xA10500. Memory location 0x0500 holds) Tj
+T*
+(data 0x0015 \(Decimal 21\).) Tj
+T*
+(Step-by-Step Register Transfer Language \(RTL\) Trace:) Tj
+T*
+(* 1. Fetch Cycle Step 1: MAR <- PC \(MAR loaded with address 0x0200\).) Tj
+T*
+(* 2. Fetch Cycle Step 2: Control Unit emits Memory Read. MDR <- Memory[MAR] \(MDR) Tj
+T*
+(receives 0xA10500\). PC <- PC + 1 \(PC becomes 0x0201\).) Tj
+T*
+(* 3. Fetch Cycle Step 3: IR <- MDR \(Instruction Register loaded with 0xA10500\).) Tj
+T*
+(* 4. Decode Cycle: Control Unit decodes IR: Opcode = ADD, Operand Address = 0x0500.) Tj
+T*
+(* 5. Execute Cycle Step 1 \(Operand Fetch\): MAR <- 0x0500; Control Unit emits Memory) Tj
+T*
+(Read; MDR <- Memory[0x0500] \(MDR receives 0x0015\).) Tj
+T*
+(* 6. Execute Cycle Step 2 \(ALU Operation\): ALU adds ACC \(0x002A\) + MDR \(0x0015\) =) Tj
+T*
+(0x003F \(Decimal 63\).) Tj
+T*
+(* 7. Writeback Cycle: ACC <- 0x003F. Status flags \(Zero, Sign, Overflow\) updated.) Tj
+T*
+(Cycle completes.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 3132 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Orientation to Computing | Unit 1: Computing Systems & Hardware Architecture) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 4 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROBLEM 2: Memory Address Space and Bus Bandwidth Derivation]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Statement: An engineer evaluates two microprocessor architectures: System A with) Tj
+T*
+(a 32-bit address bus and 32-bit data bus; System B with a 64-bit address bus and 64-bit) Tj
+T*
+(data bus operating with dual-channel DDR4 RAM clocked at 3200 MT/s \(MegaTransfers/sec\).) Tj
+T*
+(Calculate: \(1\) Maximum physical RAM addressable by each system, and \(2\) Peak memory) Tj
+T*
+(bandwidth of System B.) Tj
+T*
+(Mathematical Derivation:) Tj
+T*
+(* 1. Maximum Addressable RAM Capacity:) Tj
+T*
+(- System A \(32-bit address bus\): Addressable locations = 2^32 = 4,294,967,296 bytes = 4) Tj
+T*
+(GB \(Gigabytes\).) Tj
+T*
+(- System B \(64-bit address bus\): Addressable locations = 2^64 = 1.844 x 10^19 bytes = 16) Tj
+T*
+(Exabytes \(EB\).) Tj
+T*
+(* 2. Peak Memory Bandwidth Calculation for System B:) Tj
+T*
+(- Data bus width per channel = 64 bits = 8 Bytes.) Tj
+T*
+(- Dual-channel total data bus width = 2 x 8 Bytes = 16 Bytes.) Tj
+T*
+(- Transfer rate = 3200 x 10^6 transfers per second.) Tj
+T*
+(- Peak Bandwidth = 16 Bytes x 3200 x 10^6 transfers/sec = 51,200 MB/s = 51.2 GB/sec.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROBLEM 3: Multi-Level Cache Memory Performance Analysis]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Statement: A modern computing processor features a two-level cache hierarchy: L1) Tj
+T*
+(Cache with access time of 1 nanosecond \(ns\) and 92% hit rate; L2 Cache with access time) Tj
+T*
+(of 5 ns and 98% local hit rate; Main Memory \(RAM\) with access time of 50 ns. Calculate) Tj
+T*
+(the Effective Memory Access Time \(EMAT\).) Tj
+T*
+(Mathematical Derivation:) Tj
+T*
+(* 1. Given Parameters: t_L1 = 1 ns, H1 = 0.92, Miss Rate 1 \(M1\) = 1 - 0.92 = 0.08.) Tj
+T*
+(* 2. L2 Parameters: t_L2 = 5 ns, Local Hit Rate H2 = 0.98, Local Miss Rate M2 = 1 -) Tj
+T*
+(0.98 = 0.02.) Tj
+T*
+(* 3. Main Memory: t_RAM = 50 ns.) Tj
+T*
+(* 4. EMAT Formulation:) Tj
+T*
+(- EMAT = t_L1 + M1 x \(t_L2 + M2 x t_RAM\)) Tj
+T*
+(- EMAT = 1 ns + 0.08 x \(5 ns + 0.02 x 50 ns\)) Tj
+T*
+(- EMAT = 1 ns + 0.08 x \(5 ns + 1.0 ns\) = 1 ns + 0.08 x 6.0 ns = 1 ns + 0.48 ns = 1.48) Tj
+T*
+(ns.) Tj
+T*
+(* 5. Engineering Conclusion: Despite main memory requiring 50 ns, the high-speed) Tj
+T*
+(multi-level cache reduces average access delay to just 1.48 ns \(a 33.7x performance) Tj
+T*
+(speedup\).) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 1907 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Orientation to Computing | Unit 1: Computing Systems & Hardware Architecture) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 5 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROBLEM 4: Architectural Case Study: Von Neumann vs Modified Harvard]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Analyze why modern x86-64 and ARM processors are classified as Modified) Tj
+T*
+(Harvard architectures rather than pure Von Neumann systems.) Tj
+T*
+(In-Depth Architectural Analysis:) Tj
+T*
+(* 1. External Memory Level \(Von Neumann Aspect\): From the operating system and) Tj
+T*
+(programmer perspective, main memory \(DRAM\) is a single, unified flat address space) Tj
+T*
+(containing both executable binaries and user data. Both share external memory) Tj
+T*
+(channels.) Tj
+T*
+(* 2. Internal Microarchitectural Level \(Harvard Aspect\): Inside the CPU silicon die,) Tj
+T*
+(the L1 cache is strictly physically partitioned into two independent caches:) Tj
+T*
+(L1-Instruction Cache \(L1-I\) and L1-Data Cache \(L1-D\), driven by separate internal) Tj
+T*
+(buses.) Tj
+T*
+(* 3. Pipelining Benefits: The instruction fetch stage reads from L1-I simultaneously) Tj
+T*
+(while the memory load/store execution stage reads/writes to L1-D in the exact same) Tj
+T*
+(clock cycle without structural hazards or bus contention.) Tj
+T*
+(* 4. Hardware Realization: This hybrid design eliminates the Von Neumann bottleneck) Tj
+T*
+(in the high-frequency pipeline while retaining the software programming simplicity of) Tj
+T*
+(a single unified address space.) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000171 00000 n 
+0000000241 00000 n 
+0000000316 00000 n 
+0000000428 00000 n 
+0000003457 00000 n 
+0000003569 00000 n 
+0000006608 00000 n 
+0000006721 00000 n 
+0000009842 00000 n 
+0000009956 00000 n 
+0000013141 00000 n 
+0000013255 00000 n 
+trailer
+<< /Size 15 /Root 1 0 R >>
+startxref
+15215
+%%EOF

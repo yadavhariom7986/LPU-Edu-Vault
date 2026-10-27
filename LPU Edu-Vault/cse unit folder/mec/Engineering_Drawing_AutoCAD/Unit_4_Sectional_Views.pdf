@@ -1,0 +1,504 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2680 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Drawing & AutoCAD | Unit 4: Sectional Views & Hatching) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 1 of 4) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(ENGINEERING DRAWING WITH AUTOCAD) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 10.5 Tf
+(UNIT 4: SECTIONAL VIEWS) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Curriculum: Lovely Professional University | School of Computer Science & Engineering) Tj
+T*
+(Reference: Engineering Drawing with an Introduction to AutoCAD by Dhananjay Jolhe) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.1 Concept and Need for Sectional Views) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(When an engineering component contains intricate internal cavities, bores, counterbores,) Tj
+T*
+(and passageways, standard orthographic views become cluttered with confusing overlapping) Tj
+T*
+(dashed hidden lines:) Tj
+T*
+(* Sectional View: An imaginary cutting plane cuts through the component, the portion) Tj
+T*
+(between the observer and the plane is removed, revealing the interior cross-sectional) Tj
+T*
+(geometry directly with solid visible lines.) Tj
+T*
+(* Cutting Plane: Imaginary slicing plane indicated by Cutting Plane Line \(chain thin) Tj
+T*
+(line with thick ends and direction arrows showing line of sight labeled A-A\).) Tj
+T*
+(* Section Lining / Hatching: The solid material sliced by the cutting plane is) Tj
+T*
+(highlighted with thin, continuous parallel hatching lines.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.2 Standard Hatching Rules and Conventions \(BIS SP 46\)) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Angle & Spacing: Drawn at 45 degrees to the main baseline of the view \(or 30/60 deg) Tj
+T*
+(if 45 deg parallels an object edge\). Spacing uniform between 1.5 mm and 3.0 mm) Tj
+T*
+(depending on view scale.) Tj
+T*
+(* Adjacent Components in Assembly: Hatched in opposite directions \(e.g., 45 deg left) Tj
+T*
+(vs 45 deg right\) or with differing line pitches to clearly distinguish distinct) Tj
+T*
+(mating parts.) Tj
+T*
+(* Non-Sectioned Standard Elements \(Parts NOT Hatched along their axis\):) Tj
+T*
+(- Shafts, bolts, nuts, studs, screws, rivets, keys, cotters, pins.) Tj
+T*
+(- Spokes and arms of wheels, gear teeth, ball and roller bearings.) Tj
+T*
+(- Thin webs, ribs, and stiffener plates \(when cut longitudinally parallel to their) Tj
+T*
+(plane, they are left unhatched to avoid giving a false impression of solid thickness\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.3 Classification of Sectional Views) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* 1. Full Section: Cutting plane passes straight through the entire component along) Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 3230 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Drawing & AutoCAD | Unit 4: Sectional Views & Hatching) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 2 of 4) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(its centerline \(180 deg cut\). Shows complete interior.) Tj
+T*
+(* 2. Half Section: Used for symmetrical objects. Cutting plane cuts halfway through) Tj
+T*
+(\(90 deg cut\). One half is drawn in section showing interior, while the other half) Tj
+T*
+(remains as an exterior view showing outside profile. No hidden lines needed on either) Tj
+T*
+(half unless essential for dimensioning.) Tj
+T*
+(* 3. Offset Section: Cutting plane bends at 90-degree right angles to pass through) Tj
+T*
+(non-collinear features \(e.g., passing through a central hub, stepping down to pass) Tj
+T*
+(through an offset mounting hole\). The 90-degree transition offsets are NOT shown with) Tj
+T*
+(lines in the sectional view.) Tj
+T*
+(* 4. Revolved Section: Cross-section of a feature \(bar, spoke, rib\) rotated 90) Tj
+T*
+(degrees in place onto the longitudinal view.) Tj
+T*
+(* 5. Removed Section: Cross-section displaced away from the view and placed nearby) Tj
+T*
+(with clear identification callout \(e.g., Section B-B\).) Tj
+T*
+(* 6. Broken-Out / Local Section: Small partial section bounded by an irregular) Tj
+T*
+(freehand line to expose an isolated interior detail.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.4 AutoCAD Editing and Hatching Commands) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* STRETCH \(S\): Select vertices with crossing window \(green window\); moves vertices) Tj
+T*
+(while maintaining connectivity of attached geometry.) Tj
+T*
+(* EXPLODE \(X\): Breaks compound objects \(Polylines, Blocks, Dimensions, Regions\) into) Tj
+T*
+(basic independent constituent lines and arcs.) Tj
+T*
+(* OFFSET \(O\): Creates parallel concentric curves or parallel lines at a designated) Tj
+T*
+(offset distance or through point.) Tj
+T*
+(* JOIN \(J\): Merges collinear line segments, connected polyline segments, or) Tj
+T*
+(continuous spline curves into a single entity.) Tj
+T*
+(* REGION \(REG\): Converts an enclosed 2D boundary loop into a 2D planar solid surface) Tj
+T*
+(with geometric and physical properties.) Tj
+T*
+(* BREAK \(BR\): Breaks a line or arc between two selected points, creating a gap or) Tj
+T*
+(dividing into two entities.) Tj
+T*
+(* HATCH \(H\): Fills enclosed boundaries with pattern \(ANSI31 standard 45 deg lines,) Tj
+T*
+(Solid, User-defined\). Properties: Pattern, Scale, Angle, Associativity.) Tj
+T*
+(* HATCHEDIT \(HE\): Modifies pattern type, density scale, or island detection of) Tj
+T*
+(existing hatch objects.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROBLEM 1: Full Sectional Front View of a Flanged Bushing]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Statement: A stepped flanged bushing has total length 80 mm. Flange diameter 90) Tj
+T*
+(mm, thickness 15 mm. Body diameter 55 mm, length 65 mm. A central cylindrical bore of) Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 3253 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Drawing & AutoCAD | Unit 4: Sectional Views & Hatching) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 3 of 4) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(diameter 30 mm extends through its entire length. A counterbore of diameter 45 mm and) Tj
+T*
+(depth 10 mm is cut from the flange end. Draw a Full Sectional Elevation \(Section A-A\)) Tj
+T*
+(and Left Side View.) Tj
+T*
+(Step-by-Step Construction & Hatching Execution:) Tj
+T*
+(* 1. Setup Centerline: Draw horizontal chain-thin centerline.) Tj
+T*
+(* 2. Outer Profile Outline: Draw symmetric stepped profile: Flange dia 90 mm \(height) Tj
+T*
+(+45 to -45 from center\) for length 15 mm; Body dia 55 mm \(+27.5 to -27.5\) for length) Tj
+T*
+(65 mm. Total length = 80 mm.) Tj
+T*
+(* 3. Interior Bores: Bore dia 30 mm \(+15 to -15\) running through entire length.) Tj
+T*
+(Counterbore dia 45 mm \(+22.5 to -22.5\) extending 10 mm into flange.) Tj
+T*
+(* 4. Section Slicing & Hatching:) Tj
+T*
+(- Solid metal exists between dia 30 mm and dia 55 mm, and between dia 45 mm and dia 90) Tj
+T*
+(mm.) Tj
+T*
+(- Apply thin continuous hatching lines at 45 degrees across both upper and lower sliced) Tj
+T*
+(metal sections.) Tj
+T*
+(- The bore \(air cavity\) remains completely clean and unhatched.) Tj
+T*
+(* 5. Left Side View: Shows concentric circles of diameters 30 mm, 45 mm \(hidden) Tj
+T*
+(dashed circle\), 55 mm, and 90 mm.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROBLEM 2: Half Sectional Elevation of Cast Iron Belt Pulley]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Statement: A symmetrical cast iron V-belt pulley has outside rim diameter 160) Tj
+T*
+(mm, rim width 40 mm, rim thickness 12 mm. Hub diameter 50 mm, hub length 50 mm, central) Tj
+T*
+(shaft bore 25 mm with 6 mm x 3 mm keyway. A central solid web plate of thickness 14 mm) Tj
+T*
+(connects the hub and rim. Draw a Half-Sectional Front View.) Tj
+T*
+(Solution & Drafting Conventions:) Tj
+T*
+(* 1. Axis & Split: Horizontal centerline represents pulley shaft axis. Vertical) Tj
+T*
+(centerline divides left exterior view and right sectioned view \(or upper section,) Tj
+T*
+(lower exterior\).) Tj
+T*
+(* 2. Upper Half in Section: Cutting plane slices through rim, web, and hub. Hub) Tj
+T*
+(section \(between r=12.5 and r=25 mm\), web section \(thickness 14 mm\), and rim section) Tj
+T*
+(\(width 40, thickness 12\) are fully hatched at 45 degrees.) Tj
+T*
+(* 3. Lower Half as Exterior View: Shows outer face of hub \(dia 50\), outer rim profile) Tj
+T*
+(\(dia 160\), and web surface without any section lines or hidden lines.) Tj
+T*
+(* 4. Centerline Boundary: Symmetrical division marked by continuous chain-thin) Tj
+T*
+(centerline. No solid line drawn along the dividing centerline.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROBLEM 3: Offset Section of a Gearbox Cover Plate]) Tj
+T*
+/F1 9 Tf
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 2556 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Drawing & AutoCAD | Unit 4: Sectional Views & Hatching) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 4 of 4) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Statement: A gearbox cover plate \(200 mm x 120 mm x 20 mm\) has a central shaft) Tj
+T*
+(bearing hole \(dia 50 mm\) and two mounting bolt holes \(dia 14 mm\) located offset from the) Tj
+T*
+(centerline. Illustrate the path of the cutting plane and resulting Offset Section) Tj
+T*
+(A-B-C-D.) Tj
+T*
+(Engineering Solution:) Tj
+T*
+(* 1. Cutting Plane Line on Plan View: Enters left edge along line of sight, steps) Tj
+T*
+(forward by 30 mm at a 90 deg corner to pass through the first bolt hole, steps back) Tj
+T*
+(along the center axis to slice through the central bearing hole, and steps out) Tj
+T*
+(through the second bolt hole.) Tj
+T*
+(* 2. Sectional View Representation: Drawn as a continuous uninterrupted flat) Tj
+T*
+(sectional view. The right-angled step transitions are completely invisible in the) Tj
+T*
+(sectioned view.) Tj
+T*
+(* 3. Both the bolt holes and central shaft hole appear as full open cavities with) Tj
+T*
+(hatched metal around them.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROBLEM 4: AutoCAD Hatching and Region Creation Tutorial]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Create associative hatch patterns and modify hatch density for a) Tj
+T*
+(cross-sectional engine piston drawing.) Tj
+T*
+(AutoCAD Command Protocol:) Tj
+T*
+(* 1. BOUNDARY / REGION: Type REGION -> Select all boundary lines of the section cut) Tj
+T*
+(-> Press Enter. Verify command line confirms: "1 loop extracted, 1 Region created".) Tj
+T*
+(* 2. HATCH -> Type H -> Select ANSI31 \(standard 45 deg iron hatch\) -> Set Scale: 1.5) Tj
+T*
+(-> Select Pick Points inside region.) Tj
+T*
+(* 3. Verify Associativity: Move boundary vertex with STRETCH command; observe that) Tj
+T*
+(the Hatch pattern automatically dynamically updates and conforms to the new boundary.) Tj
+T*
+(* 4. HATCHEDIT: Type HE -> Select hatch -> Change Angle to 135 degrees for adjacent) Tj
+T*
+(mating sleeve; change scale to 2.0 to differentiate parts.) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 13
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000164 00000 n 
+0000000234 00000 n 
+0000000309 00000 n 
+0000000421 00000 n 
+0000003153 00000 n 
+0000003265 00000 n 
+0000006547 00000 n 
+0000006660 00000 n 
+0000009966 00000 n 
+0000010080 00000 n 
+trailer
+<< /Size 13 /Root 1 0 R >>
+startxref
+12689
+%%EOF

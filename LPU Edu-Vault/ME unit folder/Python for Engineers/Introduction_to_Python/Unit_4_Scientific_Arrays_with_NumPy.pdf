@@ -1,0 +1,590 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 3065 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Introduction to Python | Unit 4: NumPy & Vectorized Computing) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Electronics & Communication Engineering) Tj
+340 0 Td
+(Page 1 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(INTRODUCTION TO PYTHON) Tj
+T*
+(UNIT 4: SCIENTIFIC COMPUTING & NUMERICAL ARRAYS WITH NUMPY) Tj
+T*
+(Curriculum: Lovely Professional University | School of Electronics & Communication) Tj
+T*
+(Engineering) Tj
+T*
+(Reference: Python Programming: Using Problem Solving Approach by Reema Thareja & Harris) Tj
+T*
+(et al.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.1 Foundations of NumPy and the ndarray Architecture) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(NumPy \(Numerical Python\) is the foundational scientific library powering Python's) Tj
+T*
+(engineering ecosystem:) Tj
+T*
+(* Limitations of Standard Python Lists: Dynamic type pointers stored across) Tj
+T*
+(fragmented memory locations; element-by-element loops incur massive interpreter) Tj
+T*
+(dispatch overhead.) Tj
+T*
+(* The ndarray Object: Homogeneous, fixed-size multidimensional array stored in) Tj
+T*
+(contiguous C-order or Fortran-order memory blocks. Supports Vectorization \(pushing) Tj
+T*
+(execution down to pre-compiled SIMD machine instructions\).) Tj
+T*
+(* Core Attributes: arr.shape \(tuple of dimensions\), arr.ndim \(number of axes\),) Tj
+T*
+(arr.dtype \(data type, e.g. int32, float64, complex128\), arr.size \(total element) Tj
+T*
+(count\), arr.itemsize \(bytes per element\).) Tj
+T*
+(* Array Creation Functions: np.array\(list\), np.zeros\(shape\), np.ones\(shape\),) Tj
+T*
+(np.full\(shape, val\), np.eye\(N\) \(identity matrix\), np.arange\(start, stop, step\),) Tj
+T*
+(np.linspace\(start, stop, num\) \(uniform linearly spaced intervals\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.2 Array Indexing, Slicing and Boolean Masking) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Multi-Dimensional Indexing: arr[row, col] \(faster than arr[row][col] which creates) Tj
+T*
+(intermediate list objects\).) Tj
+T*
+(* Slicing: arr[row_start:row_stop, col_start:col_stop]. Slices return Views \(shallow) Tj
+T*
+(references sharing underlying memory buffer\), not copies! Modifying a slice mutates) Tj
+T*
+(the original array.) Tj
+T*
+(* Fancy Indexing: Passing arrays of integer indices to select elements in arbitrary) Tj
+T*
+(non-contiguous orders.) Tj
+T*
+(* Boolean Masking: Applying relational expressions on arrays generates a boolean) Tj
+T*
+(mask: mask = \(arr > threshold\). Indexing with mask \(arr[mask]\) extracts elements) Tj
+T*
+(satisfying criteria in a single vectorized sweep.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.3 Vectorized Mathematics and Universal Functions \(ufuncs\)) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Universal Functions: Functions operating element-wise on ndarrays: np.sin\(\),) Tj
+T*
+(np.cos\(\), np.exp\(\), np.log\(\), np.sqrt\(\), np.abs\(\).) Tj
+T*
+(* Aggregation Functions: np.sum\(arr, axis\), np.mean\(\), np.std\(\), np.var\(\), np.min\(\),) Tj
+T*
+(np.max\(\), np.argmin\(\), np.argmax\(\).) Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 2695 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Introduction to Python | Unit 4: NumPy & Vectorized Computing) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Electronics & Communication Engineering) Tj
+340 0 Td
+(Page 2 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(* Broadcasting Semantics: Automatic dimension expansion enabling element-wise) Tj
+T*
+(arithmetic between arrays of different shapes without memory copying. Rule: Two) Tj
+T*
+(dimensions are compatible if they are equal or one of them is 1.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.4 Linear Algebra Module \(numpy.linalg\)) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Matrix Multiplication: np.dot\(A, B\) or matrix operator A @ B.) Tj
+T*
+(* Core Matrix Operations: np.linalg.det\(A\) \(computes determinant\), np.linalg.inv\(A\)) Tj
+T*
+(\(matrix inversion\), np.linalg.matrix_rank\(A\), np.transpose\(A\) or A.T.) Tj
+T*
+(* Linear System Solver: np.linalg.solve\(A, B\) solves the matrix linear system A x = B) Tj
+T*
+(via LU/Cholesky decomposition.) Tj
+T*
+(* Spectral Analysis: np.linalg.eig\(A\) computes eigenvalues and eigenvectors.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 1: Vectorized Sinusoidal Signal Generation and Sampling]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Generate and analyze an analog sinusoidal signal v\(t\) = V_m *) Tj
+T*
+(sin\(2*pi*f*t + phi\) sampled at Nyquist rate using NumPy vectorization.) Tj
+T*
+(Python Source Code:) Tj
+T*
+(import numpy as np) Tj
+T*
+() Tj
+T*
+(# Signal Specifications) Tj
+T*
+(f_signal = 1000.0 # 1 kHz frequency) Tj
+T*
+(v_peak = 5.0 # 5 Volts amplitude) Tj
+T*
+(phase_deg = 30.0 # 30 degrees initial phase) Tj
+T*
+() Tj
+T*
+(# Sampling Specifications \(f_s >= 2 * f_signal\)) Tj
+T*
+(f_sampling = 20000.0 # 20 kHz sampling frequency \(20 samples per cycle\)) Tj
+T*
+(duration = 0.002 # 2 milliseconds \(2 full cycles\)) Tj
+T*
+() Tj
+T*
+(# Generate time vector using np.linspace) Tj
+T*
+(total_samples = int\(duration * f_sampling\)) Tj
+T*
+(t = np.linspace\(0, duration, total_samples, endpoint=False\)) Tj
+T*
+() Tj
+T*
+(# Vectorized Signal Synthesis \(zero explicit loops\)) Tj
+T*
+(phi_rad = np.radians\(phase_deg\)) Tj
+T*
+(v_signal = v_peak * np.sin\(2 * np.pi * f_signal * t + phi_rad\)) Tj
+T*
+() Tj
+T*
+(# Statistical Array Aggregations) Tj
+T*
+(v_max = np.max\(v_signal\)) Tj
+T*
+(v_min = np.min\(v_signal\)) Tj
+T*
+(v_rms = np.sqrt\(np.mean\(v_signal**2\)\)) Tj
+T*
+(v_avg = np.mean\(np.abs\(v_signal\)\)) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 2477 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Introduction to Python | Unit 4: NumPy & Vectorized Computing) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Electronics & Communication Engineering) Tj
+340 0 Td
+(Page 3 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(print\(f'Total Samples Generated : {total_samples}'\)) Tj
+T*
+(print\(f'Theoretical Peak : {v_peak:.2f} V | Measured Max: {v_max:.2f} V'\)) Tj
+T*
+(print\(f'Theoretical RMS \(Vp/r2\) : {v_peak / np.sqrt\(2\):.4f} V | Measured RMS:) Tj
+T*
+({v_rms:.4f} V'\)) Tj
+T*
+(print\(f'Measured Average Value : {v_avg:.4f} V'\)) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 2: Multi-Mesh Electrical Circuit Solver via np.linalg.solve]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Solve the loop currents I1, I2, I3 for a 3-loop bridge circuit using) Tj
+T*
+(matrix linear algebra: [R] * [I] = [V].) Tj
+T*
+(Python Source Code:) Tj
+T*
+(import numpy as np) Tj
+T*
+() Tj
+T*
+(# Resistance Matrix [R] in Ohms) Tj
+T*
+(R = np.array\([) Tj
+T*
+([ 12.0, -4.0, -2.0],) Tj
+T*
+([ -4.0, 16.0, -6.0],) Tj
+T*
+([ -2.0, -6.0, 14.0]) Tj
+T*
+(]\)) Tj
+T*
+() Tj
+T*
+(# Voltage Vector [V] in Volts) Tj
+T*
+(V = np.array\([24.0, 0.0, -12.0]\)) Tj
+T*
+() Tj
+T*
+(# Verify non-singular matrix \(det != 0\)) Tj
+T*
+(det_R = np.linalg.det\(R\)) Tj
+T*
+(print\(f'Determinant of R Matrix: {det_R:.2f}'\)) Tj
+T*
+() Tj
+T*
+(if abs\(det_R\) > 1e-6:) Tj
+T*
+(# Solve linear system R * I = V) Tj
+T*
+(I = np.linalg.solve\(R, V\)) Tj
+T*
+(print\('Calculated Mesh Currents:'\)) Tj
+T*
+(for i, current in enumerate\(I, start=1\):) Tj
+T*
+(print\(f' Loop Current I{i} = {current:8.4f} Amperes'\)) Tj
+T*
+() Tj
+T*
+(# Verify solution: R @ I must equal V) Tj
+T*
+(v_verify = R @ I) Tj
+T*
+(print\(f'Residual Check \(R @ I - V\): {np.max\(np.abs\(v_verify - V\)\):.2e}'\)) Tj
+T*
+(else:) Tj
+T*
+(print\('Singular matrix! Circuit has no unique solution.'\)) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 3: Digital Image Matrix Brightness & Inversion Processing]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 2746 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Introduction to Python | Unit 4: NumPy & Vectorized Computing) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Electronics & Communication Engineering) Tj
+340 0 Td
+(Page 4 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(Problem Context: Simulate grayscale digital image processing operations \(brightness) Tj
+T*
+(scaling, thresholding, negative inversion\) on a 2D NumPy array.) Tj
+T*
+(Python Source Code:) Tj
+T*
+(import numpy as np) Tj
+T*
+() Tj
+T*
+(# Synthetic 4x4 grayscale image patch \(values 0-255 uint8\)) Tj
+T*
+(np.random.seed\(42\)) Tj
+T*
+(img = np.random.randint\(50, 200, size=\(4, 4\), dtype=np.uint8\)) Tj
+T*
+(print\('Original Image Matrix:\\n', img\)) Tj
+T*
+() Tj
+T*
+(# 1. Negative Image Inversion: I_inv = 255 - I) Tj
+T*
+(img_inverted = 255 - img) Tj
+T*
+(print\('\\nInverted \(Negative\) Matrix:\\n', img_inverted\)) Tj
+T*
+() Tj
+T*
+(# 2. Brightness Adjustment \(Vectorized clipping to prevent overflow\)) Tj
+T*
+(brightness_boost = 40) Tj
+T*
+(img_bright = np.clip\(img.astype\(np.int16\) + brightness_boost, 0, 255\).astype\(np.uint8\)) Tj
+T*
+(print\('\\nBrightness Boosted \(+40\):\\n', img_bright\)) Tj
+T*
+() Tj
+T*
+(# 3. Binary Thresholding \(Binarization at threshold = 128\)) Tj
+T*
+(binary_mask = \(img >= 128\).astype\(np.uint8\) * 255) Tj
+T*
+(print\('\\nBinarized Black/White Matrix:\\n', binary_mask\)) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 4: Statistical Outlier Rejection via Boolean Masking]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Clean experimental RF signal power measurements by automatically) Tj
+T*
+(identifying and rejecting statistical outliers beyond 2 standard deviations.) Tj
+T*
+(Python Source Code:) Tj
+T*
+(import numpy as np) Tj
+T*
+() Tj
+T*
+(# Experimental telemetry with spurious transient noise spikes) Tj
+T*
+(telemetry = np.array\([45.2, 44.8, 45.0, 98.6, 44.9, 45.3, -12.4, 45.1, 44.7, 45.5]\)) Tj
+T*
+() Tj
+T*
+(mean_raw = np.mean\(telemetry\)) Tj
+T*
+(std_raw = np.std\(telemetry\)) Tj
+T*
+() Tj
+T*
+(# Vectorized Boolean Mask: keep samples within [mean - 2*std, mean + 2*std]) Tj
+T*
+(mask = \(telemetry >= mean_raw - 2 * std_raw\) & \(telemetry <= mean_raw + 2 * std_raw\)) Tj
+T*
+(clean_telemetry = telemetry[mask]) Tj
+T*
+(rejected_outliers = telemetry[~mask]) Tj
+T*
+() Tj
+T*
+(print\(f'Raw Dataset Size : {len\(telemetry\)} | Raw Mean: {mean_raw:.2f}'\)) Tj
+T*
+(print\(f'Rejected Outliers: {rejected_outliers}'\)) Tj
+T*
+(print\(f'Clean Dataset : {clean_telemetry}'\)) Tj
+T*
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 432 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Introduction to Python | Unit 4: NumPy & Vectorized Computing) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Electronics & Communication Engineering) Tj
+340 0 Td
+(Page 5 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(print\(f'Calibrated Mean : {np.mean\(clean_telemetry\):.4f} +/-) Tj
+T*
+({np.std\(clean_telemetry\):.4f}'\)) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000171 00000 n 
+0000000241 00000 n 
+0000000316 00000 n 
+0000000428 00000 n 
+0000003545 00000 n 
+0000003657 00000 n 
+0000006404 00000 n 
+0000006517 00000 n 
+0000009047 00000 n 
+0000009161 00000 n 
+0000011960 00000 n 
+0000012074 00000 n 
+trailer
+<< /Size 15 /Root 1 0 R >>
+startxref
+12558
+%%EOF

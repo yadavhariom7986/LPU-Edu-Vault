@@ -1,0 +1,10347 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R 35 0 R 37 0 R 39 0 R 41 0 R 43 0 R 45 0 R 47 0 R 49 0 R 51 0 R 53 0 R 55 0 R 57 0 R 59 0 R] /Count 29 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 4 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 8461 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 1: ELECTROMAGNETIC THEORY & MAXWELL'S EQUATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 1 of 29) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(1.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What mathematical operator represents the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(spatial rate of increase of a scalar field?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(Divergence \(div\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(Gradient \(grad\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(Curl) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(Laplacian) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(2.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(The divergence of a vector field Del dot F) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(physically represents:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(Vorticity around a point) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(Maximum directional slope) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(Vector cross product) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(Net outward flux per unit volume) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(3.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(A vector field whose divergence is zero) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(everywhere is termed:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.5001 Td
+(Solenoidal field) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.9001 Td
+(Irrotational field) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.3002 Td
+(Conservative field) Tj
+ET
+BT
+/F2 7.4 Tf
+58 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 587.7002 Td
+(Laminar field) Tj
+ET
+BT
+/F2 8.0 Tf
+42 564.1002 Td
+(4.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(A vector field whose curl is identically zero) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(everywhere is known as:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 543.2002 Td
+(Solenoidal field) Tj
+ET
+BT
+/F2 7.4 Tf
+58 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 533.6002 Td
+(Rotational field) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.0002 Td
+(Irrotational field) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.4003 Td
+(Divergent field) Tj
+ET
+BT
+/F2 8.0 Tf
+42 490.8003 Td
+(5.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 490.8003 Td
+(Which theorem relates a volume integral of) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6003 Td
+(divergence to a closed surface integral?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 469.9002 Td
+(Gauss's Divergence Theorem) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.3002 Td
+(Stokes's Theorem) Tj
+ET
+BT
+/F2 7.4 Tf
+58 450.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 450.7002 Td
+(Green's Theorem) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.1002 Td
+(Ampere's Circuital Law) Tj
+ET
+BT
+/F2 8.0 Tf
+42 417.5002 Td
+(6.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 417.5002 Td
+(Stokes's theorem transforms a surface integral) Tj
+ET
+BT
+/F1 7.8 Tf
+58 408.3002 Td
+(of curl into a:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 396.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 396.6002 Td
+(Volume integral of flux) Tj
+ET
+BT
+/F2 7.4 Tf
+58 387.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 387.0002 Td
+(Surface integral of gradient) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.4002 Td
+(Closed line integral \(circulation\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 367.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 367.8002 Td
+(Point potential function) Tj
+ET
+BT
+/F2 8.0 Tf
+42 344.2002 Td
+(7.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 344.2002 Td
+(The continuity equation in electrodynamics is a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.0002 Td
+(direct expression of:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 323.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 323.3001 Td
+(Conservation of momentum) Tj
+ET
+BT
+/F2 7.4 Tf
+58 313.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 313.7001 Td
+(Conservation of electric charge) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.1001 Td
+(Conservation of energy) Tj
+ET
+BT
+/F2 7.4 Tf
+58 294.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 294.5001 Td
+(Faraday's induction law) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(8.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(The differential form of the continuity equation) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(relates Del dot J to:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(+ d\(rho\) / dt) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(- Del^2\(rho\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(- d\(rho\) / dt) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(9.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(In steady DC circuits where charge density rho) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(does not change with time, Del dot J equals:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(mu_0 * J) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(epsilon_0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(Zero) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(Infinity) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(10.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(Why was Ampere's original circuital law) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(inconsistent for time-varying fields?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.5001 Td
+(Divergence of curl is zero, but div J is not) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.9001 Td
+(zero) Tj
+ET
+BT
+/F2 7.4 Tf
+322 598.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 598.3002 Td
+(It violated Coulomb's law) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.7002 Td
+(Magnetic fields have sources) Tj
+ET
+BT
+/F2 7.4 Tf
+322 579.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 579.1002 Td
+(Electric fields cannot curl) Tj
+ET
+BT
+/F2 8.0 Tf
+306 555.5002 Td
+(11.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 555.5002 Td
+(Who introduced the displacement current to) Tj
+ET
+BT
+/F1 7.8 Tf
+322 546.3002 Td
+(resolve Ampere's circuital inconsistency?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 534.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 534.6002 Td
+(Heinrich Hertz) Tj
+ET
+BT
+/F2 7.4 Tf
+322 525.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 525.0002 Td
+(Michael Faraday) Tj
+ET
+BT
+/F2 7.4 Tf
+322 515.4003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 515.4003 Td
+(Carl Friedrich Gauss) Tj
+ET
+BT
+/F2 7.4 Tf
+322 505.8003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 505.8003 Td
+(James Clerk Maxwell) Tj
+ET
+BT
+/F2 8.0 Tf
+306 482.2003 Td
+(12.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 482.2003 Td
+(Displacement current density J_d is) Tj
+ET
+BT
+/F1 7.8 Tf
+322 473.0002 Td
+(mathematically defined as:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 461.3002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 461.3002 Td
+(dE / dt) Tj
+ET
+BT
+/F2 7.4 Tf
+322 451.7002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 451.7002 Td
+(dD / dt) Tj
+ET
+BT
+/F2 7.4 Tf
+322 442.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 442.1002 Td
+(dB / dt) Tj
+ET
+BT
+/F2 7.4 Tf
+322 432.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 432.5002 Td
+(mu_0 * dH / dt) Tj
+ET
+BT
+/F2 8.0 Tf
+306 408.9002 Td
+(13.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 408.9002 Td
+(In free space, displacement current density J_d) Tj
+ET
+BT
+/F1 7.8 Tf
+322 399.7002 Td
+(equals:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 388.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 388.0002 Td
+(mu_0 * \(dH / dt\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 378.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 378.4002 Td
+(epsilon_0 * \(dE / dt\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 368.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 368.8002 Td
+(sigma * E) Tj
+ET
+BT
+/F2 7.4 Tf
+322 359.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 359.2002 Td
+(Del x B) Tj
+ET
+BT
+/F2 8.0 Tf
+306 335.6002 Td
+(14.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 335.6002 Td
+(Unlike conduction current, displacement current) Tj
+ET
+BT
+/F1 7.8 Tf
+322 326.4001 Td
+(produces a magnetic field without:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 314.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 314.7001 Td
+(Physical drift of charged particles) Tj
+ET
+BT
+/F2 7.4 Tf
+322 305.1001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 305.1001 Td
+(Time-varying electric fields) Tj
+ET
+BT
+/F2 7.4 Tf
+322 295.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 295.5001 Td
+(Permittivity of medium) Tj
+ET
+BT
+/F2 7.4 Tf
+322 285.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 285.9001 Td
+(Any associated energy flow) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 6 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+6 0 obj
+<< /Length 8425 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 1: ELECTROMAGNETIC THEORY & MAXWELL'S EQUATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 2 of 29) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(15.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Maxwell's first equation \(Gauss's Law for) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(electrostatics\) in differential form is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(Del x E = - dB / dt) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(Del dot B = 0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(Del dot D = rho_free) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(Del x H = J) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(16.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(Maxwell's second equation Del dot B = 0) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(physically signifies:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(Magnetic fields are conservative) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(Electric charge is quantized) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(Displacement current is zero) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(Absence of isolated magnetic monopoles) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(17.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(Maxwell's third equation \(Faraday's Law\) in) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(differential form is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.5001 Td
+(Del x E = 0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.9001 Td
+(Del dot E = rho / epsilon) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.3002 Td
+(Del x B = mu * J) Tj
+ET
+BT
+/F2 7.4 Tf
+58 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 587.7002 Td
+(Del x E = - dB / dt) Tj
+ET
+BT
+/F2 8.0 Tf
+42 564.1002 Td
+(18.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(Maxwell's fourth equation \(Ampere-Maxwell Law\)) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(in differential form is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 543.2002 Td
+(Del x H = J_free) Tj
+ET
+BT
+/F2 7.4 Tf
+58 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 533.6002 Td
+(Del dot H = 0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.0002 Td
+(Del x H = J_free + dD / dt) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.4003 Td
+(Del x E = - dD / dt) Tj
+ET
+BT
+/F2 8.0 Tf
+42 490.8003 Td
+(19.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 490.8003 Td
+(The SI unit of electric displacement vector D) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6003 Td
+(is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 469.9002 Td
+(Coulombs per square meter \(C/m^2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.3002 Td
+(Volts per meter \(V/m\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 450.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 450.7002 Td
+(Amperes per meter \(A/m\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.1002 Td
+(Webers per square meter \(Wb/m^2\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 417.5002 Td
+(20.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 417.5002 Td
+(The SI unit of magnetic field intensity H is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 405.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 405.8002 Td
+(Tesla \(T\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 396.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 396.2002 Td
+(Amperes per meter \(A/m\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 386.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 386.6002 Td
+(Webers \(Wb\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.0002 Td
+(Henries per meter \(H/m\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 353.4002 Td
+(21.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 353.4002 Td
+(The relation connecting electric displacement D) Tj
+ET
+BT
+/F1 7.8 Tf
+58 344.2002 Td
+(and electric field E in linear media is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 332.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 332.5002 Td
+(D = E / epsilon) Tj
+ET
+BT
+/F2 7.4 Tf
+58 322.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 322.9001 Td
+(D = epsilon * E) Tj
+ET
+BT
+/F2 7.4 Tf
+58 313.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 313.3001 Td
+(D = mu * E) Tj
+ET
+BT
+/F2 7.4 Tf
+58 303.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 303.7001 Td
+(D = sigma * E) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(22.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(The relation connecting magnetic flux density B) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(and magnetic field H is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(B = H / mu) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(B = epsilon * H) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(B = Del x H) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(B = mu * H) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(23.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(In a charge-free, non-conducting dielectric) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(medium \(rho=0, J=0\), Del dot E equals:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(Zero) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(rho / epsilon_0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(dD / dt) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(Infinity) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(24.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(The wave equation for electric field E in a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(vacuum is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.5001 Td
+(Del\(E\) = 0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.9001 Td
+(Del^2\(E\) = - dE / dt) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.3002 Td
+(Del^2\(E\) = mu_0 * epsilon_0 * \(d^2E / dt^2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 587.7002 Td
+(Del x E = mu_0 * epsilon_0 * E) Tj
+ET
+BT
+/F2 8.0 Tf
+306 564.1002 Td
+(25.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.1002 Td
+(The speed of electromagnetic waves in a vacuum) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(is given by:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 543.2002 Td
+(c = 1 / sqrt\(mu_0 * epsilon_0\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 533.6002 Td
+(c = sqrt\(mu_0 / epsilon_0\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.0002 Td
+(c = mu_0 * epsilon_0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.4003 Td
+(c = sqrt\(mu_0 * epsilon_0\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 490.8003 Td
+(26.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 490.8003 Td
+(The numerical value of the speed of light c in) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6003 Td
+(vacuum is approximately:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 469.9002 Td
+(3.0 x 10^6 m/s) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.3002 Td
+(1.5 x 10^8 m/s) Tj
+ET
+BT
+/F2 7.4 Tf
+322 450.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 450.7002 Td
+(3.0 x 10^8 m/s) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.1002 Td
+(3.0 x 10^10 m/s) Tj
+ET
+BT
+/F2 8.0 Tf
+306 417.5002 Td
+(27.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 417.5002 Td
+(Electromagnetic waves are fundamentally) Tj
+ET
+BT
+/F1 7.8 Tf
+322 408.3002 Td
+(classified as:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 396.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 396.6002 Td
+(Longitudinal waves) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.0002 Td
+(Transverse waves) Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.4002 Td
+(Torsional waves) Tj
+ET
+BT
+/F2 7.4 Tf
+322 367.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 367.8002 Td
+(Mechanical pressure waves) Tj
+ET
+BT
+/F2 8.0 Tf
+306 344.2002 Td
+(28.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 344.2002 Td
+(In a plane EM wave propagating in free space) Tj
+ET
+BT
+/F1 7.8 Tf
+322 335.0002 Td
+(along the +z axis, E and H are:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 323.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 323.3001 Td
+(Parallel to each other) Tj
+ET
+BT
+/F2 7.4 Tf
+322 313.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 313.7001 Td
+(Along the z axis) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.1001 Td
+(Opposite to each other) Tj
+ET
+BT
+/F2 7.4 Tf
+322 294.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 294.5001 Td
+(Perpendicular to each other and to the z) Tj
+ET
+BT
+/F1 7.4 Tf
+336 285.9001 Td
+(axis) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 8 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+8 0 obj
+<< /Length 8416 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 1: ELECTROMAGNETIC THEORY & MAXWELL'S EQUATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 3 of 29) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(29.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(The ratio of electric field magnitude E to) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(magnetic field magnitude H in free space is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(Permittivity \(epsilon_0\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(Permeability \(mu_0\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(Intrinsic impedance \(eta_0\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(Refractive index \(n\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(30.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(The value of intrinsic impedance of free space) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(eta_0 is approximately:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(377 Ohms) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(120 Ohms) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(50 Ohms) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(600 Ohms) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(31.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(The Poynting vector S represents the directional) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(rate of:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.5001 Td
+(Electric charge flow per unit time) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.9001 Td
+(Magnetic flux linkage per turn) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.3002 Td
+(Mechanical force per unit volume) Tj
+ET
+BT
+/F2 7.4 Tf
+58 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 587.7002 Td
+(Electromagnetic energy flow per unit area) Tj
+ET
+BT
+/F2 8.0 Tf
+42 564.1002 Td
+(32.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(The mathematical expression for the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(instantaneous Poynting vector S is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 543.2002 Td
+(S = E dot H) Tj
+ET
+BT
+/F2 7.4 Tf
+58 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 533.6002 Td
+(S = E x H) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.0002 Td
+(S = B x H) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.4003 Td
+(S = E x D) Tj
+ET
+BT
+/F2 8.0 Tf
+42 490.8003 Td
+(33.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 490.8003 Td
+(The SI unit of the Poynting vector S is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 479.1003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 479.1003 Td
+(Joules per cubic meter \(J/m^3\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 469.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 469.5002 Td
+(Watts per square meter \(W/m^2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 459.9002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 459.9002 Td
+(Volts per meter \(V/m\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 450.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 450.3002 Td
+(Newtons per Coulomb \(N/C\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 426.7002 Td
+(34.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 426.7002 Td
+(The time-average Poynting vector S_avg for a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 417.5002 Td
+(sinusoidal plane wave in free space is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 405.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 405.8002 Td
+(0.5 * \(E_0^2 / eta_0\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 396.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 396.2002 Td
+(E_0^2 * eta_0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 386.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 386.6002 Td
+(E_0 * H_0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.0002 Td
+(2 * E_0^2 / eta_0) Tj
+ET
+BT
+/F2 8.0 Tf
+42 353.4002 Td
+(35.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 353.4002 Td
+(Electromagnetic energy density stored in an) Tj
+ET
+BT
+/F1 7.8 Tf
+58 344.2002 Td
+(electrostatic field E is given by:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 332.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 332.5002 Td
+(epsilon * E) Tj
+ET
+BT
+/F2 7.4 Tf
+58 322.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 322.9001 Td
+(0.5 * epsilon^2 * E) Tj
+ET
+BT
+/F2 7.4 Tf
+58 313.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 313.3001 Td
+(0.5 * epsilon * E^2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 303.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 303.7001 Td
+(2 * epsilon * E^2) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(36.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Electromagnetic energy density stored in a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(magnetostatic field B is given by:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(mu * B^2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(0.5 * mu * B^2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(B^2 / \(2 * mu^2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(0.5 * B^2 / mu) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(37.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(In a plane EM wave in vacuum, the average) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(electric energy density is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(Twice the magnetic energy density) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(Half the magnetic energy density) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(Zero) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(Equal to the average magnetic energy density) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(38.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(The depth in a conducting medium where wave) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(amplitude drops to 1/e of its surface value is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.5001 Td
+(Coherence length) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.9001 Td
+(Extinction depth) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.3002 Td
+(Skin depth \(delta\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 587.7002 Td
+(Debye length) Tj
+ET
+BT
+/F2 8.0 Tf
+306 564.1002 Td
+(39.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.1002 Td
+(In a good conductor, skin depth delta varies) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(with frequency f as:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 543.2002 Td
+(1 / sqrt\(f\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 533.6002 Td
+(sqrt\(f\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.0002 Td
+(1 / f) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.4003 Td
+(f^2) Tj
+ET
+BT
+/F2 8.0 Tf
+306 490.8003 Td
+(40.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 490.8003 Td
+(Ground Penetrating Radar \(GPR\) used in civil) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6003 Td
+(structural inspections relies on:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 469.9002 Td
+(Nuclear acoustic resonance) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.3002 Td
+(Reflection of EM pulses at dielectric) Tj
+ET
+BT
+/F1 7.4 Tf
+336 451.7002 Td
+(interfaces) Tj
+ET
+BT
+/F2 7.4 Tf
+322 442.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 442.1002 Td
+(Piezoelectric ultrasound radiation) Tj
+ET
+BT
+/F2 7.4 Tf
+322 432.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 432.5002 Td
+(Static magnetic induction) Tj
+ET
+BT
+/F2 8.0 Tf
+306 408.9002 Td
+(41.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 408.9002 Td
+(If a scalar potential is V = x^2 + 2y^2 + 3z^2,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 399.7002 Td
+(what is the electric field E at \(1, 1, 1\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 388.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 388.0002 Td
+(+2i + 4j + 6k) Tj
+ET
+BT
+/F2 7.4 Tf
+322 378.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 378.4002 Td
+(-2i - 4j - 6k) Tj
+ET
+BT
+/F2 7.4 Tf
+322 368.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 368.8002 Td
+(-i - 2j - 3k) Tj
+ET
+BT
+/F2 7.4 Tf
+322 359.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 359.2002 Td
+(0) Tj
+ET
+BT
+/F2 8.0 Tf
+306 335.6002 Td
+(42.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 335.6002 Td
+(For a vector field F = x^2 i + y^2 j + z^2 k,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 326.4001 Td
+(what is the divergence Del dot F at \(2, 3, 4\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 314.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 314.7001 Td
+(9) Tj
+ET
+BT
+/F2 7.4 Tf
+322 305.1001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 305.1001 Td
+(24) Tj
+ET
+BT
+/F2 7.4 Tf
+322 295.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 295.5001 Td
+(12) Tj
+ET
+BT
+/F2 7.4 Tf
+322 285.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 285.9001 Td
+(18) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 10 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+10 0 obj
+<< /Length 8462 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 1: ELECTROMAGNETIC THEORY & MAXWELL'S EQUATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 4 of 29) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(43.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(For a field F = \(2xy\) i + \(x^2 + 2yz\) j + \(y^2\)) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(k, the curl Del x F is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(0 \(conservative field\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(2x i + 2y j) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(4xy k) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(-2z i) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(44.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(A parallel plate capacitor with circular plates) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(of radius 0.1 m has dE/dt = 10^12 V/\(m*s\). The) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.3 Td
+(displacement current is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.6 Td
+(0.028 A) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.0001 Td
+(2.78 A) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.4001 Td
+(0.278 A) Tj
+ET
+BT
+/F2 7.4 Tf
+58 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 651.8001 Td
+(27.8 A) Tj
+ET
+BT
+/F2 8.0 Tf
+42 628.2001 Td
+(45.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(A charging capacitor has conduction current i_c) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.0001 Td
+(= 1.5 A entering the plates. The total) Tj
+ET
+BT
+/F1 7.8 Tf
+58 609.8001 Td
+(displacement current between plates is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 598.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 598.1001 Td
+(1.5 A) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.5001 Td
+(0 A) Tj
+ET
+BT
+/F2 7.4 Tf
+58 578.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 578.9001 Td
+(0.75 A) Tj
+ET
+BT
+/F2 7.4 Tf
+58 569.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 569.3002 Td
+(3.0 A) Tj
+ET
+BT
+/F2 8.0 Tf
+42 545.7002 Td
+(46.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 545.7002 Td
+(In a non-magnetic lossless medium with relative) Tj
+ET
+BT
+/F1 7.8 Tf
+58 536.5002 Td
+(permittivity epsilon_r = 4, the phase velocity) Tj
+ET
+BT
+/F1 7.8 Tf
+58 527.3002 Td
+(of EM waves is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 515.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 515.6002 Td
+(3.0 x 10^8 m/s) Tj
+ET
+BT
+/F2 7.4 Tf
+58 506.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 506.0002 Td
+(0.75 x 10^8 m/s) Tj
+ET
+BT
+/F2 7.4 Tf
+58 496.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 496.4001 Td
+(1.5 x 10^8 m/s) Tj
+ET
+BT
+/F2 7.4 Tf
+58 486.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 486.8001 Td
+(6.0 x 10^8 m/s) Tj
+ET
+BT
+/F2 8.0 Tf
+42 463.2001 Td
+(47.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 463.2001 Td
+(The refractive index n of a non-magnetic medium) Tj
+ET
+BT
+/F1 7.8 Tf
+58 454.0001 Td
+(with relative permittivity epsilon_r = 9 is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 442.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 442.3001 Td
+(9.0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 432.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 432.7001 Td
+(3.0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 423.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 423.1001 Td
+(4.5) Tj
+ET
+BT
+/F2 7.4 Tf
+58 413.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 413.5001 Td
+(1.73) Tj
+ET
+BT
+/F2 8.0 Tf
+42 389.9001 Td
+(48.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 389.9001 Td
+(The intrinsic impedance of a non-magnetic medium) Tj
+ET
+BT
+/F1 7.8 Tf
+58 380.7001 Td
+(with epsilon_r = 4 is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 369.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 369.0001 Td
+(377 Ohms) Tj
+ET
+BT
+/F2 7.4 Tf
+58 359.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 359.4001 Td
+(754 Ohms) Tj
+ET
+BT
+/F2 7.4 Tf
+58 349.8 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 349.8 Td
+(94.2 Ohms) Tj
+ET
+BT
+/F2 7.4 Tf
+58 340.2 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 340.2 Td
+(188.5 Ohms) Tj
+ET
+BT
+/F2 8.0 Tf
+42 316.6 Td
+(49.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 316.6 Td
+(A plane EM wave in free space has electric field) Tj
+ET
+BT
+/F1 7.8 Tf
+58 307.4 Td
+(amplitude E_0 = 100 V/m. The magnetic field) Tj
+ET
+BT
+/F1 7.8 Tf
+58 298.2 Td
+(amplitude H_0 is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 286.5 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 286.5 Td
+(26.5 A/m) Tj
+ET
+BT
+/F2 7.4 Tf
+58 276.9 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 276.9 Td
+(37.7 A/m) Tj
+ET
+BT
+/F2 7.4 Tf
+58 267.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 267.3 Td
+(0.265 A/m) Tj
+ET
+BT
+/F2 7.4 Tf
+58 257.7 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 257.7 Td
+(0.0265 A/m) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(50.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(For the EM wave in Q49, the amplitude of) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(magnetic flux density B_0 is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(3.33 x 10^-7 T) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(1.0 x 10^-4 T) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(3.0 x 10^10 T) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(8.85 x 10^-12 T) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(51.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(A plane wave has peak electric field E_0 = 60) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(V/m in free space. The time-average Poynting) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(vector magnitude is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.6 Td
+(9.55 W/m^2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.0001 Td
+(2.38 W/m^2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.4001 Td
+(19.1 W/m^2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 651.8001 Td
+(4.77 W/m^2) Tj
+ET
+BT
+/F2 8.0 Tf
+306 628.2001 Td
+(52.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(Total electromagnetic energy density for a wave) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(with E_rms = 50 V/m in air is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.3001 Td
+(4.42 x 10^-8 J/m^3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.7001 Td
+(2.21 x 10^-8 J/m^3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.1002 Td
+(1.10 x 10^-8 J/m^3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 578.5002 Td
+(8.85 x 10^-8 J/m^3) Tj
+ET
+BT
+/F2 8.0 Tf
+306 554.9002 Td
+(53.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(For copper with conductivity sigma = 5.8 x 10^7) Tj
+ET
+BT
+/F1 7.8 Tf
+322 545.7002 Td
+(S/m and mu_r = 1, the skin depth at 50 Hz is) Tj
+ET
+BT
+/F1 7.8 Tf
+322 536.5002 Td
+(approximately:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.8002 Td
+(0.66 mm) Tj
+ET
+BT
+/F2 7.4 Tf
+322 515.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 515.2002 Td
+(9.35 mm) Tj
+ET
+BT
+/F2 7.4 Tf
+322 505.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 505.6002 Td
+(1.25 mm) Tj
+ET
+BT
+/F2 7.4 Tf
+322 496.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 496.0002 Td
+(66.0 mm) Tj
+ET
+BT
+/F2 8.0 Tf
+306 472.4002 Td
+(54.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 472.4002 Td
+(For copper at high frequency f = 1 GHz, the skin) Tj
+ET
+BT
+/F1 7.8 Tf
+322 463.2002 Td
+(depth delta reduces to approximately:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 451.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 451.5002 Td
+(2.09 micrometers) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.9001 Td
+(20.9 micrometers) Tj
+ET
+BT
+/F2 7.4 Tf
+322 432.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 432.3001 Td
+(0.21 micrometers) Tj
+ET
+BT
+/F2 7.4 Tf
+322 422.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 422.7001 Td
+(2.09 mm) Tj
+ET
+BT
+/F2 8.0 Tf
+306 399.1001 Td
+(55.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 399.1001 Td
+(In moist concrete \(sigma = 0.05 S/m, epsilon_r =) Tj
+ET
+BT
+/F1 7.8 Tf
+322 389.9001 Td
+(9\), the loss tangent tan\(delta\) at 100 MHz is) Tj
+ET
+BT
+/F1 7.8 Tf
+322 380.7001 Td
+(approximately:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 369.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 369.0001 Td
+(0.10) Tj
+ET
+BT
+/F2 7.4 Tf
+322 359.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 359.4001 Td
+(10.0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 349.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 349.8001 Td
+(1.00) Tj
+ET
+BT
+/F2 7.4 Tf
+322 340.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 340.2001 Td
+(0.01) Tj
+ET
+BT
+/F2 8.0 Tf
+306 316.6001 Td
+(56.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 316.6001 Td
+(The continuity equation applied to a steady) Tj
+ET
+BT
+/F1 7.8 Tf
+322 307.4001 Td
+(current state \(d\(rho\)/dt = 0\) reduces to:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 295.7 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 295.7 Td
+(Del x J = 0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 286.1 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 286.1 Td
+(Del^2 J = 0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 276.5 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 276.5 Td
+(J = constant) Tj
+ET
+BT
+/F2 7.4 Tf
+322 266.9 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 266.9 Td
+(Del dot J = 0) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 12 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+12 0 obj
+<< /Length 8479 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 1: ELECTROMAGNETIC THEORY & MAXWELL'S EQUATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 5 of 29) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(57.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(If the magnetic field of an EM wave is H =) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(0.2*cos\(omega*t - beta*z\) i A/m, the electric) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(field E is directed along:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(+j direction) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.3 Td
+(+k direction) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.7 Td
+(-i direction) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.1 Td
+(-j direction) Tj
+ET
+BT
+/F2 8.0 Tf
+42 701.5001 Td
+(58.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(What is the phase constant beta of a 100 MHz EM) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.3 Td
+(wave propagating in free space?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.6 Td
+(1.05 rad/m) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.0001 Td
+(3.14 rad/m) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.4001 Td
+(2.09 rad/m) Tj
+ET
+BT
+/F2 7.4 Tf
+58 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 651.8001 Td
+(6.28 rad/m) Tj
+ET
+BT
+/F2 8.0 Tf
+42 628.2001 Td
+(59.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(What is the wavelength lambda of a 1.5 GHz GPR) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.0001 Td
+(radar signal in air?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 607.3001 Td
+(0.20 m) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.7001 Td
+(0.10 m) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.1002 Td
+(0.50 m) Tj
+ET
+BT
+/F2 7.4 Tf
+58 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 578.5002 Td
+(1.50 m) Tj
+ET
+BT
+/F2 8.0 Tf
+42 554.9002 Td
+(60.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(When the 1.5 GHz GPR signal enters concrete with) Tj
+ET
+BT
+/F1 7.8 Tf
+58 545.7002 Td
+(relative permittivity epsilon_r = 6.25, its) Tj
+ET
+BT
+/F1 7.8 Tf
+58 536.5002 Td
+(wavelength becomes:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.8002 Td
+(0.20 m) Tj
+ET
+BT
+/F2 7.4 Tf
+58 515.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 515.2002 Td
+(0.08 m) Tj
+ET
+BT
+/F2 7.4 Tf
+58 505.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 505.6002 Td
+(0.50 m) Tj
+ET
+BT
+/F2 7.4 Tf
+58 496.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 496.0002 Td
+(0.04 m) Tj
+ET
+BT
+/F2 8.0 Tf
+42 472.4002 Td
+(61.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 472.4002 Td
+(The propagation velocity of a GPR wave in) Tj
+ET
+BT
+/F1 7.8 Tf
+58 463.2002 Td
+(saturated soil with epsilon_r = 25 is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 451.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 451.5002 Td
+(1.50 x 10^8 m/s) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.9001 Td
+(0.60 x 10^8 m/s) Tj
+ET
+BT
+/F2 7.4 Tf
+58 432.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 432.3001 Td
+(3.00 x 10^8 m/s) Tj
+ET
+BT
+/F2 7.4 Tf
+58 422.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 422.7001 Td
+(0.12 x 10^8 m/s) Tj
+ET
+BT
+/F2 8.0 Tf
+42 399.1001 Td
+(62.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 399.1001 Td
+(The divergence of a magnetic field B = \(3x\) i +) Tj
+ET
+BT
+/F1 7.8 Tf
+58 389.9001 Td
+(\(2y\) j - \(c*z\) k must be zero. The value of) Tj
+ET
+BT
+/F1 7.8 Tf
+58 380.7001 Td
+(constant c is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 369.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 369.0001 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 359.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 359.4001 Td
+(-5) Tj
+ET
+BT
+/F2 7.4 Tf
+58 349.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 349.8001 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 340.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 340.2001 Td
+(5) Tj
+ET
+BT
+/F2 8.0 Tf
+42 316.6001 Td
+(63.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 316.6001 Td
+(The integral form of Faraday's Law states that) Tj
+ET
+BT
+/F1 7.8 Tf
+58 307.4001 Td
+(the line integral of E around a closed loop) Tj
+ET
+BT
+/F1 7.8 Tf
+58 298.2 Td
+(equals:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 286.5 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 286.5 Td
+(- d\(Phi_B\) / dt) Tj
+ET
+BT
+/F2 7.4 Tf
+58 276.9 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 276.9 Td
+(+ d\(Phi_E\) / dt) Tj
+ET
+BT
+/F2 7.4 Tf
+58 267.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 267.3 Td
+(mu_0 * I) Tj
+ET
+BT
+/F2 7.4 Tf
+58 257.7 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 257.7 Td
+(Q / epsilon_0) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(64.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Poynting's theorem can be viewed as an) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(electromagnetic statement of:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(Momentum conservation) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(Gauss's law) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(Work-energy theorem for fields) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(Lorentz force law) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(65.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(In a good conductor, the phase angle between) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(electric field E and magnetic field H is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(45 degrees \(pi/4 rad\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(0 degrees) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(90 degrees \(pi/2 rad\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(180 degrees) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(66.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(The attenuation constant alpha in a good) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(conductor is equal to:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.5001 Td
+(2 * beta) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.9001 Td
+(beta / 2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.3002 Td
+(beta = sqrt\(pi * f * mu * sigma\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 587.7002 Td
+(zero) Tj
+ET
+BT
+/F2 8.0 Tf
+306 564.1002 Td
+(67.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.1002 Td
+(An EM wave travels through a dielectric with) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(mu_r = 1 and epsilon_r = 2.25. The wave velocity) Tj
+ET
+BT
+/F1 7.8 Tf
+322 545.7002 Td
+(is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 534.0002 Td
+(1.5 x 10^8 m/s) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.4002 Td
+(2.0 x 10^8 m/s) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.8002 Td
+(3.0 x 10^8 m/s) Tj
+ET
+BT
+/F2 7.4 Tf
+322 505.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 505.2002 Td
+(2.5 x 10^8 m/s) Tj
+ET
+BT
+/F2 8.0 Tf
+306 481.6002 Td
+(68.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6002 Td
+(A laser beam carries an intensity of 1.0 kW/m^2.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 472.4002 Td
+(The peak electric field amplitude E_0 is) Tj
+ET
+BT
+/F1 7.8 Tf
+322 463.2002 Td
+(approximately:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 451.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 451.5002 Td
+(614 V/m) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.9002 Td
+(1228 V/m) Tj
+ET
+BT
+/F2 7.4 Tf
+322 432.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 432.3002 Td
+(275 V/m) Tj
+ET
+BT
+/F2 7.4 Tf
+322 422.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 422.7002 Td
+(868 V/m) Tj
+ET
+BT
+/F2 8.0 Tf
+306 399.1002 Td
+(69.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 399.1002 Td
+(For the laser beam in Q68, the peak magnetic) Tj
+ET
+BT
+/F1 7.8 Tf
+322 389.9001 Td
+(field intensity H_0 is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 378.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 378.2001 Td
+(1.63 A/m) Tj
+ET
+BT
+/F2 7.4 Tf
+322 368.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 368.6001 Td
+(4.60 A/m) Tj
+ET
+BT
+/F2 7.4 Tf
+322 359.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 359.0001 Td
+(2.30 A/m) Tj
+ET
+BT
+/F2 7.4 Tf
+322 349.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 349.4001 Td
+(0.82 A/m) Tj
+ET
+BT
+/F2 8.0 Tf
+306 325.8001 Td
+(70.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 325.8001 Td
+(The radiation pressure exerted by a plane EM) Tj
+ET
+BT
+/F1 7.8 Tf
+322 316.6001 Td
+(wave on a completely absorbing surface at normal) Tj
+ET
+BT
+/F1 7.8 Tf
+322 307.4001 Td
+(incidence is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 295.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 295.7001 Td
+(S_avg / c) Tj
+ET
+BT
+/F2 7.4 Tf
+322 286.1001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 286.1001 Td
+(2 * S_avg / c) Tj
+ET
+BT
+/F2 7.4 Tf
+322 276.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 276.5001 Td
+(S_avg / \(2*c\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 266.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 266.9001 Td
+(S_avg * c) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 14 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+14 0 obj
+<< /Length 9314 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 1: ELECTROMAGNETIC THEORY & MAXWELL'S EQUATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 6 of 29) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(71.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(If the surface is completely reflecting, the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(radiation pressure at normal incidence is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(S_avg / c) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(4 * S_avg / c) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(2 * S_avg / c) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(72.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(A radio station broadcasts 50 kW isotropically.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(The average Poynting vector magnitude at) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.3 Td
+(distance 5 km is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.6 Td
+(3.18 x 10^-4 W/m^2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.0001 Td
+(1.59 x 10^-4 W/m^2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.4001 Td
+(0.79 x 10^-4 W/m^2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 651.8001 Td
+(6.36 x 10^-4 W/m^2) Tj
+ET
+BT
+/F2 8.0 Tf
+42 628.2001 Td
+(73.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(The electric field of a wave is E\(z,t\) =) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.0001 Td
+(150*cos\(10^8 t - beta*z\) i V/m. The frequency f) Tj
+ET
+BT
+/F1 7.8 Tf
+58 609.8001 Td
+(of the wave is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 598.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 598.1001 Td
+(100 MHz) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.5001 Td
+(15.9 MHz) Tj
+ET
+BT
+/F2 7.4 Tf
+58 578.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 578.9001 Td
+(31.8 MHz) Tj
+ET
+BT
+/F2 7.4 Tf
+58 569.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 569.3002 Td
+(50 MHz) Tj
+ET
+BT
+/F2 8.0 Tf
+42 545.7002 Td
+(74.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 545.7002 Td
+(In seawater \(sigma = 4 S/m, mu_r = 1\), what is) Tj
+ET
+BT
+/F1 7.8 Tf
+58 536.5002 Td
+(the skin depth at submarine communications) Tj
+ET
+BT
+/F1 7.8 Tf
+58 527.3002 Td
+(frequency f = 100 Hz?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 515.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 515.6002 Td
+(25.2 m) Tj
+ET
+BT
+/F2 7.4 Tf
+58 506.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 506.0002 Td
+(2.52 m) Tj
+ET
+BT
+/F2 7.4 Tf
+58 496.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 496.4001 Td
+(252 m) Tj
+ET
+BT
+/F2 7.4 Tf
+58 486.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 486.8001 Td
+(0.25 m) Tj
+ET
+BT
+/F2 8.0 Tf
+42 463.2001 Td
+(75.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 463.2001 Td
+(At microwave frequency f = 10 GHz in seawater,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 454.0001 Td
+(the skin depth delta decreases dramatically to:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 442.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 442.3001 Td
+(25.2 mm) Tj
+ET
+BT
+/F2 7.4 Tf
+58 432.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 432.7001 Td
+(0.25 mm) Tj
+ET
+BT
+/F2 7.4 Tf
+58 423.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 423.1001 Td
+(2.52 mm) Tj
+ET
+BT
+/F2 7.4 Tf
+58 413.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 413.5001 Td
+(25.2 cm) Tj
+ET
+BT
+/F2 8.0 Tf
+42 389.9001 Td
+(76.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 389.9001 Td
+(A GPR antenna emits a pulse at a concrete bridge) Tj
+ET
+BT
+/F1 7.8 Tf
+58 380.7001 Td
+(deck. The two-way travel time to a reinforcing) Tj
+ET
+BT
+/F1 7.8 Tf
+58 371.5001 Td
+(bar is 2.4 ns. If epsilon_r = 9, the depth of) Tj
+ET
+BT
+/F1 7.8 Tf
+58 362.3 Td
+(the rebar is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 350.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 350.6 Td
+(24.0 cm) Tj
+ET
+BT
+/F2 7.4 Tf
+58 341 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 341 Td
+(6.0 cm) Tj
+ET
+BT
+/F2 7.4 Tf
+58 331.4 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 331.4 Td
+(18.0 cm) Tj
+ET
+BT
+/F2 7.4 Tf
+58 321.8 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 321.8 Td
+(12.0 cm) Tj
+ET
+BT
+/F2 8.0 Tf
+42 298.2 Td
+(77.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 298.2 Td
+(A void beneath a 30 cm thick concrete slab) Tj
+ET
+BT
+/F1 7.8 Tf
+58 289 Td
+(reflects a GPR signal with two-way time 5.0 ns.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 279.8 Td
+(The effective dielectric constant of the slab) Tj
+ET
+BT
+/F1 7.8 Tf
+58 270.6 Td
+(is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 258.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 258.9 Td
+(4.00) Tj
+ET
+BT
+/F2 7.4 Tf
+58 249.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 249.3 Td
+(9.00) Tj
+ET
+BT
+/F2 7.4 Tf
+58 239.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 239.7 Td
+(2.50) Tj
+ET
+BT
+/F2 7.4 Tf
+58 230.0999 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 230.0999 Td
+(6.25) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(78.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(In structural GPR surveying, the reflection) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(coefficient Gamma at an interface from concrete) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(\(epsilon_r1 = 9\) to air void \(epsilon_r2 = 1\)) Tj
+ET
+BT
+/F1 7.8 Tf
+322 756.4 Td
+(is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.7 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.7 Td
+(-0.50 \(reversed\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 735.1 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 735.1 Td
+(+0.25) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.5 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.5 Td
+(+0.50 \(in-phase\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 715.9 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 715.9 Td
+(-0.75) Tj
+ET
+BT
+/F2 8.0 Tf
+306 692.3 Td
+(79.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(At an interface between concrete \(epsilon_r1 =) Tj
+ET
+BT
+/F1 7.8 Tf
+322 683.1 Td
+(9\) and steel rebar \(treated as perfect conductor) Tj
+ET
+BT
+/F1 7.8 Tf
+322 673.9 Td
+(Gamma = -1.0\), the reflected wave has:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 662.2 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 662.2 Td
+(Complete reflection with 180 degree phase) Tj
+ET
+BT
+/F1 7.4 Tf
+336 653.6 Td
+(reversal) Tj
+ET
+BT
+/F2 7.4 Tf
+322 644.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 644.0001 Td
+(Complete transmission without reflection) Tj
+ET
+BT
+/F2 7.4 Tf
+322 634.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 634.4001 Td
+(Zero reflection coefficient) Tj
+ET
+BT
+/F2 7.4 Tf
+322 624.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 624.8001 Td
+(In-phase enhancement) Tj
+ET
+BT
+/F2 8.0 Tf
+306 601.2001 Td
+(80.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 601.2001 Td
+(A parallel-plate capacitor has area A = 0.05 m^2) Tj
+ET
+BT
+/F1 7.8 Tf
+322 592.0001 Td
+(and plate separation d = 2 mm. It is driven by) Tj
+ET
+BT
+/F1 7.8 Tf
+322 582.8001 Td
+(V\(t\) = 311*sin\(314*t\) V. The peak displacement) Tj
+ET
+BT
+/F1 7.8 Tf
+322 573.6001 Td
+(current is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 561.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 561.9001 Td
+(3.90 x 10^-5 A) Tj
+ET
+BT
+/F2 7.4 Tf
+322 552.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 552.3001 Td
+(1.95 x 10^-5 A) Tj
+ET
+BT
+/F2 7.4 Tf
+322 542.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 542.7001 Td
+(0.98 x 10^-5 A) Tj
+ET
+BT
+/F2 7.4 Tf
+322 533.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 533.1002 Td
+(6.28 x 10^-5 A) Tj
+ET
+BT
+/F2 8.0 Tf
+306 509.5002 Td
+(81.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 509.5002 Td
+(For the capacitor in Q80, what is the peak) Tj
+ET
+BT
+/F1 7.8 Tf
+322 500.3002 Td
+(magnetic field B induced between the plates at) Tj
+ET
+BT
+/F1 7.8 Tf
+322 491.1002 Td
+(radius r = 5 cm?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 479.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 479.4001 Td
+(3.90 x 10^-11 T) Tj
+ET
+BT
+/F2 7.4 Tf
+322 469.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 469.8001 Td
+(7.80 x 10^-11 T) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.2001 Td
+(1.56 x 10^-10 T) Tj
+ET
+BT
+/F2 7.4 Tf
+322 450.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 450.6001 Td
+(0) Tj
+ET
+BT
+/F2 8.0 Tf
+306 427.0001 Td
+(82.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 427.0001 Td
+(A plane wave in a lossy soil has attenuation) Tj
+ET
+BT
+/F1 7.8 Tf
+322 417.8001 Td
+(constant alpha = 0.2 Np/m. How far can the wave) Tj
+ET
+BT
+/F1 7.8 Tf
+322 408.6001 Td
+(penetrate before its power drops to 1% \(-20 dB\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 396.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 396.9001 Td
+(5.0 m) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.3001 Td
+(23.0 m) Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.7001 Td
+(2.3 m) Tj
+ET
+BT
+/F2 7.4 Tf
+322 368.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 368.1001 Td
+(11.5 m) Tj
+ET
+BT
+/F2 8.0 Tf
+306 344.5001 Td
+(83.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 344.5001 Td
+(A high-voltage power transmission line creates) Tj
+ET
+BT
+/F1 7.8 Tf
+322 335.3 Td
+(an electric field E = 5.0 kV/m at ground level) Tj
+ET
+BT
+/F1 7.8 Tf
+322 326.1 Td
+(\(50 Hz\). The displacement current density in air) Tj
+ET
+BT
+/F1 7.8 Tf
+322 316.9 Td
+(is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 305.2 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 305.2 Td
+(1.39 x 10^-4 A/m^2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 295.6 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 295.6 Td
+(2.78 x 10^-4 A/m^2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 286 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 286 Td
+(0.70 x 10^-4 A/m^2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 276.4 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 276.4 Td
+(4.42 x 10^-4 A/m^2) Tj
+ET
+BT
+/F2 8.0 Tf
+306 252.8 Td
+(84.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 252.8 Td
+(If the soil underneath the transmission line in) Tj
+ET
+BT
+/F1 7.8 Tf
+322 243.6 Td
+(Q83 has conductivity sigma = 0.01 S/m, the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 234.4 Td
+(conduction current density J_c in the soil is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 222.7 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 222.7 Td
+(5.0 A/m^2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 213.1 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 213.1 Td
+(0.50 A/m^2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 203.5 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 203.5 Td
+(50.0 A/m^2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 193.9 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 193.9 Td
+(500 A/m^2) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 16 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+16 0 obj
+<< /Length 9377 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 1: ELECTROMAGNETIC THEORY & MAXWELL'S EQUATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 7 of 29) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(85.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(A 500 MHz GPR wave in saturated sandy soil) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(\(epsilon_r = 16, sigma = 0.02 S/m\) has) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(attenuation constant alpha equal to:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(0.942 Np/m) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.3 Td
+(1.884 Np/m) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.7 Td
+(0.471 Np/m) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.1 Td
+(3.14 Np/m) Tj
+ET
+BT
+/F2 8.0 Tf
+42 701.5001 Td
+(86.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(For the wave in Q85, the phase constant beta is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(20.9 rad/m) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(83.8 rad/m) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(41.9 rad/m) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(10.5 rad/m) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(87.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(What is the penetration depth \(1/alpha\) of the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(500 MHz GPR signal in this saturated sand?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.5001 Td
+(0.53 m) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.9001 Td
+(1.06 m) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.3002 Td
+(2.12 m) Tj
+ET
+BT
+/F2 7.4 Tf
+58 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 587.7002 Td
+(4.24 m) Tj
+ET
+BT
+/F2 8.0 Tf
+42 564.1002 Td
+(88.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(A coaxial cable has inner conductor radius a = 1) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(mm and outer conductor radius b = 5 mm with) Tj
+ET
+BT
+/F1 7.8 Tf
+58 545.7002 Td
+(Teflon \(epsilon_r = 2.1\). Its characteristic) Tj
+ET
+BT
+/F1 7.8 Tf
+58 536.5002 Td
+(impedance Z_0 is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.8002 Td
+(50.0 Ohms) Tj
+ET
+BT
+/F2 7.4 Tf
+58 515.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 515.2002 Td
+(75.0 Ohms) Tj
+ET
+BT
+/F2 7.4 Tf
+58 505.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 505.6002 Td
+(100.0 Ohms) Tj
+ET
+BT
+/F2 7.4 Tf
+58 496.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 496.0002 Td
+(66.5 Ohms) Tj
+ET
+BT
+/F2 8.0 Tf
+42 472.4002 Td
+(89.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 472.4002 Td
+(A solar panel on a bridge monitoring station) Tj
+ET
+BT
+/F1 7.8 Tf
+58 463.2002 Td
+(receives solar irradiance S_avg = 900 W/m^2. The) Tj
+ET
+BT
+/F1 7.8 Tf
+58 454.0002 Td
+(root-mean-square electric field E_rms of) Tj
+ET
+BT
+/F1 7.8 Tf
+58 444.8001 Td
+(sunlight is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 433.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 433.1001 Td
+(824 V/m) Tj
+ET
+BT
+/F2 7.4 Tf
+58 423.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 423.5001 Td
+(412 V/m) Tj
+ET
+BT
+/F2 7.4 Tf
+58 413.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 413.9001 Td
+(582 V/m) Tj
+ET
+BT
+/F2 7.4 Tf
+58 404.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 404.3001 Td
+(291 V/m) Tj
+ET
+BT
+/F2 8.0 Tf
+42 380.7001 Td
+(90.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 380.7001 Td
+(For the sunlight in Q89, the radiation force on) Tj
+ET
+BT
+/F1 7.8 Tf
+58 371.5001 Td
+(a flat 2.0 m^2 perfectly absorbing solar) Tj
+ET
+BT
+/F1 7.8 Tf
+58 362.3001 Td
+(collector is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 350.6001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 350.6001 Td
+(6.0 x 10^-6 N) Tj
+ET
+BT
+/F2 7.4 Tf
+58 341.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 341.0001 Td
+(1.2 x 10^-5 N) Tj
+ET
+BT
+/F2 7.4 Tf
+58 331.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 331.4001 Td
+(3.0 x 10^-6 N) Tj
+ET
+BT
+/F2 7.4 Tf
+58 321.8 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 321.8 Td
+(1.8 x 10^-5 N) Tj
+ET
+BT
+/F2 8.0 Tf
+42 298.2 Td
+(91.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 298.2 Td
+(In an electromagnetic shielding room for) Tj
+ET
+BT
+/F1 7.8 Tf
+58 289 Td
+(structural data acquisition, a 1 mm aluminum) Tj
+ET
+BT
+/F1 7.8 Tf
+58 279.8 Td
+(plate \(sigma = 3.5 x 10^7 S/m\) is used. At 1) Tj
+ET
+BT
+/F1 7.8 Tf
+58 270.6 Td
+(MHz, the number of skin depths in the plate is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 258.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 258.9 Td
+(6.0 skin depths) Tj
+ET
+BT
+/F2 7.4 Tf
+58 249.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 249.3 Td
+(24.0 skin depths) Tj
+ET
+BT
+/F2 7.4 Tf
+58 239.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 239.7 Td
+(3.0 skin depths) Tj
+ET
+BT
+/F2 7.4 Tf
+58 230.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 230.1 Td
+(12.0 skin depths) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(92.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(The electromagnetic wave attenuation through the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(1 mm aluminum shield in Q91 is approximately:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(52 dB) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(104 dB) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(208 dB) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(26 dB) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(93.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(A GPS satellite transmits at L1 frequency) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(1575.42 MHz. The phase delay through an) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(ionospheric layer with electron density N_e =) Tj
+ET
+BT
+/F1 7.8 Tf
+322 683.1 Td
+(10^17 electrons/m^2 causes an apparent ranging) Tj
+ET
+BT
+/F1 7.8 Tf
+322 673.9 Td
+(error of approximately:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 662.2 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 662.2 Td
+(3.24 m) Tj
+ET
+BT
+/F2 7.4 Tf
+322 652.6 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 652.6 Td
+(1.62 m) Tj
+ET
+BT
+/F2 7.4 Tf
+322 643.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 643.0001 Td
+(0.81 m) Tj
+ET
+BT
+/F2 7.4 Tf
+322 633.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 633.4001 Td
+(6.48 m) Tj
+ET
+BT
+/F2 8.0 Tf
+306 609.8001 Td
+(94.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 609.8001 Td
+(A radar antenna radiates 10 kW peak power) Tj
+ET
+BT
+/F1 7.8 Tf
+322 600.6001 Td
+(uniformly over a hemisphere. What is the power) Tj
+ET
+BT
+/F1 7.8 Tf
+322 591.4001 Td
+(density at a target bridge pier 2 km away?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 579.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 579.7001 Td
+(3.98 x 10^-4 W/m^2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 570.1001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 570.1001 Td
+(1.99 x 10^-4 W/m^2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 560.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 560.5001 Td
+(7.96 x 10^-4 W/m^2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 550.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 550.9001 Td
+(0.99 x 10^-4 W/m^2) Tj
+ET
+BT
+/F2 8.0 Tf
+306 527.3002 Td
+(95.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 527.3002 Td
+(If the radar target in Q94 has radar cross) Tj
+ET
+BT
+/F1 7.8 Tf
+322 518.1002 Td
+(section sigma_rcs = 15 m^2, the power reradiated) Tj
+ET
+BT
+/F1 7.8 Tf
+322 508.9001 Td
+(by the target is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 497.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 497.2001 Td
+(2.98 x 10^-3 W) Tj
+ET
+BT
+/F2 7.4 Tf
+322 487.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 487.6001 Td
+(1.19 x 10^-2 W) Tj
+ET
+BT
+/F2 7.4 Tf
+322 478.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 478.0001 Td
+(5.97 x 10^-3 W) Tj
+ET
+BT
+/F2 7.4 Tf
+322 468.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 468.4001 Td
+(5.97 x 10^-4 W) Tj
+ET
+BT
+/F2 8.0 Tf
+306 444.8001 Td
+(96.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 444.8001 Td
+(A 100 MHz plane wave travels from dry concrete) Tj
+ET
+BT
+/F1 7.8 Tf
+322 435.6001 Td
+(\(epsilon_r1 = 4.0\) into saturated soil) Tj
+ET
+BT
+/F1 7.8 Tf
+322 426.4001 Td
+(\(epsilon_r2 = 16.0\) at normal incidence. The) Tj
+ET
+BT
+/F1 7.8 Tf
+322 417.2001 Td
+(transmission coefficient tau for electric field) Tj
+ET
+BT
+/F1 7.8 Tf
+322 408.0001 Td
+(is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 396.3 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 396.3 Td
+(0.33) Tj
+ET
+BT
+/F2 7.4 Tf
+322 386.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 386.7 Td
+(1.33) Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.1 Td
+(0.50) Tj
+ET
+BT
+/F2 7.4 Tf
+322 367.5 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 367.5 Td
+(0.67) Tj
+ET
+BT
+/F2 8.0 Tf
+306 343.9 Td
+(97.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 343.9 Td
+(For the interface in Q96, the percentage of) Tj
+ET
+BT
+/F1 7.8 Tf
+322 334.7 Td
+(incident power reflected back into the dry) Tj
+ET
+BT
+/F1 7.8 Tf
+322 325.5 Td
+(concrete is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 313.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 313.8 Td
+(25.0%) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.2 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.2 Td
+(33.3%) Tj
+ET
+BT
+/F2 7.4 Tf
+322 294.6 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 294.6 Td
+(5.5%) Tj
+ET
+BT
+/F2 7.4 Tf
+322 285 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 285 Td
+(11.1%) Tj
+ET
+BT
+/F2 8.0 Tf
+306 261.4 Td
+(98.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 261.4 Td
+(A cylindrical conductor carries total AC current) Tj
+ET
+BT
+/F1 7.8 Tf
+322 252.2 Td
+(I_0*cos\(omega*t\). Due to skin effect, the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 243 Td
+(current density J\(r\) at distance r from the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 233.8 Td
+(surface is governed by:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 222.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 222.1 Td
+(J\(r\) = J_0 * \(1 - r/delta\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 212.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 212.5 Td
+(J\(r\) = J_0 / \(1 + r/delta\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 202.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 202.9 Td
+(J\(r\) = J_0 * exp\(-r/delta\) * cos\(omega*t -) Tj
+ET
+BT
+/F1 7.4 Tf
+336 194.3 Td
+(r/delta\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 184.7 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 184.7 Td
+(J\(r\) = J_0 * cos\(omega*t\)) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 18 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+18 0 obj
+<< /Length 1887 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 1: ELECTROMAGNETIC THEORY & MAXWELL'S EQUATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 8 of 29) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(99.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(In an underground pipeline cathodic protection) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(system, an alternating surge creates a magnetic) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(field H = 10 A/m in surrounding clay \(sigma =) Tj
+ET
+BT
+/F1 7.8 Tf
+58 756.4 Td
+(0.1 S/m, mu_r = 1\) at 50 Hz. The induced) Tj
+ET
+BT
+/F1 7.8 Tf
+58 747.2 Td
+(electric field E at the pipe surface is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 735.4999 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 735.4999 Td
+(0.199 V/m) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.9 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.9 Td
+(1.99 V/m) Tj
+ET
+BT
+/F2 7.4 Tf
+58 716.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 716.3 Td
+(0.020 V/m) Tj
+ET
+BT
+/F2 7.4 Tf
+58 706.7 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 706.7 Td
+(0.995 V/m) Tj
+ET
+BT
+/F2 8.0 Tf
+42 673.1 Td
+(100.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 673.1 Td
+(The complex Poynting vector S_c = 0.5 * \(E x H*\)) Tj
+ET
+BT
+/F1 7.8 Tf
+58 663.9 Td
+(inside a lossy structural material has a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 654.7 Td
+(non-zero imaginary part, which physically) Tj
+ET
+BT
+/F1 7.8 Tf
+58 645.5 Td
+(represents:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 633.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 633.8 Td
+(Dissipated ohmic heat per cycle) Tj
+ET
+BT
+/F2 7.4 Tf
+58 624.2 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 624.2 Td
+(Reactive or stored oscillating energy) Tj
+ET
+BT
+/F1 7.4 Tf
+72 615.6 Td
+(density) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.0001 Td
+(Static mechanical stress tensor) Tj
+ET
+BT
+/F2 7.4 Tf
+58 596.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 596.4001 Td
+(Charge accumulation rate) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 20 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+20 0 obj
+<< /Length 6056 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 1: ELECTROMAGNETIC THEORY & MAXWELL'S EQUATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 9 of 29) Tj
+ET
+BT
+/F2 10 Tf
+45 780 Td
+(SECTION B: DESCRIPTIVE & SUBJECTIVE QUESTIONS) Tj
+ET
+BT
+/F2 8.5 Tf
+45 760 Td
+(Q1. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 760 Td
+(Define scalar and vector fields, gradient, divergence, and curl. Give their mathematical) Tj
+ET
+BT
+/F1 8.5 Tf
+72 749.5 Td
+(expressions in Cartesian coordinates and state their physical significance in electromagnetism.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 724.5 Td
+(Q2. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 724.5 Td
+(State and prove Gauss's Divergence Theorem. Explain its role in transitioning from Maxwell's) Tj
+ET
+BT
+/F1 8.5 Tf
+72 714 Td
+(integral to differential equations.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 689 Td
+(Q3. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 689 Td
+(State and prove Stokes's Theorem. Demonstrate how it connects Faraday's Law in integral and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 678.5 Td
+(differential forms.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 653.5 Td
+(Q4. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 653.5 Td
+(Derive the Equation of Continuity from the fundamental principle of charge conservation. Explain) Tj
+ET
+BT
+/F1 8.5 Tf
+72 643 Td
+(its physical significance in time-varying fields.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 618 Td
+(Q5. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 618 Td
+(Explain the inconsistency of Ampere's Circuital Law for time-dependent fields. How did Maxwell) Tj
+ET
+BT
+/F1 8.5 Tf
+72 607.5 Td
+(resolve this dilemma by introducing the displacement current?) Tj
+ET
+BT
+/F2 8.5 Tf
+45 582.5 Td
+(Q6. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 582.5 Td
+(Describe the parallel-plate capacitor paradox during charging, and prove mathematically that) Tj
+ET
+BT
+/F1 8.5 Tf
+72 572 Td
+(conduction current in the leads equals displacement current between the plates.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 547 Td
+(Q7. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 547 Td
+(State all four Maxwell's equations in both differential and integral forms for general media, and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 536.5 Td
+(explain the physical law underlying each equation.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 511.5 Td
+(Q8. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 511.5 Td
+(Derive the electromagnetic wave equation for electric field E in a linear, isotropic, homogeneous,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 501 Td
+(and charge-free dielectric medium.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 476 Td
+(Q9. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 476 Td
+(Derive the electromagnetic wave equation for magnetic field H in a charge-free dielectric, and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 465.5 Td
+(compare its phase velocity with that of the electric field.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 440.5 Td
+(Q10. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 440.5 Td
+(Prove that plane electromagnetic waves in free space are strictly transverse in nature \(i.e., both) Tj
+ET
+BT
+/F1 8.5 Tf
+72 430 Td
+(E and H have zero components along the direction of propagation\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 405 Td
+(Q11. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 405 Td
+(Derive the relationship between electric and magnetic field amplitudes in a plane EM wave, and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 394.5 Td
+(obtain the expression for the intrinsic impedance of free space.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 369.5 Td
+(Q12. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 369.5 Td
+(State and derive Poynting's Theorem from Maxwell's equations. Provide the physical interpretation) Tj
+ET
+BT
+/F1 8.5 Tf
+72 359 Td
+(of each term in the resulting equation.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 334 Td
+(Q13. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 334 Td
+(Calculate the time-average Poynting vector for a harmonic plane electromagnetic wave, and prove) Tj
+ET
+BT
+/F1 8.5 Tf
+72 323.5 Td
+(that energy is equally partitioned between electric and magnetic fields.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 298.5 Td
+(Q14. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 298.5 Td
+(Derive the electromagnetic wave equation in a conducting medium, and obtain expressions for the) Tj
+ET
+BT
+/F1 8.5 Tf
+72 288 Td
+(attenuation constant alpha and phase constant beta.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 263 Td
+(Q15. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 263 Td
+(Define skin depth \(depth of penetration\). Derive its formula for a good conductor and explain its) Tj
+ET
+BT
+/F1 8.5 Tf
+72 252.5 Td
+(engineering consequences in structural grounding and EM shielding.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 227.5 Td
+(Q16. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 227.5 Td
+(Explain the working principles of Ground Penetrating Radar \(GPR\) in civil engineering. How do) Tj
+ET
+BT
+/F1 8.5 Tf
+72 217 Td
+(permittivity and conductivity govern radar depth and resolution?) Tj
+ET
+BT
+/F2 8.5 Tf
+45 192 Td
+(Q17. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 192 Td
+(A circular parallel-plate capacitor of radius R = 15 cm and plate separation d = 3.0 mm is charged) Tj
+ET
+BT
+/F1 8.5 Tf
+72 181.5 Td
+(by an AC source V\(t\) = 240*sqrt\(2\)*sin\(100*pi*t\) V. Determine: \(a\) capacitance C, \(b\) conduction) Tj
+ET
+BT
+/F1 8.5 Tf
+72 171 Td
+(current i_c\(t\), \(c\) displacement current density J_d\(t\), \(d\) induced magnetic field B at radius r) Tj
+ET
+BT
+/F2 8.5 Tf
+45 156.5 Td
+(Q18. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 156.5 Td
+(A plane electromagnetic wave in air has electric field E\(z,t\) = 120*cos\(6*pi*10^8 t - beta*z\) i) Tj
+ET
+BT
+/F1 8.5 Tf
+72 146 Td
+(V/m. Calculate: \(a\) frequency f and wavelength lambda, \(b\) phase constant beta, \(c\) magnetic field) Tj
+ET
+BT
+/F1 8.5 Tf
+72 135.5 Td
+(expression H\(z,t\), \(d\) time-average Poynting vector S_avg.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 121 Td
+(Q19. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 121 Td
+(Calculate the skin depth and wave velocity in copper \(sigma = 5.8 x 10^7 S/m, mu_r = 1\) at: \(a\)) Tj
+ET
+BT
+/F1 8.5 Tf
+72 110.5 Td
+(power frequency 60 Hz, \(b\) radio frequency 1 MHz, \(c\) microwave frequency 10 GHz.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 85.5 Td
+(Q20. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 85.5 Td
+(A Ground Penetrating Radar antenna on a concrete bridge deck detects a reflection from a) Tj
+ET
+BT
+/F1 8.5 Tf
+72 75 Td
+(reinforcing steel bar with a two-way travel time of 3.2 ns. If dry concrete has epsilon_r = 6.25) Tj
+ET
+BT
+/F1 8.5 Tf
+72 64.5 Td
+(and mu_r = 1: \(a\) find wave velocity in concrete, \(b\) calculate the depth of the rebar, \(c\)) Tj
+ET
+
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 22 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+22 0 obj
+<< /Length 3596 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 1: ELECTROMAGNETIC THEORY & MAXWELL'S EQUATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 10 of 29) Tj
+ET
+BT
+/F2 8.5 Tf
+45 780 Td
+(Q21. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 780 Td
+(A plane wave in air with electric field amplitude 50 V/m impinges normally on a wet soil boundary) Tj
+ET
+BT
+/F1 8.5 Tf
+72 769.5 Td
+(\(epsilon_r = 16, mu_r = 1, sigma = 0\). Calculate: \(a\) reflection coefficient Gamma, \(b\)) Tj
+ET
+BT
+/F1 8.5 Tf
+72 759 Td
+(transmission coefficient tau, \(c\) reflected and transmitted electric field amplitudes, \(d\)) Tj
+ET
+BT
+/F2 8.5 Tf
+45 743.5 Td
+(Q22. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 743.5 Td
+(Explain the physical significance of complex permittivity and loss tangent. For seawater) Tj
+ET
+BT
+/F1 8.5 Tf
+72 733 Td
+(\(epsilon_r = 80, sigma = 4.0 S/m\), calculate the loss tangent and determine if it acts as a) Tj
+ET
+BT
+/F1 8.5 Tf
+72 722.5 Td
+(conductor or dielectric at: \(a\) 10 kHz, \(b\) 10 GHz.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 707 Td
+(Q23. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 707 Td
+(Derive the magnetic vector potential A and electric scalar potential V wave equations in the) Tj
+ET
+BT
+/F1 8.5 Tf
+72 696.5 Td
+(Lorenz gauge from Maxwell's equations.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 670.5 Td
+(Q24. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 670.5 Td
+(State and derive the electromagnetic boundary conditions for E, D, B, and H across an interface) Tj
+ET
+BT
+/F1 8.5 Tf
+72 660 Td
+(between two distinct dielectric media.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 634 Td
+(Q25. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 634 Td
+(A 50 kW isotropic AM radio transmitter operates at 1.0 MHz. At a civil monitoring station 10 km) Tj
+ET
+BT
+/F1 8.5 Tf
+72 623.5 Td
+(away: \(a\) find the time-average Poynting vector magnitude, \(b\) calculate electric and magnetic) Tj
+ET
+BT
+/F1 8.5 Tf
+72 613 Td
+(field amplitudes, \(c\) determine the total EM energy stored within a 100 m x 100 m x 50 m airspace) Tj
+ET
+BT
+/F2 8.5 Tf
+45 597.5 Td
+(Q26. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 597.5 Td
+(Explain radiation pressure and electromagnetic momentum. Derive the expression for radiation) Tj
+ET
+BT
+/F1 8.5 Tf
+72 587 Td
+(pressure on a flat perfectly reflecting surface at normal incidence.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 561 Td
+(Q27. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 561 Td
+(A 2.0 GHz microwave link passes through rain. If the rain-induced conductivity of air is sigma =) Tj
+ET
+BT
+/F1 8.5 Tf
+72 550.5 Td
+(2.0 x 10^-4 S/m and epsilon_r = 1.05: \(a\) calculate the attenuation constant alpha in Np/m and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 540 Td
+(dB/km, \(b\) calculate the phase velocity, \(c\) determine the percentage loss of power over a 15 km) Tj
+ET
+BT
+/F2 8.5 Tf
+45 524.5 Td
+(Q28. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 524.5 Td
+(Explain the physical principles and mathematical formulation of electromagnetic shielding) Tj
+ET
+BT
+/F1 8.5 Tf
+72 514 Td
+(effectiveness \(SE\) in civil data centers and shielded control rooms.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 488 Td
+(Q29. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 488 Td
+(A lightning discharge delivers a current surge I\(t\) = 50*exp\(-t / 10^-5\) kA into a steel) Tj
+ET
+BT
+/F1 8.5 Tf
+72 477.5 Td
+(reinforced concrete foundation. Discuss the generation of transient magnetic and electric fields,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 467 Td
+(skin effect in rebar, and induced step voltages.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 451.5 Td
+(Q30. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 451.5 Td
+(Summarize the comprehensive impact of Maxwell's electromagnetic equations on modern civil) Tj
+ET
+BT
+/F1 8.5 Tf
+72 441 Td
+(engineering, geodesy, and structural health monitoring.) Tj
+ET
+
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 24 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+24 0 obj
+<< /Length 8433 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 1: ELECTROMAGNETIC THEORY & MAXWELL'S EQUATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 11 of 29) Tj
+ET
+BT
+/F2 11 Tf
+45 780 Td
+(SECTION C: ANSWER KEY - MULTIPLE CHOICE QUESTIONS) Tj
+ET
+0.5 w
+45 772 m 550 772 l S
+BT
+/F2 8.5 Tf
+45 750 Td
+(Q1: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 750 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 734 Td
+(Q2: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 734 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 718 Td
+(Q3: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 702 Td
+(Q4: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 702 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 686 Td
+(Q5: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 670 Td
+(Q6: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 670 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 654 Td
+(Q7: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 654 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 638 Td
+(Q8: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 638 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 622 Td
+(Q9: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 622 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 606 Td
+(Q10: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 590 Td
+(Q11: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 590 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 574 Td
+(Q12: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 574 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 558 Td
+(Q13: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 558 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 542 Td
+(Q14: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 526 Td
+(Q15: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 526 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 510 Td
+(Q16: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 510 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 494 Td
+(Q17: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 494 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 478 Td
+(Q18: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 478 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 462 Td
+(Q19: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 446 Td
+(Q20: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 446 Td
+([B]) Tj
+ET
+0.2 w
+135 755 m 135 425 l S
+BT
+/F2 8.5 Tf
+145 750 Td
+(Q21: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 750 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 734 Td
+(Q22: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 734 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 718 Td
+(Q23: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 702 Td
+(Q24: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 702 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 686 Td
+(Q25: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 670 Td
+(Q26: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 670 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 654 Td
+(Q27: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 654 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 638 Td
+(Q28: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 638 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 622 Td
+(Q29: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 622 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 606 Td
+(Q30: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 590 Td
+(Q31: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 590 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 574 Td
+(Q32: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 574 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 558 Td
+(Q33: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 558 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 542 Td
+(Q34: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 526 Td
+(Q35: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 526 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 510 Td
+(Q36: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 510 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 494 Td
+(Q37: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 494 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 478 Td
+(Q38: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 478 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 462 Td
+(Q39: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 446 Td
+(Q40: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 446 Td
+([B]) Tj
+ET
+0.2 w
+235 755 m 235 425 l S
+BT
+/F2 8.5 Tf
+245 750 Td
+(Q41: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 750 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 734 Td
+(Q42: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 734 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 718 Td
+(Q43: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 702 Td
+(Q44: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 702 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 686 Td
+(Q45: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 670 Td
+(Q46: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 670 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 654 Td
+(Q47: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 654 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 638 Td
+(Q48: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 638 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 622 Td
+(Q49: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 622 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 606 Td
+(Q50: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 590 Td
+(Q51: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 590 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 574 Td
+(Q52: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 574 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 558 Td
+(Q53: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 558 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 542 Td
+(Q54: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 526 Td
+(Q55: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 526 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 510 Td
+(Q56: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 510 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 494 Td
+(Q57: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 494 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 478 Td
+(Q58: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 478 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 462 Td
+(Q59: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 446 Td
+(Q60: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 446 Td
+([B]) Tj
+ET
+0.2 w
+335 755 m 335 425 l S
+BT
+/F2 8.5 Tf
+345 750 Td
+(Q61: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 750 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 734 Td
+(Q62: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 734 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 718 Td
+(Q63: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 702 Td
+(Q64: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 702 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 686 Td
+(Q65: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 670 Td
+(Q66: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 670 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 654 Td
+(Q67: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 654 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 638 Td
+(Q68: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 638 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 622 Td
+(Q69: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 622 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 606 Td
+(Q70: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 590 Td
+(Q71: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 590 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 574 Td
+(Q72: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 574 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 558 Td
+(Q73: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 558 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 542 Td
+(Q74: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 526 Td
+(Q75: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 526 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 510 Td
+(Q76: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 510 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 494 Td
+(Q77: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 494 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 478 Td
+(Q78: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 478 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 462 Td
+(Q79: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 446 Td
+(Q80: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 446 Td
+([B]) Tj
+ET
+0.2 w
+435 755 m 435 425 l S
+BT
+/F2 8.5 Tf
+445 750 Td
+(Q81: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 750 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 734 Td
+(Q82: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 734 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 718 Td
+(Q83: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 702 Td
+(Q84: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 702 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 686 Td
+(Q85: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 670 Td
+(Q86: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 670 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 654 Td
+(Q87: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 654 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 638 Td
+(Q88: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 638 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 622 Td
+(Q89: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 622 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 606 Td
+(Q90: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 590 Td
+(Q91: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 590 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 574 Td
+(Q92: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 574 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 558 Td
+(Q93: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 558 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 542 Td
+(Q94: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 526 Td
+(Q95: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 526 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 510 Td
+(Q96: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 510 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 494 Td
+(Q97: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 494 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 478 Td
+(Q98: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 478 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 462 Td
+(Q99: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 446 Td
+(Q100: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 446 Td
+([B]) Tj
+ET
+0.5 w
+45 400 m 550 400 l 550 340 l 45 340 l s
+BT
+/F2 9 Tf
+55 382 Td
+(MCQ Scoring Guide & Difficulty Distribution:) Tj
+ET
+BT
+/F1 8.5 Tf
+55 366 Td
+(Questions 1 to 40: Foundational & Conceptual [Easy] | Questions 41 to 75: Analytical & Applied [Moderate]) Tj
+ET
+BT
+/F1 8.5 Tf
+55 350 Td
+(Questions 76 to 100: Complex Numerical & Advanced Problem Solving [Difficult]) Tj
+ET
+
+endstream
+endobj
+25 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 26 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+26 0 obj
+<< /Length 4258 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 1: ELECTROMAGNETIC THEORY & MAXWELL'S EQUATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 12 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(SECTION D: DETAILED SOLUTIONS FOR SUBJECTIVE QUESTIONS) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(================================================================================) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 1:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Define scalar and vector fields, gradient, divergence, and curl. Give their mathematical expressions in Cartesian coordinates and state their physical significance in electromagnetism.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Definitions and Field Types:) Tj
+T*
+(   - Scalar Field: A function phi\(x,y,z\) that assigns a single scalar magnitude to each point in) Tj
+T*
+(   space \(e.g., electrostatic potential V, temperature distribution in a concrete dam\).) Tj
+T*
+(   - Vector Field: A function F\(x,y,z\) = F_x*i + F_y*j + F_z*k that assigns both magnitude and) Tj
+T*
+(   direction to each spatial point \(e.g., electric field E, magnetic flux density B\).) Tj
+T*
+() Tj
+T*
+(   2. The Del \(Nabla\) Operator:) Tj
+T*
+(   - Differential vector operator: Del = i*\(d/dx\) + j*\(d/dy\) + k*\(d/dz\).) Tj
+T*
+() Tj
+T*
+(   3. Gradient of a Scalar Field:) Tj
+T*
+(   - grad phi = Del phi = i*\(d\(phi\)/dx\) + j*\(d\(phi\)/dy\) + k*\(d\(phi\)/dz\).) Tj
+T*
+(   - Physical Meaning: Del phi is a vector whose direction points along the maximum rate of) Tj
+T*
+(   spatial increase of phi, with magnitude equal to that maximum rate. In electrostatics, E = -) Tj
+T*
+(   Del V, indicating that the electric field directs from higher to lower potential.) Tj
+T*
+() Tj
+T*
+(   4. Divergence of a Vector Field:) Tj
+T*
+(   - div F = Del dot F = \(dF_x/dx\) + \(dF_y/dy\) + \(dF_z/dz\).) Tj
+T*
+(   - Physical Meaning: Represents the net outward flux of vector field per unit volume as the) Tj
+T*
+(   volume shrinks to zero. A positive divergence signifies a source of field lines \(positive) Tj
+T*
+(   charge\); negative divergence signifies a sink \(negative charge\); zero divergence indicates a) Tj
+T*
+(   solenoidal, sourceless field.) Tj
+T*
+() Tj
+T*
+(   5. Curl of a Vector Field:) Tj
+T*
+(   - curl F = Del x F = i*\(dF_z/dy - dF_y/dz\) + j*\(dF_x/dz - dF_z/dx\) + k*\(dF_y/dx - dF_x/dy\).) Tj
+T*
+(   - Physical Meaning: Represents the microscopic rotational circulation or vortex density per) Tj
+T*
+(   unit area around a point. In electrodynamics, a time-varying magnetic field produces a curling) Tj
+T*
+(   electric field \(Del x E = -dB/dt\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 2:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: State and prove Gauss's Divergence Theorem. Explain its role in transitioning from Maxwell's integral to differential equations.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Statement of Gauss's Divergence Theorem:) Tj
+T*
+(   The total outward flux of a continuously differentiable vector field F through a closed surface) Tj
+T*
+(   S is equal to the volume integral of the divergence of F over the enclosed volume V:) Tj
+T*
+(   Closed_Integral_S \(F dot dS\) = Integral_V \(Del dot F\) dV.) Tj
+T*
+() Tj
+T*
+(   2. Mathematical Proof Outline:) Tj
+T*
+(   - Subdivide volume V into an infinite number of infinitesimal rectangular parallelepipeds of) Tj
+T*
+(   dimensions dx, dy, dz.) Tj
+T*
+(   - For an individual cell at \(x,y,z\), the net outward flux through the pair of faces) Tj
+T*
+(   perpendicular to the x-axis is:) Tj
+T*
+(   dPhi_x = [ F_x\(x + dx, y, z\) - F_x\(x, y, z\) ] * dy * dz = \(dF_x/dx\) * dx * dy * dz.) Tj
+T*
+(   - Similarly, for the y- and z-faces:) Tj
+T*
+(   dPhi_y = \(dF_y/dy\) * dx * dy * dz, and dPhi_z = \(dF_z/dz\) * dx * dy * dz.) Tj
+T*
+(   - Summing all six faces of the infinitesimal cell:) Tj
+T*
+(   dPhi = [ \(dF_x/dx\) + \(dF_y/dy\) + \(dF_z/dz\) ] * dx * dy * dz = \(Del dot F\) * dV.) Tj
+T*
+ET
+
+endstream
+endobj
+27 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 28 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+28 0 obj
+<< /Length 3987 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 1: ELECTROMAGNETIC THEORY & MAXWELL'S EQUATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 13 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - Summing over all volume elements in V, the internal boundary fluxes between adjoining) Tj
+T*
+(   interior cells cancel identically in pairs because outward normals on adjoining shared faces) Tj
+T*
+(   point in opposite directions.) Tj
+T*
+(   - Only the flux across the external bounding surface S survives:) Tj
+T*
+(   Closed_Integral_S \(F dot dS\) = Integral_V \(Del dot F\) dV. \(Q.E.D.\)) Tj
+T*
+() Tj
+T*
+(   3. Application to Maxwell's First Equation:) Tj
+T*
+(   - Gauss's Law in integral form: Closed_Integral_S \(D dot dS\) = Q_enclosed = Integral_V \(rho_v\)) Tj
+T*
+(   dV.) Tj
+T*
+(   - Applying divergence theorem: Integral_V \(Del dot D\) dV = Integral_V \(rho_v\) dV.) Tj
+T*
+(   - Since this holds for an arbitrary volume V: Del dot D = rho_v \(Differential Form\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 3:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: State and prove Stokes's Theorem. Demonstrate how it connects Faraday's Law in integral and differential forms.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Statement of Stokes's Theorem:) Tj
+T*
+(   The circulation of a vector field F around a closed contour C is equal to the surface integral) Tj
+T*
+(   of the curl of F over any open surface S bounded by C:) Tj
+T*
+(   Closed_Integral_C \(F dot dl\) = Integral_S \( \(Del x F\) dot dS \).) Tj
+T*
+() Tj
+T*
+(   2. Mathematical Proof Outline:) Tj
+T*
+(   - Partition the open surface S into microscopic planar rectangular elements of dimensions dx) Tj
+T*
+(   and dy.) Tj
+T*
+(   - Consider an elementary loop in the xy-plane with vertices at \(x,y\), \(x+dx,y\), \(x+dx,y+dy\),) Tj
+T*
+(   \(x,y+dy\).) Tj
+T*
+(   - The line integral around this counter-clockwise elementary loop is:) Tj
+T*
+(   dGamma = F_x\(x,y\)*dx + F_y\(x+dx,y\)*dy - F_x\(x,y+dy\)*dx - F_y\(x,y\)*dy) Tj
+T*
+(   = - [ \(dF_x/dy\)*dy ] * dx + [ \(dF_y/dx\)*dx ] * dy) Tj
+T*
+(   = [ \(dF_y/dx\) - \(dF_x/dy\) ] * dx * dy = \(Del x F\)_z * dS_z.) Tj
+T*
+(   - Extending this to all three spatial components in arbitrary orientation:) Tj
+T*
+(   dGamma = \(Del x F\) dot dS.) Tj
+T*
+(   - Summing over all surface elements, line integrals along shared interior edges cancel because) Tj
+T*
+(   they are traversed in opposite directions.) Tj
+T*
+(   - Only the line integral along the external boundary curve C remains:) Tj
+T*
+(   Closed_Integral_C \(F dot dl\) = Integral_S \( \(Del x F\) dot dS \). \(Q.E.D.\)) Tj
+T*
+() Tj
+T*
+(   3. Connection to Faraday's Law:) Tj
+T*
+(   - Integral form: emf = Closed_Integral_C \(E dot dl\) = - d\(Phi_B\) / dt = - d/dt Integral_S \(B) Tj
+T*
+(   dot dS\).) Tj
+T*
+(   - Applying Stokes's Theorem to the left-hand side:) Tj
+T*
+(   Integral_S \( \(Del x E\) dot dS \) = - Integral_S \( \(dB/dt\) dot dS \).) Tj
+T*
+(   - For an arbitrary surface S: Del x E = - dB / dt \(Differential Form\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 4:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Derive the Equation of Continuity from the fundamental principle of charge conservation. Explain its physical significance in time-varying fields.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Principle of Conservation of Electric Charge:) Tj
+T*
+(   - Electric charge is an invariant, conserved physical quantity. It can neither be created nor) Tj
+T*
+(   destroyed.) Tj
+T*
+(   - In any closed volume V bounded by surface S, if the total enclosed charge Q decreases, it) Tj
+T*
+ET
+
+endstream
+endobj
+29 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 30 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+30 0 obj
+<< /Length 3770 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 1: ELECTROMAGNETIC THEORY & MAXWELL'S EQUATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 14 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   must flow outward across the surface S as an electric current.) Tj
+T*
+() Tj
+T*
+(   2. Mathematical Formulation:) Tj
+T*
+(   - Total enclosed charge: Q\(t\) = Integral_V rho\(x,y,z,t\) dV, where rho is volume charge density) Tj
+T*
+(   \(C/m^3\).) Tj
+T*
+(   - Net outward current leaving through bounding surface S:) Tj
+T*
+(   I_out = Closed_Integral_S \(J dot dS\), where J is current density vector \(A/m^2\).) Tj
+T*
+(   - By charge conservation: I_out = - dQ / dt.) Tj
+T*
+(   - Substituting expressions:) Tj
+T*
+(   Closed_Integral_S \(J dot dS\) = - d/dt Integral_V rho dV = - Integral_V \(d\(rho\)/dt\) dV.) Tj
+T*
+() Tj
+T*
+(   3. Application of Gauss's Divergence Theorem:) Tj
+T*
+(   - Transform the surface integral into a volume integral:) Tj
+T*
+(   Integral_V \(Del dot J\) dV = - Integral_V \(d\(rho\)/dt\) dV.) Tj
+T*
+(   - Rearranging: Integral_V [ Del dot J + d\(rho\)/dt ] dV = 0.) Tj
+T*
+(   - Since the volume V is completely arbitrary, the integrand must vanish identically everywhere:) Tj
+T*
+(   Del dot J = - d\(rho\) / dt \(Differential Equation of Continuity\).) Tj
+T*
+() Tj
+T*
+(   4. Physical Significance:) Tj
+T*
+(   - In steady-state DC systems: d\(rho\)/dt = 0, which yields Del dot J = 0 \(Kirchhoff's Current) Tj
+T*
+(   Law at a point\).) Tj
+T*
+(   - In AC and transient electrodynamic systems: d\(rho\)/dt != 0, proving that diverging conduction) Tj
+T*
+(   current implies a local depletion of charge.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 5:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the inconsistency of Ampere's Circuital Law for time-dependent fields. How did Maxwell resolve this dilemma by introducing the displacement current?) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Ampere's Original Circuital Law:) Tj
+T*
+(   - In differential form: Del x B = mu_0 * J \(or Del x H = J\).) Tj
+T*
+(   - In integral form: Closed_Integral_C \(B dot dl\) = mu_0 * I_enclosed.) Tj
+T*
+() Tj
+T*
+(   2. Mathematical Inconsistency:) Tj
+T*
+(   - Take the divergence of both sides of Ampere's differential law:) Tj
+T*
+(   Del dot \(Del x B\) = mu_0 * \(Del dot J\).) Tj
+T*
+(   - In vector calculus, the divergence of the curl of any vector field is identically zero: Del) Tj
+T*
+(   dot \(Del x B\) = 0.) Tj
+T*
+(   - This forces: Del dot J = 0.) Tj
+T*
+(   - However, according to the continuity equation: Del dot J = - d\(rho\)/dt.) Tj
+T*
+(   - Thus, Ampere's law demands d\(rho\)/dt = 0, which is valid strictly for steady DC currents, but) Tj
+T*
+(   fundamentally fails whenever charges accumulate or vary dynamically with time \(e.g., during the) Tj
+T*
+(   charging of a capacitor\).) Tj
+T*
+() Tj
+T*
+(   3. Maxwell's Brilliant Modification:) Tj
+T*
+(   - Maxwell postulated that an additional current density term, termed Displacement Current) Tj
+T*
+(   Density J_d, must be added to conduction current J:) Tj
+T*
+(   Del x H = J + J_d.) Tj
+T*
+(   - Taking divergence: Del dot \(Del x H\) = 0 = Del dot J + Del dot J_d.) Tj
+T*
+(   - Therefore: Del dot J_d = - Del dot J = d\(rho\)/dt.) Tj
+T*
+(   - From Gauss's law: rho = Del dot D. Differentiating with respect to time:) Tj
+T*
+(   d\(rho\)/dt = d/dt \(Del dot D\) = Del dot \(dD/dt\).) Tj
+T*
+(   - Equating: Del dot J_d = Del dot \(dD/dt\) => J_d = dD / dt.) Tj
+T*
+(   - In vacuum: J_d = epsilon_0 * \(dE / dt\).) Tj
+T*
+ET
+
+endstream
+endobj
+31 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 32 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+32 0 obj
+<< /Length 4142 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 1: ELECTROMAGNETIC THEORY & MAXWELL'S EQUATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 15 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - Modified Ampere-Maxwell Law: Del x H = J + dD / dt.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 6:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Describe the parallel-plate capacitor paradox during charging, and prove mathematically that conduction current in the leads equals displacement current between the plates.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. The Capacitor Paradox:) Tj
+T*
+(   - Consider a circular parallel-plate capacitor of plate area A and separation d being charged) Tj
+T*
+(   by current i_c\(t\).) Tj
+T*
+(   - Choose a closed loop C encircling the wire feeding the positive plate.) Tj
+T*
+(   - Let S1 be a flat surface bounded by C that passes through the connecting wire.) Tj
+T*
+(   - Let S2 be a bag-shaped surface bounded by the same loop C that balloons out between the) Tj
+T*
+(   capacitor plates without touching either plate.) Tj
+T*
+(   - By original Ampere's law: Closed_Integral_C \(B dot dl\) = mu_0 * I_through_S.) Tj
+T*
+(   - For surface S1: I_through_S1 = i_c \(conduction current\). Hence B != 0.) Tj
+T*
+(   - For surface S2: No conduction current flows through the vacuum/dielectric between plates \(i_c) Tj
+T*
+(   = 0\). Thus Ampere's law predicts B = 0!) Tj
+T*
+(   - A single physical loop C cannot have two different magnetic fields simultaneously. This was) Tj
+T*
+(   the famous capacitor paradox.) Tj
+T*
+() Tj
+T*
+(   2. Mathematical Resolution via Displacement Current:) Tj
+T*
+(   - Let charge on plates at instant t be q\(t\). Surface charge density: sigma = q\(t\) / A.) Tj
+T*
+(   - Electric field between plates: E\(t\) = sigma / epsilon = q\(t\) / \(epsilon * A\).) Tj
+T*
+(   - Electric flux through surface S2: Phi_E = E\(t\) * A = q\(t\) / epsilon.) Tj
+T*
+(   - The displacement current passing through surface S2 is:) Tj
+T*
+(   i_d = Integral_S2 \(J_d dot dS\) = Integral_S2 [ epsilon * \(dE/dt\) ] dS = epsilon * \(dPhi_E /) Tj
+T*
+(   dt\).) Tj
+T*
+(   - Substituting Phi_E: i_d = epsilon * d/dt [ q\(t\) / epsilon ] = dq\(t\) / dt.) Tj
+T*
+(   - By definition of conduction current: i_c = dq\(t\) / dt.) Tj
+T*
+(   - Therefore: i_d = i_c at every instant of time!) Tj
+T*
+(   - The total current \(i_c + i_d\) is perfectly continuous across the circuit, completely) Tj
+T*
+(   resolving the paradox.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 7:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: State all four Maxwell's equations in both differential and integral forms for general media, and explain the physical law underlying each equation.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Maxwell's Equation I \(Gauss's Law for Electrostatics\):) Tj
+T*
+(   - Differential Form: Del dot D = rho_free) Tj
+T*
+(   - Integral Form: Closed_Integral_S \(D dot dS\) = Q_free,enclosed = Integral_V rho_free dV) Tj
+T*
+(   - Physical Basis: Coulomb's Inverse Square Law. Net electric displacement flux through any) Tj
+T*
+(   closed surface is proportional to total free electric charge enclosed. Electric field lines) Tj
+T*
+(   originate on positive charges and terminate on negative charges.) Tj
+T*
+() Tj
+T*
+(   2. Maxwell's Equation II \(Gauss's Law for Magnetism\):) Tj
+T*
+(   - Differential Form: Del dot B = 0) Tj
+T*
+(   - Integral Form: Closed_Integral_S \(B dot dS\) = 0) Tj
+T*
+(   - Physical Basis: Absence of isolated magnetic charges \(magnetic monopoles\). Magnetic flux) Tj
+T*
+(   lines are continuous closed loops; every magnetic north pole is paired with an equal south) Tj
+T*
+(   pole.) Tj
+T*
+() Tj
+T*
+(   3. Maxwell's Equation III \(Faraday's Law of Induction\):) Tj
+T*
+ET
+
+endstream
+endobj
+33 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 34 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+34 0 obj
+<< /Length 3903 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 1: ELECTROMAGNETIC THEORY & MAXWELL'S EQUATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 16 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - Differential Form: Del x E = - dB / dt) Tj
+T*
+(   - Integral Form: Closed_Integral_C \(E dot dl\) = - d/dt Integral_S \(B dot dS\) = - d\(Phi_B\) / dt) Tj
+T*
+(   - Physical Basis: Faraday's and Lenz's laws of electromagnetic induction. A time-varying) Tj
+T*
+(   magnetic field produces an induced non-conservative, circulating electric field.) Tj
+T*
+() Tj
+T*
+(   4. Maxwell's Equation IV \(Ampere-Maxwell Circuital Law\):) Tj
+T*
+(   - Differential Form: Del x H = J_free + dD / dt) Tj
+T*
+(   - Integral Form: Closed_Integral_C \(H dot dl\) = Integral_S \(J_free + dD/dt\) dot dS =) Tj
+T*
+(   I_conduction + I_displacement) Tj
+T*
+(   - Physical Basis: Oersted-Ampere discovery extended by Maxwell. Magnetic fields are produced) Tj
+T*
+(   both by physical moving charges \(conduction current\) and by dynamically varying electric fields) Tj
+T*
+(   \(displacement current\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 8:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Derive the electromagnetic wave equation for electric field E in a linear, isotropic, homogeneous, and charge-free dielectric medium.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Starting Maxwell's Equations in Source-Free Dielectric \(rho = 0, J = 0\):) Tj
+T*
+(   - \(1\) Del dot E = 0) Tj
+T*
+(   - \(2\) Del dot H = 0) Tj
+T*
+(   - \(3\) Del x E = - mu * \(dH / dt\)) Tj
+T*
+(   - \(4\) Del x H = epsilon * \(dE / dt\)) Tj
+T*
+() Tj
+T*
+(   2. Derivation Procedure:) Tj
+T*
+(   - Take the curl of Faraday's Law \(Eq 3\):) Tj
+T*
+(   Del x \(Del x E\) = Del x [ - mu * \(dH / dt\) ] = - mu * d/dt \(Del x H\).) Tj
+T*
+(   - Substitute Ampere-Maxwell's Law \(Eq 4\) into the right-hand side:) Tj
+T*
+(   Del x \(Del x E\) = - mu * d/dt [ epsilon * \(dE / dt\) ] = - mu * epsilon * \(d^2E / dt^2\).) Tj
+T*
+(   - Apply the standard vector calculus Laplacian identity to the left-hand side:) Tj
+T*
+(   Del x \(Del x E\) = Del \(Del dot E\) - Del^2\(E\).) Tj
+T*
+(   - Since the medium is charge-free \(rho = 0\), Gauss's Law gives Del dot E = 0. Therefore Del\(Del) Tj
+T*
+(   dot E\) = 0.) Tj
+T*
+(   - The identity reduces to: - Del^2\(E\) = - mu * epsilon * \(d^2E / dt^2\).) Tj
+T*
+(   - Simplifying signs yields the classic 3D vector wave equation:) Tj
+T*
+(   Del^2\(E\) = mu * epsilon * \(d^2E / dt^2\) [Helmholtz Wave Equation].) Tj
+T*
+() Tj
+T*
+(   3. Comparison with General 3D Classical Wave Equation:) Tj
+T*
+(   - Standard wave equation: Del^2\(psi\) = \(1 / v^2\) * \(d^2psi / dt^2\).) Tj
+T*
+(   - Comparing coefficients: 1 / v^2 = mu * epsilon => v = 1 / sqrt\(mu * epsilon\).) Tj
+T*
+(   - In free vacuum: v = c = 1 / sqrt\(mu_0 * epsilon_0\) ~= 3.0 x 10^8 m/s.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 9:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Derive the electromagnetic wave equation for magnetic field H in a charge-free dielectric, and compare its phase velocity with that of the electric field.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Maxwell's Curl Equations in Non-Conducting Medium \(J = 0, rho = 0\):) Tj
+T*
+(   - Del x E = - mu * \(dH / dt\)) Tj
+T*
+(   - Del x H = epsilon * \(dE / dt\)) Tj
+T*
+() Tj
+T*
+(   2. Derivation for Magnetic Field H:) Tj
+T*
+(   - Take the curl of the Ampere-Maxwell Law:) Tj
+T*
+(   Del x \(Del x H\) = Del x [ epsilon * \(dE / dt\) ] = epsilon * d/dt \(Del x E\).) Tj
+T*
+ET
+
+endstream
+endobj
+35 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 36 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+36 0 obj
+<< /Length 3960 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 1: ELECTROMAGNETIC THEORY & MAXWELL'S EQUATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 17 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - Substitute Faraday's Law for Del x E:) Tj
+T*
+(   Del x \(Del x H\) = epsilon * d/dt [ - mu * \(dH / dt\) ] = - mu * epsilon * \(d^2H / dt^2\).) Tj
+T*
+(   - Apply vector identity to the left-hand side:) Tj
+T*
+(   Del x \(Del x H\) = Del \(Del dot H\) - Del^2\(H\).) Tj
+T*
+(   - By Gauss's Law for magnetism, Del dot B = 0 => Del dot H = 0. Therefore, Del \(Del dot H\) = 0.) Tj
+T*
+(   - Substituting back gives:) Tj
+T*
+(   - Del^2\(H\) = - mu * epsilon * \(d^2H / dt^2\) => Del^2\(H\) = mu * epsilon * \(d^2H / dt^2\).) Tj
+T*
+() Tj
+T*
+(   3. Comparison of Phase Velocities:) Tj
+T*
+(   - The phase velocity for H is v_H = 1 / sqrt\(mu * epsilon\).) Tj
+T*
+(   - The phase velocity for E is v_E = 1 / sqrt\(mu * epsilon\).) Tj
+T*
+(   - Both electric and magnetic wave components propagate in the medium with precisely the) Tj
+T*
+(   identical phase velocity v.) Tj
+T*
+(   - In a non-magnetic medium where mu_r = 1: v = c / sqrt\(epsilon_r\) = c / n, where n =) Tj
+T*
+(   sqrt\(epsilon_r\) is the optical refractive index.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 10:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Prove that plane electromagnetic waves in free space are strictly transverse in nature \(i.e., both E and H have zero components along the direction of propagation\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Definition of a Plane Wave:) Tj
+T*
+(   - Assume a uniform plane wave propagating along the +z direction.) Tj
+T*
+(   - Spatial derivatives with respect to x and y vanish: d/dx = 0, d/dy = 0.) Tj
+T*
+(   - Electric and magnetic fields are functions only of z and t:) Tj
+T*
+(   E = E_x\(z,t\) i + E_y\(z,t\) j + E_z\(z,t\) k) Tj
+T*
+(   H = H_x\(z,t\) i + H_y\(z,t\) j + H_z\(z,t\) k) Tj
+T*
+() Tj
+T*
+(   2. Transverse Nature of Electric Field E:) Tj
+T*
+(   - Apply Maxwell's first equation in free space \(Del dot E = 0\):) Tj
+T*
+(   \(dE_x/dx\) + \(dE_y/dy\) + \(dE_z/dz\) = 0.) Tj
+T*
+(   - Since dE_x/dx = 0 and dE_y/dy = 0, this leaves: dE_z / dz = 0.) Tj
+T*
+(   - Now consider the wave equation for the z-component: d^2E_z / dz^2 = mu_0*epsilon_0 * \(d^2E_z) Tj
+T*
+(   / dt^2\).) Tj
+T*
+(   - Since dE_z/dz = 0, it follows that d^2E_z/dt^2 = 0, meaning E_z can at most be a static,) Tj
+T*
+(   uniform field. For a propagating time-harmonic wave, E_z must be identically zero: E_z = 0.) Tj
+T*
+() Tj
+T*
+(   3. Transverse Nature of Magnetic Field H:) Tj
+T*
+(   - Apply Maxwell's second equation \(Del dot B = 0 => Del dot H = 0\):) Tj
+T*
+(   \(dH_x/dx\) + \(dH_y/dy\) + \(dH_z/dz\) = 0 => dH_z / dz = 0.) Tj
+T*
+(   - Similarly, from the wave equation for H_z, dynamic solutions require: H_z = 0.) Tj
+T*
+() Tj
+T*
+(   4. Conclusion:) Tj
+T*
+(   - Because E_z = 0 and H_z = 0, both electric and magnetic field vectors lie strictly in the) Tj
+T*
+(   transverse xy-plane, perpendicular to the direction of propagation \(+z\). Hence, plane EM waves) Tj
+T*
+(   are purely transverse.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 11:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Derive the relationship between electric and magnetic field amplitudes in a plane EM wave, and obtain the expression for the intrinsic impedance of free space.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Setup for Linearly Polarized Plane Wave:) Tj
+T*
+(   - Let the electric field be polarized along the x-axis propagating in the +z direction:) Tj
+T*
+ET
+
+endstream
+endobj
+37 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 38 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+38 0 obj
+<< /Length 3820 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 1: ELECTROMAGNETIC THEORY & MAXWELL'S EQUATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 18 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   E\(z,t\) = E_0 * cos\(omega*t - k*z\) i.) Tj
+T*
+(   - From transverse wave properties: E_y = 0, E_z = 0.) Tj
+T*
+() Tj
+T*
+(   2. Application of Maxwell's Third Equation \(Del x E = - mu_0 * dH/dt\):) Tj
+T*
+(   - Evaluate curl of E:) Tj
+T*
+(   Del x E = i*\(dE_z/dy - dE_y/dz\) + j*\(dE_x/dz - dE_z/dx\) + k*\(dE_y/dx - dE_x/dy\).) Tj
+T*
+(   Del x E = j * \(dE_x / dz\).) Tj
+T*
+(   - From E_x\(z,t\): dE_x / dz = k * E_0 * sin\(omega*t - k*z\).) Tj
+T*
+(   - Equating components with - mu_0 * \(dH/dt\):) Tj
+T*
+(   - mu_0 * \(dH_x/dt\) = 0 => H_x = 0.) Tj
+T*
+(   - mu_0 * \(dH_y/dt\) = dE_x/dz = k * E_0 * sin\(omega*t - k*z\).) Tj
+T*
+(   - mu_0 * \(dH_z/dt\) = 0 => H_z = 0.) Tj
+T*
+(   - Integrating H_y with respect to t:) Tj
+T*
+(   H_y\(z,t\) = - \(k * E_0 / mu_0\) * Integral sin\(omega*t - k*z\) dt = \(k * E_0 / \(mu_0 * omega\)\) *) Tj
+T*
+(   cos\(omega*t - k*z\).) Tj
+T*
+() Tj
+T*
+(   3. Evaluating the Ratio and Intrinsic Impedance:) Tj
+T*
+(   - Note that wave number k = omega / c = omega * sqrt\(mu_0 * epsilon_0\).) Tj
+T*
+(   - Amplitude of H_y: H_0 = \(k * E_0\) / \(mu_0 * omega\) = [ omega*sqrt\(mu_0*epsilon_0\) * E_0 ] /) Tj
+T*
+(   \(mu_0*omega\) = sqrt\(epsilon_0 / mu_0\) * E_0.) Tj
+T*
+(   - Therefore, the ratio of electric to magnetic field amplitude is defined as the intrinsic wave) Tj
+T*
+(   impedance eta_0:) Tj
+T*
+(   eta_0 = E_0 / H_0 = sqrt\(mu_0 / epsilon_0\).) Tj
+T*
+(   - Numerical Calculation in Free Space:) Tj
+T*
+(   mu_0 = 4*pi * 10^-7 H/m, epsilon_0 = 8.8541878 x 10^-12 F/m.) Tj
+T*
+(   eta_0 = sqrt\( \(4*pi * 10^-7\) / \(8.8541878 x 10^-12\) \) = 376.73 Ohms \(~ 120*pi Ohms ~ 377 Ohms\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 12:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: State and derive Poynting's Theorem from Maxwell's equations. Provide the physical interpretation of each term in the resulting equation.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Statement of Poynting's Theorem:) Tj
+T*
+(   Poynting's theorem represents the law of conservation of electromagnetic energy for) Tj
+T*
+(   electrodynamic systems. It states that the rate of energy flowing out of a closed volume equals) Tj
+T*
+(   the rate of decrease of stored electromagnetic energy minus the work done on charges \(ohmic) Tj
+T*
+(   losses\).) Tj
+T*
+() Tj
+T*
+(   2. Mathematical Derivation:) Tj
+T*
+(   - Maxwell's curl equations:) Tj
+T*
+(   \(1\) Del x E = - dB / dt = - mu * \(dH / dt\)) Tj
+T*
+(   \(2\) Del x H = J + dD / dt = J + epsilon * \(dE / dt\)) Tj
+T*
+(   - Consider the vector identity for the divergence of a cross product:) Tj
+T*
+(   Del dot \(E x H\) = H dot \(Del x E\) - E dot \(Del x H\).) Tj
+T*
+(   - Substitute curl expressions \(1\) and \(2\) into the identity:) Tj
+T*
+(   Del dot \(E x H\) = H dot [ - mu * \(dH/dt\) ] - E dot [ J + epsilon * \(dE/dt\) ]) Tj
+T*
+(   = - mu * H dot \(dH/dt\) - epsilon * E dot \(dE/dt\) - J dot E.) Tj
+T*
+(   - Notice that: mu * H dot \(dH/dt\) = d/dt [ 0.5 * mu * H^2 ], and epsilon * E dot \(dE/dt\) = d/dt) Tj
+T*
+(   [ 0.5 * epsilon * E^2 ].) Tj
+T*
+(   - Therefore:) Tj
+T*
+(   Del dot \(E x H\) = - d/dt [ 0.5*epsilon*E^2 + 0.5*mu*H^2 ] - J dot E.) Tj
+T*
+(   - Defining the Poynting vector S = E x H and integrating over volume V:) Tj
+T*
+(   Integral_V [ Del dot S ] dV = - d/dt Integral_V [ 0.5*epsilon*E^2 + 0.5*mu*H^2 ] dV -) Tj
+T*
+(   Integral_V \(J dot E\) dV.) Tj
+T*
+ET
+
+endstream
+endobj
+39 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 40 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+40 0 obj
+<< /Length 3777 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 1: ELECTROMAGNETIC THEORY & MAXWELL'S EQUATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 19 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - Applying Gauss's Divergence Theorem to the left-hand side:) Tj
+T*
+(   Closed_Integral_S \(S dot dS\) = - d/dt Integral_V u_EM dV - Integral_V \(J dot E\) dV.) Tj
+T*
+() Tj
+T*
+(   3. Physical Interpretation of Terms:) Tj
+T*
+(   - Closed_Integral_S \(S dot dS\): Rate of electromagnetic energy leaving volume V through) Tj
+T*
+(   boundary surface S.) Tj
+T*
+(   - d/dt Integral_V u_EM dV: Time rate of decrease of stored electric and magnetic energy within) Tj
+T*
+(   volume V.) Tj
+T*
+(   - Integral_V \(J dot E\) dV: Rate of energy converted into Joule heat \(ohmic dissipation\) or) Tj
+T*
+(   mechanical work done on charges.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 13:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Calculate the time-average Poynting vector for a harmonic plane electromagnetic wave, and prove that energy is equally partitioned between electric and magnetic fields.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Wave Expressions:) Tj
+T*
+(   - E\(z,t\) = E_0 * cos\(omega*t - k*z\) i) Tj
+T*
+(   - H\(z,t\) = H_0 * cos\(omega*t - k*z\) j = \(E_0 / eta\) * cos\(omega*t - k*z\) j) Tj
+T*
+() Tj
+T*
+(   2. Instantaneous Poynting Vector S:) Tj
+T*
+(   - S = E x H = [ E_0 * cos\(omega*t - k*z\) i ] x [ H_0 * cos\(omega*t - k*z\) j ]) Tj
+T*
+(   S = E_0 * H_0 * cos^2\(omega*t - k*z\) k = \(E_0^2 / eta\) * cos^2\(omega*t - k*z\) k.) Tj
+T*
+() Tj
+T*
+(   3. Time-Averaging over a Complete Period T = 2*pi / omega:) Tj
+T*
+(   - Average of cos^2\(theta\) over one period is 1/2:) Tj
+T*
+(   <cos^2\(omega*t - k*z\)> = \(1 / T\) * Integral_0^T cos^2\(omega*t - k*z\) dt = 1/2.) Tj
+T*
+(   - Therefore, time-average Poynting vector:) Tj
+T*
+(   S_avg = 0.5 * E_0 * H_0 k = 0.5 * \(E_0^2 / eta\) k = 0.5 * epsilon * v * E_0^2 k.) Tj
+T*
+() Tj
+T*
+(   4. Proof of Equal Energy Partitioning:) Tj
+T*
+(   - Instantaneous electric energy density: u_E = 0.5 * epsilon * E^2.) Tj
+T*
+(   Time average: <u_E> = 0.5 * epsilon * E_0^2 * <cos^2> = 0.25 * epsilon * E_0^2.) Tj
+T*
+(   - Instantaneous magnetic energy density: u_B = 0.5 * mu * H^2.) Tj
+T*
+(   Time average: <u_B> = 0.5 * mu * H_0^2 * <cos^2> = 0.25 * mu * \(E_0 / eta\)^2.) Tj
+T*
+(   - Substitute eta = sqrt\(mu / epsilon\):) Tj
+T*
+(   <u_B> = 0.25 * mu * [ E_0^2 / \(mu / epsilon\) ] = 0.25 * epsilon * E_0^2.) Tj
+T*
+(   - Comparing: <u_E> = <u_B> = 0.25 * epsilon * E_0^2.) Tj
+T*
+(   - Total average energy density: <u_total> = <u_E> + <u_B> = 0.5 * epsilon * E_0^2.) Tj
+T*
+(   - This proves that electromagnetic energy is stored in exactly equal halves between the) Tj
+T*
+(   electric and magnetic fields.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 14:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Derive the electromagnetic wave equation in a conducting medium, and obtain expressions for the attenuation constant alpha and phase constant beta.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Maxwell's Equations in Lossy Conducting Medium \(rho = 0, J = sigma * E\):) Tj
+T*
+(   - \(1\) Del dot E = 0) Tj
+T*
+(   - \(2\) Del dot H = 0) Tj
+T*
+(   - \(3\) Del x E = - mu * \(dH / dt\)) Tj
+T*
+(   - \(4\) Del x H = sigma * E + epsilon * \(dE / dt\)) Tj
+T*
+() Tj
+T*
+(   2. Derivation of Wave Equation:) Tj
+T*
+ET
+
+endstream
+endobj
+41 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 42 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+42 0 obj
+<< /Length 3931 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 1: ELECTROMAGNETIC THEORY & MAXWELL'S EQUATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 20 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - Take curl of Eq \(3\): Del x \(Del x E\) = - mu * d/dt \(Del x H\).) Tj
+T*
+(   - Substitute Eq \(4\):) Tj
+T*
+(   Del\(Del dot E\) - Del^2\(E\) = - mu * d/dt [ sigma * E + epsilon * \(dE/dt\) ].) Tj
+T*
+(   - Since Del dot E = 0:) Tj
+T*
+(   Del^2\(E\) = mu * sigma * \(dE / dt\) + mu * epsilon * \(d^2E / dt^2\) [Telegrapher's Equation for) Tj
+T*
+(   E].) Tj
+T*
+() Tj
+T*
+(   3. Time-Harmonic Fields \(d/dt -> j*omega\):) Tj
+T*
+(   - Del^2\(E\) = [ j*omega*mu*sigma - omega^2*mu*epsilon ] E = gamma^2 * E,) Tj
+T*
+(   where gamma is the complex propagation constant: gamma = alpha + j*beta = sqrt\() Tj
+T*
+(   j*omega*mu*\(sigma + j*omega*epsilon\) \).) Tj
+T*
+() Tj
+T*
+(   4. Expressions for alpha and beta:) Tj
+T*
+(   - Squaring both sides: \(alpha + j*beta\)^2 = alpha^2 - beta^2 + 2*j*alpha*beta = -) Tj
+T*
+(   omega^2*mu*epsilon + j*omega*mu*sigma.) Tj
+T*
+(   - Equating real and imaginary parts:) Tj
+T*
+(   \(i\) beta^2 - alpha^2 = omega^2 * mu * epsilon) Tj
+T*
+(   \(ii\) 2*alpha*beta = omega * mu * sigma) Tj
+T*
+(   - Solving the coupled equations yields:) Tj
+T*
+(   alpha = omega * sqrt\( \(mu*epsilon / 2\) * [ sqrt\(1 + \(sigma / \(omega*epsilon\)\)^2\) - 1 ] \)) Tj
+T*
+(   beta = omega * sqrt\( \(mu*epsilon / 2\) * [ sqrt\(1 + \(sigma / \(omega*epsilon\)\)^2\) + 1 ] \).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 15:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Define skin depth \(depth of penetration\). Derive its formula for a good conductor and explain its engineering consequences in structural grounding and EM shielding.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Definition of Skin Depth:) Tj
+T*
+(   - When an electromagnetic wave penetrates a conducting medium, its electric field amplitude) Tj
+T*
+(   decays exponentially with distance z:) Tj
+T*
+(   E\(z\) = E_0 * exp\(-alpha * z\) * cos\(omega*t - beta*z\).) Tj
+T*
+(   - Skin depth \(delta\) is defined as the depth beneath the conductor surface at which wave) Tj
+T*
+(   amplitude decays to 1/e \(~36.8%\) of its surface value:) Tj
+T*
+(   exp\(-alpha * delta\) = exp\(-1\) => delta = 1 / alpha.) Tj
+T*
+() Tj
+T*
+(   2. Derivation for a Good Conductor \(sigma >> omega * epsilon\):) Tj
+T*
+(   - In a good conductor, the conduction current dominates displacement current: sigma / \(omega *) Tj
+T*
+(   epsilon\) >> 1.) Tj
+T*
+(   - Complex propagation constant:) Tj
+T*
+(   gamma = sqrt\( j * omega * mu * sigma \) = sqrt\( omega * mu * sigma \) * sqrt\(j\).) Tj
+T*
+(   - Since sqrt\(j\) = exp\(j*pi/4\) = \(1 + j\) / sqrt\(2\):) Tj
+T*
+(   gamma = sqrt\( omega * mu * sigma / 2 \) * \(1 + j\) = alpha + j * beta.) Tj
+T*
+(   - Therefore: alpha = beta = sqrt\( omega * mu * sigma / 2 \) = sqrt\( pi * f * mu * sigma \).) Tj
+T*
+(   - Substituting into skin depth formula:) Tj
+T*
+(   delta = 1 / alpha = sqrt\( 2 / \(omega * mu * sigma\) \) = 1 / sqrt\( pi * f * mu * sigma \).) Tj
+T*
+() Tj
+T*
+(   3. Engineering Implications:) Tj
+T*
+(   - Structural Grounding and Rebar: At 50/60 Hz, skin depth in steel rebar is a few millimeters.) Tj
+T*
+(   For lightning surges \(high frequency components up to tens of MHz\), current concentrates) Tj
+T*
+(   entirely in a microscopic outer layer, drastically increasing effective AC resistance.) Tj
+T*
+(   - EM Shielding of Control Rooms: High-conductivity copper or aluminum enclosures must exceed) Tj
+T*
+(   several skin depths in thickness \(t > 5*delta\) to attenuate ambient electromagnetic) Tj
+T*
+(   interference by over 40 dB.) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+43 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 44 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+44 0 obj
+<< /Length 4178 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 1: ELECTROMAGNETIC THEORY & MAXWELL'S EQUATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 21 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 16:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the working principles of Ground Penetrating Radar \(GPR\) in civil engineering. How do permittivity and conductivity govern radar depth and resolution?) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Working Principle of GPR:) Tj
+T*
+(   - Ground Penetrating Radar \(GPR\) is a non-destructive geophysical and civil structural) Tj
+T*
+(   diagnostic tool.) Tj
+T*
+(   - A transmitting antenna emits nanosecond-duration pulses of high-frequency electromagnetic) Tj
+T*
+(   waves \(typically 100 MHz to 2.5 GHz\) into a civil structure \(e.g., concrete bridge deck,) Tj
+T*
+(   highway pavement, retaining wall\).) Tj
+T*
+(   - As the wave travels downward, differences in electromagnetic properties at subsurface) Tj
+T*
+(   interfaces \(rebar, voids, moisture pockets, bedrock\) reflect a fraction of the wave energy back) Tj
+T*
+(   to a receiving antenna.) Tj
+T*
+(   - The receiver records two-way travel time \(t\) and amplitude, producing a continuous radargram) Tj
+T*
+(   profile.) Tj
+T*
+() Tj
+T*
+(   2. Governing Parameters:) Tj
+T*
+(   - Relative Permittivity \(epsilon_r\): Controls wave propagation velocity:) Tj
+T*
+(   v = c / sqrt\(epsilon_r\). Depth of target: d = v * t / 2 = \(c * t\) / \(2 * sqrt\(epsilon_r\)\).) Tj
+T*
+(   Typical values: Air = 1, Dry concrete = 4-6, Wet concrete = 8-12, Water = 81.) Tj
+T*
+(   - Conductivity \(sigma\): Controls signal attenuation:) Tj
+T*
+(   alpha ~= 0.5 * sigma * sqrt\(mu / epsilon\) = 60*pi * sigma / sqrt\(epsilon_r\) \(Np/m\).) Tj
+T*
+(   High-conductivity media \(wet saline soil, moist concrete\) cause intense signal attenuation,) Tj
+T*
+(   severely restricting penetration depth.) Tj
+T*
+() Tj
+T*
+(   3. Trade-off between Resolution and Penetration Depth:) Tj
+T*
+(   - Resolution: delta_r ~= lambda / 4 = v / \(4 * f\).) Tj
+T*
+(   - High Frequency \(1.5 - 2.5 GHz\): Short wavelength provides millimeter resolution, ideal for) Tj
+T*
+(   locating shallow rebar and bridge deck delaminations \(depth < 0.5 m\).) Tj
+T*
+(   - Low Frequency \(100 - 400 MHz\): Lower attenuation gives deep penetration \(up to 5-10 m\) for) Tj
+T*
+(   geological surveying and dam bedrock assessment, but at coarse resolution.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 17:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: A circular parallel-plate capacitor of radius R = 15 cm and plate separation d = 3.0 mm is charged by an AC source V\(t\) = 240*sqrt\(2\)*sin\(100*pi*t\) V. Determine: \(a\) capacitance C, \(b\) conduction current i_c\(t\), \(c\) displacement current density J_d\(t\), \(d\) induced magnetic field B at radius r = 10 cm.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Given Data:) Tj
+T*
+(   - Radius R = 0.15 m; Plate area A = pi * R^2 = pi * \(0.15\)^2 = 0.070686 m^2.) Tj
+T*
+(   - Separation d = 3.0 x 10^-3 m; epsilon_0 = 8.854 x 10^-12 F/m.) Tj
+T*
+(   - Voltage V\(t\) = V_0 * sin\(omega*t\), where V_0 = 240*sqrt\(2\) = 339.41 V, omega = 100*pi =) Tj
+T*
+(   314.16 rad/s.) Tj
+T*
+() Tj
+T*
+(   2. \(a\) Capacitance C:) Tj
+T*
+(   - C = epsilon_0 * A / d = \(8.854 x 10^-12 * 0.070686\) / \(3.0 x 10^-3\) = 2.086 x 10^-10 F =) Tj
+T*
+(   208.6 pF.) Tj
+T*
+() Tj
+T*
+(   3. \(b\) Conduction Current i_c\(t\):) Tj
+T*
+(   - i_c\(t\) = C * \(dV/dt\) = C * V_0 * omega * cos\(omega*t\).) Tj
+T*
+(   - Peak current: I_c0 = 2.086 x 10^-10 * 339.41 * 314.16 = 2.224 x 10^-5 A = 22.24 microamperes.) Tj
+T*
+(   - Expression: i_c\(t\) = 22.24 * cos\(100*pi*t\) microamperes.) Tj
+T*
+() Tj
+T*
+(   4. \(c\) Displacement Current Density J_d\(t\):) Tj
+T*
+ET
+
+endstream
+endobj
+45 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 46 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+46 0 obj
+<< /Length 4022 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 1: ELECTROMAGNETIC THEORY & MAXWELL'S EQUATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 22 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - Electric field between plates: E\(t\) = V\(t\) / d.) Tj
+T*
+(   - J_d\(t\) = epsilon_0 * \(dE/dt\) = \(epsilon_0 / d\) * \(dV/dt\) = \(C / A\) * \(dV/dt\) = i_c\(t\) / A.) Tj
+T*
+(   - Peak J_d: J_d0 = 2.224 x 10^-5 / 0.070686 = 3.146 x 10^-4 A/m^2 = 314.6 microamperes/m^2.) Tj
+T*
+(   - Expression: J_d\(t\) = 314.6 * cos\(100*pi*t\) microamperes/m^2.) Tj
+T*
+() Tj
+T*
+(   5. \(d\) Induced Magnetic Field B at r = 0.10 m:) Tj
+T*
+(   - By Ampere-Maxwell law for a circular path of radius r <= R:) Tj
+T*
+(   Closed_Integral \(B dot dl\) = mu_0 * i_d,enclosed => B * \(2*pi*r\) = mu_0 * J_d * \(pi * r^2\).) Tj
+T*
+(   - B\(r,t\) = \(mu_0 * J_d\(t\) * r\) / 2.) Tj
+T*
+(   - Peak B: B_0 = \(4*pi x 10^-7 * 3.146 x 10^-4 * 0.10\) / 2 = 1.977 x 10^-11 Tesla = 19.77 pT.) Tj
+T*
+(   - Result: B\(r,t\) = 19.77 * cos\(100*pi*t\) picotesla.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 18:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: A plane electromagnetic wave in air has electric field E\(z,t\) = 120*cos\(6*pi*10^8 t - beta*z\) i V/m. Calculate: \(a\) frequency f and wavelength lambda, \(b\) phase constant beta, \(c\) magnetic field expression H\(z,t\), \(d\) time-average Poynting vector S_avg.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Given Data:) Tj
+T*
+(   - E\(z,t\) = 120 * cos\(omega*t - beta*z\) i V/m) Tj
+T*
+(   - Angular frequency omega = 6*pi x 10^8 rad/s) Tj
+T*
+(   - Free space parameters: c = 3.0 x 10^8 m/s, eta_0 = 377 Ohms) Tj
+T*
+() Tj
+T*
+(   2. \(a\) Frequency f and Wavelength lambda:) Tj
+T*
+(   - f = omega / \(2*pi\) = \(6*pi x 10^8\) / \(2*pi\) = 3.0 x 10^8 Hz = 300 MHz.) Tj
+T*
+(   - lambda = c / f = \(3.0 x 10^8\) / \(3.0 x 10^8\) = 1.0 meter.) Tj
+T*
+() Tj
+T*
+(   3. \(b\) Phase Constant beta:) Tj
+T*
+(   - beta = omega / c = \(6*pi x 10^8\) / \(3.0 x 10^8\) = 2*pi rad/m ~= 6.283 rad/m.) Tj
+T*
+() Tj
+T*
+(   4. \(c\) Magnetic Field Expression H\(z,t\):) Tj
+T*
+(   - For a wave propagating along +z with E polarized along +i:) Tj
+T*
+(   Direction of H = k_hat x E_hat = k x i = j.) Tj
+T*
+(   - Amplitude: H_0 = E_0 / eta_0 = 120 / 377 = 0.3183 A/m.) Tj
+T*
+(   - Expression: H\(z,t\) = 0.3183 * cos\(6*pi*10^8 t - 6.283*z\) j A/m.) Tj
+T*
+() Tj
+T*
+(   5. \(d\) Time-Average Poynting Vector S_avg:) Tj
+T*
+(   - S_avg = 0.5 * E_0 * H_0 k = 0.5 * 120 * 0.3183 k = 19.1 W/m^2 k.) Tj
+T*
+(   - Alternatively: S_avg = 0.5 * \(E_0^2 / eta_0\) = 0.5 * \(14400 / 377\) = 19.1 W/m^2 along +z.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 19:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Calculate the skin depth and wave velocity in copper \(sigma = 5.8 x 10^7 S/m, mu_r = 1\) at: \(a\) power frequency 60 Hz, \(b\) radio frequency 1 MHz, \(c\) microwave frequency 10 GHz.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Governing Formulas for Good Conductor:) Tj
+T*
+(   - Skin depth: delta = 1 / sqrt\( pi * f * mu * sigma \)) Tj
+T*
+(   - Phase velocity: v = omega / beta = \(2*pi*f\) * delta = sqrt\( 4*pi*f / \(mu * sigma\) \)) Tj
+T*
+(   - Constants: mu = mu_0 = 4*pi x 10^-7 H/m, sigma = 5.8 x 10^7 S/m.) Tj
+T*
+(   - Combined factor: pi * mu_0 * sigma = pi * \(4*pi x 10^-7\) * 5.8 x 10^7 = 2.2898 x 10^2.) Tj
+T*
+(   - Hence: delta = 1 / sqrt\(228.98 * f\) = 0.0661 / sqrt\(f\) meters.) Tj
+T*
+() Tj
+T*
+(   2. \(a\) At Power Frequency f = 60 Hz:) Tj
+T*
+(   - delta = 0.0661 / sqrt\(60\) = 0.0661 / 7.746 = 8.53 x 10^-3 m = 8.53 mm.) Tj
+T*
+(   - v = 2 * pi * 60 * 8.53 x 10^-3 = 3.22 m/s.) Tj
+T*
+ET
+
+endstream
+endobj
+47 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 48 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+48 0 obj
+<< /Length 4038 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 1: ELECTROMAGNETIC THEORY & MAXWELL'S EQUATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 23 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   3. \(b\) At Radio Frequency f = 1 MHz \(10^6 Hz\):) Tj
+T*
+(   - delta = 0.0661 / sqrt\(10^6\) = 0.0661 / 1000 = 6.61 x 10^-5 m = 66.1 micrometers.) Tj
+T*
+(   - v = 2 * pi * 10^6 * 6.61 x 10^-5 = 4.15 x 10^2 m/s = 415 m/s.) Tj
+T*
+() Tj
+T*
+(   4. \(c\) At Microwave Frequency f = 10 GHz \(10^10 Hz\):) Tj
+T*
+(   - delta = 0.0661 / sqrt\(10^10\) = 0.0661 / 10^5 = 6.61 x 10^-7 m = 0.661 micrometers.) Tj
+T*
+(   - v = 2 * pi * 10^10 * 6.61 x 10^-7 = 4.15 x 10^4 m/s = 41.5 km/s.) Tj
+T*
+() Tj
+T*
+(   5. Engineering Observation:) Tj
+T*
+(   - Skin depth decreases by four orders of magnitude from 8.5 mm down to 0.66 microns.) Tj
+T*
+(   High-frequency waveguides and RF cables need only thin surface silver/gold plating.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 20:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: A Ground Penetrating Radar antenna on a concrete bridge deck detects a reflection from a reinforcing steel bar with a two-way travel time of 3.2 ns. If dry concrete has epsilon_r = 6.25 and mu_r = 1: \(a\) find wave velocity in concrete, \(b\) calculate the depth of the rebar, \(c\) determine the wavelength of the 1.5 GHz GPR signal in the concrete.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Given Data:) Tj
+T*
+(   - Two-way travel time: t = 3.2 ns = 3.2 x 10^-9 s.) Tj
+T*
+(   - Concrete properties: epsilon_r = 6.25, mu_r = 1.0.) Tj
+T*
+(   - Radar frequency: f = 1.5 GHz = 1.5 x 10^9 Hz.) Tj
+T*
+(   - Speed of light: c = 3.0 x 10^8 m/s.) Tj
+T*
+() Tj
+T*
+(   2. \(a\) Wave Velocity in Concrete v:) Tj
+T*
+(   - v = c / sqrt\(epsilon_r * mu_r\) = \(3.0 x 10^8\) / sqrt\(6.25\) = \(3.0 x 10^8\) / 2.5 = 1.20 x 10^8) Tj
+T*
+(   m/s = 0.12 m/ns.) Tj
+T*
+() Tj
+T*
+(   3. \(b\) Depth of the Rebar d:) Tj
+T*
+(   - Since t is the two-way travel time \(antenna to rebar and back\):) Tj
+T*
+(   d = v * t / 2 = \(1.20 x 10^8 m/s * 3.2 x 10^-9 s\) / 2 = 0.384 / 2 = 0.192 m = 19.2 cm.) Tj
+T*
+() Tj
+T*
+(   4. \(c\) Wavelength in Concrete lambda_c:) Tj
+T*
+(   - lambda_c = v / f = \(1.20 x 10^8 m/s\) / \(1.5 x 10^9 Hz\) = 0.080 m = 8.0 cm.) Tj
+T*
+(   - \(In free space, lambda_0 = c / f = 3.0x10^8 / 1.5x10^9 = 0.20 m = 20 cm\).) Tj
+T*
+() Tj
+T*
+(   5. Civil Structural Discussion:) Tj
+T*
+(   - The 19.2 cm depth corresponds precisely to the bottom rebar mat in a typical 25 cm thick deck) Tj
+T*
+(   slab. The 8.0 cm wavelength provides adequate resolution \(lambda/4 = 2 cm\) to distinguish) Tj
+T*
+(   individual 25 mm diameter rebars spaced at 15 cm intervals.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 21:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: A plane wave in air with electric field amplitude 50 V/m impinges normally on a wet soil boundary \(epsilon_r = 16, mu_r = 1, sigma = 0\). Calculate: \(a\) reflection coefficient Gamma, \(b\) transmission coefficient tau, \(c\) reflected and transmitted electric field amplitudes, \(d\) percentage of power reflected and transmitted.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Intrinsic Impedances of Media:) Tj
+T*
+(   - Medium 1 \(air\): eta_1 = eta_0 = 377 Ohms.) Tj
+T*
+(   - Medium 2 \(soil\): eta_2 = eta_0 / sqrt\(epsilon_r2\) = 377 / sqrt\(16\) = 377 / 4 = 94.25 Ohms.) Tj
+T*
+() Tj
+T*
+(   2. \(a\) Reflection Coefficient Gamma:) Tj
+T*
+(   - Gamma = \(eta_2 - eta_1\) / \(eta_2 + eta_1\) = \(94.25 - 377\) / \(94.25 + 377\) = -282.75 / 471.25) Tj
+T*
+(   = -0.60.) Tj
+T*
+(   - The negative sign indicates a 180-degree phase shift upon reflection.) Tj
+T*
+ET
+
+endstream
+endobj
+49 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 50 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+50 0 obj
+<< /Length 3793 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 1: ELECTROMAGNETIC THEORY & MAXWELL'S EQUATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 24 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   3. \(b\) Transmission Coefficient tau:) Tj
+T*
+(   - tau = \(2 * eta_2\) / \(eta_2 + eta_1\) = \(2 * 94.25\) / 471.25 = 188.5 / 471.25 = +0.40.) Tj
+T*
+(   - Check: 1 + Gamma = 1 + \(-0.60\) = 0.40 = tau \(consistent\).) Tj
+T*
+() Tj
+T*
+(   4. \(c\) Reflected and Transmitted Field Amplitudes:) Tj
+T*
+(   - E_r0 = |Gamma| * E_i0 = 0.60 * 50 = 30 V/m \(with 180 degree phase reversal\).) Tj
+T*
+(   - E_t0 = tau * E_i0 = 0.40 * 50 = 20 V/m.) Tj
+T*
+() Tj
+T*
+(   5. \(d\) Power Reflection \(R\) and Transmission \(T\):) Tj
+T*
+(   - Reflectance R = |Gamma|^2 = \(-0.60\)^2 = 0.36 = 36%.) Tj
+T*
+(   - Transmittance T = \(eta_1 / eta_2\) * tau^2 = \(377 / 94.25\) * \(0.40\)^2 = 4 * 0.16 = 0.64 = 64%.) Tj
+T*
+(   - Energy conservation check: R + T = 0.36 + 0.64 = 1.00 \(100%\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 22:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the physical significance of complex permittivity and loss tangent. For seawater \(epsilon_r = 80, sigma = 4.0 S/m\), calculate the loss tangent and determine if it acts as a conductor or dielectric at: \(a\) 10 kHz, \(b\) 10 GHz.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Complex Permittivity and Loss Tangent:) Tj
+T*
+(   - In Ampere-Maxwell's law: Del x H = \(sigma + j*omega*epsilon\) E = j*omega*epsilon_c * E.) Tj
+T*
+(   - Complex permittivity: epsilon_c = epsilon' - j*epsilon'', where epsilon' = epsilon \(energy) Tj
+T*
+(   storage\) and epsilon'' = sigma / omega \(dissipative ohmic loss\).) Tj
+T*
+(   - Loss tangent: tan\(delta\) = epsilon'' / epsilon' = sigma / \(omega * epsilon\) = sigma / \(2*pi*f) Tj
+T*
+(   * epsilon_r * epsilon_0\).) Tj
+T*
+(   - Classification criteria:) Tj
+T*
+(   * Good dielectric: tan\(delta\) << 0.1) Tj
+T*
+(   * Good conductor: tan\(delta\) >> 10) Tj
+T*
+(   * Quasi-conductor / lossy dielectric: 0.1 <= tan\(delta\) <= 10.) Tj
+T*
+() Tj
+T*
+(   2. \(a\) At f = 10 kHz \(10^4 Hz\):) Tj
+T*
+(   - omega = 2*pi * 10^4 = 6.283 x 10^4 rad/s.) Tj
+T*
+(   - epsilon = 80 * 8.854 x 10^-12 = 7.083 x 10^-10 F/m.) Tj
+T*
+(   - tan\(delta\) = 4.0 / \(6.283 x 10^4 * 7.083 x 10^-10\) = 4.0 / \(4.45 x 10^-5\) = 8.99 x 10^4 >>) Tj
+T*
+(   10.) Tj
+T*
+(   - Conclusion: At 10 kHz, seawater behaves as an outstanding conductor.) Tj
+T*
+() Tj
+T*
+(   3. \(b\) At f = 10 GHz \(10^10 Hz\):) Tj
+T*
+(   - omega = 2*pi * 10^10 = 6.283 x 10^10 rad/s.) Tj
+T*
+(   - tan\(delta\) = 4.0 / \(6.283 x 10^10 * 7.083 x 10^-10\) = 4.0 / 44.5 = 0.0899 < 0.1.) Tj
+T*
+(   - Conclusion: At 10 GHz, seawater transitions into a lossy dielectric.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 23:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Derive the magnetic vector potential A and electric scalar potential V wave equations in the Lorenz gauge from Maxwell's equations.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Magnetic Vector Potential A:) Tj
+T*
+(   - From Gauss's law for magnetism: Del dot B = 0.) Tj
+T*
+(   - Since the divergence of any curl is zero, B can be defined as the curl of a vector potential) Tj
+T*
+(   A: B = Del x A.) Tj
+T*
+() Tj
+T*
+(   2. Electric Scalar Potential V:) Tj
+T*
+(   - Substitute B into Faraday's law: Del x E = - d/dt \(Del x A\) => Del x \(E + dA/dt\) = 0.) Tj
+T*
+ET
+
+endstream
+endobj
+51 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 52 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+52 0 obj
+<< /Length 3957 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 1: ELECTROMAGNETIC THEORY & MAXWELL'S EQUATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 25 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - An irrotational field can be written as the gradient of a scalar potential V:) Tj
+T*
+(   E + dA/dt = - Del V => E = - Del V - dA/dt.) Tj
+T*
+() Tj
+T*
+(   3. Substituting into Maxwell's First Equation:) Tj
+T*
+(   - Del dot E = rho / epsilon => Del dot \( - Del V - dA/dt \) = rho / epsilon.) Tj
+T*
+(   - - Del^2\(V\) - d/dt \(Del dot A\) = rho / epsilon => Del^2\(V\) + d/dt \(Del dot A\) = - rho /) Tj
+T*
+(   epsilon.) Tj
+T*
+() Tj
+T*
+(   4. Substituting into Maxwell's Fourth Equation:) Tj
+T*
+(   - Del x B = mu*J + mu*epsilon * \(dE/dt\).) Tj
+T*
+(   - Del x \(Del x A\) = mu*J + mu*epsilon * d/dt \( - Del V - dA/dt \).) Tj
+T*
+(   - Del\(Del dot A\) - Del^2\(A\) = mu*J - mu*epsilon*Del\(dV/dt\) - mu*epsilon*\(d^2A/dt^2\).) Tj
+T*
+(   - Rearranging: Del^2\(A\) - mu*epsilon*\(d^2A/dt^2\) - Del [ Del dot A + mu*epsilon*\(dV/dt\) ] = -) Tj
+T*
+(   mu*J.) Tj
+T*
+() Tj
+T*
+(   5. The Lorenz Gauge Condition:) Tj
+T*
+(   - Set: Del dot A + mu*epsilon*\(dV/dt\) = 0 \(Lorenz Gauge\).) Tj
+T*
+(   - The equations decouple completely into symmetric inhomogeneous wave equations:) Tj
+T*
+(   Del^2\(A\) - mu*epsilon*\(d^2A/dt^2\) = - mu*J) Tj
+T*
+(   Del^2\(V\) - mu*epsilon*\(d^2V/dt^2\) = - rho / epsilon.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 24:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: State and derive the electromagnetic boundary conditions for E, D, B, and H across an interface between two distinct dielectric media.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Boundary Condition for Normal D \(Gauss's Law\):) Tj
+T*
+(   - Apply Del dot D = rho_f to a thin Gaussian pillbox spanning the interface with area Delta_S) Tj
+T*
+(   and height h -> 0.) Tj
+T*
+(   - Closed_Integral \(D dot dS\) = \(D_1n - D_2n\) * Delta_S = rho_s * Delta_S.) Tj
+T*
+(   - Result: D_1n - D_2n = rho_s \(For dielectric media with no free surface charge rho_s = 0: D_1n) Tj
+T*
+(   = D_2n\).) Tj
+T*
+() Tj
+T*
+(   2. Boundary Condition for Normal B \(Gauss's Law for Magnetism\):) Tj
+T*
+(   - Apply Del dot B = 0 to the same Gaussian pillbox:) Tj
+T*
+(   \(B_1n - B_2n\) * Delta_S = 0 => B_1n = B_2n \(Normal B is always continuous\).) Tj
+T*
+() Tj
+T*
+(   3. Boundary Condition for Tangential E \(Faraday's Law\):) Tj
+T*
+(   - Apply Del x E = - dB/dt to a narrow rectangular loop of length Delta_L and height h -> 0) Tj
+T*
+(   across interface.) Tj
+T*
+(   - Closed_Integral \(E dot dl\) = \(E_1t - E_2t\) * Delta_L = - d/dt Integral \(B dot dS\) -> 0 as) Tj
+T*
+(   area h*Delta_L -> 0.) Tj
+T*
+(   - Result: E_1t = E_2t \(Tangential component of electric field is always continuous\).) Tj
+T*
+() Tj
+T*
+(   4. Boundary Condition for Tangential H \(Ampere-Maxwell Law\):) Tj
+T*
+(   - Apply Del x H = J_f + dD/dt to the rectangular loop:) Tj
+T*
+(   \(H_1t - H_2t\) * Delta_L = J_s * Delta_L = K_f * Delta_L.) Tj
+T*
+(   - Result: H_1t - H_2t = K_f \(surface current density\).) Tj
+T*
+(   - For dielectric media where surface conduction current K_f = 0: H_1t = H_2t.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 25:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: A 50 kW isotropic AM radio transmitter operates at 1.0 MHz. At a civil monitoring station 10 km away: \(a\) find the time-average Poynting vector magnitude, \(b\) calculate electric and magnetic field amplitudes, \(c\) determine the total EM energy stored within a 100 m x 100 m x 50 m airspace around the station.) Tj
+T*
+ET
+
+endstream
+endobj
+53 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 54 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+54 0 obj
+<< /Length 4150 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 1: ELECTROMAGNETIC THEORY & MAXWELL'S EQUATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 26 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. \(a\) Time-Average Poynting Vector Magnitude S_avg:) Tj
+T*
+(   - Transmitter radiates power P = 50 kW = 50,000 W uniformly over a sphere of radius R = 10,000) Tj
+T*
+(   m.) Tj
+T*
+(   - Sphere surface area: A_sphere = 4 * pi * R^2 = 4 * pi * \(10,000\)^2 = 1.2566 x 10^9 m^2.) Tj
+T*
+(   - S_avg = P / A_sphere = 50,000 / \(1.2566 x 10^9\) = 3.979 x 10^-5 W/m^2 = 39.79 microwatts/m^2.) Tj
+T*
+() Tj
+T*
+(   2. \(b\) Electric and Magnetic Field Amplitudes:) Tj
+T*
+(   - S_avg = 0.5 * \(E_0^2 / eta_0\) => E_0 = sqrt\( 2 * eta_0 * S_avg \).) Tj
+T*
+(   - E_0 = sqrt\( 2 * 377 * 3.979 x 10^-5 \) = sqrt\( 0.0300 \) = 0.1732 V/m = 173.2 mV/m.) Tj
+T*
+(   - H_0 = E_0 / eta_0 = 0.1732 / 377 = 4.594 x 10^-4 A/m = 459.4 microamperes/m.) Tj
+T*
+(   - Peak B field: B_0 = mu_0 * H_0 = 4*pi x 10^-7 * 4.594 x 10^-4 = 5.77 x 10^-10 T = 0.577 nT.) Tj
+T*
+() Tj
+T*
+(   3. \(c\) Total Stored EM Energy in Volume V:) Tj
+T*
+(   - Volume V = 100 m * 100 m * 50 m = 500,000 m^3.) Tj
+T*
+(   - Average energy density: <u_total> = S_avg / c = \(3.979 x 10^-5 W/m^2\) / \(3.0 x 10^8 m/s\) =) Tj
+T*
+(   1.326 x 10^-13 J/m^3.) Tj
+T*
+(   - Total stored energy: U = <u_total> * V = 1.326 x 10^-13 * 500,000 = 6.63 x 10^-8 Joules =) Tj
+T*
+(   66.3 nanojoules.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 26:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain radiation pressure and electromagnetic momentum. Derive the expression for radiation pressure on a flat perfectly reflecting surface at normal incidence.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Electromagnetic Momentum:) Tj
+T*
+(   - Maxwell showed that electromagnetic waves transport both energy and linear momentum.) Tj
+T*
+(   - For an energy packet U traveling at speed c in vacuum, the associated momentum is: p = U / c.) Tj
+T*
+(   - The volume momentum density of an EM field is: g = S / c^2 = epsilon_0 * \(E x B\).) Tj
+T*
+() Tj
+T*
+(   2. Derivation of Radiation Pressure on Perfect Absorber:) Tj
+T*
+(   - When an EM wave carries energy Delta_U to a surface in time Delta_t, momentum transferred is) Tj
+T*
+(   Delta_p = Delta_U / c.) Tj
+T*
+(   - Force exerted: F = Delta_p / Delta_t = \(1 / c\) * \(Delta_U / Delta_t\) = P_incident / c.) Tj
+T*
+(   - Radiation pressure P_rad = F / Area = \(P_incident / Area\) / c = S_avg / c.) Tj
+T*
+() Tj
+T*
+(   3. Derivation for Perfectly Reflecting Surface:) Tj
+T*
+(   - On a perfect reflector, the wave is reflected backward with unchanged amplitude:) Tj
+T*
+(   Delta_p_incident = + U / c; Delta_p_reflected = - U / c.) Tj
+T*
+(   - By conservation of momentum, the momentum transferred to the wall is:) Tj
+T*
+(   Delta_p_wall = p_initial - p_final = \(U / c\) - \(- U / c\) = 2 * U / c.) Tj
+T*
+(   - Radiation force on the surface: F = \(2 / c\) * \(Delta_U / Delta_t\) = 2 * P_incident / c.) Tj
+T*
+(   - Radiation pressure at normal incidence:) Tj
+T*
+(   P_rad,reflect = 2 * S_avg / c.) Tj
+T*
+() Tj
+T*
+(   4. Numerical Example:) Tj
+T*
+(   - For full sunlight \(S_avg = 1000 W/m^2\) on a mirror: P_rad = 2 * 1000 / \(3.0 x 10^8\) = 6.67 x) Tj
+T*
+(   10^-6 N/m^2.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 27:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: A 2.0 GHz microwave link passes through rain. If the rain-induced conductivity of air is sigma = 2.0 x 10^-4 S/m and epsilon_r = 1.05: \(a\) calculate the attenuation constant alpha in Np/m and dB/km, \(b\) calculate the phase velocity, \(c\) determine the percentage loss of power over a 15 km transmission link.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+ET
+
+endstream
+endobj
+55 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 56 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+56 0 obj
+<< /Length 3742 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 1: ELECTROMAGNETIC THEORY & MAXWELL'S EQUATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 27 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   1. Given Parameters:) Tj
+T*
+(   - Frequency f = 2.0 GHz = 2.0 x 10^9 Hz; omega = 2*pi*f = 1.2566 x 10^10 rad/s.) Tj
+T*
+(   - sigma = 2.0 x 10^-4 S/m; epsilon_r = 1.05; mu_r = 1.0.) Tj
+T*
+(   - epsilon = 1.05 * 8.854 x 10^-12 = 9.297 x 10^-12 F/m.) Tj
+T*
+(   - Loss tangent: tan\(delta\) = sigma / \(omega*epsilon\) = 2.0 x 10^-4 / \(1.2566 x 10^10 * 9.297 x) Tj
+T*
+(   10^-12\) = 2.0 x 10^-4 / 0.1168 = 1.712 x 10^-3 << 0.1 \(low-loss dielectric\).) Tj
+T*
+() Tj
+T*
+(   2. \(a\) Attenuation Constant alpha:) Tj
+T*
+(   - For low-loss dielectric: alpha ~= 0.5 * sigma * sqrt\(mu / epsilon\) = 0.5 * sigma * \(eta_0 /) Tj
+T*
+(   sqrt\(epsilon_r\)\).) Tj
+T*
+(   - alpha = 0.5 * \(2.0 x 10^-4\) * \(377 / sqrt\(1.05\)\) = 1.0 x 10^-4 * \(377 / 1.0247\) = 3.679 x) Tj
+T*
+(   10^-2 Np/m.) Tj
+T*
+(   - In dB/km: Attenuation \(dB/km\) = 8.686 * alpha * 1000 = 8.686 * 0.03679 * 1000 = 319.6 dB/km.) Tj
+T*
+() Tj
+T*
+(   3. \(b\) Phase Velocity v:) Tj
+T*
+(   - v ~= c / sqrt\(epsilon_r\) = \(3.0 x 10^8\) / sqrt\(1.05\) = \(3.0 x 10^8\) / 1.0247 = 2.928 x 10^8) Tj
+T*
+(   m/s.) Tj
+T*
+() Tj
+T*
+(   4. \(c\) Power Loss over d = 15 km:) Tj
+T*
+(   - Total attenuation in dB: A_total = 319.6 dB/km * 15 km = 4,794 dB.) Tj
+T*
+(   - Total power transmitted is practically 0% \(complete signal extinction due to severe heavy) Tj
+T*
+(   rain absorption at 2 GHz\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 28:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the physical principles and mathematical formulation of electromagnetic shielding effectiveness \(SE\) in civil data centers and shielded control rooms.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Concept of Shielding Effectiveness:) Tj
+T*
+(   - Shielding effectiveness \(SE\) measures the capability of a metallic barrier to attenuate) Tj
+T*
+(   incident electromagnetic fields:) Tj
+T*
+(   SE \(dB\) = 20 * log10\( E_incident / E_transmitted \) = 10 * log10\( P_incident / P_transmitted \).) Tj
+T*
+() Tj
+T*
+(   2. Three Mechanisms of Shielding:) Tj
+T*
+(   - \(1\) Absorption Loss \(A\): Attenuation of wave amplitude as it traverses shield thickness t due) Tj
+T*
+(   to ohmic dissipation \(skin effect\):) Tj
+T*
+(   A \(dB\) = 20 * log10\( exp\(t / delta\) \) = 8.686 * \(t / delta\).) Tj
+T*
+(   - \(2\) Reflection Loss \(R\): Attenuation resulting from impedance mismatch between ambient air) Tj
+T*
+(   \(eta_0 = 377 Ohms\) and the metallic shield \(eta_m << 1 Ohm\):) Tj
+T*
+(   R \(dB\) = 20 * log10\( |eta_0 / \(4 * eta_m\)| \).) Tj
+T*
+(   - \(3\) Multiple Internal Reflection Correction \(M\): Correction factor for thin shields where) Tj
+T*
+(   internal re-reflections occur before full absorption:) Tj
+T*
+(   M \(dB\) = 20 * log10| 1 - exp\(-2*t/delta\) | \(Negligible when t > delta\).) Tj
+T*
+() Tj
+T*
+(   3. Total Shielding Effectiveness:) Tj
+T*
+(   - SE_total = A + R + M \(dB\).) Tj
+T*
+() Tj
+T*
+(   4. Civil Design Case Study:) Tj
+T*
+(   - A 1.0 mm thick copper shield \(sigma = 5.8 x 10^7 S/m\) at f = 10 MHz:) Tj
+T*
+(   delta = 66.1 / sqrt\(10^7\) = 20.9 micrometers.) Tj
+T*
+(   Absorption loss: A = 8.686 * \(1.0 x 10^-3 / 20.9 x 10^-6\) = 8.686 * 47.8 = 415 dB.) Tj
+T*
+(   - This provides virtually absolute electromagnetic isolation against lightning surges and RF) Tj
+T*
+(   interference.) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+57 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 58 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+58 0 obj
+<< /Length 4282 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 1: ELECTROMAGNETIC THEORY & MAXWELL'S EQUATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 28 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 29:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: A lightning discharge delivers a current surge I\(t\) = 50*exp\(-t / 10^-5\) kA into a steel reinforced concrete foundation. Discuss the generation of transient magnetic and electric fields, skin effect in rebar, and induced step voltages.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Current Profile and Spectral Components:) Tj
+T*
+(   - Peak stroke current I_0 = 50 kA; decay time constant tau = 10 microseconds.) Tj
+T*
+(   - High di/dt at t = 0: di/dt|_0 = - I_0 / tau = - 50,000 / 10^-5 = - 5.0 x 10^9 A/s.) Tj
+T*
+(   - Frequency content spans from DC up to several megahertz \(f_eq ~ 1 / \(pi*tau\) ~ 30 kHz - 1) Tj
+T*
+(   MHz\).) Tj
+T*
+() Tj
+T*
+(   2. Induced Magnetic Field:) Tj
+T*
+(   - Around the foundation conductor at radial distance r:) Tj
+T*
+(   B\(r,t\) = mu_0 * I\(t\) / \(2*pi*r\).) Tj
+T*
+(   - At r = 1.0 m: B_peak = \(4*pi x 10^-7 * 50,000\) / \(2*pi * 1.0\) = 0.010 Tesla = 100 Gauss.) Tj
+T*
+() Tj
+T*
+(   3. Skin Effect in Foundation Steel Rebar:) Tj
+T*
+(   - For structural steel \(mu_r ~ 300, sigma ~ 6.0 x 10^6 S/m\) at dominant surge frequency f ~ 100) Tj
+T*
+(   kHz:) Tj
+T*
+(   delta = 1 / sqrt\( pi * 10^5 * \(300 * 4*pi x 10^-7\) * 6.0 x 10^6 \) = 0.037 mm = 37 micrometers.) Tj
+T*
+(   - The current is forced into a microscopically thin outer skin of the 25 mm rebar, multiplying) Tj
+T*
+(   the effective surge impedance and creating hazardous transient potentials.) Tj
+T*
+() Tj
+T*
+(   4. Induced Step Voltage on Ground Surface:) Tj
+T*
+(   - Current spreading into soil of resistivity rho_soil = 100 Ohm*m:) Tj
+T*
+(   E_r = rho_soil * J = rho_soil * I / \(2*pi*r^2\).) Tj
+T*
+(   - Step voltage between feet spaced Delta_r = 1.0 m apart \(from r1 = 2 m to r2 = 3 m\):) Tj
+T*
+(   V_step = Integral_2^3 E_r dr = \(rho_soil * I / 2*pi\) * [ 1/2 - 1/3 ] = \(100 * 50,000 / 2*pi\) *) Tj
+T*
+(   \(1/6\) = 132.6 kV.) Tj
+T*
+(   - This lethal potential difference necessitates equipotential grounding meshes in all civil) Tj
+T*
+(   infrastructure.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 30:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Summarize the comprehensive impact of Maxwell's electromagnetic equations on modern civil engineering, geodesy, and structural health monitoring.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Synthesis of Maxwell's Contribution:) Tj
+T*
+(   - James Clerk Maxwell unified electricity, magnetism, and optics into a single foundational) Tj
+T*
+(   mathematical framework.) Tj
+T*
+(   - His introduction of the displacement current demonstrated that light is an electromagnetic) Tj
+T*
+(   wave and predicted radio, microwave, and radar technology.) Tj
+T*
+() Tj
+T*
+(   2. Civil Engineering Applications:) Tj
+T*
+(   - \(a\) Ground Penetrating Radar \(GPR\): Maxwell's wave equations and reflection coefficients) Tj
+T*
+(   enable non-destructive detection of voids, rebar corrosion, delamination in concrete bridges,) Tj
+T*
+(   and buried utility pipes.) Tj
+T*
+(   - \(b\) Satellite Geodesy and GPS: Millimeter-accurate structural monitoring of high-rise towers,) Tj
+T*
+(   suspension bridges, and seismic fault movements relies on microwave carrier phase tracking,) Tj
+T*
+(   requiring precise Maxwellian ionospheric and tropospheric propagation corrections.) Tj
+T*
+(   - \(c\) Electromagnetic NDT \(Eddy Current Testing\): Inspects fatigue microcracks in steel bridge) Tj
+T*
+(   girders and cable-stayed tendons using magnetic curl induction \(Del x E = -dB/dt\).) Tj
+T*
+(   - \(d\) Structural Health Monitoring \(SHM\): Wireless sensor networks communicate via RF links) Tj
+T*
+(   designed using Poynting vector radiation patterns.) Tj
+T*
+ET
+
+endstream
+endobj
+59 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 60 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+60 0 obj
+<< /Length 718 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 1: ELECTROMAGNETIC THEORY & MAXWELL'S EQUATIONS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 29 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   3. Conclusion:) Tj
+T*
+(   - Maxwell's electromagnetic theory is not merely pure physics; it is an indispensable) Tj
+T*
+(   engineering foundation for the design, construction, diagnostic maintenance, and lifecycle) Tj
+T*
+(   safety of modern civil infrastructure.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+61 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+62 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+xref
+0 63
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000309 00000 n 
+0000000453 00000 n 
+0000008966 00000 n 
+0000009110 00000 n 
+0000017587 00000 n 
+0000017731 00000 n 
+0000026199 00000 n 
+0000026344 00000 n 
+0000034859 00000 n 
+0000035005 00000 n 
+0000043537 00000 n 
+0000043683 00000 n 
+0000053050 00000 n 
+0000053196 00000 n 
+0000062626 00000 n 
+0000062772 00000 n 
+0000064712 00000 n 
+0000064858 00000 n 
+0000070967 00000 n 
+0000071113 00000 n 
+0000074762 00000 n 
+0000074908 00000 n 
+0000083394 00000 n 
+0000083540 00000 n 
+0000087851 00000 n 
+0000087997 00000 n 
+0000092037 00000 n 
+0000092183 00000 n 
+0000096006 00000 n 
+0000096152 00000 n 
+0000100347 00000 n 
+0000100493 00000 n 
+0000104449 00000 n 
+0000104595 00000 n 
+0000108608 00000 n 
+0000108754 00000 n 
+0000112627 00000 n 
+0000112773 00000 n 
+0000116603 00000 n 
+0000116749 00000 n 
+0000120733 00000 n 
+0000120879 00000 n 
+0000125110 00000 n 
+0000125256 00000 n 
+0000129331 00000 n 
+0000129477 00000 n 
+0000133568 00000 n 
+0000133714 00000 n 
+0000137560 00000 n 
+0000137706 00000 n 
+0000141716 00000 n 
+0000141862 00000 n 
+0000146065 00000 n 
+0000146211 00000 n 
+0000150006 00000 n 
+0000150152 00000 n 
+0000154487 00000 n 
+0000154633 00000 n 
+0000155403 00000 n 
+0000155501 00000 n 
+trailer
+<< /Size 63 /Root 1 0 R >>
+startxref
+155604
+%%EOF

@@ -1,0 +1,10490 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R 35 0 R 37 0 R 39 0 R 41 0 R 43 0 R 45 0 R 47 0 R 49 0 R 51 0 R 53 0 R 55 0 R 57 0 R 59 0 R 61 0 R] /Count 30 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 4 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 8661 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 6: FOURIER SERIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 1 of 30) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(1.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(A function f\(x\) is said to be periodic with) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(period T > 0 if for all x:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(f\(x + T\) = f\(x\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(f\(x + T\) = -f\(x\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(f\(x * T\) = f\(x\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(f\(x + T\) = T * f\(x\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(2.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(The fundamental period of sin\(nx\) is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 699.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 699.0001 Td
+(2*pi) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.4001 Td
+(2*pi / n) Tj
+ET
+BT
+/F2 7.4 Tf
+58 679.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 679.8001 Td
+(pi / n) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.2001 Td
+(n * pi) Tj
+ET
+BT
+/F2 8.0 Tf
+42 646.6002 Td
+(3.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 646.6002 Td
+(The fundamental period of cos\(2*pi*x / L\) is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 634.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 634.9001 Td
+(L) Tj
+ET
+BT
+/F2 7.4 Tf
+58 625.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 625.3002 Td
+(2*L) Tj
+ET
+BT
+/F2 7.4 Tf
+58 615.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 615.7002 Td
+(L / 2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.1002 Td
+(pi * L) Tj
+ET
+BT
+/F2 8.0 Tf
+42 582.5002 Td
+(4.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 582.5002 Td
+(Dirichlet's conditions ensure that a periodic) Tj
+ET
+BT
+/F1 7.8 Tf
+58 573.3002 Td
+(function f\(x\) can be expanded in a convergent) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(Fourier series. Which is NOT a Dirichlet) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(condition?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 543.2002 Td
+(f\(x\) is single-valued and bounded) Tj
+ET
+BT
+/F2 7.4 Tf
+58 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 533.6002 Td
+(f\(x\) has a finite number of discontinuities) Tj
+ET
+BT
+/F1 7.4 Tf
+72 525.0002 Td
+(in any period) Tj
+ET
+BT
+/F2 7.4 Tf
+58 515.4003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 515.4003 Td
+(f\(x\) has infinitely many local maxima and) Tj
+ET
+BT
+/F1 7.4 Tf
+72 506.8003 Td
+(minima) Tj
+ET
+BT
+/F2 7.4 Tf
+58 497.2003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 497.2003 Td
+(f\(x\) has a finite number of extrema in any) Tj
+ET
+BT
+/F1 7.4 Tf
+72 488.6003 Td
+(period) Tj
+ET
+BT
+/F2 8.0 Tf
+42 465.0002 Td
+(5.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 465.0002 Td
+(At a point of finite discontinuity x0, the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 455.8002 Td
+(Fourier series of f\(x\) converges to:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 444.1002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 444.1002 Td
+(f\(x0\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 434.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 434.5002 Td
+(\(1/2\) * [ f\(x0+\) + f\(x0-\) ]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 424.9002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 424.9002 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 415.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 415.3002 Td
+(Infinity) Tj
+ET
+BT
+/F2 8.0 Tf
+42 391.7002 Td
+(6.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 391.7002 Td
+(In the Fourier series f\(x\) = a0/2 + sum [an) Tj
+ET
+BT
+/F1 7.8 Tf
+58 382.5002 Td
+(cos\(nx\) + bn sin\(nx\)] on [-pi, pi], the constant) Tj
+ET
+BT
+/F1 7.8 Tf
+58 373.3002 Td
+(term a0 is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 361.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 361.6002 Td
+(\(1/pi\) * int_{-pi}^pi f\(x\) dx) Tj
+ET
+BT
+/F2 7.4 Tf
+58 352.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 352.0002 Td
+(\(2/pi\) * int_0^pi f\(x\) dx) Tj
+ET
+BT
+/F2 7.4 Tf
+58 342.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 342.4001 Td
+(\(1/2pi\) * int_{-pi}^pi f\(x\) dx) Tj
+ET
+BT
+/F2 7.4 Tf
+58 332.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 332.8001 Td
+(int_{-pi}^pi f\(x\) dx) Tj
+ET
+BT
+/F2 8.0 Tf
+42 309.2001 Td
+(7.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 309.2001 Td
+(In Euler's formulas over [-pi, pi], the Fourier) Tj
+ET
+BT
+/F1 7.8 Tf
+58 300.0001 Td
+(cosine coefficient an is given by:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 288.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 288.3001 Td
+(\(1/pi\) * int_{-pi}^pi f\(x\) * cos\(nx\) dx) Tj
+ET
+BT
+/F2 7.4 Tf
+58 278.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 278.7001 Td
+(\(1/2pi\) * int_{-pi}^pi f\(x\) * cos\(nx\) dx) Tj
+ET
+BT
+/F2 7.4 Tf
+58 269.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 269.1001 Td
+(\(2/pi\) * int_0^pi f\(x\) dx) Tj
+ET
+BT
+/F2 7.4 Tf
+58 259.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 259.5001 Td
+(int_{-pi}^pi f\(x\) * sin\(nx\) dx) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(8.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(In Euler's formulas over [-pi, pi], the Fourier) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(sine coefficient bn is given by:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(\(1/pi\) * int_{-pi}^pi f\(x\) * sin\(nx\) dx) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(\(1/pi\) * int_{-pi}^pi f\(x\) * cos\(nx\) dx) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(\(2/pi\) * int_0^pi f\(x\) dx) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(0) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(9.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(A function f\(x\) is called an even function if) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(for all x:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(f\(-x\) = -f\(x\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(f\(-x\) = f\(x\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(f\(x\) = 0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(f\(x + pi\) = f\(x\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(10.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(A function f\(x\) is called an odd function if for) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(all x:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.5001 Td
+(f\(-x\) = f\(x\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.9001 Td
+(f\(-x\) = -f\(x\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.3002 Td
+(f\(x\) = 1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 587.7002 Td
+(f'\(x\) = 0) Tj
+ET
+BT
+/F2 8.0 Tf
+306 564.1002 Td
+(11.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.1002 Td
+(The Fourier series of a real even periodic) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(function on [-pi, pi] contains:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 543.2002 Td
+(Only sine terms) Tj
+ET
+BT
+/F2 7.4 Tf
+322 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 533.6002 Td
+(Only cosine terms and constant term a0/2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.0002 Td
+(Both sine and cosine terms) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.4003 Td
+(No constant term) Tj
+ET
+BT
+/F2 8.0 Tf
+306 490.8003 Td
+(12.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 490.8003 Td
+(For an even function f\(x\) on [-pi, pi], the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6003 Td
+(Fourier sine coefficients bn are identically:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 469.9002 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.3002 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 450.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 450.7002 Td
+(-1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.1002 Td
+(pi) Tj
+ET
+BT
+/F2 8.0 Tf
+306 417.5002 Td
+(13.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 417.5002 Td
+(The Fourier series of a real odd periodic) Tj
+ET
+BT
+/F1 7.8 Tf
+322 408.3002 Td
+(function on [-pi, pi] contains:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 396.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 396.6002 Td
+(Only cosine terms) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.0002 Td
+(Only sine terms) Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.4002 Td
+(A non-zero constant term) Tj
+ET
+BT
+/F2 7.4 Tf
+322 367.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 367.8002 Td
+(Both sine and cosine terms) Tj
+ET
+BT
+/F2 8.0 Tf
+306 344.2002 Td
+(14.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 344.2002 Td
+(For an odd function f\(x\) on [-pi, pi], the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 335.0002 Td
+(Fourier coefficients a0 and an are identically:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 323.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 323.3001 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 313.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 313.7001 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.1001 Td
+(pi) Tj
+ET
+BT
+/F2 7.4 Tf
+322 294.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 294.5001 Td
+(n) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 6 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+6 0 obj
+<< /Length 8643 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 6: FOURIER SERIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 2 of 30) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(15.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(The product of two odd functions is always:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 772.3 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 772.3 Td
+(An odd function) Tj
+ET
+BT
+/F2 7.4 Tf
+58 762.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 762.7 Td
+(An even function) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.1 Td
+(Neither even nor odd) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.5001 Td
+(Zero) Tj
+ET
+BT
+/F2 8.0 Tf
+42 719.9001 Td
+(16.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 719.9001 Td
+(The product of an even function and an odd) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(function is always:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 699.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 699.0001 Td
+(An even function) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.4001 Td
+(An odd function) Tj
+ET
+BT
+/F2 7.4 Tf
+58 679.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 679.8001 Td
+(Constant) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.2001 Td
+(Positive) Tj
+ET
+BT
+/F2 8.0 Tf
+42 646.6002 Td
+(17.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 646.6002 Td
+(For an arbitrary interval [-L, L], the Fourier) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(series is expanded in terms of:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 625.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 625.7001 Td
+(cos\(nx\) and sin\(nx\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.1002 Td
+(cos\(n*pi*x / L\) and sin\(n*pi*x / L\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.5002 Td
+(cos\(2*n*x\) and sin\(2*n*x\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 596.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 596.9002 Td
+(e^\(nx\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 573.3002 Td
+(18.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 573.3002 Td
+(For an arbitrary interval [-L, L], the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(coefficient an is defined as:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 552.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 552.4002 Td
+(\(1/L\) * int_{-L}^L f\(x\) * cos\(n*pi*x / L\) dx) Tj
+ET
+BT
+/F2 7.4 Tf
+58 542.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 542.8002 Td
+(\(1/pi\) * int_{-L}^L f\(x\) dx) Tj
+ET
+BT
+/F2 7.4 Tf
+58 533.2003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 533.2003 Td
+(\(2/L\) * int_{-L}^L f\(x\) dx) Tj
+ET
+BT
+/F2 7.4 Tf
+58 523.6003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 523.6003 Td
+(\(1/2L\) * int_{-L}^L f\(x\) dx) Tj
+ET
+BT
+/F2 8.0 Tf
+42 500.0003 Td
+(19.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 500.0003 Td
+(A half-range Fourier cosine series of f\(x\)) Tj
+ET
+BT
+/F1 7.8 Tf
+58 490.8003 Td
+(defined on [0, L] contains only:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 479.1003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 479.1003 Td
+(Sine terms) Tj
+ET
+BT
+/F2 7.4 Tf
+58 469.5003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 469.5003 Td
+(Cosine terms including constant term a0/2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 459.9003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 459.9003 Td
+(Odd harmonics only) Tj
+ET
+BT
+/F2 7.4 Tf
+58 450.3003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 450.3003 Td
+(Exponential terms) Tj
+ET
+BT
+/F2 8.0 Tf
+42 426.7003 Td
+(20.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 426.7003 Td
+(The coefficient an in the half-range cosine) Tj
+ET
+BT
+/F1 7.8 Tf
+58 417.5002 Td
+(series on [0, L] is given by:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 405.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 405.8002 Td
+(\(1/L\) * int_0^L f\(x\) cos\(n*pi*x / L\) dx) Tj
+ET
+BT
+/F2 7.4 Tf
+58 396.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 396.2002 Td
+(\(2/L\) * int_0^L f\(x\) cos\(n*pi*x / L\) dx) Tj
+ET
+BT
+/F2 7.4 Tf
+58 386.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 386.6002 Td
+(\(1/2L\) * int_0^L f\(x\) dx) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.0002 Td
+(\(4/L\) * int_0^L f\(x\) dx) Tj
+ET
+BT
+/F2 8.0 Tf
+42 353.4002 Td
+(21.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 353.4002 Td
+(A half-range Fourier sine series of f\(x\) on [0,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 344.2002 Td
+(L] contains:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 332.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 332.5002 Td
+(Only cosine terms) Tj
+ET
+BT
+/F2 7.4 Tf
+58 322.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 322.9002 Td
+(Only sine terms \(bn\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 313.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 313.3002 Td
+(Both a0 and bn) Tj
+ET
+BT
+/F2 7.4 Tf
+58 303.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 303.7002 Td
+(Even powers of x) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(22.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(The coefficient bn in the half-range sine series) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(on [0, L] is given by:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(\(1/L\) * int_0^L f\(x\) sin\(n*pi*x / L\) dx) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(\(2/L\) * int_0^L f\(x\) sin\(n*pi*x / L\) dx) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(\(2/pi\) * int_0^L f\(x\) dx) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(0) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(23.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(Parseval's identity for Fourier series on [-L,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(L] is an expression of:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(Conservation of energy / power) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(Conservation of charge) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(Conservation of momentum) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(Newton's second law) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(24.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(Parseval's identity states that \(1/L\) *) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(int_{-L}^L [f\(x\)]^2 dx equals:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.5001 Td
+(a0^2 / 2 + sum \(an^2 + bn^2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.9001 Td
+(a0^2 / 4 + sum \(an^2 + bn^2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.3002 Td
+(sum \(an + bn\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 587.7002 Td
+(a0 + sum an) Tj
+ET
+BT
+/F2 8.0 Tf
+306 564.1002 Td
+(25.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.1002 Td
+(Harmonic analysis is the process of computing) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(Fourier coefficients from:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 543.2002 Td
+(Differential equations) Tj
+ET
+BT
+/F2 7.4 Tf
+322 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 533.6002 Td
+(Tabular / experimental discrete data values) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.0002 Td
+(Laplace transforms) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.4003 Td
+(Matrix eigenvalues) Tj
+ET
+BT
+/F2 8.0 Tf
+306 490.8003 Td
+(26.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 490.8003 Td
+(In practical harmonic analysis with 2m) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6003 Td
+(equidistant points, the constant term a0 is) Tj
+ET
+BT
+/F1 7.8 Tf
+322 472.4002 Td
+(equal to:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.7002 Td
+(Mean of y) Tj
+ET
+BT
+/F2 7.4 Tf
+322 451.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 451.1002 Td
+(2 * \(Mean of y\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.5002 Td
+(\(1/2\) * \(Mean of y\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 431.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 431.9002 Td
+(Sum of y) Tj
+ET
+BT
+/F2 8.0 Tf
+306 408.3002 Td
+(27.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 408.3002 Td
+(In practical harmonic analysis, the first cosine) Tj
+ET
+BT
+/F1 7.8 Tf
+322 399.1002 Td
+(harmonic coefficient a1 is given by:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.4002 Td
+(Mean of \(y * cos x\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.8002 Td
+(2 * Mean of \(y * cos x\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 368.2002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 368.2002 Td
+(\(1/2\) * Mean of \(y * cos x\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 358.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 358.6002 Td
+(Sum of \(y * cos x\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 335.0002 Td
+(28.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 335.0002 Td
+(In practical harmonic analysis, the first sine) Tj
+ET
+BT
+/F1 7.8 Tf
+322 325.8001 Td
+(harmonic coefficient b1 is given by:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 314.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 314.1001 Td
+(Mean of \(y * sin x\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.5001 Td
+(2 * Mean of \(y * sin x\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 294.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 294.9001 Td
+(Sum of \(y * sin x\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 285.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 285.3001 Td
+(0) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 8 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+8 0 obj
+<< /Length 8403 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 6: FOURIER SERIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 3 of 30) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(29.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(The complex \(exponential\) form of Fourier series) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(of f\(x\) on [-L, L] is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(sum_{n=-infinity}^infinity cn * e^\(i*n*pi*x) Tj
+ET
+BT
+/F1 7.4 Tf
+72 754.5 Td
+(/ L\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.9 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.9 Td
+(sum an * e^\(nx\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 735.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 735.3 Td
+(sum bn * e^\(-nx\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.7001 Td
+(c0 + sum cn * cos\(nx\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 702.1001 Td
+(30.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 702.1001 Td
+(In complex Fourier series, the complex) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.9001 Td
+(coefficient cn is given by:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 681.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 681.2001 Td
+(\(1 / \(2*L\)\) * int_{-L}^L f\(x\) * e^\(-i*n*pi*x) Tj
+ET
+BT
+/F1 7.4 Tf
+72 672.6001 Td
+(/ L\) dx) Tj
+ET
+BT
+/F2 7.4 Tf
+58 663.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 663.0001 Td
+(\(1 / L\) * int_{-L}^L f\(x\) * e^\(i*n*pi*x / L\)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 654.4001 Td
+(dx) Tj
+ET
+BT
+/F2 7.4 Tf
+58 644.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 644.8002 Td
+(\(1 / pi\) * int_{-L}^L f\(x\) dx) Tj
+ET
+BT
+/F2 7.4 Tf
+58 635.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 635.2002 Td
+(an - i*bn) Tj
+ET
+BT
+/F2 8.0 Tf
+42 611.6002 Td
+(31.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 611.6002 Td
+(The relation between complex coefficients cn,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 602.4002 Td
+(c_{-n} and real coefficients an, bn is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 590.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 590.7002 Td
+(cn = \(an - i*bn\) / 2 and c_{-n} = \(an +) Tj
+ET
+BT
+/F1 7.4 Tf
+72 582.1002 Td
+(i*bn\) / 2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 572.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 572.5002 Td
+(cn = an + i*bn) Tj
+ET
+BT
+/F2 7.4 Tf
+58 562.9003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 562.9003 Td
+(cn = an / 2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 553.3003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 553.3003 Td
+(cn = bn / 2) Tj
+ET
+BT
+/F2 8.0 Tf
+42 529.7003 Td
+(32.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 529.7003 Td
+(The value of c0 in the complex Fourier series) Tj
+ET
+BT
+/F1 7.8 Tf
+58 520.5003 Td
+(is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 508.8003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 508.8003 Td
+(a0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 499.2003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 499.2003 Td
+(a0 / 2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 489.6003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 489.6003 Td
+(2 * a0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 480.0003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 480.0003 Td
+(0) Tj
+ET
+BT
+/F2 8.0 Tf
+42 456.4003 Td
+(33.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 456.4003 Td
+(In biological systems, circadian rhythms) Tj
+ET
+BT
+/F1 7.8 Tf
+58 447.2003 Td
+(oscillate with an approximate period of:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 435.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 435.5002 Td
+(1 hour) Tj
+ET
+BT
+/F2 7.4 Tf
+58 425.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 425.9002 Td
+(12 hours) Tj
+ET
+BT
+/F2 7.4 Tf
+58 416.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 416.3002 Td
+(24 hours) Tj
+ET
+BT
+/F2 7.4 Tf
+58 406.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 406.7002 Td
+(28 days) Tj
+ET
+BT
+/F2 8.0 Tf
+42 383.1002 Td
+(34.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 383.1002 Td
+(An Electrocardiogram \(ECG\) waveform represents) Tj
+ET
+BT
+/F1 7.8 Tf
+58 373.9002 Td
+(periodic electrical activity of the:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 362.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 362.2002 Td
+(Brain) Tj
+ET
+BT
+/F2 7.4 Tf
+58 352.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 352.6002 Td
+(Heart) Tj
+ET
+BT
+/F2 7.4 Tf
+58 343.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 343.0002 Td
+(Liver) Tj
+ET
+BT
+/F2 7.4 Tf
+58 333.4002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 333.4002 Td
+(Kidney) Tj
+ET
+BT
+/F2 8.0 Tf
+42 309.8002 Td
+(35.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 309.8002 Td
+(The fundamental component of a periodic) Tj
+ET
+BT
+/F1 7.8 Tf
+58 300.6002 Td
+(biomedical signal corresponds to the harmonic) Tj
+ET
+BT
+/F1 7.8 Tf
+58 291.4001 Td
+(with:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 279.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 279.7001 Td
+(n = 0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 270.1001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 270.1001 Td
+(n = 1 \(fundamental frequency omega0\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 260.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 260.5001 Td
+(n = 2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 250.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 250.9001 Td
+(n = infinity) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(36.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Harmonics with n = 2, 3, 4, ... in a Fourier) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(series are called:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(Subharmonics) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(Overtone harmonics) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(Fundamental modes) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(DC offsets) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(37.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(Gibbs phenomenon in Fourier series describes an) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(overshoot near:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(Points of continuity) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(Points of jump discontinuity) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(Local maxima) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(Origin only) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(38.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(The percentage overshoot of the Gibbs phenomenon) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(near a jump discontinuity is approximately:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.5001 Td
+(4%) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.9001 Td
+(9% \(approx 8.95%\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.3002 Td
+(18%) Tj
+ET
+BT
+/F2 7.4 Tf
+322 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 587.7002 Td
+(25%) Tj
+ET
+BT
+/F2 8.0 Tf
+306 564.1002 Td
+(39.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.1002 Td
+(The integral int_{-pi}^pi cos\(mx\) * cos\(nx\) dx) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(for positive integers m != n is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 543.2002 Td
+(pi) Tj
+ET
+BT
+/F2 7.4 Tf
+322 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 533.6002 Td
+(2*pi) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.0002 Td
+(0 \(orthogonality\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.4003 Td
+(pi / 2) Tj
+ET
+BT
+/F2 8.0 Tf
+306 490.8003 Td
+(40.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 490.8003 Td
+(The integral int_{-pi}^pi sin\(mx\) * sin\(nx\) dx) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6003 Td
+(for positive integers m = n is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 469.9002 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.3002 Td
+(pi) Tj
+ET
+BT
+/F2 7.4 Tf
+322 450.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 450.7002 Td
+(2*pi) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.1002 Td
+(pi / 2) Tj
+ET
+BT
+/F2 8.0 Tf
+306 417.5002 Td
+(41.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 417.5002 Td
+(The Fourier series of f\(x\) = x on [-pi, pi]) Tj
+ET
+BT
+/F1 7.8 Tf
+322 408.3002 Td
+(contains only sine terms because f\(x\) is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 396.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 396.6002 Td
+(Periodic) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.0002 Td
+(An odd function) Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.4002 Td
+(An even function) Tj
+ET
+BT
+/F2 7.4 Tf
+322 367.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 367.8002 Td
+(Discontinuous) Tj
+ET
+BT
+/F2 8.0 Tf
+306 344.2002 Td
+(42.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 344.2002 Td
+(In the Fourier series of f\(x\) = x on [-pi, pi],) Tj
+ET
+BT
+/F1 7.8 Tf
+322 335.0002 Td
+(the coefficient bn is given by:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 323.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 323.3001 Td
+(2 * \(-1\)^\(n+1\) / n) Tj
+ET
+BT
+/F2 7.4 Tf
+322 313.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 313.7001 Td
+(2 * \(-1\)^n / n) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.1001 Td
+(1 / n) Tj
+ET
+BT
+/F2 7.4 Tf
+322 294.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 294.5001 Td
+(0) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 10 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+10 0 obj
+<< /Length 8489 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 6: FOURIER SERIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 4 of 30) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(43.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(In the Fourier series of f\(x\) = x^2 on [-pi,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(pi], the coefficient a0 is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(pi^2 / 3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(2*pi^2 / 3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(pi^2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(4*pi^2 / 3) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(44.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(In the Fourier series of f\(x\) = x^2 on [-pi,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(pi], the coefficient an is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(4 * \(-1\)^n / n^2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(\(-1\)^n / n^2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(4 / n^2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(0) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(45.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(Setting x = 0 in the Fourier series of f\(x\) =) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(x^2 on [-pi, pi] establishes the famous sum:) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.0001 Td
+(sum_{n=1}^infinity \(-1\)^\(n+1\) / n^2 equal to:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 607.3001 Td
+(pi^2 / 6) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.7001 Td
+(pi^2 / 12) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.1002 Td
+(pi^2 / 8) Tj
+ET
+BT
+/F2 7.4 Tf
+58 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 578.5002 Td
+(pi^2 / 4) Tj
+ET
+BT
+/F2 8.0 Tf
+42 554.9002 Td
+(46.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(Setting x = pi in the Fourier series of f\(x\) =) Tj
+ET
+BT
+/F1 7.8 Tf
+58 545.7002 Td
+(x^2 on [-pi, pi] establishes the Basel problem:) Tj
+ET
+BT
+/F1 7.8 Tf
+58 536.5002 Td
+(sum_{n=1}^infinity 1 / n^2 equal to:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.8002 Td
+(pi^2 / 6) Tj
+ET
+BT
+/F2 7.4 Tf
+58 515.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 515.2002 Td
+(pi^2 / 8) Tj
+ET
+BT
+/F2 7.4 Tf
+58 505.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 505.6002 Td
+(pi^2 / 12) Tj
+ET
+BT
+/F2 7.4 Tf
+58 496.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 496.0002 Td
+(pi^2 / 4) Tj
+ET
+BT
+/F2 8.0 Tf
+42 472.4002 Td
+(47.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 472.4002 Td
+(The Fourier series of the square wave f\(x\) = -k) Tj
+ET
+BT
+/F1 7.8 Tf
+58 463.2002 Td
+(on \(-pi, 0\) and f\(x\) = +k on \(0, pi\) contains:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 451.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 451.5002 Td
+(Only even sine harmonics) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.9001 Td
+(Only odd sine harmonics: \(4k/pi\) * sum) Tj
+ET
+BT
+/F1 7.4 Tf
+72 433.3001 Td
+(sin\(\(2n-1\)x\)/\(2n-1\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 423.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 423.7001 Td
+(Only cosine harmonics) Tj
+ET
+BT
+/F2 7.4 Tf
+58 414.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 414.1001 Td
+(Constant a0 = k) Tj
+ET
+BT
+/F2 8.0 Tf
+42 390.5001 Td
+(48.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 390.5001 Td
+(Evaluating the square wave Fourier series at x =) Tj
+ET
+BT
+/F1 7.8 Tf
+58 381.3001 Td
+(pi/2 yields Leibniz's series: 1 - 1/3 + 1/5 -) Tj
+ET
+BT
+/F1 7.8 Tf
+58 372.1001 Td
+(1/7 + ... equal to:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 360.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 360.4001 Td
+(pi / 2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 350.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 350.8001 Td
+(pi / 4) Tj
+ET
+BT
+/F2 7.4 Tf
+58 341.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 341.2001 Td
+(pi / 6) Tj
+ET
+BT
+/F2 7.4 Tf
+58 331.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 331.6001 Td
+(pi / 8) Tj
+ET
+BT
+/F2 8.0 Tf
+42 308.0001 Td
+(49.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 308.0001 Td
+(For f\(x\) = |x| on [-pi, pi], f\(x\) is an even) Tj
+ET
+BT
+/F1 7.8 Tf
+58 298.8 Td
+(function. Its Fourier series has bn equal to:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 287.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 287.1 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 277.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 277.5 Td
+(2 / n) Tj
+ET
+BT
+/F2 7.4 Tf
+58 267.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 267.9 Td
+(\(-1\)^n / n) Tj
+ET
+BT
+/F2 7.4 Tf
+58 258.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 258.3 Td
+(pi / n) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(50.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(In the Fourier expansion of f\(x\) = |x| on [-pi,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(pi], the coefficient a0 is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(pi) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(pi / 2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(2*pi) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(pi^2 / 2) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(51.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(The Fourier series of f\(x\) = |x| on [-pi, pi]) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(yields the sum 1/1^2 + 1/3^2 + 1/5^2 + ... equal) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(to:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.6 Td
+(pi^2 / 6) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.0001 Td
+(pi^2 / 8) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.4001 Td
+(pi^2 / 12) Tj
+ET
+BT
+/F2 7.4 Tf
+322 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 651.8001 Td
+(pi^2 / 4) Tj
+ET
+BT
+/F2 8.0 Tf
+306 628.2001 Td
+(52.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(Find the Fourier coefficient bn for f\(x\) = x *) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(cos\(x\) on [-pi, pi]:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.3001 Td
+(b1 = -1/2, bn = \(-1\)^n * 2n / \(n^2 - 1\) for) Tj
+ET
+BT
+/F1 7.4 Tf
+336 598.7001 Td
+(n >= 2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 589.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 589.1002 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 579.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 579.5002 Td
+(1 / n) Tj
+ET
+BT
+/F2 7.4 Tf
+322 569.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 569.9002 Td
+(\(-1\)^n / n^2) Tj
+ET
+BT
+/F2 8.0 Tf
+306 546.3002 Td
+(53.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 546.3002 Td
+(In the half-range sine series of f\(x\) = 1 on [0,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 537.1002 Td
+(pi], the coefficient bn is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 525.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 525.4002 Td
+(\(4 / \(n*pi\)\) for odd n, 0 for even n) Tj
+ET
+BT
+/F2 7.4 Tf
+322 515.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 515.8002 Td
+(2 / \(n*pi\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 506.2002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 506.2002 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 496.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 496.6002 Td
+(\(-1\)^n / n) Tj
+ET
+BT
+/F2 8.0 Tf
+306 473.0002 Td
+(54.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 473.0002 Td
+(The half-range cosine series of f\(x\) = x on [0,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 463.8002 Td
+(pi] has a0 equal to:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 452.1002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 452.1002 Td
+(pi) Tj
+ET
+BT
+/F2 7.4 Tf
+322 442.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 442.5002 Td
+(pi / 2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 432.9002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 432.9002 Td
+(2*pi) Tj
+ET
+BT
+/F2 7.4 Tf
+322 423.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 423.3002 Td
+(pi^2) Tj
+ET
+BT
+/F2 8.0 Tf
+306 399.7002 Td
+(55.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 399.7002 Td
+(In the half-range cosine series of f\(x\) = x on) Tj
+ET
+BT
+/F1 7.8 Tf
+322 390.5002 Td
+([0, pi], the coefficient an for even n \(n = 2,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 381.3001 Td
+(4, ...\) is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 369.6001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 369.6001 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 360.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 360.0001 Td
+(-4 / \(pi * n^2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 350.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 350.4001 Td
+(2 / n^2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 340.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 340.8001 Td
+(pi / n) Tj
+ET
+BT
+/F2 8.0 Tf
+306 317.2001 Td
+(56.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 317.2001 Td
+(In the half-range cosine series of f\(x\) = x on) Tj
+ET
+BT
+/F1 7.8 Tf
+322 308.0001 Td
+([0, pi], an for odd n is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 296.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 296.3001 Td
+(-4 / \(pi * n^2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 286.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 286.7001 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 277.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 277.1001 Td
+(4 / \(pi * n^2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 267.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 267.5001 Td
+(-2 / n^2) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 12 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+12 0 obj
+<< /Length 9068 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 6: FOURIER SERIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 5 of 30) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(57.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Find the Fourier series of f\(x\) = e^x on \(-pi,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(pi\). The coefficient a0 is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(\(2 / pi\) * sinh\(pi\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(\(1 / pi\) * sinh\(pi\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(cosh\(pi\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(e^pi - e^\(-pi\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(58.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(In the Fourier series of f\(x\) = e^x on \(-pi,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(pi\), the coefficient an is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+([ \(2 / pi\) * sinh\(pi\) ] * [ \(-1\)^n / \(1 +) Tj
+ET
+BT
+/F1 7.4 Tf
+72 681.2001 Td
+(n^2\) ]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.6001 Td
+([ \(2 / pi\) * sinh\(pi\) ] * [ \(-1\)^n * n / \(1) Tj
+ET
+BT
+/F1 7.4 Tf
+72 663.0001 Td
+(+ n^2\) ]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 653.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 653.4001 Td
+(1 / \(1 + n^2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 643.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 643.8002 Td
+(0) Tj
+ET
+BT
+/F2 8.0 Tf
+42 620.2002 Td
+(59.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 620.2002 Td
+(In the Fourier series of f\(x\) = e^x on \(-pi,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 611.0002 Td
+(pi\), the coefficient bn is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 599.3002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 599.3002 Td
+([ \(2 / pi\) * sinh\(pi\) ] * [ \(-1\)^\(n+1\) * n /) Tj
+ET
+BT
+/F1 7.4 Tf
+72 590.7002 Td
+(\(1 + n^2\) ]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 581.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 581.1002 Td
+(\(-1\)^n / \(1 + n^2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 571.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 571.5002 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 561.9003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 561.9003 Td
+(n / \(1 + n^2\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 538.3003 Td
+(60.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 538.3003 Td
+(Apply Parseval's identity to f\(x\) = x^2 on [-pi,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 529.1003 Td
+(pi] to evaluate sum_{n=1}^infinity 1 / n^4:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 517.4003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 517.4003 Td
+(pi^4 / 90) Tj
+ET
+BT
+/F2 7.4 Tf
+58 507.8003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 507.8003 Td
+(pi^4 / 45) Tj
+ET
+BT
+/F2 7.4 Tf
+58 498.2003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 498.2003 Td
+(pi^4 / 96) Tj
+ET
+BT
+/F2 7.4 Tf
+58 488.6003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 488.6003 Td
+(pi^4 / 120) Tj
+ET
+BT
+/F2 8.0 Tf
+42 465.0002 Td
+(61.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 465.0002 Td
+(Apply Parseval's identity to f\(x\) = x on [-pi,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 455.8002 Td
+(pi] to evaluate sum_{n=1}^infinity 1 / n^2:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 444.1002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 444.1002 Td
+(pi^2 / 6) Tj
+ET
+BT
+/F2 7.4 Tf
+58 434.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 434.5002 Td
+(pi^2 / 12) Tj
+ET
+BT
+/F2 7.4 Tf
+58 424.9002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 424.9002 Td
+(pi^2 / 8) Tj
+ET
+BT
+/F2 7.4 Tf
+58 415.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 415.3002 Td
+(pi^2 / 4) Tj
+ET
+BT
+/F2 8.0 Tf
+42 391.7002 Td
+(62.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 391.7002 Td
+(Apply Parseval's identity to the square wave) Tj
+ET
+BT
+/F1 7.8 Tf
+58 382.5002 Td
+(f\(x\) to evaluate sum_{n=1}^infinity 1 / \(2n -) Tj
+ET
+BT
+/F1 7.8 Tf
+58 373.3002 Td
+(1\)^2:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 361.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 361.6002 Td
+(pi^2 / 8) Tj
+ET
+BT
+/F2 7.4 Tf
+58 352.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 352.0002 Td
+(pi^2 / 6) Tj
+ET
+BT
+/F2 7.4 Tf
+58 342.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 342.4001 Td
+(pi^2 / 12) Tj
+ET
+BT
+/F2 7.4 Tf
+58 332.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 332.8001 Td
+(pi^2 / 16) Tj
+ET
+BT
+/F2 8.0 Tf
+42 309.2001 Td
+(63.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 309.2001 Td
+(A half-wave rectifier outputs f\(t\) =) Tj
+ET
+BT
+/F1 7.8 Tf
+58 300.0001 Td
+(I0*sin\(omega*t\) for 0 < omega*t < pi and 0 for) Tj
+ET
+BT
+/F1 7.8 Tf
+58 290.8001 Td
+(pi < omega*t < 2pi. The DC average value a0/2) Tj
+ET
+BT
+/F1 7.8 Tf
+58 281.6001 Td
+(is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 269.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 269.9001 Td
+(I0 / pi) Tj
+ET
+BT
+/F2 7.4 Tf
+58 260.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 260.3001 Td
+(2*I0 / pi) Tj
+ET
+BT
+/F2 7.4 Tf
+58 250.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 250.7001 Td
+(I0 / 2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 241.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 241.1001 Td
+(I0 / sqrt\(2\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(64.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(A full-wave rectifier outputs f\(t\) = I0 *) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(|sin\(omega*t\)| with period T = pi / omega. The) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(DC average value is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(2*I0 / pi) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.3 Td
+(I0 / pi) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.7 Td
+(I0 / 2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.1 Td
+(4*I0 / pi) Tj
+ET
+BT
+/F2 8.0 Tf
+306 701.5001 Td
+(65.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(In a full-wave rectifier Fourier series, which) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(harmonics are present?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.6 Td
+(Only even cosine harmonics: - \(4*I0/pi\) *) Tj
+ET
+BT
+/F1 7.4 Tf
+336 672.0001 Td
+(sum cos\(2n*omega*t\) / \(4n^2 - 1\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 662.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 662.4001 Td
+(Only odd sine harmonics) Tj
+ET
+BT
+/F2 7.4 Tf
+322 652.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 652.8001 Td
+(All integer harmonics) Tj
+ET
+BT
+/F2 7.4 Tf
+322 643.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 643.2001 Td
+(No harmonics) Tj
+ET
+BT
+/F2 8.0 Tf
+306 619.6002 Td
+(66.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.6002 Td
+(The Root Mean Square \(RMS\) value of a periodic) Tj
+ET
+BT
+/F1 7.8 Tf
+322 610.4001 Td
+(function f\(t\) with period T is defined as:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 598.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 598.7001 Td
+(sqrt\( \(1/T\) * int_0^T [f\(t\)]^2 dt \)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 589.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 589.1002 Td
+(\(1/T\) * int_0^T f\(t\) dt) Tj
+ET
+BT
+/F2 7.4 Tf
+322 579.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 579.5002 Td
+(\(1/T\) * int_0^T |f\(t\)| dt) Tj
+ET
+BT
+/F2 7.4 Tf
+322 569.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 569.9002 Td
+(max |f\(t\)|) Tj
+ET
+BT
+/F2 8.0 Tf
+306 546.3002 Td
+(67.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 546.3002 Td
+(By Parseval's theorem, the RMS value of f\(x\) =) Tj
+ET
+BT
+/F1 7.8 Tf
+322 537.1002 Td
+(a0/2 + sum [an cos\(nx\) + bn sin\(nx\)] is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 525.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 525.4002 Td
+(sqrt\( a0^2 / 4 + \(1/2\)*sum \(an^2 + bn^2\) \)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 515.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 515.8002 Td
+(a0/2 + sum \(an + bn\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 506.2002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 506.2002 Td
+(sqrt\( sum \(an^2 + bn^2\) \)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 496.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 496.6002 Td
+(a0 / sqrt\(2\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 473.0002 Td
+(68.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 473.0002 Td
+(The RMS value of a pure sinusoidal waveform x\(t\)) Tj
+ET
+BT
+/F1 7.8 Tf
+322 463.8002 Td
+(= A * sin\(omega*t\) is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 452.1002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 452.1002 Td
+(A / sqrt\(2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 442.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 442.5002 Td
+(A / 2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 432.9002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 432.9002 Td
+(A) Tj
+ET
+BT
+/F2 7.4 Tf
+322 423.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 423.3002 Td
+(2 * A / pi) Tj
+ET
+BT
+/F2 8.0 Tf
+306 399.7002 Td
+(69.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 399.7002 Td
+(An Electroencephalogram \(EEG\) signal decomposed) Tj
+ET
+BT
+/F1 7.8 Tf
+322 390.5002 Td
+(into Fourier frequency bands includes Alpha) Tj
+ET
+BT
+/F1 7.8 Tf
+322 381.3001 Td
+(waves in the frequency range:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 369.6001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 369.6001 Td
+(8 to 13 Hz) Tj
+ET
+BT
+/F2 7.4 Tf
+322 360.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 360.0001 Td
+(0.5 to 4 Hz \(Delta\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 350.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 350.4001 Td
+(4 to 8 Hz \(Theta\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 340.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 340.8001 Td
+(13 to 30 Hz \(Beta\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 317.2001 Td
+(70.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 317.2001 Td
+(In discrete harmonic analysis of a biological) Tj
+ET
+BT
+/F1 7.8 Tf
+322 308.0001 Td
+(rhythm sampled at 12 equidistant points y0, y1,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 298.8001 Td
+(..., y11 over 24 hours, the fundamental period) Tj
+ET
+BT
+/F1 7.8 Tf
+322 289.6001 Td
+(corresponds to N equal to:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 277.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 277.9001 Td
+(12) Tj
+ET
+BT
+/F2 7.4 Tf
+322 268.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 268.3 Td
+(6) Tj
+ET
+BT
+/F2 7.4 Tf
+322 258.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 258.7 Td
+(24) Tj
+ET
+BT
+/F2 7.4 Tf
+322 249.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 249.1 Td
+(2) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 14 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+14 0 obj
+<< /Length 8663 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 6: FOURIER SERIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 6 of 30) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(71.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(The Fourier series of f\(x\) = cosh\(x\) on [-pi,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(pi] contains:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(Only cosine terms because cosh\(x\) is even) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(Only sine terms) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(Both sine and cosine terms) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(Zero constant term) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(72.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(The Fourier series of f\(x\) = sinh\(x\) on [-pi,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(pi] contains:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(Only sine terms because sinh\(x\) is odd) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(Only cosine terms) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(A non-zero a0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(Zero sine terms) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(73.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(If f\(x\) is periodic with period 2L and f\(x + L\)) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(= -f\(x\) \(half-wave anti-symmetry\), its Fourier) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.0001 Td
+(series contains:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 607.3001 Td
+(Only odd harmonics \(n = 1, 3, 5, ...\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.7001 Td
+(Only even harmonics) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.1002 Td
+(Only constant term) Tj
+ET
+BT
+/F2 7.4 Tf
+58 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 578.5002 Td
+(All harmonics) Tj
+ET
+BT
+/F2 8.0 Tf
+42 554.9002 Td
+(74.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(If f\(x\) is periodic with period 2L and f\(x + L\)) Tj
+ET
+BT
+/F1 7.8 Tf
+58 545.7002 Td
+(= f\(x\) \(half-wave symmetry\), its Fourier series) Tj
+ET
+BT
+/F1 7.8 Tf
+58 536.5002 Td
+(contains:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.8002 Td
+(Only even harmonics \(n = 2, 4, 6, ...\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 515.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 515.2002 Td
+(Only odd harmonics) Tj
+ET
+BT
+/F2 7.4 Tf
+58 505.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 505.6002 Td
+(No harmonics) Tj
+ET
+BT
+/F2 7.4 Tf
+58 496.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 496.0002 Td
+(Only sine terms) Tj
+ET
+BT
+/F2 8.0 Tf
+42 472.4002 Td
+(75.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 472.4002 Td
+(The complex Fourier coefficient c_{-n} for a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 463.2002 Td
+(real-valued signal f\(t\) is related to cn by:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 451.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 451.5002 Td
+(c_{-n} = cn* \(complex conjugate\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.9001 Td
+(c_{-n} = -cn) Tj
+ET
+BT
+/F2 7.4 Tf
+58 432.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 432.3001 Td
+(c_{-n} = cn) Tj
+ET
+BT
+/F2 7.4 Tf
+58 422.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 422.7001 Td
+(c_{-n} = 0) Tj
+ET
+BT
+/F2 8.0 Tf
+42 399.1001 Td
+(76.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 399.1001 Td
+(Find the Fourier series of f\(x\) = x^3 on [-pi,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 389.9001 Td
+(pi]. The coefficient bn is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 378.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 378.2001 Td
+(2 * \(-1\)^n * [ \(6 - n^2*pi^2\) / n^3 ]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 368.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 368.6001 Td
+(2 * \(-1\)^n / n^3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 359.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 359.0001 Td
+(\(-1\)^n * 6 / n^3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 349.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 349.4001 Td
+(0) Tj
+ET
+BT
+/F2 8.0 Tf
+42 325.8001 Td
+(77.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 325.8001 Td
+(In the Fourier series of f\(x\) = x^3 on [-pi,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 316.6001 Td
+(pi], the coefficients a0 and an are:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.9001 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 295.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 295.3 Td
+(pi^3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 285.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 285.7 Td
+(\(-1\)^n / n^2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 276.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 276.1 Td
+(2) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(78.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Evaluate the Fourier series of f\(x\) = x*\(pi - x\)) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(on [0, pi] in a half-range sine series. The) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(coefficient bn is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(8 / \(pi * n^3\) for odd n, 0 for even n) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.3 Td
+(4 / \(pi * n^3\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.7 Td
+(\(-1\)^n / n^3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.1 Td
+(0) Tj
+ET
+BT
+/F2 8.0 Tf
+306 701.5001 Td
+(79.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(Using the half-range sine series of f\(x\) = x*\(pi) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(- x\), setting x = pi/2 evaluates the sum 1/1^3 -) Tj
+ET
+BT
+/F1 7.8 Tf
+322 683.1 Td
+(1/3^3 + 1/5^3 - 1/7^3 + ... equal to:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.4 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.4 Td
+(pi^3 / 32) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.8 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.8 Td
+(pi^3 / 16) Tj
+ET
+BT
+/F2 7.4 Tf
+322 652.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 652.2001 Td
+(pi^3 / 24) Tj
+ET
+BT
+/F2 7.4 Tf
+322 642.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 642.6001 Td
+(pi^3 / 8) Tj
+ET
+BT
+/F2 8.0 Tf
+306 619.0001 Td
+(80.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(Find the Fourier series of f\(x\) = |sin x| on) Tj
+ET
+BT
+/F1 7.8 Tf
+322 609.8001 Td
+([-pi, pi]. The coefficient a0 is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 598.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 598.1001 Td
+(4 / pi) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.5001 Td
+(2 / pi) Tj
+ET
+BT
+/F2 7.4 Tf
+322 578.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 578.9001 Td
+(pi / 2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 569.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 569.3002 Td
+(1) Tj
+ET
+BT
+/F2 8.0 Tf
+306 545.7002 Td
+(81.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 545.7002 Td
+(In the Fourier series of f\(x\) = |sin x| on [-pi,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 536.5002 Td
+(pi], the coefficient an is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.8002 Td
+(-4 / [ pi * \(n^2 - 1\) ] for even n, 0 for) Tj
+ET
+BT
+/F1 7.4 Tf
+336 516.2002 Td
+(odd n) Tj
+ET
+BT
+/F2 7.4 Tf
+322 506.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 506.6002 Td
+(-2 / [ pi * \(n^2 - 1\) ]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 497.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 497.0002 Td
+(1 / \(n^2 - 1\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 487.4002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 487.4002 Td
+(0) Tj
+ET
+BT
+/F2 8.0 Tf
+306 463.8002 Td
+(82.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 463.8002 Td
+(From the expansion of |sin x|, setting x = 0) Tj
+ET
+BT
+/F1 7.8 Tf
+322 454.6002 Td
+(yields the sum 1 / \(1 * 3\) + 1 / \(3 * 5\) + 1 /) Tj
+ET
+BT
+/F1 7.8 Tf
+322 445.4001 Td
+(\(5 * 7\) + ... equal to:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 433.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 433.7001 Td
+(1/2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 424.1001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 424.1001 Td
+(1/4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 414.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 414.5001 Td
+(pi / 4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 404.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 404.9001 Td
+(1) Tj
+ET
+BT
+/F2 8.0 Tf
+306 381.3001 Td
+(83.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 381.3001 Td
+(Find the half-range cosine series of f\(x\) = sin) Tj
+ET
+BT
+/F1 7.8 Tf
+322 372.1001 Td
+(x on [0, pi]. The coefficient a0 is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 360.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 360.4001 Td
+(4 / pi) Tj
+ET
+BT
+/F2 7.4 Tf
+322 350.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 350.8001 Td
+(2 / pi) Tj
+ET
+BT
+/F2 7.4 Tf
+322 341.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 341.2001 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 331.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 331.6001 Td
+(1) Tj
+ET
+BT
+/F2 8.0 Tf
+306 308.0001 Td
+(84.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 308.0001 Td
+(In the half-range cosine series of f\(x\) = sin x) Tj
+ET
+BT
+/F1 7.8 Tf
+322 298.8 Td
+(on [0, pi], the coefficient an for even n is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 287.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 287.1 Td
+(-4 / [ pi * \(n^2 - 1\) ]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 277.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 277.5 Td
+(2 / [ pi * \(n^2 - 1\) ]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 267.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 267.9 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 258.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 258.3 Td
+(1 / n) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 16 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+16 0 obj
+<< /Length 8938 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 6: FOURIER SERIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 7 of 30) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(85.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Apply Parseval's identity to the half-range sine) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(series of f\(x\) = 1 on [0, pi] to evaluate) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(sum_{n=1}^infinity 1 / \(2n - 1\)^2:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(pi^2 / 8) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.3 Td
+(pi^2 / 6) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.7 Td
+(pi^2 / 12) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.1 Td
+(pi^2 / 4) Tj
+ET
+BT
+/F2 8.0 Tf
+42 701.5001 Td
+(86.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(Apply Parseval's identity to the half-range sine) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.3 Td
+(series of f\(x\) = x*\(pi - x\) on [0, pi] to) Tj
+ET
+BT
+/F1 7.8 Tf
+58 683.1 Td
+(evaluate sum_{n=1}^infinity 1 / \(2n - 1\)^6:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.4 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.4 Td
+(pi^6 / 960) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.8 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.8 Td
+(pi^6 / 480) Tj
+ET
+BT
+/F2 7.4 Tf
+58 652.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 652.2001 Td
+(pi^6 / 120) Tj
+ET
+BT
+/F2 7.4 Tf
+58 642.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 642.6001 Td
+(pi^6 / 1440) Tj
+ET
+BT
+/F2 8.0 Tf
+42 619.0001 Td
+(87.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.0001 Td
+(Find the Fourier expansion of f\(x\) = x^2 on [-L,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 609.8001 Td
+(L]. The coefficient an is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 598.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 598.1001 Td
+(4*L^2 * \(-1\)^n / \(n^2 * pi^2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.5001 Td
+(2*L^2 / \(n^2 * pi^2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 578.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 578.9001 Td
+(\(-1\)^n / n^2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 569.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 569.3002 Td
+(0) Tj
+ET
+BT
+/F2 8.0 Tf
+42 545.7002 Td
+(88.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 545.7002 Td
+(In the Fourier expansion of f\(x\) = x^2 on [-L,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 536.5002 Td
+(L], the constant term a0/2 is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.8002 Td
+(L^2 / 3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 515.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 515.2002 Td
+(2*L^2 / 3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 505.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 505.6002 Td
+(L^2 / 6) Tj
+ET
+BT
+/F2 7.4 Tf
+58 496.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 496.0002 Td
+(L^2) Tj
+ET
+BT
+/F2 8.0 Tf
+42 472.4002 Td
+(89.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 472.4002 Td
+(Find the complex Fourier coefficient cn for f\(x\)) Tj
+ET
+BT
+/F1 7.8 Tf
+58 463.2002 Td
+(= e^\(a*x\) on [-pi, pi]:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 451.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 451.5002 Td
+([ sinh\(a*pi\) / pi ] * [ \(-1\)^n / \(a - i*n\) ]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.9001 Td
+(1 / \(a - i*n\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 432.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 432.3001 Td
+([ \(-1\)^n / pi ] * sinh\(a*pi\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 422.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 422.7001 Td
+(0) Tj
+ET
+BT
+/F2 8.0 Tf
+42 399.1001 Td
+(90.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 399.1001 Td
+(In practical harmonic analysis, given 6 values) Tj
+ET
+BT
+/F1 7.8 Tf
+58 389.9001 Td
+(of y: y0=9, y1=18, y2=24, y3=28, y4=26, y5=20 at) Tj
+ET
+BT
+/F1 7.8 Tf
+58 380.7001 Td
+(x = 0, 60, 120, 180, 240, 300 degrees. The) Tj
+ET
+BT
+/F1 7.8 Tf
+58 371.5001 Td
+(constant term a0/2 \(mean of y\) is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 359.8001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 359.8001 Td
+(20.83) Tj
+ET
+BT
+/F2 7.4 Tf
+58 350.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 350.2001 Td
+(25.0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 340.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 340.6001 Td
+(18.5) Tj
+ET
+BT
+/F2 7.4 Tf
+58 331.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 331.0001 Td
+(22.0) Tj
+ET
+BT
+/F2 8.0 Tf
+42 307.4001 Td
+(91.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 307.4001 Td
+(For the data in Q90, the first harmonic cosine) Tj
+ET
+BT
+/F1 7.8 Tf
+58 298.2 Td
+(coefficient a1 = \(2/6\)*sum\(y*cos x\) evaluates) Tj
+ET
+BT
+/F1 7.8 Tf
+58 289 Td
+(approximately to:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 277.3 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 277.3 Td
+(-5.0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 267.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 267.7 Td
+(-2.5) Tj
+ET
+BT
+/F2 7.4 Tf
+58 258.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 258.1 Td
+(3.0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 248.5 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 248.5 Td
+(0) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(92.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(For the data in Q90, the first harmonic sine) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(coefficient b1 = \(2/6\)*sum\(y*sin x\) evaluates) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(approximately to:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(-3.46) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.3 Td
+(4.5) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.7 Td
+(1.2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.1 Td
+(-1.5) Tj
+ET
+BT
+/F2 8.0 Tf
+306 701.5001 Td
+(93.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(An ECG signal is approximated by f\(t\) = a0/2 +) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(sum [an cos\(n*omega0*t\) + bn sin\(n*omega0*t\)].) Tj
+ET
+BT
+/F1 7.8 Tf
+322 683.1 Td
+(If heart rate is 72 beats/minute, the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 673.9 Td
+(fundamental frequency f0 is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 662.2 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 662.2 Td
+(1.2 Hz) Tj
+ET
+BT
+/F2 7.4 Tf
+322 652.6 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 652.6 Td
+(72 Hz) Tj
+ET
+BT
+/F2 7.4 Tf
+322 643.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 643.0001 Td
+(0.83 Hz) Tj
+ET
+BT
+/F2 7.4 Tf
+322 633.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 633.4001 Td
+(2.4 Hz) Tj
+ET
+BT
+/F2 8.0 Tf
+306 609.8001 Td
+(94.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 609.8001 Td
+(In Q93, the fundamental angular frequency omega0) Tj
+ET
+BT
+/F1 7.8 Tf
+322 600.6001 Td
+(is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.9001 Td
+(2.4 * pi rad/s = 7.54 rad/s) Tj
+ET
+BT
+/F2 7.4 Tf
+322 579.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 579.3001 Td
+(1.2 rad/s) Tj
+ET
+BT
+/F2 7.4 Tf
+322 569.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 569.7001 Td
+(72 rad/s) Tj
+ET
+BT
+/F2 7.4 Tf
+322 560.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 560.1002 Td
+(144*pi rad/s) Tj
+ET
+BT
+/F2 8.0 Tf
+306 536.5002 Td
+(95.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 536.5002 Td
+(The 5th harmonic frequency of the ECG signal) Tj
+ET
+BT
+/F1 7.8 Tf
+322 527.3002 Td
+(with heart rate 72 bpm is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 515.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 515.6002 Td
+(6.0 Hz) Tj
+ET
+BT
+/F2 7.4 Tf
+322 506.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 506.0002 Td
+(1.2 Hz) Tj
+ET
+BT
+/F2 7.4 Tf
+322 496.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 496.4001 Td
+(5.0 Hz) Tj
+ET
+BT
+/F2 7.4 Tf
+322 486.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 486.8001 Td
+(10.0 Hz) Tj
+ET
+BT
+/F2 8.0 Tf
+306 463.2001 Td
+(96.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 463.2001 Td
+(A high-pass filter is designed to remove) Tj
+ET
+BT
+/F1 7.8 Tf
+322 454.0001 Td
+(baseline wander \(< 0.5 Hz\) from an ECG signal) Tj
+ET
+BT
+/F1 7.8 Tf
+322 444.8001 Td
+(while preserving the QRS complex. The QRS) Tj
+ET
+BT
+/F1 7.8 Tf
+322 435.6001 Td
+(complex predominantly contains Fourier) Tj
+ET
+BT
+/F1 7.8 Tf
+322 426.4001 Td
+(frequencies in the range:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 414.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 414.7001 Td
+(10 to 40 Hz) Tj
+ET
+BT
+/F2 7.4 Tf
+322 405.1001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 405.1001 Td
+(0.01 to 0.1 Hz) Tj
+ET
+BT
+/F2 7.4 Tf
+322 395.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 395.5001 Td
+(100 to 500 Hz) Tj
+ET
+BT
+/F2 7.4 Tf
+322 385.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 385.9001 Td
+(1 to 2 kHz) Tj
+ET
+BT
+/F2 8.0 Tf
+306 362.3 Td
+(97.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 362.3 Td
+(Total Harmonic Distortion \(THD\) of a biological) Tj
+ET
+BT
+/F1 7.8 Tf
+322 353.1 Td
+(signal with fundamental amplitude V1 and) Tj
+ET
+BT
+/F1 7.8 Tf
+322 343.9 Td
+(harmonic amplitudes V2, V3, ... is defined as:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 332.2 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 332.2 Td
+(sqrt\( sum_{n=2}^infinity Vn^2 \) / V1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 322.6 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 322.6 Td
+(sum Vn / V1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 313 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 313 Td
+(V1 / V2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 303.4 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 303.4 Td
+(V2^2 / V1^2) Tj
+ET
+BT
+/F2 8.0 Tf
+306 279.8 Td
+(98.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 279.8 Td
+(Evaluate the Fourier series of f\(x\) = x^4 on) Tj
+ET
+BT
+/F1 7.8 Tf
+322 270.6 Td
+([-pi, pi]. The sum sum_{n=1}^infinity 1 / n^4) Tj
+ET
+BT
+/F1 7.8 Tf
+322 261.4 Td
+(deduced from it without Parseval's identity is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 249.7 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 249.7 Td
+(pi^4 / 90) Tj
+ET
+BT
+/F2 7.4 Tf
+322 240.1 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 240.1 Td
+(pi^4 / 45) Tj
+ET
+BT
+/F2 7.4 Tf
+322 230.5 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 230.5 Td
+(pi^4 / 96) Tj
+ET
+BT
+/F2 7.4 Tf
+322 220.8999 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 220.8999 Td
+(pi^4 / 120) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 18 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+18 0 obj
+<< /Length 1616 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 6: FOURIER SERIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 8 of 30) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(99.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Evaluate the Fourier series of f\(x\) = x^4 on) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+([-pi, pi]. The alternating sum) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(sum_{n=1}^infinity \(-1\)^\(n+1\) / n^4 is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(7 * pi^4 / 720) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.3 Td
+(pi^4 / 90) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.7 Td
+(pi^4 / 180) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.1 Td
+(3 * pi^4 / 720) Tj
+ET
+BT
+/F2 8.0 Tf
+42 691.5001 Td
+(100.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 691.5001 Td
+(If a biological enzyme secretion rate oscillates) Tj
+ET
+BT
+/F1 7.8 Tf
+58 682.3 Td
+(as f\(t\) = 5 + 3*cos\(2*pi*t/24\) +) Tj
+ET
+BT
+/F1 7.8 Tf
+58 673.1 Td
+(1.5*sin\(2*pi*t/24\) \(t in hours\), the amplitude) Tj
+ET
+BT
+/F1 7.8 Tf
+58 663.9 Td
+(of the circadian oscillation is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 652.2 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 652.2 Td
+(sqrt\(3^2 + 1.5^2\) = sqrt\(11.25\) ~ 3.35) Tj
+ET
+BT
+/F2 7.4 Tf
+58 642.6 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 642.6 Td
+(4.5) Tj
+ET
+BT
+/F2 7.4 Tf
+58 633.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 633.0001 Td
+(5.0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 623.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 623.4001 Td
+(3.0) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 20 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+20 0 obj
+<< /Length 5444 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 6: FOURIER SERIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 9 of 30) Tj
+ET
+BT
+/F2 10 Tf
+45 780 Td
+(SECTION B: DESCRIPTIVE & SUBJECTIVE QUESTIONS) Tj
+ET
+BT
+/F2 8.5 Tf
+45 760 Td
+(Q1. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 760 Td
+(State Dirichlet's Conditions for the expansion of a periodic function f\(x\) in a Fourier series.) Tj
+ET
+BT
+/F1 8.5 Tf
+72 749.5 Td
+(State the convergence theorem for continuous points and jump discontinuities.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 724.5 Td
+(Q2. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 724.5 Td
+(Prove the Orthogonality Relations of the trigonometric system {1, cos\(nx\), sin\(nx\)} on the) Tj
+ET
+BT
+/F1 8.5 Tf
+72 714 Td
+(interval [-pi, pi] for all positive integers m and n.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 689 Td
+(Q3. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 689 Td
+(Derive Euler's Formulas for the Fourier coefficients a0, an, and bn of a periodic function f\(x\) on) Tj
+ET
+BT
+/F1 8.5 Tf
+72 678.5 Td
+(the interval [-pi, pi] using orthogonality relations.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 653.5 Td
+(Q4. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 653.5 Td
+(Find the Fourier series of the square wave: f\(x\) = -1 for -pi < x < 0, and f\(x\) = +1 for 0 < x <) Tj
+ET
+BT
+/F1 8.5 Tf
+72 643 Td
+(pi. Hence, deduce Leibniz's Gregory series for pi/4.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 618 Td
+(Q5. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 618 Td
+(Prove that if f\(x\) is an even function on [-pi, pi], its Fourier series reduces to a Fourier) Tj
+ET
+BT
+/F1 8.5 Tf
+72 607.5 Td
+(Cosine Series with bn = 0, and if f\(x\) is an odd function, it reduces to a Fourier Sine Series) Tj
+ET
+BT
+/F1 8.5 Tf
+72 597 Td
+(with a0 = an = 0.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 582.5 Td
+(Q6. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 582.5 Td
+(Find the Fourier series of f\(x\) = x on the interval [-pi, pi]. State its value at points of) Tj
+ET
+BT
+/F1 8.5 Tf
+72 572 Td
+(discontinuity and deduce that 1 - 1/3 + 1/5 - 1/7 + ... = pi/4.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 547 Td
+(Q7. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 547 Td
+(Find the Fourier series of f\(x\) = x^2 on [-pi, pi]. Hence, deduce: \(i\) sum_{n=1}^infinity 1/n^2 =) Tj
+ET
+BT
+/F1 8.5 Tf
+72 536.5 Td
+(pi^2/6 \(Euler's Basel Problem\), \(ii\) sum_{n=1}^infinity \(-1\)^\(n+1\)/n^2 = pi^2/12, and \(iii\)) Tj
+ET
+BT
+/F1 8.5 Tf
+72 526 Td
+(sum_{n=1}^infinity 1/\(2n-1\)^2 = pi^2/8.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 511.5 Td
+(Q8. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 511.5 Td
+(Find the Fourier series of f\(x\) = |x| on [-pi, pi]. Hence, deduce that: 1/1^2 + 1/3^2 + 1/5^2 +) Tj
+ET
+BT
+/F1 8.5 Tf
+72 501 Td
+(... = pi^2 / 8.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 476 Td
+(Q9. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 476 Td
+(Find the Fourier series of f\(x\) = x + x^2 on the interval [-pi, pi]. Hence evaluate the sum:) Tj
+ET
+BT
+/F1 8.5 Tf
+72 465.5 Td
+(sum_{n=1}^infinity 1/n^2.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 440.5 Td
+(Q10. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 440.5 Td
+(Derive the Fourier series expansion formulas for a function f\(x\) defined on an arbitrary symmetric) Tj
+ET
+BT
+/F1 8.5 Tf
+72 430 Td
+(interval [-L, L] by change of scale of variable.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 405 Td
+(Q11. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 405 Td
+(Find the Fourier series of f\(x\) = x on the interval [-2, 2] \(period 2L = 4, so L = 2\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 369.5 Td
+(Q12. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 369.5 Td
+(Find the Fourier series of f\(x\) = 2x - x^2 on the interval [0, 3] with period T = 3.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 334 Td
+(Q13. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 334 Td
+(Explain the concept of Half-Range Fourier Expansions. Detail how an even extension yields a) Tj
+ET
+BT
+/F1 8.5 Tf
+72 323.5 Td
+(Half-Range Cosine Series and an odd extension yields a Half-Range Sine Series on [0, L].) Tj
+ET
+BT
+/F2 8.5 Tf
+45 298.5 Td
+(Q14. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 298.5 Td
+(Obtain the Half-Range Sine Series of f\(x\) = x*\(pi - x\) on the interval [0, pi]. Hence, deduce the) Tj
+ET
+BT
+/F1 8.5 Tf
+72 288 Td
+(sum: 1/1^3 - 1/3^3 + 1/5^3 - 1/7^3 + ... = pi^3 / 32.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 263 Td
+(Q15. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 263 Td
+(Obtain the Half-Range Cosine Series of f\(x\) = x*\(pi - x\) on the interval [0, pi]. Hence, deduce) Tj
+ET
+BT
+/F1 8.5 Tf
+72 252.5 Td
+(the sum: sum_{n=1}^infinity 1/n^4 = pi^4 / 90.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 227.5 Td
+(Q16. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 227.5 Td
+(Obtain the Half-Range Cosine Series for f\(x\) = sin\(x\) on the interval [0, pi]. \(This represents) Tj
+ET
+BT
+/F1 8.5 Tf
+72 217 Td
+(full-wave rectification in electrical/biomedical engineering\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 192 Td
+(Q17. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 192 Td
+(State Parseval's Identity for a Fourier series on [-L, L]. Prove it from Euler's formulas and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 181.5 Td
+(provide its physical interpretation in signal power and energy conservation.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 156.5 Td
+(Q18. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 156.5 Td
+(Apply Parseval's Identity to the Fourier series of f\(x\) = x on [-pi, pi] to evaluate the sum:) Tj
+ET
+BT
+/F1 8.5 Tf
+72 146 Td
+(sum_{n=1}^infinity 1 / n^2.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 121 Td
+(Q19. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 121 Td
+(Apply Parseval's Identity to the Fourier series of f\(x\) = x^2 on [-pi, pi] to evaluate the sum:) Tj
+ET
+BT
+/F1 8.5 Tf
+72 110.5 Td
+(sum_{n=1}^infinity 1 / n^4.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 85.5 Td
+(Q20. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 85.5 Td
+(Apply Parseval's Identity to the half-range sine series of f\(x\) = 1 on [0, pi] to evaluate:) Tj
+ET
+BT
+/F1 8.5 Tf
+72 75 Td
+(sum_{n=1}^infinity 1 / \(2n - 1\)^2.) Tj
+ET
+
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 22 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+22 0 obj
+<< /Length 3417 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 6: FOURIER SERIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 10 of 30) Tj
+ET
+BT
+/F2 8.5 Tf
+45 780 Td
+(Q21. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 780 Td
+(Derive the Complex \(Exponential\) Form of Fourier Series from the real trigonometric Fourier series) Tj
+ET
+BT
+/F1 8.5 Tf
+72 769.5 Td
+(using Euler's formula e^\(i*theta\) = cos\(theta\) + i*sin\(theta\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 743.5 Td
+(Q22. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 743.5 Td
+(Find the Complex Fourier Series of f\(x\) = e^\(a*x\) on [-pi, pi] \(where a is a non-zero real) Tj
+ET
+BT
+/F1 8.5 Tf
+72 733 Td
+(constant\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 707 Td
+(Q23. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 707 Td
+(Explain the Gibbs Phenomenon in Fourier series. Calculate the approximate overshoot near a jump) Tj
+ET
+BT
+/F1 8.5 Tf
+72 696.5 Td
+(discontinuity of height 2 for a square wave.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 670.5 Td
+(Q24. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 670.5 Td
+(Explain Practical Harmonic Analysis. Derive formulas for computing the Fourier coefficients a0,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 660 Td
+(an, and bn from a set of 2m discrete equidistant experimental data points.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 634 Td
+(Q25. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 634 Td
+(Perform practical harmonic analysis on the following 6-point periodic dataset to find the constant) Tj
+ET
+BT
+/F1 8.5 Tf
+72 623.5 Td
+(term and the first harmonic of the Fourier series: x = [0, 60, 120, 180, 240, 300] deg, y = [0.8,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 613 Td
+(0.6, 0.4, 0.7, 0.9, 1.1].) Tj
+ET
+BT
+/F2 8.5 Tf
+45 597.5 Td
+(Q26. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 597.5 Td
+(In biotechnology and endocrinology, circadian hormone secretion \(such as serum cortisol\) follows a) Tj
+ET
+BT
+/F1 8.5 Tf
+72 587 Td
+(24-hour diurnal cycle. Model cortisol concentration C\(t\) = a0/2 + a1*cos\(pi*t/12\) +) Tj
+ET
+BT
+/F1 8.5 Tf
+72 576.5 Td
+(b1*sin\(pi*t/12\). Given measurements C\(0\)=15 ug/dL \(midnight\), C\(6\)=25 ug/dL \(6 AM\), C\(12\)=10 ug/dL) Tj
+ET
+BT
+/F2 8.5 Tf
+45 561 Td
+(Q27. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 561 Td
+(Explain how Fourier Series decomposition is used in biomedical engineering to analyze) Tj
+ET
+BT
+/F1 8.5 Tf
+72 550.5 Td
+(Electrocardiogram \(ECG\) signals and filter out 50 Hz powerline interference.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 524.5 Td
+(Q28. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 524.5 Td
+(In respiratory biotechnology, lung airflow during breathing is modeled as a periodic) Tj
+ET
+BT
+/F1 8.5 Tf
+72 514 Td
+(square/trapezoidal flow rate. Find the Fourier series for airflow V'\(t\) = V0 on [0, T/2]) Tj
+ET
+BT
+/F1 8.5 Tf
+72 503.5 Td
+(\(inhalation\) and V'\(t\) = -V0 on [T/2, T] \(exhalation\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 488 Td
+(Q29. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 488 Td
+(In Heart Rate Variability \(HRV\) analysis, explain how the Fourier power spectral density of the) Tj
+ET
+BT
+/F1 8.5 Tf
+72 477.5 Td
+(RR-interval tachogram is used to assess autonomic nervous system balance \(LF/HF ratio\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 451.5 Td
+(Q30. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 451.5 Td
+(A periodic biological bioreactor stirrer oscillation velocity is given by v\(t\) = t^2 on \(-1, 1\)) Tj
+ET
+BT
+/F1 8.5 Tf
+72 441 Td
+(with period 2 \(L = 1\). Find its Fourier series, and use it to determine the fraction of total) Tj
+ET
+BT
+/F1 8.5 Tf
+72 430.5 Td
+(kinetic energy contained in the fundamental frequency harmonic.) Tj
+ET
+
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 24 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+24 0 obj
+<< /Length 8411 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 6: FOURIER SERIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 11 of 30) Tj
+ET
+BT
+/F2 11 Tf
+45 780 Td
+(SECTION C: ANSWER KEY - MULTIPLE CHOICE QUESTIONS) Tj
+ET
+0.5 w
+45 772 m 550 772 l S
+BT
+/F2 8.5 Tf
+45 750 Td
+(Q1: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 734 Td
+(Q2: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 734 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 718 Td
+(Q3: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 702 Td
+(Q4: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 702 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 686 Td
+(Q5: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 686 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 670 Td
+(Q6: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 654 Td
+(Q7: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 638 Td
+(Q8: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 622 Td
+(Q9: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 622 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 606 Td
+(Q10: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 606 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 590 Td
+(Q11: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 590 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 574 Td
+(Q12: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 574 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 558 Td
+(Q13: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 558 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 542 Td
+(Q14: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 542 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 526 Td
+(Q15: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 526 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 510 Td
+(Q16: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 510 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 494 Td
+(Q17: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 494 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 478 Td
+(Q18: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 462 Td
+(Q19: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 462 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 446 Td
+(Q20: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 446 Td
+([B]) Tj
+ET
+0.2 w
+135 755 m 135 425 l S
+BT
+/F2 8.5 Tf
+145 750 Td
+(Q21: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 750 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 734 Td
+(Q22: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 734 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 718 Td
+(Q23: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 702 Td
+(Q24: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 686 Td
+(Q25: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 686 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 670 Td
+(Q26: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 670 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 654 Td
+(Q27: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 654 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 638 Td
+(Q28: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 638 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 622 Td
+(Q29: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 606 Td
+(Q30: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 590 Td
+(Q31: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 574 Td
+(Q32: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 574 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 558 Td
+(Q33: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 558 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 542 Td
+(Q34: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 542 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 526 Td
+(Q35: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 526 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 510 Td
+(Q36: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 510 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 494 Td
+(Q37: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 494 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 478 Td
+(Q38: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 478 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 462 Td
+(Q39: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 462 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 446 Td
+(Q40: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 446 Td
+([B]) Tj
+ET
+0.2 w
+235 755 m 235 425 l S
+BT
+/F2 8.5 Tf
+245 750 Td
+(Q41: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 750 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 734 Td
+(Q42: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 718 Td
+(Q43: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 718 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 702 Td
+(Q44: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 686 Td
+(Q45: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 686 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 670 Td
+(Q46: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 654 Td
+(Q47: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 654 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 638 Td
+(Q48: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 638 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 622 Td
+(Q49: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 606 Td
+(Q50: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 590 Td
+(Q51: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 590 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 574 Td
+(Q52: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 558 Td
+(Q53: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 542 Td
+(Q54: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 526 Td
+(Q55: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 510 Td
+(Q56: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 494 Td
+(Q57: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 478 Td
+(Q58: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 462 Td
+(Q59: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 446 Td
+(Q60: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 446 Td
+([A]) Tj
+ET
+0.2 w
+335 755 m 335 425 l S
+BT
+/F2 8.5 Tf
+345 750 Td
+(Q61: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 734 Td
+(Q62: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 718 Td
+(Q63: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 702 Td
+(Q64: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 686 Td
+(Q65: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 670 Td
+(Q66: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 654 Td
+(Q67: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 638 Td
+(Q68: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 622 Td
+(Q69: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 606 Td
+(Q70: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 590 Td
+(Q71: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 574 Td
+(Q72: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 558 Td
+(Q73: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 542 Td
+(Q74: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 526 Td
+(Q75: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 510 Td
+(Q76: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 494 Td
+(Q77: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 478 Td
+(Q78: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 462 Td
+(Q79: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 446 Td
+(Q80: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 446 Td
+([A]) Tj
+ET
+0.2 w
+435 755 m 435 425 l S
+BT
+/F2 8.5 Tf
+445 750 Td
+(Q81: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 734 Td
+(Q82: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 718 Td
+(Q83: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 702 Td
+(Q84: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 686 Td
+(Q85: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 670 Td
+(Q86: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 654 Td
+(Q87: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 638 Td
+(Q88: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 622 Td
+(Q89: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 606 Td
+(Q90: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 590 Td
+(Q91: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 574 Td
+(Q92: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 558 Td
+(Q93: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 542 Td
+(Q94: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 526 Td
+(Q95: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 510 Td
+(Q96: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 494 Td
+(Q97: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 478 Td
+(Q98: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 462 Td
+(Q99: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 446 Td
+(Q100: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 446 Td
+([A]) Tj
+ET
+0.5 w
+45 400 m 550 400 l 550 340 l 45 340 l s
+BT
+/F2 9 Tf
+55 382 Td
+(MCQ Scoring Guide & Difficulty Distribution:) Tj
+ET
+BT
+/F1 8.5 Tf
+55 366 Td
+(Questions 1 to 40: Foundational & Conceptual [Easy] | Questions 41 to 75: Analytical & Applied [Moderate]) Tj
+ET
+BT
+/F1 8.5 Tf
+55 350 Td
+(Questions 76 to 100: Complex Numerical & Advanced Problem Solving [Difficult]) Tj
+ET
+
+endstream
+endobj
+25 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 26 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+26 0 obj
+<< /Length 4207 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 6: FOURIER SERIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 12 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(SECTION D: DETAILED SOLUTIONS FOR SUBJECTIVE QUESTIONS) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(================================================================================) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 1:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: State Dirichlet's Conditions for the expansion of a periodic function f\(x\) in a Fourier series. State the convergence theorem for continuous points and jump discontinuities.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Dirichlet's Conditions:) Tj
+T*
+(   Let f\(x\) be a periodic function defined on an interval of length 2L \(or 2pi\):) Tj
+T*
+(   \(a\) Condition 1: f\(x\) is single-valued and bounded everywhere on [-L, L], meaning there exists) Tj
+T*
+(   a finite constant M > 0 such that |f\(x\)| <= M for all x.) Tj
+T*
+(   \(b\) Condition 2: f\(x\) is piecewise continuous, possessing at most a finite number of finite) Tj
+T*
+(   jump discontinuities in any single period.) Tj
+T*
+(   \(c\) Condition 3: f\(x\) is piecewise monotonic, possessing at most a finite number of local) Tj
+T*
+(   maxima and local minima in any single period.) Tj
+T*
+(   2. Dirichlet's Convergence Theorem:) Tj
+T*
+(   If f\(x\) satisfies Dirichlet's conditions on [-L, L], then the Fourier series:) Tj
+T*
+(   S\(x\) = a0 / 2 + sum_{n=1}^infinity [ an * cos\(n*pi*x / L\) + bn * sin\(n*pi*x / L\) ]) Tj
+T*
+(   converges for all real x, and its sum S\(x\) satisfies:) Tj
+T*
+(   - At every point of continuity x:) Tj
+T*
+(   S\(x\) = f\(x\).) Tj
+T*
+(   - At every point of jump discontinuity x0:) Tj
+T*
+(   S\(x0\) = \(1/2\) * [ f\(x0+\) + f\(x0-\) ],) Tj
+T*
+(   where f\(x0+\) = lim_{h -> 0+} f\(x0 + h\) is the right-hand limit, and f\(x0-\) = lim_{h -> 0+} f\(x0) Tj
+T*
+(   - h\) is the left-hand limit.) Tj
+T*
+(   - At the endpoints x = -L and x = L:) Tj
+T*
+(   S\(-L\) = S\(L\) = \(1/2\) * [ f\(-L+\) + f\(L-\) ].) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 2:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Prove the Orthogonality Relations of the trigonometric system {1, cos\(nx\), sin\(nx\)} on the interval [-pi, pi] for all positive integers m and n.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Integral 1: int_{-pi}^pi cos\(mx\) * cos\(nx\) dx:) Tj
+T*
+(   - Use product-to-sum identity: cos A * cos B = \(1/2\) * [ cos\(A + B\) + cos\(A - B\) ].) Tj
+T*
+(   cos\(mx\) * cos\(nx\) = \(1/2\) * [ cos\(\(m + n\)x\) + cos\(\(m - n\)x\) ].) Tj
+T*
+(   - Case \(a\): m != n:) Tj
+T*
+(   int_{-pi}^pi cos\(mx\)*cos\(nx\) dx = \(1/2\) * [ sin\(\(m+n\)x\) / \(m+n\) + sin\(\(m-n\)x\) / \(m-n\)) Tj
+T*
+(   ]_{-pi}^pi.) Tj
+T*
+(   Since sin\(k*pi\) = sin\(-k*pi\) = 0 for all integers k:) Tj
+T*
+(   int_{-pi}^pi cos\(mx\) * cos\(nx\) dx = 0.) Tj
+T*
+(   - Case \(b\): m = n != 0:) Tj
+T*
+(   int_{-pi}^pi cos^2\(nx\) dx = int_{-pi}^pi [ \(1 + cos 2nx\) / 2 ] dx) Tj
+T*
+(   = \(1/2\) * [ x + sin\(2nx\) / \(2n\) ]_{-pi}^pi = \(1/2\) * [ pi - \(-pi\) + 0 ] = pi.) Tj
+T*
+(   2. Integral 2: int_{-pi}^pi sin\(mx\) * sin\(nx\) dx:) Tj
+T*
+(   - Use identity: sin A * sin B = \(1/2\) * [ cos\(A - B\) - cos\(A + B\) ].) Tj
+T*
+(   - Case \(a\): m != n:) Tj
+T*
+(   int_{-pi}^pi sin\(mx\)*sin\(nx\) dx = \(1/2\) * [ sin\(\(m-n\)x\)/\(m-n\) - sin\(\(m+n\)x\)/\(m+n\) ]_{-pi}^pi =) Tj
+T*
+(   0.) Tj
+T*
+(   - Case \(b\): m = n != 0:) Tj
+T*
+(   int_{-pi}^pi sin^2\(nx\) dx = int_{-pi}^pi [ \(1 - cos 2nx\) / 2 ] dx = \(1/2\) * [ 2*pi - 0 ] = pi.) Tj
+T*
+(   3. Integral 3: int_{-pi}^pi sin\(mx\) * cos\(nx\) dx:) Tj
+T*
+(   - The function sin\(mx\) is odd, and cos\(nx\) is even.) Tj
+T*
+(   - The product sin\(mx\) * cos\(nx\) is an ODD function for all m, n.) Tj
+T*
+(   - The definite integral of an odd function over symmetric interval [-pi, pi] is identically) Tj
+T*
+ET
+
+endstream
+endobj
+27 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 28 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+28 0 obj
+<< /Length 3754 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 6: FOURIER SERIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 13 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   zero:) Tj
+T*
+(   int_{-pi}^pi sin\(mx\) * cos\(nx\) dx = 0 for all integers m, n.) Tj
+T*
+(   Conclusion:) Tj
+T*
+(   The trigonometric set is mutually orthogonal on [-pi, pi].) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 3:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Derive Euler's Formulas for the Fourier coefficients a0, an, and bn of a periodic function f\(x\) on the interval [-pi, pi] using orthogonality relations.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Fourier Series Representation:) Tj
+T*
+(   Assume f\(x\) can be expanded as:) Tj
+T*
+(   f\(x\) = a0 / 2 + sum_{k=1}^infinity [ ak * cos\(kx\) + bk * sin\(kx\) ]. \(Eq. 1\)) Tj
+T*
+(   2. Derivation of a0:) Tj
+T*
+(   - Integrate both sides of Eq. 1 with respect to x from -pi to pi:) Tj
+T*
+(   int_{-pi}^pi f\(x\) dx = \(a0 / 2\) * int_{-pi}^pi 1 dx + sum_{k=1}^infinity [ ak * int_{-pi}^pi) Tj
+T*
+(   cos\(kx\) dx + bk * int_{-pi}^pi sin\(kx\) dx ].) Tj
+T*
+(   - For all k >= 1: int_{-pi}^pi cos\(kx\) dx = 0, and int_{-pi}^pi sin\(kx\) dx = 0.) Tj
+T*
+(   - int_{-pi}^pi 1 dx = 2*pi.) Tj
+T*
+(   - Therefore:) Tj
+T*
+(   int_{-pi}^pi f\(x\) dx = \(a0 / 2\) * \(2*pi\) = a0 * pi) Tj
+T*
+(   => a0 = \(1 / pi\) * int_{-pi}^pi f\(x\) dx. \(Proved\).) Tj
+T*
+(   3. Derivation of an \(for fixed n >= 1\):) Tj
+T*
+(   - Multiply both sides of Eq. 1 by cos\(nx\) and integrate from -pi to pi:) Tj
+T*
+(   int_{-pi}^pi f\(x\)*cos\(nx\) dx = \(a0/2\)*int_{-pi}^pi cos\(nx\) dx + sum_{k=1}^infinity) Tj
+T*
+(   ak*int_{-pi}^pi cos\(kx\)*cos\(nx\) dx + sum_{k=1}^infinity bk*int_{-pi}^pi sin\(kx\)*cos\(nx\) dx.) Tj
+T*
+(   - By orthogonality:) Tj
+T*
+(   * int_{-pi}^pi cos\(nx\) dx = 0.) Tj
+T*
+(   * int_{-pi}^pi sin\(kx\)*cos\(nx\) dx = 0 for all k.) Tj
+T*
+(   * int_{-pi}^pi cos\(kx\)*cos\(nx\) dx = 0 for all k != n, and equals pi when k = n.) Tj
+T*
+(   - The entire infinite sum collapses to a single term:) Tj
+T*
+(   int_{-pi}^pi f\(x\)*cos\(nx\) dx = an * pi) Tj
+T*
+(   => an = \(1 / pi\) * int_{-pi}^pi f\(x\) * cos\(nx\) dx. \(Proved\).) Tj
+T*
+(   4. Derivation of bn \(for fixed n >= 1\):) Tj
+T*
+(   - Multiply both sides of Eq. 1 by sin\(nx\) and integrate from -pi to pi:) Tj
+T*
+(   By identical orthogonality relations, all terms vanish except bk for k = n:) Tj
+T*
+(   int_{-pi}^pi f\(x\)*sin\(nx\) dx = bn * pi) Tj
+T*
+(   => bn = \(1 / pi\) * int_{-pi}^pi f\(x\) * sin\(nx\) dx. \(Proved\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 4:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Find the Fourier series of the square wave: f\(x\) = -1 for -pi < x < 0, and f\(x\) = +1 for 0 < x < pi. Hence, deduce Leibniz's Gregory series for pi/4.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Step 1: Check Symmetry of f\(x\):) Tj
+T*
+(   - For x in \(0, pi\): f\(-x\) = -1 = -f\(x\).) Tj
+T*
+(   - Thus, f\(x\) is an ODD function on \(-pi, pi\).) Tj
+T*
+(   - Consequently:) Tj
+T*
+(   a0 = 0 and an = 0 for all n >= 1.) Tj
+T*
+(   The Fourier series consists exclusively of sine terms \(bn\).) Tj
+T*
+(   Step 2: Compute Fourier Coefficient bn:) Tj
+T*
+(   bn = \(2 / pi\) * int_0^pi f\(x\) * sin\(nx\) dx) Tj
+T*
+(   = \(2 / pi\) * int_0^pi 1 * sin\(nx\) dx) Tj
+T*
+(   = \(2 / pi\) * [ -cos\(nx\) / n ]_0^pi) Tj
+T*
+ET
+
+endstream
+endobj
+29 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 30 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+30 0 obj
+<< /Length 3680 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 6: FOURIER SERIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 14 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   = \(2 / \(n * pi\)\) * [ -cos\(n*pi\) - \(-cos 0\) ]) Tj
+T*
+(   = \(2 / \(n * pi\)\) * [ 1 - \(-1\)^n ].) Tj
+T*
+(   Step 3: Evaluate bn for Even and Odd n:) Tj
+T*
+(   - If n is even \(n = 2, 4, 6, ...\):) Tj
+T*
+(   \(-1\)^n = 1 => 1 - 1 = 0 => bn = 0.) Tj
+T*
+(   - If n is odd \(n = 1, 3, 5, ..., let n = 2k - 1\):) Tj
+T*
+(   \(-1\)^n = -1 => 1 - \(-1\) = 2 => bn = \(2 / \(n*pi\)\) * 2 = 4 / \(n * pi\).) Tj
+T*
+(   Step 4: Assemble the Fourier Series:) Tj
+T*
+(   f\(x\) = sum_{k=1}^infinity [ 4 / \(\(2k - 1\)*pi\) ] * sin\(\(2k - 1\)x\)) Tj
+T*
+(   = \(4 / pi\) * [ sin x + \(sin 3x\) / 3 + \(sin 5x\) / 5 + \(sin 7x\) / 7 + ... ].) Tj
+T*
+(   Step 5: Deduction of Leibniz's Series:) Tj
+T*
+(   - Substitute x = pi / 2 \(a point of continuity where f\(pi/2\) = 1\):) Tj
+T*
+(   sin\(pi / 2\) = 1) Tj
+T*
+(   sin\(3*pi / 2\) = -1) Tj
+T*
+(   sin\(5*pi / 2\) = 1) Tj
+T*
+(   sin\(7*pi / 2\) = -1.) Tj
+T*
+(   - Substitute into the Fourier series:) Tj
+T*
+(   1 = \(4 / pi\) * [ 1 - 1/3 + 1/5 - 1/7 + ... ].) Tj
+T*
+(   - Multiply both sides by pi / 4:) Tj
+T*
+(   1 - 1/3 + 1/5 - 1/7 + ... = pi / 4.) Tj
+T*
+(   Conclusion:) Tj
+T*
+(   The Fourier series is \(4/pi\)*sum sin\(\(2n-1\)x\)/\(2n-1\), and Leibniz's series pi/4 is verified.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 5:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Prove that if f\(x\) is an even function on [-pi, pi], its Fourier series reduces to a Fourier Cosine Series with bn = 0, and if f\(x\) is an odd function, it reduces to a Fourier Sine Series with a0 = an = 0.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Properties of Integrals of Even and Odd Functions:) Tj
+T*
+(   - If g\(x\) is an even function on [-a, a]: int_{-a}^a g\(x\) dx = 2 * int_0^a g\(x\) dx.) Tj
+T*
+(   - If g\(x\) is an odd function on [-a, a]: int_{-a}^a g\(x\) dx = 0.) Tj
+T*
+(   2. Case 1: f\(x\) is an Even Function \(f\(-x\) = f\(x\)\):) Tj
+T*
+(   - Coefficient a0:) Tj
+T*
+(   a0 = \(1 / pi\) * int_{-pi}^pi f\(x\) dx.) Tj
+T*
+(   Since f\(x\) is even: a0 = \(2 / pi\) * int_0^pi f\(x\) dx.) Tj
+T*
+(   - Coefficient an:) Tj
+T*
+(   an = \(1 / pi\) * int_{-pi}^pi f\(x\) * cos\(nx\) dx.) Tj
+T*
+(   Since f\(x\) is even and cos\(nx\) is even, the product f\(x\)*cos\(nx\) is even:) Tj
+T*
+(   an = \(2 / pi\) * int_0^pi f\(x\) * cos\(nx\) dx.) Tj
+T*
+(   - Coefficient bn:) Tj
+T*
+(   bn = \(1 / pi\) * int_{-pi}^pi f\(x\) * sin\(nx\) dx.) Tj
+T*
+(   Since f\(x\) is even and sin\(nx\) is odd, the product f\(x\)*sin\(nx\) is an ODD function:) Tj
+T*
+(   bn = 0 for all n >= 1.) Tj
+T*
+(   - Thus: f\(x\) = a0/2 + sum_{n=1}^infinity an * cos\(nx\) \(Fourier Cosine Series\). \(Proved\).) Tj
+T*
+(   3. Case 2: f\(x\) is an Odd Function \(f\(-x\) = -f\(x\)\):) Tj
+T*
+(   - Coefficient a0:) Tj
+T*
+(   Since f\(x\) is odd: a0 = \(1 / pi\) * int_{-pi}^pi f\(x\) dx = 0.) Tj
+T*
+(   - Coefficient an:) Tj
+T*
+(   Product f\(x\)*cos\(nx\) is \(odd\)*\(even\) = ODD:) Tj
+T*
+(   an = \(1 / pi\) * int_{-pi}^pi f\(x\) * cos\(nx\) dx = 0 for all n >= 1.) Tj
+T*
+(   - Coefficient bn:) Tj
+T*
+(   Product f\(x\)*sin\(nx\) is \(odd\)*\(odd\) = EVEN:) Tj
+T*
+(   bn = \(2 / pi\) * int_0^pi f\(x\) * sin\(nx\) dx.) Tj
+T*
+(   - Thus: f\(x\) = sum_{n=1}^infinity bn * sin\(nx\) \(Fourier Sine Series\). \(Proved\).) Tj
+T*
+ET
+
+endstream
+endobj
+31 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 32 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+32 0 obj
+<< /Length 4041 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 6: FOURIER SERIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 15 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 6:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Find the Fourier series of f\(x\) = x on the interval [-pi, pi]. State its value at points of discontinuity and deduce that 1 - 1/3 + 1/5 - 1/7 + ... = pi/4.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Step 1: Symmetry and Coefficients:) Tj
+T*
+(   f\(-x\) = -x = -f\(x\). Thus f\(x\) = x is an ODD function on [-pi, pi].) Tj
+T*
+(   a0 = 0 and an = 0 for all n >= 1.) Tj
+T*
+(   Step 2: Compute Fourier Coefficient bn:) Tj
+T*
+(   bn = \(2 / pi\) * int_0^pi x * sin\(nx\) dx.) Tj
+T*
+(   Integrate by parts: u = x, dv = sin\(nx\) dx => du = dx, v = -cos\(nx\)/n.) Tj
+T*
+(   bn = \(2 / pi\) * [ -x * cos\(nx\) / n ]_0^pi - \(2 / pi\) * int_0^pi [ -cos\(nx\) / n ] dx) Tj
+T*
+(   = \(2 / pi\) * [ -pi * cos\(n*pi\) / n - 0 ] + \(2 / \(n * pi\)\) * [ sin\(nx\) / n ]_0^pi) Tj
+T*
+(   = \(2 / pi\) * [ -pi * \(-1\)^n / n ] + 0) Tj
+T*
+(   = - 2 * \(-1\)^n / n = 2 * \(-1\)^\(n + 1\) / n.) Tj
+T*
+(   Step 3: Assemble the Fourier Series:) Tj
+T*
+(   f\(x\) = sum_{n=1}^infinity [ 2 * \(-1\)^\(n+1\) / n ] * sin\(nx\)) Tj
+T*
+(   = 2 * [ sin x - \(sin 2x\)/2 + \(sin 3x\)/3 - \(sin 4x\)/4 + \(sin 5x\)/5 - ... ].) Tj
+T*
+(   Step 4: Convergence at Discontinuity:) Tj
+T*
+(   At endpoints x = -pi and x = pi, the periodic extension has jump discontinuities:) Tj
+T*
+(   Sum S\(pi\) = \(1/2\) * [ f\(pi-\) + f\(-pi+\) ] = \(1/2\) * [ pi + \(-pi\) ] = 0.) Tj
+T*
+(   In the Fourier series, every sin\(n*pi\) = 0, so the series converges to 0 at x = +-pi.) Tj
+T*
+(   Step 5: Deduction of Series:) Tj
+T*
+(   Substitute x = pi / 2 \(point of continuity where f\(pi/2\) = pi/2\):) Tj
+T*
+(   pi / 2 = 2 * [ sin\(pi/2\) - \(sin pi\)/2 + \(sin 3pi/2\)/3 - \(sin 2pi\)/4 + \(sin 5pi/2\)/5 - ... ]) Tj
+T*
+(   pi / 2 = 2 * [ 1 - 0 + \(-1\)/3 - 0 + 1/5 - 0 - 1/7 + ... ]) Tj
+T*
+(   pi / 2 = 2 * [ 1 - 1/3 + 1/5 - 1/7 + ... ].) Tj
+T*
+(   Divide both sides by 2:) Tj
+T*
+(   1 - 1/3 + 1/5 - 1/7 + ... = pi / 4.) Tj
+T*
+(   Conclusion:) Tj
+T*
+(   The Fourier series is 2*sum \(-1\)^\(n+1\)*sin\(nx\)/n, and the alternating sum evaluates to pi/4.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 7:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Find the Fourier series of f\(x\) = x^2 on [-pi, pi]. Hence, deduce: \(i\) sum_{n=1}^infinity 1/n^2 = pi^2/6 \(Euler's Basel Problem\), \(ii\) sum_{n=1}^infinity \(-1\)^\(n+1\)/n^2 = pi^2/12, and \(iii\) sum_{n=1}^infinity 1/\(2n-1\)^2 = pi^2/8.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Step 1: Symmetry and Coefficients:) Tj
+T*
+(   f\(-x\) = \(-x\)^2 = x^2 = f\(x\). f\(x\) is an EVEN function on [-pi, pi].) Tj
+T*
+(   Therefore: bn = 0 for all n >= 1.) Tj
+T*
+(   Step 2: Compute a0:) Tj
+T*
+(   a0 = \(2 / pi\) * int_0^pi x^2 dx = \(2 / pi\) * [ x^3 / 3 ]_0^pi = \(2 / pi\) * \(pi^3 / 3\) = 2*pi^2) Tj
+T*
+(   / 3.) Tj
+T*
+(   Constant term: a0 / 2 = pi^2 / 3.) Tj
+T*
+(   Step 3: Compute an:) Tj
+T*
+(   an = \(2 / pi\) * int_0^pi x^2 * cos\(nx\) dx.) Tj
+T*
+(   Integrate by parts: u = x^2, dv = cos\(nx\) dx \(v = sin\(nx\)/n, v2 = -cos\(nx\)/n^2, v3 =) Tj
+T*
+(   -sin\(nx\)/n^3\):) Tj
+T*
+(   an = \(2 / pi\) * [ x^2 * \(sin nx / n\) - 2x * \(-cos nx / n^2\) + 2 * \(-sin nx / n^3\) ]_0^pi) Tj
+T*
+(   = \(2 / pi\) * [ 0 + 2*pi*cos\(n*pi\) / n^2 - 0 ] - 0) Tj
+T*
+(   = \(2 / pi\) * [ 2*pi * \(-1\)^n / n^2 ] = 4 * \(-1\)^n / n^2.) Tj
+T*
+(   Step 4: Assemble the Fourier Series:) Tj
+T*
+(   x^2 = pi^2 / 3 + sum_{n=1}^infinity [ 4 * \(-1\)^n / n^2 ] * cos\(nx\)) Tj
+T*
+ET
+
+endstream
+endobj
+33 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 34 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+34 0 obj
+<< /Length 3788 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 6: FOURIER SERIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 16 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   = pi^2 / 3 - 4 * [ \(cos x\)/1^2 - \(cos 2x\)/2^2 + \(cos 3x\)/3^2 - \(cos 4x\)/4^2 + ... ].) Tj
+T*
+(   Step 5: Deduce Series \(i\) - Euler's Basel Problem:) Tj
+T*
+(   Set x = pi \(point of continuity where f\(pi\) = pi^2\):) Tj
+T*
+(   cos\(n*pi\) = \(-1\)^n.) Tj
+T*
+(   pi^2 = pi^2 / 3 + 4 * sum_{n=1}^infinity [ \(-1\)^n * \(-1\)^n / n^2 ] = pi^2 / 3 + 4 *) Tj
+T*
+(   sum_{n=1}^infinity 1 / n^2) Tj
+T*
+(   pi^2 - pi^2 / 3 = 4 * sum_{n=1}^infinity 1 / n^2) Tj
+T*
+(   \(2/3\)*pi^2 = 4 * sum_{n=1}^infinity 1 / n^2) Tj
+T*
+(   => sum_{n=1}^infinity 1 / n^2 = \(2/3\)*pi^2 / 4 = pi^2 / 6. \(Part i proved\).) Tj
+T*
+(   Step 6: Deduce Series \(ii\):) Tj
+T*
+(   Set x = 0 \(point of continuity where f\(0\) = 0\):) Tj
+T*
+(   0 = pi^2 / 3 + 4 * sum_{n=1}^infinity [ \(-1\)^n / n^2 ]) Tj
+T*
+(   - pi^2 / 3 = - 4 * sum_{n=1}^infinity [ \(-1\)^\(n+1\) / n^2 ]) Tj
+T*
+(   => sum_{n=1}^infinity \(-1\)^\(n+1\) / n^2 = pi^2 / 12. \(Part ii proved\).) Tj
+T*
+(   Step 7: Deduce Series \(iii\) \(Sum of Odd Reciprocals\):) Tj
+T*
+(   Add series \(i\) and \(ii\):) Tj
+T*
+(   2 * sum_{k=1}^infinity 1 / \(2k - 1\)^2 = pi^2 / 6 + pi^2 / 12 = 3*pi^2 / 12 = pi^2 / 4) Tj
+T*
+(   => sum_{k=1}^infinity 1 / \(2k - 1\)^2 = pi^2 / 8. \(Part iii proved\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 8:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Find the Fourier series of f\(x\) = |x| on [-pi, pi]. Hence, deduce that: 1/1^2 + 1/3^2 + 1/5^2 + ... = pi^2 / 8.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Step 1: Check Symmetry of f\(x\):) Tj
+T*
+(   f\(-x\) = |-x| = |x| = f\(x\). Thus f\(x\) is an EVEN function on [-pi, pi].) Tj
+T*
+(   Therefore: bn = 0 for all n >= 1.) Tj
+T*
+(   Step 2: Compute a0:) Tj
+T*
+(   a0 = \(2 / pi\) * int_0^pi x dx = \(2 / pi\) * [ x^2 / 2 ]_0^pi = \(2 / pi\) * \(pi^2 / 2\) = pi.) Tj
+T*
+(   Constant term: a0 / 2 = pi / 2.) Tj
+T*
+(   Step 3: Compute an:) Tj
+T*
+(   an = \(2 / pi\) * int_0^pi x * cos\(nx\) dx.) Tj
+T*
+(   Integrate by parts: u = x, dv = cos\(nx\) dx => du = dx, v = sin\(nx\)/n.) Tj
+T*
+(   an = \(2 / pi\) * [ x * sin\(nx\) / n ]_0^pi - \(2 / pi\) * int_0^pi [ sin\(nx\) / n ] dx) Tj
+T*
+(   = 0 - \(2 / \(n * pi\)\) * [ -cos\(nx\) / n ]_0^pi) Tj
+T*
+(   = \(2 / \(n^2 * pi\)\) * [ cos\(n*pi\) - cos\(0\) ]) Tj
+T*
+(   = \(2 / \(n^2 * pi\)\) * [ \(-1\)^n - 1 ].) Tj
+T*
+(   Step 4: Evaluate an for Even and Odd n:) Tj
+T*
+(   - If n is even: \(-1\)^n = 1 => 1 - 1 = 0 => an = 0.) Tj
+T*
+(   - If n is odd: \(-1\)^n = -1 => -1 - 1 = -2 => an = -4 / \(n^2 * pi\).) Tj
+T*
+(   Step 5: Assemble the Fourier Series:) Tj
+T*
+(   |x| = pi / 2 - \(4 / pi\) * sum_{k=1}^infinity [ cos\(\(2k - 1\)x\) / \(2k - 1\)^2 ]) Tj
+T*
+(   = pi / 2 - \(4 / pi\) * [ \(cos x\)/1^2 + \(cos 3x\)/3^2 + \(cos 5x\)/5^2 + ... ].) Tj
+T*
+(   Step 6: Deduction:) Tj
+T*
+(   Substitute x = 0 \(point of continuity where f\(0\) = 0\):) Tj
+T*
+(   0 = pi / 2 - \(4 / pi\) * [ 1/1^2 + 1/3^2 + 1/5^2 + ... ]) Tj
+T*
+(   \(4 / pi\) * [ 1/1^2 + 1/3^2 + 1/5^2 + ... ] = pi / 2.) Tj
+T*
+(   Multiply both sides by pi / 4:) Tj
+T*
+(   1/1^2 + 1/3^2 + 1/5^2 + ... = \(pi / 2\) * \(pi / 4\) = pi^2 / 8.) Tj
+T*
+(   Conclusion:) Tj
+T*
+(   The Fourier series is pi/2 - \(4/pi\)*sum cos\(\(2n-1\)x\)/\(2n-1\)^2, and sum 1/\(2n-1\)^2 = pi^2/8 is) Tj
+T*
+(   established.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+ET
+
+endstream
+endobj
+35 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 36 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+36 0 obj
+<< /Length 3627 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 6: FOURIER SERIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 17 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 9:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Find the Fourier series of f\(x\) = x + x^2 on the interval [-pi, pi]. Hence evaluate the sum: sum_{n=1}^infinity 1/n^2.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Step 1: Decompose f\(x\) into Odd and Even Parts:) Tj
+T*
+(   f\(x\) = \(x\) + \(x^2\), where g\(x\) = x is odd and h\(x\) = x^2 is even.) Tj
+T*
+(   By linearity of Fourier series:) Tj
+T*
+(   - Fourier series of x provides the sine terms \(bn\).) Tj
+T*
+(   - Fourier series of x^2 provides the constant \(a0\) and cosine terms \(an\).) Tj
+T*
+(   Step 2: Read out coefficients from Subjectives 6 and 7:) Tj
+T*
+(   - From Subjective 7:) Tj
+T*
+(   a0 = 2*pi^2 / 3 => a0 / 2 = pi^2 / 3.) Tj
+T*
+(   an = 4 * \(-1\)^n / n^2.) Tj
+T*
+(   - From Subjective 6:) Tj
+T*
+(   bn = 2 * \(-1\)^\(n + 1\) / n.) Tj
+T*
+(   Step 3: Assemble the Combined Fourier Series:) Tj
+T*
+(   f\(x\) = pi^2 / 3 + sum_{n=1}^infinity [ 4 * \(-1\)^n / n^2 ] * cos\(nx\) + sum_{n=1}^infinity [ 2 *) Tj
+T*
+(   \(-1\)^\(n+1\) / n ] * sin\(nx\).) Tj
+T*
+(   Expanded form:) Tj
+T*
+(   x + x^2 = pi^2 / 3 - 4 * [ \(cos x\)/1^2 - \(cos 2x\)/2^2 + \(cos 3x\)/3^2 - ... ]) Tj
+T*
+(   + 2 * [ sin x - \(sin 2x\)/2 + \(sin 3x\)/3 - ... ].) Tj
+T*
+(   Step 4: Deduction at Endpoints x = pi:) Tj
+T*
+(   - By Dirichlet's theorem, at x = pi \(point of jump discontinuity of periodic extension\):) Tj
+T*
+(   S\(pi\) = \(1/2\) * [ f\(pi-\) + f\(-pi+\) ].) Tj
+T*
+(   f\(pi-\) = pi + pi^2.) Tj
+T*
+(   f\(-pi+\) = -pi + \(-pi\)^2 = -pi + pi^2.) Tj
+T*
+(   S\(pi\) = \(1/2\) * [ \(pi + pi^2\) + \(-pi + pi^2\) ] = \(1/2\) * \(2*pi^2\) = pi^2.) Tj
+T*
+(   - In the Fourier series, set x = pi:) Tj
+T*
+(   cos\(n*pi\) = \(-1\)^n, sin\(n*pi\) = 0.) Tj
+T*
+(   pi^2 = pi^2 / 3 + sum_{n=1}^infinity [ 4 * \(-1\)^n / n^2 ] * \(-1\)^n) Tj
+T*
+(   pi^2 = pi^2 / 3 + 4 * sum_{n=1}^infinity 1 / n^2) Tj
+T*
+(   \(2/3\)*pi^2 = 4 * sum_{n=1}^infinity 1 / n^2) Tj
+T*
+(   => sum_{n=1}^infinity 1 / n^2 = pi^2 / 6.) Tj
+T*
+(   Conclusion:) Tj
+T*
+(   The Fourier series is established and sum 1/n^2 = pi^2/6 is confirmed.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 10:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Derive the Fourier series expansion formulas for a function f\(x\) defined on an arbitrary symmetric interval [-L, L] by change of scale of variable.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Derivation via Variable Transformation:) Tj
+T*
+(   - Let f\(x\) be defined on [-L, L] with period 2L.) Tj
+T*
+(   - We map the interval [-L, L] to [-pi, pi] by introducing the dimensionless variable t:) Tj
+T*
+(   t = pi * x / L => x = L * t / pi.) Tj
+T*
+(   - When x = -L, t = -pi; when x = L, t = pi.) Tj
+T*
+(   - Define F\(t\) = f\(L * t / pi\) on [-pi, pi].) Tj
+T*
+(   2. Standard Fourier Series of F\(t\) on [-pi, pi]:) Tj
+T*
+(   F\(t\) = a0 / 2 + sum_{n=1}^infinity [ an * cos\(nt\) + bn * sin\(nt\) ],) Tj
+T*
+(   where:) Tj
+T*
+(   a0 = \(1 / pi\) * int_{-pi}^pi F\(t\) dt) Tj
+T*
+(   an = \(1 / pi\) * int_{-pi}^pi F\(t\) * cos\(nt\) dt) Tj
+T*
+(   bn = \(1 / pi\) * int_{-pi}^pi F\(t\) * sin\(nt\) dt.) Tj
+T*
+(   3. Transform Back to Variable x:) Tj
+T*
+ET
+
+endstream
+endobj
+37 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 38 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+38 0 obj
+<< /Length 3650 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 6: FOURIER SERIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 18 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - Substitute t = pi*x / L and dt = \(pi / L\) dx:) Tj
+T*
+(   a0 = \(1 / pi\) * int_{-L}^L f\(x\) * \(pi / L\) dx = \(1 / L\) * int_{-L}^L f\(x\) dx.) Tj
+T*
+(   an = \(1 / pi\) * int_{-L}^L f\(x\) * cos\(n*pi*x / L\) * \(pi / L\) dx = \(1 / L\) * int_{-L}^L f\(x\) *) Tj
+T*
+(   cos\(n*pi*x / L\) dx.) Tj
+T*
+(   bn = \(1 / pi\) * int_{-L}^L f\(x\) * sin\(n*pi*x / L\) * \(pi / L\) dx = \(1 / L\) * int_{-L}^L f\(x\) *) Tj
+T*
+(   sin\(n*pi*x / L\) dx.) Tj
+T*
+(   4. Summary of Formulas for [-L, L]:) Tj
+T*
+(   f\(x\) = a0 / 2 + sum_{n=1}^infinity [ an * cos\(n*pi*x / L\) + bn * sin\(n*pi*x / L\) ],) Tj
+T*
+(   with:) Tj
+T*
+(   a0 = \(1 / L\) * int_{-L}^L f\(x\) dx) Tj
+T*
+(   an = \(1 / L\) * int_{-L}^L f\(x\) * cos\(n*pi*x / L\) dx) Tj
+T*
+(   bn = \(1 / L\) * int_{-L}^L f\(x\) * sin\(n*pi*x / L\) dx. \(Proved\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 11:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Find the Fourier series of f\(x\) = x on the interval [-2, 2] \(period 2L = 4, so L = 2\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Step 1: Symmetry and Coefficients:) Tj
+T*
+(   f\(-x\) = -x = -f\(x\). f\(x\) is an ODD function on [-2, 2].) Tj
+T*
+(   Therefore:) Tj
+T*
+(   a0 = 0 and an = 0 for all n >= 1.) Tj
+T*
+(   Step 2: Compute Fourier Coefficient bn \(with L = 2\):) Tj
+T*
+(   bn = \(2 / L\) * int_0^L f\(x\) * sin\(n*pi*x / L\) dx) Tj
+T*
+(   = \(2 / 2\) * int_0^2 x * sin\(n*pi*x / 2\) dx) Tj
+T*
+(   = int_0^2 x * sin\(n*pi*x / 2\) dx.) Tj
+T*
+(   Step 3: Integrate by Parts:) Tj
+T*
+(   Let u = x, dv = sin\(n*pi*x / 2\) dx:) Tj
+T*
+(   du = dx, v = - [ 2 / \(n*pi\) ] * cos\(n*pi*x / 2\).) Tj
+T*
+(   bn = [ - 2x / \(n*pi\) * cos\(n*pi*x / 2\) ]_0^2 - int_0^2 [ - 2 / \(n*pi\) * cos\(n*pi*x / 2\) ] dx) Tj
+T*
+(   = [ - 4 / \(n*pi\) * cos\(n*pi\) - 0 ] + [ 2 / \(n*pi\) ] * [ 2 / \(n*pi\) * sin\(n*pi*x / 2\) ]_0^2) Tj
+T*
+(   = - 4 * \(-1\)^n / \(n*pi\) + 0) Tj
+T*
+(   = 4 * \(-1\)^\(n + 1\) / \(n * pi\).) Tj
+T*
+(   Step 4: Assemble the Fourier Series:) Tj
+T*
+(   f\(x\) = sum_{n=1}^infinity [ 4 * \(-1\)^\(n+1\) / \(n*pi\) ] * sin\(n*pi*x / 2\)) Tj
+T*
+(   = \(4 / pi\) * [ sin\(pi*x / 2\) - \(1/2\)*sin\(2*pi*x / 2\) + \(1/3\)*sin\(3*pi*x / 2\) - ... ].) Tj
+T*
+(   Conclusion:) Tj
+T*
+(   The Fourier series on [-2, 2] is \(4/pi\) * sum \(-1\)^\(n+1\) * sin\(n*pi*x / 2\) / n.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 12:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Find the Fourier series of f\(x\) = 2x - x^2 on the interval [0, 3] with period T = 3.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Step 1: Identify Parameters:) Tj
+T*
+(   Interval [0, 2L] = [0, 3] => 2L = 3 => L = 3/2 = 1.5.) Tj
+T*
+(   Fundamental frequency factor: n*pi*x / L = 2*n*pi*x / 3.) Tj
+T*
+(   Step 2: Compute a0:) Tj
+T*
+(   a0 = \(1 / L\) * int_0^\(2L\) f\(x\) dx = \(2 / 3\) * int_0^3 \(2x - x^2\) dx) Tj
+T*
+(   = \(2 / 3\) * [ x^2 - x^3 / 3 ]_0^3) Tj
+T*
+(   = \(2 / 3\) * [ 9 - 27 / 3 ] = \(2 / 3\) * [ 9 - 9 ] = 0.) Tj
+T*
+(   Thus: a0 / 2 = 0.) Tj
+T*
+(   Step 3: Compute an:) Tj
+T*
+(   an = \(2 / 3\) * int_0^3 \(2x - x^2\) * cos\(2*n*pi*x / 3\) dx.) Tj
+T*
+ET
+
+endstream
+endobj
+39 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 40 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+40 0 obj
+<< /Length 3863 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 6: FOURIER SERIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 19 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   Integrate by parts:) Tj
+T*
+(   u = 2x - x^2, u' = 2 - 2x, u'' = -2, u''' = 0.) Tj
+T*
+(   v = cos\(kx\), v1 = sin\(kx\)/k, v2 = -cos\(kx\)/k^2, v3 = -sin\(kx\)/k^3, where k = 2*n*pi / 3.) Tj
+T*
+(   an = \(2 / 3\) * [ \(2x - x^2\)*\(sin kx / k\) - \(2 - 2x\)*\(-cos kx / k^2\) + \(-2\)*\(-sin kx / k^3\)) Tj
+T*
+(   ]_0^3.) Tj
+T*
+(   Since sin\(k*3\) = sin\(2*n*pi\) = 0 and sin\(0\) = 0, the sine terms vanish at both limits:) Tj
+T*
+(   an = \(2 / 3\) * [ \(2 - 2x\)*cos\(kx\) / k^2 ]_0^3) Tj
+T*
+(   = \(2 / 3\) * [ \(2 - 6\)*cos\(2n*pi\) / k^2 - \(2 - 0\)*cos\(0\) / k^2 ]) Tj
+T*
+(   = \(2 / 3\) * [ -4\(1\) / k^2 - 2\(1\) / k^2 ] = \(2 / 3\) * [ -6 / k^2 ] = -4 / k^2.) Tj
+T*
+(   Substitute k = 2*n*pi / 3 => k^2 = 4*n^2*pi^2 / 9:) Tj
+T*
+(   an = -4 / [ 4*n^2*pi^2 / 9 ] = - 9 / \(n^2 * pi^2\).) Tj
+T*
+(   Step 4: Compute bn:) Tj
+T*
+(   bn = \(2 / 3\) * int_0^3 \(2x - x^2\) * sin\(kx\) dx) Tj
+T*
+(   = \(2 / 3\) * [ \(2x - x^2\)*\(-cos kx / k\) - \(2 - 2x\)*\(-sin kx / k^2\) + \(-2\)*\(cos kx / k^3\) ]_0^3) Tj
+T*
+(   = \(2 / 3\) * [ - \(2x - x^2\)*cos\(kx\) / k - 2*cos\(kx\) / k^3 ]_0^3.) Tj
+T*
+(   At x = 3: -\(6 - 9\)\(1\)/k - 2\(1\)/k^3 = 3/k - 2/k^3.) Tj
+T*
+(   At x = 0: -\(0\)\(1\)/k - 2\(1\)/k^3 = -2/k^3.) Tj
+T*
+(   Difference = \(3/k - 2/k^3\) - \(-2/k^3\) = 3 / k.) Tj
+T*
+(   bn = \(2 / 3\) * [ 3 / k ] = 2 / k = 2 / \(2*n*pi / 3\) = 3 / \(n * pi\).) Tj
+T*
+(   Step 5: Assemble the Fourier Series:) Tj
+T*
+(   f\(x\) = - \(9 / pi^2\) * sum_{n=1}^infinity [ cos\(2*n*pi*x / 3\) / n^2 ] + \(3 / pi\) *) Tj
+T*
+(   sum_{n=1}^infinity [ sin\(2*n*pi*x / 3\) / n ].) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 13:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the concept of Half-Range Fourier Expansions. Detail how an even extension yields a Half-Range Cosine Series and an odd extension yields a Half-Range Sine Series on [0, L].) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Theory of Half-Range Expansions:) Tj
+T*
+(   - Suppose a function f\(x\) is defined only on a half-interval [0, L].) Tj
+T*
+(   - We have freedom to extend f\(x\) into the other half [-L, 0\) in two standard ways:) Tj
+T*
+(   2. Even Periodic Extension \(Half-Range Cosine Series\):) Tj
+T*
+(   - Define f_even\(x\) on [-L, L] by:) Tj
+T*
+(   f_even\(x\) = f\(x\) for x in [0, L], and f_even\(x\) = f\(-x\) for x in [-L, 0\).) Tj
+T*
+(   - Since f_even\(x\) is an even function on [-L, L]:) Tj
+T*
+(   bn = 0 for all n >= 1.) Tj
+T*
+(   - The Fourier series contains ONLY cosine terms:) Tj
+T*
+(   f\(x\) = a0 / 2 + sum_{n=1}^infinity an * cos\(n*pi*x / L\),) Tj
+T*
+(   where:) Tj
+T*
+(   a0 = \(2 / L\) * int_0^L f\(x\) dx) Tj
+T*
+(   an = \(2 / L\) * int_0^L f\(x\) * cos\(n*pi*x / L\) dx.) Tj
+T*
+(   3. Odd Periodic Extension \(Half-Range Sine Series\):) Tj
+T*
+(   - Define f_odd\(x\) on [-L, L] by:) Tj
+T*
+(   f_odd\(x\) = f\(x\) for x in \(0, L], and f_odd\(x\) = -f\(-x\) for x in [-L, 0\), with f_odd\(0\) = 0.) Tj
+T*
+(   - Since f_odd\(x\) is an odd function on [-L, L]:) Tj
+T*
+(   a0 = 0 and an = 0 for all n >= 1.) Tj
+T*
+(   - The Fourier series contains ONLY sine terms:) Tj
+T*
+(   f\(x\) = sum_{n=1}^infinity bn * sin\(n*pi*x / L\),) Tj
+T*
+(   where:) Tj
+T*
+(   bn = \(2 / L\) * int_0^L f\(x\) * sin\(n*pi*x / L\) dx.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 14:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+ET
+
+endstream
+endobj
+41 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 42 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+42 0 obj
+<< /Length 3913 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 6: FOURIER SERIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 20 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   [Problem Statement]: Obtain the Half-Range Sine Series of f\(x\) = x*\(pi - x\) on the interval [0, pi]. Hence, deduce the sum: 1/1^3 - 1/3^3 + 1/5^3 - 1/7^3 + ... = pi^3 / 32.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Step 1: Set up the Half-Range Sine Coefficient bn \(L = pi\):) Tj
+T*
+(   bn = \(2 / pi\) * int_0^pi \(pi*x - x^2\) * sin\(nx\) dx.) Tj
+T*
+(   Step 2: Integrate by Parts:) Tj
+T*
+(   u = pi*x - x^2, u' = pi - 2x, u'' = -2, u''' = 0.) Tj
+T*
+(   v = sin\(nx\), v1 = -cos\(nx\)/n, v2 = -sin\(nx\)/n^2, v3 = cos\(nx\)/n^3.) Tj
+T*
+(   bn = \(2 / pi\) * [ \(pi*x - x^2\)*\(-cos nx / n\) - \(pi - 2x\)*\(-sin nx / n^2\) + \(-2\)*\(cos nx / n^3\)) Tj
+T*
+(   ]_0^pi.) Tj
+T*
+(   Step 3: Evaluate at Limits:) Tj
+T*
+(   - First term vanishes at both limits since pi*x - x^2 = 0 at x = 0 and x = pi.) Tj
+T*
+(   - Second term vanishes since sin\(n*pi\) = sin\(0\) = 0.) Tj
+T*
+(   - Third term:) Tj
+T*
+(   At x = pi: -2 * cos\(n*pi\) / n^3 = -2 * \(-1\)^n / n^3.) Tj
+T*
+(   At x = 0: -2 * cos\(0\) / n^3 = -2 / n^3.) Tj
+T*
+(   Difference = [ -2*\(-1\)^n / n^3 ] - [ -2 / n^3 ] = \(2 / n^3\) * [ 1 - \(-1\)^n ].) Tj
+T*
+(   bn = \(2 / pi\) * \(2 / n^3\) * [ 1 - \(-1\)^n ] = \(4 / \(pi * n^3\)\) * [ 1 - \(-1\)^n ].) Tj
+T*
+(   Step 4: Values for Even and Odd n:) Tj
+T*
+(   - If n is even: 1 - \(-1\)^n = 0 => bn = 0.) Tj
+T*
+(   - If n is odd \(n = 2k - 1\): 1 - \(-1\)^n = 2 => bn = 8 / \(pi * n^3\).) Tj
+T*
+(   Step 5: Assemble the Half-Range Sine Series:) Tj
+T*
+(   x*\(pi - x\) = \(8 / pi\) * sum_{k=1}^infinity [ sin\(\(2k - 1\)x\) / \(2k - 1\)^3 ]) Tj
+T*
+(   = \(8 / pi\) * [ \(sin x\)/1^3 + \(sin 3x\)/3^3 + \(sin 5x\)/5^3 + ... ].) Tj
+T*
+(   Step 6: Deduction at x = pi / 2:) Tj
+T*
+(   - At x = pi / 2:) Tj
+T*
+(   f\(pi/2\) = \(pi/2\) * \(pi - pi/2\) = \(pi/2\) * \(pi/2\) = pi^2 / 4.) Tj
+T*
+(   sin\(pi/2\) = 1, sin\(3pi/2\) = -1, sin\(5pi/2\) = 1, sin\(7pi/2\) = -1.) Tj
+T*
+(   - Substitute into series:) Tj
+T*
+(   pi^2 / 4 = \(8 / pi\) * [ 1/1^3 - 1/3^3 + 1/5^3 - 1/7^3 + ... ].) Tj
+T*
+(   - Multiply both sides by pi / 8:) Tj
+T*
+(   1/1^3 - 1/3^3 + 1/5^3 - 1/7^3 + ... = \(pi^2 / 4\) * \(pi / 8\) = pi^3 / 32.) Tj
+T*
+(   Conclusion:) Tj
+T*
+(   The half-range sine series is established and the alternating cubic reciprocal sum evaluates to) Tj
+T*
+(   pi^3 / 32.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 15:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Obtain the Half-Range Cosine Series of f\(x\) = x*\(pi - x\) on the interval [0, pi]. Hence, deduce the sum: sum_{n=1}^infinity 1/n^4 = pi^4 / 90.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Step 1: Compute a0 \(L = pi\):) Tj
+T*
+(   a0 = \(2 / pi\) * int_0^pi \(pi*x - x^2\) dx = \(2 / pi\) * [ pi*x^2 / 2 - x^3 / 3 ]_0^pi) Tj
+T*
+(   = \(2 / pi\) * [ pi^3 / 2 - pi^3 / 3 ] = \(2 / pi\) * \(pi^3 / 6\) = pi^2 / 3.) Tj
+T*
+(   Constant term: a0 / 2 = pi^2 / 6.) Tj
+T*
+(   Step 2: Compute an:) Tj
+T*
+(   an = \(2 / pi\) * int_0^pi \(pi*x - x^2\) * cos\(nx\) dx.) Tj
+T*
+(   Integrate by parts:) Tj
+T*
+(   u = pi*x - x^2, u' = pi - 2x, u'' = -2, u''' = 0.) Tj
+T*
+(   v = cos\(nx\), v1 = sin\(nx\)/n, v2 = -cos\(nx\)/n^2, v3 = -sin\(nx\)/n^3.) Tj
+T*
+(   an = \(2 / pi\) * [ \(pi*x - x^2\)*\(sin nx / n\) - \(pi - 2x\)*\(-cos nx / n^2\) + \(-2\)*\(-sin nx / n^3\)) Tj
+T*
+(   ]_0^pi.) Tj
+T*
+(   Sine terms vanish at both limits:) Tj
+T*
+(   an = \(2 / pi\) * [ \(pi - 2x\) * cos\(nx\) / n^2 ]_0^pi) Tj
+T*
+(   = \(2 / pi\) * [ \(pi - 2pi\)*cos\(n*pi\) / n^2 - \(pi - 0\)*cos\(0\) / n^2 ]) Tj
+T*
+ET
+
+endstream
+endobj
+43 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 44 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+44 0 obj
+<< /Length 4052 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 6: FOURIER SERIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 21 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   = \(2 / pi\) * [ -pi * \(-1\)^n / n^2 - pi / n^2 ]) Tj
+T*
+(   = - \(2 / n^2\) * [ 1 + \(-1\)^n ].) Tj
+T*
+(   Step 3: Values for Even and Odd n:) Tj
+T*
+(   - If n is odd: 1 + \(-1\)^n = 0 => an = 0.) Tj
+T*
+(   - If n is even \(n = 2m\): 1 + \(-1\)^n = 2 => an = -4 / n^2 = -4 / \(2m\)^2 = -1 / m^2.) Tj
+T*
+(   Step 4: Assemble the Half-Range Cosine Series:) Tj
+T*
+(   x*\(pi - x\) = pi^2 / 6 - sum_{m=1}^infinity [ cos\(2mx\) / m^2 ]) Tj
+T*
+(   = pi^2 / 6 - [ \(cos 2x\)/1^2 + \(cos 4x\)/2^2 + \(cos 6x\)/3^2 + ... ].) Tj
+T*
+(   Step 5: Deduction of Basel Problem \(sum 1/m^2\):) Tj
+T*
+(   At x = 0: f\(0\) = 0 => 0 = pi^2 / 6 - sum_{m=1}^infinity 1/m^2 => sum 1/m^2 = pi^2 / 6.) Tj
+T*
+(   Step 6: Deduction of sum 1/m^4 using Parseval's Identity:) Tj
+T*
+(   - For half-range cosine series on [0, pi]:) Tj
+T*
+(   \(2 / pi\) * int_0^pi [f\(x\)]^2 dx = a0^2 / 2 + sum_{m=1}^infinity am^2.) Tj
+T*
+(   - Left-hand side:) Tj
+T*
+(   int_0^pi [x*\(pi - x\)]^2 dx = int_0^pi \(pi^2*x^2 - 2pi*x^3 + x^4\) dx) Tj
+T*
+(   = [ pi^2*x^3/3 - 2pi*x^4/4 + x^5/5 ]_0^pi = pi^5 * [ 1/3 - 1/2 + 1/5 ] = pi^5 / 30.) Tj
+T*
+(   \(2 / pi\) * \(pi^5 / 30\) = pi^4 / 15.) Tj
+T*
+(   - a0^2 / 2 = \(pi^2 / 3\)^2 / 2 = pi^4 / 18.) Tj
+T*
+(   - Substitute:) Tj
+T*
+(   pi^4 / 15 = pi^4 / 18 + sum_{m=1}^infinity \(1 / m^2\)^2 = pi^4 / 18 + sum 1/m^4) Tj
+T*
+(   sum_{m=1}^infinity 1 / m^4 = pi^4 / 15 - pi^4 / 18 = \(6 - 5\)*pi^4 / 90 = pi^4 / 90.) Tj
+T*
+(   Conclusion:) Tj
+T*
+(   The half-range cosine series is derived and sum 1/m^4 = pi^4 / 90 is proven.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 16:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Obtain the Half-Range Cosine Series for f\(x\) = sin\(x\) on the interval [0, pi]. \(This represents full-wave rectification in electrical/biomedical engineering\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Step 1: Compute a0:) Tj
+T*
+(   a0 = \(2 / pi\) * int_0^pi sin x dx = \(2 / pi\) * [ -cos x ]_0^pi) Tj
+T*
+(   = \(2 / pi\) * [ -\(-1\) - \(-1\) ] = \(2 / pi\) * \(2\) = 4 / pi.) Tj
+T*
+(   Constant term: a0 / 2 = 2 / pi.) Tj
+T*
+(   Step 2: Compute an:) Tj
+T*
+(   an = \(2 / pi\) * int_0^pi sin x * cos\(nx\) dx.) Tj
+T*
+(   Use identity: 2 * sin A * cos B = sin\(A + B\) + sin\(A - B\):) Tj
+T*
+(   an = \(1 / pi\) * int_0^pi [ sin\(\(1 + n\)x\) + sin\(\(1 - n\)x\) ] dx.) Tj
+T*
+(   - For n = 1:) Tj
+T*
+(   a1 = \(1 / pi\) * int_0^pi sin\(2x\) dx = \(1 / pi\) * [ -cos 2x / 2 ]_0^pi = 0.) Tj
+T*
+(   - For n >= 2:) Tj
+T*
+(   an = \(1 / pi\) * [ -cos\(\(n + 1\)x\) / \(n + 1\) + cos\(\(n - 1\)x\) / \(n - 1\) ]_0^pi.) Tj
+T*
+(   At x = pi: cos\(\(n+1\)pi\) = \(-1\)^\(n+1\) = -\(-1\)^n, and cos\(\(n-1\)pi\) = -\(-1\)^n.) Tj
+T*
+(   Term at pi = -\(-\(-1\)^n\)/\(n+1\) + \(-\(-1\)^n\)/\(n-1\) = \(-1\)^n / \(n+1\) - \(-1\)^n / \(n-1\)) Tj
+T*
+(   = \(-1\)^n * [ 1/\(n+1\) - 1/\(n-1\) ] = \(-1\)^n * [ -2 / \(n^2 - 1\) ].) Tj
+T*
+(   Term at 0 = -1/\(n+1\) + 1/\(n-1\) = [ - \(n-1\) + \(n+1\) ] / \(n^2 - 1\) = 2 / \(n^2 - 1\).) Tj
+T*
+(   Difference = [ -2*\(-1\)^n / \(n^2 - 1\) ] - [ 2 / \(n^2 - 1\) ] = - [ 2 / \(n^2 - 1\) ] * [ 1 + \(-1\)^n) Tj
+T*
+(   ].) Tj
+T*
+(   an = \(1 / pi\) * [ - 2 / \(n^2 - 1\) ] * [ 1 + \(-1\)^n ].) Tj
+T*
+(   Step 3: Evaluate an for Even and Odd n:) Tj
+T*
+(   - If n is odd: 1 + \(-1\)^n = 0 => an = 0.) Tj
+T*
+(   - If n is even \(n = 2m\): 1 + \(-1\)^n = 2 => an = -4 / [ pi * \(4m^2 - 1\) ].) Tj
+T*
+(   Step 4: Assemble the Fourier Cosine Series:) Tj
+T*
+(   sin x = 2 / pi - \(4 / pi\) * sum_{m=1}^infinity [ cos\(2mx\) / \(4m^2 - 1\) ]) Tj
+T*
+(   = 2 / pi - \(4 / pi\) * [ \(cos 2x\)/\(1*3\) + \(cos 4x\)/\(3*5\) + \(cos 6x\)/\(5*7\) + ... ].) Tj
+T*
+ET
+
+endstream
+endobj
+45 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 46 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+46 0 obj
+<< /Length 3868 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 6: FOURIER SERIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 22 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   Step 5: Deduction at x = 0:) Tj
+T*
+(   0 = 2 / pi - \(4 / pi\) * [ 1/\(1*3\) + 1/\(3*5\) + 1/\(5*7\) + ... ]) Tj
+T*
+(   => 1/\(1*3\) + 1/\(3*5\) + 1/\(5*7\) + ... = \(2 / pi\) * \(pi / 4\) = 1/2.) Tj
+T*
+(   Conclusion:) Tj
+T*
+(   The full-wave rectification Fourier series is established, and the sum of telescopic fractions) Tj
+T*
+(   evaluates to 1/2.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 17:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: State Parseval's Identity for a Fourier series on [-L, L]. Prove it from Euler's formulas and provide its physical interpretation in signal power and energy conservation.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Formal Statement:) Tj
+T*
+(   Let f\(x\) be square-integrable on [-L, L] with Fourier series:) Tj
+T*
+(   f\(x\) = a0 / 2 + sum_{n=1}^infinity [ an * cos\(n*pi*x / L\) + bn * sin\(n*pi*x / L\) ].) Tj
+T*
+(   Then:) Tj
+T*
+(   \(1 / L\) * int_{-L}^L [f\(x\)]^2 dx = a0^2 / 2 + sum_{n=1}^infinity \(an^2 + bn^2\).) Tj
+T*
+(   2. Analytical Proof:) Tj
+T*
+(   - Multiply both sides of the Fourier series by f\(x\) and integrate from -L to L:) Tj
+T*
+(   int_{-L}^L [f\(x\)]^2 dx = \(a0 / 2\) * int_{-L}^L f\(x\) dx + sum_{n=1}^infinity an * int_{-L}^L) Tj
+T*
+(   f\(x\)*cos\(n*pi*x / L\) dx + sum_{n=1}^infinity bn * int_{-L}^L f\(x\)*sin\(n*pi*x / L\) dx.) Tj
+T*
+(   - Recall Euler's formulas:) Tj
+T*
+(   int_{-L}^L f\(x\) dx = L * a0.) Tj
+T*
+(   int_{-L}^L f\(x\)*cos\(n*pi*x / L\) dx = L * an.) Tj
+T*
+(   int_{-L}^L f\(x\)*sin\(n*pi*x / L\) dx = L * bn.) Tj
+T*
+(   - Substitute these expressions into the right-hand side:) Tj
+T*
+(   int_{-L}^L [f\(x\)]^2 dx = \(a0 / 2\) * \(L * a0\) + sum_{n=1}^infinity an * \(L * an\) +) Tj
+T*
+(   sum_{n=1}^infinity bn * \(L * bn\)) Tj
+T*
+(   = L * [ a0^2 / 2 + sum_{n=1}^infinity \(an^2 + bn^2\) ].) Tj
+T*
+(   - Divide throughout by L:) Tj
+T*
+(   \(1 / L\) * int_{-L}^L [f\(x\)]^2 dx = a0^2 / 2 + sum_{n=1}^infinity \(an^2 + bn^2\). \(Proved\).) Tj
+T*
+(   3. Physical Interpretation:) Tj
+T*
+(   - In physics and biomedical signal processing, [f\(t\)]^2 represents instantaneous signal power.) Tj
+T*
+(   - The integral \(1 / 2L\) * int_{-L}^L [f\(t\)]^2 dt represents the Total Average Power \(P_total\)) Tj
+T*
+(   of the signal.) Tj
+T*
+(   - Parseval's theorem states:) Tj
+T*
+(   P_total = P_DC + sum_{n=1}^infinity P_n,) Tj
+T*
+(   where P_DC = a0^2 / 4 is the DC power component, and P_n = \(an^2 + bn^2\) / 2 is the AC power in) Tj
+T*
+(   the nth harmonic.) Tj
+T*
+(   - Thus, total signal power in the time domain EQUALS the sum of powers distributed across all) Tj
+T*
+(   discrete frequency harmonics \(Rayleigh's Energy Conservation Theorem\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 18:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Apply Parseval's Identity to the Fourier series of f\(x\) = x on [-pi, pi] to evaluate the sum: sum_{n=1}^infinity 1 / n^2.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Step 1: Fourier Series of f\(x\) = x on [-pi, pi]:) Tj
+T*
+(   From Subjective 6:) Tj
+T*
+(   a0 = 0, an = 0 for all n >= 1.) Tj
+T*
+(   bn = 2 * \(-1\)^\(n + 1\) / n.) Tj
+T*
+(   Step 2: Parseval's Identity for [-pi, pi]:) Tj
+T*
+(   \(1 / pi\) * int_{-pi}^pi [f\(x\)]^2 dx = a0^2 / 2 + sum_{n=1}^infinity \(an^2 + bn^2\).) Tj
+T*
+(   Step 3: Evaluate Left-Hand Side:) Tj
+T*
+ET
+
+endstream
+endobj
+47 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 48 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+48 0 obj
+<< /Length 3395 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 6: FOURIER SERIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 23 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   [f\(x\)]^2 = x^2.) Tj
+T*
+(   int_{-pi}^pi x^2 dx = 2 * int_0^pi x^2 dx = 2 * [ x^3 / 3 ]_0^pi = 2 * pi^3 / 3.) Tj
+T*
+(   LHS = \(1 / pi\) * \(2*pi^3 / 3\) = 2*pi^2 / 3.) Tj
+T*
+(   Step 4: Evaluate Right-Hand Side:) Tj
+T*
+(   a0 = 0, an = 0.) Tj
+T*
+(   bn^2 = [ 2 * \(-1\)^\(n+1\) / n ]^2 = 4 / n^2.) Tj
+T*
+(   RHS = sum_{n=1}^infinity bn^2 = sum_{n=1}^infinity 4 / n^2 = 4 * sum_{n=1}^infinity 1 / n^2.) Tj
+T*
+(   Step 5: Equate LHS and RHS:) Tj
+T*
+(   2*pi^2 / 3 = 4 * sum_{n=1}^infinity 1 / n^2.) Tj
+T*
+(   Divide both sides by 4:) Tj
+T*
+(   sum_{n=1}^infinity 1 / n^2 = \(2*pi^2 / 3\) / 4 = pi^2 / 6.) Tj
+T*
+(   Conclusion:) Tj
+T*
+(   Parseval's identity confirms Euler's Basel sum: sum_{n=1}^infinity 1/n^2 = pi^2 / 6.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 19:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Apply Parseval's Identity to the Fourier series of f\(x\) = x^2 on [-pi, pi] to evaluate the sum: sum_{n=1}^infinity 1 / n^4.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Step 1: Fourier Series Coefficients of f\(x\) = x^2:) Tj
+T*
+(   From Subjective 7:) Tj
+T*
+(   a0 = 2*pi^2 / 3.) Tj
+T*
+(   an = 4 * \(-1\)^n / n^2.) Tj
+T*
+(   bn = 0.) Tj
+T*
+(   Step 2: Parseval's Identity for [-pi, pi]:) Tj
+T*
+(   \(1 / pi\) * int_{-pi}^pi [f\(x\)]^2 dx = a0^2 / 2 + sum_{n=1}^infinity an^2.) Tj
+T*
+(   Step 3: Evaluate Left-Hand Side:) Tj
+T*
+(   [f\(x\)]^2 = \(x^2\)^2 = x^4.) Tj
+T*
+(   int_{-pi}^pi x^4 dx = 2 * int_0^pi x^4 dx = 2 * [ x^5 / 5 ]_0^pi = 2 * pi^5 / 5.) Tj
+T*
+(   LHS = \(1 / pi\) * \(2*pi^5 / 5\) = 2*pi^4 / 5.) Tj
+T*
+(   Step 4: Evaluate a0^2 / 2:) Tj
+T*
+(   a0^2 = \(2*pi^2 / 3\)^2 = 4*pi^4 / 9.) Tj
+T*
+(   a0^2 / 2 = 2*pi^4 / 9.) Tj
+T*
+(   Step 5: Evaluate an^2:) Tj
+T*
+(   an^2 = [ 4 * \(-1\)^n / n^2 ]^2 = 16 / n^4.) Tj
+T*
+(   sum_{n=1}^infinity an^2 = 16 * sum_{n=1}^infinity 1 / n^4.) Tj
+T*
+(   Step 6: Equate and Solve:) Tj
+T*
+(   2*pi^4 / 5 = 2*pi^4 / 9 + 16 * sum_{n=1}^infinity 1 / n^4) Tj
+T*
+(   16 * sum_{n=1}^infinity 1 / n^4 = 2*pi^4 / 5 - 2*pi^4 / 9) Tj
+T*
+(   = 2*pi^4 * \(1/5 - 1/9\) = 2*pi^4 * \(4 / 45\) = 8*pi^4 / 45.) Tj
+T*
+(   Divide both sides by 16:) Tj
+T*
+(   sum_{n=1}^infinity 1 / n^4 = \(8*pi^4 / 45\) / 16 = pi^4 / 90.) Tj
+T*
+(   Conclusion:) Tj
+T*
+(   Parseval's identity rigorously establishes: sum_{n=1}^infinity 1/n^4 = pi^4 / 90.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 20:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Apply Parseval's Identity to the half-range sine series of f\(x\) = 1 on [0, pi] to evaluate: sum_{n=1}^infinity 1 / \(2n - 1\)^2.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Step 1: Half-Range Sine Series of f\(x\) = 1 on [0, pi]:) Tj
+T*
+(   bn = \(2 / pi\) * int_0^pi 1 * sin\(nx\) dx = \(2 / \(n*pi\)\) * [ 1 - \(-1\)^n ].) Tj
+T*
+(   - bn = 0 for even n.) Tj
+T*
+(   - bn = 4 / \(n * pi\) for odd n \(n = 2k - 1\).) Tj
+T*
+ET
+
+endstream
+endobj
+49 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 50 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+50 0 obj
+<< /Length 3656 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 6: FOURIER SERIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 24 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   Step 2: Parseval's Identity for Half-Range Sine Series on [0, pi]:) Tj
+T*
+(   \(2 / pi\) * int_0^pi [f\(x\)]^2 dx = sum_{k=1}^infinity bn^2.) Tj
+T*
+(   Step 3: Evaluate Left-Hand Side:) Tj
+T*
+(   [f\(x\)]^2 = 1^2 = 1.) Tj
+T*
+(   int_0^pi 1 dx = pi.) Tj
+T*
+(   LHS = \(2 / pi\) * pi = 2.) Tj
+T*
+(   Step 4: Evaluate Right-Hand Side:) Tj
+T*
+(   bn^2 = [ 4 / \(\(2k - 1\)*pi\) ]^2 = 16 / [ pi^2 * \(2k - 1\)^2 ].) Tj
+T*
+(   RHS = sum_{k=1}^infinity [ 16 / \(pi^2 * \(2k - 1\)^2\) ] = \(16 / pi^2\) * sum_{k=1}^infinity 1 /) Tj
+T*
+(   \(2k - 1\)^2.) Tj
+T*
+(   Step 5: Equate and Solve:) Tj
+T*
+(   2 = \(16 / pi^2\) * sum_{k=1}^infinity 1 / \(2k - 1\)^2.) Tj
+T*
+(   Multiply by pi^2 / 16:) Tj
+T*
+(   sum_{k=1}^infinity 1 / \(2k - 1\)^2 = 2 * \(pi^2 / 16\) = pi^2 / 8.) Tj
+T*
+(   Conclusion:) Tj
+T*
+(   1/1^2 + 1/3^2 + 1/5^2 + ... = pi^2 / 8.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 21:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Derive the Complex \(Exponential\) Form of Fourier Series from the real trigonometric Fourier series using Euler's formula e^\(i*theta\) = cos\(theta\) + i*sin\(theta\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Real Trigonometric Fourier Series:) Tj
+T*
+(   f\(x\) = a0 / 2 + sum_{n=1}^infinity [ an * cos\(nx\) + bn * sin\(nx\) ].) Tj
+T*
+(   2. Express Cosine and Sine via Complex Exponentials:) Tj
+T*
+(   cos\(nx\) = \(e^\(i*nx\) + e^\(-i*nx\)\) / 2) Tj
+T*
+(   sin\(nx\) = \(e^\(i*nx\) - e^\(-i*nx\)\) / \(2i\) = -i * \(e^\(i*nx\) - e^\(-i*nx\)\) / 2.) Tj
+T*
+(   3. Substitute into the Series:) Tj
+T*
+(   an * cos\(nx\) + bn * sin\(nx\) = an * [ \(e^\(i*nx\) + e^\(-i*nx\)\) / 2 ] - i * bn * [ \(e^\(i*nx\) -) Tj
+T*
+(   e^\(-i*nx\)\) / 2 ]) Tj
+T*
+(   = [ \(an - i*bn\) / 2 ] * e^\(i*nx\) + [ \(an + i*bn\) / 2 ] * e^\(-i*nx\).) Tj
+T*
+(   4. Define Complex Fourier Coefficients:) Tj
+T*
+(   - For n > 0: cn = \(an - i*bn\) / 2.) Tj
+T*
+(   - For n < 0: c_{-n} = \(an + i*bn\) / 2.) Tj
+T*
+(   - For n = 0: c0 = a0 / 2.) Tj
+T*
+(   - Then:) Tj
+T*
+(   f\(x\) = c0 + sum_{n=1}^infinity cn * e^\(i*nx\) + sum_{n=1}^infinity c_{-n} * e^\(-i*nx\)) Tj
+T*
+(   = sum_{n=-infinity}^infinity cn * e^\(i*nx\).) Tj
+T*
+(   5. Integral Formula for cn:) Tj
+T*
+(   - cn = \(1/2\) * [ an - i*bn ]) Tj
+T*
+(   = \(1/2\) * [ \(1/pi\)*int_{-pi}^pi f\(x\)*cos\(nx\) dx - i*\(1/pi\)*int_{-pi}^pi f\(x\)*sin\(nx\) dx ]) Tj
+T*
+(   = \(1 / \(2*pi\)\) * int_{-pi}^pi f\(x\) * [ cos\(nx\) - i*sin\(nx\) ] dx) Tj
+T*
+(   = \(1 / \(2*pi\)\) * int_{-pi}^pi f\(x\) * e^\(-i*nx\) dx.) Tj
+T*
+(   - For an arbitrary interval [-L, L]:) Tj
+T*
+(   cn = \(1 / \(2*L\)\) * int_{-L}^L f\(x\) * e^\(-i*n*pi*x / L\) dx. \(Proved\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 22:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Find the Complex Fourier Series of f\(x\) = e^\(a*x\) on [-pi, pi] \(where a is a non-zero real constant\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Step 1: Compute Complex Fourier Coefficients cn:) Tj
+T*
+(   cn = \(1 / \(2*pi\)\) * int_{-pi}^pi e^\(ax\) * e^\(-i*nx\) dx) Tj
+T*
+(   = \(1 / \(2*pi\)\) * int_{-pi}^pi e^\(\(a - i*n\)*x\) dx.) Tj
+T*
+ET
+
+endstream
+endobj
+51 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 52 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+52 0 obj
+<< /Length 4031 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 6: FOURIER SERIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 25 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   Step 2: Evaluate the Integral:) Tj
+T*
+(   cn = \(1 / \(2*pi\)\) * [ e^\(\(a - i*n\)*x\) / \(a - i*n\) ]_{-pi}^pi) Tj
+T*
+(   = [ 1 / \(2*pi * \(a - i*n\)\) ] * [ e^\(\(a - i*n\)*pi\) - e^\(-\(a - i*n\)*pi\) ].) Tj
+T*
+(   Step 3: Simplify Exponentials:) Tj
+T*
+(   e^\(\(a - i*n\)*pi\) = e^\(a*pi\) * e^\(-i*n*pi\) = e^\(a*pi\) * \(-1\)^n.) Tj
+T*
+(   e^\(-\(a - i*n\)*pi\) = e^\(-a*pi\) * e^\(i*n*pi\) = e^\(-a*pi\) * \(-1\)^n.) Tj
+T*
+(   Difference = \(-1\)^n * [ e^\(a*pi\) - e^\(-a*pi\) ] = \(-1\)^n * 2 * sinh\(a*pi\).) Tj
+T*
+(   Step 4: Substitute back into cn:) Tj
+T*
+(   cn = [ 1 / \(2*pi * \(a - i*n\)\) ] * [ \(-1\)^n * 2 * sinh\(a*pi\) ]) Tj
+T*
+(   = [ sinh\(a*pi\) / pi ] * [ \(-1\)^n / \(a - i*n\) ].) Tj
+T*
+(   Step 5: Rationalize the Denominator:) Tj
+T*
+(   1 / \(a - i*n\) = \(a + i*n\) / \(a^2 + n^2\).) Tj
+T*
+(   cn = [ sinh\(a*pi\) / pi ] * \(-1\)^n * [ \(a + i*n\) / \(a^2 + n^2\) ].) Tj
+T*
+(   Step 6: Assemble the Complex Fourier Series:) Tj
+T*
+(   e^\(ax\) = [ sinh\(a*pi\) / pi ] * sum_{n=-infinity}^infinity [ \(-1\)^n * \(a + i*n\) / \(a^2 + n^2\) ]) Tj
+T*
+(   * e^\(i*nx\).) Tj
+T*
+(   Conclusion:) Tj
+T*
+(   The complex Fourier series of e^\(ax\) is established.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 23:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the Gibbs Phenomenon in Fourier series. Calculate the approximate overshoot near a jump discontinuity of height 2 for a square wave.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Description of Gibbs Phenomenon:) Tj
+T*
+(   - When a periodic function f\(x\) possessing jump discontinuities is approximated by its) Tj
+T*
+(   truncated partial Fourier sum S_N\(x\), pronounced oscillations \('ringing'\) appear in the) Tj
+T*
+(   immediate neighborhood of the discontinuity.) Tj
+T*
+(   - As N -> infinity \(increasing number of harmonics\), the width of the overshoot spike shrinks) Tj
+T*
+(   to zero, but its AMPLITUDE does NOT disappear!) Tj
+T*
+(   - Instead, the peak overshoot approaches a limiting non-zero percentage of the jump height.) Tj
+T*
+(   2. Mathematical Derivation of Peak Overshoot for Square Wave:) Tj
+T*
+(   - For f\(x\) = +1 on \(0, pi\) and -1 on \(-pi, 0\), the jump height is:) Tj
+T*
+(   Jump = f\(0+\) - f\(0-\) = 1 - \(-1\) = 2.) Tj
+T*
+(   - Truncated partial sum:) Tj
+T*
+(   S_N\(x\) = \(4 / pi\) * sum_{k=1}^N [ sin\(\(2k - 1\)x\) / \(2k - 1\) ].) Tj
+T*
+(   - Differentiate S_N\(x\) to find the first local maximum \(overshoot peak\):) Tj
+T*
+(   S'_N\(x\) = \(4 / pi\) * sum_{k=1}^N cos\(\(2k - 1\)x\) = \(2 / pi\) * [ sin\(2Nx\) / sin\(x\) ].) Tj
+T*
+(   - Set S'_N\(x\) = 0:) Tj
+T*
+(   First positive root occurs where sin\(2Nx\) = 0 => 2Nx = pi => x_peak = pi / \(2N\).) Tj
+T*
+(   - Evaluate S_N\(x_peak\) as a Riemann sum:) Tj
+T*
+(   S_N\(pi / \(2N\)\) = \(4 / pi\) * sum_{k=1}^N [ sin\(\(2k - 1\)*pi / \(2N\)\) / \(2k - 1\) ]) Tj
+T*
+(   ~ \(2 / pi\) * int_0^pi [ sin\(t\) / t ] dt = \(2 / pi\) * Si\(pi\).) Tj
+T*
+(   - The sine integral Si\(pi\) = int_0^pi \(sin t / t\) dt ~ 1.851937.) Tj
+T*
+(   - S_N\(x_peak\) ~ \(2 / pi\) * 1.851937 = 1.17898.) Tj
+T*
+(   3. Overshoot Percentage:) Tj
+T*
+(   - The function steps from 0 to 1 \(step height = 1\).) Tj
+T*
+(   - Overshoot above the step value 1 is:) Tj
+T*
+(   Delta_y = 1.17898 - 1.0 = 0.17898.) Tj
+T*
+(   - Overshoot as a fraction of total jump height 2:) Tj
+T*
+(   Overshoot = 0.17898 / 2 ~ 0.0895 = 8.95% \(approx 9%\).) Tj
+T*
+(   Conclusion:) Tj
+T*
+(   The Gibbs overshoot is an unavoidable property of trigonometric truncation, approaching an) Tj
+T*
+(   asymptotic overshoot of 8.95% of the total jump.) Tj
+T*
+ET
+
+endstream
+endobj
+53 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 54 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+54 0 obj
+<< /Length 3741 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 6: FOURIER SERIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 26 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 24:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Practical Harmonic Analysis. Derive formulas for computing the Fourier coefficients a0, an, and bn from a set of 2m discrete equidistant experimental data points.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Concept of Practical Harmonic Analysis:) Tj
+T*
+(   - In biomedical and engineering applications, functions are often not known in analytical form,) Tj
+T*
+(   but rather as discrete sampled data pairs \(x_k, y_k\) measured at equidistant intervals over one) Tj
+T*
+(   period T = 2*pi.) Tj
+T*
+(   - Harmonic analysis approximates the continuous Fourier integrals using numerical quadrature) Tj
+T*
+(   \(composite trapezoidal rule\).) Tj
+T*
+(   2. Derivation of Discrete Formulas:) Tj
+T*
+(   - Let the period 2*pi be divided into N = 2m equal subintervals of width Delta_x = 2*pi / N.) Tj
+T*
+(   - Data points: x_k = k * \(2*pi / N\) with measured values y_k for k = 0, 1, ..., N - 1.) Tj
+T*
+(   - Constant term a0:) Tj
+T*
+(   a0 = \(1 / pi\) * int_0^\(2pi\) y dx ~ \(1 / pi\) * sum_{k=0}^{N-1} y_k * \(2*pi / N\)) Tj
+T*
+(   = \(2 / N\) * sum_{k=0}^{N-1} y_k = 2 * \(Mean of y\).) Tj
+T*
+(   Therefore: a0 / 2 = Mean of y.) Tj
+T*
+(   - Cosine coefficients an:) Tj
+T*
+(   an = \(1 / pi\) * int_0^\(2pi\) y * cos\(nx\) dx ~ \(1 / pi\) * sum_{k=0}^{N-1} y_k * cos\(n*x_k\) *) Tj
+T*
+(   \(2*pi / N\)) Tj
+T*
+(   = \(2 / N\) * sum_{k=0}^{N-1} y_k * cos\(n*x_k\) = 2 * Mean of \(y * cos nx\).) Tj
+T*
+(   - Sine coefficients bn:) Tj
+T*
+(   bn = \(1 / pi\) * int_0^\(2pi\) y * sin\(nx\) dx ~ \(2 / N\) * sum_{k=0}^{N-1} y_k * sin\(n*x_k\)) Tj
+T*
+(   = 2 * Mean of \(y * sin nx\).) Tj
+T*
+(   3. Summary of Computational Rules:) Tj
+T*
+(   - a0 = 2 * \(Average of y values\).) Tj
+T*
+(   - a1 = 2 * \(Average of y * cos x values\).) Tj
+T*
+(   - b1 = 2 * \(Average of y * sin x values\).) Tj
+T*
+(   - a2 = 2 * \(Average of y * cos 2x values\).) Tj
+T*
+(   - b2 = 2 * \(Average of y * sin 2x values\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 25:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Perform practical harmonic analysis on the following 6-point periodic dataset to find the constant term and the first harmonic of the Fourier series: x = [0, 60, 120, 180, 240, 300] deg, y = [0.8, 0.6, 0.4, 0.7, 0.9, 1.1].) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Step 1: Setup Computational Table \(N = 6\):) Tj
+T*
+(   x \(deg\) y cos x sin x y*cos x y*sin x) Tj
+T*
+(   ----------------------------------------------------------) Tj
+T*
+(   0 0.8 1.000 0.000 0.8000 0.0000) Tj
+T*
+(   60 0.6 0.500 0.866 0.3000 0.5196) Tj
+T*
+(   120 0.4 -0.500 0.866 -0.2000 0.3464) Tj
+T*
+(   180 0.7 -1.000 0.000 -0.7000 0.0000) Tj
+T*
+(   240 0.9 -0.500 -0.866 -0.4500 -0.7794) Tj
+T*
+(   300 1.1 0.500 -0.866 0.5500 -0.9526) Tj
+T*
+(   ----------------------------------------------------------) Tj
+T*
+(   Sum: 4.5 0.3000 -0.8660) Tj
+T*
+(   Step 2: Calculate Constant Term a0 / 2:) Tj
+T*
+(   Sum of y = 0.8 + 0.6 + 0.4 + 0.7 + 0.9 + 1.1 = 4.5.) Tj
+T*
+(   a0 / 2 = Mean of y = 4.5 / 6 = 0.75.) Tj
+T*
+(   a0 = 1.50.) Tj
+T*
+(   Step 3: Calculate First Harmonic Cosine Coefficient a1:) Tj
+T*
+ET
+
+endstream
+endobj
+55 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 56 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+56 0 obj
+<< /Length 3936 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 6: FOURIER SERIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 27 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   Sum of \(y * cos x\) = 0.8000 + 0.3000 - 0.2000 - 0.7000 - 0.4500 + 0.5500 = 0.3000.) Tj
+T*
+(   a1 = \(2 / N\) * sum\(y * cos x\) = \(2 / 6\) * 0.3000 = \(1 / 3\) * 0.3000 = 0.1000.) Tj
+T*
+(   Step 4: Calculate First Harmonic Sine Coefficient b1:) Tj
+T*
+(   Sum of \(y * sin x\) = 0.0000 + 0.5196 + 0.3464 + 0.0000 - 0.7794 - 0.9526 = -0.8660.) Tj
+T*
+(   b1 = \(2 / N\) * sum\(y * sin x\) = \(2 / 6\) * \(-0.8660\) = -0.2887.) Tj
+T*
+(   Step 5: Amplitude and Phase of First Harmonic:) Tj
+T*
+(   Amplitude C1 = sqrt\(a1^2 + b1^2\) = sqrt\(\(0.1\)^2 + \(-0.2887\)^2\) = sqrt\(0.01 + 0.0833\) =) Tj
+T*
+(   sqrt\(0.0933\) = 0.3055.) Tj
+T*
+(   Phase angle phi1 = arctan\(a1 / b1\) = arctan\(0.1 / -0.2887\) ~ -19.1 degrees.) Tj
+T*
+(   Step 6: First Harmonic Fourier Approximation:) Tj
+T*
+(   y\(x\) ~ 0.75 + 0.100 * cos\(x\) - 0.289 * sin\(x\)) Tj
+T*
+(   = 0.75 + 0.306 * sin\(x - 19.1 deg\).) Tj
+T*
+(   Conclusion:) Tj
+T*
+(   The Fourier expansion up to first harmonic is y ~ 0.75 + 0.10 cos\(x\) - 0.29 sin\(x\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 26:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: In biotechnology and endocrinology, circadian hormone secretion \(such as serum cortisol\) follows a 24-hour diurnal cycle. Model cortisol concentration C\(t\) = a0/2 + a1*cos\(pi*t/12\) + b1*sin\(pi*t/12\). Given measurements C\(0\)=15 ug/dL \(midnight\), C\(6\)=25 ug/dL \(6 AM\), C\(12\)=10 ug/dL \(noon\), C\(18\)=5 ug/dL \(6 PM\), compute the Fourier harmonics and determine the time of peak cortisol secretion.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Step 1: Set up the 4-Point Dataset over Period T = 24 hours \(N = 4\):) Tj
+T*
+(   - x = pi * t / 12 \(in radians\).) Tj
+T*
+(   - t = 0 h \(midnight\): x = 0 rad, C = 15 ug/dL.) Tj
+T*
+(   - t = 6 h \(6 AM\): x = pi/2 rad, C = 25 ug/dL.) Tj
+T*
+(   - t = 12 h \(noon\): x = pi rad, C = 10 ug/dL.) Tj
+T*
+(   - t = 18 h \(6 PM\): x = 3pi/2 rad, C = 5 ug/dL.) Tj
+T*
+(   Step 2: Calculate Mean Cortisol \(Baseline a0/2\):) Tj
+T*
+(   Sum of C = 15 + 25 + 10 + 5 = 55 ug/dL.) Tj
+T*
+(   a0 / 2 = Mean\(C\) = 55 / 4 = 13.75 ug/dL.) Tj
+T*
+(   Step 3: Calculate First Cosine Harmonic a1:) Tj
+T*
+(   - At t = 0: C * cos\(0\) = 15 * 1 = 15.) Tj
+T*
+(   - At t = 6: C * cos\(pi/2\) = 25 * 0 = 0.) Tj
+T*
+(   - At t = 12: C * cos\(pi\) = 10 * \(-1\) = -10.) Tj
+T*
+(   - At t = 18: C * cos\(3pi/2\) = 5 * 0 = 0.) Tj
+T*
+(   Sum = 15 + 0 - 10 + 0 = 5.) Tj
+T*
+(   a1 = \(2 / N\) * Sum = \(2 / 4\) * 5 = 2.5 ug/dL.) Tj
+T*
+(   Step 4: Calculate First Sine Harmonic b1:) Tj
+T*
+(   - At t = 0: C * sin\(0\) = 0.) Tj
+T*
+(   - At t = 6: C * sin\(pi/2\) = 25 * 1 = 25.) Tj
+T*
+(   - At t = 12: C * sin\(pi\) = 0.) Tj
+T*
+(   - At t = 18: C * sin\(3pi/2\) = 5 * \(-1\) = -5.) Tj
+T*
+(   Sum = 0 + 25 + 0 - 5 = 20.) Tj
+T*
+(   b1 = \(2 / N\) * Sum = \(2 / 4\) * 20 = 10.0 ug/dL.) Tj
+T*
+(   Step 5: Assemble Cortisol Fourier Model:) Tj
+T*
+(   C\(t\) = 13.75 + 2.5 * cos\(pi * t / 12\) + 10.0 * sin\(pi * t / 12\).) Tj
+T*
+(   Step 6: Amplitude and Peak Time:) Tj
+T*
+(   - Amplitude A1 = sqrt\(a1^2 + b1^2\) = sqrt\(2.5^2 + 10.0^2\) = sqrt\(6.25 + 100\) = sqrt\(106.25\) ~) Tj
+T*
+(   10.31 ug/dL.) Tj
+T*
+(   - Maximize C\(t\): set dC/dt = 0:) Tj
+T*
+(   - 2.5 * \(pi/12\) * sin\(pi*t/12\) + 10.0 * \(pi/12\) * cos\(pi*t/12\) = 0) Tj
+T*
+(   => tan\(pi*t / 12\) = 10.0 / 2.5 = 4.0.) Tj
+T*
+(   pi*t / 12 = arctan\(4.0\) ~ 1.3258 radians \(75.96 degrees\).) Tj
+T*
+(   t_peak = 12 * 1.3258 / pi = 5.06 hours = 5 hours and 4 minutes AM.) Tj
+T*
+(   Conclusion:) Tj
+T*
+ET
+
+endstream
+endobj
+57 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 58 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+58 0 obj
+<< /Length 4135 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 6: FOURIER SERIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 28 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   The circadian cortisol model is C\(t\) = 13.75 + 2.5*cos\(pi*t/12\) + 10*sin\(pi*t/12\), with peak) Tj
+T*
+(   secretion occurring at approximately 5:04 AM.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 27:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain how Fourier Series decomposition is used in biomedical engineering to analyze Electrocardiogram \(ECG\) signals and filter out 50 Hz powerline interference.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Periodic Structure of ECG Waveforms:) Tj
+T*
+(   - An ECG records the periodic electrical depolarization and repolarization of heart muscle) Tj
+T*
+(   tissues \(P-wave, QRS complex, T-wave\).) Tj
+T*
+(   - For a steady heart rate f0 = 1 / T0 \(typically 1.0 to 1.5 Hz, or 60 to 90 beats/min\):) Tj
+T*
+(   V_ecg\(t\) = a0 / 2 + sum_{n=1}^infinity [ an * cos\(2*pi*n*f0*t\) + bn * sin\(2*pi*n*f0*t\) ].) Tj
+T*
+(   2. Frequency Content of ECG Components:) Tj
+T*
+(   - The fundamental frequency f0 is low \(e.g., 1.2 Hz for 72 bpm\).) Tj
+T*
+(   - Baseline wander \(respiration, patient motion\) occurs at frequencies below 0.5 Hz \(n = 0, slow) Tj
+T*
+(   DC drift\).) Tj
+T*
+(   - P-wave and T-wave contain low frequencies \(0.5 to 10 Hz\).) Tj
+T*
+(   - QRS complex \(ventricular depolarization\) is a sharp spike containing high harmonic) Tj
+T*
+(   frequencies: 10 to 40 Hz \(harmonics n ~ 8 to 35\).) Tj
+T*
+(   - Diagnostic clinical ECG bandwidth is standardized at 0.05 Hz to 150 Hz.) Tj
+T*
+(   3. Powerline Noise Interference and Fourier Filtering:) Tj
+T*
+(   - AC mains electromagnetic radiation couples into ECG electrode cables, introducing a strong) Tj
+T*
+(   sinusoidal contamination at f_noise = 50 Hz \(or 60 Hz in US\).) Tj
+T*
+(   - In the Fourier domain, this noise manifests as a sharp spectral peak at harmonic index) Tj
+T*
+(   n_noise = 50 / f0 \(for f0 = 1.2 Hz, n_noise ~ 42\).) Tj
+T*
+(   - Digital Notch Filter Implementation:) Tj
+T*
+(   A digital band-stop \(notch\) filter zeroes out the Fourier coefficients in a narrow band around) Tj
+T*
+(   50 Hz:) Tj
+T*
+(   an = 0 and bn = 0 for frequencies in [49.5 Hz, 50.5 Hz].) Tj
+T*
+(   - Reconstructing the signal via inverse Fourier summation produces a clean, noise-free ECG) Tj
+T*
+(   trace preserving clinical diagnostic morphology.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 28:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: In respiratory biotechnology, lung airflow during breathing is modeled as a periodic square/trapezoidal flow rate. Find the Fourier series for airflow V'\(t\) = V0 on [0, T/2] \(inhalation\) and V'\(t\) = -V0 on [T/2, T] \(exhalation\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Step 1: Set up the Periodic Function:) Tj
+T*
+(   Period = T. Fundamental angular frequency omega0 = 2*pi / T.) Tj
+T*
+(   V'\(t\) = +V0 for 0 < t < T/2.) Tj
+T*
+(   V'\(t\) = -V0 for T/2 < t < T.) Tj
+T*
+(   Step 2: Shift Variable to Center at Origin:) Tj
+T*
+(   Let t' = t - T/4.) Tj
+T*
+(   Then over [-T/2, T/2], V'\(t\) is an even square wave:) Tj
+T*
+(   V'\(t\) = V0 for -T/4 < t' < T/4, and -V0 elsewhere.) Tj
+T*
+(   Alternatively, working directly on [0, T]:) Tj
+T*
+(   Step 3: Compute Mean Value a0:) Tj
+T*
+(   a0 = \(2 / T\) * int_0^T V'\(t\) dt = \(2 / T\) * [ int_0^\(T/2\) V0 dt + int_{T/2}^T \(-V0\) dt ]) Tj
+T*
+(   = \(2 / T\) * [ V0 * \(T/2\) - V0 * \(T/2\) ] = 0.) Tj
+T*
+(   Thus, there is no net accumulation of air volume per complete respiratory cycle \(inhalation =) Tj
+T*
+(   exhalation\).) Tj
+T*
+(   Step 4: Compute an:) Tj
+T*
+(   an = \(2 / T\) * int_0^T V'\(t\) * cos\(n*omega0*t\) dt) Tj
+T*
+ET
+
+endstream
+endobj
+59 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 60 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+60 0 obj
+<< /Length 3975 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 6: FOURIER SERIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 29 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   = \(2 / T\) * [ int_0^\(T/2\) V0 * cos\(n*omega0*t\) dt - int_{T/2}^T V0 * cos\(n*omega0*t\) dt ]) Tj
+T*
+(   = \(2*V0 / \(n*omega0*T\)\) * [ sin\(n*omega0*t\) ]_0^\(T/2\) - \(2*V0 / \(n*omega0*T\)\) * [) Tj
+T*
+(   sin\(n*omega0*t\) ]_{T/2}^T.) Tj
+T*
+(   Since omega0*T = 2*pi, n*omega0*T/2 = n*pi, and sin\(n*pi\) = sin\(0\) = sin\(2n*pi\) = 0:) Tj
+T*
+(   an = 0 for all n >= 1.) Tj
+T*
+(   Step 5: Compute bn:) Tj
+T*
+(   bn = \(2 / T\) * int_0^T V'\(t\) * sin\(n*omega0*t\) dt) Tj
+T*
+(   = \(2*V0 / T\) * [ int_0^\(T/2\) sin\(n*omega0*t\) dt - int_{T/2}^T sin\(n*omega0*t\) dt ]) Tj
+T*
+(   = [ 2*V0 / \(n*pi\) ] * [ -cos\(n*pi\) - \(-cos 0\) - \(-cos 2n*pi - \(-cos n*pi\)\) ] / 2) Tj
+T*
+(   = [ 2*V0 / \(n*pi\) ] * [ 1 - \(-1\)^n ].) Tj
+T*
+(   Step 6: Values of bn:) Tj
+T*
+(   - For even n: bn = 0.) Tj
+T*
+(   - For odd n \(n = 2k - 1\): bn = 4*V0 / \(\(2k - 1\)*pi\).) Tj
+T*
+(   Step 7: Fourier Expansion:) Tj
+T*
+(   V'\(t\) = \(4*V0 / pi\) * sum_{k=1}^infinity [ sin\(\(2k - 1\)*2*pi*t / T\) / \(2k - 1\) ].) Tj
+T*
+(   Conclusion:) Tj
+T*
+(   The respiratory airflow contains only odd sinusoidal harmonics, matching the square wave) Tj
+T*
+(   Fourier series.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 29:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: In Heart Rate Variability \(HRV\) analysis, explain how the Fourier power spectral density of the RR-interval tachogram is used to assess autonomic nervous system balance \(LF/HF ratio\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Heart Rate Variability \(HRV\) Tachogram:) Tj
+T*
+(   - The time elapsed between successive R-peaks of the QRS complex in an ECG is the RR-interval) Tj
+T*
+(   \(inter-beat interval IBI\).) Tj
+T*
+(   - A sequence of N sampled RR-intervals forms a discrete time series s\(k\) representing) Tj
+T*
+(   instantaneous heart rate fluctuations.) Tj
+T*
+(   2. Fourier Spectral Decomposition:) Tj
+T*
+(   - The RR-interval series is decomposed via discrete Fourier transform into its constituent) Tj
+T*
+(   frequency components:) Tj
+T*
+(   S\(f\) = sum_{k=0}^{N-1} s\(k\) * e^\(-i * 2*pi * f * k * Delta_t\).) Tj
+T*
+(   - The Power Spectral Density \(PSD\) is P\(f\) = |S\(f\)|^2 / N.) Tj
+T*
+(   3. Physiological Frequency Bands:) Tj
+T*
+(   - Very Low Frequency \(VLF, 0.0033 - 0.04 Hz\): Regulated by thermoregulation,) Tj
+T*
+(   renin-angiotensin-aldosterone system, and peripheral vasomotor tone.) Tj
+T*
+(   - Low Frequency \(LF, 0.04 - 0.15 Hz\): Reflects baroreceptor reflex activity, influenced by BOTH) Tj
+T*
+(   sympathetic and parasympathetic nervous systems.) Tj
+T*
+(   - High Frequency \(HF, 0.15 - 0.40 Hz\): Reflects respiratory sinus arrhythmia \(RSA\), modulated) Tj
+T*
+(   EXCLUSIVELY by the parasympathetic \(vagal\) nervous system.) Tj
+T*
+(   4. Autonomic Balance Index \(LF / HF Ratio\):) Tj
+T*
+(   - The total power in the LF and HF bands is computed by integrating the Fourier power spectrum:) Tj
+T*
+(   P_LF = int_{0.04}^{0.15} P\(f\) df, P_HF = int_{0.15}^{0.40} P\(f\) df.) Tj
+T*
+(   - Sympathovagal Balance:) Tj
+T*
+(   Ratio = P_LF / P_HF.) Tj
+T*
+(   - Clinical and Biotechnological Interpretation:) Tj
+T*
+(   * High LF/HF ratio \(> 2.0\): Indicates sympathetic dominance \(acute physical or mental stress,) Tj
+T*
+(   cardiac risk, hypertension, heart failure\).) Tj
+T*
+(   * Low LF/HF ratio \(< 1.0\): Indicates parasympathetic \(vagal\) dominance \(deep relaxation,) Tj
+T*
+(   aerobic fitness, recovery\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+61 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 62 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+62 0 obj
+<< /Length 3004 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 6: FOURIER SERIES) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 30 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 30:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: A periodic biological bioreactor stirrer oscillation velocity is given by v\(t\) = t^2 on \(-1, 1\) with period 2 \(L = 1\). Find its Fourier series, and use it to determine the fraction of total kinetic energy contained in the fundamental frequency harmonic.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Step 1: Symmetry and Fourier Coefficients \(L = 1\):) Tj
+T*
+(   f\(t\) = t^2 is an EVEN function on [-1, 1].) Tj
+T*
+(   bn = 0 for all n >= 1.) Tj
+T*
+(   Step 2: Compute a0:) Tj
+T*
+(   a0 = \(2 / 1\) * int_0^1 t^2 dt = 2 * [ t^3 / 3 ]_0^1 = 2 / 3.) Tj
+T*
+(   Constant term: a0 / 2 = 1 / 3.) Tj
+T*
+(   Step 3: Compute an:) Tj
+T*
+(   an = \(2 / 1\) * int_0^1 t^2 * cos\(n*pi*t\) dt.) Tj
+T*
+(   Integrate by parts:) Tj
+T*
+(   u = t^2, u' = 2t, u'' = 2.) Tj
+T*
+(   an = 2 * [ t^2 * \(sin n*pi*t / \(n*pi\)\) - 2t * \(-cos n*pi*t / \(n^2*pi^2\)\) + 2 * \(-sin n*pi*t /) Tj
+T*
+(   \(n^3*pi^3\)\) ]_0^1) Tj
+T*
+(   = 2 * [ 0 + 2\(1\)*cos\(n*pi\) / \(n^2*pi^2\) - 0 ]) Tj
+T*
+(   = 4 * \(-1\)^n / \(n^2 * pi^2\).) Tj
+T*
+(   Step 4: Fourier Series Expansion:) Tj
+T*
+(   v\(t\) = 1/3 + \(4 / pi^2\) * sum_{n=1}^infinity [ \(-1\)^n / n^2 ] * cos\(n*pi*t\)) Tj
+T*
+(   = 1/3 - \(4 / pi^2\) * [ cos\(pi*t\)/1^2 - cos\(2*pi*t\)/2^2 + cos\(3*pi*t\)/3^2 - ... ].) Tj
+T*
+(   Step 5: Total Kinetic Energy \(Mean Square Velocity\):) Tj
+T*
+(   E_total = \(1 / 2L\) * int_{-1}^1 [v\(t\)]^2 dt = \(1 / 2\) * int_{-1}^1 t^4 dt) Tj
+T*
+(   = int_0^1 t^4 dt = [ t^5 / 5 ]_0^1 = 1 / 5 = 0.2000.) Tj
+T*
+(   Step 6: Energy in DC Component and Fundamental Harmonic \(n = 1\):) Tj
+T*
+(   - DC component power: P_DC = \(a0 / 2\)^2 = \(1/3\)^2 = 1/9 ~ 0.1111.) Tj
+T*
+(   - Fundamental AC harmonic \(n = 1\):) Tj
+T*
+(   a1 = -4 / pi^2 ~ -4 / 9.8696 = -0.4053.) Tj
+T*
+(   Power in fundamental harmonic = a1^2 / 2 = \(-0.4053\)^2 / 2 = 0.1643 / 2 = 0.0821.) Tj
+T*
+(   - Combined power in DC + Fundamental:) Tj
+T*
+(   P_DC + P1 = 0.1111 + 0.0821 = 0.1932.) Tj
+T*
+(   Step 7: Fraction of Kinetic Energy in Fundamental:) Tj
+T*
+(   - Fraction of total energy in fundamental AC harmonic:) Tj
+T*
+(   Fraction = P1 / E_total = 0.0821 / 0.2000 = 0.4107 = 41.07%.) Tj
+T*
+(   - Fraction of AC power in fundamental:) Tj
+T*
+(   P_AC_total = E_total - P_DC = 0.2000 - 0.1111 = 0.0889.) Tj
+T*
+(   Fraction of AC energy = 0.0821 / 0.0889 = 92.35%!) Tj
+T*
+(   Conclusion:) Tj
+T*
+(   Over 92% of the alternating kinetic energy of the stirrer oscillation is concentrated in the) Tj
+T*
+(   fundamental frequency mode.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+63 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+64 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+xref
+0 65
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000316 00000 n 
+0000000460 00000 n 
+0000009173 00000 n 
+0000009317 00000 n 
+0000018012 00000 n 
+0000018156 00000 n 
+0000026611 00000 n 
+0000026756 00000 n 
+0000035298 00000 n 
+0000035444 00000 n 
+0000044565 00000 n 
+0000044711 00000 n 
+0000053427 00000 n 
+0000053573 00000 n 
+0000062564 00000 n 
+0000062710 00000 n 
+0000064379 00000 n 
+0000064525 00000 n 
+0000070022 00000 n 
+0000070168 00000 n 
+0000073638 00000 n 
+0000073784 00000 n 
+0000082248 00000 n 
+0000082394 00000 n 
+0000086654 00000 n 
+0000086800 00000 n 
+0000090607 00000 n 
+0000090753 00000 n 
+0000094486 00000 n 
+0000094632 00000 n 
+0000098726 00000 n 
+0000098872 00000 n 
+0000102713 00000 n 
+0000102859 00000 n 
+0000106539 00000 n 
+0000106685 00000 n 
+0000110388 00000 n 
+0000110534 00000 n 
+0000114450 00000 n 
+0000114596 00000 n 
+0000118562 00000 n 
+0000118708 00000 n 
+0000122813 00000 n 
+0000122959 00000 n 
+0000126880 00000 n 
+0000127026 00000 n 
+0000130474 00000 n 
+0000130620 00000 n 
+0000134329 00000 n 
+0000134475 00000 n 
+0000138559 00000 n 
+0000138705 00000 n 
+0000142499 00000 n 
+0000142645 00000 n 
+0000146634 00000 n 
+0000146780 00000 n 
+0000150968 00000 n 
+0000151114 00000 n 
+0000155142 00000 n 
+0000155288 00000 n 
+0000158345 00000 n 
+0000158443 00000 n 
+trailer
+<< /Size 65 /Root 1 0 R >>
+startxref
+158546
+%%EOF

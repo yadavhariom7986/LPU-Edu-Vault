@@ -1,0 +1,608 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2764 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Python Programming | Unit 2: Control Flow & Iterative Logic) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 1 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(=== UNIT 2: CONTROL FLOW, CONDITIONAL LOGIC & ITERATION ===) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.1 Conditional Decision Making in Python) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Control flow constructs govern the non-linear execution path of computer programs based) Tj
+T*
+(on dynamic runtime conditions.) Tj
+T*
+(* Syntax of Decision Structures: if condition: statement; elif alternative:) Tj
+T*
+(statement; else: fallback_statement.) Tj
+T*
+(* Truthiness and Falsy Values: In Python, conditions evaluate according to boolean) Tj
+T*
+(truthiness. The following evaluate to False: \(1\) None, \(2\) False, \(3\) Zero numeric) Tj
+T*
+(values \(0, 0.0, 0j\), \(4\) Empty sequence and collection containers \('', \(\), [], {},) Tj
+T*
+(set\(\)\), \(5\) Custom objects implementing __bool__\(\) returning False or __len__\(\)) Tj
+T*
+(returning 0. All other values evaluate to True.) Tj
+T*
+(* Conditional Ternary Expressions: Single-line conditional assignment: x = true_value) Tj
+T*
+(if condition else false_value.) Tj
+T*
+(* Structural Pattern Matching \(match-case, introduced in Python 3.10\): Provides) Tj
+T*
+(expressive pattern decomposition and guard filtering similar to switch-case) Tj
+T*
+(statements in C.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.2 While Loops and Definite Iteration with For Loops) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* The While Loop: Executes a code block repeatedly as long as a test condition) Tj
+T*
+(remains truthy: while condition: body.) Tj
+T*
+(- Infinite Loops: Caused by failing to update loop control variables inside the body) Tj
+T*
+(\(while True:\).) Tj
+T*
+(* The For Loop: Python's for loop is an iterator-driven 'for-each' construct that) Tj
+T*
+(traverses items in any iterable object \(list, tuple, string, dictionary, generator\):) Tj
+T*
+(for item in iterable: body.) Tj
+T*
+(* The range\(\) Built-in Function: Generates an immutable arithmetic sequence of) Tj
+T*
+(integers on-demand \(generator-like memory efficiency\): range\(start, stop[, step]\).) Tj
+T*
+(Memory consumption is O\(1\) regardless of sequence length.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.3 Loop Interruption and Control Statements) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* break Statement: Immediately terminates the innermost loop, transferring control to) Tj
+T*
+(the statement following the loop body.) Tj
+T*
+(* continue Statement: Aborts execution of the remainder of the current loop iteration) Tj
+T*
+(and jumps immediately to the next iteration cycle.) Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 2504 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Python Programming | Unit 2: Control Flow & Iterative Logic) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 2 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(* pass Statement: A null operation \(syntactic placeholder\) where Python syntax) Tj
+T*
+(requires a statement but no programmatic action is desired.) Tj
+T*
+(* The Loop else Clause: A unique Python feature: both for and while loops can have an) Tj
+T*
+(optional else clause. The else block executes ONLY if the loop completes all normal) Tj
+T*
+(iterations WITHOUT encountering a break statement. Commonly used in search) Tj
+T*
+(algorithms.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.4 Nested Loops and Iteration Utilities) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Nested Loops: Loops enclosed inside another loop \(e.g. traversing 2D matrices\).) Tj
+T*
+(Computational complexity scales as O\(n * m\).) Tj
+T*
+(* enumerate\(iterable, start=0\): Yields tuples containing \(index, item\) during) Tj
+T*
+(iteration, eliminating manual counter management.) Tj
+T*
+(* zip\(*iterables\): Aggregates elements from multiple iterables in parallel into) Tj
+T*
+(tuples, stopping when the shortest iterable is exhausted.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 1: Prime Number Generation with Loop Else Clause]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Write an optimized program finding all prime numbers in a user-defined) Tj
+T*
+(range [start, end]. Use trial division up to sqrt\(n\) and utilize Python's loop else) Tj
+T*
+(construct to detect primes cleanly without boolean flags.) Tj
+T*
+(Python Source Code:) Tj
+T*
+(import math) Tj
+T*
+() Tj
+T*
+(def find_primes\(start, end\):) Tj
+T*
+(primes = []) Tj
+T*
+(for num in range\(max\(2, start\), end + 1\):) Tj
+T*
+(limit = int\(math.isqrt\(num\)\)) Tj
+T*
+(for divisor in range\(2, limit + 1\):) Tj
+T*
+(if num % divisor == 0:) Tj
+T*
+(break  # Composite number detected; abort search) Tj
+T*
+(else:) Tj
+T*
+(# Loop completed without break => num is prime!) Tj
+T*
+(primes.append\(num\)) Tj
+T*
+(return primes) Tj
+T*
+() Tj
+T*
+(results = find_primes\(10, 50\)) Tj
+T*
+(print\(f'Primes in [10, 50]: {results}'\)) Tj
+T*
+(print\(f'Total primes found: {len\(results\)}'\)) Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 2229 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Python Programming | Unit 2: Control Flow & Iterative Logic) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 3 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(Execution Trace & Output:) Tj
+T*
+(Primes found: [11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47]. Total count = 11 primes.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 2: Fibonacci Sequence Generator via While Loop]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Implement a program generating the first N terms of the Fibonacci) Tj
+T*
+(sequence using a while loop and simultaneous variable assignment.) Tj
+T*
+(Python Source Code:) Tj
+T*
+(def generate_fibonacci\(n\):) Tj
+T*
+(if n <= 0:) Tj
+T*
+(return []) Tj
+T*
+(fib = []) Tj
+T*
+(a, b = 0, 1) Tj
+T*
+(count = 0) Tj
+T*
+(while count < n:) Tj
+T*
+(fib.append\(a\)) Tj
+T*
+(a, b = b, a + b  # Simultaneous tuple unpacking) Tj
+T*
+(count += 1) Tj
+T*
+(return fib) Tj
+T*
+() Tj
+T*
+(terms = 10) Tj
+T*
+(fib_series = generate_fibonacci\(terms\)) Tj
+T*
+(print\(f'First {terms} Fibonacci numbers: {fib_series}'\)) Tj
+T*
+(Execution Trace & Output:) Tj
+T*
+(Iterations: count 0: [0], a=1,b=1; count 1: [0, 1], a=1,b=2; count 2: [0, 1, 1],) Tj
+T*
+(a=2,b=3...) Tj
+T*
+(Final output: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34].) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 3: Pascal's Triangle Matrix Generation using Nested Loops]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Construct Pascal's Triangle of depth N rows using nested for loops and) Tj
+T*
+(list representation.) Tj
+T*
+(Python Source Code:) Tj
+T*
+(def pascals_triangle\(n\):) Tj
+T*
+(triangle = []) Tj
+T*
+(for row_idx in range\(n\):) Tj
+T*
+(row = [1] * \(row_idx + 1\)) Tj
+T*
+(for col_idx in range\(1, row_idx\):) Tj
+T*
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 2321 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Python Programming | Unit 2: Control Flow & Iterative Logic) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 4 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(row[col_idx] = triangle[row_idx - 1][col_idx - 1] + triangle[row_idx - 1][col_idx]) Tj
+T*
+(triangle.append\(row\)) Tj
+T*
+(return triangle) Tj
+T*
+() Tj
+T*
+(n_rows = 5) Tj
+T*
+(triangle = pascals_triangle\(n_rows\)) Tj
+T*
+(for r in triangle:) Tj
+T*
+(print\(' '.join\(f'{x:3d}' for x in r\).center\(30\)\)) Tj
+T*
+(Execution Trace & Output:) Tj
+T*
+(Row 0: [1]) Tj
+T*
+(Row 1: [1, 1]) Tj
+T*
+(Row 2: [1, 2, 1]) Tj
+T*
+(Row 3: [1, 3, 3, 1]) Tj
+T*
+(Row 4: [1, 4, 6, 4, 1]) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 4: Parallel Sequence Traversal with Enumerate and Zip]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Given separate lists of student names, marks in Python, and attendance) Tj
+T*
+(percentages, calculate grades and identify students eligible for academic honors \(marks) Tj
+T*
+(>= 85 and attendance >= 80%\).) Tj
+T*
+(Python Source Code:) Tj
+T*
+(students = ['Aarav', 'Diya', 'Rohan', 'Ananya']) Tj
+T*
+(marks = [92.0, 78.5, 88.0, 64.0]) Tj
+T*
+(attendance = [95.0, 85.0, 72.0, 90.0]) Tj
+T*
+() Tj
+T*
+(print\('Rank | Student Name | Marks | Attend | Status'\)) Tj
+T*
+(print\('-' * 52\)) Tj
+T*
+(for rank, \(name, m, att\) in enumerate\(zip\(students, marks, attendance\), start=1\):) Tj
+T*
+(is_honors = \(m >= 85.0\) and \(att >= 80.0\)) Tj
+T*
+(status = 'HONORS' if is_honors else 'PASS') Tj
+T*
+(print\(f'{rank:4d} | {name:12s} | {m:5.1f} | {att:5.1f}% | {status}'\)) Tj
+T*
+(Execution Trace & Output:) Tj
+T*
+(Aarav \(92.0, 95%\) -> HONORS; Diya \(78.5, 85%\) -> PASS; Rohan \(88.0, 72%\) -> PASS) Tj
+T*
+(\(attendance below 80%\); Ananya \(64.0\) -> PASS.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.5 University Review & Examination Questions) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Q1: Explain the semantics of the loop 'else' clause in Python and construct an) Tj
+T*
+(example demonstrating its practical utility.) Tj
+T*
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 2110 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Python Programming | Unit 2: Control Flow & Iterative Logic) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 5 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(Answer: In Python, both 'for' and 'while' loops support an optional 'else' block. The) Tj
+T*
+('else' suite executes if and only if the loop terminates normally by exhausting the) Tj
+T*
+(iterable sequence or when the while condition becomes False. If the loop is terminated) Tj
+T*
+(prematurely by a 'break' statement, the 'else' block is completely bypassed. This) Tj
+T*
+(provides an elegant mechanism for search operations without requiring auxiliary flag) Tj
+T*
+(variables: in searching for an element in a list, if a matching item is found, the) Tj
+T*
+(program executes 'break'; if the search finishes without finding the item, the 'else') Tj
+T*
+(block executes to handle the 'item not found' scenario.) Tj
+T*
+(* Q2: Differentiate between 'break', 'continue', and 'pass' statements with syntax) Tj
+T*
+(flowcharts.) Tj
+T*
+(Answer: 'break' terminates the loop execution immediately, transferring control to the) Tj
+T*
+(statement following the loop. 'continue' skips all subsequent code in the current) Tj
+T*
+(iteration and jumps immediately to the next evaluation cycle \(incrementing iterator or) Tj
+T*
+(checking condition\). 'pass' is a null syntactic statement that does nothing; it acts as) Tj
+T*
+(a placeholder where Python syntax demands an indented statement block \(e.g., in empty) Tj
+T*
+(function stubs, abstract methods, or exception pass-throughs\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.6 Key Takeaways and Revision Points) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Falsy values include None, False, 0, and empty collections \([], {}, ''\).) Tj
+T*
+(* range\(start, stop, step\) evaluates lazily with O\(1\) memory overhead.) Tj
+T*
+(* Loop 'else' executes only when the loop completes without encountering a break.) Tj
+T*
+(* zip\(\) and enumerate\(\) facilitate clean, idiomatic multi-sequence iteration.) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000171 00000 n 
+0000000241 00000 n 
+0000000316 00000 n 
+0000000428 00000 n 
+0000003244 00000 n 
+0000003356 00000 n 
+0000005912 00000 n 
+0000006025 00000 n 
+0000008307 00000 n 
+0000008421 00000 n 
+0000010795 00000 n 
+0000010909 00000 n 
+trailer
+<< /Size 15 /Root 1 0 R >>
+startxref
+13072
+%%EOF

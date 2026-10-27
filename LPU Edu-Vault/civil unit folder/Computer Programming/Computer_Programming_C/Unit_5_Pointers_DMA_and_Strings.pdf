@@ -1,0 +1,728 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 6 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 3229 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Computer Programming in C | Unit 5: Pointers, Dynamic Memory & Strings) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 1 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(=== UNIT 5: POINTERS, DYNAMIC MEMORY ALLOCATION & STRING MANIPULATION ===) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.1 Pointer Concepts, Pointer Arithmetic and Indirection) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Pointers are variables that store the physical memory addresses of other variables.) Tj
+T*
+(* Pointer Declaration and Dereferencing: int *ptr = &var;. The address-of operator) Tj
+T*
+(\(&\) extracts memory address; dereference \(indirection\) operator \(*\) accesses or) Tj
+T*
+(mutates value stored at that address.) Tj
+T*
+(* Pointer Arithmetic: Scaled by sizeof\(data_type\). If ptr holds address 1000 and) Tj
+T*
+(points to a 4-byte integer: ptr + 1 evaluates to 1004. Subtraction \(ptr2 - ptr1\)) Tj
+T*
+(yields number of elements between pointers.) Tj
+T*
+(* Pointers and Arrays: Array name decays to constant pointer to first element: *\(arr) Tj
+T*
+(+ i\) is mathematically identical to arr[i].) Tj
+T*
+(* Pointers to Pointers \(Double Pointers\): int **pptr = &ptr;. Used in dynamic 2D) Tj
+T*
+(array allocation and modifying caller pointer variables.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.2 Dynamic Memory Allocation \(DMA\) in Heap Space) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Standard variables reside in Stack memory \(fixed size, automatic lifetime\). Dynamic) Tj
+T*
+(memory is allocated at runtime in Heap memory via stdlib.h routines:) Tj
+T*
+(* malloc\(size_t size\): Allocates single uninitialized contiguous block of 'size') Tj
+T*
+(bytes. Memory contains garbage values. Returns void* on success, NULL on failure: int) Tj
+T*
+(*p = \(int*\)malloc\(n * sizeof\(int\)\);.) Tj
+T*
+(* calloc\(size_t num, size_t size\): Allocates contiguous memory for 'num' elements of) Tj
+T*
+('size' bytes each, and automatically initializes every bit to ZERO. Prevents garbage) Tj
+T*
+(bugs.) Tj
+T*
+(* realloc\(void *ptr, size_t new_size\): Resizes previously allocated memory block. If) Tj
+T*
+(expanding, may extend current block or allocate new larger block elsewhere, copy) Tj
+T*
+(existing contents, free old block, and return new pointer.) Tj
+T*
+(* free\(void *ptr\): Releases allocated heap block back to operating system memory) Tj
+T*
+(pool. Dangling Pointer Bug: A pointer still pointing to memory that has been freed.) Tj
+T*
+(Fix: Assign ptr = NULL immediately after free\(ptr\).) Tj
+T*
+(* Memory Leak: Occurs when heap memory is allocated but never freed, and all pointer) Tj
+T*
+(references are lost. Over time, exhausts system RAM.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.3 String Manipulation Without Library Functions) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(In C, a string is a one-dimensional character array terminated by a null character) Tj
+T*
+(\('\\0', ASCII 0\).) Tj
+T*
+(* Standard Functions \(string.h\): strlen\(\), strcpy\(\), strcat\(\), strcmp\(\), strstr\(\).) Tj
+T*
+(* Implementing string algorithms from first principles reinforces pointer traversal) Tj
+T*
+(and null-termination handling.) Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 2524 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Computer Programming in C | Unit 5: Pointers, Dynamic Memory & Strings) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 2 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 1: Implementing strlen, strcpy, strcat, strcmp from Scratch]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: Write custom implementations of the four core C string library functions using) Tj
+T*
+(pure pointer arithmetic without including string.h.) Tj
+T*
+(Source Code:) Tj
+T*
+(#include <stdio.h>) Tj
+T*
+(size_t my_strlen\(const char *s\) {) Tj
+T*
+(const char *p = s;) Tj
+T*
+(while \(*p != '\\0'\) p++;) Tj
+T*
+(return p - s;) Tj
+T*
+(}) Tj
+T*
+(char* my_strcpy\(char *dest, const char *src\) {) Tj
+T*
+(char *ret = dest;) Tj
+T*
+(while \(\(*dest++ = *src++\) != '\\0'\);) Tj
+T*
+(return ret;) Tj
+T*
+(}) Tj
+T*
+(char* my_strcat\(char *dest, const char *src\) {) Tj
+T*
+(char *ret = dest;) Tj
+T*
+(while \(*dest != '\\0'\) dest++;) Tj
+T*
+(while \(\(*dest++ = *src++\) != '\\0'\);) Tj
+T*
+(return ret;) Tj
+T*
+(}) Tj
+T*
+(int my_strcmp\(const char *s1, const char *s2\) {) Tj
+T*
+(while \(*s1 && \(*s1 == *s2\)\) { s1++; s2++; }) Tj
+T*
+(return *\(const unsigned char*\)s1 - *\(const unsigned char*\)s2;) Tj
+T*
+(}) Tj
+T*
+(int main\(\) {) Tj
+T*
+(char str1[50] = "Hello ";) Tj
+T*
+(char str2[] = "World!";) Tj
+T*
+(printf\("Length of str1: %zu\\n", my_strlen\(str1\)\);) Tj
+T*
+(my_strcat\(str1, str2\);) Tj
+T*
+(printf\("Concatenated: %s \(Length: %zu\)\\n", str1, my_strlen\(str1\)\);) Tj
+T*
+(printf\("Compare 'Apple' vs 'Banana': %d\\n", my_strcmp\("Apple", "Banana"\)\);) Tj
+T*
+(return 0;) Tj
+T*
+(}) Tj
+T*
+(Output: Length of str1: 6 | Concatenated: Hello World! \(Length: 12\) | Compare 'Apple' vs) Tj
+T*
+('Banana': -1.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 2: Dynamic 2D Array Allocation Using Pointer-to-Pointer \(int**\)]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: Write an ANSI C program to dynamically allocate an \(R x C\) matrix in heap) Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 2159 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Computer Programming in C | Unit 5: Pointers, Dynamic Memory & Strings) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 3 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(memory using int**, initialize it with multiplication tables, and properly deallocate) Tj
+T*
+(every block to prevent memory leaks.) Tj
+T*
+(Source Code:) Tj
+T*
+(#include <stdio.h>) Tj
+T*
+(#include <stdlib.h>) Tj
+T*
+(int main\(\) {) Tj
+T*
+(int rows = 3, cols = 4;) Tj
+T*
+(int **matrix = \(int**\)malloc\(rows * sizeof\(int*\)\);) Tj
+T*
+(if \(matrix == NULL\) { printf\("Row allocation failed!\\n"\); return 1; }) Tj
+T*
+(for \(int i = 0; i < rows; i++\) {) Tj
+T*
+(matrix[i] = \(int*\)malloc\(cols * sizeof\(int\)\);) Tj
+T*
+(if \(matrix[i] == NULL\) { printf\("Column allocation failed!\\n"\); return 1; }) Tj
+T*
+(}) Tj
+T*
+(for \(int i = 0; i < rows; i++\) {) Tj
+T*
+(for \(int j = 0; j < cols; j++\) {) Tj
+T*
+(matrix[i][j] = \(i + 1\) * \(j + 1\);) Tj
+T*
+(printf\("%4d", matrix[i][j]\);) Tj
+T*
+(}) Tj
+T*
+(printf\("\\n"\);) Tj
+T*
+(}) Tj
+T*
+(for \(int i = 0; i < rows; i++\) {) Tj
+T*
+(free\(matrix[i]\);) Tj
+T*
+(matrix[i] = NULL;) Tj
+T*
+(}) Tj
+T*
+(free\(matrix\);) Tj
+T*
+(matrix = NULL;) Tj
+T*
+(printf\("Dynamic matrix memory deallocated successfully!\\n"\);) Tj
+T*
+(return 0;) Tj
+T*
+(}) Tj
+T*
+(Output:) Tj
+T*
+(1 2 3 4) Tj
+T*
+(2 4 6 8) Tj
+T*
+(3 6 9 12) Tj
+T*
+(Dynamic matrix memory deallocated successfully!) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 3: Dynamic Array Reallocation \(realloc\) Demonstration]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: Write a program that reads integers dynamically until the user inputs -1, using) Tj
+T*
+(realloc\(\) to double array capacity when full.) Tj
+T*
+(Source Code:) Tj
+T*
+(#include <stdio.h>) Tj
+T*
+(#include <stdlib.h>) Tj
+T*
+(int main\(\) {) Tj
+T*
+(int capacity = 2, count = 0;) Tj
+T*
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 2193 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Computer Programming in C | Unit 5: Pointers, Dynamic Memory & Strings) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 4 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(int *arr = \(int*\)malloc\(capacity * sizeof\(int\)\);) Tj
+T*
+(int sampleInputs[] = { 10, 20, 30, 40, 50, -1 };) Tj
+T*
+(for \(int i = 0; sampleInputs[i] != -1; i++\) {) Tj
+T*
+(if \(count == capacity\) {) Tj
+T*
+(capacity *= 2;) Tj
+T*
+(int *temp = \(int*\)realloc\(arr, capacity * sizeof\(int\)\);) Tj
+T*
+(if \(temp == NULL\) { free\(arr\); return 1; }) Tj
+T*
+(arr = temp;) Tj
+T*
+(printf\("Resized buffer capacity to %d integers\\n", capacity\);) Tj
+T*
+(}) Tj
+T*
+(arr[count++] = sampleInputs[i];) Tj
+T*
+(}) Tj
+T*
+(printf\("Stored %d elements: ", count\);) Tj
+T*
+(for \(int i = 0; i < count; i++\) printf\("%d ", arr[i]\);) Tj
+T*
+(printf\("\\n"\);) Tj
+T*
+(free\(arr\);) Tj
+T*
+(return 0;) Tj
+T*
+(}) Tj
+T*
+(Output: Resized buffer capacity to 4 integers | Resized buffer capacity to 8 integers |) Tj
+T*
+(Stored 5 elements: 10 20 30 40 50.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 4: Reversing Words in a String In-Place]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: Write an in-place string reversal function that reverses the words in a) Tj
+T*
+(sentence without auxiliary string buffers.) Tj
+T*
+(Source Code:) Tj
+T*
+(#include <stdio.h>) Tj
+T*
+(void reverseSubstr\(char *begin, char *end\) {) Tj
+T*
+(char temp;) Tj
+T*
+(while \(begin < end\) {) Tj
+T*
+(temp = *begin; *begin++ = *end; *end-- = temp;) Tj
+T*
+(}) Tj
+T*
+(}) Tj
+T*
+(void reverseWords\(char *s\) {) Tj
+T*
+(char *word_begin = s;) Tj
+T*
+(char *temp = s;) Tj
+T*
+(while \(*temp\) {) Tj
+T*
+(temp++;) Tj
+T*
+(if \(*temp == '\\0'\) {) Tj
+T*
+(reverseSubstr\(word_begin, temp - 1\);) Tj
+T*
+(} else if \(*temp == ' '\) {) Tj
+T*
+(reverseSubstr\(word_begin, temp - 1\);) Tj
+T*
+(word_begin = temp + 1;) Tj
+T*
+(}) Tj
+T*
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 3205 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Computer Programming in C | Unit 5: Pointers, Dynamic Memory & Strings) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 5 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(}) Tj
+T*
+(reverseSubstr\(s, temp - 1\);) Tj
+T*
+(}) Tj
+T*
+(int main\(\) {) Tj
+T*
+(char text[] = "Biotechnology Engineering LPU";) Tj
+T*
+(printf\("Original: %s\\n", text\);) Tj
+T*
+(reverseWords\(text\);) Tj
+T*
+(printf\("Reversed Words: %s\\n", text\);) Tj
+T*
+(return 0;) Tj
+T*
+(}) Tj
+T*
+(Output: Original: Biotechnology Engineering LPU | Reversed Words: LPU Engineering) Tj
+T*
+(Biotechnology.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.4 University Review & Examination Questions) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Q1: Contrast malloc\(\), calloc\(\), realloc\(\), and free\(\) in C regarding their) Tj
+T*
+(arguments, initialization, and error handling.) Tj
+T*
+(Answer: \(1\) malloc\(size_t size\): Takes single argument specifying total bytes. Allocates) Tj
+T*
+(contiguous memory on Heap without initialization \(contents are garbage\). Returns void*) Tj
+T*
+(pointer to first byte, or NULL on failure. \(2\) calloc\(size_t num, size_t size\): Takes) Tj
+T*
+(two arguments: number of elements and size of each. Allocates memory and clears all bits) Tj
+T*
+(to ZERO. Useful for arrays and numeric buffers to prevent garbage bugs. Returns NULL on) Tj
+T*
+(failure. \(3\) realloc\(void *ptr, size_t new_size\): Resizes an existing heap block pointed) Tj
+T*
+(to by ptr. May expand in-place or relocate the block to a new heap location, preserving) Tj
+T*
+(existing data up to minimum of old and new size. If ptr is NULL, behaves like) Tj
+T*
+(malloc\(new_size\). Returns pointer to reallocated memory or NULL on failure. \(4\)) Tj
+T*
+(free\(void *ptr\): Deallocates previously allocated heap memory, returning it to runtime) Tj
+T*
+(heap pool. Does not zero out pointer, creating dangling pointer if not explicitly set to) Tj
+T*
+(NULL.) Tj
+T*
+(* Q2: Explain the concepts of Dangling Pointers and Memory Leaks with code examples) Tj
+T*
+(and mitigation techniques.) Tj
+T*
+(Answer: A Dangling Pointer points to memory that has already been deallocated \(freed\) or) Tj
+T*
+(gone out of scope. Example: 'int *p = \(int*\)malloc\(sizeof\(int\)\); free\(p\); *p = 50; //) Tj
+T*
+(UNDEFINED BEHAVIOR'. Mitigation: Always assign 'p = NULL;' immediately following) Tj
+T*
+('free\(p\);' and verify 'if \(p != NULL\)' before dereferencing. A Memory Leak occurs when) Tj
+T*
+(dynamically allocated heap memory is no longer referenced by any pointer but was never) Tj
+T*
+(released with free\(\). Example: 'void leak\(\) { int *p = \(int*\)malloc\(100\); } // Pointer p) Tj
+T*
+(destroyed on exit, but 100 bytes remain stranded on Heap'. Over time, leaks accumulate) Tj
+T*
+(and cause program termination due to Out-Of-Memory errors. Mitigation: Always pair every) Tj
+T*
+(malloc/calloc call with a corresponding free\(\) invocation.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.5 Key Takeaways and Revision Points) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Pointer arithmetic increments by sizeof\(data_type\); array name decays to pointer to) Tj
+T*
+ET
+
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 16 0 R >>
+endobj
+16 0 obj
+<< /Length 669 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Computer Programming in C | Unit 5: Pointers, Dynamic Memory & Strings) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 6 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(element 0.) Tj
+T*
+(* malloc allocates uninitialized bytes; calloc zeros memory; realloc resizes heap) Tj
+T*
+(blocks.) Tj
+T*
+(* Dangling pointers point to freed memory; prevent by setting pointers to NULL) Tj
+T*
+(post-free.) Tj
+T*
+(* C strings are null-terminated character arrays; string functions operate by) Tj
+T*
+(advancing pointers until '\\0'.) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000178 00000 n 
+0000000248 00000 n 
+0000000323 00000 n 
+0000000435 00000 n 
+0000003716 00000 n 
+0000003828 00000 n 
+0000006404 00000 n 
+0000006517 00000 n 
+0000008729 00000 n 
+0000008843 00000 n 
+0000011089 00000 n 
+0000011203 00000 n 
+0000014461 00000 n 
+0000014575 00000 n 
+trailer
+<< /Size 17 /Root 1 0 R >>
+startxref
+15296
+%%EOF

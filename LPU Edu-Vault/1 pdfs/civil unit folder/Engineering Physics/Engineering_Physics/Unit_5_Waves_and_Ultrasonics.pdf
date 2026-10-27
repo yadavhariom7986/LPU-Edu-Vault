@@ -1,0 +1,11029 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R 35 0 R 37 0 R 39 0 R 41 0 R 43 0 R 45 0 R 47 0 R 49 0 R 51 0 R 53 0 R 55 0 R 57 0 R 59 0 R] /Count 29 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 4 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 9206 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 5: WAVES, ACOUSTICS & INDUSTRIAL ULTRASONICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 1 of 29) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(1.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(The governing differential equation for undamped) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(Simple Harmonic Motion \(SHM\) of mass m is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(d^2x / dt^2 - omega_0^2 * x = 0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(d^2x / dt^2 + omega_0^2 * x = 0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(dx / dt + omega_0 * x = 0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(d^2x / dt^2 + omega_0 * \(dx/dt\) = 0) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(2.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(In Simple Harmonic Motion, the restoring force) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(is directly proportional to:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(Velocity of the particle) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(Square of displacement) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(Acceleration alone) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(Displacement from equilibrium and directed) Tj
+ET
+BT
+/F1 7.4 Tf
+72 652.4001 Td
+(opposite to it) Tj
+ET
+BT
+/F2 8.0 Tf
+42 628.8002 Td
+(3.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.8002 Td
+(The total mechanical energy of an undamped) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.6002 Td
+(simple harmonic oscillator with amplitude A is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 607.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 607.9001 Td
+(0.5 * k * A^2 = 0.5 * m * omega_0^2 * A^2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 598.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 598.3002 Td
+(k * A^2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.7002 Td
+(0.5 * m * v^2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 579.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 579.1002 Td
+(m * g * A) Tj
+ET
+BT
+/F2 8.0 Tf
+42 555.5002 Td
+(4.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 555.5002 Td
+(In damped harmonic motion, the resistive damping) Tj
+ET
+BT
+/F1 7.8 Tf
+58 546.3002 Td
+(force is commonly modeled as proportional to:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 534.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 534.6002 Td
+(Displacement: F_d = - k * x) Tj
+ET
+BT
+/F2 7.4 Tf
+58 525.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 525.0002 Td
+(Acceleration: F_d = - m * a) Tj
+ET
+BT
+/F2 7.4 Tf
+58 515.4003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 515.4003 Td
+(Velocity: F_d = - b * \(dx / dt\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 505.8003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 505.8003 Td
+(Square of velocity) Tj
+ET
+BT
+/F2 8.0 Tf
+42 482.2003 Td
+(5.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 482.2003 Td
+(The differential equation of a damped harmonic) Tj
+ET
+BT
+/F1 7.8 Tf
+58 473.0002 Td
+(oscillator is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 461.3002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 461.3002 Td
+(d^2x / dt^2 + 2*beta * \(dx/dt\) + omega_0^2 *) Tj
+ET
+BT
+/F1 7.4 Tf
+72 452.7002 Td
+(x = 0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 443.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 443.1002 Td
+(d^2x / dt^2 + omega_0^2 * x = 0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 433.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 433.5002 Td
+(d^2x / dt^2 - 2*beta * x = 0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 423.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 423.9002 Td
+(d^2x / dt^2 + 2*beta * \(d^2x/dt^2\) = 0) Tj
+ET
+BT
+/F2 8.0 Tf
+42 400.3002 Td
+(6.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 400.3002 Td
+(The condition for Critical Damping in a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 391.1002 Td
+(mechanical oscillatory system is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 379.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 379.4002 Td
+(beta > omega_0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 369.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 369.8002 Td
+(beta < omega_0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 360.2002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 360.2002 Td
+(beta = omega_0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 350.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 350.6002 Td
+(beta = 0) Tj
+ET
+BT
+/F2 8.0 Tf
+42 327.0002 Td
+(7.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 327.0002 Td
+(Which damping regime allows a disturbed) Tj
+ET
+BT
+/F1 7.8 Tf
+58 317.8001 Td
+(mechanical system to return to equilibrium in) Tj
+ET
+BT
+/F1 7.8 Tf
+58 308.6001 Td
+(the shortest time without overshoot?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 296.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 296.9001 Td
+(Overdamping) Tj
+ET
+BT
+/F2 7.4 Tf
+58 287.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 287.3001 Td
+(Critical damping) Tj
+ET
+BT
+/F2 7.4 Tf
+58 277.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 277.7001 Td
+(Underdamping) Tj
+ET
+BT
+/F2 7.4 Tf
+58 268.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 268.1001 Td
+(Zero damping) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(8.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Seismometers, galvanometer needles, and building) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(base-isolation shock absorbers are designed to) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(be:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(Heavily underdamped) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.3 Td
+(Completely undamped) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.7 Td
+(Slightly overdamped) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.1 Td
+(Critically damped) Tj
+ET
+BT
+/F2 8.0 Tf
+306 701.5001 Td
+(9.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(In an underdamped oscillator \(beta < omega_0\),) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(the angular frequency of damped oscillation) Tj
+ET
+BT
+/F1 7.8 Tf
+322 683.1 Td
+(omega_d is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.4 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.4 Td
+(sqrt\(omega_0^2 + beta^2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.8 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.8 Td
+(omega_0 - beta) Tj
+ET
+BT
+/F2 7.4 Tf
+322 652.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 652.2001 Td
+(sqrt\(omega_0^2 - beta^2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 642.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 642.6001 Td
+(omega_0 / beta) Tj
+ET
+BT
+/F2 8.0 Tf
+306 619.0001 Td
+(10.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(The natural logarithm of the ratio of two) Tj
+ET
+BT
+/F1 7.8 Tf
+322 609.8001 Td
+(consecutive peak amplitudes in an underdamped) Tj
+ET
+BT
+/F1 7.8 Tf
+322 600.6001 Td
+(oscillation is the:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.9001 Td
+(Logarithmic decrement \(delta\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 579.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 579.3001 Td
+(Quality factor \(Q\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 569.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 569.7001 Td
+(Damping ratio \(zeta\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 560.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 560.1002 Td
+(Relaxation time \(tau\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 536.5002 Td
+(11.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 536.5002 Td
+(The Quality factor Q of a damped harmonic) Tj
+ET
+BT
+/F1 7.8 Tf
+322 527.3002 Td
+(oscillator is related to logarithmic decrement) Tj
+ET
+BT
+/F1 7.8 Tf
+322 518.1002 Td
+(delta as:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 506.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 506.4001 Td
+(Q = delta / pi) Tj
+ET
+BT
+/F2 7.4 Tf
+322 496.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 496.8001 Td
+(Q = 2 * pi * delta) Tj
+ET
+BT
+/F2 7.4 Tf
+322 487.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 487.2001 Td
+(Q = 1 / delta^2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 477.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 477.6001 Td
+(Q = pi / delta) Tj
+ET
+BT
+/F2 8.0 Tf
+306 454.0001 Td
+(12.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 454.0001 Td
+(When a system is subjected to a periodic) Tj
+ET
+BT
+/F1 7.8 Tf
+322 444.8001 Td
+(external driving force F_0*cos\(omega*t\), the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 435.6001 Td
+(resulting motion is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 423.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 423.9001 Td
+(Free undamped oscillation) Tj
+ET
+BT
+/F2 7.4 Tf
+322 414.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 414.3001 Td
+(Forced oscillation) Tj
+ET
+BT
+/F2 7.4 Tf
+322 404.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 404.7001 Td
+(Pure critical damping) Tj
+ET
+BT
+/F2 7.4 Tf
+322 395.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 395.1001 Td
+(Aperiodic drift) Tj
+ET
+BT
+/F2 8.0 Tf
+306 371.5001 Td
+(13.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 371.5001 Td
+(Amplitude Resonance in a forced damped) Tj
+ET
+BT
+/F1 7.8 Tf
+322 362.3 Td
+(oscillator occurs when the driving frequency) Tj
+ET
+BT
+/F1 7.8 Tf
+322 353.1 Td
+(omega equals:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 341.4 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 341.4 Td
+(omega_0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 331.8 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 331.8 Td
+(omega_r = sqrt\(omega_0^2 - 2*beta^2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 322.2 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 322.2 Td
+(sqrt\(omega_0^2 + 2*beta^2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 312.6 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 312.6 Td
+(beta / 2) Tj
+ET
+BT
+/F2 8.0 Tf
+306 289 Td
+(14.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 289 Td
+(Velocity Resonance in a forced harmonic) Tj
+ET
+BT
+/F1 7.8 Tf
+322 279.8 Td
+(oscillator occurs when the driving frequency) Tj
+ET
+BT
+/F1 7.8 Tf
+322 270.6 Td
+(omega equals:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 258.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 258.9 Td
+(Natural undamped frequency omega_0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 249.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 249.3 Td
+(omega_r = sqrt\(omega_0^2 - 2*beta^2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 239.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 239.7 Td
+(Zero) Tj
+ET
+BT
+/F2 7.4 Tf
+322 230.0999 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 230.0999 Td
+(Infinity) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 6 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+6 0 obj
+<< /Length 9433 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 5: WAVES, ACOUSTICS & INDUSTRIAL ULTRASONICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 2 of 29) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(15.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(The catastrophic collapse of the Tacoma Narrows) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(Bridge in 1940 was a dramatic manifestation of:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(Tensile yield of main cables) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(Fatigue fracture of concrete deck) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(Aeroelastic flutter resonance under periodic) Tj
+ET
+BT
+/F1 7.4 Tf
+72 735.3 Td
+(vortex shedding) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.7001 Td
+(Seismic foundation liquefaction) Tj
+ET
+BT
+/F2 8.0 Tf
+42 702.1001 Td
+(16.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 702.1001 Td
+(What structural vibration device is installed) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.9001 Td
+(near the top of tall skyscrapers \(e.g., Taipei) Tj
+ET
+BT
+/F1 7.8 Tf
+58 683.7001 Td
+(101\) to counter resonance?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 672.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 672.0001 Td
+(Acoustic baffle wall) Tj
+ET
+BT
+/F2 7.4 Tf
+58 662.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 662.4001 Td
+(Piezoelectric transducer) Tj
+ET
+BT
+/F2 7.4 Tf
+58 652.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 652.8001 Td
+(Helical vortex generator) Tj
+ET
+BT
+/F2 7.4 Tf
+58 643.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 643.2001 Td
+(Tuned Mass Damper \(TMD\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 619.6002 Td
+(17.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.6002 Td
+(Reverberation in an enclosed hall or auditorium) Tj
+ET
+BT
+/F1 7.8 Tf
+58 610.4001 Td
+(is defined as the:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 598.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 598.7001 Td
+(Instantaneous echo from back wall) Tj
+ET
+BT
+/F2 7.4 Tf
+58 589.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 589.1002 Td
+(Focusing of sound under a dome) Tj
+ET
+BT
+/F2 7.4 Tf
+58 579.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 579.5002 Td
+(Diffraction of sound through doors) Tj
+ET
+BT
+/F2 7.4 Tf
+58 569.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 569.9002 Td
+(Persistence of sound due to repeated) Tj
+ET
+BT
+/F1 7.4 Tf
+72 561.3002 Td
+(reflections after source stops) Tj
+ET
+BT
+/F2 8.0 Tf
+42 537.7003 Td
+(18.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 537.7003 Td
+(Reverberation Time \(RT60\) is defined as the time) Tj
+ET
+BT
+/F1 7.8 Tf
+58 528.5002 Td
+(required for sound energy density to decrease) Tj
+ET
+BT
+/F1 7.8 Tf
+58 519.3002 Td
+(by:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 507.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 507.6002 Td
+(30 dB \(to 10^-3 of initial value\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 498.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 498.0002 Td
+(10 dB \(to 10^-1 of initial value\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 488.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 488.4002 Td
+(60 dB \(to 10^-6 of initial value\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 478.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 478.8002 Td
+(100 dB) Tj
+ET
+BT
+/F2 8.0 Tf
+42 455.2002 Td
+(19.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 455.2002 Td
+(Sabine's classic reverberation formula relates) Tj
+ET
+BT
+/F1 7.8 Tf
+58 446.0002 Td
+(reverberation time T to room volume V and total) Tj
+ET
+BT
+/F1 7.8 Tf
+58 436.8002 Td
+(absorption A as:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 425.1002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 425.1002 Td
+(T = 0.161 * V / A) Tj
+ET
+BT
+/F2 7.4 Tf
+58 415.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 415.5002 Td
+(T = 0.161 * A / V) Tj
+ET
+BT
+/F2 7.4 Tf
+58 405.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 405.9001 Td
+(T = V / \(0.161 * A\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 396.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 396.3001 Td
+(T = 0.161 * sqrt\(V / A\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 372.7001 Td
+(20.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 372.7001 Td
+(The standard SI unit of acoustic absorption area) Tj
+ET
+BT
+/F1 7.8 Tf
+58 363.5001 Td
+(A \(absorption of 1 m^2 of open window\) is the:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 351.8001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 351.8001 Td
+(Decibel \(dB\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 342.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 342.2001 Td
+(Metric Sabin \(or Sabin\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 332.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 332.6001 Td
+(Pascal \(Pa\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 323.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 323.0001 Td
+(Neper \(Np\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 299.4001 Td
+(21.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 299.4001 Td
+(The absorption coefficient alpha of a completely) Tj
+ET
+BT
+/F1 7.8 Tf
+58 290.2001 Td
+(open window is defined as:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 278.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 278.5001 Td
+(0.00 \(perfect reflector\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 268.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 268.9001 Td
+(1.00 \(perfect absorber\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 259.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 259.3 Td
+(0.50) Tj
+ET
+BT
+/F2 7.4 Tf
+58 249.7 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 249.7 Td
+(Infinity) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(22.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(For rooms with very high absorption \(dead rooms) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(or recording studios\), Sabine's formula is) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(replaced by:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(Helmholtz equation) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.3 Td
+(Rayleigh scattering formula) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.7 Td
+(Weber-Fechner formula) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.1 Td
+(Eyring's formula) Tj
+ET
+BT
+/F2 8.0 Tf
+306 701.5001 Td
+(23.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(An acoustic echo is distinctly perceived by the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(human ear if the time delay between original) Tj
+ET
+BT
+/F1 7.8 Tf
+322 683.1 Td
+(sound and reflection exceeds:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.4 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.4 Td
+(0.10 seconds \(100 ms\) or ~ 17 m path) Tj
+ET
+BT
+/F1 7.4 Tf
+336 662.8 Td
+(difference) Tj
+ET
+BT
+/F2 7.4 Tf
+322 653.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 653.2001 Td
+(0.001 seconds \(1 ms\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 643.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 643.6001 Td
+(1.0 second) Tj
+ET
+BT
+/F2 7.4 Tf
+322 634.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 634.0001 Td
+(0.50 seconds) Tj
+ET
+BT
+/F2 8.0 Tf
+306 610.4001 Td
+(24.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 610.4001 Td
+(What acoustic defect occurs when parallel flat) Tj
+ET
+BT
+/F1 7.8 Tf
+322 601.2001 Td
+(walls create a rapid, buzzing series of) Tj
+ET
+BT
+/F1 7.8 Tf
+322 592.0001 Td
+(repetitive reflections?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 580.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 580.3001 Td
+(Dead spot) Tj
+ET
+BT
+/F2 7.4 Tf
+322 570.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 570.7001 Td
+(Sound focusing) Tj
+ET
+BT
+/F2 7.4 Tf
+322 561.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 561.1002 Td
+(Flutter echo) Tj
+ET
+BT
+/F2 7.4 Tf
+322 551.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 551.5002 Td
+(Creep wave) Tj
+ET
+BT
+/F2 8.0 Tf
+306 527.9002 Td
+(25.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 527.9002 Td
+(Sound focusing in architectural spaces is an) Tj
+ET
+BT
+/F1 7.8 Tf
+322 518.7002 Td
+(acoustic defect commonly caused by:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 507.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 507.0002 Td
+(Curved or concave ceiling domes and) Tj
+ET
+BT
+/F1 7.4 Tf
+336 498.4002 Td
+(cylindrical walls) Tj
+ET
+BT
+/F2 7.4 Tf
+322 488.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 488.8002 Td
+(Flat gypsum drywall ceilings) Tj
+ET
+BT
+/F2 7.4 Tf
+322 479.2002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 479.2002 Td
+(Perforated acoustic ceiling tiles) Tj
+ET
+BT
+/F2 7.4 Tf
+322 469.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 469.6002 Td
+(Heavy velour stage drapes) Tj
+ET
+BT
+/F2 8.0 Tf
+306 446.0002 Td
+(26.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 446.0002 Td
+(The optimum reverberation time for an auditorium) Tj
+ET
+BT
+/F1 7.8 Tf
+322 436.8001 Td
+(designed primarily for speech and lectures is) Tj
+ET
+BT
+/F1 7.8 Tf
+322 427.6001 Td
+(approximately:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 415.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 415.9001 Td
+(2.0 to 2.5 seconds) Tj
+ET
+BT
+/F2 7.4 Tf
+322 406.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 406.3001 Td
+(0.1 to 0.2 seconds) Tj
+ET
+BT
+/F2 7.4 Tf
+322 396.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 396.7001 Td
+(0.8 to 1.1 seconds) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.1001 Td
+(3.0 to 4.0 seconds) Tj
+ET
+BT
+/F2 8.0 Tf
+306 363.5001 Td
+(27.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 363.5001 Td
+(The optimum reverberation time for a grand) Tj
+ET
+BT
+/F1 7.8 Tf
+322 354.3001 Td
+(concert hall designed for classical orchestral) Tj
+ET
+BT
+/F1 7.8 Tf
+322 345.1001 Td
+(symphonies is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 333.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 333.4001 Td
+(0.5 to 0.7 seconds) Tj
+ET
+BT
+/F2 7.4 Tf
+322 323.8 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 323.8 Td
+(1.8 to 2.2 seconds) Tj
+ET
+BT
+/F2 7.4 Tf
+322 314.2 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 314.2 Td
+(0.2 to 0.4 seconds) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.6 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.6 Td
+(4.0 to 5.0 seconds) Tj
+ET
+BT
+/F2 8.0 Tf
+306 281 Td
+(28.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 281 Td
+(Ultrasonic waves are defined as acoustic) Tj
+ET
+BT
+/F1 7.8 Tf
+322 271.8 Td
+(mechanical vibrations having frequencies:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 260.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 260.1 Td
+(Below 20 Hz) Tj
+ET
+BT
+/F2 7.4 Tf
+322 250.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 250.5 Td
+(Between 20 Hz and 20 kHz) Tj
+ET
+BT
+/F2 7.4 Tf
+322 240.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 240.9 Td
+(Above 1.0 GHz) Tj
+ET
+BT
+/F2 7.4 Tf
+322 231.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 231.3 Td
+(Above 20,000 Hz \(20 kHz\)) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 8 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+8 0 obj
+<< /Length 9441 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 5: WAVES, ACOUSTICS & INDUSTRIAL ULTRASONICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 3 of 29) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(29.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Infrasonic waves are acoustic vibrations having) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(frequencies:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(Above 20 kHz) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(Between 1 kHz and 5 kHz) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(Below 20 Hz) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(Above 1 MHz) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(30.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(Which property makes ultrasonic waves ideal for) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(non-destructive inspection of concrete and rock?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(Short wavelength providing high directional) Tj
+ET
+BT
+/F1 7.4 Tf
+72 681.2001 Td
+(penetration and minimal diffraction) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.6001 Td
+(Ability to travel through vacuum) Tj
+ET
+BT
+/F2 7.4 Tf
+58 662.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 662.0001 Td
+(Low acoustic impedance) Tj
+ET
+BT
+/F2 7.4 Tf
+58 652.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 652.4001 Td
+(Speed equal to the speed of light) Tj
+ET
+BT
+/F2 8.0 Tf
+42 628.8002 Td
+(31.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.8002 Td
+(The Magnetostriction method for generating) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.6002 Td
+(ultrasonics is based on the:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 607.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 607.9001 Td
+(Seebeck thermoelectric effect) Tj
+ET
+BT
+/F2 7.4 Tf
+58 598.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 598.3002 Td
+(Hall effect) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.7002 Td
+(Faraday induction effect) Tj
+ET
+BT
+/F2 7.4 Tf
+58 579.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 579.1002 Td
+(Joule effect \(change in length of) Tj
+ET
+BT
+/F1 7.4 Tf
+72 570.5002 Td
+(ferromagnetic rod in magnetic field\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 546.9003 Td
+(32.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 546.9003 Td
+(In a magnetostrictive ultrasonic generator, the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 537.7003 Td
+(resonant frequency of a nickel rod of length L) Tj
+ET
+BT
+/F1 7.8 Tf
+58 528.5002 Td
+(is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 516.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 516.8002 Td
+(f = \(1 / L\) * sqrt\(Y / rho\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 507.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 507.2002 Td
+(f = \(1 / 2L\) * sqrt\(Y / rho\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 497.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 497.6002 Td
+(f = 2L * sqrt\(Y * rho\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 488.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 488.0002 Td
+(f = \(1 / 4L\) * sqrt\(Y / rho\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 464.4002 Td
+(33.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 464.4002 Td
+(Why is the magnetostriction generator rarely) Tj
+ET
+BT
+/F1 7.8 Tf
+58 455.2002 Td
+(used for frequencies above 100 kHz?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 443.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 443.5002 Td
+(Nickel rods melt at room temperature) Tj
+ET
+BT
+/F2 7.4 Tf
+58 433.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 433.9002 Td
+(Severe eddy current and hysteresis heating) Tj
+ET
+BT
+/F1 7.4 Tf
+72 425.3002 Td
+(losses in the ferromagnetic rod) Tj
+ET
+BT
+/F2 7.4 Tf
+58 415.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 415.7002 Td
+(Velocity of sound drops to zero) Tj
+ET
+BT
+/F2 7.4 Tf
+58 406.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 406.1002 Td
+(Magnetic fields cannot alternate above 100) Tj
+ET
+BT
+/F1 7.4 Tf
+72 397.5002 Td
+(kHz) Tj
+ET
+BT
+/F2 8.0 Tf
+42 373.9001 Td
+(34.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 373.9001 Td
+(The Piezoelectric method for generating) Tj
+ET
+BT
+/F1 7.8 Tf
+58 364.7001 Td
+(high-frequency ultrasonics is based on the:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 353.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 353.0001 Td
+(Inverse Piezoelectric Effect \(dimensional) Tj
+ET
+BT
+/F1 7.4 Tf
+72 344.4001 Td
+(strain under electric field\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 334.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 334.8001 Td
+(Direct Piezoelectric Effect alone) Tj
+ET
+BT
+/F2 7.4 Tf
+58 325.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 325.2001 Td
+(Peltier effect) Tj
+ET
+BT
+/F2 7.4 Tf
+58 315.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 315.6001 Td
+(Kerr electro-optic effect) Tj
+ET
+BT
+/F2 8.0 Tf
+42 292.0001 Td
+(35.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 292.0001 Td
+(Who discovered the piezoelectric effect in) Tj
+ET
+BT
+/F1 7.8 Tf
+58 282.8001 Td
+(quartz crystals in 1880?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 271.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 271.1001 Td
+(Albert Einstein) Tj
+ET
+BT
+/F2 7.4 Tf
+58 261.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 261.5001 Td
+(Lord Rayleigh) Tj
+ET
+BT
+/F2 7.4 Tf
+58 251.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 251.9001 Td
+(Jacques and Pierre Curie) Tj
+ET
+BT
+/F2 7.4 Tf
+58 242.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 242.3 Td
+(Heinrich Hertz) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(36.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Which synthetic ferroelectric ceramic is widely) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(used in modern ultrasonic NDT contact) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(transducers?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(Barium Sulfate) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.3 Td
+(Sodium Chloride) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.7 Td
+(Fused Silica) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.1 Td
+(Lead Zirconate Titanate \(PZT\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 701.5001 Td
+(37.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(In a piezoelectric transducer plate of thickness) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(t, the fundamental resonant frequency is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.6 Td
+(f = \(1 / t\) * sqrt\(Y / rho\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.0001 Td
+(f = 2t * sqrt\(Y / rho\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.4001 Td
+(f = \(1 / 4t\) * sqrt\(Y / rho\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 651.8001 Td
+(f = \(1 / 2t\) * sqrt\(Y / rho\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 628.2001 Td
+(38.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(In civil engineering concrete testing, what does) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(the acronym UPV stand for?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.3001 Td
+(Ultra Potential Voltage) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.7001 Td
+(Universal Pressure Velocity) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.1002 Td
+(Ultrasonic Pulse Velocity) Tj
+ET
+BT
+/F2 7.4 Tf
+322 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 578.5002 Td
+(Uniform Penetration Vibration) Tj
+ET
+BT
+/F2 8.0 Tf
+306 554.9002 Td
+(39.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(In the UPV method \(ASTM C597 / IS 516\), the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 545.7002 Td
+(ultrasonic wave velocity through concrete is) Tj
+ET
+BT
+/F1 7.8 Tf
+322 536.5002 Td
+(calculated as:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.8002 Td
+(Path length divided by pulse transit time: v) Tj
+ET
+BT
+/F1 7.4 Tf
+336 516.2002 Td
+(= L / t) Tj
+ET
+BT
+/F2 7.4 Tf
+322 506.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 506.6002 Td
+(Transit time divided by path length: v = t /) Tj
+ET
+BT
+/F1 7.4 Tf
+336 498.0002 Td
+(L) Tj
+ET
+BT
+/F2 7.4 Tf
+322 488.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 488.4002 Td
+(v = sqrt\(L * t\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 478.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 478.8002 Td
+(v = L * f) Tj
+ET
+BT
+/F2 8.0 Tf
+306 455.2002 Td
+(40.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 455.2002 Td
+(According to international standards, concrete) Tj
+ET
+BT
+/F1 7.8 Tf
+322 446.0002 Td
+(with UPV greater than 4.5 km/s is graded as:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 434.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 434.3001 Td
+(Good quality concrete) Tj
+ET
+BT
+/F2 7.4 Tf
+322 424.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 424.7001 Td
+(Excellent quality concrete) Tj
+ET
+BT
+/F2 7.4 Tf
+322 415.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 415.1001 Td
+(Medium quality concrete) Tj
+ET
+BT
+/F2 7.4 Tf
+322 405.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 405.5001 Td
+(Poor / doubtful quality concrete) Tj
+ET
+BT
+/F2 8.0 Tf
+306 381.9001 Td
+(41.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 381.9001 Td
+(A simple harmonic oscillator has mass m = 0.5 kg) Tj
+ET
+BT
+/F1 7.8 Tf
+322 372.7001 Td
+(and spring constant k = 200 N/m. Its natural) Tj
+ET
+BT
+/F1 7.8 Tf
+322 363.5001 Td
+(angular frequency omega_0 is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 351.8001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 351.8001 Td
+(10.0 rad/s) Tj
+ET
+BT
+/F2 7.4 Tf
+322 342.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 342.2001 Td
+(20.0 rad/s) Tj
+ET
+BT
+/F2 7.4 Tf
+322 332.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 332.6001 Td
+(400 rad/s) Tj
+ET
+BT
+/F2 7.4 Tf
+322 323.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 323.0001 Td
+(40.0 rad/s) Tj
+ET
+BT
+/F2 8.0 Tf
+306 299.4001 Td
+(42.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 299.4001 Td
+(If the oscillator in Q41 vibrates with amplitude) Tj
+ET
+BT
+/F1 7.8 Tf
+322 290.2 Td
+(A = 0.05 m, what is its maximum velocity v_max?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 278.5 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 278.5 Td
+(0.5 m/s) Tj
+ET
+BT
+/F2 7.4 Tf
+322 268.9 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 268.9 Td
+(2.0 m/s) Tj
+ET
+BT
+/F2 7.4 Tf
+322 259.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 259.3 Td
+(0.25 m/s) Tj
+ET
+BT
+/F2 7.4 Tf
+322 249.7 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 249.7 Td
+(1.0 m/s) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 10 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+10 0 obj
+<< /Length 9169 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 5: WAVES, ACOUSTICS & INDUSTRIAL ULTRASONICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 4 of 29) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(43.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(A damped oscillator has mass m = 2.0 kg, spring) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(constant k = 50 N/m, and damping constant b =) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(4.0 N*s/m. The damping factor beta is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(1.0 s^-1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.3 Td
+(2.0 s^-1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.7 Td
+(0.5 s^-1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.1 Td
+(4.0 s^-1) Tj
+ET
+BT
+/F2 8.0 Tf
+42 701.5001 Td
+(44.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(For the oscillator in Q43, what is its natural) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.3 Td
+(angular frequency omega_0?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.6 Td
+(25.0 rad/s) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.0001 Td
+(2.5 rad/s) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.4001 Td
+(5.0 rad/s) Tj
+ET
+BT
+/F2 7.4 Tf
+58 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 651.8001 Td
+(10.0 rad/s) Tj
+ET
+BT
+/F2 8.0 Tf
+42 628.2001 Td
+(45.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(For the oscillator in Q43, the damped angular) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.0001 Td
+(frequency omega_d is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 607.3001 Td
+(4.90 rad/s) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.7001 Td
+(4.00 rad/s) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.1002 Td
+(5.00 rad/s) Tj
+ET
+BT
+/F2 7.4 Tf
+58 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 578.5002 Td
+(3.87 rad/s) Tj
+ET
+BT
+/F2 8.0 Tf
+42 554.9002 Td
+(46.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(What value of damping constant b_crit would) Tj
+ET
+BT
+/F1 7.8 Tf
+58 545.7002 Td
+(produce critical damping in the oscillator of) Tj
+ET
+BT
+/F1 7.8 Tf
+58 536.5002 Td
+(Q43?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.8002 Td
+(10.0 N*s/m) Tj
+ET
+BT
+/F2 7.4 Tf
+58 515.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 515.2002 Td
+(40.0 N*s/m) Tj
+ET
+BT
+/F2 7.4 Tf
+58 505.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 505.6002 Td
+(20.0 N*s/m) Tj
+ET
+BT
+/F2 7.4 Tf
+58 496.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 496.0002 Td
+(5.0 N*s/m) Tj
+ET
+BT
+/F2 8.0 Tf
+42 472.4002 Td
+(47.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 472.4002 Td
+(An underdamped building model has initial) Tj
+ET
+BT
+/F1 7.8 Tf
+58 463.2002 Td
+(amplitude A_0 = 100 mm. After 5 full cycles,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 454.0002 Td
+(amplitude decays to 36.8 mm \(1/e\). The) Tj
+ET
+BT
+/F1 7.8 Tf
+58 444.8001 Td
+(logarithmic decrement delta is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 433.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 433.1001 Td
+(0.10) Tj
+ET
+BT
+/F2 7.4 Tf
+58 423.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 423.5001 Td
+(0.20) Tj
+ET
+BT
+/F2 7.4 Tf
+58 413.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 413.9001 Td
+(0.50) Tj
+ET
+BT
+/F2 7.4 Tf
+58 404.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 404.3001 Td
+(1.00) Tj
+ET
+BT
+/F2 8.0 Tf
+42 380.7001 Td
+(48.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 380.7001 Td
+(For the building model in Q47, what is the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 371.5001 Td
+(mechanical Quality factor Q?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 359.8001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 359.8001 Td
+(31.4) Tj
+ET
+BT
+/F2 7.4 Tf
+58 350.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 350.2001 Td
+(7.85) Tj
+ET
+BT
+/F2 7.4 Tf
+58 340.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 340.6001 Td
+(62.8) Tj
+ET
+BT
+/F2 7.4 Tf
+58 331.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 331.0001 Td
+(15.7) Tj
+ET
+BT
+/F2 8.0 Tf
+42 307.4001 Td
+(49.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 307.4001 Td
+(A bridge vibration sensor records a natural) Tj
+ET
+BT
+/F1 7.8 Tf
+58 298.2 Td
+(frequency f_0 = 2.0 Hz and a damping ratio zeta) Tj
+ET
+BT
+/F1 7.8 Tf
+58 289 Td
+(= 0.02 \(2% damping\). The damping factor beta is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 277.3 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 277.3 Td
+(0.126 s^-1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 267.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 267.7 Td
+(0.040 s^-1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 258.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 258.1 Td
+(0.251 s^-1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 248.5 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 248.5 Td
+(0.502 s^-1) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(50.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(A classroom of dimensions 12 m x 8 m x 4 m has) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(volume V = 384 m^3. If total acoustic absorption) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(is A = 64 metric Sabins, its reverberation time) Tj
+ET
+BT
+/F1 7.8 Tf
+322 756.4 Td
+(T is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.7 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.7 Td
+(0.966 seconds) Tj
+ET
+BT
+/F2 7.4 Tf
+322 735.1 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 735.1 Td
+(1.93 seconds) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.5 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.5 Td
+(0.483 seconds) Tj
+ET
+BT
+/F2 7.4 Tf
+322 715.9 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 715.9 Td
+(1.50 seconds) Tj
+ET
+BT
+/F2 8.0 Tf
+306 692.3 Td
+(51.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(If the reverberation time in Q50 needs to be) Tj
+ET
+BT
+/F1 7.8 Tf
+322 683.1 Td
+(reduced to 0.60 seconds, what must be the new) Tj
+ET
+BT
+/F1 7.8 Tf
+322 673.9 Td
+(total absorption A_new?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 662.2 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 662.2 Td
+(128.0 metric Sabins) Tj
+ET
+BT
+/F2 7.4 Tf
+322 652.6 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 652.6 Td
+(85.0 metric Sabins) Tj
+ET
+BT
+/F2 7.4 Tf
+322 643.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 643.0001 Td
+(150.0 metric Sabins) Tj
+ET
+BT
+/F2 7.4 Tf
+322 633.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 633.4001 Td
+(103.0 metric Sabins) Tj
+ET
+BT
+/F2 8.0 Tf
+306 609.8001 Td
+(52.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 609.8001 Td
+(A conference hall has volume 2500 m^3. To) Tj
+ET
+BT
+/F1 7.8 Tf
+322 600.6001 Td
+(achieve an optimal reverberation time T = 1.20) Tj
+ET
+BT
+/F1 7.8 Tf
+322 591.4001 Td
+(s, what total absorption A is required?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 579.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 579.7001 Td
+(670.8 metric Sabins) Tj
+ET
+BT
+/F2 7.4 Tf
+322 570.1001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 570.1001 Td
+(335.4 metric Sabins) Tj
+ET
+BT
+/F2 7.4 Tf
+322 560.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 560.5001 Td
+(167.7 metric Sabins) Tj
+ET
+BT
+/F2 7.4 Tf
+322 550.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 550.9001 Td
+(500.0 metric Sabins) Tj
+ET
+BT
+/F2 8.0 Tf
+306 527.3002 Td
+(53.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 527.3002 Td
+(A concrete wall surface of area 50 m^2 has) Tj
+ET
+BT
+/F1 7.8 Tf
+322 518.1002 Td
+(absorption coefficient alpha = 0.02. What is its) Tj
+ET
+BT
+/F1 7.8 Tf
+322 508.9001 Td
+(acoustic absorption in metric Sabins?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 497.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 497.2001 Td
+(2.5 metric Sabins) Tj
+ET
+BT
+/F2 7.4 Tf
+322 487.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 487.6001 Td
+(1.0 metric Sabin) Tj
+ET
+BT
+/F2 7.4 Tf
+322 478.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 478.0001 Td
+(0.5 metric Sabins) Tj
+ET
+BT
+/F2 7.4 Tf
+322 468.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 468.4001 Td
+(5.0 metric Sabins) Tj
+ET
+BT
+/F2 8.0 Tf
+306 444.8001 Td
+(54.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 444.8001 Td
+(If the wall in Q53 is covered with acoustic) Tj
+ET
+BT
+/F1 7.8 Tf
+322 435.6001 Td
+(fiberglass panels \(alpha = 0.80\), the new) Tj
+ET
+BT
+/F1 7.8 Tf
+322 426.4001 Td
+(absorption of the wall becomes:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 414.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 414.7001 Td
+(40.0 metric Sabins) Tj
+ET
+BT
+/F2 7.4 Tf
+322 405.1001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 405.1001 Td
+(20.0 metric Sabins) Tj
+ET
+BT
+/F2 7.4 Tf
+322 395.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 395.5001 Td
+(80.0 metric Sabins) Tj
+ET
+BT
+/F2 7.4 Tf
+322 385.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 385.9001 Td
+(10.0 metric Sabins) Tj
+ET
+BT
+/F2 8.0 Tf
+306 362.3 Td
+(55.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 362.3 Td
+(A rectangular hall has volume 10,000 m^3 and) Tj
+ET
+BT
+/F1 7.8 Tf
+322 353.1 Td
+(total surface area 3,500 m^2 with average) Tj
+ET
+BT
+/F1 7.8 Tf
+322 343.9 Td
+(absorption coefficient alpha_avg = 0.35. Using) Tj
+ET
+BT
+/F1 7.8 Tf
+322 334.7 Td
+(Eyring's formula, the reverberation time T is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 323 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 323 Td
+(1.31 seconds) Tj
+ET
+BT
+/F2 7.4 Tf
+322 313.4 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 313.4 Td
+(0.85 seconds) Tj
+ET
+BT
+/F2 7.4 Tf
+322 303.8 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 303.8 Td
+(1.06 seconds) Tj
+ET
+BT
+/F2 7.4 Tf
+322 294.2 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 294.2 Td
+(1.55 seconds) Tj
+ET
+BT
+/F2 8.0 Tf
+306 270.6 Td
+(56.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 270.6 Td
+(Using Sabine's formula for the hall in Q55 \(A =) Tj
+ET
+BT
+/F1 7.8 Tf
+322 261.4 Td
+(3500 * 0.35 = 1225 Sabins\), Sabine's predicted) Tj
+ET
+BT
+/F1 7.8 Tf
+322 252.2 Td
+(reverberation time is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 240.5 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 240.5 Td
+(1.06 seconds) Tj
+ET
+BT
+/F2 7.4 Tf
+322 230.9 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 230.9 Td
+(0.85 seconds) Tj
+ET
+BT
+/F2 7.4 Tf
+322 221.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 221.3 Td
+(1.55 seconds) Tj
+ET
+BT
+/F2 7.4 Tf
+322 211.7 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 211.7 Td
+(1.31 seconds \(Sabine overestimates T in dead) Tj
+ET
+BT
+/F1 7.4 Tf
+336 203.0999 Td
+(rooms\)) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 12 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+12 0 obj
+<< /Length 9815 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 5: WAVES, ACOUSTICS & INDUSTRIAL ULTRASONICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 5 of 29) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(57.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Calculate the fundamental resonant frequency of) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(a nickel rod of length L = 10 cm in a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(magnetostriction generator \(Young's modulus Y =) Tj
+ET
+BT
+/F1 7.8 Tf
+58 756.4 Td
+(2.1x10^11 N/m^2, density rho = 8900 kg/m^3\):) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.7 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.7 Td
+(48.56 kHz) Tj
+ET
+BT
+/F2 7.4 Tf
+58 735.1 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 735.1 Td
+(12.14 kHz) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.5 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.5 Td
+(97.12 kHz) Tj
+ET
+BT
+/F2 7.4 Tf
+58 715.9 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 715.9 Td
+(24.28 kHz \(Ultrasonic\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 692.3 Td
+(58.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.3 Td
+(What length L of nickel rod is required to) Tj
+ET
+BT
+/F1 7.8 Tf
+58 683.1 Td
+(generate ultrasonics at exactly 40.0 kHz?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.4 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.4 Td
+(12.14 cm) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.8 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.8 Td
+(3.04 cm) Tj
+ET
+BT
+/F2 7.4 Tf
+58 652.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 652.2001 Td
+(6.07 cm) Tj
+ET
+BT
+/F2 7.4 Tf
+58 642.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 642.6001 Td
+(15.0 cm) Tj
+ET
+BT
+/F2 8.0 Tf
+42 619.0001 Td
+(59.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.0001 Td
+(Calculate the fundamental resonant frequency of) Tj
+ET
+BT
+/F1 7.8 Tf
+58 609.8001 Td
+(an X-cut quartz crystal of thickness t = 2.0 mm) Tj
+ET
+BT
+/F1 7.8 Tf
+58 600.6001 Td
+(\(Y = 8.5x10^10 N/m^2, rho = 2650 kg/m^3\):) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.9001 Td
+(1.415 MHz) Tj
+ET
+BT
+/F2 7.4 Tf
+58 579.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 579.3001 Td
+(2.830 MHz) Tj
+ET
+BT
+/F2 7.4 Tf
+58 569.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 569.7001 Td
+(0.708 MHz) Tj
+ET
+BT
+/F2 7.4 Tf
+58 560.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 560.1002 Td
+(5.660 MHz) Tj
+ET
+BT
+/F2 8.0 Tf
+42 536.5002 Td
+(60.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 536.5002 Td
+(What thickness t of quartz crystal is needed to) Tj
+ET
+BT
+/F1 7.8 Tf
+58 527.3002 Td
+(produce a 5.0 MHz ultrasound beam for crack) Tj
+ET
+BT
+/F1 7.8 Tf
+58 518.1002 Td
+(detection?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 506.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 506.4001 Td
+(1.132 mm) Tj
+ET
+BT
+/F2 7.4 Tf
+58 496.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 496.8001 Td
+(0.566 mm) Tj
+ET
+BT
+/F2 7.4 Tf
+58 487.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 487.2001 Td
+(0.283 mm) Tj
+ET
+BT
+/F2 7.4 Tf
+58 477.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 477.6001 Td
+(2.00 mm) Tj
+ET
+BT
+/F2 8.0 Tf
+42 454.0001 Td
+(61.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 454.0001 Td
+(In a UPV concrete test, two transducers are) Tj
+ET
+BT
+/F1 7.8 Tf
+58 444.8001 Td
+(placed across opposite faces of a 400 mm thick) Tj
+ET
+BT
+/F1 7.8 Tf
+58 435.6001 Td
+(reinforced concrete column \(Direct) Tj
+ET
+BT
+/F1 7.8 Tf
+58 426.4001 Td
+(Transmission\). If pulse transit time is 92) Tj
+ET
+BT
+/F1 7.8 Tf
+58 417.2001 Td
+(microseconds, what is the pulse velocity v_p?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 405.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 405.5001 Td
+(3.68 km/s) Tj
+ET
+BT
+/F2 7.4 Tf
+58 395.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 395.9001 Td
+(4.35 km/s \(Good quality\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 386.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 386.3 Td
+(5.20 km/s) Tj
+ET
+BT
+/F2 7.4 Tf
+58 376.7 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 376.7 Td
+(2.85 km/s) Tj
+ET
+BT
+/F2 8.0 Tf
+42 353.1 Td
+(62.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 353.1 Td
+(A concrete pavement slab of thickness 25 cm is) Tj
+ET
+BT
+/F1 7.8 Tf
+58 343.9 Td
+(tested using UPV. If transit time is 65) Tj
+ET
+BT
+/F1 7.8 Tf
+58 334.7 Td
+(microseconds, the pulse velocity is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 323 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 323 Td
+(4.50 km/s) Tj
+ET
+BT
+/F2 7.4 Tf
+58 313.4 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 313.4 Td
+(3.20 km/s) Tj
+ET
+BT
+/F2 7.4 Tf
+58 303.8 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 303.8 Td
+(2.50 km/s) Tj
+ET
+BT
+/F2 7.4 Tf
+58 294.2 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 294.2 Td
+(3.85 km/s) Tj
+ET
+BT
+/F2 8.0 Tf
+42 270.6 Td
+(63.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 270.6 Td
+(The longitudinal wave velocity in an elastic) Tj
+ET
+BT
+/F1 7.8 Tf
+58 261.4 Td
+(solid with dynamic Young's modulus E = 35 GPa,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 252.2 Td
+(density rho = 2400 kg/m^3, and Poisson's ratio) Tj
+ET
+BT
+/F1 7.8 Tf
+58 243 Td
+(nu = 0.20 is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 231.3 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 231.3 Td
+(4.05 km/s) Tj
+ET
+BT
+/F2 7.4 Tf
+58 221.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 221.7 Td
+(3.82 km/s) Tj
+ET
+BT
+/F2 7.4 Tf
+58 212.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 212.1 Td
+(4.50 km/s) Tj
+ET
+BT
+/F2 7.4 Tf
+58 202.5 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 202.5 Td
+(3.25 km/s) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(64.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(An ultrasonic transducer emits a 54 kHz pulse) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(into concrete \(v_p = 4000 m/s\). What is the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(acoustic wavelength lambda in the concrete?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(37.0 mm) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.3 Td
+(148.2 mm) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.7 Td
+(74.1 mm \(7.41 cm\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.1 Td
+(18.5 mm) Tj
+ET
+BT
+/F2 8.0 Tf
+306 701.5001 Td
+(65.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(Why is an ultrasonic frequency of 54 kHz) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(typically chosen for concrete NDT rather than 5) Tj
+ET
+BT
+/F1 7.8 Tf
+322 683.1 Td
+(MHz?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.4 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.4 Td
+(Coarse aggregate stones \(10-20 mm\) cause) Tj
+ET
+BT
+/F1 7.4 Tf
+336 662.8 Td
+(severe scattering attenuation at MHz) Tj
+ET
+BT
+/F1 7.4 Tf
+336 654.2001 Td
+(frequencies) Tj
+ET
+BT
+/F2 7.4 Tf
+322 644.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 644.6001 Td
+(MHz transducers cannot be made) Tj
+ET
+BT
+/F2 7.4 Tf
+322 635.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 635.0001 Td
+(54 kHz sounds louder) Tj
+ET
+BT
+/F2 7.4 Tf
+322 625.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 625.4001 Td
+(High frequencies travel too fast) Tj
+ET
+BT
+/F2 8.0 Tf
+306 601.8002 Td
+(66.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 601.8002 Td
+(In UPV surface testing across a concrete crack,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 592.6002 Td
+(transducers spaced at x = 200 mm record transit) Tj
+ET
+BT
+/F1 7.8 Tf
+322 583.4001 Td
+(times t1 = 50 microseconds \(uncracked surface\)) Tj
+ET
+BT
+/F1 7.8 Tf
+322 574.2001 Td
+(and t2 = 80 microseconds \(across crack\). The) Tj
+ET
+BT
+/F1 7.8 Tf
+322 565.0001 Td
+(crack depth d is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 553.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 553.3001 Td
+(75 mm) Tj
+ET
+BT
+/F2 7.4 Tf
+322 543.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 543.7001 Td
+(150 mm) Tj
+ET
+BT
+/F2 7.4 Tf
+322 534.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 534.1002 Td
+(125 mm) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.5002 Td
+(100 mm) Tj
+ET
+BT
+/F2 8.0 Tf
+306 500.9002 Td
+(67.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 500.9002 Td
+(The acoustic impedance Z of concrete \(density) Tj
+ET
+BT
+/F1 7.8 Tf
+322 491.7002 Td
+(2400 kg/m^3, velocity 4000 m/s\) is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 480.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 480.0002 Td
+(4.8 x 10^6 Rayls) Tj
+ET
+BT
+/F2 7.4 Tf
+322 470.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 470.4002 Td
+(9.6 x 10^6 kg/\(m^2*s\) \(Rayls\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.8002 Td
+(1.9 x 10^7 Rayls) Tj
+ET
+BT
+/F2 7.4 Tf
+322 451.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 451.2002 Td
+(2.4 x 10^6 Rayls) Tj
+ET
+BT
+/F2 8.0 Tf
+306 427.6002 Td
+(68.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 427.6002 Td
+(The acoustic impedance of air at room) Tj
+ET
+BT
+/F1 7.8 Tf
+322 418.4001 Td
+(temperature \(density 1.2 kg/m^3, velocity 340) Tj
+ET
+BT
+/F1 7.8 Tf
+322 409.2001 Td
+(m/s\) is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 397.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 397.5001 Td
+(1000 Rayls) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.9001 Td
+(100 Rayls) Tj
+ET
+BT
+/F2 7.4 Tf
+322 378.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 378.3001 Td
+(1.2 x 10^5 Rayls) Tj
+ET
+BT
+/F2 7.4 Tf
+322 368.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 368.7001 Td
+(408 Rayls) Tj
+ET
+BT
+/F2 8.0 Tf
+306 345.1001 Td
+(69.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 345.1001 Td
+(Because of the colossal acoustic impedance) Tj
+ET
+BT
+/F1 7.8 Tf
+322 335.9001 Td
+(mismatch between concrete \(Z1 = 9.6x10^6 Rayls\)) Tj
+ET
+BT
+/F1 7.8 Tf
+322 326.7001 Td
+(and air \(Z2 = 408 Rayls\), what percentage of) Tj
+ET
+BT
+/F1 7.8 Tf
+322 317.5001 Td
+(ultrasound reflects at an internal air void or) Tj
+ET
+BT
+/F1 7.8 Tf
+322 308.3 Td
+(crack?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 296.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 296.6 Td
+(50.0%) Tj
+ET
+BT
+/F2 7.4 Tf
+322 287 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 287 Td
+(10.0%) Tj
+ET
+BT
+/F2 7.4 Tf
+322 277.4 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 277.4 Td
+(99.98% \(almost 100% total reflection\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 267.8 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 267.8 Td
+(0%) Tj
+ET
+BT
+/F2 8.0 Tf
+306 244.2 Td
+(70.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 244.2 Td
+(Why is an acoustic couplant gel \(petroleum) Tj
+ET
+BT
+/F1 7.8 Tf
+322 235 Td
+(jelly, grease, or cellulose paste\) mandatory) Tj
+ET
+BT
+/F1 7.8 Tf
+322 225.8 Td
+(between UPV transducers and concrete?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 214.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 214.1 Td
+(To exclude the microscopic air gap and) Tj
+ET
+BT
+/F1 7.4 Tf
+336 205.5 Td
+(enable acoustic energy transmission) Tj
+ET
+BT
+/F2 7.4 Tf
+322 195.9 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 195.9 Td
+(To clean the concrete surface) Tj
+ET
+BT
+/F2 7.4 Tf
+322 186.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 186.3 Td
+(To prevent electrical shocks) Tj
+ET
+BT
+/F2 7.4 Tf
+322 176.7 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 176.7 Td
+(To lubricate the transducer face) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 14 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+14 0 obj
+<< /Length 11950 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 5: WAVES, ACOUSTICS & INDUSTRIAL ULTRASONICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 6 of 29) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(71.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(In Cross-Hole Sonic Logging \(CSL\) of an) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(underwater foundation drilled shaft, two) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(water-filled PVC tubes are spaced 1.5 m apart.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 756.4 Td
+(If pulse transit time through sound concrete is) Tj
+ET
+BT
+/F1 7.8 Tf
+58 747.2 Td
+(375 microseconds, the velocity is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 735.4999 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 735.4999 Td
+(3.00 km/s) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.9 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.9 Td
+(4.50 km/s) Tj
+ET
+BT
+/F2 7.4 Tf
+58 716.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 716.3 Td
+(3.50 km/s) Tj
+ET
+BT
+/F2 7.4 Tf
+58 706.7 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 706.7 Td
+(4.00 km/s) Tj
+ET
+BT
+/F2 8.0 Tf
+42 683.1 Td
+(72.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 683.1 Td
+(In the CSL test of Q71, at depth 12 m, the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 673.9 Td
+(transit time jumps to 600 microseconds with a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 664.7 Td
+(90% amplitude loss. This indicates:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 653 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 653 Td
+(Excellent concrete compaction) Tj
+ET
+BT
+/F2 7.4 Tf
+58 643.4 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 643.4 Td
+(A severe concrete defect \(soil necking,) Tj
+ET
+BT
+/F1 7.4 Tf
+72 634.8 Td
+(wash-out, or honeycombing\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 625.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 625.2001 Td
+(Presence of a steel rebar cage) Tj
+ET
+BT
+/F2 7.4 Tf
+58 615.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 615.6001 Td
+(Denser concrete aggregate) Tj
+ET
+BT
+/F2 8.0 Tf
+42 592.0001 Td
+(73.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 592.0001 Td
+(An ultrasonic thickness gauge measures) Tj
+ET
+BT
+/F1 7.8 Tf
+58 582.8001 Td
+(structural steel plate corrosion. If round-trip) Tj
+ET
+BT
+/F1 7.8 Tf
+58 573.6001 Td
+(travel time through the plate is 2.0) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.4001 Td
+(microseconds \(v_steel = 5900 m/s\), the steel) Tj
+ET
+BT
+/F1 7.8 Tf
+58 555.2001 Td
+(plate thickness is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 543.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 543.5001 Td
+(11.80 mm) Tj
+ET
+BT
+/F2 7.4 Tf
+58 533.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 533.9001 Td
+(5.90 mm) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.3001 Td
+(2.95 mm) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.7001 Td
+(23.60 mm) Tj
+ET
+BT
+/F2 8.0 Tf
+42 491.1001 Td
+(74.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 491.1001 Td
+(An echo-sounder fathometer mounted on a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.9001 Td
+(surveying boat measures riverbed sediment scour) Tj
+ET
+BT
+/F1 7.8 Tf
+58 472.7001 Td
+(near a bridge pier. If round-trip pulse time in) Tj
+ET
+BT
+/F1 7.8 Tf
+58 463.5001 Td
+(water \(v = 1500 m/s\) is 16.0 ms, the river depth) Tj
+ET
+BT
+/F1 7.8 Tf
+58 454.3001 Td
+(is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 442.6001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 442.6001 Td
+(12.0 m) Tj
+ET
+BT
+/F2 7.4 Tf
+58 433.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 433.0001 Td
+(24.0 m) Tj
+ET
+BT
+/F2 7.4 Tf
+58 423.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 423.4001 Td
+(6.0 m) Tj
+ET
+BT
+/F2 7.4 Tf
+58 413.8 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 413.8 Td
+(18.0 m) Tj
+ET
+BT
+/F2 8.0 Tf
+42 390.2 Td
+(75.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 390.2 Td
+(Sound Transmission Class \(STC\) of an) Tj
+ET
+BT
+/F1 7.8 Tf
+58 381 Td
+(architectural partition wall quantifies its:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 369.3 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 369.3 Td
+(Reverberation absorption area) Tj
+ET
+BT
+/F2 7.4 Tf
+58 359.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 359.7 Td
+(Structural load bearing capacity) Tj
+ET
+BT
+/F2 7.4 Tf
+58 350.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 350.1 Td
+(Sound transmission loss \(airborne noise) Tj
+ET
+BT
+/F1 7.4 Tf
+72 341.5 Td
+(insulation\) across human speech frequencies) Tj
+ET
+BT
+/F2 7.4 Tf
+58 331.9 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 331.9 Td
+(Fire resistance duration in hours) Tj
+ET
+BT
+/F2 8.0 Tf
+42 308.3 Td
+(76.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 308.3 Td
+(A 60-meter tall industrial concrete chimney) Tj
+ET
+BT
+/F1 7.8 Tf
+58 299.1 Td
+(\(mass M = 400 tonnes\) has a fundamental natural) Tj
+ET
+BT
+/F1 7.8 Tf
+58 289.9 Td
+(frequency f_0 = 1.25 Hz. Wind vortex shedding) Tj
+ET
+BT
+/F1 7.8 Tf
+58 280.7 Td
+(causes transverse resonance when the vortex) Tj
+ET
+BT
+/F1 7.8 Tf
+58 271.4999 Td
+(shedding frequency f_v = S_t * v_wind / D) Tj
+ET
+BT
+/F1 7.8 Tf
+58 262.2999 Td
+(matches f_0. For chimney diameter D = 3.5 m and) Tj
+ET
+BT
+/F1 7.8 Tf
+58 253.0999 Td
+(Strouhal number S_t = 0.20, what is the critical) Tj
+ET
+BT
+/F1 7.8 Tf
+58 243.8999 Td
+(resonant wind speed v_crit?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 232.1999 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 232.1999 Td
+(15.50 m/s) Tj
+ET
+BT
+/F2 7.4 Tf
+58 222.5999 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 222.5999 Td
+(30.00 m/s) Tj
+ET
+BT
+/F2 7.4 Tf
+58 212.9999 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 212.9999 Td
+(10.94 m/s) Tj
+ET
+BT
+/F2 7.4 Tf
+58 203.3999 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 203.3999 Td
+(21.88 m/s \(78.8 km/h\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 179.7999 Td
+(77.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 179.7999 Td
+(For the chimney in Q76, the structural damping) Tj
+ET
+BT
+/F1 7.8 Tf
+58 170.5999 Td
+(ratio is zeta = 0.015. At resonance, the dynamic) Tj
+ET
+BT
+/F1 7.8 Tf
+58 161.3999 Td
+(amplification factor \(DAF = 1 / \(2*zeta\)\) is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 149.6999 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 149.6999 Td
+(16.7) Tj
+ET
+BT
+/F2 7.4 Tf
+58 140.0999 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 140.0999 Td
+(66.7) Tj
+ET
+BT
+/F2 7.4 Tf
+58 130.4999 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 130.4999 Td
+(10.0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 120.8999 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 120.8999 Td
+(33.3) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(78.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(To suppress vortex resonance on the chimney in) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(Q76, aerodynamic helical strakes are added.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(Helical strakes function by:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(Increasing the mass of the chimney) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.3 Td
+(Increasing structural stiffness) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.7 Td
+(Disrupting spanwise coherence of alternating) Tj
+ET
+BT
+/F1 7.4 Tf
+336 726.1 Td
+(Karman vortices) Tj
+ET
+BT
+/F2 7.4 Tf
+322 716.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 716.5001 Td
+(Absorbing sound waves) Tj
+ET
+BT
+/F2 8.0 Tf
+306 697.2572 Td
+(79.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 697.2572 Td
+(A Tuned Mass Damper \(TMD\) installed on a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 688.0572 Td
+(high-rise tower has mass m_tmd = 50 tonnes,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 678.8572 Td
+(matching 1% of the building's modal mass \(M =) Tj
+ET
+BT
+/F1 7.8 Tf
+322 669.6572 Td
+(5000 tonnes\). If the building's natural) Tj
+ET
+BT
+/F1 7.8 Tf
+322 660.4572 Td
+(frequency is f_0 = 0.20 Hz, what must be the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 651.2571 Td
+(tuned natural frequency of the TMD per Den) Tj
+ET
+BT
+/F1 7.8 Tf
+322 642.0571 Td
+(Hartog's optimum tuning ratio f_opt = 1 / \(1 +) Tj
+ET
+BT
+/F1 7.8 Tf
+322 632.8571 Td
+(mu\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 621.1571 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 621.1571 Td
+(0.198 Hz) Tj
+ET
+BT
+/F2 7.4 Tf
+322 611.5571 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 611.5571 Td
+(0.200 Hz) Tj
+ET
+BT
+/F2 7.4 Tf
+322 601.9572 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 601.9572 Td
+(0.202 Hz) Tj
+ET
+BT
+/F2 7.4 Tf
+322 592.3572 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 592.3572 Td
+(0.150 Hz) Tj
+ET
+BT
+/F2 8.0 Tf
+306 573.1143 Td
+(80.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 573.1143 Td
+(For the TMD in Q79, what is the required) Tj
+ET
+BT
+/F1 7.8 Tf
+322 563.9143 Td
+(stiffness k_tmd of the pendulum/spring) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.7143 Td
+(suspension?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 543.0143 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 543.0143 Td
+(155.2 kN/m) Tj
+ET
+BT
+/F2 7.4 Tf
+322 533.4143 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 533.4143 Td
+(77.6 kN/m) Tj
+ET
+BT
+/F2 7.4 Tf
+322 523.8143 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 523.8143 Td
+(38.8 kN/m) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.2144 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.2144 Td
+(100.0 kN/m) Tj
+ET
+BT
+/F2 8.0 Tf
+306 494.9715 Td
+(81.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 494.9715 Td
+(A concert hall of volume V = 15,000 m^3 has an) Tj
+ET
+BT
+/F1 7.8 Tf
+322 485.7715 Td
+(initial reverberation time T1 = 2.40 seconds) Tj
+ET
+BT
+/F1 7.8 Tf
+322 476.5715 Td
+(when empty. When an audience of 1200 persons) Tj
+ET
+BT
+/F1 7.8 Tf
+322 467.3715 Td
+(enters, each person adding 0.45 metric Sabins of) Tj
+ET
+BT
+/F1 7.8 Tf
+322 458.1714 Td
+(absorption, what is the new reverberation time) Tj
+ET
+BT
+/F1 7.8 Tf
+322 448.9714 Td
+(T2?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 437.2714 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 437.2714 Td
+(1.20 seconds) Tj
+ET
+BT
+/F2 7.4 Tf
+322 427.6714 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 427.6714 Td
+(1.58 seconds) Tj
+ET
+BT
+/F2 7.4 Tf
+322 418.0714 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 418.0714 Td
+(1.90 seconds) Tj
+ET
+BT
+/F2 7.4 Tf
+322 408.4714 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 408.4714 Td
+(0.95 seconds) Tj
+ET
+BT
+/F2 8.0 Tf
+306 389.2285 Td
+(82.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 389.2285 Td
+(A university lecture theatre \(15 m x 10 m x 4 m,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 380.0285 Td
+(V = 600 m^3\) has reverberation time T = 1.80 s,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 370.8285 Td
+(causing severe speech unintelligibility. To) Tj
+ET
+BT
+/F1 7.8 Tf
+322 361.6285 Td
+(achieve speech clarity \(T_target = 0.75 s\), how) Tj
+ET
+BT
+/F1 7.8 Tf
+322 352.4285 Td
+(many additional metric Sabins of acoustic wall) Tj
+ET
+BT
+/F1 7.8 Tf
+322 343.2285 Td
+(paneling must be installed?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 331.5285 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 331.5285 Td
+(128.8 metric Sabins) Tj
+ET
+BT
+/F2 7.4 Tf
+322 321.9285 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 321.9285 Td
+(53.7 metric Sabins) Tj
+ET
+BT
+/F2 7.4 Tf
+322 312.3285 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 312.3285 Td
+(105.2 metric Sabins) Tj
+ET
+BT
+/F2 7.4 Tf
+322 302.7285 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 302.7285 Td
+(75.1 metric Sabins) Tj
+ET
+BT
+/F2 8.0 Tf
+306 283.4856 Td
+(83.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 283.4856 Td
+(An ultrasonic pulse velocity survey across a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 274.2856 Td
+(massive concrete dam crest detects an internal) Tj
+ET
+BT
+/F1 7.8 Tf
+322 265.0856 Td
+(delamination zone. The direct path transit time) Tj
+ET
+BT
+/F1 7.8 Tf
+322 255.8856 Td
+(is 180 microseconds across a 600 mm sound) Tj
+ET
+BT
+/F1 7.8 Tf
+322 246.6856 Td
+(section, while across the suspect section it) Tj
+ET
+BT
+/F1 7.8 Tf
+322 237.4856 Td
+(jumps to 300 microseconds. What is the reduction) Tj
+ET
+BT
+/F1 7.8 Tf
+322 228.2856 Td
+(in apparent pulse velocity?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 216.5856 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 216.5856 Td
+(40.0% reduction \(from 3.33 km/s down to 2.00) Tj
+ET
+BT
+/F1 7.4 Tf
+336 207.9856 Td
+(km/s\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 198.3856 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 198.3856 Td
+(20.0% reduction) Tj
+ET
+BT
+/F2 7.4 Tf
+322 188.7856 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 188.7856 Td
+(60.0% reduction) Tj
+ET
+BT
+/F2 7.4 Tf
+322 179.1856 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 179.1856 Td
+(10.0% reduction) Tj
+ET
+BT
+/F2 8.0 Tf
+306 159.9427 Td
+(84.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 159.9427 Td
+(In surface indirect UPV testing along a concrete) Tj
+ET
+BT
+/F1 7.8 Tf
+322 150.7427 Td
+(bridge deck, transducer receiver distances x and) Tj
+ET
+BT
+/F1 7.8 Tf
+322 141.5427 Td
+(transit times t are logged: at x1 = 100 mm, t1 =) Tj
+ET
+BT
+/F1 7.8 Tf
+322 132.3427 Td
+(30 us; at x2 = 200 mm, t2 = 55 us; at x3 = 300) Tj
+ET
+BT
+/F1 7.8 Tf
+322 123.1427 Td
+(mm, t3 = 80 us; at x4 = 400 mm, t4 = 105 us.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 113.9427 Td
+(What is the surface pulse velocity v_p) Tj
+ET
+BT
+/F1 7.8 Tf
+322 104.7427 Td
+(determined by linear regression?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 93.04272 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 93.04272 Td
+(3.33 km/s) Tj
+ET
+BT
+/F2 7.4 Tf
+322 83.44273 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 83.44273 Td
+(4.50 km/s) Tj
+ET
+BT
+/F2 7.4 Tf
+322 73.84273 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 73.84273 Td
+(4.00 km/s) Tj
+ET
+BT
+/F2 7.4 Tf
+322 64.24273 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 64.24273 Td
+(3.00 km/s) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 16 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+16 0 obj
+<< /Length 12406 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 5: WAVES, ACOUSTICS & INDUSTRIAL ULTRASONICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 7 of 29) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(85.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(A concrete core sample of length 150 mm and) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(diameter 75 mm weighs 1.590 kg. In a laboratory) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(ultrasonic test, transit time is 35.7) Tj
+ET
+BT
+/F1 7.8 Tf
+58 756.4 Td
+(microseconds. If Poisson's ratio is nu = 0.18,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 747.2 Td
+(what is the dynamic Young's modulus E_d of the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 737.9999 Td
+(concrete?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 726.2999 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 726.2999 Td
+(38.5 GPa) Tj
+ET
+BT
+/F2 7.4 Tf
+58 716.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 716.7 Td
+(25.0 GPa) Tj
+ET
+BT
+/F2 7.4 Tf
+58 707.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 707.1 Td
+(45.2 GPa) Tj
+ET
+BT
+/F2 7.4 Tf
+58 697.5 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 697.5 Td
+(18.5 GPa) Tj
+ET
+BT
+/F2 8.0 Tf
+42 674.4 Td
+(86.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 674.4 Td
+(In a high-pressure concrete water tunnel liner,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 665.2 Td
+(an impact-echo \(IE\) test generates P-waves. If) Tj
+ET
+BT
+/F1 7.8 Tf
+58 656 Td
+(P-wave velocity is 4000 m/s and the recorded) Tj
+ET
+BT
+/F1 7.8 Tf
+58 646.8 Td
+(thickness resonance frequency peak is f_thick =) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.6 Td
+(6.67 kHz, what is the thickness of the tunnel) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.4 Td
+(liner \(T = 0.96 * v_p / \(2*f\)\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.7 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.7 Td
+(0.576 m) Tj
+ET
+BT
+/F2 7.4 Tf
+58 607.1 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 607.1 Td
+(0.144 m) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.5 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.5 Td
+(0.288 m \(28.8 cm\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 587.9 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 587.9 Td
+(0.600 m) Tj
+ET
+BT
+/F2 8.0 Tf
+42 564.8 Td
+(87.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.8 Td
+(A heavy foundation vibratory hammer operates at) Tj
+ET
+BT
+/F1 7.8 Tf
+58 555.6 Td
+(30 Hz adjacent to an existing historic masonry) Tj
+ET
+BT
+/F1 7.8 Tf
+58 546.4 Td
+(building. The soil has shear wave velocity v_s =) Tj
+ET
+BT
+/F1 7.8 Tf
+58 537.2 Td
+(200 m/s and density 1800 kg/m^3. What is the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 528 Td
+(wavelength of the ground Rayleigh waves?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 516.3 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 516.3 Td
+(13.33 meters) Tj
+ET
+BT
+/F2 7.4 Tf
+58 506.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 506.7 Td
+(6.67 meters) Tj
+ET
+BT
+/F2 7.4 Tf
+58 497.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 497.1 Td
+(3.33 meters) Tj
+ET
+BT
+/F2 7.4 Tf
+58 487.5 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 487.5 Td
+(20.0 meters) Tj
+ET
+BT
+/F2 8.0 Tf
+42 464.4 Td
+(88.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 464.4 Td
+(For the site in Q87, building vibration) Tj
+ET
+BT
+/F1 7.8 Tf
+58 455.2 Td
+(standards set a peak particle velocity \(PPV\)) Tj
+ET
+BT
+/F1 7.8 Tf
+58 445.9999 Td
+(threshold of 3.0 mm/s to prevent cosmetic) Tj
+ET
+BT
+/F1 7.8 Tf
+58 436.7999 Td
+(masonry plaster cracking. If the measured) Tj
+ET
+BT
+/F1 7.8 Tf
+58 427.5999 Td
+(vertical displacement amplitude is 25) Tj
+ET
+BT
+/F1 7.8 Tf
+58 418.3999 Td
+(micrometers at 30 Hz, what is the actual PPV?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 406.6999 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 406.6999 Td
+(2.35 mm/s) Tj
+ET
+BT
+/F2 7.4 Tf
+58 397.0999 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 397.0999 Td
+(1.50 mm/s) Tj
+ET
+BT
+/F2 7.4 Tf
+58 387.4999 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 387.4999 Td
+(9.42 mm/s) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.8999 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.8999 Td
+(4.71 mm/s \(Exceeds 3.0 mm/s threshold -) Tj
+ET
+BT
+/F1 7.4 Tf
+72 369.2999 Td
+(hazard!\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 346.1999 Td
+(89.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 346.1999 Td
+(A sound wave of intensity 80 dB \(re 10^-12) Tj
+ET
+BT
+/F1 7.8 Tf
+58 336.9998 Td
+(W/m^2\) strikes an acoustic partition wall. If) Tj
+ET
+BT
+/F1 7.8 Tf
+58 327.7998 Td
+(the transmitted sound level on the other side is) Tj
+ET
+BT
+/F1 7.8 Tf
+58 318.5998 Td
+(45 dB, what is the Sound Transmission Loss \(TL\)) Tj
+ET
+BT
+/F1 7.8 Tf
+58 309.3998 Td
+(of the wall?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 297.6998 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 297.6998 Td
+(125 dB) Tj
+ET
+BT
+/F2 7.4 Tf
+58 288.0998 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 288.0998 Td
+(20 dB) Tj
+ET
+BT
+/F2 7.4 Tf
+58 278.4998 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 278.4998 Td
+(35 dB) Tj
+ET
+BT
+/F2 7.4 Tf
+58 268.8998 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 268.8998 Td
+(45 dB) Tj
+ET
+BT
+/F2 8.0 Tf
+42 245.7998 Td
+(90.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 245.7998 Td
+(If a second identical drywall layer is added to) Tj
+ET
+BT
+/F1 7.8 Tf
+58 236.5998 Td
+(the partition in Q89 according to the mass law) Tj
+ET
+BT
+/F1 7.8 Tf
+58 227.3998 Td
+(\(doubling surface mass density m\), the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 218.1998 Td
+(transmission loss TL increases by approximately:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 206.4998 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 206.4998 Td
+(6.0 dB) Tj
+ET
+BT
+/F2 7.4 Tf
+58 196.8998 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 196.8998 Td
+(3.0 dB) Tj
+ET
+BT
+/F2 7.4 Tf
+58 187.2998 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 187.2998 Td
+(10.0 dB) Tj
+ET
+BT
+/F2 7.4 Tf
+58 177.6998 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 177.6998 Td
+(12.0 dB) Tj
+ET
+BT
+/F2 8.0 Tf
+42 154.5997 Td
+(91.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 154.5997 Td
+(An acoustic cavity resonator \(Helmholtz) Tj
+ET
+BT
+/F1 7.8 Tf
+58 145.3997 Td
+(resonator\) designed to absorb 120 Hz) Tj
+ET
+BT
+/F1 7.8 Tf
+58 136.1997 Td
+(low-frequency HVAC rumble in an auditorium has) Tj
+ET
+BT
+/F1 7.8 Tf
+58 126.9997 Td
+(volume V = 0.05 m^3 and neck radius r = 0.05 m.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 117.7997 Td
+(What neck length L is required \(v = 343 m/s, f =) Tj
+ET
+BT
+/F1 7.8 Tf
+58 108.5997 Td
+(\(v/2pi\)*sqrt\(S / \(V*L_eff\)\)\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 96.89975 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 96.89975 Td
+(0.444 m) Tj
+ET
+BT
+/F2 7.4 Tf
+58 87.29975 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 87.29975 Td
+(0.111 m) Tj
+ET
+BT
+/F2 7.4 Tf
+58 77.69975 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 77.69975 Td
+(0.050 m) Tj
+ET
+BT
+/F2 7.4 Tf
+58 68.09975 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 68.09975 Td
+(0.222 m \(22.2 cm\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(92.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(An ultrasonic phased array transducer \(PAUT\)) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(inspecting a welded steel bridge truss has 64) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(elements with pitch 0.6 mm. By electronically) Tj
+ET
+BT
+/F1 7.8 Tf
+322 756.4 Td
+(steering the acoustic beam from 40 to 70) Tj
+ET
+BT
+/F1 7.8 Tf
+322 747.2 Td
+(degrees, PAUT achieves:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 735.4999 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 735.4999 Td
+(Single A-scan point measurement only) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.9 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.9 Td
+(Complete volumetric Sectorial \(S-scan\) flaw) Tj
+ET
+BT
+/F1 7.4 Tf
+336 717.3 Td
+(imaging without moving the probe) Tj
+ET
+BT
+/F2 7.4 Tf
+322 707.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 707.7 Td
+(Surface wave excitation only) Tj
+ET
+BT
+/F2 7.4 Tf
+322 698.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 698.1 Td
+(Magnetic field measurement) Tj
+ET
+BT
+/F2 8.0 Tf
+306 678.7715 Td
+(93.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 678.7715 Td
+(In a concrete bridge deck, an ultrasonic surface) Tj
+ET
+BT
+/F1 7.8 Tf
+322 669.5715 Td
+(wave test \(SASW / MASW\) determines Rayleigh wave) Tj
+ET
+BT
+/F1 7.8 Tf
+322 660.3715 Td
+(dispersion. If R-wave velocity at 5 kHz is 2200) Tj
+ET
+BT
+/F1 7.8 Tf
+322 651.1714 Td
+(m/s and at 1 kHz is 2600 m/s, this velocity) Tj
+ET
+BT
+/F1 7.8 Tf
+322 641.9714 Td
+(increase with depth indicates:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 630.2714 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 630.2714 Td
+(Uniform concrete throughout) Tj
+ET
+BT
+/F2 7.4 Tf
+322 620.6714 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 620.6714 Td
+(Sound, denser concrete at depth with) Tj
+ET
+BT
+/F1 7.4 Tf
+336 612.0715 Td
+(deteriorating, micro-cracked surface layer) Tj
+ET
+BT
+/F2 7.4 Tf
+322 602.4715 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 602.4715 Td
+(Surface layer is stronger than core) Tj
+ET
+BT
+/F2 7.4 Tf
+322 592.8715 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 592.8715 Td
+(Air void at depth) Tj
+ET
+BT
+/F2 8.0 Tf
+306 573.543 Td
+(94.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 573.543 Td
+(A subway rail line runs directly beneath a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.343 Td
+(residential building. Floating slab track with) Tj
+ET
+BT
+/F1 7.8 Tf
+322 555.1429 Td
+(rubber elastomeric isolators is installed to) Tj
+ET
+BT
+/F1 7.8 Tf
+322 545.9429 Td
+(attenuate ground-borne noise. If the isolation) Tj
+ET
+BT
+/F1 7.8 Tf
+322 536.7429 Td
+(system has natural frequency f_n = 8.0 Hz, what) Tj
+ET
+BT
+/F1 7.8 Tf
+322 527.5429 Td
+(is the vibration transmissibility T_tr at train) Tj
+ET
+BT
+/F1 7.8 Tf
+322 518.3429 Td
+(excitation frequency 40 Hz \(damping ratio zeta =) Tj
+ET
+BT
+/F1 7.8 Tf
+322 509.1429 Td
+(0.05\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 497.4429 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 497.4429 Td
+(0.042 \(95.8% vibration isolation efficiency\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 487.8429 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 487.8429 Td
+(0.200) Tj
+ET
+BT
+/F2 7.4 Tf
+322 478.2429 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 478.2429 Td
+(0.010) Tj
+ET
+BT
+/F2 7.4 Tf
+322 468.6429 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 468.6429 Td
+(0.500) Tj
+ET
+BT
+/F2 8.0 Tf
+306 449.3143 Td
+(95.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 449.3143 Td
+(A factory workshop generates a continuous) Tj
+ET
+BT
+/F1 7.8 Tf
+322 440.1143 Td
+(acoustic sound power level of 105 dB. If the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 430.9142 Td
+(room has total absorption A = 250 metric Sabins,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 421.7142 Td
+(what is the reverberant sound pressure level L_p) Tj
+ET
+BT
+/F1 7.8 Tf
+322 412.5142 Td
+(inside the workshop \(L_p = L_w + 10*log10\(4/A\)\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 400.8142 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 400.8142 Td
+(95.0 dB) Tj
+ET
+BT
+/F2 7.4 Tf
+322 391.2142 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 391.2142 Td
+(75.0 dB) Tj
+ET
+BT
+/F2 7.4 Tf
+322 381.6142 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 381.6142 Td
+(87.0 dB) Tj
+ET
+BT
+/F2 7.4 Tf
+322 372.0142 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 372.0142 Td
+(105.0 dB) Tj
+ET
+BT
+/F2 8.0 Tf
+306 352.6856 Td
+(96.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 352.6856 Td
+(If the ceiling in Q95 is retrofitted with) Tj
+ET
+BT
+/F1 7.8 Tf
+322 343.4856 Td
+(sound-absorbing baffles that quadruple) Tj
+ET
+BT
+/F1 7.8 Tf
+322 334.2856 Td
+(absorption to A_new = 1000 metric Sabins, the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 325.0856 Td
+(reverberant sound level drops by:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 313.3856 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 313.3856 Td
+(12.0 dB) Tj
+ET
+BT
+/F2 7.4 Tf
+322 303.7856 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 303.7856 Td
+(3.0 dB) Tj
+ET
+BT
+/F2 7.4 Tf
+322 294.1855 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 294.1855 Td
+(10.0 dB) Tj
+ET
+BT
+/F2 7.4 Tf
+322 284.5855 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 284.5855 Td
+(6.0 dB \(to 81.0 dB\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 265.257 Td
+(97.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 265.257 Td
+(In ultrasonic acoustic emission \(AE\) monitoring) Tj
+ET
+BT
+/F1 7.8 Tf
+322 256.0569 Td
+(of a post-tensioned bridge tendon, a wire) Tj
+ET
+BT
+/F1 7.8 Tf
+322 246.8569 Td
+(fracture emits a high-frequency stress wave \(150) Tj
+ET
+BT
+/F1 7.8 Tf
+322 237.657 Td
+(kHz\). If two AE sensors spaced 2.0 m apart along) Tj
+ET
+BT
+/F1 7.8 Tf
+322 228.457 Td
+(the tendon log arrival times t1 = 120 us and t2) Tj
+ET
+BT
+/F1 7.8 Tf
+322 219.257 Td
+(= 240 us \(v_steel = 5000 m/s\), what is the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 210.057 Td
+(location of the wire break from sensor 1?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 198.357 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 198.357 Td
+(1.30 m) Tj
+ET
+BT
+/F2 7.4 Tf
+322 188.757 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 188.757 Td
+(1.00 m) Tj
+ET
+BT
+/F2 7.4 Tf
+322 179.157 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 179.157 Td
+(0.35 m) Tj
+ET
+BT
+/F2 7.4 Tf
+322 169.5569 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 169.5569 Td
+(0.70 m) Tj
+ET
+BT
+/F2 8.0 Tf
+306 150.2284 Td
+(98.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 150.2284 Td
+(An ultrasonic cleaning bath used for) Tj
+ET
+BT
+/F1 7.8 Tf
+322 141.0284 Td
+(decontaminating fine aggregate sand in concrete) Tj
+ET
+BT
+/F1 7.8 Tf
+322 131.8284 Td
+(testing operates at 28 kHz. Acoustic cavitation) Tj
+ET
+BT
+/F1 7.8 Tf
+322 122.6284 Td
+(occurs when local peak acoustic negative) Tj
+ET
+BT
+/F1 7.8 Tf
+322 113.4284 Td
+(pressure exceeds:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 101.7284 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 101.7284 Td
+(10 MPa) Tj
+ET
+BT
+/F2 7.4 Tf
+322 92.12838 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 92.12838 Td
+(0.001 MPa) Tj
+ET
+BT
+/F2 7.4 Tf
+322 82.52838 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 82.52838 Td
+(Tensile strength of water \(~ 1 to 2) Tj
+ET
+BT
+/F1 7.4 Tf
+336 73.92838 Td
+(atmospheres = 0.1 to 0.2 MPa\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 64.32838 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 64.32838 Td
+(100 MPa) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 18 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+18 0 obj
+<< /Length 1849 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 5: WAVES, ACOUSTICS & INDUSTRIAL ULTRASONICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 8 of 29) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(99.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(A sound level meter at a highway bridge) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(construction site records a noise level of 85) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(dBA from a pile driver and 82 dBA from a diesel) Tj
+ET
+BT
+/F1 7.8 Tf
+58 756.4 Td
+(generator operating simultaneously. What is the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 747.2 Td
+(combined decibel sound level?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 735.4999 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 735.4999 Td
+(86.8 dBA) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.9 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.9 Td
+(167.0 dBA) Tj
+ET
+BT
+/F2 7.4 Tf
+58 716.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 716.3 Td
+(83.5 dBA) Tj
+ET
+BT
+/F2 7.4 Tf
+58 706.7 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 706.7 Td
+(90.0 dBA) Tj
+ET
+BT
+/F2 8.0 Tf
+42 673.1 Td
+(100.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 673.1 Td
+(In advanced seismic engineering, a base-isolated) Tj
+ET
+BT
+/F1 7.8 Tf
+58 663.9 Td
+(bridge pier uses lead-rubber bearings \(LRB\). The) Tj
+ET
+BT
+/F1 7.8 Tf
+58 654.7 Td
+(lead core absorbs earthquake energy through:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 643 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 643 Td
+(Electromagnetic induction) Tj
+ET
+BT
+/F2 7.4 Tf
+58 633.4 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 633.4 Td
+(Plastic shear deformation hysteresis) Tj
+ET
+BT
+/F1 7.4 Tf
+72 624.8 Td
+(\(converting kinetic energy to thermal heat\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 615.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 615.2001 Td
+(Fluid turbulence) Tj
+ET
+BT
+/F2 7.4 Tf
+58 605.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 605.6001 Td
+(Acoustic radiation into air) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 20 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+20 0 obj
+<< /Length 6710 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 5: WAVES, ACOUSTICS & INDUSTRIAL ULTRASONICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 9 of 29) Tj
+ET
+BT
+/F2 10 Tf
+45 780 Td
+(SECTION B: DESCRIPTIVE & SUBJECTIVE QUESTIONS) Tj
+ET
+BT
+/F2 8.5 Tf
+45 760 Td
+(Q1. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 760 Td
+(Formulate the differential equation of motion for a damped harmonic oscillator with viscous) Tj
+ET
+BT
+/F1 8.5 Tf
+72 749.5 Td
+(resistance. Obtain the auxiliary characteristic equation and classify the three distinct regimes) Tj
+ET
+BT
+/F1 8.5 Tf
+72 739 Td
+(of damping.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 724.5 Td
+(Q2. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 724.5 Td
+(Derive the complete displacement solution for an underdamped harmonic oscillator. Define) Tj
+ET
+BT
+/F1 8.5 Tf
+72 714 Td
+(logarithmic decrement, relaxation time, and Quality factor Q.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 689 Td
+(Q3. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 689 Td
+(Formulate the equation of motion for a forced harmonic oscillator. Derive the steady-state) Tj
+ET
+BT
+/F1 8.5 Tf
+72 678.5 Td
+(amplitude and phase response, and obtain the conditions for amplitude resonance and velocity) Tj
+ET
+BT
+/F1 8.5 Tf
+72 668 Td
+(resonance.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 653.5 Td
+(Q4. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 653.5 Td
+(Explain the civil engineering significance of mechanical resonance. Discuss the Tacoma Narrows) Tj
+ET
+BT
+/F1 8.5 Tf
+72 643 Td
+(Bridge collapse and describe the working principle of Tuned Mass Dampers \(TMD\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 618 Td
+(Q5. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 618 Td
+(Define reverberation and Reverberation Time \(RT60\). State Sabine's Reverberation Formula and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 607.5 Td
+(explain the physical meaning of every term.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 582.5 Td
+(Q6. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 582.5 Td
+(Derive Sabine's formula for the growth and decay of sound energy density in a hall, and obtain the) Tj
+ET
+BT
+/F1 8.5 Tf
+72 572 Td
+(expression for Reverberation Time T = 0.161 * V / A.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 547 Td
+(Q7. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 547 Td
+(Discuss common architectural acoustic defects in lecture halls, theaters, and auditoriums \(echo,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 536.5 Td
+(flutter echo, sound focusing, dead spots\) and explain remediation measures.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 511.5 Td
+(Q8. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 511.5 Td
+(Explain the factors governing the acoustic design of an auditorium: volume, reverberation time,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 501 Td
+(shape, materials, and background noise criteria \(NC\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 476 Td
+(Q9. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 476 Td
+(Describe the Magnetostriction method for generating ultrasonics. Explain the Joule effect, draw) Tj
+ET
+BT
+/F1 8.5 Tf
+72 465.5 Td
+(the circuit diagram, derive the resonant frequency formula, and state its limitations.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 440.5 Td
+(Q10. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 440.5 Td
+(Describe the Piezoelectric method for generating high-frequency ultrasonics. Explain direct and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 430 Td
+(inverse piezoelectric effects, draw the Hartley/Colpitts oscillator circuit, and derive the) Tj
+ET
+BT
+/F1 8.5 Tf
+72 419.5 Td
+(crystal resonant frequency.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 405 Td
+(Q11. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 405 Td
+(Explain the Ultrasonic Pulse Velocity \(UPV\) method for non-destructive testing of concrete.) Tj
+ET
+BT
+/F1 8.5 Tf
+72 394.5 Td
+(Compare Direct, Indirect, and Semi-Direct transmission modes and list concrete quality grading) Tj
+ET
+BT
+/F1 8.5 Tf
+72 384 Td
+(criteria.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 369.5 Td
+(Q12. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 369.5 Td
+(Derive the mathematical formula for estimating the depth of a surface-breaking concrete crack) Tj
+ET
+BT
+/F1 8.5 Tf
+72 359 Td
+(using the indirect ultrasonic pulse velocity method.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 334 Td
+(Q13. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 334 Td
+(A lecture hall has dimensions 20 m x 15 m x 6 m. The ceiling has area 300 m^2 \(alpha = 0.80\),) Tj
+ET
+BT
+/F1 8.5 Tf
+72 323.5 Td
+(walls have area 420 m^2 \(alpha = 0.05\), floor has area 300 m^2 \(alpha = 0.10\). An audience of 250) Tj
+ET
+BT
+/F1 8.5 Tf
+72 313 Td
+(persons is present \(each adding 0.40 metric Sabins\). Calculate: \(a\) total hall volume, \(b\) total) Tj
+ET
+BT
+/F2 8.5 Tf
+45 298.5 Td
+(Q14. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 298.5 Td
+(In a laboratory UPV test on a cylindrical concrete core \(length L = 200 mm, diameter D = 100 mm,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 288 Td
+(mass M = 3.650 kg\), the longitudinal pulse transit time is 47.6 microseconds. If Poisson's ratio) Tj
+ET
+BT
+/F1 8.5 Tf
+72 277.5 Td
+(is nu = 0.20, calculate: \(a\) density rho, \(b\) ultrasonic pulse velocity v_p, \(c\) dynamic Young's) Tj
+ET
+BT
+/F2 8.5 Tf
+45 263 Td
+(Q15. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 263 Td
+(Explain the physical principles and instrumentation of Impact-Echo \(IE\) testing for measuring) Tj
+ET
+BT
+/F1 8.5 Tf
+72 252.5 Td
+(concrete bridge deck thickness, delamination, and void detection beneath tendon ducts.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 227.5 Td
+(Q16. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 227.5 Td
+(Explain the Acoustic Emission \(AE\) technique for continuous structural health monitoring of) Tj
+ET
+BT
+/F1 8.5 Tf
+72 217 Td
+(prestressed concrete and steel bridge girders.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 192 Td
+(Q17. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 192 Td
+(An X-cut quartz crystal has thickness t = 1.5 mm, Young's modulus Y = 8.55 x 10^10 N/m^2, and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 181.5 Td
+(density rho = 2650 kg/m^3. Calculate: \(a\) fundamental resonant frequency, \(b\) acoustic velocity in) Tj
+ET
+BT
+/F1 8.5 Tf
+72 171 Td
+(quartz, \(c\) frequency of the third harmonic overtone, \(d\) required crystal thickness to produce) Tj
+ET
+BT
+/F2 8.5 Tf
+45 156.5 Td
+(Q18. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 156.5 Td
+(Explain the Sound Transmission Loss \(TL\) and Sound Transmission Class \(STC\) of architectural) Tj
+ET
+BT
+/F1 8.5 Tf
+72 146 Td
+(walls. State the Mass Law and describe how double-leaf cavity walls achieve high acoustic) Tj
+ET
+BT
+/F1 8.5 Tf
+72 135.5 Td
+(isolation.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 121 Td
+(Q19. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 121 Td
+(A bridge pier foundation is tested for underwater scour using high-frequency acoustic) Tj
+ET
+BT
+/F1 8.5 Tf
+72 110.5 Td
+(echo-ranging. The acoustic transducer emits a 200 kHz pulse vertically downward. If the round-trip) Tj
+ET
+BT
+/F1 8.5 Tf
+72 100 Td
+(travel time to the riverbed is 14.8 ms in fresh water \(v = 1480 m/s\), and the bottom of the) Tj
+ET
+BT
+/F2 8.5 Tf
+45 85.5 Td
+(Q20. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 85.5 Td
+(Explain the ultrasonic Phased Array Ultrasonic Testing \(PAUT\) technology and describe its) Tj
+ET
+BT
+/F1 8.5 Tf
+72 75 Td
+(advantages over conventional single-element probes for inspecting steel bridge welds.) Tj
+ET
+
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 22 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+22 0 obj
+<< /Length 3698 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 5: WAVES, ACOUSTICS & INDUSTRIAL ULTRASONICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 10 of 29) Tj
+ET
+BT
+/F2 8.5 Tf
+45 780 Td
+(Q21. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 780 Td
+(Calculate the acoustic reflection coefficient R and transmission coefficient T for normal) Tj
+ET
+BT
+/F1 8.5 Tf
+72 769.5 Td
+(incidence of sound waves traveling from: \(a\) water into concrete, \(b\) concrete into air.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 743.5 Td
+(Q22. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 743.5 Td
+(Explain the Cross-Hole Sonic Logging \(CSL\) method for testing deep foundation drilled shafts) Tj
+ET
+BT
+/F1 8.5 Tf
+72 733 Td
+(\(bored concrete piles\). Describe testing procedure, data interpretation, and defect) Tj
+ET
+BT
+/F1 8.5 Tf
+72 722.5 Td
+(identification.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 707 Td
+(Q23. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 707 Td
+(A residential building is constructed 50 m from an elevated urban railway. Ground vibration) Tj
+ET
+BT
+/F1 8.5 Tf
+72 696.5 Td
+(measurements record a dominant frequency of 25 Hz with displacement amplitude 40 micrometers.) Tj
+ET
+BT
+/F1 8.5 Tf
+72 686 Td
+(Determine: \(a\) peak particle velocity \(PPV\), \(b\) peak acceleration in g's, \(c\) evaluate human) Tj
+ET
+BT
+/F2 8.5 Tf
+45 670.5 Td
+(Q24. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 670.5 Td
+(Explain the working principles of Ultrasonic Pulse-Echo testing for detecting fatigue cracks in) Tj
+ET
+BT
+/F1 8.5 Tf
+72 660 Td
+(steel bridge pins and eyebars.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 634 Td
+(Q25. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 634 Td
+(A multi-purpose school hall of volume 4000 m^3 has a reverberation time of 2.2 seconds. It is) Tj
+ET
+BT
+/F1 8.5 Tf
+72 623.5 Td
+(desired to lower the reverberation time to 1.1 seconds for speech clarity. Calculate the) Tj
+ET
+BT
+/F1 8.5 Tf
+72 613 Td
+(additional absorption required in metric Sabins.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 597.5 Td
+(Q26. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 597.5 Td
+(Explain the physical principles and applications of the Spectral Analysis of Surface Waves \(SASW\)) Tj
+ET
+BT
+/F1 8.5 Tf
+72 587 Td
+(and Multi-Channel Analysis of Surface Waves \(MASW\) in geotechnical and highway pavement) Tj
+ET
+BT
+/F1 8.5 Tf
+72 576.5 Td
+(engineering.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 561 Td
+(Q27. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 561 Td
+(An ultrasonic flaw detector inspects a 250 mm thick structural steel plate. The longitudinal wave) Tj
+ET
+BT
+/F1 8.5 Tf
+72 550.5 Td
+(speed in steel is 5900 m/s. An echo is detected at transit time 42.4 microseconds, while the) Tj
+ET
+BT
+/F1 8.5 Tf
+72 540 Td
+(back-wall echo arrives at 84.7 microseconds. Calculate: \(a\) depth of the internal flaw, \(b\)) Tj
+ET
+BT
+/F2 8.5 Tf
+45 524.5 Td
+(Q28. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 524.5 Td
+(Explain the working principles of Ultrasonic Cavitation and its industrial applications in) Tj
+ET
+BT
+/F1 8.5 Tf
+72 514 Td
+(concrete aggregate cleaning and soil remediation.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 488 Td
+(Q29. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 488 Td
+(A 400 mm thick concrete beam is tested with UPV. A pulse velocity of 4000 m/s is recorded in dry) Tj
+ET
+BT
+/F1 8.5 Tf
+72 477.5 Td
+(concrete. When saturated with water, the density increases by 3% and dynamic modulus increases by) Tj
+ET
+BT
+/F1 8.5 Tf
+72 467 Td
+(8%. Calculate the new pulse velocity and explain why moist concrete has higher UPV.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 451.5 Td
+(Q30. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 451.5 Td
+(Synthesize the vital roles of acoustic physics and ultrasonics across civil engineering,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 441 Td
+(contrasting building architectural acoustic comfort with structural non-destructive diagnostic) Tj
+ET
+BT
+/F1 8.5 Tf
+72 430.5 Td
+(safety.) Tj
+ET
+
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 24 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+24 0 obj
+<< /Length 8430 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 5: WAVES, ACOUSTICS & INDUSTRIAL ULTRASONICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 11 of 29) Tj
+ET
+BT
+/F2 11 Tf
+45 780 Td
+(SECTION C: ANSWER KEY - MULTIPLE CHOICE QUESTIONS) Tj
+ET
+0.5 w
+45 772 m 550 772 l S
+BT
+/F2 8.5 Tf
+45 750 Td
+(Q1: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 750 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 734 Td
+(Q2: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 734 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 718 Td
+(Q3: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 702 Td
+(Q4: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 702 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 686 Td
+(Q5: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 670 Td
+(Q6: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 670 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 654 Td
+(Q7: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 654 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 638 Td
+(Q8: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 638 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 622 Td
+(Q9: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 622 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 606 Td
+(Q10: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 590 Td
+(Q11: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 590 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 574 Td
+(Q12: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 574 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 558 Td
+(Q13: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 558 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 542 Td
+(Q14: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 526 Td
+(Q15: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 526 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 510 Td
+(Q16: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 510 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 494 Td
+(Q17: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 494 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 478 Td
+(Q18: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 478 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 462 Td
+(Q19: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 446 Td
+(Q20: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 446 Td
+([B]) Tj
+ET
+0.2 w
+135 755 m 135 425 l S
+BT
+/F2 8.5 Tf
+145 750 Td
+(Q21: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 750 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 734 Td
+(Q22: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 734 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 718 Td
+(Q23: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 702 Td
+(Q24: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 702 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 686 Td
+(Q25: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 670 Td
+(Q26: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 670 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 654 Td
+(Q27: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 654 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 638 Td
+(Q28: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 638 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 622 Td
+(Q29: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 622 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 606 Td
+(Q30: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 590 Td
+(Q31: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 590 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 574 Td
+(Q32: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 574 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 558 Td
+(Q33: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 558 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 542 Td
+(Q34: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 526 Td
+(Q35: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 526 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 510 Td
+(Q36: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 510 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 494 Td
+(Q37: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 494 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 478 Td
+(Q38: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 478 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 462 Td
+(Q39: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 446 Td
+(Q40: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 446 Td
+([B]) Tj
+ET
+0.2 w
+235 755 m 235 425 l S
+BT
+/F2 8.5 Tf
+245 750 Td
+(Q41: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 750 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 734 Td
+(Q42: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 734 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 718 Td
+(Q43: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 702 Td
+(Q44: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 702 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 686 Td
+(Q45: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 670 Td
+(Q46: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 670 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 654 Td
+(Q47: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 654 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 638 Td
+(Q48: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 638 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 622 Td
+(Q49: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 622 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 606 Td
+(Q50: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 590 Td
+(Q51: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 590 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 574 Td
+(Q52: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 574 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 558 Td
+(Q53: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 558 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 542 Td
+(Q54: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 526 Td
+(Q55: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 526 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 510 Td
+(Q56: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 510 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 494 Td
+(Q57: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 494 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 478 Td
+(Q58: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 478 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 462 Td
+(Q59: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 446 Td
+(Q60: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 446 Td
+([B]) Tj
+ET
+0.2 w
+335 755 m 335 425 l S
+BT
+/F2 8.5 Tf
+345 750 Td
+(Q61: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 750 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 734 Td
+(Q62: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 734 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 718 Td
+(Q63: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 702 Td
+(Q64: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 702 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 686 Td
+(Q65: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 670 Td
+(Q66: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 670 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 654 Td
+(Q67: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 654 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 638 Td
+(Q68: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 638 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 622 Td
+(Q69: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 622 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 606 Td
+(Q70: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 590 Td
+(Q71: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 590 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 574 Td
+(Q72: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 574 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 558 Td
+(Q73: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 558 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 542 Td
+(Q74: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 526 Td
+(Q75: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 526 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 510 Td
+(Q76: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 510 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 494 Td
+(Q77: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 494 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 478 Td
+(Q78: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 478 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 462 Td
+(Q79: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 446 Td
+(Q80: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 446 Td
+([B]) Tj
+ET
+0.2 w
+435 755 m 435 425 l S
+BT
+/F2 8.5 Tf
+445 750 Td
+(Q81: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 750 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 734 Td
+(Q82: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 734 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 718 Td
+(Q83: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 702 Td
+(Q84: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 702 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 686 Td
+(Q85: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 670 Td
+(Q86: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 670 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 654 Td
+(Q87: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 654 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 638 Td
+(Q88: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 638 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 622 Td
+(Q89: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 622 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 606 Td
+(Q90: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 590 Td
+(Q91: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 590 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 574 Td
+(Q92: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 574 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 558 Td
+(Q93: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 558 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 542 Td
+(Q94: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 526 Td
+(Q95: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 526 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 510 Td
+(Q96: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 510 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 494 Td
+(Q97: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 494 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 478 Td
+(Q98: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 478 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 462 Td
+(Q99: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 446 Td
+(Q100: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 446 Td
+([B]) Tj
+ET
+0.5 w
+45 400 m 550 400 l 550 340 l 45 340 l s
+BT
+/F2 9 Tf
+55 382 Td
+(MCQ Scoring Guide & Difficulty Distribution:) Tj
+ET
+BT
+/F1 8.5 Tf
+55 366 Td
+(Questions 1 to 40: Foundational & Conceptual [Easy] | Questions 41 to 75: Analytical & Applied [Moderate]) Tj
+ET
+BT
+/F1 8.5 Tf
+55 350 Td
+(Questions 76 to 100: Complex Numerical & Advanced Problem Solving [Difficult]) Tj
+ET
+
+endstream
+endobj
+25 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 26 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+26 0 obj
+<< /Length 4198 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 5: WAVES, ACOUSTICS & INDUSTRIAL ULTRASONICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 12 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(SECTION D: DETAILED SOLUTIONS FOR SUBJECTIVE QUESTIONS) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(================================================================================) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 1:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Formulate the differential equation of motion for a damped harmonic oscillator with viscous resistance. Obtain the auxiliary characteristic equation and classify the three distinct regimes of damping.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Physical Model and Force Balance:) Tj
+T*
+(   - Consider a particle or structural mass m attached to an elastic restoring spring of stiffness) Tj
+T*
+(   k and experiencing a viscous damping force proportional to velocity:) Tj
+T*
+(   * Restoring force: F_s = - k * x.) Tj
+T*
+(   * Damping resistance: F_d = - b * \(dx / dt\), where b is the damping coefficient \(N*s/m\).) Tj
+T*
+(   - Applying Newton's Second Law: m * \(d^2x / dt^2\) = F_s + F_d = - k * x - b * \(dx / dt\).) Tj
+T*
+(   - Rearranging into standard form:) Tj
+T*
+(   m * \(d^2x / dt^2\) + b * \(dx / dt\) + k * x = 0.) Tj
+T*
+(   - Dividing by m and defining natural angular frequency omega_0 = sqrt\(k / m\) and damping factor) Tj
+T*
+(   2*beta = b / m \(or beta = b / 2m\):) Tj
+T*
+(   d^2x / dt^2 + 2*beta * \(dx / dt\) + omega_0^2 * x = 0.) Tj
+T*
+() Tj
+T*
+(   2. Characteristic Equation and Roots:) Tj
+T*
+(   - Assume trial solution x\(t\) = exp\(r * t\). Substituting into the differential equation:) Tj
+T*
+(   r^2 + 2*beta * r + omega_0^2 = 0.) Tj
+T*
+(   - Solving the quadratic characteristic equation:) Tj
+T*
+(   r = - beta +- sqrt\( beta^2 - omega_0^2 \).) Tj
+T*
+() Tj
+T*
+(   3. Classification of Damping Regimes:) Tj
+T*
+(   - \(a\) Overdamped Case \(beta > omega_0, b > 2*sqrt\(k*m\)\):) Tj
+T*
+(   * The discriminant is positive; roots r1, r2 are real, distinct, and negative.) Tj
+T*
+(   * Solution: x\(t\) = C1 * exp\(r1*t\) + C2 * exp\(r2*t\).) Tj
+T*
+(   * Motion is non-oscillatory \(deadbeat\); system returns sluggishly to equilibrium.) Tj
+T*
+(   - \(b\) Critically Damped Case \(beta = omega_0, b = 2*sqrt\(k*m\)\):) Tj
+T*
+(   * The discriminant is zero; roots are real, equal, and negative: r1 = r2 = - beta.) Tj
+T*
+(   * Solution: x\(t\) = \( C1 + C2 * t \) * exp\( - beta * t \).) Tj
+T*
+(   * The system returns to equilibrium in the minimum possible time without any oscillation.) Tj
+T*
+(   - \(c\) Underdamped Case \(beta < omega_0, b < 2*sqrt\(k*m\)\):) Tj
+T*
+(   * The discriminant is negative; roots are complex conjugates: r = - beta +- i * omega_d, where) Tj
+T*
+(   omega_d = sqrt\(omega_0^2 - beta^2\).) Tj
+T*
+(   * Solution: x\(t\) = A_0 * exp\( - beta * t \) * cos\( omega_d * t + phi \).) Tj
+T*
+(   * Motion is oscillatory with exponentially decaying amplitude.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 2:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Derive the complete displacement solution for an underdamped harmonic oscillator. Define logarithmic decrement, relaxation time, and Quality factor Q.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Underdamped Differential Equation and Solution:) Tj
+T*
+(   - For beta < omega_0, the characteristic roots are r = - beta +- i * omega_d, where omega_d =) Tj
+T*
+(   sqrt\( omega_0^2 - beta^2 \).) Tj
+T*
+(   - The general displacement solution is:) Tj
+T*
+(   x\(t\) = A_0 * exp\( - beta * t \) * cos\( omega_d * t - phi \),) Tj
+T*
+(   where A_0 is initial amplitude and phi is phase constant determined by initial conditions.) Tj
+T*
+(   - The period of damped oscillation is T_d = 2 * pi / omega_d = 2 * pi / sqrt\( omega_0^2 -) Tj
+T*
+(   beta^2 \).) Tj
+T*
+() Tj
+T*
+(   2. Logarithmic Decrement \(delta\):) Tj
+T*
+ET
+
+endstream
+endobj
+27 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 28 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+28 0 obj
+<< /Length 3837 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 5: WAVES, ACOUSTICS & INDUSTRIAL ULTRASONICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 13 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - Let x_n and x_{n+1} be successive displacement peaks occurring at times t_n and t_n + T_d.) Tj
+T*
+(   - The ratio of successive peak amplitudes is:) Tj
+T*
+(   x_n / x_{n+1} = [ A_0 * exp\(- beta * t_n\) ] / [ A_0 * exp\(- beta * \(t_n + T_d\)\) ] = exp\( beta *) Tj
+T*
+(   T_d \).) Tj
+T*
+(   - The logarithmic decrement delta is defined as the natural logarithm of this amplitude ratio:) Tj
+T*
+(   delta = ln\( x_n / x_{n+1} \) = beta * T_d = \(2 * pi * beta\) / omega_d.) Tj
+T*
+(   - For light damping \(beta << omega_0, omega_d ~= omega_0\): delta ~= 2 * pi * beta / omega_0 = 2) Tj
+T*
+(   * pi * zeta.) Tj
+T*
+() Tj
+T*
+(   3. Relaxation Time \(tau\):) Tj
+T*
+(   - Relaxation time tau is defined as the time interval required for the amplitude of oscillation) Tj
+T*
+(   to decay to 1/e \(~ 36.8%\) of its initial value:) Tj
+T*
+(   exp\( - beta * tau \) = exp\( - 1 \) => tau = 1 / beta = 2 * m / b.) Tj
+T*
+() Tj
+T*
+(   4. Quality Factor Q:) Tj
+T*
+(   - Quality factor Q measures the energy retention efficiency of the oscillator:) Tj
+T*
+(   Q = 2 * pi * \( Stored Energy \) / \( Energy Dissipated per Cycle \).) Tj
+T*
+(   - In terms of damping parameters:) Tj
+T*
+(   Q = omega_0 / \( 2 * beta \) = omega_0 * tau / 2 = pi / delta.) Tj
+T*
+(   - High Q indicates minimal damping and sharp resonance; low Q indicates heavy damping.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 3:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Formulate the equation of motion for a forced harmonic oscillator. Derive the steady-state amplitude and phase response, and obtain the conditions for amplitude resonance and velocity resonance.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Equation of Motion:) Tj
+T*
+(   - A mass m with damping b and spring stiffness k is driven by an external sinusoidal force F\(t\)) Tj
+T*
+(   = F_0 * cos\(omega * t\):) Tj
+T*
+(   m * \(d^2x / dt^2\) + b * \(dx / dt\) + k * x = F_0 * cos\(omega * t\).) Tj
+T*
+(   - In standard notation: d^2x / dt^2 + 2*beta * \(dx/dt\) + omega_0^2 * x = f_0 * cos\(omega * t\),) Tj
+T*
+(   where f_0 = F_0 / m.) Tj
+T*
+() Tj
+T*
+(   2. Steady-State Solution:) Tj
+T*
+(   - After transient oscillations decay, the steady-state response oscillates at driving frequency) Tj
+T*
+(   omega:) Tj
+T*
+(   x\(t\) = A\(omega\) * cos\( omega * t - phi \).) Tj
+T*
+(   - Substituting into the differential equation and equating coefficients of cos\(omega*t\) and) Tj
+T*
+(   sin\(omega*t\):) Tj
+T*
+(   \( omega_0^2 - omega^2 \) * A = f_0 * cos\(phi\)) Tj
+T*
+(   2 * beta * omega * A = f_0 * sin\(phi\).) Tj
+T*
+(   - Squaring and adding both equations:) Tj
+T*
+(   A^2 * [ \(omega_0^2 - omega^2\)^2 + 4 * beta^2 * omega^2 ] = f_0^2.) Tj
+T*
+(   - Steady-state amplitude:) Tj
+T*
+(   A\(omega\) = f_0 / sqrt\( \(omega_0^2 - omega^2\)^2 + 4 * beta^2 * omega^2 \) = \(F_0 / m\) / sqrt\() Tj
+T*
+(   \(omega_0^2 - omega^2\)^2 + 4*beta^2*omega^2 \).) Tj
+T*
+(   - Phase lag phi:) Tj
+T*
+(   tan\(phi\) = \( 2 * beta * omega \) / \( omega_0^2 - omega^2 \).) Tj
+T*
+() Tj
+T*
+(   3. Amplitude Resonance Condition:) Tj
+T*
+(   - Amplitude A\(omega\) is maximized when the denominator function g\(omega\) = \(omega_0^2 -) Tj
+T*
+(   omega^2\)^2 + 4*beta^2*omega^2 is minimized.) Tj
+T*
+(   - Differentiating with respect to omega and setting to zero:) Tj
+T*
+(   d\(g\) / d\(omega\) = 2 * \(omega_0^2 - omega^2\) * \(- 2*omega\) + 8 * beta^2 * omega = 0.) Tj
+T*
+ET
+
+endstream
+endobj
+29 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 30 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+30 0 obj
+<< /Length 4093 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 5: WAVES, ACOUSTICS & INDUSTRIAL ULTRASONICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 14 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - 4 * omega * [ omega_0^2 - omega^2 - 2 * beta^2 ] = 0.) Tj
+T*
+(   - Solving for resonant frequency omega_r:) Tj
+T*
+(   omega_r = sqrt\( omega_0^2 - 2 * beta^2 \).) Tj
+T*
+(   - Peak amplitude at resonance:) Tj
+T*
+(   A_max = f_0 / [ 2 * beta * sqrt\(omega_0^2 - beta^2\) ].) Tj
+T*
+() Tj
+T*
+(   4. Velocity Resonance Condition:) Tj
+T*
+(   - Velocity v\(t\) = dx/dt has amplitude v_0 = omega * A\(omega\) = f_0 / sqrt\( \(omega_0^2/omega -) Tj
+T*
+(   omega\)^2 + 4*beta^2 \).) Tj
+T*
+(   - The term \(omega_0^2/omega - omega\)^2 vanishes when omega = omega_0.) Tj
+T*
+(   - Velocity resonance occurs exactly at the natural undamped frequency omega = omega_0, where) Tj
+T*
+(   velocity is in-phase with driving force \(phi = pi/2\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 4:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the civil engineering significance of mechanical resonance. Discuss the Tacoma Narrows Bridge collapse and describe the working principle of Tuned Mass Dampers \(TMD\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Structural Resonance Hazards in Civil Infrastructure:) Tj
+T*
+(   - Civil structures \(tall buildings, long-span suspension bridges, chimneys, transmission) Tj
+T*
+(   towers\) possess intrinsic natural frequencies of vibration.) Tj
+T*
+(   - When periodic dynamic forces \(wind gust shedding, earthquake ground shaking, heavy traffic,) Tj
+T*
+(   synchronized pedestrian marching\) match a natural structural frequency, resonance occurs.) Tj
+T*
+(   - Amplitude escalates by dynamic amplification factor DAF ~= 1 / \(2*zeta\) \(often 20 to 50 times) Tj
+T*
+(   static deflection\), generating destructive stresses that cause structural collapse.) Tj
+T*
+() Tj
+T*
+(   2. The Tacoma Narrows Bridge Disaster \(November 7, 1940\):) Tj
+T*
+(   - A steady moderate wind of 42 mph \(68 km/h\) generated alternating Karman vortex shedding) Tj
+T*
+(   behind the solid plate-girder deck.) Tj
+T*
+(   - The vortex shedding frequency locked onto the bridge's torsional torsional resonant mode \(0.2) Tj
+T*
+(   Hz\).) Tj
+T*
+(   - Aeroelastic flutter induced violent twisting oscillations \(+- 45 degrees\), culminating in) Tj
+T*
+(   catastrophic deck rupture.) Tj
+T*
+(   - Modern aerodynamic redesign: Aerodynamic open trusses, slotted deck grates, and aerodynamic) Tj
+T*
+(   fairings.) Tj
+T*
+() Tj
+T*
+(   3. Tuned Mass Dampers \(TMD\):) Tj
+T*
+(   - A passive structural vibration control device consisting of an auxiliary secondary mass m_d,) Tj
+T*
+(   spring stiffness k_d, and viscous damper c_d installed near the top of tall buildings \(e.g.,) Tj
+T*
+(   Taipei 101's 660-tonne suspended steel sphere\).) Tj
+T*
+(   - Working Mechanism:) Tj
+T*
+(   * The TMD natural frequency is tuned precisely to match the building's fundamental swaying) Tj
+T*
+(   frequency: omega_d = omega_building.) Tj
+T*
+(   * When the building sways during typhoons or earthquakes, the TMD resonates in counter-phase) Tj
+T*
+(   \(180 degrees out of phase\).) Tj
+T*
+(   * The swinging TMD exerts an equal and opposite reaction force on the building frame,) Tj
+T*
+(   transferring kinetic energy to its hydraulic dampers and reducing building sway by 40% to 60%.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 5:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Define reverberation and Reverberation Time \(RT60\). State Sabine's Reverberation Formula and explain the physical meaning of every term.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Physical Concept of Reverberation:) Tj
+T*
+ET
+
+endstream
+endobj
+31 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 32 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+32 0 obj
+<< /Length 3829 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 5: WAVES, ACOUSTICS & INDUSTRIAL ULTRASONICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 15 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - When a sound source radiates acoustic power inside an enclosed room, sound waves strike) Tj
+T*
+(   boundaries \(walls, floor, ceiling, furniture\).) Tj
+T*
+(   - At each boundary reflection, a fraction alpha of energy is absorbed while \(1 - alpha\) is) Tj
+T*
+(   reflected back into the room.) Tj
+T*
+(   - The sound field builds up to a steady state as energy supply balances absorption.) Tj
+T*
+(   - When the source is abruptly shut off, sound does not vanish instantly; it persists as a) Tj
+T*
+(   decaying diffuse sound field due to millions of successive reflections. This persistence of) Tj
+T*
+(   sound is termed Reverberation.) Tj
+T*
+() Tj
+T*
+(   2. Definition of Reverberation Time \(RT60\):) Tj
+T*
+(   - Formulated by Wallace Clement Sabine \(Harvard, 1898\).) Tj
+T*
+(   - Reverberation Time \(T or RT60\) is defined as the time interval required for the sound energy) Tj
+T*
+(   density in an enclosed room to drop to one-millionth \(10^-6 or -60 dB\) of its initial) Tj
+T*
+(   steady-state value:) Tj
+T*
+(   10 * log10\( I_final / I_initial \) = 10 * log10\( 10^-6 \) = - 60 dB.) Tj
+T*
+() Tj
+T*
+(   3. Sabine's Formula:) Tj
+T*
+(   - In metric SI units:) Tj
+T*
+(   T = \( 0.161 * V \) / A = \( 0.161 * V \) / \( Sum_{i=1}^N alpha_i * S_i \),) Tj
+T*
+(   where:) Tj
+T*
+(   * T = Reverberation Time in seconds \(s\).) Tj
+T*
+(   * V = Net internal volume of the room in cubic meters \(m^3\).) Tj
+T*
+(   * A = Total acoustic absorption of the room in metric Sabins \(m^2 of open window equivalent\).) Tj
+T*
+(   * S_i = Surface area of the i-th boundary material in square meters \(m^2\).) Tj
+T*
+(   * alpha_i = Acoustic absorption coefficient of the i-th surface material \(dimensionless, 0 <=) Tj
+T*
+(   alpha <= 1\).) Tj
+T*
+(   * The numerical constant 0.161 = \(24 * ln 10\) / c \(for speed of sound c = 343 m/s in air at 20) Tj
+T*
+(   C\).) Tj
+T*
+() Tj
+T*
+(   4. Limitations:) Tj
+T*
+(   - Sabine's formula assumes a perfectly diffuse sound field with uniform absorption distribution) Tj
+T*
+(   and moderate absorption \(alpha_avg < 0.25\). For dead rooms \(alpha_avg > 0.3\), Eyring's formula) Tj
+T*
+(   must be used.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 6:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Derive Sabine's formula for the growth and decay of sound energy density in a hall, and obtain the expression for Reverberation Time T = 0.161 * V / A.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Rate of Energy Supply and Decay Model:) Tj
+T*
+(   - Consider a hall of volume V and total surface area S with total absorption A = alpha_avg * S.) Tj
+T*
+(   - Let the sound source emit acoustic power P \(Watts\). Let average sound energy density at time) Tj
+T*
+(   t be E\(t\) \(J/m^3\).) Tj
+T*
+() Tj
+T*
+(   2. Rate of Energy Incident on Hall Surfaces:) Tj
+T*
+(   - In a diffuse sound field, energy strikes walls from all directions uniformly.) Tj
+T*
+(   - Total sound energy incident per unit surface area per unit time is: I_incident = E * c / 4,) Tj
+T*
+(   where c is speed of sound.) Tj
+T*
+(   - Total rate of energy absorption by all room surfaces:) Tj
+T*
+(   Rate of absorption = I_incident * A = \( E * c / 4 \) * A.) Tj
+T*
+() Tj
+T*
+(   3. Differential Equation for Energy Density Balance:) Tj
+T*
+(   - Conservation of acoustic energy in volume V:) Tj
+T*
+(   Net rate of energy increase = Power supplied - Rate of absorption.) Tj
+T*
+ET
+
+endstream
+endobj
+33 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 34 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+34 0 obj
+<< /Length 3851 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 5: WAVES, ACOUSTICS & INDUSTRIAL ULTRASONICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 16 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   V * \(dE / dt\) = P - \( E * c * A / 4 \).) Tj
+T*
+(   - Rearranging:) Tj
+T*
+(   dE / dt + \( c * A / 4*V \) * E = P / V.) Tj
+T*
+(   - Let k = c * A / \(4 * V\). The equation becomes: dE/dt + k * E = P / V.) Tj
+T*
+() Tj
+T*
+(   4. Solution for Decay of Sound \(P = 0 when source shuts off at t = 0\):) Tj
+T*
+(   - dE / dt + k * E = 0 => dE / E = - k * dt.) Tj
+T*
+(   - Integrating from initial steady-state energy density E_0:) Tj
+T*
+(   E\(t\) = E_0 * exp\( - k * t \) = E_0 * exp[ - \( c * A / 4*V \) * t ].) Tj
+T*
+() Tj
+T*
+(   5. Evaluating Reverberation Time T \(RT60\):) Tj
+T*
+(   - By definition, at t = T, E\(T\) = 10^-6 * E_0.) Tj
+T*
+(   10^-6 * E_0 = E_0 * exp[ - \( c * A / 4*V \) * T ].) Tj
+T*
+(   - Taking natural logarithm of both sides:) Tj
+T*
+(   ln\( 10^-6 \) = - \( c * A / 4*V \) * T => - 6 * ln\(10\) = - \( c * A / 4*V \) * T.) Tj
+T*
+(   - Solving for T:) Tj
+T*
+(   T = \( 24 * ln\(10\) * V \) / \( c * A \) = \( 24 * 2.3026 * V \) / \( c * A \) = \( 55.262 * V \) / \( c *) Tj
+T*
+(   A \).) Tj
+T*
+(   - For speed of sound in air at 20 C, c = 343 m/s:) Tj
+T*
+(   T = \( 55.262 / 343 \) * \( V / A \) = 0.1611 * V / A.) Tj
+T*
+(   T = 0.161 * V / A. \(Q.E.D.\)) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 7:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Discuss common architectural acoustic defects in lecture halls, theaters, and auditoriums \(echo, flutter echo, sound focusing, dead spots\) and explain remediation measures.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Acoustic Defect 1: Echoes:) Tj
+T*
+(   - Defect: Distinct repetition of sound heard when delayed reflection arrives > 0.07 s \(~ 17 m) Tj
+T*
+(   path difference\) after direct sound, confusing speech.) Tj
+T*
+(   - Cause: Massive flat, unyielding rear walls.) Tj
+T*
+(   - Remediation: Cover rear walls with heavy acoustic absorbers \(fiberglass, acoustic fabric\) or) Tj
+T*
+(   convex polycylindrical diffusers.) Tj
+T*
+() Tj
+T*
+(   2. Acoustic Defect 2: Flutter Echoes:) Tj
+T*
+(   - Defect: A rapid, hollow buzzing or ringing flutter heard after impulsive sounds \(claps\).) Tj
+T*
+(   - Cause: Sound trapped between two hard, smooth, parallel reflecting side walls.) Tj
+T*
+(   - Remediation: Splay side walls outward by >= 5 degrees \(non-parallel alignment\), or alternate) Tj
+T*
+(   absorption and diffusion panels along opposite walls.) Tj
+T*
+() Tj
+T*
+(   3. Acoustic Defect 3: Sound Focusing:) Tj
+T*
+(   - Defect: Extreme amplification of sound at specific geometric focal points while starving) Tj
+T*
+(   surrounding seating areas.) Tj
+T*
+(   - Cause: Concave ceiling domes, curved rear walls, or cylindrical prosceniums.) Tj
+T*
+(   - Remediation: Avoid concave interior surfaces; install convex reflective clouds \(canopies\)) Tj
+T*
+(   under domes, or line concave curves with deep acoustic absorptive treatment.) Tj
+T*
+() Tj
+T*
+(   4. Acoustic Defect 4: Dead Spots \(Shadow Zones\):) Tj
+T*
+(   - Defect: Areas where sound is faint and muffled with poor intelligibility.) Tj
+T*
+(   - Cause: Destructive interference or acoustic shadowing under deep balcony overhangs \(where) Tj
+T*
+(   overhang depth D > 2 * opening height H\).) Tj
+T*
+(   - Remediation: Limit balcony overhang depth \(D <= 1.5 * H\); install inclined reflective ceiling) Tj
+T*
+(   panels above the stage to direct sound deep under balconies; add under-balcony delayed) Tj
+T*
+(   electroacoustic fill speakers.) Tj
+T*
+ET
+
+endstream
+endobj
+35 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 36 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+36 0 obj
+<< /Length 3877 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 5: WAVES, ACOUSTICS & INDUSTRIAL ULTRASONICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 17 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 8:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the factors governing the acoustic design of an auditorium: volume, reverberation time, shape, materials, and background noise criteria \(NC\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Hall Volume and Seating Capacity:) Tj
+T*
+(   - General design standard: 4.0 to 5.5 m^3 per seat for speech/theaters; 7.0 to 9.0 m^3 per seat) Tj
+T*
+(   for music/symphony halls.) Tj
+T*
+(   - Excess volume creates prolonged reverberation and muddy sound; insufficient volume produces) Tj
+T*
+(   cramped, dead acoustics.) Tj
+T*
+() Tj
+T*
+(   2. Target Reverberation Time \(RT60\):) Tj
+T*
+(   - Speech/Lecture Halls: RT60 = 0.8 to 1.1 seconds \(high clarity\).) Tj
+T*
+(   - Musical Concert Halls: RT60 = 1.8 to 2.2 seconds \(richness, fullness of tone, reverberant) Tj
+T*
+(   warmth\).) Tj
+T*
+(   - Multi-purpose Auditoriums: RT60 = 1.3 to 1.6 seconds \(often supplemented by active electronic) Tj
+T*
+(   acoustic enhancement\).) Tj
+T*
+() Tj
+T*
+(   3. Room Geometric Shape:) Tj
+T*
+(   - Optimum geometry: Fan-shaped with splayed walls \(10-15 degrees\) or classic shoebox hall.) Tj
+T*
+(   - Shoebox halls provide strong early lateral reflections \(within 50 ms\) to human ears, creating) Tj
+T*
+(   acoustic spaciousness and binaural envelopment.) Tj
+T*
+() Tj
+T*
+(   4. Material Selection and Distribution:) Tj
+T*
+(   - Stage and Proscenium: Hard sound-reflective surfaces \(dense polished hardwood, heavy gypsum) Tj
+T*
+(   board\) to project sound forward.) Tj
+T*
+(   - Rear Wall: High-absorption acoustic panels \(alpha > 0.8\) to eliminate slap-back echoes.) Tj
+T*
+(   - Side Walls: Mixture of sound diffusers and absorbers.) Tj
+T*
+(   - Seating: Fully upholstered seats whose absorption when empty matches an occupied seat \(alpha) Tj
+T*
+(   ~ 0.7\), ensuring RT60 remains constant regardless of audience size.) Tj
+T*
+() Tj
+T*
+(   5. Background Noise Control \(Noise Criteria NC\):) Tj
+T*
+(   - Noise Criteria rating must not exceed NC-20 to NC-25.) Tj
+T*
+(   - HVAC air duct velocities kept < 2.5 m/s; silencers installed in ducts; mechanical plant rooms) Tj
+T*
+(   isolated with floating acoustic slabs.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 9:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Describe the Magnetostriction method for generating ultrasonics. Explain the Joule effect, draw the circuit diagram, derive the resonant frequency formula, and state its limitations.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. The Magnetostriction Phenomenon \(Joule Effect\):) Tj
+T*
+(   - Discovered by James Prescott Joule in 1842.) Tj
+T*
+(   - When a ferromagnetic rod \(e.g., Nickel, Permalloy, Ferrite\) is subjected to an axial magnetic) Tj
+T*
+(   field, its magnetic domains align with the field, causing an elastic mechanical strain \(change) Tj
+T*
+(   in length Delta_L / L\).) Tj
+T*
+(   - The dimensional change is independent of magnetic field polarity \(elongates for both +H and) Tj
+T*
+(   -H\).) Tj
+T*
+(   - Consequently, in an alternating AC field of frequency f, the rod vibrates mechanically at) Tj
+T*
+(   double frequency 2*f.) Tj
+T*
+(   - To obtain vibrations at identical frequency f, a DC polarizing magnetic bias field is) Tj
+T*
+(   superimposed.) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+37 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 38 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+38 0 obj
+<< /Length 4186 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 5: WAVES, ACOUSTICS & INDUSTRIAL ULTRASONICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 18 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   2. Experimental Apparatus and Circuit:) Tj
+T*
+(   - A nickel rod of length L is clamped rigidly at its center \(forming a displacement node at) Tj
+T*
+(   center, antinodes at free ends\).) Tj
+T*
+(   - Two coils are wound around the rod: a driving coil L1 in an LC electronic tank circuit, and a) Tj
+T*
+(   feedback coil L2 connected to the grid/gate of an amplifier tube or transistor.) Tj
+T*
+(   - By tuning the variable capacitor C, the electronic oscillation frequency is adjusted to match) Tj
+T*
+(   the natural mechanical frequency of the rod.) Tj
+T*
+() Tj
+T*
+(   3. Derivation of Resonant Frequency:) Tj
+T*
+(   - The rod vibrates longitudinally as a standing acoustic wave clamped at its center.) Tj
+T*
+(   - Length L corresponds to one half-wavelength for the fundamental mode:) Tj
+T*
+(   L = lambda / 2 => lambda = 2 * L.) Tj
+T*
+(   - The acoustic wave velocity in a solid rod is v = sqrt\( Y / rho \), where Y is Young's modulus) Tj
+T*
+(   and rho is material density.) Tj
+T*
+(   - The fundamental resonant frequency is:) Tj
+T*
+(   f = v / lambda = \( 1 / 2L \) * sqrt\( Y / rho \).) Tj
+T*
+(   - For p-th harmonic overtone: f_p = \( p / 2L \) * sqrt\( Y / rho \).) Tj
+T*
+() Tj
+T*
+(   4. Inherent Limitations:) Tj
+T*
+(   - Frequency Ceiling: Limited to frequencies below 100 kHz. Above 100 kHz, massive eddy current) Tj
+T*
+(   and magnetic hysteresis losses generate intense heat in the metal rod, causing loss of) Tj
+T*
+(   ferromagnetic properties \(Curie point\).) Tj
+T*
+(   - Narrow operational bandwidth.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 10:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Describe the Piezoelectric method for generating high-frequency ultrasonics. Explain direct and inverse piezoelectric effects, draw the Hartley/Colpitts oscillator circuit, and derive the crystal resonant frequency.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. The Piezoelectric Effect:) Tj
+T*
+(   - \(a\) Direct Piezoelectric Effect \(Curie brothers, 1880\): When mechanical stress \(compression) Tj
+T*
+(   or tension\) is applied along the mechanical axis of non-centrosymmetric crystals \(e.g., Quartz,) Tj
+T*
+(   PZT, BaTiO3\), opposite electrical charges develop on opposite faces.) Tj
+T*
+(   - \(b\) Inverse \(Converse\) Piezoelectric Effect \(Lippmann, 1881\): When an external alternating) Tj
+T*
+(   electric voltage is applied across opposite faces of the crystal, it undergoes mechanical) Tj
+T*
+(   contraction and expansion at the applied frequency.) Tj
+T*
+() Tj
+T*
+(   2. Piezoelectric Oscillator Circuit:) Tj
+T*
+(   - An X-cut quartz crystal or PZT ceramic disc of thickness t is mounted between two lightweight) Tj
+T*
+(   metal plate electrodes.) Tj
+T*
+(   - The crystal is placed in the tuned LC tank circuit of an RF electronic oscillator \(e.g.,) Tj
+T*
+(   Hartley, Colpitts, or Pierce configuration\).) Tj
+T*
+(   - When the electrical frequency of the LC tank circuit tuned by capacitor C matches the) Tj
+T*
+(   mechanical resonant frequency of the crystal slice, intense acoustic resonance occurs.) Tj
+T*
+(   - Millions of ultrasound waves per second are radiated into the adjacent medium.) Tj
+T*
+() Tj
+T*
+(   3. Derivation of Crystal Resonant Frequency:) Tj
+T*
+(   - For fundamental thickness-mode vibration, the two outer faces of the crystal plate of) Tj
+T*
+(   thickness t act as displacement antinodes, while the center plane is a node.) Tj
+T*
+(   - The thickness t equals one half-wavelength:) Tj
+T*
+(   t = lambda / 2 => lambda = 2 * t.) Tj
+T*
+(   - The velocity of longitudinal acoustic compressional waves in the crystal is v = sqrt\( Y / rho) Tj
+T*
+(   \), where Y is Young's modulus and rho is crystal density.) Tj
+T*
+(   - Fundamental thickness resonant frequency:) Tj
+T*
+ET
+
+endstream
+endobj
+39 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 40 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+40 0 obj
+<< /Length 4091 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 5: WAVES, ACOUSTICS & INDUSTRIAL ULTRASONICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 19 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   f = v / lambda = \( 1 / 2t \) * sqrt\( Y / rho \).) Tj
+T*
+(   - For p-th harmonic mode: f_p = \( p / 2t \) * sqrt\( Y / rho \).) Tj
+T*
+() Tj
+T*
+(   4. Advantages over Magnetostriction:) Tj
+T*
+(   - Generates ultra-high frequencies ranging from 100 kHz up to 500 MHz.) Tj
+T*
+(   - High electromechanical coupling coefficient \(up to 70% in PZT\), stable frequency, and) Tj
+T*
+(   negligible thermal loss.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 11:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the Ultrasonic Pulse Velocity \(UPV\) method for non-destructive testing of concrete. Compare Direct, Indirect, and Semi-Direct transmission modes and list concrete quality grading criteria.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Working Principle of UPV \(ASTM C597 / IS 516 / EN 12504-4\):) Tj
+T*
+(   - An electro-acoustic transmitting transducer placed in contact with concrete emits) Tj
+T*
+(   high-frequency longitudinal stress pulses \(typically 54 kHz\).) Tj
+T*
+(   - The pulses propagate through the concrete structure and are detected by a receiving) Tj
+T*
+(   transducer.) Tj
+T*
+(   - An electronic timing circuit measures the transit time t \(microseconds\) taken by the pulse to) Tj
+T*
+(   traverse path length L:) Tj
+T*
+(   v = L / t \(km/s or m/s\).) Tj
+T*
+(   - Pulse velocity depends directly on concrete density, elasticity, compaction, and structural) Tj
+T*
+(   homogeneity.) Tj
+T*
+() Tj
+T*
+(   2. Three Transducer Transmission Modes:) Tj
+T*
+(   - \(a\) Direct Transmission \(Cross Transmission\):) Tj
+T*
+(   * Transducers positioned on directly opposite parallel faces of the structural member.) Tj
+T*
+(   * Path length L is known with maximum certainty; highest energy transfer.) Tj
+T*
+(   * Most accurate mode for testing columns, beams, and precast precast elements.) Tj
+T*
+(   - \(b\) Semi-Direct Transmission:) Tj
+T*
+(   * Transducers placed on adjacent faces perpendicular to each other \(e.g., beam corner\).) Tj
+T*
+(   * Moderate sensitivity; path length measured diagonally across corner.) Tj
+T*
+(   - \(c\) Indirect \(Surface\) Transmission:) Tj
+T*
+(   * Both transducers placed on the identical surface of the concrete element.) Tj
+T*
+(   * Energy transfer is lowest \(transmits via surface Rayleigh and subsurface head waves\).) Tj
+T*
+(   * Mandatory when only one face of a structure is accessible \(e.g., retaining walls, tunnel) Tj
+T*
+(   liners, road pavements\).) Tj
+T*
+() Tj
+T*
+(   3. Concrete Quality Grading Criteria \(IS 516 / BS 1881\):) Tj
+T*
+(   - Pulse Velocity > 4.5 km/s: Excellent quality concrete \(high density, negligible voids,) Tj
+T*
+(   compressive strength > 40 MPa\).) Tj
+T*
+(   - Pulse Velocity 3.5 to 4.5 km/s: Good quality concrete \(sound structural integrity\).) Tj
+T*
+(   - Pulse Velocity 3.0 to 3.5 km/s: Medium quality concrete \(some porous voids or micro-cracks\).) Tj
+T*
+(   - Pulse Velocity < 3.0 km/s: Poor / doubtful quality concrete \(severe honeycombing, internal) Tj
+T*
+(   delamination, or void washouts\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 12:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Derive the mathematical formula for estimating the depth of a surface-breaking concrete crack using the indirect ultrasonic pulse velocity method.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Test Configuration:) Tj
+T*
+(   - Consider a vertical surface-breaking crack of unknown depth d in a concrete slab.) Tj
+T*
+(   - An indirect UPV test is performed on the flat concrete surface.) Tj
+T*
+ET
+
+endstream
+endobj
+41 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 42 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+42 0 obj
+<< /Length 4005 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 5: WAVES, ACOUSTICS & INDUSTRIAL ULTRASONICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 20 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - First, the sound concrete surface pulse velocity v is established by measuring transit time) Tj
+T*
+(   t1 across a crack-free baseline of length 2*x \(transmitters and receivers spaced at distance x) Tj
+T*
+(   on either side of a chosen datum point\):) Tj
+T*
+(   v = 2 * x / t1 => t1 = 2 * x / v.) Tj
+T*
+() Tj
+T*
+(   2. Measurement Across the Crack:) Tj
+T*
+(   - The transmitter \(T\) and receiver \(R\) are positioned symmetrically on opposite sides of the) Tj
+T*
+(   crack, each at distance x from the crack line \(total surface separation = 2*x\).) Tj
+T*
+(   - Because an open crack contains an air gap \(acoustic impedance of air is ~ 20,000 times lower) Tj
+T*
+(   than concrete\), ultrasonic waves cannot cross the crack directly.) Tj
+T*
+(   - The pulse must travel diagonally down from transmitter T to the tip of the crack \(depth d\)) Tj
+T*
+(   and back up to receiver R.) Tj
+T*
+() Tj
+T*
+(   3. Geometric Path Analysis:) Tj
+T*
+(   - The path forms two symmetrical right-angled triangles with base x and height d.) Tj
+T*
+(   - Distance from transmitter T to crack tip: L_1 = sqrt\( x^2 + d^2 \).) Tj
+T*
+(   - Distance from crack tip to receiver R: L_2 = sqrt\( x^2 + d^2 \).) Tj
+T*
+(   - Total acoustic travel path length: L_crack = 2 * sqrt\( x^2 + d^2 \).) Tj
+T*
+(   - The measured transit time across the crack t2 is:) Tj
+T*
+(   t2 = L_crack / v = [ 2 * sqrt\( x^2 + d^2 \) ] / v.) Tj
+T*
+() Tj
+T*
+(   4. Solving for Crack Depth d:) Tj
+T*
+(   - Squaring both sides: t2^2 = 4 * \( x^2 + d^2 \) / v^2 = \( 4 * x^2 / v^2 \) + \( 4 * d^2 / v^2 \).) Tj
+T*
+(   - Notice that t1 = 2*x / v => t1^2 = 4*x^2 / v^2.) Tj
+T*
+(   - Substituting t1^2 into the equation:) Tj
+T*
+(   t2^2 = t1^2 + \( 4 * d^2 / v^2 \).) Tj
+T*
+(   - Rearranging for d^2:) Tj
+T*
+(   4 * d^2 / v^2 = t2^2 - t1^2 => d^2 = \( v^2 / 4 \) * \( t2^2 - t1^2 \).) Tj
+T*
+(   - Substitute v = 2*x / t1:) Tj
+T*
+(   d^2 = [ \(2*x / t1\)^2 / 4 ] * \( t2^2 - t1^2 \) = \( x^2 / t1^2 \) * \( t2^2 - t1^2 \) = x^2 * [ \(t2 /) Tj
+T*
+(   t1\)^2 - 1 ].) Tj
+T*
+(   - Taking the square root yields the standard crack depth equation:) Tj
+T*
+(   d = x * sqrt\( \(t2 / t1\)^2 - 1 \). \(Q.E.D.\)) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 13:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: A lecture hall has dimensions 20 m x 15 m x 6 m. The ceiling has area 300 m^2 \(alpha = 0.80\), walls have area 420 m^2 \(alpha = 0.05\), floor has area 300 m^2 \(alpha = 0.10\). An audience of 250 persons is present \(each adding 0.40 metric Sabins\). Calculate: \(a\) total hall volume, \(b\) total acoustic absorption, \(c\) reverberation time T. Is it acoustically acceptable for lectures?) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. \(a\) Hall Volume V:) Tj
+T*
+(   - V = Length * Width * Height = 20 m * 15 m * 6 m = 1800 m^3.) Tj
+T*
+() Tj
+T*
+(   2. \(b\) Total Acoustic Absorption A:) Tj
+T*
+(   - Ceiling absorption: A_ceiling = S_c * alpha_c = 300 m^2 * 0.80 = 240.0 metric Sabins.) Tj
+T*
+(   - Wall absorption: A_walls = S_w * alpha_w = 420 m^2 * 0.05 = 21.0 metric Sabins.) Tj
+T*
+(   - Floor absorption: A_floor = S_f * alpha_f = 300 m^2 * 0.10 = 30.0 metric Sabins.) Tj
+T*
+(   - Audience absorption: A_audience = 250 persons * 0.40 Sabins/person = 100.0 metric Sabins.) Tj
+T*
+(   - Total absorption A:) Tj
+T*
+(   A = 240.0 + 21.0 + 30.0 + 100.0 = 391.0 metric Sabins.) Tj
+T*
+() Tj
+T*
+(   3. \(c\) Reverberation Time T \(Sabine's Formula\):) Tj
+T*
+(   - T = 0.161 * V / A = \( 0.161 * 1800 \) / 391.0 = 289.8 / 391.0 = 0.741 seconds.) Tj
+T*
+() Tj
+T*
+(   4. Acoustic Assessment:) Tj
+T*
+ET
+
+endstream
+endobj
+43 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 44 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+44 0 obj
+<< /Length 4249 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 5: WAVES, ACOUSTICS & INDUSTRIAL ULTRASONICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 21 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - For speech auditoriums and university lecture halls of this volume \(~ 1800 m^3\), the) Tj
+T*
+(   international recommended optimal reverberation time is 0.70 to 0.90 seconds.) Tj
+T*
+(   - T = 0.74 s falls perfectly within the ideal target window, ensuring exceptional speech) Tj
+T*
+(   clarity and high syllable intelligibility without acoustic fatigue.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 14:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: In a laboratory UPV test on a cylindrical concrete core \(length L = 200 mm, diameter D = 100 mm, mass M = 3.650 kg\), the longitudinal pulse transit time is 47.6 microseconds. If Poisson's ratio is nu = 0.20, calculate: \(a\) density rho, \(b\) ultrasonic pulse velocity v_p, \(c\) dynamic Young's modulus E_d, \(d\) dynamic shear modulus G_d.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. \(a\) Density rho of Concrete Core:) Tj
+T*
+(   - Radius r = D / 2 = 50 mm = 0.050 m; Length L = 200 mm = 0.200 m.) Tj
+T*
+(   - Core volume V = pi * r^2 * L = pi * \(0.050\)^2 * 0.200 = pi * 0.0025 * 0.200 = 1.5708 x 10^-3) Tj
+T*
+(   m^3.) Tj
+T*
+(   - Density: rho = M / V = 3.650 kg / \(1.5708 x 10^-3 m^3\) = 2323.7 kg/m^3.) Tj
+T*
+() Tj
+T*
+(   2. \(b\) Ultrasonic Pulse Velocity v_p:) Tj
+T*
+(   - Transit time: t = 47.6 microseconds = 47.6 x 10^-6 s.) Tj
+T*
+(   - v_p = L / t = 0.200 m / \(47.6 x 10^-6 s\) = 4201.7 m/s = 4.202 km/s.) Tj
+T*
+() Tj
+T*
+(   3. \(c\) Dynamic Young's Modulus E_d:) Tj
+T*
+(   - For a solid elastic medium, longitudinal wave speed is related to E_d by:) Tj
+T*
+(   v_p = sqrt\( [ E_d * \(1 - nu\) ] / [ rho * \(1 + nu\) * \(1 - 2*nu\) ] \).) Tj
+T*
+(   - Poisson factor for nu = 0.20:) Tj
+T*
+(   F\(nu\) = [ \(1 - nu\) ] / [ \(1 + nu\) * \(1 - 2*nu\) ] = \(1 - 0.20\) / [ \(1.20\) * \(1 - 0.40\) ] = 0.80) Tj
+T*
+(   / [ 1.20 * 0.60 ] = 0.80 / 0.72 = 1.1111.) Tj
+T*
+(   - v_p^2 = \( E_d * F\(nu\) \) / rho => E_d = \( rho * v_p^2 \) / F\(nu\).) Tj
+T*
+(   - v_p^2 = \(4201.7\)^2 = 1.7654 x 10^7 m^2/s^2.) Tj
+T*
+(   - E_d = \( 2323.7 * 1.7654 x 10^7 \) / 1.1111 = \( 4.1023 x 10^10 \) / 1.1111 = 3.692 x 10^10 N/m^2) Tj
+T*
+(   = 36.92 GPa.) Tj
+T*
+() Tj
+T*
+(   4. \(d\) Dynamic Shear Modulus G_d:) Tj
+T*
+(   - Elastic relation: G_d = E_d / [ 2 * \(1 + nu\) ] = 36.92 GPa / [ 2 * 1.20 ] = 36.92 / 2.40 =) Tj
+T*
+(   15.38 GPa.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 15:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the physical principles and instrumentation of Impact-Echo \(IE\) testing for measuring concrete bridge deck thickness, delamination, and void detection beneath tendon ducts.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Working Principle of Impact-Echo \(ASTM C1383\):) Tj
+T*
+(   - Impact-Echo is a specialized stress-wave non-destructive method for testing concrete) Tj
+T*
+(   structures with single-side access.) Tj
+T*
+(   - A small steel spherical impactor \(diameter 4 to 12 mm\) taps the concrete surface, generating) Tj
+T*
+(   short-duration transient stress waves \(P-waves, S-waves, and Rayleigh waves\).) Tj
+T*
+(   - The P-waves travel through the thickness of the member and reflect repeatedly between the) Tj
+T*
+(   front surface and internal acoustic boundaries \(bottom slab face, delaminations, or hollow) Tj
+T*
+(   tendon ducts\).) Tj
+T*
+() Tj
+T*
+(   2. Frequency Domain Signal Processing:) Tj
+T*
+(   - A sensitive broadband displacement transducer adjacent to the impactor records the surface) Tj
+T*
+(   response.) Tj
+T*
+(   - Fast Fourier Transform \(FFT\) converts the time-domain waveform into an amplitude spectrum.) Tj
+T*
+(   - Repeated reflections establish a localized standing thickness resonance peak at frequency) Tj
+T*
+ET
+
+endstream
+endobj
+45 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 46 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+46 0 obj
+<< /Length 3967 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 5: WAVES, ACOUSTICS & INDUSTRIAL ULTRASONICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 22 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   f_thick.) Tj
+T*
+() Tj
+T*
+(   3. Governing Thickness Formula:) Tj
+T*
+(   - Thickness T of the concrete member:) Tj
+T*
+(   T = \( beta_shape * v_p \) / \( 2 * f_thick \),) Tj
+T*
+(   where beta_shape ~= 0.96 for solid plate slabs and v_p is P-wave velocity.) Tj
+T*
+() Tj
+T*
+(   4. Detection of Delaminations and Ducts:) Tj
+T*
+(   - Sound Slab: Spectrum shows a single dominant peak corresponding to the full plate thickness) Tj
+T*
+(   T.) Tj
+T*
+(   - Delaminated Bridge Deck: P-waves reflect from the shallow delamination fracture \(e.g., above) Tj
+T*
+(   top rebar\), producing a high-frequency peak corresponding to shallow depth d < T.) Tj
+T*
+(   - Ungrouted Tendon Duct: Air voids inside post-tensioned ducts produce distinct intermediate) Tj
+T*
+(   resonance peaks and apparent phase shifts, locating dangerous un-grouted void cavities.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 16:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the Acoustic Emission \(AE\) technique for continuous structural health monitoring of prestressed concrete and steel bridge girders.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Physical Origin of Acoustic Emission:) Tj
+T*
+(   - Acoustic Emission \(AE\) is the spontaneous generation of transient elastic stress waves caused) Tj
+T*
+(   by rapid localized redistribution of strain energy within a material undergoing mechanical) Tj
+T*
+(   distress.) Tj
+T*
+(   - Microscopic sources: Micro-crack initiation, crack propagation, rebar yielding,) Tj
+T*
+(   rebar-concrete debonding, and wire fractures in prestressing tendons.) Tj
+T*
+() Tj
+T*
+(   2. Instrumentation and Sensor Array:) Tj
+T*
+(   - Piezoelectric AE sensors \(resonant at 50 to 300 kHz\) are coupled to structural steel or) Tj
+T*
+(   concrete using silicon grease and magnetic clamps.) Tj
+T*
+(   - High-gain preamplifiers \(40 to 60 dB\) boost faint microvolt signals above ambient electrical) Tj
+T*
+(   noise.) Tj
+T*
+(   - High-speed acquisition loggers record waveform parameters: Peak Amplitude, Energy \(MARSE\),) Tj
+T*
+(   Counts, Rise Time, and Duration.) Tj
+T*
+() Tj
+T*
+(   3. Source Location via Time-of-Arrival Triangulation:) Tj
+T*
+(   - An array of N sensors at known coordinates \(x_i, y_i\) detects the acoustic wave at arrival) Tj
+T*
+(   times t_i.) Tj
+T*
+(   - Time differences Delta_t_ij = t_i - t_j define hyperbolic surface trajectories.) Tj
+T*
+(   - The intersection of the hyperbolas pinpoints the 2D or 3D coordinate of the active growing) Tj
+T*
+(   micro-crack with centimeter accuracy.) Tj
+T*
+() Tj
+T*
+(   4. Real-Time Bridge Safety Assessment:) Tj
+T*
+(   - Differentiates harmless background traffic vibration from catastrophic active structural) Tj
+T*
+(   damage.) Tj
+T*
+(   - Rising cumulative AE energy and hit rates provide early warning of impending structural) Tj
+T*
+(   failure days before visible surface cracking.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 17:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: An X-cut quartz crystal has thickness t = 1.5 mm, Young's modulus Y = 8.55 x 10^10 N/m^2, and density rho = 2650 kg/m^3. Calculate: \(a\) fundamental resonant frequency, \(b\) acoustic velocity in quartz, \(c\) frequency of the third harmonic overtone, \(d\) required crystal thickness to produce 10.0 MHz ultrasound.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. \(a\) Acoustic Wave Velocity v in Quartz:) Tj
+T*
+ET
+
+endstream
+endobj
+47 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 48 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+48 0 obj
+<< /Length 4111 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 5: WAVES, ACOUSTICS & INDUSTRIAL ULTRASONICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 23 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - v = sqrt\( Y / rho \) = sqrt\( 8.55 x 10^10 / 2650 \) = sqrt\( 3.2264 x 10^7 \) = 5680.1 m/s.) Tj
+T*
+() Tj
+T*
+(   2. \(b\) Fundamental Resonant Frequency f_1 \(p = 1\):) Tj
+T*
+(   - Crystal thickness t = 1.5 mm = 1.5 x 10^-3 m.) Tj
+T*
+(   - f_1 = v / \(2 * t\) = 5680.1 / \( 2 * 1.5 x 10^-3 \) = 5680.1 / \( 3.0 x 10^-3 \) = 1.893 x 10^6 Hz) Tj
+T*
+(   = 1.893 MHz.) Tj
+T*
+() Tj
+T*
+(   3. \(c\) Third Harmonic Frequency f_3 \(p = 3\):) Tj
+T*
+(   - f_3 = 3 * f_1 = 3 * 1.893 MHz = 5.680 MHz.) Tj
+T*
+() Tj
+T*
+(   4. \(d\) Required Thickness t_new for 10.0 MHz Fundamental:) Tj
+T*
+(   - f_new = 10.0 MHz = 1.0 x 10^7 Hz.) Tj
+T*
+(   - t_new = v / \(2 * f_new\) = 5680.1 / \( 2 * 1.0 x 10^7 \) = 5680.1 / \( 2.0 x 10^7 \) = 2.84 x) Tj
+T*
+(   10^-4 m = 0.284 mm = 284 micrometers.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 18:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the Sound Transmission Loss \(TL\) and Sound Transmission Class \(STC\) of architectural walls. State the Mass Law and describe how double-leaf cavity walls achieve high acoustic isolation.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Sound Transmission Loss \(TL\):) Tj
+T*
+(   - When airborne sound strikes a wall partition, Sound Transmission Loss \(TL\) measures the) Tj
+T*
+(   acoustic power attenuation provided by the barrier:) Tj
+T*
+(   TL = 10 * log10\( W_incident / W_transmitted \) \(dB\).) Tj
+T*
+() Tj
+T*
+(   2. The Acoustic Mass Law for Single-Leaf Partitions:) Tj
+T*
+(   - For a limp, single solid panel of surface mass density m \(kg/m^2\) subjected to sound of) Tj
+T*
+(   frequency f \(Hz\):) Tj
+T*
+(   TL ~= 20 * log10\( m * f \) - 48 \(dB\).) Tj
+T*
+(   - Rules of Thumb:) Tj
+T*
+(   * Doubling the surface mass density m increases TL by ~ 6 dB.) Tj
+T*
+(   * Doubling the acoustic frequency f increases TL by ~ 6 dB.) Tj
+T*
+(   - Drawback: Achieving high sound isolation with single solid walls requires impractically) Tj
+T*
+(   thick, heavy concrete \(e.g., a 20 cm solid concrete wall weighs 480 kg/m^2 for STC 55\).) Tj
+T*
+() Tj
+T*
+(   3. High-Performance Double-Leaf Cavity Walls:) Tj
+T*
+(   - Architecture: Two independent lightweight gypsum or masonry leaves separated by an air cavity) Tj
+T*
+(   \(depth d ~ 50 to 100 mm\) containing mineral wool acoustic insulation.) Tj
+T*
+(   - Mass-Air-Mass Resonance \(f_MAM\):) Tj
+T*
+(   f_MAM = \(1 / 2*pi\) * sqrt\( \(rho_air * c^2 / d\) * \(1/m1 + 1/m2\) \).) Tj
+T*
+(   - Above the mass-air-mass resonance frequency, the transmission loss increases at an) Tj
+T*
+(   extraordinary rate of ~ 18 dB per octave!) Tj
+T*
+(   - A lightweight double stud wall weighing only 50 kg/m^2 easily achieves STC 60, vastly) Tj
+T*
+(   outperforming a solid concrete wall ten times heavier.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 19:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: A bridge pier foundation is tested for underwater scour using high-frequency acoustic echo-ranging. The acoustic transducer emits a 200 kHz pulse vertically downward. If the round-trip travel time to the riverbed is 14.8 ms in fresh water \(v = 1480 m/s\), and the bottom of the footing is at depth 12.5 m, determine: \(a\) riverbed depth, \(b\) whether the pier foundation footing has been exposed by scour.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Given Parameters:) Tj
+T*
+(   - Speed of sound in fresh water: v_water = 1480 m/s.) Tj
+T*
+(   - Round-trip pulse travel time: t = 14.8 ms = 14.8 x 10^-3 s.) Tj
+T*
+(   - Depth to bottom of foundation footing: h_footing = 12.5 m.) Tj
+T*
+ET
+
+endstream
+endobj
+49 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 50 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+50 0 obj
+<< /Length 3983 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 5: WAVES, ACOUSTICS & INDUSTRIAL ULTRASONICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 24 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   2. \(a\) Calculation of Riverbed Depth h_bed:) Tj
+T*
+(   - In echo ranging, the one-way distance to the riverbed is:) Tj
+T*
+(   h_bed = v_water * t / 2 = \( 1480 m/s * 14.8 x 10^-3 s \) / 2 = 21.904 / 2 = 10.952 meters.) Tj
+T*
+() Tj
+T*
+(   3. \(b\) Foundation Scour Assessment:) Tj
+T*
+(   - Footing bottom depth: h_footing = 12.50 m.) Tj
+T*
+(   - Riverbed sediment level: h_bed = 10.95 m.) Tj
+T*
+(   - Depth of protective soil cover remaining over the footing bottom:) Tj
+T*
+(   Cover = h_footing - h_bed = 12.50 m - 10.95 m = 1.55 meters.) Tj
+T*
+(   - Safety Conclusion: The riverbed is currently 1.55 m above the footing base; the footing is) Tj
+T*
+(   not yet exposed.) Tj
+T*
+(   - However, if baseline riverbed was originally at 7.0 m depth, 3.95 m of sediment scour has) Tj
+T*
+(   already occurred. Automated acoustic scour monitoring should remain active.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 20:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the ultrasonic Phased Array Ultrasonic Testing \(PAUT\) technology and describe its advantages over conventional single-element probes for inspecting steel bridge welds.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Concept of Phased Array Ultrasonics \(PAUT\):) Tj
+T*
+(   - Unlike conventional NDT which uses a single piezoelectric crystal generating a fixed acoustic) Tj
+T*
+(   beam, a PAUT probe contains an array of numerous tiny piezoelectric elements \(typically 16 to) Tj
+T*
+(   128 elements\).) Tj
+T*
+(   - Each element is pulsed independently by software-controlled electronic time delays \(focal) Tj
+T*
+(   laws\).) Tj
+T*
+() Tj
+T*
+(   2. Beam Steering and Dynamic Focusing:) Tj
+T*
+(   - \(a\) Electronic Beam Steering: By applying linear progressive time delays across elements, the) Tj
+T*
+(   acoustic wavefront is steered through angles from 35 to 75 degrees without physically moving) Tj
+T*
+(   the probe.) Tj
+T*
+(   - \(b\) Dynamic Depth Focusing: By applying parabolic time delays, the beam is focused sharply at) Tj
+T*
+(   any desired depth within the structural steel weld.) Tj
+T*
+() Tj
+T*
+(   3. Imaging Displays:) Tj
+T*
+(   - S-Scan \(Sectorial Scan\): Sweeps the beam through a fan of angles, generating a true) Tj
+T*
+(   cross-sectional slice of the weld in real time.) Tj
+T*
+(   - C-Scan: Top-down plan view of defect locations along the weld length.) Tj
+T*
+() Tj
+T*
+(   4. Advantages in Structural Steel Inspection:) Tj
+T*
+(   - 100% volumetric weld coverage in a single line pass.) Tj
+T*
+(   - Exceptional sensitivity in detecting lack of side-wall fusion, incomplete penetration,) Tj
+T*
+(   porosity clusters, and toe micro-cracks.) Tj
+T*
+(   - Eliminates hazardous gamma-ray radiographic testing \(RT\) on active bridge construction sites.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 21:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Calculate the acoustic reflection coefficient R and transmission coefficient T for normal incidence of sound waves traveling from: \(a\) water into concrete, \(b\) concrete into air.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Material Acoustic Impedances \(Z = rho * v\):) Tj
+T*
+(   - Water: rho_w = 1000 kg/m^3, v_w = 1480 m/s => Z_water = 1.48 x 10^6 Rayls.) Tj
+T*
+(   - Concrete: rho_c = 2400 kg/m^3, v_c = 4000 m/s => Z_concrete = 9.60 x 10^6 Rayls.) Tj
+T*
+(   - Air: rho_a = 1.2 kg/m^3, v_a = 340 m/s => Z_air = 408 Rayls.) Tj
+T*
+ET
+
+endstream
+endobj
+51 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 52 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+52 0 obj
+<< /Length 3868 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 5: WAVES, ACOUSTICS & INDUSTRIAL ULTRASONICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 25 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   2. Governing Boundary Equations:) Tj
+T*
+(   - Intensity reflection coefficient: R = [ \(Z2 - Z1\) / \(Z2 + Z1\) ]^2.) Tj
+T*
+(   - Intensity transmission coefficient: T = \( 4 * Z1 * Z2 \) / \( Z2 + Z1 \)^2 = 1 - R.) Tj
+T*
+() Tj
+T*
+(   3. \(a\) Water \(Z1\) into Concrete \(Z2\):) Tj
+T*
+(   - Z2 - Z1 = 9.60x10^6 - 1.48x10^6 = 8.12 x 10^6 Rayls.) Tj
+T*
+(   - Z2 + Z1 = 9.60x10^6 + 1.48x10^6 = 11.08 x 10^6 Rayls.) Tj
+T*
+(   - R_wc = \( 8.12 / 11.08 \)^2 = \( 0.7328 \)^2 = 0.537 = 53.7%.) Tj
+T*
+(   - T_wc = 1 - 0.537 = 0.463 = 46.3%.) Tj
+T*
+(   - Water provides fair acoustic coupling \(46.3% energy transmits into concrete\).) Tj
+T*
+() Tj
+T*
+(   4. \(b\) Concrete \(Z1\) into Air \(Z2\):) Tj
+T*
+(   - Z2 - Z1 = 408 - 9.60x10^6 ~= - 9.60 x 10^6 Rayls.) Tj
+T*
+(   - Z2 + Z1 = 408 + 9.60x10^6 ~= 9.60 x 10^6 Rayls.) Tj
+T*
+(   - R_ca = [ \(408 - 9.6x10^6\) / \(408 + 9.6x10^6\) ]^2 ~= \( - 0.999915 \)^2 = 0.99983 = 99.983%.) Tj
+T*
+(   - T_ca = \( 4 * 9.6x10^6 * 408 \) / \(9.6x10^6\)^2 = 1.567x10^10 / 9.216x10^13 = 1.70 x 10^-4 =) Tj
+T*
+(   0.017%.) Tj
+T*
+(   - 99.98% of ultrasound energy reflects at a concrete-air boundary, explaining why even) Tj
+T*
+(   microscopic cracks create total signal blockage.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 22:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the Cross-Hole Sonic Logging \(CSL\) method for testing deep foundation drilled shafts \(bored concrete piles\). Describe testing procedure, data interpretation, and defect identification.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Purpose of CSL Testing \(ASTM D6760\):) Tj
+T*
+(   - Drilled shafts \(bored piles\) carry immense structural loads for bridge piers and skyscrapers,) Tj
+T*
+(   penetrating 20 to 60 meters underground.) Tj
+T*
+(   - Deep casting under bentonite slurry often suffers from concrete soil contamination, necking,) Tj
+T*
+(   honeycombing, or soft pile toes.) Tj
+T*
+(   - CSL provides rigorous cross-sectional integrity evaluation between pairs of vertical access) Tj
+T*
+(   tubes.) Tj
+T*
+() Tj
+T*
+(   2. Equipment and Setup:) Tj
+T*
+(   - During rebar cage fabrication, 2 to 6 steel or PVC tubes \(diameter ~ 50 mm\) are tied) Tj
+T*
+(   vertically along the entire length of the cage and filled with water.) Tj
+T*
+(   - An ultrasonic transmitter probe is lowered down one tube, and a receiver probe down another) Tj
+T*
+(   tube.) Tj
+T*
+(   - A depth encoder synchronizes the automated motorized retrieval of both probes simultaneously) Tj
+T*
+(   from bottom to top at speed ~ 0.3 m/s, recording ultrasound pulses every 50 mm of depth.) Tj
+T*
+() Tj
+T*
+(   3. Data Interpretation and Defect Signatures:) Tj
+T*
+(   - \(a\) Sound Concrete: Displays constant First Arrival Time \(FAT\) corresponding to v_p ~ 3800 to) Tj
+T*
+(   4200 m/s with strong signal energy amplitude.) Tj
+T*
+(   - \(b\) Moderate Flaw: FAT increases by 10% to 20% with 6 to 9 dB energy loss, indicating) Tj
+T*
+(   localized porous concrete.) Tj
+T*
+(   - \(c\) Severe Defect: FAT delay > 20% accompanied by > 20 dB signal energy drop \(or complete) Tj
+T*
+(   signal loss\), indicating soil intrusion, void voids, or necking.) Tj
+T*
+(   - Tomographic 2D/3D inversion reconstructs the exact spatial boundary of the defect, guiding) Tj
+T*
+(   high-pressure permeation grouting.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+53 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 54 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+54 0 obj
+<< /Length 4099 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 5: WAVES, ACOUSTICS & INDUSTRIAL ULTRASONICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 26 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 23:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: A residential building is constructed 50 m from an elevated urban railway. Ground vibration measurements record a dominant frequency of 25 Hz with displacement amplitude 40 micrometers. Determine: \(a\) peak particle velocity \(PPV\), \(b\) peak acceleration in g's, \(c\) evaluate human annoyance and structural risk against ISO 2631 standards.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Given Parameters:) Tj
+T*
+(   - Frequency f = 25 Hz; Angular frequency omega = 2 * pi * f = 2 * pi * 25 = 157.08 rad/s.) Tj
+T*
+(   - Displacement amplitude: A = 40 micrometers = 40 x 10^-6 m = 0.040 mm.) Tj
+T*
+() Tj
+T*
+(   2. \(a\) Peak Particle Velocity \(PPV\):) Tj
+T*
+(   - PPV = omega * A = \(157.08 rad/s\) * \(40 x 10^-6 m\) = 6.283 x 10^-3 m/s = 6.28 mm/s.) Tj
+T*
+() Tj
+T*
+(   3. \(b\) Peak Acceleration a_max:) Tj
+T*
+(   - a_max = omega^2 * A = \(157.08\)^2 * \(40 x 10^-6\) = \(24,674\) * \(40 x 10^-6\) = 0.987 m/s^2.) Tj
+T*
+(   - In g's \(g = 9.81 m/s^2\): a_max = 0.987 / 9.81 = 0.1006 g \(~ 0.10 g\).) Tj
+T*
+() Tj
+T*
+(   4. \(c\) ISO 2631 Human Annoyance and DIN 4150 Structural Assessment:) Tj
+T*
+(   - Structural Integrity \(DIN 4150-3\): For residential buildings at 25 Hz, the cosmetic cracking) Tj
+T*
+(   threshold is PPV = 5.0 to 15.0 mm/s.) Tj
+T*
+(   * The measured 6.28 mm/s is close to the lower limit, indicating possible long-term plaster) Tj
+T*
+(   hairline cracking.) Tj
+T*
+(   - Human Perception \(ISO 2631-2\):) Tj
+T*
+(   * Human perception threshold is PPV ~ 0.15 mm/s. A PPV of 6.28 mm/s is classified as 'severe) Tj
+T*
+(   disturbance and acute complaints during night-time'.) Tj
+T*
+(   - Remediation: Install sub-ballast elastomeric matting beneath the rail track or continuous) Tj
+T*
+(   vertical bentonite trench wave barriers.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 24:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the working principles of Ultrasonic Pulse-Echo testing for detecting fatigue cracks in steel bridge pins and eyebars.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Fatigue Failure in Bridge Pins:) Tj
+T*
+(   - Pin-connected truss bridges rely on forged structural steel pins \(diameter 100 to 400 mm\) to) Tj
+T*
+(   connect diagonal and chord members.) Tj
+T*
+(   - Cyclic traffic loading creates shear fretting fatigue cracks within the shear planes hidden) Tj
+T*
+(   inside the pinhole joints.) Tj
+T*
+(   - Visual inspection is impossible without disassembling the bridge.) Tj
+T*
+() Tj
+T*
+(   2. Pulse-Echo Testing Principle:) Tj
+T*
+(   - An ultrasonic transducer is placed on the accessible end face of the pin.) Tj
+T*
+(   - High-frequency ultrasonic longitudinal or angled shear waves \(2.25 to 5.0 MHz\) are pulsed) Tj
+T*
+(   down the cylindrical axis of the pin.) Tj
+T*
+(   - In a sound pin, the pulse travels to the far end face \(distance L\) and reflects back as a) Tj
+T*
+(   clean 'back-wall echo' at time t = 2*L / v.) Tj
+T*
+() Tj
+T*
+(   3. Crack Detection:) Tj
+T*
+(   - When a fatigue crack exists at distance d < L along a shear plane, acoustic energy reflects) Tj
+T*
+(   prematurely from the crack interface.) Tj
+T*
+(   - An echo appears on the oscilloscope screen at time t_crack = 2*d / v prior to the back-wall) Tj
+T*
+(   echo.) Tj
+T*
+(   - The amplitude of the flaw echo correlates directly with crack depth.) Tj
+T*
+(   - Enables detection of hairline fatigue cracks as small as 1 mm without closing the bridge to) Tj
+T*
+(   traffic.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+ET
+
+endstream
+endobj
+55 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 56 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+56 0 obj
+<< /Length 3767 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 5: WAVES, ACOUSTICS & INDUSTRIAL ULTRASONICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 27 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 25:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: A multi-purpose school hall of volume 4000 m^3 has a reverberation time of 2.2 seconds. It is desired to lower the reverberation time to 1.1 seconds for speech clarity. Calculate the additional absorption required in metric Sabins.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Given Data:) Tj
+T*
+(   - Room volume: V = 4000 m^3.) Tj
+T*
+(   - Initial reverberation time: T1 = 2.20 seconds.) Tj
+T*
+(   - Target reverberation time: T2 = 1.10 seconds.) Tj
+T*
+() Tj
+T*
+(   2. Initial Total Absorption A1 \(Sabine's Formula\):) Tj
+T*
+(   - T1 = 0.161 * V / A1 => A1 = 0.161 * V / T1.) Tj
+T*
+(   - A1 = \( 0.161 * 4000 \) / 2.20 = 644.0 / 2.20 = 292.73 metric Sabins.) Tj
+T*
+() Tj
+T*
+(   3. Target Total Absorption A2:) Tj
+T*
+(   - T2 = 0.161 * V / A2 => A2 = 0.161 * V / T2.) Tj
+T*
+(   - A2 = \( 0.161 * 4000 \) / 1.10 = 644.0 / 1.10 = 585.45 metric Sabins.) Tj
+T*
+() Tj
+T*
+(   4. Additional Absorption Required Delta_A:) Tj
+T*
+(   - Delta_A = A2 - A1 = 585.45 - 292.73 = 292.72 metric Sabins.) Tj
+T*
+() Tj
+T*
+(   5. Architectural Implementation:) Tj
+T*
+(   - If acoustic fabric-wrapped mineral wool panels with alpha = 0.85 are installed on walls:) Tj
+T*
+(   Required panel area = Delta_A / alpha = 292.72 / 0.85 = 344.4 m^2 of wall coverage.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 26:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the physical principles and applications of the Spectral Analysis of Surface Waves \(SASW\) and Multi-Channel Analysis of Surface Waves \(MASW\) in geotechnical and highway pavement engineering.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Principles of Surface Wave Dispersion:) Tj
+T*
+(   - When an impact source \(sledgehammer or drop weight\) strikes the ground surface, ~ 67% of) Tj
+T*
+(   total seismic energy propagates as Rayleigh \(R\) surface waves.) Tj
+T*
+(   - In a vertically layered medium \(e.g., asphalt over granular base over soil subgrade\),) Tj
+T*
+(   Rayleigh waves are dispersive: different frequency components travel at different phase) Tj
+T*
+(   velocities.) Tj
+T*
+(   - High-frequency \(short wavelength\) waves sample shallow surface layers; low-frequency \(long) Tj
+T*
+(   wavelength\) waves penetrate deeply into subgrade soil.) Tj
+T*
+() Tj
+T*
+(   2. MASW Testing Procedure:) Tj
+T*
+(   - A linear array of 12 to 48 low-frequency geophones \(4.5 Hz\) is spaced along the ground.) Tj
+T*
+(   - A sledgehammer impact triggers multichannel wave recording.) Tj
+T*
+(   - Wavefield transformation \(phase-shift or f-k transform\) extracts the experimental dispersion) Tj
+T*
+(   curve: Phase Velocity v_R vs Frequency f.) Tj
+T*
+() Tj
+T*
+(   3. Inversion to Shear Wave Velocity Profile:) Tj
+T*
+(   - Numerical inversion algorithms calculate the 1D/2D shear wave velocity profile v_s\(z\) with) Tj
+T*
+(   depth.) Tj
+T*
+(   - Small-strain shear modulus G_max is determined: G_max = rho * v_s^2.) Tj
+T*
+() Tj
+T*
+(   4. Civil Applications:) Tj
+T*
+(   - Seismic Site Classification \(V_s30\) for earthquake building codes.) Tj
+T*
+(   - Non-destructive stiffness profiling of pavement layers without coring.) Tj
+T*
+(   - Detecting subterranean sinkholes, buried utilities, and abandoned mine shafts.) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+57 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 58 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+58 0 obj
+<< /Length 4270 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 5: WAVES, ACOUSTICS & INDUSTRIAL ULTRASONICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 28 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 27:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: An ultrasonic flaw detector inspects a 250 mm thick structural steel plate. The longitudinal wave speed in steel is 5900 m/s. An echo is detected at transit time 42.4 microseconds, while the back-wall echo arrives at 84.7 microseconds. Calculate: \(a\) depth of the internal flaw, \(b\) verified thickness of the steel plate.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Given Data:) Tj
+T*
+(   - Longitudinal velocity in steel: v = 5900 m/s = 5.90 mm/microsecond.) Tj
+T*
+(   - Round-trip transit time to flaw: t_flaw = 42.4 microseconds.) Tj
+T*
+(   - Round-trip transit time to back-wall: t_back = 84.7 microseconds.) Tj
+T*
+() Tj
+T*
+(   2. \(a\) Depth of Internal Flaw d_flaw:) Tj
+T*
+(   - d_flaw = v * t_flaw / 2 = \( 5.90 mm/us * 42.4 us \) / 2 = 250.16 / 2 = 125.08 mm ~= 125.1 mm.) Tj
+T*
+(   - The defect lies precisely at mid-thickness \(125 mm deep\).) Tj
+T*
+() Tj
+T*
+(   3. \(b\) Plate Thickness T:) Tj
+T*
+(   - T = v * t_back / 2 = \( 5.90 mm/us * 84.7 us \) / 2 = 499.73 / 2 = 249.87 mm ~= 250.0 mm.) Tj
+T*
+() Tj
+T*
+(   4. Defect Characterization:) Tj
+T*
+(   - The echo at 125 mm indicates mid-plane laminar segregation or non-metallic inclusion rolling) Tj
+T*
+(   flaw.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 28:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the working principles of Ultrasonic Cavitation and its industrial applications in concrete aggregate cleaning and soil remediation.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Mechanism of Ultrasonic Cavitation:) Tj
+T*
+(   - When intense high-power ultrasound \(> 20 kHz, intensity > 2 W/cm^2\) propagates through a) Tj
+T*
+(   liquid, it creates alternating high-pressure compression cycles and low-pressure rarefaction) Tj
+T*
+(   cycles.) Tj
+T*
+(   - During rarefaction, local pressure drops below the vapor pressure of the liquid, tearing the) Tj
+T*
+(   liquid apart to form microscopic vapor bubbles \(cavitation nuclei\).) Tj
+T*
+(   - In subsequent compression cycles, the bubbles collapse violently within picoseconds.) Tj
+T*
+(   - Transient Collapse Effects: Localized temperatures exceed 5,000 K, pressures exceed 1,000) Tj
+T*
+(   atmospheres \(100 MPa\), and micro-jets of liquid shoot at velocities > 400 km/s.) Tj
+T*
+() Tj
+T*
+(   2. Civil Engineering Applications:) Tj
+T*
+(   - Aggregate Decontamination: Cavitation micro-jets scrub deleterious clay coatings and organic) Tj
+T*
+(   silt from recycled concrete aggregates \(RCA\), restoring aggregate-cement bonding.) Tj
+T*
+(   - Soil Remediation: Breaks down persistent organic pollutants \(PAHs, heavy petroleum) Tj
+T*
+(   hydrocarbons\) in contaminated brownfield construction sites through localized sonochemical) Tj
+T*
+(   oxidation.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 29:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: A 400 mm thick concrete beam is tested with UPV. A pulse velocity of 4000 m/s is recorded in dry concrete. When saturated with water, the density increases by 3% and dynamic modulus increases by 8%. Calculate the new pulse velocity and explain why moist concrete has higher UPV.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Governing Formula for Pulse Velocity:) Tj
+T*
+(   - v_p = sqrt\( E_d * F\(nu\) / rho \), where F\(nu\) = \(1 - nu\) / [ \(1 + nu\)*\(1 - 2*nu\) ].) Tj
+T*
+(   - Assume Poisson factor F\(nu\) is approximately constant.) Tj
+T*
+() Tj
+T*
+(   2. Relative Change Calculation:) Tj
+T*
+(   - Density increases by 3%: rho_new = 1.03 * rho_old.) Tj
+T*
+ET
+
+endstream
+endobj
+59 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 60 0 R /Resources << /Font << /F1 61 0 R /F2 62 0 R >> >> >>
+endobj
+60 0 obj
+<< /Length 2662 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING PHYSICS | UNIT 5: WAVES, ACOUSTICS & INDUSTRIAL ULTRASONICS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 29 of 29) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - Modulus increases by 8%: E_new = 1.08 * E_old.) Tj
+T*
+(   - v_new = sqrt\( E_new / rho_new \) = v_old * sqrt\( 1.08 / 1.03 \) = 4000 * sqrt\( 1.04854 \) = 4000) Tj
+T*
+(   * 1.02398 = 4095.9 m/s = 4.10 km/s.) Tj
+T*
+() Tj
+T*
+(   3. Physical Explanation:) Tj
+T*
+(   - In dry concrete, microscopic pores contain air \(v_sound = 340 m/s\). When saturated, pores) Tj
+T*
+(   fill with water \(v_sound = 1480 m/s\).) Tj
+T*
+(   - Water is virtually incompressible compared to air, significantly stiffening the bulk dynamic) Tj
+T*
+(   modulus E_d and accelerating ultrasonic transmission.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 30:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Synthesize the vital roles of acoustic physics and ultrasonics across civil engineering, contrasting building architectural acoustic comfort with structural non-destructive diagnostic safety.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Architectural Acoustic Comfort:) Tj
+T*
+(   - Sabine's reverberation principles, Eyring's models, and mass-law transmission loss transform) Tj
+T*
+(   concrete and steel spaces into comfortable human environments.) Tj
+T*
+(   - Eliminates acoustic defects \(echoes, flutter, focusing\) to ensure high speech intelligibility) Tj
+T*
+(   in lecture halls, pristine musical resonance in auditoriums, and quiet living spaces shielded) Tj
+T*
+(   from highway and railway noise.) Tj
+T*
+() Tj
+T*
+(   2. Ultrasonic Structural Diagnostic Safety:) Tj
+T*
+(   - Ultrasonic Pulse Velocity \(UPV\), Impact-Echo \(IE\), Cross-Hole Sonic Logging \(CSL\), and Phased) Tj
+T*
+(   Array \(PAUT\) provide non-destructive insight deep inside opaque concrete and steel structures.) Tj
+T*
+(   - Detects hidden honeycombing, foundation pile wash-outs, sub-surface bridge pin fatigue) Tj
+T*
+(   cracks, and grout voids in post-tensioned ducts years before external manifestation.) Tj
+T*
+() Tj
+T*
+(   3. Conclusion:) Tj
+T*
+(   - Wave mechanics bridges human environmental health with structural lifecycle integrity,) Tj
+T*
+(   forming an indispensable pillar of modern civil engineering science.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+61 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+62 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+xref
+0 63
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000309 00000 n 
+0000000453 00000 n 
+0000009711 00000 n 
+0000009855 00000 n 
+0000019340 00000 n 
+0000019484 00000 n 
+0000028977 00000 n 
+0000029122 00000 n 
+0000038344 00000 n 
+0000038490 00000 n 
+0000048358 00000 n 
+0000048504 00000 n 
+0000060508 00000 n 
+0000060654 00000 n 
+0000073114 00000 n 
+0000073260 00000 n 
+0000075162 00000 n 
+0000075308 00000 n 
+0000082071 00000 n 
+0000082217 00000 n 
+0000085968 00000 n 
+0000086114 00000 n 
+0000094597 00000 n 
+0000094743 00000 n 
+0000098994 00000 n 
+0000099140 00000 n 
+0000103030 00000 n 
+0000103176 00000 n 
+0000107322 00000 n 
+0000107468 00000 n 
+0000111350 00000 n 
+0000111496 00000 n 
+0000115400 00000 n 
+0000115546 00000 n 
+0000119476 00000 n 
+0000119622 00000 n 
+0000123861 00000 n 
+0000124007 00000 n 
+0000128151 00000 n 
+0000128297 00000 n 
+0000132355 00000 n 
+0000132501 00000 n 
+0000136803 00000 n 
+0000136949 00000 n 
+0000140969 00000 n 
+0000141115 00000 n 
+0000145279 00000 n 
+0000145425 00000 n 
+0000149461 00000 n 
+0000149607 00000 n 
+0000153528 00000 n 
+0000153674 00000 n 
+0000157826 00000 n 
+0000157972 00000 n 
+0000161792 00000 n 
+0000161938 00000 n 
+0000166261 00000 n 
+0000166407 00000 n 
+0000169122 00000 n 
+0000169220 00000 n 
+trailer
+<< /Size 63 /Root 1 0 R >>
+startxref
+169323
+%%EOF

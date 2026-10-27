@@ -1,0 +1,688 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2950 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mechanics | Unit 5: Particle Dynamics & Energy) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 1 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(=== UNIT 5: DYNAMICS OF PARTICLES: KINEMATICS & KINETICS ===) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.1 Rectilinear Kinematics of Particles) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Dynamics is the branch of mechanics dealing with accelerated bodies, subdivided into) Tj
+T*
+(Kinematics \(geometry of motion without reference to forces\) and Kinetics \(relating) Tj
+T*
+(forces to resulting accelerations and masses\).) Tj
+T*
+(* Fundamental Differential Relations: Displacement s\(t\), Velocity v\(t\) = ds/dt,) Tj
+T*
+(Acceleration a\(t\) = dv/dt = d^2s/dt^2 = v * \(dv/ds\).) Tj
+T*
+(* Constant Acceleration Equations \(a = const\):) Tj
+T*
+(v = u + a*t.) Tj
+T*
+(s = u*t + 0.5*a*t^2.) Tj
+T*
+(v^2 = u^2 + 2*a*s.) Tj
+T*
+(* Variable Acceleration: Requires direct analytical integration:) Tj
+T*
+(- a = f\(t\): v = Integral\( f\(t\) dt \); s = Integral\( v dt \).) Tj
+T*
+(- a = f\(v\): t = Integral\( dv / f\(v\) \); s = Integral\( v dv / f\(v\) \).) Tj
+T*
+(- a = f\(s\): v^2 = 2 * Integral\( f\(s\) ds \) + C.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.2 Curvilinear Motion: Normal and Tangential Coordinates) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(When a particle travels along a curved trajectory, its acceleration vector is naturally) Tj
+T*
+(decoupled into orthogonal components along the tangent \(t\) and principal normal \(n\) to) Tj
+T*
+(the path:) Tj
+T*
+(* Tangential Velocity: v = ds/dt \(always directed tangentially to the curve\).) Tj
+T*
+(* Tangential Acceleration: a_t = dv/dt = v * \(dv/ds\). Represents rate of change of) Tj
+T*
+(speed \(magnitude\).) Tj
+T*
+(* Normal \(Centripetal\) Acceleration: a_n = v^2 / rho, where rho is local radius of) Tj
+T*
+(curvature: rho = [ 1 + \(dy/dx\)^2 ]^\(3/2\) / |d^2y/dx^2|. Represents rate of change of) Tj
+T*
+(direction \(always directed inward toward the center of curvature\).) Tj
+T*
+(* Total Acceleration Magnitude: a = sqrt\( a_t^2 + a_n^2 \). Direction angle: phi =) Tj
+T*
+(atan\( a_n / a_t \).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.3 Kinetics of Particles: Newton's Second Law & D'Alembert's Principle) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Newton's Second Law: Sigma F = m * a. In Cartesian components: Sigma Fx = m * a_x;) Tj
+T*
+(Sigma Fy = m * a_y. In path coordinates: Sigma F_t = m * a_t; Sigma F_n = m * \(v^2 /) Tj
+T*
+(rho\).) Tj
+T*
+(* D'Alembert's Principle: Converts a dynamic acceleration problem into an equivalent) Tj
+T*
+(static equilibrium problem by introducing a fictitious Inertia Force: F_inertia = - m) Tj
+T*
+(* a.) Tj
+T*
+(Dynamic Equilibrium Equation: Sigma F + \(- m * a\) = 0.) Tj
+T*
+(Engineers can then apply standard equations of static equilibrium \(Sigma Fx = 0, Sigma) Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 3066 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mechanics | Unit 5: Particle Dynamics & Energy) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 2 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(Fy = 0\) including the reversed inertia force.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.4 Work-Energy Principle for Particles) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Work of a Force: U_1-2 = Integral\( F * cos\(theta\) ds \) = Integral\( F dot dr \).) Tj
+T*
+(- Constant Force: U = F * s * cos\(theta\).) Tj
+T*
+(- Gravity Force \(Weight\): U = - W * Delta h \(positive if moving down, negative if moving) Tj
+T*
+(up\).) Tj
+T*
+(- Linear Elastic Spring Force: U = - 0.5 * k * \(x2^2 - x1^2\).) Tj
+T*
+(* Kinetic Energy: KE = 0.5 * m * v^2.) Tj
+T*
+(* Work-Energy Theorem: Total work done by all external forces acting on a particle) Tj
+T*
+(equals the change in its kinetic energy: Sigma U_1-2 = KE_2 - KE_1 = 0.5*m*v2^2 -) Tj
+T*
+(0.5*m*v1^2.) Tj
+T*
+(* Conservation of Mechanical Energy: For conservative force fields \(gravity, ideal) Tj
+T*
+(springs\): KE_1 + PE_1 = KE_2 + PE_2 = constant.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.5 Impulse-Momentum Principle) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Linear Momentum: p = m * v \(vector quantity in kg-m/s or N-s\).) Tj
+T*
+(* Linear Impulse: J = Integral_t1^t2\( F dt \).) Tj
+T*
+(* Principle of Linear Impulse and Momentum: The impulse of resultant force equals the) Tj
+T*
+(change in linear momentum: Integral_t1^t2\( Sigma F dt \) = m*v2 - m*v1.) Tj
+T*
+(* Conservation of Linear Momentum: If resultant external force acting on a system of) Tj
+T*
+(particles vanishes along an axis \(Sigma F_ext = 0\), total linear momentum along that) Tj
+T*
+(axis is conserved: Sigma\(m_i * v_i1\) = Sigma\(m_i * v_i2\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.6 Impact and Collision Mechanics) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Direct Central Impact: Collinear collision of two bodies where velocities are) Tj
+T*
+(directed along the line of impact passing through their centers of mass.) Tj
+T*
+(* Coefficient of Restitution \(e\): The ratio of relative velocity of separation after) Tj
+T*
+(impact to relative velocity of approach before impact:) Tj
+T*
+(e = \(v_B2 - v_A2\) / \(v_A1 - v_B1\) = Relative Velocity of Separation / Relative Velocity) Tj
+T*
+(of Approach.) Tj
+T*
+(* Collision Regimes: \(1\) Perfectly Elastic Impact: e = 1.0 \(no loss of kinetic) Tj
+T*
+(energy\). \(2\) Inelastic \(Plastic\) Impact: 0 < e < 1.0 \(kinetic energy lost to heat and) Tj
+T*
+(acoustic deformation\). \(3\) Perfectly Plastic Impact: e = 0 \(bodies coalesce and move) Tj
+T*
+(together with common velocity: v_A2 = v_B2\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([EXAMPLE 1: Kinematics of Particle with Variable Acceleration]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 3536 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mechanics | Unit 5: Particle Dynamics & Energy) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 3 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(Problem Context: A civil engineering piling hammer moves along a vertical guide with) Tj
+T*
+(variable acceleration given by a\(t\) = \(12*t - 3*t^2\) m/s^2, where t is in seconds. At t) Tj
+T*
+(= 0, displacement s\(0\) = 0 m and initial downward velocity v\(0\) = 4.0 m/s. Calculate:) Tj
+T*
+(\(1\) Maximum velocity achieved, \(2\) Velocity at t = 3 s, \(3\) Total displacement at t = 3) Tj
+T*
+(s.) Tj
+T*
+(Solution Step 1: Derive velocity function v\(t\):) Tj
+T*
+(v\(t\) = v\(0\) + Integral_0^t a\(tau\) dtau = 4 + Integral_0^t \(12*tau - 3*tau^2\) dtau.) Tj
+T*
+(v\(t\) = 4 + [ 6*t^2 - t^3 ] m/s.) Tj
+T*
+(Solution Step 2: Maximum Velocity Condition:) Tj
+T*
+(Maximum velocity occurs when dv/dt = a\(t\) = 0 => 12*t - 3*t^2 = 0 => 3*t*\(4 - t\) = 0 =>) Tj
+T*
+(t = 4.0 s.) Tj
+T*
+(v_max = v\(4\) = 4 + 6*\(4\)^2 - \(4\)^3 = 4 + 96 - 64 = 36.0 m/s.) Tj
+T*
+(Solution Step 3: Velocity at t = 3.0 s:) Tj
+T*
+(v\(3\) = 4 + 6*\(3\)^2 - \(3\)^3 = 4 + 54 - 27 = 31.0 m/s.) Tj
+T*
+(Solution Step 4: Derive displacement function s\(t\) and evaluate at t = 3.0 s:) Tj
+T*
+(s\(t\) = Integral_0^t v\(tau\) dtau = Integral_0^t \(4 + 6*tau^2 - tau^3\) dtau = [ 4*t +) Tj
+T*
+(2*t^3 - 0.25*t^4 ].) Tj
+T*
+(s\(3\) = 4*\(3\) + 2*\(3\)^3 - 0.25*\(3\)^4 = 12 + 54 - 0.25*\(81\) = 66 - 20.25 = 45.75 m.) Tj
+T*
+(Conclusion: Maximum velocity = 36.0 m/s; Velocity at t=3s = 31.0 m/s; Displacement at) Tj
+T*
+(t=3s = 45.75 m.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([EXAMPLE 2: D'Alembert's Principle for Connected Incline Bodies]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Block A \(mass m_A = 20 kg\) rests on a 30-degree inclined plane) Tj
+T*
+(\(coefficient of kinetic friction mu_k = 0.20\) and is connected by a light inextensible) Tj
+T*
+(cord passing over a frictionless pulley to a hanging Block B \(mass m_B = 30 kg\). Using) Tj
+T*
+(D'Alembert's principle, calculate the acceleration a of the system and cable tension T.) Tj
+T*
+(Solution Step 1: Establish Kinematic Relations and Dynamic Equilibrium:) Tj
+T*
+(Assuming Block B descends vertically with acceleration a, Block A moves UP the incline) Tj
+T*
+(with identical acceleration a.) Tj
+T*
+(For Block A on incline:) Tj
+T*
+(Normal reaction: N_A = m_A * g * cos\(30\) = 20 * 9.81 * 0.8660 = 169.91 N.) Tj
+T*
+(Friction force \(opposing motion down incline\): F_k = mu_k * N_A = 0.20 * 169.91 = 33.98) Tj
+T*
+(N.) Tj
+T*
+(Downhill gravity component = m_A * g * sin\(30\) = 20 * 9.81 * 0.50 = 98.10 N.) Tj
+T*
+(Reversed Inertia Force = m_A * a = 20 * a \(directed down incline\).) Tj
+T*
+(Dynamic equilibrium along incline: T - 98.10 - 33.98 - 20*a = 0 => T - 20*a = 132.08 N.) Tj
+T*
+(\(Equation 1\)) Tj
+T*
+(Solution Step 2: Dynamic Equilibrium for Hanging Block B:) Tj
+T*
+(Downside gravity force = m_B * g = 30 * 9.81 = 294.30 N.) Tj
+T*
+(Cable tension T \(upward\); Reversed Inertia Force m_B * a \(upward\):) Tj
+T*
+(Dynamic equilibrium vertically: 294.30 - T - 30*a = 0 => T + 30*a = 294.30 N. \(Equation) Tj
+T*
+(2\)) Tj
+T*
+(Solution Step 3: Solve Simultaneous Equations for a and T:) Tj
+T*
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 3621 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mechanics | Unit 5: Particle Dynamics & Energy) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 4 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(Subtracting Equation 1 from Equation 2:) Tj
+T*
+(\(30*a + 20*a\) = 294.30 - 132.08 => 50*a = 162.22 => a = 3.24 m/s^2.) Tj
+T*
+(Substitute a into Equation 1: T = 132.08 + 20*\(3.24\) = 132.08 + 64.88 = 196.96 N.) Tj
+T*
+(Conclusion: System acceleration a = 3.24 m/s^2; Cable tension T = 196.96 N.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([EXAMPLE 3: Work-Energy Method for Runaway Construction Cart]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: A construction muck cart of mass m = 800 kg travels at v1 = 15 m/s) Tj
+T*
+(toward an emergency arresting spring buffer of stiffness k = 60 kN/m \(60,000 N/m\). If) Tj
+T*
+(the track is horizontal and rolling resistance is neglected, calculate: \(1\) Maximum) Tj
+T*
+(compression x_max of the spring buffer in bringing the cart to rest, \(2\) Maximum) Tj
+T*
+(deceleration experienced.) Tj
+T*
+(Solution Step 1: Work-Energy Equation \(Sigma U_1-2 = Delta KE\):) Tj
+T*
+(Initial state 1 \(before contact\): v1 = 15 m/s => KE_1 = 0.5 * m * v1^2 = 0.5 * 800 *) Tj
+T*
+(\(15\)^2 = 400 * 225 = 90,000 J \(90 kJ\).) Tj
+T*
+(Final state 2 \(at maximum spring compression\): v2 = 0 m/s => KE_2 = 0 J.) Tj
+T*
+(Work done by arresting spring on cart during compression: U_spring = - 0.5 * k * x_max^2) Tj
+T*
+(= - 0.5 * 60,000 * x_max^2 = - 30,000 * x_max^2.) Tj
+T*
+(Solution Step 2: Equate Work to Change in Kinetic Energy:) Tj
+T*
+(- 30,000 * x_max^2 = 0 - 90,000 => 30,000 * x_max^2 = 90,000.) Tj
+T*
+(x_max^2 = 90,000 / 30,000 = 3.0 => x_max = sqrt\(3.0\) = 1.732 m.) Tj
+T*
+(Solution Step 3: Compute Maximum Deceleration:) Tj
+T*
+(Maximum retarding force occurs at maximum compression: F_max = k * x_max = 60,000 *) Tj
+T*
+(1.732 = 103,923 N.) Tj
+T*
+(a_max = F_max / m = 103,923 N / 800 kg = 129.90 m/s^2 \(~ 13.2 g\).) Tj
+T*
+(Conclusion: Maximum spring compression x_max = 1.732 m; maximum deceleration = 129.90) Tj
+T*
+(m/s^2.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([EXAMPLE 4: Direct Central Impact and Energy Loss]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: A pile driver hammer A \(mass m_A = 1200 kg\) falling vertically hits a) Tj
+T*
+(stationary concrete pile cap B \(mass m_B = 800 kg\) with impact velocity v_A1 = 8.0 m/s) Tj
+T*
+(\(v_B1 = 0\). The coefficient of restitution is e = 0.40. Calculate: \(1\) Post-impact) Tj
+T*
+(velocities v_A2 and v_B2, \(2\) Total loss of kinetic energy during impact.) Tj
+T*
+(Solution Step 1: Conservation of Linear Momentum:) Tj
+T*
+(m_A * v_A1 + m_B * v_B1 = m_A * v_A2 + m_B * v_B2.) Tj
+T*
+(\(1200 * 8.0\) + \(800 * 0\) = 1200 * v_A2 + 800 * v_B2.) Tj
+T*
+(9600 = 1200 * v_A2 + 800 * v_B2 => 12 * v_A2 + 8 * v_B2 = 96 => 3 * v_A2 + 2 * v_B2 =) Tj
+T*
+(24. \(Equation 1\)) Tj
+T*
+(Solution Step 2: Coefficient of Restitution Equation:) Tj
+T*
+(e = \(v_B2 - v_A2\) / \(v_A1 - v_B1\) => 0.40 = \(v_B2 - v_A2\) / \(8.0 - 0\).) Tj
+T*
+(v_B2 - v_A2 = 0.40 * 8.0 = 3.2 m/s => v_B2 = v_A2 + 3.2. \(Equation 2\)) Tj
+T*
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 3273 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mechanics | Unit 5: Particle Dynamics & Energy) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 5 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(Solution Step 3: Solve for post-impact velocities:) Tj
+T*
+(Substitute Equation 2 into Equation 1: 3 * v_A2 + 2 * \(v_A2 + 3.2\) = 24.) Tj
+T*
+(5 * v_A2 + 6.4 = 24 => 5 * v_A2 = 17.6 => v_A2 = 3.52 m/s.) Tj
+T*
+(v_B2 = 3.52 + 3.2 = 6.72 m/s.) Tj
+T*
+(Solution Step 4: Kinetic Energy Loss:) Tj
+T*
+(Initial KE = 0.5 * 1200 * \(8.0\)^2 = 600 * 64 = 38,400 J \(38.40 kJ\).) Tj
+T*
+(Final KE = 0.5 * 1200 * \(3.52\)^2 + 0.5 * 800 * \(6.72\)^2 = 600 * 12.39 + 400 * 45.16 =) Tj
+T*
+(7434.24 + 18063.36 = 25,497.60 J \(25.50 kJ\).) Tj
+T*
+(Energy Loss Delta KE = 38,400 - 25,497.60 = 12,902.40 J \(12.90 kJ or 33.6% loss\).) Tj
+T*
+(Conclusion: Hammer velocity v_A2 = 3.52 m/s; pile cap velocity v_B2 = 6.72 m/s; Energy) Tj
+T*
+(lost = 12.90 kJ.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.7 University Review & Examination Questions) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Q1: State D'Alembert's Principle and explain how it simplifies the solution of) Tj
+T*
+(dynamic engineering problems.) Tj
+T*
+(Answer: D'Alembert's Principle states that a dynamic system in motion under applied) Tj
+T*
+(external forces can be brought into formal static equilibrium by adding a fictitious) Tj
+T*
+(inertia force equal to the product of the mass and acceleration vector acting in the) Tj
+T*
+(direction opposite to acceleration \(F_inertia = - m * a\). Thus, Sigma F + \(- m * a\) = 0.) Tj
+T*
+(Its primary significance is that all established analytical tools of statics \(free-body) Tj
+T*
+(diagrams, resolving orthogonal forces, moment equilibrium about instantaneous centers\)) Tj
+T*
+(can be directly applied to dynamic systems without solving coupled second-order) Tj
+T*
+(differential equations.) Tj
+T*
+(* Q2: Derive the Work-Energy Theorem for a particle moving along a general curved) Tj
+T*
+(spatial path.) Tj
+T*
+(Answer: Consider a particle of mass m moving along path s under resultant force F.) Tj
+T*
+(Tangential Newton's second law states: F_t = m * a_t = m * v * \(dv/ds\). Multiplying both) Tj
+T*
+(sides by differential displacement ds: F_t * ds = m * v * dv. Integrating both sides) Tj
+T*
+(from initial state \(s1, v1\) to final state \(s2, v2\): Integral_s1^s2 \(F_t ds\) =) Tj
+T*
+(Integral_v1^v2 \(m * v dv\). The left side is the total external work done U_1-2. The) Tj
+T*
+(right side evaluates to: [ 0.5 * m * v^2 ]_v1^v2 = 0.5 * m * v2^2 - 0.5 * m * v1^2 =) Tj
+T*
+(Delta KE. Hence, Sigma U_1-2 = Delta KE.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.8 Key Takeaways and Revision Points) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Variable acceleration requires direct calculus integration: v = Integral a dt, s =) Tj
+T*
+(Integral v dt.) Tj
+T*
+(* Normal acceleration a_n = v^2/rho directs toward curve center; tangential a_t =) Tj
+T*
+(dv/dt changes speed.) Tj
+T*
+(* D'Alembert's principle adds reversed inertia force \(-m*a\) to apply static) Tj
+T*
+(equilibrium equations.) Tj
+T*
+(* Work-Energy theorem \(Sigma U = Delta KE\) eliminates time; Impulse-Momentum \(J =) Tj
+T*
+(Delta p\) connects force and time.) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000171 00000 n 
+0000000241 00000 n 
+0000000316 00000 n 
+0000000428 00000 n 
+0000003430 00000 n 
+0000003542 00000 n 
+0000006660 00000 n 
+0000006773 00000 n 
+0000010362 00000 n 
+0000010476 00000 n 
+0000014150 00000 n 
+0000014264 00000 n 
+trailer
+<< /Size 15 /Root 1 0 R >>
+startxref
+17590
+%%EOF

@@ -1,0 +1,720 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 6 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2693 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Internet Programming | Unit 3: Responsive Design & Frameworks) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 1 of 6) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(=== UNIT 3: RESPONSIVE WEB DESIGN & CSS FRAMEWORKS ===) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.1 Principles of Responsive Web Design \(RWD\)) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Responsive Web Design \(coined by Ethan Marcotte in 2010\) ensures web applications) Tj
+T*
+(automatically adapt their layout, navigation, typography, and imagery to deliver optimal) Tj
+T*
+(viewing experiences across any display viewport \(smartphones, tablets, laptops, 4K) Tj
+T*
+(monitors\):) Tj
+T*
+(* The 3 Cardinal Pillars of RWD:) Tj
+T*
+(- 1. Fluid Grids: Designing layouts using relative percentage \(%\) or fractional \(fr\)) Tj
+T*
+(units rather than rigid absolute pixels \(px\).) Tj
+T*
+(- 2. Flexible Media: Ensuring images and video scale dynamically within parent bounds:) Tj
+T*
+(img { max-width: 100%; height: auto; }.) Tj
+T*
+(- 3. CSS Media Queries: Applying conditional style sheets based on device display) Tj
+T*
+(characteristics \(viewport width, orientation, resolution\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.2 Viewport Configuration and CSS Media Queries) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* The Essential Viewport Meta Tag: Placed in document <head>: <meta name='viewport') Tj
+T*
+(content='width=device-width, initial-scale=1.0'>. Instructs mobile browsers to render) Tj
+T*
+(the document at native device pixel width rather than defaulting to a zoomed-out) Tj
+T*
+(980px desktop canvas.) Tj
+T*
+(* Media Query Syntax: @media screen and \(min-width: 768px\) { ... }.) Tj
+T*
+(* Mobile-First vs Desktop-First Paradigms:) Tj
+T*
+(- Mobile-First \(Industry Standard\): Write base CSS for mobile viewports without media) Tj
+T*
+(queries, then use min-width queries to progressively enhance the experience as screens) Tj
+T*
+(expand \(min-width: 576px, 768px, 992px, 1200px\). Reduces mobile bandwidth and CPU) Tj
+T*
+(overhead.) Tj
+T*
+(- Desktop-First: Write desktop CSS and use max-width queries to override and collapse) Tj
+T*
+(features on smaller screens.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.3 Relative Units: Rem, Em, %, VW and VH) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* px: Absolute pixel measurement; rigid, ignores user accessibility browser font) Tj
+T*
+(scaling.) Tj
+T*
+(* rem \(Root Em\): Relative to the font-size of the root <html> element \(default 1rem =) Tj
+T*
+(16px\). Changing root font-size scales the entire UI proportionately, supporting) Tj
+T*
+(universal accessibility.) Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 2627 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Internet Programming | Unit 3: Responsive Design & Frameworks) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 2 of 6) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(* em: Relative to the font-size of the immediate parent element \(compound scaling can) Tj
+T*
+(cause unexpected font ballooning in nested lists\).) Tj
+T*
+(* vw and vh: Viewport units representing 1% of the viewport width and height,) Tj
+T*
+(respectively.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.4 Bootstrap 5 Framework Architecture) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Bootstrap is the world's most widely adopted front-end open-source toolkit for) Tj
+T*
+(responsive web development:) Tj
+T*
+(* 12-Column Responsive Grid System: Divides horizontal rows into 12 equal flexbox) Tj
+T*
+(columns. Column classes specify breakpoint thresholds: .col-sm-* \(>=576px\), .col-md-*) Tj
+T*
+(\(>=768px\), .col-lg-* \(>=992px\), .col-xl-* \(>=1200px\), .col-xxl-* \(>=1400px\).) Tj
+T*
+(* Utility Classes: Margins \(m-1 to m-5\), Padding \(p-1 to p-5\), Text alignment) Tj
+T*
+(\(text-center, text-end\), Colors \(bg-primary, text-danger\), Display \(d-flex, d-none,) Tj
+T*
+(d-md-block\).) Tj
+T*
+(* Reusable Components: Navbar, Cards, Accordion, Modal, Carousel, Alerts, and Badges.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 1: Pure CSS Mobile-First Responsive Layout]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Implement a responsive 3-column feature layout using pure CSS media) Tj
+T*
+(queries, transforming from a single-column stack on smartphones into 2 columns on) Tj
+T*
+(tablets and 3 columns on desktops.) Tj
+T*
+(HTML & CSS Code:) Tj
+T*
+(<!-- HTML Features -->) Tj
+T*
+(<div class='feature-container'>) Tj
+T*
+(<div class='feature-box'><h3>Full-Stack C#</h3><p>Enterprise cloud) Tj
+T*
+(development.</p></div>) Tj
+T*
+(<div class='feature-box'><h3>Python AI</h3><p>Machine learning and computer) Tj
+T*
+(vision.</p></div>) Tj
+T*
+(<div class='feature-box'><h3>Cybersecurity</h3><p>Penetration testing and network) Tj
+T*
+(defense.</p></div>) Tj
+T*
+(</div>) Tj
+T*
+() Tj
+T*
+(/* Mobile-First Base Styles \(Default for Mobile Screens < 768px\) */) Tj
+T*
+(.feature-container {) Tj
+T*
+(display: flex;) Tj
+T*
+(flex-direction: column;         /* Single vertical column stack on mobile */) Tj
+T*
+(gap: 1rem;) Tj
+T*
+(padding: 1rem;) Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 2311 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Internet Programming | Unit 3: Responsive Design & Frameworks) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 3 of 6) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(}) Tj
+T*
+(.feature-box { background: #f1f3f5; padding: 1.5rem; border-radius: 6px; }) Tj
+T*
+() Tj
+T*
+(/* Tablet Breakpoint \(>= 768px\) */) Tj
+T*
+(@media screen and \(min-width: 768px\) {) Tj
+T*
+(.feature-container {) Tj
+T*
+(flex-direction: row;          /* Wrap into horizontal multi-column */) Tj
+T*
+(flex-wrap: wrap;) Tj
+T*
+(}) Tj
+T*
+(.feature-box { flex: 1 1 calc\(50% - 1rem\); } /* 2 columns on tablets */) Tj
+T*
+(}) Tj
+T*
+() Tj
+T*
+(/* Desktop Breakpoint \(>= 992px\) */) Tj
+T*
+(@media screen and \(min-width: 992px\) {) Tj
+T*
+(.feature-box { flex: 1 1 calc\(33.333% - 1rem\); } /* 3 equal columns */) Tj
+T*
+(}) Tj
+T*
+(Key Technique: Progressive enhancement using min-width breakpoints: 1 column \(<768px\) ->) Tj
+T*
+(2 columns \(768px-991px\) -> 3 columns \(>=992px\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 2: Bootstrap 5 Responsive Grid & Card System]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Create a responsive university faculty profile directory using) Tj
+T*
+(Bootstrap 5 grid classes \(.container, .row, .col-*\) and Card components.) Tj
+T*
+(Bootstrap 5 HTML Markup:) Tj
+T*
+(<div class='container my-5'>) Tj
+T*
+(<h2 class='text-center mb-4 text-primary'>Faculty of Computer Science</h2>) Tj
+T*
+(<div class='row g-4'>) Tj
+T*
+() Tj
+T*
+(<!-- Column 1: 12 cols on mobile, 6 on tablet, 4 on desktop -->) Tj
+T*
+(<div class='col-12 col-md-6 col-lg-4'>) Tj
+T*
+(<div class='card h-100 shadow-sm border-0'>) Tj
+T*
+(<img src='prof1.jpg' class='card-img-top' alt='Dr. Sharma'>) Tj
+T*
+(<div class='card-body'>) Tj
+T*
+(<h5 class='card-title'>Dr. Aarav Sharma</h5>) Tj
+T*
+(<p class='card-text text-muted'>Professor of Artificial Intelligence</p>) Tj
+T*
+(<a href='#' class='btn btn-outline-primary btn-sm'>View Research</a>) Tj
+T*
+(</div>) Tj
+T*
+(</div>) Tj
+T*
+(</div>) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 2342 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Internet Programming | Unit 3: Responsive Design & Frameworks) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 4 of 6) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(<!-- Column 2 -->) Tj
+T*
+(<div class='col-12 col-md-6 col-lg-4'>) Tj
+T*
+(<div class='card h-100 shadow-sm border-0'>) Tj
+T*
+(<img src='prof2.jpg' class='card-img-top' alt='Dr. Patel'>) Tj
+T*
+(<div class='card-body'>) Tj
+T*
+(<h5 class='card-title'>Dr. Diya Patel</h5>) Tj
+T*
+(<p class='card-text text-muted'>Chair of Data Communications</p>) Tj
+T*
+(<a href='#' class='btn btn-outline-primary btn-sm'>View Research</a>) Tj
+T*
+(</div>) Tj
+T*
+(</div>) Tj
+T*
+(</div>) Tj
+T*
+() Tj
+T*
+(</div>) Tj
+T*
+(</div>) Tj
+T*
+(Key Classes: col-12 col-md-6 col-lg-4 achieves seamless 1-to-2-to-3 column) Tj
+T*
+(responsiveness; h-100 equalizes card heights.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 3: Fluid Typography with CSS clamp\(\)]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Implement modern fluid typography that smoothly scales between minimum) Tj
+T*
+(18px and maximum 36px based on viewport width without rigid media queries.) Tj
+T*
+(CSS Source Code:) Tj
+T*
+(/* Fluid Responsive Typography using clamp\(min, preferred, max\) */) Tj
+T*
+(h1.fluid-title {) Tj
+T*
+(font-size: clamp\(1.5rem, 1rem + 2.5vw, 3rem\);) Tj
+T*
+(/* At 320px viewport: clamp resolves to minimum 1.5rem \(24px\) */) Tj
+T*
+(/* At 1600px viewport: clamp resolves to maximum 3.0rem \(48px\) */) Tj
+T*
+(/* Smooth mathematical linear scaling in between! */) Tj
+T*
+(}) Tj
+T*
+() Tj
+T*
+(.fluid-container {) Tj
+T*
+(width: clamp\(300px, 90vw, 1200px\); /* Responsive container with min/max caps */) Tj
+T*
+(margin-inline: auto;) Tj
+T*
+(}) Tj
+T*
+(Key Benefit: Completely eliminates choppy font jumps at arbitrary media query) Tj
+T*
+(breakpoints.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 4: Responsive Navbar with Hamburger Toggle Menu]) Tj
+T*
+/F1 9 Tf
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 2336 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Internet Programming | Unit 3: Responsive Design & Frameworks) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 5 of 6) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Construct a responsive mobile navigation bar that collapses into an) Tj
+T*
+(accessible hamburger icon button on mobile screens \(< 768px\).) Tj
+T*
+(HTML & CSS Code:) Tj
+T*
+(<header class='site-header'>) Tj
+T*
+(<div class='logo'>LPU Portal</div>) Tj
+T*
+(<button class='menu-toggle' aria-label='Open Navigation'>&#9776;</button>) Tj
+T*
+(<nav class='site-nav'>) Tj
+T*
+(<a href='#'>Dashboard</a>) Tj
+T*
+(<a href='#'>Examinations</a>) Tj
+T*
+(<a href='#'>Fee Payment</a>) Tj
+T*
+(</nav>) Tj
+T*
+(</header>) Tj
+T*
+() Tj
+T*
+(/* Responsive Navigation Styles */) Tj
+T*
+(.menu-toggle { display: none; background: none; border: none; font-size: 1.75rem;) Tj
+T*
+(cursor: pointer; }) Tj
+T*
+(.site-nav { display: flex; gap: 1rem; }) Tj
+T*
+() Tj
+T*
+(@media screen and \(max-width: 767px\) {) Tj
+T*
+(.menu-toggle { display: block; } /* Show hamburger on mobile */) Tj
+T*
+(.site-nav {) Tj
+T*
+(display: none;                 /* Hidden until toggled via JS */) Tj
+T*
+(position: absolute;) Tj
+T*
+(top: 60px; left: 0; width: 100%;) Tj
+T*
+(flex-direction: column;) Tj
+T*
+(background: #ffffff;) Tj
+T*
+(box-shadow: 0 4px 6px rgba\(0,0,0,0.1\);) Tj
+T*
+(}) Tj
+T*
+(.site-nav.active { display: flex; }) Tj
+T*
+(}) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.5 University Review & Examination Questions) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Q1: Explain the Mobile-First design philosophy and contrast its CSS architecture) Tj
+T*
+(against the Desktop-First approach.) Tj
+T*
+(Answer: Mobile-First design begins by designing and coding the web application for the) Tj
+T*
+(smallest display viewports \(smartphones\) first, considering core content, minimal) Tj
+T*
+(bandwidth, and touch ergonomics. In CSS, base rules contain no media queries and apply) Tj
+T*
+(to mobile devices by default. Progressive enhancements for larger screens are layered on) Tj
+T*
+(using 'min-width' media queries \(@media \(min-width: 768px\)\). Desktop-First designs for) Tj
+T*
+ET
+
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 16 0 R >>
+endobj
+16 0 obj
+<< /Length 1875 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Internet Programming | Unit 3: Responsive Design & Frameworks) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 6 of 6) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(full desktop monitors and uses 'max-width' queries to hide, shrink, or override elements) Tj
+T*
+(for smaller devices. Mobile-first is superior because mobile devices possess constrained) Tj
+T*
+(bandwidth, memory, and CPU: downloading heavy desktop styles only to override them) Tj
+T*
+(degrades performance.) Tj
+T*
+(* Q2: Explain the internal mathematical mechanics of the Bootstrap 12-column) Tj
+T*
+(responsive grid system.) Tj
+T*
+(Answer: Bootstrap's grid is built on Flexbox. A horizontal container row \(.row\) has) Tj
+T*
+(negative margins \(-12px\) that cancel out the horizontal padding of its parent container.) Tj
+T*
+(Child columns \(.col-*\) have 12px of padding on each side \(creating 24px gutters\). The) Tj
+T*
+(12-column system is based on fractional math: each column class represents a fraction of) Tj
+T*
+(12. For instance, .col-4 occupies 4/12 = 33.333% width; .col-6 occupies 6/12 = 50%;) Tj
+T*
+(.col-12 occupies 100%. Responsive infix classes \(.col-md-6\) apply flex-basis: 50% only) Tj
+T*
+(when the viewport crosses the medium breakpoint \(768px\), defaulting to 100% width on) Tj
+T*
+(smaller mobile screens.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 3.6 Key Takeaways and Revision Points) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Responsive design combines Fluid Grids, Flexible Images, and Media Queries.) Tj
+T*
+(* The viewport meta tag is mandatory to prevent mobile browser canvas scaling.) Tj
+T*
+(* Mobile-first architecture progressively enhances layout via min-width queries.) Tj
+T*
+(* Bootstrap divides horizontal space into 12 flexible fractional columns.) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000178 00000 n 
+0000000248 00000 n 
+0000000323 00000 n 
+0000000435 00000 n 
+0000003180 00000 n 
+0000003292 00000 n 
+0000005971 00000 n 
+0000006084 00000 n 
+0000008448 00000 n 
+0000008562 00000 n 
+0000010957 00000 n 
+0000011071 00000 n 
+0000013460 00000 n 
+0000013574 00000 n 
+trailer
+<< /Size 17 /Root 1 0 R >>
+startxref
+15502
+%%EOF

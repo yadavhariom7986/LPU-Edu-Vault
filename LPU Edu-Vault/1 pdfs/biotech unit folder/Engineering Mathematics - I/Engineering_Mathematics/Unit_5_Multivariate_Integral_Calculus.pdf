@@ -1,0 +1,10491 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R 35 0 R 37 0 R 39 0 R 41 0 R 43 0 R 45 0 R 47 0 R 49 0 R 51 0 R 53 0 R 55 0 R 57 0 R 59 0 R 61 0 R] /Count 30 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 4 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 8957 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 5: MULTIVARIABLE INTEGRAL CALCULUS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 1 of 30) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(1.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Fubini's theorem states that for a continuous) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(function f\(x, y\) on a rectangle [a, b] x [c, d],) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(the double integral can be evaluated as:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(An ordinary derivative) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.3 Td
+(An iterated integral in either order of) Tj
+ET
+BT
+/F1 7.4 Tf
+72 735.7 Td
+(integration) Tj
+ET
+BT
+/F2 7.4 Tf
+58 726.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 726.1 Td
+(A single Riemann sum) Tj
+ET
+BT
+/F2 7.4 Tf
+58 716.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 716.5001 Td
+(Zero) Tj
+ET
+BT
+/F2 8.0 Tf
+42 692.9001 Td
+(2.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.9001 Td
+(The area of a closed plane region R is given by) Tj
+ET
+BT
+/F1 7.8 Tf
+58 683.7001 Td
+(the double integral:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 672.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 672.0001 Td
+(iint_R x dA) Tj
+ET
+BT
+/F2 7.4 Tf
+58 662.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 662.4001 Td
+(iint_R 1 dA) Tj
+ET
+BT
+/F2 7.4 Tf
+58 652.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 652.8001 Td
+(iint_R y dA) Tj
+ET
+BT
+/F2 7.4 Tf
+58 643.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 643.2001 Td
+(iint_R \(x + y\) dA) Tj
+ET
+BT
+/F2 8.0 Tf
+42 619.6002 Td
+(3.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.6002 Td
+(When converting a double integral from Cartesian) Tj
+ET
+BT
+/F1 7.8 Tf
+58 610.4001 Td
+(to polar coordinates, the area element dx dy is) Tj
+ET
+BT
+/F1 7.8 Tf
+58 601.2001 Td
+(replaced by:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 589.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 589.5001 Td
+(dr dtheta) Tj
+ET
+BT
+/F2 7.4 Tf
+58 579.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 579.9001 Td
+(r dr dtheta) Tj
+ET
+BT
+/F2 7.4 Tf
+58 570.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 570.3002 Td
+(r^2 dr dtheta) Tj
+ET
+BT
+/F2 7.4 Tf
+58 560.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 560.7002 Td
+(\(1/r\) dr dtheta) Tj
+ET
+BT
+/F2 8.0 Tf
+42 537.1002 Td
+(4.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 537.1002 Td
+(The volume of a 3D solid region V bounded below) Tj
+ET
+BT
+/F1 7.8 Tf
+58 527.9002 Td
+(by z = 0 and above by z = f\(x, y\) >= 0 over) Tj
+ET
+BT
+/F1 7.8 Tf
+58 518.7002 Td
+(region R is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 507.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 507.0002 Td
+(iint_R f\(x, y\) dA) Tj
+ET
+BT
+/F2 7.4 Tf
+58 497.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 497.4002 Td
+(iint_R [f\(x, y\)]^2 dA) Tj
+ET
+BT
+/F2 7.4 Tf
+58 487.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 487.8002 Td
+(int_R f\(x, y\) dx) Tj
+ET
+BT
+/F2 7.4 Tf
+58 478.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 478.2002 Td
+(2*pi * iint_R f\(x, y\) dA) Tj
+ET
+BT
+/F2 8.0 Tf
+42 454.6002 Td
+(5.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 454.6002 Td
+(In changing the order of integration of int_0^1) Tj
+ET
+BT
+/F1 7.8 Tf
+58 445.4001 Td
+(int_0^x f\(x, y\) dy dx, the new limits are:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 433.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 433.7001 Td
+(int_0^1 int_0^y f dx dy) Tj
+ET
+BT
+/F2 7.4 Tf
+58 424.1001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 424.1001 Td
+(int_0^1 int_y^1 f dx dy) Tj
+ET
+BT
+/F2 7.4 Tf
+58 414.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 414.5001 Td
+(int_0^x int_0^1 f dx dy) Tj
+ET
+BT
+/F2 7.4 Tf
+58 404.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 404.9001 Td
+(int_0^1 int_0^1 f dx dy) Tj
+ET
+BT
+/F2 8.0 Tf
+42 381.3001 Td
+(6.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 381.3001 Td
+(The mass M of a planar lamina R with variable) Tj
+ET
+BT
+/F1 7.8 Tf
+58 372.1001 Td
+(surface density rho\(x, y\) is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 360.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 360.4001 Td
+(iint_R 1 dA) Tj
+ET
+BT
+/F2 7.4 Tf
+58 350.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 350.8001 Td
+(iint_R rho\(x, y\) dA) Tj
+ET
+BT
+/F2 7.4 Tf
+58 341.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 341.2001 Td
+(iint_R x*rho dA) Tj
+ET
+BT
+/F2 7.4 Tf
+58 331.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 331.6001 Td
+(iint_R y*rho dA) Tj
+ET
+BT
+/F2 8.0 Tf
+42 308.0001 Td
+(7.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 308.0001 Td
+(The x-coordinate of the center of mass) Tj
+ET
+BT
+/F1 7.8 Tf
+58 298.8 Td
+(\(centroid\) of a lamina R with uniform density) Tj
+ET
+BT
+/F1 7.8 Tf
+58 289.6 Td
+(is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 277.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 277.9 Td
+(iint_R y dA / Area) Tj
+ET
+BT
+/F2 7.4 Tf
+58 268.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 268.3 Td
+(iint_R x dA / Area) Tj
+ET
+BT
+/F2 7.4 Tf
+58 258.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 258.7 Td
+(iint_R x^2 dA / Area) Tj
+ET
+BT
+/F2 7.4 Tf
+58 249.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 249.1 Td
+(Area / iint_R x dA) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(8.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(The moment of inertia I_x of a lamina R with) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(density rho about the x-axis is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(iint_R x^2 * rho dA) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(iint_R y^2 * rho dA) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(iint_R \(x^2 + y^2\) * rho dA) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(iint_R x*y * rho dA) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(9.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(The polar moment of inertia I_0 about the origin) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(satisfies the perpendicular axis theorem:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(I_0 = I_x - I_y) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(I_0 = I_x + I_y) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(I_0 = I_x * I_y) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(I_0 = sqrt\(I_x^2 + I_y^2\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(10.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(In cylindrical coordinates \(r, theta, z\), the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(differential volume element dV is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.5001 Td
+(dr dtheta dz) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.9001 Td
+(r dr dtheta dz) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.3002 Td
+(r^2 dr dtheta dz) Tj
+ET
+BT
+/F2 7.4 Tf
+322 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 587.7002 Td
+(r * sin theta dr dtheta dz) Tj
+ET
+BT
+/F2 8.0 Tf
+306 564.1002 Td
+(11.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.1002 Td
+(In spherical polar coordinates \(rho, theta,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(phi\), the differential volume element dV is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 543.2002 Td
+(rho drho dtheta dphi) Tj
+ET
+BT
+/F2 7.4 Tf
+322 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 533.6002 Td
+(rho^2 * sin theta drho dtheta dphi) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.0002 Td
+(rho^2 * cos theta drho dtheta dphi) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.4003 Td
+(rho^3 drho dtheta dphi) Tj
+ET
+BT
+/F2 8.0 Tf
+306 490.8003 Td
+(12.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 490.8003 Td
+(The volume of a sphere of radius R evaluated by) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6003 Td
+(triple integration is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 469.9002 Td
+(2 * pi * R^3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.3002 Td
+(\(4/3\) * pi * R^3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 450.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 450.7002 Td
+(pi * R^3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.1002 Td
+(\(2/3\) * pi * R^3) Tj
+ET
+BT
+/F2 8.0 Tf
+306 417.5002 Td
+(13.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 417.5002 Td
+(A line integral int_C F . dr represents the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 408.3002 Td
+(physical work done by a force field F along) Tj
+ET
+BT
+/F1 7.8 Tf
+322 399.1002 Td
+(curve C if F and r are:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.4002 Td
+(Charge and distance) Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.8002 Td
+(Force vector and displacement differential) Tj
+ET
+BT
+/F2 7.4 Tf
+322 368.2002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 368.2002 Td
+(Velocity and acceleration) Tj
+ET
+BT
+/F2 7.4 Tf
+322 358.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 358.6002 Td
+(Pressure and volume) Tj
+ET
+BT
+/F2 8.0 Tf
+306 335.0002 Td
+(14.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 335.0002 Td
+(A vector field F is called conservative if there) Tj
+ET
+BT
+/F1 7.8 Tf
+322 325.8001 Td
+(exists a scalar potential function phi such) Tj
+ET
+BT
+/F1 7.8 Tf
+322 316.6001 Td
+(that:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.9001 Td
+(F = curl\(phi\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 295.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 295.3001 Td
+(F = grad\(phi\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 285.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 285.7001 Td
+(div\(F\) = 0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 276.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 276.1001 Td
+(F . phi = 0) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 6 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+6 0 obj
+<< /Length 9118 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 5: MULTIVARIABLE INTEGRAL CALCULUS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 2 of 30) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(15.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(If a force field F is conservative, the line) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(integral int_C F . dr between two fixed points A) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(and B is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(Dependent on the exact path taken) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.3 Td
+(Independent of the path connecting A and B) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.7 Td
+(Always zero) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.1 Td
+(Infinite) Tj
+ET
+BT
+/F2 8.0 Tf
+42 701.5001 Td
+(16.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(The line integral of a conservative vector field) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.3 Td
+(around ANY closed path C \(oint_C F . dr\) is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.6 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.0001 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.4001 Td
+(2*pi) Tj
+ET
+BT
+/F2 7.4 Tf
+58 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 651.8001 Td
+(Area enclosed) Tj
+ET
+BT
+/F2 8.0 Tf
+42 628.2001 Td
+(17.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(A necessary and sufficient condition for a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.0001 Td
+(continuous vector field F in R^3 to be) Tj
+ET
+BT
+/F1 7.8 Tf
+58 609.8001 Td
+(conservative in a simply connected domain is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 598.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 598.1001 Td
+(div\(F\) = 0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.5001 Td
+(curl\(F\) = 0 \(F is irrotational\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 578.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 578.9001 Td
+(div\(F\) = 1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 569.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 569.3002 Td
+(grad\(F\) = 0) Tj
+ET
+BT
+/F2 8.0 Tf
+42 545.7002 Td
+(18.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 545.7002 Td
+(Green's Theorem in a plane relates a line) Tj
+ET
+BT
+/F1 7.8 Tf
+58 536.5002 Td
+(integral around a closed boundary curve C to a:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.8002 Td
+(Single integral along the normal) Tj
+ET
+BT
+/F2 7.4 Tf
+58 515.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 515.2002 Td
+(Double integral over the enclosed plane) Tj
+ET
+BT
+/F1 7.4 Tf
+72 506.6002 Td
+(region R) Tj
+ET
+BT
+/F2 7.4 Tf
+58 497.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 497.0002 Td
+(Triple integral over a sphere) Tj
+ET
+BT
+/F2 7.4 Tf
+58 487.4002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 487.4002 Td
+(Surface integral in R^3) Tj
+ET
+BT
+/F2 8.0 Tf
+42 463.8002 Td
+(19.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 463.8002 Td
+(The mathematical statement of Green's Theorem is) Tj
+ET
+BT
+/F1 7.8 Tf
+58 454.6002 Td
+(oint_C \(P dx + Q dy\) equals:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 442.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 442.9001 Td
+(iint_R \(dP/dy + dQ/dx\) dA) Tj
+ET
+BT
+/F2 7.4 Tf
+58 433.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 433.3001 Td
+(iint_R \(dQ/dx - dP/dy\) dA) Tj
+ET
+BT
+/F2 7.4 Tf
+58 423.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 423.7001 Td
+(iint_R \(dP/dx - dQ/dy\) dA) Tj
+ET
+BT
+/F2 7.4 Tf
+58 414.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 414.1001 Td
+(iint_R \(dQ/dy - dP/dx\) dA) Tj
+ET
+BT
+/F2 8.0 Tf
+42 390.5001 Td
+(20.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 390.5001 Td
+(Using Green's Theorem, the area of a closed) Tj
+ET
+BT
+/F1 7.8 Tf
+58 381.3001 Td
+(plane region R bounded by C is given by the line) Tj
+ET
+BT
+/F1 7.8 Tf
+58 372.1001 Td
+(integral:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 360.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 360.4001 Td
+(oint_C \(x dx + y dy\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 350.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 350.8001 Td
+(\(1/2\) * oint_C \(x dy - y dx\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 341.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 341.2001 Td
+(oint_C \(x dy + y dx\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 331.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 331.6001 Td
+(\(1/2\) * oint_C \(x dx - y dy\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 308.0001 Td
+(21.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 308.0001 Td
+(Stokes' Theorem relates the line integral of) Tj
+ET
+BT
+/F1 7.8 Tf
+58 298.8 Td
+(vector field F around a closed curve C to the:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 287.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 287.1 Td
+(Volume integral of div\(F\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 277.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 277.5 Td
+(Surface integral of curl\(F\) over any surface) Tj
+ET
+BT
+/F1 7.4 Tf
+72 268.9 Td
+(S bounded by C) Tj
+ET
+BT
+/F2 7.4 Tf
+58 259.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 259.3 Td
+(Double integral of grad\(F\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 249.7 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 249.7 Td
+(Flux of F itself) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(22.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(The mathematical formulation of Stokes' Theorem) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(is oint_C F . dr equals:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(iint_S \(curl F\) . n dS) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(iint_S \(div F\) dS) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(iiint_V \(curl F\) dV) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(oint_C \(div F\) ds) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(23.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(If curl\(F\) = 0 everywhere on surface S, then by) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(Stokes' Theorem, the circulation oint_C F . dr) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.6 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.0001 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.4001 Td
+(Area of S) Tj
+ET
+BT
+/F2 7.4 Tf
+322 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 651.8001 Td
+(pi) Tj
+ET
+BT
+/F2 8.0 Tf
+306 628.2001 Td
+(24.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(Gauss' Divergence Theorem transforms a surface) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(integral of flux over a closed surface S into a:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.3001 Td
+(Line integral around boundary) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.7001 Td
+(Triple integral of the divergence of F over) Tj
+ET
+BT
+/F1 7.4 Tf
+336 589.1002 Td
+(the enclosed volume V) Tj
+ET
+BT
+/F2 7.4 Tf
+322 579.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 579.5002 Td
+(Double integral of curl F) Tj
+ET
+BT
+/F2 7.4 Tf
+322 569.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 569.9002 Td
+(Gradient integral) Tj
+ET
+BT
+/F2 8.0 Tf
+306 546.3002 Td
+(25.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 546.3002 Td
+(The mathematical formulation of Gauss') Tj
+ET
+BT
+/F1 7.8 Tf
+322 537.1002 Td
+(Divergence Theorem is iint_S F . n dS equals:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 525.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 525.4002 Td
+(iiint_V \(curl F\) dV) Tj
+ET
+BT
+/F2 7.4 Tf
+322 515.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 515.8002 Td
+(iiint_V \(div F\) dV) Tj
+ET
+BT
+/F2 7.4 Tf
+322 506.2002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 506.2002 Td
+(oint_C F . dr) Tj
+ET
+BT
+/F2 7.4 Tf
+322 496.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 496.6002 Td
+(iint_S \(grad F\) dS) Tj
+ET
+BT
+/F2 8.0 Tf
+306 473.0002 Td
+(26.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 473.0002 Td
+(A vector field F is called solenoidal if its) Tj
+ET
+BT
+/F1 7.8 Tf
+322 463.8002 Td
+(divergence satisfies:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 452.1002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 452.1002 Td
+(curl\(F\) = 0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 442.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 442.5002 Td
+(div\(F\) = 0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 432.9002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 432.9002 Td
+(grad\(F\) = 0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 423.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 423.3002 Td
+(div\(F\) > 0) Tj
+ET
+BT
+/F2 8.0 Tf
+306 399.7002 Td
+(27.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 399.7002 Td
+(If a vector field F is solenoidal throughout a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 390.5002 Td
+(volume V bounded by closed surface S, the net) Tj
+ET
+BT
+/F1 7.8 Tf
+322 381.3001 Td
+(outward flux iint_S F . n dS is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 369.6001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 369.6001 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 360.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 360.0001 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 350.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 350.4001 Td
+(Volume V) Tj
+ET
+BT
+/F2 7.4 Tf
+322 340.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 340.8001 Td
+(Surface area S) Tj
+ET
+BT
+/F2 8.0 Tf
+306 317.2001 Td
+(28.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 317.2001 Td
+(In biological transport phenomena, Fick's first) Tj
+ET
+BT
+/F1 7.8 Tf
+322 308.0001 Td
+(law defines solute flux J = -D * grad\(C\). The) Tj
+ET
+BT
+/F1 7.8 Tf
+322 298.8001 Td
+(net mass flux out of a cell boundary S is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 287.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 287.1001 Td
+(iint_S J . n dS) Tj
+ET
+BT
+/F2 7.4 Tf
+322 277.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 277.5001 Td
+(iiint_V C dV) Tj
+ET
+BT
+/F2 7.4 Tf
+322 267.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 267.9001 Td
+(oint_C C ds) Tj
+ET
+BT
+/F2 7.4 Tf
+322 258.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 258.3 Td
+(div\(J\)) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 8 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+8 0 obj
+<< /Length 8144 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 5: MULTIVARIABLE INTEGRAL CALCULUS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 3 of 30) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(29.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(In an incompressible fluid \(such as culture) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(broth in a bioreactor\), the velocity vector) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(field v satisfies:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(curl\(v\) = 0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.3 Td
+(div\(v\) = 0 \(solenoidal\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.7 Td
+(v . grad\(v\) = 1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.1 Td
+(div\(v\) > 0) Tj
+ET
+BT
+/F2 8.0 Tf
+42 701.5001 Td
+(30.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(The value of the double integral int_0^1 int_0^1) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.3 Td
+(\(x + y\) dx dy is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.6 Td
+(1/2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.0001 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.4001 Td
+(2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 651.8001 Td
+(1/4) Tj
+ET
+BT
+/F2 8.0 Tf
+42 628.2001 Td
+(31.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(Evaluate int_0^1 int_0^1 x * y dx dy:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.5001 Td
+(1/2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.9001 Td
+(1/4) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.3002 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 587.7002 Td
+(1/8) Tj
+ET
+BT
+/F2 8.0 Tf
+42 564.1002 Td
+(32.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(The value of int_0^2 int_0^3 1 dx dy is simply) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(the area of the rectangle, equal to:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 543.2002 Td
+(5) Tj
+ET
+BT
+/F2 7.4 Tf
+58 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 533.6002 Td
+(6) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.0002 Td
+(12) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.4003 Td
+(1) Tj
+ET
+BT
+/F2 8.0 Tf
+42 490.8003 Td
+(33.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 490.8003 Td
+(Dirichlet's integral formula evaluates multiple) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6003 Td
+(integrals over regions bounded by:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 469.9002 Td
+(x >= 0, y >= 0, z >= 0 and x + y + z <= 1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.3002 Td
+(Circles) Tj
+ET
+BT
+/F2 7.4 Tf
+58 450.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 450.7002 Td
+(Hyperbolas) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.1002 Td
+(Paraboloids) Tj
+ET
+BT
+/F2 8.0 Tf
+42 417.5002 Td
+(34.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 417.5002 Td
+(According to Dirichlet's formula, iiint_V) Tj
+ET
+BT
+/F1 7.8 Tf
+58 408.3002 Td
+(x^\(l-1\) y^\(m-1\) z^\(n-1\) dx dy dz over x+y+z<=1) Tj
+ET
+BT
+/F1 7.8 Tf
+58 399.1002 Td
+(is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 387.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 387.4002 Td
+([Gamma\(l\)*Gamma\(m\)*Gamma\(n\)] /) Tj
+ET
+BT
+/F1 7.4 Tf
+72 378.8002 Td
+(Gamma\(l+m+n+1\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 369.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 369.2002 Td
+([Gamma\(l\)+Gamma\(m\)+Gamma\(n\)] / Gamma\(l+m+n\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 359.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 359.6002 Td
+(Gamma\(l*m*n\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 350.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 350.0002 Td
+(1 / \(l*m*n\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 326.4001 Td
+(35.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 326.4001 Td
+(The surface area of a smooth surface z = f\(x, y\)) Tj
+ET
+BT
+/F1 7.8 Tf
+58 317.2001 Td
+(over region R in the xy-plane is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 305.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 305.5001 Td
+(iint_R sqrt\(1 + \(dz/dx\)^2 + \(dz/dy\)^2\) dA) Tj
+ET
+BT
+/F2 7.4 Tf
+58 295.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 295.9001 Td
+(iint_R [1 + dz/dx + dz/dy] dA) Tj
+ET
+BT
+/F2 7.4 Tf
+58 286.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 286.3001 Td
+(iint_R z dA) Tj
+ET
+BT
+/F2 7.4 Tf
+58 276.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 276.7001 Td
+(iint_R sqrt\(x^2 + y^2 + z^2\) dA) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(36.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Evaluate div\(r\) where r = x*i + y*j + z*k is the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(position vector in R^3:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(r) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(37.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(Evaluate curl\(r\) where r = x*i + y*j + z*k is) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(the position vector:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(0 \(Zero vector\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(2*r) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(38.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(The divergence of the curl of any twice) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(continuously differentiable vector field) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(div\(curl F\) is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.3001 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.7001 Td
+(0 identically) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.1002 Td
+(-1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 578.5002 Td
+(grad\(div F\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 554.9002 Td
+(39.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(The curl of the gradient of any twice) Tj
+ET
+BT
+/F1 7.8 Tf
+322 545.7002 Td
+(continuously differentiable scalar field) Tj
+ET
+BT
+/F1 7.8 Tf
+322 536.5002 Td
+(curl\(grad phi\) is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.8002 Td
+(0 identically) Tj
+ET
+BT
+/F2 7.4 Tf
+322 515.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 515.2002 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 505.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 505.6002 Td
+(Laplacian of phi) Tj
+ET
+BT
+/F2 7.4 Tf
+322 496.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 496.0002 Td
+(grad\(div phi\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 472.4002 Td
+(40.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 472.4002 Td
+(The Laplacian operator del^2 phi is defined as:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.7002 Td
+(div\(curl phi\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 451.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 451.1002 Td
+(div\(grad phi\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.5002 Td
+(curl\(grad phi\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 431.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 431.9001 Td
+(grad\(div phi\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 408.3001 Td
+(41.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 408.3001 Td
+(Evaluate int_0^1 int_0^\(x^2\) x * y dy dx:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 396.6001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 396.6001 Td
+(1/12) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.0001 Td
+(1/6) Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.4001 Td
+(1/24) Tj
+ET
+BT
+/F2 7.4 Tf
+322 367.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 367.8001 Td
+(1/4) Tj
+ET
+BT
+/F2 8.0 Tf
+306 344.2001 Td
+(42.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 344.2001 Td
+(Evaluate int_0^\(pi/2\) int_0^a r * dr dtheta) Tj
+ET
+BT
+/F1 7.8 Tf
+322 335.0001 Td
+(\(area of a quarter circle of radius a\):) Tj
+ET
+BT
+/F2 7.4 Tf
+322 323.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 323.3001 Td
+(pi * a^2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 313.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 313.7001 Td
+(pi * a^2 / 2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.1001 Td
+(pi * a^2 / 4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 294.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 294.5001 Td
+(2 * pi * a^2) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 10 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+10 0 obj
+<< /Length 8416 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 5: MULTIVARIABLE INTEGRAL CALCULUS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 4 of 30) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(43.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Evaluate int_0^infinity int_0^infinity e^\(-\(x^2) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(+ y^2\)\) dx dy by converting to polar) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(coordinates:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(pi) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.3 Td
+(pi / 2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.7 Td
+(pi / 4) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.1 Td
+(sqrt\(pi\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 701.5001 Td
+(44.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(Change the order of integration for I = int_0^a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.3 Td
+(int_x^a \(x^2 + y^2\) dy dx. The new integral is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.6 Td
+(int_0^a int_0^y \(x^2 + y^2\) dx dy) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.0001 Td
+(int_0^a int_y^a \(x^2 + y^2\) dx dy) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.4001 Td
+(int_x^a int_0^a \(x^2 + y^2\) dx dy) Tj
+ET
+BT
+/F2 7.4 Tf
+58 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 651.8001 Td
+(int_0^a int_0^a \(x^2 + y^2\) dx dy) Tj
+ET
+BT
+/F2 8.0 Tf
+42 628.2001 Td
+(45.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(Evaluate int_0^1 int_y^1 e^\(x^2\) dx dy by) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.0001 Td
+(reversing the order of integration:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 607.3001 Td
+(\(e - 1\) / 2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.7001 Td
+(e - 1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.1002 Td
+(\(e + 1\) / 2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 578.5002 Td
+(e / 2) Tj
+ET
+BT
+/F2 8.0 Tf
+42 554.9002 Td
+(46.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(Evaluate int_0^pi int_0^\(a*sin theta\) r dr) Tj
+ET
+BT
+/F1 7.8 Tf
+58 545.7002 Td
+(dtheta:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 534.0002 Td
+(pi * a^2 / 2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.4002 Td
+(pi * a^2 / 4) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.8002 Td
+(pi * a^2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 505.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 505.2002 Td
+(a^2 / 2) Tj
+ET
+BT
+/F2 8.0 Tf
+42 481.6002 Td
+(47.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6002 Td
+(Find the area bounded by the cardioid r = a*\(1 +) Tj
+ET
+BT
+/F1 7.8 Tf
+58 472.4002 Td
+(cos theta\) using double integration:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.7002 Td
+(\(3/2\) * pi * a^2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 451.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 451.1002 Td
+(pi * a^2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.5002 Td
+(2 * pi * a^2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 431.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 431.9002 Td
+(3 * pi * a^2) Tj
+ET
+BT
+/F2 8.0 Tf
+42 408.3002 Td
+(48.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 408.3002 Td
+(Evaluate the triple integral int_0^1 int_0^1) Tj
+ET
+BT
+/F1 7.8 Tf
+58 399.1002 Td
+(int_0^1 \(x + y + z\) dx dy dz:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 387.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 387.4001 Td
+(1/2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.8001 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 368.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 368.2001 Td
+(3/2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 358.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 358.6001 Td
+(2) Tj
+ET
+BT
+/F2 8.0 Tf
+42 335.0001 Td
+(49.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.0001 Td
+(Evaluate the volume of the tetrahedron bounded) Tj
+ET
+BT
+/F1 7.8 Tf
+58 325.8001 Td
+(by coordinate planes and x + y + z = 1:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 314.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 314.1001 Td
+(1/2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.5001 Td
+(1/6) Tj
+ET
+BT
+/F2 7.4 Tf
+58 294.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 294.9001 Td
+(1/3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 285.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 285.3001 Td
+(1/24) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(50.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(The mass of the solid ellipsoid x^2/a^2 +) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(y^2/b^2 + z^2/c^2 <= 1 with uniform density rho0) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(4 * pi * a * b * c * rho0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.3 Td
+(\(4/3\) * pi * a * b * c * rho0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.7 Td
+(\(2/3\) * pi * a * b * c * rho0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.1 Td
+(pi * a * b * c * rho0) Tj
+ET
+BT
+/F2 8.0 Tf
+306 701.5001 Td
+(51.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(Evaluate the line integral int_C \(x^2 * dx + x*y) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(* dy\) from \(0, 0\) to \(1, 1\) along the straight) Tj
+ET
+BT
+/F1 7.8 Tf
+322 683.1 Td
+(line y = x:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.4 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.4 Td
+(1/3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.8 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.8 Td
+(2/3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 652.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 652.2001 Td
+(5/6) Tj
+ET
+BT
+/F2 7.4 Tf
+322 642.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 642.6001 Td
+(1) Tj
+ET
+BT
+/F2 8.0 Tf
+306 619.0001 Td
+(52.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(Evaluate the line integral int_C \(x^2 * dx + x*y) Tj
+ET
+BT
+/F1 7.8 Tf
+322 609.8001 Td
+(* dy\) from \(0, 0\) to \(1, 1\) along the parabola y) Tj
+ET
+BT
+/F1 7.8 Tf
+322 600.6001 Td
+(= x^2:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.9001 Td
+(1/3 + 2/5 = 11/15) Tj
+ET
+BT
+/F2 7.4 Tf
+322 579.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 579.3001 Td
+(7/12) Tj
+ET
+BT
+/F2 7.4 Tf
+322 569.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 569.7001 Td
+(5/6) Tj
+ET
+BT
+/F2 7.4 Tf
+322 560.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 560.1002 Td
+(2/3) Tj
+ET
+BT
+/F2 8.0 Tf
+306 536.5002 Td
+(53.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 536.5002 Td
+(The force field F = \(2xy + z^3\)*i + x^2*j +) Tj
+ET
+BT
+/F1 7.8 Tf
+322 527.3002 Td
+(3xz^2*k has potential function phi equal to:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 515.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 515.6002 Td
+(x^2 * y + x * z^3 + C) Tj
+ET
+BT
+/F2 7.4 Tf
+322 506.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 506.0002 Td
+(2xy + z^3 + C) Tj
+ET
+BT
+/F2 7.4 Tf
+322 496.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 496.4001 Td
+(x^2 * y * z + C) Tj
+ET
+BT
+/F2 7.4 Tf
+322 486.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 486.8001 Td
+(x*y*z + C) Tj
+ET
+BT
+/F2 8.0 Tf
+306 463.2001 Td
+(54.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 463.2001 Td
+(Evaluate the work done by conservative force F =) Tj
+ET
+BT
+/F1 7.8 Tf
+322 454.0001 Td
+(grad\(x^2 * y\) in moving a particle from \(1, 1\)) Tj
+ET
+BT
+/F1 7.8 Tf
+322 444.8001 Td
+(to \(2, 3\):) Tj
+ET
+BT
+/F2 7.4 Tf
+322 433.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 433.1001 Td
+(12 - 1 = 11) Tj
+ET
+BT
+/F2 7.4 Tf
+322 423.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 423.5001 Td
+(10) Tj
+ET
+BT
+/F2 7.4 Tf
+322 413.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 413.9001 Td
+(8) Tj
+ET
+BT
+/F2 7.4 Tf
+322 404.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 404.3001 Td
+(14) Tj
+ET
+BT
+/F2 8.0 Tf
+306 380.7001 Td
+(55.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 380.7001 Td
+(Verify Green's Theorem for oint_C \(x*y + y^2\)*dx) Tj
+ET
+BT
+/F1 7.8 Tf
+322 371.5001 Td
+(+ x^2*dy where C is closed curve bounded by y =) Tj
+ET
+BT
+/F1 7.8 Tf
+322 362.3 Td
+(x and y = x^2. The value is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 350.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 350.6 Td
+(1/20) Tj
+ET
+BT
+/F2 7.4 Tf
+322 341 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 341 Td
+(-1/20) Tj
+ET
+BT
+/F2 7.4 Tf
+322 331.4 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 331.4 Td
+(1/12) Tj
+ET
+BT
+/F2 7.4 Tf
+322 321.8 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 321.8 Td
+(-1/12) Tj
+ET
+BT
+/F2 8.0 Tf
+306 298.2 Td
+(56.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 298.2 Td
+(Using Green's theorem, compute the area of the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 289 Td
+(ellipse x = a*cos t, y = b*sin t:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 277.3 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 277.3 Td
+(pi * a * b) Tj
+ET
+BT
+/F2 7.4 Tf
+322 267.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 267.7 Td
+(2 * pi * a * b) Tj
+ET
+BT
+/F2 7.4 Tf
+322 258.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 258.1 Td
+(4 * pi * a * b) Tj
+ET
+BT
+/F2 7.4 Tf
+322 248.5 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 248.5 Td
+(pi * \(a^2 + b^2\)) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 12 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+12 0 obj
+<< /Length 8298 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 5: MULTIVARIABLE INTEGRAL CALCULUS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 5 of 30) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(57.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Evaluate oint_C \(y * dx - x * dy\) around the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(unit circle x^2 + y^2 = 1 traversed) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(counter-clockwise:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.3 Td
+(-2*pi) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.7 Td
+(2*pi) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.1 Td
+(pi) Tj
+ET
+BT
+/F2 8.0 Tf
+42 701.5001 Td
+(58.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(If F = y*i + z*j + x*k, find curl\(F\):) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(-i - j - k) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(i + j + k) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(2*\(i + j + k\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(59.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(Apply Stokes' theorem to evaluate oint_C F . dr) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(where F = y*i + z*j + x*k and C is circle x^2 +) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.0001 Td
+(y^2 = 1, z = 0:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 607.3001 Td
+(-pi) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.7001 Td
+(pi) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.1002 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 578.5002 Td
+(2*pi) Tj
+ET
+BT
+/F2 8.0 Tf
+42 554.9002 Td
+(60.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(Evaluate iint_S r . n dS over closed surface S) Tj
+ET
+BT
+/F1 7.8 Tf
+58 545.7002 Td
+(bounding volume V where r = x*i + y*j + z*k:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 534.0002 Td
+(V) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.4002 Td
+(2 * V) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.8002 Td
+(3 * V \(by Gauss Divergence Theorem\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 505.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 505.2002 Td
+(0) Tj
+ET
+BT
+/F2 8.0 Tf
+42 481.6002 Td
+(61.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6002 Td
+(Evaluate the outward flux of F = 2x*i + 3y*j +) Tj
+ET
+BT
+/F1 7.8 Tf
+58 472.4002 Td
+(z*k through the surface of unit sphere x^2 + y^2) Tj
+ET
+BT
+/F1 7.8 Tf
+58 463.2002 Td
+(+ z^2 = 1:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 451.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 451.5002 Td
+(6 * \(4/3\)*pi = 8*pi) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.9002 Td
+(4*pi) Tj
+ET
+BT
+/F2 7.4 Tf
+58 432.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 432.3002 Td
+(2*pi) Tj
+ET
+BT
+/F2 7.4 Tf
+58 422.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 422.7002 Td
+(12*pi) Tj
+ET
+BT
+/F2 8.0 Tf
+42 399.1002 Td
+(62.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 399.1002 Td
+(Evaluate the line integral oint_C \(3x + 4y\)*dx +) Tj
+ET
+BT
+/F1 7.8 Tf
+58 389.9001 Td
+(\(2x - 3y\)*dy around circle x^2 + y^2 = 4 using) Tj
+ET
+BT
+/F1 7.8 Tf
+58 380.7001 Td
+(Green's Theorem:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 369.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 369.0001 Td
+(-2 * \(4*pi\) = -8*pi) Tj
+ET
+BT
+/F2 7.4 Tf
+58 359.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 359.4001 Td
+(8*pi) Tj
+ET
+BT
+/F2 7.4 Tf
+58 349.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 349.8001 Td
+(4*pi) Tj
+ET
+BT
+/F2 7.4 Tf
+58 340.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 340.2001 Td
+(0) Tj
+ET
+BT
+/F2 8.0 Tf
+42 316.6001 Td
+(63.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 316.6001 Td
+(Evaluate the surface integral iint_S \(x*i + y*j) Tj
+ET
+BT
+/F1 7.8 Tf
+58 307.4001 Td
+(+ z*k\) . n dS over the cube [0, 1] x [0, 1] x) Tj
+ET
+BT
+/F1 7.8 Tf
+58 298.2001 Td
+([0, 1]:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 286.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 286.5001 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 276.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 276.9001 Td
+(2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 267.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 267.3 Td
+(3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 257.7 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 257.7 Td
+(6) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(64.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(A scalar potential exists for vector field F if) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(and only if:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(div\(F\) = 0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(curl\(F\) = 0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(div\(F\) = curl\(F\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(F . dr = 0) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(65.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(In an immobilized enzyme spherical bead of) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(radius R, nutrient concentration satisfies del^2) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(C = \(1/r^2\)*d/dr\(r^2 dC/dr\) = k/D. In steady) Tj
+ET
+BT
+/F1 7.8 Tf
+322 683.1 Td
+(state, total consumption rate within the bead) Tj
+ET
+BT
+/F1 7.8 Tf
+322 673.9 Td
+(is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 662.2 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 662.2 Td
+(iiint_V k dV = \(4/3\)*pi*R^3 * k) Tj
+ET
+BT
+/F2 7.4 Tf
+322 652.6 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 652.6 Td
+(4*pi*R^2 * k) Tj
+ET
+BT
+/F2 7.4 Tf
+322 643.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 643.0001 Td
+(k * R) Tj
+ET
+BT
+/F2 7.4 Tf
+322 633.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 633.4001 Td
+(2*pi*R^3 * k) Tj
+ET
+BT
+/F2 8.0 Tf
+306 609.8001 Td
+(66.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 609.8001 Td
+(The surface area of the portion of plane x + y +) Tj
+ET
+BT
+/F1 7.8 Tf
+322 600.6001 Td
+(z = a in the first octant is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.9001 Td
+(sqrt\(3\) * a^2 / 2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 579.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 579.3001 Td
+(a^2 / 2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 569.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 569.7001 Td
+(sqrt\(2\) * a^2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 560.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 560.1002 Td
+(3 * a^2) Tj
+ET
+BT
+/F2 8.0 Tf
+306 536.5002 Td
+(67.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 536.5002 Td
+(The moment of inertia of a uniform solid sphere) Tj
+ET
+BT
+/F1 7.8 Tf
+322 527.3002 Td
+(of mass M and radius R about its diameter is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 515.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 515.6002 Td
+(\(2/5\) * M * R^2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 506.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 506.0002 Td
+(\(1/2\) * M * R^2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 496.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 496.4001 Td
+(\(2/3\) * M * R^2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 486.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 486.8001 Td
+(\(3/5\) * M * R^2) Tj
+ET
+BT
+/F2 8.0 Tf
+306 463.2001 Td
+(68.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 463.2001 Td
+(The centroid \(x_bar, y_bar\) of the region) Tj
+ET
+BT
+/F1 7.8 Tf
+322 454.0001 Td
+(bounded by y = x^2 and y = 4 has y_bar equal to:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 442.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 442.3001 Td
+(2.0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 432.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 432.7001 Td
+(2.4 = 12/5) Tj
+ET
+BT
+/F2 7.4 Tf
+322 423.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 423.1001 Td
+(2.5) Tj
+ET
+BT
+/F2 7.4 Tf
+322 413.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 413.5001 Td
+(3.0) Tj
+ET
+BT
+/F2 8.0 Tf
+306 389.9001 Td
+(69.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 389.9001 Td
+(Evaluate int_0^1 int_0^sqrt\(1 - x^2\) dy dx \(area) Tj
+ET
+BT
+/F1 7.8 Tf
+322 380.7001 Td
+(of quarter unit disk\):) Tj
+ET
+BT
+/F2 7.4 Tf
+322 369.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 369.0001 Td
+(pi / 2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 359.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 359.4001 Td
+(pi / 4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 349.8 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 349.8 Td
+(pi) Tj
+ET
+BT
+/F2 7.4 Tf
+322 340.2 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 340.2 Td
+(1) Tj
+ET
+BT
+/F2 8.0 Tf
+306 316.6 Td
+(70.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 316.6 Td
+(Evaluate int_0^a int_0^b int_0^c dx dy dz:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.9 Td
+(a + b + c) Tj
+ET
+BT
+/F2 7.4 Tf
+322 295.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 295.3 Td
+(a * b * c) Tj
+ET
+BT
+/F2 7.4 Tf
+322 285.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 285.7 Td
+(\(1/6\) * abc) Tj
+ET
+BT
+/F2 7.4 Tf
+322 276.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 276.1 Td
+(\(1/3\) * abc) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 14 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+14 0 obj
+<< /Length 8632 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 5: MULTIVARIABLE INTEGRAL CALCULUS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 6 of 30) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(71.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(The curl of the velocity field in a rigid body) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(rotation v = omega x r is equal to:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(omega) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(2 * omega) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(-omega) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(72.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(If F is the gradient of a harmonic function) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(\(del^2 phi = 0\), then F is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(Both solenoidal and irrotational) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(Solenoidal only) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(Irrotational only) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(Rotational) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(73.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(The circulation of fluid velocity v around a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(closed contour C is defined as:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.5001 Td
+(oint_C v . dr) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.9001 Td
+(iint_S v . n dS) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.3002 Td
+(div\(v\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 587.7002 Td
+(grad\(v\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 564.1002 Td
+(74.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(Gauss's law in electrostatics relates total) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(electric flux through a closed surface to:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 543.2002 Td
+(Enclosed electric charge Q_enc / epsilon0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 533.6002 Td
+(Magnetic field) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.0002 Td
+(Electric potential) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.4003 Td
+(Current) Tj
+ET
+BT
+/F2 8.0 Tf
+42 490.8003 Td
+(75.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 490.8003 Td
+(The value of iint_S curl\(F\) . n dS over ANY) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6003 Td
+(closed surface S is identically:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 469.9002 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.3002 Td
+(0 \(since a closed surface has no boundary) Tj
+ET
+BT
+/F1 7.4 Tf
+72 451.7002 Td
+(curve\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 442.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 442.1002 Td
+(Volume enclosed) Tj
+ET
+BT
+/F2 7.4 Tf
+58 432.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 432.5002 Td
+(4*pi) Tj
+ET
+BT
+/F2 8.0 Tf
+42 408.9002 Td
+(76.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 408.9002 Td
+(Evaluate by changing order of integration:) Tj
+ET
+BT
+/F1 7.8 Tf
+58 399.7002 Td
+(int_0^infinity int_x^infinity \(e^\(-y\) / y\) dy) Tj
+ET
+BT
+/F1 7.8 Tf
+58 390.5002 Td
+(dx:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 378.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 378.8002 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 369.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 369.2002 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 359.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 359.6002 Td
+(e) Tj
+ET
+BT
+/F2 7.4 Tf
+58 350.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 350.0002 Td
+(1/2) Tj
+ET
+BT
+/F2 8.0 Tf
+42 326.4001 Td
+(77.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 326.4001 Td
+(Evaluate int_0^1 int_0^sqrt\(1 - x^2\) \(x^2 + y^2\)) Tj
+ET
+BT
+/F1 7.8 Tf
+58 317.2001 Td
+(dy dx by converting to polar coordinates:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 305.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 305.5001 Td
+(pi / 8) Tj
+ET
+BT
+/F2 7.4 Tf
+58 295.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 295.9001 Td
+(pi / 4) Tj
+ET
+BT
+/F2 7.4 Tf
+58 286.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 286.3001 Td
+(pi / 16) Tj
+ET
+BT
+/F2 7.4 Tf
+58 276.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 276.7001 Td
+(pi / 2) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(78.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Evaluate the volume of the region common to the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(two intersecting cylinders x^2 + y^2 = a^2 and) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(x^2 + z^2 = a^2 \(Steinmetz solid\):) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(16*a^3 / 3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.3 Td
+(8*a^3 / 3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.7 Td
+(4*pi*a^3 / 3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.1 Td
+(8*pi*a^3) Tj
+ET
+BT
+/F2 8.0 Tf
+306 701.5001 Td
+(79.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(Evaluate iiint_V \(x + y + z\) dx dy dz over the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(region bounded by x=0, y=0, z=0 and x + y + z =) Tj
+ET
+BT
+/F1 7.8 Tf
+322 683.1 Td
+(1:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.4 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.4 Td
+(1 / 8) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.8 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.8 Td
+(1 / 24) Tj
+ET
+BT
+/F2 7.4 Tf
+322 652.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 652.2001 Td
+(1 / 12) Tj
+ET
+BT
+/F2 7.4 Tf
+322 642.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 642.6001 Td
+(1 / 4) Tj
+ET
+BT
+/F2 8.0 Tf
+306 619.0001 Td
+(80.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(Evaluate the integral iiint_V z dV over the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 609.8001 Td
+(upper hemisphere x^2 + y^2 + z^2 <= R^2 \(z >=) Tj
+ET
+BT
+/F1 7.8 Tf
+322 600.6001 Td
+(0\):) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.9001 Td
+(pi * R^4 / 4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 579.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 579.3001 Td
+(pi * R^4 / 2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 569.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 569.7001 Td
+(\(4/3\)*pi*R^4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 560.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 560.1002 Td
+(pi * R^3 / 3) Tj
+ET
+BT
+/F2 8.0 Tf
+306 536.5002 Td
+(81.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 536.5002 Td
+(The z-coordinate of the center of mass of a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 527.3002 Td
+(uniform solid hemisphere of radius R is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 515.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 515.6002 Td
+(3R / 8) Tj
+ET
+BT
+/F2 7.4 Tf
+322 506.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 506.0002 Td
+(R / 2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 496.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 496.4001 Td
+(5R / 8) Tj
+ET
+BT
+/F2 7.4 Tf
+322 486.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 486.8001 Td
+(3R / 4) Tj
+ET
+BT
+/F2 8.0 Tf
+306 463.2001 Td
+(82.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 463.2001 Td
+(Evaluate the line integral oint_C [ \(y - sin) Tj
+ET
+BT
+/F1 7.8 Tf
+322 454.0001 Td
+(x\)*dx + cos x * dy ] where C is the triangle) Tj
+ET
+BT
+/F1 7.8 Tf
+322 444.8001 Td
+(bounded by y = 0, x = pi/2, y = \(2/pi\)*x using) Tj
+ET
+BT
+/F1 7.8 Tf
+322 435.6001 Td
+(Green's Theorem:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 423.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 423.9001 Td
+(pi / 4 - 1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 414.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 414.3001 Td
+(-\(pi / 4\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 404.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 404.7001 Td
+(- \(1/2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 395.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 395.1001 Td
+(1 - pi/4) Tj
+ET
+BT
+/F2 8.0 Tf
+306 371.5001 Td
+(83.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 371.5001 Td
+(Verify Stokes' Theorem for F = \(2x - y\)*i -) Tj
+ET
+BT
+/F1 7.8 Tf
+322 362.3 Td
+(y*z^2*j - y^2*z*k over the upper half-sphere x^2) Tj
+ET
+BT
+/F1 7.8 Tf
+322 353.1 Td
+(+ y^2 + z^2 = 1 \(z >= 0\). The value of) Tj
+ET
+BT
+/F1 7.8 Tf
+322 343.9 Td
+(circulation is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 332.2 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 332.2 Td
+(pi) Tj
+ET
+BT
+/F2 7.4 Tf
+322 322.6 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 322.6 Td
+(2 * pi) Tj
+ET
+BT
+/F2 7.4 Tf
+322 313 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 313 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 303.4 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 303.4 Td
+(-pi) Tj
+ET
+BT
+/F2 8.0 Tf
+306 279.8 Td
+(84.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 279.8 Td
+(Evaluate iint_S F . n dS using Gauss Divergence) Tj
+ET
+BT
+/F1 7.8 Tf
+322 270.6 Td
+(Theorem for F = 4x*i - 2y^2*j + z^2*k over the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 261.4 Td
+(cylinder x^2 + y^2 = 4, z = 0, z = 3:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 249.7 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 249.7 Td
+(84 * pi) Tj
+ET
+BT
+/F2 7.4 Tf
+322 240.1 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 240.1 Td
+(48 * pi) Tj
+ET
+BT
+/F2 7.4 Tf
+322 230.5 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 230.5 Td
+(96 * pi) Tj
+ET
+BT
+/F2 7.4 Tf
+322 220.8999 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 220.8999 Td
+(72 * pi) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 16 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+16 0 obj
+<< /Length 8920 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 5: MULTIVARIABLE INTEGRAL CALCULUS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 7 of 30) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(85.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Evaluate the volume enclosed by the paraboloid z) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(= x^2 + y^2 and the plane z = 4:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(8 * pi) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(16 * pi) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(4 * pi) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(32 * pi) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(86.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(Evaluate the triple integral iiint_V sqrt\(x^2 +) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(y^2 + z^2\) dx dy dz over the sphere x^2 + y^2 +) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.3 Td
+(z^2 <= a^2:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.6 Td
+(pi * a^4) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.0001 Td
+(2 * pi * a^4) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.4001 Td
+(\(4/3\) * pi * a^4) Tj
+ET
+BT
+/F2 7.4 Tf
+58 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 651.8001 Td
+(\(1/2\) * pi * a^4) Tj
+ET
+BT
+/F2 8.0 Tf
+42 628.2001 Td
+(87.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(Using Dirichlet's theorem, evaluate iiint_V) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.0001 Td
+(x^\(1/2\) y^\(1/2\) z^\(1/2\) dx dy dz over the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 609.8001 Td
+(tetrahedron x+y+z<=1 \(x, y, z >= 0\):) Tj
+ET
+BT
+/F2 7.4 Tf
+58 598.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 598.1001 Td
+(pi * sqrt\(pi\) / 210) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.5001 Td
+(pi^2 / 105) Tj
+ET
+BT
+/F2 7.4 Tf
+58 578.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 578.9001 Td
+(sqrt\(pi\) / 70) Tj
+ET
+BT
+/F2 7.4 Tf
+58 569.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 569.3002 Td
+(pi / 140) Tj
+ET
+BT
+/F2 8.0 Tf
+42 545.7002 Td
+(88.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 545.7002 Td
+(Evaluate the line integral int_C \(y^2 * dx + 2xy) Tj
+ET
+BT
+/F1 7.8 Tf
+58 536.5002 Td
+(* dy + z * dz\) from \(0, 0, 0\) to \(1, 1, 1\):) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.8002 Td
+(3 / 2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 515.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 515.2002 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 505.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 505.6002 Td
+(2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 496.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 496.0002 Td
+(1/2) Tj
+ET
+BT
+/F2 8.0 Tf
+42 472.4002 Td
+(89.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 472.4002 Td
+(Find the flux of F = x^3*i + y^3*j + z^3*k) Tj
+ET
+BT
+/F1 7.8 Tf
+58 463.2002 Td
+(across the surface of the sphere x^2 + y^2 + z^2) Tj
+ET
+BT
+/F1 7.8 Tf
+58 454.0002 Td
+(= a^2:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 442.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 442.3001 Td
+(\(12/5\) * pi * a^5) Tj
+ET
+BT
+/F2 7.4 Tf
+58 432.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 432.7001 Td
+(\(4/5\) * pi * a^5) Tj
+ET
+BT
+/F2 7.4 Tf
+58 423.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 423.1001 Td
+(4 * pi * a^5) Tj
+ET
+BT
+/F2 7.4 Tf
+58 413.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 413.5001 Td
+(\(3/5\) * pi * a^5) Tj
+ET
+BT
+/F2 8.0 Tf
+42 389.9001 Td
+(90.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 389.9001 Td
+(In bioreactor gas sparging, oxygen bubble) Tj
+ET
+BT
+/F1 7.8 Tf
+58 380.7001 Td
+(dissolution flux J_O2 = kL * \(C_sat - C\). For a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 371.5001 Td
+(spherical bubble of radius R, total oxygen) Tj
+ET
+BT
+/F1 7.8 Tf
+58 362.3001 Td
+(transfer rate per bubble is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 350.6001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 350.6001 Td
+(4 * pi * R^2 * kL * \(C_sat - C\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 341.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 341.0001 Td
+(4/3 * pi * R^3 * kL) Tj
+ET
+BT
+/F2 7.4 Tf
+58 331.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 331.4001 Td
+(2 * pi * R * kL) Tj
+ET
+BT
+/F2 7.4 Tf
+58 321.8 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 321.8 Td
+(pi * R^2 * kL) Tj
+ET
+BT
+/F2 8.0 Tf
+42 298.2 Td
+(91.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 298.2 Td
+(Evaluate the line integral oint_C \(e^x * dx + 2y) Tj
+ET
+BT
+/F1 7.8 Tf
+58 289 Td
+(* dy - dz\) around any closed curve C in space:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 277.3 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 277.3 Td
+(0 \(since F is conservative\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 267.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 267.7 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 258.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 258.1 Td
+(2*pi) Tj
+ET
+BT
+/F2 7.4 Tf
+58 248.5 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 248.5 Td
+(pi) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(92.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Evaluate the surface area of the portion of) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(cylinder x^2 + z^2 = a^2 inside the cylinder x^2) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(+ y^2 = a^2:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(8 * a^2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.3 Td
+(4 * a^2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.7 Td
+(16 * a^2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.1 Td
+(2 * pi * a^2) Tj
+ET
+BT
+/F2 8.0 Tf
+306 701.5001 Td
+(93.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(The centroid of the area in the first quadrant) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(bounded by the astroid x^\(2/3\) + y^\(2/3\) =) Tj
+ET
+BT
+/F1 7.8 Tf
+322 683.1 Td
+(a^\(2/3\) has coordinates \(x_bar, y_bar\):) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.4 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.4 Td
+(\(256*a / \(315*pi\), 256*a / \(315*pi\)\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.8 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.8 Td
+(\(3a/8, 3a/8\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 652.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 652.2001 Td
+(\(a/2, a/2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 642.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 642.6001 Td
+(\(4a/3pi, 4a/3pi\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 619.0001 Td
+(94.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(Evaluate the double integral iint_R \(x^2 + y^2\)) Tj
+ET
+BT
+/F1 7.8 Tf
+322 609.8001 Td
+(dA over the region R bounded by y = x^2 and y =) Tj
+ET
+BT
+/F1 7.8 Tf
+322 600.6001 Td
+(x:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.9001 Td
+(3 / 35) Tj
+ET
+BT
+/F2 7.4 Tf
+322 579.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 579.3001 Td
+(1 / 35) Tj
+ET
+BT
+/F2 7.4 Tf
+322 569.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 569.7001 Td
+(2 / 35) Tj
+ET
+BT
+/F2 7.4 Tf
+322 560.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 560.1002 Td
+(4 / 35) Tj
+ET
+BT
+/F2 8.0 Tf
+306 536.5002 Td
+(95.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 536.5002 Td
+(Evaluate the volume of the solid bounded by the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 527.3002 Td
+(coordinate planes and the surface sqrt\(x\) +) Tj
+ET
+BT
+/F1 7.8 Tf
+322 518.1002 Td
+(sqrt\(y\) + sqrt\(z\) = 1:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 506.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 506.4001 Td
+(1 / 90) Tj
+ET
+BT
+/F2 7.4 Tf
+322 496.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 496.8001 Td
+(1 / 60) Tj
+ET
+BT
+/F2 7.4 Tf
+322 487.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 487.2001 Td
+(1 / 120) Tj
+ET
+BT
+/F2 7.4 Tf
+322 477.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 477.6001 Td
+(1 / 30) Tj
+ET
+BT
+/F2 8.0 Tf
+306 454.0001 Td
+(96.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 454.0001 Td
+(Compute the circulation of F = \(x - y\)*i + \(x +) Tj
+ET
+BT
+/F1 7.8 Tf
+322 444.8001 Td
+(y\)*j around the square with vertices \(+-1, +-1\)) Tj
+ET
+BT
+/F1 7.8 Tf
+322 435.6001 Td
+(using Green's Theorem:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 423.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 423.9001 Td
+(8) Tj
+ET
+BT
+/F2 7.4 Tf
+322 414.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 414.3001 Td
+(4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 404.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 404.7001 Td
+(2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 395.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 395.1001 Td
+(0) Tj
+ET
+BT
+/F2 8.0 Tf
+306 371.5001 Td
+(97.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 371.5001 Td
+(The scalar potential phi for F = \(y^2*z^3\)*i +) Tj
+ET
+BT
+/F1 7.8 Tf
+322 362.3 Td
+(\(2xyz^3\)*j + \(3xy^2*z^2\)*k with phi\(0, 0, 0\) = 0) Tj
+ET
+BT
+/F1 7.8 Tf
+322 353.1 Td
+(is:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 341.4 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 341.4 Td
+(x * y^2 * z^3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 331.8 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 331.8 Td
+(x^2 * y * z^3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 322.2 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 322.2 Td
+(3 * x * y * z) Tj
+ET
+BT
+/F2 7.4 Tf
+322 312.6 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 312.6 Td
+(x^2 + y^2 + z^2) Tj
+ET
+BT
+/F2 8.0 Tf
+306 289 Td
+(98.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 289 Td
+(Evaluate iint_S \(x*dy dz + y*dz dx + z*dx dy\)) Tj
+ET
+BT
+/F1 7.8 Tf
+322 279.8 Td
+(over the outer surface of the ellipsoid x^2/a^2) Tj
+ET
+BT
+/F1 7.8 Tf
+322 270.6 Td
+(+ y^2/b^2 + z^2/c^2 = 1:) Tj
+ET
+BT
+/F2 7.4 Tf
+322 258.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 258.9 Td
+(4 * pi * a * b * c) Tj
+ET
+BT
+/F2 7.4 Tf
+322 249.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 249.3 Td
+(3 * pi * a * b * c) Tj
+ET
+BT
+/F2 7.4 Tf
+322 239.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 239.7 Td
+(\(4/3\) * pi * a * b * c) Tj
+ET
+BT
+/F2 7.4 Tf
+322 230.0999 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 230.0999 Td
+(2 * pi * a * b * c) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 18 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+18 0 obj
+<< /Length 1666 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 5: MULTIVARIABLE INTEGRAL CALCULUS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 8 of 30) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(99.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Evaluate the line integral oint_C \(z dx + x dy +) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(y dz\) along the intersection of x^2 + y^2 + z^2) Tj
+ET
+BT
+/F1 7.8 Tf
+58 765.6 Td
+(= a^2 and x + y + z = 0 using Stokes' Theorem:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.9 Td
+(pi * a^2 * sqrt\(3\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.3 Td
+(pi * a^2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.7 Td
+(-pi * a^2 * sqrt\(3\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.1 Td
+(0) Tj
+ET
+BT
+/F2 8.0 Tf
+42 691.5001 Td
+(100.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 691.5001 Td
+(In cell suspension fluid mechanics, if vorticity) Tj
+ET
+BT
+/F1 7.8 Tf
+58 682.3 Td
+(omega = curl\(v\) = 0 everywhere in an) Tj
+ET
+BT
+/F1 7.8 Tf
+58 673.1 Td
+(irrotational vortex flow, the velocity) Tj
+ET
+BT
+/F1 7.8 Tf
+58 663.9 Td
+(circulation around any closed loop not enclosing) Tj
+ET
+BT
+/F1 7.8 Tf
+58 654.7 Td
+(the core is:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 643 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 643 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 633.4 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 633.4 Td
+(1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 623.8 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 623.8 Td
+(2*pi) Tj
+ET
+BT
+/F2 7.4 Tf
+58 614.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 614.2001 Td
+(Infinity) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 20 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+20 0 obj
+<< /Length 6066 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 5: MULTIVARIABLE INTEGRAL CALCULUS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 9 of 30) Tj
+ET
+BT
+/F2 10 Tf
+45 780 Td
+(SECTION B: DESCRIPTIVE & SUBJECTIVE QUESTIONS) Tj
+ET
+BT
+/F2 8.5 Tf
+45 760 Td
+(Q1. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 760 Td
+(Explain Fubini's Theorem for double integrals over rectangular regions. Evaluate the double) Tj
+ET
+BT
+/F1 8.5 Tf
+72 749.5 Td
+(integral: I = iint_R \(x^2 + y^2\) dA over the rectangle R = [0, 2] x [0, 3] in both orders of) Tj
+ET
+BT
+/F1 8.5 Tf
+72 739 Td
+(integration.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 724.5 Td
+(Q2. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 724.5 Td
+(Describe the methodology for changing the order of integration in a double integral. Change the) Tj
+ET
+BT
+/F1 8.5 Tf
+72 714 Td
+(order of integration and evaluate: I = int_0^a int_{x^2/a}^{2a - x} x * y dy dx.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 689 Td
+(Q3. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 689 Td
+(Change the order of integration and evaluate the non-elementary integral: I = int_0^1 int_y^1) Tj
+ET
+BT
+/F1 8.5 Tf
+72 678.5 Td
+(e^\(x^2\) dx dy.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 653.5 Td
+(Q4. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 653.5 Td
+(Derive the polar coordinate transformation for double integrals. Use polar coordinates to evaluate) Tj
+ET
+BT
+/F1 8.5 Tf
+72 643 Td
+(the famous improper integral: I = int_0^infinity int_0^infinity e^\(-\(x^2 + y^2\)\) dx dy, and hence) Tj
+ET
+BT
+/F1 8.5 Tf
+72 632.5 Td
+(deduce the value of the Gaussian integral int_0^infinity e^\(-x^2\) dx.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 618 Td
+(Q5. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 618 Td
+(Evaluate the double integral: I = iint_R sqrt\(a^2 - x^2 - y^2\) dx dy, where R is the region in the) Tj
+ET
+BT
+/F1 8.5 Tf
+72 607.5 Td
+(first quadrant enclosed by the circle x^2 + y^2 = a^2, by transforming into polar coordinates.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 582.5 Td
+(Q6. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 582.5 Td
+(Using double integration, find the area enclosed between the parabola y = x^2 and the straight) Tj
+ET
+BT
+/F1 8.5 Tf
+72 572 Td
+(line y = 2x.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 547 Td
+(Q7. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 547 Td
+(Using double integration in polar coordinates, calculate the area of the region bounded by the) Tj
+ET
+BT
+/F1 8.5 Tf
+72 536.5 Td
+(cardioid r = a * \(1 + cos theta\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 511.5 Td
+(Q8. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 511.5 Td
+(Derive formulas for the center of mass \(centroid\) and moments of inertia of a plane lamina R using) Tj
+ET
+BT
+/F1 8.5 Tf
+72 501 Td
+(double integration. Find the centroid of the region bounded by the parabola y^2 = 4ax and its) Tj
+ET
+BT
+/F1 8.5 Tf
+72 490.5 Td
+(latus rectum x = a.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 476 Td
+(Q9. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 476 Td
+(Find the moment of inertia of a uniform circular disc of mass M and radius R about: \(i\) An axis) Tj
+ET
+BT
+/F1 8.5 Tf
+72 465.5 Td
+(perpendicular to the disc through its center \(polar moment of inertia\), and \(ii\) Any diameter.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 440.5 Td
+(Q10. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 440.5 Td
+(Evaluate the volume of the tetrahedron bounded by the coordinate planes x = 0, y = 0, z = 0 and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 430 Td
+(the plane x + y + z = 1 using triple integration.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 405 Td
+(Q11. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 405 Td
+(Explain cylindrical coordinates and evaluate the volume of the solid enclosed by the paraboloid z) Tj
+ET
+BT
+/F1 8.5 Tf
+72 394.5 Td
+(= x^2 + y^2 and the horizontal plane z = 4.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 369.5 Td
+(Q12. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 369.5 Td
+(Explain spherical polar coordinates \(rho, theta, phi\) and evaluate the triple integral: I =) Tj
+ET
+BT
+/F1 8.5 Tf
+72 359 Td
+(iiint_V sqrt\(x^2 + y^2 + z^2\) dx dy dz over the sphere x^2 + y^2 + z^2 <= a^2.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 334 Td
+(Q13. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 334 Td
+(State Dirichlet's Theorem for triple integrals. Use it to evaluate: I = iiint_V x^\(l-1\) * y^\(m-1\)) Tj
+ET
+BT
+/F1 8.5 Tf
+72 323.5 Td
+(* z^\(n-1\) dx dy dz over the positive octant bounded by x + y + z <= 1 \(x, y, z >= 0\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 298.5 Td
+(Q14. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 298.5 Td
+(Find the volume common to the two intersecting cylinders of equal radius a: x^2 + y^2 = a^2 and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 288 Td
+(x^2 + z^2 = a^2 \(Steinmetz solid\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 263 Td
+(Q15. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 263 Td
+(Define a vector line integral and evaluate the work done by the force field F = \(3x^2 + 6y\)*i -) Tj
+ET
+BT
+/F1 8.5 Tf
+72 252.5 Td
+(14yz*j + 20xz^2*k in moving a particle from \(0, 0, 0\) to \(1, 1, 1\) along the parametric curve x =) Tj
+ET
+BT
+/F1 8.5 Tf
+72 242 Td
+(t, y = t^2, z = t^3.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 227.5 Td
+(Q16. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 227.5 Td
+(Define a conservative vector field. Prove that F = \(2xy + z^3\)*i + x^2*j + 3xz^2*k is) Tj
+ET
+BT
+/F1 8.5 Tf
+72 217 Td
+(conservative, find its scalar potential function phi\(x, y, z\), and evaluate the work done in) Tj
+ET
+BT
+/F1 8.5 Tf
+72 206.5 Td
+(moving from \(1, -2, 1\) to \(3, 1, 4\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 192 Td
+(Q17. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 192 Td
+(State Green's Theorem in a plane. Provide a complete analytical proof for a simple region R) Tj
+ET
+BT
+/F1 8.5 Tf
+72 181.5 Td
+(bounded by a piecewise smooth curve C.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 156.5 Td
+(Q18. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 156.5 Td
+(Verify Green's Theorem for the line integral oint_C [ \(x*y + y^2\)*dx + x^2*dy ], where C is the) Tj
+ET
+BT
+/F1 8.5 Tf
+72 146 Td
+(closed curve bounded by y = x and y = x^2.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 121 Td
+(Q19. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 121 Td
+(Derive the line integral area formula from Green's Theorem: Area = \(1/2\) * oint_C \(x dy - y dx\).) Tj
+ET
+BT
+/F1 8.5 Tf
+72 110.5 Td
+(Apply this formula to find the area enclosed by the astroid: x = a*cos^3\(t\), y = a*sin^3\(t\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 85.5 Td
+(Q20. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 85.5 Td
+(State Stokes' Theorem for a vector field F. Give its physical interpretation and state how it) Tj
+ET
+BT
+/F1 8.5 Tf
+72 75 Td
+(reduces to Green's Theorem in the xy-plane.) Tj
+ET
+
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 22 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+22 0 obj
+<< /Length 3413 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 5: MULTIVARIABLE INTEGRAL CALCULUS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 10 of 30) Tj
+ET
+BT
+/F2 8.5 Tf
+45 780 Td
+(Q21. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 780 Td
+(Verify Stokes' Theorem for F = \(2x - y\)*i - y*z^2*j - y^2*z*k over the upper hemisphere surface) Tj
+ET
+BT
+/F1 8.5 Tf
+72 769.5 Td
+(x^2 + y^2 + z^2 = 1 \(z >= 0\), bounded by the circle x^2 + y^2 = 1 in the plane z = 0.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 743.5 Td
+(Q22. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 743.5 Td
+(State Gauss' Divergence Theorem. Provide a rigorous analytical proof for a simple 3D volume V) Tj
+ET
+BT
+/F1 8.5 Tf
+72 733 Td
+(bounded by an orientable closed surface S.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 707 Td
+(Q23. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 707 Td
+(Verify Gauss' Divergence Theorem for the vector field F = 4x*i - 2y^2*j + z^2*k over the cylinder) Tj
+ET
+BT
+/F1 8.5 Tf
+72 696.5 Td
+(x^2 + y^2 = 4, bounded by z = 0 and z = 3.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 670.5 Td
+(Q24. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 670.5 Td
+(Use Gauss' Divergence Theorem to evaluate the outward flux: iint_S \(x^3*i + y^3*j + z^3*k\) . n dS) Tj
+ET
+BT
+/F1 8.5 Tf
+72 660 Td
+(over the spherical surface S: x^2 + y^2 + z^2 = a^2.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 634 Td
+(Q25. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 634 Td
+(Evaluate the surface integral iint_S F . n dS, where F = z*i + x*j - 3y^2*z*k and S is the surface) Tj
+ET
+BT
+/F1 8.5 Tf
+72 623.5 Td
+(of the cylinder x^2 + y^2 = 16 included in the first octant between z = 0 and z = 5.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 597.5 Td
+(Q26. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 597.5 Td
+(Evaluate the line integral oint_C \(z dx + x dy + y dz\) along the intersection of the sphere x^2 +) Tj
+ET
+BT
+/F1 8.5 Tf
+72 587 Td
+(y^2 + z^2 = a^2 and the plane x + y + z = 0 using Stokes' Theorem.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 561 Td
+(Q27. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 561 Td
+(Prove that the field of flow of an incompressible fluid has zero divergence \(div v = 0\) from the) Tj
+ET
+BT
+/F1 8.5 Tf
+72 550.5 Td
+(law of conservation of mass. Formulate this via Gauss' Divergence Theorem.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 524.5 Td
+(Q28. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 524.5 Td
+(In biotechnology bioreactor design, use surface flux integration to calculate the total oxygen) Tj
+ET
+BT
+/F1 8.5 Tf
+72 514 Td
+(mass transfer rate across spherical gas bubbles of uniform radius R = 1 mm. Given gas holdup) Tj
+ET
+BT
+/F1 8.5 Tf
+72 503.5 Td
+(epsilon_g = 0.1, liquid volume V_L = 10 m^3, mass transfer coefficient k_L = 4 * 10^-4 m/s, and) Tj
+ET
+BT
+/F2 8.5 Tf
+45 488 Td
+(Q29. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 488 Td
+(In an immobilized enzyme spherical bead of radius R, substrate diffuses radially and undergoes) Tj
+ET
+BT
+/F1 8.5 Tf
+72 477.5 Td
+(zero-order reaction: \(D / r^2\) * d/dr \(r^2 * dC/dr\) = k0. Integrate this second-order ODE in) Tj
+ET
+BT
+/F1 8.5 Tf
+72 467 Td
+(spherical coordinates subject to boundary conditions dC/dr\(0\) = 0 and C\(R\) = Cs, and determine the) Tj
+ET
+BT
+/F2 8.5 Tf
+45 451.5 Td
+(Q30. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 451.5 Td
+(Use the Divergence Theorem to show that for a closed cellular surface S bounding cell volume V,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 441 Td
+(the total diffusive flux of a metabolite governed by Fick's law J = -D * grad\(C\) equals the total) Tj
+ET
+BT
+/F1 8.5 Tf
+72 430.5 Td
+(volumetric reaction rate iiint_V R_rxn dV at steady state.) Tj
+ET
+
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 24 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+24 0 obj
+<< /Length 8428 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 5: MULTIVARIABLE INTEGRAL CALCULUS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 11 of 30) Tj
+ET
+BT
+/F2 11 Tf
+45 780 Td
+(SECTION C: ANSWER KEY - MULTIPLE CHOICE QUESTIONS) Tj
+ET
+0.5 w
+45 772 m 550 772 l S
+BT
+/F2 8.5 Tf
+45 750 Td
+(Q1: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 750 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 734 Td
+(Q2: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 734 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 718 Td
+(Q3: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 718 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 702 Td
+(Q4: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 686 Td
+(Q5: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 686 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 670 Td
+(Q6: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 670 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 654 Td
+(Q7: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 654 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 638 Td
+(Q8: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 638 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 622 Td
+(Q9: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 622 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 606 Td
+(Q10: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 606 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 590 Td
+(Q11: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 590 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 574 Td
+(Q12: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 574 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 558 Td
+(Q13: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 558 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 542 Td
+(Q14: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 542 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 526 Td
+(Q15: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 526 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 510 Td
+(Q16: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 510 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 494 Td
+(Q17: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 494 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 478 Td
+(Q18: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 478 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 462 Td
+(Q19: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 462 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 446 Td
+(Q20: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 446 Td
+([B]) Tj
+ET
+0.2 w
+135 755 m 135 425 l S
+BT
+/F2 8.5 Tf
+145 750 Td
+(Q21: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 750 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 734 Td
+(Q22: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 718 Td
+(Q23: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 718 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 702 Td
+(Q24: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 702 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 686 Td
+(Q25: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 686 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 670 Td
+(Q26: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 670 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 654 Td
+(Q27: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 654 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 638 Td
+(Q28: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 622 Td
+(Q29: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 622 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 606 Td
+(Q30: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 606 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 590 Td
+(Q31: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 590 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 574 Td
+(Q32: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 574 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 558 Td
+(Q33: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 542 Td
+(Q34: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 526 Td
+(Q35: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 510 Td
+(Q36: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 510 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 494 Td
+(Q37: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 478 Td
+(Q38: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 478 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 462 Td
+(Q39: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 446 Td
+(Q40: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 446 Td
+([B]) Tj
+ET
+0.2 w
+235 755 m 235 425 l S
+BT
+/F2 8.5 Tf
+245 750 Td
+(Q41: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 734 Td
+(Q42: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 734 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 718 Td
+(Q43: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 718 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 702 Td
+(Q44: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 686 Td
+(Q45: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 670 Td
+(Q46: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 670 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 654 Td
+(Q47: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 638 Td
+(Q48: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 638 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 622 Td
+(Q49: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 622 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 606 Td
+(Q50: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 606 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 590 Td
+(Q51: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 590 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 574 Td
+(Q52: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 574 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 558 Td
+(Q53: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 542 Td
+(Q54: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 526 Td
+(Q55: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 526 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 510 Td
+(Q56: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 494 Td
+(Q57: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 494 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 478 Td
+(Q58: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 462 Td
+(Q59: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 446 Td
+(Q60: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 446 Td
+([C]) Tj
+ET
+0.2 w
+335 755 m 335 425 l S
+BT
+/F2 8.5 Tf
+345 750 Td
+(Q61: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 734 Td
+(Q62: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 718 Td
+(Q63: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 718 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 702 Td
+(Q64: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 702 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 686 Td
+(Q65: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 670 Td
+(Q66: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 654 Td
+(Q67: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 638 Td
+(Q68: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 638 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 622 Td
+(Q69: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 622 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 606 Td
+(Q70: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 606 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 590 Td
+(Q71: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 590 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 574 Td
+(Q72: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 558 Td
+(Q73: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 542 Td
+(Q74: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 526 Td
+(Q75: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 526 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 510 Td
+(Q76: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 494 Td
+(Q77: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 478 Td
+(Q78: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 462 Td
+(Q79: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 446 Td
+(Q80: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 446 Td
+([A]) Tj
+ET
+0.2 w
+435 755 m 435 425 l S
+BT
+/F2 8.5 Tf
+445 750 Td
+(Q81: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 734 Td
+(Q82: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 718 Td
+(Q83: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 702 Td
+(Q84: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 686 Td
+(Q85: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 670 Td
+(Q86: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 654 Td
+(Q87: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 638 Td
+(Q88: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 622 Td
+(Q89: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 606 Td
+(Q90: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 590 Td
+(Q91: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 574 Td
+(Q92: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 558 Td
+(Q93: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 542 Td
+(Q94: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 526 Td
+(Q95: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 510 Td
+(Q96: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 494 Td
+(Q97: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 478 Td
+(Q98: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 462 Td
+(Q99: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 462 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 446 Td
+(Q100: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 446 Td
+([A]) Tj
+ET
+0.5 w
+45 400 m 550 400 l 550 340 l 45 340 l s
+BT
+/F2 9 Tf
+55 382 Td
+(MCQ Scoring Guide & Difficulty Distribution:) Tj
+ET
+BT
+/F1 8.5 Tf
+55 366 Td
+(Questions 1 to 40: Foundational & Conceptual [Easy] | Questions 41 to 75: Analytical & Applied [Moderate]) Tj
+ET
+BT
+/F1 8.5 Tf
+55 350 Td
+(Questions 76 to 100: Complex Numerical & Advanced Problem Solving [Difficult]) Tj
+ET
+
+endstream
+endobj
+25 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 26 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+26 0 obj
+<< /Length 4063 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 5: MULTIVARIABLE INTEGRAL CALCULUS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 12 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(SECTION D: DETAILED SOLUTIONS FOR SUBJECTIVE QUESTIONS) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(================================================================================) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 1:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Fubini's Theorem for double integrals over rectangular regions. Evaluate the double integral: I = iint_R \(x^2 + y^2\) dA over the rectangle R = [0, 2] x [0, 3] in both orders of integration.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Formal Statement of Fubini's Theorem:) Tj
+T*
+(   Let f\(x, y\) be a continuous real-valued function on a closed bounded rectangle R = [a, b] x [c,) Tj
+T*
+(   d].) Tj
+T*
+(   Then the double integral of f over R exists and can be evaluated by iterated integrals in) Tj
+T*
+(   either order:) Tj
+T*
+(   iint_R f\(x, y\) dA = int_a^b [ int_c^d f\(x, y\) dy ] dx = int_c^d [ int_a^b f\(x, y\) dx ] dy.) Tj
+T*
+(   2. Evaluation Order 1 \(Integrate with respect to y first, then x\):) Tj
+T*
+(   I = int_0^2 [ int_0^3 \(x^2 + y^2\) dy ] dx.) Tj
+T*
+(   - Inner integral:) Tj
+T*
+(   int_0^3 \(x^2 + y^2\) dy = [ x^2 * y + y^3 / 3 ]_0^3 = [ 3*x^2 + 27 / 3 ] - 0 = 3*x^2 + 9.) Tj
+T*
+(   - Outer integral:) Tj
+T*
+(   I = int_0^2 \(3*x^2 + 9\) dx = [ x^3 + 9*x ]_0^2 = [ 2^3 + 9\(2\) ] - 0 = 8 + 18 = 26.) Tj
+T*
+(   3. Evaluation Order 2 \(Integrate with respect to x first, then y\):) Tj
+T*
+(   I = int_0^3 [ int_0^2 \(x^2 + y^2\) dx ] dy.) Tj
+T*
+(   - Inner integral:) Tj
+T*
+(   int_0^2 \(x^2 + y^2\) dx = [ x^3 / 3 + y^2 * x ]_0^2 = [ 8/3 + 2*y^2 ] - 0 = 8/3 + 2*y^2.) Tj
+T*
+(   - Outer integral:) Tj
+T*
+(   I = int_0^3 \(8/3 + 2*y^2\) dy = [ \(8/3\)*y + 2*y^3 / 3 ]_0^3) Tj
+T*
+(   = [ \(8/3\)*3 + 2\(27\)/3 ] - 0 = 8 + 18 = 26.) Tj
+T*
+(   Conclusion:) Tj
+T*
+(   Both orders of integration produce identically 26, verifying Fubini's theorem.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 2:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Describe the methodology for changing the order of integration in a double integral. Change the order of integration and evaluate: I = int_0^a int_{x^2/a}^{2a - x} x * y dy dx.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Methodology for Changing Order of Integration:) Tj
+T*
+(   - Identify the original bounding curves from the limits:) Tj
+T*
+(   Inner limits: y varies from y = x^2 / a \(parabola\) to y = 2a - x \(straight line\).) Tj
+T*
+(   Outer limits: x varies from x = 0 to x = a.) Tj
+T*
+(   - Find intersection of bounding curves:) Tj
+T*
+(   x^2 / a = 2a - x => x^2 + ax - 2a^2 = 0 => \(x + 2a\)\(x - a\) = 0.) Tj
+T*
+(   In the first quadrant, x = a. At x = a: y = a^2 / a = a. Intersection point P\(a, a\).) Tj
+T*
+(   At x = 0: lower curve y = 0, upper curve y = 2a.) Tj
+T*
+(   - Partition region R for horizontal slicing \(dy first, then dx\):) Tj
+T*
+(   As y varies from 0 to 2a, the boundary changes nature at y = a:) Tj
+T*
+(   * Sub-region R1 \(0 <= y <= a\):) Tj
+T*
+(   x varies from x = 0 \(y-axis\) to the parabola x = sqrt\(a * y\).) Tj
+T*
+(   * Sub-region R2 \(a <= y <= 2a\):) Tj
+T*
+(   x varies from x = 0 to the straight line x = 2a - y.) Tj
+T*
+(   2. New Form of Integral:) Tj
+T*
+(   I = int_0^a [ int_0^sqrt\(ay\) x*y dx ] dy + int_a^\(2a\) [ int_0^\(2a - y\) x*y dx ] dy = I1 + I2.) Tj
+T*
+(   3. Evaluate I1:) Tj
+T*
+(   Inner integral: int_0^sqrt\(ay\) x*y dx = y * [ x^2 / 2 ]_0^sqrt\(ay\) = y * \(ay / 2\) = \(a / 2\) *) Tj
+T*
+(   y^2.) Tj
+T*
+(   Outer integral: I1 = int_0^a \(a / 2\) * y^2 dy = \(a / 2\) * [ y^3 / 3 ]_0^a = a^4 / 6.) Tj
+T*
+(   4. Evaluate I2:) Tj
+T*
+ET
+
+endstream
+endobj
+27 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 28 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+28 0 obj
+<< /Length 3940 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 5: MULTIVARIABLE INTEGRAL CALCULUS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 13 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   Inner integral: int_0^\(2a - y\) x*y dx = y * [ x^2 / 2 ]_0^\(2a - y\) = \(y / 2\) * \(2a - y\)^2 = \(y) Tj
+T*
+(   / 2\) * \(4a^2 - 4ay + y^2\).) Tj
+T*
+(   Outer integral: I2 = \(1/2\) * int_a^\(2a\) \(4a^2*y - 4a*y^2 + y^3\) dy) Tj
+T*
+(   = \(1/2\) * [ 2a^2*y^2 - \(4a/3\)*y^3 + y^4 / 4 ]_a^\(2a\).) Tj
+T*
+(   - At y = 2a: 2a^2*\(4a^2\) - \(4a/3\)*\(8a^3\) + 16a^4 / 4 = 8a^4 - \(32/3\)a^4 + 4a^4 = 12a^4 -) Tj
+T*
+(   \(32/3\)a^4 = \(4/3\)a^4.) Tj
+T*
+(   - At y = a: 2a^2*\(a^2\) - \(4a/3\)*\(a^3\) + a^4 / 4 = 2a^4 - \(4/3\)a^4 + a^4 / 4 = \(11/12\)a^4.) Tj
+T*
+(   - Difference: \(4/3\)a^4 - \(11/12\)a^4 = \(16 - 11\)/12 a^4 = \(5/12\)a^4.) Tj
+T*
+(   - I2 = \(1/2\) * \(5/12\)a^4 = \(5/24\)a^4.) Tj
+T*
+(   5. Total Integral:) Tj
+T*
+(   I = I1 + I2 = a^4 / 6 + \(5/24\)a^4 = \(4/24\)a^4 + \(5/24\)a^4 = \(9/24\)a^4 = \(3/8\)a^4.) Tj
+T*
+(   Conclusion:) Tj
+T*
+(   The value of the integral is \(3/8\) * a^4.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 3:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Change the order of integration and evaluate the non-elementary integral: I = int_0^1 int_y^1 e^\(x^2\) dx dy.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Step 1: Analyze the original region of integration:) Tj
+T*
+(   - Inner limits: x varies from x = y to x = 1.) Tj
+T*
+(   - Outer limits: y varies from y = 0 to y = 1.) Tj
+T*
+(   - The integrand e^\(x^2\) has no elementary antiderivative with respect to x.) Tj
+T*
+(   - Bounding lines of region R:) Tj
+T*
+(   Left boundary: line x = y \(or y = x\).) Tj
+T*
+(   Right boundary: vertical line x = 1.) Tj
+T*
+(   Bottom boundary: horizontal line y = 0.) Tj
+T*
+(   The region is a triangle with vertices \(0, 0\), \(1, 0\), and \(1, 1\).) Tj
+T*
+(   Step 2: Change Order of Integration \(Vertical slicing\):) Tj
+T*
+(   - Now let x vary over the whole outer interval: x in [0, 1].) Tj
+T*
+(   - For each fixed x, y varies vertically from the bottom axis y = 0 to the upper line y = x:) Tj
+T*
+(   0 <= y <= x.) Tj
+T*
+(   - The transformed integral is:) Tj
+T*
+(   I = int_0^1 [ int_0^x e^\(x^2\) dy ] dx.) Tj
+T*
+(   Step 3: Evaluate the Inner Integral with respect to y:) Tj
+T*
+(   Since e^\(x^2\) does not depend on y:) Tj
+T*
+(   int_0^x e^\(x^2\) dy = e^\(x^2\) * [ y ]_0^x = e^\(x^2\) * \(x - 0\) = x * e^\(x^2\).) Tj
+T*
+(   Step 4: Evaluate the Outer Integral with respect to x:) Tj
+T*
+(   I = int_0^1 x * e^\(x^2\) dx.) Tj
+T*
+(   Substitute u = x^2 => du = 2x dx => x dx = du / 2.) Tj
+T*
+(   When x = 0, u = 0; when x = 1, u = 1.) Tj
+T*
+(   I = int_0^1 e^u * \(du / 2\) = \(1/2\) * [ e^u ]_0^1) Tj
+T*
+(   = \(1/2\) * \(e^1 - e^0\) = \(1/2\) * \(e - 1\).) Tj
+T*
+(   Conclusion:) Tj
+T*
+(   By changing the order of integration, the non-elementary integral is resolved to \(e - 1\) / 2.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 4:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Derive the polar coordinate transformation for double integrals. Use polar coordinates to evaluate the famous improper integral: I = int_0^infinity int_0^infinity e^\(-\(x^2 + y^2\)\) dx dy, and hence deduce the value of the Gaussian integral int_0^infinity e^\(-x^2\) dx.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Derivation of Polar Area Element:) Tj
+T*
+(   - Transformation: x = r * cos theta, y = r * sin theta.) Tj
+T*
+(   - The Jacobian of transformation J = d\(x, y\) / d\(r, theta\) is:) Tj
+T*
+ET
+
+endstream
+endobj
+29 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 30 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+30 0 obj
+<< /Length 3861 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 5: MULTIVARIABLE INTEGRAL CALCULUS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 14 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   J = det\([ dx/dr, dx/dtheta; dy/dr, dy/dtheta ]\) = det\([ cos theta, -r*sin theta; sin theta,) Tj
+T*
+(   r*cos theta ]\)) Tj
+T*
+(   = r * cos^2 theta + r * sin^2 theta = r.) Tj
+T*
+(   - By the change of variables theorem for multiple integrals:) Tj
+T*
+(   iint_R f\(x, y\) dx dy = iint_{R'} f\(r*cos theta, r*sin theta\) * |J| dr dtheta) Tj
+T*
+(   = iint_{R'} f\(r*cos theta, r*sin theta\) * r dr dtheta. \(Proved\).) Tj
+T*
+(   2. Evaluation of Double Integral over First Quadrant:) Tj
+T*
+(   - Region R: x in [0, infinity\), y in [0, infinity\) \(first quadrant of the plane\).) Tj
+T*
+(   - In polar coordinates:) Tj
+T*
+(   Radial coordinate r ranges from 0 to infinity.) Tj
+T*
+(   Angular coordinate theta ranges from 0 to pi / 2.) Tj
+T*
+(   - x^2 + y^2 = r^2.) Tj
+T*
+(   - I = int_0^\(pi/2\) [ int_0^infinity e^\(-r^2\) * r dr ] dtheta.) Tj
+T*
+(   - Inner integral: int_0^infinity e^\(-r^2\) * r dr:) Tj
+T*
+(   Let u = r^2, du = 2r dr => r dr = du / 2.) Tj
+T*
+(   int_0^infinity e^\(-u\) * \(du / 2\) = \(1/2\) * [-e^\(-u\)]_0^infinity = \(1/2\) * \(0 - \(-1\)\) = 1/2.) Tj
+T*
+(   - Outer integral:) Tj
+T*
+(   I = int_0^\(pi/2\) \(1/2\) dtheta = \(1/2\) * [ theta ]_0^\(pi/2\) = \(1/2\) * \(pi / 2\) = pi / 4.) Tj
+T*
+(   3. Deduction of the Gaussian Integral:) Tj
+T*
+(   - Notice that the double integral factors into two identical independent single integrals:) Tj
+T*
+(   I = int_0^infinity e^\(-x^2\) dx * int_0^infinity e^\(-y^2\) dy = [ int_0^infinity e^\(-x^2\) dx ]^2.) Tj
+T*
+(   - Since I = pi / 4:) Tj
+T*
+(   [ int_0^infinity e^\(-x^2\) dx ]^2 = pi / 4.) Tj
+T*
+(   - Taking the positive square root:) Tj
+T*
+(   int_0^infinity e^\(-x^2\) dx = sqrt\(pi\) / 2.) Tj
+T*
+(   - By symmetry of the even integrand:) Tj
+T*
+(   int_{-infinity}^infinity e^\(-x^2\) dx = 2 * \(sqrt\(pi\) / 2\) = sqrt\(pi\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 5:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Evaluate the double integral: I = iint_R sqrt\(a^2 - x^2 - y^2\) dx dy, where R is the region in the first quadrant enclosed by the circle x^2 + y^2 = a^2, by transforming into polar coordinates.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Step 1: Set up the Polar Transformation:) Tj
+T*
+(   - x = r * cos theta, y = r * sin theta.) Tj
+T*
+(   - Area element: dx dy = r dr dtheta.) Tj
+T*
+(   - Integrand: sqrt\(a^2 - \(x^2 + y^2\)\) = sqrt\(a^2 - r^2\).) Tj
+T*
+(   Step 2: Determine Limits of Integration:) Tj
+T*
+(   - The region R is the first quadrant of the circular disk of radius a.) Tj
+T*
+(   - r varies from 0 to a.) Tj
+T*
+(   - theta varies from 0 to pi / 2.) Tj
+T*
+(   Step 3: Formulate the Transformed Integral:) Tj
+T*
+(   I = int_0^\(pi/2\) [ int_0^a sqrt\(a^2 - r^2\) * r dr ] dtheta.) Tj
+T*
+(   Step 4: Evaluate the Radial \(Inner\) Integral:) Tj
+T*
+(   Let K = int_0^a sqrt\(a^2 - r^2\) * r dr.) Tj
+T*
+(   Substitute u = a^2 - r^2 => du = -2r dr => r dr = -du / 2.) Tj
+T*
+(   When r = 0, u = a^2; when r = a, u = 0.) Tj
+T*
+(   K = int_{a^2}^0 u^\(1/2\) * \(-du / 2\) = \(1/2\) * int_0^\(a^2\) u^\(1/2\) du) Tj
+T*
+(   = \(1/2\) * [ u^\(3/2\) / \(3/2\) ]_0^\(a^2\) = \(1/2\) * \(2/3\) * [ \(a^2\)^\(3/2\) - 0 ]) Tj
+T*
+(   = \(1/3\) * a^3.) Tj
+T*
+(   Step 5: Evaluate the Angular \(Outer\) Integral:) Tj
+T*
+(   I = int_0^\(pi/2\) K dtheta = int_0^\(pi/2\) \(a^3 / 3\) dtheta) Tj
+T*
+(   = \(a^3 / 3\) * [ theta ]_0^\(pi/2\)) Tj
+T*
+(   = \(a^3 / 3\) * \(pi / 2\) = pi * a^3 / 6.) Tj
+T*
+ET
+
+endstream
+endobj
+31 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 32 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+32 0 obj
+<< /Length 3453 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 5: MULTIVARIABLE INTEGRAL CALCULUS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 15 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   Geometric Meaning:) Tj
+T*
+(   The integral represents the volume of one-eighth of a solid sphere of radius a:) Tj
+T*
+(   V_octant = \(1/8\) * [ \(4/3\) * pi * a^3 ] = pi * a^3 / 6. \(Matches perfectly\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 6:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Using double integration, find the area enclosed between the parabola y = x^2 and the straight line y = 2x.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Step 1: Find Points of Intersection:) Tj
+T*
+(   Set x^2 = 2x => x^2 - 2x = 0 => x * \(x - 2\) = 0.) Tj
+T*
+(   Roots: x = 0 and x = 2.) Tj
+T*
+(   - At x = 0: y = 0. Point O\(0, 0\).) Tj
+T*
+(   - At x = 2: y = 4. Point P\(2, 4\).) Tj
+T*
+(   Step 2: Determine Upper and Lower Boundaries on [0, 2]:) Tj
+T*
+(   For any test point in \(0, 2\), e.g., x = 1:) Tj
+T*
+(   y_line = 2\(1\) = 2.) Tj
+T*
+(   y_parabola = 1^2 = 1.) Tj
+T*
+(   Since 2 > 1, the upper curve is y = 2x and the lower curve is y = x^2.) Tj
+T*
+(   Step 3: Set up the Double Integral:) Tj
+T*
+(   Area A = iint_R 1 dA = int_0^2 [ int_{x^2}^{2x} dy ] dx.) Tj
+T*
+(   Step 4: Evaluate the Inner Integral:) Tj
+T*
+(   int_{x^2}^{2x} dy = [ y ]_{x^2}^{2x} = 2x - x^2.) Tj
+T*
+(   Step 5: Evaluate the Outer Integral:) Tj
+T*
+(   A = int_0^2 \(2x - x^2\) dx) Tj
+T*
+(   = [ 2*\(x^2 / 2\) - x^3 / 3 ]_0^2) Tj
+T*
+(   = [ x^2 - x^3 / 3 ]_0^2) Tj
+T*
+(   = [ 2^2 - 2^3 / 3 ] - 0) Tj
+T*
+(   = 4 - 8/3 = 12/3 - 8/3 = 4/3.) Tj
+T*
+(   Conclusion:) Tj
+T*
+(   The area enclosed between the parabola and the line is 4/3 square units.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 7:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Using double integration in polar coordinates, calculate the area of the region bounded by the cardioid r = a * \(1 + cos theta\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Step 1: Set up the Polar Area Integral:) Tj
+T*
+(   Area A = iint_R dA = iint_R r dr dtheta.) Tj
+T*
+(   Step 2: Limits of Integration:) Tj
+T*
+(   - By symmetry about the initial line theta = 0, the total area is twice the area of the upper) Tj
+T*
+(   half:) Tj
+T*
+(   A = 2 * int_0^pi [ int_0^{a\(1 + cos theta\)} r dr ] dtheta.) Tj
+T*
+(   Step 3: Evaluate the Inner \(Radial\) Integral:) Tj
+T*
+(   int_0^{a\(1 + cos theta\)} r dr = [ r^2 / 2 ]_0^{a\(1 + cos theta\)} = \(a^2 / 2\) * \(1 + cos) Tj
+T*
+(   theta\)^2.) Tj
+T*
+(   Step 4: Substitute into Outer Integral:) Tj
+T*
+(   A = 2 * int_0^pi [ \(a^2 / 2\) * \(1 + cos theta\)^2 ] dtheta) Tj
+T*
+(   = a^2 * int_0^pi \(1 + 2*cos theta + cos^2 theta\) dtheta.) Tj
+T*
+(   Step 5: Use half-angle formula cos^2 theta = \(1 + cos 2theta\) / 2:) Tj
+T*
+(   1 + 2*cos theta + cos^2 theta = 1 + 2*cos theta + 1/2 + \(1/2\)*cos 2theta) Tj
+T*
+(   = 3/2 + 2*cos theta + \(1/2\)*cos 2theta.) Tj
+T*
+(   Step 6: Integrate from 0 to pi:) Tj
+T*
+(   A = a^2 * [ \(3/2\)*theta + 2*sin theta + \(1/4\)*sin 2theta ]_0^pi) Tj
+T*
+ET
+
+endstream
+endobj
+33 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 34 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+34 0 obj
+<< /Length 3892 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 5: MULTIVARIABLE INTEGRAL CALCULUS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 16 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   = a^2 * [ \(3/2\)*pi + 2*sin\(pi\) + \(1/4\)*sin\(2pi\) - 0 ]) Tj
+T*
+(   = a^2 * [ \(3/2\)*pi + 0 + 0 ]) Tj
+T*
+(   = \(3/2\) * pi * a^2.) Tj
+T*
+(   Conclusion:) Tj
+T*
+(   The area of the cardioid is \(3/2\) * pi * a^2.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 8:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Derive formulas for the center of mass \(centroid\) and moments of inertia of a plane lamina R using double integration. Find the centroid of the region bounded by the parabola y^2 = 4ax and its latus rectum x = a.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. General Formulas for Centroid \(Uniform Density rho = 1\):) Tj
+T*
+(   - Total Area: A = iint_R dA.) Tj
+T*
+(   - First moments: M_y = iint_R x dA, M_x = iint_R y dA.) Tj
+T*
+(   - Centroid coordinates: x_bar = M_y / A, y_bar = M_x / A.) Tj
+T*
+(   2. Centroid of Region Bounded by y^2 = 4ax and x = a:) Tj
+T*
+(   - Symmetry: The region is bounded by y = -2*sqrt\(ax\) to y = +2*sqrt\(ax\) from x = 0 to x = a.) Tj
+T*
+(   Since the region is symmetric about the x-axis \(y = 0\), the centroid must lie on the x-axis:) Tj
+T*
+(   y_bar = 0.) Tj
+T*
+(   - Compute Area A:) Tj
+T*
+(   A = int_0^a [ int_{-2*sqrt\(ax\)}^{2*sqrt\(ax\)} dy ] dx = int_0^a 4*sqrt\(a\)*x^\(1/2\) dx) Tj
+T*
+(   = 4*sqrt\(a\) * [ x^\(3/2\) / \(3/2\) ]_0^a = \(8/3\)*sqrt\(a\) * a^\(3/2\) = \(8/3\)*a^2.) Tj
+T*
+(   - Compute First Moment M_y:) Tj
+T*
+(   M_y = iint_R x dA = int_0^a x * [ 4*sqrt\(a\)*x^\(1/2\) ] dx = 4*sqrt\(a\) * int_0^a x^\(3/2\) dx) Tj
+T*
+(   = 4*sqrt\(a\) * [ x^\(5/2\) / \(5/2\) ]_0^a = \(8/5\)*sqrt\(a\) * a^\(5/2\) = \(8/5\)*a^3.) Tj
+T*
+(   - Compute x_bar:) Tj
+T*
+(   x_bar = M_y / A = [ \(8/5\)*a^3 ] / [ \(8/3\)*a^2 ] = \(8/5\) * \(3/8\) * a = 3a / 5.) Tj
+T*
+(   Conclusion:) Tj
+T*
+(   The centroid coordinates are \(x_bar, y_bar\) = \(3a / 5, 0\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 9:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Find the moment of inertia of a uniform circular disc of mass M and radius R about: \(i\) An axis perpendicular to the disc through its center \(polar moment of inertia\), and \(ii\) Any diameter.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Step 1: Mass and Density of Disc:) Tj
+T*
+(   - Area of circular disc = pi * R^2.) Tj
+T*
+(   - Surface density \(mass per unit area\): rho = M / \(pi * R^2\).) Tj
+T*
+(   Step 2: Polar Moment of Inertia I_0 \(about perpendicular central axis\):) Tj
+T*
+(   - I_0 = iint_R r^2 * rho dA.) Tj
+T*
+(   - In polar coordinates: dA = r dr dtheta.) Tj
+T*
+(   r ranges from 0 to R; theta ranges from 0 to 2*pi.) Tj
+T*
+(   - I_0 = rho * int_0^\(2*pi\) [ int_0^R r^3 dr ] dtheta) Tj
+T*
+(   = rho * [ theta ]_0^\(2*pi\) * [ r^4 / 4 ]_0^R) Tj
+T*
+(   = rho * \(2*pi\) * \(R^4 / 4\) = \(pi * rho * R^4\) / 2.) Tj
+T*
+(   - Substitute rho = M / \(pi * R^2\):) Tj
+T*
+(   I_0 = [ pi * \(M / \(pi * R^2\)\) * R^4 ] / 2 = \(1/2\) * M * R^2. \(Part i proved\).) Tj
+T*
+(   Step 3: Moment of Inertia about a Diameter:) Tj
+T*
+(   - By symmetry: I_x = I_y \(moments of inertia about any two perpendicular diameters are equal\).) Tj
+T*
+(   - By the Perpendicular Axis Theorem for planar laminae:) Tj
+T*
+(   I_0 = I_x + I_y = 2 * I_x.) Tj
+T*
+(   - Solve for I_x:) Tj
+T*
+(   I_x = I_0 / 2 = [ \(1/2\) * M * R^2 ] / 2 = \(1/4\) * M * R^2.) Tj
+T*
+(   Conclusion:) Tj
+T*
+ET
+
+endstream
+endobj
+35 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 36 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+36 0 obj
+<< /Length 3474 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 5: MULTIVARIABLE INTEGRAL CALCULUS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 17 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   \(i\) About perpendicular central axis: I_0 = \(1/2\) * M * R^2.) Tj
+T*
+(   \(ii\) About any diameter: I_d = \(1/4\) * M * R^2.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 10:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Evaluate the volume of the tetrahedron bounded by the coordinate planes x = 0, y = 0, z = 0 and the plane x + y + z = 1 using triple integration.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Step 1: Set up the Triple Integral:) Tj
+T*
+(   Volume V = iiint_V 1 dx dy dz.) Tj
+T*
+(   Step 2: Determine Limits of Integration:) Tj
+T*
+(   - The plane is z = 1 - x - y.) Tj
+T*
+(   - The bottom face is the xy-plane \(z = 0\). Thus z varies from 0 to 1 - x - y.) Tj
+T*
+(   - In the xy-plane \(z = 0\), the boundary is x + y = 1 => y = 1 - x.) Tj
+T*
+(   Thus y varies from 0 to 1 - x.) Tj
+T*
+(   - Along the x-axis \(y = 0\), the intercept is x = 1.) Tj
+T*
+(   Thus x varies from 0 to 1.) Tj
+T*
+(   V = int_0^1 [ int_0^\(1 - x\) [ int_0^\(1 - x - y\) dz ] dy ] dx.) Tj
+T*
+(   Step 3: Evaluate the Innermost Integral \(with respect to z\):) Tj
+T*
+(   int_0^\(1 - x - y\) dz = [ z ]_0^\(1 - x - y\) = 1 - x - y.) Tj
+T*
+(   Step 4: Evaluate the Middle Integral \(with respect to y\):) Tj
+T*
+(   int_0^\(1 - x\) \(1 - x - y\) dy:) Tj
+T*
+(   Treat \(1 - x\) as a constant:) Tj
+T*
+(   = [ \(1 - x\)*y - y^2 / 2 ]_0^\(1 - x\)) Tj
+T*
+(   = \(1 - x\)*\(1 - x\) - \(1 - x\)^2 / 2) Tj
+T*
+(   = \(1 - x\)^2 - \(1/2\)*\(1 - x\)^2) Tj
+T*
+(   = \(1/2\) * \(1 - x\)^2.) Tj
+T*
+(   Step 5: Evaluate the Outermost Integral \(with respect to x\):) Tj
+T*
+(   V = int_0^1 \(1/2\) * \(1 - x\)^2 dx.) Tj
+T*
+(   Substitute u = 1 - x => du = -dx:) Tj
+T*
+(   V = \(1/2\) * [ - \(1 - x\)^3 / 3 ]_0^1) Tj
+T*
+(   = \(1/2\) * [ 0 - \(-1/3\) ]) Tj
+T*
+(   = \(1/2\) * \(1/3\) = 1/6.) Tj
+T*
+(   Conclusion:) Tj
+T*
+(   The volume of the tetrahedron is 1/6.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 11:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain cylindrical coordinates and evaluate the volume of the solid enclosed by the paraboloid z = x^2 + y^2 and the horizontal plane z = 4.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Cylindrical Coordinates:) Tj
+T*
+(   - Transformation: x = r * cos theta, y = r * sin theta, z = z.) Tj
+T*
+(   - Volume element: dV = r dr dtheta dz.) Tj
+T*
+(   - Paraboloid equation: z = x^2 + y^2 = r^2.) Tj
+T*
+(   - Capping plane: z = 4.) Tj
+T*
+(   2. Limits of Integration:) Tj
+T*
+(   - For a fixed point \(r, theta\), z varies from the paraboloid surface z = r^2 up to the plane z) Tj
+T*
+(   = 4.) Tj
+T*
+(   - The intersection curve is r^2 = 4 => r = 2 \(a circle of radius 2\).) Tj
+T*
+(   - Radial coordinate r ranges from 0 to 2.) Tj
+T*
+(   - Angular coordinate theta sweeps full circle from 0 to 2*pi.) Tj
+T*
+(   3. Formulation and Evaluation of Triple Integral:) Tj
+T*
+(   V = int_0^\(2*pi\) [ int_0^2 [ int_{r^2}^4 dz ] r dr ] dtheta.) Tj
+T*
+ET
+
+endstream
+endobj
+37 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 38 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+38 0 obj
+<< /Length 3544 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 5: MULTIVARIABLE INTEGRAL CALCULUS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 18 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - Inner integral \(with respect to z\):) Tj
+T*
+(   int_{r^2}^4 dz = 4 - r^2.) Tj
+T*
+(   - Middle integral \(with respect to r\):) Tj
+T*
+(   int_0^2 \(4 - r^2\) * r dr = int_0^2 \(4r - r^3\) dr) Tj
+T*
+(   = [ 2*r^2 - r^4 / 4 ]_0^2 = [ 2\(4\) - 16/4 ] - 0 = 8 - 4 = 4.) Tj
+T*
+(   - Outer integral \(with respect to theta\):) Tj
+T*
+(   V = int_0^\(2*pi\) 4 dtheta = 4 * [ theta ]_0^\(2*pi\) = 4 * \(2*pi\) = 8*pi.) Tj
+T*
+(   Conclusion:) Tj
+T*
+(   The volume enclosed by the paraboloid and the plane is 8*pi.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 12:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain spherical polar coordinates \(rho, theta, phi\) and evaluate the triple integral: I = iiint_V sqrt\(x^2 + y^2 + z^2\) dx dy dz over the sphere x^2 + y^2 + z^2 <= a^2.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Spherical Polar Coordinates:) Tj
+T*
+(   - Transformation:) Tj
+T*
+(   x = rho * sin phi * cos theta) Tj
+T*
+(   y = rho * sin phi * sin theta) Tj
+T*
+(   z = rho * cos phi.) Tj
+T*
+(   - Radial distance: rho in [0, a].) Tj
+T*
+(   - Polar \(colatitude\) angle: phi in [0, pi] \(from north pole to south pole\).) Tj
+T*
+(   - Azimuthal angle: theta in [0, 2*pi] \(in xy-plane\).) Tj
+T*
+(   - Jacobian of transformation:) Tj
+T*
+(   J = rho^2 * sin phi.) Tj
+T*
+(   - Volume element: dV = rho^2 * sin phi drho dphi dtheta.) Tj
+T*
+(   2. Formulation of the Integral:) Tj
+T*
+(   - Integrand: sqrt\(x^2 + y^2 + z^2\) = rho.) Tj
+T*
+(   - I = int_0^\(2*pi\) dtheta * int_0^pi sin phi dphi * int_0^a rho * \(rho^2 * sin phi drho dphi) Tj
+T*
+(   dtheta\)) Tj
+T*
+(   = int_0^\(2*pi\) dtheta * int_0^pi sin phi dphi * int_0^a rho^3 drho.) Tj
+T*
+(   3. Factorized Evaluation:) Tj
+T*
+(   - Factor 1 \(theta\): int_0^\(2*pi\) dtheta = 2 * pi.) Tj
+T*
+(   - Factor 2 \(phi\): int_0^pi sin phi dphi = [ -cos phi ]_0^pi = -cos\(pi\) - \(-cos 0\) = -\(-1\) + 1 =) Tj
+T*
+(   2.) Tj
+T*
+(   - Factor 3 \(rho\): int_0^a rho^3 drho = [ rho^4 / 4 ]_0^a = a^4 / 4.) Tj
+T*
+(   4. Multiply All Factors:) Tj
+T*
+(   I = \(2 * pi\) * \(2\) * \(a^4 / 4\)) Tj
+T*
+(   = 4 * pi * \(a^4 / 4\) = pi * a^4.) Tj
+T*
+(   Conclusion:) Tj
+T*
+(   The value of the triple integral is pi * a^4.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 13:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: State Dirichlet's Theorem for triple integrals. Use it to evaluate: I = iiint_V x^\(l-1\) * y^\(m-1\) * z^\(n-1\) dx dy dz over the positive octant bounded by x + y + z <= 1 \(x, y, z >= 0\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Statement of Dirichlet's Theorem:) Tj
+T*
+(   Let V be the closed tetrahedral region in the first octant bounded by the coordinate planes and) Tj
+T*
+(   the plane x + y + z = 1:) Tj
+T*
+(   V = { \(x, y, z\) : x >= 0, y >= 0, z >= 0, and x + y + z <= 1 }.) Tj
+T*
+(   Then for any l, m, n > 0:) Tj
+T*
+(   iiint_V x^\(l-1\) * y^\(m-1\) * z^\(n-1\) dx dy dz = [ Gamma\(l\) * Gamma\(m\) * Gamma\(n\) ] / Gamma\(l + m) Tj
+T*
+(   + n + 1\).) Tj
+T*
+ET
+
+endstream
+endobj
+39 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 40 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+40 0 obj
+<< /Length 3848 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 5: MULTIVARIABLE INTEGRAL CALCULUS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 19 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   2. Derivation via Repeated Beta Integrals:) Tj
+T*
+(   - Limits: z from 0 to 1 - x - y; y from 0 to 1 - x; x from 0 to 1.) Tj
+T*
+(   - Inner integral with respect to z:) Tj
+T*
+(   int_0^\(1 - x - y\) z^\(n - 1\) dz = \(1 - x - y\)^n / n.) Tj
+T*
+(   - Middle integral with respect to y:) Tj
+T*
+(   int_0^\(1 - x\) y^\(m - 1\) * \(1 - x - y\)^n dy.) Tj
+T*
+(   Substitute y = \(1 - x\) * t => dy = \(1 - x\) dt:) Tj
+T*
+(   int_0^1 [ \(1 - x\)^\(m-1\) * t^\(m-1\) ] * [ \(1 - x\)^n * \(1 - t\)^n ] * \(1 - x\) dt) Tj
+T*
+(   = \(1 - x\)^\(m + n\) * int_0^1 t^\(m-1\) * \(1 - t\)^n dt) Tj
+T*
+(   = \(1 - x\)^\(m + n\) * Beta\(m, n + 1\).) Tj
+T*
+(   - Divide by n: Beta\(m, n+1\)/n = [ Gamma\(m\)*Gamma\(n+1\) ] / [ n * Gamma\(m+n+1\) ]) Tj
+T*
+(   Since Gamma\(n+1\) = n*Gamma\(n\), this equals [ Gamma\(m\)*Gamma\(n\) ] / Gamma\(m+n+1\).) Tj
+T*
+(   - Outermost integral with respect to x:) Tj
+T*
+(   int_0^1 x^\(l - 1\) * \(1 - x\)^\(m + n\) dx = Beta\(l, m + n + 1\)) Tj
+T*
+(   = [ Gamma\(l\) * Gamma\(m + n + 1\) ] / Gamma\(l + m + n + 1\).) Tj
+T*
+(   - Multiplying both factors cancels Gamma\(m + n + 1\):) Tj
+T*
+(   I = [ Gamma\(l\) * Gamma\(m\) * Gamma\(n\) ] / Gamma\(l + m + n + 1\). \(Proved\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 14:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Find the volume common to the two intersecting cylinders of equal radius a: x^2 + y^2 = a^2 and x^2 + z^2 = a^2 \(Steinmetz solid\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Step 1: Symmetry of the Solid:) Tj
+T*
+(   - The solid is bounded by y = +- sqrt\(a^2 - x^2\) and z = +- sqrt\(a^2 - x^2\).) Tj
+T*
+(   - It is symmetric in all 8 octants.) Tj
+T*
+(   - Total Volume V = 8 * V_octant \(in the first octant where x, y, z >= 0\).) Tj
+T*
+(   Step 2: Limits in the First Octant:) Tj
+T*
+(   - For any fixed \(x, y\), z ranges from 0 to sqrt\(a^2 - x^2\).) Tj
+T*
+(   - In the xy-plane, the projection is bounded by the circular quarter-disk:) Tj
+T*
+(   y ranges from 0 to sqrt\(a^2 - x^2\).) Tj
+T*
+(   x ranges from 0 to a.) Tj
+T*
+(   Step 3: Set up Double Integral for Volume:) Tj
+T*
+(   V_octant = int_0^a [ int_0^sqrt\(a^2 - x^2\) z dy ] dx) Tj
+T*
+(   = int_0^a [ int_0^sqrt\(a^2 - x^2\) sqrt\(a^2 - x^2\) dy ] dx.) Tj
+T*
+(   Step 4: Evaluate Inner Integral with respect to y:) Tj
+T*
+(   Since sqrt\(a^2 - x^2\) does not depend on y:) Tj
+T*
+(   int_0^sqrt\(a^2 - x^2\) sqrt\(a^2 - x^2\) dy = sqrt\(a^2 - x^2\) * [ y ]_0^sqrt\(a^2 - x^2\)) Tj
+T*
+(   = sqrt\(a^2 - x^2\) * sqrt\(a^2 - x^2\)) Tj
+T*
+(   = a^2 - x^2.) Tj
+T*
+(   Step 5: Evaluate Outer Integral with respect to x:) Tj
+T*
+(   V_octant = int_0^a \(a^2 - x^2\) dx) Tj
+T*
+(   = [ a^2 * x - x^3 / 3 ]_0^a) Tj
+T*
+(   = a^3 - a^3 / 3 = 2*a^3 / 3.) Tj
+T*
+(   Step 6: Compute Total Volume:) Tj
+T*
+(   V = 8 * V_octant = 8 * \(2*a^3 / 3\) = 16*a^3 / 3.) Tj
+T*
+(   Conclusion:) Tj
+T*
+(   The volume common to the two cylinders is 16*a^3 / 3.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 15:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Define a vector line integral and evaluate the work done by the force field F = \(3x^2 + 6y\)*i - 14yz*j + 20xz^2*k in moving a particle from \(0, 0, 0\) to \(1, 1, 1\) along the parametric curve x = t, y = t^2, z = t^3.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+ET
+
+endstream
+endobj
+41 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 42 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+42 0 obj
+<< /Length 3446 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 5: MULTIVARIABLE INTEGRAL CALCULUS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 20 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   1. Definition:) Tj
+T*
+(   - The work done by a force field F along a directed curve C parametrized by r\(t\) for t in [t1,) Tj
+T*
+(   t2] is:) Tj
+T*
+(   W = int_C F . dr = int_{t1}^{t2} [ Fx * \(dx/dt\) + Fy * \(dy/dt\) + Fz * \(dz/dt\) ] dt.) Tj
+T*
+(   2. Parametric Expressions:) Tj
+T*
+(   - x = t => dx = dt.) Tj
+T*
+(   - y = t^2 => dy = 2t dt.) Tj
+T*
+(   - z = t^3 => dz = 3t^2 dt.) Tj
+T*
+(   - Limits: at \(0, 0, 0\), t = 0; at \(1, 1, 1\), t = 1.) Tj
+T*
+(   3. Express F in terms of parameter t:) Tj
+T*
+(   - Fx = 3x^2 + 6y = 3\(t^2\) + 6\(t^2\) = 9*t^2.) Tj
+T*
+(   - Fy = -14yz = -14\(t^2\)\(t^3\) = -14*t^5.) Tj
+T*
+(   - Fz = 20xz^2 = 20\(t\)\(t^3\)^2 = 20\(t\)\(t^6\) = 20*t^7.) Tj
+T*
+(   4. Form the Dot Product F . dr:) Tj
+T*
+(   F . dr = Fx*dx + Fy*dy + Fz*dz) Tj
+T*
+(   = \(9*t^2\)*dt + \(-14*t^5\)*\(2t dt\) + \(20*t^7\)*\(3t^2 dt\)) Tj
+T*
+(   = \(9*t^2 - 28*t^6 + 60*t^9\) dt.) Tj
+T*
+(   5. Integrate from t = 0 to t = 1:) Tj
+T*
+(   W = int_0^1 \(9*t^2 - 28*t^6 + 60*t^9\) dt) Tj
+T*
+(   = [ 9*\(t^3 / 3\) - 28*\(t^7 / 7\) + 60*\(t^10 / 10\) ]_0^1) Tj
+T*
+(   = [ 3*t^3 - 4*t^7 + 6*t^10 ]_0^1) Tj
+T*
+(   = [ 3\(1\) - 4\(1\) + 6\(1\) ] - 0) Tj
+T*
+(   = 3 - 4 + 6 = 5.) Tj
+T*
+(   Conclusion:) Tj
+T*
+(   The total work done by the force field is 5 units.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 16:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Define a conservative vector field. Prove that F = \(2xy + z^3\)*i + x^2*j + 3xz^2*k is conservative, find its scalar potential function phi\(x, y, z\), and evaluate the work done in moving from \(1, -2, 1\) to \(3, 1, 4\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Condition for Conservative Field:) Tj
+T*
+(   A vector field F is conservative if curl\(F\) = del x F = 0.) Tj
+T*
+(   - Compute curl\(F\):) Tj
+T*
+(   | i j k |) Tj
+T*
+(   | d/dx d/dy d/dz |) Tj
+T*
+(   | 2xy+z^3 x^2 3xz^2 |) Tj
+T*
+(   i-component: d/dy\(3xz^2\) - d/dz\(x^2\) = 0 - 0 = 0.) Tj
+T*
+(   j-component: d/dz\(2xy+z^3\) - d/dx\(3xz^2\) = 3z^2 - 3z^2 = 0.) Tj
+T*
+(   k-component: d/dx\(x^2\) - d/dy\(2xy+z^3\) = 2x - 2x = 0.) Tj
+T*
+(   - curl\(F\) = 0. Thus F is strictly CONSERVATIVE.) Tj
+T*
+(   2. Find Scalar Potential phi such that F = grad\(phi\):) Tj
+T*
+(   - dphi/dx = 2xy + z^3 => phi = int \(2xy + z^3\) dx = x^2*y + x*z^3 + g\(y, z\).) Tj
+T*
+(   - dphi/dy = x^2 + dg/dy. Equating to Fy = x^2:) Tj
+T*
+(   x^2 + dg/dy = x^2 => dg/dy = 0 => g\(y, z\) = h\(z\).) Tj
+T*
+(   - dphi/dz = 3x*z^2 + dh/dz. Equating to Fz = 3x*z^2:) Tj
+T*
+(   3x*z^2 + dh/dz = 3x*z^2 => dh/dz = 0 => h\(z\) = C.) Tj
+T*
+(   - Potential Function:) Tj
+T*
+(   phi\(x, y, z\) = x^2 * y + x * z^3 + C.) Tj
+T*
+(   3. Work Done from A\(1, -2, 1\) to B\(3, 1, 4\):) Tj
+T*
+(   By the Fundamental Theorem for Line Integrals:) Tj
+T*
+(   W = int_A^B F . dr = phi\(B\) - phi\(A\).) Tj
+T*
+(   - phi\(B\) = phi\(3, 1, 4\) = \(3^2\)\(1\) + \(3\)\(4^3\) = 9 + 3\(64\) = 9 + 192 = 201.) Tj
+T*
+(   - phi\(A\) = phi\(1, -2, 1\) = \(1^2\)\(-2\) + \(1\)\(1^3\) = -2 + 1 = -1.) Tj
+T*
+ET
+
+endstream
+endobj
+43 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 44 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+44 0 obj
+<< /Length 3761 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 5: MULTIVARIABLE INTEGRAL CALCULUS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 21 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - Work Done:) Tj
+T*
+(   W = 201 - \(-1\) = 202.) Tj
+T*
+(   Conclusion:) Tj
+T*
+(   The vector field is conservative with potential phi = x^2*y + x*z^3, and the work done is 202.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 17:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: State Green's Theorem in a plane. Provide a complete analytical proof for a simple region R bounded by a piecewise smooth curve C.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Formal Statement of Green's Theorem:) Tj
+T*
+(   Let C be a positively oriented \(counter-clockwise\), piecewise smooth, simple closed curve in) Tj
+T*
+(   the xy-plane bounding a region R.) Tj
+T*
+(   If P\(x, y\) and Q\(x, y\) have continuous partial derivatives in an open region containing R,) Tj
+T*
+(   then:) Tj
+T*
+(   oint_C \(P dx + Q dy\) = iint_R [ dQ/dx - dP/dy ] dA.) Tj
+T*
+(   2. Complete Analytical Proof:) Tj
+T*
+(   It suffices to prove the two component equations separately:) Tj
+T*
+(   \(Eq. A\) oint_C P dx = - iint_R \(dP/dy\) dA.) Tj
+T*
+(   \(Eq. B\) oint_C Q dy = iint_R \(dQ/dx\) dA.) Tj
+T*
+(   - Proof of Eq. A \(Type I region\):) Tj
+T*
+(   Let R be bounded below by y = g1\(x\) and above by y = g2\(x\) for x in [a, b].) Tj
+T*
+(   The boundary C consists of four smooth curves: C1 \(bottom, x from a to b\), C2 \(right vertical) Tj
+T*
+(   line\), C3 \(top, x from b to a\), and C4 \(left vertical line\).) Tj
+T*
+(   Evaluate the double integral on the right of Eq. A:) Tj
+T*
+(   iint_R \(dP/dy\) dA = int_a^b [ int_{g1\(x\)}^{g2\(x\)} \(dP/dy\) dy ] dx) Tj
+T*
+(   = int_a^b [ P\(x, g2\(x\)\) - P\(x, g1\(x\)\) ] dx.) Tj
+T*
+(   Now evaluate the line integral oint_C P dx:) Tj
+T*
+(   * Along C1 \(y = g1\(x\)\): int_{C1} P dx = int_a^b P\(x, g1\(x\)\) dx.) Tj
+T*
+(   * Along C2 and C4 \(vertical lines x = b and x = a\): dx = 0, so integrals are 0.) Tj
+T*
+(   * Along C3 \(y = g2\(x\), traversed right-to-left from b to a\):) Tj
+T*
+(   int_{C3} P dx = int_b^a P\(x, g2\(x\)\) dx = - int_a^b P\(x, g2\(x\)\) dx.) Tj
+T*
+(   Summing along all curves:) Tj
+T*
+(   oint_C P dx = int_a^b P\(x, g1\(x\)\) dx - int_a^b P\(x, g2\(x\)\) dx) Tj
+T*
+(   = - int_a^b [ P\(x, g2\(x\)\) - P\(x, g1\(x\)\) ] dx) Tj
+T*
+(   = - iint_R \(dP/dy\) dA. \(Eq. A proved\).) Tj
+T*
+(   - Proof of Eq. B \(Type II region\):) Tj
+T*
+(   By treating R as a region bounded by x = h1\(y\) and x = h2\(y\) for y in [c, d] and repeating the) Tj
+T*
+(   exact argument:) Tj
+T*
+(   oint_C Q dy = iint_R \(dQ/dx\) dA. \(Eq. B proved\).) Tj
+T*
+(   - Adding Eq. A and Eq. B:) Tj
+T*
+(   oint_C \(P dx + Q dy\) = iint_R [ dQ/dx - dP/dy ] dA.) Tj
+T*
+(   Hence proved.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 18:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Verify Green's Theorem for the line integral oint_C [ \(x*y + y^2\)*dx + x^2*dy ], where C is the closed curve bounded by y = x and y = x^2.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Step 1: Identify P, Q and Points of Intersection:) Tj
+T*
+(   P = xy + y^2, Q = x^2.) Tj
+T*
+(   Intersection: x = x^2 => x\(x - 1\) = 0 => x = 0 and x = 1.) Tj
+T*
+(   Points: O\(0, 0\) and A\(1, 1\).) Tj
+T*
+(   Step 2: Evaluate the Double Integral iint_R \(dQ/dx - dP/dy\) dA:) Tj
+T*
+ET
+
+endstream
+endobj
+45 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 46 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+46 0 obj
+<< /Length 3747 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 5: MULTIVARIABLE INTEGRAL CALCULUS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 22 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - dQ/dx = d/dx [ x^2 ] = 2x.) Tj
+T*
+(   - dP/dy = d/dy [ xy + y^2 ] = x + 2y.) Tj
+T*
+(   - dQ/dx - dP/dy = 2x - \(x + 2y\) = x - 2y.) Tj
+T*
+(   - In region R: for a given x in [0, 1], y ranges from the parabola y = x^2 \(lower\) to line y =) Tj
+T*
+(   x \(upper\).) Tj
+T*
+(   - iint_R \(x - 2y\) dA = int_0^1 [ int_{x^2}^x \(x - 2y\) dy ] dx.) Tj
+T*
+(   - Inner integral:) Tj
+T*
+(   int_{x^2}^x \(x - 2y\) dy = [ x*y - y^2 ]_{x^2}^x) Tj
+T*
+(   = [ x\(x\) - x^2 ] - [ x\(x^2\) - \(x^2\)^2 ]) Tj
+T*
+(   = [ x^2 - x^2 ] - [ x^3 - x^4 ] = -x^3 + x^4.) Tj
+T*
+(   - Outer integral:) Tj
+T*
+(   int_0^1 \(-x^3 + x^4\) dx = [ -x^4 / 4 + x^5 / 5 ]_0^1 = -1/4 + 1/5 = -5/20 + 4/20 = -1/20.) Tj
+T*
+(   Step 3: Evaluate the Line Integral oint_C \(P dx + Q dy\):) Tj
+T*
+(   Boundary C consists of C1 \(parabola y = x^2 from 0 to 1\) and C2 \(line y = x from 1 to 0\):) Tj
+T*
+(   - Along C1: y = x^2 => dy = 2x dx.) Tj
+T*
+(   int_{C1} = int_0^1 [ \(x\(x^2\) + \(x^2\)^2\) dx + x^2 * \(2x dx\) ]) Tj
+T*
+(   = int_0^1 [ \(x^3 + x^4\) + 2x^3 ] dx = int_0^1 \(3x^3 + x^4\) dx) Tj
+T*
+(   = [ 3*x^4 / 4 + x^5 / 5 ]_0^1 = 3/4 + 1/5 = 15/20 + 4/20 = 19/20.) Tj
+T*
+(   - Along C2: y = x => dy = dx \(x traverses from 1 to 0\):) Tj
+T*
+(   int_{C2} = int_1^0 [ \(x\(x\) + x^2\) dx + x^2 dx ] = int_1^0 [ 2x^2 + x^2 ] dx) Tj
+T*
+(   = int_1^0 3x^2 dx = [ x^3 ]_1^0 = 0 - 1 = -1 = -20/20.) Tj
+T*
+(   - Total Line Integral:) Tj
+T*
+(   oint_C = int_{C1} + int_{C2} = 19/20 - 20/20 = -1/20.) Tj
+T*
+(   Conclusion:) Tj
+T*
+(   Line Integral \(-1/20\) = Double Integral \(-1/20\). Green's Theorem is fully verified.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 19:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Derive the line integral area formula from Green's Theorem: Area = \(1/2\) * oint_C \(x dy - y dx\). Apply this formula to find the area enclosed by the astroid: x = a*cos^3\(t\), y = a*sin^3\(t\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Derivation of Area Formula:) Tj
+T*
+(   - Green's Theorem: oint_C \(P dx + Q dy\) = iint_R \(dQ/dx - dP/dy\) dA.) Tj
+T*
+(   - Choose P = -y and Q = x:) Tj
+T*
+(   dP/dy = -1, dQ/dx = 1.) Tj
+T*
+(   dQ/dx - dP/dy = 1 - \(-1\) = 2.) Tj
+T*
+(   - Substitute into Green's Theorem:) Tj
+T*
+(   oint_C \(-y dx + x dy\) = iint_R 2 dA = 2 * iint_R 1 dA = 2 * Area\(R\).) Tj
+T*
+(   - Divide by 2:) Tj
+T*
+(   Area\(R\) = \(1/2\) * oint_C \(x dy - y dx\). \(Proved\).) Tj
+T*
+(   2. Application to Astroid: x = a*cos^3 t, y = a*sin^3 t \(t in [0, 2*pi]\):) Tj
+T*
+(   - Compute differentials:) Tj
+T*
+(   dx = -3a * cos^2 t * sin t dt.) Tj
+T*
+(   dy = 3a * sin^2 t * cos t dt.) Tj
+T*
+(   - Form x dy - y dx:) Tj
+T*
+(   x dy = \(a * cos^3 t\) * \(3a * sin^2 t * cos t dt\) = 3*a^2 * cos^4 t * sin^2 t dt.) Tj
+T*
+(   -y dx = - \(a * sin^3 t\) * \(-3a * cos^2 t * sin t dt\) = 3*a^2 * sin^4 t * cos^2 t dt.) Tj
+T*
+(   x dy - y dx = 3*a^2 * sin^2 t * cos^2 t * \(cos^2 t + sin^2 t\) dt) Tj
+T*
+(   = 3*a^2 * sin^2 t * cos^2 t dt.) Tj
+T*
+(   - Integrate from t = 0 to 2*pi:) Tj
+T*
+(   Area = \(1/2\) * int_0^\(2*pi\) 3*a^2 * sin^2 t * cos^2 t dt) Tj
+T*
+(   = \(3*a^2 / 2\) * 4 * int_0^\(pi/2\) sin^2 t * cos^2 t dt \(by symmetry in 4 quadrants\)) Tj
+T*
+(   = 6*a^2 * [ \(1\)\(1\) / \(4\)\(2\) ] * \(pi / 2\) \(using Wallis' formula\)) Tj
+T*
+(   = 6*a^2 * [ 1 / 8 ] * \(pi / 2\)) Tj
+T*
+ET
+
+endstream
+endobj
+47 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 48 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+48 0 obj
+<< /Length 3781 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 5: MULTIVARIABLE INTEGRAL CALCULUS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 23 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   = 3*pi * a^2 / 8.) Tj
+T*
+(   Conclusion:) Tj
+T*
+(   The area enclosed by the astroid is \(3/8\) * pi * a^2.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 20:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: State Stokes' Theorem for a vector field F. Give its physical interpretation and state how it reduces to Green's Theorem in the xy-plane.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Formal Statement of Stokes' Theorem:) Tj
+T*
+(   Let S be an oriented piecewise smooth surface bounded by a simple, closed, piecewise smooth) Tj
+T*
+(   boundary curve C with positive orientation matching S \(right-hand rule\).) Tj
+T*
+(   If F is a continuous vector field with continuous first partial derivatives in a domain) Tj
+T*
+(   containing S, then:) Tj
+T*
+(   oint_C F . dr = iint_S \(curl F\) . n dS,) Tj
+T*
+(   where n is the outward unit normal vector to surface S.) Tj
+T*
+(   2. Physical Interpretation:) Tj
+T*
+(   - Left-hand side oint_C F . dr: represents the macroscopic Circulation \(work done / fluid) Tj
+T*
+(   circulation\) of vector field F along the boundary loop C.) Tj
+T*
+(   - Right-hand side iint_S \(curl F\) . n dS: represents the net flux of the microscopic Vorticity) Tj
+T*
+(   \(curl F\) passing through surface S.) Tj
+T*
+(   - Physical meaning: The total macroscopic fluid circulation around boundary loop C is exactly) Tj
+T*
+(   equal to the sum of all microscopic whirlpool rotations \(vorticities\) enclosed by the boundary.) Tj
+T*
+(   3. Reduction to Green's Theorem:) Tj
+T*
+(   - Let surface S lie entirely in the xy-plane \(z = 0\), so the unit normal is n = k.) Tj
+T*
+(   - Let F = P\(x, y\)*i + Q\(x, y\)*j + 0*k.) Tj
+T*
+(   - Compute curl\(F\):) Tj
+T*
+(   curl\(F\) = [ dQ/dx - dP/dy ] * k.) Tj
+T*
+(   - The dot product with n = k is:) Tj
+T*
+(   \(curl F\) . n = \(curl F\) . k = dQ/dx - dP/dy.) Tj
+T*
+(   - Since dS = dA:) Tj
+T*
+(   iint_S \(curl F\) . n dS = iint_R [ dQ/dx - dP/dy ] dA.) Tj
+T*
+(   - Since dr = dx*i + dy*j:) Tj
+T*
+(   oint_C F . dr = oint_C \(P dx + Q dy\).) Tj
+T*
+(   - Equating both sides reproduces Green's Theorem:) Tj
+T*
+(   oint_C \(P dx + Q dy\) = iint_R [ dQ/dx - dP/dy ] dA. \(Proved\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 21:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Verify Stokes' Theorem for F = \(2x - y\)*i - y*z^2*j - y^2*z*k over the upper hemisphere surface x^2 + y^2 + z^2 = 1 \(z >= 0\), bounded by the circle x^2 + y^2 = 1 in the plane z = 0.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Step 1: Compute curl\(F\):) Tj
+T*
+(   | i j k |) Tj
+T*
+(   | d/dx d/dy d/dz |) Tj
+T*
+(   | 2x-y -yz^2 -y^2*z |) Tj
+T*
+(   - i-comp: d/dy\(-y^2*z\) - d/dz\(-yz^2\) = -2yz - \(-2yz\) = 0.) Tj
+T*
+(   - j-comp: d/dz\(2x-y\) - d/dx\(-y^2*z\) = 0 - 0 = 0.) Tj
+T*
+(   - k-comp: d/dx\(-yz^2\) - d/dy\(2x-y\) = 0 - \(-1\) = 1.) Tj
+T*
+(   Therefore: curl\(F\) = 0*i + 0*j + 1*k = k.) Tj
+T*
+(   Step 2: Evaluate the Surface Integral iint_S \(curl F\) . n dS:) Tj
+T*
+(   - By Stokes' Theorem, the surface integral depends only on the boundary curve C!) Tj
+T*
+(   Instead of integrating over the hemisphere, we can choose the flat circular disk S1: x^2 + y^2) Tj
+T*
+(   <= 1 in the plane z = 0 with normal n = k.) Tj
+T*
+ET
+
+endstream
+endobj
+49 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 50 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+50 0 obj
+<< /Length 3927 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 5: MULTIVARIABLE INTEGRAL CALCULUS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 24 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - On S1: \(curl F\) . n = k . k = 1.) Tj
+T*
+(   - iint_{S1} \(curl F\) . n dS = iint_{S1} 1 dA = Area of unit disk = pi * \(1\)^2 = pi.) Tj
+T*
+(   Step 3: Evaluate the Line Integral oint_C F . dr:) Tj
+T*
+(   - Boundary C is the circle x^2 + y^2 = 1, z = 0.) Tj
+T*
+(   - Parametric equations: x = cos t, y = sin t, z = 0 \(t in [0, 2*pi]\).) Tj
+T*
+(   - Differentials: dx = -sin t dt, dy = cos t dt, dz = 0.) Tj
+T*
+(   - F on C \(with z = 0\):) Tj
+T*
+(   Fx = 2x - y = 2*cos t - sin t.) Tj
+T*
+(   Fy = -y*z^2 = 0.) Tj
+T*
+(   Fz = -y^2*z = 0.) Tj
+T*
+(   - F . dr = Fx * dx = \(2*cos t - sin t\) * \(-sin t dt\)) Tj
+T*
+(   = \( -2*sin t * cos t + sin^2 t \) dt) Tj
+T*
+(   = [ -sin\(2t\) + \(1 - cos 2t\)/2 ] dt.) Tj
+T*
+(   - Integrate from 0 to 2*pi:) Tj
+T*
+(   oint_C F . dr = int_0^\(2*pi\) [ -sin\(2t\) + 1/2 - \(1/2\)*cos\(2t\) ] dt) Tj
+T*
+(   = [ \(1/2\)*cos\(2t\) + t/2 - \(1/4\)*sin\(2t\) ]_0^\(2*pi\)) Tj
+T*
+(   = [ \(1/2\) + pi - 0 ] - [ 1/2 + 0 - 0 ] = pi.) Tj
+T*
+(   Conclusion:) Tj
+T*
+(   Surface Integral \(pi\) = Line Integral \(pi\). Stokes' Theorem is completely verified.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 22:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: State Gauss' Divergence Theorem. Provide a rigorous analytical proof for a simple 3D volume V bounded by an orientable closed surface S.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Formal Statement of Gauss' Divergence Theorem:) Tj
+T*
+(   Let V be a compact, solid volume in R^3 bounded by a piecewise smooth, closed orientable) Tj
+T*
+(   surface S.) Tj
+T*
+(   Let n be the outward unit normal vector field on S.) Tj
+T*
+(   If F = F1*i + F2*j + F3*k is a vector field with continuous first partial derivatives in an) Tj
+T*
+(   open region containing V, then:) Tj
+T*
+(   iint_S F . n dS = iiint_V div\(F\) dV = iiint_V [ dF1/dx + dF2/dy + dF3/dz ] dV.) Tj
+T*
+(   2. Analytical Proof:) Tj
+T*
+(   It suffices to establish the three component equations separately:) Tj
+T*
+(   \(Eq. 1\) iint_S F3 * \(n . k\) dS = iiint_V \(dF3/dz\) dV.) Tj
+T*
+(   \(Eq. 2\) iint_S F2 * \(n . j\) dS = iiint_V \(dF2/dy\) dV.) Tj
+T*
+(   \(Eq. 3\) iint_S F1 * \(n . i\) dS = iiint_V \(dF1/dx\) dV.) Tj
+T*
+(   - Proof of Eq. 1:) Tj
+T*
+(   Let V be a z-simple region bounded below by surface z = z1\(x, y\) \(surface S1\) and above by z =) Tj
+T*
+(   z2\(x, y\) \(surface S2\) over a plane region R in the xy-plane, plus a vertical cylinder S3.) Tj
+T*
+(   Evaluate the triple integral on the right:) Tj
+T*
+(   iiint_V \(dF3/dz\) dV = iint_R [ int_{z1\(x, y\)}^{z2\(x, y\)} \(dF3/dz\) dz ] dA) Tj
+T*
+(   = iint_R [ F3\(x, y, z2\(x, y\)\) - F3\(x, y, z1\(x, y\)\) ] dA.) Tj
+T*
+(   Now evaluate the surface flux integral of F3*k over the closed boundary S = S1 + S2 + S3:) Tj
+T*
+(   * On upper surface S2: the upward normal has n . k > 0, and \(n . k\) dS = dA:) Tj
+T*
+(   iint_{S2} F3*\(n . k\) dS = iint_R F3\(x, y, z2\(x, y\)\) dA.) Tj
+T*
+(   * On lower surface S1: the downward normal has n . k < 0, and \(n . k\) dS = -dA:) Tj
+T*
+(   iint_{S1} F3*\(n . k\) dS = - iint_R F3\(x, y, z1\(x, y\)\) dA.) Tj
+T*
+(   * On lateral cylindrical surface S3: the normal n is horizontal, so n . k = 0:) Tj
+T*
+(   iint_{S3} F3*\(n . k\) dS = 0.) Tj
+T*
+(   Summing over S:) Tj
+T*
+(   iint_S F3*\(n . k\) dS = iint_R [ F3\(x, y, z2\) - F3\(x, y, z1\) ] dA = iiint_V \(dF3/dz\) dV. \(Eq. 1) Tj
+T*
+(   proved\).) Tj
+T*
+(   - Proving Eq. 2 and Eq. 3 similarly by projecting onto the xz and yz planes and adding all) Tj
+T*
+ET
+
+endstream
+endobj
+51 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 52 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+52 0 obj
+<< /Length 3636 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 5: MULTIVARIABLE INTEGRAL CALCULUS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 25 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   three equations yields:) Tj
+T*
+(   iint_S [ F1*\(n.i\) + F2*\(n.j\) + F3*\(n.k\) ] dS = iiint_V [ dF1/dx + dF2/dy + dF3/dz ] dV) Tj
+T*
+(   => iint_S F . n dS = iiint_V div\(F\) dV.) Tj
+T*
+(   Hence proved.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 23:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Verify Gauss' Divergence Theorem for the vector field F = 4x*i - 2y^2*j + z^2*k over the cylinder x^2 + y^2 = 4, bounded by z = 0 and z = 3.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Step 1: Compute div\(F\):) Tj
+T*
+(   F = 4x*i - 2y^2*j + z^2*k.) Tj
+T*
+(   div\(F\) = d/dx\(4x\) + d/dy\(-2y^2\) + d/dz\(z^2\) = 4 - 4y + 2z.) Tj
+T*
+(   Step 2: Evaluate the Volume Integral iiint_V div\(F\) dV:) Tj
+T*
+(   - Use cylindrical coordinates: x = r*cos theta, y = r*sin theta, z = z.) Tj
+T*
+(   dV = r dr dtheta dz.) Tj
+T*
+(   r ranges from 0 to 2; theta ranges from 0 to 2*pi; z ranges from 0 to 3.) Tj
+T*
+(   - div\(F\) = 4 - 4*r*sin theta + 2z.) Tj
+T*
+(   - iiint_V \(4 - 4*r*sin theta + 2z\) r dr dtheta dz:) Tj
+T*
+(   Split into three terms:) Tj
+T*
+(   * Term 1: int_0^\(2*pi\) dtheta * int_0^2 4r dr * int_0^3 dz) Tj
+T*
+(   = \(2*pi\) * [ 2*r^2 ]_0^2 * [ z ]_0^3 = \(2*pi\) * 8 * 3 = 48*pi.) Tj
+T*
+(   * Term 2: int_0^\(2*pi\) sin theta dtheta * int_0^2 \(-4r^2\) dr * int_0^3 dz) Tj
+T*
+(   Since int_0^\(2*pi\) sin theta dtheta = 0, Term 2 = 0.) Tj
+T*
+(   * Term 3: int_0^\(2*pi\) dtheta * int_0^2 r dr * int_0^3 2z dz) Tj
+T*
+(   = \(2*pi\) * [ r^2 / 2 ]_0^2 * [ z^2 ]_0^3 = \(2*pi\) * 2 * 9 = 36*pi.) Tj
+T*
+(   - Total Volume Integral:) Tj
+T*
+(   iiint_V div\(F\) dV = 48*pi + 0 + 36*pi = 84*pi.) Tj
+T*
+(   Step 3: Evaluate Surface Integral over Closed Cylinder S = S1 + S2 + S3:) Tj
+T*
+(   - S1 \(Top disc z = 3, n = k\):) Tj
+T*
+(   F . n = Fz = z^2 = 3^2 = 9.) Tj
+T*
+(   iint_{S1} 9 dS = 9 * Area\(S1\) = 9 * \(pi * 2^2\) = 36*pi.) Tj
+T*
+(   - S2 \(Bottom disc z = 0, n = -k\):) Tj
+T*
+(   F . n = -Fz = -z^2 = -0 = 0.) Tj
+T*
+(   iint_{S2} 0 dS = 0.) Tj
+T*
+(   - S3 \(Curved side x^2 + y^2 = 4, r = 2, n = \(x*i + y*j\)/2\):) Tj
+T*
+(   F . n = [ 4x*\(x/2\) - 2y^2*\(y/2\) ] = 2*x^2 - y^3 = 2*\(2*cos theta\)^2 - \(2*sin theta\)^3) Tj
+T*
+(   = 8*cos^2 theta - 8*sin^3 theta.) Tj
+T*
+(   dS = 2 dtheta dz.) Tj
+T*
+(   iint_{S3} F . n dS = int_0^3 dz * int_0^\(2*pi\) [ 8*cos^2 theta - 8*sin^3 theta ] * 2 dtheta) Tj
+T*
+(   = 3 * 2 * [ 8 * int_0^\(2*pi\) cos^2 theta dtheta - 8 * 0 ]) Tj
+T*
+(   = 6 * [ 8 * pi ] = 48*pi.) Tj
+T*
+(   - Total Surface Integral:) Tj
+T*
+(   iint_S F . n dS = 36*pi + 0 + 48*pi = 84*pi.) Tj
+T*
+(   Conclusion:) Tj
+T*
+(   Volume Integral \(84*pi\) = Surface Integral \(84*pi\). Gauss' Divergence Theorem is verified.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 24:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Use Gauss' Divergence Theorem to evaluate the outward flux: iint_S \(x^3*i + y^3*j + z^3*k\) . n dS over the spherical surface S: x^2 + y^2 + z^2 = a^2.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Step 1: Compute the Divergence of Vector Field F:) Tj
+T*
+(   F = x^3*i + y^3*j + z^3*k.) Tj
+T*
+ET
+
+endstream
+endobj
+53 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 54 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+54 0 obj
+<< /Length 3519 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 5: MULTIVARIABLE INTEGRAL CALCULUS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 26 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   div\(F\) = d/dx\(x^3\) + d/dy\(y^3\) + d/dz\(z^3\) = 3x^2 + 3y^2 + 3z^2) Tj
+T*
+(   = 3 * \(x^2 + y^2 + z^2\).) Tj
+T*
+(   Step 2: Apply Gauss' Divergence Theorem:) Tj
+T*
+(   iint_S F . n dS = iiint_V div\(F\) dV) Tj
+T*
+(   = 3 * iiint_V \(x^2 + y^2 + z^2\) dV,) Tj
+T*
+(   where V is the solid ball of radius a.) Tj
+T*
+(   Step 3: Transform to Spherical Polar Coordinates:) Tj
+T*
+(   - x^2 + y^2 + z^2 = rho^2.) Tj
+T*
+(   - dV = rho^2 * sin phi drho dphi dtheta.) Tj
+T*
+(   - Limits: rho in [0, a], phi in [0, pi], theta in [0, 2*pi].) Tj
+T*
+(   Step 4: Evaluate the Triple Integral:) Tj
+T*
+(   iiint_V \(x^2 + y^2 + z^2\) dV = int_0^\(2*pi\) dtheta * int_0^pi sin phi dphi * int_0^a rho^2 *) Tj
+T*
+(   \(rho^2 drho\)) Tj
+T*
+(   = [ 2*pi ] * [ 2 ] * [ int_0^a rho^4 drho ]) Tj
+T*
+(   = 4*pi * [ rho^5 / 5 ]_0^a) Tj
+T*
+(   = 4*pi * a^5 / 5 = \(4/5\) * pi * a^5.) Tj
+T*
+(   Step 5: Multiply by 3:) Tj
+T*
+(   iint_S F . n dS = 3 * [ \(4/5\) * pi * a^5 ]) Tj
+T*
+(   = \(12/5\) * pi * a^5.) Tj
+T*
+(   Conclusion:) Tj
+T*
+(   The total outward flux through the sphere is \(12/5\) * pi * a^5.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 25:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Evaluate the surface integral iint_S F . n dS, where F = z*i + x*j - 3y^2*z*k and S is the surface of the cylinder x^2 + y^2 = 16 included in the first octant between z = 0 and z = 5.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Step 1: Parametrize the Cylindrical Surface S:) Tj
+T*
+(   - Since x^2 + y^2 = 16, radius R = 4.) Tj
+T*
+(   - In the first octant: x >= 0, y >= 0 => theta in [0, pi/2].) Tj
+T*
+(   - Parametric equations:) Tj
+T*
+(   x = 4 * cos theta, y = 4 * sin theta, z = z \(where 0 <= z <= 5\).) Tj
+T*
+(   Step 2: Compute Normal Vector n and Surface Element dS:) Tj
+T*
+(   - Outward unit normal: n = \(x*i + y*j\) / 4 = cos theta * i + sin theta * j + 0 * k.) Tj
+T*
+(   - Area element: dS = 4 dtheta dz.) Tj
+T*
+(   Step 3: Evaluate Dot Product F . n:) Tj
+T*
+(   - F = z * i + x * j - 3y^2*z * k) Tj
+T*
+(   = z * i + \(4 * cos theta\) * j - 3*\(16 * sin^2 theta\)*z * k.) Tj
+T*
+(   - F . n = \(z * cos theta\) + \(4 * cos theta * sin theta\) + 0) Tj
+T*
+(   = z * cos theta + 4 * sin theta * cos theta.) Tj
+T*
+(   Step 4: Set up the Double Integral:) Tj
+T*
+(   iint_S F . n dS = int_0^5 [ int_0^\(pi/2\) \(z * cos theta + 4 * sin theta * cos theta\) * 4 dtheta) Tj
+T*
+(   ] dz) Tj
+T*
+(   = 4 * int_0^5 [ int_0^\(pi/2\) \(z * cos theta + 2 * sin 2theta\) dtheta ] dz.) Tj
+T*
+(   Step 5: Evaluate Inner Integral with respect to theta:) Tj
+T*
+(   int_0^\(pi/2\) \(z * cos theta + 2 * sin 2theta\) dtheta = [ z * sin theta - cos 2theta ]_0^\(pi/2\)) Tj
+T*
+(   - At pi/2: z*sin\(pi/2\) - cos\(pi\) = z\(1\) - \(-1\) = z + 1.) Tj
+T*
+(   - At 0: z*sin\(0\) - cos\(0\) = 0 - 1 = -1.) Tj
+T*
+(   - Difference: \(z + 1\) - \(-1\) = z + 2.) Tj
+T*
+(   Step 6: Evaluate Outer Integral with respect to z:) Tj
+T*
+(   iint_S F . n dS = 4 * int_0^5 \(z + 2\) dz) Tj
+T*
+(   = 4 * [ z^2 / 2 + 2z ]_0^5) Tj
+T*
+(   = 4 * [ 25/2 + 10 ]) Tj
+T*
+(   = 4 * [ 45 / 2 ] = 2 * 45 = 90.) Tj
+T*
+ET
+
+endstream
+endobj
+55 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 56 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+56 0 obj
+<< /Length 3582 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 5: MULTIVARIABLE INTEGRAL CALCULUS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 27 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   Conclusion:) Tj
+T*
+(   The value of the surface integral is 90.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 26:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Evaluate the line integral oint_C \(z dx + x dy + y dz\) along the intersection of the sphere x^2 + y^2 + z^2 = a^2 and the plane x + y + z = 0 using Stokes' Theorem.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Step 1: Geometry of the Boundary Curve C:) Tj
+T*
+(   - The curve C is the intersection of a sphere with a plane passing through the origin.) Tj
+T*
+(   - It is a great circle of radius R = a lying entirely on the plane x + y + z = 0.) Tj
+T*
+(   - Let S be the flat circular disk inside C lying on the plane x + y + z = 0.) Tj
+T*
+(   - Area of S = pi * a^2.) Tj
+T*
+(   Step 2: Normal Vector to Surface S:) Tj
+T*
+(   - Equation of plane: x + y + z = 0.) Tj
+T*
+(   - Normal vector: N = i + j + k.) Tj
+T*
+(   - Unit normal vector: n = \(i + j + k\) / sqrt\(1^2 + 1^2 + 1^2\) = \(i + j + k\) / sqrt\(3\).) Tj
+T*
+(   Step 3: Compute curl\(F\) where F = z*i + x*j + y*k:) Tj
+T*
+(   | i j k |) Tj
+T*
+(   | d/dx d/dy d/dz |) Tj
+T*
+(   | z x y |) Tj
+T*
+(   - i-comp: d/dy\(y\) - d/dz\(x\) = 1 - 0 = 1.) Tj
+T*
+(   - j-comp: d/dz\(z\) - d/dx\(y\) = 1 - 0 = 1.) Tj
+T*
+(   - k-comp: d/dx\(x\) - d/dy\(z\) = 1 - 0 = 1.) Tj
+T*
+(   Therefore: curl\(F\) = i + j + k.) Tj
+T*
+(   Step 4: Compute Dot Product \(curl F\) . n:) Tj
+T*
+(   \(curl F\) . n = \(i + j + k\) . [ \(i + j + k\) / sqrt\(3\) ]) Tj
+T*
+(   = \(1 + 1 + 1\) / sqrt\(3\) = 3 / sqrt\(3\) = sqrt\(3\).) Tj
+T*
+(   Step 5: Apply Stokes' Theorem:) Tj
+T*
+(   oint_C F . dr = iint_S \(curl F\) . n dS) Tj
+T*
+(   = iint_S sqrt\(3\) dS = sqrt\(3\) * iint_S 1 dS) Tj
+T*
+(   = sqrt\(3\) * Area\(S\)) Tj
+T*
+(   = sqrt\(3\) * \(pi * a^2\) = pi * a^2 * sqrt\(3\).) Tj
+T*
+(   Conclusion:) Tj
+T*
+(   The value of the line integral is pi * a^2 * sqrt\(3\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 27:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Prove that the field of flow of an incompressible fluid has zero divergence \(div v = 0\) from the law of conservation of mass. Formulate this via Gauss' Divergence Theorem.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Physical Setup:) Tj
+T*
+(   - Consider an arbitrary control volume V fixed in space, bounded by a closed surface S with) Tj
+T*
+(   outward unit normal n.) Tj
+T*
+(   - Let rho\(x, y, z, t\) be fluid mass density and v\(x, y, z, t\) be the velocity vector field.) Tj
+T*
+(   2. Mass Balance Equation:) Tj
+T*
+(   - Total mass of fluid within volume V at time t:) Tj
+T*
+(   M\(t\) = iiint_V rho dV.) Tj
+T*
+(   - Time rate of mass accumulation inside V:) Tj
+T*
+(   dM / dt = d/dt [ iiint_V rho dV ] = iiint_V \(drho / dt\) dV.) Tj
+T*
+(   - Mass flux of fluid escaping across the boundary surface S per unit time:) Tj
+T*
+(   Mass Outflow = iint_S \(rho * v\) . n dS.) Tj
+T*
+(   - By the Law of Conservation of Mass \(continuity\), assuming no internal sources or sinks:) Tj
+T*
+(   Accumulation = - Outflow) Tj
+T*
+ET
+
+endstream
+endobj
+57 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 58 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+58 0 obj
+<< /Length 3514 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 5: MULTIVARIABLE INTEGRAL CALCULUS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 28 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   iiint_V \(drho / dt\) dV = - iint_S \(rho * v\) . n dS.) Tj
+T*
+(   3. Application of Gauss' Divergence Theorem:) Tj
+T*
+(   - Transform the surface integral into a volume integral:) Tj
+T*
+(   iint_S \(rho * v\) . n dS = iiint_V div\(rho * v\) dV.) Tj
+T*
+(   - Substitute:) Tj
+T*
+(   iiint_V \(drho / dt\) dV = - iiint_V div\(rho * v\) dV) Tj
+T*
+(   => iiint_V [ drho / dt + div\(rho * v\) ] dV = 0.) Tj
+T*
+(   - Since volume V is completely arbitrary, the integrand must vanish identically everywhere:) Tj
+T*
+(   drho / dt + div\(rho * v\) = 0 \(The Continuity Equation\).) Tj
+T*
+(   4. Incompressible Fluid Condition:) Tj
+T*
+(   - For an incompressible liquid broth, fluid density rho is strictly constant \(drho/dt = 0 and) Tj
+T*
+(   grad\(rho\) = 0\):) Tj
+T*
+(   div\(rho * v\) = rho * div\(v\) = 0.) Tj
+T*
+(   - Since rho != 0:) Tj
+T*
+(   div\(v\) = 0. \(Hence proved\).) Tj
+T*
+(   Conclusion:) Tj
+T*
+(   The velocity field of an incompressible fluid is strictly solenoidal.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 28:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: In biotechnology bioreactor design, use surface flux integration to calculate the total oxygen mass transfer rate across spherical gas bubbles of uniform radius R = 1 mm. Given gas holdup epsilon_g = 0.1, liquid volume V_L = 10 m^3, mass transfer coefficient k_L = 4 * 10^-4 m/s, and concentration driving force Delta_C = 0.2 mol/m^3.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Mathematical Model of Bubble Interfacial Flux:) Tj
+T*
+(   - The oxygen flux through the gas-liquid interface S_b of a single spherical bubble is:) Tj
+T*
+(   J_O2 = k_L * Delta_C.) Tj
+T*
+(   - Total oxygen mass transfer rate across one bubble:) Tj
+T*
+(   Q_single = iint_{S_b} J_O2 dS = k_L * Delta_C * iint_{S_b} 1 dS) Tj
+T*
+(   = k_L * Delta_C * \(4 * pi * R^2\).) Tj
+T*
+(   2. Number of Bubbles in the Bioreactor:) Tj
+T*
+(   - Volume of one bubble:) Tj
+T*
+(   V_b = \(4/3\) * pi * R^3.) Tj
+T*
+(   - Total gas volume in bioreactor:) Tj
+T*
+(   V_gas = epsilon_g * V_L = 0.1 * 10 m^3 = 1.0 m^3.) Tj
+T*
+(   - Total count of bubbles:) Tj
+T*
+(   N_b = V_gas / V_b = V_gas / [ \(4/3\) * pi * R^3 ].) Tj
+T*
+(   3. Total Interfacial Surface Area \(a_total\):) Tj
+T*
+(   - A_total = N_b * \(4 * pi * R^2\) = [ V_gas / \(\(4/3\)*pi*R^3\) ] * \(4*pi*R^2\)) Tj
+T*
+(   = 3 * V_gas / R.) Tj
+T*
+(   - With R = 1 mm = 10^-3 m:) Tj
+T*
+(   A_total = 3 * \(1.0 m^3\) / 10^-3 m = 3000 m^2.) Tj
+T*
+(   4. Total Oxygen Transfer Rate \(OTR\):) Tj
+T*
+(   - OTR = iint_{A_total} J_O2 dS = k_L * Delta_C * A_total.) Tj
+T*
+(   - Substitute numerical values:) Tj
+T*
+(   OTR = \(4 * 10^-4 m/s\) * \(0.2 mol/m^3\) * \(3000 m^2\)) Tj
+T*
+(   = \(4 * 10^-4\) * 0.2 * 3000) Tj
+T*
+(   = 0.08 * 3 = 0.24 mol/s.) Tj
+T*
+(   - Converting to mol/hour:) Tj
+T*
+(   OTR = 0.24 * 3600 = 864 mol/h.) Tj
+T*
+(   Conclusion:) Tj
+T*
+(   The total oxygen transfer rate integrated across all bubbles is 0.24 mol/s \(864 mol/h\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+59 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 60 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+60 0 obj
+<< /Length 3966 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 5: MULTIVARIABLE INTEGRAL CALCULUS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 29 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 29:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: In an immobilized enzyme spherical bead of radius R, substrate diffuses radially and undergoes zero-order reaction: \(D / r^2\) * d/dr \(r^2 * dC/dr\) = k0. Integrate this second-order ODE in spherical coordinates subject to boundary conditions dC/dr\(0\) = 0 and C\(R\) = Cs, and determine the concentration profile C\(r\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Step 1: Differential Equation:) Tj
+T*
+(   \(D / r^2\) * d/dr [ r^2 * \(dC / dr\) ] = k0) Tj
+T*
+(   => d/dr [ r^2 * \(dC / dr\) ] = \(k0 / D\) * r^2.) Tj
+T*
+(   Step 2: First Integration:) Tj
+T*
+(   r^2 * \(dC / dr\) = int \(k0 / D\) * r^2 dr = \(k0 / D\) * \(r^3 / 3\) + C1.) Tj
+T*
+(   Divide by r^2:) Tj
+T*
+(   dC / dr = \(k0 / \(3*D\)\) * r + C1 / r^2.) Tj
+T*
+(   Step 3: Apply Boundary Condition at Center \(r = 0\):) Tj
+T*
+(   For concentration to remain physically finite at the center of the bead \(r = 0\), C1 / r^2 must) Tj
+T*
+(   not blow up:) Tj
+T*
+(   C1 = 0 \(also matches symmetry dC/dr\(0\) = 0\).) Tj
+T*
+(   Therefore:) Tj
+T*
+(   dC / dr = \(k0 / \(3*D\)\) * r.) Tj
+T*
+(   Step 4: Second Integration:) Tj
+T*
+(   C\(r\) = int [ \(k0 / \(3*D\)\) * r ] dr = \(k0 / \(6*D\)\) * r^2 + C2.) Tj
+T*
+(   Step 5: Apply Boundary Condition at Surface \(r = R\):) Tj
+T*
+(   C\(R\) = Cs => \(k0 / \(6*D\)\) * R^2 + C2 = Cs) Tj
+T*
+(   => C2 = Cs - \(k0 * R^2\) / \(6*D\).) Tj
+T*
+(   Step 6: Assemble Final Concentration Profile:) Tj
+T*
+(   C\(r\) = Cs - \(k0 * R^2\) / \(6*D\) + \(k0 / \(6*D\)\) * r^2) Tj
+T*
+(   = Cs - [ k0 / \(6*D\) ] * \(R^2 - r^2\).) Tj
+T*
+(   Conclusion:) Tj
+T*
+(   The radial substrate concentration within the biocatalyst bead follows the parabolic profile:) Tj
+T*
+(   C\(r\) = Cs - [ k0 / \(6D\) ] * \(R^2 - r^2\).) Tj
+T*
+(   Center concentration is C\(0\) = Cs - k0*R^2 / \(6D\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 30:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Use the Divergence Theorem to show that for a closed cellular surface S bounding cell volume V, the total diffusive flux of a metabolite governed by Fick's law J = -D * grad\(C\) equals the total volumetric reaction rate iiint_V R_rxn dV at steady state.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Physical Setup:) Tj
+T*
+(   - Let V represent the intracellular volume enclosed by cell membrane S with outward unit normal) Tj
+T*
+(   n.) Tj
+T*
+(   - Substrate concentration inside the cell is C\(x, y, z\).) Tj
+T*
+(   - Diffusive flux vector across the cell is given by Fick's first law:) Tj
+T*
+(   J = -D * grad\(C\).) Tj
+T*
+(   - The volumetric metabolic consumption rate per unit volume is R_rxn\(x, y, z\) >= 0.) Tj
+T*
+(   2. Integral Mass Balance:) Tj
+T*
+(   - At steady state, the net rate of substrate diffusing into the cell across membrane S must) Tj
+T*
+(   equal the total rate of substrate consumed by intracellular metabolic reactions within volume) Tj
+T*
+(   V:) Tj
+T*
+(   Net Influx = Total Metabolic Consumption) Tj
+T*
+(   - iint_S J . n dS = iiint_V R_rxn dV.) Tj
+T*
+(   - The left-hand side represents net influx because outward flux is iint_S J . n dS.) Tj
+T*
+(   3. Transformation via Gauss' Divergence Theorem:) Tj
+T*
+(   - Applying Gauss' Divergence Theorem to the vector field J:) Tj
+T*
+(   iint_S J . n dS = iiint_V div\(J\) dV.) Tj
+T*
+(   - Substitute J = -D * grad\(C\):) Tj
+T*
+(   div\(J\) = div\(-D * grad\(C\)\) = -D * div\(grad\(C\)\) = -D * del^2 C.) Tj
+T*
+(   - Therefore:) Tj
+T*
+ET
+
+endstream
+endobj
+61 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 62 0 R /Resources << /Font << /F1 63 0 R /F2 64 0 R >> >> >>
+endobj
+62 0 obj
+<< /Length 1152 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(ENGINEERING MATHEMATICS - I | UNIT 5: MULTIVARIABLE INTEGRAL CALCULUS) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 30 of 30) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   iint_S J . n dS = - iiint_V D * del^2 C dV.) Tj
+T*
+(   4. Equating to Metabolic Consumption:) Tj
+T*
+(   - - iint_S J . n dS = iiint_V D * del^2 C dV = iiint_V R_rxn dV) Tj
+T*
+(   => iiint_V [ D * del^2 C - R_rxn ] dV = 0.) Tj
+T*
+(   - Since this balance holds for any arbitrary sub-volume of the cell:) Tj
+T*
+(   D * del^2 C = R_rxn,) Tj
+T*
+(   which is the fundamental steady-state reaction-diffusion equation \(Poisson's equation for) Tj
+T*
+(   biotechnology\).) Tj
+T*
+(   Conclusion:) Tj
+T*
+(   The integral of the outward diffusive flux over the cell membrane exactly balances the total) Tj
+T*
+(   volumetric enzymatic reaction within the cell: iint_S \(-D * grad C\) . n dS = - iiint_V R_rxn) Tj
+T*
+(   dV.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+63 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+64 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+xref
+0 65
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000316 00000 n 
+0000000460 00000 n 
+0000009469 00000 n 
+0000009613 00000 n 
+0000018783 00000 n 
+0000018927 00000 n 
+0000027123 00000 n 
+0000027268 00000 n 
+0000035737 00000 n 
+0000035883 00000 n 
+0000044234 00000 n 
+0000044380 00000 n 
+0000053065 00000 n 
+0000053211 00000 n 
+0000062184 00000 n 
+0000062330 00000 n 
+0000064049 00000 n 
+0000064195 00000 n 
+0000070314 00000 n 
+0000070460 00000 n 
+0000073926 00000 n 
+0000074072 00000 n 
+0000082553 00000 n 
+0000082699 00000 n 
+0000086815 00000 n 
+0000086961 00000 n 
+0000090954 00000 n 
+0000091100 00000 n 
+0000095014 00000 n 
+0000095160 00000 n 
+0000098666 00000 n 
+0000098812 00000 n 
+0000102757 00000 n 
+0000102903 00000 n 
+0000106430 00000 n 
+0000106576 00000 n 
+0000110173 00000 n 
+0000110319 00000 n 
+0000114220 00000 n 
+0000114366 00000 n 
+0000117865 00000 n 
+0000118011 00000 n 
+0000121825 00000 n 
+0000121971 00000 n 
+0000125771 00000 n 
+0000125917 00000 n 
+0000129751 00000 n 
+0000129897 00000 n 
+0000133877 00000 n 
+0000134023 00000 n 
+0000137712 00000 n 
+0000137858 00000 n 
+0000141430 00000 n 
+0000141576 00000 n 
+0000145211 00000 n 
+0000145357 00000 n 
+0000148924 00000 n 
+0000149070 00000 n 
+0000153089 00000 n 
+0000153235 00000 n 
+0000154440 00000 n 
+0000154538 00000 n 
+trailer
+<< /Size 65 /Root 1 0 R >>
+startxref
+154641
+%%EOF

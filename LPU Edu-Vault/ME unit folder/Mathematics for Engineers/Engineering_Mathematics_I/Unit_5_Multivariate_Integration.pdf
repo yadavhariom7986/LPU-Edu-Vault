@@ -1,0 +1,530 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 3142 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mathematics - I | Unit 5: Multivariate Integration & Volumes) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 1 of 4) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(=== UNIT 5: MULTIVARIATE INTEGRAL CALCULUS \(DOUBLE & TRIPLE INTEGRALS\) ===) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.1 Double Integrals and Change of Order of Integration) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Multivariate integration extends single-variable integration to planar domains and 3D) Tj
+T*
+(spatial volumes.) Tj
+T*
+(* Double Integral over Region R: iint_R f\(x, y\) dA = int_{x=a}^b [) Tj
+T*
+(int_{y=phi1\(x\)}^{phi2\(x\)} f\(x, y\) dy ] dx.) Tj
+T*
+(* Change of Order of Integration: When an iterated integral int_a^b [ int_{y1}^{y2}) Tj
+T*
+(f\(x, y\) dy ] dx is difficult or impossible to evaluate analytically in its given) Tj
+T*
+(order, changing the integration order to dx dy often renders the antiderivative) Tj
+T*
+(elementary. Requires sketching the boundary curves of region R, determining whether) Tj
+T*
+(slices are vertical \(dx first\) or horizontal \(dy first\), and identifying new) Tj
+T*
+(continuous limit functions.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.2 Transformation of Coordinates in Multiple Integrals) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* General 2D Coordinate Transformation \(x = x\(u, v\), y = y\(u, v\)\):) Tj
+T*
+(iint_R f\(x, y\) dx dy = iint_{R'} f\(x\(u, v\), y\(u, v\)\) * | J | du dv,) Tj
+T*
+(where | J | = | d\(x, y\) / d\(u, v\) | is the absolute value of the transformation) Tj
+T*
+(Jacobian.) Tj
+T*
+(* Polar Transformation: x = r*cos\(theta\), y = r*sin\(theta\), dx dy = r dr d\(theta\).) Tj
+T*
+(Essential for circular, annular, or radial boundaries.) Tj
+T*
+(* Triple Integrals in Cartesian Coordinates: iiint_V f\(x, y, z\) dx dy dz.) Tj
+T*
+(* Cylindrical Coordinates: x = r*cos\(theta\), y = r*sin\(theta\), z = z. Volume element) Tj
+T*
+(dV = r dr d\(theta\) dz.) Tj
+T*
+(* Spherical Polar Coordinates: x = rho*sin\(phi\)*cos\(theta\), y =) Tj
+T*
+(rho*sin\(phi\)*sin\(theta\), z = rho*cos\(phi\). Volume element dV = rho^2 * sin\(phi\)) Tj
+T*
+(d\(rho\) d\(phi\) d\(theta\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.3 Geometric Applications: Area, Volume and Center of Mass) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Planar Area: Area\(R\) = iint_R dx dy = iint_R r dr d\(theta\).) Tj
+T*
+(* Spatial Volume: Volume\(V\) = iiint_V dx dy dz.) Tj
+T*
+(* Mass and Center of Mass: Mass M = iint_R sigma\(x, y\) dA. Coordinates of centroid:) Tj
+T*
+(x_bar = \(1/M\) * iint_R x*sigma dA, y_bar = \(1/M\) * iint_R y*sigma dA.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([SOLVED PROBLEM 1: Changing Order of Integration of Non-Elementary Antiderivative]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: Evaluate the integral I = int_0^1 [ int_x^1 e^{y^2} dy ] dx by reversing the) Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 3117 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mathematics - I | Unit 5: Multivariate Integration & Volumes) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 2 of 4) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(order of integration.) Tj
+T*
+(Solution Step 1: Identify given region R from integration limits:) Tj
+T*
+(Inner integral: y runs from y = x to y = 1.) Tj
+T*
+(Outer integral: x runs from x = 0 to x = 1.) Tj
+T*
+(Region R is the triangle bounded by the line y = x, the horizontal line y = 1, and the) Tj
+T*
+(y-axis \(x = 0\).) Tj
+T*
+(Solution Step 2: Reverse order to integrate with respect to x first, then y:) Tj
+T*
+(For a fixed horizontal slice y, x varies from x = 0 \(y-axis\) to x = y \(the boundary) Tj
+T*
+(line\).) Tj
+T*
+(y varies along the full vertical height of the region from y = 0 to y = 1.) Tj
+T*
+(Transformed Integral: I = int_{y=0}^1 [ int_{x=0}^y e^{y^2} dx ] dy.) Tj
+T*
+(Solution Step 3: Evaluate inner integral with respect to x \(treating e^{y^2} as) Tj
+T*
+(constant\):) Tj
+T*
+(int_0^y e^{y^2} dx = e^{y^2} * [ x ]_0^y = y * e^{y^2}.) Tj
+T*
+(Solution Step 4: Evaluate outer integral with respect to y:) Tj
+T*
+(I = int_0^1 y * e^{y^2} dy.) Tj
+T*
+(Let u = y^2 => du = 2y dy => y dy = du / 2.) Tj
+T*
+(When y = 0, u = 0; when y = 1, u = 1.) Tj
+T*
+(I = \(1 / 2\) * int_0^1 e^u du = \(1 / 2\) * [ e^u ]_0^1 = \(1 / 2\) * \(e^1 - e^0\) = \(e - 1\) /) Tj
+T*
+(2.) Tj
+T*
+(Final Numerical Value: I = \(2.71828 - 1\) / 2 = 0.85914.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([SOLVED PROBLEM 2: Double Integral over Circular Domain via Polar Coordinates]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: Evaluate iint_R sqrt\(a^2 - x^2 - y^2\) dx dy over the positive first quadrant of) Tj
+T*
+(the circle x^2 + y^2 <= a^2.) Tj
+T*
+(Solution Step 1: Convert to polar coordinates: x = r*cos\(theta\), y = r*sin\(theta\), dx dy) Tj
+T*
+(= r dr d\(theta\).) Tj
+T*
+(Integrand: sqrt\(a^2 - \(x^2 + y^2\)\) = sqrt\(a^2 - r^2\).) Tj
+T*
+(Solution Step 2: Determine limits for the first quadrant of circle of radius a:) Tj
+T*
+(r runs from r = 0 to r = a.) Tj
+T*
+(theta runs from theta = 0 to theta = pi/2.) Tj
+T*
+(Solution Step 3: Set up and evaluate iterated integral:) Tj
+T*
+(I = int_{theta=0}^{pi/2} [ int_{r=0}^a sqrt\(a^2 - r^2\) * r dr ] d\(theta\).) Tj
+T*
+(Inner Integral: Let u = a^2 - r^2 => du = -2r dr => r dr = -du / 2.) Tj
+T*
+(When r = 0, u = a^2; when r = a, u = 0.) Tj
+T*
+(int_{a^2}^0 sqrt\(u\) * \(-du / 2\) = \(1 / 2\) * int_0^{a^2} u^{1/2} du = \(1 / 2\) * [ \(2/3\) *) Tj
+T*
+(u^{3/2} ]_0^{a^2}) Tj
+T*
+(= \(1 / 3\) * \(a^2\)^{3/2} = a^3 / 3.) Tj
+T*
+(Solution Step 4: Outer Integral:) Tj
+T*
+(I = int_0^{pi/2} [ a^3 / 3 ] d\(theta\) = \(a^3 / 3\) * [ theta ]_0^{pi/2} = \(a^3 / 3\) * \(pi) Tj
+T*
+(/ 2\) = pi * a^3 / 6.) Tj
+T*
+(Final Answer: Integral value = pi * a^3 / 6.) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 3397 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mathematics - I | Unit 5: Multivariate Integration & Volumes) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 3 of 4) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([SOLVED PROBLEM 3: Triple Integral Volume of Sphere via Spherical Coordinates]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: Evaluate the volume of a sphere of radius R using spherical polar coordinates.) Tj
+T*
+(Solution Step 1: Coordinate transformation: x = rho*sin\(phi\)*cos\(theta\), y =) Tj
+T*
+(rho*sin\(phi\)*sin\(theta\), z = rho*cos\(phi\).) Tj
+T*
+(Jacobian volume element: dV = rho^2 * sin\(phi\) d\(rho\) d\(phi\) d\(theta\).) Tj
+T*
+(Solution Step 2: Define spherical limits for full sphere:) Tj
+T*
+(Radial distance rho: 0 to R.) Tj
+T*
+(Colatitude \(polar angle\) phi: 0 to pi.) Tj
+T*
+(Azimuthal angle theta: 0 to 2*pi.) Tj
+T*
+(Solution Step 3: Set up and separate independent triple integral:) Tj
+T*
+(Volume V = int_0^{2*pi} d\(theta\) * int_0^pi sin\(phi\) d\(phi\) * int_0^R rho^2 d\(rho\).) Tj
+T*
+(Integral 1: int_0^{2*pi} d\(theta\) = 2*pi.) Tj
+T*
+(Integral 2: int_0^pi sin\(phi\) d\(phi\) = [ -cos\(phi\) ]_0^pi = -cos\(pi\) - \(-cos\(0\)\) = -\(-1\)) Tj
+T*
+(+ 1 = 2.) Tj
+T*
+(Integral 3: int_0^R rho^2 d\(rho\) = [ rho^3 / 3 ]_0^R = R^3 / 3.) Tj
+T*
+(Solution Step 4: Multiply results:) Tj
+T*
+(V = \(2*pi\) * \(2\) * \(R^3 / 3\) = \(4/3\) * pi * R^3. \(Exact Standard Formula Proven\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([SOLVED PROBLEM 4: Centroid of Homogeneous Semi-Circular Laminar Disc]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: Find the center of mass \(x_bar, y_bar\) of a uniform thin semi-circular plate of) Tj
+T*
+(radius a lying in the upper half plane x^2 + y^2 <= a^2, y >= 0.) Tj
+T*
+(Solution Step 1: Symmetry consideration: The laminar disc is symmetric about the y-axis) Tj
+T*
+(\(x = 0\).) Tj
+T*
+(Therefore, x_bar = 0.) Tj
+T*
+(Solution Step 2: Total area of semi-circle: Area A = pi * a^2 / 2.) Tj
+T*
+(Solution Step 3: Compute first moment of area M_x = iint_R y dA in polar coordinates:) Tj
+T*
+(y = r*sin\(theta\), dA = r dr d\(theta\).) Tj
+T*
+(M_x = int_0^pi [ int_0^a \(r*sin\(theta\)\) * r dr ] d\(theta\) = int_0^pi sin\(theta\) d\(theta\)) Tj
+T*
+(* int_0^a r^2 dr.) Tj
+T*
+(Angular integral: int_0^pi sin\(theta\) d\(theta\) = [ -cos\(theta\) ]_0^pi = 1 - \(-1\) = 2.) Tj
+T*
+(Radial integral: int_0^a r^2 dr = [ r^3 / 3 ]_0^a = a^3 / 3.) Tj
+T*
+(M_x = 2 * \(a^3 / 3\) = 2*a^3 / 3.) Tj
+T*
+(Solution Step 4: Calculate centroid coordinate y_bar:) Tj
+T*
+(y_bar = M_x / Area = [ 2*a^3 / 3 ] / [ pi * a^2 / 2 ] = \(2*a^3 / 3\) * \(2 / \(pi * a^2\)\) =) Tj
+T*
+(4*a / \(3*pi\).) Tj
+T*
+(Final Centroid Coordinates: \(x_bar, y_bar\) = \( 0, 4a / \(3*pi\) \). For a = 3 m, y_bar ~) Tj
+T*
+(1.273 m.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.4 University Review & Examination Questions) Tj
+T*
+/F1 9 Tf
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 2558 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mathematics - I | Unit 5: Multivariate Integration & Volumes) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 4 of 4) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+() Tj
+T*
+(* Q1: State the general formula for transforming variables in a double integral and) Tj
+T*
+(explain the physical significance of the Jacobian determinant.) Tj
+T*
+(Answer: Formula: iint_R f\(x, y\) dx dy = iint_{R'} f\(x\(u, v\), y\(u, v\)\) * |J| du dv, where) Tj
+T*
+(J = d\(x, y\)/d\(u, v\). Physical significance: The Jacobian determinant represents the) Tj
+T*
+(local magnification or contraction ratio of area elements when mapping from the \(u, v\)) Tj
+T*
+(plane to the \(x, y\) plane. An infinitesimal rectangular area du*dv in the parameter) Tj
+T*
+(space maps to an infinitesimal parallelogram in the Cartesian plane spanned by vectors) Tj
+T*
+(\(dx/du du, dy/du du\) and \(dx/dv dv, dy/dv dv\). The area of this parallelogram equals the) Tj
+T*
+(cross product magnitude, which evaluates precisely to |\(dx/du\)\(dy/dv\) - \(dx/dv\)\(dy/du\)|) Tj
+T*
+(* du dv = |J| du dv.) Tj
+T*
+(* Q2: Explain the procedure for changing the order of integration in double integrals) Tj
+T*
+(with an illustrative sketch description.) Tj
+T*
+(Answer: Procedure: \(1\) Identify given boundary curves from integration limits. \(2\)) Tj
+T*
+(Accurately sketch the 2D domain R enclosed by these curves. \(3\) If the original integral) Tj
+T*
+(integrated with respect to y first \(vertical strip extending from y1\(x\) to y2\(x\)\),) Tj
+T*
+(convert to horizontal strips by finding x as a function of y \(x1\(y\) to x2\(y\)\). \(4\)) Tj
+T*
+(Determine the global minimum and maximum bounds of y across the domain \(c to d\). \(5\) If) Tj
+T*
+(the boundary equations change across the region, partition R into sub-regions and sum) Tj
+T*
+(the resulting iterated integrals.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 5.5 Key Takeaways and Revision Points) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Reversing the order of integration converts analytically impossible) Tj
+T*
+(single-direction antiderivatives into elementary integrals.) Tj
+T*
+(* Polar transformation \(dx dy = r dr d\(theta\)\) simplifies circular and radial domain) Tj
+T*
+(integrations.) Tj
+T*
+(* Triple integrals evaluate 3D spatial properties \(volume, mass, gravitational) Tj
+T*
+(potential\).) Tj
+T*
+(* Spherical coordinates volume element is dV = rho^2 * sin\(phi\) d\(rho\) d\(phi\)) Tj
+T*
+(d\(theta\).) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 13
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000164 00000 n 
+0000000234 00000 n 
+0000000309 00000 n 
+0000000421 00000 n 
+0000003615 00000 n 
+0000003727 00000 n 
+0000006896 00000 n 
+0000007009 00000 n 
+0000010459 00000 n 
+0000010573 00000 n 
+trailer
+<< /Size 13 /Root 1 0 R >>
+startxref
+13184
+%%EOF

@@ -1,0 +1,12055 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R 35 0 R 37 0 R 39 0 R 41 0 R 43 0 R 45 0 R 47 0 R 49 0 R 51 0 R 53 0 R 55 0 R 57 0 R 59 0 R 61 0 R 63 0 R 65 0 R 67 0 R 69 0 R 71 0 R 73 0 R 75 0 R 77 0 R 79 0 R 81 0 R 83 0 R] /Count 41 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 4 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 8059 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 4: FUNCTIONS AND RECURSION) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 1 of 41) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(1.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Which keyword is used to declare and define a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(function in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(function) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(def) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(func) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(define) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(2.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(What character terminates the function header) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(line in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+({) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(;) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(:) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(->) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(3.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(What value does a Python function return by) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(default if it lacks an explicit return) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.0001 Td
+(statement?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 607.3001 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.7001 Td
+(False) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.1002 Td
+(None) Tj
+ET
+BT
+/F2 7.4 Tf
+58 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 578.5002 Td
+(Empty string) Tj
+ET
+BT
+/F2 8.0 Tf
+42 554.9002 Td
+(4.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(What is the difference between a parameter and) Tj
+ET
+BT
+/F1 7.8 Tf
+58 545.7002 Td
+(an argument in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 534.0002 Td
+(Parameters are defined in function headers;) Tj
+ET
+BT
+/F1 7.4 Tf
+72 525.4002 Td
+(arguments are actual values passed during) Tj
+ET
+BT
+/F1 7.4 Tf
+72 516.8002 Td
+(invocation) Tj
+ET
+BT
+/F2 7.4 Tf
+58 507.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 507.2002 Td
+(Arguments are in headers; parameters are) Tj
+ET
+BT
+/F1 7.4 Tf
+72 498.6002 Td
+(passed) Tj
+ET
+BT
+/F2 7.4 Tf
+58 489.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 489.0002 Td
+(They are 100% synonymous with no distinction) Tj
+ET
+BT
+/F2 7.4 Tf
+58 479.4002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 479.4002 Td
+(Parameters are always integers; arguments) Tj
+ET
+BT
+/F1 7.4 Tf
+72 470.8002 Td
+(are strings) Tj
+ET
+BT
+/F2 8.0 Tf
+42 447.2002 Td
+(5.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 447.2002 Td
+(Which built-in module provides comprehensive) Tj
+ET
+BT
+/F1 7.8 Tf
+58 438.0002 Td
+(mathematical functions like sqrt, sin, cos, and) Tj
+ET
+BT
+/F1 7.8 Tf
+58 428.8002 Td
+(log?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 417.1002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 417.1002 Td
+(cmath) Tj
+ET
+BT
+/F2 7.4 Tf
+58 407.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 407.5002 Td
+(math) Tj
+ET
+BT
+/F2 7.4 Tf
+58 397.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 397.9001 Td
+(numeric) Tj
+ET
+BT
+/F2 7.4 Tf
+58 388.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 388.3001 Td
+(calc) Tj
+ET
+BT
+/F2 8.0 Tf
+42 364.7001 Td
+(6.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 364.7001 Td
+(What does math.sqrt\(25\) return in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 353.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 353.0001 Td
+(5) Tj
+ET
+BT
+/F2 7.4 Tf
+58 343.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 343.4001 Td
+(5.0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 333.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 333.8001 Td
+(25) Tj
+ET
+BT
+/F2 7.4 Tf
+58 324.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 324.2001 Td
+(None) Tj
+ET
+BT
+/F2 8.0 Tf
+42 300.6001 Td
+(7.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 300.6001 Td
+(What does math.ceil\(4.2\) return?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 288.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 288.9001 Td
+(4) Tj
+ET
+BT
+/F2 7.4 Tf
+58 279.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 279.3001 Td
+(5) Tj
+ET
+BT
+/F2 7.4 Tf
+58 269.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 269.7001 Td
+(4.0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 260.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 260.1001 Td
+(5.0) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(8.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What does math.floor\(4.8\) return?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 772.3 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 772.3 Td
+(4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 762.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 762.7 Td
+(5) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.1 Td
+(4.0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.5001 Td
+(5.0) Tj
+ET
+BT
+/F2 8.0 Tf
+306 719.9001 Td
+(9.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 719.9001 Td
+(Which keyword inside a function is used to) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(declare that a variable refers to the global) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(module scope?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(global) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(extern) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(public) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(nonlocal) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(10.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(Which keyword introduced in Python 3 allows) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(modifying a variable in an outer enclosing) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(\(non-global\) scope?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.3001 Td
+(global) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.7001 Td
+(outer) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.1002 Td
+(nonlocal) Tj
+ET
+BT
+/F2 7.4 Tf
+322 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 578.5002 Td
+(parent) Tj
+ET
+BT
+/F2 8.0 Tf
+306 554.9002 Td
+(11.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(What syntax is used to define variable-length) Tj
+ET
+BT
+/F1 7.8 Tf
+322 545.7002 Td
+(positional arguments in a function definition?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 534.0002 Td
+(*args) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.4002 Td
+(**kwargs) Tj
+ET
+BT
+/F2 7.4 Tf
+322 514.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 514.8002 Td
+(&args) Tj
+ET
+BT
+/F2 7.4 Tf
+322 505.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 505.2002 Td
+(...args) Tj
+ET
+BT
+/F2 8.0 Tf
+306 481.6002 Td
+(12.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 481.6002 Td
+(What data structure does *args pack) Tj
+ET
+BT
+/F1 7.8 Tf
+322 472.4002 Td
+(variable-length positional arguments into?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.7002 Td
+(list) Tj
+ET
+BT
+/F2 7.4 Tf
+322 451.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 451.1002 Td
+(tuple) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.5002 Td
+(dict) Tj
+ET
+BT
+/F2 7.4 Tf
+322 431.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 431.9002 Td
+(set) Tj
+ET
+BT
+/F2 8.0 Tf
+306 408.3002 Td
+(13.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 408.3002 Td
+(What syntax is used to capture variable-length) Tj
+ET
+BT
+/F1 7.8 Tf
+322 399.1002 Td
+(keyword arguments in a function definition?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.4001 Td
+(*args) Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.8001 Td
+(**kwargs) Tj
+ET
+BT
+/F2 7.4 Tf
+322 368.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 368.2001 Td
+(&kwargs) Tj
+ET
+BT
+/F2 7.4 Tf
+322 358.6001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 358.6001 Td
+(kw: dict) Tj
+ET
+BT
+/F2 8.0 Tf
+306 335.0001 Td
+(14.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 335.0001 Td
+(What data structure does **kwargs pack) Tj
+ET
+BT
+/F1 7.8 Tf
+322 325.8001 Td
+(variable-length keyword arguments into?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 314.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 314.1001 Td
+(list) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.5001 Td
+(tuple) Tj
+ET
+BT
+/F2 7.4 Tf
+322 294.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 294.9001 Td
+(dict) Tj
+ET
+BT
+/F2 7.4 Tf
+322 285.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 285.3001 Td
+(namedtuple) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 6 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+6 0 obj
+<< /Length 8720 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 4: FUNCTIONS AND RECURSION) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 2 of 41) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(15.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What is an anonymous, single-expression function) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(called in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(inline function) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(lambda function) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(macro) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(static function) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(16.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(What is the correct syntax for a lambda function) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(that squares a number x?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(lambda x -> x**2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(lambda x: x**2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(def lambda\(x\): return x**2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(lambda\(x\) { x**2 }) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(17.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(What is recursion in computer programming?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 625.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 625.7001 Td
+(A loop that never terminates) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.1002 Td
+(A function that directly or indirectly calls) Tj
+ET
+BT
+/F1 7.4 Tf
+72 607.5002 Td
+(itself) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.9002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.9002 Td
+(Passing a function as an argument) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.3002 Td
+(Compiling bytecode dynamically) Tj
+ET
+BT
+/F2 8.0 Tf
+42 564.7003 Td
+(18.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.7003 Td
+(What essential component must every recursive) Tj
+ET
+BT
+/F1 7.8 Tf
+58 555.5002 Td
+(function have to prevent infinite execution?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 543.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 543.8002 Td
+(Global counter) Tj
+ET
+BT
+/F2 7.4 Tf
+58 534.2003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 534.2003 Td
+(Base case \(stopping condition\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.6003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.6003 Td
+(While loop) Tj
+ET
+BT
+/F2 7.4 Tf
+58 515.0003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 515.0003 Td
+(Try-except block) Tj
+ET
+BT
+/F2 8.0 Tf
+42 491.4003 Td
+(19.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 491.4003 Td
+(What exception is raised when recursion exceeds) Tj
+ET
+BT
+/F1 7.8 Tf
+58 482.2003 Td
+(Python's maximum recursion limit?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 470.5003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 470.5003 Td
+(StackOverflowError) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.9003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.9003 Td
+(RecursionError \(subclass of RuntimeError\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 451.3003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 451.3003 Td
+(MemoryError) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.7003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.7003 Td
+(SystemError) Tj
+ET
+BT
+/F2 8.0 Tf
+42 418.1003 Td
+(20.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 418.1003 Td
+(What function in the sys module returns the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 408.9002 Td
+(current maximum recursion depth limit?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 397.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 397.2002 Td
+(sys.recursion_limit\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 387.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 387.6002 Td
+(sys.getrecursionlimit\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 378.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 378.0002 Td
+(sys.max_depth\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 368.4002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 368.4002 Td
+(sys.stack_depth\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 344.8002 Td
+(21.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 344.8002 Td
+(What is the typical default recursion depth) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.6002 Td
+(limit in standard CPython?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 323.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 323.9002 Td
+(100) Tj
+ET
+BT
+/F2 7.4 Tf
+58 314.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 314.3002 Td
+(500) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.7002 Td
+(1000) Tj
+ET
+BT
+/F2 7.4 Tf
+58 295.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 295.1002 Td
+(65536) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(22.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Which data structure does the runtime) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(environment use to manage active function call) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(frames?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(Queue) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.3 Td
+(Call Stack) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.7 Td
+(Heap) Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.1 Td
+(Binary Search Tree) Tj
+ET
+BT
+/F2 8.0 Tf
+306 701.5001 Td
+(23.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(What does each stack frame \(activation record\)) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(pushed onto the call stack store?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.6 Td
+(Local variables, parameter values, and) Tj
+ET
+BT
+/F1 7.4 Tf
+336 672.0001 Td
+(return address) Tj
+ET
+BT
+/F2 7.4 Tf
+322 662.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 662.4001 Td
+(Global module variables) Tj
+ET
+BT
+/F2 7.4 Tf
+322 652.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 652.8001 Td
+(Bytecode compiler tables) Tj
+ET
+BT
+/F2 7.4 Tf
+322 643.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 643.2001 Td
+(Operating system drivers) Tj
+ET
+BT
+/F2 8.0 Tf
+306 619.6002 Td
+(24.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.6002 Td
+(What is a pure function?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 607.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.9001 Td
+(A function that uses only pure C extensions) Tj
+ET
+BT
+/F2 7.4 Tf
+322 598.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 598.3002 Td
+(A function that produces no side effects and) Tj
+ET
+BT
+/F1 7.4 Tf
+336 589.7002 Td
+(returns identical output for identical) Tj
+ET
+BT
+/F1 7.4 Tf
+336 581.1002 Td
+(inputs) Tj
+ET
+BT
+/F2 7.4 Tf
+322 571.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 571.5002 Td
+(A function without docstrings) Tj
+ET
+BT
+/F2 7.4 Tf
+322 561.9003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 561.9003 Td
+(A lambda function) Tj
+ET
+BT
+/F2 8.0 Tf
+306 538.3003 Td
+(25.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 538.3003 Td
+(What is a higher-order function in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 526.6003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 526.6003 Td
+(A function that runs with administrator) Tj
+ET
+BT
+/F1 7.4 Tf
+336 518.0003 Td
+(privileges) Tj
+ET
+BT
+/F2 7.4 Tf
+322 508.4003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 508.4003 Td
+(A function that accepts another function as) Tj
+ET
+BT
+/F1 7.4 Tf
+336 499.8003 Td
+(an argument or returns a function) Tj
+ET
+BT
+/F2 7.4 Tf
+322 490.2003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 490.2003 Td
+(A function containing nested classes) Tj
+ET
+BT
+/F2 7.4 Tf
+322 480.6003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 480.6003 Td
+(A function with > 100 lines of code) Tj
+ET
+BT
+/F2 8.0 Tf
+306 457.0003 Td
+(26.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 457.0003 Td
+(Which built-in higher-order function applies a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 447.8003 Td
+(function to all elements of an iterable?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 436.1003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 436.1003 Td
+(filter\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 426.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 426.5002 Td
+(map\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 416.9002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 416.9002 Td
+(reduce\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 407.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 407.3002 Td
+(apply\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 383.7002 Td
+(27.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 383.7002 Td
+(Which built-in higher-order function extracts) Tj
+ET
+BT
+/F1 7.8 Tf
+322 374.5002 Td
+(elements of an iterable for which a predicate) Tj
+ET
+BT
+/F1 7.8 Tf
+322 365.3002 Td
+(returns True?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 353.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 353.6002 Td
+(map\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 344.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 344.0002 Td
+(filter\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 334.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 334.4002 Td
+(extract\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 324.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 324.8002 Td
+(select\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 301.2002 Td
+(28.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 301.2002 Td
+(From which module in the standard library must) Tj
+ET
+BT
+/F1 7.8 Tf
+322 292.0002 Td
+(reduce\(\) be imported in Python 3?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 280.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 280.3001 Td
+(itertools) Tj
+ET
+BT
+/F2 7.4 Tf
+322 270.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 270.7001 Td
+(functools) Tj
+ET
+BT
+/F2 7.4 Tf
+322 261.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 261.1001 Td
+(operator) Tj
+ET
+BT
+/F2 7.4 Tf
+322 251.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 251.5001 Td
+(math) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 8 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+8 0 obj
+<< /Length 8045 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 4: FUNCTIONS AND RECURSION) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 3 of 41) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(29.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What rule defines the order of variable scope) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(lookup in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(LIFO Rule) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(LEGB Rule \(Local, Enclosing, Global,) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.9 Td
+(Built-in\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 735.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 735.3 Td
+(FIFO Rule) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.7001 Td
+(Static Inheritance Rule) Tj
+ET
+BT
+/F2 8.0 Tf
+42 702.1001 Td
+(30.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 702.1001 Td
+(What is the output of def f\(\): pass; print\(f\(\)\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 690.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 690.4001 Td
+(0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.8001 Td
+(None) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.2001 Td
+(pass) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.6002 Td
+(Error) Tj
+ET
+BT
+/F2 8.0 Tf
+42 638.0002 Td
+(31.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 638.0002 Td
+(What is the mathematical base case for the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.8002 Td
+(factorial function n!?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 617.1002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 617.1002 Td
+(0! = 1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 607.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 607.5002 Td
+(0! = 0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.9002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.9002 Td
+(1! = 2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.3002 Td
+(Factorial has no base case) Tj
+ET
+BT
+/F2 8.0 Tf
+42 564.7003 Td
+(32.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.7003 Td
+(What is the recurrence relation for the) Tj
+ET
+BT
+/F1 7.8 Tf
+58 555.5002 Td
+(Fibonacci sequence: F\(n\) for n >= 2?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 543.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 543.8002 Td
+(F\(n\) = F\(n-1\) * F\(n-2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 534.2003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 534.2003 Td
+(F\(n\) = F\(n-1\) + F\(n-2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.6003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.6003 Td
+(F\(n\) = 2*F\(n-1\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 515.0003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 515.0003 Td
+(F\(n\) = F\(n-1\) + n) Tj
+ET
+BT
+/F2 8.0 Tf
+42 491.4003 Td
+(33.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 491.4003 Td
+(What are the base cases for the standard) Tj
+ET
+BT
+/F1 7.8 Tf
+58 482.2003 Td
+(Fibonacci sequence F\(0\) and F\(1\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 470.5003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 470.5003 Td
+(F\(0\) = 0, F\(1\) = 1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.9003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.9003 Td
+(F\(0\) = 1, F\(1\) = 1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 451.3003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 451.3003 Td
+(F\(0\) = 0, F\(1\) = 0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.7003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.7003 Td
+(F\(0\) = 1, F\(1\) = 2) Tj
+ET
+BT
+/F2 8.0 Tf
+42 418.1003 Td
+(34.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 418.1003 Td
+(What is the minimum number of moves required to) Tj
+ET
+BT
+/F1 7.8 Tf
+58 408.9002 Td
+(solve the Tower of Hanoi puzzle with n disks?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 397.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 397.2002 Td
+(2*n) Tj
+ET
+BT
+/F2 7.4 Tf
+58 387.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 387.6002 Td
+(2^n - 1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 378.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 378.0002 Td
+(n^2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 368.4002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 368.4002 Td
+(n!) Tj
+ET
+BT
+/F2 8.0 Tf
+42 344.8002 Td
+(35.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 344.8002 Td
+(What does math.pow\(2, 3\) return in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 333.1002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 333.1002 Td
+(8) Tj
+ET
+BT
+/F2 7.4 Tf
+58 323.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 323.5002 Td
+(8.0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 313.9002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 313.9002 Td
+(6) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.3002 Td
+(9.0) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(36.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What does math.factorial\(5\) return?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 772.3 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 772.3 Td
+(120) Tj
+ET
+BT
+/F2 7.4 Tf
+322 762.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 762.7 Td
+(24) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.1 Td
+(720) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.5001 Td
+(120.0) Tj
+ET
+BT
+/F2 8.0 Tf
+306 719.9001 Td
+(37.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 719.9001 Td
+(What does math.gcd\(48, 18\) return in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 708.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 708.2001 Td
+(6) Tj
+ET
+BT
+/F2 7.4 Tf
+322 698.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 698.6001 Td
+(3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.0001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.0001 Td
+(2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 679.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 679.4001 Td
+(9) Tj
+ET
+BT
+/F2 8.0 Tf
+306 655.8002 Td
+(38.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 655.8002 Td
+(What does math.radians\(180\) return?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 644.1002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 644.1002 Td
+(3.141592653589793 \(pi\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 634.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 634.5002 Td
+(180.0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 624.9002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 624.9002 Td
+(1.0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 615.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 615.3002 Td
+(0.0) Tj
+ET
+BT
+/F2 8.0 Tf
+306 591.7003 Td
+(39.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 591.7003 Td
+(What does math.degrees\(math.pi\) return?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 580.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 580.0002 Td
+(180.0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 570.4003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 570.4003 Td
+(360.0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 560.8003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 560.8003 Td
+(90.0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 551.2003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 551.2003 Td
+(0.0) Tj
+ET
+BT
+/F2 8.0 Tf
+306 527.6003 Td
+(40.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 527.6003 Td
+(What happens if a function tries to read a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 518.4003 Td
+(global variable without declaring global x?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 506.7003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 506.7003 Td
+(SyntaxError) Tj
+ET
+BT
+/F2 7.4 Tf
+322 497.1003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 497.1003 Td
+(It reads the global variable value) Tj
+ET
+BT
+/F1 7.4 Tf
+336 488.5003 Td
+(successfully) Tj
+ET
+BT
+/F2 7.4 Tf
+322 478.9003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 478.9003 Td
+(Raises UnboundLocalError) Tj
+ET
+BT
+/F2 7.4 Tf
+322 469.3003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 469.3003 Td
+(Variables cannot be read) Tj
+ET
+BT
+/F2 8.0 Tf
+306 445.7003 Td
+(41.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 445.7003 Td
+(What is the classic pitfall of: def) Tj
+ET
+BT
+/F1 7.8 Tf
+322 436.5003 Td
+(append_to\(element, target_list=[]\):) Tj
+ET
+BT
+/F1 7.8 Tf
+322 427.3003 Td
+(target_list.append\(element\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 415.6003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 415.6003 Td
+(SyntaxError) Tj
+ET
+BT
+/F2 7.4 Tf
+322 406.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 406.0002 Td
+(The default list is instantiated ONCE at) Tj
+ET
+BT
+/F1 7.4 Tf
+336 397.4002 Td
+(function definition time and shared across) Tj
+ET
+BT
+/F1 7.4 Tf
+336 388.8002 Td
+(calls!) Tj
+ET
+BT
+/F2 7.4 Tf
+322 379.2002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 379.2002 Td
+(A new list is created on every call) Tj
+ET
+BT
+/F2 7.4 Tf
+322 369.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 369.6002 Td
+(target_list is immutable) Tj
+ET
+BT
+/F2 8.0 Tf
+306 346.0002 Td
+(42.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 346.0002 Td
+(How should default mutable arguments \(like lists) Tj
+ET
+BT
+/F1 7.8 Tf
+322 336.8002 Td
+(or dicts\) be idiomatically defined?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 325.1002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 325.1002 Td
+(def f\(lst=[]\):) Tj
+ET
+BT
+/F2 7.4 Tf
+322 315.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 315.5002 Td
+(def f\(lst=None\): if lst is None: lst = []) Tj
+ET
+BT
+/F2 7.4 Tf
+322 305.9002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 305.9002 Td
+(def f\(lst=list\(\)\):) Tj
+ET
+BT
+/F2 7.4 Tf
+322 296.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 296.3002 Td
+(def f\(lst=copy\([]\)\):) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 10 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+10 0 obj
+<< /Length 9142 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 4: FUNCTIONS AND RECURSION) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 4 of 41) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(43.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What occurs when executing:\\nx = 10\\ndef) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(foo\(\):\\n print\(x\)\\n x = 20\\nfoo\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(Prints 10 then sets x = 20) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(UnboundLocalError: cannot access local) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.9 Td
+(variable 'x' where it is not associated with) Tj
+ET
+BT
+/F1 7.4 Tf
+72 736.3 Td
+(a value) Tj
+ET
+BT
+/F2 7.4 Tf
+58 726.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 726.7001 Td
+(Prints 20) Tj
+ET
+BT
+/F2 7.4 Tf
+58 717.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 717.1001 Td
+(NameError: global x not found) Tj
+ET
+BT
+/F2 8.0 Tf
+42 693.5001 Td
+(44.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 693.5001 Td
+(Why did the code in Q43 raise UnboundLocalError?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 681.8001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 681.8001 Td
+(Because assignment 'x = 20' causes the) Tj
+ET
+BT
+/F1 7.4 Tf
+72 673.2001 Td
+(compiler to flag 'x' as a local variable) Tj
+ET
+BT
+/F1 7.4 Tf
+72 664.6002 Td
+(throughout the entire scope!) Tj
+ET
+BT
+/F2 7.4 Tf
+58 655.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 655.0002 Td
+(Because x is immutable) Tj
+ET
+BT
+/F2 7.4 Tf
+58 645.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 645.4002 Td
+(Because print\(\) cannot display integers) Tj
+ET
+BT
+/F2 7.4 Tf
+58 635.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 635.8002 Td
+(Because functions cannot access globals) Tj
+ET
+BT
+/F2 8.0 Tf
+42 612.2003 Td
+(45.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 612.2003 Td
+(What is the output of:\\ndef calc\(a, b=10,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 603.0002 Td
+(c=20\):\\n return a + b + c\\nprint\(calc\(5, c=30\)\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 591.3002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 591.3002 Td
+(45) Tj
+ET
+BT
+/F2 7.4 Tf
+58 581.7003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 581.7003 Td
+(65) Tj
+ET
+BT
+/F2 7.4 Tf
+58 572.1003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 572.1003 Td
+(55) Tj
+ET
+BT
+/F2 7.4 Tf
+58 562.5003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 562.5003 Td
+(TypeError) Tj
+ET
+BT
+/F2 8.0 Tf
+42 538.9003 Td
+(46.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 538.9003 Td
+(What is the output of:\\ndef show\(*args\):\\n) Tj
+ET
+BT
+/F1 7.8 Tf
+58 529.7003 Td
+(return sum\(args\)\\nprint\(show\(1, 2, 3, 4\)\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 518.0003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 518.0003 Td
+(10) Tj
+ET
+BT
+/F2 7.4 Tf
+58 508.4003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 508.4003 Td
+(\(1, 2, 3, 4\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 498.8003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 498.8003 Td
+(4) Tj
+ET
+BT
+/F2 7.4 Tf
+58 489.2003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 489.2003 Td
+(TypeError) Tj
+ET
+BT
+/F2 8.0 Tf
+42 465.6003 Td
+(47.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 465.6003 Td
+(What is the output of:\\ndef greet\(**kwargs\):\\n) Tj
+ET
+BT
+/F1 7.8 Tf
+58 456.4003 Td
+(return kwargs.get\('name',) Tj
+ET
+BT
+/F1 7.8 Tf
+58 447.2003 Td
+('Guest'\)\\nprint\(greet\(role='admin',) Tj
+ET
+BT
+/F1 7.8 Tf
+58 438.0002 Td
+(name='Aarav'\)\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 426.3002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 426.3002 Td
+(Guest) Tj
+ET
+BT
+/F2 7.4 Tf
+58 416.7002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 416.7002 Td
+(Aarav) Tj
+ET
+BT
+/F2 7.4 Tf
+58 407.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 407.1002 Td
+({'name': 'Aarav'}) Tj
+ET
+BT
+/F2 7.4 Tf
+58 397.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 397.5002 Td
+(TypeError) Tj
+ET
+BT
+/F2 8.0 Tf
+42 373.9002 Td
+(48.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 373.9002 Td
+(What does the special forward slash \(/\) in a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 364.7002 Td
+(function signature def f\(a, b, /, c\): enforce?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 353.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 353.0002 Td
+(a and b MUST be passed as positional-only) Tj
+ET
+BT
+/F1 7.4 Tf
+72 344.4002 Td
+(arguments) Tj
+ET
+BT
+/F2 7.4 Tf
+58 334.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 334.8002 Td
+(c must be positional-only) Tj
+ET
+BT
+/F2 7.4 Tf
+58 325.2002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 325.2002 Td
+(Division is performed on arguments) Tj
+ET
+BT
+/F2 7.4 Tf
+58 315.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 315.6002 Td
+(Arguments must be floats) Tj
+ET
+BT
+/F2 8.0 Tf
+42 292.0002 Td
+(49.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 292.0002 Td
+(What does the bare asterisk \(*\) in def f\(a, *,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 282.8001 Td
+(b, c\): enforce in Python 3?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 271.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 271.1001 Td
+(b and c MUST be passed as keyword arguments) Tj
+ET
+BT
+/F2 7.4 Tf
+58 261.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 261.5001 Td
+(a must be a keyword argument) Tj
+ET
+BT
+/F2 7.4 Tf
+58 251.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 251.9001 Td
+(Arbitrary arguments are accepted) Tj
+ET
+BT
+/F2 7.4 Tf
+58 242.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 242.3001 Td
+(Multiplication is performed) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(50.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What is the output of:\\nsq = lambda x: x **) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(2\\nprint\(list\(map\(sq, [1, 2, 3, 4]\)\)\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+([1, 4, 9, 16]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+([2, 4, 6, 8]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(16) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(TypeError) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(51.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(What is the output of:\\nprint\(list\(filter\(lambda) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(x: x % 2 == 0, [1, 2, 3, 4, 5, 6]\)\)\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+([1, 3, 5]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+([2, 4, 6]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+([False, True, False, True, False, True]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+([2, 4]) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(52.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(What is the output of:\\nfrom functools import) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(reduce\\nprint\(reduce\(lambda a, b: a * b, [1, 2,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(3, 4]\)\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.3001 Td
+(10) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.7001 Td
+(24) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.1002 Td
+([1, 2, 6, 24]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 578.5002 Td
+(4) Tj
+ET
+BT
+/F2 8.0 Tf
+306 554.9002 Td
+(53.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(What is the time complexity of the naive) Tj
+ET
+BT
+/F1 7.8 Tf
+322 545.7002 Td
+(unmemoized recursive Fibonacci function: fib\(n\)) Tj
+ET
+BT
+/F1 7.8 Tf
+322 536.5002 Td
+(= fib\(n-1\) + fib\(n-2\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.8002 Td
+(O\(N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 515.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 515.2002 Td
+(O\(2^N\) or O\(1.618^N\) exponential time) Tj
+ET
+BT
+/F2 7.4 Tf
+322 505.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 505.6002 Td
+(O\(N^2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 496.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 496.0002 Td
+(O\(log N\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 472.4002 Td
+(54.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 472.4002 Td
+(What is the auxiliary space complexity of naive) Tj
+ET
+BT
+/F1 7.8 Tf
+322 463.2002 Td
+(recursive Fibonacci fib\(n\) on the call stack?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 451.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 451.5002 Td
+(O\(1\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 441.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 441.9001 Td
+(O\(N\) stack frames depth) Tj
+ET
+BT
+/F2 7.4 Tf
+322 432.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 432.3001 Td
+(O\(2^N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 422.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 422.7001 Td
+(O\(log N\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 399.1001 Td
+(55.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 399.1001 Td
+(What decorator in functools automatically) Tj
+ET
+BT
+/F1 7.8 Tf
+322 389.9001 Td
+(memoizes function return values to eliminate) Tj
+ET
+BT
+/F1 7.8 Tf
+322 380.7001 Td
+(redundant recursive calculations?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 369.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 369.0001 Td
+(@functools.lru_cache\(maxsize=None\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 359.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 359.4001 Td
+(@functools.cache) Tj
+ET
+BT
+/F2 7.4 Tf
+322 349.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 349.8001 Td
+(@functools.memoize) Tj
+ET
+BT
+/F2 7.4 Tf
+322 340.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 340.2001 Td
+(Both A and B) Tj
+ET
+BT
+/F2 8.0 Tf
+306 316.6001 Td
+(56.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 316.6001 Td
+(What is the output of:\\ndef outer\(\):\\n x = 10\\n) Tj
+ET
+BT
+/F1 7.8 Tf
+322 307.4001 Td
+(def inner\(\):\\n nonlocal x\\n x += 5\\n inner\(\)\\n) Tj
+ET
+BT
+/F1 7.8 Tf
+322 298.2 Td
+(return x\\nprint\(outer\(\)\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 286.5 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 286.5 Td
+(10) Tj
+ET
+BT
+/F2 7.4 Tf
+322 276.9 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 276.9 Td
+(15) Tj
+ET
+BT
+/F2 7.4 Tf
+322 267.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 267.3 Td
+(5) Tj
+ET
+BT
+/F2 7.4 Tf
+322 257.7 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 257.7 Td
+(UnboundLocalError) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 12 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+12 0 obj
+<< /Length 9296 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 4: FUNCTIONS AND RECURSION) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 5 of 41) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(57.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What is a closure in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 772.3 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 772.3 Td
+(A function that has terminated and freed its) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.7 Td
+(memory) Tj
+ET
+BT
+/F2 7.4 Tf
+58 754.1 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 754.1 Td
+(An inner function that retains access to) Tj
+ET
+BT
+/F1 7.4 Tf
+72 745.5001 Td
+(variables in its enclosing lexical scope) Tj
+ET
+BT
+/F1 7.4 Tf
+72 736.9001 Td
+(even after the outer function has returned) Tj
+ET
+BT
+/F2 7.4 Tf
+58 727.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 727.3001 Td
+(A private class method) Tj
+ET
+BT
+/F2 7.4 Tf
+58 717.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 717.7001 Td
+(A lambda function inside a loop) Tj
+ET
+BT
+/F2 8.0 Tf
+42 694.1002 Td
+(58.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 694.1002 Td
+(What is the output of:\\ndef) Tj
+ET
+BT
+/F1 7.8 Tf
+58 684.9001 Td
+(make_multiplier\(n\):\\n return lambda x: x *) Tj
+ET
+BT
+/F1 7.8 Tf
+58 675.7001 Td
+(n\\ntriple =) Tj
+ET
+BT
+/F1 7.8 Tf
+58 666.5001 Td
+(make_multiplier\(3\)\\nprint\(triple\(10\)\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 654.8001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 654.8001 Td
+(30) Tj
+ET
+BT
+/F2 7.4 Tf
+58 645.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 645.2001 Td
+(13) Tj
+ET
+BT
+/F2 7.4 Tf
+58 635.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 635.6002 Td
+(3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 626.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 626.0002 Td
+(TypeError) Tj
+ET
+BT
+/F2 8.0 Tf
+42 602.4002 Td
+(59.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 602.4002 Td
+(What is the output of:\\ndef f\(n\):\\n if n <= 1:) Tj
+ET
+BT
+/F1 7.8 Tf
+58 593.2002 Td
+(return 1\\n return n * f\(n - 1\)\\nprint\(f\(4\)\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 581.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 581.5002 Td
+(24) Tj
+ET
+BT
+/F2 7.4 Tf
+58 571.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 571.9002 Td
+(12) Tj
+ET
+BT
+/F2 7.4 Tf
+58 562.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 562.3002 Td
+(10) Tj
+ET
+BT
+/F2 7.4 Tf
+58 552.7003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 552.7003 Td
+(4) Tj
+ET
+BT
+/F2 8.0 Tf
+42 529.1003 Td
+(60.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 529.1003 Td
+(What is the output of:\\ndef count_down\(n\):\\n if) Tj
+ET
+BT
+/F1 7.8 Tf
+58 519.9003 Td
+(n == 0: return\\n print\(n, end=' '\)\\n) Tj
+ET
+BT
+/F1 7.8 Tf
+58 510.7003 Td
+(count_down\(n - 1\)\\ncount_down\(3\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 499.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 499.0002 Td
+(3 2 1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 489.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 489.4002 Td
+(1 2 3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 479.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 479.8002 Td
+(3 2 1 0) Tj
+ET
+BT
+/F2 7.4 Tf
+58 470.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 470.2002 Td
+(Infinite loop) Tj
+ET
+BT
+/F2 8.0 Tf
+42 446.6002 Td
+(61.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 446.6002 Td
+(What is the output of:\\ndef print_up\(n\):\\n if n) Tj
+ET
+BT
+/F1 7.8 Tf
+58 437.4002 Td
+(== 0: return\\n print_up\(n - 1\)\\n print\(n, end=') Tj
+ET
+BT
+/F1 7.8 Tf
+58 428.2002 Td
+('\)\\nprint_up\(3\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 416.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 416.5002 Td
+(3 2 1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 406.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 406.9002 Td
+(1 2 3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 397.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 397.3002 Td
+(0 1 2 3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 387.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 387.7002 Td
+(3) Tj
+ET
+BT
+/F2 8.0 Tf
+42 364.1002 Td
+(62.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 364.1002 Td
+(What is the output of:\\ndef sum_digits\(n\):\\n if) Tj
+ET
+BT
+/F1 7.8 Tf
+58 354.9001 Td
+(n == 0: return 0\\n return \(n % 10\) +) Tj
+ET
+BT
+/F1 7.8 Tf
+58 345.7001 Td
+(sum_digits\(n // 10\)\\nprint\(sum_digits\(1234\)\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 334.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 334.0001 Td
+(10) Tj
+ET
+BT
+/F2 7.4 Tf
+58 324.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 324.4001 Td
+(24) Tj
+ET
+BT
+/F2 7.4 Tf
+58 314.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 314.8001 Td
+(4321) Tj
+ET
+BT
+/F2 7.4 Tf
+58 305.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 305.2001 Td
+(4) Tj
+ET
+BT
+/F2 8.0 Tf
+42 281.6001 Td
+(63.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 281.6001 Td
+(What does the following recursive function) Tj
+ET
+BT
+/F1 7.8 Tf
+58 272.4001 Td
+(compute:\\ndef mystery\(a, b\):\\n if b == 0: return) Tj
+ET
+BT
+/F1 7.8 Tf
+58 263.2001 Td
+(0\\n return a + mystery\(a, b - 1\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 251.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 251.5001 Td
+(a + b) Tj
+ET
+BT
+/F2 7.4 Tf
+58 241.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 241.9001 Td
+(a * b \(Multiplication via repeated recursive) Tj
+ET
+BT
+/F1 7.4 Tf
+72 233.3001 Td
+(addition\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 223.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 223.7001 Td
+(a ^ b) Tj
+ET
+BT
+/F2 7.4 Tf
+58 214.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 214.1001 Td
+(a / b) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(64.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What does the following recursive function) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(compute:\\ndef p\(x, n\):\\n if n == 0: return 1\\n) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(return x * p\(x, n - 1\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(x * n) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.3 Td
+(x ** n \(Exponentiation via repeated) Tj
+ET
+BT
+/F1 7.4 Tf
+336 735.7 Td
+(multiplication\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 726.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 726.1 Td
+(x + n) Tj
+ET
+BT
+/F2 7.4 Tf
+322 716.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 716.5001 Td
+(n!) Tj
+ET
+BT
+/F2 8.0 Tf
+306 692.9001 Td
+(65.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.9001 Td
+(What is the output of:\\ndef rev\(s\):\\n if len\(s\)) Tj
+ET
+BT
+/F1 7.8 Tf
+322 683.7001 Td
+(<= 1: return s\\n return rev\(s[1:]\) +) Tj
+ET
+BT
+/F1 7.8 Tf
+322 674.5001 Td
+(s[0]\\nprint\(rev\('python'\)\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 662.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 662.8 Td
+('python') Tj
+ET
+BT
+/F2 7.4 Tf
+322 653.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 653.2001 Td
+('nohtyp') Tj
+ET
+BT
+/F2 7.4 Tf
+322 643.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 643.6001 Td
+('p') Tj
+ET
+BT
+/F2 7.4 Tf
+322 634.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 634.0001 Td
+('y') Tj
+ET
+BT
+/F2 8.0 Tf
+306 610.4001 Td
+(66.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 610.4001 Td
+(What is the output of:\\nfuncs = [lambda x: x + i) Tj
+ET
+BT
+/F1 7.8 Tf
+322 601.2001 Td
+(for i in range\(3\)]\\nprint\([f\(10\) for f in) Tj
+ET
+BT
+/F1 7.8 Tf
+322 592.0001 Td
+(funcs]\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 580.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 580.3001 Td
+([10, 11, 12]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 570.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 570.7001 Td
+([12, 12, 12] \(Late binding closure gotcha: i) Tj
+ET
+BT
+/F1 7.4 Tf
+336 562.1002 Td
+(evaluates to 2 at call time!\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 552.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 552.5002 Td
+([10, 10, 10]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 542.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 542.9002 Td
+([11, 12, 13]) Tj
+ET
+BT
+/F2 8.0 Tf
+306 519.3002 Td
+(67.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 519.3002 Td
+(How is the late binding closure trap in Q66) Tj
+ET
+BT
+/F1 7.8 Tf
+322 510.1002 Td
+(resolved so each function captures the current) Tj
+ET
+BT
+/F1 7.8 Tf
+322 500.9002 Td
+(loop value?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 489.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 489.2002 Td
+(Use default argument: lambda x, i=i: x + i) Tj
+ET
+BT
+/F2 7.4 Tf
+322 479.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 479.6002 Td
+(Use global i) Tj
+ET
+BT
+/F2 7.4 Tf
+322 470.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 470.0002 Td
+(Use nonlocal i) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.4002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.4002 Td
+(Use while loop) Tj
+ET
+BT
+/F2 8.0 Tf
+306 436.8002 Td
+(68.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 436.8002 Td
+(What does the inspect module in Python provide) Tj
+ET
+BT
+/F1 7.8 Tf
+322 427.6002 Td
+(for functions?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 415.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 415.9001 Td
+(Memory profiling only) Tj
+ET
+BT
+/F2 7.4 Tf
+322 406.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 406.3001 Td
+(Introspection of function signatures,) Tj
+ET
+BT
+/F1 7.4 Tf
+336 397.7001 Td
+(parameters, source code, and frame stacks) Tj
+ET
+BT
+/F2 7.4 Tf
+322 388.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 388.1001 Td
+(JIT compilation) Tj
+ET
+BT
+/F2 7.4 Tf
+322 378.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 378.5001 Td
+(Disassembly to assembly language) Tj
+ET
+BT
+/F2 8.0 Tf
+306 354.9001 Td
+(69.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 354.9001 Td
+(What attribute holds the docstring of a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 345.7001 Td
+(user-defined function my_func?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 334.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 334.0001 Td
+(my_func.__doc__) Tj
+ET
+BT
+/F2 7.4 Tf
+322 324.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 324.4001 Td
+(my_func.__help__) Tj
+ET
+BT
+/F2 7.4 Tf
+322 314.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 314.8001 Td
+(my_func.doc) Tj
+ET
+BT
+/F2 7.4 Tf
+322 305.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 305.2001 Td
+(my_func.__info__) Tj
+ET
+BT
+/F2 8.0 Tf
+306 281.6001 Td
+(70.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 281.6001 Td
+(What attribute holds the string name of a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 272.4001 Td
+(function object?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 260.7 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 260.7 Td
+(my_func.__name__) Tj
+ET
+BT
+/F2 7.4 Tf
+322 251.1 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 251.1 Td
+(my_func.__id__) Tj
+ET
+BT
+/F2 7.4 Tf
+322 241.5 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 241.5 Td
+(my_func.name) Tj
+ET
+BT
+/F2 7.4 Tf
+322 231.9 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 231.9 Td
+(my_func.__str__) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 14 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+14 0 obj
+<< /Length 9895 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 4: FUNCTIONS AND RECURSION) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 6 of 41) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(71.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What attribute holds the dictionary of) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(annotations \(type hints\) for a function?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(my_func.__annotations__) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(my_func.__types__) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(my_func.__hints__) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(my_func.__signature__) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(72.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(Does Python enforce type annotations \(e.g. def) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(f\(x: int\) -> str\) at runtime by default?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(Yes, it raises a TypeError if an incorrect) Tj
+ET
+BT
+/F1 7.4 Tf
+72 681.2001 Td
+(type is passed) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.6001 Td
+(No; Python type annotations are) Tj
+ET
+BT
+/F1 7.4 Tf
+72 663.0001 Td
+(informational metadata and not enforced at) Tj
+ET
+BT
+/F1 7.4 Tf
+72 654.4001 Td
+(runtime) Tj
+ET
+BT
+/F2 7.4 Tf
+58 644.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 644.8002 Td
+(Yes, in Python 3.10+) Tj
+ET
+BT
+/F2 7.4 Tf
+58 635.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 635.2002 Td
+(Only for floats) Tj
+ET
+BT
+/F2 8.0 Tf
+42 611.6002 Td
+(73.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 611.6002 Td
+(Which external static type checker tool is) Tj
+ET
+BT
+/F1 7.8 Tf
+58 602.4002 Td
+(widely used in Python to verify type hints?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 590.7002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 590.7002 Td
+(mypy) Tj
+ET
+BT
+/F2 7.4 Tf
+58 581.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 581.1002 Td
+(pylint) Tj
+ET
+BT
+/F2 7.4 Tf
+58 571.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 571.5002 Td
+(pytest) Tj
+ET
+BT
+/F2 7.4 Tf
+58 561.9003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 561.9003 Td
+(black) Tj
+ET
+BT
+/F2 8.0 Tf
+42 538.3003 Td
+(74.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 538.3003 Td
+(What is the output of:\\ndef f\(a, b=2, *args,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 529.1003 Td
+(**kwargs\):\\n return len\(args\) +) Tj
+ET
+BT
+/F1 7.8 Tf
+58 519.9003 Td
+(len\(kwargs\)\\nprint\(f\(1, 2, 3, 4, x=10, y=20\)\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 508.2003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 508.2003 Td
+(2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 498.6003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 498.6003 Td
+(4 \(args has \(3, 4\) length 2; kwargs has) Tj
+ET
+BT
+/F1 7.4 Tf
+72 490.0002 Td
+({'x': 10, 'y': 20} length 2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 480.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 480.4002 Td
+(6) Tj
+ET
+BT
+/F2 7.4 Tf
+58 470.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 470.8002 Td
+(0) Tj
+ET
+BT
+/F2 8.0 Tf
+42 447.2002 Td
+(75.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 447.2002 Td
+(What is the output of:\\ndef gcd\(a, b\):\\n return) Tj
+ET
+BT
+/F1 7.8 Tf
+58 438.0002 Td
+(a if b == 0 else gcd\(b, a % b\)\\nprint\(gcd\(48,) Tj
+ET
+BT
+/F1 7.8 Tf
+58 428.8002 Td
+(18\)\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 417.1002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 417.1002 Td
+(6) Tj
+ET
+BT
+/F2 7.4 Tf
+58 407.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 407.5002 Td
+(18) Tj
+ET
+BT
+/F2 7.4 Tf
+58 397.9002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 397.9002 Td
+(48) Tj
+ET
+BT
+/F2 7.4 Tf
+58 388.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 388.3002 Td
+(3) Tj
+ET
+BT
+/F2 8.0 Tf
+42 364.7002 Td
+(76.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 364.7002 Td
+(What is Tail Recursion?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 353.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 353.0002 Td
+(A recursive call where the function performs) Tj
+ET
+BT
+/F1 7.4 Tf
+72 344.4001 Td
+(additional calculations after the return) Tj
+ET
+BT
+/F2 7.4 Tf
+58 334.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 334.8001 Td
+(A recursive call that is the absolute final) Tj
+ET
+BT
+/F1 7.4 Tf
+72 326.2001 Td
+(operation performed before returning) Tj
+ET
+BT
+/F2 7.4 Tf
+58 316.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 316.6001 Td
+(A function that calls two subproblems) Tj
+ET
+BT
+/F2 7.4 Tf
+58 307.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 307.0001 Td
+(Recursion with a while loop) Tj
+ET
+BT
+/F2 8.0 Tf
+42 283.4001 Td
+(77.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 283.4001 Td
+(Does standard CPython perform Tail Call) Tj
+ET
+BT
+/F1 7.8 Tf
+58 274.2001 Td
+(Optimization \(TCO\) or Tail Call Elimination?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 262.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 262.5001 Td
+(Yes, Tail Call Optimization is automatically) Tj
+ET
+BT
+/F1 7.4 Tf
+72 253.9001 Td
+(enabled at -O2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 244.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 244.3001 Td
+(No; Guido van Rossum deliberately rejected) Tj
+ET
+BT
+/F1 7.4 Tf
+72 235.7001 Td
+(TCO to preserve full stack traces for) Tj
+ET
+BT
+/F1 7.4 Tf
+72 227.1001 Td
+(debugging) Tj
+ET
+BT
+/F2 7.4 Tf
+58 217.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 217.5001 Td
+(Yes, in Python 3.11+) Tj
+ET
+BT
+/F2 7.4 Tf
+58 207.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 207.9001 Td
+(Yes, for integers only) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(78.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Why did Guido van Rossum reject Tail Call) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(Elimination in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(CPython cannot handle jumps) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(TCO destroys stack frame information,) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.9 Td
+(impairing stack traces during exception) Tj
+ET
+BT
+/F1 7.4 Tf
+336 736.3 Td
+(debugging) Tj
+ET
+BT
+/F2 7.4 Tf
+322 726.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 726.7001 Td
+(TCO violates PEP 8 formatting) Tj
+ET
+BT
+/F2 7.4 Tf
+322 717.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 717.1001 Td
+(TCO causes memory leaks in C) Tj
+ET
+BT
+/F2 8.0 Tf
+306 693.5001 Td
+(79.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 693.5001 Td
+(How can a tail-recursive algorithm be prevented) Tj
+ET
+BT
+/F1 7.8 Tf
+322 684.3001 Td
+(from exceeding the recursion limit in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 672.6001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 672.6001 Td
+(Convert it to an iterative while loop or use) Tj
+ET
+BT
+/F1 7.4 Tf
+336 664.0001 Td
+(a trampoline pattern) Tj
+ET
+BT
+/F2 7.4 Tf
+322 654.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 654.4001 Td
+(Increase sys.setrecursionlimit to 10 billion) Tj
+ET
+BT
+/F2 7.4 Tf
+322 644.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 644.8002 Td
+(Use a lambda function) Tj
+ET
+BT
+/F2 7.4 Tf
+322 635.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 635.2002 Td
+(Compile with PyPy only) Tj
+ET
+BT
+/F2 8.0 Tf
+306 611.6002 Td
+(80.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 611.6002 Td
+(What is the danger of setting) Tj
+ET
+BT
+/F1 7.8 Tf
+322 602.4002 Td
+(sys.setrecursionlimit\(1_000_000\) on) Tj
+ET
+BT
+/F1 7.8 Tf
+322 593.2002 Td
+(Windows/Linux?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 581.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 581.5002 Td
+(Python bytecode slows down) Tj
+ET
+BT
+/F2 7.4 Tf
+322 571.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 571.9002 Td
+(Exceeding the physical OS C-stack memory) Tj
+ET
+BT
+/F1 7.4 Tf
+336 563.3002 Td
+(limit causes an uncatchable segmentation) Tj
+ET
+BT
+/F1 7.4 Tf
+336 554.7003 Td
+(fault / hard crash!) Tj
+ET
+BT
+/F2 7.4 Tf
+322 545.1003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 545.1003 Td
+(Garbage collector is disabled) Tj
+ET
+BT
+/F2 7.4 Tf
+322 535.5003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 535.5003 Td
+(Global variables are cleared) Tj
+ET
+BT
+/F2 8.0 Tf
+306 511.9003 Td
+(81.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 511.9003 Td
+(What is the time complexity of computing power) Tj
+ET
+BT
+/F1 7.8 Tf
+322 502.7003 Td
+(x^n using Binary Exponentiation \(Exponentiation) Tj
+ET
+BT
+/F1 7.8 Tf
+322 493.5003 Td
+(by Squaring\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 481.8003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 481.8003 Td
+(O\(N\) linear time) Tj
+ET
+BT
+/F2 7.4 Tf
+322 472.2003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 472.2003 Td
+(O\(log2 N\) logarithmic time) Tj
+ET
+BT
+/F2 7.4 Tf
+322 462.6003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 462.6003 Td
+(O\(N^2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 453.0003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 453.0003 Td
+(O\(1\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 429.4003 Td
+(82.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 429.4003 Td
+(What is the recurrence relation for Binary) Tj
+ET
+BT
+/F1 7.8 Tf
+322 420.2003 Td
+(Exponentiation when n is even?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 408.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 408.5002 Td
+(P\(x, n\) = P\(x, n/2\)^2) Tj
+ET
+BT
+/F2 7.4 Tf
+322 398.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 398.9002 Td
+(P\(x, n\) = x * P\(x, n - 1\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 389.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 389.3002 Td
+(P\(x, n\) = 2 * P\(x, n/2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 379.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 379.7002 Td
+(P\(x, n\) = P\(x^2, n\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 356.1002 Td
+(83.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 356.1002 Td
+(What is Memoization?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 344.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 344.4002 Td
+(Formatting docstrings into HTML) Tj
+ET
+BT
+/F2 7.4 Tf
+322 334.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 334.8002 Td
+(An optimization technique that caches the) Tj
+ET
+BT
+/F1 7.4 Tf
+336 326.2002 Td
+(results of expensive function calls based on) Tj
+ET
+BT
+/F1 7.4 Tf
+336 317.6002 Td
+(input arguments) Tj
+ET
+BT
+/F2 7.4 Tf
+322 308.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 308.0002 Td
+(Translating Python into C++) Tj
+ET
+BT
+/F2 7.4 Tf
+322 298.4002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 298.4002 Td
+(Deleting unused variables from stack) Tj
+ET
+BT
+/F2 8.0 Tf
+306 274.8002 Td
+(84.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 274.8002 Td
+(With memoization, what does the time complexity) Tj
+ET
+BT
+/F1 7.8 Tf
+322 265.6002 Td
+(of recursive Fibonacci fib\(n\) reduce to?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 253.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 253.9001 Td
+(O\(2^N\) exponential) Tj
+ET
+BT
+/F2 7.4 Tf
+322 244.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 244.3001 Td
+(O\(N\) linear time) Tj
+ET
+BT
+/F2 7.4 Tf
+322 234.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 234.7001 Td
+(O\(N^2\) quadratic) Tj
+ET
+BT
+/F2 7.4 Tf
+322 225.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 225.1001 Td
+(O\(N!\) factorial) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 16 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+16 0 obj
+<< /Length 9555 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 4: FUNCTIONS AND RECURSION) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 7 of 41) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(85.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What is the time complexity of the Tower of) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(Hanoi algorithm with N disks?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(O\(N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(O\(2^N\) exponential time) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(O\(N^2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(O\(N!\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(86.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(In the Tower of Hanoi, how many total moves are) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(required to transfer 5 disks?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(10) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(31 \(2^5 - 1 = 31\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(25) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(32) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(87.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(What is the time complexity of Binary Search) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(implemented recursively on a sorted array of) Tj
+ET
+BT
+/F1 7.8 Tf
+58 619.0001 Td
+(size N?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 607.3001 Td
+(O\(1\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.7001 Td
+(O\(log2 N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 588.1002 Td
+(O\(N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 578.5002 Td
+(O\(N log N\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 554.9002 Td
+(88.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(What is the space complexity of recursive Binary) Tj
+ET
+BT
+/F1 7.8 Tf
+58 545.7002 Td
+(Search due to call stack frames?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 534.0002 Td
+(O\(1\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.4002 Td
+(O\(log2 N\) auxiliary stack frames) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.8002 Td
+(O\(N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 505.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 505.2002 Td
+(O\(2^N\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 481.6002 Td
+(89.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6002 Td
+(Can Python functions have arbitrary attributes) Tj
+ET
+BT
+/F1 7.8 Tf
+58 472.4002 Td
+(assigned to them dynamically:) Tj
+ET
+BT
+/F1 7.8 Tf
+58 463.2002 Td
+(my_func.custom_cache = {}?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 451.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 451.5002 Td
+(No, functions are immutable code objects) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.9002 Td
+(Yes, function objects are first-class and) Tj
+ET
+BT
+/F1 7.4 Tf
+72 433.3002 Td
+(possess a writable __dict__ attribute) Tj
+ET
+BT
+/F2 7.4 Tf
+58 423.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 423.7002 Td
+(Only if decorated with @property) Tj
+ET
+BT
+/F2 7.4 Tf
+58 414.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 414.1002 Td
+(Only in Python 2) Tj
+ET
+BT
+/F2 8.0 Tf
+42 390.5002 Td
+(90.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 390.5002 Td
+(What is the output of:\\ndef f\(\): pass\\nf.counter) Tj
+ET
+BT
+/F1 7.8 Tf
+58 381.3001 Td
+(= 42\\nprint\(f.counter\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 369.6001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 369.6001 Td
+(42) Tj
+ET
+BT
+/F2 7.4 Tf
+58 360.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 360.0001 Td
+(AttributeError: 'function' object has no) Tj
+ET
+BT
+/F1 7.4 Tf
+72 351.4001 Td
+(attribute 'counter') Tj
+ET
+BT
+/F2 7.4 Tf
+58 341.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 341.8001 Td
+(None) Tj
+ET
+BT
+/F2 7.4 Tf
+58 332.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 332.2001 Td
+(TypeError) Tj
+ET
+BT
+/F2 8.0 Tf
+42 308.6001 Td
+(91.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 308.6001 Td
+(What does the functools.wraps decorator do when) Tj
+ET
+BT
+/F1 7.8 Tf
+58 299.4001 Td
+(writing custom function decorators?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 287.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 287.7001 Td
+(Encrypts the function bytecode) Tj
+ET
+BT
+/F2 7.4 Tf
+58 278.1001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 278.1001 Td
+(Preserves the original function's metadata) Tj
+ET
+BT
+/F1 7.4 Tf
+72 269.5001 Td
+(\(__name__, __doc__, __annotations__\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 259.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 259.9001 Td
+(Prevents recursion errors) Tj
+ET
+BT
+/F2 7.4 Tf
+58 250.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 250.3 Td
+(Speeds up execution by 2x) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(92.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What is a Generator Function in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 772.3 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 772.3 Td
+(A function that compiles C libraries) Tj
+ET
+BT
+/F2 7.4 Tf
+322 762.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 762.7 Td
+(A function that contains the 'yield' keyword) Tj
+ET
+BT
+/F1 7.4 Tf
+336 754.1 Td
+(and returns an iterator yielding values on) Tj
+ET
+BT
+/F1 7.4 Tf
+336 745.5001 Td
+(demand) Tj
+ET
+BT
+/F2 7.4 Tf
+322 735.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 735.9001 Td
+(A function that generates random numbers) Tj
+ET
+BT
+/F2 7.4 Tf
+322 726.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 726.3001 Td
+(A recursive function without base case) Tj
+ET
+BT
+/F2 8.0 Tf
+306 702.7001 Td
+(93.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 702.7001 Td
+(What happens when a generator function is) Tj
+ET
+BT
+/F1 7.8 Tf
+322 693.5001 Td
+(invoked: gen = my_generator\(\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 681.8001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 681.8001 Td
+(It executes the entire function immediately) Tj
+ET
+BT
+/F1 7.4 Tf
+336 673.2001 Td
+(to completion) Tj
+ET
+BT
+/F2 7.4 Tf
+322 663.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 663.6002 Td
+(It returns a generator object without) Tj
+ET
+BT
+/F1 7.4 Tf
+336 655.0002 Td
+(executing any code until next\(\) is called) Tj
+ET
+BT
+/F2 7.4 Tf
+322 645.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 645.4002 Td
+(It raises a StopIteration exception) Tj
+ET
+BT
+/F2 7.4 Tf
+322 635.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 635.8002 Td
+(It starts a background thread) Tj
+ET
+BT
+/F2 8.0 Tf
+306 612.2003 Td
+(94.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 612.2003 Td
+(What is the memory complexity of a generator) Tj
+ET
+BT
+/F1 7.8 Tf
+322 603.0002 Td
+(producing 1 billion integers using yield?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 591.3002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 591.3002 Td
+(O\(1\) constant memory) Tj
+ET
+BT
+/F2 7.4 Tf
+322 581.7003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 581.7003 Td
+(O\(N\) allocating 1 billion items in RAM) Tj
+ET
+BT
+/F2 7.4 Tf
+322 572.1003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 572.1003 Td
+(O\(log N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 562.5003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 562.5003 Td
+(O\(N^2\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 538.9003 Td
+(95.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 538.9003 Td
+(What does the 'yield from' expression introduced) Tj
+ET
+BT
+/F1 7.8 Tf
+322 529.7003 Td
+(in Python 3.3 do?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 518.0003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 518.0003 Td
+(Terminates the generator) Tj
+ET
+BT
+/F2 7.4 Tf
+322 508.4003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 508.4003 Td
+(Delegates iteration directly to a) Tj
+ET
+BT
+/F1 7.4 Tf
+336 499.8003 Td
+(sub-generator or iterable) Tj
+ET
+BT
+/F2 7.4 Tf
+322 490.2003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 490.2003 Td
+(Yields an empty tuple) Tj
+ET
+BT
+/F2 7.4 Tf
+322 480.6003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 480.6003 Td
+(Catches all exceptions in generator) Tj
+ET
+BT
+/F2 8.0 Tf
+306 457.0003 Td
+(96.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 457.0003 Td
+(What is the output of:\\ndef flatten\(nested\):\\n) Tj
+ET
+BT
+/F1 7.8 Tf
+322 447.8003 Td
+(for item in nested:\\n if isinstance\(item,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 438.6003 Td
+(list\):\\n yield from flatten\(item\)\\n else:\\n) Tj
+ET
+BT
+/F1 7.8 Tf
+322 429.4002 Td
+(yield item\\nprint\(list\(flatten\([1, [2, [3, 4]],) Tj
+ET
+BT
+/F1 7.8 Tf
+322 420.2002 Td
+(5]\)\)\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 408.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 408.5002 Td
+([1, 2, 3, 4, 5]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 398.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 398.9002 Td
+([[1, 2], [3, 4], 5]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 389.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 389.3002 Td
+([1, [2, 3, 4], 5]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 379.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 379.7002 Td
+(TypeError) Tj
+ET
+BT
+/F2 8.0 Tf
+306 356.1002 Td
+(97.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 356.1002 Td
+(What is the Ackermann function A\(m, n\) famous) Tj
+ET
+BT
+/F1 7.8 Tf
+322 346.9002 Td
+(for in theoretical computer science?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 335.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 335.2002 Td
+(It is an extremely fast sorting algorithm) Tj
+ET
+BT
+/F2 7.4 Tf
+322 325.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 325.6002 Td
+(It is an example of a non-primitive) Tj
+ET
+BT
+/F1 7.4 Tf
+336 317.0002 Td
+(recursive function that grows) Tj
+ET
+BT
+/F1 7.4 Tf
+336 308.4001 Td
+(extraordinarily rapidly) Tj
+ET
+BT
+/F2 7.4 Tf
+322 298.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 298.8001 Td
+(It computes prime numbers in O\(1\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 289.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 289.2001 Td
+(It solves the traveling salesperson problem) Tj
+ET
+BT
+/F2 8.0 Tf
+306 265.6001 Td
+(98.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 265.6001 Td
+(What is the value of the Ackermann function A\(1,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 256.4001 Td
+(2\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 244.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 244.7001 Td
+(3) Tj
+ET
+BT
+/F2 7.4 Tf
+322 235.1001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 235.1001 Td
+(4) Tj
+ET
+BT
+/F2 7.4 Tf
+322 225.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 225.5001 Td
+(5) Tj
+ET
+BT
+/F2 7.4 Tf
+322 215.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 215.9001 Td
+(6) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 18 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+18 0 obj
+<< /Length 1751 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 4: FUNCTIONS AND RECURSION) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 8 of 41) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(99.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What happens when trying to evaluate Ackermann) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(A\(4, 2\) in Python?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(Returns 65536 in 1 ms) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(Immediately triggers RecursionError due to) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.9 Td
+(massive call stack expansion) Tj
+ET
+BT
+/F2 7.4 Tf
+58 735.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 735.3 Td
+(Returns 16) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.7001 Td
+(Returns None) Tj
+ET
+BT
+/F2 8.0 Tf
+42 692.1001 Td
+(100.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.1001 Td
+(What is the role of a Trampoline in functional) Tj
+ET
+BT
+/F1 7.8 Tf
+58 682.9001 Td
+(Python programming?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.2001 Td
+(A mechanism to bounce exceptions back to) Tj
+ET
+BT
+/F1 7.4 Tf
+72 662.6001 Td
+(caller) Tj
+ET
+BT
+/F2 7.4 Tf
+58 653.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 653.0001 Td
+(An iterative loop that repeatedly executes) Tj
+ET
+BT
+/F1 7.4 Tf
+72 644.4001 Td
+(thunks to simulate tail-call optimization) Tj
+ET
+BT
+/F1 7.4 Tf
+72 635.8002 Td
+(with O\(1\) stack depth) Tj
+ET
+BT
+/F2 7.4 Tf
+58 626.2002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 626.2002 Td
+(A visual debugging tool in IDEs) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.6002 Td
+(A garbage collection cycle) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 20 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+20 0 obj
+<< /Length 5406 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 4: FUNCTIONS AND RECURSION) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 9 of 41) Tj
+ET
+BT
+/F2 10 Tf
+45 780 Td
+(SECTION B: DESCRIPTIVE & SUBJECTIVE QUESTIONS) Tj
+ET
+BT
+/F2 8.5 Tf
+45 760 Td
+(Q1. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 760 Td
+(Explain the Anatomy of a Python Function. Detail function definitions \(def\), parameter) Tj
+ET
+BT
+/F1 8.5 Tf
+72 749.5 Td
+(declarations, docstrings, return semantics, and the LEGB variable scope lookup rule.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 724.5 Td
+(Q2. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 724.5 Td
+(Analyze Function Arguments in Python: Positional, Keyword, Default, Variable-Length \(*args,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 714 Td
+(**kwargs\), Keyword-Only \(*\), and Positional-Only \(/\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 689 Td
+(Q3. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 689 Td
+(Explain the Mutable Default Argument Trap in Python. Detail why def f\(lst=[]\) causes state) Tj
+ET
+BT
+/F1 8.5 Tf
+72 678.5 Td
+(contamination across calls, and demonstrate the idiomatic None sentinel pattern.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 653.5 Td
+(Q4. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 653.5 Td
+(Explain First-Class Functions and Higher-Order Functions in Python. Implement custom versions of) Tj
+ET
+BT
+/F1 8.5 Tf
+72 643 Td
+(map\(\), filter\(\), and reduce\(\) with lambda expressions.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 618 Td
+(Q5. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 618 Td
+(Explain Scope, Nested Functions, Closures, and the nonlocal Keyword in Python with memory) Tj
+ET
+BT
+/F1 8.5 Tf
+72 607.5 Td
+(activation models.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 582.5 Td
+(Q6. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 582.5 Td
+(Explain Mathematical Functions in Python's standard math module. Detail trigonometry, logarithms,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 572 Td
+(power, ceiling/floor, and special constants \(pi, e, inf, nan\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 547 Td
+(Q7. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 547 Td
+(Explain Recursion Fundamentals in Python: Base Cases, Recursive Steps, Call Stack Mechanics, and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 536.5 Td
+(Stack Frame Activation Records.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 511.5 Td
+(Q8. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 511.5 Td
+(Explain the Recursion Limit in Python. Detail RecursionError, sys.getrecursionlimit\(\),) Tj
+ET
+BT
+/F1 8.5 Tf
+72 501 Td
+(sys.setrecursionlimit\(\), and why Python avoids Tail Call Optimization \(TCO\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 476 Td
+(Q9. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 476 Td
+(Implement the Tower of Hanoi algorithm in Python using recursion. Explain the mathematical) Tj
+ET
+BT
+/F1 8.5 Tf
+72 465.5 Td
+(induction, move sequences, and O\(2^N\) complexity analysis.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 440.5 Td
+(Q10. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 440.5 Td
+(Implement Binary Search recursively in Python. Detail subproblem partitioning, mid calculation,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 430 Td
+(base cases, and compare with iterative implementation.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 405 Td
+(Q11. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 405 Td
+(Explain Memoization and Dynamic Programming. Implement the Fibonacci sequence and compare naive) Tj
+ET
+BT
+/F1 8.5 Tf
+72 394.5 Td
+(recursive O\(2^N\), manual memoization O\(N\), and @lru_cache.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 369.5 Td
+(Q12. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 369.5 Td
+(Implement Binary Exponentiation \(Fast Power Algorithm\) in Python using both recursive) Tj
+ET
+BT
+/F1 8.5 Tf
+72 359 Td
+(divide-and-conquer and iterative bit manipulation.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 334 Td
+(Q13. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 334 Td
+(Implement a Recursive Merge Sort algorithm in Python. Analyze divide-and-conquer splitting,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 323.5 Td
+(merging, stability, and O\(N log N\) asymptotic complexity.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 298.5 Td
+(Q14. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 298.5 Td
+(Implement a Recursive QuickSort algorithm in Python with Hoare/Lomuto partitioning. Compare) Tj
+ET
+BT
+/F1 8.5 Tf
+72 288 Td
+(worst-case O\(N^2\) vs average-case O\(N log N\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 263 Td
+(Q15. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 263 Td
+(Explain Custom Function Decorators in Python. Detail how @wraps preserves metadata, and implement) Tj
+ET
+BT
+/F1 8.5 Tf
+72 252.5 Td
+(execution timers and input validation decorators.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 227.5 Td
+(Q16. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 227.5 Td
+(Implement a Recursive Filesystem Directory Tree Walker in Python using os and recursion,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 217 Td
+(calculating total disk usage and printing structured indentation.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 192 Td
+(Q17. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 192 Td
+(Implement a Recursive Backtracking Maze Solver in Python using 2D grids, finding a path from start) Tj
+ET
+BT
+/F1 8.5 Tf
+72 181.5 Td
+(\(0,0\) to exit \(M-1, N-1\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 156.5 Td
+(Q18. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 156.5 Td
+(Explain Function Annotations and Type Hints \(PEP 484\) in Python. Contrast dynamic typing with) Tj
+ET
+BT
+/F1 8.5 Tf
+72 146 Td
+(static type checking using mypy.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 121 Td
+(Q19. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 121 Td
+(Implement the N-Queens Puzzle in Python using recursive backtracking. Find all valid non-attacking) Tj
+ET
+BT
+/F1 8.5 Tf
+72 110.5 Td
+(queen configurations on an N x N chessboard.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 85.5 Td
+(Q20. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 85.5 Td
+(Explain Generator Functions and the yield Keyword. Contrast generators with standard return) Tj
+ET
+BT
+/F1 8.5 Tf
+72 75 Td
+(functions in memory usage and streaming pipelines.) Tj
+ET
+
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 22 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+22 0 obj
+<< /Length 2519 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 4: FUNCTIONS AND RECURSION) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 10 of 41) Tj
+ET
+BT
+/F2 8.5 Tf
+45 780 Td
+(Q21. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 780 Td
+(Implement a Recursive Flattening algorithm for arbitrarily nested lists of irregular depths in) Tj
+ET
+BT
+/F1 8.5 Tf
+72 769.5 Td
+(Python with type checking.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 743.5 Td
+(Q22. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 743.5 Td
+(Implement a String Permutation and Combination generator in Python without external libraries) Tj
+ET
+BT
+/F1 8.5 Tf
+72 733 Td
+(using recursive backtracking and list swapping.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 707 Td
+(Q23. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 707 Td
+(Implement a Recursive Palindrome Partitioning program in Python that decomposes a string into all) Tj
+ET
+BT
+/F1 8.5 Tf
+72 696.5 Td
+(possible palindromic substring sequences.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 670.5 Td
+(Q24. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 670.5 Td
+(Implement an Expression Evaluator for Infix Arithmetic \(+, -, *, /\) in Python using recursive) Tj
+ET
+BT
+/F1 8.5 Tf
+72 660 Td
+(descent parsing or two stacks.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 634 Td
+(Q25. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 634 Td
+(Explain Partial Function Application using functools.partial in Python. Contrast partial) Tj
+ET
+BT
+/F1 8.5 Tf
+72 623.5 Td
+(application with Currying with practical examples.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 597.5 Td
+(Q26. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 597.5 Td
+(Implement a Trampoline pattern in Python to eliminate recursion stack overflow for deep) Tj
+ET
+BT
+/F1 8.5 Tf
+72 587 Td
+(tail-recursive algorithms.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 561 Td
+(Q27. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 561 Td
+(Explain Function Introspection using the inspect and typing modules in Python with parameter) Tj
+ET
+BT
+/F1 8.5 Tf
+72 550.5 Td
+(signature extraction.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 524.5 Td
+(Q28. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 524.5 Td
+(Implement a Recursive Sudoku Solver in Python using backtracking with constraint propagation.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 488 Td
+(Q29. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 488 Td
+(Implement a Recursive Descent XML/HTML Tokenizer and Tag Balancer in Python using recursion and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 477.5 Td
+(stack validation.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 451.5 Td
+(Q30. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 451.5 Td
+(Implement the Ackermann Function in Python with recursion analysis, rapid growth metrics, and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 441 Td
+(recursion limit protection.) Tj
+ET
+
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 24 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+24 0 obj
+<< /Length 8411 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 4: FUNCTIONS AND RECURSION) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 11 of 41) Tj
+ET
+BT
+/F2 11 Tf
+45 780 Td
+(SECTION C: ANSWER KEY - MULTIPLE CHOICE QUESTIONS) Tj
+ET
+0.5 w
+45 772 m 550 772 l S
+BT
+/F2 8.5 Tf
+45 750 Td
+(Q1: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 750 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 734 Td
+(Q2: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 734 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 718 Td
+(Q3: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 718 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 702 Td
+(Q4: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 686 Td
+(Q5: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 686 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 670 Td
+(Q6: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 670 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 654 Td
+(Q7: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 654 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 638 Td
+(Q8: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 622 Td
+(Q9: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 606 Td
+(Q10: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 606 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 590 Td
+(Q11: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 574 Td
+(Q12: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 574 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 558 Td
+(Q13: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 558 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 542 Td
+(Q14: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 542 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 526 Td
+(Q15: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 526 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 510 Td
+(Q16: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 510 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 494 Td
+(Q17: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 494 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 478 Td
+(Q18: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 478 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 462 Td
+(Q19: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 462 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 446 Td
+(Q20: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 446 Td
+([B]) Tj
+ET
+0.2 w
+135 755 m 135 425 l S
+BT
+/F2 8.5 Tf
+145 750 Td
+(Q21: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 750 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 734 Td
+(Q22: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 734 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 718 Td
+(Q23: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 702 Td
+(Q24: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 702 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 686 Td
+(Q25: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 686 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 670 Td
+(Q26: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 670 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 654 Td
+(Q27: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 654 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 638 Td
+(Q28: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 638 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 622 Td
+(Q29: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 622 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 606 Td
+(Q30: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 606 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 590 Td
+(Q31: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 574 Td
+(Q32: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 574 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 558 Td
+(Q33: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 542 Td
+(Q34: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 542 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 526 Td
+(Q35: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 526 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 510 Td
+(Q36: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 494 Td
+(Q37: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 478 Td
+(Q38: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 462 Td
+(Q39: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 446 Td
+(Q40: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 446 Td
+([B]) Tj
+ET
+0.2 w
+235 755 m 235 425 l S
+BT
+/F2 8.5 Tf
+245 750 Td
+(Q41: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 750 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 734 Td
+(Q42: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 734 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 718 Td
+(Q43: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 718 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 702 Td
+(Q44: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 686 Td
+(Q45: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 670 Td
+(Q46: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 654 Td
+(Q47: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 654 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 638 Td
+(Q48: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 622 Td
+(Q49: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 606 Td
+(Q50: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 590 Td
+(Q51: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 590 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 574 Td
+(Q52: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 574 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 558 Td
+(Q53: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 558 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 542 Td
+(Q54: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 542 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 526 Td
+(Q55: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 526 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 510 Td
+(Q56: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 510 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 494 Td
+(Q57: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 494 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 478 Td
+(Q58: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 462 Td
+(Q59: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 446 Td
+(Q60: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 446 Td
+([A]) Tj
+ET
+0.2 w
+335 755 m 335 425 l S
+BT
+/F2 8.5 Tf
+345 750 Td
+(Q61: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 750 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 734 Td
+(Q62: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 718 Td
+(Q63: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 718 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 702 Td
+(Q64: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 702 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 686 Td
+(Q65: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 686 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 670 Td
+(Q66: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 670 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 654 Td
+(Q67: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 638 Td
+(Q68: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 638 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 622 Td
+(Q69: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 606 Td
+(Q70: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 590 Td
+(Q71: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 574 Td
+(Q72: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 574 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 558 Td
+(Q73: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 542 Td
+(Q74: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 542 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 526 Td
+(Q75: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 510 Td
+(Q76: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 510 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 494 Td
+(Q77: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 494 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 478 Td
+(Q78: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 478 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 462 Td
+(Q79: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 446 Td
+(Q80: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 446 Td
+([B]) Tj
+ET
+0.2 w
+435 755 m 435 425 l S
+BT
+/F2 8.5 Tf
+445 750 Td
+(Q81: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 750 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 734 Td
+(Q82: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 718 Td
+(Q83: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 718 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 702 Td
+(Q84: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 702 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 686 Td
+(Q85: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 686 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 670 Td
+(Q86: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 670 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 654 Td
+(Q87: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 654 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 638 Td
+(Q88: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 638 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 622 Td
+(Q89: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 622 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 606 Td
+(Q90: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 590 Td
+(Q91: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 590 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 574 Td
+(Q92: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 574 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 558 Td
+(Q93: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 558 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 542 Td
+(Q94: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 526 Td
+(Q95: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 526 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 510 Td
+(Q96: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 494 Td
+(Q97: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 494 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 478 Td
+(Q98: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 478 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 462 Td
+(Q99: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 462 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 446 Td
+(Q100: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 446 Td
+([B]) Tj
+ET
+0.5 w
+45 400 m 550 400 l 550 340 l 45 340 l s
+BT
+/F2 9 Tf
+55 382 Td
+(MCQ Scoring Guide & Difficulty Distribution:) Tj
+ET
+BT
+/F1 8.5 Tf
+55 366 Td
+(Questions 1 to 40: Foundational & Conceptual [Easy] | Questions 41 to 75: Analytical & Applied [Moderate]) Tj
+ET
+BT
+/F1 8.5 Tf
+55 350 Td
+(Questions 76 to 100: Complex Numerical & Advanced Problem Solving [Difficult]) Tj
+ET
+
+endstream
+endobj
+25 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 26 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+26 0 obj
+<< /Length 3472 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 4: FUNCTIONS AND RECURSION) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 12 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(SECTION D: DETAILED SOLUTIONS FOR SUBJECTIVE QUESTIONS) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(================================================================================) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 1:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the Anatomy of a Python Function. Detail function definitions \(def\), parameter declarations, docstrings, return semantics, and the LEGB variable scope lookup rule.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Theoretical Anatomy of Functions in Python:) Tj
+T*
+(   In Python, a function is a first-class citizen and an instance of the built-in function type.) Tj
+T*
+(   Anatomy:) Tj
+T*
+(   1. Header: Initiated with def, followed by function name, parameter list enclosed in) Tj
+T*
+(   parentheses \(\), and terminated by a colon \(:\).) Tj
+T*
+(   2. Docstring: An optional triple-quoted string immediately below the header describing) Tj
+T*
+(   functionality, parameters, and return types.) Tj
+T*
+(   3. Suite / Body: Indented block of statements executed when called.) Tj
+T*
+(   4. Return Statement: Explicit return expr passes values back to the caller and terminates the) Tj
+T*
+(   stack frame. If omitted, Python implicitly returns the singleton None.) Tj
+T*
+() Tj
+T*
+(   2. The LEGB Scope Resolution Rule:) Tj
+T*
+(   When an unqualified identifier is referenced inside a function, Python searches four concentric) Tj
+T*
+(   namespaces in strict hierarchical order:) Tj
+T*
+(   1. L \(Local\): Variables assigned within the function body or passed as parameters.) Tj
+T*
+(   2. E \(Enclosing\): Variables in outer functions of nested closures.) Tj
+T*
+(   3. G \(Global\): Module-level variables defined at the top level of the .py file.) Tj
+T*
+(   4. B \(Built-in\): Reserved built-in names preloaded into Python \(len, range, print, ValueError\).) Tj
+T*
+(   If the identifier is not found in any of the four tiers, Python raises a NameError.) Tj
+T*
+() Tj
+T*
+(   3. Python Code Demonstration:) Tj
+T*
+(   # Global Scope variable) Tj
+T*
+(   GLOBAL_TAX_RATE = 0.18) Tj
+T*
+() Tj
+T*
+(   def outer_accounting\(department: str\):) Tj
+T*
+(   # Enclosing Scope variable) Tj
+T*
+(   dept_code = department.upper\(\)) Tj
+T*
+() Tj
+T*
+(   def calculate_invoice\(subtotal: float\) -> dict:) Tj
+T*
+(   """Compute net invoice with department overhead and tax.""") Tj
+T*
+(   # Local Scope variables) Tj
+T*
+(   tax_amount = subtotal * GLOBAL_TAX_RATE) Tj
+T*
+(   total = subtotal + tax_amount) Tj
+T*
+(   return {) Tj
+T*
+(   "Department": dept_code, # Enclosing \(E\)) Tj
+T*
+(   "Subtotal": subtotal, # Local \(L\)) Tj
+T*
+(   "TaxRate": GLOBAL_TAX_RATE, # Global \(G\)) Tj
+T*
+(   "Tax": tax_amount, # Local \(L\)) Tj
+T*
+(   "Total": total, # Local \(L\)) Tj
+T*
+(   "Type": type\(total\).__name__ # Built-in \(B\)) Tj
+T*
+(   }) Tj
+T*
+(   return calculate_invoice) Tj
+T*
+() Tj
+T*
+(   invoice_fn = outer_accounting\("Research"\)) Tj
+T*
+(   print\("Invoice Computation Report:", invoice_fn\(1000.0\)\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+(   - Local Variable Access: O\(1\) direct C-array offset lookup \(LOAD_FAST opcode\).) Tj
+T*
+ET
+
+endstream
+endobj
+27 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 28 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+28 0 obj
+<< /Length 3310 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 4: FUNCTIONS AND RECURSION) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 13 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - Global / Builtin Access: O\(1\) hash table lookup in globals\(\) and __builtins__.__dict__.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 2:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze Function Arguments in Python: Positional, Keyword, Default, Variable-Length \(*args, **kwargs\), Keyword-Only \(*\), and Positional-Only \(/\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Python's Parameter Passing Taxonomy:) Tj
+T*
+(   Python provides the most versatile parameter specification system among mainstream programming) Tj
+T*
+(   languages:) Tj
+T*
+(   1. Positional Arguments: Matched to parameters by their position from left to right.) Tj
+T*
+(   2. Keyword Arguments: Matched to parameters by explicit parameter name \(func\(param=val\)\),) Tj
+T*
+(   allowing arguments to appear in any order.) Tj
+T*
+(   3. Default Parameter Values: Enables optional parameters with fallback values if omitted by) Tj
+T*
+(   caller.) Tj
+T*
+(   4. Variable-Length Positional \(*args\): Collects arbitrary excess positional arguments into a) Tj
+T*
+(   tuple.) Tj
+T*
+(   5. Variable-Length Keyword \(**kwargs\): Collects arbitrary excess keyword arguments into a) Tj
+T*
+(   dictionary.) Tj
+T*
+(   6. Keyword-Only Arguments \(PEP 3102\): Parameters following a bare asterisk * or *args that) Tj
+T*
+(   CANNOT be passed positionally.) Tj
+T*
+(   7. Positional-Only Arguments \(PEP 570, Python 3.8+\): Parameters preceding a slash / that CANNOT) Tj
+T*
+(   be passed as keyword arguments.) Tj
+T*
+() Tj
+T*
+(   2. Complete Grammar Specification:) Tj
+T*
+(   def func\(pos_only1, pos_only2, /, pos_or_kw, *args, kw_only, **kwargs\):) Tj
+T*
+(   pass) Tj
+T*
+() Tj
+T*
+(   3. Python Code Demonstration:) Tj
+T*
+(   def enterprise_api_client\(endpoint: str, version: float, /, timeout=30, *headers,) Tj
+T*
+(   auth_token=None, **query_params\):) Tj
+T*
+(   """Demonstrate all parameter modes in a single robust signature.""") Tj
+T*
+(   print\(f"Endpoint: {endpoint} \(v{version}\) [Positional-Only]"\)) Tj
+T*
+(   print\(f"Timeout: {timeout}s [Pos-or-Kw]"\)) Tj
+T*
+(   print\(f"Headers: {headers} [Variable *args Tuple]"\)) Tj
+T*
+(   print\(f"Auth: {auth_token} [Keyword-Only]"\)) Tj
+T*
+(   print\(f"Params: {query_params} [Variable **kwargs Dict]"\)) Tj
+T*
+() Tj
+T*
+(   # Valid Invocation) Tj
+T*
+(   enterprise_api_client\() Tj
+T*
+(   "/api/v2/users", 2.1, 45,) Tj
+T*
+(   "Accept: application/json", "X-Trace-ID: 9812",) Tj
+T*
+(   auth_token="Bearer_Sec123",) Tj
+T*
+(   role="admin", status="active") Tj
+T*
+(   \)) Tj
+T*
+() Tj
+T*
+(   # Demonstrating Syntax Restrictions) Tj
+T*
+(   try:) Tj
+T*
+(   # Attempting to pass endpoint \(positional-only\) as keyword raises TypeError) Tj
+T*
+(   enterprise_api_client\(endpoint="/api/v1", version=1.0\)) Tj
+T*
+(   except TypeError as ex:) Tj
+T*
+(   print\(f"Caught Expected TypeError: {ex}"\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+ET
+
+endstream
+endobj
+29 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 30 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+30 0 obj
+<< /Length 3422 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 4: FUNCTIONS AND RECURSION) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 14 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - Argument Binding: O\(P + K\) where P is positional count and K is keyword count.) Tj
+T*
+(   - Space Complexity: O\(len\(args\)\) tuple + O\(len\(kwargs\)\) dict.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 3:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the Mutable Default Argument Trap in Python. Detail why def f\(lst=[]\) causes state contamination across calls, and demonstrate the idiomatic None sentinel pattern.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. The Mechanism of the Mutable Default Trap:) Tj
+T*
+(   In Python, default parameter expressions are evaluated ONCE at function definition time \(when) Tj
+T*
+(   the module is loaded and compiled\), NOT each time the function is called!) Tj
+T*
+(   - When def f\(target=[]\) is defined, CPython evaluates [] and creates a single PyListObject on) Tj
+T*
+(   the heap, storing a reference to it in the function's __defaults__ tuple attribute.) Tj
+T*
+(   - If the function mutates this default list in place \(target.append\(x\)\), the alteration) Tj
+T*
+(   persists inside the __defaults__ tuple!) Tj
+T*
+(   - Subsequent invocations of f\(\) that rely on the default parameter receive the exact same) Tj
+T*
+(   mutated list instance, causing subtle bugs and state contamination across independent calls.) Tj
+T*
+() Tj
+T*
+(   2. The Idiomatic None Sentinel Pattern:) Tj
+T*
+(   To ensure each function call receives a fresh, independent container:) Tj
+T*
+(   1. Assign None as the default argument value in the signature: def f\(target=None\):) Tj
+T*
+(   2. Inside the function body, check if the argument is None, and instantiate a new container if) Tj
+T*
+(   so:) Tj
+T*
+(   if target is None: target = []) Tj
+T*
+() Tj
+T*
+(   3. Python Code Demonstration:) Tj
+T*
+(   # Problematic Antipattern) Tj
+T*
+(   def bad_accumulator\(item, log=[]\):) Tj
+T*
+(   log.append\(item\)) Tj
+T*
+(   return log) Tj
+T*
+() Tj
+T*
+(   print\("--- Demonstrating State Contamination \(Bad Pattern\) ---"\)) Tj
+T*
+(   print\("Call 1:", bad_accumulator\("A"\)\)) Tj
+T*
+(   print\("Call 2:", bad_accumulator\("B"\)\)) Tj
+T*
+(   print\("Call 3:", bad_accumulator\("C"\)\)) Tj
+T*
+(   print\(f"Function's internal __defaults__: {bad_accumulator.__defaults__}"\)) Tj
+T*
+() Tj
+T*
+(   # Idiomatic Sentinel Pattern) Tj
+T*
+(   def good_accumulator\(item, log=None\):) Tj
+T*
+(   if log is None:) Tj
+T*
+(   log = [] # Brand new list allocated for each call!) Tj
+T*
+(   log.append\(item\)) Tj
+T*
+(   return log) Tj
+T*
+() Tj
+T*
+(   print\("\\n--- Demonstrating Clean Isolation \(Good Pattern\) ---"\)) Tj
+T*
+(   print\("Call 1:", good_accumulator\("A"\)\)) Tj
+T*
+(   print\("Call 2:", good_accumulator\("B"\)\)) Tj
+T*
+(   print\("Call 3:", good_accumulator\("C"\)\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(1\) comparison and allocation.) Tj
+T*
+(   - Space Complexity: O\(1\) auxiliary frame memory.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+ET
+
+endstream
+endobj
+31 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 32 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+32 0 obj
+<< /Length 2750 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 4: FUNCTIONS AND RECURSION) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 15 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 4:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain First-Class Functions and Higher-Order Functions in Python. Implement custom versions of map\(\), filter\(\), and reduce\(\) with lambda expressions.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. First-Class Functions Principle:) Tj
+T*
+(   In Python, functions are first-class objects, meaning they can be:) Tj
+T*
+(   1. Assigned to variables and data structure slots.) Tj
+T*
+(   2. Passed as arguments into other functions.) Tj
+T*
+(   3. Returned as return values from functions.) Tj
+T*
+(   4. Dynamically created at runtime.) Tj
+T*
+() Tj
+T*
+(   2. Higher-Order Functions:) Tj
+T*
+(   A higher-order function is any function that takes one or more functions as parameters or) Tj
+T*
+(   returns a function.) Tj
+T*
+() Tj
+T*
+(   3. Custom Implementations of map\(\), filter\(\), and reduce\(\):) Tj
+T*
+(   - custom_map\(func, iterable\): Applies transformation func to each item.) Tj
+T*
+(   - custom_filter\(predicate, iterable\): Retains items where predicate\(item\) is True.) Tj
+T*
+(   - custom_reduce\(func, iterable, initializer=None\): Iteratively aggregates elements using a) Tj
+T*
+(   binary operator.) Tj
+T*
+() Tj
+T*
+(   4. Python Implementation:) Tj
+T*
+(   def my_map\(func, iterable\):) Tj
+T*
+(   """Custom generator implementation of map\(\).""") Tj
+T*
+(   for item in iterable:) Tj
+T*
+(   yield func\(item\)) Tj
+T*
+() Tj
+T*
+(   def my_filter\(predicate, iterable\):) Tj
+T*
+(   """Custom generator implementation of filter\(\).""") Tj
+T*
+(   for item in iterable:) Tj
+T*
+(   if predicate\(item\):) Tj
+T*
+(   yield item) Tj
+T*
+() Tj
+T*
+(   def my_reduce\(func, iterable, initializer=None\):) Tj
+T*
+(   """Custom accumulator implementation of reduce\(\).""") Tj
+T*
+(   it = iter\(iterable\)) Tj
+T*
+(   if initializer is None:) Tj
+T*
+(   try:) Tj
+T*
+(   accumulator = next\(it\)) Tj
+T*
+(   except StopIteration:) Tj
+T*
+(   raise TypeError\("reduce\(\) of empty iterable with no initial value"\)) Tj
+T*
+(   else:) Tj
+T*
+(   accumulator = initializer) Tj
+T*
+() Tj
+T*
+(   for item in it:) Tj
+T*
+(   accumulator = func\(accumulator, item\)) Tj
+T*
+(   return accumulator) Tj
+T*
+() Tj
+T*
+(   # Verification) Tj
+T*
+(   nums = [1, 2, 3, 4, 5]) Tj
+T*
+() Tj
+T*
+(   # Square numbers via my_map) Tj
+T*
+(   squared = list\(my_map\(lambda x: x ** 2, nums\)\)) Tj
+T*
+(   print\(f"my_map \(x^2\): {squared}"\)) Tj
+T*
+ET
+
+endstream
+endobj
+33 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 34 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+34 0 obj
+<< /Length 3017 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 4: FUNCTIONS AND RECURSION) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 16 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   # Filter odd numbers via my_filter) Tj
+T*
+(   evens = list\(my_filter\(lambda x: x % 2 == 0, nums\)\)) Tj
+T*
+(   print\(f"my_filter \(evens\): {evens}"\)) Tj
+T*
+() Tj
+T*
+(   # Compute product via my_reduce) Tj
+T*
+(   product = my_reduce\(lambda acc, x: acc * x, nums, 1\)) Tj
+T*
+(   print\(f"my_reduce \(5!\): {product}"\)) Tj
+T*
+() Tj
+T*
+(   5. Complexity Analysis:) Tj
+T*
+(   - my_map / my_filter Time Complexity: O\(N\) streaming evaluations.) Tj
+T*
+(   - Space Complexity: O\(1\) lazy generator memory.) Tj
+T*
+(   - my_reduce Time: O\(N\), Space: O\(1\) accumulator register.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 5:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Scope, Nested Functions, Closures, and the nonlocal Keyword in Python with memory activation models.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Lexical Scoping and Closures:) Tj
+T*
+(   Lexical Scoping means the scope of a variable is determined by its physical structural location) Tj
+T*
+(   in the source code.) Tj
+T*
+(   A Closure is a function object that retains bindings to variables in its enclosing lexical) Tj
+T*
+(   scope, even after the enclosing outer function has finished execution and returned!) Tj
+T*
+(   CPython implements closures by wrapping captured variables inside PyCellObject structures) Tj
+T*
+(   referenced by the inner function's __closure__ attribute.) Tj
+T*
+() Tj
+T*
+(   2. The nonlocal Keyword \(PEP 3104\):) Tj
+T*
+(   Inside an inner function:) Tj
+T*
+(   - Referencing an enclosing variable reads it fine.) Tj
+T*
+(   - But assigning to a variable \(x = x + 1\) causes Python to bind x as a local variable,) Tj
+T*
+(   triggering UnboundLocalError.) Tj
+T*
+(   - The nonlocal x statement declares that x belongs to the nearest enclosing non-global scope,) Tj
+T*
+(   enabling in-place mutation of captured closure state.) Tj
+T*
+() Tj
+T*
+(   3. Python Code Demonstration:) Tj
+T*
+(   def make_bank_account\(account_holder: str, initial_balance: float\):) Tj
+T*
+(   """Construct an encapsulated stateful closure.""") Tj
+T*
+(   balance = initial_balance # Enclosing state) Tj
+T*
+() Tj
+T*
+(   def deposit\(amount: float\) -> float:) Tj
+T*
+(   nonlocal balance) Tj
+T*
+(   if amount <= 0:) Tj
+T*
+(   raise ValueError\("Deposit amount must be positive."\)) Tj
+T*
+(   balance += amount) Tj
+T*
+(   return balance) Tj
+T*
+() Tj
+T*
+(   def withdraw\(amount: float\) -> float:) Tj
+T*
+(   nonlocal balance) Tj
+T*
+(   if amount > balance:) Tj
+T*
+(   raise ValueError\("Insufficient funds."\)) Tj
+T*
+(   balance -= amount) Tj
+T*
+(   return balance) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+35 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 36 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+36 0 obj
+<< /Length 3060 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 4: FUNCTIONS AND RECURSION) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 17 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   def get_balance\(\) -> float:) Tj
+T*
+(   return balance) Tj
+T*
+() Tj
+T*
+(   return deposit, withdraw, get_balance) Tj
+T*
+() Tj
+T*
+(   # Instantiate independent bank accounts) Tj
+T*
+(   dep, withdr, bal = make_bank_account\("Aarav", 1000.0\)) Tj
+T*
+(   print\(f"Initial Balance: ${bal\(\):.2f}"\)) Tj
+T*
+(   dep\(500.0\)) Tj
+T*
+(   print\(f"After $500 Deposit: ${bal\(\):.2f}"\)) Tj
+T*
+(   withdr\(200.0\)) Tj
+T*
+(   print\(f"After $200 Withdrawal: ${bal\(\):.2f}"\)) Tj
+T*
+() Tj
+T*
+(   # Introspecting Closure Cells) Tj
+T*
+(   print\(f"Closure Cell Contents: {dep.__closure__[0].cell_contents}"\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(1\) cell pointer dereferencing \(DEREF opcode\).) Tj
+T*
+(   - Space Complexity: O\(1\) PyCellObject allocation per captured variable.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 6:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Mathematical Functions in Python's standard math module. Detail trigonometry, logarithms, power, ceiling/floor, and special constants \(pi, e, inf, nan\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Architecture of Python's math Module:) Tj
+T*
+(   The math module provides direct, high-performance wrappers around the underlying platform C) Tj
+T*
+(   library \(libm\) mathematical routines. All functions operate on and return standard IEEE 754) Tj
+T*
+(   64-bit floating-point numbers.) Tj
+T*
+() Tj
+T*
+(   2. Core Functional Groupings:) Tj
+T*
+(   1. Trigonometry & Angular Conversions:) Tj
+T*
+(   - math.sin\(x\), math.cos\(x\), math.tan\(x\): Angle x strictly in radians.) Tj
+T*
+(   - math.radians\(deg\): deg * \(pi / 180\).) Tj
+T*
+(   - math.degrees\(rad\): rad * \(180 / pi\).) Tj
+T*
+(   - math.atan2\(y, x\): Arc tangent returning angle in correct quadrant [-pi, pi].) Tj
+T*
+(   2. Power & Logarithms:) Tj
+T*
+(   - math.sqrt\(x\), math.isqrt\(n\) \(Exact integer square root\).) Tj
+T*
+(   - math.exp\(x\) \(e^x\), math.log\(x[, base]\) \(Natural log by default, or arbitrary base\).) Tj
+T*
+(   - math.log10\(x\), math.log2\(x\).) Tj
+T*
+(   3. Rounding & Truncation:) Tj
+T*
+(   - math.ceil\(x\): Smallest integer >= x.) Tj
+T*
+(   - math.floor\(x\): Greatest integer <= x.) Tj
+T*
+(   - math.trunc\(x\): Truncates towards zero.) Tj
+T*
+(   4. Constants:) Tj
+T*
+(   - math.pi \(3.141592653589793\), math.e \(2.718281828459045\), math.inf \(Infinity\), math.nan) Tj
+T*
+(   \(Not-a-Number\).) Tj
+T*
+() Tj
+T*
+(   3. Python Code Demonstration:) Tj
+T*
+(   import math) Tj
+T*
+() Tj
+T*
+(   def scientific_calculator_demo\(\):) Tj
+T*
+(   angle_deg = 45.0) Tj
+T*
+(   rad = math.radians\(angle_deg\)) Tj
+T*
+ET
+
+endstream
+endobj
+37 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 38 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+38 0 obj
+<< /Length 3157 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 4: FUNCTIONS AND RECURSION) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 18 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   print\(f"Angle: {angle_deg} deg = {rad:.4f} rad"\)) Tj
+T*
+(   print\(f"sin\(45 deg\) = {math.sin\(rad\):.4f} \(Expected: {1/math.sqrt\(2\):.4f}\)"\)) Tj
+T*
+(   print\(f"Hypotenuse \(3, 4\): {math.hypot\(3, 4\)}"\)) Tj
+T*
+() Tj
+T*
+(   # Logarithmic calculations) Tj
+T*
+(   val = 1000.0) Tj
+T*
+(   print\(f"log10\({val}\) = {math.log10\(val\):.2f}"\)) Tj
+T*
+(   print\(f"log2\(1024\) = {math.log2\(1024\):.2f}"\)) Tj
+T*
+() Tj
+T*
+(   # Ceiling and Floor) Tj
+T*
+(   x = 7.35) Tj
+T*
+(   print\(f"ceil\({x}\) = {math.ceil\(x\)} | floor\({x}\) = {math.floor\(x\)}"\)) Tj
+T*
+() Tj
+T*
+(   # GCD and Factorial) Tj
+T*
+(   print\(f"math.gcd\(84, 180\) = {math.gcd\(84, 180\)}"\)) Tj
+T*
+(   print\(f"math.factorial\(6\) = {math.factorial\(6\)}"\)) Tj
+T*
+() Tj
+T*
+(   scientific_calculator_demo\(\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(1\) single-cycle hardware FPU / C-lib execution.) Tj
+T*
+(   - Space Complexity: O\(1\) register operations.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 7:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Recursion Fundamentals in Python: Base Cases, Recursive Steps, Call Stack Mechanics, and Stack Frame Activation Records.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Theoretical Foundations of Recursion:) Tj
+T*
+(   Recursion is an algorithmic paradigm where a problem is solved by reducing it to smaller) Tj
+T*
+(   instances of the exact same problem until a trivial, directly solvable instance \(the Base Case\)) Tj
+T*
+(   is reached.) Tj
+T*
+(   Two Mandatory Components:) Tj
+T*
+(   1. Base Case: The terminal stopping condition where the function returns directly without) Tj
+T*
+(   making further recursive calls.) Tj
+T*
+(   2. Recursive Step \(Inductive Step\): The statement where the function invokes itself with) Tj
+T*
+(   modified parameters strictly progressing towards the base case.) Tj
+T*
+() Tj
+T*
+(   2. Call Stack Mechanics and Stack Frames:) Tj
+T*
+(   Every time a function is called in Python:) Tj
+T*
+(   1. A new Stack Frame \(PyFrameObject\) is pushed onto the PVM Call Stack.) Tj
+T*
+(   2. The stack frame allocates local variables, parameter bindings, operand stack, and return) Tj
+T*
+(   instruction pointer.) Tj
+T*
+(   3. Execution of the caller pauses until the child frame completes.) Tj
+T*
+(   4. When the base case returns, stack frames unwind in Last-In-First-Out \(LIFO\) order, returning) Tj
+T*
+(   results up the chain.) Tj
+T*
+() Tj
+T*
+(   3. Detailed Memory Model & Execution Trace \(Factorial 3!\):) Tj
+T*
+(   def factorial_traced\(n: int\) -> int:) Tj
+T*
+(   indent = " " * \(4 - n\)) Tj
+T*
+(   print\(f"{indent}-> PUSH stack frame: factorial\({n}\)"\)) Tj
+T*
+() Tj
+T*
+(   # Base Case) Tj
+T*
+ET
+
+endstream
+endobj
+39 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 40 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+40 0 obj
+<< /Length 3441 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 4: FUNCTIONS AND RECURSION) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 19 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   if n <= 1:) Tj
+T*
+(   print\(f"{indent}<- BASE CASE REACHED: factorial\({n}\) returns 1"\)) Tj
+T*
+(   return 1) Tj
+T*
+() Tj
+T*
+(   # Recursive Step) Tj
+T*
+(   sub_res = factorial_traced\(n - 1\)) Tj
+T*
+(   result = n * sub_res) Tj
+T*
+(   print\(f"{indent}<- POP frame: factorial\({n}\) = {n} * {sub_res} = {result}"\)) Tj
+T*
+(   return result) Tj
+T*
+() Tj
+T*
+(   print\("Execution Trace of factorial_traced\(3\):"\)) Tj
+T*
+(   final_ans = factorial_traced\(3\)) Tj
+T*
+(   print\("Final Returned Factorial:", final_ans\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(N\) recursive calls.) Tj
+T*
+(   - Space Complexity: O\(N\) peak call stack depth.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 8:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the Recursion Limit in Python. Detail RecursionError, sys.getrecursionlimit\(\), sys.setrecursionlimit\(\), and why Python avoids Tail Call Optimization \(TCO\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Python's Recursion Limit and Stack Safety:) Tj
+T*
+(   Unlike languages with unbounded stacks or automatic TCO, CPython runs on top of the host) Tj
+T*
+(   operating system's C execution stack.) Tj
+T*
+(   Each Python stack frame corresponds to an underlying C call to PyEval_EvalFrameDefault. If) Tj
+T*
+(   unchecked, infinite recursion would exhaust OS stack memory, triggering an uncatchable) Tj
+T*
+(   Segmentation Fault and crashing the entire process!) Tj
+T*
+(   To safeguard against this, CPython maintains a hard recursion counter. When stack depth reaches) Tj
+T*
+(   sys.getrecursionlimit\(\) \(typically 1000\), Python throws a catchable RecursionError \(a subclass) Tj
+T*
+(   of RuntimeError\).) Tj
+T*
+() Tj
+T*
+(   2. Inspecting and Adjusting Recursion Limit:) Tj
+T*
+(   - sys.getrecursionlimit\(\): Returns current limit.) Tj
+T*
+(   - sys.setrecursionlimit\(limit\): Increases or decreases limit.) Tj
+T*
+(   Caution: Setting the limit excessively high \(e.g. 500,000\) risks crashing the interpreter if) Tj
+T*
+(   physical OS stack memory overflows.) Tj
+T*
+() Tj
+T*
+(   3. Why Python Deliberately Omits Tail Call Optimization \(TCO\):) Tj
+T*
+(   Tail Call Optimization \(TCO\) allows a compiler to overwrite the current stack frame with the) Tj
+T*
+(   child frame if the recursive call is in tail position, reducing stack space from O\(N\) to O\(1\).) Tj
+T*
+(   Guido van Rossum explicitly rejected TCO in Python because:) Tj
+T*
+(   1. Stack Trace Preservation: TCO destroys intermediary stack frames. In production, when an) Tj
+T*
+(   exception occurs, debugging relies on having the complete, accurate stack trace showing every) Tj
+T*
+(   line of code executed.) Tj
+T*
+(   2. Language Philosophy: Python encourages clean iteration \(for / while\) over deep recursion.) Tj
+T*
+() Tj
+T*
+(   4. Python Code Demonstration:) Tj
+T*
+(   import sys) Tj
+T*
+() Tj
+T*
+(   print\(f"Default CPython Recursion Limit: {sys.getrecursionlimit\(\)}"\)) Tj
+T*
+() Tj
+T*
+(   def test_recursion_depth\(n\):) Tj
+T*
+ET
+
+endstream
+endobj
+41 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 42 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+42 0 obj
+<< /Length 3035 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 4: FUNCTIONS AND RECURSION) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 20 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   try:) Tj
+T*
+(   return test_recursion_depth\(n + 1\)) Tj
+T*
+(   except RecursionError:) Tj
+T*
+(   return n) Tj
+T*
+() Tj
+T*
+(   max_depth_reached = test_recursion_depth\(1\)) Tj
+T*
+(   print\(f"RecursionError triggered at call depth: {max_depth_reached}"\)) Tj
+T*
+() Tj
+T*
+(   5. Complexity Analysis:) Tj
+T*
+(   - Space Complexity: O\(Recursion_Limit\) bounded stack memory.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 9:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement the Tower of Hanoi algorithm in Python using recursion. Explain the mathematical induction, move sequences, and O\(2^N\) complexity analysis.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Context and Rules of the Tower of Hanoi:) Tj
+T*
+(   Three vertical pegs: Source \(A\), Auxiliary/Helper \(B\), Destination \(C\).) Tj
+T*
+(   N disks of distinct sizes start stacked in decreasing diameter on Source.) Tj
+T*
+(   Objective: Move all N disks from Source to Destination subject to rules:) Tj
+T*
+(   1. Only one disk can be moved at a time.) Tj
+T*
+(   2. A larger disk can never be placed on top of a smaller disk.) Tj
+T*
+(   3. Only the top disk of any peg can be removed.) Tj
+T*
+() Tj
+T*
+(   2. Mathematical Recurrence & Inductive Strategy:) Tj
+T*
+(   To move N disks from Source \(A\) to Destination \(C\) using Auxiliary \(B\):) Tj
+T*
+(   Step 1: Recursively move \(N - 1\) disks from A to B \(using C as helper\).) Tj
+T*
+(   Step 2: Move the single largest disk N directly from A to C.) Tj
+T*
+(   Step 3: Recursively move \(N - 1\) disks from B to C \(using A as helper\).) Tj
+T*
+(   Recurrence Relation for moves M\(N\):) Tj
+T*
+(   M\(N\) = 2 * M\(N - 1\) + 1 with M\(1\) = 1.) Tj
+T*
+(   Closed-form solution: M\(N\) = 2^N - 1.) Tj
+T*
+() Tj
+T*
+(   3. Python Implementation:) Tj
+T*
+(   def solve_tower_of_hanoi\(n: int, source: str, destination: str, auxiliary: str, move_log=None\):) Tj
+T*
+(   if move_log is None:) Tj
+T*
+(   move_log = []) Tj
+T*
+() Tj
+T*
+(   # Base Case: 1 disk) Tj
+T*
+(   if n == 1:) Tj
+T*
+(   move_log.append\(f"Move Disk 1: [{source}] -> [{destination}]"\)) Tj
+T*
+(   return move_log) Tj
+T*
+() Tj
+T*
+(   # Step 1: Move top n-1 disks from Source to Aux) Tj
+T*
+(   solve_tower_of_hanoi\(n - 1, source, auxiliary, destination, move_log\)) Tj
+T*
+() Tj
+T*
+(   # Step 2: Move nth disk from Source to Dest) Tj
+T*
+(   move_log.append\(f"Move Disk {n}: [{source}] -> [{destination}]"\)) Tj
+T*
+() Tj
+T*
+(   # Step 3: Move n-1 disks from Aux to Dest) Tj
+T*
+(   solve_tower_of_hanoi\(n - 1, auxiliary, destination, source, move_log\)) Tj
+T*
+() Tj
+T*
+(   return move_log) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+43 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 44 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+44 0 obj
+<< /Length 2874 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 4: FUNCTIONS AND RECURSION) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 21 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   # Execution for N = 3 disks \(Total moves = 2^3 - 1 = 7\)) Tj
+T*
+(   disks = 3) Tj
+T*
+(   moves = solve_tower_of_hanoi\(disks, 'A', 'C', 'B'\)) Tj
+T*
+(   print\(f"Tower of Hanoi Solution for N={disks} Disks \({len\(moves\)} total moves\):"\)) Tj
+T*
+(   for idx, move in enumerate\(moves, start=1\):) Tj
+T*
+(   print\(f" Step {idx}: {move}"\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(2^N\) exponential time.) Tj
+T*
+(   - Auxiliary Space Complexity: O\(N\) stack frame depth.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 10:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement Binary Search recursively in Python. Detail subproblem partitioning, mid calculation, base cases, and compare with iterative implementation.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Theoretical Formulation of Recursive Binary Search:) Tj
+T*
+(   Binary Search operates on a sorted collection by recursively partitioning the search space in) Tj
+T*
+(   half:) Tj
+T*
+(   1. Base Cases:) Tj
+T*
+(   - Success: arr[mid] == target -> Return mid.) Tj
+T*
+(   - Failure: low > high -> Return -1 \(Target does not exist in array\).) Tj
+T*
+(   2. Recursive Steps:) Tj
+T*
+(   - If arr[mid] < target: Recurse on right subarray: search\(mid + 1, high\).) Tj
+T*
+(   - If arr[mid] > target: Recurse on left subarray: search\(low, mid - 1\).) Tj
+T*
+() Tj
+T*
+(   2. Midpoint Calculation:) Tj
+T*
+(   mid = low + \(high - low\) // 2 prevents integer overflow in fixed-width arithmetic languages and) Tj
+T*
+(   ensures proper integer truncation.) Tj
+T*
+() Tj
+T*
+(   3. Python Implementation:) Tj
+T*
+(   def binary_search_recursive\(arr: list, target: int, low=0, high=None\) -> int:) Tj
+T*
+(   if high is None:) Tj
+T*
+(   high = len\(arr\) - 1) Tj
+T*
+() Tj
+T*
+(   # Base Case: Search boundary exhausted) Tj
+T*
+(   if low > high:) Tj
+T*
+(   return -1) Tj
+T*
+() Tj
+T*
+(   mid = low + \(high - low\) // 2) Tj
+T*
+() Tj
+T*
+(   # Base Case: Target found) Tj
+T*
+(   if arr[mid] == target:) Tj
+T*
+(   return mid) Tj
+T*
+(   # Recursive Step 1: Search right half) Tj
+T*
+(   elif arr[mid] < target:) Tj
+T*
+(   return binary_search_recursive\(arr, target, mid + 1, high\)) Tj
+T*
+(   # Recursive Step 2: Search left half) Tj
+T*
+(   else:) Tj
+T*
+(   return binary_search_recursive\(arr, target, low, mid - 1\)) Tj
+T*
+() Tj
+T*
+(   # Verification) Tj
+T*
+(   sorted_data = [5, 12, 19, 27, 34, 45, 56, 68, 79, 91]) Tj
+T*
+(   target1 = 45) Tj
+T*
+ET
+
+endstream
+endobj
+45 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 46 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+46 0 obj
+<< /Length 2953 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 4: FUNCTIONS AND RECURSION) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 22 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   target2 = 99) Tj
+T*
+() Tj
+T*
+(   idx1 = binary_search_recursive\(sorted_data, target1\)) Tj
+T*
+(   idx2 = binary_search_recursive\(sorted_data, target2\)) Tj
+T*
+() Tj
+T*
+(   print\(f"Dataset: {sorted_data}"\)) Tj
+T*
+(   print\(f"Search for {target1} -> Index: {idx1} \(Value: {sorted_data[idx1]}\)"\)) Tj
+T*
+(   print\(f"Search for {target2} -> Index: {idx2} \(Not Found\)"\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(log2 N\) logarithmic time \(array halved at each step\).) Tj
+T*
+(   - Space Complexity: O\(log2 N\) call stack frames \(versus O\(1\) for iterative binary search\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 11:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Memoization and Dynamic Programming. Implement the Fibonacci sequence and compare naive recursive O\(2^N\), manual memoization O\(N\), and @lru_cache.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. The Problem of Redundant Subproblems:) Tj
+T*
+(   The naive recursive Fibonacci algorithm:) Tj
+T*
+(   def fib\(n\): return fib\(n-1\) + fib\(n-2\)) Tj
+T*
+(   exhibits severe overlapping subproblems. Computing fib\(5\) computes fib\(3\) twice, fib\(2\) three) Tj
+T*
+(   times, and fib\(1\) five times!) Tj
+T*
+(   Total calls branch exponentially: O\(2^N\). Computing fib\(40\) requires over 2 billion recursive) Tj
+T*
+(   calls!) Tj
+T*
+() Tj
+T*
+(   2. Memoization \(Top-Down Dynamic Programming\):) Tj
+T*
+(   Memoization is an optimization technique that caches the return values of expensive pure) Tj
+T*
+(   function calls keyed on input arguments. When called with the same arguments again, the) Tj
+T*
+(   function returns the cached result in O\(1\) time.) Tj
+T*
+() Tj
+T*
+(   3. Python Code Demonstration:) Tj
+T*
+(   import time) Tj
+T*
+(   from functools import lru_cache) Tj
+T*
+() Tj
+T*
+(   # 1. Manual Memoization using Dictionary Cache) Tj
+T*
+(   def fib_manual_memo\(n: int, memo=None\) -> int:) Tj
+T*
+(   if memo is None:) Tj
+T*
+(   memo = {0: 0, 1: 1}) Tj
+T*
+(   if n not in memo:) Tj
+T*
+(   memo[n] = fib_manual_memo\(n - 1, memo\) + fib_manual_memo\(n - 2, memo\)) Tj
+T*
+(   return memo[n]) Tj
+T*
+() Tj
+T*
+(   # 2. Automated Memoization using @lru_cache) Tj
+T*
+(   @lru_cache\(maxsize=None\)) Tj
+T*
+(   def fib_lru_cached\(n: int\) -> int:) Tj
+T*
+(   if n <= 1:) Tj
+T*
+(   return n) Tj
+T*
+(   return fib_lru_cached\(n - 1\) + fib_lru_cached\(n - 2\)) Tj
+T*
+() Tj
+T*
+(   # Benchmark Comparison) Tj
+T*
+(   n_target = 35) Tj
+T*
+() Tj
+T*
+(   # Manual Memoization Benchmark) Tj
+T*
+ET
+
+endstream
+endobj
+47 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 48 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+48 0 obj
+<< /Length 2787 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 4: FUNCTIONS AND RECURSION) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 23 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   start_t = time.perf_counter\(\)) Tj
+T*
+(   ans_manual = fib_manual_memo\(n_target\)) Tj
+T*
+(   time_manual = \(time.perf_counter\(\) - start_t\) * 1000) Tj
+T*
+() Tj
+T*
+(   # LRU Cache Benchmark) Tj
+T*
+(   start_t = time.perf_counter\(\)) Tj
+T*
+(   ans_lru = fib_lru_cached\(n_target\)) Tj
+T*
+(   time_lru = \(time.perf_counter\(\) - start_t\) * 1000) Tj
+T*
+() Tj
+T*
+(   print\(f"Fibonacci\({n_target}\) = {ans_manual}"\)) Tj
+T*
+(   print\(f"Manual Memoization Time: {time_manual:.4f} ms"\)) Tj
+T*
+(   print\(f"functools.lru_cache Time: {time_lru:.4f} ms"\)) Tj
+T*
+(   print\(f"Cache Statistics: {fib_lru_cached.cache_info\(\)}"\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+(   - Naive Time Complexity: O\(2^N\) exponential.) Tj
+T*
+(   - Memoized Time Complexity: O\(N\) linear time \(each state computed exactly once\).) Tj
+T*
+(   - Space Complexity: O\(N\) memory for cache table and stack depth.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 12:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement Binary Exponentiation \(Fast Power Algorithm\) in Python using both recursive divide-and-conquer and iterative bit manipulation.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Theoretical Principles of Binary Exponentiation:) Tj
+T*
+(   Computing x^n naively via repeated multiplication requires O\(n\) multiplications. For n =) Tj
+T*
+(   1,000,000,000, this is computationally prohibitive.) Tj
+T*
+(   Binary Exponentiation \(Exponentiation by Squaring\) reduces this to O\(log2 n\):) Tj
+T*
+(   Recurrence Relation:) Tj
+T*
+(   - If n == 0: x^0 = 1) Tj
+T*
+(   - If n is even: x^n = \(x^\(n/2\)\)^2) Tj
+T*
+(   - If n is odd: x^n = x * \(x^\(\(n-1\)/2\)\)^2) Tj
+T*
+(   - If n < 0: x^n = \(1 / x\)^\(-n\)) Tj
+T*
+() Tj
+T*
+(   2. Python Implementation:) Tj
+T*
+(   class FastPower:) Tj
+T*
+(   @staticmethod) Tj
+T*
+(   def recursive_pow\(x: float, n: int\) -> float:) Tj
+T*
+(   if n == 0:) Tj
+T*
+(   return 1.0) Tj
+T*
+(   if n < 0:) Tj
+T*
+(   return 1.0 / FastPower.recursive_pow\(x, -n\)) Tj
+T*
+() Tj
+T*
+(   # Recursive divide and conquer) Tj
+T*
+(   half = FastPower.recursive_pow\(x, n // 2\)) Tj
+T*
+() Tj
+T*
+(   if n % 2 == 0:) Tj
+T*
+(   return half * half) Tj
+T*
+(   else:) Tj
+T*
+(   return x * half * half) Tj
+T*
+() Tj
+T*
+(   @staticmethod) Tj
+T*
+(   def iterative_bit_pow\(x: float, n: int\) -> float:) Tj
+T*
+(   if n < 0:) Tj
+T*
+ET
+
+endstream
+endobj
+49 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 50 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+50 0 obj
+<< /Length 2812 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 4: FUNCTIONS AND RECURSION) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 24 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   x = 1.0 / x) Tj
+T*
+(   n = -n) Tj
+T*
+() Tj
+T*
+(   result = 1.0) Tj
+T*
+(   current_base = x) Tj
+T*
+() Tj
+T*
+(   while n > 0:) Tj
+T*
+(   # If current least significant bit is 1) Tj
+T*
+(   if n & 1:) Tj
+T*
+(   result *= current_base) Tj
+T*
+(   current_base *= current_base # Square base) Tj
+T*
+(   n >>= 1 # Shift bits right) Tj
+T*
+() Tj
+T*
+(   return result) Tj
+T*
+() Tj
+T*
+(   # Verification) Tj
+T*
+(   base = 2.0) Tj
+T*
+(   exponent = 20) Tj
+T*
+() Tj
+T*
+(   res_rec = FastPower.recursive_pow\(base, exponent\)) Tj
+T*
+(   res_iter = FastPower.iterative_bit_pow\(base, exponent\)) Tj
+T*
+(   expected = 2 ** 20) Tj
+T*
+() Tj
+T*
+(   print\(f"{base}^{exponent} via Recursive: {res_rec}"\)) Tj
+T*
+(   print\(f"{base}^{exponent} via Iterative: {res_iter} \(Matches 2^20: {res_iter == expected}\)"\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(log2 N\) multiplications \(only ~20 multiplications for n = 1,000,000\).) Tj
+T*
+(   - Recursive Space: O\(log2 N\) stack frames.) Tj
+T*
+(   - Iterative Space: O\(1\) strictly constant space.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 13:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement a Recursive Merge Sort algorithm in Python. Analyze divide-and-conquer splitting, merging, stability, and O\(N log N\) asymptotic complexity.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Theoretical Principles of Merge Sort:) Tj
+T*
+(   Merge Sort is a quintessential divide-and-conquer comparison sorting algorithm:) Tj
+T*
+(   1. Divide: If the list has > 1 element, split the array into two equal halves at mid = len\(arr\)) Tj
+T*
+(   // 2.) Tj
+T*
+(   2. Conquer: Recursively sort the left half and right half.) Tj
+T*
+(   3. Combine \(Merge\): Merge the two sorted subarrays into a single sorted array by comparing) Tj
+T*
+(   elements in two-pointer lockstep.) Tj
+T*
+() Tj
+T*
+(   2. Stability and Guarantees:) Tj
+T*
+(   - Stable: Preserves the relative order of duplicate elements \(using <= during comparison\).) Tj
+T*
+(   - Deterministic: Always runs in O\(N log N\) time regardless of initial data distribution \(best,) Tj
+T*
+(   average, and worst cases are all O\(N log N\)\).) Tj
+T*
+() Tj
+T*
+(   3. Python Implementation:) Tj
+T*
+(   def merge_sort\(arr: list\) -> list:) Tj
+T*
+(   # Base Case: 0 or 1 element is inherently sorted) Tj
+T*
+(   if len\(arr\) <= 1:) Tj
+T*
+(   return arr) Tj
+T*
+ET
+
+endstream
+endobj
+51 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 52 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+52 0 obj
+<< /Length 2668 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 4: FUNCTIONS AND RECURSION) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 25 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   mid = len\(arr\) // 2) Tj
+T*
+(   # Divide) Tj
+T*
+(   left_sorted = merge_sort\(arr[:mid]\)) Tj
+T*
+(   right_sorted = merge_sort\(arr[mid:]\)) Tj
+T*
+() Tj
+T*
+(   # Combine / Merge) Tj
+T*
+(   merged = []) Tj
+T*
+(   i = j = 0) Tj
+T*
+() Tj
+T*
+(   while i < len\(left_sorted\) and j < len\(right_sorted\):) Tj
+T*
+(   if left_sorted[i] <= right_sorted[j]:) Tj
+T*
+(   merged.append\(left_sorted[i]\)) Tj
+T*
+(   i += 1) Tj
+T*
+(   else:) Tj
+T*
+(   merged.append\(right_sorted[j]\)) Tj
+T*
+(   j += 1) Tj
+T*
+() Tj
+T*
+(   # Append any remaining elements) Tj
+T*
+(   merged.extend\(left_sorted[i:]\)) Tj
+T*
+(   merged.extend\(right_sorted[j:]\)) Tj
+T*
+(   return merged) Tj
+T*
+() Tj
+T*
+(   # Verification) Tj
+T*
+(   sample = [38, 27, 43, 3, 9, 82, 10]) Tj
+T*
+(   sorted_sample = merge_sort\(sample\)) Tj
+T*
+(   print\(f"Unsorted List: {sample}"\)) Tj
+T*
+(   print\(f"Sorted List: {sorted_sample}"\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: Recurrence T\(N\) = 2*T\(N/2\) + O\(N\) -> O\(N log2 N\) by Master Theorem.) Tj
+T*
+(   - Auxiliary Space Complexity: O\(N\) memory to create merged subarrays.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 14:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement a Recursive QuickSort algorithm in Python with Hoare/Lomuto partitioning. Compare worst-case O\(N^2\) vs average-case O\(N log N\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Theoretical Basis of QuickSort:) Tj
+T*
+(   QuickSort is an in-place divide-and-conquer sorting algorithm:) Tj
+T*
+(   1. Choose a Pivot element from the array.) Tj
+T*
+(   2. Partition the array into three partitions: elements < pivot, elements == pivot, and elements) Tj
+T*
+(   > pivot.) Tj
+T*
+(   3. Recursively sort the sub-arrays.) Tj
+T*
+() Tj
+T*
+(   2. Performance Trade-Off:) Tj
+T*
+(   - Average Time: O\(N log2 N\) with small constant factors.) Tj
+T*
+(   - Worst Case: O\(N^2\) if the pivot is consistently chosen as the smallest or largest element on) Tj
+T*
+(   already sorted data.) Tj
+T*
+(   - Space Complexity: O\(log N\) stack frames with randomized pivot.) Tj
+T*
+() Tj
+T*
+(   3. Python Implementation:) Tj
+T*
+(   def quicksort_idiomatic\(arr: list\) -> list:) Tj
+T*
+(   if len\(arr\) <= 1:) Tj
+T*
+ET
+
+endstream
+endobj
+53 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 54 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+54 0 obj
+<< /Length 2857 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 4: FUNCTIONS AND RECURSION) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 26 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   return arr) Tj
+T*
+() Tj
+T*
+(   # Choose midpoint as pivot to avoid O\(N^2\) on sorted lists) Tj
+T*
+(   pivot = arr[len\(arr\) // 2]) Tj
+T*
+() Tj
+T*
+(   left = [x for x in arr if x < pivot]) Tj
+T*
+(   middle = [x for x in arr if x == pivot]) Tj
+T*
+(   right = [x for x in arr if x > pivot]) Tj
+T*
+() Tj
+T*
+(   return quicksort_idiomatic\(left\) + middle + quicksort_idiomatic\(right\)) Tj
+T*
+() Tj
+T*
+(   # Verification) Tj
+T*
+(   dataset = [33, 10, 55, 71, 29, 10, 14, 5, 88]) Tj
+T*
+(   sorted_data = quicksort_idiomatic\(dataset\)) Tj
+T*
+(   print\(f"Original: {dataset}"\)) Tj
+T*
+(   print\(f"Sorted: {sorted_data}"\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+(   - Average Time: O\(N log N\).) Tj
+T*
+(   - Worst Case Time: O\(N^2\).) Tj
+T*
+(   - Space Complexity: O\(N\) memory for comprehension partitions.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 15:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Custom Function Decorators in Python. Detail how @wraps preserves metadata, and implement execution timers and input validation decorators.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Theoretical Principles of Decorators:) Tj
+T*
+(   In Python, a Decorator is a higher-order function that takes another function as an argument,) Tj
+T*
+(   extends or alters its behavior without modifying its source code, and returns the modified) Tj
+T*
+(   function wrapper.) Tj
+T*
+(   The @syntax:) Tj
+T*
+(   @my_decorator) Tj
+T*
+(   def my_func\(\): ...) Tj
+T*
+(   is syntactic sugar for:) Tj
+T*
+(   my_func = my_decorator\(my_func\)) Tj
+T*
+() Tj
+T*
+(   2. Metadata Preservation with @functools.wraps:) Tj
+T*
+(   When a function is wrapped, the wrapper replaces the original function object. Introspection) Tj
+T*
+(   attributes like __name__, __doc__, and __annotations__ are overwritten by the wrapper's) Tj
+T*
+(   attributes.) Tj
+T*
+(   Applying @functools.wraps\(func\) onto the wrapper copies all original metadata back.) Tj
+T*
+() Tj
+T*
+(   3. Python Implementation \(Timer and Validator\):) Tj
+T*
+(   import time) Tj
+T*
+(   from functools import wraps) Tj
+T*
+() Tj
+T*
+(   def timing_decorator\(func\):) Tj
+T*
+(   """Measures and logs function execution time.""") Tj
+T*
+(   @wraps\(func\)) Tj
+T*
+(   def wrapper\(*args, **kwargs\):) Tj
+T*
+(   start_t = time.perf_counter\(\)) Tj
+T*
+(   result = func\(*args, **kwargs\)) Tj
+T*
+(   elapsed_ms = \(time.perf_counter\(\) - start_t\) * 1000) Tj
+T*
+ET
+
+endstream
+endobj
+55 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 56 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+56 0 obj
+<< /Length 2733 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 4: FUNCTIONS AND RECURSION) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 27 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   print\(f"[BENCHMARK] '{func.__name__}' executed in {elapsed_ms:.4f} ms"\)) Tj
+T*
+(   return result) Tj
+T*
+(   return wrapper) Tj
+T*
+() Tj
+T*
+(   def positive_args_only\(func\):) Tj
+T*
+(   """Validates that all numeric arguments are positive.""") Tj
+T*
+(   @wraps\(func\)) Tj
+T*
+(   def wrapper\(*args, **kwargs\):) Tj
+T*
+(   for arg in args:) Tj
+T*
+(   if isinstance\(arg, \(int, float\)\) and arg < 0:) Tj
+T*
+(   raise ValueError\(f"Invalid Argument: Negative value {arg} rejected."\)) Tj
+T*
+(   return func\(*args, **kwargs\)) Tj
+T*
+(   return wrapper) Tj
+T*
+() Tj
+T*
+(   @timing_decorator) Tj
+T*
+(   @positive_args_only) Tj
+T*
+(   def compute_sum_of_squares\(n: int\) -> int:) Tj
+T*
+(   """Compute sum of squares up to n.""") Tj
+T*
+(   return sum\(x ** 2 for x in range\(n + 1\)\)) Tj
+T*
+() Tj
+T*
+(   # Execution) Tj
+T*
+(   res = compute_sum_of_squares\(50_000\)) Tj
+T*
+(   print\(f"Result: {res} | Function Name Preserved: {compute_sum_of_squares.__name__}"\)) Tj
+T*
+() Tj
+T*
+(   # Validation Failure Test) Tj
+T*
+(   try:) Tj
+T*
+(   compute_sum_of_squares\(-10\)) Tj
+T*
+(   except ValueError as err:) Tj
+T*
+(   print\(f"Validation Error Caught: {err}"\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+(   - Decorator Overhead: O\(1\) single wrapper redirection per call.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 16:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement a Recursive Filesystem Directory Tree Walker in Python using os and recursion, calculating total disk usage and printing structured indentation.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Context:) Tj
+T*
+(   Develop a recursive utility that traverses an arbitrary directory hierarchy starting at a root) Tj
+T*
+(   path. The program calculates cumulative storage consumed by all files and subdirectories while) Tj
+T*
+(   printing an indented tree view.) Tj
+T*
+() Tj
+T*
+(   2. Python Implementation:) Tj
+T*
+(   import os) Tj
+T*
+() Tj
+T*
+(   def walk_directory_tree\(path: str, depth=0\) -> tuple:) Tj
+T*
+(   """Recursively traverse directories, print tree, and sum file sizes.""") Tj
+T*
+(   indent = " " * depth) Tj
+T*
+(   folder_name = os.path.basename\(path\) or path) Tj
+T*
+(   print\(f"{indent}[DIR] {folder_name}/"\)) Tj
+T*
+() Tj
+T*
+(   total_size = 0) Tj
+T*
+(   file_count = 0) Tj
+T*
+ET
+
+endstream
+endobj
+57 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 58 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+58 0 obj
+<< /Length 2790 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 4: FUNCTIONS AND RECURSION) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 28 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   dir_count = 1 # Count current directory) Tj
+T*
+() Tj
+T*
+(   try:) Tj
+T*
+(   entries = os.listdir\(path\)) Tj
+T*
+(   except PermissionError:) Tj
+T*
+(   print\(f"{indent} [ACCESS DENIED]"\)) Tj
+T*
+(   return 0, 0, 0) Tj
+T*
+() Tj
+T*
+(   for entry in sorted\(entries\):) Tj
+T*
+(   full_path = os.path.join\(path, entry\)) Tj
+T*
+() Tj
+T*
+(   if os.path.isdir\(full_path\):) Tj
+T*
+(   sub_size, sub_files, sub_dirs = walk_directory_tree\(full_path, depth + 1\)) Tj
+T*
+(   total_size += sub_size) Tj
+T*
+(   file_count += sub_files) Tj
+T*
+(   dir_count += sub_dirs) Tj
+T*
+(   else:) Tj
+T*
+(   try:) Tj
+T*
+(   sz = os.path.getsize\(full_path\)) Tj
+T*
+(   except OSError:) Tj
+T*
+(   sz = 0) Tj
+T*
+(   total_size += sz) Tj
+T*
+(   file_count += 1) Tj
+T*
+(   print\(f"{indent} - {entry} \({sz:,} bytes\)"\)) Tj
+T*
+() Tj
+T*
+(   return total_size, file_count, dir_count) Tj
+T*
+() Tj
+T*
+(   # Simulation on a safe system path) Tj
+T*
+(   sample_target = "C:/FINAL PrOJECT/cse unit folder/python/u1") Tj
+T*
+(   if os.path.exists\(sample_target\):) Tj
+T*
+(   total_bytes, total_files, total_dirs = walk_directory_tree\(sample_target\)) Tj
+T*
+(   print\("=" * 60\)) Tj
+T*
+(   print\(f"Summary: {total_dirs} Dirs, {total_files} Files, Total Size: {total_bytes / 1024:.2f}) Tj
+T*
+(   KB"\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(Total Inodes / Files\) visiting each filesystem entry once.) Tj
+T*
+(   - Space Complexity: O\(Depth\) directory tree recursion stack.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 17:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement a Recursive Backtracking Maze Solver in Python using 2D grids, finding a path from start \(0,0\) to exit \(M-1, N-1\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Theoretical Formulation of Maze Solving via Backtracking:) Tj
+T*
+(   Given an M x N grid where:) Tj
+T*
+(   0 = Open Path, 1 = Wall / Obstacle.) Tj
+T*
+(   Objective: Find a path from \(0, 0\) to \(M - 1, N - 1\) moving only Up, Down, Left, Right.) Tj
+T*
+(   Backtracking Strategy:) Tj
+T*
+(   1. Base Cases:) Tj
+T*
+(   - Success: \(r, c\) == \(M - 1, N - 1\) -> Target reached!) Tj
+T*
+(   - Invalid: \(r, c\) out of bounds, cell is a wall \(1\), or cell already visited \(2\).) Tj
+T*
+(   2. Mark cell as visited: maze[r][c] = 2.) Tj
+T*
+(   3. Explore 4 cardinal directions recursively:) Tj
+T*
+ET
+
+endstream
+endobj
+59 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 60 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+60 0 obj
+<< /Length 2109 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 4: FUNCTIONS AND RECURSION) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 29 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   If any direction leads to target -> Return True.) Tj
+T*
+(   4. If all directions fail: Unmark cell \(backtrack\) and return False.) Tj
+T*
+() Tj
+T*
+(   2. Python Implementation:) Tj
+T*
+(   class MazeSolver:) Tj
+T*
+(   @staticmethod) Tj
+T*
+(   def solve\(maze\):) Tj
+T*
+(   rows = len\(maze\)) Tj
+T*
+(   cols = len\(maze[0]\)) Tj
+T*
+(   path = []) Tj
+T*
+() Tj
+T*
+(   def backtrack\(r, c\):) Tj
+T*
+(   if not \(0 <= r < rows and 0 <= c < cols\):) Tj
+T*
+(   return False) Tj
+T*
+(   if maze[r][c] != 0:) Tj
+T*
+(   return False # Wall or already visited) Tj
+T*
+() Tj
+T*
+(   maze[r][c] = 2 # Mark cell as part of solution path) Tj
+T*
+(   path.append\(\(r, c\)\)) Tj
+T*
+() Tj
+T*
+(   # Target reached) Tj
+T*
+(   if r == rows - 1 and c == cols - 1:) Tj
+T*
+(   return True) Tj
+T*
+() Tj
+T*
+(   # Explore Down, Right, Up, Left) Tj
+T*
+(   if \(backtrack\(r + 1, c\) or) Tj
+T*
+(   backtrack\(r, c + 1\) or) Tj
+T*
+(   backtrack\(r - 1, c\) or) Tj
+T*
+(   backtrack\(r, c - 1\)\):) Tj
+T*
+(   return True) Tj
+T*
+() Tj
+T*
+(   # Backtrack) Tj
+T*
+(   path.pop\(\)) Tj
+T*
+(   maze[r][c] = 3 # Mark as dead end) Tj
+T*
+(   return False) Tj
+T*
+() Tj
+T*
+(   success = backtrack\(0, 0\)) Tj
+T*
+(   return success, path) Tj
+T*
+() Tj
+T*
+(   # Verification) Tj
+T*
+(   test_maze = [) Tj
+T*
+(   [0, 1, 0, 0],) Tj
+T*
+(   [0, 0, 0, 1],) Tj
+T*
+(   [1, 0, 1, 0],) Tj
+T*
+(   [0, 0, 0, 0]) Tj
+T*
+(   ]) Tj
+T*
+() Tj
+T*
+(   solved, solution_path = MazeSolver.solve\(test_maze\)) Tj
+T*
+(   print\(f"Maze Solvable? {solved}"\)) Tj
+T*
+(   print\(f"Path Coordinates \({len\(solution_path\)} steps\): {solution_path}"\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(4^\(M*N\)\) worst case; bounded by O\(M * N\) with visited memoization.) Tj
+T*
+(   - Space Complexity: O\(M * N\) call stack and path buffer.) Tj
+T*
+ET
+
+endstream
+endobj
+61 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 62 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+62 0 obj
+<< /Length 2988 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 4: FUNCTIONS AND RECURSION) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 30 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 18:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Function Annotations and Type Hints \(PEP 484\) in Python. Contrast dynamic typing with static type checking using mypy.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Type Hints and PEP 484 Specification:) Tj
+T*
+(   Introduced in Python 3.5, Type Annotations provide a standardized syntax for specifying the) Tj
+T*
+(   expected types of function parameters and return values:) Tj
+T*
+(   def process\(data: list[int], threshold: float = 0.5\) -> dict[str, bool]:) Tj
+T*
+(   Key Properties:) Tj
+T*
+(   - Pure Metadata: Type hints are completely ignored by the Python runtime. Python remains a) Tj
+T*
+(   dynamically-typed language; passing a float into an int parameter does NOT raise an error at) Tj
+T*
+(   runtime.) Tj
+T*
+(   - Stored in __annotations__: Annotations are compiled into a dictionary accessible at runtime) Tj
+T*
+(   via func.__annotations__.) Tj
+T*
+() Tj
+T*
+(   2. Static Analysis via Mypy:) Tj
+T*
+(   External static analysis tools like mypy inspect type annotations before execution, catching) Tj
+T*
+(   bugs, type mismatches, and None dereferencing errors during CI/CD build pipelines without) Tj
+T*
+(   incurring runtime performance penalties.) Tj
+T*
+() Tj
+T*
+(   3. Python Code Demonstration:) Tj
+T*
+(   from typing import Union, Optional) Tj
+T*
+() Tj
+T*
+(   def compute_risk_score\() Tj
+T*
+(   client_id: str,) Tj
+T*
+(   annual_income: float,) Tj
+T*
+(   credit_score: int,) Tj
+T*
+(   flags: Optional[list[str]] = None) Tj
+T*
+(   \) -> dict[str, Union[float, str]]:) Tj
+T*
+(   """Type-annotated enterprise risk scoring function.""") Tj
+T*
+(   if flags is None:) Tj
+T*
+(   flags = []) Tj
+T*
+() Tj
+T*
+(   score = \(annual_income / 100_000.0\) * 0.4 + \(credit_score / 850.0\) * 0.6) Tj
+T*
+(   category = "LOW" if score > 0.7 else "MEDIUM" if score > 0.4 else "HIGH") Tj
+T*
+() Tj
+T*
+(   return {) Tj
+T*
+(   "ClientID": client_id,) Tj
+T*
+(   "Score": round\(score, 4\),) Tj
+T*
+(   "Category": category) Tj
+T*
+(   }) Tj
+T*
+() Tj
+T*
+(   # Inspect annotations at runtime) Tj
+T*
+(   print\("Function __annotations__ Metadata:"\)) Tj
+T*
+(   for param, p_type in compute_risk_score.__annotations__.items\(\):) Tj
+T*
+(   print\(f" {param:<15} -> {p_type}"\)) Tj
+T*
+() Tj
+T*
+(   result = compute_risk_score\("CL-901", 120_000.0, 750\)) Tj
+T*
+(   print\(f"Computed Result: {result}"\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+(   - Runtime Overhead: O\(1\) dictionary compilation at function creation; zero call overhead.) Tj
+T*
+ET
+
+endstream
+endobj
+63 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 64 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+64 0 obj
+<< /Length 2475 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 4: FUNCTIONS AND RECURSION) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 31 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 19:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement the N-Queens Puzzle in Python using recursive backtracking. Find all valid non-attacking queen configurations on an N x N chessboard.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Context:) Tj
+T*
+(   Place N non-attacking queens on an N x N chessboard such that no two queens share the same row,) Tj
+T*
+(   column, or diagonal.) Tj
+T*
+() Tj
+T*
+(   2. Backtracking Formulation:) Tj
+T*
+(   Place queens column by column:) Tj
+T*
+(   1. Base Case: If current column == N -> All N queens placed successfully! Record solution.) Tj
+T*
+(   2. For each row r in current column c:) Tj
+T*
+(   Check if position \(r, c\) is safe:) Tj
+T*
+(   - Row r not already occupied.) Tj
+T*
+(   - Main diagonal \(r - c\) not occupied.) Tj
+T*
+(   - Anti-diagonal \(r + c\) not occupied.) Tj
+T*
+(   3. If safe: Place queen, mark sets, and recurse for column c + 1.) Tj
+T*
+(   4. Backtrack: Remove queen and unmark sets.) Tj
+T*
+() Tj
+T*
+(   3. Python Implementation:) Tj
+T*
+(   class NQueensSolver:) Tj
+T*
+(   def __init__\(self, n: int\):) Tj
+T*
+(   self.n = n) Tj
+T*
+(   self.solutions = []) Tj
+T*
+(   self._solve\(\)) Tj
+T*
+() Tj
+T*
+(   def _solve\(self\):) Tj
+T*
+(   cols = set\(\)) Tj
+T*
+(   pos_diag = set\(\) # \(r + c\)) Tj
+T*
+(   neg_diag = set\(\) # \(r - c\)) Tj
+T*
+(   board = [["." for _ in range\(self.n\)] for _ in range\(self.n\)]) Tj
+T*
+() Tj
+T*
+(   def backtrack\(c\):) Tj
+T*
+(   if c == self.n:) Tj
+T*
+(   self.solutions.append\(["".join\(row\) for row in board]\)) Tj
+T*
+(   return) Tj
+T*
+() Tj
+T*
+(   for r in range\(self.n\):) Tj
+T*
+(   if \(r in cols\) or \(\(r + c\) in pos_diag\) or \(\(r - c\) in neg_diag\):) Tj
+T*
+(   continue) Tj
+T*
+() Tj
+T*
+(   # Place queen) Tj
+T*
+(   cols.add\(r\)) Tj
+T*
+(   pos_diag.add\(r + c\)) Tj
+T*
+(   neg_diag.add\(r - c\)) Tj
+T*
+(   board[r][c] = "Q") Tj
+T*
+() Tj
+T*
+(   backtrack\(c + 1\)) Tj
+T*
+() Tj
+T*
+(   # Backtrack) Tj
+T*
+(   cols.remove\(r\)) Tj
+T*
+(   pos_diag.remove\(r + c\)) Tj
+T*
+ET
+
+endstream
+endobj
+65 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 66 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+66 0 obj
+<< /Length 3087 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 4: FUNCTIONS AND RECURSION) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 32 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   neg_diag.remove\(r - c\)) Tj
+T*
+(   board[r][c] = ".") Tj
+T*
+() Tj
+T*
+(   backtrack\(0\)) Tj
+T*
+() Tj
+T*
+(   # Verification for N = 4 Queens \(2 distinct solutions exist\)) Tj
+T*
+(   solver_4 = NQueensSolver\(4\)) Tj
+T*
+(   print\(f"Total Unique Solutions for N=4 Queens: {len\(solver_4.solutions\)}"\)) Tj
+T*
+(   for idx, sol in enumerate\(solver_4.solutions, start=1\):) Tj
+T*
+(   print\(f"--- Solution #{idx} ---"\)) Tj
+T*
+(   for row in sol:) Tj
+T*
+(   print\(" ", row\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(N!\) factorial search space bounded by pruning.) Tj
+T*
+(   - Space Complexity: O\(N\) call stack and board state.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 20:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Generator Functions and the yield Keyword. Contrast generators with standard return functions in memory usage and streaming pipelines.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Theoretical Foundations of Generators \(PEP 255\):) Tj
+T*
+(   A standard Python function executes from top to bottom, returns a single value via return, and) Tj
+T*
+(   destroys its stack frame and local variables.) Tj
+T*
+(   A Generator Function is defined using the standard def syntax, but contains one or more yield) Tj
+T*
+(   expressions:) Tj
+T*
+(   - When invoked, it does NOT execute the code; it returns a generator iterator object.) Tj
+T*
+(   - When next\(gen\) is called, execution advances until a yield expression is reached.) Tj
+T*
+(   - The yielded value is returned to the caller, and the function's entire execution context) Tj
+T*
+(   \(instruction pointer, local variables, evaluation stack\) is frozen in place!) Tj
+T*
+(   - Subsequent calls to next\(gen\) resume execution immediately after the yield statement.) Tj
+T*
+() Tj
+T*
+(   2. Memory Efficiency: Lazy Evaluation:) Tj
+T*
+(   Generating 100,000,000 numbers in a list requires gigabytes of RAM. A generator produces values) Tj
+T*
+(   lazily on-demand in O\(1\) constant memory.) Tj
+T*
+() Tj
+T*
+(   3. Python Code Demonstration:) Tj
+T*
+(   import sys) Tj
+T*
+() Tj
+T*
+(   def fibonacci_infinite_stream\(\):) Tj
+T*
+(   """Infinite generator stream of Fibonacci numbers.""") Tj
+T*
+(   a, b = 0, 1) Tj
+T*
+(   while True:) Tj
+T*
+(   yield a) Tj
+T*
+(   a, b = b, a + b) Tj
+T*
+() Tj
+T*
+(   # Streaming pipeline) Tj
+T*
+(   fib_gen = fibonacci_infinite_stream\(\)) Tj
+T*
+(   print\(f"Memory Size of Generator Object: {sys.getsizeof\(fib_gen\)} bytes \(O\(1\) Memory!\)"\)) Tj
+T*
+() Tj
+T*
+(   first_8 = [next\(fib_gen\) for _ in range\(8\)]) Tj
+T*
+(   print\(f"First 8 Fibonacci Stream Elements: {first_8}"\)) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+67 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 68 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+68 0 obj
+<< /Length 2694 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 4: FUNCTIONS AND RECURSION) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 33 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   # Data Pipeline Chaining) Tj
+T*
+(   def evens_filter\(stream\):) Tj
+T*
+(   for val in stream:) Tj
+T*
+(   if val % 2 == 0:) Tj
+T*
+(   yield val) Tj
+T*
+() Tj
+T*
+(   even_fibs = [next\(evens_filter\(fib_gen\)\) for _ in range\(4\)]) Tj
+T*
+(   print\(f"Next 4 Even Fibonacci numbers: {even_fibs}"\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(1\) per yielded element.) Tj
+T*
+(   - Space Complexity: O\(1\) strictly constant memory frame.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 21:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement a Recursive Flattening algorithm for arbitrarily nested lists of irregular depths in Python with type checking.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Context:) Tj
+T*
+(   Given a nested list of heterogeneous elements and irregular nesting depths \(e.g., [1, [2, [3,) Tj
+T*
+(   [4, 5]], 6], 7]\), flatten it into a single one-dimensional list [1, 2, 3, 4, 5, 6, 7].) Tj
+T*
+() Tj
+T*
+(   2. Recursive Strategy:) Tj
+T*
+(   Traverse each item in the list:) Tj
+T*
+(   - If item is a list or tuple \(compound collection\): Recursively call flatten\(item\) and extend) Tj
+T*
+(   the result.) Tj
+T*
+(   - Else: Append the scalar leaf element directly.) Tj
+T*
+() Tj
+T*
+(   3. Python Implementation:) Tj
+T*
+(   def flatten_nested_list\(nested_data: list\) -> list:) Tj
+T*
+(   flat = []) Tj
+T*
+(   for item in nested_data:) Tj
+T*
+(   if isinstance\(item, \(list, tuple\)\):) Tj
+T*
+(   # Recursive step) Tj
+T*
+(   flat.extend\(flatten_nested_list\(item\)\)) Tj
+T*
+(   else:) Tj
+T*
+(   # Base case: scalar element) Tj
+T*
+(   flat.append\(item\)) Tj
+T*
+(   return flat) Tj
+T*
+() Tj
+T*
+(   # Alternative: Generator implementation using 'yield from') Tj
+T*
+(   def flatten_generator\(nested_data\):) Tj
+T*
+(   for item in nested_data:) Tj
+T*
+(   if isinstance\(item, \(list, tuple\)\):) Tj
+T*
+(   yield from flatten_generator\(item\)) Tj
+T*
+(   else:) Tj
+T*
+(   yield item) Tj
+T*
+() Tj
+T*
+(   # Verification) Tj
+T*
+(   complex_nested = [1, [2, [3, 4], 5], [[6, 7], 8], 9]) Tj
+T*
+(   result_flat = flatten_nested_list\(complex_nested\)) Tj
+T*
+(   gen_flat = list\(flatten_generator\(complex_nested\)\)) Tj
+T*
+() Tj
+T*
+(   print\(f"Original Nested: {complex_nested}"\)) Tj
+T*
+ET
+
+endstream
+endobj
+69 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 70 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+70 0 obj
+<< /Length 2766 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 4: FUNCTIONS AND RECURSION) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 34 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   print\(f"Flattened List: {result_flat}"\)) Tj
+T*
+(   print\(f"Generator Match: {result_flat == gen_flat}"\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(N\) where N is total scalar leaf elements.) Tj
+T*
+(   - Space Complexity: O\(Depth\) recursion stack depth.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 22:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement a String Permutation and Combination generator in Python without external libraries using recursive backtracking and list swapping.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Theoretical Basis:) Tj
+T*
+(   Generating all permutations of a string of length N requires exploring N! unique arrangements.) Tj
+T*
+(   Backtracking Algorithm:) Tj
+T*
+(   Swap each character into the current position, recurse for the remainder of the string, and) Tj
+T*
+(   swap back to restore original state \(backtrack\).) Tj
+T*
+() Tj
+T*
+(   2. Python Implementation:) Tj
+T*
+(   def find_permutations\(text: str\) -> list:) Tj
+T*
+(   chars = list\(text\)) Tj
+T*
+(   n = len\(chars\)) Tj
+T*
+(   perms = []) Tj
+T*
+() Tj
+T*
+(   def backtrack\(start\):) Tj
+T*
+(   if start == n:) Tj
+T*
+(   perms.append\("".join\(chars\)\)) Tj
+T*
+(   return) Tj
+T*
+() Tj
+T*
+(   for i in range\(start, n\):) Tj
+T*
+(   # Swap) Tj
+T*
+(   chars[start], chars[i] = chars[i], chars[start]) Tj
+T*
+(   # Recurse) Tj
+T*
+(   backtrack\(start + 1\)) Tj
+T*
+(   # Backtrack) Tj
+T*
+(   chars[start], chars[i] = chars[i], chars[start]) Tj
+T*
+() Tj
+T*
+(   backtrack\(0\)) Tj
+T*
+(   return perms) Tj
+T*
+() Tj
+T*
+(   # Verification) Tj
+T*
+(   sample = "CAT") Tj
+T*
+(   all_perms = find_permutations\(sample\)) Tj
+T*
+(   print\(f"All Permutations of '{sample}' \(Total: {len\(all_perms\)}\): {all_perms}"\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(N * N!\) operations.) Tj
+T*
+(   - Space Complexity: O\(N\) call stack frames.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 23:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement a Recursive Palindrome Partitioning program in Python that decomposes a string into all possible palindromic substring sequences.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+ET
+
+endstream
+endobj
+71 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 72 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+72 0 obj
+<< /Length 2678 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 4: FUNCTIONS AND RECURSION) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 35 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   1. Problem Context:) Tj
+T*
+(   Given a string s = 'aab', partition s such that every substring of the partition is a) Tj
+T*
+(   palindrome. Return all possible palindrome partitioning configurations \(e.g., [['a', 'a', 'b'],) Tj
+T*
+(   ['aa', 'b']]\).) Tj
+T*
+() Tj
+T*
+(   2. Backtracking Strategy:) Tj
+T*
+(   1. Base Case: If start index reaches len\(s\), add current partition snapshot to results.) Tj
+T*
+(   2. For end in range\(start, len\(s\)\):) Tj
+T*
+(   Extract substring = s[start : end + 1].) Tj
+T*
+(   If substring is a palindrome \(substring == substring[::-1]\):) Tj
+T*
+(   - Append to current partition.) Tj
+T*
+(   - Recurse for end + 1.) Tj
+T*
+(   - Pop substring to backtrack.) Tj
+T*
+() Tj
+T*
+(   3. Python Implementation:) Tj
+T*
+(   def partition_palindromes\(s: str\) -> list:) Tj
+T*
+(   results = []) Tj
+T*
+(   current_path = []) Tj
+T*
+() Tj
+T*
+(   def is_palindrome\(sub: str\) -> bool:) Tj
+T*
+(   return sub == sub[::-1]) Tj
+T*
+() Tj
+T*
+(   def backtrack\(start: int\):) Tj
+T*
+(   if start == len\(s\):) Tj
+T*
+(   results.append\(list\(current_path\)\)) Tj
+T*
+(   return) Tj
+T*
+() Tj
+T*
+(   for end in range\(start, len\(s\)\):) Tj
+T*
+(   substring = s[start : end + 1]) Tj
+T*
+(   if is_palindrome\(substring\):) Tj
+T*
+(   current_path.append\(substring\)) Tj
+T*
+(   backtrack\(end + 1\)) Tj
+T*
+(   current_path.pop\(\) # Backtrack) Tj
+T*
+() Tj
+T*
+(   backtrack\(0\)) Tj
+T*
+(   return results) Tj
+T*
+() Tj
+T*
+(   # Verification) Tj
+T*
+(   target = "aab") Tj
+T*
+(   partitions = partition_palindromes\(target\)) Tj
+T*
+(   print\(f"Palindrome Partitions for '{target}': {partitions}"\)) Tj
+T*
+() Tj
+T*
+(   4. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(N * 2^N\) exponential combinations.) Tj
+T*
+(   - Space Complexity: O\(N\) recursive call stack.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 24:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement an Expression Evaluator for Infix Arithmetic \(+, -, *, /\) in Python using recursive descent parsing or two stacks.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Theoretical Formulation of Recursive Descent Parsing:) Tj
+T*
+(   Grammar rules honoring operator precedence \(PEMDAS\):) Tj
+T*
+(   - Expression: Term \(\( '+' | '-' \) Term\)*) Tj
+T*
+ET
+
+endstream
+endobj
+73 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 74 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+74 0 obj
+<< /Length 2477 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 4: FUNCTIONS AND RECURSION) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 36 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - Term: Factor \(\( '*' | '/' \) Factor\)*) Tj
+T*
+(   - Factor: Number | '\(' Expression '\)') Tj
+T*
+() Tj
+T*
+(   2. Python Implementation:) Tj
+T*
+(   class SimpleCalculatorParser:) Tj
+T*
+(   def __init__\(self, expression: str\):) Tj
+T*
+(   self.tokens = expression.replace\(" ", ""\)) Tj
+T*
+(   self.pos = 0) Tj
+T*
+() Tj
+T*
+(   def parse\(self\) -> float:) Tj
+T*
+(   return self._expr\(\)) Tj
+T*
+() Tj
+T*
+(   def _expr\(self\) -> float:) Tj
+T*
+(   val = self._term\(\)) Tj
+T*
+(   while self.pos < len\(self.tokens\) and self.tokens[self.pos] in \('+', '-'\):) Tj
+T*
+(   op = self.tokens[self.pos]) Tj
+T*
+(   self.pos += 1) Tj
+T*
+(   term_val = self._term\(\)) Tj
+T*
+(   val = val + term_val if op == '+' else val - term_val) Tj
+T*
+(   return val) Tj
+T*
+() Tj
+T*
+(   def _term\(self\) -> float:) Tj
+T*
+(   val = self._factor\(\)) Tj
+T*
+(   while self.pos < len\(self.tokens\) and self.tokens[self.pos] in \('*', '/'\):) Tj
+T*
+(   op = self.tokens[self.pos]) Tj
+T*
+(   self.pos += 1) Tj
+T*
+(   factor_val = self._factor\(\)) Tj
+T*
+(   val = val * factor_val if op == '*' else val / factor_val) Tj
+T*
+(   return val) Tj
+T*
+() Tj
+T*
+(   def _factor\(self\) -> float:) Tj
+T*
+(   if self.tokens[self.pos] == '\(':) Tj
+T*
+(   self.pos += 1 # Skip '\(') Tj
+T*
+(   val = self._expr\(\)) Tj
+T*
+(   self.pos += 1 # Skip '\)') Tj
+T*
+(   return val) Tj
+T*
+() Tj
+T*
+(   # Parse number) Tj
+T*
+(   start = self.pos) Tj
+T*
+(   while self.pos < len\(self.tokens\) and \(self.tokens[self.pos].isdigit\(\) or self.tokens[self.pos]) Tj
+T*
+(   == '.'\):) Tj
+T*
+(   self.pos += 1) Tj
+T*
+(   return float\(self.tokens[start:self.pos]\)) Tj
+T*
+() Tj
+T*
+(   # Verification) Tj
+T*
+(   calc = SimpleCalculatorParser\("3 + 5 * \(10 - 2\) / 4"\)) Tj
+T*
+(   calc_result = calc.parse\(\)) Tj
+T*
+(   print\(f"Parsed '3 + 5 * \(10 - 2\) / 4' = {calc_result} \(Expected: {3 + 5 * \(10 - 2\) / 4}\)"\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(N\) single linear pass over tokens.) Tj
+T*
+(   - Space Complexity: O\(Depth\) recursion stack for nested parentheses.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+ET
+
+endstream
+endobj
+75 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 76 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+76 0 obj
+<< /Length 3092 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 4: FUNCTIONS AND RECURSION) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 37 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 25:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Partial Function Application using functools.partial in Python. Contrast partial application with Currying with practical examples.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Concept of Partial Application \(functools.partial\):) Tj
+T*
+(   Partial application fixes a subset of a function's arguments, returning a new callable with a) Tj
+T*
+(   reduced arity:) Tj
+T*
+(   partial\(func, *fixed_args, **fixed_kwargs\)) Tj
+T*
+(   Currying decomposes a multi-argument function f\(a, b, c\) into a chain of single-argument) Tj
+T*
+(   functions: f\(a\)\(b\)\(c\).) Tj
+T*
+() Tj
+T*
+(   2. Python Code Demonstration:) Tj
+T*
+(   from functools import partial) Tj
+T*
+() Tj
+T*
+(   def power\(base: float, exponent: float\) -> float:) Tj
+T*
+(   return base ** exponent) Tj
+T*
+() Tj
+T*
+(   # Partial application: fix exponent=2 \(Square\) and exponent=3 \(Cube\)) Tj
+T*
+(   square = partial\(power, exponent=2\)) Tj
+T*
+(   cube = partial\(power, exponent=3\)) Tj
+T*
+() Tj
+T*
+(   print\(f"Square\(8\): {square\(8\)} | Cube\(5\): {cube\(5\)}"\)) Tj
+T*
+() Tj
+T*
+(   # Practical Enterprise Use Case: Pre-configured API Logger) Tj
+T*
+(   def log_message\(level: str, service: str, message: str\):) Tj
+T*
+(   print\(f"[{level:<7}] [{service:<10}] {message}"\)) Tj
+T*
+() Tj
+T*
+(   auth_logger = partial\(log_message, "AUTH_SVC"\)) Tj
+T*
+(   error_logger = partial\(log_message, "CRITICAL", "DATABASE"\)) Tj
+T*
+() Tj
+T*
+(   error_logger\("Connection pool exhausted on port 5432!"\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Call Overhead: O\(1\) argument merging in C wrapper.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 26:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement a Trampoline pattern in Python to eliminate recursion stack overflow for deep tail-recursive algorithms.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. The Problem of Stack Limits in Tail Recursion:) Tj
+T*
+(   Because Python does not support Tail Call Optimization, tail-recursive functions still consume) Tj
+T*
+(   O\(N\) stack frames.) Tj
+T*
+(   For N = 100,000, recursion limit is exceeded.) Tj
+T*
+(   A Trampoline is an iterative design pattern that repeatedly calls thunk-returning functions in) Tj
+T*
+(   a while loop, running unbounded recursion in O\(1\) stack memory!) Tj
+T*
+() Tj
+T*
+(   2. Python Implementation:) Tj
+T*
+(   class Trampoline:) Tj
+T*
+(   @staticmethod) Tj
+T*
+(   def call\(func, *args, **kwargs\):) Tj
+T*
+(   res = func\(*args, **kwargs\)) Tj
+T*
+(   while callable\(res\):) Tj
+T*
+(   res = res\(\)) Tj
+T*
+ET
+
+endstream
+endobj
+77 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 78 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+78 0 obj
+<< /Length 2980 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 4: FUNCTIONS AND RECURSION) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 38 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   return res) Tj
+T*
+() Tj
+T*
+(   def factorial_tail_thunk\(n: int, acc=1\):) Tj
+T*
+(   if n <= 1:) Tj
+T*
+(   return acc) Tj
+T*
+(   # Return a lambda thunk instead of recursing directly) Tj
+T*
+(   return lambda: factorial_tail_thunk\(n - 1, acc * n\)) Tj
+T*
+() Tj
+T*
+(   # Run via Trampoline) Tj
+T*
+(   big_n = 500) Tj
+T*
+(   result = Trampoline.call\(factorial_tail_thunk, big_n\)) Tj
+T*
+(   print\(f"Factorial\({big_n}\) computed with Trampoline without StackOverflow!"\)) Tj
+T*
+(   print\(f"Digits in {big_n}!: {len\(str\(result\)\)} digits"\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(N\) linear loop.) Tj
+T*
+(   - Stack Space: O\(1\) strictly constant stack depth!) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 27:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain Function Introspection using the inspect and typing modules in Python with parameter signature extraction.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Introspection Capabilities in Python:) Tj
+T*
+(   Python functions store rich structural metadata:) Tj
+T*
+(   - inspect.signature\(func\): Extracts parameter names, default values, kind, and return) Tj
+T*
+(   annotations.) Tj
+T*
+(   - inspect.getsource\(func\): Returns raw source code string.) Tj
+T*
+() Tj
+T*
+(   2. Python Code Demonstration:) Tj
+T*
+(   import inspect) Tj
+T*
+() Tj
+T*
+(   def enterprise_endpoint\(user_id: int, auth_token: str, retries: int = 3\) -> bool:) Tj
+T*
+(   """Process enterprise user authentication request.""") Tj
+T*
+(   return True) Tj
+T*
+() Tj
+T*
+(   sig = inspect.signature\(enterprise_endpoint\)) Tj
+T*
+(   print\(f"Function: {enterprise_endpoint.__name__}"\)) Tj
+T*
+(   print\(f"Signature: {sig}"\)) Tj
+T*
+(   for param_name, param in sig.parameters.items\(\):) Tj
+T*
+(   print\(f" Parameter: {param_name:<12} | Default: {param.default} | Kind: {param.kind.name}"\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(1\) metadata extraction.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 28:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement a Recursive Sudoku Solver in Python using backtracking with constraint propagation.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Context:) Tj
+T*
+(   Solve a 9x9 Sudoku grid by filling empty cells \('.'\) with digits '1'-'9' such that rows,) Tj
+T*
+(   columns, and 3x3 subboxes contain unique digits.) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+79 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 80 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+80 0 obj
+<< /Length 2465 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 4: FUNCTIONS AND RECURSION) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 39 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   2. Python Implementation:) Tj
+T*
+(   def solve_sudoku_grid\(board: list\) -> bool:) Tj
+T*
+(   def is_valid\(r, c, ch\):) Tj
+T*
+(   for i in range\(9\):) Tj
+T*
+(   if board[r][i] == ch or board[i][c] == ch:) Tj
+T*
+(   return False) Tj
+T*
+(   if board[3 * \(r // 3\) + i // 3][3 * \(c // 3\) + i % 3] == ch:) Tj
+T*
+(   return False) Tj
+T*
+(   return True) Tj
+T*
+() Tj
+T*
+(   def backtrack\(\):) Tj
+T*
+(   for r in range\(9\):) Tj
+T*
+(   for c in range\(9\):) Tj
+T*
+(   if board[r][c] == '.':) Tj
+T*
+(   for d in map\(str, range\(1, 10\)\):) Tj
+T*
+(   if is_valid\(r, c, d\):) Tj
+T*
+(   board[r][c] = d) Tj
+T*
+(   if backtrack\(\):) Tj
+T*
+(   return True) Tj
+T*
+(   board[r][c] = '.' # Backtrack) Tj
+T*
+(   return False) Tj
+T*
+(   return True) Tj
+T*
+() Tj
+T*
+(   return backtrack\(\)) Tj
+T*
+() Tj
+T*
+(   # Verification) Tj
+T*
+(   sample = [) Tj
+T*
+(   ["5","3",".",".","7",".",".",".","."],) Tj
+T*
+(   ["6",".",".","1","9","5",".",".","."],) Tj
+T*
+(   [".","9","8",".",".",".",".","6","."],) Tj
+T*
+(   ["8",".",".",".","6",".",".",".","3"],) Tj
+T*
+(   ["4",".",".","8",".","3",".",".","1"],) Tj
+T*
+(   ["7",".",".",".","2",".",".",".","6"],) Tj
+T*
+(   [".","6",".",".",".",".","2","8","."],) Tj
+T*
+(   [".",".",".","4","1","9",".",".","5"],) Tj
+T*
+(   [".",".",".",".","8",".",".","7","9"]) Tj
+T*
+(   ]) Tj
+T*
+() Tj
+T*
+(   solve_sudoku_grid\(sample\)) Tj
+T*
+(   print\("Solved Sudoku Row 0:", sample[0]\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(9^\(Empty_Cells\)\) exponential backtracking.) Tj
+T*
+(   - Space Complexity: O\(81\) recursion depth.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 29:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement a Recursive Descent XML/HTML Tokenizer and Tag Balancer in Python using recursion and stack validation.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Problem Context:) Tj
+T*
+(   Parse and validate whether nested markup tags \(e.g. '<div><p>text</p></div>'\) are properly) Tj
+T*
+(   balanced and correctly formed.) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+81 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 82 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+82 0 obj
+<< /Length 2623 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 4: FUNCTIONS AND RECURSION) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 40 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   2. Python Implementation:) Tj
+T*
+(   import re) Tj
+T*
+() Tj
+T*
+(   def is_markup_balanced\(html_str: str\) -> bool:) Tj
+T*
+(   tag_regex = re.compile\(r'</?\([a-zA-Z0-9]+\)>'\)) Tj
+T*
+(   tags = tag_regex.findall\(html_str\)) Tj
+T*
+(   raw_tokens = tag_regex.finditer\(html_str\)) Tj
+T*
+() Tj
+T*
+(   stack = []) Tj
+T*
+(   for match in raw_tokens:) Tj
+T*
+(   full_tag = match.group\(0\)) Tj
+T*
+(   tag_name = match.group\(1\)) Tj
+T*
+() Tj
+T*
+(   if full_tag.startswith\("</"\): # Closing tag) Tj
+T*
+(   if not stack or stack[-1] != tag_name:) Tj
+T*
+(   return False) Tj
+T*
+(   stack.pop\(\)) Tj
+T*
+(   else: # Opening tag) Tj
+T*
+(   stack.append\(tag_name\)) Tj
+T*
+() Tj
+T*
+(   return len\(stack\) == 0) Tj
+T*
+() Tj
+T*
+(   # Verification) Tj
+T*
+(   valid_html = "<html><body><h1>Title</h1><p>Body</p></body></html>") Tj
+T*
+(   invalid_html = "<html><body><h1>Title</p></h1></body></html>") Tj
+T*
+() Tj
+T*
+(   print\(f"Is valid_html balanced? {is_markup_balanced\(valid_html\)}"\)) Tj
+T*
+(   print\(f"Is invalid_html balanced? {is_markup_balanced\(invalid_html\)}"\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Time Complexity: O\(N\) regex scan.) Tj
+T*
+(   - Space Complexity: O\(Depth\) tag stack.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 30:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement the Ackermann Function in Python with recursion analysis, rapid growth metrics, and recursion limit protection.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   1. Theoretical Formulation of the Ackermann-Peter Function:) Tj
+T*
+(   A\(m, n\) is a classic example of a computable function that is not primitive recursive:) Tj
+T*
+(   - If m == 0: A\(0, n\) = n + 1) Tj
+T*
+(   - If m > 0 and n == 0: A\(m, 0\) = A\(m - 1, 1\)) Tj
+T*
+(   - If m > 0 and n > 0: A\(m, n\) = A\(m - 1, A\(m, n - 1\)\)) Tj
+T*
+() Tj
+T*
+(   2. Python Implementation:) Tj
+T*
+(   def ackermann\(m: int, n: int\) -> int:) Tj
+T*
+(   """Compute Ackermann function with call depth logging.""") Tj
+T*
+(   if m == 0:) Tj
+T*
+(   return n + 1) Tj
+T*
+(   elif n == 0:) Tj
+T*
+(   return ackermann\(m - 1, 1\)) Tj
+T*
+(   else:) Tj
+T*
+(   return ackermann\(m - 1, ackermann\(m, n - 1\)\)) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+83 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 84 0 R /Resources << /Font << /F1 85 0 R /F2 86 0 R >> >> >>
+endobj
+84 0 obj
+<< /Length 902 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+(PYTHON PROGRAMMING | UNIT 4: FUNCTIONS AND RECURSION) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 41 of 41) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   # Verification of standard computable values) Tj
+T*
+(   print\(f"A\(0, 5\) = {ackermann\(0, 5\)}"\)) Tj
+T*
+(   print\(f"A\(1, 2\) = {ackermann\(1, 2\)}"\)) Tj
+T*
+(   print\(f"A\(2, 3\) = {ackermann\(2, 3\)}"\)) Tj
+T*
+(   print\(f"A\(3, 3\) = {ackermann\(3, 3\)} \(Value = 61\)"\)) Tj
+T*
+() Tj
+T*
+(   3. Complexity Analysis:) Tj
+T*
+(   - Growth Rate: Hugely outpaces exponential functions \(Ackermann hierarchy\).) Tj
+T*
+(   - Space Complexity: Bounded by recursion depth limits.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+85 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+86 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+xref
+0 87
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000393 00000 n 
+0000000537 00000 n 
+0000008648 00000 n 
+0000008792 00000 n 
+0000017564 00000 n 
+0000017708 00000 n 
+0000025805 00000 n 
+0000025950 00000 n 
+0000035145 00000 n 
+0000035291 00000 n 
+0000044640 00000 n 
+0000044786 00000 n 
+0000054734 00000 n 
+0000054880 00000 n 
+0000064488 00000 n 
+0000064634 00000 n 
+0000066438 00000 n 
+0000066584 00000 n 
+0000072043 00000 n 
+0000072189 00000 n 
+0000074761 00000 n 
+0000074907 00000 n 
+0000083371 00000 n 
+0000083517 00000 n 
+0000087042 00000 n 
+0000087188 00000 n 
+0000090551 00000 n 
+0000090697 00000 n 
+0000094172 00000 n 
+0000094318 00000 n 
+0000097121 00000 n 
+0000097267 00000 n 
+0000100337 00000 n 
+0000100483 00000 n 
+0000103596 00000 n 
+0000103742 00000 n 
+0000106952 00000 n 
+0000107098 00000 n 
+0000110592 00000 n 
+0000110738 00000 n 
+0000113826 00000 n 
+0000113972 00000 n 
+0000116899 00000 n 
+0000117045 00000 n 
+0000120051 00000 n 
+0000120197 00000 n 
+0000123037 00000 n 
+0000123183 00000 n 
+0000126048 00000 n 
+0000126194 00000 n 
+0000128915 00000 n 
+0000129061 00000 n 
+0000131971 00000 n 
+0000132117 00000 n 
+0000134903 00000 n 
+0000135049 00000 n 
+0000137892 00000 n 
+0000138038 00000 n 
+0000140200 00000 n 
+0000140346 00000 n 
+0000143387 00000 n 
+0000143533 00000 n 
+0000146061 00000 n 
+0000146207 00000 n 
+0000149347 00000 n 
+0000149493 00000 n 
+0000152240 00000 n 
+0000152386 00000 n 
+0000155205 00000 n 
+0000155351 00000 n 
+0000158082 00000 n 
+0000158228 00000 n 
+0000160758 00000 n 
+0000160904 00000 n 
+0000164049 00000 n 
+0000164195 00000 n 
+0000167228 00000 n 
+0000167374 00000 n 
+0000169892 00000 n 
+0000170038 00000 n 
+0000172714 00000 n 
+0000172860 00000 n 
+0000173814 00000 n 
+0000173912 00000 n 
+trailer
+<< /Size 87 /Root 1 0 R >>
+startxref
+174015
+%%EOF

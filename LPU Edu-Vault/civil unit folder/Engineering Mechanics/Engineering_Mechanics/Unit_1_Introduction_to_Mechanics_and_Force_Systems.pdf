@@ -1,0 +1,726 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 6 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 3428 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mechanics | Unit 1: Force Systems & Equilibrium) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 1 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(=== UNIT 1: INTRODUCTION TO MECHANICS & FORCE SYSTEMS ===) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 1.1 Foundations of Classical Mechanics and Idealizations) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Engineering Mechanics is the foundational physical science that predicts and describes) Tj
+T*
+(the state of rest or motion of bodies subjected to external force systems. In civil and) Tj
+T*
+(structural engineering, mechanics governs the design of bridges, multi-story frames,) Tj
+T*
+(dams, and retaining walls.) Tj
+T*
+(* Fundamental Idealizations: \(1\) Particle: A body of negligible dimensions whose mass) Tj
+T*
+(is concentrated at a single geometric point \(rotational effects neglected\). \(2\) Rigid) Tj
+T*
+(Body: A continuum of matter wherein relative distances between any two constituent) Tj
+T*
+(particles remain invariant under applied force systems \(deformations neglected in) Tj
+T*
+(rigid body statics\). \(3\) Concentrated Force: An idealization representing the action) Tj
+T*
+(of a force applied over an infinitesimal contact surface area.) Tj
+T*
+(* Newton's Laws of Motion: \(First Law\) A particle remains at rest or moves with) Tj
+T*
+(constant velocity in a straight line unless acted upon by an unbalanced resultant) Tj
+T*
+(force. \(Second Law\) The rate of change of linear momentum is proportional to the) Tj
+T*
+(resultant force and occurs along its line of action: F = m*a. \(Third Law\) To every) Tj
+T*
+(action, there is an equal and opposite reaction: F_AB = - F_BA.) Tj
+T*
+(* Principle of Transmissibility: A force acting on a rigid body may be transmitted) Tj
+T*
+(along its line of action to any other point on the same body without altering the) Tj
+T*
+(external external effects \(external equilibrium\). Note: Internal stress distributions) Tj
+T*
+(depend on the exact application point.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 1.2 Parallelogram Law, Triangle Law and Polygon Law of Forces) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Parallelogram Law of Forces: If two concurrent forces acting simultaneously at a) Tj
+T*
+(common point are represented in magnitude and direction by two adjacent sides of a) Tj
+T*
+(parallelogram, their resultant is represented by the diagonal passing through their) Tj
+T*
+(point of intersection.) Tj
+T*
+(Formula: R = sqrt\( P^2 + Q^2 + 2*P*Q*cos\(theta\) \), where theta is the angle between P) Tj
+T*
+(and Q.) Tj
+T*
+(Direction of Resultant \(alpha with respect to P\): tan\(alpha\) = \(Q * sin\(theta\)\) / \(P + Q) Tj
+T*
+(* cos\(theta\)\).) Tj
+T*
+(* Triangle Law of Forces: If two forces acting at a point are represented in) Tj
+T*
+(magnitude and direction by the two sides of a triangle taken in order, their) Tj
+T*
+(resultant is represented by the closing third side taken in the opposite order.) Tj
+T*
+(* Polygon Law of Forces: If a system of concurrent coplanar forces is represented in) Tj
+T*
+(magnitude and direction by the sides of a polygon taken in order, the closing side) Tj
+T*
+(taken in reverse order represents their resultant vector.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 1.3 Analytical Resolution of Coplanar Concurrent Force Systems) Tj
+T*
+/F1 9 Tf
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 3052 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mechanics | Unit 1: Force Systems & Equilibrium) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 2 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+() Tj
+T*
+(For complex concurrent force systems, analytical orthogonal resolution along Cartesian) Tj
+T*
+(axes \(x-y\) is standard practice:) Tj
+T*
+(* Sum of horizontal components: Sigma Fx = F1*cos\(theta1\) + F2*cos\(theta2\) + ... +) Tj
+T*
+(Fn*cos\(thetan\).) Tj
+T*
+(* Sum of vertical components: Sigma Fy = F1*sin\(theta1\) + F2*sin\(theta2\) + ... +) Tj
+T*
+(Fn*sin\(thetan\).) Tj
+T*
+(* Magnitude of Resultant Vector: R = sqrt\( \(Sigma Fx\)^2 + \(Sigma Fy\)^2 \).) Tj
+T*
+(* Direction Angle: theta_R = atan\( |Sigma Fy| / |Sigma Fx| \), with quadrant placement) Tj
+T*
+(determined by component algebraic signs.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 1.4 Equilibrium of Concurrent Forces & Lami's Theorem) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(A particle or concurrent force system is in static equilibrium if the resultant force) Tj
+T*
+(vanishes identically:) Tj
+T*
+(* Equations of Equilibrium: Sigma Fx = 0, and Sigma Fy = 0.) Tj
+T*
+(* Free Body Diagram \(FBD\): An isolated sketch of the physical body stripped of its) Tj
+T*
+(surroundings, showing all applied active loads, gravitational weights, and reactive) Tj
+T*
+(contact forces/cable tensions.) Tj
+T*
+(* Lami's Theorem: If three coplanar concurrent forces acting at a point are in static) Tj
+T*
+(equilibrium, each force is directly proportional to the sine of the angle between the) Tj
+T*
+(remaining two forces.) Tj
+T*
+(Formula: P / sin\(alpha\) = Q / sin\(beta\) = R / sin\(gamma\), where alpha is angle between Q) Tj
+T*
+(and R, beta between P and R, gamma between P and Q.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 1.5 Moment of a Force, Varignon's Theorem and Couples) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Moment of a Force \(M\): The rotational tendency of a force about an axis or point:) Tj
+T*
+(M_O = F * d, where d is the perpendicular moment arm from O to the force line of) Tj
+T*
+(action. In vector notation: M_O = r x F.) Tj
+T*
+(* Varignon's Theorem \(Principle of Moments\): The moment of a force about any point) Tj
+T*
+(equals the algebraic sum of the moments of its constituent rectangular components) Tj
+T*
+(about the same point: M_O\(F\) = M_O\(Fx\) + M_O\(Fy\).) Tj
+T*
+(* Force Couple: A system consisting of two equal, opposite, and non-collinear) Tj
+T*
+(parallel forces separated by perpendicular distance d. The moment of a couple is a) Tj
+T*
+(free vector: M = F * d. Its magnitude is invariant with respect to the reference) Tj
+T*
+(origin.) Tj
+T*
+(* General Coplanar Equilibrium Equations: Sigma Fx = 0, Sigma Fy = 0, and Sigma M_O =) Tj
+T*
+(0 \(about any arbitrary point O\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 1.6 Support Types and Reaction Determinations for Beams) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Roller Support: Restrains displacement perpendicular to support surface; provides 1) Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 3640 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mechanics | Unit 1: Force Systems & Equilibrium) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 3 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(vertical reaction force \(1 unknown\).) Tj
+T*
+(* Hinge / Pin Support: Restrains linear displacement in both horizontal and vertical) Tj
+T*
+(directions; provides 2 reaction forces Rx and Ry \(2 unknowns\).) Tj
+T*
+(* Fixed / Built-in Support: Restrains both linear displacements and angular rotation;) Tj
+T*
+(provides 2 reaction forces \(Rx, Ry\) and 1 reactive restraint moment M \(3 unknowns\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([EXAMPLE 1: Resultant of Four Coplanar Concurrent Forces]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Four concurrent forces act at origin O: F1 = 50 kN at 30 deg in) Tj
+T*
+(Quadrant I; F2 = 80 kN at 45 deg in Quadrant II; F3 = 60 kN at 60 deg in Quadrant III;) Tj
+T*
+(F4 = 40 kN directed vertically downward along negative y-axis. Determine the resultant) Tj
+T*
+(magnitude and direction.) Tj
+T*
+(Solution Step 1: Resolve all forces into orthogonal components:) Tj
+T*
+(F1: F1x = + 50*cos\(30\) = + 43.30 kN, F1y = + 50*sin\(30\) = + 25.00 kN.) Tj
+T*
+(F2: F2x = - 80*cos\(45\) = - 56.57 kN, F2y = + 80*sin\(45\) = + 56.57 kN.) Tj
+T*
+(F3: F3x = - 60*cos\(60\) = - 30.00 kN, F3y = - 60*sin\(60\) = - 51.96 kN.) Tj
+T*
+(F4: F4x = 0.00 kN, F4y = - 40.00 kN.) Tj
+T*
+(Solution Step 2: Sum horizontal and vertical components:) Tj
+T*
+(Sigma Fx = 43.30 - 56.57 - 30.00 + 0 = - 43.27 kN.) Tj
+T*
+(Sigma Fy = 25.00 + 56.57 - 51.96 - 40.00 = - 10.39 kN.) Tj
+T*
+(Solution Step 3: Compute Resultant Magnitude and Direction:) Tj
+T*
+(R = sqrt\( \(-43.27\)^2 + \(-10.39\)^2 \) = sqrt\( 1872.29 + 107.95 \) = sqrt\(1980.24\) = 44.50) Tj
+T*
+(kN.) Tj
+T*
+(Direction: Both components are negative => Resultant lies in Quadrant III.) Tj
+T*
+(theta = atan\( |-10.39| / |-43.27| \) = atan\(0.2401\) = 13.50 deg below negative x-axis \(or) Tj
+T*
+(193.50 deg from positive x-axis\).) Tj
+T*
+(Conclusion: Resultant force is 44.50 kN acting at 193.50 deg counterclockwise from the) Tj
+T*
+(positive x-axis.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([EXAMPLE 2: Equilibrium of Suspended Sphere using Lami's Theorem]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: A smooth uniform steel sphere of mass 100 kg \(weight W = 981 N\) and) Tj
+T*
+(radius r = 200 mm is suspended by a string of length L = 300 mm tied to a smooth) Tj
+T*
+(vertical wall. Determine: \(1\) Tension T in the string, \(2\) Normal reaction R_w exerted) Tj
+T*
+(by the wall on the sphere.) Tj
+T*
+(Solution Step 1: Establish geometry and angles:) Tj
+T*
+(Let O be center of sphere and A be tie point on wall. In right triangle O-Wall-A:) Tj
+T*
+(Hypotenuse OA = string length + sphere radius = 300 + 200 = 500 mm.) Tj
+T*
+(Horizontal adjacent side \(from center to wall contact point\) = radius r = 200 mm.) Tj
+T*
+(cos\(theta\) = 200 / 500 = 0.40 => theta = 66.42 deg \(angle of string with horizontal\), or) Tj
+T*
+(angle with vertical phi = 90 - 66.42 = 23.58 deg.) Tj
+T*
+(Solution Step 2: Free Body Diagram of the sphere:) Tj
+T*
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 3634 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mechanics | Unit 1: Force Systems & Equilibrium) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 4 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(Three concurrent forces act at sphere center O:) Tj
+T*
+(- Weight W = 981 N acting vertically downward \(270 deg\).) Tj
+T*
+(- Normal reaction R_w acting horizontally to the right \(0 deg\) from the smooth wall.) Tj
+T*
+(- Cable tension T pulling up and left at angle phi = 23.58 deg to the vertical.) Tj
+T*
+(Solution Step 3: Compute angles between forces for Lami's Theorem:) Tj
+T*
+(Angle between R_w and W = 90 deg.) Tj
+T*
+(Angle between T and W = 180 - 23.58 = 156.42 deg.) Tj
+T*
+(Angle between T and R_w = 90 + 23.58 = 113.58 deg.) Tj
+T*
+(Solution Step 4: Apply Lami's Theorem:) Tj
+T*
+(T / sin\(90\) = R_w / sin\(156.42\) = W / sin\(113.58\).) Tj
+T*
+(T = 981 * \(sin\(90\) / sin\(113.58\)\) = 981 / 0.9165 = 1070.38 N.) Tj
+T*
+(R_w = 981 * \(sin\(156.42\) / sin\(113.58\)\) = 981 * \(0.4000 / 0.9165\) = 428.15 N.) Tj
+T*
+(Conclusion: Cable tension T = 1070.38 N, Wall reaction R_w = 428.15 N.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([EXAMPLE 3: Varignon's Theorem & Non-Concurrent Resultant Location]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: A horizontal steel bracket ABCD is subjected to three vertical forces:) Tj
+T*
+(20 kN downward at x = 0 m \(A\); 40 kN upward at x = 2 m \(B\); 30 kN downward at x = 5 m) Tj
+T*
+(\(D\); and a concentrated clockwise couple of 50 kN-m at point C \(x = 3.5 m\). Determine) Tj
+T*
+(the magnitude, nature, and position of the single resultant force measured from point A.) Tj
+T*
+(Solution Step 1: Calculate Resultant Force Magnitude:) Tj
+T*
+(Since all forces are purely vertical: R = Sigma Fy = - 20 + 40 - 30 = - 10 kN \(acting) Tj
+T*
+(downward\).) Tj
+T*
+(Solution Step 2: Calculate Algebraic Sum of Moments about Point A:) Tj
+T*
+(Taking counterclockwise as positive \(+\), clockwise as negative \(-\):) Tj
+T*
+(M_A = [ - 20 * 0 ] + [ + 40 * 2.0 ] + [ - 30 * 5.0 ] + [ - 50 \(couple\) ]) Tj
+T*
+(M_A = 0 + 80 - 150 - 50 = - 120 kN-m \(clockwise moment of 120 kN-m\).) Tj
+T*
+(Solution Step 3: Apply Varignon's Theorem to locate resultant line of action:) Tj
+T*
+(M_A\(R\) = R * x_bar) Tj
+T*
+(Since R is downward \(-10 kN\), a downward force placed at distance x_bar to the right of) Tj
+T*
+(A produces a clockwise moment about A:) Tj
+T*
+(- 10 * x_bar = - 120 kN-m => x_bar = 120 / 10 = 12.0 m.) Tj
+T*
+(Conclusion: The resultant is a single downward force of 10 kN located at a distance of) Tj
+T*
+(12.0 m to the right of point A.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([EXAMPLE 4: Support Reactions for a Simply Supported Beam with UDL]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: A simply supported civil engineering beam AB of span L = 8.0 m has a) Tj
+T*
+(pin support at A and a roller support at B. It carries a uniformly distributed load) Tj
+T*
+(\(UDL\) of w = 15 kN/m over the left 4.0 m span \(from x = 0 to x = 4 m\), and a) Tj
+T*
+(concentrated point load of P = 50 kN at x = 6.0 m. Calculate the support reactions at A) Tj
+T*
+(and B.) Tj
+T*
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 3464 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mechanics | Unit 1: Force Systems & Equilibrium) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 5 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(Solution Step 1: Equivalent point load for the distributed UDL:) Tj
+T*
+(Total load of UDL = w * length = 15 kN/m * 4.0 m = 60 kN.) Tj
+T*
+(Centroid of UDL is at its midpoint: x_udl = 4.0 / 2 = 2.0 m from support A.) Tj
+T*
+(Solution Step 2: Apply Moment Equilibrium about support A \(Sigma M_A = 0\):) Tj
+T*
+(Clockwise moments from loads = Counterclockwise moment from roller reaction R_B:) Tj
+T*
+(\(60 kN * 2.0 m\) + \(50 kN * 6.0 m\) - \(R_B * 8.0 m\) = 0.) Tj
+T*
+(120 + 300 - 8.0 * R_B = 0 => 8.0 * R_B = 420 kN-m.) Tj
+T*
+(R_B = 420 / 8.0 = 52.50 kN \(upward\).) Tj
+T*
+(Solution Step 3: Apply Vertical Equilibrium \(Sigma Fy = 0\):) Tj
+T*
+(R_A + R_B - 60 - 50 = 0 => R_A + 52.50 = 110 kN.) Tj
+T*
+(R_A = 110 - 52.50 = 57.50 kN \(upward\).) Tj
+T*
+(Solution Step 4: Horizontal Equilibrium \(Sigma Fx = 0\):) Tj
+T*
+(Since all loads are vertical and roller at B offers no horizontal resistance: H_A = 0) Tj
+T*
+(kN.) Tj
+T*
+(Conclusion: Support reactions are R_A = 57.50 kN \(vertical upward\), R_B = 52.50 kN) Tj
+T*
+(\(vertical upward\), H_A = 0 kN.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 1.7 University Review & Examination Questions) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Q1: State and prove Varignon's Theorem of Moments for a system of coplanar forces.) Tj
+T*
+(Answer: Varignon's Theorem states that the algebraic sum of the moments of a system of) Tj
+T*
+(coplanar forces about any point in their plane equals the moment of their resultant) Tj
+T*
+(about the same point. Proof: Consider concurrent forces F1, F2 acting at point P with) Tj
+T*
+(position vector r from origin O. The resultant is R = F1 + F2. Taking the cross product) Tj
+T*
+(of r with both sides: r x R = r x \(F1 + F2\) = \(r x F1\) + \(r x F2\). By definition, r x R) Tj
+T*
+(is the moment of the resultant M_O\(R\), while r x F1 and r x F2 are the moments of) Tj
+T*
+(individual forces M_O\(F1\) and M_O\(F2\). Thus, M_O\(R\) = Sigma M_O\(F\).) Tj
+T*
+(* Q2: Explain the physical significance of a Free Body Diagram \(FBD\) and enumerate) Tj
+T*
+(the systematic steps to construct it.) Tj
+T*
+(Answer: A Free Body Diagram is an analytical diagram of a structural body isolated from) Tj
+T*
+(its physical supports and adjacent elements, depicting all external active forces) Tj
+T*
+(\(applied loads, weight\) and reactive forces \(support reactions, cable tensions,) Tj
+T*
+(friction\). Steps: \(1\) Clearly identify and isolate the body of interest. \(2\) Replace all) Tj
+T*
+(physical supports with equivalent reactive force/moment vectors according to their) Tj
+T*
+(kinematic constraints. \(3\) Indicate all applied external loads and self-weight acting at) Tj
+T*
+(the centre of gravity. \(4\) Label all unknown coordinates, inclination angles, and) Tj
+T*
+(coordinate axes.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 1.8 Key Takeaways and Revision Points) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Concurrent forces meet at a common point; non-concurrent force systems create) Tj
+T*
+(rotational moments requiring moment equilibrium.) Tj
+T*
+(* Lami's theorem applies strictly to THREE concurrent coplanar forces in equilibrium.) Tj
+T*
+(* A couple consists of two equal and opposite parallel forces producing pure rotation) Tj
+T*
+ET
+
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 16 0 R >>
+endobj
+16 0 obj
+<< /Length 499 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mechanics | Unit 1: Force Systems & Equilibrium) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 6 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(invariant of the origin point.) Tj
+T*
+(* Pin supports provide 2 reactions \(Rx, Ry\); rollers provide 1 perpendicular) Tj
+T*
+(reaction; fixed supports provide 3 reactions \(Rx, Ry, M\).) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000178 00000 n 
+0000000248 00000 n 
+0000000323 00000 n 
+0000000435 00000 n 
+0000003915 00000 n 
+0000004027 00000 n 
+0000007131 00000 n 
+0000007244 00000 n 
+0000010937 00000 n 
+0000011051 00000 n 
+0000014738 00000 n 
+0000014852 00000 n 
+0000018369 00000 n 
+0000018483 00000 n 
+trailer
+<< /Size 17 /Root 1 0 R >>
+startxref
+19034
+%%EOF

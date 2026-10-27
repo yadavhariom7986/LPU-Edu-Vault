@@ -1,0 +1,604 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 3023 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mathematics - I | Unit 2: Differential Calculus & Curvature) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 1 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(=== UNIT 2: DIFFERENTIAL CALCULUS, LEIBNIZ THEOREM & CURVATURE ===) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.1 Successive Differentiation and Leibniz's Theorem) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Differential calculus explores instantaneous rates of change, curvature, and series) Tj
+T*
+(representations of engineering functions.) Tj
+T*
+(* Higher Order Derivatives: If y = f\(x\), then y_n = d^n y / dx^n. Standard nth) Tj
+T*
+(derivatives:) Tj
+T*
+(- d^n/dx^n \(e^{ax}\) = a^n * e^{ax}.) Tj
+T*
+(- d^n/dx^n \(\(ax + b\)^m\) = m*\(m-1\)*...*\(m-n+1\) * a^n * \(ax + b\)^{m-n}.) Tj
+T*
+(- d^n/dx^n \(sin\(ax + b\)\) = a^n * sin\(ax + b + n*pi/2\).) Tj
+T*
+(- d^n/dx^n \(cos\(ax + b\)\) = a^n * cos\(ax + b + n*pi/2\).) Tj
+T*
+(- d^n/dx^n \(ln\(ax + b\)\) = \(-1\)^{n-1} * \(n-1\)! * a^n / \(ax + b\)^n.) Tj
+T*
+(* Leibniz's Theorem on Product Differentiation: If u\(x\) and v\(x\) possess derivatives) Tj
+T*
+(up to nth order, the nth derivative of their product y = u * v is given by the) Tj
+T*
+(binomial-like expansion:) Tj
+T*
+(\(u * v\)_n = C\(n,0\)*u_n*v + C\(n,1\)*u_{n-1}*v_1 + C\(n,2\)*u_{n-2}*v_2 + ... +) Tj
+T*
+(C\(n,r\)*u_{n-r}*v_r + ... + C\(n,n\)*u*v_n,) Tj
+T*
+(where C\(n, r\) = n! / [ r! * \(n-r\)! ].) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.2 Mean Value Theorems and Taylor's Expansions) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Rolle's Theorem: If f\(x\) is continuous on [a, b], differentiable on \(a, b\), and) Tj
+T*
+(f\(a\) = f\(b\), then there exists at least one c in \(a, b\) such that f'\(c\) = 0.) Tj
+T*
+(* Lagrange's Mean Value Theorem \(LMVT\): If f\(x\) is continuous on [a, b] and) Tj
+T*
+(differentiable on \(a, b\), there exists c in \(a, b\) such that f'\(c\) = [ f\(b\) - f\(a\) ]) Tj
+T*
+(/ \(b - a\).) Tj
+T*
+(* Cauchy's Mean Value Theorem: For continuous f, g on [a, b] and differentiable on) Tj
+T*
+(\(a, b\) with g'\(x\) != 0, there exists c in \(a, b\) such that [ f\(b\) - f\(a\) ] / [ g\(b\) -) Tj
+T*
+(g\(a\) ] = f'\(c\) / g'\(c\).) Tj
+T*
+(* Taylor's Series \(Expansion about x = a\):) Tj
+T*
+(f\(x\) = f\(a\) + \(x - a\)*f'\(a\) + [\(x - a\)^2 / 2!]*f''\(a\) + ... + [\(x - a\)^n /) Tj
+T*
+(n!]*f^{\(n\)}\(a\) + R_n\(x\).) Tj
+T*
+(* Maclaurin's Series \(Taylor series centered at a = 0\):) Tj
+T*
+(f\(x\) = f\(0\) + x*f'\(0\) + \(x^2 / 2!\)*f''\(0\) + \(x^3 / 3!\)*f'''\(0\) + ... + \(x^n /) Tj
+T*
+(n!\)*f^{\(n\)}\(0\) + ...) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.3 Indeterminate Forms and L'Hopital's Rule) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Standard 0/0 and inf/inf forms: lim_{x->a} [f\(x\)/g\(x\)] = lim_{x->a} [f'\(x\)/g'\(x\)],) Tj
+T*
+(provided the limit on the right exists.) Tj
+T*
+(* Other Indeterminate Forms: 0 * inf \(convert to \(0\)/\(1/inf\) = 0/0\), inf - inf) Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 3470 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mathematics - I | Unit 2: Differential Calculus & Curvature) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 2 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(\(combine over common denominator\), 0^0, 1^inf, inf^0 \(evaluated by taking natural) Tj
+T*
+(logarithms: y = f\(x\)^g\(x\) => ln\(y\) = g\(x\)*ln\(f\(x\)\)\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.4 Curvature and Radius of Curvature \(rho\)) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Definition of Curvature \(kappa\): Rate of change of direction of tangent angle psi) Tj
+T*
+(with respect to arc length s: kappa = d\(psi\) / ds.) Tj
+T*
+(* Radius of Curvature \(rho\): Reciprocal of curvature: rho = 1 / kappa = ds / d\(psi\).) Tj
+T*
+(* Cartesian Formula: rho = [ 1 + \(y_1\)^2 ]^{3/2} / | y_2 |, where y_1 = dy/dx and y_2) Tj
+T*
+(= d^2y/dx^2.) Tj
+T*
+(* Parametric Formula \(x = x\(t\), y = y\(t\)\): rho = [ \(x'\)^2 + \(y'\)^2 ]^{3/2} / | x'*y'') Tj
+T*
+(- y'*x'' |.) Tj
+T*
+(* Polar Formula \(r = f\(theta\)\): rho = [ r^2 + \(r_1\)^2 ]^{3/2} / | r^2 + 2*\(r_1\)^2 -) Tj
+T*
+(r*r_2 |, where r_1 = dr/d\(theta\) and r_2 = d^2r/d\(theta\)^2.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([SOLVED PROBLEM 1: Application of Leibniz Theorem to Differential Equation]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: If y = sin\(m * arcsin\(x\)\), prove that \(1 - x^2\)*y_{n+2} - \(2n + 1\)*x*y_{n+1} +) Tj
+T*
+(\(m^2 - n^2\)*y_n = 0.) Tj
+T*
+(Solution Step 1: Differentiate once with respect to x:) Tj
+T*
+(y_1 = cos\(m * arcsin\(x\)\) * [ m / sqrt\(1 - x^2\) ].) Tj
+T*
+(Multiply by sqrt\(1 - x^2\): sqrt\(1 - x^2\) * y_1 = m * cos\(m * arcsin\(x\)\).) Tj
+T*
+(Solution Step 2: Square both sides to eliminate radicals:) Tj
+T*
+(\(1 - x^2\) * \(y_1\)^2 = m^2 * cos^2\(m * arcsin\(x\)\) = m^2 * [ 1 - sin^2\(m * arcsin\(x\)\) ].) Tj
+T*
+(Since y = sin\(m * arcsin\(x\)\), this simplifies to: \(1 - x^2\) * \(y_1\)^2 = m^2 * \(1 - y^2\).) Tj
+T*
+(Solution Step 3: Differentiate again with respect to x:) Tj
+T*
+(\(1 - x^2\) * [ 2*y_1*y_2 ] + \(-2x\) * \(y_1\)^2 = m^2 * [ -2*y*y_1 ].) Tj
+T*
+(Divide through by common factor 2*y_1 \(since y_1 != 0\):) Tj
+T*
+(\(1 - x^2\)*y_2 - x*y_1 + m^2*y = 0.) Tj
+T*
+(Solution Step 4: Apply Leibniz's Theorem to differentiate n times:) Tj
+T*
+(Term 1: D^n [ \(1 - x^2\) * y_2 ] = C\(n,0\)*\(1 - x^2\)*y_{n+2} + C\(n,1\)*\(-2x\)*y_{n+1} +) Tj
+T*
+(C\(n,2\)*\(-2\)*y_n) Tj
+T*
+(= \(1 - x^2\)*y_{n+2} - 2n*x*y_{n+1} - n*\(n - 1\)*y_n.) Tj
+T*
+(Term 2: D^n [ -x * y_1 ] = - [ C\(n,0\)*x*y_{n+1} + C\(n,1\)*\(1\)*y_n ] = -x*y_{n+1} - n*y_n.) Tj
+T*
+(Term 3: D^n [ m^2 * y ] = m^2 * y_n.) Tj
+T*
+(Solution Step 5: Collect terms:) Tj
+T*
+(\(1 - x^2\)*y_{n+2} + [ -2n*x - x ]*y_{n+1} + [ -n^2 + n - n + m^2 ]*y_n = 0) Tj
+T*
+(=> \(1 - x^2\)*y_{n+2} - \(2n + 1\)*x*y_{n+1} + \(m^2 - n^2\)*y_n = 0. \(Hence Proved\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([SOLVED PROBLEM 2: Taylor Series Expansion of Function]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 3256 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mathematics - I | Unit 2: Differential Calculus & Curvature) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 3 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(Problem: Expand f\(x\) = e^x in powers of \(x - 2\) up to the fourth-degree term and) Tj
+T*
+(approximate e^{2.1}.) Tj
+T*
+(Solution Step 1: Evaluate derivatives at center a = 2:) Tj
+T*
+(f\(x\) = e^x => f\(2\) = e^2) Tj
+T*
+(f'\(x\) = e^x => f'\(2\) = e^2) Tj
+T*
+(f''\(x\) = e^x => f''\(2\) = e^2) Tj
+T*
+(f'''\(x\) = e^x => f'''\(2\) = e^2) Tj
+T*
+(f^{\(4\)}\(x\) = e^x => f^{\(4\)}\(2\) = e^2.) Tj
+T*
+(Solution Step 2: Substitute into Taylor's formula:) Tj
+T*
+(e^x = e^2 + e^2*\(x - 2\) + \(e^2 / 2!\)*\(x - 2\)^2 + \(e^2 / 6\)*\(x - 2\)^3 + \(e^2 / 24\)*\(x -) Tj
+T*
+(2\)^4 + ...) Tj
+T*
+(e^x = e^2 * [ 1 + \(x - 2\) + 0.5*\(x - 2\)^2 + 0.1667*\(x - 2\)^3 + 0.0417*\(x - 2\)^4 ].) Tj
+T*
+(Solution Step 3: Evaluate at x = 2.1 \(so x - 2 = 0.1\):) Tj
+T*
+(Bracket = 1 + 0.1 + 0.5*\(0.01\) + 0.1667*\(0.001\) + 0.0417*\(0.0001\)) Tj
+T*
+(= 1 + 0.1 + 0.005 + 0.0001667 + 0.0000042 = 1.1051709.) Tj
+T*
+(Using e^2 = 7.389056:) Tj
+T*
+(e^{2.1} ~ 7.389056 * 1.1051709 = 8.16617.) Tj
+T*
+(Exact Value Check: e^{2.1} = 8.1661699 \(Accurate to 6 decimal places\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([SOLVED PROBLEM 3: Indeterminate Form Evaluation \(1^inf\)]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: Evaluate the limit L = lim_{x->0} [ \(tan\(x\) / x\) ]^{1 / x^2}.) Tj
+T*
+(Solution Step 1: Form identification: As x -> 0, tan\(x\)/x -> 1 and 1/x^2 -> inf. This is) Tj
+T*
+(the 1^inf indeterminate form.) Tj
+T*
+(Solution Step 2: Take natural logarithm: ln\(L\) = lim_{x->0} [ ln\(tan\(x\) / x\) / x^2 ]) Tj
+T*
+(\(0/0 form\).) Tj
+T*
+(Solution Step 3: Apply L'Hopital's Rule:) Tj
+T*
+(Numerator derivative: d/dx [ ln\(tan\(x\)\) - ln\(x\) ] = \(sec^2\(x\) / tan\(x\)\) - \(1 / x\) = \(1 /) Tj
+T*
+(\(sin\(x\)*cos\(x\)\)\) - \(1 / x\)) Tj
+T*
+(= [ 2 / sin\(2x\) ] - [ 1 / x ] = [ 2x - sin\(2x\) ] / [ x * sin\(2x\) ].) Tj
+T*
+(Denominator derivative: d/dx [ x^2 ] = 2x.) Tj
+T*
+(ln\(L\) = lim_{x->0} [ 2x - sin\(2x\) ] / [ 2x^2 * sin\(2x\) ].) Tj
+T*
+(Solution Step 4: Expand sin\(2x\) using Maclaurin series sin\(u\) = u - u^3/6 + ...:) Tj
+T*
+(sin\(2x\) = 2x - \(2x\)^3 / 6 = 2x - \(8x^3 / 6\) = 2x - \(4/3\)*x^3.) Tj
+T*
+(Numerator = 2x - [ 2x - \(4/3\)*x^3 ] = \(4/3\)*x^3.) Tj
+T*
+(Denominator = 2x^2 * [ 2x ] = 4x^3.) Tj
+T*
+(ln\(L\) = lim_{x->0} [ \(4/3\)*x^3 / 4x^3 ] = \(4/3\) / 4 = 1/3.) Tj
+T*
+(Solution Step 5: Solve for L: L = e^{ln\(L\)} = e^{1/3}.) Tj
+T*
+(Final Answer: Limit = e^{1/3} ~ 1.3956.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([SOLVED PROBLEM 4: Radius of Curvature Calculation]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 3464 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mathematics - I | Unit 2: Differential Calculus & Curvature) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 4 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(Problem: Find the radius of curvature rho at the vertex \(a, 0\) of the catenary curve y =) Tj
+T*
+(a * cosh\(x / a\).) Tj
+T*
+(Solution Step 1: Calculate first derivative y_1:) Tj
+T*
+(y_1 = dy/dx = a * sinh\(x / a\) * \(1 / a\) = sinh\(x / a\).) Tj
+T*
+(At x = 0 \(vertex, where y = a*cosh\(0\) = a\): y_1\(0\) = sinh\(0\) = 0.) Tj
+T*
+(Solution Step 2: Calculate second derivative y_2:) Tj
+T*
+(y_2 = d^2y/dx^2 = cosh\(x / a\) * \(1 / a\) = \(1 / a\) * cosh\(x / a\).) Tj
+T*
+(At x = 0: y_2\(0\) = \(1 / a\) * cosh\(0\) = 1 / a.) Tj
+T*
+(Solution Step 3: Substitute into Cartesian curvature formula:) Tj
+T*
+(rho = [ 1 + \(y_1\)^2 ]^{3/2} / | y_2 |) Tj
+T*
+(rho = [ 1 + 0^2 ]^{3/2} / [ 1 / a ] = 1 / \(1 / a\) = a.) Tj
+T*
+(General Point Formula: For any point \(x, y\) on the catenary:) Tj
+T*
+(rho = [ 1 + sinh^2\(x / a\) ]^{3/2} / [ \(1 / a\)*cosh\(x / a\) ] = [ cosh^2\(x / a\) ]^{3/2} /) Tj
+T*
+([ \(1 / a\)*cosh\(x / a\) ]) Tj
+T*
+(= a * cosh^2\(x / a\) = y^2 / a.) Tj
+T*
+(Final Answer: At the vertex \(0, a\), rho = a. At any point \(x, y\), rho = y^2 / a.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.5 University Review & Examination Questions) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Q1: State and prove Lagrange's Mean Value Theorem and give its geometric) Tj
+T*
+(interpretation.) Tj
+T*
+(Answer: Statement: If f\(x\) is continuous on [a, b] and differentiable on \(a, b\), there) Tj
+T*
+(exists at least one c in \(a, b\) such that f'\(c\) = [f\(b\) - f\(a\)] / \(b - a\). Proof: Define) Tj
+T*
+(auxiliary function phi\(x\) = f\(x\) - A*x, choosing constant A such that phi\(a\) = phi\(b\).) Tj
+T*
+(This yields A = [f\(b\) - f\(a\)] / \(b - a\). phi\(x\) satisfies all three conditions of) Tj
+T*
+(Rolle's Theorem on [a, b]. Hence, there exists c in \(a, b\) such that phi'\(c\) = 0. Since) Tj
+T*
+(phi'\(x\) = f'\(x\) - A, phi'\(c\) = 0 implies f'\(c\) = A = [f\(b\) - f\(a\)] / \(b - a\).) Tj
+T*
+(Geometrically, this means there is at least one point on the curve where the tangent) Tj
+T*
+(line is strictly parallel to the secant line joining endpoints \(a, f\(a\)\) and \(b, f\(b\)\).) Tj
+T*
+(* Q2: Derive the formula for the radius of curvature in polar coordinates r =) Tj
+T*
+(f\(theta\).) Tj
+T*
+(Answer: In polar coordinates, x = r*cos\(theta\) and y = r*sin\(theta\). Differentiating) Tj
+T*
+(with respect to theta yields dx/d\(theta\) = r'*cos - r*sin and dy/d\(theta\) = r'*sin +) Tj
+T*
+(r*cos. The arc differential ds^2 = dx^2 + dy^2 = \(r^2 + \(r'\)^2\)*d\(theta\)^2, giving) Tj
+T*
+(ds/d\(theta\) = sqrt\(r^2 + \(r'\)^2\). The angle psi made by the tangent with the polar axis) Tj
+T*
+(satisfies tan\(psi\) = \(dy/d\(theta\)\) / \(dx/d\(theta\)\). Differentiating psi with respect to) Tj
+T*
+(theta and using rho = ds / d\(psi\) = \(ds/d\(theta\)\) / \(d\(psi\)/d\(theta\)\) yields the) Tj
+T*
+(standard polar formula: rho = [ r^2 + \(r_1\)^2 ]^{3/2} / [ r^2 + 2*\(r_1\)^2 - r*r_2 ],) Tj
+T*
+(where r_1 = dr/d\(theta\) and r_2 = d^2r/d\(theta\)^2.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.6 Key Takeaways and Revision Points) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Leibniz's theorem expands the nth derivative of a product analogously to the) Tj
+T*
+(binomial theorem.) Tj
+T*
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 699 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Mathematics - I | Unit 2: Differential Calculus & Curvature) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 5 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(* Taylor and Maclaurin series approximate complex nonlinear engineering functions as) Tj
+T*
+(power series.) Tj
+T*
+(* Indeterminate forms of type 1^inf, 0^0, inf^0 are solved by logarithmic) Tj
+T*
+(transformation before applying L'Hopital's rule.) Tj
+T*
+(* Curvature measures rate of turning of the tangent vector; radius of curvature rho =) Tj
+T*
+([1 + \(y'\)^2]^{3/2} / |y''|.) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000171 00000 n 
+0000000241 00000 n 
+0000000316 00000 n 
+0000000428 00000 n 
+0000003503 00000 n 
+0000003615 00000 n 
+0000007137 00000 n 
+0000007250 00000 n 
+0000010559 00000 n 
+0000010673 00000 n 
+0000014190 00000 n 
+0000014304 00000 n 
+trailer
+<< /Size 15 /Root 1 0 R >>
+startxref
+15055
+%%EOF

@@ -1,0 +1,608 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2909 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Chemistry | Unit 4: Fuels, Calorific Values & Combustion) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 1 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(=== UNIT 4: FUELS, CALORIFIC VALUES & COMBUSTION CALCULATIONS ===) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.1 Classification and Calorific Value of Fuels) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(A fuel is a combustible carbonaceous substance that releases substantial thermal energy) Tj
+T*
+(upon reaction with oxygen.) Tj
+T*
+(* Classification: Solid \(Coal, Wood\), Liquid \(Petroleum, Diesel, Ethanol\), Gaseous) Tj
+T*
+(\(Natural gas, LPG, Biogas\).) Tj
+T*
+(* Calorific Value: Quantity of heat liberated by complete combustion of a unit) Tj
+T*
+(quantity of fuel:) Tj
+T*
+(1. Higher / Gross Calorific Value \(HCV / GCV\): Total heat released when combustion) Tj
+T*
+(products, including water vapor, are cooled to standard room temperature \(15 deg C\),) Tj
+T*
+(capturing the latent heat of condensation of steam.) Tj
+T*
+(2. Lower / Net Calorific Value \(LCV / NCV\): Practical heat available when steam escapes) Tj
+T*
+(with flue gases without condensing:) Tj
+T*
+(LCV = HCV - [ Latent Heat of Steam * Mass of Hydrogen * 9 ]) Tj
+T*
+(LCV = HCV - [ 587 * \(9 * H / 100\) ] kcal/kg = HCV - [ 52.83 * H ] kcal/kg \(or 2.45 MJ/kg) Tj
+T*
+(in SI units\).) Tj
+T*
+(* Dulong's Empirical Formula: Estimates gross calorific value from elemental ultimate) Tj
+T*
+(analysis:) Tj
+T*
+(HCV = \(1 / 100\) * [ 8,080 * C + 34,500 * \(H - O / 8\) + 2,240 * S ] kcal/kg.) Tj
+T*
+(\(O/8 accounts for combined hydrogen already bonded as water\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.2 Determination of Calorific Value via Bomb Calorimeter) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Apparatus: Heavy stainless steel cylindrical bomb lined with platinum/enamel.) Tj
+T*
+(Weighed fuel \(~0.8-1.0 g\) in crucible ignited electrically via iron/fuse wire under) Tj
+T*
+(25-30 atm pure O2 pressure, immersed in weighed water \(W\) contained in copper) Tj
+T*
+(calorimeter of water equivalent \(w\).) Tj
+T*
+(* Calculation Formula:) Tj
+T*
+(HCV = [ \(W + w\) * \(T2 - T1 + delta t\) - \(Cooling + Wire + Acid Corrections\) ] / Mass of) Tj
+T*
+(Fuel \(m\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.3 Coal Analysis: Proximate vs. Ultimate) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Proximate Analysis \(Physical empirical testing\):) Tj
+T*
+(1. Moisture \(%\): Heated at 105-110 deg C for 1 hour: % Moisture = \(Loss in mass / Mass) Tj
+T*
+(of coal\) * 100.) Tj
+T*
+(2. Volatile Matter \(%\): Heated in covered crucible at 925 +/- 20 deg C for 7 minutes: %) Tj
+T*
+(VM = \(Loss in mass - Moisture\) / Mass * 100.) Tj
+T*
+(3. Ash \(%\): Heated in open crucible at 700-750 deg C until constant weight: % Ash =) Tj
+T*
+(\(Mass of residue / Mass\) * 100.) Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 3331 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Chemistry | Unit 4: Fuels, Calorific Values & Combustion) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 2 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(4. Fixed Carbon \(%\): % FC = 100 - [ % Moisture + % VM + % Ash ]. High FC indicates) Tj
+T*
+(superior fuel.) Tj
+T*
+(* Ultimate Analysis \(Chemical elemental determination\):) Tj
+T*
+(- Carbon and Hydrogen: Determined by combustion in Liebig train; CO2 absorbed in) Tj
+T*
+(KOH tubes, H2O absorbed in anhydrous CaCl2 tubes.) Tj
+T*
+(- Nitrogen: Determined via Kjeldahl digestion with concentrated H2SO4; liberated) Tj
+T*
+(NH3 titrated against standard acid.) Tj
+T*
+(- Sulfur: Precipitated as BaSO4 using Eschka mixture.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.4 Knocking, Octane and Cetane Ratings) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Knocking in SI \(Spark-Ignition Petrol\) Engines: Pre-ignition/auto-ignition of) Tj
+T*
+(unburned fuel-air mixture ahead of flame front, producing sharp metallic pinging,) Tj
+T*
+(power loss, and cylinder wear.) Tj
+T*
+(* Octane Number: Measure of knock resistance in petrol engines. Standard scale:) Tj
+T*
+(Iso-octane \(2,2,4-trimethylpentane, highly branched, knock resistant\) assigned 100;) Tj
+T*
+(n-heptane \(straight-chain, knocks violently\) assigned 0.) Tj
+T*
+(* Cetane Number: Measure of ignition delay in CI \(Compression-Ignition Diesel\)) Tj
+T*
+(engines. Standard scale: Cetane \(n-hexadecane, short ignition delay\) assigned 100;) Tj
+T*
+(alpha-methylnaphthalene \(long ignition delay\) assigned 0.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([SOLVED PROBLEM 1: Bomb Calorimeter Experimental Calculation]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: In a Bomb Calorimeter test, 0.85 g of coal burned completely, causing the) Tj
+T*
+(temperature of 2,200 g of water in a calorimeter \(water equivalent w = 450 g\) to rise) Tj
+T*
+(from 24.20 deg C to 26.85 deg C. Cooling correction delta t = 0.05 deg C; fuse wire) Tj
+T*
+(correction = 12.0 cal; sulfur acid correction = 25.0 cal; cotton thread correction = 5.0) Tj
+T*
+(cal. If coal contains 5.0% hydrogen, calculate HCV and LCV in kcal/kg.) Tj
+T*
+(Solution Step 1: Effective Temperature Rise \(Delta T\):) Tj
+T*
+(Delta T = \(T2 - T1\) + delta t = \(26.85 - 24.20\) + 0.05 = 2.65 + 0.05 = 2.70 deg C.) Tj
+T*
+(Solution Step 2: Total Water Equivalent:) Tj
+T*
+(W + w = 2,200 g + 450 g = 2,650 g.) Tj
+T*
+(Solution Step 3: Total Corrections:) Tj
+T*
+(Total Corrections = 12.0 + 25.0 + 5.0 = 42.0 calories.) Tj
+T*
+(Solution Step 4: Calculate Gross Calorific Value \(HCV\):) Tj
+T*
+(HCV = [ \(W + w\) * Delta T - Corrections ] / m) Tj
+T*
+(HCV = [ \(2,650 * 2.70\) - 42.0 ] / 0.85 = [ 7,155 - 42.0 ] / 0.85 = 7,113 / 0.85 =) Tj
+T*
+(8,368.24 cal/g = 8,368.2 kcal/kg.) Tj
+T*
+(Solution Step 5: Calculate Net Calorific Value \(LCV\) with H = 5.0%:) Tj
+T*
+(LCV = HCV - [ 52.83 * %H ] = 8,368.2 - [ 52.83 * 5.0 ] = 8,368.2 - 264.15 = 8,104.05) Tj
+T*
+(kcal/kg.) Tj
+T*
+(Final Results: HCV = 8,368.2 kcal/kg | LCV = 8,104.1 kcal/kg.) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 3338 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Chemistry | Unit 4: Fuels, Calorific Values & Combustion) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 3 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([SOLVED PROBLEM 2: Dulong's Theoretical Calorific Value Calculation]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: Ultimate analysis of a coal sample yields: Carbon = 82.0%, Hydrogen = 6.0%,) Tj
+T*
+(Oxygen = 4.0%, Nitrogen = 2.0%, Sulfur = 1.5%, Ash = 4.5%. Calculate HCV and LCV in) Tj
+T*
+(kcal/kg using Dulong's formula.) Tj
+T*
+(Solution Step 1: Available Hydrogen:) Tj
+T*
+(Available H = H - \(O / 8\) = 6.0 - \(4.0 / 8\) = 6.0 - 0.50 = 5.50%.) Tj
+T*
+(Solution Step 2: Apply Dulong's Formula:) Tj
+T*
+(HCV = \(1 / 100\) * [ 8,080 * C + 34,500 * \(H - O/8\) + 2,240 * S ]) Tj
+T*
+(HCV = \(1 / 100\) * [ \(8,080 * 82\) + \(34,500 * 5.50\) + \(2,240 * 1.5\) ]) Tj
+T*
+(HCV = \(1 / 100\) * [ 662,560 + 189,750 + 3,360 ] = \(1 / 100\) * [ 855,670 ] = 8,556.7) Tj
+T*
+(kcal/kg.) Tj
+T*
+(Solution Step 3: Calculate LCV:) Tj
+T*
+(LCV = HCV - [ 52.83 * %H ] = 8,556.7 - [ 52.83 * 6.0 ] = 8,556.7 - 316.98 = 8,239.7) Tj
+T*
+(kcal/kg.) Tj
+T*
+(Final Answer: HCV = 8,556.7 kcal/kg | LCV = 8,239.7 kcal/kg.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([SOLVED PROBLEM 3: Proximate Analysis Quantification]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: 2.00 g of coal was heated at 105 deg C for 1 hour; residue weighed 1.88 g. The) Tj
+T*
+(same sample in a covered crucible was heated at 925 deg C for 7 minutes; residue weighed) Tj
+T*
+(1.24 g. Burning completely in an open crucible yielded 0.22 g of ash. Calculate) Tj
+T*
+(proximate analysis percentages.) Tj
+T*
+(Solution Step 1: % Moisture:) Tj
+T*
+(Loss in weight = 2.00 - 1.88 = 0.12 g.) Tj
+T*
+(% Moisture = \(0.12 / 2.00\) * 100 = 6.0%.) Tj
+T*
+(Solution Step 2: % Volatile Matter:) Tj
+T*
+(Total loss at 925 deg C = 2.00 - 1.24 = 0.76 g.) Tj
+T*
+(Loss due to volatile matter alone = 0.76 - 0.12 \(moisture\) = 0.64 g.) Tj
+T*
+(% Volatile Matter = \(0.64 / 2.00\) * 100 = 32.0%.) Tj
+T*
+(Solution Step 3: % Ash:) Tj
+T*
+(Residue = 0.22 g.) Tj
+T*
+(% Ash = \(0.22 / 2.00\) * 100 = 11.0%.) Tj
+T*
+(Solution Step 4: % Fixed Carbon:) Tj
+T*
+(% Fixed Carbon = 100 - [ 6.0 + 32.0 + 11.0 ] = 100 - 49.0 = 51.0%.) Tj
+T*
+(Final Report: Moisture = 6.0% | VM = 32.0% | Ash = 11.0% | Fixed Carbon = 51.0%.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([SOLVED PROBLEM 4: Combustion Stoichiometry and Theoretical Air Requirement]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem: A fuel gas has the volumetric composition: CH4 = 75%, C2H6 = 15%, CO = 5%, H2 =) Tj
+T*
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 3749 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Chemistry | Unit 4: Fuels, Calorific Values & Combustion) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 4 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(3%, N2 = 2%. Calculate the minimum volume of atmospheric air \(containing 21% O2 by) Tj
+T*
+(volume\) required for complete combustion of 1 m^3 of this gas.) Tj
+T*
+(Solution Step 1: Combustion Chemical Equations per m^3:) Tj
+T*
+(1. CH4 + 2 O2 -> CO2 + 2 H2O. O2 required = 0.75 * 2 = 1.50 m^3.) Tj
+T*
+(2. C2H6 + 3.5 O2 -> 2 CO2 + 3 H2O. O2 required = 0.15 * 3.5 = 0.525 m^3.) Tj
+T*
+(3. CO + 0.5 O2 -> CO2. O2 required = 0.05 * 0.5 = 0.025 m^3.) Tj
+T*
+(4. H2 + 0.5 O2 -> H2O. O2 required = 0.03 * 0.5 = 0.015 m^3.) Tj
+T*
+(5. N2 is non-combustible.) Tj
+T*
+(Solution Step 2: Total Theoretical Oxygen Required:) Tj
+T*
+(Total O2 = 1.50 + 0.525 + 0.025 + 0.015 = 2.065 m^3 of pure O2 per m^3 of gas.) Tj
+T*
+(Solution Step 3: Calculate Minimum Air Volume \(Air is 21% O2 by volume\):) Tj
+T*
+(Volume of Air = Total O2 * \(100 / 21\) = 2.065 * 4.762 = 9.833 m^3.) Tj
+T*
+(Final Answer: Exactly 9.833 m^3 of air is required per m^3 of fuel gas.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.5 University Review & Examination Questions) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Q1: Describe the construction, working, and calorific value calculation of a Bomb) Tj
+T*
+(Calorimeter with corrections.) Tj
+T*
+(Answer: Construction: The bomb calorimeter consists of a high-pressure,) Tj
+T*
+(corrosion-resistant stainless steel vessel \(bomb\) with a gas-tight screw lid, an inlet) Tj
+T*
+(valve for oxygen, and two electrical terminals connected to a platinum resistance fuse) Tj
+T*
+(wire. The fuel pellet \(~1 g\) sits in a silica crucible. The bomb is submerged in a) Tj
+T*
+(copper calorimeter containing weighed water \(W\) and an electrical stirrer, enclosed) Tj
+T*
+(within an air jacket and water jacket to prevent convective heat losses. Working: Oxygen) Tj
+T*
+(is filled to 25-30 atm. Fuel is ignited electrically. Water is continuously stirred, and) Tj
+T*
+(temperature is recorded using a Beckman thermometer readable to 0.001 deg C until peak) Tj
+T*
+(maximum is observed. Calculations: GCV = [ \(W + w\)*\(T2 - T1 + delta t\) - \(c_fuse +) Tj
+T*
+(c_acid + c_cotton\) ] / m. Corrections: \(1\) Cooling correction delta t: accounts for) Tj
+T*
+(radiation cooling; \(2\) Acid correction: exothermic formation of HNO3 and H2SO4) Tj
+T*
+(subtracted; \(3\) Fuse wire correction: heat released by burning fuse wire subtracted.) Tj
+T*
+(* Q2: Differentiate between Proximate and Ultimate analysis of coal and explain their) Tj
+T*
+(industrial significance.) Tj
+T*
+(Answer: Proximate analysis determines empirical physical constituents \(Moisture,) Tj
+T*
+(Volatile Matter, Ash, Fixed Carbon\) using simple fractional heating regimes. Ultimate) Tj
+T*
+(analysis determines elemental chemical composition \(Carbon, Hydrogen, Nitrogen, Sulfur,) Tj
+T*
+(Oxygen\) via stoichiometry. Industrial Significance: \(1\) Moisture: Lowers calorific value) Tj
+T*
+(and consumes transport costs; preferred <2%. \(2\) Volatile Matter: High VM fuels ignite) Tj
+T*
+(readily and burn with a long flame, but generate excessive smoke and soot; low VM) Tj
+T*
+(preferred for metallurgical coke. \(3\) Ash: Non-combustible inorganic residue; high ash) Tj
+T*
+(reduces heating value, causes clinkering on boiler grates, and increases disposal costs.) Tj
+T*
+(\(4\) Fixed Carbon: Real heat-producing combustible core; higher FC corresponds directly) Tj
+T*
+(to superior calorific value and boiler thermal efficiency.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 4.6 Key Takeaways and Revision Points) Tj
+T*
+/F1 9 Tf
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 725 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Chemistry | Unit 4: Fuels, Calorific Values & Combustion) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Biotechnology Study Notes) Tj
+340 0 Td
+(Page 5 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+() Tj
+T*
+(* Higher Calorific Value captures latent heat of steam; LCV = HCV - 52.83 * %H) Tj
+T*
+(kcal/kg.) Tj
+T*
+(* Bomb calorimeter measures GCV directly; Dulong's formula computes GCV from) Tj
+T*
+(elemental analysis.) Tj
+T*
+(* Proximate analysis measures Moisture, VM, Ash, and Fixed Carbon.) Tj
+T*
+(* Octane rating measures petrol knock resistance; Cetane rating measures diesel) Tj
+T*
+(ignition quality.) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000171 00000 n 
+0000000241 00000 n 
+0000000316 00000 n 
+0000000428 00000 n 
+0000003389 00000 n 
+0000003501 00000 n 
+0000006884 00000 n 
+0000006997 00000 n 
+0000010388 00000 n 
+0000010502 00000 n 
+0000014304 00000 n 
+0000014418 00000 n 
+trailer
+<< /Size 15 /Root 1 0 R >>
+startxref
+15195
+%%EOF

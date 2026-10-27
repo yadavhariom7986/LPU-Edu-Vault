@@ -1,0 +1,644 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2988 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Orientation to Computing | Unit 6: Cloud Architecture & Cybersecurity) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 1 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(ORIENTATION TO COMPUTING) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 10.5 Tf
+(UNIT 6: CLOUD COMPUTING, VIRTUALIZATION & CYBERSECURITY ESSENTIALS) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Curriculum: Lovely Professional University | School of Computer Science & Engineering) Tj
+T*
+(Reference: Cloud Computing: Principles and Paradigms by Rajkumar Buyya & Cryptography) Tj
+T*
+(and Network Security by William Stallings) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.1 Fundamentals and Architectural Models of Cloud Computing) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Cloud computing is a model for enabling ubiquitous, convenient, on-demand network access) Tj
+T*
+(to a shared pool of configurable computing resources that can be rapidly provisioned) Tj
+T*
+(with minimal management effort:) Tj
+T*
+(* 5 Essential Characteristics \(NIST Special Publication 800-145\):) Tj
+T*
+(- 1. On-Demand Self-Service: Consumers provision server time and network storage) Tj
+T*
+(automatically without human interaction with service providers.) Tj
+T*
+(- 2. Broad Network Access: Capabilities accessible over network through standard) Tj
+T*
+(heterogeneous client platforms \(laptops, mobile phones, thin clients\).) Tj
+T*
+(- 3. Resource Pooling: Provider computing resources pooled to serve multiple consumers) Tj
+T*
+(using a multi-tenant model with dynamic physical/virtual reassignment.) Tj
+T*
+(- 4. Rapid Elasticity: Capabilities elastically provisioned and released to scale) Tj
+T*
+(outward and inward commensurate with demand \(auto-scaling\).) Tj
+T*
+(- 5. Measured Service: Resource usage monitored, controlled, and reported, providing) Tj
+T*
+(transparency and Pay-As-You-Go billing.) Tj
+T*
+(* The 3 Primary Cloud Service Models \(SPI Tier\):) Tj
+T*
+(- IaaS \(Infrastructure as a Service\): Provides raw compute VMs, storage, networks.) Tj
+T*
+(Customer manages OS, runtime, and apps \(AWS EC2, Google Compute Engine, Azure VMs\).) Tj
+T*
+(- PaaS \(Platform as a Service\): Provides hardware, OS, and development runtime) Tj
+T*
+(frameworks. Customer deploys application code without managing underlying servers) Tj
+T*
+(\(Google App Engine, Heroku, AWS Elastic Beanstalk\).) Tj
+T*
+(- SaaS \(Software as a Service\): Complete cloud application accessible via web browser.) Tj
+T*
+(Customer manages only user data and settings \(Google Workspace, Microsoft 365,) Tj
+T*
+(Salesforce\).) Tj
+T*
+(* Cloud Deployment Models: Public Cloud \(AWS, GCP\), Private Cloud \(dedicated internal) Tj
+T*
+(infrastructure\), Hybrid Cloud \(combining public and private via secure) Tj
+T*
+(VPN/DirectConnect\), Community Cloud.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.2 Virtualization Technologies: Hypervisors vs Containers) Tj
+T*
+/F1 9 Tf
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 3254 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Orientation to Computing | Unit 6: Cloud Architecture & Cybersecurity) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 2 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+() Tj
+T*
+(* Virtualization: The abstraction of physical computer hardware via software,) Tj
+T*
+(enabling multiple isolated operating system environments to execute concurrently on a) Tj
+T*
+(single physical host:) Tj
+T*
+(* Type-1 Hypervisor \(Bare-Metal\): Runs directly on physical host hardware without an) Tj
+T*
+(underlying host OS. Maximum performance, lowest latency, enterprise standard \(VMware) Tj
+T*
+(ESXi, Microsoft Hyper-V, KVM, Xen\).) Tj
+T*
+(* Type-2 Hypervisor \(Hosted\): Runs as a software application on top of a standard) Tj
+T*
+(host OS. Higher overhead \(VirtualBox, VMware Workstation\).) Tj
+T*
+(* Containerization \(OS-Level Virtualization - Docker\):) Tj
+T*
+(- Core Paradigm: Containers share the host operating system kernel directly, packaging) Tj
+T*
+(only user-space binaries, libraries, and application dependencies.) Tj
+T*
+(- Linux Kernel Primitives: Namespaces \(providing isolated views of PID, Network, Mount) Tj
+T*
+(points, IPC\) and Cgroups \(enforcing resource limits on CPU, memory, I/O bandwidth\).) Tj
+T*
+(- Advantages over VMs: Lightweight \(megabytes vs gigabytes\), near-instantaneous startup) Tj
+T*
+(\(milliseconds vs minutes\), high server density, unified dev-to-prod parity.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.3 Cybersecurity Fundamentals: The CIA Triad and Cryptography) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* The CIA Triad \(The Core Tenets of Information Security\):) Tj
+T*
+(- Confidentiality: Ensuring sensitive data is accessible strictly to authorized entities) Tj
+T*
+(\(enforced via Encryption, Access Control Lists\).) Tj
+T*
+(- Integrity: Ensuring information is accurate and has not been maliciously or) Tj
+T*
+(accidentally tampered with \(enforced via Cryptographic Hash Functions: SHA-256, HMAC\).) Tj
+T*
+(- Availability: Ensuring computing services and data remain accessible to authorized) Tj
+T*
+(users when needed \(enforced via Redundancy, DDoS Mitigation, Fault Tolerance\).) Tj
+T*
+(* Cryptographic Paradigms:) Tj
+T*
+(- Symmetric Key Cryptography: Same secret key used for encryption and decryption. Fast,) Tj
+T*
+(high throughput \(AES-256, ChaCha20\). Key exchange problem is major challenge.) Tj
+T*
+(- Asymmetric Key \(Public Key\) Cryptography: Mathematically linked key pair. Public key) Tj
+T*
+(encrypts data; matching Private key decrypts data \(RSA, Elliptic Curve Cryptography -) Tj
+T*
+(ECC\). Used for key exchange, digital signatures, SSL/TLS certificates.) Tj
+T*
+(- Cryptographic Hash Functions: One-way deterministic mathematical functions producing) Tj
+T*
+(fixed-size digest \(e.g., SHA-256\). Pre-image resistant, second pre-image resistant,) Tj
+T*
+(collision resistant.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.4 Common Cyber Threats, Attack Vectors and Defenses) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Malware Taxonomies: Viruses \(attach to host files\), Worms \(self-replicating across) Tj
+T*
+(networks without host intervention\), Trojan Horses \(disguised malicious utilities\),) Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 3219 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Orientation to Computing | Unit 6: Cloud Architecture & Cybersecurity) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 3 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(Ransomware \(encrypts user files and demands cryptocurrency ransom\),) Tj
+T*
+(Spyware/Keyloggers.) Tj
+T*
+(* Network Attacks: Man-in-the-Middle \(MitM - eavesdropping and injecting packets\),) Tj
+T*
+(Denial of Service / Distributed Denial of Service \(DoS/DDoS - flooding targets with) Tj
+T*
+(botnet traffic\), Phishing / Social Engineering.) Tj
+T*
+(* Defense Mechanisms: Stateful Inspection Firewalls, Intrusion Detection & Prevention) Tj
+T*
+(Systems \(IDS/IPS\), Multi-Factor Authentication \(MFA\), Zero Trust Architecture \(Never) Tj
+T*
+(Trust, Always Verify\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.5 Emerging Computing Paradigms: IoT, AI Infrastructure & Blockchain) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Internet of Things \(IoT\): Constellation of physical devices embedded with sensors,) Tj
+T*
+(processing power, and connectivity to exchange telemetry via lightweight protocols) Tj
+T*
+(\(MQTT, CoAP\).) Tj
+T*
+(* Edge Computing: Processing data locally near the point of generation \(at the) Tj
+T*
+(network edge/gateway\) rather than routing all raw streams to centralized cloud) Tj
+T*
+(datacenters, minimizing latency and bandwidth consumption.) Tj
+T*
+(* Blockchain & Distributed Ledgers: Immutable append-only chain of cryptographically) Tj
+T*
+(linked blocks maintaining consensus across decentralized peer-to-peer networks \(Proof) Tj
+T*
+(of Work, Proof of Stake\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROBLEM 1: Containerization vs Virtual Machines Performance Benchmark]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Statement: An engineering team compares deploying 100 microservice instances) Tj
+T*
+(using Virtual Machines \(VMs running on a Type-1 hypervisor\) versus Docker containers on) Tj
+T*
+(Linux. Quantitatively compare: \(1\) Storage footprint, \(2\) Memory overhead, and \(3\)) Tj
+T*
+(Startup latency.) Tj
+T*
+(Architectural Performance Matrix:) Tj
+T*
+(* 1. Storage Footprint Comparison:) Tj
+T*
+(- VM Approach: Each VM requires a complete Guest OS image \(Ubuntu ~2.5 GB minimum\) plus) Tj
+T*
+(application \(~50 MB\). Total storage = 100 x 2.55 GB = 255 GB.) Tj
+T*
+(- Container Approach: Base Alpine/Debian image shared via union filesystem; application) Tj
+T*
+(image layer = ~60 MB. Total storage = ~2.5 GB base + \(100 x 60 MB delta\) = ~8.5 GB \(a) Tj
+T*
+(30x storage reduction!\).) Tj
+T*
+(* 2. RAM Memory Consumption:) Tj
+T*
+(- VM: Each Guest OS kernel and system daemons require minimum 512 MB reserved RAM before) Tj
+T*
+(application starts. Total idle RAM = 100 x 512 MB = 51.2 GB.) Tj
+T*
+(- Container: Shares single host kernel. Containers consume zero idle kernel overhead;) Tj
+T*
+(only active application memory \(~25 MB each\). Total RAM = 100 x 25 MB = 2.5 GB \(a 20x) Tj
+T*
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 2791 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Orientation to Computing | Unit 6: Cloud Architecture & Cybersecurity) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 4 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(RAM savings!\).) Tj
+T*
+(* 3. Startup Latency:) Tj
+T*
+(- VM: Cold OS boot, BIOS/UEFI emulation, systemd daemon initialization = 30 to 60) Tj
+T*
+(seconds.) Tj
+T*
+(- Container: Creating kernel namespaces and launching process = 50 to 200 milliseconds) Tj
+T*
+(\(300x faster\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROBLEM 2: RSA Public Key Cryptosystem Mathematical Computation]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Statement: Demonstrate RSA Public Key cryptography end-to-end using prime) Tj
+T*
+(numbers p = 11 and q = 13. \(1\) Calculate modulus n and Euler totient phi\(n\), \(2\) Choose) Tj
+T*
+(public key exponent e = 7 and calculate private key exponent d, and \(3\) Encrypt) Tj
+T*
+(plaintext message M = 9, then decrypt the resulting ciphertext C.) Tj
+T*
+(Step-by-Step Mathematical Derivation:) Tj
+T*
+(* 1. Calculate Modulus and Totient:) Tj
+T*
+(- Modulus: n = p x q = 11 x 13 = 143.) Tj
+T*
+(- Euler Totient: phi\(n\) = \(p - 1\) x \(q - 1\) = \(11 - 1\) x \(13 - 1\) = 10 x 12 = 120.) Tj
+T*
+(* 2. Key Generation:) Tj
+T*
+(- Public Exponent: e = 7 \(Check: gcd\(7, 120\) = 1, valid coprimes\). Public Key = \(e, n\) =) Tj
+T*
+(\(7, 143\).) Tj
+T*
+(- Private Exponent \(d\): Modular multiplicative inverse: \(d x e\) mod phi\(n\) = 1 -> \(d x) Tj
+T*
+(7\) mod 120 = 1.) Tj
+T*
+(- Solving via Extended Euclidean Algorithm: 120 = 7 x 17 + 1 -> 1 = 120 - 7 x 17 = 120 x) Tj
+T*
+(\(1\) + 7 x \(-17\).) Tj
+T*
+(- d = -17 mod 120 = 120 - 17 = 103. Check: \(103 x 7\) = 721 = \(6 x 120\) + 1 = 1 mod 120) Tj
+T*
+(\(Verified!\).) Tj
+T*
+(- Private Key = \(d, n\) = \(103, 143\).) Tj
+T*
+(* 3. Encryption of Message M = 9:) Tj
+T*
+(- Ciphertext C = \(M^e\) mod n = \(9^7\) mod 143.) Tj
+T*
+(- 9^2 = 81 mod 143 | 9^4 = 81^2 = 6561 = 45 x 143 + 126 = 126 mod 143 = -17 mod 143.) Tj
+T*
+(- 9^7 = 9^4 x 9^2 x 9 = \(-17\) x 81 x 9 = \(-17\) x 729 = \(-17\) x \(5 x 143 + 14\) = -17 x 14) Tj
+T*
+(= -238.) Tj
+T*
+(- -238 mod 143 = -238 + 2 x 143 = -238 + 286 = 48.) Tj
+T*
+(- Ciphertext C = 48.) Tj
+T*
+(* 4. Decryption of Ciphertext C = 48:) Tj
+T*
+(- Plaintext M = \(C^d\) mod n = \(48^103\) mod 143 = 9 \(Original message recovered) Tj
+T*
+(perfectly!\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 3440 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Orientation to Computing | Unit 6: Cloud Architecture & Cybersecurity) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 5 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+/F2 9.5 Tf
+([PROBLEM 3: Defense-in-Depth Cybersecurity Architecture Design]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Design an enterprise multi-tier cybersecurity architecture to defend an) Tj
+T*
+(electronic health records \(EHR\) database against modern Ransomware attacks.) Tj
+T*
+(Tiered Defense Implementation Protocol:) Tj
+T*
+(* 1. Perimeter Tier \(Network Ingress\): Next-Generation Firewall \(NGFW\) with deep) Tj
+T*
+(packet inspection; Web Application Firewall \(WAF\) blocking SQL injection and) Tj
+T*
+(cross-site scripting \(XSS\); DDoS mitigation shield.) Tj
+T*
+(* 2. Network Demilitarized Zone \(DMZ\): Isolate public-facing web servers from backend) Tj
+T*
+(databases. Zero-trust network microsegmentation preventing lateral lateral movement) Tj
+T*
+(between subnets.) Tj
+T*
+(* 3. Endpoint Tier: Endpoint Detection and Response \(EDR\) software with behavioral) Tj
+T*
+(heuristic monitoring to detect unauthorized bulk cryptographic file modifications;) Tj
+T*
+(mandatory application whitelisting.) Tj
+T*
+(* 4. Identity & Access Management \(IAM\): Role-Based Access Control \(RBAC\);) Tj
+T*
+(Multi-Factor Authentication \(MFA\) via FIDO2 hardware keys; strictly adhere to the) Tj
+T*
+(Principle of Least Privilege \(PoLP\).) Tj
+T*
+(* 5. Data & Storage Tier: End-to-end AES-256 encryption for data at rest and TLS 1.3) Tj
+T*
+(for data in transit; immutable, air-gapped write-once-read-many \(WORM\) offline) Tj
+T*
+(backups to guarantee recovery without paying ransom.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROBLEM 4: Edge Computing vs Cloud Latency Analysis in Autonomous Systems]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Statement: An autonomous vehicle traveling at 100 km/h \(27.78 m/s\) utilizes) Tj
+T*
+(high-resolution LiDAR and cameras to detect unexpected road obstacles. Compare obstacle) Tj
+T*
+(reaction distance between: \(1\) Local On-Board Edge Processing \(latency 15 ms\), and \(2\)) Tj
+T*
+(Cloud Datacenter Processing \(uplink + compute + downlink latency 180 ms\).) Tj
+T*
+(Mathematical Derivation:) Tj
+T*
+(* 1. Reaction Distance Formula: Distance = Velocity \(m/s\) x Total Decision Latency) Tj
+T*
+(\(s\).) Tj
+T*
+(* 2. Local Edge Computing Processing:) Tj
+T*
+(- Total latency = 15 ms = 0.015 seconds.) Tj
+T*
+(- Reaction distance = 27.78 m/s x 0.015 s = 0.417 meters \(approx 42 cm\). Vehicle) Tj
+T*
+(initiates emergency braking within less than half a meter of obstacle detection.) Tj
+T*
+(* 3. Centralized Cloud Datacenter Processing:) Tj
+T*
+(- Total latency = 180 ms = 0.180 seconds.) Tj
+T*
+(- Reaction distance = 27.78 m/s x 0.180 s = 5.00 meters.) Tj
+T*
+(* 4. Engineering Impact: Centralized cloud processing introduces an unacceptable) Tj
+T*
+(5-meter blind delay before brakes can be applied, proving why life-critical) Tj
+T*
+(autonomous systems mandate localized edge computing.) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000171 00000 n 
+0000000241 00000 n 
+0000000316 00000 n 
+0000000428 00000 n 
+0000003468 00000 n 
+0000003580 00000 n 
+0000006886 00000 n 
+0000006999 00000 n 
+0000010271 00000 n 
+0000010385 00000 n 
+0000013229 00000 n 
+0000013343 00000 n 
+trailer
+<< /Size 15 /Root 1 0 R >>
+startxref
+16836
+%%EOF

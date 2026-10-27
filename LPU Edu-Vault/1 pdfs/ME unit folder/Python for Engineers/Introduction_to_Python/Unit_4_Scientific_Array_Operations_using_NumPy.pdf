@@ -1,0 +1,9884 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R 35 0 R 37 0 R 39 0 R 41 0 R 43 0 R 45 0 R 47 0 R 49 0 R 51 0 R 53 0 R 55 0 R] /Count 27 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 4 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 7937 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 1 of 27) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(1.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What is the primary multidimensional container) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(class provided by the NumPy package?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(list) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(matrix) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(ndarray) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(vector) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(2.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(Which function creates a NumPy array initialized) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(entirely with zeros?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(np.empty\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(np.zeros\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(np.null\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(np.zeroes\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(3.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(What does the expression `np.arange\(0, 10, 2\)`) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(generate?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.5001 Td
+([0, 2, 4, 6, 8, 10]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.9001 Td
+([0, 2, 4, 6, 8]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.3002 Td
+([2, 4, 6, 8, 10]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 587.7002 Td
+([0, 1, 2, 3, 4]) Tj
+ET
+BT
+/F2 8.0 Tf
+42 564.1002 Td
+(4.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(How is an evenly spaced array of 5 points) Tj
+ET
+BT
+/F1 7.8 Tf
+58 554.9002 Td
+(between 0 and 1 \(inclusive\) generated?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 543.2002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 543.2002 Td
+(np.linspace\(0, 1, 5\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 533.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 533.6002 Td
+(np.range\(0, 1, 5\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.0002 Td
+(np.arange\(0, 1, 0.2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 514.4003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 514.4003 Td
+(np.interval\(0, 1, 5\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 490.8003 Td
+(5.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 490.8003 Td
+(Which attribute of an ndarray returns the total) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6003 Td
+(number of dimensions \(axes\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 469.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 469.9002 Td
+(shape) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.3002 Td
+(size) Tj
+ET
+BT
+/F2 7.4 Tf
+58 450.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 450.7002 Td
+(ndim) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.1002 Td
+(itemsize) Tj
+ET
+BT
+/F2 8.0 Tf
+42 417.5002 Td
+(6.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 417.5002 Td
+(Which attribute reveals a tuple of integers) Tj
+ET
+BT
+/F1 7.8 Tf
+58 408.3002 Td
+(indicating the size along each dimension?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 396.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 396.6002 Td
+(dim) Tj
+ET
+BT
+/F2 7.4 Tf
+58 387.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 387.0002 Td
+(shape) Tj
+ET
+BT
+/F2 7.4 Tf
+58 377.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 377.4002 Td
+(size) Tj
+ET
+BT
+/F2 7.4 Tf
+58 367.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 367.8002 Td
+(len) Tj
+ET
+BT
+/F2 8.0 Tf
+42 344.2002 Td
+(7.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 344.2002 Td
+(What does `arr.size` return for an array with) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.0002 Td
+(shape \(3, 4\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 323.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 323.3001 Td
+(7) Tj
+ET
+BT
+/F2 7.4 Tf
+58 313.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 313.7001 Td
+(12) Tj
+ET
+BT
+/F2 7.4 Tf
+58 304.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 304.1001 Td
+(3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 294.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 294.5001 Td
+(4) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(8.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Which attribute returns the total memory) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(consumed by a single array element in bytes?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(itemsize) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(nbytes) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(bytes) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(bitsize) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(9.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(What is the result of `np.eye\(3\)`?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 699.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 699.0001 Td
+(3x3 array of ones) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.4001 Td
+(3x3 identity matrix with ones on main) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.8001 Td
+(diagonal) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.2001 Td
+(3x3 array of random numbers) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.6002 Td
+(1D array of length 3) Tj
+ET
+BT
+/F2 8.0 Tf
+306 638.0002 Td
+(10.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 638.0002 Td
+(What is the default floating-point data type in) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.8002 Td
+(NumPy on 64-bit systems?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 617.1002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 617.1002 Td
+(float16) Tj
+ET
+BT
+/F2 7.4 Tf
+322 607.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.5002 Td
+(float32) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.9002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.9002 Td
+(float64) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.3002 Td
+(float128) Tj
+ET
+BT
+/F2 8.0 Tf
+306 564.7003 Td
+(11.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.7003 Td
+(Which function creates an identity matrix with) Tj
+ET
+BT
+/F1 7.8 Tf
+322 555.5002 Td
+(ones on diagonal and zeros elsewhere?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 543.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 543.8002 Td
+(np.diag\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 534.2003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 534.2003 Td
+(np.identity\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.6003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.6003 Td
+(np.ones\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 515.0003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 515.0003 Td
+(np.zeros\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 491.4003 Td
+(12.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 491.4003 Td
+(What does `np.full\(\(2, 2\), 7\)` return?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 479.7003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 479.7003 Td
+(2x2 array filled with 7) Tj
+ET
+BT
+/F2 7.4 Tf
+322 470.1003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 470.1003 Td
+(1D array [7, 7]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.5003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.5003 Td
+(Matrix with 7 on diagonal) Tj
+ET
+BT
+/F2 7.4 Tf
+322 450.9003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 450.9003 Td
+(Error) Tj
+ET
+BT
+/F2 8.0 Tf
+306 427.3003 Td
+(13.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 427.3003 Td
+(How do you cast an existing array `arr` to) Tj
+ET
+BT
+/F1 7.8 Tf
+322 418.1003 Td
+(32-bit floating point?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 406.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 406.4002 Td
+(arr.to_float\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 396.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 396.8002 Td
+(arr.astype\(np.float32\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.2002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.2002 Td
+(float\(arr\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.6002 Td
+(np.cast\(arr, 32\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 354.0002 Td
+(14.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 354.0002 Td
+(What is the result of basic arithmetic `a + b`) Tj
+ET
+BT
+/F1 7.8 Tf
+322 344.8002 Td
+(between two NumPy arrays of shape \(4,\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 333.1002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 333.1002 Td
+(Matrix product) Tj
+ET
+BT
+/F2 7.4 Tf
+322 323.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 323.5002 Td
+(Element-wise addition) Tj
+ET
+BT
+/F2 7.4 Tf
+322 313.9002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 313.9002 Td
+(Concatenation into length 8) Tj
+ET
+BT
+/F2 7.4 Tf
+322 304.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 304.3002 Td
+(Dot product) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 6 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+6 0 obj
+<< /Length 7987 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 2 of 27) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(15.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What is the result of `np.array\([1, 2, 3]\) * 2`?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 772.3 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 772.3 Td
+([1, 2, 3, 1, 2, 3]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 762.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 762.7 Td
+([2, 4, 6]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.1 Td
+(TypeError) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.5001 Td
+(6) Tj
+ET
+BT
+/F2 8.0 Tf
+42 719.9001 Td
+(16.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 719.9001 Td
+(What does `arr[1, 2]` retrieve from a 2D) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(ndarray?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 699.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 699.0001 Td
+(Element at row index 1, column index 2) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.4001 Td
+(Subarray of 2 rows) Tj
+ET
+BT
+/F2 7.4 Tf
+58 679.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 679.8001 Td
+(Element at row 2, col 1) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.2001 Td
+(Slice from 1 to 2) Tj
+ET
+BT
+/F2 8.0 Tf
+42 646.6002 Td
+(17.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 646.6002 Td
+(What does `arr[:, 0]` extract from a 2D matrix?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 634.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 634.9001 Td
+(First row) Tj
+ET
+BT
+/F2 7.4 Tf
+58 625.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 625.3002 Td
+(First column) Tj
+ET
+BT
+/F2 7.4 Tf
+58 615.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 615.7002 Td
+(Main diagonal) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.1002 Td
+(Entire matrix) Tj
+ET
+BT
+/F2 8.0 Tf
+42 582.5002 Td
+(18.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 582.5002 Td
+(What does `arr[0, :]` extract from a 2D matrix?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 570.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 570.8002 Td
+(First row) Tj
+ET
+BT
+/F2 7.4 Tf
+58 561.2003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 561.2003 Td
+(First column) Tj
+ET
+BT
+/F2 7.4 Tf
+58 551.6003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 551.6003 Td
+(Last column) Tj
+ET
+BT
+/F2 7.4 Tf
+58 542.0003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 542.0003 Td
+(Single scalar) Tj
+ET
+BT
+/F2 8.0 Tf
+42 518.4003 Td
+(19.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 518.4003 Td
+(Which function changes array shape without) Tj
+ET
+BT
+/F1 7.8 Tf
+58 509.2003 Td
+(modifying its data?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 497.5003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 497.5003 Td
+(np.change_shape\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 487.9003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 487.9003 Td
+(np.reshape\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 478.3003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 478.3003 Td
+(np.reorder\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 468.7003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 468.7003 Td
+(np.resize\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 445.1003 Td
+(20.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 445.1003 Td
+(What does `arr.reshape\(-1, 1\)` do to a 1D array) Tj
+ET
+BT
+/F1 7.8 Tf
+58 435.9003 Td
+(of 6 elements?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 424.2003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 424.2003 Td
+(Produces a 2D column vector of shape \(6, 1\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 414.6003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 414.6003 Td
+(Flattens the array) Tj
+ET
+BT
+/F2 7.4 Tf
+58 405.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 405.0002 Td
+(Produces shape \(1, 6\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 395.4002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 395.4002 Td
+(Throws error) Tj
+ET
+BT
+/F2 8.0 Tf
+42 371.8002 Td
+(21.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 371.8002 Td
+(Which method flattens a multi-dimensional array) Tj
+ET
+BT
+/F1 7.8 Tf
+58 362.6002 Td
+(and returns a contiguous 1D copy?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 350.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 350.9002 Td
+(ravel\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 341.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 341.3002 Td
+(flatten\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 331.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 331.7002 Td
+(squeeze\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 322.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 322.1002 Td
+(flat\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(22.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What is the difference between `ravel\(\)` and) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(`flatten\(\)`?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(flatten\(\) returns a copy; ravel\(\) returns a) Tj
+ET
+BT
+/F1 7.4 Tf
+336 754.5 Td
+(view whenever possible) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.9 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.9 Td
+(ravel\(\) returns a copy; flatten\(\) returns a) Tj
+ET
+BT
+/F1 7.4 Tf
+336 736.3 Td
+(view) Tj
+ET
+BT
+/F2 7.4 Tf
+322 726.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 726.7001 Td
+(ravel\(\) only works on 3D) Tj
+ET
+BT
+/F2 7.4 Tf
+322 717.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 717.1001 Td
+(No difference) Tj
+ET
+BT
+/F2 8.0 Tf
+306 693.5001 Td
+(23.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 693.5001 Td
+(What does `np.sum\(arr, axis=0\)` compute for a 2D) Tj
+ET
+BT
+/F1 7.8 Tf
+322 684.3001 Td
+(matrix?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 672.6001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 672.6001 Td
+(Sum across entire matrix) Tj
+ET
+BT
+/F2 7.4 Tf
+322 663.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 663.0001 Td
+(Sum of each column \(down rows\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 653.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 653.4001 Td
+(Sum of each row \(across columns\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 643.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 643.8002 Td
+(Cumulative sum) Tj
+ET
+BT
+/F2 8.0 Tf
+306 620.2002 Td
+(24.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 620.2002 Td
+(What does `np.sum\(arr, axis=1\)` compute for a 2D) Tj
+ET
+BT
+/F1 7.8 Tf
+322 611.0002 Td
+(matrix?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 599.3002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 599.3002 Td
+(Sum of each row \(across columns\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 589.7002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 589.7002 Td
+(Sum of each column) Tj
+ET
+BT
+/F2 7.4 Tf
+322 580.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 580.1002 Td
+(Total sum) Tj
+ET
+BT
+/F2 7.4 Tf
+322 570.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 570.5002 Td
+(Average) Tj
+ET
+BT
+/F2 8.0 Tf
+306 546.9003 Td
+(25.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 546.9003 Td
+(Which function finds the index of the maximum) Tj
+ET
+BT
+/F1 7.8 Tf
+322 537.7003 Td
+(value in an ndarray?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 526.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 526.0002 Td
+(np.max\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 516.4003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 516.4003 Td
+(np.argmax\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 506.8003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 506.8003 Td
+(np.findmax\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 497.2003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 497.2003 Td
+(np.maximum\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 473.6003 Td
+(26.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 473.6003 Td
+(What does `np.min\(arr\)` calculate?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 461.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 461.9002 Td
+(Smallest value in the entire array) Tj
+ET
+BT
+/F2 7.4 Tf
+322 452.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 452.3002 Td
+(Indices of minimums) Tj
+ET
+BT
+/F2 7.4 Tf
+322 442.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 442.7002 Td
+(Zero elements) Tj
+ET
+BT
+/F2 7.4 Tf
+322 433.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 433.1002 Td
+(Absolute difference) Tj
+ET
+BT
+/F2 8.0 Tf
+306 409.5002 Td
+(27.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 409.5002 Td
+(Which function computes the arithmetic mean) Tj
+ET
+BT
+/F1 7.8 Tf
+322 400.3002 Td
+(along a specified axis?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 388.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 388.6002 Td
+(np.average\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 379.0002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 379.0002 Td
+(np.mean\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 369.4002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 369.4002 Td
+(np.median\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 359.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 359.8002 Td
+(np.mode\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 336.2002 Td
+(28.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 336.2002 Td
+(What does `np.std\(arr\)` compute?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 324.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 324.5002 Td
+(Standard deviation) Tj
+ET
+BT
+/F2 7.4 Tf
+322 314.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 314.9001 Td
+(Variance) Tj
+ET
+BT
+/F2 7.4 Tf
+322 305.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 305.3001 Td
+(Standard error) Tj
+ET
+BT
+/F2 7.4 Tf
+322 295.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 295.7001 Td
+(Skewness) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 8 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+8 0 obj
+<< /Length 8462 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 3 of 27) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(29.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What does `np.var\(arr\)` compute?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 772.3 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 772.3 Td
+(Variance) Tj
+ET
+BT
+/F2 7.4 Tf
+58 762.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 762.7 Td
+(Variable name) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.1 Td
+(Standard deviation) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.5001 Td
+(Covariance) Tj
+ET
+BT
+/F2 8.0 Tf
+42 719.9001 Td
+(30.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 719.9001 Td
+(What does `np.transpose\(arr\)` or `arr.T` do to a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(2D array?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 699.0001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 699.0001 Td
+(Inverts the matrix) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.4001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.4001 Td
+(Permutes rows and columns \(transposes\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 679.8001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 679.8001 Td
+(Calculates determinant) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.2001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.2001 Td
+(Flattens array) Tj
+ET
+BT
+/F2 8.0 Tf
+42 646.6002 Td
+(31.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 646.6002 Td
+(What does the operator `@` perform between two) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(2D NumPy arrays?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 625.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 625.7001 Td
+(Element-wise multiplication) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.1002 Td
+(Matrix multiplication \(dot product\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.5002 Td
+(Kronecker product) Tj
+ET
+BT
+/F2 7.4 Tf
+58 596.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 596.9002 Td
+(Cross product) Tj
+ET
+BT
+/F2 8.0 Tf
+42 573.3002 Td
+(32.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 573.3002 Td
+(What does `a * b` perform between two 2D arrays) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(of identical shape?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 552.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 552.4002 Td
+(Hadamard \(element-wise\) multiplication) Tj
+ET
+BT
+/F2 7.4 Tf
+58 542.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 542.8002 Td
+(Matrix multiplication) Tj
+ET
+BT
+/F2 7.4 Tf
+58 533.2003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 533.2003 Td
+(Outer product) Tj
+ET
+BT
+/F2 7.4 Tf
+58 523.6003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 523.6003 Td
+(Convolution) Tj
+ET
+BT
+/F2 8.0 Tf
+42 500.0003 Td
+(33.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 500.0003 Td
+(Which function generates an array of standard) Tj
+ET
+BT
+/F1 7.8 Tf
+58 490.8003 Td
+(normally distributed random numbers \(mean 0, std) Tj
+ET
+BT
+/F1 7.8 Tf
+58 481.6003 Td
+(1\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 469.9003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 469.9003 Td
+(np.random.random\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.3003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.3003 Td
+(np.random.randn\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 450.7003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 450.7003 Td
+(np.random.uniform\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 441.1003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 441.1003 Td
+(np.random.randint\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 417.5002 Td
+(34.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 417.5002 Td
+(How is reproducibility in random number) Tj
+ET
+BT
+/F1 7.8 Tf
+58 408.3002 Td
+(generation established in modern NumPy?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 396.6002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 396.6002 Td
+(np.random.seed\(42\) or) Tj
+ET
+BT
+/F1 7.4 Tf
+72 388.0002 Td
+(np.random.default_rng\(42\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 378.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 378.4002 Td
+(np.random.freeze\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 368.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 368.8002 Td
+(np.random.constant\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 359.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 359.2002 Td
+(np.random.set\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 335.6002 Td
+(35.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 335.6002 Td
+(What is the output of `np.clip\(arr, 0, 5\)`?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 323.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 323.9002 Td
+(Discards elements outside [0, 5]) Tj
+ET
+BT
+/F2 7.4 Tf
+58 314.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 314.3002 Td
+(Limits array values such that values < 0) Tj
+ET
+BT
+/F1 7.4 Tf
+72 305.7002 Td
+(become 0 and values > 5 become 5) Tj
+ET
+BT
+/F2 7.4 Tf
+58 296.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 296.1002 Td
+(Resizes array to 5) Tj
+ET
+BT
+/F2 7.4 Tf
+58 286.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 286.5002 Td
+(Splits at 5) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(36.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(Which function checks if any element in a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(boolean array is True?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.1 Td
+(np.all\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.5 Td
+(np.any\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 743.9 Td
+(np.is_true\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.3 Td
+(np.contains\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 710.7001 Td
+(37.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 710.7001 Td
+(Which function checks if every element in a) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(boolean array is True?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 689.8 Td
+(np.any\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.2001 Td
+(np.all\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 670.6001 Td
+(np.true\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.0001 Td
+(np.check\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 637.4001 Td
+(38.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 637.4001 Td
+(What does `np.diff\([1, 4, 9, 16]\)` produce?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 625.7001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 625.7001 Td
+([3, 5, 7]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.1002 Td
+([1, 3, 5, 7]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 606.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 606.5002 Td
+([4, 9, 16]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 596.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 596.9002 Td
+([3, 3, 3]) Tj
+ET
+BT
+/F2 8.0 Tf
+306 573.3002 Td
+(39.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 573.3002 Td
+(Which function calculates the cumulative sum of) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.1002 Td
+(array elements?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 552.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 552.4002 Td
+(np.sum\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 542.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 542.8002 Td
+(np.cumsum\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 533.2003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 533.2003 Td
+(np.cumprod\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 523.6003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 523.6003 Td
+(np.trapz\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 500.0003 Td
+(40.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 500.0003 Td
+(What does `np.squeeze\(arr\)` do?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 488.3003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 488.3003 Td
+(Removes single-dimensional entries) Tj
+ET
+BT
+/F1 7.4 Tf
+336 479.7003 Td
+(\(dimensions of size 1\) from the shape) Tj
+ET
+BT
+/F2 7.4 Tf
+322 470.1003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 470.1003 Td
+(Compresses array using zip) Tj
+ET
+BT
+/F2 7.4 Tf
+322 460.5003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 460.5003 Td
+(Shrinks memory size) Tj
+ET
+BT
+/F2 7.4 Tf
+322 450.9003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 450.9003 Td
+(Scales to range [0, 1]) Tj
+ET
+BT
+/F2 8.0 Tf
+306 427.3003 Td
+(41.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 427.3003 Td
+(What are the broadcasting rules when operating) Tj
+ET
+BT
+/F1 7.8 Tf
+322 418.1003 Td
+(on two arrays of shapes \(3, 1\) and \(1, 4\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 406.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 406.4002 Td
+(Incompatible shapes, raises ValueError) Tj
+ET
+BT
+/F2 7.4 Tf
+322 396.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 396.8002 Td
+(Broadcasts to shape \(3, 4\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 387.2002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 387.2002 Td
+(Broadcasts to shape \(4, 3\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 377.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 377.6002 Td
+(Produces 1D array of 12 elements) Tj
+ET
+BT
+/F2 8.0 Tf
+306 354.0002 Td
+(42.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 354.0002 Td
+(What happens when operating on arrays with) Tj
+ET
+BT
+/F1 7.8 Tf
+322 344.8002 Td
+(shapes \(5, 3\) and \(5,\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 333.1002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 333.1002 Td
+(Operates cleanly along axis 0) Tj
+ET
+BT
+/F2 7.4 Tf
+322 323.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 323.5002 Td
+(Incompatible trailing dimension: 3 vs 5,) Tj
+ET
+BT
+/F1 7.4 Tf
+336 314.9002 Td
+(raises ValueError) Tj
+ET
+BT
+/F2 7.4 Tf
+322 305.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 305.3002 Td
+(Expands to \(5, 5, 3\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 295.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 295.7002 Td
+(Truncates to \(5, 1\)) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 10 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+10 0 obj
+<< /Length 8723 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 4 of 27) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(43.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Which function stacks arrays vertically along) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(the first axis \(row-wise\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(np.hstack\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(np.vstack\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.9 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.9 Td
+(np.dstack\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 734.3 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 734.3 Td
+(np.concatenate\(axis=1\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 710.7001 Td
+(44.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 710.7001 Td
+(Which function stacks 1D arrays as columns into) Tj
+ET
+BT
+/F1 7.8 Tf
+58 701.5001 Td
+(a 2D matrix?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 689.8 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.8 Td
+(np.column_stack\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.2001 Td
+(np.row_stack\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.6001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.6001 Td
+(np.stack\(axis=0\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 661.0001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 661.0001 Td
+(np.append\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 637.4001 Td
+(45.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 637.4001 Td
+(What is the return type of `arr[arr > 0]` where) Tj
+ET
+BT
+/F1 7.8 Tf
+58 628.2001 Td
+(`arr` is a 2D ndarray?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 616.5001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 616.5001 Td
+(A 2D masked array) Tj
+ET
+BT
+/F2 7.4 Tf
+58 606.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 606.9001 Td
+(A 1D array containing only positive elements) Tj
+ET
+BT
+/F2 7.4 Tf
+58 597.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 597.3002 Td
+(A boolean matrix) Tj
+ET
+BT
+/F2 7.4 Tf
+58 587.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 587.7002 Td
+(A tuple of coordinates) Tj
+ET
+BT
+/F2 8.0 Tf
+42 564.1002 Td
+(46.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 564.1002 Td
+(What does `np.where\(condition, x, y\)` do?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 552.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 552.4002 Td
+(Returns array of elements selected from x or) Tj
+ET
+BT
+/F1 7.4 Tf
+72 543.8002 Td
+(y depending on condition) Tj
+ET
+BT
+/F2 7.4 Tf
+58 534.2003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 534.2003 Td
+(Finds index where condition is True) Tj
+ET
+BT
+/F2 7.4 Tf
+58 524.6003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 524.6003 Td
+(Filters elements matching condition) Tj
+ET
+BT
+/F2 7.4 Tf
+58 515.0003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 515.0003 Td
+(Replaces NaNs) Tj
+ET
+BT
+/F2 8.0 Tf
+42 491.4003 Td
+(47.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 491.4003 Td
+(When `np.where\(condition\)` is called with only) Tj
+ET
+BT
+/F1 7.8 Tf
+58 482.2003 Td
+(ONE argument, what does it return?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 470.5003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 470.5003 Td
+(A boolean array) Tj
+ET
+BT
+/F2 7.4 Tf
+58 460.9003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 460.9003 Td
+(A tuple of coordinate index arrays where) Tj
+ET
+BT
+/F1 7.4 Tf
+72 452.3003 Td
+(condition is True) Tj
+ET
+BT
+/F2 7.4 Tf
+58 442.7003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 442.7003 Td
+(Count of True elements) Tj
+ET
+BT
+/F2 7.4 Tf
+58 433.1003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 433.1003 Td
+(Filtered values) Tj
+ET
+BT
+/F2 8.0 Tf
+42 409.5002 Td
+(48.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 409.5002 Td
+(What does `np.isin\(element, test_elements\)` do?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 397.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 397.8002 Td
+(Returns boolean array of whether each) Tj
+ET
+BT
+/F1 7.4 Tf
+72 389.2002 Td
+(element is in test_elements) Tj
+ET
+BT
+/F2 7.4 Tf
+58 379.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 379.6002 Td
+(Sorts elements) Tj
+ET
+BT
+/F2 7.4 Tf
+58 370.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 370.0002 Td
+(Computes intersection) Tj
+ET
+BT
+/F2 7.4 Tf
+58 360.4002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 360.4002 Td
+(Checks identity) Tj
+ET
+BT
+/F2 8.0 Tf
+42 336.8002 Td
+(49.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 336.8002 Td
+(Which function splits an array into multiple) Tj
+ET
+BT
+/F1 7.8 Tf
+58 327.6002 Td
+(sub-arrays horizontally \(column-wise\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 315.9002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 315.9002 Td
+(np.vsplit\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 306.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 306.3002 Td
+(np.hsplit\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 296.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 296.7002 Td
+(np.dsplit\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 287.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 287.1002 Td
+(np.split\(axis=0\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(50.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What is a universal function \(`ufunc`\) in NumPy?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 772.3 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 772.3 Td
+(A function that operates on ndarrays in an) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.7 Td
+(element-by-element fashion compiled in C) Tj
+ET
+BT
+/F2 7.4 Tf
+322 754.1 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 754.1 Td
+(A GUI widget) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.5001 Td
+(A machine learning pipeline) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.9001 Td
+(A string formatting tool) Tj
+ET
+BT
+/F2 8.0 Tf
+306 711.3001 Td
+(51.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 711.3001 Td
+(Which method of a ufunc computes the cumulative) Tj
+ET
+BT
+/F1 7.8 Tf
+322 702.1001 Td
+(application of the operator along an axis?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 690.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 690.4001 Td
+(reduce\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.8001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.8001 Td
+(accumulate\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.2001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.2001 Td
+(reduceat\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.6002 Td
+(outer\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 638.0002 Td
+(52.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 638.0002 Td
+(What does `np.add.reduce\([1, 2, 3, 4]\)` compute?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 626.3002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 626.3002 Td
+(10) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.7002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.7002 Td
+([1, 3, 6, 10]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 607.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.1002 Td
+([1, 2, 3, 4]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.5002 Td
+(0) Tj
+ET
+BT
+/F2 8.0 Tf
+306 573.9003 Td
+(53.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 573.9003 Td
+(What does `np.multiply.outer\([1, 2], [10, 20]\)`) Tj
+ET
+BT
+/F1 7.8 Tf
+322 564.7003 Td
+(produce?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 553.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 553.0002 Td
+([[10, 20], [20, 40]]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 543.4003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 543.4003 Td
+([10, 40]) Tj
+ET
+BT
+/F2 7.4 Tf
+322 533.8003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 533.8003 Td
+(50) Tj
+ET
+BT
+/F2 7.4 Tf
+322 524.2003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 524.2003 Td
+([10, 20, 20, 40]) Tj
+ET
+BT
+/F2 8.0 Tf
+306 500.6003 Td
+(54.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 500.6003 Td
+(What is the purpose of `np.vectorize\(pyfunc\)`?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 488.9003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 488.9003 Td
+(Compiles python code into GPU CUDA kernel) Tj
+ET
+BT
+/F2 7.4 Tf
+322 479.3003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 479.3003 Td
+(Provides a convenient vectorized interface) Tj
+ET
+BT
+/F1 7.4 Tf
+336 470.7003 Td
+(over a python scalar function without C) Tj
+ET
+BT
+/F1 7.4 Tf
+336 462.1003 Td
+(speedups) Tj
+ET
+BT
+/F2 7.4 Tf
+322 452.5003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 452.5003 Td
+(Generates assembly code) Tj
+ET
+BT
+/F2 7.4 Tf
+322 442.9003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 442.9003 Td
+(Parallelizes over multi-threading) Tj
+ET
+BT
+/F2 8.0 Tf
+306 419.3003 Td
+(55.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 419.3003 Td
+(How does vectorization in native NumPy achieve) Tj
+ET
+BT
+/F1 7.8 Tf
+322 410.1003 Td
+(50x-100x speedups over pure Python loops?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 398.4003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 398.4003 Td
+(Bypasses CPython interpreter overhead and) Tj
+ET
+BT
+/F1 7.4 Tf
+336 389.8003 Td
+(utilizes C loops and SIMD vector registers) Tj
+ET
+BT
+/F2 7.4 Tf
+322 380.2003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 380.2003 Td
+(Uses thread locking) Tj
+ET
+BT
+/F2 7.4 Tf
+322 370.6003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 370.6003 Td
+(Compiles to Javascript) Tj
+ET
+BT
+/F2 7.4 Tf
+322 361.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 361.0002 Td
+(Eliminates all memory accesses) Tj
+ET
+BT
+/F2 8.0 Tf
+306 337.4002 Td
+(56.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 337.4002 Td
+(What does basic slicing `sub = arr[1:3]` return) Tj
+ET
+BT
+/F1 7.8 Tf
+322 328.2002 Td
+(in NumPy?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 316.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 316.5002 Td
+(An independent memory copy) Tj
+ET
+BT
+/F2 7.4 Tf
+322 306.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 306.9002 Td
+(A view of the original array sharing) Tj
+ET
+BT
+/F1 7.4 Tf
+336 298.3002 Td
+(underlying buffer) Tj
+ET
+BT
+/F2 7.4 Tf
+322 288.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 288.7002 Td
+(An unchangeable tuple) Tj
+ET
+BT
+/F2 7.4 Tf
+322 279.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 279.1002 Td
+(A linked list) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 12 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+12 0 obj
+<< /Length 8907 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 5 of 27) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(57.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What happens to the original array if you) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(execute `sub = arr[1:3]; sub[0] = 999`?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(Original `arr` is NOT modified) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.5 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.5 Td
+(Original `arr` is modified at index 1) Tj
+ET
+BT
+/F1 7.4 Tf
+72 744.9 Td
+(because slicing returns a view) Tj
+ET
+BT
+/F2 7.4 Tf
+58 735.3 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 735.3 Td
+(Raises ReadOnlyError) Tj
+ET
+BT
+/F2 7.4 Tf
+58 725.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 725.7001 Td
+(Allocates a new buffer) Tj
+ET
+BT
+/F2 8.0 Tf
+42 702.1001 Td
+(58.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 702.1001 Td
+(What type of indexing ALWAYS creates a copy) Tj
+ET
+BT
+/F1 7.8 Tf
+58 692.9001 Td
+(instead of a view?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 681.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 681.2001 Td
+(Basic integer slicing `arr[1:5]`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 671.6001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 671.6001 Td
+(Advanced indexing \(using integer array or) Tj
+ET
+BT
+/F1 7.4 Tf
+72 663.0001 Td
+(boolean masks\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 653.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 653.4001 Td
+(Strided slicing `arr[::2]`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 643.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 643.8002 Td
+(Ellipsis slicing `arr[...]`) Tj
+ET
+BT
+/F2 8.0 Tf
+42 620.2002 Td
+(59.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 620.2002 Td
+(What is the purpose of the Ellipsis object `...`) Tj
+ET
+BT
+/F1 7.8 Tf
+58 611.0002 Td
+(in NumPy indexing?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 599.3002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 599.3002 Td
+(Represents all dimensions not explicitly) Tj
+ET
+BT
+/F1 7.4 Tf
+72 590.7002 Td
+(specified: e.g. `arr[..., 0]`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 581.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 581.1002 Td
+(Indicates infinity) Tj
+ET
+BT
+/F2 7.4 Tf
+58 571.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 571.5002 Td
+(Creates a syntax error) Tj
+ET
+BT
+/F2 7.4 Tf
+58 561.9003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 561.9003 Td
+(Truncates data) Tj
+ET
+BT
+/F2 8.0 Tf
+42 538.3003 Td
+(60.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 538.3003 Td
+(How do you add a new axis of size 1 to an array) Tj
+ET
+BT
+/F1 7.8 Tf
+58 529.1003 Td
+(`arr` of shape \(5,\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 517.4003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 517.4003 Td
+(`arr[:, np.newaxis]` or `arr[:, None]`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 507.8003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 507.8003 Td
+(`arr.expand\(\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 498.2003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 498.2003 Td
+(`arr.add_axis\(1\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 488.6003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 488.6003 Td
+(`np.insert\(arr, 1\)`) Tj
+ET
+BT
+/F2 8.0 Tf
+42 465.0002 Td
+(61.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 465.0002 Td
+(Which function computes numerical integration) Tj
+ET
+BT
+/F1 7.8 Tf
+58 455.8002 Td
+(using the composite trapezoidal rule?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 444.1002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 444.1002 Td
+(np.integrate\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 434.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 434.5002 Td
+(np.trapz\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 424.9002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 424.9002 Td
+(np.quad\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 415.3002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 415.3002 Td
+(np.simps\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 391.7002 Td
+(62.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 391.7002 Td
+(What does `np.gradient\(f, dx\)` calculate for a) Tj
+ET
+BT
+/F1 7.8 Tf
+58 382.5002 Td
+(1D discrete signal array?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 370.8002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 370.8002 Td
+(Numerical derivative using central) Tj
+ET
+BT
+/F1 7.4 Tf
+72 362.2002 Td
+(differences in interior points) Tj
+ET
+BT
+/F2 7.4 Tf
+58 352.6002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 352.6002 Td
+(Integral of f) Tj
+ET
+BT
+/F2 7.4 Tf
+58 343.0002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 343.0002 Td
+(Fast Fourier Transform) Tj
+ET
+BT
+/F2 7.4 Tf
+58 333.4001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 333.4001 Td
+(Root mean square) Tj
+ET
+BT
+/F2 8.0 Tf
+42 309.8001 Td
+(63.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 309.8001 Td
+(Which function computes the cross-correlation or) Tj
+ET
+BT
+/F1 7.8 Tf
+58 300.6001 Td
+(convolution of two 1D sequences?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 288.9001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 288.9001 Td
+(np.convolve\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 279.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 279.3001 Td
+(np.correlate\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 269.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 269.7001 Td
+(Both np.convolve and np.correlate) Tj
+ET
+BT
+/F2 7.4 Tf
+58 260.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 260.1001 Td
+(np.xcorr\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(64.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What mode parameter in `np.convolve\(a, v,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(mode='same'\)` ensures output length matches the) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(first signal?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+('full') Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.3 Td
+('valid') Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.7 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.7 Td
+('same') Tj
+ET
+BT
+/F2 7.4 Tf
+322 725.1 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 725.1 Td
+('circular') Tj
+ET
+BT
+/F2 8.0 Tf
+306 701.5001 Td
+(65.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 701.5001 Td
+(What is the length of `np.convolve\(x, h,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 692.3 Td
+(mode='full'\)` where len\(x\)=N and len\(h\)=M?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 680.6 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 680.6 Td
+(N + M) Tj
+ET
+BT
+/F2 7.4 Tf
+322 671.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 671.0001 Td
+(N + M - 1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 661.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 661.4001 Td
+(max\(N, M\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 651.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 651.8001 Td
+(min\(N, M\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 628.2001 Td
+(66.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 628.2001 Td
+(Which function finds unique elements of an array) Tj
+ET
+BT
+/F1 7.8 Tf
+322 619.0001 Td
+(in sorted order?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 607.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 607.3001 Td
+(np.set\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 597.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 597.7001 Td
+(np.unique\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 588.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 588.1002 Td
+(np.distinct\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 578.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 578.5002 Td
+(np.filter_unique\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 554.9002 Td
+(67.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 554.9002 Td
+(What additional information can `np.unique\(arr,) Tj
+ET
+BT
+/F1 7.8 Tf
+322 545.7002 Td
+(return_counts=True\)` provide?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 534.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 534.0002 Td
+(Histogram frequency counts of each unique) Tj
+ET
+BT
+/F1 7.4 Tf
+336 525.4002 Td
+(element) Tj
+ET
+BT
+/F2 7.4 Tf
+322 515.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 515.8002 Td
+(Indices of first occurrences) Tj
+ET
+BT
+/F2 7.4 Tf
+322 506.2002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 506.2002 Td
+(Inverse indices to reconstruct original) Tj
+ET
+BT
+/F1 7.4 Tf
+336 497.6002 Td
+(array) Tj
+ET
+BT
+/F2 7.4 Tf
+322 488.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 488.0002 Td
+(All of the above) Tj
+ET
+BT
+/F2 8.0 Tf
+306 464.4002 Td
+(68.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 464.4002 Td
+(Which function computes the Pearson) Tj
+ET
+BT
+/F1 7.8 Tf
+322 455.2002 Td
+(product-moment correlation coefficients matrix?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 443.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 443.5002 Td
+(np.cov\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 433.9002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 433.9002 Td
+(np.corrcoef\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 424.3002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 424.3002 Td
+(np.correlate\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 414.7002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 414.7002 Td
+(np.pearson\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 391.1002 Td
+(69.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 391.1002 Td
+(What does `np.pad\(arr, \(1, 1\), mode='constant'\)`) Tj
+ET
+BT
+/F1 7.8 Tf
+322 381.9001 Td
+(do to an array?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 370.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 370.2001 Td
+(Adds 1 row/col of zero padding around the) Tj
+ET
+BT
+/F1 7.4 Tf
+336 361.6001 Td
+(borders) Tj
+ET
+BT
+/F2 7.4 Tf
+322 352.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 352.0001 Td
+(Scales the array) Tj
+ET
+BT
+/F2 7.4 Tf
+322 342.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 342.4001 Td
+(Trims edges by 1) Tj
+ET
+BT
+/F2 7.4 Tf
+322 332.8001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 332.8001 Td
+(Multiplies by 1) Tj
+ET
+BT
+/F2 8.0 Tf
+306 309.2001 Td
+(70.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 309.2001 Td
+(How do you check if any elements in an array are) Tj
+ET
+BT
+/F1 7.8 Tf
+322 300.0001 Td
+(NaN \(Not a Number\)?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 288.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 288.3001 Td
+(`arr == np.nan`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 278.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 278.7001 Td
+(`np.isnan\(arr\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 269.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 269.1001 Td
+(`arr.has_nan\(\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+322 259.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 259.5001 Td
+(`np.is_null\(arr\)`) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 14 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+14 0 obj
+<< /Length 9464 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 6 of 27) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(71.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Why does `arr == np.nan` fail to detect NaN) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(values in NumPy?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(Because according to IEEE 754 floating-point) Tj
+ET
+BT
+/F1 7.4 Tf
+72 754.5 Td
+(standards, NaN never compares equal to) Tj
+ET
+BT
+/F1 7.4 Tf
+72 745.9 Td
+(anything, including itself) Tj
+ET
+BT
+/F2 7.4 Tf
+58 736.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 736.3 Td
+(NumPy does not support NaN) Tj
+ET
+BT
+/F2 7.4 Tf
+58 726.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 726.7001 Td
+(Requires strict typing) Tj
+ET
+BT
+/F2 7.4 Tf
+58 717.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 717.1001 Td
+(Compiler optimization issue) Tj
+ET
+BT
+/F2 8.0 Tf
+42 693.5001 Td
+(72.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 693.5001 Td
+(Which function replaces NaN values with zero or) Tj
+ET
+BT
+/F1 7.8 Tf
+58 684.3001 Td
+(another specified scalar in an array?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 672.6001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 672.6001 Td
+(np.replace_nan\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 663.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 663.0001 Td
+(np.nan_to_num\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 653.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 653.4001 Td
+(np.fill_nan\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 643.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 643.8002 Td
+(np.clean\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 620.2002 Td
+(73.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 620.2002 Td
+(What does `np.tile\(A, \(2, 3\)\)` do?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 608.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 608.5002 Td
+(Constructs an array by repeating A 2 times) Tj
+ET
+BT
+/F1 7.4 Tf
+72 599.9002 Td
+(along rows and 3 times along columns) Tj
+ET
+BT
+/F2 7.4 Tf
+58 590.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 590.3002 Td
+(Splits A into 6 tiles) Tj
+ET
+BT
+/F2 7.4 Tf
+58 580.7003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 580.7003 Td
+(Reshapes A to 2x3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 571.1003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 571.1003 Td
+(Transposes A) Tj
+ET
+BT
+/F2 8.0 Tf
+42 547.5003 Td
+(74.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 547.5003 Td
+(What does `np.repeat\(A, 3\)` do compared to) Tj
+ET
+BT
+/F1 7.8 Tf
+58 538.3003 Td
+(`np.tile\(A, 3\)`?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 526.6003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 526.6003 Td
+(Repeats each individual element 3 times) Tj
+ET
+BT
+/F1 7.4 Tf
+72 518.0003 Td
+(sequentially) Tj
+ET
+BT
+/F2 7.4 Tf
+58 508.4003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 508.4003 Td
+(Repeats the entire block A 3 times) Tj
+ET
+BT
+/F2 7.4 Tf
+58 498.8003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 498.8003 Td
+(Multiplies by 3) Tj
+ET
+BT
+/F2 7.4 Tf
+58 489.2003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 489.2003 Td
+(Reshapes array) Tj
+ET
+BT
+/F2 8.0 Tf
+42 465.6003 Td
+(75.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 465.6003 Td
+(Which function computes the root-mean-square) Tj
+ET
+BT
+/F1 7.8 Tf
+58 456.4003 Td
+(\(RMS\) value of a discrete waveform `x`?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 444.7003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 444.7003 Td
+(`np.sqrt\(np.mean\(x**2\)\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 435.1003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 435.1003 Td
+(`np.mean\(np.sqrt\(x\)\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 425.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 425.5002 Td
+(`np.std\(x\)`) Tj
+ET
+BT
+/F2 7.4 Tf
+58 415.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 415.9002 Td
+(`np.rms\(x\)`) Tj
+ET
+BT
+/F2 8.0 Tf
+42 392.3002 Td
+(76.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 392.3002 Td
+(What does `arr.strides` represent in a NumPy) Tj
+ET
+BT
+/F1 7.8 Tf
+58 383.1002 Td
+(ndarray?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 371.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 371.4002 Td
+(The number of bytes to step in each) Tj
+ET
+BT
+/F1 7.4 Tf
+72 362.8002 Td
+(dimension when moving to the next element) Tj
+ET
+BT
+/F2 7.4 Tf
+58 353.2002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 353.2002 Td
+(The total count of rows) Tj
+ET
+BT
+/F2 7.4 Tf
+58 343.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 343.6002 Td
+(The memory bus width) Tj
+ET
+BT
+/F2 7.4 Tf
+58 334.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 334.0002 Td
+(The alignment offset) Tj
+ET
+BT
+/F2 8.0 Tf
+42 310.4002 Td
+(77.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 310.4002 Td
+(For a 2D float64 array of shape \(3, 4\) in) Tj
+ET
+BT
+/F1 7.8 Tf
+58 301.2002 Td
+(standard C-contiguous order, what are its) Tj
+ET
+BT
+/F1 7.8 Tf
+58 292.0002 Td
+(strides?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 280.3001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 280.3001 Td
+(\(32, 8\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 270.7001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 270.7001 Td
+(\(8, 32\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 261.1001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 261.1001 Td
+(\(24, 8\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 251.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 251.5001 Td
+(\(8, 8\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(78.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What is the memory difference between) Tj
+ET
+BT
+/F1 7.8 Tf
+322 774.8 Td
+(C-contiguous and Fortran-contiguous array) Tj
+ET
+BT
+/F1 7.8 Tf
+322 765.6 Td
+(ordering?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 753.9 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 753.9 Td
+(C-order stores rows contiguously \(last index) Tj
+ET
+BT
+/F1 7.4 Tf
+336 745.3 Td
+(changes fastest\); Fortran-order stores) Tj
+ET
+BT
+/F1 7.4 Tf
+336 736.7 Td
+(columns contiguously \(first index changes) Tj
+ET
+BT
+/F1 7.4 Tf
+336 728.1 Td
+(fastest\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 718.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 718.5001 Td
+(C-order is 32-bit; Fortran is 64-bit) Tj
+ET
+BT
+/F2 7.4 Tf
+322 708.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 708.9001 Td
+(Fortran-order is immutable) Tj
+ET
+BT
+/F2 7.4 Tf
+322 699.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 699.3001 Td
+(No difference in memory) Tj
+ET
+BT
+/F2 8.0 Tf
+306 675.7001 Td
+(79.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 675.7001 Td
+(Which function from `numpy.lib.stride_tricks`) Tj
+ET
+BT
+/F1 7.8 Tf
+322 666.5001 Td
+(creates sliding window views without memory) Tj
+ET
+BT
+/F1 7.8 Tf
+322 657.3001 Td
+(duplication?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 645.6001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 645.6001 Td
+(sliding_window_view\(\) or as_strided\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 636.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 636.0001 Td
+(strided_copy\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 626.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 626.4001 Td
+(window_buffer\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 616.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 616.8002 Td
+(rolling_view\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 593.2002 Td
+(80.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 593.2002 Td
+(Why is modifying the output of `as_strided\(\)`) Tj
+ET
+BT
+/F1 7.8 Tf
+322 584.0002 Td
+(extremely dangerous?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 572.3002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 572.3002 Td
+(It can write to arbitrary memory locations) Tj
+ET
+BT
+/F1 7.4 Tf
+336 563.7002 Td
+(and trigger segmentation faults if strides) Tj
+ET
+BT
+/F1 7.4 Tf
+336 555.1002 Td
+(exceed allocated boundaries) Tj
+ET
+BT
+/F2 7.4 Tf
+322 545.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 545.5002 Td
+(It causes python syntax errors) Tj
+ET
+BT
+/F2 7.4 Tf
+322 535.9003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 535.9003 Td
+(It changes endianness) Tj
+ET
+BT
+/F2 7.4 Tf
+322 526.3003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 526.3003 Td
+(It freezes the CPU) Tj
+ET
+BT
+/F2 8.0 Tf
+306 502.7003 Td
+(81.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 502.7003 Td
+(Which submodule of NumPy handles matrix) Tj
+ET
+BT
+/F1 7.8 Tf
+322 493.5003 Td
+(decompositions, inverses, and linear system) Tj
+ET
+BT
+/F1 7.8 Tf
+322 484.3003 Td
+(solvers?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 472.6003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 472.6003 Td
+(np.linalg) Tj
+ET
+BT
+/F2 7.4 Tf
+322 463.0003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 463.0003 Td
+(np.matrix) Tj
+ET
+BT
+/F2 7.4 Tf
+322 453.4003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 453.4003 Td
+(np.solvers) Tj
+ET
+BT
+/F2 7.4 Tf
+322 443.8003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 443.8003 Td
+(np.math) Tj
+ET
+BT
+/F2 8.0 Tf
+306 420.2003 Td
+(82.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 420.2003 Td
+(Which function computes the multiplicative) Tj
+ET
+BT
+/F1 7.8 Tf
+322 411.0002 Td
+(inverse of a square non-singular matrix A?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 399.3002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 399.3002 Td
+(np.linalg.pinv\(A\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 389.7002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 389.7002 Td
+(np.linalg.inv\(A\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 380.1002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 380.1002 Td
+(np.inverse\(A\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 370.5002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 370.5002 Td
+(A.invert\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 346.9002 Td
+(83.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 346.9002 Td
+(What does `np.linalg.pinv\(A\)` compute for) Tj
+ET
+BT
+/F1 7.8 Tf
+322 337.7002 Td
+(rectangular or singular matrices?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 326.0002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 326.0002 Td
+(Moore-Penrose pseudo-inverse using SVD) Tj
+ET
+BT
+/F2 7.4 Tf
+322 316.4002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 316.4002 Td
+(Standard inverse) Tj
+ET
+BT
+/F2 7.4 Tf
+322 306.8002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 306.8002 Td
+(Matrix cofactor) Tj
+ET
+BT
+/F2 7.4 Tf
+322 297.2002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 297.2002 Td
+(Adjoint matrix) Tj
+ET
+BT
+/F2 8.0 Tf
+306 273.6002 Td
+(84.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 273.6002 Td
+(Which function solves the linear matrix equation) Tj
+ET
+BT
+/F1 7.8 Tf
+322 264.4001 Td
+($Ax = b$ efficiently without explicitly) Tj
+ET
+BT
+/F1 7.8 Tf
+322 255.2001 Td
+(computing $A^{-1}$?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 243.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 243.5002 Td
+(np.linalg.inv\(A\) @ b) Tj
+ET
+BT
+/F2 7.4 Tf
+322 233.9001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 233.9001 Td
+(np.linalg.solve\(A, b\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 224.3001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 224.3001 Td
+(np.linalg.eval\(A, b\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 214.7001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 214.7001 Td
+(np.linalg.det\(A, b\)) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 16 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+16 0 obj
+<< /Length 9624 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 7 of 27) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(85.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(Why is `np.linalg.solve\(A, b\)` preferred over) Tj
+ET
+BT
+/F1 7.8 Tf
+58 774.8 Td
+(`np.linalg.inv\(A\) @ b` in numerical engineering?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 763.1 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 763.1 Td
+(It employs LU or Cholesky decomposition) Tj
+ET
+BT
+/F1 7.4 Tf
+72 754.5 Td
+(directly, requiring fewer FLOPs and offering) Tj
+ET
+BT
+/F1 7.4 Tf
+72 745.9 Td
+(substantially higher numerical stability) Tj
+ET
+BT
+/F2 7.4 Tf
+58 736.3 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 736.3 Td
+(It uses GPU automatically) Tj
+ET
+BT
+/F2 7.4 Tf
+58 726.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 726.7001 Td
+(It returns integers) Tj
+ET
+BT
+/F2 7.4 Tf
+58 717.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 717.1001 Td
+(It supports strings) Tj
+ET
+BT
+/F2 8.0 Tf
+42 693.5001 Td
+(86.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 693.5001 Td
+(Which function computes the eigenvalues and) Tj
+ET
+BT
+/F1 7.8 Tf
+58 684.3001 Td
+(right eigenvectors of a square matrix?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 672.6001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 672.6001 Td
+(np.linalg.eig\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 663.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 663.0001 Td
+(np.linalg.eigen\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 653.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 653.4001 Td
+(np.linalg.values\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 643.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 643.8002 Td
+(np.linalg.diag\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 620.2002 Td
+(87.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 620.2002 Td
+(What is the return structure of `w, v =) Tj
+ET
+BT
+/F1 7.8 Tf
+58 611.0002 Td
+(np.linalg.eig\(A\)`?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 599.3002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 599.3002 Td
+(`w` is a 1D array of eigenvalues; `v` is a) Tj
+ET
+BT
+/F1 7.4 Tf
+72 590.7002 Td
+(2D array where columns are normalized) Tj
+ET
+BT
+/F1 7.4 Tf
+72 582.1002 Td
+(eigenvectors) Tj
+ET
+BT
+/F2 7.4 Tf
+58 572.5002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 572.5002 Td
+(`w` is eigenvectors; `v` is eigenvalues) Tj
+ET
+BT
+/F2 7.4 Tf
+58 562.9003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 562.9003 Td
+(Two scalar values) Tj
+ET
+BT
+/F2 7.4 Tf
+58 553.3003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 553.3003 Td
+(A diagonal matrix) Tj
+ET
+BT
+/F2 8.0 Tf
+42 529.7003 Td
+(88.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 529.7003 Td
+(Which function performs Singular Value) Tj
+ET
+BT
+/F1 7.8 Tf
+58 520.5003 Td
+(Decomposition \(SVD\) such that $A = U \\Sigma) Tj
+ET
+BT
+/F1 7.8 Tf
+58 511.3003 Td
+(V^H$?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 499.6003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 499.6003 Td
+(np.linalg.svd\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 490.0003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 490.0003 Td
+(np.linalg.decompose\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 480.4003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 480.4003 Td
+(np.linalg.factor\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 470.8003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 470.8003 Td
+(np.linalg.qr\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 447.2003 Td
+(89.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 447.2003 Td
+(Which decomposition is computed by) Tj
+ET
+BT
+/F1 7.8 Tf
+58 438.0002 Td
+(`np.linalg.qr\(A\)`?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 426.3002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 426.3002 Td
+(Orthogonal matrix Q and Upper triangular) Tj
+ET
+BT
+/F1 7.4 Tf
+72 417.7002 Td
+(matrix R) Tj
+ET
+BT
+/F2 7.4 Tf
+58 408.1002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 408.1002 Td
+(Lower and Upper triangular matrices) Tj
+ET
+BT
+/F2 7.4 Tf
+58 398.5002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 398.5002 Td
+(Eigenvalue decomposition) Tj
+ET
+BT
+/F2 7.4 Tf
+58 388.9002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 388.9002 Td
+(Spectral decomposition) Tj
+ET
+BT
+/F2 8.0 Tf
+42 365.3002 Td
+(90.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 365.3002 Td
+(Which function computes the 1D discrete Fourier) Tj
+ET
+BT
+/F1 7.8 Tf
+58 356.1002 Td
+(transform of a real or complex sequence?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 344.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 344.4002 Td
+(np.fft.fft\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 334.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 334.8002 Td
+(np.fft.rfft\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 325.2002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 325.2002 Td
+(np.fourier.transform\(\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 315.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 315.6002 Td
+(np.signal.dft\(\)) Tj
+ET
+BT
+/F2 8.0 Tf
+42 292.0002 Td
+(91.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 292.0002 Td
+(What does `np.fft.rfft\(\)` compute compared to) Tj
+ET
+BT
+/F1 7.8 Tf
+58 282.8001 Td
+(`np.fft.fft\(\)`?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 271.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 271.1001 Td
+(One-sided FFT for strictly real-valued) Tj
+ET
+BT
+/F1 7.4 Tf
+72 262.5001 Td
+(inputs, exploiting Hermitian symmetry to) Tj
+ET
+BT
+/F1 7.4 Tf
+72 253.9001 Td
+(return only $N/2 + 1$ frequency bins) Tj
+ET
+BT
+/F2 7.4 Tf
+58 244.3001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 244.3001 Td
+(Reverse FFT) Tj
+ET
+BT
+/F2 7.4 Tf
+58 234.7001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 234.7001 Td
+(Recursive FFT) Tj
+ET
+BT
+/F2 7.4 Tf
+58 225.1001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 225.1001 Td
+(Real part only) Tj
+ET
+BT
+/F2 8.0 Tf
+306 784 Td
+(92.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 784 Td
+(What does `np.fft.fftfreq\(N, d=1/fs\)` generate?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 772.3 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 772.3 Td
+(Discrete Fourier Transform sample) Tj
+ET
+BT
+/F1 7.4 Tf
+336 763.7 Td
+(frequencies corresponding to each FFT bin) Tj
+ET
+BT
+/F2 7.4 Tf
+322 754.1 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 754.1 Td
+(Magnitudes of spectrum) Tj
+ET
+BT
+/F2 7.4 Tf
+322 744.5001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 744.5001 Td
+(Phase angles) Tj
+ET
+BT
+/F2 7.4 Tf
+322 734.9001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 734.9001 Td
+(Nyquist bandwidth) Tj
+ET
+BT
+/F2 8.0 Tf
+306 711.3001 Td
+(93.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 711.3001 Td
+(What does `np.fft.fftshift\(X\)` do to a two-sided) Tj
+ET
+BT
+/F1 7.8 Tf
+322 702.1001 Td
+(frequency spectrum?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 690.4001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 690.4001 Td
+(Shifts zero-frequency component to the) Tj
+ET
+BT
+/F1 7.4 Tf
+336 681.8001 Td
+(center of the spectrum array) Tj
+ET
+BT
+/F2 7.4 Tf
+322 672.2001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 672.2001 Td
+(Removes DC offset) Tj
+ET
+BT
+/F2 7.4 Tf
+322 662.6002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 662.6002 Td
+(Inverts phase) Tj
+ET
+BT
+/F2 7.4 Tf
+322 653.0002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 653.0002 Td
+(Computes absolute values) Tj
+ET
+BT
+/F2 8.0 Tf
+306 629.4002 Td
+(94.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 629.4002 Td
+(What underlying low-level linear algebra) Tj
+ET
+BT
+/F1 7.8 Tf
+322 620.2002 Td
+(libraries power NumPy's high-speed operations?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 608.5002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 608.5002 Td
+(BLAS \(Basic Linear Algebra Subprograms\) and) Tj
+ET
+BT
+/F1 7.4 Tf
+336 599.9002 Td
+(LAPACK) Tj
+ET
+BT
+/F2 7.4 Tf
+322 590.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 590.3002 Td
+(OpenGL and DirectX) Tj
+ET
+BT
+/F2 7.4 Tf
+322 580.7003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 580.7003 Td
+(POSIX pthreads only) Tj
+ET
+BT
+/F2 7.4 Tf
+322 571.1003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 571.1003 Td
+(Win32 GDI) Tj
+ET
+BT
+/F2 8.0 Tf
+306 547.5003 Td
+(95.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 547.5003 Td
+(What is a memory-mapped array in NumPy created) Tj
+ET
+BT
+/F1 7.8 Tf
+322 538.3003 Td
+(with `np.memmap`?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 526.6003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 526.6003 Td
+(An ndarray that maps large on-disk binary) Tj
+ET
+BT
+/F1 7.4 Tf
+336 518.0003 Td
+(files directly into virtual memory space) Tj
+ET
+BT
+/F1 7.4 Tf
+336 509.4003 Td
+(without loading the entire file into RAM) Tj
+ET
+BT
+/F2 7.4 Tf
+322 499.8003 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 499.8003 Td
+(RAM drive storage) Tj
+ET
+BT
+/F2 7.4 Tf
+322 490.2003 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 490.2003 Td
+(GPU memory buffer) Tj
+ET
+BT
+/F2 7.4 Tf
+322 480.6003 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 480.6003 Td
+(Compressed archive) Tj
+ET
+BT
+/F2 8.0 Tf
+306 457.0003 Td
+(96.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 457.0003 Td
+(What is a structured array \(record array\) in) Tj
+ET
+BT
+/F1 7.8 Tf
+322 447.8003 Td
+(NumPy?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 436.1003 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 436.1003 Td
+(An ndarray whose dtype is defined as a) Tj
+ET
+BT
+/F1 7.4 Tf
+336 427.5002 Td
+(sequence of named fields of heterogeneous) Tj
+ET
+BT
+/F1 7.4 Tf
+336 418.9002 Td
+(types, similar to a C struct) Tj
+ET
+BT
+/F2 7.4 Tf
+322 409.3002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 409.3002 Td
+(A binary search tree) Tj
+ET
+BT
+/F2 7.4 Tf
+322 399.7002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 399.7002 Td
+(A hash table) Tj
+ET
+BT
+/F2 7.4 Tf
+322 390.1002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 390.1002 Td
+(An XML document) Tj
+ET
+BT
+/F2 8.0 Tf
+306 366.5002 Td
+(97.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 366.5002 Td
+(What is the time complexity of the Cooley-Tukey) Tj
+ET
+BT
+/F1 7.8 Tf
+322 357.3002 Td
+(Radix-2 FFT algorithm implemented in) Tj
+ET
+BT
+/F1 7.8 Tf
+322 348.1002 Td
+(`np.fft.fft` for length N?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 336.4002 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 336.4002 Td
+(O\(N^2\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 326.8002 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 326.8002 Td
+(O\(N log N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 317.2002 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 317.2002 Td
+(O\(log N\)) Tj
+ET
+BT
+/F2 7.4 Tf
+322 307.6002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 307.6002 Td
+(O\(N\)) Tj
+ET
+BT
+/F2 8.0 Tf
+306 284.0002 Td
+(98.) Tj
+ET
+BT
+/F1 7.8 Tf
+322 284.0002 Td
+(What does `np.einsum\('ij,jk->ik', A, B\)` perform) Tj
+ET
+BT
+/F1 7.8 Tf
+322 274.8001 Td
+(using Einstein summation convention?) Tj
+ET
+BT
+/F2 7.4 Tf
+322 263.1001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 263.1001 Td
+(Matrix multiplication of 2D matrices A and B) Tj
+ET
+BT
+/F2 7.4 Tf
+322 253.5001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 253.5001 Td
+(Element-wise multiplication) Tj
+ET
+BT
+/F2 7.4 Tf
+322 243.9001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 243.9001 Td
+(Trace of matrix) Tj
+ET
+BT
+/F2 7.4 Tf
+322 234.3001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+336 234.3001 Td
+(Outer product) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 18 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+18 0 obj
+<< /Length 1346 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 8 of 27) Tj
+ET
+BT
+/F2 8.0 Tf
+42 784 Td
+(99.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 784 Td
+(What does `np.einsum\('ii->', A\)` calculate?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 772.3 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 772.3 Td
+(Trace \(sum of diagonal elements\) of matrix A) Tj
+ET
+BT
+/F2 7.4 Tf
+58 762.7 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 762.7 Td
+(Determinant) Tj
+ET
+BT
+/F2 7.4 Tf
+58 753.1 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 753.1 Td
+(Norm) Tj
+ET
+BT
+/F2 7.4 Tf
+58 743.5001 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 743.5001 Td
+(Inverse) Tj
+ET
+BT
+/F2 8.0 Tf
+42 709.9001 Td
+(100.) Tj
+ET
+BT
+/F1 7.8 Tf
+58 709.9001 Td
+(What is the result of `np.shares_memory\(a, b\)`?) Tj
+ET
+BT
+/F2 7.4 Tf
+58 698.2001 Td
+((A)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 698.2001 Td
+(Returns True if two arrays share the same) Tj
+ET
+BT
+/F1 7.4 Tf
+72 689.6001 Td
+(memory buffer \(or overlap\)) Tj
+ET
+BT
+/F2 7.4 Tf
+58 680.0001 Td
+((B)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 680.0001 Td
+(Returns memory size) Tj
+ET
+BT
+/F2 7.4 Tf
+58 670.4001 Td
+((C)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 670.4001 Td
+(Copies buffer) Tj
+ET
+BT
+/F2 7.4 Tf
+58 660.8002 Td
+((D)) Tj
+ET
+BT
+/F1 7.4 Tf
+72 660.8002 Td
+(Synchronizes cache) Tj
+ET
+0.3 w
+[2 3] 0 d
+296 792 m 296 48 l S
+[] 0 d
+
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 20 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+20 0 obj
+<< /Length 4285 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 9 of 27) Tj
+ET
+BT
+/F2 10 Tf
+45 780 Td
+(SECTION B: DESCRIPTIVE & SUBJECTIVE QUESTIONS) Tj
+ET
+BT
+/F2 8.5 Tf
+45 760 Td
+(Q1. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 760 Td
+(Explain the internal architecture of NumPy's `ndarray` compared to a standard Python list,) Tj
+ET
+BT
+/F1 8.5 Tf
+72 749.5 Td
+(focusing on memory layout and cache locality.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 724.5 Td
+(Q2. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 724.5 Td
+(Formulate the mathematical rules governing NumPy array broadcasting and demonstrate with worked) Tj
+ET
+BT
+/F1 8.5 Tf
+72 714 Td
+(2D/3D examples.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 689 Td
+(Q3. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 689 Td
+(Explain array memory strides, C-order vs. Fortran-order, and how `strides` enable zero-copy) Tj
+ET
+BT
+/F1 8.5 Tf
+72 678.5 Td
+(transposition and slicing.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 653.5 Td
+(Q4. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 653.5 Td
+(Analyze the performance and memory implications of slicing views versus advanced indexing copies) Tj
+ET
+BT
+/F1 8.5 Tf
+72 643 Td
+(in NumPy.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 618 Td
+(Q5. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 618 Td
+(Demonstrate the mathematical formulation and NumPy implementation of 1D signal convolution and FIR) Tj
+ET
+BT
+/F1 8.5 Tf
+72 607.5 Td
+(filtering.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 582.5 Td
+(Q6. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 582.5 Td
+(Explain the Discrete Fourier Transform \(DFT\) mathematical formulation and spectral analysis using) Tj
+ET
+BT
+/F1 8.5 Tf
+72 572 Td
+(`np.fft`.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 547 Td
+(Q7. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 547 Td
+(Describe matrix decompositions in `np.linalg`: LU, QR, Cholesky, and Singular Value Decomposition) Tj
+ET
+BT
+/F1 8.5 Tf
+72 536.5 Td
+(\(SVD\).) Tj
+ET
+BT
+/F2 8.5 Tf
+45 511.5 Td
+(Q8. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 511.5 Td
+(Demonstrate solving a system of linear equations $Ax = b$ using `np.linalg.solve` and discuss) Tj
+ET
+BT
+/F1 8.5 Tf
+72 501 Td
+(numerical condition number.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 476 Td
+(Q9. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 476 Td
+(Explain eigenvalues and eigenvectors in circuit stability and state-space analysis using) Tj
+ET
+BT
+/F1 8.5 Tf
+72 465.5 Td
+(`np.linalg.eig`.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 440.5 Td
+(Q10. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 440.5 Td
+(Detail universal function \(`ufunc`\) mechanics in NumPy: element-wise execution, type casting, and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 430 Td
+(inner loops.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 405 Td
+(Q11. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 405 Td
+(Demonstrate structured arrays and record arrays in NumPy for heterogeneous sensor data) Tj
+ET
+BT
+/F1 8.5 Tf
+72 394.5 Td
+(acquisition.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 369.5 Td
+(Q12. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 369.5 Td
+(Explain `np.memmap` for memory-mapped files and how to stream gigabyte-scale radar datasets.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 334 Td
+(Q13. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 334 Td
+(Demonstrate the use of `np.einsum` \(Einstein Summation\) for multidimensional tensor operations.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 298.5 Td
+(Q14. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 298.5 Td
+(Formulate numerical differentiation techniques in NumPy: Forward, Backward, and Central) Tj
+ET
+BT
+/F1 8.5 Tf
+72 288 Td
+(differences with error orders.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 263 Td
+(Q15. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 263 Td
+(Explain the composite Trapezoidal and Simpson's rules for numerical integration using NumPy.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 227.5 Td
+(Q16. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 227.5 Td
+(Describe random variable sampling in modern NumPy using `Generator` and `PCG64` bit generators.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 192 Td
+(Q17. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 192 Td
+(Demonstrate fast search and insertion in sorted NumPy arrays using `np.searchsorted`.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 156.5 Td
+(Q18. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 156.5 Td
+(Explain array concatenation, splitting, and stacking along custom axes with mathematical diagrams.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 121 Td
+(Q19. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 121 Td
+(Demonstrate numerical root-finding using companion matrices and polynomial roots with `np.roots`.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 85.5 Td
+(Q20. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 85.5 Td
+(Explain masked arrays in NumPy \(`numpy.ma`\) for handling corrupted ADC sensor readings and missing) Tj
+ET
+BT
+/F1 8.5 Tf
+72 75 Td
+(data.) Tj
+ET
+
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 22 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+22 0 obj
+<< /Length 2390 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 10 of 27) Tj
+ET
+BT
+/F2 8.5 Tf
+45 780 Td
+(Q21. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 780 Td
+(Implement an end-to-end discrete Kalman Filter in NumPy for tracking noisy radar trajectory) Tj
+ET
+BT
+/F1 8.5 Tf
+72 769.5 Td
+(measurements.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 743.5 Td
+(Q22. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 743.5 Td
+(Write a vectorized 2D Finite-Difference Time-Domain \(FDTD\) wave equation solver using NumPy array) Tj
+ET
+BT
+/F1 8.5 Tf
+72 733 Td
+(operations.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 707 Td
+(Q23. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 707 Td
+(Derive the Cooley-Tukey Radix-2 Decimation-In-Time \(DIT\) FFT algorithm and analyze its) Tj
+ET
+BT
+/F1 8.5 Tf
+72 696.5 Td
+(computational savings.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 670.5 Td
+(Q24. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 670.5 Td
+(Implement a sliding-window Short-Time Fourier Transform \(STFT\) in NumPy using `as_strided` and) Tj
+ET
+BT
+/F1 8.5 Tf
+72 660 Td
+(window functions.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 634 Td
+(Q25. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 634 Td
+(Demonstrate low-rank matrix approximation via Truncated Singular Value Decomposition \(TSVD\) for) Tj
+ET
+BT
+/F1 8.5 Tf
+72 623.5 Td
+(signal denoising.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 597.5 Td
+(Q26. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 597.5 Td
+(Implement a vectorized Digital Phase-Locked Loop \(DPLL\) phase error detector and loop filter in) Tj
+ET
+BT
+/F1 8.5 Tf
+72 587 Td
+(NumPy.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 561 Td
+(Q27. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 561 Td
+(Explain the implementation and performance optimization of vectorized N-body gravitational or) Tj
+ET
+BT
+/F1 8.5 Tf
+72 550.5 Td
+(electromagnetic simulation.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 524.5 Td
+(Q28. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 524.5 Td
+(Detail NumPy memory management: PyArrayObject, buffer sharing, views, base attributes, and garbage) Tj
+ET
+BT
+/F1 8.5 Tf
+72 514 Td
+(collection.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 488 Td
+(Q29. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 488 Td
+(Explain the implementation of custom universal functions using Numba `@vectorize` with hardware) Tj
+ET
+BT
+/F1 8.5 Tf
+72 477.5 Td
+(SIMD acceleration.) Tj
+ET
+BT
+/F2 8.5 Tf
+45 451.5 Td
+(Q30. ) Tj
+ET
+BT
+/F1 8.5 Tf
+72 451.5 Td
+(Implement an adaptive Least Mean Squares \(LMS\) adaptive filter in NumPy for active noise) Tj
+ET
+BT
+/F1 8.5 Tf
+72 441 Td
+(cancellation.) Tj
+ET
+
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 24 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+24 0 obj
+<< /Length 8362 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 11 of 27) Tj
+ET
+BT
+/F2 11 Tf
+45 780 Td
+(SECTION C: ANSWER KEY - MULTIPLE CHOICE QUESTIONS) Tj
+ET
+0.5 w
+45 772 m 550 772 l S
+BT
+/F2 8.5 Tf
+45 750 Td
+(Q1: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 750 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 734 Td
+(Q2: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 734 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 718 Td
+(Q3: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 718 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 702 Td
+(Q4: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 686 Td
+(Q5: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 686 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 670 Td
+(Q6: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 670 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 654 Td
+(Q7: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 654 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 638 Td
+(Q8: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 622 Td
+(Q9: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 622 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 606 Td
+(Q10: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 606 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 590 Td
+(Q11: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 590 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 574 Td
+(Q12: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 558 Td
+(Q13: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 558 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 542 Td
+(Q14: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 542 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 526 Td
+(Q15: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 526 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 510 Td
+(Q16: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 494 Td
+(Q17: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 494 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 478 Td
+(Q18: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 462 Td
+(Q19: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 462 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+45 446 Td
+(Q20: ) Tj
+ET
+BT
+/F1 8.5 Tf
+80 446 Td
+([A]) Tj
+ET
+0.2 w
+135 755 m 135 425 l S
+BT
+/F2 8.5 Tf
+145 750 Td
+(Q21: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 750 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 734 Td
+(Q22: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 718 Td
+(Q23: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 718 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 702 Td
+(Q24: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 686 Td
+(Q25: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 686 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 670 Td
+(Q26: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 654 Td
+(Q27: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 654 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 638 Td
+(Q28: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 622 Td
+(Q29: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 606 Td
+(Q30: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 606 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 590 Td
+(Q31: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 590 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 574 Td
+(Q32: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 558 Td
+(Q33: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 558 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 542 Td
+(Q34: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 526 Td
+(Q35: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 526 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 510 Td
+(Q36: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 510 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 494 Td
+(Q37: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 494 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 478 Td
+(Q38: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 462 Td
+(Q39: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 462 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+145 446 Td
+(Q40: ) Tj
+ET
+BT
+/F1 8.5 Tf
+180 446 Td
+([A]) Tj
+ET
+0.2 w
+235 755 m 235 425 l S
+BT
+/F2 8.5 Tf
+245 750 Td
+(Q41: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 750 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 734 Td
+(Q42: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 734 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 718 Td
+(Q43: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 718 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 702 Td
+(Q44: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 702 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 686 Td
+(Q45: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 686 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 670 Td
+(Q46: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 654 Td
+(Q47: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 654 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 638 Td
+(Q48: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 622 Td
+(Q49: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 622 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 606 Td
+(Q50: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 590 Td
+(Q51: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 590 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 574 Td
+(Q52: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 558 Td
+(Q53: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 542 Td
+(Q54: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 542 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 526 Td
+(Q55: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 510 Td
+(Q56: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 510 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 494 Td
+(Q57: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 494 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 478 Td
+(Q58: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 478 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 462 Td
+(Q59: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+245 446 Td
+(Q60: ) Tj
+ET
+BT
+/F1 8.5 Tf
+280 446 Td
+([A]) Tj
+ET
+0.2 w
+335 755 m 335 425 l S
+BT
+/F2 8.5 Tf
+345 750 Td
+(Q61: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 750 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 734 Td
+(Q62: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 734 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 718 Td
+(Q63: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 718 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 702 Td
+(Q64: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 702 Td
+([C]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 686 Td
+(Q65: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 686 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 670 Td
+(Q66: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 670 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 654 Td
+(Q67: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 654 Td
+([D]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 638 Td
+(Q68: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 638 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 622 Td
+(Q69: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 606 Td
+(Q70: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 606 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 590 Td
+(Q71: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 574 Td
+(Q72: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 574 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 558 Td
+(Q73: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 542 Td
+(Q74: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 526 Td
+(Q75: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 510 Td
+(Q76: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 494 Td
+(Q77: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 494 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 478 Td
+(Q78: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 462 Td
+(Q79: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+345 446 Td
+(Q80: ) Tj
+ET
+BT
+/F1 8.5 Tf
+380 446 Td
+([A]) Tj
+ET
+0.2 w
+435 755 m 435 425 l S
+BT
+/F2 8.5 Tf
+445 750 Td
+(Q81: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 750 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 734 Td
+(Q82: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 734 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 718 Td
+(Q83: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 718 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 702 Td
+(Q84: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 702 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 686 Td
+(Q85: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 686 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 670 Td
+(Q86: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 670 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 654 Td
+(Q87: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 654 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 638 Td
+(Q88: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 638 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 622 Td
+(Q89: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 622 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 606 Td
+(Q90: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 606 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 590 Td
+(Q91: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 590 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 574 Td
+(Q92: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 574 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 558 Td
+(Q93: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 558 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 542 Td
+(Q94: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 542 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 526 Td
+(Q95: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 526 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 510 Td
+(Q96: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 510 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 494 Td
+(Q97: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 494 Td
+([B]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 478 Td
+(Q98: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 478 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 462 Td
+(Q99: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 462 Td
+([A]) Tj
+ET
+BT
+/F2 8.5 Tf
+445 446 Td
+(Q100: ) Tj
+ET
+BT
+/F1 8.5 Tf
+480 446 Td
+([A]) Tj
+ET
+0.5 w
+45 400 m 550 400 l 550 340 l 45 340 l s
+BT
+/F2 9 Tf
+55 382 Td
+(MCQ Scoring Guide & Difficulty Distribution:) Tj
+ET
+BT
+/F1 8.5 Tf
+55 366 Td
+(Questions 1 to 40: Foundational & Conceptual [Easy] | Questions 41 to 75: Analytical & Applied [Moderate]) Tj
+ET
+BT
+/F1 8.5 Tf
+55 350 Td
+(Questions 76 to 100: Complex Numerical & Advanced Problem Solving [Difficult]) Tj
+ET
+
+endstream
+endobj
+25 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 26 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+26 0 obj
+<< /Length 3723 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 12 of 27) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(SECTION D: DETAILED SOLUTIONS FOR SUBJECTIVE QUESTIONS) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(================================================================================) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 1:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the internal architecture of NumPy's `ndarray` compared to a standard Python list, focusing on memory layout and cache locality.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Architecture Comparison:) Tj
+T*
+() Tj
+T*
+(   1. Standard Python List \(`list`\):) Tj
+T*
+(   A Python list is essentially an array of pointers to `PyObject` structures scattered) Tj
+T*
+(   arbitrarily across the heap. Each integer or float element incurs full object overhead: an) Tj
+T*
+(   8-byte reference count, an 8-byte type pointer, and the payload value \(consuming ~28 bytes for) Tj
+T*
+(   an integer\). Accessing list elements requires pointer indirection on every access, causing) Tj
+T*
+(   severe CPU cache misses and preventing vectorization.) Tj
+T*
+() Tj
+T*
+(   2. NumPy ndarray \(`ndarray`\):) Tj
+T*
+(   An `ndarray` consists of a compact Python wrapper object containing:) Tj
+T*
+(   - A pointer to a single, contiguous block of raw C memory storing homogeneous primitive data) Tj
+T*
+(   types \(e.g. 8-byte double-precision IEEE 754 floats\).) Tj
+T*
+(   - A `shape` tuple defining dimension extents.) Tj
+T*
+(   - A `strides` tuple defining the byte step size required to advance one element along each) Tj
+T*
+(   dimension.) Tj
+T*
+(   - A `dtype` descriptor object specifying data format and endianness.) Tj
+T*
+() Tj
+T*
+(   Cache Locality Benefits:) Tj
+T*
+(   Because data is laid out contiguously, sequential memory accesses trigger automatic hardware) Tj
+T*
+(   CPU prefetching, populating L1/L2 cache lines \(64 bytes = 8 double floats per fetch\). This) Tj
+T*
+(   unlocks modern SIMD \(AVX2/AVX-512\) vector instruction execution, delivering 50x-100x speedups) Tj
+T*
+(   over Python lists.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 2:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Formulate the mathematical rules governing NumPy array broadcasting and demonstrate with worked 2D/3D examples.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Broadcasting Rules:) Tj
+T*
+() Tj
+T*
+(   When performing element-wise operations on two arrays of shapes $\(d_1, d_2, \\dots, d_n\)$ and) Tj
+T*
+(   $\(s_1, s_2, \\dots, s_m\)$:) Tj
+T*
+(   1. Right-Alignment: Prepend dimensions of size 1 to the shape of the array with fewer) Tj
+T*
+(   dimensions until both shapes have equal rank.) Tj
+T*
+(   2. Compatibility Condition: Along each dimension, the sizes must either be:) Tj
+T*
+(   - Exactly equal, or) Tj
+T*
+(   - One of them is 1.) Tj
+T*
+(   3. Virtual Expansion: Any dimension of size 1 is virtually stretched \(without copying physical) Tj
+T*
+(   memory\) to match the larger size by setting its stride along that dimension to 0.) Tj
+T*
+() Tj
+T*
+(   Worked Example:) Tj
+T*
+(   Array A: Shape \(4, 1, 6\)) Tj
+T*
+(   Array B: Shape \(3, 6\)) Tj
+T*
+(   - Step 1: Prepend 1 to B -> Shape becomes \(1, 3, 6\).) Tj
+T*
+(   - Step 2: Compare axis by axis from right to left:) Tj
+T*
+(   - Axis 2: 6 vs 6 -> Equal \(Compatible\)) Tj
+T*
+(   - Axis 1: 1 vs 3 -> One is 1 \(Compatible, A broadcasts from 1 to 3\)) Tj
+T*
+ET
+
+endstream
+endobj
+27 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 28 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+28 0 obj
+<< /Length 3483 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 13 of 27) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   - Axis 0: 4 vs 1 -> One is 1 \(Compatible, B broadcasts from 1 to 4\)) Tj
+T*
+(   - Resulting Shape: \(4, 3, 6\).) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 3:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain array memory strides, C-order vs. Fortran-order, and how `strides` enable zero-copy transposition and slicing.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Memory Strides Definition:) Tj
+T*
+() Tj
+T*
+(   Strides are an N-tuple of integers $\(s_0, s_1, \\dots, s_{N-1}\)$ where each $s_i$ indicates the) Tj
+T*
+(   number of bytes that must be stepped in memory to move to the next adjacent element along axis) Tj
+T*
+(   $i$.) Tj
+T*
+() Tj
+T*
+(   1. C-Contiguous Order \(Row-Major\):) Tj
+T*
+(   Data is stored row by row. The last index changes fastest in memory.) Tj
+T*
+(   For shape $\(M, N\)$ and element byte size $B$:) Tj
+T*
+(   $$\\text{strides} = \(N \\times B, B\)$$) Tj
+T*
+(   For a $3 \\times 4$ array of `float64` \($B=8$ bytes\):) Tj
+T*
+(   $$\\text{strides} = \(4 \\times 8, 8\) = \(32, 8\)$$) Tj
+T*
+() Tj
+T*
+(   2. Fortran-Contiguous Order \(Column-Major\):) Tj
+T*
+(   Data is stored column by column. The first index changes fastest:) Tj
+T*
+(   $$\\text{strides} = \(B, M \\times B\) = \(8, 24\)$$) Tj
+T*
+() Tj
+T*
+(   Zero-Copy Transposition \(`arr.T`\):) Tj
+T*
+(   To transpose a 2D array, NumPy simply reverses the shape and strides tuples: $\\text{shape} =) Tj
+T*
+(   \(N, M\)$ and $\\text{strides} = \(s_1, s_0\)$. No physical array elements are reallocated or copied) Tj
+T*
+(   in RAM; only the 8-byte stride integers in the Python header are swapped.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 4:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Analyze the performance and memory implications of slicing views versus advanced indexing copies in NumPy.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Views vs Copies in NumPy:) Tj
+T*
+() Tj
+T*
+(   1. Basic Slicing \(Views\):) Tj
+T*
+(   Constructed using slice notation `arr[start:stop:step]` or scalar indices.) Tj
+T*
+(   - Mechanics: Creates a new `ndarray` header pointing to the same existing data buffer with) Tj
+T*
+(   adjusted offset, shape, and strides.) Tj
+T*
+(   - Memory: O\(1\) allocation overhead \(~96 bytes for Python header\), zero buffer allocation.) Tj
+T*
+(   - Mutation: Mutating `view[0] = 99` directly mutates the original array!) Tj
+T*
+() Tj
+T*
+(   2. Advanced Indexing \(Copies\):) Tj
+T*
+(   Triggered when indexing with:) Tj
+T*
+(   - Boolean arrays \(e.g. `arr[arr > 0]`\)) Tj
+T*
+(   - Integer arrays or lists \(e.g. `arr[[0, 2, 4]]`\)) Tj
+T*
+(   - Mechanics: Because targeted elements may be scattered arbitrarily in memory, they cannot be) Tj
+T*
+(   addressed by constant strides. NumPy must allocate an entirely new memory buffer and copy) Tj
+T*
+(   elements into it.) Tj
+T*
+(   - Memory & Performance: O\(K\) allocation where K is number of matched elements. Mutating the) Tj
+T*
+(   copy does NOT affect the original array.) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+29 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 30 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+30 0 obj
+<< /Length 2991 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 14 of 27) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 5:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Demonstrate the mathematical formulation and NumPy implementation of 1D signal convolution and FIR filtering.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Discrete Linear Convolution:) Tj
+T*
+() Tj
+T*
+(   Given an input discrete signal $x[n]$ of length $N$ and an impulse response filter $h[n]$ of) Tj
+T*
+(   length $M$, the output $y[n]$ is formulated as:) Tj
+T*
+(   $$y[n] = \(x * h\)[n] = \\sum_{k=-\\infty}^{\\infty} x[k] h[n - k]$$) Tj
+T*
+(   The total duration of the full linear convolution is $L = N + M - 1$.) Tj
+T*
+() Tj
+T*
+(   NumPy Implementation:) Tj
+T*
+(   ```python) Tj
+T*
+(   import numpy as np) Tj
+T*
+() Tj
+T*
+(   # Define 1 kHz sampling rate, 100 ms test signal) Tj
+T*
+(   fs = 1000.0) Tj
+T*
+(   t = np.linspace\(0, 0.1, int\(0.1 * fs\), endpoint=False\)) Tj
+T*
+(   x = np.sin\(2 * np.pi * 50 * t\) + 0.5 * np.random.randn\(len\(t\)\)) Tj
+T*
+() Tj
+T*
+(   # 5-point moving average low-pass FIR filter) Tj
+T*
+(   h = np.ones\(5\) / 5.0) Tj
+T*
+() Tj
+T*
+(   # Convolve using mode='same' to preserve original length) Tj
+T*
+(   y_clean = np.convolve\(x, h, mode='same'\)) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(   Frequency Domain Acceleration:) Tj
+T*
+(   For large filters \($M > 64$\), direct time-domain convolution $O\(NM\)$ is replaced by FFT-based) Tj
+T*
+(   fast convolution via the Convolution Theorem: $y = \\text{IFFT}\(\\text{FFT}\(x\) \\cdot) Tj
+T*
+(   \\text{FFT}\(h\)\)$, running in $O\(\(N+M\) \\log\(N+M\)\)$ time.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 6:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the Discrete Fourier Transform \(DFT\) mathematical formulation and spectral analysis using `np.fft`.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Mathematical DFT Formulation:) Tj
+T*
+() Tj
+T*
+(   For a discrete-time signal $x[n]$ of length $N$ sampled at frequency $f_s$, the forward DFT is) Tj
+T*
+(   defined as:) Tj
+T*
+(   $$X[k] = \\sum_{n=0}^{N-1} x[n] \\cdot e^{-j \\frac{2\\pi}{N} k n}, \\quad k = 0, 1, \\dots, N-1$$) Tj
+T*
+(   Each bin $k$ corresponds to continuous physical frequency $f_k = \\frac{k \\cdot f_s}{N}$.) Tj
+T*
+() Tj
+T*
+(   Spectral Analysis Workflow:) Tj
+T*
+(   ```python) Tj
+T*
+(   import numpy as np) Tj
+T*
+() Tj
+T*
+(   fs = 8000.0 # 8 kHz audio sampling rate) Tj
+T*
+(   N = 1024) Tj
+T*
+(   t = np.arange\(N\) / fs) Tj
+T*
+(   sig = np.sin\(2 * np.pi * 440 * t\) + 0.5 * np.sin\(2 * np.pi * 1200 * t\)) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+31 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 32 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+32 0 obj
+<< /Length 3180 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 15 of 27) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   # Apply Hanning window to suppress spectral leakage) Tj
+T*
+(   windowed = sig * np.hanning\(N\)) Tj
+T*
+(   X = np.fft.rfft\(windowed\)) Tj
+T*
+(   freqs = np.fft.rfftfreq\(N, d=1/fs\)) Tj
+T*
+() Tj
+T*
+(   # Single-sided magnitude spectrum in dBV) Tj
+T*
+(   magnitude = 20 * np.log10\(np.abs\(X\) / \(N / 2\)\)) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(   The use of `rfft\(\)` exploits Hermitian symmetry $X[k] = X^*[N-k]$ for real-valued signals,) Tj
+T*
+(   computing only $N/2 + 1$ bins, halving memory and computational FLOPs.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 7:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Describe matrix decompositions in `np.linalg`: LU, QR, Cholesky, and Singular Value Decomposition \(SVD\).) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Key Matrix Decompositions in Engineering:) Tj
+T*
+() Tj
+T*
+(   1. QR Decomposition \(`np.linalg.qr`\):) Tj
+T*
+(   Decomposes $A \\in \\mathbb{R}^{m \\times n}$ into an orthogonal matrix $Q$ \($Q^T Q = I$\) and) Tj
+T*
+(   upper triangular matrix $R$: $A = QR$. Fundamental for linear least-squares problems and) Tj
+T*
+(   Gram-Schmidt orthogonalization.) Tj
+T*
+() Tj
+T*
+(   2. Cholesky Decomposition \(`np.linalg.cholesky`\):) Tj
+T*
+(   For a symmetric positive-definite matrix $A$, factors $A = L L^T$ where $L$ is a lower) Tj
+T*
+(   triangular matrix with positive diagonal entries. Requires half the operations of LU) Tj
+T*
+(   decomposition; used in Kalman filtering and Gaussian processes.) Tj
+T*
+() Tj
+T*
+(   3. Singular Value Decomposition \(SVD, `np.linalg.svd`\):) Tj
+T*
+(   Decomposes any matrix $A \\in \\mathbb{R}^{m \\times n}$ into:) Tj
+T*
+(   $$A = U \\Sigma V^H$$) Tj
+T*
+(   where $U$ and $V$ are unitary matrices and $\\Sigma$ contains non-negative singular values) Tj
+T*
+(   $\\sigma_1 \\ge \\sigma_2 \\ge \\dots \\ge 0$. Applications: Principal Component Analysis \(PCA\),) Tj
+T*
+(   pseudo-inverse calculation, MIMO channel rank determination.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 8:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Demonstrate solving a system of linear equations $Ax = b$ using `np.linalg.solve` and discuss numerical condition number.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Linear System Formulation:) Tj
+T*
+() Tj
+T*
+(   Consider the multi-loop mesh current circuit equations: $A x = b$, where $A$ is the impedance) Tj
+T*
+(   matrix, $x$ is the unknown loop current vector, and $b$ is the independent voltage source) Tj
+T*
+(   vector.) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   import numpy as np) Tj
+T*
+() Tj
+T*
+(   A = np.array\([) Tj
+T*
+(   [12.0, -4.0, 0.0],) Tj
+T*
+(   [-4.0, 16.0, -6.0],) Tj
+T*
+(   [ 0.0, -6.0, 14.0]) Tj
+T*
+ET
+
+endstream
+endobj
+33 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 34 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+34 0 obj
+<< /Length 3302 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 16 of 27) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   ]\)) Tj
+T*
+(   b = np.array\([24.0, 0.0, -12.0]\)) Tj
+T*
+() Tj
+T*
+(   # Solve system via LU decomposition directly) Tj
+T*
+(   x = np.linalg.solve\(A, b\)) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(   Numerical Condition Number $\\kappa\(A\)$:) Tj
+T*
+(   $$\\kappa\(A\) = \\|A\\| \\cdot \\|A^{-1}\\| = \\frac{\\sigma_{\\max}}{\\sigma_{\\min}}$$) Tj
+T*
+(   Calculated via `np.linalg.cond\(A\)`.) Tj
+T*
+(   - If $\\kappa\(A\) \\approx 1$, the matrix is well-conditioned; errors in $b$ do not amplify.) Tj
+T*
+(   - If $\\kappa\(A\) \\gg 10^8$, the matrix is ill-conditioned \(near singular\), and numerical) Tj
+T*
+(   round-off errors can completely destroy the solution accuracy.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 9:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain eigenvalues and eigenvectors in circuit stability and state-space analysis using `np.linalg.eig`.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   State-Space Linear System Stability:) Tj
+T*
+() Tj
+T*
+(   Continuous-time linear dynamical systems \(such as RLC resonant networks\) are represented in) Tj
+T*
+(   state-space form:) Tj
+T*
+(   $$\\dot{x}\(t\) = A x\(t\) + B u\(t\)$$) Tj
+T*
+(   System stability is governed by the eigenvalues $\\lambda_i$ of system matrix $A$, satisfying) Tj
+T*
+(   the characteristic equation $\\det\(A - \\lambda I\) = 0$.) Tj
+T*
+() Tj
+T*
+(   Stability Criteria:) Tj
+T*
+(   1. Asymptotically Stable: $\\text{Re}\(\\lambda_i\) < 0$ for all eigenvalues \(all roots lie) Tj
+T*
+(   strictly in the open left-half complex plane LHP\).) Tj
+T*
+(   2. Marginally Stable: Purely imaginary eigenvalues $\\text{Re}\(\\lambda_i\) = 0$ with non-repeated) Tj
+T*
+(   algebraic multiplicity \(sinusoidal oscillator\).) Tj
+T*
+(   3. Unstable: Any eigenvalue with $\\text{Re}\(\\lambda_i\) > 0$ \(exponentially divergent response\).) Tj
+T*
+() Tj
+T*
+(   NumPy Calculation:) Tj
+T*
+(   ```python) Tj
+T*
+(   import numpy as np) Tj
+T*
+(   A = np.array\([[-2.0, -5.0], [1.0, 0.0]]\)) Tj
+T*
+(   eigenvalues, eigenvectors = np.linalg.eig\(A\)) Tj
+T*
+(   is_stable = np.all\(np.real\(eigenvalues\) < 0\)) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 10:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Detail universal function \(`ufunc`\) mechanics in NumPy: element-wise execution, type casting, and inner loops.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   A universal function \(`ufunc`\) is a compiled C routine that wraps an element-by-element) Tj
+T*
+(   operation over `ndarrays`.) Tj
+T*
+() Tj
+T*
+(   Key Internal Mechanics:) Tj
+T*
+(   1. Dimension Broadcasting: ufuncs automatically broadcast input arrays to a common shape) Tj
+T*
+(   following broadcasting rules.) Tj
+T*
+(   2. Type Resolution and Casting: NumPy checks the dtypes of inputs and searches an internal 1D) Tj
+T*
+ET
+
+endstream
+endobj
+35 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 36 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+36 0 obj
+<< /Length 3173 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 17 of 27) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   array of function pointers for an exact match. If an exact match is missing, NumPy casts inputs) Tj
+T*
+(   according to safe casting hierarchy rules \(e.g. `int32 -> float64`\).) Tj
+T*
+(   3. Inner Loops: Once types are resolved, the ufunc executes a tightly optimized C loop) Tj
+T*
+(   iterating through pointers using element strides, completely bypassing Python C-API interpreter) Tj
+T*
+(   overhead.) Tj
+T*
+(   4. Ufunc Methods: Every ufunc supports built-in reduction operations: `reduce\(\)`,) Tj
+T*
+(   `accumulate\(\)`, `reduceat\(\)`, and `outer\(\)`.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 11:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Demonstrate structured arrays and record arrays in NumPy for heterogeneous sensor data acquisition.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Structured Arrays:) Tj
+T*
+() Tj
+T*
+(   Structured arrays permit defining heterogeneous C-like structs with named fields, byte offsets,) Tj
+T*
+(   and custom dtypes:) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   import numpy as np) Tj
+T*
+() Tj
+T*
+(   # Define sensor telemetry packet data structure) Tj
+T*
+(   telemetry_dtype = np.dtype\([) Tj
+T*
+(   \('timestamp_ms', np.uint64\),) Tj
+T*
+(   \('sensor_id', 'S8'\),) Tj
+T*
+(   \('voltage_v', np.float32\),) Tj
+T*
+(   \('temperature_c',np.float32\),) Tj
+T*
+(   \('status_flags', np.uint16\)) Tj
+T*
+(   ]\)) Tj
+T*
+() Tj
+T*
+(   # Allocate contiguous array for 10,000 samples) Tj
+T*
+(   data = np.zeros\(10000, dtype=telemetry_dtype\)) Tj
+T*
+(   data['timestamp_ms'][0] = 1714000000) Tj
+T*
+(   data['voltage_v'][0] = 3.31) Tj
+T*
+(   data['temperature_c'][0] = 25.4) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(   Benefits: Consumes minimal memory without Python object wrapper overhead, and allows direct) Tj
+T*
+(   binary deserialization from serial UART/SPI hardware interfaces via `np.frombuffer\(\)`.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 12:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain `np.memmap` for memory-mapped files and how to stream gigabyte-scale radar datasets.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Memory-Mapped Arrays \(`np.memmap`\):) Tj
+T*
+() Tj
+T*
+(   `np.memmap` allows reading and writing small segments of large binary datasets stored on disk) Tj
+T*
+(   directly into virtual memory via the OS kernel's `mmap\(\)` system call.) Tj
+T*
+() Tj
+T*
+(   Mechanics and Advantages:) Tj
+T*
+(   - On-Demand Page Paging: Only requested 4 KB virtual memory pages are loaded from disk into RAM) Tj
+T*
+(   when accessed by slicing, preventing Out-Of-Memory \(OOM\) errors.) Tj
+T*
+(   - Zero-Copy Sharing: Multiple Python processes can map the identical read-only file) Tj
+T*
+ET
+
+endstream
+endobj
+37 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 38 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+38 0 obj
+<< /Length 3209 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 18 of 27) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   simultaneously, sharing OS page cache pages without duplicating physical RAM.) Tj
+T*
+(   ```python) Tj
+T*
+(   # Map a 20 GB raw I/Q radar sample binary file) Tj
+T*
+(   radar_data = np.memmap\('raw_radar.dat', dtype=np.complex64, mode='r', shape=\(100000, 2048\)\)) Tj
+T*
+(   # Process frame 500 without loading the remaining 19.9 GB) Tj
+T*
+(   frame_spectrum = np.fft.fft\(radar_data[500, :]\)) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 13:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Demonstrate the use of `np.einsum` \(Einstein Summation\) for multidimensional tensor operations.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Einstein Summation Convention:) Tj
+T*
+() Tj
+T*
+(   `np.einsum` provides a concise subscript syntax to specify complex tensor contractions,) Tj
+T*
+(   products, and transpositions without temporary intermediate array allocations:) Tj
+T*
+() Tj
+T*
+(   Common Formulations:) Tj
+T*
+(   1. Matrix Multiplication: $C_{ik} = \\sum_j A_{ij} B_{jk}$) Tj
+T*
+(   `C = np.einsum\('ij,jk->ik', A, B\)`) Tj
+T*
+() Tj
+T*
+(   2. Matrix Trace: $\\text{Tr}\(A\) = \\sum_i A_{ii}$) Tj
+T*
+(   `tr = np.einsum\('ii->', A\)`) Tj
+T*
+() Tj
+T*
+(   3. Batch Matrix Multiplication: Given batch tensors $A \\in \\mathbb{R}^{B \\times M \\times K}$) Tj
+T*
+(   and $B \\in \\mathbb{R}^{B \\times K \\times N}$:) Tj
+T*
+(   `C = np.einsum\('bmk,bkn->bmn', A, B\)`) Tj
+T*
+() Tj
+T*
+(   `np.einsum` evaluates optimal loop orders \(`optimize=True`\) to minimize memory bandwidth and) Tj
+T*
+(   temporary array overhead.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 14:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Formulate numerical differentiation techniques in NumPy: Forward, Backward, and Central differences with error orders.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Numerical Differentiation Formulations:) Tj
+T*
+() Tj
+T*
+(   Given discrete function evaluations $f\(x\)$ at uniform spacing $h$:) Tj
+T*
+(   1. Forward Difference:) Tj
+T*
+(   $$f'\(x\) \\approx \\frac{f\(x + h\) - f\(x\)}{h}, \\quad \\text{Truncation Error: } \\mathcal{O}\(h\)$$) Tj
+T*
+() Tj
+T*
+(   2. Backward Difference:) Tj
+T*
+(   $$f'\(x\) \\approx \\frac{f\(x\) - f\(x - h\)}{h}, \\quad \\text{Truncation Error: } \\mathcal{O}\(h\)$$) Tj
+T*
+() Tj
+T*
+(   3. Central Difference:) Tj
+T*
+(   $$f'\(x\) \\approx \\frac{f\(x + h\) - f\(x - h\)}{2h}, \\quad \\text{Truncation Error: }) Tj
+T*
+(   \\mathcal{O}\(h^2\)$$) Tj
+T*
+() Tj
+T*
+(   NumPy's `np.gradient\(f, h\)` uses central differences for all interior points and second-order) Tj
+T*
+(   one-sided differences at boundaries, maintaining uniform $\\mathcal{O}\(h^2\)$ accuracy across the) Tj
+T*
+(   entire array.) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+39 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 40 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+40 0 obj
+<< /Length 3169 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 19 of 27) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 15:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the composite Trapezoidal and Simpson's rules for numerical integration using NumPy.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Numerical Quadrature Formulas:) Tj
+T*
+() Tj
+T*
+(   1. Composite Trapezoidal Rule \(`np.trapz`\):) Tj
+T*
+(   Approximates the area under $f\(x\)$ by summing trapezoids between uniform points $x_0, x_1,) Tj
+T*
+(   \\dots, x_N$ spaced by $h$:) Tj
+T*
+(   $$\\int_a^b f\(x\) dx \\approx \\frac{h}{2} \\left[ f\(x_0\) + 2 \\sum_{i=1}^{N-1} f\(x_i\) + f\(x_N\)) Tj
+T*
+(   \\right]$$) Tj
+T*
+(   Truncation Error: $\\mathcal{O}\(h^2\)$.) Tj
+T*
+() Tj
+T*
+(   2. Composite Simpson's 1/3 Rule \(`scipy.integrate.simpson`\):) Tj
+T*
+(   Fits quadratic parabolas through successive triplets of points \(requires odd number of points) Tj
+T*
+(   $N+1$\):) Tj
+T*
+(   $$\\int_a^b f\(x\) dx \\approx \\frac{h}{3} \\left[ f\(x_0\) + 4 \\sum_{i=1,3,\\dots}^{N-1} f\(x_i\) + 2) Tj
+T*
+(   \\sum_{i=2,4,\\dots}^{N-2} f\(x_i\) + f\(x_N\) \\right]$$) Tj
+T*
+(   Truncation Error: $\\mathcal{O}\(h^4\)$, delivering substantially superior accuracy for smooth) Tj
+T*
+(   waveforms.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 16:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Describe random variable sampling in modern NumPy using `Generator` and `PCG64` bit generators.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Modern NumPy Random API \(`numpy.random`\):) Tj
+T*
+() Tj
+T*
+(   NumPy replaced legacy global state `np.random.seed\(\)` with modular `Generator` objects powered) Tj
+T*
+(   by modern pseudo-random bit generators like PCG64:) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   import numpy as np) Tj
+T*
+(   # Instantiate independent, thread-safe RNG generator) Tj
+T*
+(   rng = np.random.default_rng\(seed=12345\)) Tj
+T*
+() Tj
+T*
+(   # Additive White Gaussian Noise \(AWGN\)) Tj
+T*
+(   awgn_noise = rng.normal\(loc=0.0, scale=1.0, size=1000\)) Tj
+T*
+() Tj
+T*
+(   # Uniform channel fading) Tj
+T*
+(   fading = rng.uniform\(low=0.8, high=1.2, size=1000\)) Tj
+T*
+() Tj
+T*
+(   # Discrete symbol generation) Tj
+T*
+(   bits = rng.integers\(low=0, high=2, size=1000\)) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(   PCG64 provides superior statistical randomness, longer period \($2^{128}$\), and passes rigorous) Tj
+T*
+(   TestU01 BigCrush suites.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 17:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Demonstrate fast search and insertion in sorted NumPy arrays using `np.searchsorted`.) Tj
+T*
+ET
+
+endstream
+endobj
+41 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 42 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+42 0 obj
+<< /Length 3115 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 20 of 27) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   `np.searchsorted\(a, v, side='left'\)` uses binary search to locate indices where elements $v$) Tj
+T*
+(   should be inserted into sorted array $a$ to maintain sorted order:) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   import numpy as np) Tj
+T*
+(   thresholds = np.array\([0.5, 1.0, 2.0, 3.3, 5.0]\)) Tj
+T*
+(   voltages = np.array\([0.1, 0.7, 2.5, 4.0, 6.0]\)) Tj
+T*
+() Tj
+T*
+(   # Fast binary quantization) Tj
+T*
+(   bin_indices = np.searchsorted\(thresholds, voltages\)) Tj
+T*
+(   # Returns: [0, 1, 3, 4, 5]) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(   Time Complexity: $\\mathcal{O}\(M \\log N\)$ where $M$ is the number of query points and $N$ is) Tj
+T*
+(   array length, orders of magnitude faster than linear masking for quantization and lookup) Tj
+T*
+(   tables.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 18:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain array concatenation, splitting, and stacking along custom axes with mathematical diagrams.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Array Assembly Operations:) Tj
+T*
+() Tj
+T*
+(   1. `np.concatenate\(\(A, B\), axis=0\)`:) Tj
+T*
+(   Glues arrays along an existing axis. Both arrays must have identical shapes along all axes) Tj
+T*
+(   other than the concatenation axis.) Tj
+T*
+() Tj
+T*
+(   2. `np.stack\(\(A, B\), axis=0\)`:) Tj
+T*
+(   Creates a NEW axis. If $A$ and $B$ have shape $\(M, N\)$, stacking them along `axis=0` yields) Tj
+T*
+(   shape $\(2, M, N\)$.) Tj
+T*
+() Tj
+T*
+(   3. Helper Shorthands:) Tj
+T*
+(   - `np.vstack`: Equivalent to concatenate along axis 0.) Tj
+T*
+(   - `np.hstack`: Equivalent to concatenate along axis 1 \(or axis 0 for 1D arrays\).) Tj
+T*
+(   - `np.dstack`: Stacks along third depth dimension \(axis 2\).) Tj
+T*
+() Tj
+T*
+(   4. Splitting \(`np.split`, `np.hsplit`, `np.vsplit`\):) Tj
+T*
+(   Partitions an array into equal-sized sub-arrays or at specified index divisions.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 19:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Demonstrate numerical root-finding using companion matrices and polynomial roots with `np.roots`.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Polynomial Roots via Companion Matrix:) Tj
+T*
+() Tj
+T*
+(   Given a polynomial $P\(x\) = c_0 x^n + c_1 x^{n-1} + \\dots + c_n = 0$, finding its roots is) Tj
+T*
+(   mathematically transformed into an eigenvalue problem.) Tj
+T*
+() Tj
+T*
+(   Companion Matrix Formulation:) Tj
+T*
+(   The monic companion matrix $C$ is constructed such that its characteristic polynomial $\\det\(x I) Tj
+T*
+(   - C\)$ is exactly equal to $P\(x\)$:) Tj
+T*
+ET
+
+endstream
+endobj
+43 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 44 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+44 0 obj
+<< /Length 3088 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 21 of 27) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   $$C = \\begin{bmatrix} -c_1/c_0 & -c_2/c_0 & \\dots & -c_{n-1}/c_0 & -c_n/c_0 \\\\ 1 & 0 & \\dots &) Tj
+T*
+(   0 & 0 \\\\ 0 & 1 & \\dots & 0 & 0 \\\\ \\vdots & \\vdots & \\ddots & \\vdots & \\vdots \\\\ 0 & 0 & \\dots &) Tj
+T*
+(   1 & 0 \\end{bmatrix}$$) Tj
+T*
+() Tj
+T*
+(   NumPy computes the roots of $P\(x\)$ via `np.roots\(c\)` by computing the eigenvalues of this) Tj
+T*
+(   companion matrix using LAPACK's QR algorithm, delivering robust numerical convergence without) Tj
+T*
+(   initial guess divergence.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 20:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain masked arrays in NumPy \(`numpy.ma`\) for handling corrupted ADC sensor readings and missing data.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Masked Arrays \(`numpy.ma`\):) Tj
+T*
+() Tj
+T*
+(   When collecting data from physical transducers, samples may be corrupted due to cable) Tj
+T*
+(   disconnection, saturation, or EMI noise.) Tj
+T*
+() Tj
+T*
+(   Structure of `ma.MaskedArray`:) Tj
+T*
+(   - `data`: Standard ndarray storing the raw values.) Tj
+T*
+(   - `mask`: Boolean ndarray of identical shape where `True` indicates invalid/corrupted data.) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   import numpy.ma as ma) Tj
+T*
+(   raw_adc = np.array\([3.3, -999.0, 3.4, 3.2, -999.0]\)) Tj
+T*
+(   # Mask sentinel invalid values \(-999.0\)) Tj
+T*
+(   valid_adc = ma.masked_values\(raw_adc, -999.0\)) Tj
+T*
+() Tj
+T*
+(   # Statistical calculations ignore masked elements automatically) Tj
+T*
+(   avg_voltage = valid_adc.mean\(\) # Computes mean of [3.3, 3.4, 3.2]) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 21:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement an end-to-end discrete Kalman Filter in NumPy for tracking noisy radar trajectory measurements.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   A linear Kalman Filter estimates state $x_k$ under Gaussian process and measurement noise:) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   import numpy as np) Tj
+T*
+() Tj
+T*
+(   # Time step and state transition matrix F \(constant velocity\)) Tj
+T*
+(   dt = 0.1) Tj
+T*
+(   F = np.array\([[1.0, dt], [0.0, 1.0]]\)) Tj
+T*
+(   H = np.array\([[1.0, 0.0]]\) # Measurement matrix \(position only\)) Tj
+T*
+(   Q = np.array\([[1e-4, 0.0], [0.0, 1e-4]]\) # Process covariance) Tj
+T*
+(   R = np.array\([[0.25]]\) # Measurement covariance) Tj
+T*
+() Tj
+T*
+(   # Initial state and error covariance) Tj
+T*
+(   x = np.array\([[0.0], [10.0]]\) # pos=0 m, vel=10 m/s) Tj
+T*
+(   P = np.eye\(2\)) Tj
+T*
+() Tj
+T*
+(   def kalman_step\(x, P, z\):) Tj
+T*
+ET
+
+endstream
+endobj
+45 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 46 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+46 0 obj
+<< /Length 2463 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 22 of 27) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   # 1. Prediction) Tj
+T*
+(   x_pred = F @ x) Tj
+T*
+(   P_pred = F @ P @ F.T + Q) Tj
+T*
+() Tj
+T*
+(   # 2. Update \(Kalman Gain\)) Tj
+T*
+(   S = H @ P_pred @ H.T + R) Tj
+T*
+(   K = P_pred @ H.T @ np.linalg.inv\(S\)) Tj
+T*
+(   y = z - H @ x_pred # Innovation residual) Tj
+T*
+(   x_new = x_pred + K @ y) Tj
+T*
+(   P_new = \(np.eye\(2\) - K @ H\) @ P_pred) Tj
+T*
+(   return x_new, P_new) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 22:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Write a vectorized 2D Finite-Difference Time-Domain \(FDTD\) wave equation solver using NumPy array operations.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   FDTD simulates electromagnetic wave propagation by discretizing Maxwell's wave equations in) Tj
+T*
+(   space and time:) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   import numpy as np) Tj
+T*
+() Tj
+T*
+(   Nx, Ny = 200, 200) Tj
+T*
+(   c = 1.0 # Wave speed) Tj
+T*
+(   dx = 1.0) Tj
+T*
+(   dt = 0.5 * dx / c # Courant stability condition \(CFL <= 1/sqrt\(2\)\)) Tj
+T*
+() Tj
+T*
+(   u_prev = np.zeros\(\(Nx, Ny\)\)) Tj
+T*
+(   u_curr = np.zeros\(\(Nx, Ny\)\)) Tj
+T*
+(   u_next = np.zeros\(\(Nx, Ny\)\)) Tj
+T*
+() Tj
+T*
+(   def step_wave\(u_curr, u_prev\):) Tj
+T*
+(   # Vectorized 5-point discrete Laplacian operator) Tj
+T*
+(   laplacian = \() Tj
+T*
+(   u_curr[2:, 1:-1] + u_curr[:-2, 1:-1] +) Tj
+T*
+(   u_curr[1:-1, 2:] + u_curr[1:-1, :-2] -) Tj
+T*
+(   4 * u_curr[1:-1, 1:-1]) Tj
+T*
+(   \) / \(dx**2\)) Tj
+T*
+() Tj
+T*
+(   u_next[1:-1, 1:-1] = \() Tj
+T*
+(   2 * u_curr[1:-1, 1:-1] - u_prev[1:-1, 1:-1] +) Tj
+T*
+(   \(c * dt\)**2 * laplacian) Tj
+T*
+(   \)) Tj
+T*
+(   return u_next, u_curr) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 23:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Derive the Cooley-Tukey Radix-2 Decimation-In-Time \(DIT\) FFT algorithm and analyze its computational savings.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Derivation of Radix-2 DIT FFT:) Tj
+T*
+ET
+
+endstream
+endobj
+47 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 48 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+48 0 obj
+<< /Length 2985 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 23 of 27) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   Given $N$-point DFT $X[k] = \\sum_{n=0}^{N-1} x[n] W_N^{k n}$ where $W_N = e^{-j) Tj
+T*
+(   \\frac{2\\pi}{N}}$ and $N$ is a power of 2.) Tj
+T*
+() Tj
+T*
+(   Split $x[n]$ into even-indexed samples $x[2m]$ and odd-indexed samples $x[2m+1]$ \($m = 0,) Tj
+T*
+(   \\dots, N/2 - 1$\):) Tj
+T*
+(   $$X[k] = \\sum_{m=0}^{N/2-1} x[2m] W_N^{k\(2m\)} + \\sum_{m=0}^{N/2-1} x[2m+1] W_N^{k\(2m+1\)}$$) Tj
+T*
+(   Noting that $W_N^{2 m k} = W_{N/2}^{m k}$:) Tj
+T*
+(   $$X[k] = E[k] + W_N^k O[k]$$) Tj
+T*
+(   $$X[k + N/2] = E[k] - W_N^k O[k]$$) Tj
+T*
+(   where $E[k]$ and $O[k]$ are $N/2$-point DFTs.) Tj
+T*
+() Tj
+T*
+(   Computational Complexity Savings:) Tj
+T*
+(   - Direct DFT: $N^2$ complex multiplications.) Tj
+T*
+(   - Radix-2 FFT: $\\frac{N}{2} \\log_2 N$ complex multiplications.) Tj
+T*
+(   - For $N = 1024$:) Tj
+T*
+(   - Direct DFT: $1024^2 = 1,048,576$ multiplications.) Tj
+T*
+(   - FFT: $512 \\times 10 = 5,120$ multiplications.) Tj
+T*
+(   - Computational Speedup: $> 200\\times$ reduction in arithmetic operations!) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 24:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement a sliding-window Short-Time Fourier Transform \(STFT\) in NumPy using `as_strided` and window functions.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   STFT divides a long time-varying signal into overlapping segments to compute a spectrogram:) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   import numpy as np) Tj
+T*
+(   from numpy.lib.stride_tricks import as_strided) Tj
+T*
+() Tj
+T*
+(   def compute_stft\(x, nperseg=256, noverlap=128\):) Tj
+T*
+(   step = nperseg - noverlap) Tj
+T*
+(   n_frames = \(len\(x\) - nperseg\) // step + 1) Tj
+T*
+() Tj
+T*
+(   # Zero-copy sliding window segmentation using strides) Tj
+T*
+(   elem_bytes = x.strides[0]) Tj
+T*
+(   shape = \(n_frames, nperseg\)) Tj
+T*
+(   strides = \(step * elem_bytes, elem_bytes\)) Tj
+T*
+(   frames = as_strided\(x, shape=shape, strides=strides\)) Tj
+T*
+() Tj
+T*
+(   # Apply Hanning window across all frames simultaneously) Tj
+T*
+(   window = np.hanning\(nperseg\)) Tj
+T*
+(   windowed_frames = frames * window) Tj
+T*
+() Tj
+T*
+(   # Compute FFT along axis 1) Tj
+T*
+(   stft_matrix = np.fft.rfft\(windowed_frames, axis=1\)) Tj
+T*
+(   return stft_matrix) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 25:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Demonstrate low-rank matrix approximation via Truncated Singular Value Decomposition \(TSVD\) for signal denoising.) Tj
+T*
+ET
+
+endstream
+endobj
+49 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 50 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+50 0 obj
+<< /Length 2485 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 24 of 27) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Low-Rank Approximation via Eckart-Young-Mirsky Theorem:) Tj
+T*
+() Tj
+T*
+(   Any noisy data matrix $A \\in \\mathbb{R}^{m \\times n}$ can be decomposed via SVD: $A =) Tj
+T*
+(   \\sum_{i=1}^r \\sigma_i u_i v_i^T$.) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   import numpy as np) Tj
+T*
+() Tj
+T*
+(   def denoise_tsvd\(A, k_components\):) Tj
+T*
+(   U, s, Vt = np.linalg.svd\(A, full_matrices=False\)) Tj
+T*
+(   # Keep only the top k dominant singular values) Tj
+T*
+(   s_filtered = np.zeros_like\(s\)) Tj
+T*
+(   s_filtered[:k_components] = s[:k_components]) Tj
+T*
+() Tj
+T*
+(   # Reconstruct optimal rank-k low-noise matrix) Tj
+T*
+(   A_denoised = \(U * s_filtered\) @ Vt) Tj
+T*
+(   return A_denoised) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(   This filters out unstructured additive noise that populates the smaller tail singular values) Tj
+T*
+(   while preserving core correlated signal features.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 26:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement a vectorized Digital Phase-Locked Loop \(DPLL\) phase error detector and loop filter in NumPy.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   A DPLL synchronizes the phase of an incoming modulated carrier with a local Numerically) Tj
+T*
+(   Controlled Oscillator \(NCO\):) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   import numpy as np) Tj
+T*
+() Tj
+T*
+(   def simulate_dpll\(rx_signal, fs, f_nominal, Kp=0.05, Ki=0.001\):) Tj
+T*
+(   N = len\(rx_signal\)) Tj
+T*
+(   phase_out = np.zeros\(N\)) Tj
+T*
+(   phase_nco = 0.0) Tj
+T*
+(   integrator = 0.0) Tj
+T*
+() Tj
+T*
+(   for n in range\(N\):) Tj
+T*
+(   # Local NCO reference) Tj
+T*
+(   ref_i = np.cos\(phase_nco\)) Tj
+T*
+(   ref_q = -np.sin\(phase_nco\)) Tj
+T*
+() Tj
+T*
+(   # Multiplier phase detector) Tj
+T*
+(   phase_err = rx_signal[n] * ref_q) Tj
+T*
+() Tj
+T*
+(   # Proportional-Integral \(PI\) loop filter) Tj
+T*
+(   integrator += Ki * phase_err) Tj
+T*
+(   freq_adjust = Kp * phase_err + integrator) Tj
+T*
+() Tj
+T*
+(   phase_nco += 2 * np.pi * f_nominal / fs + freq_adjust) Tj
+T*
+(   phase_out[n] = phase_nco) Tj
+T*
+ET
+
+endstream
+endobj
+51 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 52 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+52 0 obj
+<< /Length 3183 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 25 of 27) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+(   return phase_out) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 27:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the implementation and performance optimization of vectorized N-body gravitational or electromagnetic simulation.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   In Coulomb's law or gravitational simulation, computing pairwise forces between $N$ charged) Tj
+T*
+(   particles naively requires $O\(N^2\)$ nested loops.) Tj
+T*
+() Tj
+T*
+(   Vectorized Broadcasting Implementation:) Tj
+T*
+(   ```python) Tj
+T*
+(   import numpy as np) Tj
+T*
+() Tj
+T*
+(   def compute_pairwise_coulomb_forces\(pos, charges, k_e=8.9875e9\):) Tj
+T*
+(   # pos shape: \(N, 3\)) Tj
+T*
+(   # Broadcast difference vectors: \(N, 1, 3\) - \(1, N, 3\) -> \(N, N, 3\)) Tj
+T*
+(   r_vec = pos[:, np.newaxis, :] - pos[np.newaxis, :, :]) Tj
+T*
+() Tj
+T*
+(   # Compute scalar distance cubed with epsilon softening) Tj
+T*
+(   dist_sq = np.sum\(r_vec**2, axis=-1\) + 1e-12) Tj
+T*
+(   dist_cube = dist_sq * np.sqrt\(dist_sq\)) Tj
+T*
+() Tj
+T*
+(   # Charge products: \(N, 1\) * \(1, N\) -> \(N, N\)) Tj
+T*
+(   q_prod = charges[:, np.newaxis] * charges[np.newaxis, :]) Tj
+T*
+() Tj
+T*
+(   # Force matrix: \(N, N, 3\)) Tj
+T*
+(   F_matrix = k_e * q_prod[:, :, np.newaxis] * r_vec / dist_cube[:, :, np.newaxis]) Tj
+T*
+(   # Total net force on each particle: sum over j) Tj
+T*
+(   return np.sum\(F_matrix, axis=1\)) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 28:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Detail NumPy memory management: PyArrayObject, buffer sharing, views, base attributes, and garbage collection.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   NumPy C-Architecture Memory Internals:) Tj
+T*
+() Tj
+T*
+(   1. `PyArrayObject` Struct:) Tj
+T*
+(   - `data`: Pointer to raw memory buffer \(`char *`\).) Tj
+T*
+(   - `nd`: Number of dimensions \(int\).) Tj
+T*
+(   - `dimensions`: Pointer to array of dimension sizes \(`npy_intp *`\).) Tj
+T*
+(   - `strides`: Pointer to array of byte steps \(`npy_intp *`\).) Tj
+T*
+(   - `base`: Pointer to parent `PyObject` that actually owns the memory buffer.) Tj
+T*
+() Tj
+T*
+(   2. Buffer Sharing and `base` Attribute:) Tj
+T*
+(   - When `a` is created from scratch, `a.base is None` \(or owns memory\).) Tj
+T*
+(   - When `b = a[1:5]` is sliced, `b.base is a`. The base attribute holds a reference to `a`,) Tj
+T*
+(   incrementing its reference counter.) Tj
+T*
+(   - Garbage Collection Safety: Even if `del a` is executed, the raw memory buffer remains active) Tj
+T*
+(   and accessible in RAM as long as `b` exists because `b.base` holds a live reference to the) Tj
+T*
+(   underlying memory block.) Tj
+T*
+ET
+
+endstream
+endobj
+53 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 54 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+54 0 obj
+<< /Length 2745 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 26 of 27) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 29:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Explain the implementation of custom universal functions using Numba `@vectorize` with hardware SIMD acceleration.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Accelerating Custom Elemental Operations with Numba:) Tj
+T*
+() Tj
+T*
+(   Pure Python loops are too slow, and `np.vectorize` is merely a Python loop wrapper. Numba's) Tj
+T*
+(   `@vectorize` decorator compiles scalar functions directly into native machine code ufuncs:) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   from numba import vectorize, float64) Tj
+T*
+(   import numpy as np) Tj
+T*
+() Tj
+T*
+(   @vectorize\([float64\(float64, float64, float64\)], target='cpu'\)) Tj
+T*
+(   def rlc_impedance_ufunc\(r, l, c\):) Tj
+T*
+(   omega = 2.0 * np.pi * 1e6 # 1 MHz) Tj
+T*
+(   xl = omega * l) Tj
+T*
+(   xc = 1.0 / \(omega * c\)) Tj
+T*
+(   return np.sqrt\(r**2 + \(xl - xc\)**2\)) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(   Targeting SIMD and Multi-threading:) Tj
+T*
+(   By setting `target='parallel'`, Numba automatically compiles OpenMP multithreading across CPU) Tj
+T*
+(   cores and emits AVX2 FMA \(Fused Multiply-Add\) instructions, matching pure C library speeds.) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+BT
+/F2 8.5 Tf
+12.5 TL
+(>> Solution to Question 30:) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+(   [Problem Statement]: Implement an adaptive Least Mean Squares \(LMS\) adaptive filter in NumPy for active noise cancellation.) Tj
+T*
+(   [Detailed Step-by-Step Answer]:) Tj
+T*
+(   Active Noise Cancellation via LMS Adaptive Filter:) Tj
+T*
+() Tj
+T*
+(   ```python) Tj
+T*
+(   import numpy as np) Tj
+T*
+() Tj
+T*
+(   def lms_filter\(desired, reference, num_taps=32, mu=0.01\):) Tj
+T*
+(   N = len\(desired\)) Tj
+T*
+(   weights = np.zeros\(num_taps\)) Tj
+T*
+(   output = np.zeros\(N\)) Tj
+T*
+(   error = np.zeros\(N\)) Tj
+T*
+() Tj
+T*
+(   for n in range\(num_taps, N\):) Tj
+T*
+(   # Extract reference sample window in reverse order) Tj
+T*
+(   x_window = reference[n:n - num_taps:-1]) Tj
+T*
+() Tj
+T*
+(   # Estimate noise via FIR dot product) Tj
+T*
+(   y_noise_est = np.dot\(weights, x_window\)) Tj
+T*
+(   output[n] = y_noise_est) Tj
+T*
+() Tj
+T*
+(   # Error signal \(clean desired output\)) Tj
+T*
+(   e = desired[n] - y_noise_est) Tj
+T*
+(   error[n] = e) Tj
+T*
+ET
+
+endstream
+endobj
+55 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 56 0 R /Resources << /Font << /F1 57 0 R /F2 58 0 R >> >> >>
+endobj
+56 0 obj
+<< /Length 546 >>
+stream
+BT
+/F2 9.5 Tf
+45 818 Td
+( | ) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Biotechnology Question Bank & Solutions) Tj
+340 0 Td
+(Page 27 of 27) Tj
+ET
+BT
+/F1 8.5 Tf
+12.5 TL
+45 780 Td
+() Tj
+T*
+(   # Stochastic gradient descent weight update: w = w + 2*mu*e*x) Tj
+T*
+(   weights += 2 * mu * e * x_window) Tj
+T*
+() Tj
+T*
+(   return error, weights) Tj
+T*
+(   ```) Tj
+T*
+() Tj
+T*
+(--------------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+57 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+58 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+xref
+0 59
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000295 00000 n 
+0000000439 00000 n 
+0000008428 00000 n 
+0000008572 00000 n 
+0000016611 00000 n 
+0000016755 00000 n 
+0000025269 00000 n 
+0000025414 00000 n 
+0000034190 00000 n 
+0000034336 00000 n 
+0000043296 00000 n 
+0000043442 00000 n 
+0000052959 00000 n 
+0000053105 00000 n 
+0000062782 00000 n 
+0000062928 00000 n 
+0000064327 00000 n 
+0000064473 00000 n 
+0000068811 00000 n 
+0000068957 00000 n 
+0000071400 00000 n 
+0000071546 00000 n 
+0000079961 00000 n 
+0000080107 00000 n 
+0000083883 00000 n 
+0000084029 00000 n 
+0000087565 00000 n 
+0000087711 00000 n 
+0000090755 00000 n 
+0000090901 00000 n 
+0000094134 00000 n 
+0000094280 00000 n 
+0000097635 00000 n 
+0000097781 00000 n 
+0000101007 00000 n 
+0000101153 00000 n 
+0000104415 00000 n 
+0000104561 00000 n 
+0000107783 00000 n 
+0000107929 00000 n 
+0000111097 00000 n 
+0000111243 00000 n 
+0000114384 00000 n 
+0000114530 00000 n 
+0000117046 00000 n 
+0000117192 00000 n 
+0000120230 00000 n 
+0000120376 00000 n 
+0000122914 00000 n 
+0000123060 00000 n 
+0000126296 00000 n 
+0000126442 00000 n 
+0000129240 00000 n 
+0000129386 00000 n 
+0000129984 00000 n 
+0000130082 00000 n 
+trailer
+<< /Size 59 /Root 1 0 R >>
+startxref
+130185
+%%EOF

@@ -1,0 +1,688 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 3137 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Physics | Unit 2: Lasers & Cavity Optics) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 1 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(=== UNIT 2: LASER PHYSICS, CAVITY OPTICS & APPLICATIONS ===) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.1 Interaction of Radiation with Matter) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(LASER is an acronym for Light Amplification by Stimulated Emission of Radiation. Lasers) Tj
+T*
+(emit coherent, monochromatic, highly directional, and intense optical radiation.) Tj
+T*
+(* Three Fundamental Quantum Transitions: Consider two quantized atomic energy levels) Tj
+T*
+(E1 \(ground state\) and E2 \(excited state\), separated by energy Delta E = E2 - E1 =) Tj
+T*
+(h*nu:) Tj
+T*
+(- 1. Induced / Stimulated Absorption: An atom in ground state E1 absorbs an incident) Tj
+T*
+(photon of energy h*nu and transitions to excited state E2. Transition rate: R_abs = B12) Tj
+T*
+(* N1 * u\(nu\), where u\(nu\) is radiation energy density.) Tj
+T*
+(- 2. Spontaneous Emission: An atom in excited state E2 transitions spontaneously to E1) Tj
+T*
+(without external triggering, releasing a photon of energy h*nu in a random direction and) Tj
+T*
+(random phase. Transition rate: R_spont = A21 * N2.) Tj
+T*
+(- 3. Stimulated Emission: An incident trigger photon of energy h*nu interacts with an) Tj
+T*
+(excited atom at E2, inducing it to drop to E1 and emit a SECOND photon that is identical) Tj
+T*
+(in frequency, phase, polarization, and direction of propagation. Transition rate: R_stim) Tj
+T*
+(= B21 * N2 * u\(nu\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.2 Einstein's A and B Coefficients & Thermodynamic Equilibrium) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Albert Einstein \(1917\) derived the fundamental mathematical relations governing laser) Tj
+T*
+(action by considering matter and radiation in thermal equilibrium inside an isothermal) Tj
+T*
+(blackbody enclosure at temperature T:) Tj
+T*
+(* Boltzmann Population Ratio: N2 / N1 = e^\( - \(E2 - E1\) / \(k_B * T\) \) = e^\( - h*nu /) Tj
+T*
+(\(k_B * T\) \).) Tj
+T*
+(* Balance of Absorption and Total Emission: B12 * N1 * u\(nu\) = A21 * N2 + B21 * N2 *) Tj
+T*
+(u\(nu\).) Tj
+T*
+(* Solving for Energy Density u\(nu\): u\(nu\) = A21 / [ \(B12 * N1 / N2\) - B21 ] = \(A21 /) Tj
+T*
+(B21\) / [ \(B12 / B21\) * e^\(h*nu / k_B*T\) - 1 ].) Tj
+T*
+(* Comparison with Planck's Blackbody Radiation Law: u\(nu\) = \(8 * pi * h * nu^3 / c^3\)) Tj
+T*
+(/ [ e^\(h*nu / k_B*T\) - 1 ].) Tj
+T*
+(* Einstein Relations: \(1\) B12 = B21 \(Probability of stimulated absorption equals) Tj
+T*
+(probability of stimulated emission\).) Tj
+T*
+(\(2\) A21 / B21 = \(8 * pi * h * nu^3\) / c^3. The ratio of spontaneous to stimulated) Tj
+T*
+(emission is proportional to the cube of optical frequency \(nu^3\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.3 Population Inversion and Pumping Mechanisms) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(In thermal equilibrium, Boltzmann statistics dictates N2 << N1 \(absorption dominates,) Tj
+T*
+(light is attenuated\).) Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 3450 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Physics | Unit 2: Lasers & Cavity Optics) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 2 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(* Population Inversion: A non-equilibrium state where the population of the upper) Tj
+T*
+(excited state exceeds the ground state: N2 > N1. Light passing through the medium is) Tj
+T*
+(amplified exponentially: I\(x\) = I_0 * e^\(gamma * x\).) Tj
+T*
+(* Metastable State: An atomic excited state having an exceptionally long radiative) Tj
+T*
+(lifetime \(tau ~ 10^-3 to 10^-2 s, compared to ordinary states with tau ~ 10^-8 s\).) Tj
+T*
+(Acts as a population storage reservoir.) Tj
+T*
+(* Pumping Methods: External energy delivery to achieve population inversion: \(1\)) Tj
+T*
+(Optical Pumping \(flashlamps for Ruby and Nd:YAG\), \(2\) Electrical Discharge / Electron) Tj
+T*
+(Collision \(He-Ne and CO2 lasers\), \(3\) Direct Carrier Injection \(Semiconductor diode) Tj
+T*
+(lasers\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.4 Optical Resonant Cavities and Threshold Condition) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(An optical resonator consists of a pair of aligned mirrors \(one 100% reflecting, one) Tj
+T*
+(partially transmitting ~95-99% reflecting\) enclosing the active gain medium:) Tj
+T*
+(* Threshold Gain Coefficient \(g_th\): Amplification per round-trip must balance) Tj
+T*
+(internal absorption losses \(alpha_s\) and output mirror transmission losses:) Tj
+T*
+(Round-trip gain condition: R1 * R2 * e^\( \(2 * g_th - 2 * alpha_s\) * L \) = 1.) Tj
+T*
+(Formula: g_th = alpha_s + \(1 / \(2 * L\)\) * ln\( 1 / \(R1 * R2\) \).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.5 Engineering Construction of Important Laser Systems) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* 1. Ruby Laser: Three-level solid-state laser. Active medium is a synthetic corundum) Tj
+T*
+(crystal rod \(Al2O3 doped with 0.05% Cr3+ ions\). Optical pumping via helical xenon) Tj
+T*
+(flashlamp \(green 550 nm and violet 410 nm bands\). Transitions from 2E metastable) Tj
+T*
+(level to ground state produce pulsed deep red laser output at lambda = 694.3 nm.) Tj
+T*
+(* 2. Helium-Neon \(He-Ne\) Laser: Four-level continuous-wave gas laser. Gas mixture) Tj
+T*
+(10:1 ratio of He to Ne at ~1 Torr inside quartz tube. Electrical discharge excites He) Tj
+T*
+(atoms to 2^1S and 2^3S metastable levels via electron impact. Resonant resonant) Tj
+T*
+(collision transfers energy to identical energy levels of Ne \(3s and 2s\). Radiative) Tj
+T*
+(cascade from 3s2 to 2p4 yields stable continuous red laser light at lambda = 632.8) Tj
+T*
+(nm.) Tj
+T*
+(* 3. Semiconductor Diode Laser: Heavily doped p-n junction \(e.g. GaAs / AlGaAs\).) Tj
+T*
+(Forward biasing injects high concentrations of electrons and holes into the active) Tj
+T*
+(depletion layer, where direct band-to-band recombination emits stimulated coherent) Tj
+T*
+(infrared/optical radiation.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.6 Civil and Surveying Engineering Applications of Lasers) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Laser Distance Measurement \(EDM & Total Station\): Measures time-of-flight or phase) Tj
+T*
+(shift of modulated laser beams for millimeter-accuracy geodetic surveying.) Tj
+T*
+(* LIDAR \(Light Detection and Ranging\): Airborne and terrestrial 3D laser scanning) Tj
+T*
+(generates high-density digital elevation models \(DEM\) for highway corridors,) Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 3693 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Physics | Unit 2: Lasers & Cavity Optics) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 3 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(landslides, and flood modeling.) Tj
+T*
+(* Tunneling and High-Rise Construction Alignment: Narrow laser beams guide tunnel) Tj
+T*
+(boring machines \(TBM\) over multi-kilometer underground drives with sub-centimeter) Tj
+T*
+(alignment accuracy.) Tj
+T*
+(* Structural Health Monitoring: Laser Doppler vibrometry non-contact measurement of) Tj
+T*
+(dynamic vibrations and modal frequencies of long-span bridges.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([EXAMPLE 1: Ratio of Spontaneous to Stimulated Emission at Room Temperature]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: An optical transition produces visible red light at wavelength lambda =) Tj
+T*
+(632.8 nm \(He-Ne laser\). Calculate the ratio of spontaneous emission rate to stimulated) Tj
+T*
+(emission rate at room temperature \(T = 300 K\). State why population inversion cannot) Tj
+T*
+(occur in thermal equilibrium.) Tj
+T*
+(Solution Step 1: Compute Transition Frequency nu and Photon Energy h*nu:) Tj
+T*
+(nu = c / lambda = \(3.0 * 10^8 m/s\) / \(632.8 * 10^-9 m\) = 4.741 * 10^14 Hz.) Tj
+T*
+(Photon energy Delta E = h * nu = \(6.626 * 10^-34 J-s\) * \(4.741 * 10^14 s^-1\) = 3.141 *) Tj
+T*
+(10^-19 J.) Tj
+T*
+(In electron-volts: Delta E = 3.141 * 10^-19 / \(1.602 * 10^-19\) = 1.961 eV.) Tj
+T*
+(Solution Step 2: Compute Thermal Energy k_B * T at 300 K:) Tj
+T*
+(k_B * T = \(1.381 * 10^-23 J/K\) * 300 K = 4.143 * 10^-21 J = 0.02586 eV \(~ 26 meV\).) Tj
+T*
+(Solution Step 3: Compute the Ratio \(R_spont / R_stim\):) Tj
+T*
+(R_spont / R_stim = A21 / \(B21 * u\(nu\)\) = e^\(h*nu / k_B*T\) - 1.) Tj
+T*
+(Exponent: h*nu / \(k_B*T\) = 1.961 eV / 0.02586 eV = 75.83.) Tj
+T*
+(R_spont / R_stim = e^\(75.83\) - 1 ~= 8.56 * 10^32.) Tj
+T*
+(Conclusion: Spontaneous emission exceeds stimulated emission by 10^32 times at thermal) Tj
+T*
+(equilibrium! Stimulated emission is completely negligible under normal thermal) Tj
+T*
+(conditions, proving that lasers require active non-equilibrium pumping.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([EXAMPLE 2: Threshold Gain Coefficient for a Laser Cavity]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: A semiconductor laser has an active cavity length L = 500 micrometers) Tj
+T*
+(\(0.50 mm\). The internal scattering loss coefficient is alpha_s = 10 cm^-1 \(1000 m^-1\).) Tj
+T*
+(The cleaved end facets act as mirrors with reflection coefficients R1 = R2 = 0.32.) Tj
+T*
+(Calculate: \(1\) Threshold gain coefficient g_th, \(2\) If length is doubled to L = 1000) Tj
+T*
+(micrometers, calculate the new threshold gain.) Tj
+T*
+(Solution Step 1: Formula for Threshold Gain:) Tj
+T*
+(g_th = alpha_s + \(1 / \(2 * L\)\) * ln\( 1 / \(R1 * R2\) \).) Tj
+T*
+(Mirror product R1 * R2 = 0.32 * 0.32 = 0.1024.) Tj
+T*
+(ln\(1 / 0.1024\) = ln\(9.7656\) = 2.2789.) Tj
+T*
+(Solution Step 2: Calculate g_th for L = 500 micrometers \(0.050 cm\):) Tj
+T*
+(Mirror loss term = \(1 / \(2 * 0.050 cm\)\) * 2.2789 = 10.0 * 2.2789 = 22.79 cm^-1.) Tj
+T*
+(g_th = 10.0 + 22.79 = 32.79 cm^-1 \(3279 m^-1\).) Tj
+T*
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 3668 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Physics | Unit 2: Lasers & Cavity Optics) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 4 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(Solution Step 3: Calculate g_th for L = 1000 micrometers \(0.10 cm\):) Tj
+T*
+(Mirror loss term = \(1 / \(2 * 0.10 cm\)\) * 2.2789 = 5.0 * 2.2789 = 11.39 cm^-1.) Tj
+T*
+(g_th_new = 10.0 + 11.39 = 21.39 cm^-1 \(2139 m^-1\).) Tj
+T*
+(Conclusion: Doubling cavity length reduces mirror transmission losses per unit length,) Tj
+T*
+(lowering threshold gain requirement from 32.79 cm^-1 to 21.39 cm^-1.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([EXAMPLE 3: He-Ne Laser Beam Divergence and Spot Size on Target]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: A civil engineering tunnel alignment He-Ne laser \(lambda = 632.8 nm\)) Tj
+T*
+(emits a Gaussian laser beam with an initial beam waist diameter 2*w_0 = 1.2 mm and power) Tj
+T*
+(P = 5.0 mW. Calculate: \(1\) Beam divergence half-angle theta_div, \(2\) Beam spot diameter) Tj
+T*
+(at a distance D = 2.5 km down a tunnel, \(3\) Optical power density \(intensity\) at the) Tj
+T*
+(target.) Tj
+T*
+(Solution Step 1: Beam Waist Radius and Divergence Angle:) Tj
+T*
+(Waist radius w_0 = 1.2 mm / 2 = 0.60 mm = 6.0 * 10^-4 m.) Tj
+T*
+(Divergence half-angle \(diffraction limit\): theta_div = lambda / \(pi * w_0\) = \(632.8 *) Tj
+T*
+(10^-9 m\) / \(pi * 6.0 * 10^-4 m\) = 3.357 * 10^-4 radians \(0.336 mrad\).) Tj
+T*
+(Solution Step 2: Spot Diameter at Distance D = 2500 m:) Tj
+T*
+(Beam spot radius at distance D: w\(D\) ~= theta_div * D = \(3.357 * 10^-4 rad\) * 2500 m =) Tj
+T*
+(0.8393 m.) Tj
+T*
+(Spot diameter 2*w\(D\) = 2 * 0.8393 = 1.679 m \(~ 1.68 m\).) Tj
+T*
+(Solution Step 3: Optical Power Density at Target:) Tj
+T*
+(Cross-sectional spot area A = pi * \(w\(D\)\)^2 = pi * \(0.8393\)^2 = 2.213 m^2.) Tj
+T*
+(Average Intensity I = Power / Area = 5.0 * 10^-3 W / 2.213 m^2 = 2.26 * 10^-3 W/m^2 =) Tj
+T*
+(2.26 mW/m^2.) Tj
+T*
+(Conclusion: Divergence angle = 0.336 mrad; Beam spot diameter at 2.5 km = 1.68 m; Target) Tj
+T*
+(intensity = 2.26 mW/m^2.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([EXAMPLE 4: Temporal Coherence and Coherence Length of Laser Diode]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: A distributed feedback \(DFB\) laser diode used in fiber optic structural) Tj
+T*
+(strain sensing has a center emission wavelength lambda_0 = 1550 nm and a narrow spectral) Tj
+T*
+(line width Delta lambda = 0.02 nm. Calculate: \(1\) Spectral frequency bandwidth Delta nu,) Tj
+T*
+(\(2\) Coherence time tau_c, \(3\) Coherence length L_c in free space.) Tj
+T*
+(Solution Step 1: Frequency Bandwidth Delta nu:) Tj
+T*
+(Relation between wavelength spread and frequency spread: Delta nu = \(c / lambda_0^2\) *) Tj
+T*
+(Delta lambda.) Tj
+T*
+(Delta nu = [ \(3.0 * 10^8 m/s\) / \(1550 * 10^-9 m\)^2 ] * \(0.02 * 10^-9 m\).) Tj
+T*
+(Delta nu = \(3.0 * 10^8 / 2.4025 * 10^-12\) * 2.0 * 10^-11 = 1.2487 * 10^20 * 2.0 * 10^-11) Tj
+T*
+(= 2.497 * 10^9 Hz = 2.50 GHz.) Tj
+T*
+(Solution Step 2: Coherence Time tau_c:) Tj
+T*
+(tau_c = 1 / Delta nu = 1 / \(2.497 * 10^9 s^-1\) = 4.004 * 10^-10 s = 0.40 nanoseconds.) Tj
+T*
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 3481 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Physics | Unit 2: Lasers & Cavity Optics) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 5 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(Solution Step 3: Coherence Length L_c:) Tj
+T*
+(L_c = c * tau_c = c / Delta nu = lambda_0^2 / Delta lambda.) Tj
+T*
+(L_c = \(1550 * 10^-9\)^2 / \(0.02 * 10^-9\) = 2.4025 * 10^-12 / 2.0 * 10^-11 = 0.1201 m =) Tj
+T*
+(12.01 cm.) Tj
+T*
+(Conclusion: Frequency bandwidth = 2.50 GHz; Coherence time = 0.40 ns; Coherence length) Tj
+T*
+(L_c = 12.01 cm.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.7 University Review & Examination Questions) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Q1: Derive Einstein's relations for radiation-matter interaction and explain why) Tj
+T*
+(stimulated emission dominates over spontaneous emission in lasers.) Tj
+T*
+(Answer: Under thermal equilibrium at temperature T, the rate of upward transitions) Tj
+T*
+(\(absorption\) must equal downward transitions \(spontaneous + stimulated emission\):) Tj
+T*
+(B12*N1*u\(nu\) = A21*N2 + B21*N2*u\(nu\). Solving for u\(nu\) and matching with Planck's) Tj
+T*
+(formula u\(nu\) = \(8*pi*h*nu^3/c^3\) / [e^\(h*nu/kT\) - 1] yields two Einstein relations: \(1\)) Tj
+T*
+(B12 = B21 \(stimulated absorption and emission coefficients are identical\). \(2\) A21/B21 =) Tj
+T*
+(8*pi*h*nu^3/c^3. In thermal equilibrium, A21/\(B21*u\(nu\)\) = e^\(h*nu/kT\) - 1 >> 1 for) Tj
+T*
+(optical frequencies, meaning spontaneous emission completely drowns stimulated emission.) Tj
+T*
+(In a laser, external pumping creates population inversion \(N2 >> N1\) and high resonant) Tj
+T*
+(cavity photon density u\(nu\), making stimulated emission overwhelmingly dominant.) Tj
+T*
+(* Q2: Explain the construction and four-level working principle of the Helium-Neon) Tj
+T*
+(\(He-Ne\) gas laser with an energy level diagram.) Tj
+T*
+(Answer: Construction: A He-Ne laser comprises a narrow bore quartz discharge tube filled) Tj
+T*
+(with helium and neon gas in a 10:1 ratio at low pressure \(~1 mm Hg\). Electrodes ignite) Tj
+T*
+(an electrical glow discharge. Two optical cavity mirrors \(one 100% reflector, one ~99%) Tj
+T*
+(output coupler\) terminate the tube. Working Principle: Electrons in discharge collide) Tj
+T*
+(with ground-state Helium atoms, exciting them to long-lived 2^1S and 2^3S metastable) Tj
+T*
+(levels. Because neon has 3s and 2s levels of nearly identical energy \(within 0.05 eV\),) Tj
+T*
+(resonant energy transfer occurs during inelastic atomic collisions: He* + Ne -> He +) Tj
+T*
+(Ne*. This rapidly pumps neon into 3s states, establishing population inversion relative) Tj
+T*
+(to the lower 2p states. Stimulated radiative transitions from 3s2 to 2p4 emit the iconic) Tj
+T*
+(632.8 nm red laser beam. Neon then drops rapidly to 1s via spontaneous emission and) Tj
+T*
+(returns to ground state by wall collisions.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.8 Key Takeaways and Revision Points) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Lasers require three elements: Active gain medium, Pumping source, Optical resonant) Tj
+T*
+(cavity.) Tj
+T*
+(* Population inversion \(N2 > N1\) requires metastable states and active energy) Tj
+T*
+(pumping.) Tj
+T*
+(* Einstein relation A21/B21 = 8*pi*h*nu^3/c^3 shows spontaneous emission scales with) Tj
+T*
+(nu^3.) Tj
+T*
+(* In civil engineering, lasers enable sub-millimeter precision in LIDAR, Total) Tj
+T*
+(Stations, and tunneling.) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000171 00000 n 
+0000000241 00000 n 
+0000000316 00000 n 
+0000000428 00000 n 
+0000003617 00000 n 
+0000003729 00000 n 
+0000007231 00000 n 
+0000007344 00000 n 
+0000011090 00000 n 
+0000011204 00000 n 
+0000014925 00000 n 
+0000015039 00000 n 
+trailer
+<< /Size 15 /Root 1 0 R >>
+startxref
+18573
+%%EOF

@@ -1,0 +1,768 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 6 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 3248 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Physics | Unit 6: Solid State & Band Theory) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 1 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(=== UNIT 6: SOLID STATE PHYSICS, CRYSTALLOGRAPHY & BAND THEORY ===) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.1 Crystal Geometry, Lattices, and Unit Cells) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Solid state physics studies the microscopic atomic architecture and macroscopic physical) Tj
+T*
+(properties of condensed matter. In civil materials science, crystal structure governs) Tj
+T*
+(the strength of steel rebar, hydration of Portland cement, and stability of soil clay) Tj
+T*
+(minerals.) Tj
+T*
+(* Crystal Lattice: An infinite periodic mathematical array of geometric points in 3D) Tj
+T*
+(space, where every lattice point has surroundings identical to every other point.) Tj
+T*
+(* Basis \(Motif\): An atom, ion, or group of atoms attached identically to every) Tj
+T*
+(lattice point: Crystal Structure = Lattice + Basis.) Tj
+T*
+(* Unit Cell: The fundamental repeating volumetric building block of a crystal that) Tj
+T*
+(reproduces the entire crystal lattice upon repeated spatial translations by primitive) Tj
+T*
+(vectors a, b, c.) Tj
+T*
+(* Primitive Cell: A minimum-volume unit cell containing strictly ONE lattice point.) Tj
+T*
+(* Bravais Lattices: In 3D space, exactly 14 unique Bravais lattices exist,) Tj
+T*
+(categorized into Seven Crystal Systems: \(1\) Cubic, \(2\) Tetragonal, \(3\) Orthorhombic,) Tj
+T*
+(\(4\) Rhombohedral \(Trigonal\), \(5\) Hexagonal, \(6\) Monoclinic, \(7\) Triclinic.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.2 Cubic Crystal Structures: SC, BCC, and FCC) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* 1. Simple Cubic \(SC\): Lattice points at 8 corners. Total atoms per cell: N = 8 *) Tj
+T*
+(\(1/8\) = 1. Coordination Number = 6. Nearest neighbor distance: 2*r = a. Atomic) Tj
+T*
+(Packing Factor: APF = pi / 6 ~= 0.52 \(52%\).) Tj
+T*
+(* 2. Body-Centered Cubic \(BCC\): Points at 8 corners + 1 at body center \(e.g.,) Tj
+T*
+(alpha-Ferrite steel at room temp\). Atoms per cell: N = 8*\(1/8\) + 1 = 2. Coordination) Tj
+T*
+(Number = 8. Body diagonal: 4*r = a * sqrt\(3\) => r = a * sqrt\(3\) / 4. APF = pi *) Tj
+T*
+(sqrt\(3\) / 8 ~= 0.68 \(68%\).) Tj
+T*
+(* 3. Face-Centered Cubic \(FCC\): Points at 8 corners + 6 face centers \(e.g., Austenite) Tj
+T*
+(steel, Copper, Aluminum\). Atoms per cell: N = 8*\(1/8\) + 6*\(1/2\) = 4. Coordination) Tj
+T*
+(Number = 12. Face diagonal: 4*r = a * sqrt\(2\) => r = a * sqrt\(2\) / 4. APF = pi *) Tj
+T*
+(sqrt\(2\) / 6 ~= 0.74 \(74%, close-packed\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.3 Miller Indices of Crystallographic Planes) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Miller indices \(hkl\) uniquely define orientation of crystal lattice planes:) Tj
+T*
+(* Determination Algorithm:) Tj
+T*
+(- Step 1: Determine intercepts of the plane along crystallographic axes in terms of) Tj
+T*
+(lattice constants: \(p*a, q*b, r*c\).) Tj
+T*
+(- Step 2: Take reciprocals of intercept multipliers: \(1/p, 1/q, 1/r\). \(If plane is) Tj
+T*
+(parallel to an axis, intercept is infinity => reciprocal is 0\).) Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 3165 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Physics | Unit 6: Solid State & Band Theory) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 2 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(- Step 3: Clear fractions by multiplying by least common denominator \(LCD\) to obtain) Tj
+T*
+(smallest integers: \(h, k, l\).) Tj
+T*
+(- Step 4: Enclose in parentheses without commas: \(h k l\). Negative intercepts indicated) Tj
+T*
+(by a bar over index: \(h bar-k l\).) Tj
+T*
+(* Interplanar Spacing \(d_hkl\): Perpendicular distance between adjacent parallel) Tj
+T*
+(planes in a cubic crystal of lattice constant a:) Tj
+T*
+(Formula: d_hkl = a / sqrt\( h^2 + k^2 + l^2 \).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.4 X-Ray Diffraction and Bragg's Law) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(X-rays have wavelengths \(lambda ~ 0.1 nm\) comparable to interatomic lattice spacings,) Tj
+T*
+(producing coherent constructive diffraction interference:) Tj
+T*
+(* Bragg's Law of Diffraction: Consider two parallel lattice planes separated by) Tj
+T*
+(distance d. Path difference between rays reflected from adjacent planes is 2 * d *) Tj
+T*
+(sin\(theta\):) Tj
+T*
+(Constructive Interference Condition: 2 * d * sin\(theta\) = n * lambda, where theta is) Tj
+T*
+(Bragg glancing angle and n is diffraction order \(n = 1, 2, ...\).) Tj
+T*
+(* Powder Method: Monochromatic X-rays incident on powdered polycrystalline sample) Tj
+T*
+(produce concentric diffraction cones recorded on Debye-Scherrer photographic film or) Tj
+T*
+(diffractometer detector.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.5 Free Electron Theory of Metals) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* 1. Classical Drude-Lorentz Model: Assumed valence electrons form an ideal classical) Tj
+T*
+(gas obeying Maxwell-Boltzmann statistics. Successfully explained Ohm's law, but) Tj
+T*
+(failed catastrophically to predict electronic specific heat and Wiedemann-Franz ratio) Tj
+T*
+(at low temperatures.) Tj
+T*
+(* 2. Quantum Sommerfeld Free Electron Theory: Incorporates Pauli Exclusion Principle) Tj
+T*
+(and Fermi-Dirac Statistics:) Tj
+T*
+(- Fermi-Dirac Distribution Function: Probability f\(E\) that a quantum state of energy E) Tj
+T*
+(is occupied by an electron at temperature T:) Tj
+T*
+(Formula: f\(E\) = 1 / [ e^\( \(E - E_F\) / \(k_B * T\) \) + 1 ], where E_F is Fermi Energy.) Tj
+T*
+(- At absolute zero \(T = 0 K\): For E < E_F: f\(E\) = 1.0 \(all states filled\). For E > E_F:) Tj
+T*
+(f\(E\) = 0.0 \(all states empty\).) Tj
+T*
+(- Fermi Energy at 0 K in 3D: E_F0 = \(h_bar^2 / 2m\) * \(3 * pi^2 * n\)^\(2/3\), where n = N /) Tj
+T*
+(V is electron density \(m^-3\).) Tj
+T*
+(- Fermi Velocity: v_F = sqrt\( 2 * E_F / m \). Fermi Temperature: T_F = E_F / k_B.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.6 Band Theory of Solids and Classification of Materials) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(In isolated atoms, electrons occupy sharp discrete energy levels. When atoms condense) Tj
+T*
+(into an ordered crystal lattice, overlapping atomic wave functions and periodic) Tj
+T*
+(electrostatic potentials split discrete levels into continuous Energy Bands:) Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 3806 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Physics | Unit 6: Solid State & Band Theory) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 3 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(* Kronig-Penney Model: Solves Schrodinger equation for 1D periodic square-well) Tj
+T*
+(potential representing crystalline lattice ion cores. Demonstrates mathematically) Tj
+T*
+(that electron energy spectrum divides into Allowed Energy Bands and Forbidden Energy) Tj
+T*
+(Gaps \(Bandgap E_g\).) Tj
+T*
+(* Material Classification based on Band Structure:) Tj
+T*
+(- 1. Conductors \(Metals\): Valence band and conduction band overlap, or conduction band) Tj
+T*
+(is partially filled. Zero bandgap \(E_g = 0\). Electrons easily accelerate into empty) Tj
+T*
+(states under tiny applied electric fields.) Tj
+T*
+(- 2. Semiconductors: Completely filled valence band separated from empty conduction band) Tj
+T*
+(by a small forbidden energy bandgap \(E_g ~ 0.5 to 2.5 eV, e.g. Silicon E_g = 1.1 eV\).) Tj
+T*
+(Thermal excitation at room temperature kicks electrons across bandgap, creating) Tj
+T*
+(conduction electrons and mobile holes.) Tj
+T*
+(- 3. Insulators: Large forbidden bandgap \(E_g > 5.0 eV, e.g. Diamond E_g = 5.4 eV\).) Tj
+T*
+(Thermal energy is insufficient to bridge gap; electrical conductivity is negligible.) Tj
+T*
+(* Concept of Effective Mass \(m*\): Incorporates the dynamic influence of internal) Tj
+T*
+(periodic crystalline lattice forces into electron acceleration under external field:) Tj
+T*
+(m* = h_bar^2 / \(d^2E / dk^2\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([EXAMPLE 1: Bragg's Law X-Ray Diffraction on Copper FCC Crystal]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Copper crystallizes in an FCC lattice. An X-ray diffractometer using) Tj
+T*
+(Cu-K_alpha radiation of wavelength lambda = 0.1542 nm \(1.542 Angstroms\) records the) Tj
+T*
+(first-order \(n = 1\) reflection peak from the \(1 1 1\) planes at glancing Bragg angle) Tj
+T*
+(theta = 21.65 deg. Calculate: \(1\) Interplanar spacing d_111, \(2\) Lattice parameter a of) Tj
+T*
+(copper, \(3\) Atomic radius r of copper, \(4\) Density of copper \(Atomic weight = 63.55) Tj
+T*
+(g/mol, N_A = 6.022 * 10^23 mol^-1\).) Tj
+T*
+(Solution Step 1: Compute Interplanar Spacing d_111 using Bragg's Law:) Tj
+T*
+(2 * d * sin\(theta\) = n * lambda => d_111 = \(1 * 0.1542 nm\) / \(2 * sin\(21.65\)\).) Tj
+T*
+(sin\(21.65 deg\) = 0.3689.) Tj
+T*
+(d_111 = 0.1542 / \(2 * 0.3689\) = 0.1542 / 0.7378 = 0.2090 nm \(2.090 Angstroms\).) Tj
+T*
+(Solution Step 2: Compute Lattice Parameter a:) Tj
+T*
+(d_hkl = a / sqrt\(h^2 + k^2 + l^2\) => a = d_111 * sqrt\(1^2 + 1^2 + 1^2\) = d_111 *) Tj
+T*
+(sqrt\(3\).) Tj
+T*
+(a = 0.2090 nm * 1.73205 = 0.3620 nm = 3.620 * 10^-10 m \(3.620 Angstroms\).) Tj
+T*
+(Solution Step 3: Compute Atomic Radius r for FCC \(4*r = a*sqrt\(2\)\):) Tj
+T*
+(r = a * sqrt\(2\) / 4 = 0.3620 nm * 1.4142 / 4 = 0.1280 nm = 1.280 Angstroms.) Tj
+T*
+(Solution Step 4: Compute Theoretical Mass Density rho:) Tj
+T*
+(FCC unit cell contains n_atoms = 4 atoms.) Tj
+T*
+(Unit cell volume V_cell = a^3 = \(3.620 * 10^-8 cm\)^3 = 4.7438 * 10^-23 cm^3.) Tj
+T*
+(Mass of unit cell = \(n_atoms * Atomic Weight\) / N_A = \(4 * 63.55 g\) / \(6.022 * 10^23\) =) Tj
+T*
+(4.221 * 10^-22 g.) Tj
+T*
+(rho = Mass / Volume = 4.221 * 10^-22 g / \(4.7438 * 10^-23 cm^3\) = 8.898 g/cm^3 = 8898) Tj
+T*
+(kg/m^3 \(matches empirical value of 8900 kg/m^3\).) Tj
+T*
+(Conclusion: d_111 = 0.209 nm; lattice parameter a = 0.362 nm; atomic radius r = 0.128) Tj
+T*
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 3267 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Physics | Unit 6: Solid State & Band Theory) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 4 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(nm; density = 8898 kg/m^3.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([EXAMPLE 2: Determination of Miller Indices of Crystallographic Planes]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: A crystallographic plane in a simple orthorhombic lattice has) Tj
+T*
+(intercepts at 2a along x-axis, 3b along y-axis, and is parallel to the z-axis \(intercept) Tj
+T*
+(= infinity\). A second plane intersects axes at 3a, -2b, and 1c. Determine the Miller) Tj
+T*
+(indices for both planes.) Tj
+T*
+(Solution Step 1: Plane 1 Analysis:) Tj
+T*
+(Intercepts: \(2a, 3b, infinity*c\).) Tj
+T*
+(Divide by unit cell dimensions: \(2, 3, infinity\).) Tj
+T*
+(Take reciprocals: \(1/2, 1/3, 1/infinity\) = \(1/2, 1/3, 0\).) Tj
+T*
+(Multiply by LCM \(6\): \(3, 2, 0\).) Tj
+T*
+(Miller Indices for Plane 1: \(3 2 0\).) Tj
+T*
+(Solution Step 2: Plane 2 Analysis:) Tj
+T*
+(Intercepts: \(3a, -2b, 1c\).) Tj
+T*
+(Divide by unit cell dimensions: \(3, -2, 1\).) Tj
+T*
+(Take reciprocals: \(1/3, -1/2, 1/1\).) Tj
+T*
+(Multiply by LCM \(6\): \(2, -3, 6\).) Tj
+T*
+(Represent negative index with bar: \(2 bar-3 6\).) Tj
+T*
+(Miller Indices for Plane 2: \(2 3_bar 6\).) Tj
+T*
+(Conclusion: Plane 1 = \(3 2 0\); Plane 2 = \(2 -3 6\) or \(2 3_bar 6\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([EXAMPLE 3: Fermi Energy, Velocity and Temperature in Copper]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Copper is monovalent with one free conduction electron per atom. Free) Tj
+T*
+(electron density is n = 8.49 * 10^28 m^-3. Calculate: \(1\) Fermi Energy E_F at 0 K in) Tj
+T*
+(Joules and electron-volts, \(2\) Fermi Velocity v_F of electrons at Fermi surface, \(3\)) Tj
+T*
+(Fermi Temperature T_F.) Tj
+T*
+(Solution Step 1: Compute Fermi Energy E_F:) Tj
+T*
+(E_F = \(h_bar^2 / 2*m_e\) * \(3 * pi^2 * n\)^\(2/3\).) Tj
+T*
+(h_bar = 1.05457 * 10^-34 J-s; m_e = 9.109 * 10^-31 kg.) Tj
+T*
+(Constant term: h_bar^2 / \(2 * m_e\) = \(1.05457 * 10^-34\)^2 / \(2 * 9.109 * 10^-31\) = 6.104) Tj
+T*
+(* 10^-39 J-m^2.) Tj
+T*
+(3 * pi^2 * n = 3 * \(3.14159\)^2 * 8.49 * 10^28 = 29.6088 * 8.49 * 10^28 = 2.5138 * 10^30) Tj
+T*
+(m^-3.) Tj
+T*
+(\(2.5138 * 10^30\)^\(2/3\) = [ \(2.5138\)^\(2/3\) ] * 10^20 = 1.8488 * 10^20 m^-2.) Tj
+T*
+(E_F = \(6.104 * 10^-39\) * \(1.8488 * 10^20\) = 1.1285 * 10^-18 Joules.) Tj
+T*
+(In eV: E_F = 1.1285 * 10^-18 J / \(1.6022 * 10^-19 J/eV\) = 7.043 eV.) Tj
+T*
+(Solution Step 2: Compute Fermi Velocity v_F:) Tj
+T*
+(0.5 * m_e * v_F^2 = E_F => v_F = sqrt\( 2 * E_F / m_e \).) Tj
+T*
+(v_F = sqrt\( 2 * 1.1285 * 10^-18 / 9.109 * 10^-31 \) = sqrt\( 2.4777 * 10^12 \) = 1.574 *) Tj
+T*
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 3622 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Physics | Unit 6: Solid State & Band Theory) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 5 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(10^6 m/s \(~ 1574 km/s\).) Tj
+T*
+(Solution Step 3: Compute Fermi Temperature T_F:) Tj
+T*
+(T_F = E_F / k_B = 1.1285 * 10^-18 J / \(1.3806 * 10^-23 J/K\) = 81,740 Kelvin.) Tj
+T*
+(Conclusion: Fermi Energy E_F = 7.04 eV; Fermi Velocity v_F = 1.57 * 10^6 m/s; Fermi) Tj
+T*
+(Temperature T_F = 81,740 K.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([EXAMPLE 4: Thermal Electron Occupancy Probability via Fermi-Dirac]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: For a metallic conductor at temperature T = 300 K \(room temp, k_B*T =) Tj
+T*
+(0.02586 eV\), calculate: \(1\) Probability of an electron occupying an energy state at E =) Tj
+T*
+(E_F + 0.05 eV, \(2\) Probability of an empty state \(hole\) at E = E_F - 0.05 eV, \(3\)) Tj
+T*
+(Occupancy probability at E = E_F + 0.05 eV if temperature rises to T = 1200 K \(k_B*T =) Tj
+T*
+(0.10344 eV\).) Tj
+T*
+(Solution Step 1: Occupancy at E = E_F + 0.05 eV at T = 300 K:) Tj
+T*
+(Energy difference Delta E = E - E_F = + 0.05 eV.) Tj
+T*
+(Exponent: \(E - E_F\) / \(k_B * T\) = 0.05 eV / 0.02586 eV = 1.9335.) Tj
+T*
+(f\(E\) = 1 / [ e^\(1.9335\) + 1 ] = 1 / [ 6.9137 + 1 ] = 1 / 7.9137 = 0.1264 \(12.64%\).) Tj
+T*
+(Solution Step 2: Probability of Hole \(Unoccupied state\) at E = E_F - 0.05 eV at T = 300) Tj
+T*
+(K:) Tj
+T*
+(Delta E = E - E_F = - 0.05 eV => Exponent = - 1.9335.) Tj
+T*
+(f\(E\) = 1 / [ e^\(-1.9335\) + 1 ] = 1 / [ 0.1446 + 1 ] = 1 / 1.1446 = 0.8736.) Tj
+T*
+(Probability of hole = 1 - f\(E\) = 1 - 0.8736 = 0.1264 \(12.64%, exactly symmetrical about) Tj
+T*
+(E_F!\).) Tj
+T*
+(Solution Step 3: Occupancy at E = E_F + 0.05 eV at T = 1200 K:) Tj
+T*
+(Exponent = 0.05 eV / 0.10344 eV = 0.4834.) Tj
+T*
+(f\(E\) = 1 / [ e^\(0.4834\) + 1 ] = 1 / [ 1.6216 + 1 ] = 1 / 2.6216 = 0.3814 \(38.14%\).) Tj
+T*
+(Conclusion: At 300 K, occupancy probability at E_F + 0.05 eV is 12.64%; at 1200 K,) Tj
+T*
+(thermal agitation elevates occupancy probability to 38.14%.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.7 University Review & Examination Questions) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Q1: Derive Bragg's Law of X-ray diffraction and explain how it is utilized to) Tj
+T*
+(deduce crystal structures experimentally.) Tj
+T*
+(Answer: Consider parallel crystallographic planes separated by spacing d. Parallel) Tj
+T*
+(monochromatic X-ray beams 1 and 2 strike adjacent planes at glancing angle theta. Ray 2) Tj
+T*
+(penetrates to the second plane and is specularly reflected. Dropping perpendiculars from) Tj
+T*
+(incidence point A onto ray 2 at B and C, the extra path traversed by ray 2 is Delta = AB) Tj
+T*
+(+ AC = d*sin\(theta\) + d*sin\(theta\) = 2*d*sin\(theta\). For constructive interference, this) Tj
+T*
+(path difference must equal an integral multiple of wavelength: 2*d*sin\(theta\) = n*lambda) Tj
+T*
+(\(Bragg's Law\). In experimental crystallography \(X-ray diffractometer\), a sample is) Tj
+T*
+(illuminated with known X-ray wavelength lambda while detector scans angles 2*theta.) Tj
+T*
+(Measuring diffraction peak positions theta directly reveals interplanar spacings d_hkl =) Tj
+T*
+(n*lambda / \(2*sin\(theta\)\). Matching observed d_hkl values against quadratic forms of) Tj
+T*
+ET
+
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 16 0 R >>
+endobj
+16 0 obj
+<< /Length 2096 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Physics | Unit 6: Solid State & Band Theory) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Civil Engineering Study Notes) Tj
+340 0 Td
+(Page 6 of 6) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(crystal systems reveals lattice type \(SC, BCC, FCC\) and lattice parameter a.) Tj
+T*
+(* Q2: Explain the Kronig-Penney model and illustrate how it explains the formation of) Tj
+T*
+(allowed and forbidden energy bands in solids.) Tj
+T*
+(Answer: The Kronig-Penney model idealizes the 1D periodic potential of a crystalline) Tj
+T*
+(lattice as a periodic array of rectangular potential wells and barriers of period \(a +) Tj
+T*
+(b\), where well width is a \(ion core\) and barrier width is b with height V0. Solving the) Tj
+T*
+(1D Schrodinger equation in both regions and applying Bloch theorem \(psi\(x\) =) Tj
+T*
+(u_k\(x\)*e^\(ikx\)\) with boundary continuity leads to the dispersion relation: P * [) Tj
+T*
+(sin\(alpha*a\) / \(alpha*a\) ] + cos\(alpha*a\) = cos\(k*a\), where P = \(m*V0*b*a\) / h_bar^2 is) Tj
+T*
+(barrier strength and alpha = sqrt\(2mE\)/h_bar. Since cos\(ka\) can only assume values) Tj
+T*
+(between -1 and +1, only those electron energies E for which the left-hand function lies) Tj
+T*
+(within [-1, +1] are permitted. Values where the function exceeds [-1, +1] are forbidden,) Tj
+T*
+(forming Forbidden Energy Bandgaps. This explains fundamentally why solids split into) Tj
+T*
+(conductors, semiconductors, and insulators.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 6.8 Key Takeaways and Revision Points) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Bragg's law 2*d*sin\(theta\) = n*lambda governs X-ray crystal diffraction.) Tj
+T*
+(* Interplanar spacing for cubic lattice: d_hkl = a / sqrt\(h^2 + k^2 + l^2\).) Tj
+T*
+(* Fermi energy E_F represents highest filled electron energy level at absolute zero) Tj
+T*
+(\(T = 0 K\).) Tj
+T*
+(* Band theory explains conductivity: Metals have overlapping bands; semiconductors) Tj
+T*
+(have small gap \(E_g ~ 1 eV\); insulators have wide gap \(E_g > 5 eV\).) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000178 00000 n 
+0000000248 00000 n 
+0000000323 00000 n 
+0000000435 00000 n 
+0000003735 00000 n 
+0000003847 00000 n 
+0000007064 00000 n 
+0000007177 00000 n 
+0000011036 00000 n 
+0000011150 00000 n 
+0000014470 00000 n 
+0000014584 00000 n 
+0000018259 00000 n 
+0000018373 00000 n 
+trailer
+<< /Size 17 /Root 1 0 R >>
+startxref
+20522
+%%EOF

@@ -1,0 +1,594 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 3260 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Introduction to Python | Unit 1: Basics, Variables & I/O) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Electronics & Communication Engineering) Tj
+340 0 Td
+(Page 1 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(INTRODUCTION TO PYTHON) Tj
+T*
+(UNIT 1: PYTHON BASICS, VARIABLES, EXPRESSIONS & STATEMENTS) Tj
+T*
+(Curriculum: Lovely Professional University | School of Electronics & Communication) Tj
+T*
+(Engineering) Tj
+T*
+(Reference: Python Programming: Using Problem Solving Approach by Reema Thareja) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 1.1 Python Programming Paradigm and Execution Model) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Python is a modern, high-level, interpreted, dynamically-typed programming language) Tj
+T*
+(created by Guido van Rossum:) Tj
+T*
+(* Key Features: Clean readable syntax \(PEP 8 standard\), automatic memory management) Tj
+T*
+(via garbage collection, dynamically typed \(variables bind to objects, not types\),) Tj
+T*
+(platform independent \(bytecode compiled to .pyc and executed on CPython Virtual) Tj
+T*
+(Machine\).) Tj
+T*
+(* Execution Modes: Interactive Shell \(REPL - Read-Eval-Print Loop\) for rapid) Tj
+T*
+(prototyping vs Script Mode \(.py files\) for structured engineering software.) Tj
+T*
+(* Documentation & Comments: Single-line comments starting with #; multi-line) Tj
+T*
+(documentation strings \(Docstrings\) enclosed in triple quotes \(""" or ''\) accessible) Tj
+T*
+(via help\(\) and __doc__ attribute.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 1.2 Data Types, Dynamic Typing and Variable Memory Model) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Primitive Built-in Types: int \(arbitrary precision integer\), float \(64-bit IEEE 754) Tj
+T*
+(double precision\), bool \(True or False, subclass of int\), complex \(real + imag*1j\),) Tj
+T*
+(str \(immutable Unicode sequence\).) Tj
+T*
+(* Dynamic Typing: Variable names are merely references \(pointers\) to objects in heap) Tj
+T*
+(memory. Reassigning a variable re-binds the pointer to a new object.) Tj
+T*
+(* Inspection Utilities: type\(x\) returns object data type; id\(x\) returns unique memory) Tj
+T*
+(address identity; isinstance\(x, type\) verifies inheritance compatibility.) Tj
+T*
+(* Type Conversion \(Casting\): Implicit casting \(e.g., int + float automatically) Tj
+T*
+(promotes to float\) vs Explicit casting using constructor functions \(int\(\), float\(\),) Tj
+T*
+(str\(\), bool\(\), complex\(\)\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 1.3 Operators, Expressions and Precedence Hierarchy) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* 1. Arithmetic Operators: Addition \(+\), Subtraction \(-\), Multiplication \(*\), True) Tj
+T*
+(Division \(/ yields float\), Floor Division \(// truncates towards negative infinity\),) Tj
+T*
+(Modulus \(% remainder\), Exponentiation \(**\).) Tj
+T*
+(* 2. Relational / Comparison Operators: Equal \(==\), Not Equal \(!=\), Greater Than \(>\),) Tj
+T*
+(Less Than \(<\), Greater/Equal \(>=\), Less/Equal \(<=\). Can be chained: 0 <= x < 10.) Tj
+T*
+(* 3. Logical Operators: and, or, not. Utilize short-circuit evaluation \(x and y) Tj
+T*
+(returns x if x is falsy, otherwise y\).) Tj
+T*
+(* 4. Bitwise Operators: Operates directly on binary bit representations: Bitwise AND) Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 3051 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Introduction to Python | Unit 1: Basics, Variables & I/O) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Electronics & Communication Engineering) Tj
+340 0 Td
+(Page 2 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(\(&\), Bitwise OR \(|\), Bitwise XOR \(^\), Bitwise Inversion \(~x = -\(x + 1\)\), Left Shift) Tj
+T*
+(\(<< equivalent to multiplying by 2^n\), Right Shift \(>> equivalent to integer dividing) Tj
+T*
+(by 2^n\). Essential for embedded microcontroller register programming.) Tj
+T*
+(* 5. Identity & Membership: is, is not \(compares memory addresses id\(a\) == id\(b\)\) vs) Tj
+T*
+(in, not in \(tests membership in sequences\).) Tj
+T*
+(* Precedence Hierarchy: Parentheses \(\) > Exponentiation ** > Unary +,-,~ >) Tj
+T*
+(Multiplication/Division/Modulus *,/,//,% > Addition/Subtraction +,- > Bitwise Shifts) Tj
+T*
+(<<,>> > Bitwise & > Bitwise ^ > Bitwise | > Comparisons ==,!=,<=,>= > Logical not >) Tj
+T*
+(Logical and > Logical or.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 1.4 Standard Input/Output and String Formatting) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Standard Input: input\(prompt\) reads a line from console as a string. Must be) Tj
+T*
+(explicitly wrapped in int\(\) or float\(\) for numerical computations.) Tj
+T*
+(* Standard Output: print\(*objects, sep=' ', end='\\n', file=sys.stdout, flush=False\).) Tj
+T*
+(* Modern String Formatting: f-strings \(Formatted String Literals, introduced in) Tj
+T*
+(Python 3.6\): f"Value: {var:.2f}" evaluates expressions inline with format specifiers.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 1: AC Electrical Power and Complex Impedance Calculator]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Calculate real power, reactive power, apparent power, and power factor) Tj
+T*
+(for an alternating current circuit given voltage V_rms, current I_rms, and phase angle) Tj
+T*
+(theta.) Tj
+T*
+(Python Source Code:) Tj
+T*
+(import math) Tj
+T*
+() Tj
+T*
+(# Input circuit parameters) Tj
+T*
+(v_rms = float\(input\('Enter RMS Voltage \(Volts\): '\)\)) Tj
+T*
+(i_rms = float\(input\('Enter RMS Current \(Amperes\): '\)\)) Tj
+T*
+(theta_deg = float\(input\('Enter Phase Angle \(degrees, + for lag, - for lead\): '\)\)) Tj
+T*
+() Tj
+T*
+(# Convert angle to radians for trigonometric functions) Tj
+T*
+(theta_rad = math.radians\(theta_deg\)) Tj
+T*
+() Tj
+T*
+(# Electrical Power Computations) Tj
+T*
+(p_active = v_rms * i_rms * math.cos\(theta_rad\) # Watts) Tj
+T*
+(q_reactive = v_rms * i_rms * math.sin\(theta_rad\) # VAR) Tj
+T*
+(s_apparent = v_rms * i_rms # VA) Tj
+T*
+(power_factor = math.cos\(theta_rad\)) Tj
+T*
+(pf_nature = 'Lagging \(Inductive\)' if theta_deg > 0 else \('Leading \(Capacitive\)' if) Tj
+T*
+(theta_deg < 0 else 'Unity'\)) Tj
+T*
+() Tj
+T*
+(# Complex Impedance Calculation: Z = V / I) Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 2602 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Introduction to Python | Unit 1: Basics, Variables & I/O) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Electronics & Communication Engineering) Tj
+340 0 Td
+(Page 3 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(z_magnitude = v_rms / i_rms) Tj
+T*
+(z_complex = complex\(z_magnitude * math.cos\(theta_rad\), z_magnitude *) Tj
+T*
+(math.sin\(theta_rad\)\)) Tj
+T*
+() Tj
+T*
+(print\('\\n--- ELECTRICAL POWER & IMPEDANCE REPORT ---'\)) Tj
+T*
+(print\(f'Apparent Power \(S\) : {s_apparent:10.2f} VA'\)) Tj
+T*
+(print\(f'Active Power \(P\) : {p_active:10.2f} Watts'\)) Tj
+T*
+(print\(f'Reactive Power \(Q\) : {q_reactive:10.2f} VAR'\)) Tj
+T*
+(print\(f'Power Factor \(PF\) : {power_factor:10.4f} \({pf_nature}\)'\)) Tj
+T*
+(print\(f'Complex Impedance : {z_complex.real:.2f} + {z_complex.imag:.2f}j Ohms'\)) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 2: Quadratic Equation Solver with Complex Conjugate Roots]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Solve the general quadratic equation a*x^2 + b*x + c = 0, handling real) Tj
+T*
+(distinct roots, repeated roots, and complex conjugate roots.) Tj
+T*
+(Python Source Code:) Tj
+T*
+(import cmath) Tj
+T*
+() Tj
+T*
+(def solve_quadratic\(a, b, c\):) Tj
+T*
+(if a == 0:) Tj
+T*
+(return 'Linear equation: root = ' + str\(-c / b\) if b != 0 else 'Invalid equation') Tj
+T*
+() Tj
+T*
+(# Calculate discriminant: D = b^2 - 4ac) Tj
+T*
+(discriminant = b**2 - 4 * a * c) Tj
+T*
+() Tj
+T*
+(if discriminant > 0:) Tj
+T*
+(r1 = \(-b + discriminant**0.5\) / \(2 * a\)) Tj
+T*
+(r2 = \(-b - discriminant**0.5\) / \(2 * a\)) Tj
+T*
+(return f'Real & Distinct Roots: x1 = {r1:.4f}, x2 = {r2:.4f}') Tj
+T*
+(elif discriminant == 0:) Tj
+T*
+(r = -b / \(2 * a\)) Tj
+T*
+(return f'Real & Repeated Roots: x1 = x2 = {r:.4f}') Tj
+T*
+(else:) Tj
+T*
+(# Complex roots using cmath) Tj
+T*
+(r1 = \(-b + cmath.sqrt\(discriminant\)\) / \(2 * a\)) Tj
+T*
+(r2 = \(-b - cmath.sqrt\(discriminant\)\) / \(2 * a\)) Tj
+T*
+(return f'Complex Conjugate Roots: x1 = {r1.real:.4f} + {r1.imag:.4f}j, x2 =) Tj
+T*
+({r2.real:.4f} + {r2.imag:.4f}j') Tj
+T*
+() Tj
+T*
+(# Demonstration executions) Tj
+T*
+(print\('Case 1 \(Real\):', solve_quadratic\(1, -5, 6\)\)) Tj
+T*
+(print\('Case 2 \(Repeated\):', solve_quadratic\(1, -4, 4\)\)) Tj
+T*
+(print\('Case 3 \(Complex\):', solve_quadratic\(2, 4, 10\)\)) Tj
+T*
+() Tj
+T*
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 2561 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Introduction to Python | Unit 1: Basics, Variables & I/O) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Electronics & Communication Engineering) Tj
+340 0 Td
+(Page 4 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 3: Embedded Microcontroller Register Bit Manipulation]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Demonstrate bitwise masking, bit-setting, bit-clearing, and) Tj
+T*
+(bit-toggling operations on an 8-bit microcontroller GPIO Port register.) Tj
+T*
+(Python Source Code:) Tj
+T*
+(# Initial 8-bit GPIO Data Direction Register \(DDR\): 0b00110100 \(Decimal 52\)) Tj
+T*
+(port_reg = 0b00110100) Tj
+T*
+() Tj
+T*
+(def print_binary\(label, val\):) Tj
+T*
+(print\(f'{label:<25} : 0b{val:08b} \(Decimal {val}\)'\)) Tj
+T*
+() Tj
+T*
+(print_binary\('Initial Register', port_reg\)) Tj
+T*
+() Tj
+T*
+(# 1. SET bit 1 \(Make pin 1 an output\): port_reg |= \(1 << 1\)) Tj
+T*
+(port_reg |= \(1 << 1\)) Tj
+T*
+(print_binary\('After SET Bit 1', port_reg\)) Tj
+T*
+() Tj
+T*
+(# 2. CLEAR bit 5: port_reg &= ~\(1 << 5\)) Tj
+T*
+(port_reg &= ~\(1 << 5\)) Tj
+T*
+(print_binary\('After CLEAR Bit 5', port_reg\)) Tj
+T*
+() Tj
+T*
+(# 3. TOGGLE bit 2: port_reg ^= \(1 << 2\)) Tj
+T*
+(port_reg ^= \(1 << 2\)) Tj
+T*
+(print_binary\('After TOGGLE Bit 2', port_reg\)) Tj
+T*
+() Tj
+T*
+(# 4. READ / TEST bit 4:) Tj
+T*
+(is_bit4_set = bool\(port_reg & \(1 << 4\)\)) Tj
+T*
+(print\(f'Is Bit 4 Set? : {is_bit4_set}'\)) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROGRAM 4: Multi-Scale Temperature Converter with Engineering Table]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-----------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Convert input temperatures between Celsius, Fahrenheit, and Kelvin, and) Tj
+T*
+(output a tabulated thermodynamic calibration chart.) Tj
+T*
+(Python Source Code:) Tj
+T*
+(temps_celsius = [-40.0, 0.0, 25.0, 37.0, 100.0, 200.0]) Tj
+T*
+() Tj
+T*
+(print\(f'{'Celsius \(C\)':<15} | {'Fahrenheit \(F\)':<15} | {'Kelvin \(K\)':<15} | {'State) Tj
+T*
+(Description'}'\)) Tj
+T*
+(print\('-' * 65\)) Tj
+T*
+() Tj
+T*
+(for c in temps_celsius:) Tj
+T*
+(f = \(c * 9/5\) + 32) Tj
+T*
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 584 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Introduction to Python | Unit 1: Basics, Variables & I/O) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | B.Tech Electronics & Communication Engineering) Tj
+340 0 Td
+(Page 5 of 5) Tj
+ET
+BT
+/F1 9 Tf
+13.5 TL
+45 780 Td
+(k = c + 273.15) Tj
+T*
+(desc = 'Freezing Point of Water' if c == 0 else \('Boiling Point' if c == 100 else \('Room) Tj
+T*
+(Temp' if c == 25 else \('Body Temp' if c == 37 else 'Industrial Temp'\)\)\)) Tj
+T*
+(print\(f'{c:<15.2f} | {f:<15.2f} | {k:<15.2f} | {desc}'\)) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000171 00000 n 
+0000000241 00000 n 
+0000000316 00000 n 
+0000000428 00000 n 
+0000003740 00000 n 
+0000003852 00000 n 
+0000006955 00000 n 
+0000007068 00000 n 
+0000009723 00000 n 
+0000009837 00000 n 
+0000012451 00000 n 
+0000012565 00000 n 
+trailer
+<< /Size 15 /Root 1 0 R >>
+startxref
+13201
+%%EOF

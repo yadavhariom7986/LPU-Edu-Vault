@@ -1,0 +1,618 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 /MediaBox [0 0 595 842] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2601 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Drawing & AutoCAD | Unit 2: Projection of Points & Lines) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 1 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+() Tj
+T*
+/F2 10.5 Tf
+(ENGINEERING DRAWING WITH AUTOCAD) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+() Tj
+T*
+/F2 10.5 Tf
+(UNIT 2: PROJECTION OF POINTS AND LINES) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Curriculum: Lovely Professional University | School of Computer Science & Engineering) Tj
+T*
+(Reference: Engineering Drawing with an Introduction to AutoCAD by Dhananjay Jolhe) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.1 Principles of Quadrants and Orthographic Projections) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(Orthographic projection is a parallel projection technique where projection rays are) Tj
+T*
+(perpendicular to the projection plane:) Tj
+T*
+(* Principal Planes of Projection: Horizontal Plane \(HP\) and Vertical Plane \(VP\). The) Tj
+T*
+(intersection line of HP and VP is called the Reference Axis or Ground Line \(XY line\).) Tj
+T*
+(* Four Spatial Quadrants:) Tj
+T*
+(- 1st Quadrant: Above HP, In front of VP \(Observer -> Object -> Plane\). Standard in) Tj
+T*
+(Indian / European engineering.) Tj
+T*
+(- 2nd Quadrant: Above HP, Behind VP \(HP and VP overlap when rotated 90 deg clockwise;) Tj
+T*
+(both views fall above XY\).) Tj
+T*
+(- 3rd Quadrant: Below HP, Behind VP \(Observer -> Plane -> Object\). Standard in American) Tj
+T*
+(/ Canadian engineering.) Tj
+T*
+(- 4th Quadrant: Below HP, In front of VP \(Both views fall below XY line when HP is) Tj
+T*
+(rotated 90 deg clockwise\).) Tj
+T*
+(* Standard Notation Rules:) Tj
+T*
+(- Point in space: Capital letter \(e.g., A, B, P\).) Tj
+T*
+(- Elevation / Front View \(on VP\): Lowercase with prime \(e.g., a'', b'', p''\).) Tj
+T*
+(- Plan / Top View \(on HP\): Lowercase without prime \(e.g., a, b, p\).) Tj
+T*
+(- Side / End View \(on Profile Plane PP\): Lowercase with double prime \(e.g., a'''',) Tj
+T*
+(b''''\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.2 Projection of Points in Different Quadrants) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Case 1: Point in 1st Quadrant \(d1 above HP, d2 in front of VP\): a'' is d1 above XY;) Tj
+T*
+(a is d2 below XY.) Tj
+T*
+(* Case 2: Point in 2nd Quadrant \(d1 above HP, d2 behind VP\): Both a'' \(d1\) and a \(d2\)) Tj
+T*
+(are above XY.) Tj
+T*
+(* Case 3: Point in 3rd Quadrant \(d1 below HP, d2 behind VP\): a is d2 above XY; a'' is) Tj
+T*
+(d1 below XY.) Tj
+T*
+(* Case 4: Point in 4th Quadrant \(d1 below HP, d2 in front of VP\): Both a'' \(d1\) and a) Tj
+T*
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 2807 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Drawing & AutoCAD | Unit 2: Projection of Points & Lines) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 2 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(\(d2\) are below XY.) Tj
+T*
+(* Points in Principal Planes: If on HP, front view a'' lies directly on XY. If on VP,) Tj
+T*
+(top view a lies directly on XY.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.3 Projection of Straight Lines: Geometric Orientations) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(A straight line is the shortest locus between two points in 3D space:) Tj
+T*
+(* 1. Line Parallel to both HP and VP: Both front and top views show True Length \(TL\)) Tj
+T*
+(and are parallel to XY.) Tj
+T*
+(* 2. Line Perpendicular to HP: Top view is a point; Front view is a vertical line) Tj
+T*
+(perpendicular to XY showing True Length.) Tj
+T*
+(* 3. Line Perpendicular to VP: Front view is a point; Top view is a vertical line) Tj
+T*
+(perpendicular to XY showing True Length.) Tj
+T*
+(* 4. Line Inclined to HP and Parallel to VP: Front view shows True Length and true) Tj
+T*
+(inclination angle theta. Top view is shorter than TL \(apparent length\) and parallel) Tj
+T*
+(to XY.) Tj
+T*
+(* 5. Line Inclined to VP and Parallel to HP: Top view shows True Length and true) Tj
+T*
+(inclination angle phi. Front view is apparent length and parallel to XY.) Tj
+T*
+(* 6. Line Inclined to both HP and VP \(Oblique Line\): Neither view shows True Length;) Tj
+T*
+(both views are apparent lengths \(Elevation Length EL and Plan Length PL\) inclined at) Tj
+T*
+(apparent angles alpha and beta.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.4 True Length and Traces of a Line) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* Traces of a Straight Line:) Tj
+T*
+(- Horizontal Trace \(HT\): The point of intersection of the line \(or line produced\) with) Tj
+T*
+(the Horizontal Plane. Since HT lies on HP, its front view h'' lies on the XY line.) Tj
+T*
+(- Vertical Trace \(VT\): The point of intersection of the line \(or line produced\) with the) Tj
+T*
+(Vertical Plane. Since VT lies on VP, its top view v lies on the XY line.) Tj
+T*
+(* Methods to Determine True Length and Inclinations from Projections:) Tj
+T*
+(- 1. Rotating Line Method: Rotate elevation or plan view until parallel to XY line, then) Tj
+T*
+(project to find True Length.) Tj
+T*
+(- 2. Trapezoid Method: Construct right-angled trapezoid using difference in distances of) Tj
+T*
+(endpoints from reference plane.) Tj
+T*
+(- 3. Auxiliary Plane Method: Set up an auxiliary plane parallel to the apparent view.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(>> 2.5 AutoCAD 2D Drawing Commands and Precision Drafting) Tj
+T*
+/F1 9 Tf
+() Tj
+T*
+(* LINE \(L\): Creates straight line segments between coordinate points.) Tj
+T*
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 3229 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Drawing & AutoCAD | Unit 2: Projection of Points & Lines) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 3 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(* CIRCLE \(C\): Options: Center-Radius, Center-Diameter, 2-Point, 3-Point,) Tj
+T*
+(Tan-Tan-Radius \(TTR\).) Tj
+T*
+(* ARC \(A\): 3-point, Start-Center-End, Start-Center-Angle, Start-End-Radius.) Tj
+T*
+(* PLINE \(PL\): Polyline creating single contiguous 2D entity containing line and arc) Tj
+T*
+(segments with varied widths.) Tj
+T*
+(* RECTANG \(REC\): Defined by two diagonal corner coordinates; supports Chamfer,) Tj
+T*
+(Fillet, and Elevation.) Tj
+T*
+(* POLYGON \(POL\): Creates regular multisided polygons \(3 to 1024 sides\) Inscribed in) Tj
+T*
+(circle or Circumscribed about circle.) Tj
+T*
+(* ELLIPSE \(EL\): Generates true mathematical ellipses by defining major axis endpoints) Tj
+T*
+(and half of minor axis length.) Tj
+T*
+(* DIMSTYLE \(D\): Configures dimension styles, text fonts, arrow sizes, precision, and) Tj
+T*
+(tolerance displays.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROBLEM 1: Multi-Quadrant Point Projection Analysis]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Statement: Draw the projections of the following four points on a common) Tj
+T*
+(reference XY line, taking a 30 mm spacing between projectors:) Tj
+T*
+(* Point A: 35 mm above HP and 25 mm in front of VP.) Tj
+T*
+(* Point B: 40 mm above HP and 30 mm behind VP.) Tj
+T*
+(* Point C: 25 mm below HP and 45 mm behind VP.) Tj
+T*
+(* Point D: 30 mm below HP and 20 mm in front of VP.) Tj
+T*
+(Step-by-Step Construction Procedure:) Tj
+T*
+(* 1. Draw horizontal reference line XY.) Tj
+T*
+(* 2. Projector for Point A \(1st Quadrant\): Draw vertical projector line. Mark a'' 35) Tj
+T*
+(mm above XY. Mark a 25 mm below XY.) Tj
+T*
+(* 3. Projector for Point B \(2nd Quadrant, 30 mm right\): Draw vertical projector. Mark) Tj
+T*
+(b'' 40 mm above XY. Mark b 30 mm above XY \(both above XY\).) Tj
+T*
+(* 4. Projector for Point C \(3rd Quadrant, 30 mm right\): Draw vertical projector. Mark) Tj
+T*
+(c 45 mm above XY \(top view\). Mark c'' 25 mm below XY \(front view\).) Tj
+T*
+(* 5. Projector for Point D \(4th Quadrant, 30 mm right\): Draw vertical projector. Mark) Tj
+T*
+(d'' 30 mm below XY. Mark d 20 mm below XY \(both below XY\).) Tj
+T*
+(* 6. Verify with clear dimension callouts and perpendicular construction guidelines.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROBLEM 2: Oblique Straight Line by Rotating Line Method]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Statement: A straight line AB has its end A 15 mm above HP and 20 mm in front of) Tj
+T*
+(VP. The line is 75 mm long \(True Length\). It is inclined at 30 degrees to HP and 45) Tj
+T*
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 3133 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Drawing & AutoCAD | Unit 2: Projection of Points & Lines) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 4 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(degrees to VP. Draw its front view and top view, determine apparent lengths and apparent) Tj
+T*
+(angles, and locate its traces HT and VT.) Tj
+T*
+(Step-by-Step Solution & Rotating Line Protocol:) Tj
+T*
+(* Step 1: Establish Initial Position of Point A:) Tj
+T*
+(- Draw XY line. Mark a'' 15 mm above XY and a 20 mm below XY on the same vertical) Tj
+T*
+(projector.) Tj
+T*
+(* Step 2: Locus Lines of End B:) Tj
+T*
+(- Assume line parallel to VP, inclined at theta = 30 deg to HP: Draw a''b1'' = 75 mm at) Tj
+T*
+(30 deg to horizontal. Height of b1'' gives vertical locus of B: h_B = 15 + 75 x sin\(30\)) Tj
+T*
+(= 15 + 37.5 = 52.5 mm above XY.) Tj
+T*
+(- Assume line parallel to HP, inclined at phi = 45 deg to VP: Draw ab2 = 75 mm at 45 deg) Tj
+T*
+(to horizontal. Distance of b2 gives horizontal locus of B: d_B = 20 + 75 x sin\(45\) = 20) Tj
+T*
+(+ 53.03 = 73.03 mm below XY.) Tj
+T*
+(* Step 3: Project Apparent Lengths:) Tj
+T*
+(- Project b1'' down to horizontal projector through a to get plan length: PL = ab1 = 75) Tj
+T*
+(x cos\(30\) = 64.95 mm.) Tj
+T*
+(- Project b2 up to horizontal projector through a'' to get elevation length: EL =) Tj
+T*
+(a''b2'' = 75 x cos\(45\) = 53.03 mm.) Tj
+T*
+(* Step 4: Final Views by Rotation:) Tj
+T*
+(- Center at a, radius ab1 = 64.95 mm, rotate arc to intersect locus of B \(at 73.03 mm) Tj
+T*
+(below XY\) -> Locate final top view b. Connect a-b.) Tj
+T*
+(- Center at a'', radius a''b2'' = 53.03 mm, rotate arc to intersect locus of B'' \(at) Tj
+T*
+(52.5 mm above XY\) -> Locate final front view b''. Connect a''-b''.) Tj
+T*
+(* Step 5: Verification & Angles:) Tj
+T*
+(- Check that a'' and a lie on the same vertical projector, and b'' and b lie on the same) Tj
+T*
+(vertical projector.) Tj
+T*
+(- Apparent angles measured: alpha approx 45 deg, beta approx 55 deg.) Tj
+T*
+(* Step 6: Traces HT and VT:) Tj
+T*
+(- Extend front view b''a'' to intersect XY at h''. Draw perpendicular projector from h'') Tj
+T*
+(to intersect extended top view ba at HT.) Tj
+T*
+(- Extend top view ba to intersect XY at v. Draw perpendicular projector from v to) Tj
+T*
+(intersect extended front view b''a'' at VT.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROBLEM 3: Finding True Length and Inclinations Given Projections]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Statement: The top view of a 75 mm long line AB measures 55 mm, while the length) Tj
+T*
+(of its front view is 65 mm. End A is in the HP and 15 mm in front of VP. Determine the) Tj
+T*
+(true inclination of the line with HP and VP.) Tj
+T*
+(Mathematical Derivation:) Tj
+T*
+(* 1. Given: TL = 75 mm, PL = 55 mm, EL = 65 mm. End A: a'' on XY \(distance 0 from) Tj
+T*
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 2265 >>
+stream
+BT
+/F2 9.5 Tf
+45 812 Td
+(Engineering Drawing & AutoCAD | Unit 2: Projection of Points & Lines) Tj
+ET
+0.75 w
+45 806 m 550 806 l S
+0.5 w
+45 42 m 550 42 l S
+BT
+/F1 8.5 Tf
+45 30 Td
+(Lovely Professional University | Computer Science & Engineering) Tj
+340 0 Td
+(Page 5 of 5) Tj
+ET
+BT
+/F1 9 Tf
+14 TL
+45 780 Td
+(HP\), a is 15 mm below XY.) Tj
+T*
+(* 2. Calculate true angle with HP \(theta\):) Tj
+T*
+(- cos\(theta\) = PL / TL = 55 / 75 = 0.7333 -> theta = arccos\(0.7333\) = 42.83 degrees.) Tj
+T*
+(* 3. Calculate true angle with VP \(phi\):) Tj
+T*
+(- cos\(phi\) = EL / TL = 65 / 75 = 0.8667 -> phi = arccos\(0.8667\) = 29.93 degrees.) Tj
+T*
+(* 4. Graphical Construction:) Tj
+T*
+(- Draw XY line. Mark a'' on XY, a 15 mm below XY.) Tj
+T*
+(- Draw a''b1'' = 75 mm at 42.83 deg to XY. Draw ab2 = 75 mm at 29.93 deg to XY.) Tj
+T*
+(- Draw locus lines through b1'' and b2, then swing arcs to locate final points b'' and) Tj
+T*
+(b.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+([PROBLEM 4: AutoCAD 2D Drafting Command Sequence for Geometric Plate]) Tj
+T*
+/F1 9 Tf
+/F2 9.5 Tf
+(-------------------------------------------------------------------------------------) Tj
+T*
+/F1 9 Tf
+(Problem Context: Draft a precision regular pentagon \(side 40 mm\) with an inscribed) Tj
+T*
+(circle and circumscribed ellipse, annotated with standard dimension styles.) Tj
+T*
+(AutoCAD Command Execution Log:) Tj
+T*
+(* Step 1: POLYGON -> Enter number of sides: 5 -> Edge option \(E\) -> Specify first) Tj
+T*
+(endpoint: 100,100 -> Specify second endpoint: @40<0.) Tj
+T*
+(* Step 2: CIRCLE -> 3P option -> Select three vertices of the pentagon to draw) Tj
+T*
+(circumscribed circle; or 2P/Tangent to create inscribed circle.) Tj
+T*
+(* Step 3: ELLIPSE -> Axis endpoint 1: 50,100 -> Axis endpoint 2: 190,100 -> Other) Tj
+T*
+(axis distance: 35.) Tj
+T*
+(* Step 4: DIMSTYLE -> Modify -> Symbols and Arrows -> Arrow size: 3.5 -> Text height:) Tj
+T*
+(3.5 -> Fit: Always keep text between ext lines.) Tj
+T*
+(* Step 5: DIMALIGNED -> Select pentagon edge -> Place dimension 10 mm away showing) Tj
+T*
+(40.00 mm.) Tj
+T*
+(* Step 6: DIMDIAMETER -> Select inscribed circle -> Callout generated: dia 55.06 mm.) Tj
+T*
+ET
+
+endstream
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000171 00000 n 
+0000000241 00000 n 
+0000000316 00000 n 
+0000000428 00000 n 
+0000003081 00000 n 
+0000003193 00000 n 
+0000006052 00000 n 
+0000006165 00000 n 
+0000009447 00000 n 
+0000009561 00000 n 
+0000012747 00000 n 
+0000012861 00000 n 
+trailer
+<< /Size 15 /Root 1 0 R >>
+startxref
+15179
+%%EOF
