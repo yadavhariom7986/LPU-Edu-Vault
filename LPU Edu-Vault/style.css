@@ -1,31 +1,30 @@
-/* ==========================================================================
+
    EDU VAULT - STYLESHEET (style.css)
-   Created for: 1st Semester Web Development Project
-   Core Concepts: CSS Variables, Box Model, Flexbox, Grid, Transitions & Hover
+    1st Semester Web Development Project
+    CSS Variables, Box Model, Flexbox, Grid, Transitions & Hover
    ========================================================================== */
 
-/* 1. COLOR THEME & CSS VARIABLES */
 :root {
-    --primary: #2563eb;          /* Main blue for buttons & active elements */
-    --primary-hover: #1d4ed8;    /* Darker blue on mouse hover */
-    --primary-light: #eff6ff;    /* Soft blue tint for backgrounds & hovers */
-    --navy-header: #1e3a8a;      /* Deep navy for portal headings & tables */
-    --text-dark: #1e293b;        /* Charcoal text for titles & cards */
-    --text-body: #475569;        /* Slate text for readable paragraphs */
-    --bg-page: #f8fafc;          /* Light clean page background */
-    --bg-card: #ffffff;          /* Pure white card and table surface */
-    --border-color: #e2e8f0;     /* Subtle light grey border */
-    --radius-sm: 8px;            /* Small rounded corner for buttons */
-    --radius-md: 12px;           /* Medium rounded corner for cards */
+    --primary: #2563eb;          
+    --primary-hover: #1d4ed8;    
+    --primary-light: #eff6ff;    
+    --navy-header: #1e3a8a;     
+    --text-dark: #1e293b;       
+    --text-body: #475569;       
+    --bg-page: #f8fafc;        
+    --bg-card: #ffffff;        
+    --border-color: #e2e8f0;     
+    --radius-sm: 8px;           
+    --radius-md: 12px;         
     --shadow-soft: 0 4px 6px -1px rgba(0, 0, 0, 0.06);
     --shadow-hover: 0 10px 20px -3px rgba(37, 99, 235, 0.18);
 }
 
-/* 2. BASIC RESET & BODY LAYOUT */
+/* 2. BODY LAYOUT */
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;      /* Keeps padding inside total width */
+    box-sizing: border-box;     
 }
 
 body {
@@ -35,7 +34,7 @@ body {
     line-height: 1.6;
     padding: 40px 20px 60px 20px;
     max-width: 1100px;
-    margin: 0 auto;              /* Centers page content horizontally */
+    margin: 0 auto;            
 }
 
 a {
@@ -49,7 +48,7 @@ a:focus-visible {
     outline-offset: 3px;
 }
 
-/* 3. HERO / WELCOME HEADER */
+/* 3. WELCOME HEADER */
 h1:first-of-type {
     text-align: center;
     color: var(--navy-header);
@@ -68,7 +67,7 @@ h3 {
     margin-bottom: 25px;
 }
 
-/* "New in UNI ??" Notification Badge */
+
 h4 {
     display: inline-block;
     background-color: #dbeafe;
@@ -92,7 +91,7 @@ p:first-of-type {
     color: var(--text-dark);
 }
 
-/* Welcome Announcement Card */
+/* Welcome Card */
 body > p:last-of-type {
     background-color: var(--bg-card);
     padding: 20px 24px;
@@ -112,7 +111,7 @@ p u {
     border-radius: 4px;
 }
 
-/* 4. SECTION HEADINGS & DIVIDERS */
+
 h1 {
     color: var(--text-dark);
     font-size: 1.55rem;
@@ -137,7 +136,6 @@ hr {
     margin: 35px 0;
 }
 
-/* 5. RESOURCE CARDS (GRID LAYOUT & HOVER ANIMATION) */
 ul {
     list-style: none;
     display: grid;
@@ -179,7 +177,7 @@ li h2 {
     margin: 0;
 }
 
-/* 6. INTERACTIVE ACTION BUTTONS */
+/* 6. INTERACTIVE BUTTONS */
 li a, td a, .btn {
     display: inline-block;
     padding: 8px 18px;
@@ -205,7 +203,7 @@ li a:active, td a:active, .btn:active {
     box-shadow: 0 2px 4px rgba(37, 99, 235, 0.2);
 }
 
-/* 7. TABLES STYLING (Notes, Books, MCQs & Units) */
+
 table, table[border] {
     width: 100%;
     max-width: 1050px;
@@ -239,7 +237,6 @@ th {
 tr:nth-child(even) { background-color: #f8fafc; }
 tr:hover { background-color: var(--primary-light); transition: background-color 0.2s ease; }
 
-/* Big Button Grid in unit.html tables */
 td a[href*="syllabus.html"] {
     display: block;
     text-align: center;
@@ -248,7 +245,7 @@ td a[href*="syllabus.html"] {
     font-weight: 700;
 }
 
-/* 8. FOOTER (Minimal & Blended) */
+
 footer {
     text-align: center;
     margin-top: 40px;
@@ -272,7 +269,6 @@ footer strong {
     font-weight: 600;
 }
 
-/* 9. RESPONSIVE DESIGN (Mobile & Tablets) */
 @media (max-width: 768px) {
     body { padding: 20px 14px; }
     h1:first-of-type { font-size: 1.8rem; }
